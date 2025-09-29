@@ -1,0 +1,547 @@
+# 20100301 - 067- What an Artist the World is Losing
+# Detected language: en
+# Duration: 1342.07 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:13] Hello, and welcome to the History of Rome, episode 67, What an Artist the World is Losing.
+[00:14 --> 00:19] Nero had dodged a bullet in 65 AD when the far-reaching Peasonian conspiracy was exposed
+[00:19 --> 00:21] before it had a chance to act.
+[00:22 --> 00:26] Thus far, Nero had been living his life with a sort of flippant disregard for
+[00:26 --> 00:30] the aristocracy, obsessed about his standing with the masses, sure, but not really giving
+[00:30 --> 00:33] a hoot what a bunch of crusty old senators thought about him.
+[00:34 --> 00:38] But after the plot was discovered, Nero was exposed to a reality that he had never really
+[00:38 --> 00:39] considered before.
+[00:40 --> 00:44] Not only were powerful men unhappy with him, but they were willing to go to extreme
+[00:44 --> 00:46] lengths to express their unhappiness.
+[00:46 --> 00:50] And not only were they willing to go to extreme lengths to express their unhappiness,
+[00:50 --> 00:54] but except for one lucky break, they had almost gone to them.
+[00:54 --> 01:00] Nero suddenly realized that his reign, and his life, existed in a far more precarious
+[01:00 --> 01:01] place than he had previously thought.
+[01:02 --> 01:07] Now this is the point where a more introspective man, aided by wise counsel, might examine
+[01:07 --> 01:12] the roots of the aristocracy's displeasure and wonder what he, Nero, might be able
+[01:12 --> 01:14] to do to mute their anger.
+[01:14 --> 01:17] Were there things he did that were unnecessarily inflammatory?
+[01:18 --> 01:22] And that, if he knocked off the more extreme stuff, maybe he could avoid perpetually
+[01:22 --> 01:24] dealing with plots against his life?
+[01:25 --> 01:29] But Nero was not an introspective man, and his counsel was not wise.
+[01:30 --> 01:34] So rather than repent his extravagances and grow up a little, he decided to dig
+[01:34 --> 01:35] in his heels.
+[01:35 --> 01:39] And if anyone didn't like it, well, there were always treason trials for the
+[01:39 --> 01:39] incorrigible.
+[01:40 --> 01:45] But as is so often the case, show trials and indiscriminate persecutions create
+[01:45 --> 01:50] far more enemies than they destroy, and in a few short years, Nero will reap the
+[01:50 --> 01:51] full blowback for his actions.
+[01:54 --> 01:59] 65 was not just a bad year for Nero because it was very nearly his last, but also because
+[01:59 --> 02:04] his wife, Papia, mother of his daughter and pregnant with his second, died during
+[02:04 --> 02:04] the summer.
+[02:05 --> 02:09] There are conflicting reports about her death, with some surmising that Papia died
+[02:09 --> 02:12] naturally during childbirth, as often occurred in the ancient world.
+[02:13 --> 02:18] But of course, the more famous and salacious version offered by Suetonius and Tacitus
+[02:18 --> 02:22] is that, over the course of an argument, Nero became enraged and repeatedly kicked
+[02:22 --> 02:26] her in the stomach until she and the unborn child were dead.
+[02:27 --> 02:32] Whichever way it occurred, Nero became almost insane with grief, or remorse depending
+[02:32 --> 02:33] on the version of the story you believe.
+[02:34 --> 02:38] And rather than cremating Papia, he had her stuffed and embalmed so that he could
+[02:38 --> 02:40] visit her in the imperial mausoleum.
+[02:41 --> 02:45] In the years after her death, Nero would delve even deeper into his singing, acting
+[02:45 --> 02:51] and chariot racing career, culminating in 67 with his participation in the Olympic
+[02:51 --> 02:52] Games.
+[02:53 --> 02:57] Despite being thrown and nearly dying from a ten-horse chariot and delivering amateurist
+[02:57 --> 03:02] singing and acting performances, Nero won the victory crowns for every competition
+[03:02 --> 03:02] he entered.
+[03:03 --> 03:05] It was still good to be the king.
+[03:06 --> 03:10] While Nero was off pretending to be some great entertainer, in the Far East the
+[03:10 --> 03:14] Romans became embroiled in what would prove to be the first of several major
+[03:14 --> 03:17] revolts in the combustible province of Judea.
+[03:18 --> 03:22] That the first of these is known simply as the Great Revolt is all you need to know
+[03:22 --> 03:25] about the impact the conflict will have on the history of the world.
+[03:26 --> 03:29] We won't be able to finish the whole thing today as in between the beginning
+[03:29 --> 03:34] and the end of it the whole year of the four emperors things happen, but we can
+[03:34 --> 03:36] at least get it started along its way.
+[03:37 --> 03:41] Trouble had been brewing in Judea from the moment the Romans first showed up in
+[03:41 --> 03:41] the region.
+[03:42 --> 03:45] Pompey the Great had famously entered the Holy of Holies in the Temple of
+[03:45 --> 03:49] Jerusalem over the vehement protests of the high priest, which pretty much got
+[03:49 --> 03:51] the Romans and Jews off on the wrong foot.
+[03:52 --> 03:56] A short-lived revolt had broken out in the middle of Augustus' reign and of
+[03:56 --> 04:00] course Caligula had nearly sparked a revolution when he insisted on having
+[04:00 --> 04:02] a statue of himself placed in the temple.
+[04:03 --> 04:06] But Judea remained relatively calm following the death of Caligula as
+[04:06 --> 04:10] Claudius had done his best to walk the fine line between Roman
+[04:10 --> 04:11] administration and Jewish autonomy.
+[04:13 --> 04:17] But when Nero arrived on the scene he was far less attentive to that line and
+[04:17 --> 04:21] Jewish complaints about Roman rule began to grow, culminating finally in
+[04:21 --> 04:24] what is known as the Great Revolt or the First Roman Jewish War.
+[04:26 --> 04:30] The list of grievances ticked off by the Jews usually included a host of
+[04:30 --> 04:34] religious issues, but as much as conflicts between the monotheistic Jews
+[04:34 --> 04:38] and polytheistic Romans antagonized both parties, at the heart of the
+[04:38 --> 04:42] Great Revolt was something far more basic, tax policy.
+[04:44 --> 04:47] Despite their persistent attempts to move away from the system, the Romans
+[04:47 --> 04:51] continued to rely on tax farming in Judea and so dealt with the
+[04:51 --> 04:53] inherent problems that the system introduced.
+[04:54 --> 04:57] And just to recap, remember that a private collector would bid for the
+[04:57 --> 05:01] amount of tax Rome required and then anything they brought in above that
+[05:01 --> 05:02] quota was the collector's profit.
+[05:03 --> 05:07] Local upper and middle-class urban Jews began to work these tax
+[05:07 --> 05:10] farming contracts and in the eyes of the rural population and the
+[05:10 --> 05:14] lower-class laborers began to shore the sheep a little too close to the
+[05:14 --> 05:16] skin in an attempt to maximize their profits.
+[05:18 --> 05:21] I bring this up only to note that with everything that happened at the
+[05:21 --> 05:24] outbreak of the revolt and beyond, I think it's fair to say that as
+[05:24 --> 05:28] much as the unrest was a Jewish revolt against foreign occupiers, it
+[05:28 --> 05:32] was also a civil war within the Jewish community itself between those
+[05:32 --> 05:35] who were profiting from the existing political structure and those
+[05:35 --> 05:36] who were not.
+[05:38 --> 05:41] One of the other important things to note about why the revolt broke out
+[05:41 --> 05:45] in 66 and not some other year is that according to Josephus, the
+[05:45 --> 05:49] complete rebuild and expansion of the Temple of Jerusalem begun by
+[05:49 --> 05:54] Herod the Great was finally completed in 63 AD, which immediately left
+[05:54 --> 05:57] thousands of poor laborers and middle-class artisans out of work.
+[05:58 --> 06:02] And basically, any time you have thousands of young men out of work
+[06:02 --> 06:05] concentrated in a city center, you are going to have problems.
+[06:06 --> 06:09] It took a couple of years scraping by while continuing to be gouged
+[06:09 --> 06:12] by the Roman collaborating tax farmers for these men to reach
+[06:12 --> 06:17] their boiling point, but when they did, boy, did they ever boil over.
+[06:18 --> 06:23] They finally passed from 99 to 100 degrees Celsius in 66 when the
+[06:23 --> 06:26] Roman governor decided he was running low on funds, the
+[06:26 --> 06:29] imperial treasury having been systematically drained by Nero, and
+[06:29 --> 06:32] decided to simply confiscate all the money the high priest had
+[06:32 --> 06:34] accumulated in the great temple.
+[06:35 --> 06:38] When word got out that the high priest had allowed the Romans to
+[06:38 --> 06:40] have the money, which had been collected from the masses above
+[06:40 --> 06:44] and beyond the taxes they had already paid to Rome, well, that
+[06:44 --> 06:45] just about does it, don't you think?
+[06:47 --> 06:51] In August of 66 AD, an armed insurrection seized control of the
+[06:51 --> 06:52] Roman stronghold at Masada.
+[06:53 --> 06:56] The men who took Masada were members of a splinter group of the
+[06:56 --> 06:59] radical sect of Judaism, the Zealots.
+[07:00 --> 07:04] These radicals, known as the Sicarii, which is Latin for
+[07:04 --> 07:07] daggers, were uncompromisingly militant and planned to settle
+[07:07 --> 07:10] for nothing less than the expulsion of the Romans from
+[07:10 --> 07:11] Judea.
+[07:12 --> 07:15] From their new base in Masada, this group of Sicarii headed
+[07:15 --> 07:18] north to Jerusalem, where they confronted the high priest who
+[07:18 --> 07:21] they believed to be a corrupt Roman collaborator.
+[07:21 --> 07:24] In the confrontation that followed, the high priest was
+[07:25 --> 07:28] and in retaliation, the leader of the Sicarii himself was
+[07:28 --> 07:31] assassinated, but this was only the beginning.
+[07:32 --> 07:34] As August gave way to September, the small Roman
+[07:34 --> 07:37] garrison in Jerusalem was besieged, forced to surrender,
+[07:37 --> 07:39] and then hanged by an angry mob.
+[07:40 --> 07:43] With the Roman military presence wiped out, Jerusalem
+[07:43 --> 07:45] became an increasingly dangerous place for Greco
+[07:45 --> 07:46] Romans of all types.
+[07:47 --> 07:50] Not only were citizens of Rome targeted, but also any
+[07:50 --> 07:52] Greek-speaking foreigner who had made the unfortunate
+[07:52 --> 07:54] decision to settle in the city.
+[07:55 --> 07:58] And once the foreigners had all been purged, the mobs turned
+[07:58 --> 08:01] on Jews identified as collaborators with the Roman
+[08:01 --> 08:01] regime.
+[08:03 --> 08:05] When word came north that the garrison in Jerusalem had
+[08:05 --> 08:08] all been murdered, the legate of Syria took a legion
+[08:08 --> 08:11] south into Judea to restore order.
+[08:11 --> 08:15] But in November 66, the revolting Jews shocked the
+[08:15 --> 08:17] Romans by ambushing the invading legion at the pass
+[08:17 --> 08:21] at Beth Horan and not only wiping the Romans out, but
+[08:21 --> 08:23] also capturing their legionary eagle in the process.
+[08:25 --> 08:27] The victory would prove to be a mixed blessing for the
+[08:27 --> 08:30] Zealots as it simultaneously convinced them that Rome
+[08:30 --> 08:33] could be beaten, while at the same time raising Roman
+[08:33 --> 08:35] ire to the point that they were done taking the
+[08:35 --> 08:39] insurrection lightly, which basically guaranteed that it
+[08:39 --> 08:40] was going to be crushed.
+[08:41 --> 08:44] Plans for a Roman response were escalated all the
+[08:44 --> 08:47] way to the imperial court, and in late 66, Nero
+[08:47 --> 08:50] appointed the general Vespasian to take command of
+[08:50 --> 08:52] situation in the east and do what was necessary to
+[08:52 --> 08:54] reassert Rome's dominance in Judea.
+[08:58 --> 09:02] Titus Flavius Vespasianus was born in 17 AD in central
+[09:02 --> 09:04] Italy and entered public life for the first time in
+[09:04 --> 09:08] 36, when he was elected military tribune in Thrace
+[09:08 --> 09:09] at the age of 19.
+[09:10 --> 09:12] His father was of equestrian rank and his mother was
+[09:12 --> 09:15] the sister of a senator, so Vespasian was fast
+[09:15 --> 09:19] tracked up the Cursus honorum, and by 40 he had
+[09:19 --> 09:22] already served a quaestor ship, an aedile ship, and
+[09:22 --> 09:22] a praetor ship.
+[09:24 --> 09:28] He married in 38 AD and had two sons, Titus born in 41
+[09:28 --> 09:31] and Domitian born 10 years later in 51.
+[09:32 --> 09:35] The father and two sons would each eventually sit on
+[09:35 --> 09:38] the imperial throne, and collectively their so-called
+[09:38 --> 09:42] Flavian dynasty would rule Rome from 69 to 96 AD,
+[09:43 --> 09:45] providing the critical bridge between an empire ruled by
+[09:45 --> 09:48] members of the Julio-Claudian family, and an
+[09:48 --> 09:50] empire ruled by whichever man was strong enough,
+[09:51 --> 09:54] smart enough, and savvy enough to hold on to power.
+[09:56 --> 09:59] When Claudius ascended to the throne, Vespasian was
+[09:59 --> 10:01] able to swing a friendly relationship with
+[10:01 --> 10:04] Narcissus into an appointment as a legate in
+[10:04 --> 10:07] Germania, and then a leading role in the invasion
+[10:07 --> 10:08] of Britain a few years later.
+[10:10 --> 10:12] Tasked with subduing the southern coast of the
+[10:12 --> 10:15] island after the initial invasion, Vespasian was so
+[10:15 --> 10:17] successful that he was awarded the right to wear
+[10:17 --> 10:19] triumphal regalia in public.
+[10:19 --> 10:21] The triumphal march itself was now reserved
+[10:21 --> 10:23] exclusively for the emperor.
+[10:24 --> 10:27] In 51 AD, he capped his public career off with a
+[10:27 --> 10:28] brief consulship.
+[10:28 --> 10:31] Though he was still young, Vespasian had achieved
+[10:31 --> 10:33] everything an ambitious man in Rome could have ever
+[10:33 --> 10:35] hoped for, so when his consulship was up, he
+[10:35 --> 10:37] retired from public life.
+[10:38 --> 10:41] But in 63, he was coaxed out of retirement by Nero,
+[10:41 --> 10:43] an appointed governor of the province of Africa.
+[10:44 --> 10:47] Reports conflict about whether his administration was
+[10:47 --> 10:50] loved or hated by the locals, but at the very
+[10:50 --> 10:52] least, it is agreed that Vespasian did not take the
+[10:52 --> 10:55] opportunity to extort a personal fortune for
+[10:55 --> 10:57] himself, as was usually the case with pro consul or
+[10:57 --> 11:00] appointments, despite the constant regulatory
+[11:00 --> 11:02] reforms that were introduced every few years
+[11:02 --> 11:03] to discourage the practice.
+[11:04 --> 11:06] Vespasian instead focused on building a strong
+[11:06 --> 11:09] social network of clients and allies, and
+[11:09 --> 11:11] though we don't know if it was necessarily on his
+[11:11 --> 11:14] time, these allies will prove to be invaluable when
+[11:14 --> 11:17] he makes his move for the imperial throne just a few
+[11:17 --> 11:17] years later.
+[11:19 --> 11:22] When he was recalled from Africa, Vespasian joined
+[11:22 --> 11:25] Nero's imperial entourage to Greece, and it was
+[11:25 --> 11:27] here that the thus far uniformly successful
+[11:27 --> 11:29] career of Vespasian hit a snag.
+[11:31 --> 11:33] Apparently, during one of Nero's numerous liar
+[11:33 --> 11:36] performances, Vespasian had paid, quote,
+[11:36 --> 11:39] insufficient attention to the performance, read,
+[11:39 --> 11:42] he fell asleep, and immediately lost the
+[11:42 --> 11:44] emperor's favor, which made Vespasian a
+[11:44 --> 11:45] political non-entity.
+[11:47 --> 11:49] It speaks volumes then about the esteem that he
+[11:49 --> 11:51] was held in, that ultimately, when the crisis
+[11:51 --> 11:54] of Judea broke out and things started to go
+[11:54 --> 11:56] poorly for the Romans, that Nero turned back to
+[11:56 --> 11:59] the man he had so recently declared persona
+[11:59 --> 11:59] non grata.
+[12:00 --> 12:03] In other words, Vespasian's grave crime of
+[12:03 --> 12:05] dozing off could not outweigh the fact that
+[12:05 --> 12:07] he was simply the best man for the job.
+[12:09 --> 12:12] In April of 67, Vespasian arrived in
+[12:12 --> 12:15] Ptolemaeus, a Judean port on the Mediterranean
+[12:15 --> 12:17] coast, with two legions, and was shortly
+[12:17 --> 12:19] thereafter joined by a legion led by his
+[12:19 --> 12:21] eldest son Titus.
+[12:21 --> 12:23] Coupled with the force led by the Roman
+[12:23 --> 12:25] client King Agrippa II and other auxiliary
+[12:25 --> 12:28] forces, the army led by Vespasian soon
+[12:28 --> 12:30] numbered some 60,000.
+[12:30 --> 12:33] The Roman general set about systematically
+[12:33 --> 12:35] subduing the northern half of the province,
+[12:35 --> 12:37] accepting the surrender of towns that were so
+[12:37 --> 12:39] inclined, and annihilating towns that refused.
+[12:40 --> 12:44] By early 68, he held the north, and from his
+[12:44 --> 12:46] base in the port city of Caesarea, began to
+[12:46 --> 12:48] sweep south along the coast.
+[12:49 --> 12:51] His task was made easier by the fact that
+[12:51 --> 12:54] the Jewish resistance was internally fractured.
+[12:54 --> 12:56] Not counting the leaders who wanted no part of
+[12:56 --> 12:58] the war with Rome to begin with, there were
+[12:58 --> 13:00] resistance leaders who counseled for opening
+[13:00 --> 13:03] talks with the Romans immediately, resistance
+[13:03 --> 13:05] leaders who counseled holding out, but only
+[13:05 --> 13:08] to a certain point, and resistance leaders,
+[13:08 --> 13:10] among the zealots especially, who thought that
+[13:10 --> 13:12] any talk of surrender was proof that you were
+[13:12 --> 13:14] in league with the Romans and probably ought
+[13:14 --> 13:15] to just be killed.
+[13:16 --> 13:18] All these leaders wound up fleeing to
+[13:18 --> 13:20] Jerusalem throughout the year, where they all
+[13:20 --> 13:22] hold up together behind the reasonably sturdy
+[13:22 --> 13:24] walls of the city where they planned to make
+[13:24 --> 13:25] their stand.
+[13:26 --> 13:28] Vespasian and his son Titus prepared to lay
+[13:28 --> 13:31] siege to the city from three sides when an
+[13:31 --> 13:33] unexpected piece of news came that stopped
+[13:33 --> 13:35] Vespasian in his tracks.
+[13:36 --> 13:38] Couriers arrived from Rome with a note, Nero
+[13:38 --> 13:41] has committed suicide and Galba has been
+[13:41 --> 13:42] declared Caesar.
+[13:43 --> 13:43] Interesting.
+[13:45 --> 13:47] Wrapped up as he was in the far east of the
+[13:47 --> 13:49] empire, Vespasian could not have hoped to
+[13:49 --> 13:51] keep up with the daily politicking in the
+[13:51 --> 13:53] west, and when, in a matter of few months,
+[13:53 --> 13:55] Nero went from undisputed ruler of the
+[13:55 --> 13:58] greatest empire on earth to quivering child,
+[13:58 --> 14:00] Vespasian was shocked, but probably not
+[14:00 --> 14:02] surprised, if that makes sense.
+[14:04 --> 14:06] The great revolt in Judea will continue for
+[14:06 --> 14:08] another few years, but as the next important
+[14:08 --> 14:10] event in the struggle, the sack of Jerusalem,
+[14:11 --> 14:13] does not occur for another 18 whole months,
+[14:13 --> 14:15] I'm going to have to return to it after
+[14:15 --> 14:17] the yet to be determined number of
+[14:17 --> 14:18] episodes I'll need to get through just the
+[14:18 --> 14:20] single year of 69 AD.
+[14:21 --> 14:23] So before we can keep going with the
+[14:23 --> 14:24] great revolt, we're going to have to
+[14:24 --> 14:26] backtrack a little and figure out what led
+[14:26 --> 14:29] to the shocking note that Nero had
+[14:29 --> 14:30] committed suicide.
+[14:32 --> 14:34] As I said, Nero's erratic behavior was
+[14:34 --> 14:36] getting really, really old.
+[14:37 --> 14:39] He was neglecting his official duties,
+[14:39 --> 14:40] spending all of his time at chariot
+[14:40 --> 14:42] races, and bankrupting the empire in
+[14:42 --> 14:43] the process.
+[14:44 --> 14:46] Not only that, he had initiated his own
+[14:46 --> 14:48] little reign of terror, and the
+[14:48 --> 14:49] senators and generals who made up the
+[14:49 --> 14:51] backbone of the imperial aristocracy,
+[14:51 --> 14:53] all lived in fear of winding up on
+[14:53 --> 14:54] Nero's hit list.
+[14:55 --> 14:57] No less a figure than Corbulo, hero of
+[14:57 --> 14:59] the war in Armenia, had been ordered to
+[14:59 --> 15:01] commit suicide in 67 AD.
+[15:02 --> 15:04] It was only a matter of time really
+[15:04 --> 15:06] before Nero paid the price for his
+[15:06 --> 15:07] fear inducing extravagances.
+[15:10 --> 15:12] In March of 68, a governor of one of
+[15:12 --> 15:14] the Gallic provinces, Gaius Julius
+[15:14 --> 15:16] Vindex, had finally had enough.
+[15:17 --> 15:18] Yet another set of orders had come
+[15:18 --> 15:20] down, ratcheting up the tax levies to
+[15:20 --> 15:22] help pay for Nero's total lack of
+[15:22 --> 15:23] fiscal responsibility.
+[15:24 --> 15:26] Vindex was a Roman all the way, but
+[15:26 --> 15:27] he couldn't help but feel for the
+[15:27 --> 15:29] local Gauls who were being taxed to the
+[15:29 --> 15:30] breaking point.
+[15:31 --> 15:33] He heard complaint after complaint from
+[15:33 --> 15:34] his subjects that things couldn't go
+[15:34 --> 15:36] on like this, and taking a look
+[15:36 --> 15:38] around, he believed them.
+[15:39 --> 15:41] The empire hadn't grown as large as
+[15:41 --> 15:43] it had, or as strong as it had, by
+[15:43 --> 15:45] breaking the backs of those that
+[15:45 --> 15:45] supported it.
+[15:46 --> 15:48] Vindex decided that Nero and the
+[15:48 --> 15:50] health of the empire were two ideas
+[15:50 --> 15:52] that were now mutually exclusive.
+[15:53 --> 15:55] But surprisingly, when Vindex declared
+[15:55 --> 15:57] in March that he was no longer taking
+[15:57 --> 15:59] orders from the emperor, he also declared
+[15:59 --> 16:01] that he himself was not looking to
+[16:01 --> 16:02] become the emperor.
+[16:03 --> 16:05] Instead, he announced that should
+[16:05 --> 16:07] Servius Sulpicius Galba, the wise and
+[16:07 --> 16:10] capable governor of Spain, rise to the
+[16:10 --> 16:12] occasion that Vindex would back him.
+[16:13 --> 16:15] But Galba was noncommittal, and
+[16:15 --> 16:17] Vindex was left hanging in Gaul by
+[16:17 --> 16:17] himself.
+[16:18 --> 16:20] Nero ordered the governor of upper
+[16:20 --> 16:22] Germany, Lucius Virginius Rufus, to
+[16:22 --> 16:25] crush Vindex, and in short order, the
+[16:25 --> 16:27] stronger and more capable Virginius did
+[16:27 --> 16:29] just that, routing Vindex after a short
+[16:29 --> 16:30] and decisive battle.
+[16:31 --> 16:33] Vindex committed suicide to avoid
+[16:33 --> 16:35] capture, but his dream of dislodging
+[16:35 --> 16:37] Nero did not die with him.
+[16:38 --> 16:39] In the glow of victory,
+[16:39 --> 16:41] Virginius' troops did something
+[16:41 --> 16:41] unexpected.
+[16:42 --> 16:43] They declared their general
+[16:43 --> 16:45] imperator and swore to follow him
+[16:45 --> 16:47] if he decided to turn on Nero.
+[16:48 --> 16:50] But Virginius refused to betray the
+[16:50 --> 16:50] emperor.
+[16:51 --> 16:53] In the end, despite having now allied
+[16:53 --> 16:55] himself with Nero, Virginius managed to
+[16:55 --> 16:57] escape the chaos of the year of the four
+[16:57 --> 16:59] emperors and slip away unnoticed to
+[16:59 --> 17:01] live another 30 years in quiet
+[17:01 --> 17:02] anonymity.
+[17:02 --> 17:03] Good for him.
+[17:05 --> 17:07] Back in Rome, Nero watched all of this
+[17:07 --> 17:08] unfold with horror, and even though
+[17:08 --> 17:10] Galba had not joined in Vindex's
+[17:10 --> 17:12] revolt, it was clear that the old
+[17:12 --> 17:14] general was a rallying point for the
+[17:14 --> 17:16] emperor's enemies, so he declared
+[17:16 --> 17:17] Galba an enemy of the state and
+[17:17 --> 17:18] ordered him arrested.
+[17:19 --> 17:21] But this proved to be a
+[17:21 --> 17:22] fatal miscalculation.
+[17:22 --> 17:24] Galba had been wavering back and
+[17:24 --> 17:26] forth on whether or not to be the man
+[17:26 --> 17:28] so many seemed to want him to be.
+[17:29 --> 17:29] But when he got the
+[17:29 --> 17:31] notice that Nero had declared him an
+[17:31 --> 17:33] enemy of the state, well, that really
+[17:33 --> 17:35] helped make up his mind, didn't it?
+[17:35 --> 17:37] When the arrest warrant for Galba was
+[17:37 --> 17:39] announced, things quickly got out of
+[17:39 --> 17:39] hand for Nero.
+[17:40 --> 17:40] One of the
+[17:40 --> 17:42] praetorian prefects, Gaius
+[17:42 --> 17:44] Nymphidius Sabinus, declared his
+[17:44 --> 17:46] intention to follow Galba as civil
+[17:46 --> 17:47] war broke out.
+[17:47 --> 17:49] With a large chunk of the
+[17:49 --> 17:50] guard following their leader, Nero
+[17:50 --> 17:52] suddenly realized that he was an
+[17:52 --> 17:52] enemy of the state, and he was
+[17:52 --> 17:53] in a very tight spot.
+[17:54 --> 17:56] Afraid for his life, that happens
+[17:56 --> 17:58] when your bodyguards start hinting
+[17:58 --> 17:59] that they too would like to see you
+[17:59 --> 18:01] dead, Nero fled down the road to the
+[18:01 --> 18:03] port of Ostia, where he hoped to lead
+[18:03 --> 18:04] a fleet east and regroup.
+[18:05 --> 18:06] But the
+[18:06 --> 18:07] soldiers at the pier could tell
+[18:07 --> 18:08] which way the wind was blowing,
+[18:08 --> 18:10] and they refused to obey Nero's
+[18:10 --> 18:12] orders, taunting him with a line
+[18:12 --> 18:14] from the Aeneid, is it so dreadful
+[18:14 --> 18:15] a thing to die?
+[18:16 --> 18:18] Really really spooked now, Nero
+[18:18 --> 18:20] returned to Rome and tried to figure
+[18:20 --> 18:21] out how in the hell he was going to
+[18:21 --> 18:22] get out of this alive.
+[18:23 --> 18:25] He considered throwing himself at
+[18:25 --> 18:27] Galba's feet and begging for mercy.
+[18:27 --> 18:28] Then he considered throwing
+[18:28 --> 18:30] himself at the people's feet and
+[18:30 --> 18:32] begging them for mercy, but rejected
+[18:32 --> 18:34] both of those ideas as likely to lead
+[18:34 --> 18:36] to his swift execution, so he then
+[18:36 --> 18:38] considered fleeing east and asking
+[18:38 --> 18:40] the Parthian king for asylum, but
+[18:40 --> 18:42] realized that that too was a
+[18:42 --> 18:44] ridiculous idea that would never work.
+[18:46 --> 18:47] He tried to sleep on it in the
+[18:47 --> 18:49] palace, but woke up around midnight,
+[18:49 --> 18:51] and realized that the guard had all
+[18:51 --> 18:52] deserted their posts.
+[18:53 --> 18:55] Scared out of his wits, he searched
+[18:55 --> 18:57] the rooms of his friends, but found
+[18:57 --> 18:58] them all empty as well.
+[18:59 --> 19:00] Nero had been deserted.
+[19:02 --> 19:03] Recognizing that there was no
+[19:03 --> 19:04] version of this story that ended
+[19:04 --> 19:06] well, Nero called out for a slave
+[19:06 --> 19:08] or a gladiator or anyone to kill
+[19:08 --> 19:11] him, but no one answered, prompting
+[19:11 --> 19:13] Nero to exclaim, have I neither
+[19:13 --> 19:15] friend nor foe?
+[19:15 --> 19:17] No one answered him, but I can
+[19:17 --> 19:18] answer.
+[19:18 --> 19:20] Nero may have had no friends, but
+[19:20 --> 19:22] he was certainly not wanting for
+[19:23 --> 19:23] foes.
+[19:24 --> 19:25] Finally, Nero was able to connect
+[19:25 --> 19:27] with a freedman who agreed to hide
+[19:27 --> 19:28] the frightened emperor in a villa
+[19:28 --> 19:30] four miles outside of Rome.
+[19:31 --> 19:32] Accompanied by a few slaves, a
+[19:32 --> 19:34] disguised Nero slipped out of the
+[19:34 --> 19:35] palace and made his way through
+[19:35 --> 19:37] the gates of the city undetected.
+[19:38 --> 19:39] Upon his arrival at the villa,
+[19:40 --> 19:41] he ordered the slaves to begin
+[19:41 --> 19:43] digging a grave, and allegedly kept
+[19:43 --> 19:45] repeating over and over again, what
+[19:45 --> 19:47] an artist the world is losing.
+[19:48 --> 19:50] At some point, a courier arrived
+[19:50 --> 19:52] and delivered the news that Nero
+[19:52 --> 19:53] had been dreading.
+[19:53 --> 19:54] The Senate had met in an
+[19:54 --> 19:56] emergency session, declared him a
+[19:56 --> 19:58] public enemy, and announced that
+[19:58 --> 20:00] if found, Nero was to be beaten
+[20:00 --> 20:01] to death.
+[20:02 --> 20:03] He tried to kill himself to
+[20:03 --> 20:05] avoid capture, but kept losing
+[20:05 --> 20:05] his nerve.
+[20:06 --> 20:08] When the sound of approaching
+[20:08 --> 20:09] horses began to cut through the
+[20:09 --> 20:11] night though, Nero was able to
+[20:11 --> 20:12] focus, and before the soldiers
+[20:12 --> 20:14] arrived to collect him, Nero
+[20:14 --> 20:15] stabbed himself in the throat.
+[20:16 --> 20:18] When the detachment arrived, they
+[20:18 --> 20:19] tried to stop the bleeding so
+[20:19 --> 20:21] Rome could extract the full
+[20:21 --> 20:22] measure of its vengeance, but
+[20:22 --> 20:24] Nero was too far gone.
+[20:25 --> 20:26] As they worked on the wound,
+[20:26 --> 20:28] he whispered, too late, this
+[20:28 --> 20:29] is fidelity.
+[20:31 --> 20:33] Nero died on June 9th, 68 AD at
+[20:33 --> 20:34] the age of 30.
+[20:34 --> 20:37] He had ruled Rome for 14 years.
+[20:39 --> 20:40] The death of Nero marked the
+[20:40 --> 20:41] end of the Julio-Claudian
+[20:41 --> 20:43] dynasty, and would usher in a
+[20:43 --> 20:44] brief period of chaotic
+[20:44 --> 20:46] uncertainty known as the year
+[20:46 --> 20:48] of the four emperors, which
+[20:48 --> 20:49] we'll start to get into fully
+[20:49 --> 20:50] next week.
+[20:51 --> 20:52] The question on the tip of
+[20:52 --> 20:54] everyone's tongue was, now
+[20:54 --> 20:55] that there was no Julio-Claudians
+[20:55 --> 20:57] left, how would legitimacy be
+[20:57 --> 20:59] conferred upon future emperors?
+[21:00 --> 21:01] Augustus had been able to
+[21:01 --> 21:03] establish and maintain imperial
+[21:03 --> 21:04] authority initially through his
+[21:04 --> 21:06] own personal brand of ruthless
+[21:06 --> 21:08] charisma, and the fact that
+[21:08 --> 21:09] his reign just kept going,
+[21:09 --> 21:12] and going, and going, so that
+[21:12 --> 21:13] by the time he died, it seemed
+[21:13 --> 21:15] natural that his declared heir
+[21:15 --> 21:16] Tiberius ought to rule.
+[21:17 --> 21:19] From there, it had just been an
+[21:19 --> 21:20] unbroken line of inheritance
+[21:20 --> 21:21] all the way down to Nero.
+[21:22 --> 21:24] But now that that line of
+[21:24 --> 21:26] inheritance was broken, well,
+[21:26 --> 21:27] what did that mean?
+[21:27 --> 21:29] It was like Rome was waking up
+[21:29 --> 21:30] after being hypnotized.
+[21:30 --> 21:32] Suddenly, everyone was looking
+[21:32 --> 21:34] at everyone else, blinking,
+[21:34 --> 21:36] and wondering what to do now
+[21:36 --> 21:37] that the Julio-Claudian spell
+[21:37 --> 21:38] had been broken.
+[21:39 --> 21:41] Nero had died with no heir,
+[21:41 --> 21:42] and there was no mechanism to
+[21:42 --> 21:43] determine which of the dozens
+[21:43 --> 21:45] of highly ambitious men ought to
+[21:45 --> 21:48] rule, nor any way to tell whether
+[21:48 --> 21:49] or not the masses would accept
+[21:49 --> 21:50] someone from outside the House
+[21:50 --> 21:52] of Caesar as their master.
+[21:53 --> 21:54] Or how about this?
+[21:54 --> 21:56] Maybe the Julio-Claudian period
+[21:56 --> 21:58] will prove to be a historical
+[21:58 --> 21:58] aberration.
+[21:59 --> 22:00] Maybe Rome can return to its
+[22:00 --> 22:01] Republican roots.
+[22:02 --> 22:03] There was no shortage of
+[22:03 --> 22:05] questions, and no shortage of
+[22:05 --> 22:06] ambitious men who claimed to
+[22:06 --> 22:07] have the answer.
+[22:08 --> 22:09] Next week, we'll try to lay
+[22:09 --> 22:11] the foundation for the seminal
+[22:11 --> 22:13] year of 69 A.D. and give a
+[22:13 --> 22:14] deeper introduction to the men
+[22:14 --> 22:15] who will vie for the throne.
+[22:16 --> 22:17] But I can tell you this much
+[22:17 --> 22:18] already.
+[22:18 --> 22:20] The correct answer is
+[22:20 --> 22:20] Vespasian.

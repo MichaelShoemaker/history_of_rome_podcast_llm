@@ -1,0 +1,328 @@
+# 20101024 - 113- Three Empires
+# Detected language: en
+# Duration: 1592.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:12] Hello, and welcome to the History of Rome, Episode 113, Three Empires.
+[00:12 --> 00:19] Though I haven't yet stated it explicitly, I think the nature of the military campaigns
+[00:19 --> 00:24] the Romans have lately been engaged in against the Goths and the Sassanids and the Franks
+[00:24 --> 00:28] and the Alamani collectively speak for themselves.
+[00:28 --> 00:32] The Romans are now on the defensive.
+[00:32 --> 00:36] For its entire history, Rome had always projected outward.
+[00:36 --> 00:40] When battles were fought, they were fought in enemy territory.
+[00:40 --> 00:45] When battles were won, they enriched the empire with new wealth and new subjects.
+[00:45 --> 00:50] When battles were lost, it simply slowed the rate of Roman expansion.
+[00:50 --> 00:54] But now, the battles are being fought in Roman territory.
+[00:54 --> 00:59] When these battles are won, the reward is little more than a temporary peace.
+[00:59 --> 01:04] And far from enriching the empire, even victory was now a net loss on the balance sheet in
+[01:04 --> 01:08] men, in money, in economic impact.
+[01:08 --> 01:12] And when those battles are lost, well, the very foundation of imperial legitimacy was
+[01:12 --> 01:16] the ability to provide physical security for its citizens.
+[01:16 --> 01:19] So you do the math.
+[01:19 --> 01:26] In 260 AD, this legitimacy was finally shattered by simultaneous attacks on all the major frontiers.
+[01:26 --> 01:30] When the central government proved itself unable to provide the security demanded by
+[01:30 --> 01:38] its people, the people abandoned the central government and the Roman Empire broke apart.
+[01:38 --> 01:43] Now one thing that we should clear up right off the bat is that while the administrative
+[01:43 --> 01:48] reach of Gallienus' government is about to be radically reduced, at no point should the
+[01:48 --> 01:55] rise of the Gallic and Palmyrene empires be viewed as a repudiation of Roman values.
+[01:55 --> 02:00] Posthumous' Gallic Empire may have seceded from the Union as it were, but it did not
+[02:00 --> 02:06] reject the values, forms, or ideals that that Union had been based upon.
+[02:06 --> 02:11] Right down to its Senate, annually elected consuls, and praetorian guard, the Gallic
+[02:12 --> 02:19] was in every sense a Roman Empire, pursuing Roman policies in a Roman fashion.
+[02:19 --> 02:24] In the East, the career of Oedonothus was at all times acknowledged as occurring within
+[02:24 --> 02:27] the established structure of the Empire.
+[02:27 --> 02:33] He was, for all intents and purposes, leading an independent kingdom, but both he and Gallienus
+[02:33 --> 02:38] recognized the expediency of allowing Rome to officially bless the new leader of the
+[02:38 --> 02:44] East, to cloak Oedonothus' actions behind a screen of imperial titles and offices to
+[02:44 --> 02:49] make it seem as if the two men were partners rather than rivals.
+[02:49 --> 02:54] Oedonothus never pressed for the title of Augustus, and Gallienus never attempted to
+[02:54 --> 02:59] assert control over the East, and this was a state of affairs that suited both just fine
+[02:59 --> 03:02] for the time being.
+[03:02 --> 03:08] That is all to say that the 260s did not represent the rise of native independence movements.
+[03:08 --> 03:13] The decade represented instead an estrangement between the governing elites of the three
+[03:13 --> 03:19] regions, all of whom bought into the basic Roman political ideologies that had dominated
+[03:19 --> 03:24] the Mediterranean for the last few centuries.
+[03:24 --> 03:29] As I noted in the introduction, the underlying legitimacy crisis that faced the Empire in
+[03:29 --> 03:33] the 260s was that the central government was no longer able to provide the kind of
+[03:33 --> 03:38] basic security its citizens had grown to expect.
+[03:38 --> 03:43] The myriad foreign invaders successfully overrunning the borders and sacking the provinces were
+[03:43 --> 03:47] not just running off with the Empire's wealth, they were running off with the Empire's
+[03:47 --> 03:49] raison d'etre.
+[03:49 --> 03:53] Whether or not there was a set of policies Gallienus could have pursued to create a more
+[03:53 --> 03:58] unified, centrally guided response to the invasions is interesting to think about, but
+[03:58 --> 04:00] ultimately irrelevant.
+[04:00 --> 04:05] He did not do so, and was very likely unable to do so.
+[04:05 --> 04:08] And it's not like he was fiddling while Rome burned.
+[04:08 --> 04:12] He was beating off an invasion of Italy itself when the political structure of the Empire
+[04:12 --> 04:14] began to fracture.
+[04:14 --> 04:21] He was doing everything he could, but there was too much to do.
+[04:21 --> 04:25] To take the West first, you'll recall that when Gallienus headed to the Danube to put
+[04:25 --> 04:31] the revolt of Ingenus, that he elevated his teenage son Salonius to the rank of Caesar,
+[04:31 --> 04:36] and left the defense of the Western provinces in the hands of the eminently capable general
+[04:36 --> 04:39] Marcus Posthumus.
+[04:39 --> 04:44] Posthumus shared overall administrative authority with one of the Praetorian prefects who Gallienus
+[04:44 --> 04:49] had also left behind, a man by the name of Sylvanus.
+[04:49 --> 04:53] Posthumus and Sylvanus divvied up responsibility for the region between them, with Sylvanus
+[04:53 --> 04:58] running civilian affairs and looking after young Salonius, while Posthumus controlled
+[04:58 --> 05:00] the army.
+[05:00 --> 05:03] And what an army it was.
+[05:03 --> 05:08] The ranks of the Rhine legions had already been thinned by the recent Frankish invasions,
+[05:08 --> 05:14] and Gallienus had now absconded with the cream of what was left to go off and fight in Genus.
+[05:14 --> 05:20] This put Posthumus in a very tight spot, and put the troops remaining in Gaul on edge.
+[05:20 --> 05:25] How were they supposed to defend the entire frontier when they were this undermanned and
+[05:25 --> 05:28] this undersupplied?
+[05:28 --> 05:33] Into this atmosphere of fear and resentment stepped a fairly innocuous incident that would
+[05:33 --> 05:39] lead directly to the secession of the West.
+[05:39 --> 05:44] A raiding party of Germans was headed back towards the Rhine sometime in mid to late
+[05:44 --> 05:48] 260, when they were caught and defeated by Posthumus.
+[05:48 --> 05:53] While aware that he and the army he had been left with had been assigned a nearly impossible
+[05:53 --> 05:59] mission, Posthumus decided to take the opportunity to reward his men, and ordered that the captured
+[05:59 --> 06:02] wealth of the Germans be distributed amongst them.
+[06:02 --> 06:07] This endeared Posthumus to his soldiers, but it did not endear him to the men who the wealth
+[06:07 --> 06:10] had been stolen from originally.
+[06:10 --> 06:15] When Sylvanus heard about all this, he ordered Posthumus to send the property he had recovered
+[06:15 --> 06:18] back from whence it had come.
+[06:18 --> 06:20] But Posthumus refused the order.
+[06:20 --> 06:24] After all, didn't his men deserve something for risking their lives in defense of the
+[06:24 --> 06:26] provinces?
+[06:26 --> 06:32] When Sylvanus refused to back down, Posthumus and his army took the next logical step, logical
+[06:32 --> 06:38] in the context of the third century anyway, and Posthumus was acclaimed emperor.
+[06:38 --> 06:43] He then wheeled around and marched on Cologne where he planned to force Sylvanus and Salonius
+[06:43 --> 06:46] to submit to his authority.
+[06:46 --> 06:51] The young emperor and his guardian attempted to resist, but the far superior resources
+[06:51 --> 06:58] of Posthumus allowed him to overcome the city defenses and capture his rivals.
+[06:58 --> 07:02] Well aware that there was no turning back now, Posthumus likely executed Sylvanus and
+[07:02 --> 07:08] Salonius and announced that he was taking over control of the Rhine.
+[07:08 --> 07:12] His agents spread the word and in no time, replies came back from the governors of all
+[07:12 --> 07:17] three Spanish provinces, all three Gallic provinces, and the island of Britannia, supporting
+[07:17 --> 07:21] Posthumus' claim to power.
+[07:21 --> 07:25] Their willingness to support Posthumus was premised on his ability to halt the Germanic
+[07:25 --> 07:32] invasions that Emperor Gallienus had deemed not important enough to attend to personally.
+[07:32 --> 07:37] It was not that they did not appreciate Gallienus' presence when he was around, it was just that
+[07:37 --> 07:40] there was no counting on him to stick around.
+[07:40 --> 07:45] Twice already he had surveyed the empire and deemed the problems of the west not as important
+[07:45 --> 07:49] as the problems along the Danube or in Italy.
+[07:49 --> 07:52] And it's not even that they were arguing that the emperor could or should have done
+[07:52 --> 07:57] something different, it was just that, well, they couldn't go anywhere.
+[07:57 --> 08:02] Their homes and families and estates and clients were all stuck here.
+[08:02 --> 08:07] Whether or not the Frankish invasions were the worst problems the Romans faced was immaterial.
+[08:08 --> 08:11] When your house is on fire, you want someone to put it out.
+[08:11 --> 08:15] You don't want someone to tell you that some other more important building is on fire and
+[08:15 --> 08:19] that they need to go put out that one first.
+[08:19 --> 08:23] Posthumus was promising to never leave and to focus on putting out the fire along the
+[08:23 --> 08:28] Rhine, and so they supported him.
+[08:28 --> 08:34] This mandate, though, meant that unlike previous usurping generals, Posthumus could not immediately
+[08:34 --> 08:39] pack up the army and march to Italy on a mission to overthrow Gallienus.
+[08:39 --> 08:43] Part of the reason why he was able to rule for a decade over half the empire, which puts
+[08:43 --> 08:48] his tenure in office amongst the longest of the whole century, by the way, was because
+[08:48 --> 08:54] he never forgot that his primary responsibility was to protect the west from invasion.
+[08:54 --> 08:59] By focusing on that limited objective, he was able to rule practically unopposed for
+[08:59 --> 09:02] 10 years.
+[09:02 --> 09:07] Right away, he reorganized the political order of the west and invited men of senatorial
+[09:07 --> 09:12] rank from the provinces loyal to him to meet in Gaul and form a new senate, who would,
+[09:12 --> 09:19] like their new emperor, focus solely on the administration and safety of the west.
+[09:19 --> 09:21] No Gothic invasions would distract them.
+[09:21 --> 09:24] No Sassanid power plays would draw them away.
+[09:24 --> 09:28] It was time for the west to look out for itself.
+[09:29 --> 09:33] Gallienus, of course, was apoplectic.
+[09:33 --> 09:37] He had spent the majority of his years in office dealing with invasions along the Rhine
+[09:37 --> 09:42] and had only abandoned the western frontier when a revolt had broken out along the Danube
+[09:42 --> 09:45] and when Germans had invaded the home province.
+[09:45 --> 09:47] What did they want from him?
+[09:47 --> 09:51] The empire was a big place, and to get all cranky because he couldn't provide them with
+[09:51 --> 09:58] his undivided attention 100% of the time was, in a word, childish.
+[09:58 --> 10:03] But as he sat in Milan mopping up after the Alemannic invasion, he quickly realized that
+[10:03 --> 10:08] as much as it burned him up, there was probably very little he could do right at that moment
+[10:08 --> 10:11] about Posthumus.
+[10:11 --> 10:15] There was no doubt that as soon as he was able to, Gallienus was going to revenge himself
+[10:15 --> 10:20] upon Posthumus, but right now, all those things that had drawn his attention away from the
+[10:20 --> 10:28] Rhine in the first place were still going on and still getting worse.
+[10:28 --> 10:33] When Gallienus looked at the big picture, the problems in the west were minor compared
+[10:33 --> 10:40] to the full-blown emergency that was currently marching across the eastern empire.
+[10:40 --> 10:44] Sharpor had taken his capture of Valerian as an invitation to sack as much of the Roman
+[10:44 --> 10:50] empire as he could get his hands on, possibly with the idea of softening the region up for
+[10:50 --> 10:54] eventual annexation by the Sassanids.
+[10:54 --> 10:59] According to some sources, the defeat at Edessa had cost the Romans something like 70,000
+[10:59 --> 11:04] men, and though a great deal of those had been brought west by Valerian, the eastern
+[11:04 --> 11:08] legions were still a pale shadow of their former selves.
+[11:08 --> 11:13] And they had very little hope of reinforcement, as what imperial forces were available had
+[11:13 --> 11:18] been mustered by Gallienus to defend Italy.
+[11:18 --> 11:20] But all was not lost.
+[11:20 --> 11:27] As the Sassanids crashed into Syria, two Roman officials stepped forward to organize a defense.
+[11:27 --> 11:32] The first was a general named Ballista, or possibly Callistus, depending on what source
+[11:32 --> 11:37] you read, who took over the remnants of the legions and organized a pseudo-guerrilla campaign
+[11:37 --> 11:42] to harass Sharpor's supply lines, pick off isolated detachments, and generally make life
+[11:42 --> 11:46] frustrating for the invading Sassanids.
+[11:46 --> 11:51] The other official was one of Valerian's chief financial officers, a man named Folvius
+[11:51 --> 11:57] Macrianus, who had been left behind in Antioch along with the traveling imperial treasury
+[11:57 --> 12:01] when Valerian had marched forward to Edessa.
+[12:01 --> 12:06] With Ballista's help, Macrianus was able to keep the treasury out of Sharpor's hands
+[12:06 --> 12:12] and use it to fund the effort to expel the Sassanids from Roman territory.
+[12:12 --> 12:17] For the rest of the year, the two men did everything they could to halt Sharpor, and
+[12:17 --> 12:22] though they slowed him down, they were unable to prevent him from marching into Asia Minor
+[12:22 --> 12:31] on a campaign that Sharpor's own propaganda claimed led to the sacking of 36 Roman cities.
+[12:31 --> 12:36] By the end of the year, though, constant harassment and the fatigue of his own men led Sharpor
+[12:36 --> 12:41] to opt for withdrawal back to Sassanid territory.
+[12:41 --> 12:45] Laden with captured slaves and treasure, the Sassanid king was feeling pretty good
+[12:45 --> 12:50] about himself, and likely thinking that the next time he marched west, he might just make
+[12:50 --> 12:53] a play at staying permanently.
+[12:53 --> 13:02] Which brings us to Lucius Septimius Odinothus and the city of Palmyra.
+[13:02 --> 13:07] Palmyra was an oasis town located in the deserts between Persia and Syria, and it served as
+[13:07 --> 13:13] a key link in the east-west trade routes, acting as the last way station on the northern
+[13:13 --> 13:16] leg of the Silk Road.
+[13:16 --> 13:20] Not only did the city's isolated location allow it to grow wealthy from the duties and
+[13:20 --> 13:26] taxes levied on traders who had no other option but to pass through Palmyra, but it also allowed
+[13:26 --> 13:32] them to run a protection racket, supplying local muscle to help ward off desert thieves
+[13:32 --> 13:35] who might set upon an unprotected caravan.
+[13:35 --> 13:40] That there was something of a revolving door between the desert thieves and the local muscle
+[13:40 --> 13:44] is of course neither here nor there.
+[13:44 --> 13:48] Palmyra's location out in the middle of the desert also allowed it something that most
+[13:48 --> 13:55] cities in the ancient world had long since lost, independence.
+[13:55 --> 14:00] The age of the city-state had long ago given way to the age of the multinational empire,
+[14:00 --> 14:06] while Palmyra lay out in a nebulous gray area between Rome to the west and Persia to the
+[14:06 --> 14:07] east.
+[14:07 --> 14:13] As such, it was often claimed by both, but controlled by neither.
+[14:13 --> 14:19] As Parthian power had waned though, Palmyra had more and more come into the Roman sphere,
+[14:19 --> 14:24] and many of its leading citizens had also been made Roman citizens.
+[14:24 --> 14:29] Emperors understood the economic importance of the oasis city, and wanted to make sure
+[14:29 --> 14:34] that the rulers of Palmyra were given every privilege and perk of status enjoyed by the
+[14:34 --> 14:38] leading men of Rome.
+[14:38 --> 14:44] As his name suggests, the family of Lucius Septimius Oedonothus had been granted citizenship
+[14:44 --> 14:49] by Septimius Severus around the turn of the third century, and though they were not technically
+[14:49 --> 14:55] Roman senators, they were recognized as being of senatorial rank in the economic sense of
+[14:55 --> 15:00] the term, if not in the strictly political sense.
+[15:00 --> 15:05] By the 250s, Oedonothus was the leading man of Palmyra and acting as the city's chief
+[15:05 --> 15:07] executive.
+[15:07 --> 15:13] He had close ties to Rome, but the growing power of the Sassanids had left him and his
+[15:13 --> 15:16] city in a precarious position.
+[15:16 --> 15:21] The Romans were content to let Palmyra enjoy its nominal independence as long as the trade
+[15:21 --> 15:27] routes continued to function and the taxes on Roman merchants didn't get out of hand.
+[15:27 --> 15:33] But sharp work seemed an altogether more ambitious sort.
+[15:33 --> 15:36] Oedonothus had been worried for some time that the Sassanids would attempt to take over
+[15:36 --> 15:41] direct control of Palmyra, and with the Romans being dealt several defeats in a row at the
+[15:41 --> 15:46] hands of the Persians, his anxiety had to have grown immeasurably by the time Valerian
+[15:46 --> 15:50] was captured in 260.
+[15:50 --> 15:55] Some sources claim Oedonothus made overtures to Sharpor, attempting to forge an eastern-looking
+[15:55 --> 16:01] alliance, but that the Sassanid king had rejected the notion of a treaty, clearly indicating
+[16:01 --> 16:05] that a takeover of Palmyra was coming down the chute.
+[16:05 --> 16:09] But others reject the notion that Oedonothus made any attempt to bargain with the Sassanids
+[16:09 --> 16:14] and that from the get-go he believed that the fortunes of his city were best served
+[16:14 --> 16:19] when they were tied to the fortunes of Rome.
+[16:19 --> 16:24] Whatever the underlying reasons, when Sharpor made his way back to the east in 260 laden
+[16:24 --> 16:30] with treasure, he was met by an army raised and led by the Palmyrene prince.
+[16:30 --> 16:36] The result of the meeting was a complete rout of the unprepared Sassanid army.
+[16:36 --> 16:41] Sharpor thought himself a thousand miles from anything resembling a real threat, and was
+[16:41 --> 16:47] as surprised as his men to find himself suddenly fleeing back to Ctesiphon after being smacked
+[16:47 --> 16:53] around by some cobbled together army led by an obscure Palmyrene.
+[16:53 --> 16:59] By putting Sharpor to flight though, obscure Oedonothus vanished forever, replaced in the
+[16:59 --> 17:05] minds of east and west alike by legendary Oedonothus.
+[17:05 --> 17:12] Legendary Oedonothus went on to become one of the most unique figures in Roman history.
+[17:12 --> 17:17] His capital was Palmyra, technically beyond the Roman frontier, and though he held Roman
+[17:17 --> 17:22] citizenship, he was still considered by most Romans to be a barbarian.
+[17:22 --> 17:28] A smart barbarian and a cultured barbarian, but a barbarian nonetheless.
+[17:28 --> 17:34] There is always something to be said for promoting men of merit wherever you can find them, and
+[17:34 --> 17:38] anytime the Romans faced a dire crisis, they always did well when they laid down their
+[17:38 --> 17:44] traditional class biases to elevate the most capable man to lead them out of the danger,
+[17:44 --> 17:48] whoever he might be and wherever he might come from.
+[17:48 --> 17:56] But the rank, power, and status gained by Oedonothus was something altogether different.
+[17:56 --> 18:01] After defeating the Sassanids, this foreigner essentially leased the eastern provinces from
+[18:01 --> 18:04] its Roman owners.
+[18:04 --> 18:10] He never held the title, but he lived in the house and he called the shots, all with Gallienus's
+[18:10 --> 18:13] technical blessing.
+[18:13 --> 18:17] Were he not viewed as the only thing standing between the Romans and a complete Sassanid
+[18:17 --> 18:22] takeover, nothing even remotely close to this arrangement would have been possible, and
+[18:22 --> 18:27] Oedonothus probably would have been executed for even suggesting it.
+[18:27 --> 18:32] But desperate times call for desperate measures, and in these desperate times the Romans gave
+[18:32 --> 18:41] themselves over to a Palmyrene prince who promised to keep the Persians at bay.
+[18:41 --> 18:46] As the west was giving itself over to Posthumus and the east was giving itself over to Oedonothus,
+[18:46 --> 18:51] there was one other trouble spot that Gallienus faced after his defeat of the Alamanni in
+[18:51 --> 18:54] 260 AD.
+[18:54 --> 18:58] Back on the northern frontier, the troops that had been left behind after Gallienus
+[18:59 --> 19:04] Italy following his suppression of Ingenus, were dealing with a host of German tribes
+[19:04 --> 19:09] ready, willing and able to overrun the Danube.
+[19:09 --> 19:14] As was the case with the Rhine legions, the Danube troops resented the emperor for dashing
+[19:14 --> 19:20] off after deeming their problems not sufficiently dire enough to remain in country with them.
+[19:20 --> 19:24] Again, their resentment may not have been rational.
+[19:24 --> 19:29] The emperor was after all going to defend Italy, the home province, the invasion of
+[19:29 --> 19:34] which probably was the most dire threat facing the empire at that particular moment.
+[19:34 --> 19:38] But that didn't stop them from taking the emperor's absence personally, and as they
+[19:38 --> 19:43] steeled themselves to fend off the Germans, they elevated one of their generals, a man
+[19:43 --> 19:48] named Regalianus, to the rank of emperor.
+[19:48 --> 19:53] As with Posthumus, the elevation was not taken by Regalianus as his cue to march on Rome
+[19:53 --> 19:56] and establish his authority over the capital.
+[19:56 --> 20:02] Instead, he took it as his cue to lead a vigorous defense of the Danube provinces, which he
+[20:02 --> 20:06] now considered his personal responsibility.
+[20:06 --> 20:13] So there were now at least three men, Gallienus, Posthumus and Regalianus, each claiming the
+[20:13 --> 20:19] title emperator, and it is possible that they were already joined by two more, the sons
+[20:19 --> 20:23] of Macrianus in the east.
+[20:23 --> 20:28] It is hard to tell when, in this mishmash of events, Quietus and Macrianus the Younger
+[20:28 --> 20:34] were elevated to the rank of coagusti by the eastern legions at the behest of their father,
+[20:34 --> 20:39] but it probably came not long after Odinothus' victory over Sharpor.
+[20:39 --> 20:44] It is not hyperbole to state that at this moment, the empire's executive leadership
+[20:44 --> 20:50] had never been as fractured, as local citizens and soldiers alike each looked to local commanders
+[20:50 --> 20:55] to see them through these dangerous times.
+[20:55 --> 21:01] In Italy, Gallienus still considered himself the ultimate master of the whole empire, and
+[21:01 --> 21:06] while his rivals focused on defending the borders, Gallienus focused on how to win back
+[21:06 --> 21:10] all that had so suddenly been stolen from him.
+[21:10 --> 21:16] Though the east and west would remain outside of his jurisdiction for the rest of his life,
+[21:16 --> 21:21] the Danube provinces were quickly brought back into the fold, as Regalianus was killed
+[21:21 --> 21:27] shortly after his elevation, battling a tribe of invading Germans.
+[21:27 --> 21:31] Gallienus immediately marched up from Italy to restore his mastery over the legion, and
+[21:31 --> 21:39] with the emperor on hand once again, the legions quickly fell back into line.
+[21:39 --> 21:44] One of the biggest problems facing Gallienus at this point was that events were unfolding
+[21:44 --> 21:50] so fast, and invasions occurring over such a wide area, that it was difficult to deploy
+[21:50 --> 21:54] legionary forces in a timely manner.
+[21:54 --> 21:59] For all his rushing about, Gallienus always seemed to be arriving too late to nip problems
+[21:59 --> 22:04] in the bud, and seemed to forever be showing up just in time to close the barn door after
+[22:04 --> 22:08] the horses had run off.
+[22:08 --> 22:14] This inability to efficiently reinforce hotspots was not just increasing the amount of devastation
+[22:14 --> 22:20] being wrought on the provinces, but, as we've just seen, it was also leading to an exponential
+[22:20 --> 22:25] increase in the number of usurpers challenging his rule.
+[22:25 --> 22:29] But if the provincial legions could be convinced that the emperor would be able to quickly
+[22:29 --> 22:35] provide help when they were attacked, Gallienus figured they would be less prone to supporting
+[22:35 --> 22:37] rivals.
+[22:37 --> 22:41] Right now though, the legionary apparatus was too cumbersome to move quickly from one
+[22:41 --> 22:44] zone to another.
+[22:44 --> 22:48] So Gallienus hit upon an idea that though it would not become official Roman policy
+[22:48 --> 22:55] for another generation, it would one day become a staple of Roman defenses in the 4th century,
+[22:55 --> 22:59] the mobile cavalry.
+[22:59 --> 23:04] Up until this point, cavalry units were attached to infantry legions, and they would all move
+[23:04 --> 23:07] around and fight together.
+[23:07 --> 23:11] But as quickly as the Roman legions could move, a couple of thousand foot soldiers are
+[23:11 --> 23:16] never going to be able to move as fast as a couple of thousand horsemen.
+[23:16 --> 23:21] What Gallienus did was collect all the various cavalry detachments and mass them together
+[23:21 --> 23:26] into a single force that would be run by a single commander and be answerable directly
+[23:26 --> 23:29] to the emperor.
+[23:29 --> 23:34] From this point on, wherever there was trouble, the emperor would order his mass cavalry unit
+[23:34 --> 23:42] to the scene, and in many cases, their mere presence would be enough to deter invaders.
+[23:42 --> 23:48] Not only did this cavalry serve as an excellent deterrent, it also served as a good psychological
+[23:48 --> 23:53] connection between the far-flung provincial legions and their emperor.
+[23:53 --> 23:59] They no longer felt they were being left to fend for themselves out on the frontier.
+[23:59 --> 24:03] Maybe the mobile cavalry wasn't based in their territory, but when they needed help, help
+[24:03 --> 24:06] was on the way.
+[24:06 --> 24:11] Gallienus strategically based this new force in the city of Milan, where they could keep
+[24:11 --> 24:16] an eye not just on Posthumus, whose long-term ambitions were at this point unknown, but
+[24:16 --> 24:22] also on any Germans thinking about crossing through the Alps into Italy.
+[24:22 --> 24:27] They were also near enough the Danube frontier that if the Goths got itchy feet, and they
+[24:27 --> 24:32] would over the next decade, the mobile cavalry could spring into action and be on the scene
+[24:32 --> 24:35] in no time.
+[24:35 --> 24:40] It was an idea born of the particular circumstances Gallienus was facing at the time, with domestic
+[24:40 --> 24:45] revolts and foreign invasions cropping up all around him.
+[24:45 --> 24:51] But in time, the wisdom of a permanent mobile defense force would become obvious.
+[24:51 --> 24:53] Times had changed.
+[24:53 --> 24:58] Simply posting legionary garrisons along the frontier was no longer sufficient to ward
+[24:58 --> 25:01] off foreign threats to the empire.
+[25:01 --> 25:06] There are many reasons why Gallienus' reign is seen as a period of transition, and the
+[25:06 --> 25:12] mobile cavalry is just one obvious example.
+[25:12 --> 25:15] Next week, we'll get into a few more examples.
+[25:15 --> 25:21] In particular, Gallienus' relationship with the Senate and the growing divide between
+[25:21 --> 25:27] a political career and a military career would lead to the armed forces finally becoming
+[25:27 --> 25:31] a completely separate branch of the state.
+[25:31 --> 25:36] Rome had always intermingled its political leaders with its military leaders, and indeed
+[25:36 --> 25:41] the most important function of the consul had, once upon a time, been to act as the
+[25:41 --> 25:44] commander-in-chief of the army.
+[25:44 --> 25:49] The days of combining military and civilian careers, though, was about to end, as the
+[25:49 --> 25:55] professionalization of the army, long established among the rank and file, was now finally reaching
+[25:55 --> 25:58] to the top of the chain of command.
+[25:58 --> 26:04] Henceforth, generals would now be generals, and politicians would be politicians, and
+[26:04 --> 26:08] only in the person of the emperor would they ever meet again.

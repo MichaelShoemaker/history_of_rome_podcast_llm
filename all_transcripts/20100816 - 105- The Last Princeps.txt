@@ -1,0 +1,321 @@
+# 20100816 - 105- The Last Princeps
+# Detected language: en
+# Duration: 1534.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to the History of Rome, episode 105, The Last Princeps.
+[00:14 --> 00:19] The reign of Alexander Severus was the calm before the storm.
+[00:19 --> 00:23] The clouds had begun to gather with the death of Marcus Aurelius, and they had only grown
+[00:23 --> 00:28] darker and more ominous as the empire endured first commonus, then a succession of imperial
+[00:28 --> 00:34] assassinations, then a three-way civil war, then a humorless military dictatorship run
+[00:34 --> 00:40] by Septimius Severus, and then finally the cruel debauchery of his heirs.
+[00:40 --> 00:45] When Elagobulus was killed by the Praetorian Guard in 222, it seemed like the lightning,
+[00:45 --> 00:49] and the thunder, and the rain was about to start.
+[00:49 --> 00:52] But then a curious thing happened.
+[00:52 --> 00:56] The dark clouds just sort of hung there and suspended animation.
+[00:56 --> 00:59] No thunder, no lightning, no rain.
+[00:59 --> 01:01] Not yet, anyway.
+[01:01 --> 01:06] For thirteen years, the Roman Empire was granted a stay of execution.
+[01:06 --> 01:12] The provinces flourished, the rule of law prevailed, and the burdens of life were eased.
+[01:12 --> 01:17] But in the end, it was just a stay of execution, not a full pardon.
+[01:17 --> 01:22] And when Alexander Severus was assassinated in 235, the thunder, and the lightning, and
+[01:22 --> 01:27] the rain, finally arrived.
+[01:27 --> 01:32] When discussing the very worst emperors in Roman history, it is common to point out that
+[01:32 --> 01:37] the most striking similarity between Caligula and Nero, and Commodus, and Caracalla, and
+[01:37 --> 01:41] Elagobulus, was how young they all were.
+[01:41 --> 01:46] The old man of that group is Caligula, who was all of 25 when he came to power.
+[01:46 --> 01:50] In fact, when you go back through the rolls, there are basically no examples of a Roman
+[01:50 --> 01:55] leader under the age of 30 being anything but a train wreck.
+[01:55 --> 01:59] The exception that proves the rule was, of course, Scipio Africanus, and he appears to
+[01:59 --> 02:04] have used up almost all the wisdom and talent the gods had ever planned on granting the
+[02:04 --> 02:06] under 30 set.
+[02:06 --> 02:12] In 222, though, Alexander Severus, ascending to the throne at the age of 13, broke this
+[02:12 --> 02:15] string of underage train wrecks.
+[02:15 --> 02:20] Somehow, he managed to scrape together whatever leftover residue of youthful confidence Scipio
+[02:20 --> 02:25] had not sucked up for himself, and he used it to rule the empire with something approaching
+[02:25 --> 02:30] wisdom for more than a decade.
+[02:30 --> 02:34] Probably the biggest determining factor in Alexander not becoming a horrible train wreck
+[02:34 --> 02:36] was his mother.
+[02:36 --> 02:40] A fact that I'm sure will make every mother out there nod their head in agreement, and
+[02:40 --> 02:44] make every teenager out there roll their eyes in annoyance.
+[02:44 --> 02:46] But guys, it's true.
+[02:46 --> 02:52] As different as Alexander was from his cousin, so too was his mother, Julia Mamia, different
+[02:52 --> 02:54] from her sister.
+[02:54 --> 02:59] Julia Mamia loved her son and wanted him to be happy, but was not so indulgent that she
+[02:59 --> 03:03] just let him do whatever he wanted.
+[03:03 --> 03:09] She took very seriously the fact that as emperor, Alexander had very serious responsibilities.
+[03:09 --> 03:15] She had seen up close the corrupting power of, well, power, and so did her best to shield
+[03:15 --> 03:18] her son from its worst effects.
+[03:18 --> 03:23] As we will see, Julia Mamia was no saint, and her own faults would become a big problem
+[03:23 --> 03:25] for the regime.
+[03:25 --> 03:29] But she was smart enough to know that her son would never last in power if he was allowed
+[03:29 --> 03:35] to give himself over to the pleasures of power while abdicating the responsibilities.
+[03:35 --> 03:39] And of course, standing over Julia Mamia's shoulder the whole time, making sure that
+[03:39 --> 03:45] she did right by her son, was her mother, Julia Misa, who would be damned if she was
+[03:45 --> 03:52] going to let some hormonal teenager blow the deal for her a second time.
+[03:52 --> 03:57] At 13, Alexander had neither the experience nor the education to run the government all
+[03:57 --> 03:59] by himself.
+[03:59 --> 04:03] Even with his mother and grandmother pulling the strings, there was simply not yet enough
+[04:03 --> 04:08] innate authority emanating from the boy to hold the regime together.
+[04:08 --> 04:14] So Julia Mamia went out of Colin on the most influential families in Rome and quickly organized
+[04:14 --> 04:20] a governing council composed of 16 widely respected senators.
+[04:20 --> 04:25] This had the effect not only of granting the new regime access to wisdom and experience
+[04:25 --> 04:29] they would not have been able to conjure on their own, but more importantly, it had the
+[04:29 --> 04:33] effect of co-opting the Senate.
+[04:33 --> 04:39] Bringing these 16 senators into the imperial fold meant cooling a potential hotbed of sedition
+[04:39 --> 04:43] and buying Alexander time to get on his feet.
+[04:43 --> 04:47] But, and this is where the Severans really played it smart, the governing council did
+[04:47 --> 04:51] not become just some blue-ribbon photo-op.
+[04:51 --> 04:56] They were given real, actual authority and every day debated and resolved the real issues
+[04:56 --> 04:59] facing the empire.
+[04:59 --> 05:04] Alexander sat at their head and as emperor he had the final say in everything, but the
+[05:04 --> 05:09] men of the council were not only listened to, they were usually deferred to.
+[05:09 --> 05:15] The senators on the council acquitted themselves admirably and Alexander was able to sort of
+[05:15 --> 05:21] ride his advisors good sense all the way to legitimacy city.
+[05:21 --> 05:25] He was lucky to have among their number two men of note who helped steer the ship of state
+[05:25 --> 05:28] wisely during these early years.
+[05:28 --> 05:35] First, the great jurist, Neus Domitius Aeneas Ulpianus, who we know today as Ulpian, and
+[05:35 --> 05:41] the historian, Cassius Dio, whose 80-volume history of Rome has provided a lot of the
+[05:41 --> 05:48] material that your humble podcast is based upon, especially these last few episodes.
+[05:48 --> 05:52] I'll deal with Cassius Dio a bit more in a second, but right now I want to focus on
+[05:53 --> 05:58] who was the predominant force during Alexander's first year in office.
+[05:58 --> 06:04] He had been born around 170 and had risen quickly up the political ranks until he became
+[06:04 --> 06:08] a member of Septimius Severus's advisory board.
+[06:08 --> 06:13] He remained a high-ranking imperial official after Severus's death and somehow managed
+[06:13 --> 06:18] to emerge from Caracalla's regime with his reputation intact.
+[06:18 --> 06:23] In fact, his reputation was so intact that when Elagobulus took power, Ulpian was banished
+[06:23 --> 06:29] from Rome for fear that he would prove to be a pain in the new emperor's far less
+[06:29 --> 06:32] virtuous backside.
+[06:32 --> 06:37] With Elagobulus's death, Ulpian was immediately recalled by Julia Mamia to serve on the council
+[06:37 --> 06:41] she was putting together to run the government for her son.
+[06:41 --> 06:47] Upon his return, Ulpian was named praetorian prefect and tasked most especially with untangling
+[06:47 --> 06:55] the knot of corruption and vice that had infected both the army and the imperial bureaucracy.
+[06:55 --> 07:00] Well above and beyond his distinguished political career though, Ulpian is best known as a legal
+[07:00 --> 07:03] scholar of the first order.
+[07:03 --> 07:08] Throughout his life, he wrote endless commentaries on the laws of the empire and his work was
+[07:08 --> 07:14] so highly regarded that when Justinian was compiling his definitive body of civil law,
+[07:14 --> 07:19] the writings of Ulpian represented a full third of Justinian's digest, the companion
+[07:19 --> 07:25] book to his more formal Justinian code, which compiled authoritative legal opinions and
+[07:25 --> 07:29] gave them the force of law.
+[07:29 --> 07:33] But despite the esteem within which he was held by emperors, he wound up despised by
+[07:33 --> 07:41] the praetorian guard and unfortunately was about to meet his mortal end.
+[07:41 --> 07:46] The first order of business for the council was to reverse the complete takeover of Rome
+[07:46 --> 07:54] by the sun god known as El Gabal or Sol Invictus and reinstate traditional Roman religion.
+[07:54 --> 07:58] As we will see down the road, this did not mean banishing the sun cult completely, it
+[07:58 --> 08:03] just meant that any temples expropriated by El Gabalus were returned to their original
+[08:03 --> 08:04] deities.
+[08:04 --> 08:09] Indeed, the worship of Sol Invictus remained popular and as previously noted during the
+[08:09 --> 08:14] history of Rome Christmas special, the popularity of the feast of the unconquered sun perhaps
+[08:14 --> 08:19] played a role in the Christian decision to celebrate the birth of Christ on December
+[08:19 --> 08:22] the 25th.
+[08:22 --> 08:27] Once the council got Rome right with the gods, they then went through the roles of the bureaucracy
+[08:27 --> 08:32] and reviewed every single man El Gabalus had appointed during his four years in power.
+[08:32 --> 08:38] Those found to be unqualified or corrupt, which is to say practically all of them, were
+[08:38 --> 08:43] immediately purged and replaced by men of far greater merit.
+[08:43 --> 08:47] Before Alexander's first year in office was up, the Romans were back to performing the
+[08:47 --> 08:52] religious ceremonies they had always performed and the government was back in the hands of
+[08:52 --> 08:57] men who knew what they were doing.
+[08:57 --> 09:02] Following the initial obvious moves to strip away the layers of El Gabalus' legacy, the
+[09:02 --> 09:06] council then set about instituting more ambitious reforms.
+[09:06 --> 09:10] Because they were not just dealing with the tainted legacy of El Gabalus, they were also
+[09:10 --> 09:13] dealing with the tainted legacy of Caracalla.
+[09:13 --> 09:18] Caracalla, you'll recall, had declared everyone in the empire a citizen so that they would
+[09:18 --> 09:24] all qualify for taxes that is mere subjects they had been exempted from.
+[09:24 --> 09:28] This had put an enormous financial burden on the provinces and was slowly eating away
+[09:28 --> 09:31] at their local economies.
+[09:31 --> 09:37] The big problem was that money that should have stayed at home was being shipped to Rome.
+[09:37 --> 09:41] Local municipalities were having a hard time raising revenue and local merchants were having
+[09:41 --> 09:46] a hard time finding anyone who could afford their goods and services.
+[09:46 --> 09:50] And it's not like the money headed to Rome was being sent back in the form of imperial
+[09:50 --> 09:55] reinvestment, no, it was just landing in the emperor's pocket and God knows what he was
+[09:55 --> 09:58] doing with it.
+[09:58 --> 10:03] So, soon after the governing council was formed, they initiated a mass cut of the insanely
+[10:03 --> 10:06] high tax rate that had been levied on the provinces.
+[10:06 --> 10:11] They balanced this reduction in imperial revenue by simply cutting back on all that lavish
+[10:11 --> 10:18] God knows what that Caracalla and El Gabalus had been up to.
+[10:18 --> 10:24] But their spending cuts, while well intentioned, struck a nerve that was dangerous to strike.
+[10:24 --> 10:26] The army.
+[10:26 --> 10:31] The troops had been taught to expect salaries and donatives and bonuses that far exceeded
+[10:31 --> 10:34] what the treasury could actually afford.
+[10:34 --> 10:39] So when Alexander and his governing council attempted to realign military spending and
+[10:39 --> 10:44] fiscal reality, well, let's just say that the average soldier didn't care much about
+[10:44 --> 10:51] fiscal realities, he just knew that some skin flint back in Rome was holding out on him.
+[10:51 --> 10:56] The army had been corrupted completely by the unsustainable excesses of previous emperors
+[10:56 --> 11:00] and now that someone who could tally up a debit column and a credit column and then
+[11:00 --> 11:05] compare the two was in charge, the army was in for a rude awakening.
+[11:05 --> 11:10] But actually what happened was more like the governing council was in for a rude awakening
+[11:10 --> 11:17] when they discovered what happened when they tried to reduce soldier pay.
+[11:17 --> 11:24] The pushback claimed its first victim in 223, just a year after Alexander took office.
+[11:24 --> 11:29] Despite Ulpian's merits, or perhaps because of them, the Praetorian guard quickly came
+[11:29 --> 11:34] to hate him for his annoying combination of frugality and discipline, and after a year
+[11:34 --> 11:40] of watching their privileges whittled away, the rank and file of the guard finally snapped.
+[11:40 --> 11:45] We don't know what the last straw was, but in early 223, there is no other way to put
+[11:46 --> 11:49] the Praetorians went berserk.
+[11:49 --> 11:54] For three days, Rome was engulfed by riots between the Praetorians who clamored violently
+[11:54 --> 11:59] for the head of Ulpian and the general population who loved him and attempted to defend him
+[11:59 --> 12:04] from the much better armed Praetorian cohorts.
+[12:04 --> 12:11] Finally though, the civilian mobs were broken up on the third day and Ulpian was left exposed.
+[12:11 --> 12:15] He managed to make it to the imperial palace, but despite the entreaties of Alexander, the
+[12:15 --> 12:20] soldiers murdered Ulpian right there at the feet of the young emperor.
+[12:20 --> 12:27] Their bloodlust sated, the guard returned to their camp and calm returned to the city.
+[12:27 --> 12:31] Unfortunately for Alexander though, and much to his embarrassment, there was little he
+[12:31 --> 12:35] could do about the riots or the murder.
+[12:35 --> 12:38] If he tried to come down on the Praetorians right away, they would just kill him as they
+[12:38 --> 12:43] had Elagobulus and find someone new to rule the empire.
+[12:43 --> 12:48] Though he was popular with the guard, he was not popular enough and he knew it so he had
+[12:48 --> 12:53] to endure the humiliation of watching his own bodyguards disobey direct orders, beat
+[12:53 --> 13:00] and kill innocent civilians, and then murder his chief advisor right in front of him.
+[13:00 --> 13:04] He identified the leaders of the insurrection though, and in time he promoted them away
+[13:04 --> 13:11] from Rome to positions in the provinces where they were duly punished for their past crimes.
+[13:11 --> 13:17] Once Ulpian was disposed of though, the guard seemed to return to their senses, and Alexander's
+[13:17 --> 13:21] regime appeared safe for the time being.
+[13:21 --> 13:27] But they were soon dealt another blow, and in 224, Julia Misa, the guiding light of the
+[13:27 --> 13:32] Severan comeback, died, leaving Alexander without his most cunning advisor, and leaving
+[13:32 --> 13:38] his mother in sole charge of Alexander's emerging character.
+[13:38 --> 13:43] In guiding her son, she took the most direct route she could think of, and physically limited
+[13:43 --> 13:48] the young emperor's access to those whom she did not approve of.
+[13:48 --> 13:53] The sycophants who always wind up circling power like flies around garbage were kept
+[13:53 --> 13:58] out of the palace, and Alexander was only allowed to spend time with teachers and senators
+[13:58 --> 14:03] and advisors who had been pre-screened by Julia.
+[14:03 --> 14:08] Also well aware that idle hands are the devil's plaything, she refused to allow Alexander
+[14:08 --> 14:11] to simply lay about in the palace all day.
+[14:11 --> 14:17] Instead, she forced him, not necessarily against his will, as it is difficult to distinguish
+[14:17 --> 14:22] his will from his mother's at this point, to go down to the forum and preside over the
+[14:22 --> 14:24] daily legal trials.
+[14:24 --> 14:29] As emperor, he was expected to be the supreme judicial authority in the empire, and he needed
+[14:29 --> 14:33] to get himself acquainted with the rigors of doing a good job at it.
+[14:33 --> 14:39] Naturally, he was advised by expert lawyers when making his decisions at first, but in
+[14:39 --> 14:44] time he learned how to be an impartial judge, and throughout his reign he always paid careful
+[14:44 --> 14:49] attention to his duties as the final arbitrator of justice.
+[14:49 --> 14:57] 224 AD is also notable for another significant development in the history of Rome, and for
+[14:57 --> 15:01] that matter, the history of the world.
+[15:01 --> 15:06] The collapse of the Parthian Empire and the rise of the Sassanids.
+[15:06 --> 15:12] For 400 years, the Parthian Empire had successfully ruled the remains of the old Persian Empire,
+[15:12 --> 15:18] and when it was united, it was more than a match for their neighbor to the west.
+[15:18 --> 15:23] But their devolved governmental structure and highly contested dynastic struggles meant
+[15:23 --> 15:28] that more often than not, the Parthian Empire was not united.
+[15:28 --> 15:33] In the early 200s AD, a royal family down in the southwest of the empire, that is, they
+[15:33 --> 15:39] were among the kings who the Parthian king of kings ruled, began to get ambitious about
+[15:39 --> 15:41] their fortunes.
+[15:41 --> 15:46] They muscled out other aristocratic families, and pretty soon were the dominant power in
+[15:46 --> 15:48] the region.
+[15:48 --> 15:52] With the Parthian royal family engaged in yet another dynastic struggle back in the
+[15:52 --> 15:58] eastern half of the empire, the eldest son of this family, a man named Sharpoor, established
+[15:58 --> 16:02] an almost completely autonomous kingdom near the Red Sea.
+[16:02 --> 16:08] After a dynastic struggle of their own brought his brother Artashir to power, the new king
+[16:08 --> 16:14] forced neighboring provinces to swear fealty to him and his family.
+[16:14 --> 16:18] Now that he was operating across borders, the Parthian king finally took notice of what
+[16:18 --> 16:24] was going on, and sent one of the neighboring governors to crush Artashir.
+[16:24 --> 16:27] But Artashir won the battle handily.
+[16:27 --> 16:32] So the Parthian king decided he needed to go put this upstart in his place, and personally
+[16:32 --> 16:34] led an army to do just that.
+[16:34 --> 16:39] But in the ensuing battle, Artashir not only crushed the Parthian army, but killed the
+[16:39 --> 16:42] king in the process.
+[16:42 --> 16:50] In 224, Artashir entered Tessiphone and had himself crowned king of kings.
+[16:50 --> 16:56] With Artashir's victory, the Parthian empire, as it had been known, came crashing down,
+[16:56 --> 17:00] replaced by what we call today the Sassanid empire.
+[17:00 --> 17:04] The name Sassanid likely derives from the name of Artashir's grandfather, who was the
+[17:04 --> 17:09] one who initiated the ambitions of the family.
+[17:09 --> 17:15] For the next 400 years, the Sassanids would rule an empire that at its height would extend
+[17:15 --> 17:19] from Egypt to India, and from Saudi Arabia to Russia.
+[17:19 --> 17:24] We will have much more to say about the Sassanids as we move forward, so for now, I'll stick
+[17:24 --> 17:30] with the particular machinations of its first king, Artashir.
+[17:30 --> 17:35] Not unlike Voligosses, who kicked off a war with Rome in the 160s AD because he took his
+[17:35 --> 17:41] string of domestic victories as proof that he was indestructible, Artashir was similarly
+[17:41 --> 17:46] convinced of his own irresistibility.
+[17:46 --> 17:50] Following his crowning as the new king of kings, he marched around the old dominions
+[17:50 --> 17:56] of the Parthians and established his own, far more centralized authority.
+[17:56 --> 18:03] By 230, he felt secure enough at home to begin looking beyond the frontier.
+[18:03 --> 18:08] No one would ever accuse Artashir of thinking small, and when he surveyed his new country,
+[18:08 --> 18:13] he believed that what was really his birthright was all the territory that had once encompassed
+[18:13 --> 18:15] old Persia.
+[18:15 --> 18:23] This meant Syria, and Egypt, and really, everything possessed by Rome as far west as the Hellespont.
+[18:23 --> 18:27] So yeah, he believed big.
+[18:27 --> 18:32] But I'll come back to Artashir and his coming invasion of Rome next week, and for now, we'll
+[18:32 --> 18:39] get back to Alexander as he tried to hold his own empire together.
+[18:39 --> 18:45] In 225, probably figuring that it was never too soon to begin producing legitimate heirs,
+[18:45 --> 18:52] Julia Mamia arranged for her now 16 year old son to marry the daughter of a prominent senator.
+[18:52 --> 18:56] But soon after the wedding, Julia discovered something horrible.
+[18:56 --> 19:01] Alexander actually liked his wife, and wanted to spend time with her.
+[19:01 --> 19:06] This of course cut into Julia's own time with the emperor, and was no doubt all kinds
+[19:06 --> 19:12] of threatening to her position as the preeminent woman in Alexander's life.
+[19:12 --> 19:18] So in 226 or 227, Julia made a move to restore balance to the universe.
+[19:18 --> 19:23] First, Alexander's father-in-law was accused of trying to turn the Praetorians against
+[19:23 --> 19:27] the young emperor, and for this crime, he was executed.
+[19:27 --> 19:32] Whether or not he actually did what they say he did is still an open question.
+[19:32 --> 19:39] And then second, in the aftermath of the scandal, Alexander's wife was exiled to Libya.
+[19:39 --> 19:45] The emperor was heartbroken, but he refused to go against his mother's wishes.
+[19:45 --> 19:50] This inability to stand up to his mother was the downside of Alexander's naturally mild
+[19:50 --> 19:52] temperament.
+[19:52 --> 19:55] This temperament was mostly great for the empire.
+[19:55 --> 19:59] He never slaughtered people at the drop of a hat, or plundered estates whenever the
+[19:59 --> 20:03] fancy struck, or started wars for no reason.
+[20:03 --> 20:08] But he also could never bring himself to challenge his mother, even when she began to become
+[20:08 --> 20:12] a liability.
+[20:12 --> 20:18] For these reasons, the reign of Alexander, as good as it was in comparison to his predecessors,
+[20:18 --> 20:21] was not all roses.
+[20:21 --> 20:26] Though the dark storm clouds still seemed to be biding their time, they were also constantly
+[20:26 --> 20:32] swirling and shifting, and generally making everyone nervous.
+[20:32 --> 20:37] Alexander's move to try to correct the exorbitant pay of the soldiers was a source of constant
+[20:37 --> 20:42] concern as uprisings and mutinies broke out to the tune of at least a couple of rebellions
+[20:42 --> 20:44] a year.
+[20:44 --> 20:49] These incidents were kept local and isolated, and put down one by one as soon as they cropped
+[20:49 --> 20:54] up, but there was definitely something to worry about in the pattern of often violent
+[20:54 --> 20:58] disobedience in the legions.
+[20:58 --> 21:03] Making matters worse was the fact that the Praetorians were not exempt from mutiny, as
+[21:03 --> 21:08] they had already so amply demonstrated when they rioted against Ulpian.
+[21:08 --> 21:14] So the imperial family had to remain on guard not just against insurrection in the provinces,
+[21:14 --> 21:17] but also insurrection in their own backyard.
+[21:17 --> 21:23] This fear took down the second great member of Alexander's governing council in 229,
+[21:23 --> 21:28] when Cassius Dio was exiled from Rome following threats by the Praetorians that they had grown
+[21:28 --> 21:33] tired of the sarcastic historian.
+[21:33 --> 21:38] Dio had been born in 155 in Bithynia into a wealthy family, and after enrolling as a
+[21:38 --> 21:43] senator during the reign of Commodus, he served in a variety of administrative posts during
+[21:43 --> 21:46] the reign of Septimius Severus.
+[21:46 --> 21:51] He became so trusted by the emperor that his political career was capped by Stimse as the
+[21:51 --> 21:58] governor of both Africa and Pannonia, two of the most important provinces in the empire.
+[21:58 --> 22:02] After Severus' death, Dio seems mostly to have retired from public life and spent the
+[22:02 --> 22:07] bulk of his time completing an 80-volume history of Rome.
+[22:07 --> 22:12] Written in Greek, the history begins with the arrival of Aeneas in Italy and went right
+[22:12 --> 22:16] up to the present day, that is, the reign of Alexander.
+[22:16 --> 22:21] Though only fragments remain of the monumental work today, the history by Cassius Dio is
+[22:21 --> 22:26] one of the most important resources we have in piecing together the story of the Roman
+[22:26 --> 22:29] Empire.
+[22:29 --> 22:34] When Alexander and with him some semblance of sanity came to power, Dio returned to public
+[22:34 --> 22:39] life to serve on Alexander's council, and it is said that he was held in particular
+[22:39 --> 22:42] esteem by the young emperor.
+[22:42 --> 22:48] That esteem is what made it so difficult for Alexander to react to the latest threats emanating
+[22:48 --> 22:50] from the Praetorian camp.
+[22:50 --> 22:56] The guard did not like Dio, and they wanted him gone, but at first Alexander tried to
+[22:56 --> 22:59] buck them and back his favorite historian.
+[22:59 --> 23:05] To demonstrate his loyalty, he and Dio shared a consulship in 229, but that only inflamed
+[23:05 --> 23:08] the guard even further.
+[23:08 --> 23:13] Noticing a bloody coup or abandoning his friend, Alexander was forced to choose the
+[23:13 --> 23:16] latter.
+[23:16 --> 23:20] Following their shared consulship, Cassius Dio was sent back home to Bithynia, where
+[23:20 --> 23:24] he died soon after.
+[23:24 --> 23:28] But Alexander would not have long to mourn for his dead advisor.
+[23:28 --> 23:34] In 230 AD, word came of a shocking development in the east.
+[23:34 --> 23:38] The new king of Parthia, wait, is it even still Parthia anymore?
+[23:38 --> 23:43] Had suddenly decided that he was going to invade Roman territory.
+[23:43 --> 23:48] He had gathered a massive army on the banks of the Tigris and was making periodic raids
+[23:48 --> 23:49] into the empire.
+[23:49 --> 23:52] And this wasn't small-time banditry either.
+[23:52 --> 23:59] By the looks of things, the new monarch of the east was planning something huge.
+[23:59 --> 24:03] Next week, Alexander will get his first taste of war.
+[24:03 --> 24:07] After the young emperor fails to settle things peacefully, he will need to muster an army
+[24:07 --> 24:16] to take on the most serious foreign threat to the empire since the days of the Marcomannic coalition.
+[24:16 --> 24:20] But before we go this week, I want to let you all in on something that the history of
+[24:20 --> 24:25] Rome has been working on for the last few months that is so close to being finalized
+[24:25 --> 24:29] that I'm going to go ahead and reveal its existence now, a little bit in advance of
+[24:29 --> 24:32] a formal announcement that I'll be making very soon.
+[24:32 --> 24:36] No, it's not a book, not yet.
+[24:36 --> 24:38] But how about this?
+[24:38 --> 24:42] An official history of Rome Roman history tour.
+[24:42 --> 24:46] All I'm going to say about it right now is that if you've ever thought about wanting
+[24:46 --> 24:51] to plan a Roman history themed vacation and were thinking maybe May 2011 sounded like
+[24:51 --> 24:56] a good time to go, well, then you should hold off for a minute on booking tickets until
+[24:56 --> 25:01] you have a chance to check out the details of the official history of Rome Roman history
+[25:01 --> 25:03] tour.
+[25:03 --> 25:06] Those details will be coming shortly and I can't tell you how excited I am about it
+[25:06 --> 25:10] because with a little luck, I'll see you in Rome.

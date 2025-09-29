@@ -1,0 +1,232 @@
+# 20100228 - 029- Tiberius Gracchus
+# Detected language: en
+# Duration: 928.05 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, Episode 29, Tiberius Gracchus.
+[00:13 --> 00:18] Last week, I partially summed up the domestic political and economic situation in Rome
+[00:18 --> 00:21] after the final victories of 146 BC.
+[00:22 --> 00:27] With the destruction of Carthage, Rome transitioned from what we now call the Middle Republican
+[00:27 --> 00:30] period into the Late Republican period.
+[00:30 --> 00:34] And even if you know nothing else about Roman history, you probably know that the Late
+[00:34 --> 00:37] Republican history was a time of intense turmoil.
+[00:38 --> 00:43] Today, we will enter the endgame of the Roman Republic and the first move will be
+[00:43 --> 00:46] made by Tiberius Sempronius Gracchus.
+[00:47 --> 00:54] Tiberius was born in 168 BC to Tiberius Gracchus the Elder in Cornelia Africana.
+[00:55 --> 00:58] His father was a well-respected member of the ruling elite.
+[00:59 --> 01:04] Though pleb by birth, by this time the distinction between patrician and pleb was
+[01:04 --> 01:08] less important than it had been in the past, and the Elder Gracchus was an upstanding
+[01:08 --> 01:09] defender of the old order.
+[01:10 --> 01:14] Over the course of his career, he had been tribune of the plebs, censor and
+[01:14 --> 01:15] twice consul.
+[01:16 --> 01:21] When he was tribune, the Elder Gracchus had taken sides with Scipio Africanus during
+[01:21 --> 01:26] the political battle over the great general's actions in the east and played a decisive
+[01:26 --> 01:28] role in securing an acquittal.
+[01:28 --> 01:33] In gratitude for this loyalty, Gracchus was given one of Scipio's daughters, Cornelia,
+[01:34 --> 01:34] in marriage.
+[01:35 --> 01:41] The match was unusual for the age difference, Gracchus at this point being 45 and Cornelia
+[01:41 --> 01:46] only 18, and also for the fact that there seemed to be genuine affection between
+[01:46 --> 01:50] them, something that was usually lacking from the political marriages of the upper
+[01:50 --> 01:50] class.
+[01:52 --> 01:57] Gracchus the Elder died in 154 BC when young Tiberius was only 14.
+[01:58 --> 02:02] Even up to that point, the father had spent much of his life in service to Rome and
+[02:02 --> 02:05] was a rarely seen figure at the family estate.
+[02:06 --> 02:11] The education of the boy as well as his brothers and sisters was overseen by Cornelia,
+[02:12 --> 02:16] who in later years would be honored as the living embodiment of the true Roman
+[02:16 --> 02:21] woman, the dutiful daughter of Rome's greatest general, the wife of a consul and mother
+[02:21 --> 02:24] of two of the most famous politicians in history.
+[02:25 --> 02:31] Her frugality and sense of honor and familial duty were lauded for years and in time
+[02:31 --> 02:35] she passed from being a living person into a sort of Virgin Mary figure for later
+[02:35 --> 02:36] Romans.
+[02:37 --> 02:42] She had three children survive into adulthood, Tiberius, his younger brother Gaius, and
+[02:43 --> 02:48] Sister Sempronia, who would wed Scipio Aemilianus, Sackor of Carthage and the dominant
+[02:48 --> 02:50] political force of his day.
+[02:51 --> 02:55] It is not an understatement to say that this particular nuclear family may be the
+[02:55 --> 02:58] most politically connected in Roman history.
+[03:01 --> 03:05] The career of Tiberius the younger began in Carthage when he was attached to the
+[03:05 --> 03:09] staff of his brother-in-law, and also I should mention uncle by way of adoption,
+[03:11 --> 03:12] Scipio Aemilianus.
+[03:13 --> 03:17] According to the legend, Tiberius was the first man over the walls of Carthage when
+[03:17 --> 03:19] the North Africans finally fell to Rome.
+[03:20 --> 03:24] It goes without saying that this story maybe, just maybe, is an embellishment
+[03:24 --> 03:26] created later by Tiberius's political supporters.
+[03:28 --> 03:32] After serving in North Africa, Tiberius was stationed in Spain, which had yet
+[03:32 --> 03:35] to be incorporated as an official Roman province.
+[03:36 --> 03:40] I believe I mentioned earlier the irony that Spain, being one of the first
+[03:40 --> 03:44] territories outside Italy the Romans moved into, was also one of the last
+[03:44 --> 03:46] to be officially pacified.
+[03:47 --> 03:52] During this particular period, the 130s BC, there was trouble around Numantia,
+[03:52 --> 03:55] and Tiberius served in the legions dispatched to break up a revolt.
+[03:57 --> 04:02] The resulting campaign was a complete disaster, however, and in 137 BC,
+[04:02 --> 04:05] 20,000 Roman soldiers were captured.
+[04:05 --> 04:09] Tiberius brokered a deal with the Spanish to secure the freedom of the
+[04:09 --> 04:13] legionnaires, but when the terms were brought back, the Senate rejected them
+[04:13 --> 04:17] out of hand, issuing a public rebuking of Tiberius for the dishonorable
+[04:17 --> 04:19] treaty he had brokered.
+[04:19 --> 04:23] Critically, the call to reject the treaty came from Scipio Aemilianus,
+[04:23 --> 04:27] making the rejection personal and embittering.
+[04:28 --> 04:33] I mentioned last week that after 146 BC, the ruling class began to lose their
+[04:33 --> 04:34] cohesion.
+[04:34 --> 04:38] The incident between the Senate and Tiberius Gracchus was an early
+[04:38 --> 04:39] indication of things to come.
+[04:40 --> 04:44] Though he was officially plebeian, Gracchus was clearly in the ruling
+[04:44 --> 04:48] party's camp, but after the stern questioning of his honor by the
+[04:48 --> 04:51] Senate, Tiberius would break from his colleagues and began to look to
+[04:51 --> 04:53] the people for political support.
+[04:53 --> 04:57] He was followed by others in the ruling party who began to look for
+[04:57 --> 05:01] ways to exalt themselves above and beyond the Senate by directly
+[05:01 --> 05:02] appealing to the will of the people.
+[05:04 --> 05:07] This was the early splintering of Rome into the familiar
+[05:07 --> 05:11] and famous political parties, the optimists and the populares.
+[05:12 --> 05:16] The optimists represented the old oligarchic supremacy of the Senate,
+[05:16 --> 05:20] while the populares supported reforms that would strip the
+[05:20 --> 05:24] disproportionate wealth and power that the elites held in their hands.
+[05:24 --> 05:28] Looking for good guys and bad guys in this division is nearly impossible.
+[05:29 --> 05:32] During the civil wars, it was the optimists, Cicero among them,
+[05:33 --> 05:36] who were the defenders of the republic, while the populares advocated for
+[05:36 --> 05:39] Caesar. But for all their platitudes about
+[05:39 --> 05:43] republican virtue, the optimists were interested merely in
+[05:43 --> 05:46] protecting their own position, not about protecting republicanism per
+[05:46 --> 05:50] se. Defenders of freedom and liberty were
+[05:50 --> 05:53] everywhere in word and nowhere indeed during the final
+[05:53 --> 05:54] century of the republic.
+[05:56 --> 06:00] For the next five years, Tiberius watched the lot of the Roman people go
+[06:00 --> 06:04] from bad to worse. Their farms were being bought up,
+[06:04 --> 06:07] slaves were taking their jobs, and a revolt in Sicily had brought
+[06:07 --> 06:10] critical grain importation to a standstill.
+[06:11 --> 06:14] All this left the average Roman desperate and impoverished,
+[06:14 --> 06:18] and it left Tiberius Gracchus with a golden political opportunity.
+[06:21 --> 06:25] In 133 BC, he stood for election as one of the ten pavilion tribunes for
+[06:25 --> 06:29] the year. Upon election, Gracchus embarked on
+[06:29 --> 06:32] one of the most ambitious and controversial tenures in Roman
+[06:32 --> 06:35] history. It probably would have been the most
+[06:35 --> 06:38] ambitious and controversial tenure in Roman history,
+[06:38 --> 06:41] had it not been for his brothers even more ambitious and even more
+[06:41 --> 06:44] controversial tenure a decade later.
+[06:46 --> 06:50] At the heart of Tiberius's popularity was his calls for aggressive agrarian
+[06:50 --> 06:53] reform. With all the eloquence his upper class
+[06:53 --> 06:57] education afforded him, Gracchus made common cause with the
+[06:57 --> 07:02] lowly disenfranchised farmer. As I noted last week, the largest
+[07:02 --> 07:04] states in Italy were growing larger by the day.
+[07:05 --> 07:08] Tiberius proposed to put a cap on the amount of land than a man could
+[07:09 --> 07:12] The proposal was wildly popular with the people,
+[07:12 --> 07:15] but how would Tiberius ever get the measure passed by the Senate, who not
+[07:15 --> 07:19] only hated the bill, but also the man who proposed it.
+[07:21 --> 07:24] Tiberius sidestepped this problem with a solution that only further enraged
+[07:24 --> 07:27] the Senate. He would simply bypass them.
+[07:28 --> 07:31] There was nothing in the law that said measures proposed in the
+[07:31 --> 07:33] people's assemblies had to be brought to the Senate for
+[07:33 --> 07:36] approval. It had just been a long-standing work in custom.
+[07:37 --> 07:41] So when Tiberius was elected Tribune, he simply made his pitch to the people
+[07:41 --> 07:44] and figured the rest would take care of itself.
+[07:45 --> 07:49] Unfortunately for Gracchus, though, by law any one of his Tribunate
+[07:49 --> 07:53] colleagues could veto the measure, and this was a law not merely a
+[07:53 --> 07:57] custom. So the Senate tapped an ally, a
+[07:57 --> 08:01] Tribune named Octavius, who vetoed the measure. No amount of
+[08:01 --> 08:04] fist-pumping or hand-wringing or demagoguery
+[08:04 --> 08:08] could change the immutable fact that if another Tribune vetoed a proposal,
+[08:08 --> 08:13] it was a dead issue. Tiberius moved that Octavius be voted out of office,
+[08:14 --> 08:17] but before that could happen, the vote had to be approved and Octavius
+[08:17 --> 08:21] vetoed that too. So Tiberius made a fateful move,
+[08:22 --> 08:25] ordering his supporters to physically remove Octavius,
+[08:25 --> 08:27] so he could no longer hinder the proceedings.
+[08:29 --> 08:32] Even Tiberius's supporters worried about the heavy-handed treatment of
+[08:32 --> 08:35] Octavius. A Tribune was, and had been since the
+[08:35 --> 08:39] inception of the office, sacrosanct, and by law no Roman could
+[08:39 --> 08:44] lay a hand on a Tribune. Only the immense popularity of Gracchus
+[08:44 --> 08:46] with the people allowed him to commit this utter
+[08:46 --> 08:50] sacrilege. Tiberius then took things one step
+[08:50 --> 08:54] further and announced that he was going to veto every bill in sight
+[08:54 --> 08:58] until he got his way. Even the most trivial measure was cut off without
+[08:58 --> 09:01] debate. Tiberius brought Rome to a complete
+[09:01 --> 09:05] standstill. The Senate, seeing the ease with which
+[09:05 --> 09:08] Tiberius had been able to physically manhandle a state officer
+[09:08 --> 09:12] and wishing to get the business of business moving again,
+[09:12 --> 09:17] allowed the reform bill to pass. A three-member commission was established
+[09:17 --> 09:21] to oversee the redistribution of land consisting of Tiberius, his younger
+[09:21 --> 09:25] brother Gaius, and inexplicably I know, Appius
+[09:25 --> 09:28] Claudius. I did a double take myself when I
+[09:28 --> 09:31] first learned that an Appius Claudius was on the side of a radical
+[09:31 --> 09:36] populist, but it's true. Tiberius had married the man's daughter
+[09:36 --> 09:40] and in the department of strange bedfellows this Appius Claudius
+[09:40 --> 09:44] did not join the family business of defending patrician rights
+[09:44 --> 09:47] with his every word and deed. The three sat down
+[09:47 --> 09:52] and began doling out land. They turned first to the land in
+[09:52 --> 09:56] Italy that had been held by soldiers who had been killed in battle.
+[09:56 --> 09:59] Supposedly that land was supposed to revert to the people,
+[09:59 --> 10:03] but enterprising senators had been occupying the unclaimed plots.
+[10:04 --> 10:07] The agrarian commission set about breaking the plots up and redistributing
+[10:07 --> 10:10] them. It is estimated that roughly 75,000
+[10:10 --> 10:15] new farms were created in that year. Unfortunately, lacking a proper budget,
+[10:16 --> 10:18] the entire endeavor was marked by inefficiency, confusion,
+[10:19 --> 10:24] and yes, corruption. Soon enough though, the question of Italian land took a
+[10:25 --> 10:29] to an even hotter question. King Ataullus III of Pergamum,
+[10:30 --> 10:33] nephew of the long-standing Roman ally during the Macedonian wars,
+[10:33 --> 10:39] Ataullus II, died in 133 BC and sensing that a dynastic struggle and
+[10:39 --> 10:41] inevitable Roman conquest would follow,
+[10:42 --> 10:45] the king willed Pergamum, which is today western Turkey,
+[10:45 --> 10:50] to the Roman people. The windfall was greeted by cheers in Rome,
+[10:50 --> 10:54] but pretty soon the question arose as to what exactly the king had
+[10:54 --> 10:58] meant. The Senate assumed that as responsible stewards of the state,
+[10:59 --> 11:02] that the land fell under their jurisdiction and would be parceled
+[11:02 --> 11:05] out and governed by the consuls and proconsuls of the ruling class.
+[11:07 --> 11:10] Tiberius and his allies, however, read the endowment literally and argued
+[11:10 --> 11:15] that Pergamum had been left to the people of Rome and therefore fell
+[11:15 --> 11:17] under the purview of the agrarian commission.
+[11:18 --> 11:21] Rome was in the midst of a land crisis and had been handed the
+[11:21 --> 11:25] answer to all of its problems on a silver platter. Settlements for everyone.
+[11:27 --> 11:31] But by again taking his proposal directly to the people and bypassing
+[11:31 --> 11:35] the Senate, Tiberius was playing with fire. The enmity between the Senate
+[11:35 --> 11:39] and Tiberius was deeply personal at this point. It is impossible to
+[11:39 --> 11:42] know which policies were pursued because they were thought best
+[11:42 --> 11:46] and which were pursued simply to poke the other side in the eye.
+[11:47 --> 11:52] The Senate, incensed, decided that the wisest course of action would be
+[11:52 --> 11:56] to simply wait. Tiberius's year in office would soon be up and once
+[11:56 --> 12:00] the shield of sacrosanctity was lifted, they would have their revenge.
+[12:01 --> 12:04] It was common knowledge that men were lining up around the block
+[12:04 --> 12:07] with charges they planned to file against Tiberius the moment he
+[12:07 --> 12:12] stepped down. Tiberius, recognizing that he may have gone too far,
+[12:12 --> 12:16] too fast, and with much too heavy of a hand, decided to go double or
+[12:16 --> 12:19] nothing and announced he was running for re-election.
+[12:20 --> 12:24] This was in clear violation of the prescribed annual term limit,
+[12:24 --> 12:28] but Tiberius pushed ahead, arguing that if the people's assembly
+[12:28 --> 12:32] saw fit to return him for another year, who was anyone to deny them
+[12:32 --> 12:38] that right? This was the last straw for a small cabal of conservative
+[12:38 --> 12:41] nobles who decided it was time for Tiberius to go.
+[12:42 --> 12:47] Led by Tiberius's own cousin and Octavius, the deposed tribune, a group
+[12:47 --> 12:51] of armed patricians descended on a public rally for Tiberius and ordered
+[12:51 --> 12:54] the people to disperse and cut off their support for this illegal
+[12:54 --> 12:58] candidate. The calculated fighting words did their work and a fight
+[12:58 --> 13:03] broke out. In the ensuing riot, Tiberius was targeted and clubbed
+[13:03 --> 13:07] to death. When told of the death of his brother-in-law,
+[13:07 --> 13:10] Scipio Emilianus reportedly quoted the Odyssey saying,
+[13:11 --> 13:13] so perish all who do the like again.
+[13:16 --> 13:19] Tiberius Gracchus had gotten the late republic off the ground with a bang.
+[13:20 --> 13:24] His extremism re-energized class struggles that had been dormant for
+[13:24 --> 13:28] centuries. The reactionary patricians, wrapped up in their own personal
+[13:28 --> 13:32] disdain for Tiberius the man, failed to see that he fronted a
+[13:32 --> 13:35] reform movement that had more than its fair share of legitimate
+[13:36 --> 13:40] grievances. Much of the time they failed to even pay lip service to
+[13:40 --> 13:43] the suffering of the common Roman family and succeeded merely in
+[13:43 --> 13:47] engendering further division. In their stubborn refusal to let go
+[13:47 --> 13:50] the old order, they practically guaranteed it would be smashed
+[13:50 --> 13:56] apart. On Tiberius's head, however, was the subsequent wholesale
+[13:56 --> 13:59] abandonment of long-standing traditions that had bound the
+[13:59 --> 14:03] state together by ambitious politicians. The removal of the
+[14:03 --> 14:07] Tiberian Octavius was an unprecedented move and, for better
+[14:07 --> 14:11] or for worse, laid bare before Rome the reality that their laws
+[14:11 --> 14:14] and traditions were just words, and that they could be broken
+[14:14 --> 14:17] with impunity if supported by a loud enough mob.
+[14:18 --> 14:21] The sacrosanctity of the tribunate went all the way back
+[14:21 --> 14:24] to the secession of the plebs in the first generation of
+[14:24 --> 14:28] the republic hundreds and hundreds of years ago. If such a
+[14:28 --> 14:30] long-standing tradition could be cast aside in the name of
+[14:30 --> 14:34] political expediency, what did the republic really have to
+[14:34 --> 14:38] stand on? It left the Romans without any guidelines, markers,
+[14:38 --> 14:43] rules, or boundaries. The next century would unfold as little
+[14:43 --> 14:46] more than a political free-for-all. Power was
+[14:46 --> 14:50] everyone's ultimate objective and might, henceforth, was
+[14:50 --> 14:54] the sole decider of right. Next week, we will meet
+[14:54 --> 14:58] Tiberius's younger brother, Gaius, who sought to outshine
+[14:58 --> 15:01] his brother, not just in the breadth and depth of his
+[15:01 --> 15:05] reform, but in the unflinching way he willed himself in power.

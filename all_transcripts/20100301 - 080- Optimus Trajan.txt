@@ -1,0 +1,295 @@
+# 20100301 - 080- Optimus Trajan
+# Detected language: en
+# Duration: 1307.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:13] Hello, and welcome to the History of Rome, episode 80, Optimus Trajan.
+[00:13 --> 00:17] As I said at the end of last week's episode, had Trajan died after his first decade in
+[00:17 --> 00:21] office he probably would have been viewed by history as a highly successful emperor.
+[00:21 --> 00:26] When he took power, the empire was still a bit hungover from the last paranoid days of
+[00:27 --> 00:31] and his predecessor Nerva had done nothing to settle anyone's stomach or cure anyone's
+[00:31 --> 00:33] headache.
+[00:33 --> 00:37] But the force of Trajan's personality had calmed a growing political crisis that might
+[00:37 --> 00:40] have engulfed a lesser man.
+[00:40 --> 00:44] A weaker emperor might have invited ambitious generals to replay the tragic events that
+[00:44 --> 00:50] followed the collapse of the Julio-Claudian dynasty in 68 AD, but Trajan was no weak emperor
+[00:50 --> 00:55] and the collapse of the Flavians was not accompanied by a destructive civil war.
+[00:55 --> 01:00] This feat by itself was an enormous accomplishment that is sometimes overlooked because it revolves
+[01:00 --> 01:04] around what didn't happen rather than what did happen.
+[01:04 --> 01:08] It's easy to hold a triumph for conquering Dacia, much harder to hold one for preventing
+[01:08 --> 01:11] a theoretical civil war.
+[01:11 --> 01:15] But of everything Trajan did over the course of his reign, the simple fact of the stability
+[01:15 --> 01:22] he provided was at least as important as anything else he did, if not more so.
+[01:22 --> 01:25] When the Julio-Claudians collapsed, there was war.
+[01:25 --> 01:28] When the Antonines collapsed, there was war.
+[01:28 --> 01:31] When the Severans collapsed, the empire almost fell apart.
+[01:31 --> 01:38] But when the Flavians collapsed, there was Trajan and so there was peace.
+[01:38 --> 01:42] Trajan is remembered as a martial emperor because he opened his reign with successful
+[01:42 --> 01:48] campaigns in Dacia and closed his reign with successful campaigns in Mesopotamia.
+[01:48 --> 01:52] But when you crunch the numbers, he spent the bulk of his time engaged in the mundane
+[01:52 --> 01:54] toils of civilian administration.
+[01:54 --> 02:00] Indeed, for seven undisturbed years after he returned from Dacia, the great general
+[02:00 --> 02:02] ruled an empire at peace.
+[02:02 --> 02:06] So what does a vigorous man of action do when there are no wars to fight?
+[02:06 --> 02:11] Apparently, he does everything in his power to enhance the material lives of the citizens
+[02:11 --> 02:14] that he rules.
+[02:14 --> 02:18] Trajan returned from Dacia laden with riches that he aimed to put to good use and apart
+[02:18 --> 02:23] from his precious triumphal arches, of which there are more than a handful, he directed
+[02:23 --> 02:27] all of that money directly into the infrastructure of the empire.
+[02:27 --> 02:32] I already mentioned the new forum Apollodorus built in Rome, but a new marketplace, creatively
+[02:32 --> 02:37] called Trajan's Marketplace, was erected in the capital at the same time as well as
+[02:37 --> 02:43] an extensive bath complex, creatively called the Baths of Trajan, that covered up the final
+[02:43 --> 02:46] remains of Nero's Golden Palace.
+[02:47 --> 02:51] Elsewhere in Italy, Trajan had a new harbor at Ostia built to put an end once and for
+[02:51 --> 02:56] all to the silting issues that had plagued the port town for generations.
+[02:56 --> 03:00] He also built a new road from Beneventum to Brindisium to provide an alternative to the
+[03:00 --> 03:05] winding and heavily trafficked Appian Way.
+[03:05 --> 03:09] Roads elsewhere in Italy and the provinces were expanded, upgraded, rebuilt, and generally
+[03:09 --> 03:15] improved with Apollodorus continuing to litter the European countryside with bridges across
+[03:15 --> 03:18] previously impassable rivers.
+[03:18 --> 03:22] There is no doubt that this investment in the roads did much to ensure the longevity
+[03:22 --> 03:28] of the empire, as both internal communication and the movement of troops sped up considerably.
+[03:28 --> 03:33] Of course, the Romans' magnificent road networks would eventually contribute to their
+[03:33 --> 03:37] undoing as it allowed barbarian hordes to march from the frontiers to the gates of Rome
+[03:37 --> 03:43] with alarming quickness, but centuries would pass before that unfortunate consequence emerged,
+[03:43 --> 03:47] so we ought not dwell on it now.
+[03:47 --> 03:52] Trajan was consumed not only with building projects but also general administrative duties.
+[03:52 --> 03:57] Though he delegated a great deal of responsibility to a grateful senate and did his best to empower
+[03:57 --> 04:03] governors to act on their own, there was still an avalanche of urgent, pressing, emergency,
+[04:03 --> 04:08] read first, triple exclamation point business for the emperor to attend to.
+[04:08 --> 04:13] To help us get a sense not only of Trajan's personal managerial style but also the kind
+[04:13 --> 04:18] of action items that passed through the emperor's inbox, we are lucky to have at our disposal
+[04:18 --> 04:23] the letters of Pliny the Younger, a contemporary and friend of Trajan's.
+[04:23 --> 04:28] Had not Pliny been left childless, he might never have been compelled to publish his correspondence
+[04:28 --> 04:34] so that he would be remembered by someone, anyone out there, but he was left childless,
+[04:34 --> 04:38] so we get the benefit of reading through, among other things, real-time conversations
+[04:38 --> 04:41] between the emperor and a loyal provincial governor.
+[04:42 --> 04:46] I don't want to get off on too much of a tangent, but Pliny really is an interesting
+[04:46 --> 04:51] guy, and since his letters fill in so much of the detail about daily life in early imperial
+[04:51 --> 04:57] Rome, detail that gets left out of the monument, inscriptions, and sanitorial decrees, he is
+[04:57 --> 05:00] worth pausing on for a moment.
+[05:00 --> 05:06] Born in 61 AD into the equestrian class, Pliny's father died when he was young, and by an odd
+[05:06 --> 05:11] little twist of fate, the younger Pliny's education was put in the hands of Virginia's
+[05:11 --> 05:15] Rufus, the same Virginia's Rufus who had refused to betray Nero at the beginning of
+[05:15 --> 05:19] the crisis of 68-69 AD.
+[05:19 --> 05:24] Young Pliny eventually traveled to Rome and continued his education, and while there,
+[05:24 --> 05:28] became close with his uncle, the famed naturalist Pliny the Elder.
+[05:28 --> 05:32] When Pliny the Elder died during the eruption of Mount Vesuvius, his will stipulated that
+[05:32 --> 05:37] the younger Pliny should inherit all of his estates and be posthumously adopted into his
+[05:37 --> 05:39] family.
+[05:39 --> 05:44] With his uncle's money backing him up, Pliny the Younger then embarked on a highly successful
+[05:44 --> 05:46] trip up to Cursus honorum.
+[05:46 --> 05:51] He served with distinction at every stop, and eventually became a well-respected lawyer,
+[05:51 --> 05:57] senator, and administrator, who counted among his friends the historians Tacitus and Suetonius,
+[05:57 --> 06:00] and of course, the Emperor Trajan.
+[06:00 --> 06:05] The Emperor so trusted Pliny that in 110 AD, when the provincial government of Vithynia
+[06:05 --> 06:10] Pontus seemed to be falling apart, Trajan sent his friend Pliny to clean the situation
+[06:10 --> 06:11] up.
+[06:11 --> 06:16] In the two years that followed, Pliny and Trajan exchanged letters that touched on all
+[06:16 --> 06:19] aspects of imperial administration.
+[06:19 --> 06:24] The correspondence provides a rare window into the daily grind of managing an empire and
+[06:24 --> 06:29] Trajan's philosophy of government, which seems to be founded on moderation, tradition, and
+[06:29 --> 06:32] common sense.
+[06:32 --> 06:36] Among the litany of topics discussed were whether soldiers should be used as prison
+[06:36 --> 06:37] guards.
+[06:37 --> 06:39] No, keep using the public slaves.
+[06:39 --> 06:42] Whether the Emperor could send out some land surveyors.
+[06:42 --> 06:46] No, I can't afford to, but I'm sure you'll be able to find qualified provincials to help
+[06:46 --> 06:47] you out.
+[06:47 --> 06:51] Whether Pliny could authorize the rebuilding of some public baths.
+[06:51 --> 06:57] Yes, as long as no new taxes are levied and all other essential services continue uninterrupted.
+[06:57 --> 06:59] Whether a volunteer fire company could be chartered.
+[07:00 --> 07:05] No, whatever the public good, associations like that always lead to political discord.
+[07:05 --> 07:08] How to handle criminals that had escaped punishment.
+[07:08 --> 07:12] If their crime was less than ten years ago, round them up and put them to work in the
+[07:12 --> 07:13] mines.
+[07:13 --> 07:17] If greater than ten years ago, put them to work as janitors in the public baths.
+[07:17 --> 07:23] And of course, there was the famous question of what to do about the Christians.
+[07:23 --> 07:27] Over the course of the last fifty years or so, more and more adherence to this strange
+[07:27 --> 07:32] new cult had begun popping up all over the Eastern Empire.
+[07:32 --> 07:36] Professing a monotheism that forbade them from worshipping the accepted deities of the
+[07:36 --> 07:42] Roman world, including the deified emperors, governors across the empire were vexed over
+[07:42 --> 07:45] the question of just what to do with these people.
+[07:45 --> 07:50] They seemed docile enough, but then again, they also seemed to be actively fomenting
+[07:50 --> 07:53] sedition against imperial authority.
+[07:53 --> 07:57] Many wrote to Trajan for instructions after being handed some lists anonymously that
+[07:57 --> 08:01] named active Christians in Pliny's province.
+[08:01 --> 08:05] The Christians were clearly violating Trajan's injunction against the formation of independent
+[08:05 --> 08:10] political societies, but how severely should they be punished?
+[08:10 --> 08:12] Trajan's reply was brief, but to the point.
+[08:12 --> 08:15] Forget about the lists, he said.
+[08:15 --> 08:21] Relying on anonymous informants is a slippery slope that leads to counterproductive tyranny.
+[08:21 --> 08:24] If someone gets hauled into court because there is independent proof that they are a
+[08:24 --> 08:28] Christian, then give them the chance to renounce their religion.
+[08:28 --> 08:32] If they don't, then punish them as you would any other seditious troublemaker.
+[08:32 --> 08:36] But if they do, then let them go free and know worse for the wearer.
+[08:36 --> 08:42] Basically, there is no point in actively persecuting the Christians, but if they wind up on your
+[08:42 --> 08:46] doorstep unrepentant, then punish away.
+[08:46 --> 08:50] The question of what to do with the growing society of Christians in the empire would
+[08:50 --> 08:56] continue to befuddle emperors for the next 200 odd years, who alternatively ignored them,
+[08:56 --> 09:05] embraced them, or persecuted them, until Constantine put the issue to rest and by that sign, conquered.
+[09:05 --> 09:09] Trajan's time playing the part of enlightened despot was a productive and beneficial time
+[09:09 --> 09:15] for the empire, and indeed, he was quickly given the title optimus, or the best, to add
+[09:15 --> 09:18] to his litany of honorifics.
+[09:18 --> 09:21] The emperor had spent his entire life under arms.
+[09:21 --> 09:28] There was little chance he was going to pass the rest of his reign in peaceful domesticity.
+[09:28 --> 09:34] Luckily for Trajan, in 113 AD, events conspired to provide the old general with one last opportunity
+[09:34 --> 09:37] for military glory.
+[09:37 --> 09:42] After the victories of Corbulo during the reign of Nero, Rome and Parthia had come to
+[09:42 --> 09:46] an understanding over the semi-independent kingdom of Armenia.
+[09:46 --> 09:52] Parthia was allowed to pick who ruled the kingdom, but Rome had to ratify the choice.
+[09:52 --> 09:58] In 113, the Parthians dutifully nominated a new king to fill the recently vacated throne,
+[09:58 --> 10:04] but the choice, the Parthian king's own nephew, was deemed unacceptable by Trajan.
+[10:04 --> 10:09] But the Parthians decided to test the limits of Rome's disapproval and refused to remove
+[10:09 --> 10:12] the offending monarch from the throne.
+[10:12 --> 10:16] Whether or not Trajan was waiting for some pretext, any pretext, to launch a campaign
+[10:16 --> 10:20] in the east, or whether he was really and truly motivated to action by the question
+[10:20 --> 10:27] of Armenian succession, is still an open question, but the results were the same.
+[10:27 --> 10:32] Trajan headed east, gathered up his legions, and invaded the kingdom of Armenia.
+[10:32 --> 10:38] In 114, Trajan easily dismantled the Armenian defense force and overthrew the offending
+[10:38 --> 10:42] Armenian king, who would later die in Roman custody.
+[10:42 --> 10:46] The emperor, though, had no plans to place his own puppet on the throne.
+[10:46 --> 10:52] Instead, he declared his intention to formally annex the kingdom and reorganize it as a Roman
+[10:52 --> 10:54] province.
+[10:54 --> 10:58] He spent the rest of the year overseeing the creation of the new province of Armenia and
+[10:58 --> 11:02] demanding the recognition of Roman hegemony from northern tribes who inhabited the Black
+[11:02 --> 11:04] Sea coast.
+[11:04 --> 11:09] Had he stopped there, we could probably state with confidence that Trajan had in fact been
+[11:09 --> 11:14] animated to action by little more than the unacceptable situation in Armenia.
+[11:14 --> 11:19] But as soon as Armenia was annexed, Trajan immediately turned south and marched out on
+[11:19 --> 11:24] what was clearly now an open-ended war of conquest.
+[11:24 --> 11:29] In 115, Trajan emerged from the mountains of Armenia into the deserts of Mesopotamia
+[11:29 --> 11:33] and launched himself against the Parthian Empire.
+[11:33 --> 11:38] At the time, the Parthian kingdom was divided by internal political discord, which was one
+[11:38 --> 11:42] of the reasons the king had felt it necessary to place his nephew on the throne of Armenia
+[11:42 --> 11:46] in the first place, and the great empire of the east was able to offer little resistance
+[11:46 --> 11:50] to Trajan's invading legions.
+[11:50 --> 11:55] By 116, the Romans already controlled enough territory to organize a new province between
+[11:55 --> 11:59] the Tigris and Euphrates rivers that Trajan dubbed Mesopotamia.
+[11:59 --> 12:04] He then sent two legions south to secure key cities, with one eventually capturing the
+[12:04 --> 12:07] ancient city of Babylon.
+[12:07 --> 12:11] Trajan himself gathered a fleet and set sail with the rest of the legions down the Euphrates
+[12:11 --> 12:13] river.
+[12:13 --> 12:18] After riding that river for a ways, Trajan ordered the fleet hauled overland to the Tigris,
+[12:18 --> 12:23] where they would continue south on their way to capture Seleucia and the Parthian capital,
+[12:23 --> 12:26] both of which lay on the Tigris.
+[12:26 --> 12:31] Encountering little resistance, Trajan seized the Parthian capital, and, leaving behind
+[12:31 --> 12:35] a garrison, continued down the Tigris to the Persian Gulf, where he seized the important
+[12:35 --> 12:38] port city of Charks.
+[12:38 --> 12:42] In less than two years' time, Trajan had cut out a huge chunk of Parthian territory
+[12:42 --> 12:46] and annexed it into the Roman Empire.
+[12:46 --> 12:50] His only regret, expressed while standing at the shores of the Persian Gulf, was that
+[12:50 --> 12:58] his advanced age prevented him from following Alexander the Great all the way to India.
+[12:58 --> 13:02] It seems that the emperor's original intention was to conquer the entire Parthian Empire
+[13:03 --> 13:05] and rule it directly from Rome.
+[13:05 --> 13:11] But the swiftness of his victories hid the superficiality of Roman control.
+[13:11 --> 13:14] No sooner had he reached the Gulf than he was forced to turn around and deal with a
+[13:14 --> 13:19] Parthian insurrection led by another of the Parthian king's nephews.
+[13:19 --> 13:24] Though the legions were able to defeat the Parthian army, further revolt, including a
+[13:24 --> 13:28] serious Jewish uprising that was beginning to engulf the whole southeastern quadrant
+[13:28 --> 13:33] of the empire, led Trajan to scale back his ambition.
+[13:33 --> 13:38] Rather than attempt direct rule of Parthia, he decided to impose a puppet on the throne
+[13:38 --> 13:43] and make Parthia the greatest Roman client kingdom of them all.
+[13:43 --> 13:49] In late 116, Trajan was trying to root out the last holdout city in his new Mesopotamian
+[13:49 --> 13:54] province when he suffered heat stroke under the strong desert sun.
+[13:54 --> 13:59] Plagued by supply issues caused by the spreading Jewish revolt, Trajan decided to withdraw
+[13:59 --> 14:04] from the siege, spread his troops out to quell the revolt, while he himself returned to Italy
+[14:04 --> 14:11] to recuperate from what was proving to be a physically trying campaign.
+[14:11 --> 14:15] In 117, he began the long trek back to Rome.
+[14:15 --> 14:21] But putting into port in Cilicia, his body finally gave out and on August 9, 117 AD,
+[14:21 --> 14:26] the emperor Trajan died, one month shy of his 64th birthday.
+[14:26 --> 14:31] He had ruled Rome for 19 glorious years.
+[14:31 --> 14:34] Now I know what you're possibly thinking at this point.
+[14:34 --> 14:35] Is that it?
+[14:35 --> 14:41] Here we are talking about a man who led Rome for longer than any emperor since Tiberius,
+[14:41 --> 14:45] a man who is widely considered one of the two or three best emperors ever, and all he
+[14:45 --> 14:48] gets is the better part of two episodes.
+[14:48 --> 14:53] Unfortunately, the answer is yes, that's all he is going to get.
+[14:53 --> 14:57] The problem with Trajan is that we run into a paucity of primary source accountants of
+[14:57 --> 14:59] his reign.
+[14:59 --> 15:05] Plutarch and Tacitus and Suetonius all lived in and around his reign and prudently avoided
+[15:05 --> 15:08] commenting on the sitting emperor.
+[15:08 --> 15:12] So the key sources that we used for everything up to this point just sort of cut out around
+[15:12 --> 15:14] the reign of the Flavians.
+[15:14 --> 15:19] For Trajan, we are left with snippets from Cassius Dio, inscriptions from monuments,
+[15:19 --> 15:24] coins and building projects like the triumphal column in Rome, the letters he exchanged with
+[15:24 --> 15:29] Pliny, and scattered summaries from historians like Aurelius Victor, who would not be born
+[15:29 --> 15:31] for centuries.
+[15:31 --> 15:36] All in all, it leaves us with a dissatisfying amount of information about an emperor who
+[15:36 --> 15:41] was so highly regarded and who was so important to the present and future greatness of the
+[15:41 --> 15:42] empire.
+[15:43 --> 15:44] Such is life.
+[15:44 --> 15:49] We will run into similar difficulties with Hadrian and then hit bottom with Antoninus
+[15:49 --> 15:55] Pius, whose only existent biography is in the Augustan history, a notoriously unreliable
+[15:55 --> 15:59] collection of imperial biographies that we should probably just pretend doesn't exist
+[15:59 --> 16:02] at all.
+[16:02 --> 16:08] But despite the lack of detail, the broad sweeps of Trajan's legacy are well understood.
+[16:08 --> 16:13] He was the first emperor to be drawn from the provinces rather than the Italian peninsula,
+[16:13 --> 16:17] a major landmark that allowed men of merit from across the empire to believe that every
+[16:17 --> 16:20] door in the empire was open to them.
+[16:20 --> 16:27] In time, other Spaniards and Syrians and Thracians, and most famously a series of Illyrians,
+[16:27 --> 16:30] would come to dawn the purple and rule the empire.
+[16:30 --> 16:35] Had Trajan not been so successful in practically everything he set out to do, it is possible
+[16:35 --> 16:40] that the Roman aristocracy would have associated his failures with his provincial status and
+[16:40 --> 16:46] banished forever any other provincial from reigning, shutting off a pipeline of talent
+[16:46 --> 16:52] that would in time save rather than destroy the empire.
+[16:52 --> 16:55] Trajan was also the last of the great conquering Romans.
+[16:55 --> 16:59] The outward expansion of the empire had been a defining feature of the Roman character
+[16:59 --> 17:04] for hundreds of years, but in the last century it was a driving impulse that had been left
+[17:04 --> 17:07] to wither on the vine.
+[17:07 --> 17:12] Trajan reintroduced the glory and riches and satisfaction that accompanied foreign conquest
+[17:12 --> 17:17] and that for so long had been denied the Roman ego.
+[17:17 --> 17:22] The province of Dacia was an enormously valuable acquisition, and though most everything he
+[17:22 --> 17:26] took in the east would be abandoned by his prudent successor, the dispatches that came
+[17:26 --> 17:31] back to Rome detailing the capture of the Parthian capital and the seizure of a port
+[17:31 --> 17:36] on the far-off Persian Gulf were reminiscent of Caesar's dispatches from Gaul, and the
+[17:36 --> 17:41] people and senate both reveled in the glory of it all.
+[17:41 --> 17:45] In the coming centuries great generals would come and go and great battles would be won
+[17:45 --> 17:50] and lost, but it was all in the defense of what the empire already was rather than in
+[17:50 --> 17:54] the pursuit of what it could be.
+[17:54 --> 17:59] As I said at the beginning, Trajan was Rome at its greatest extent, and for that he would
+[17:59 --> 18:04] remain the envy of every future Roman general.
+[18:04 --> 18:07] Then there is the legacy he left administratively.
+[18:07 --> 18:13] He came to power inheriting your Lord and God demissions centralized autocracy and left
+[18:13 --> 18:18] behind a substantially devolved principate that relied on the sound judgment of provincial
+[18:18 --> 18:22] governors and the input of the senate.
+[18:22 --> 18:26] In all his letters with Pliny he stressed over and over again that the guiding principle
+[18:27 --> 18:31] that they did should be the welfare of the people.
+[18:31 --> 18:36] Ruling was not about living a lavish life or indulging egotistical power trips.
+[18:36 --> 18:40] It was about guaranteeing that your subjects not only survive in a cold hard world but
+[18:40 --> 18:42] thrive in it.
+[18:42 --> 18:47] These principles would guide the policies of his successors and Trajan's model of enlightened
+[18:47 --> 18:54] despotism would see the empire reach its full potential in the decades to come.
+[18:54 --> 18:59] In this though his legacy was all too fleeting and the inevitable slip from positive monarchy
+[18:59 --> 19:03] to negative tyranny came just sixty years later.
+[19:03 --> 19:08] But for the next little while all would be well with the world thanks to the wise precedent
+[19:08 --> 19:11] Trajan set.
+[19:11 --> 19:15] His final legacy though was his choice of successor.
+[19:15 --> 19:21] Just as Nerva had balanced all of his missteps by bringing Trajan into the imperial fold,
+[19:21 --> 19:26] Trajan himself would put the cherry on the top of an already brilliant career by naming
+[19:26 --> 19:30] his former ward Hadrian as heir.
+[19:30 --> 19:35] Hadrian is on the short list of all time greatest emperors himself and the seamless transition
+[19:35 --> 19:40] from the one to the other turned the whole first third of the second century into one
+[19:40 --> 19:43] bright shiny package.
+[19:43 --> 19:47] But the trick to this final legacy is that Trajan may not have been the one behind it
+[19:47 --> 19:50] at all.
+[19:50 --> 19:54] We'll get into the early years of the next emperor's biography next week but for now
+[19:54 --> 19:59] let it suffice to say that Trajan and his wife Pompeya had been the boy's guardian
+[19:59 --> 20:05] after Hadrian's father died and Pompeya was enormously fond of him.
+[20:05 --> 20:11] There is speculation bordering on confirmed fact that when Trajan died in Cilicia in 117
+[20:11 --> 20:16] he had not yet named an heir and that he may have intended power to transfer to one of
+[20:16 --> 20:19] the generals that he left in charge of the armies in the east when he made his way back
+[20:19 --> 20:22] to Rome.
+[20:22 --> 20:26] Pompeya though had long lobbied for Hadrian and when Trajan died without leaving explicit
+[20:26 --> 20:32] instructions, there is suspicion that she manufactured fake orders stipulating the dead
+[20:32 --> 20:36] emperor's posthumous adoption of her favorite Hadrian.
+[20:36 --> 20:41] While not quite as awesome as Edith Wilson's secret presidency, Pompeya's clandestine
+[20:41 --> 20:47] plot to put Hadrian on the throne was a plot that bore fruit for Rome for the next 20 years
+[20:47 --> 20:53] and cemented her own legacy as a woman of farsighted wisdom.
+[20:53 --> 20:58] Next week we'll begin to unpack the fruits of Pompeya's labors and introduce an emperor
+[20:58 --> 21:04] who embodied the virtues of a renaissance man, equally skilled in war and poetry and
+[21:04 --> 21:09] philosophy and rhetoric and architecture and whose mind raced daily with ways to improve
+[21:09 --> 21:13] and refine everything that surrounded him.
+[21:13 --> 21:17] It should come as no surprise then that the legacy of such a learned and impressive leader
+[21:17 --> 21:19] is generally Hadrian?
+[21:19 --> 21:23] Yeah, didn't he like build a wall or something?

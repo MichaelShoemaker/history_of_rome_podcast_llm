@@ -1,0 +1,310 @@
+# 20110307 - 129- Abdication
+# Detected language: en
+# Duration: 1637.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:05 --> 00:09] internet's leading provider of audio entertainment with over 80,000 titles to
+[00:09 --> 00:14] choose from. When you're done with this episode, go to audiblepodcast.com
+[00:14 --> 00:20] forward slash Rome. That again audiblepodcast.com forward slash Rome. By
+[00:20 --> 00:24] going to that address, you qualify for a free book download when you sign up for
+[00:24 --> 00:28] a 14-day trial membership. There is no obligation to continue the service and
+[00:28 --> 00:33] you can cancel any time and keep the free book. You can also keep going with
+[00:33 --> 00:36] one of the monthly subscription options and get great deals on all your future
+[00:36 --> 00:42] audiobook purchases. This week I am going to shift gears completely. Since we've
+[00:42 --> 00:46] fairly well plundered all the ancient Roman titles in the Audible library at
+[00:46 --> 00:51] this point, I think it would be fun to throw open this section to listener
+[00:51 --> 00:55] recommendations. What are you listening to that you think other history of Rome
+[00:55 --> 01:01] listeners might enjoy? Drop a comment at thehistoryofrome.typepad.com and
+[01:01 --> 01:06] let's recommend stuff to each other. But before you do that, go to audiblepodcast.com
+[01:06 --> 01:11] forward slash Rome.
+[01:14 --> 01:24] Hello and welcome to the history of Rome, episode 129, abdication.
+[01:24 --> 01:30] Now that we know how everything turned out, I think it's safe to say that 303 AD
+[01:30 --> 01:36] marked the beginning of the end for Diocletian and his Tetrarchy. Beyond the
+[01:36 --> 01:41] great persecution and all the long-term ill effects that came with it, 303 also
+[01:41 --> 01:47] saw Diocletian stricken by an illness that plagued him for so long and was so
+[01:47 --> 01:52] nearly fatal that calling it a brush with death doesn't quite do it justice.
+[01:52 --> 01:59] It was more like an extended staring contest. When death finally blinked,
+[01:59 --> 02:03] though, Diocletian did not take it as a sign that he was destined to live and
+[02:03 --> 02:08] rule forever. Instead, he took it as a reminder that he was mortal, that he was
+[02:08 --> 02:13] not long for this world, and that it was time to initiate his last and most
+[02:13 --> 02:19] audacious plan yet. Despite the unpleasantness of the great
+[02:19 --> 02:25] persecution, 303 AD was otherwise supposed to be a banner year for the
+[02:25 --> 02:30] Tetrarchy. The Romans loved their anniversaries, and the year was about to
+[02:30 --> 02:36] see two big imperial milestones come to pass. In March, the two Caesars, Galerius
+[02:36 --> 02:40] and Constantius, would celebrate the tenth anniversary of their ascension to
+[02:40 --> 02:45] the purple, and in November, Diocletian would enter the twentieth year of his
+[02:45 --> 02:50] reign. The senior Augustus had every intention of celebrating both
+[02:50 --> 02:56] anniversaries in unprecedented fashion, and so he took this opportunity to play
+[02:56 --> 03:02] the one card he had thus far kept hidden deep in his hand. After 20 years of
+[03:02 --> 03:09] neglect and disdain, it was finally time for the Emperor of Rome to visit Rome.
+[03:09 --> 03:13] Word went out to the citizens of the Eternal City that they were about to get
+[03:13 --> 03:17] their first look at Diocletian, and preparations immediately went into
+[03:17 --> 03:24] overdrive to greet him with all Rome had to offer. The city fathers saw it as an
+[03:24 --> 03:28] opportunity to fully impress upon Diocletian that whatever his political
+[03:28 --> 03:33] aims had been in refusing to visit the true capital of the Empire, that Rome
+[03:33 --> 03:40] could not be denied forever. She was too big, too rich, and too important to simply
+[03:41 --> 03:46] Rome's day would come again, and they planned to make sure that Diocletian
+[03:46 --> 03:51] bore witness to that fact. For the lower classes, the imminent arrival of the
+[03:51 --> 03:59] Emperor meant only one thing, festivals and games on a massive scale. It was with
+[03:59 --> 04:02] great anticipation then that the citizens of Rome awaited the imperial
+[04:02 --> 04:08] entourage, and when it finally arrived, no one was disappointed. No one, that is,
+[04:08 --> 04:15] except Diocletian. On his way to Rome, Diocletian swung through Milan and picked
+[04:15 --> 04:20] up Maximian, who apart from a brief campaign in North Africa, had spent the
+[04:20 --> 04:25] last few years taking it easy in northern Italy. The two Augusti then
+[04:25 --> 04:30] entered Rome together in November of 303, just in time to welcome Diocletian's
+[04:30 --> 04:33] 20th anniversary year and inaugurate games that would simultaneously
+[04:34 --> 04:40] celebrate that milestone and the decade milestone of the two Caesars. The plan
+[04:40 --> 04:46] was then for him to remain in the city until January 1st, at which point he and
+[04:46 --> 04:50] Maximian would stand on the Capitoline Hill and be invested with the year's
+[04:50 --> 04:57] consulships. Hey, remember consulships? Just like the Romans of old, but it
+[04:57 --> 05:03] quickly became apparent that things were not going to go according to plan. Things
+[05:03 --> 05:07] started out alright, as Diocletian took a tour of the city to inspect the
+[05:07 --> 05:12] various building projects he had commissioned over the years. Despite his
+[05:12 --> 05:17] political disdain for the city, Diocletian had always been conscious of
+[05:17 --> 05:20] the symbolic importance of the old capital and felt that it would be in bad
+[05:20 --> 05:25] taste to let the city fall into disrepair. So when, for example, the Senate
+[05:25 --> 05:30] House burned down, Diocletian did not hesitate to rebuild it, and the curia
+[05:30 --> 05:37] that stands in the Forum today is the ruin of Diocletian's final rebuild. The
+[05:37 --> 05:41] emperor also took the opportunity to put his own stamp on the city by building a
+[05:41 --> 05:46] huge bath complex in the northern quarter that rivaled the baths of Caracalla in
+[05:46 --> 05:53] both size and opulence, which were called, obviously, the baths of Diocletian. But
+[05:53 --> 05:57] after satisfying himself that the city was in good shape architecturally, there
+[05:57 --> 06:02] was nothing left for him to do but enjoy all that Rome had to offer. And
+[06:02 --> 06:10] unfortunately, Diocletian did not at all enjoy what Rome had to offer. He was
+[06:10 --> 06:15] immediately put on edge by the attitude of the citizens, who he found himself
+[06:15 --> 06:21] face to face with for the first time. See, the Romans themselves were not so
+[06:21 --> 06:25] quick to embrace the notion that their emperor was a quasi-god who had
+[06:25 --> 06:30] descended from on high to rule them. That kind of BS might work on the lowly
+[06:30 --> 06:35] provincials, but in Rome, an emperor was just a man who had a lot of political
+[06:35 --> 06:40] power. There was nothing mystical about it. We invented this whole operation for
+[06:40 --> 06:44] crying out loud, don't try to tell us that you're made of magic. We know that
+[06:44 --> 06:50] somewhere behind all those curtains is a man just like us. After almost two
+[06:50 --> 06:55] decades of being treated with odd reverence wherever he went, it was a bit of
+[06:55 --> 07:00] a shock to be thrust into a world where the princeps model was still believed to
+[07:00 --> 07:06] be in effect. Diocletian found himself dealing with familiarity, vulgarity, and
+[07:06 --> 07:11] disrespect in degrees and quantities he had not experienced in years, and
+[07:11 --> 07:17] frankly, it put him off. This unpleasantness was then compounded by the
+[07:17 --> 07:23] behavior of the Romans at the games themselves. Diocletian was a conservative
+[07:23 --> 07:28] man, and perhaps a bit of a prude, but he was not naive as to the way the world
+[07:28 --> 07:34] worked, nor to the way that people worked. But still, what he saw in Rome shocked
+[07:34 --> 07:39] him. The drunkenness, the grubbiness, the licentiousness of it all contrasted
+[07:39 --> 07:44] sharply with his mental image of the Romans of old, an image that he himself
+[07:45 --> 07:50] had been trying to emulate all these years. Here now were the great Romans crying
+[07:50 --> 07:55] over a lost chariot race, fighting over women, passing out in the streets from an
+[07:55 --> 08:03] excess of, well, everything. It was, in a word, disgusting. After just a few short
+[08:03 --> 08:08] weeks, Diocletian had had enough. Far from impressed, the emperor was now
+[08:08 --> 08:15] convinced more than ever that Rome was irrelevant. 20th anniversary or no, there
+[08:15 --> 08:19] was a whole empire out there that needed his attention, and he couldn't in good
+[08:19 --> 08:25] conscience continue to ignore it in favor of this drunken orgy. So he let it
+[08:25 --> 08:30] be known to everyone's shock and dismay that he was cutting his visit short, and
+[08:30 --> 08:34] that he would accept his consulship not on the Capitoline Hill, but instead on
+[08:34 --> 08:40] the road getting him the hell out of Rome. The Romans, commoner and aristocrat
+[08:40 --> 08:45] alike, were bitterly disappointed and not a little offended themselves that the
+[08:45 --> 08:51] emperor was snubbing them right to their face. In a few years, Maxentius will
+[08:51 --> 08:55] arrive on the scene and offer them the opportunity to extract a measure of
+[08:55 --> 09:00] revenge on Diocletian and his carefully laid plans for the empire. It should come
+[09:00 --> 09:05] as no surprise that they will jump at the chance to upset Diocletian's apple
+[09:05 --> 09:12] cart. Now maybe it was just a coincidence or maybe it was that Diocletian was
+[09:12 --> 09:16] getting old, but if you're feeling superstitious, there is no
+[09:16 --> 09:22] misinterpreting what happened next. On his way out of Italy, Diocletian came
+[09:22 --> 09:26] down with some sort of illness that basically knocked him out of commission
+[09:26 --> 09:31] for a year and a half. He could do no more than lay in a closed litter as the
+[09:31 --> 09:37] imperial entourage struggled to make its way back to Nicomedia. I am sure that
+[09:37 --> 09:41] there are more than a few whispers about whether or not the gods were perhaps a
+[09:41 --> 09:47] bit annoyed at Diocletian for the way he had just treated Rome. His advisors kept
+[09:47 --> 09:51] pleading with the emperor to stop the journey and settle down in any one of the
+[09:51 --> 09:55] numerous cities they passed so he could recover, but Diocletian ordered them to
+[09:55 --> 10:00] press on to Nicomedia. If he was going to die, he was going to die in the city
+[10:00 --> 10:06] that had been his home base all these years. The procession moved so slowly
+[10:06 --> 10:10] that it wasn't until the summer of 304 that they finally made it back to his
+[10:10 --> 10:17] capital. Upon arrival, Diocletian mustered enough energy to dedicate a new circus
+[10:17 --> 10:20] that had been built in honor of his 20th anniversary and then he promptly
+[10:20 --> 10:25] disappeared into the imperial palace. While it's true that access to the
+[10:25 --> 10:29] emperor had always been carefully controlled, for the next nine months or
+[10:29 --> 10:35] so this control was taken to extreme lengths and almost no one saw Diocletian
+[10:35 --> 10:40] in person. He was kept sequestered in his private quarters, suffering from an
+[10:40 --> 10:46] illness that kept him debilitated while refusing to kill him. On multiple
+[10:46 --> 10:50] occasions during these nervous months though, rumors swirled furiously that the
+[10:50 --> 10:55] emperor had died, was about to die, had died weeks ago, or had been dead the
+[10:55 --> 11:01] whole time. At one point he apparently slipped into a coma which sparked
+[11:01 --> 11:06] rumors even within the imperial household that Diocletian was now finally
+[11:06 --> 11:12] dead. Galerius was alternatively called for or waved off with each cycle of
+[11:12 --> 11:18] rumor. When he was finally officially summoned in March 305 though, it was not
+[11:18 --> 11:23] to oversee funeral arrangements, but rather to congratulate Diocletian on his
+[11:23 --> 11:31] recovery. The emperor, though pale and gaunt, was not dead yet. Galerius, who was
+[11:31 --> 11:36] probably more than ready for Diocletian to die at this point, no doubt issued his
+[11:36 --> 11:41] congratulation through clenched teeth, but if he was disappointed that his time
+[11:41 --> 11:47] had not yet come, Diocletian immediately put his junior emperor's mind at ease. He
+[11:47 --> 11:53] was alive, yes, but Galerius's time was still at hand. Diocletian told his Caesar
+[11:53 --> 12:00] that he was going to abdicate the throne. As with the decision to elevate
+[12:00 --> 12:04] Galerius and Constantius in the first place, it is difficult to determine when
+[12:04 --> 12:09] exactly Diocletian decided that he was going to retire and let them take over.
+[12:09 --> 12:14] Some believe it was his plan all along and that abdication was at the very heart
+[12:14 --> 12:20] of what he hoped would be a perpetually stable succession process. Others believe
+[12:20 --> 12:25] the idea only popped up later as Diocletian grew older and began to think
+[12:25 --> 12:29] about how he could best ensure a peaceful transition of power, and still
+[12:29 --> 12:34] others believe that it was never the plan, but that an overbearing Galerius
+[12:34 --> 12:39] essentially forced Diocletian to step aside. However long he had been planning
+[12:39 --> 12:44] eventual abdication though, the long illness he just endured was the likely
+[12:44 --> 12:49] catalyst for setting his last plan in motion. Though it is worth noting that
+[12:49 --> 12:53] the date of abdication was almost 20 years to the day after the Battle of
+[12:53 --> 12:57] the Margus, so it is entirely possible that the illness was just a
+[12:57 --> 13:02] coincidental stop on the road to cementing a precedent of 20-year long
+[13:02 --> 13:10] reigns for all future emperors. The trick was getting Maximian to go along with
+[13:10 --> 13:15] the plan. In order to ensure that the balance of power remained intact as
+[13:15 --> 13:20] authority was handed from one generation to the next, both of the Caesars needed
+[13:20 --> 13:25] to become Augusti at the same time, and the two new Caesars needed to be
+[13:25 --> 13:30] appointed at the same time, which meant that the old Augusti, Diocletian and
+[13:30 --> 13:36] Maximian, needed to abdicate at the same time. And as we will see, Maximian was
+[13:36 --> 13:43] not nearly as keen to give up on power as Diocletian was. The thing that has
+[13:43 --> 13:46] always stuck in my craw about the alleged necessity of everyone shifting
+[13:46 --> 13:51] places at the same time though, is that when we look back on it, the only
+[13:51 --> 13:54] version of the Tetrarchy that ever worked was the one in which there was
+[13:54 --> 14:00] very clearly a senior Augustus who outranked the others. For all the outward
+[14:00 --> 14:05] professions of equality, Diocletian had always been the head cheese, and when we
+[14:05 --> 14:10] analyze the stability of the Tetrarchic system, it is hard not to come to the
+[14:10 --> 14:14] conclusion that it was Diocletian's extra level of influence over his
+[14:14 --> 14:18] colleagues more than anything else that kept them working as partners rather
+[14:18 --> 14:24] than rivals. Is it possible that things would not have gone so horribly awry if
+[14:24 --> 14:30] only Diocletian abdicated while Maximian remained in place, leaving a clearly
+[14:30 --> 14:36] senior Augustus around to keep everyone toeing the line? It is a question with so
+[14:36 --> 14:40] many moving parts that it's hard to figure what the end result would have
+[14:40 --> 14:45] been, but since things so quickly went to hell in a handbasket anyway, it is worth
+[14:45 --> 14:52] ruminating on. The answer of course is that it probably would have been even
+[14:52 --> 14:57] more disastrous for the Empire, not because the system didn't need a senior
+[14:57 --> 15:01] Augustus to function properly, it probably did, but because the new senior
+[15:01 --> 15:06] Augustus would have been Maximian, and I can't imagine a single scenario where
+[15:06 --> 15:11] Maximian handles his colleagues with anything resembling the deafness that
+[15:11 --> 15:16] Diocletian had. Civil War probably would have broken out the first time any one of
+[15:16 --> 15:23] them disagreed about anything, because Maximian did not massage egos, he punched
+[15:23 --> 15:29] them in the face. His temperament was not at all suited for the job, which Diocletian
+[15:29 --> 15:34] thoroughly understood, and was as likely a reason for simultaneous abdication as
+[15:34 --> 15:41] any abstract notions of equality of rank among the future emperors. Plus, and this
+[15:41 --> 15:44] is the last thing I'll say about it, following the untimely death of
+[15:44 --> 15:49] Constantius, the Tetrarchy will revert back to a model where one Augustus,
+[15:49 --> 15:54] Galerius, was clearly senior to his colleagues, and the system went ahead and
+[15:54 --> 16:00] collapsed anyway. So it is then really hard not to come to the conclusion that
+[16:00 --> 16:07] the Tetrarchy didn't just need a senior Augustus, it needed Diocletian. He was the
+[16:07 --> 16:13] quintessential element, the ether within which the Tetrarchy swam, and when he was
+[16:13 --> 16:21] gone, there was nothing for it to do but die. So, getting back to the matter at hand,
+[16:21 --> 16:27] the trick was getting Maximian on board, and we have to believe that this was a
+[16:27 --> 16:31] project Diocletian had been working on for a while, planting little seeds in
+[16:31 --> 16:36] Maximian's head, so that when the day finally came to give up power, it would
+[16:36 --> 16:42] not come completely out of left field. You want me to do what? Give up absolute
+[16:42 --> 16:49] power? Have you gone stark raving mad? That is a conversation you really need to
+[16:49 --> 16:54] lay some groundwork for. So if you believe that he had, in fact, been
+[16:54 --> 16:59] planning abdication for a while, we can point to the joint trip to Rome as the
+[16:59 --> 17:03] time Diocletian probably began to really press the issue hard with Maximian,
+[17:03 --> 17:09] switching from, you know, someday we're going to have to jointly abdicate for
+[17:09 --> 17:14] the good of the Empire, to please get your affairs in order because we're
+[17:14 --> 17:19] going to do this thing pretty soon. A short while later, when Diocletian was
+[17:19 --> 17:24] recovering from his illness, his tax switched again to pack your bags or
+[17:24 --> 17:31] stepping down on May the 1st. Given every single thing he did after resigning,
+[17:31 --> 17:37] though, it is clear that Maximian was not at all interested in abdication, but to
+[17:37 --> 17:42] his credit, his loyalty to Diocletian never wavered, and when the time came, he
+[17:42 --> 17:47] did what so few men in his place could have done, and what he himself so did
+[17:47 --> 17:56] not want to do. He gave up absolute power. On May the 1st, 305 AD, in
+[17:56 --> 18:01] simultaneous ceremonies in Nicomedia and Milan, Diocletian and Maximian became
+[18:01 --> 18:07] the first emperors in Roman history to voluntarily give up the throne.
+[18:07 --> 18:12] Diocletian, speaking to his soldiers, announced that he was tired, he was weak,
+[18:12 --> 18:16] and that the Empire needed to always have a strong hand guiding the ship of
+[18:16 --> 18:22] state, and that he could no longer be that strong hand. That Galerius and
+[18:22 --> 18:27] Constantius would be the new strong hands was a foregone conclusion, so the
+[18:27 --> 18:32] only drama left to play out on that spring day was who would be the new
+[18:32 --> 18:38] Caesars, and it was in this drama that the Tetrarchy found the root of its
+[18:38 --> 18:46] eventual ruin. Once upon a time, I made the point that the five good emperors
+[18:46 --> 18:50] are often praised for having adopted qualified men of merit to be their heirs,
+[18:50 --> 18:55] rather than relying on their own blood sons, even though the whole reason they
+[18:55 --> 18:59] had to adopt outside their family in the first place was because between a lot of
+[18:59 --> 19:05] them there was nary a blood son to be found. It was no enlightened decision
+[19:05 --> 19:10] they were making, it was something that was forced on them by circumstance.
+[19:10 --> 19:14] In attempting to secure the future of his Tetrarchy though, Diocletian very
+[19:14 --> 19:18] clearly stepped in the direction of that enlightened choice that had supposedly
+[19:18 --> 19:24] been made during the age of the Antonines. The emperors should be the best
+[19:24 --> 19:30] men in the Empire, regardless of family relations. To cement what he hoped would
+[19:30 --> 19:34] be a binding precedent then, Diocletian intentionally skipped over the two men
+[19:34 --> 19:39] who at any other point in history would have so obviously been chosen the new
+[19:39 --> 19:44] Caesars that their ascension would have been as drama-free as the elevation of
+[19:44 --> 19:50] Galerius and Constantius to the rank of Augustus. Those two men were
+[19:50 --> 19:57] Maxentius, the son of Maximian, and Constantine, the son of Constantius.
+[19:57 --> 20:02] Instead, Diocletian went ahead and picked two established generals who were
+[20:02 --> 20:10] the sons of no one, Gaius Maximinus Dio and Flavius Severus.
+[20:10 --> 20:14] Now, the later Christian writer Lactantius describes a scene in which the
+[20:14 --> 20:18] troops in Nicomedia ripple with shock when they learn that the handsome,
+[20:18 --> 20:24] popular, and wonderful Constantine has been bypassed. But it is more likely that
+[20:24 --> 20:28] everyone knew what the score was going into the ceremony itself.
+[20:28 --> 20:32] Whatever their level of surprise was when they first heard the news, when
+[20:32 --> 20:38] Diocletian formally introduced the new Caesars, the choices were already known.
+[20:38 --> 20:43] So the probability that there were audible gasps and unhappy rabble, rabble,
+[20:43 --> 20:49] rabbling, is low. That being said, there was definitely a faction within the
+[20:49 --> 20:52] army that was not at all happy Constantine, and to a lesser extent
+[20:52 --> 20:59] Maxentius, had been cast aside. The man who was probably least happy of all was
+[20:59 --> 21:05] Constantius, the new Augustus of the West. Sure, he had just been elevated
+[21:05 --> 21:10] to the highest rank in the empire, but oddly enough, the future did not look
+[21:10 --> 21:15] too bright for him. Because he was not just dealing with the fact that his
+[21:15 --> 21:20] son had not been named Caesar, but also with the fact that Maximinus and
+[21:20 --> 21:28] Severus had been. This gets into one of the other big mistakes Diocletian
+[21:28 --> 21:33] appears to have made before stepping down. Weakened physically and exhausted
+[21:33 --> 21:37] mentally, there is no doubt that by the end of his reign, Diocletian was
+[21:37 --> 21:42] allowing Galerius to take a lead on many imperial issues. We saw last week how
+[21:42 --> 21:47] this new dynamic likely led to the great persecution, as the fervently
+[21:47 --> 21:52] anti-Christian Galerius pushed for the persecution to be continually widened
+[21:52 --> 21:59] and deepened. We see it again now in the choice of Caesars. Maximinus, who would
+[21:59 --> 22:04] be Galerius' deputy in the East, was Galerius' nephew, and I should mention
+[22:04 --> 22:08] as staunchly anti-Christian as his uncle. And Severus was a friend of
+[22:08 --> 22:13] Galerius', who had served alongside the new Augustus during his wars in Parthia.
+[22:13 --> 22:19] In other words, both of the new deputy emperors were Galerius' men through and
+[22:19 --> 22:25] through. Unfortunately, it seems that Diocletian simply did not take
+[22:25 --> 22:30] Constantius' feelings into account when he allowed Galerius to impose his own
+[22:30 --> 22:36] candidates on the Tetrarchy. And I don't mean that Constantius' feelings were
+[22:36 --> 22:40] hurt in a touchy-feely kind of way. I mean that the balance of power within
+[22:40 --> 22:45] the Tetrarchy was immediately thrown out of whack. The Augustus of the West was
+[22:45 --> 22:50] now isolated and without allies. This did not bode well for the future stability
+[22:50 --> 22:57] of the system. It might not have been a big deal had Constantius and Galerius
+[22:57 --> 23:03] gotten along, but unfortunately it was the other thing. They did not like each
+[23:03 --> 23:07] other personally and they did not get along professionally, which is no doubt
+[23:07 --> 23:11] why Galerius was keen to make sure he controlled both of the new Caesars.
+[23:11 --> 23:18] The issue of the Christian persecution amply demonstrates how opposite the
+[23:18 --> 23:24] two new brother Augusti were. On the one hand, you have Galerius, widely seen as
+[23:24 --> 23:28] the driving force behind the persecution and certainly its most zealous advocate,
+[23:28 --> 23:32] and on the other you have Constantius, who did his level best to just ignore
+[23:32 --> 23:38] the whole thing as a disruptive exercise in pointless cruelty. With Diocletian
+[23:38 --> 23:42] and Maximian standing above them, the two Caesars could pull in these opposite
+[23:42 --> 23:47] directions and the center would hold. But now that Galerius and Constantius
+[23:47 --> 23:51] were the Augusti, well, pulling in opposite directions meant that the center
+[23:51 --> 23:58] would be ripped in half. Or, as Galerius no doubt hoped, ripped into his
+[23:58 --> 24:06] three-quarters to Constantius's one-quarter. In a number of fundamental ways then,
+[24:06 --> 24:11] Diocletian's dream of a permanent tetrarchy was doomed the minute he abdicated.
+[24:11 --> 24:17] Not only was the new force of tetrarchs disunited, but there were two men
+[24:17 --> 24:22] standing outside the system, Constantine and Maxentius, who felt they had every
+[24:22 --> 24:26] right to be inside of it and were prepared to fight for their inheritance.
+[24:26 --> 24:32] On top of that, Maximian was still hanging around on the edges in his forced
+[24:32 --> 24:38] retirement, just itching to get back in the game. This was not a recipe for
+[24:38 --> 24:43] success, and on more than one occasion, the various players begged Diocletian,
+[24:43 --> 24:49] the indispensable man of his age, to come out of retirement. But once gone,
+[24:49 --> 24:54] Diocletian insisted that he was going to stay gone. They would have to work it
+[24:54 --> 25:01] out for themselves. Sadly for Diocletian, though, they did not. And even more
+[25:01 --> 25:06] sadly, he lived to see it all, as he did not have the good sense to die quickly
+[25:06 --> 25:12] after abdicating, like Sulla had done. Instead, Diocletian would live long
+[25:12 --> 25:16] enough to see the empire suck back into exactly the kind of running civil war
+[25:16 --> 25:22] he thought he had put a stop to way back in 285. And by the very end,
+[25:22 --> 25:26] he would live long enough to see his own personal influence count for nothing,
+[25:26 --> 25:29] as he would be forced to use go-betweens in an attempt to secure the safety
+[25:29 --> 25:33] of his own wife and daughter, who were trapped in the court of the new Augustus
+[25:33 --> 25:38] Maximinus Daya, who appeared to have no interest at all in granting the
+[25:38 --> 25:41] requests of some irrelevant cabbage farmer.
+[25:45 --> 25:50] I want to close this week by making a brief and sad foray into current events.
+[25:51 --> 25:55] As you probably know, an earthquake ripped through Christchurch, New Zealand
+[25:55 --> 26:00] on February the 22nd, leaving the city devastated, many of its residents
+[26:00 --> 26:06] homeless, and basic services like water, power, and sewage severely disrupted.
+[26:08 --> 26:12] The History of Rome community includes listeners from all over the world,
+[26:12 --> 26:19] and I have gotten many an email with the .nz tag. In fact, one of the questions
+[26:19 --> 26:23] I answered during the 100th episode came from a Christchurch resident who
+[26:23 --> 26:28] recently got in touch with me to say that number one, he is okay, and number
+[26:28 --> 26:33] two, that the city is in pretty bad shape. So attached to this week's post
+[26:33 --> 26:38] at thehistoryofrome.typepad.com is a link to the Red Cross New Zealand
+[26:38 --> 26:43] Earthquake Appeal site. If you were thinking about donating to the show
+[26:43 --> 26:47] in appreciation for my efforts this week, just go ahead and pass it on over
+[26:47 --> 26:52] to the Red Cross. Right now, I think the good people of Christchurch need
+[26:52 --> 26:53] it more than I do.

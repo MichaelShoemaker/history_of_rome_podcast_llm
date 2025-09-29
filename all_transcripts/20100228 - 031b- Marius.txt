@@ -1,0 +1,308 @@
+# 20100228 - 031b- Marius
+# Detected language: en
+# Duration: 902.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, episode 31b, Marius.
+[00:12 --> 00:17] Last week, we covered the life of Gaius Marius through his first consulship.
+[00:17 --> 00:21] Up to this point, his career was impressive but hardly unique.
+[00:22 --> 00:27] Yes, he was a new man and deserves extra credit for forging his way upward despite
+[00:27 --> 00:31] the institutional barriers he faced, but he was hardly the first Novus Homo to be
+[00:31 --> 00:35] elected consul and hardly the first Roman general to win the support of the
+[00:35 --> 00:41] Roman people by bringing an unpopular foreign war to an end. But Marius's
+[00:41 --> 00:45] ambition and more importantly his willingness to act on that ambition
+[00:45 --> 00:48] definitely set him apart from his colleagues. There is a reason Gaius
+[00:48 --> 00:52] Marius deserves multi-episode treatment and by the end of today
+[00:52 --> 00:59] those reasons should be abundantly clear. In 109 BC, the consul Metellus had been
+[00:59 --> 01:03] sent to Africa and took Marius along with him. But in that same year,
+[01:04 --> 01:08] Metellus's consular colleague Marcus Solanus was sent north to deal with
+[01:08 --> 01:11] the Cimbri, a Gallic army that had been growing in strength in the
+[01:11 --> 01:16] north. Solanus was supposed to put down the important barbarians and
+[01:16 --> 01:21] restore Roman order, but instead was utterly defeated. Emboldened by the
+[01:21 --> 01:26] Cimbri's success, another Gallic tribe began making waves in 107 BC, the year of
+[01:26 --> 01:32] Marius's first consulship. Again, the Roman legions were sent north to put
+[01:32 --> 01:37] down the marauding army, but again the legions were beaten. This time the
+[01:37 --> 01:41] Roman officers left standing were only able to save their defeated troops by
+[01:41 --> 01:44] having them pass under the yoke, a humiliating ritual for the proud
+[01:44 --> 01:49] Romans. At this point, the most pressing matter was the war in North
+[01:49 --> 01:52] Africa, but it was fast becoming apparent that Rome faced a very real
+[01:52 --> 01:58] threat in the resurgent Gauls. In 106 BC, the Romans met with some
+[01:58 --> 02:02] success as their consul for the year, Quintus Capio, pacified a
+[02:02 --> 02:06] rebellious town and reintroduced some semblance of Roman
+[02:06 --> 02:10] superiority. But he was to give it all away the next year, leading to the
+[02:10 --> 02:19] circumstances that allowed Marius's unprecedented run of consulships to
+[02:19 --> 02:24] And the new consul for the year, Gnaeus Malleus, was sent north with an army to
+[02:24 --> 02:30] join him. Malleus, like Marius, was a new man and the noble Capio had little
+[02:30 --> 02:36] interest in serving with, let alone serving beneath, the new consul. The
+[02:36 --> 02:39] Cimbri were on the move again and had been joined by another of the
+[02:39 --> 02:43] migrating Germanic tribes, the Teutones, on the east side of the
+[02:43 --> 02:48] Rhone River. Malleus crossed over with his army, but when he engaged the
+[02:48 --> 02:52] Germanic tribes, Capio refused to come to his aid. Only after special
+[02:52 --> 02:55] pleading from the Senate did Capio agree to help the consular army.
+[02:56 --> 03:01] Even then, he refused to join his forces with Malleus's troops. As a
+[03:01 --> 03:05] result, the Cimbri and Teutone turned first on Capio's smaller force
+[03:05 --> 03:08] and drove him off, and then they swung back on Malleus, who was
+[03:08 --> 03:12] pushed back to the banks of the river. With nowhere to run and no
+[03:12 --> 03:16] reinforcements to speak of, the Romans were crushed, with casualties
+[03:16 --> 03:21] running upwards of 80,000. The entire debacle was chalked up in the
+[03:21 --> 03:25] Roman press as another example of the haughty oligarchs disrespecting
+[03:25 --> 03:29] anyone who did not come from their close caste. Capio would not
+[03:29 --> 03:33] have left a patrician cousin out in the cold like that. It was
+[03:33 --> 03:37] only because Malleus was novus homo that so many good Roman sons
+[03:37 --> 03:41] and husbands were dead on the banks of the Rhone. The popularity
+[03:41 --> 03:47] patricians was at an all-time low. So in 105 BC, the people turned
+[03:47 --> 03:51] back to another novus homo, a man who had proven his ability to
+[03:51 --> 03:54] succeed where the supposed elites had endlessly failed, Gaius
+[03:54 --> 03:59] Marius. The election itself was illegal, of course. There were
+[03:59 --> 04:02] at least two and possibly three different laws placing various
+[04:02 --> 04:05] restrictions on when a man could be consul, how many years
+[04:05 --> 04:08] must pass before he holds office again, and possibly whether
+[04:08 --> 04:12] holding office a second time was ever permissible. But the
+[04:12 --> 04:15] laws were flouted and the rule of law gave way to popular
+[04:15 --> 04:18] sentiment. Marius was stationed in Africa at the time of his
+[04:18 --> 04:21] election and returned to take up a mantle he had just set
+[04:21 --> 04:26] down two years before. Upon his return, he celebrated a
+[04:26 --> 04:29] triumph for his victory in Africa with the change of
+[04:29 --> 04:32] girth at the head of his procession. The spectacle
+[04:32 --> 04:35] climaxed with the execution of the rebellious African
+[04:35 --> 04:40] prince. No bribe would save him this time. Marius's first
+[04:40 --> 04:44] order of business was to whip the legions into shape. The
+[04:44 --> 04:47] army sent north had been sloppy and undisciplined and
+[04:47 --> 04:50] Marius had no intention of repeating the mistakes of his
+[04:50 --> 04:53] predecessors. He again raised a levy without regard for
+[04:53 --> 04:57] property qualifications, but then took things one step
+[04:57 --> 05:00] further by reorganizing the basic structure of the army to
+[05:00 --> 05:05] own specifications. It was this extra step that really
+[05:05 --> 05:10] secured Marius's place in history. Because in doing so, he
+[05:10 --> 05:12] would completely abandon the maniple system and the
+[05:12 --> 05:16] traditional three lines that had served the army so well
+[05:16 --> 05:19] over the past 200 years in favor of a more robust and
+[05:19 --> 05:23] more mobile legion. The armies of Caesar, Pompey and
+[05:23 --> 05:29] Octavius were all structured according to the
+[05:29 --> 05:32] Marius did was abolish the maniple as the basic tactical
+[05:32 --> 05:36] unit. Too often, the checkerboard maniples had proved
+[05:36 --> 05:40] insufficient against a direct frontal assault. Plus, when
+[05:40 --> 05:43] not facing a lockdown phalanx, it was easy for a
+[05:43 --> 05:46] single maniple to be surrounded and cut off from
+[05:46 --> 05:49] the rest of the legions. So Marius took what had once
+[05:49 --> 05:52] been merely an administrative classification for three
+[05:52 --> 05:55] maniples, the cohort, and made it the basic tactical
+[05:55 --> 06:00] unit. Now, rather than 160 men marching off together, the
+[06:00 --> 06:05] tactical box was made 400 to 500 men strong. While
+[06:05 --> 06:08] enlarging his tactical forces, Marius also made a
+[06:08 --> 06:10] decision to abandon the traditional three line
+[06:10 --> 06:14] formation. It really speaks volumes of Marius's
+[06:14 --> 06:17] self-assuredness that he would so casually shrug off
+[06:17 --> 06:20] an organizational structure that had conquered most of
+[06:20 --> 06:22] the known world. Some would call it outright arrogance,
+[06:22 --> 06:26] but all his alterations were made with an eye on the
+[06:26 --> 06:28] coming battle with the Gauls, a campaign that would
+[06:28 --> 06:31] involve a lot of headlong charges from a numerically
+[06:31 --> 06:35] superior force. There was no sense letting the drama of
+[06:35 --> 06:38] having the inexperienced first line pushback only to
+[06:38 --> 06:40] have the waiting in the wings veterans step in to
+[06:40 --> 06:45] save the day. He eliminated the division of age and
+[06:45 --> 06:48] mixed old and young into his new cohorts. He then
+[06:48 --> 06:51] arrayed them in three lines, a nod to the past,
+[06:51 --> 06:54] but drilled his troops on rapidly cycling forward,
+[06:54 --> 06:57] not waiting for one to be pushed back before the
+[06:57 --> 07:00] other stepped up. The idea was to always keep the
+[07:00 --> 07:02] freshest troops on the front line, have them
+[07:02 --> 07:05] fight like mad for a few minutes, and then go to
+[07:05 --> 07:08] the back and let another line step in. Hockey
+[07:08 --> 07:11] coaches the world over are all heirs to the
+[07:11 --> 07:15] Marian legacy. But Marius did not stop just with
+[07:15 --> 07:18] how his army fought. He also changed the entire
+[07:18 --> 07:22] outlook of what it meant to be a soldier. Previous
+[07:22 --> 07:25] armies took seriously the responsibility of combat
+[07:25 --> 07:27] but left the actual packing of equipment around
+[07:27 --> 07:31] the world to slaves and pack animals. The baggage
+[07:31 --> 07:33] trains had become unwieldy and the number of camp
+[07:33 --> 07:35] followers had grown to ridiculous proportions.
+[07:37 --> 07:39] With poor men serving year round at his
+[07:39 --> 07:41] disposal, Marius simply ordered that the troops
+[07:41 --> 07:44] themselves carry their own equipment. It's not
+[07:44 --> 07:45] like they were going to argue and go home to
+[07:45 --> 07:49] farms if they didn't like it. He forced march them
+[07:49 --> 07:51] around Italy with 70 pound packs until they
+[07:51 --> 07:54] gained the strength and stamina to move quickly
+[07:54 --> 07:56] without worrying about a miles long donkey train.
+[07:58 --> 08:00] The nobility derisively referred to the soldiers
+[08:00 --> 08:04] as Marius's mules. But by a factor of 10, the
+[08:04 --> 08:06] marching and drilling with oversized packs
+[08:06 --> 08:08] left Marius's legions in the best shape of
+[08:08 --> 08:12] any Roman army in history. In sheer stamina,
+[08:12 --> 08:14] they could not be matched and when it came
+[08:14 --> 08:16] time to fight, they could simply outlast an
+[08:16 --> 08:19] enemy who put all their energy into an initial
+[08:19 --> 08:24] charge. Finally, Marius rebranded the army as
+[08:24 --> 08:27] a career choice, not just a temporary obligation
+[08:27 --> 08:30] for men with better things to do. He made
+[08:30 --> 08:32] statutory land grants to men who serve their
+[08:32 --> 08:35] full 20 years of service and regulated
+[08:35 --> 08:38] dispensations of food, clothing, armor and
+[08:38 --> 08:41] weapons. Marius also began to actively
+[08:41 --> 08:43] promote from within, taking the best of his
+[08:43 --> 08:45] foot soldiers and making them officers when
+[08:45 --> 08:48] they displayed courage and initiative. These
+[08:48 --> 08:50] commissions, of course, came at the expense
+[08:50 --> 08:52] of the young nobles who had long been accustomed
+[08:52 --> 08:54] to simply stepping into positions of
+[08:54 --> 08:56] leadership without any real battlefield
+[08:56 --> 08:59] experience. The move at once made the army
+[08:59 --> 09:02] better, made the men love Marius, and
+[09:02 --> 09:05] hacked off the old patrician order. But the
+[09:05 --> 09:07] hurt feelings of the nobility was of no
+[09:07 --> 09:09] consequence to Marius and he was single
+[09:09 --> 09:11] minded in his pursuit of recapturing the
+[09:11 --> 09:15] old Roman legions. They had been the best for
+[09:15 --> 09:17] years but were dangerously close to letting
+[09:17 --> 09:20] it slip away out of complacent laziness of
+[09:20 --> 09:22] the patrician elites. The Gallic armies
+[09:22 --> 09:24] waiting in the north would not simply lay
+[09:24 --> 09:26] down their arms because some 10th
+[09:26 --> 09:28] generation Claudii led the army. And to
+[09:28 --> 09:32] Marius, that was all that mattered. The
+[09:32 --> 09:34] Cimbri and Tutane, of course, made all
+[09:34 --> 09:36] of these reforms possible by simply cooling
+[09:36 --> 09:39] off their offensive for a few years. The
+[09:39 --> 09:41] Cimbri had decided to try their luck in
+[09:41 --> 09:43] Spain while the Tutane's laid low in
+[09:43 --> 09:46] southern Gaul for a few years. Marius was
+[09:46 --> 09:49] returned for a third consulship in 103 BC
+[09:49 --> 09:51] to continue his reform efforts of the
+[09:51 --> 09:53] legions and when that term expired he
+[09:53 --> 09:56] sought office again, not wanting all of
+[09:56 --> 09:57] his efforts at reshaping the legions
+[09:57 --> 10:00] to be wasted by some new consul who
+[10:00 --> 10:01] did not understand what Marius was
+[10:01 --> 10:04] trying to accomplish. Plus he had been
+[10:04 --> 10:06] preparing for a great showdown with
+[10:06 --> 10:08] the Gauls and frankly they were not
+[10:08 --> 10:10] playing their part very well. Marius had
+[10:10 --> 10:12] put a lot of effort into building an
+[10:12 --> 10:14] army that could defeat them and now he
+[10:14 --> 10:16] wanted the credit and glory he felt he
+[10:16 --> 10:20] deserved. In 102 BC, in the midst of his
+[10:20 --> 10:22] fourth consulship and third in a row,
+[10:22 --> 10:24] the barbarian tribes finally obliged
+[10:24 --> 10:26] and set about planning invasion of
+[10:26 --> 10:29] Italy. Though the Cimbri and Tutane
+[10:29 --> 10:30] combined to form an army of
+[10:30 --> 10:33] staggering 200,000 men strong, they
+[10:33 --> 10:35] made a critical error and decided that
+[10:35 --> 10:36] instead of overwhelming the Romans in
+[10:36 --> 10:39] a single mass onslaught, they would
+[10:39 --> 10:41] divide and invade Italy on two fronts.
+[10:42 --> 10:44] It may have looked good on paper but
+[10:44 --> 10:46] it let the outnumbered Romans off a
+[10:46 --> 10:48] rather large hook. With the barbarian
+[10:48 --> 10:51] army divided, Marius could focus on one
+[10:51 --> 10:54] then the other without ever facing the
+[10:54 --> 10:56] insurmountable odds that an army of
+[10:56 --> 10:57] 200,000 men presented.
+[10:59 --> 11:01] The Cimbri circled around and were
+[11:01 --> 11:03] set to come into Italy through the
+[11:03 --> 11:05] Alps from the northeast while the
+[11:05 --> 11:06] Tutane were to come in along the
+[11:06 --> 11:09] Mediterranean coast. Marius sent a
+[11:09 --> 11:11] force under his consular colleague's
+[11:11 --> 11:13] direction to delay the Cimbri's passage
+[11:13 --> 11:15] through the Alps while Marius himself
+[11:15 --> 11:17] took his new toy into France to head
+[11:17 --> 11:19] off the Tutanes before they ever got
+[11:19 --> 11:20] to the mountains.
+[11:21 --> 11:23] Further tribal recklessness led to
+[11:23 --> 11:24] another piece of good luck for
+[11:24 --> 11:27] Marius. A contingent of 300,000
+[11:27 --> 11:29] Germans broke out ahead of the main
+[11:29 --> 11:31] barbarian army as soon as they
+[11:31 --> 11:32] caught sight of the Romans.
+[11:32 --> 11:34] Marius was able to route this
+[11:34 --> 11:36] charge with ease and place half a
+[11:36 --> 11:38] and some nearby hills before
+[11:38 --> 11:41] withdrawing. The rest of the Tutane
+[11:41 --> 11:43] army marched forward in pursuit and
+[11:43 --> 11:44] when they had passed the hidden
+[11:44 --> 11:46] cohorts, Marius turned and attacked.
+[11:47 --> 11:49] All their attention forward, the
+[11:49 --> 11:51] barbarians never saw the 3,000 Romans
+[11:51 --> 11:53] emerge from their hiding place.
+[11:53 --> 11:55] Unsure of who or what was attacking
+[11:55 --> 11:57] them from behind, the barbarian army
+[11:57 --> 11:59] became a mass of confusion
+[11:59 --> 12:02] which Marius easily exploited. The
+[12:02 --> 12:04] Tutane army was annihilated.
+[12:06 --> 12:08] Things did not go smoothly against
+[12:08 --> 12:09] the Kimberi however. The other
+[12:09 --> 12:11] consul for the year had been unable
+[12:11 --> 12:13] to hold them back and by the end of
+[12:13 --> 12:16] 102 BC, Italy found itself playing the
+[12:16 --> 12:18] unwilling host to 100,000
+[12:18 --> 12:20] barbarian invaders. In the
+[12:20 --> 12:22] elections that year, Marius was again
+[12:22 --> 12:25] returned as consul. No sense in
+[12:25 --> 12:26] getting off the horse in midstream.
+[12:27 --> 12:29] In the summer of 101, Marius led the
+[12:29 --> 12:31] horse safely to the other side of
+[12:31 --> 12:33] the river, meeting and defeating the
+[12:33 --> 12:36] much larger barbarian army. All the
+[12:36 --> 12:37] drilling and marching proved the
+[12:37 --> 12:39] difference against the far larger but
+[12:39 --> 12:42] far less disciplined hordes. Marius
+[12:42 --> 12:44] returned to Rome and celebrated his
+[12:44 --> 12:47] second triumph. At this point, only
+[12:47 --> 12:49] Scipio Africanus loomed larger in the
+[12:49 --> 12:51] Roman imagination than the great
+[12:51 --> 12:53] Gaius Marius, who was now the hero
+[12:53 --> 12:54] of two separate wars against two
+[12:54 --> 12:57] completely different enemies. Sure,
+[12:57 --> 12:58] there was grumbling in the upper
+[12:58 --> 13:00] classes about this commoner who seemed
+[13:00 --> 13:02] to be making himself king, but the
+[13:02 --> 13:04] danger was as real for them as it was
+[13:04 --> 13:06] for the lower classes, and Marius
+[13:06 --> 13:07] proved himself more than up to the
+[13:07 --> 13:09] tasks for which he had been assigned.
+[13:10 --> 13:11] So they held their noses and cheered
+[13:11 --> 13:15] along with everyone else. Out of
+[13:15 --> 13:17] gratitude for his success, Marius was
+[13:17 --> 13:19] made consul for the fifth time in
+[13:19 --> 13:22] a row in 100 BC. It may have been
+[13:22 --> 13:24] one consul ship too many, however,
+[13:24 --> 13:26] as a bit of Marius's popular luster
+[13:26 --> 13:29] wore off. Grain prices were on the
+[13:29 --> 13:31] rise again, and tribunes, taking a
+[13:31 --> 13:33] few from the Grokai, were agitating
+[13:33 --> 13:35] for relief. Unrest began to ripple
+[13:35 --> 13:37] through the city, and the Senate
+[13:37 --> 13:39] ordered Marius to do something about
+[13:39 --> 13:42] it. Seeing the immediate expediency of
+[13:42 --> 13:43] restoring order to Rome, Marius
+[13:43 --> 13:45] complied, but it pitted him against
+[13:45 --> 13:47] the popular assemblies, who had done
+[13:47 --> 13:49] so much to lend credibility to his
+[13:49 --> 13:52] never-ending reign. At the end of
+[13:52 --> 13:54] the year, Marius decided that enough
+[13:54 --> 13:55] was enough and announced his
+[13:55 --> 13:58] retirement from public life. If the
+[13:58 --> 14:00] story had ended there, Marius would
+[14:00 --> 14:02] have already secured his place in
+[14:02 --> 14:04] history as one of Rome's greatest and
+[14:04 --> 14:07] most famous leaders. But he was not
+[14:07 --> 14:10] done yet. Next week, the old man will
+[14:10 --> 14:12] be pulled out of retirement to deal
+[14:12 --> 14:14] with the inevitable result of Roman
+[14:14 --> 14:15] mistreatment of their Italian allies.
+[14:16 --> 14:18] In what would become known as the
+[14:18 --> 14:20] Social War, Marius would again fight
+[14:20 --> 14:21] alongside Sulla, his perennial
+[14:21 --> 14:23] lieutenant, now a general in his own
+[14:23 --> 14:26] right. The Social War would be the
+[14:26 --> 14:27] last time the two fought on the
+[14:27 --> 14:30] same side, and the intense rivalry
+[14:30 --> 14:32] between the two men would soon erupt
+[14:32 --> 14:33] into a bloody back and forth of
+[14:33 --> 14:36] purging and counter purging that
+[14:36 --> 14:37] shocks the conscience even today.
+[15:00 --> 15:01] you

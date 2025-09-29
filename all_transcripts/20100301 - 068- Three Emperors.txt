@@ -1,0 +1,469 @@
+# 20100301 - 068- Three Emperors
+# Detected language: en
+# Duration: 1316.08 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to The History of Rome, episode 68, Three Emperors.
+[00:13 --> 00:15] The house of Caesar was no more.
+[00:16 --> 00:20] Though the name Caesar would live on as a symbol of power, authority, and legitimacy,
+[00:21 --> 00:23] the family itself was now officially defunct.
+[00:24 --> 00:29] From the moment Julius Caesar crossed the Rubicon in 49 BC, to the moment Nero committed
+[00:29 --> 00:35] suicide some 117 years later, Rome had been dominated by the Julio-Claudian dynasty.
+[00:36 --> 00:41] No one alive remembered a time before they rose to power, and now suddenly, without
+[00:41 --> 00:42] warning, they were gone.
+[00:43 --> 00:46] Does anyone around here have any idea what we're supposed to do now?
+[00:48 --> 00:53] The thing was, the initial transition from republic to autocratic empire had been
+[00:53 --> 00:58] midwifed by Julius Caesar and his adopted son Augustus, two men with personalities
+[00:58 --> 01:02] so strong that they couldn't help but shape the whole governmental apparatus to match
+[01:02 --> 01:06] their own individual quirks, habits, strengths, and weaknesses.
+[01:07 --> 01:11] Their descendants had more or less failed to live up to the standards set by the
+[01:11 --> 01:16] two great patriarchs of the family, but they had also more or less continued the
+[01:16 --> 01:19] forms and practices of governance that had been handed down to them.
+[01:20 --> 01:24] One of the quirks of the initial principate was that the legitimacy and authority of
+[01:24 --> 01:29] emperor lay not in codified rules or a spelled out job description, rather it rested on
+[01:29 --> 01:34] an ad hoc collection of powers that had been accumulated by Augustus personally during
+[01:34 --> 01:37] the constitutional settlements of the 20s BC.
+[01:38 --> 01:42] After his death, those powers had been passed along to his descendants for no
+[01:42 --> 01:44] other reason than that they were his descendants.
+[01:45 --> 01:49] It was an issue not of constitutional authority, but of family inheritance.
+[01:50 --> 01:54] So now that Nero was dead and there were no more descendants of Augustus, would the
+[01:54 --> 01:58] collection of powers the family had accumulated remain bundled together and
+[01:58 --> 02:02] handed intact to some successor outside the family, or would they be
+[02:02 --> 02:05] broken up with different pieces being claimed by different men?
+[02:06 --> 02:10] And the biggest question of all, if that happened, who would put them back together again?
+[02:13 --> 02:16] Without a doubt, the most important power upon which the emperor's authority
+[02:16 --> 02:19] rested was his command over the legions.
+[02:19 --> 02:23] In the constitutional settlements, Augustus had made sure that he claimed as his own
+[02:23 --> 02:28] personal jurisdiction any province that contained a significant military presence.
+[02:29 --> 02:32] This meant that at the end of the day, however else you might feel about the emperor
+[02:32 --> 02:37] or his policies, you knew that you could never match the literally hundreds of thousands
+[02:37 --> 02:38] of soldiers he personally commanded.
+[02:39 --> 02:42] This had a tendency to keep everyone in line.
+[02:42 --> 02:46] Part and parcel of this authority was the fact that basically every general
+[02:46 --> 02:49] scattered across the empire was subordinate to the emperor.
+[02:50 --> 02:54] These various generals may have been rivals with one another, but they could
+[02:54 --> 02:58] each take comfort in the fact that they all answered the same man and were
+[02:58 --> 03:00] thus in a sense all at least equal to each other.
+[03:01 --> 03:05] But when Nero died and this uppermost slot in the chain of command was lost,
+[03:05 --> 03:09] all of those same generals were now technically subordinate to no one.
+[03:10 --> 03:13] Well, maybe they were subordinate in some abstract way to the Senate and
+[03:13 --> 03:16] the people of Rome, but that was neither here nor there.
+[03:17 --> 03:21] The year of the four emperors then is best understood as a competition between
+[03:21 --> 03:25] the leading regional generals of the time to climb into that uppermost slot
+[03:25 --> 03:27] on the chain of command left vacant by Nero.
+[03:28 --> 03:32] Galba came from Spain, Vitellius came from the Rhineland, and
+[03:32 --> 03:33] Vespasian came from the east.
+[03:35 --> 03:38] While the Julio-Claudian emperors had commanded a force so large it was
+[03:38 --> 03:42] impossible to match, each of these men controlled forces that were large enough
+[03:42 --> 03:46] to prompt high ambition, but not so large that they couldn't be met in
+[03:46 --> 03:48] the field by a force of equal size.
+[03:50 --> 03:53] And as much as regional politics played a role in why the various legions
+[03:53 --> 03:57] backed this or that general, the individual personalities of each of the
+[03:57 --> 04:03] four emperors, Galba, Otho, Vitellius, and Vespasian, played a significant
+[04:03 --> 04:05] role in how events played out.
+[04:07 --> 04:11] As I mentioned last week, the man who ascended to the throne upon the death of
+[04:11 --> 04:13] Nero was Servius Sulpicius Galba.
+[04:14 --> 04:19] Born in either 3 or 5 BC, he was an old stock patrician and the son of a
+[04:19 --> 04:23] prominent attorney who had served his consul during the reign of Augustus.
+[04:24 --> 04:28] An undistinguished man, the elder Galba, was best known for the fact that he
+[04:28 --> 04:31] was a hunchback, a birth defect endlessly mocked by the notoriously
+[04:31 --> 04:33] un-PC Romans.
+[04:33 --> 04:37] Augustus himself was even said to have poked fun at the hunchbacked lawyer.
+[04:39 --> 04:43] Galba's mother was the granddaughter of Quintus Cotullus, a giant in the final
+[04:43 --> 04:47] days of the Republic, who had defeated the post-Sulan coup led by his consular
+[04:47 --> 04:51] colleague Lepidus, and then stood firmly opposed to Pompey, Crassus,
+[04:51 --> 04:55] and young Julius Caesar as they rose to prominence, and would have
+[04:55 --> 04:58] been one of the first triumvirate's key opponents had he not died just
+[04:58 --> 05:00] before its official formation.
+[05:01 --> 05:04] Galba was proud of his relation to Cotullus and used the great old
+[05:04 --> 05:07] senator's career as the model for his own life.
+[05:08 --> 05:12] His mother, however, died shortly after his birth, and young Galba
+[05:12 --> 05:15] was subsequently raised by his father's second wife, a beautiful
+[05:15 --> 05:18] and wealthy woman who would posthumously adopt Galba and leave
+[05:18 --> 05:22] him a fortune so long as he carried on her family name, which
+[05:22 --> 05:23] Galba did, though only officially.
+[05:25 --> 05:28] He had an older brother who made some attempt at a public career, but
+[05:28 --> 05:32] was plagued by scandal and poor judgment until he committed suicide
+[05:32 --> 05:35] during the reign of Tiberius after being passed over for a pro-
+[05:35 --> 05:37] consular promotion one too many times.
+[05:39 --> 05:43] Galba himself rose quickly up the ranks, serving as praetor in
+[05:43 --> 05:45] 20 AD and then consul in 33.
+[05:46 --> 05:49] During Tiberius' reign, Galba caught the eye of the Augusta and
+[05:49 --> 05:53] was brought into her sphere of influence, but of course, this
+[05:53 --> 05:56] put him at odds with the emperor who did not get along with his
+[05:56 --> 05:56] mother at all.
+[05:57 --> 06:01] When Livia died in 29, she left a generous bequeathal to Galba,
+[06:02 --> 06:05] but as executor of his mother's estate, Tiberius first cut the
+[06:05 --> 06:09] number down by a third and then simply refused to pay it out.
+[06:10 --> 06:12] When Tiberius died, though, one of the first things
+[06:12 --> 06:15] Caligula did to curry favor with the aristocracy was to
+[06:15 --> 06:18] restore all those inheritances that Tiberius had canceled or
+[06:18 --> 06:19] confiscated over the years.
+[06:20 --> 06:23] This sudden windfall had the intended effect on Galba, and
+[06:23 --> 06:26] he remained loyal to Caligula even as the emperor's erratic
+[06:26 --> 06:28] behavior became unsustainable.
+[06:29 --> 06:32] He remained loyal to the Julio Claudians throughout his career
+[06:32 --> 06:34] and wound up serving administrative and military
+[06:34 --> 06:39] functions in Gaul, Germania, Africa, and finally, Hispania.
+[06:40 --> 06:43] He did, however, go into retirement during the early
+[06:43 --> 06:46] years of Nero's reign, though, as Agrippina continued
+[06:46 --> 06:48] to nurse a heavy grudge against him because Galba had
+[06:48 --> 06:51] once publicly refused her romantic advances.
+[06:52 --> 06:54] But after Nero killed his mother, Galba returned to
+[06:54 --> 06:56] life, and in 61 A.D.
+[06:56 --> 07:00] he was posted to Hispania Terraconensis, the largest
+[07:00 --> 07:01] of the Spanish provinces.
+[07:02 --> 07:04] He would serve as governor there for the next seven years
+[07:04 --> 07:07] until he was declared emperor in 68, first by his own
+[07:07 --> 07:09] men and then by the Senate.
+[07:11 --> 07:14] Galba had a reputation for being a humorless throwback
+[07:14 --> 07:16] conservative in the mold of Cato the Elder.
+[07:18 --> 07:20] The Romans disliked extremes in either direction.
+[07:20 --> 07:23] So while the enormously wealthy Galba was always
+[07:23 --> 07:25] hailed for his restraint, he was also criticized
+[07:25 --> 07:28] for erring too far on the side of frugality.
+[07:29 --> 07:31] Throughout this period, though, he stands out as one
+[07:31 --> 07:34] of the few generals who did not actively bribe soldiers
+[07:34 --> 07:36] to join his cause, a practice he thought
+[07:36 --> 07:38] immoral and unnecessary.
+[07:39 --> 07:42] This refusal to bribe his men gets to the heart
+[07:42 --> 07:44] of another of Galba's most notable personality traits,
+[07:45 --> 07:48] his belief in strict and unquestioning discipline.
+[07:49 --> 07:51] He did not feel inclined to hand out bribes just
+[07:51 --> 07:55] because he was a miser, but also because an army
+[07:55 --> 07:56] should naturally obey its general.
+[07:57 --> 08:00] One should not have to convince soldiers to fall in line.
+[08:01 --> 08:03] One should simply order them to do so.
+[08:04 --> 08:06] And not only did Galba expect his men to follow
+[08:06 --> 08:09] his every command precisely, he also expected them
+[08:09 --> 08:12] to do no more than he had commanded either.
+[08:13 --> 08:16] Disobedience and personal initiative both were frowned
+[08:16 --> 08:19] upon in the legions of Galba, and as you can imagine,
+[08:19 --> 08:22] he both benefited from and was hurt by this approach.
+[08:23 --> 08:25] His reputation as a strict disciplinarian
+[08:25 --> 08:27] with an almost naive faith in the power
+[08:27 --> 08:30] of the chain of command is critical
+[08:30 --> 08:32] to the unfolding events of 69 AD.
+[08:33 --> 08:36] Following the aborted plot against his life in Germania,
+[08:37 --> 08:39] Caligula had brought in Galba to restore order
+[08:39 --> 08:41] to the legions stationed on the Rhine.
+[08:42 --> 08:44] Galba had apparently taken such a harsh tack
+[08:44 --> 08:47] with the men under his command that 20 years later,
+[08:47 --> 08:50] those same units would refuse to back the man
+[08:50 --> 08:51] that they had learned to hate,
+[08:51 --> 08:53] which led first to their attempt to make
+[08:53 --> 08:56] Virginia's emperor, as I mentioned last week,
+[08:56 --> 08:59] and then later to their elevation of Vitellius.
+[09:01 --> 09:02] By the time the events that would define
+[09:02 --> 09:05] Galba's career unfolded, he was already an old man,
+[09:05 --> 09:07] about 70 years old, give or take.
+[09:08 --> 09:10] And as a result, his flagging energy led him
+[09:10 --> 09:13] to rely more and more on a core circle of advisors.
+[09:14 --> 09:17] Ironically, the man who believed so strongly
+[09:17 --> 09:19] that every subordinate was merely an extension
+[09:19 --> 09:21] of his own will was now widely rumored
+[09:21 --> 09:23] to be a wholly owned subsidiary
+[09:23 --> 09:25] of his three closest advisors,
+[09:25 --> 09:27] who became known as the three pedagogues
+[09:27 --> 09:30] because they taught Galba everything he needed to know.
+[09:31 --> 09:33] The most influential was Titus Vinius,
+[09:34 --> 09:36] a man of senatorial rank who was,
+[09:36 --> 09:37] according to Tacitus, quote,
+[09:37 --> 09:39] the most worthless of mankind.
+[09:40 --> 09:42] He was dogged by scandals of all sorts,
+[09:43 --> 09:45] with Plutarch reporting that he was imprisoned
+[09:45 --> 09:46] at one point by Caligula,
+[09:46 --> 09:49] and was later accused of stealing a golden cup
+[09:49 --> 09:51] after attending a dinner hosted by Claudius.
+[09:53 --> 09:55] He wound up in charge of a legion in Spain,
+[09:55 --> 09:57] and somehow, though I don't really know how or why,
+[09:58 --> 10:00] he came to exert enormous influence on Galba,
+[10:00 --> 10:02] even though the two could not have been more different.
+[10:03 --> 10:05] Galba hated bribes.
+[10:05 --> 10:08] Vinius, it was said, would do anything for one.
+[10:09 --> 10:11] Along with Vinius, there was Cornelius Laco,
+[10:12 --> 10:14] who served as Galba's legal advisor.
+[10:14 --> 10:18] In contrast to Vinius, he was an honest, if lazy, man.
+[10:18 --> 10:20] When Galba ascended to the throne,
+[10:20 --> 10:22] he would appoint Laco as praetorian prefect,
+[10:23 --> 10:24] even though Laco had no military
+[10:24 --> 10:26] or administrative experience.
+[10:27 --> 10:29] Rounding out the trio was a freedman advisor
+[10:29 --> 10:33] named Icaeus, who was in Rome when Nero committed suicide
+[10:33 --> 10:35] and was the one who brought the news to Galba.
+[10:36 --> 10:38] For making the trip from Rome to Spain in just seven days,
+[10:39 --> 10:41] Galba elevated Icaeus to equestrian status.
+[10:42 --> 10:45] The former slave would then spend the rest of his short life
+[10:45 --> 10:47] accumulating the money his new rank required,
+[10:47 --> 10:50] like Vinius, by any means necessary.
+[10:52 --> 10:53] The three men were, of course,
+[10:53 --> 10:56] rivals for Galba's favor and attention,
+[10:56 --> 10:58] but they transcended their own bickering
+[10:58 --> 10:59] when it came to keeping others
+[10:59 --> 11:01] locked out of the inner circle.
+[11:02 --> 11:03] If you wanted to talk to Galba,
+[11:04 --> 11:05] you had to go through one of them.
+[11:06 --> 11:09] This was why the neighboring governor of Lusitania
+[11:09 --> 11:11] was forced to form a short-lived alliance
+[11:11 --> 11:14] with Vinius in an attempt to secure his own adoption
+[11:14 --> 11:15] by the childless Galba.
+[11:16 --> 11:18] Everyone knew that the old man would be dead soon,
+[11:18 --> 11:20] so as soon as Galba came to power,
+[11:20 --> 11:22] it was already time to start planning for the future.
+[11:24 --> 11:27] Marcus Salvius Otho, the young governor in question,
+[11:28 --> 11:31] was convinced that he could convince Galba to adopt him
+[11:31 --> 11:32] so that when the old man died,
+[11:32 --> 11:34] he, Otho, would become emperor.
+[11:35 --> 11:37] After all, an astrologer had told him
+[11:37 --> 11:39] that it would be so.
+[11:41 --> 11:43] Otho was born in 32 BC,
+[11:43 --> 11:46] making him by far the youngest of the four emperors.
+[11:47 --> 11:49] He was descended from a Truscan nobility,
+[11:49 --> 11:51] but his family had only reached senatorial status
+[11:51 --> 11:52] with his grandfather,
+[11:53 --> 11:55] who did so after the Augusta took a liking to him.
+[11:57 --> 11:58] As a result of this connection,
+[11:58 --> 12:00] Otho's father became close to Tiberius,
+[12:01 --> 12:03] and the family thrived under the Julio-Claudian dynasty.
+[12:05 --> 12:07] Otho himself was only five years older than Nero,
+[12:07 --> 12:10] and when the teenager became emperor in 54,
+[12:10 --> 12:12] Otho was right there by his side
+[12:12 --> 12:14] and quickly became one of Nero's
+[12:14 --> 12:15] most prominent drinking buddies.
+[12:17 --> 12:18] Together, they would spend their nights
+[12:18 --> 12:21] blowing through money, alcohol, and women,
+[12:21 --> 12:24] and Otho earned a reputation as a ringleader
+[12:24 --> 12:25] of the decadent proceedings.
+[12:27 --> 12:29] But in 58, the two had a falling out
+[12:29 --> 12:31] over Otho's wife, Papia Sabina.
+[12:32 --> 12:34] As I said last week, it is entirely possible
+[12:34 --> 12:38] that Papia only targeted Otho to get close to Nero,
+[12:38 --> 12:40] but it has also been suggested
+[12:40 --> 12:42] that Nero and Otho had arranged the match
+[12:42 --> 12:44] to put Papia on hold for Nero
+[12:44 --> 12:46] until the emperor could figure out
+[12:46 --> 12:48] how to rid himself of his wife, Claudia Octavia.
+[12:50 --> 12:51] If this latter version is true,
+[12:51 --> 12:54] then it seems that when it came time to hand Papia over,
+[12:54 --> 12:57] Otho had had a change of heart.
+[12:58 --> 12:59] However it happened, though,
+[13:00 --> 13:01] Papia went over to Nero,
+[13:01 --> 13:03] and Otho wasn't happy about it.
+[13:04 --> 13:05] To deal with this problem,
+[13:05 --> 13:07] Nero appointed Otho governor of Lusitania,
+[13:07 --> 13:09] which on the one hand was a fat promotion,
+[13:10 --> 13:12] as Otho had only served previously as acquester
+[13:12 --> 13:14] and didn't qualify for the post,
+[13:14 --> 13:15] but on the other hand,
+[13:16 --> 13:19] it was obviously meant to exile him from Rome.
+[13:20 --> 13:22] Despite everyone's expectations
+[13:22 --> 13:24] that this drunken gadabout would prove to be a disaster,
+[13:25 --> 13:27] Otho emerged as a competent administrator,
+[13:28 --> 13:29] and though he no doubt longed
+[13:29 --> 13:31] to get out of his backwater province,
+[13:31 --> 13:33] he seemed to have served his time conscientiously.
+[13:35 --> 13:37] But when his neighbor Galba declared his intention
+[13:37 --> 13:39] to take control of the empire, though,
+[13:39 --> 13:41] Otho seized on his chance
+[13:41 --> 13:43] not only to revenge himself upon Nero,
+[13:43 --> 13:45] but also to free himself from exile.
+[13:46 --> 13:48] He immediately sent word to Galba
+[13:48 --> 13:49] that the treasury of Lusitania
+[13:49 --> 13:51] was at the old man's disposal,
+[13:51 --> 13:54] an announcement Otho hoped would demonstrate
+[13:54 --> 13:56] some unique level of commitment to the cause,
+[13:56 --> 13:59] but apparently Galba received the news blandly,
+[13:59 --> 14:00] stating in essence,
+[14:00 --> 14:03] well, of course your treasury is at my disposal,
+[14:03 --> 14:04] I don't need you to tell me that.
+[14:06 --> 14:08] Undeterred, Otho also sent along
+[14:08 --> 14:09] some of his better slaves
+[14:09 --> 14:11] who were worthy of service to a new emperor,
+[14:12 --> 14:14] but they were greeted with disdain by the frugal Galba,
+[14:15 --> 14:16] who disapproved of the extravagance
+[14:16 --> 14:19] that was beginning to affix itself to his entourage.
+[14:21 --> 14:22] But Otho convinced himself
+[14:22 --> 14:24] that he had really gotten on Galba's good side
+[14:24 --> 14:25] with all of these gestures
+[14:25 --> 14:27] and set about trying to figure a way
+[14:27 --> 14:29] to convince Galba to adopt him
+[14:29 --> 14:30] so that when Galba died,
+[14:31 --> 14:32] Otho could rise up in his place.
+[14:33 --> 14:36] He was especially convinced that this was his destiny,
+[14:36 --> 14:38] because during his time in Lusitania,
+[14:38 --> 14:40] he had grown enamored with an astrologer
+[14:40 --> 14:43] who predicted soon after the news came of Nero's death
+[14:43 --> 14:46] that Otho would become emperor soon.
+[14:47 --> 14:48] It was Otho himself, though,
+[14:48 --> 14:50] who made the leap to the belief
+[14:50 --> 14:52] that that meant Galba would be adopting him.
+[14:54 --> 14:55] In his excellent 69 AD,
+[14:56 --> 14:57] the year of four emperors,
+[14:57 --> 14:58] which I'll be drawing on heavily
+[14:58 --> 14:59] for the next few episodes,
+[14:59 --> 15:02] Gwyn Morgan points out that if this was his plan,
+[15:03 --> 15:06] then Otho's power for self-deception was unparalleled.
+[15:07 --> 15:08] The taciturn and conservative Galba
+[15:08 --> 15:11] had not risen in revolt against Nero
+[15:11 --> 15:13] just to make sure one of Nero's drinking buddies
+[15:13 --> 15:14] wound up on the throne.
+[15:16 --> 15:18] But Otho was sure he was on the right track
+[15:18 --> 15:20] and arranged a deal to marry Vinius's daughter
+[15:20 --> 15:22] in exchange for Vinius's support
+[15:22 --> 15:23] on the issue of adoption.
+[15:24 --> 15:27] And in fact, Otho was so convinced
+[15:27 --> 15:28] that Galba was going to adopt him
+[15:28 --> 15:30] that when he learned Galba had chosen
+[15:30 --> 15:33] the more stable Lucius Calpurnius Piso instead,
+[15:34 --> 15:36] a blindsided Otho flew into such a rage
+[15:36 --> 15:39] that he assassinated Galba less than a week later.
+[15:40 --> 15:42] But we'll get into all that in a bit.
+[15:44 --> 15:46] So, so far, we have here two men,
+[15:46 --> 15:48] one at the end of his career
+[15:48 --> 15:50] and convinced that it was not just his duty
+[15:50 --> 15:52] but his right to assume the title of Caesar
+[15:52 --> 15:55] and one who had barely started his career
+[15:55 --> 15:57] but was crazy ambitious enough
+[15:57 --> 15:59] to believe that he was destined to dawn the purple.
+[16:01 --> 16:02] Having covered Vespasian,
+[16:02 --> 16:04] the man who would outlast them both last week,
+[16:05 --> 16:06] though I did botch his birthdate,
+[16:06 --> 16:09] he was born in 980, not 17,
+[16:09 --> 16:12] and his son Titus was born in 39, not 41,
+[16:13 --> 16:15] thanks to alert listener Sarah for catching that,
+[16:16 --> 16:18] we are left then with just one more emperor
+[16:18 --> 16:20] to introduce, the third leg of the relay,
+[16:21 --> 16:23] which as students of track and field will tell you
+[16:23 --> 16:25] is always the slowest member of the team.
+[16:25 --> 16:27] And I don't just mean that figuratively,
+[16:28 --> 16:29] though I do mean it figuratively.
+[16:30 --> 16:32] I also mean that literally, Aeolus Vitellius
+[16:32 --> 16:34] was probably one of the slowest men
+[16:34 --> 16:36] to ever ascend to the throne.
+[16:38 --> 16:40] Vitellius was born in 1580
+[16:40 --> 16:41] to a family either descended
+[16:41 --> 16:43] from ancient Latin nobility
+[16:43 --> 16:46] or descended from common stock nobodies,
+[16:46 --> 16:47] depending on whether you were talking
+[16:47 --> 16:50] to a supporter or an opponent of the man.
+[16:51 --> 16:52] His father was a prominent official
+[16:52 --> 16:53] who served with distinction
+[16:53 --> 16:56] under Tiberius, Caligula, and Claudius.
+[16:57 --> 16:59] Such was the esteem in which the elder Vitellius
+[16:59 --> 17:00] was held that when he died,
+[17:00 --> 17:02] Claudius honored him with a state funeral.
+[17:04 --> 17:06] Not much is known about the early years
+[17:06 --> 17:08] of young Aeolus except for the rumor
+[17:08 --> 17:09] that when he was born,
+[17:09 --> 17:11] the horoscope taken on the occasion of his birth
+[17:11 --> 17:13] so horrified his parents
+[17:13 --> 17:15] that Vitellius's father wound up
+[17:15 --> 17:17] actually trying to hinder his son's career
+[17:17 --> 17:19] for his own sake and Rome's.
+[17:21 --> 17:22] The alleged horoscope stated
+[17:22 --> 17:25] that if Vitellius was ever put in charge of an army,
+[17:25 --> 17:27] that disaster would ensue.
+[17:28 --> 17:30] This prophecy hung over Vitellius's head
+[17:30 --> 17:34] and as I said, his father used what influence he had
+[17:34 --> 17:36] to make sure that his son was always posted
+[17:36 --> 17:37] to non-military provinces.
+[17:39 --> 17:41] When Galba appointed him to command the legions
+[17:41 --> 17:42] of the lower Rhine, it would prove
+[17:42 --> 17:45] to be the first military posting of his career.
+[17:46 --> 17:47] Did disaster ensue?
+[17:48 --> 17:50] Well, the legions under his command
+[17:50 --> 17:51] revolted against their emperor,
+[17:51 --> 17:53] won, then lost a civil war
+[17:53 --> 17:55] and Vitellius himself was dead
+[17:55 --> 17:57] just a year after assuming the post.
+[17:57 --> 17:59] So yeah, I would call that disastrous
+[17:59 --> 18:01] for pretty much everyone involved.
+[18:03 --> 18:05] But up until that point,
+[18:05 --> 18:07] the affable and non-threatening Vitellius
+[18:07 --> 18:09] managed to thrive in a political environment
+[18:09 --> 18:11] where talent was viewed with suspicion
+[18:11 --> 18:13] and he rose to the rank of consul
+[18:13 --> 18:16] during the reign of Claudius in 48 AD.
+[18:17 --> 18:18] More than a decade later,
+[18:18 --> 18:21] he was named proconsul to Africa by Nero
+[18:21 --> 18:23] in either 60 or 61.
+[18:24 --> 18:25] Throughout his career,
+[18:25 --> 18:27] Vitellius earned a reputation
+[18:27 --> 18:28] for good-natured laziness,
+[18:29 --> 18:31] unambitious but honest administration,
+[18:31 --> 18:34] but above all, a massive appetite
+[18:34 --> 18:35] for all the finer things in life.
+[18:37 --> 18:38] An unrepentant glutton,
+[18:38 --> 18:40] he banqueted frequently,
+[18:40 --> 18:42] usually stuffing four full meals into a day.
+[18:43 --> 18:45] His one major vice beyond gambling
+[18:45 --> 18:48] was that he would use the men at his disposal
+[18:48 --> 18:49] to go out into the wide world
+[18:49 --> 18:52] and bring home delicacies from across the empire.
+[18:53 --> 18:55] But though he was not cut from the same vigorous
+[18:55 --> 18:58] and athletic mold that perhaps his forbearers were,
+[18:59 --> 19:00] Vitellius was always well-liked
+[19:00 --> 19:01] by his subordinates wherever he went.
+[19:03 --> 19:04] The stories of his arrival on the Rhine
+[19:04 --> 19:06] after the ascension of Galba
+[19:06 --> 19:07] are peppered with accounts
+[19:07 --> 19:09] of his shaking hands with mule drivers,
+[19:10 --> 19:11] learning the names of slaves,
+[19:11 --> 19:12] and generally showing interest
+[19:12 --> 19:15] in all the various nobodies under his command.
+[19:16 --> 19:19] In short, Vitellius was a classic player's coach,
+[19:20 --> 19:22] the kind of man you loved to play for
+[19:22 --> 19:23] even if he wasn't strict enough
+[19:23 --> 19:26] to get the most out of your team.
+[19:27 --> 19:30] Discipline was lax and parties were frequent.
+[19:30 --> 19:32] There could not have been a stronger contrast
+[19:32 --> 19:34] to the strict and humorless Galba
+[19:34 --> 19:37] than the flush-cheeked and jovial Vitellius,
+[19:37 --> 19:39] and the troops along the Rhine
+[19:39 --> 19:40] did not miss the distinction.
+[19:41 --> 19:43] On the one hand, there was the hated Galba
+[19:43 --> 19:46] who had beaten them and worked them
+[19:46 --> 19:48] and driven them like pack animals,
+[19:48 --> 19:51] and on the other hand was beloved Vitellius
+[19:51 --> 19:52] who joined in their dice games,
+[19:53 --> 19:55] let them off the hook if their uniforms were out of order,
+[19:55 --> 19:57] and shared his table with anyone
+[19:57 --> 19:59] who wanted to have some good food.
+[20:00 --> 20:03] So on January 1, 69 AD,
+[20:03 --> 20:04] when the legions across the empire
+[20:04 --> 20:06] were supposed to renew their oaths
+[20:06 --> 20:08] to serve the new emperor Galba,
+[20:08 --> 20:10] the legions on the Rhine refused.
+[20:10 --> 20:11] They were done with Galba.
+[20:12 --> 20:13] Vitellius was their man,
+[20:13 --> 20:16] and they declared him emperor by acclaim.
+[20:16 --> 20:18] The man most shocked to find Vitellius
+[20:18 --> 20:21] suddenly leading a full-blown revolt against Galba?
+[20:22 --> 20:24] Vitellius himself, of course.
+[20:26 --> 20:27] When I return from the break,
+[20:27 --> 20:30] we'll dive into the guts of the year of the four emperors.
+[20:31 --> 20:32] Galba will ascend to the throne,
+[20:32 --> 20:34] but as Tacitus says,
+[20:34 --> 20:36] everyone agreed that Galba would make an excellent emperor
+[20:36 --> 20:38] until he actually became emperor.
+[20:39 --> 20:42] His short and unpopular reign will be cut short
+[20:42 --> 20:45] when Otho assassinates him in January of 69.
+[20:46 --> 20:48] Otho will wind up committing suicide in April
+[20:48 --> 20:50] after suffering defeat in northern Italy
+[20:50 --> 20:53] at the hands of Vitellius' invading Rhine legions.
+[20:54 --> 20:57] Vitellius himself will only last until December.
+[20:58 --> 20:59] In over his head and ready to bow
+[20:59 --> 21:01] to the more formidable Vespasian,
+[21:02 --> 21:05] he will be unnecessarily murdered by Flavian partisans
+[21:05 --> 21:07] just before the arrival of the new year.
+[21:08 --> 21:10] Vespasian will then emerge into 70 AD
+[21:10 --> 21:13] as the founder of a new imperial dynasty.
+[21:15 --> 21:17] Next week, though, I'm going to pause our forward progress
+[21:17 --> 21:20] and in honor of my own fast approaching nuptials,
+[21:20 --> 21:23] we'll dedicate an episode to Roman wedding customs.
+[21:23 --> 21:24] And if there's not enough material
+[21:24 --> 21:26] to cover a whole episode,
+[21:26 --> 21:27] maybe I'll just ramble on a bit
+[21:27 --> 21:28] about Roman family life.
+[21:29 --> 21:30] Should be fun, so join me next week
+[21:30 --> 21:32] for a history of Rome wedding.

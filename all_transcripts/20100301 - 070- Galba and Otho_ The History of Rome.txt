@@ -1,0 +1,318 @@
+# 20100301 - 070- Galba and Otho_ The History of Rome
+# Detected language: en
+# Duration: 1630.07 seconds
+# Model: medium, Device: cpu
+
+[00:00 --> 00:02] This week's episode is brought to you by Audible.
+[00:03 --> 00:10] As you are no doubt aware, Audible is the Internet's leading provider of audio entertainment with over 60,000 titles to choose from.
+[00:10 --> 00:15] When you're done with this episode, go to audiblepodcast.com forward slash Roam.
+[00:15 --> 00:19] That again is audiblepodcast.com forward slash Roam.
+[00:19 --> 00:25] By going to that address, you will qualify for a free book download when you sign up for a 14-day trial membership.
+[00:25 --> 00:30] There is no obligation to continue the service and you can cancel anytime and keep the free book that you downloaded.
+[00:30 --> 00:36] You can also keep going with one of the monthly subscription options and get great deals on all future audiobook purchases.
+[00:37 --> 00:40] This week I am going to recommend picking up Augustus by Anthony Everett.
+[00:41 --> 00:48] Everett is clear and accessible and this biography in particular was a great aid while I was crafting the episodes on Rome's First Emperor.
+[00:48 --> 00:53] Just remember to go to audiblepodcast.com forward slash Roam so they know who sent you.
+[00:58 --> 01:01] Hello and welcome to the history of Rome.
+[01:02 --> 01:05] Episode 70, Galba and Otho.
+[01:07 --> 01:11] So the history of Rome is now married and settled into our new global headquarters in Austin, Texas.
+[01:12 --> 01:16] It was an eventful break and the last few weeks saw some pretty major changes in my life.
+[01:17 --> 01:21] As fun as it all was though, I am eager to get back to the comfortable weekly rhythm of the show.
+[01:21 --> 01:24] So without further ado, let's get to it.
+[01:24 --> 01:32] You will remember that in early 68 AD, Gaius Julius Vindex, governor of one of the Gallic provinces, rose up in revolt against Nero.
+[01:33 --> 01:41] Vindex tried to convince old Servius Sulpicius Galba, governor of the largest province in Spain, to join him and lead a wider rebellion.
+[01:41 --> 01:49] But Galba refused to commit to the fight and Vindex's revolt was put down by Lucius Virginius Rufus, commander of the legions on the upper Rhine.
+[01:50 --> 01:59] But the legions on the Rhine were not driven by any deep love for Nero and having defeated Vindex, they tried to convince Virginius himself to lead them all in rebellion against Nero.
+[02:00 --> 02:02] But Virginius refused.
+[02:03 --> 02:13] Though Vindex's rebellion was technically put down and Virginius remained loyal, these events signaled to the empire that Nero's star was fading fast and that it was time to flee from the sinking ship.
+[02:14 --> 02:26] In Rome, the Praetorian prefect, Nifidius Sabinus, told his men that if they abandoned Nero and supported the aforementioned Galba, that the old governor of Spain would pay them all off handsomely.
+[02:26 --> 02:32] Galba had said no such thing, but he had decided that the time to break publicly with Nero was at hand.
+[02:33 --> 02:41] With every important commander turning on the emperor, the Senate seized the opportunity to be rid of Nero, declared him a public enemy, and called for his execution.
+[02:41 --> 02:44] A fate Nero escaped only by committing suicide.
+[02:45 --> 02:50] With Nero dead, the Senate sent word that they were ready to recognize Galba as the new Caesar.
+[02:51 --> 02:58] In just a few short months, Galba had gone from a provincial governor contemplating retirement to absolute ruler of the Roman Empire.
+[02:59 --> 03:02] All that was left to do was march on Rome and assume the throne.
+[03:03 --> 03:06] I think that that is about where we left off.
+[03:07 --> 03:11] Galba's brief reign as emperor would be stormy, to say the least.
+[03:12 --> 03:17] The storm was in part his own fault, both for things he had done in the past and things he would do now that he was in power.
+[03:18 --> 03:25] But the fact is that Otho was able to find murderous accomplices within the ranks of the Praetorian guard not because of what Galba was doing per se,
+[03:26 --> 03:30] but because Galba refused to keep promises that Galba had never actually made.
+[03:32 --> 03:41] From the moment it looked like sticking with Nero would be suicide, an amphibious subbinist had been promising all kinds of riches to the troops under his command if they backed Galba.
+[03:41 --> 03:51] The prefect made all these promises as if he was simply relaying messages received from Galba, but mostly he was just telling whoppers and hoping that they would come true later.
+[03:51 --> 04:00] I think that probably most Roman politicians in Galba's shoes arriving in Rome to news that the Praetorians were expecting X amount as a donative
+[04:00 --> 04:05] would have felt compelled to pay the money, but Galba was a peculiar bird and a world class miser.
+[04:06 --> 04:13] He scoffed at Subbinus' promises and then naively went about his business as if canceling the bonuses would have no serious consequences.
+[04:14 --> 04:24] Of course, by this point, Subbinus had already been murdered by his own men, so maybe Galba figured that everyone understood that anything the prefect had said was now moot.
+[04:24 --> 04:26] But I am getting a bit ahead of myself.
+[04:28 --> 04:32] Galba did not immediately leave for Rome in the days following his ascension.
+[04:32 --> 04:36] He was, after all, still governor of a rich and independent-minded province.
+[04:37 --> 04:43] He had to make sure that Spain would not fall apart when its long-time administrator suddenly left on more important business.
+[04:44 --> 04:51] He lingered for a month, raising a new legion to accompany him on the march to Rome and finding the right man to take over governance of the province.
+[04:51 --> 05:05] As an aside, the man Galba chose to succeed him signaled Galba's priorities, or more accurately, the priorities of his three advisers, Vinius, Laco, and Icellus, when it came to appointing governors.
+[05:06 --> 05:11] Cluvius Rufus was a well-respected senator, but a man with no military experience.
+[05:11 --> 05:19] It was a mold that Galba would use for other key provincial appointments, most notably Vitellius' eventual command of the legions on the lower Rhine.
+[05:19 --> 05:25] The three pedagogues had no intention of putting experienced military men at the head of large armies.
+[05:25 --> 05:31] That was, after all, how they had just come to power, and they weren't about to let anyone else repeat the process.
+[05:33 --> 05:41] Galba finally shoved off for Rome in July, but was soon met by a delegation from the Senate, bringing news that things in the capital were getting out of hand.
+[05:42 --> 05:48] Galba's continued absence from the city had allowed the ambitions of Sabinus to grow at an exponential rate.
+[05:48 --> 05:54] The Praetorian prefect had apparently decided that it was no longer enough to simply back a new emperor.
+[05:54 --> 05:57] He now actually wanted to be that new emperor.
+[05:58 --> 06:05] To that end, Sabinus had begun passing around a rumor that he was actually the son of Caligula, and thus the rightful Julio-Claudian heir to Nero.
+[06:06 --> 06:11] But Sabinus hung himself before Galba, or the Senate, had a chance to respond.
+[06:12 --> 06:16] Already somewhat ashamed of themselves for having turned on Nero so readily,
+[06:16 --> 06:24] a good chunk of the guard was mortally offended that Sabinus was now calling on them to abandon Galba before the latter even had a chance to arrive in Rome.
+[06:25 --> 06:30] Were they really such a dishonorable lot that their loyalties would simply shift at the slightest breeze?
+[06:31 --> 06:38] When Sabinus arrived at the Praetorian camp, ready to accept the title of Caesar, he was instead greeted by an angry mob.
+[06:39 --> 06:42] They allowed their prefect through the gate, and then they locked the door behind him.
+[06:43 --> 06:45] Sabinus did not make it out of the camp alive.
+[06:46 --> 06:50] Honor aside, there was really no reason to turn on Galba just yet anyway.
+[06:50 --> 06:54] After all, there was the matter of that huge bonus they had been promised.
+[06:55 --> 07:02] The case of the missing Donative, as I said, was a landmine that the unsuspecting Galba would eventually step on.
+[07:02 --> 07:06] But in his defense, it was at least a landmine laid by someone else.
+[07:06 --> 07:13] On his march from Spain to Rome, though, Galba did plenty enough damage to his own reputation without anyone else's help.
+[07:14 --> 07:17] When he finally got to Italy and stepped on the mine that was laid by Sabinus,
+[07:18 --> 07:25] Galba was already politically wounded enough that rather than just knock him around some, the blast would actually be enough to finally kill him.
+[07:27 --> 07:32] There are a couple of schools of thought about how best to ascend to the throne following a coup-like situation.
+[07:32 --> 07:37] One is embodied by Julius Caesar, who was forever pardoning his enemies
+[07:37 --> 07:42] and exuding a spirit of such generosity and forgiveness that you couldn't help but love the guy.
+[07:42 --> 07:47] The other was embodied by Octavian, who ruthlessly purged all his enemies
+[07:47 --> 07:53] so that when he seized power, he could play the part of enlightened despot without fear of counterrevolution.
+[07:54 --> 08:00] Galba followed the path of Octavian, but did so without the slightest hint of political savvy or decency.
+[08:00 --> 08:06] In Roman society, it was one thing to kill your enemies. It was quite another to kill their wives and children.
+[08:07 --> 08:11] It was one thing to execute a few troublemakers within an unruly legion.
+[08:11 --> 08:17] It was quite another to slaughter entire cohorts just beyond the walls of Rome because you don't like their attitude.
+[08:18 --> 08:25] When he left Spain, Galba was seen as a wise and experienced leader capable of saving the empire from the excesses of Nero.
+[08:25 --> 08:31] But by the time he arrived in Rome, he was seen as an inflexible and cruel tyrant.
+[08:31 --> 08:37] As Tacitus says, everyone agreed that Galba would make an excellent emperor until he actually became emperor.
+[08:39 --> 08:45] The dastardly crime of killing wives and children came early on as Galba consolidated his hold over Spain.
+[08:46 --> 08:52] Governors and procurators in the region who did not immediately offer their full-throated support for the new Caesar
+[08:52 --> 08:55] were rounded up along with their families and murdered.
+[08:55 --> 08:59] The indecency of this purge was at first missed in all the confusion,
+[08:59 --> 09:03] but word of what had happened would trail Galba on his trip to Rome
+[09:03 --> 09:08] and then linger as further proof that the increasingly disliked Galba was in fact a monster.
+[09:10 --> 09:17] The new emperor exacerbated the situation by treating towns he passed as enemy fortresses if they did not immediately submit to his authority.
+[09:18 --> 09:22] Otherwise perfectly loyal and peaceful settlements were sacked by Galba's men,
+[09:23 --> 09:26] who acted like a conquering army on the march through enemy territory.
+[09:27 --> 09:29] Galba arrived at the outskirts of Rome in October,
+[09:30 --> 09:34] and by that time everyone knew what a swath he had cut across the western empire.
+[09:35 --> 09:38] The Romans braced themselves to greet their savior.
+[09:40 --> 09:46] But before he set foot in the city, Galba blasted out the final chunk of what was left of his reputation.
+[09:47 --> 09:53] Prior to committing suicide, Nero had raised a new legion composed mostly of ex-marines and sailors.
+[09:54 --> 09:59] In the hierarchy of the Roman armed forces, marines and sailors were a barely acknowledged necessity,
+[10:00 --> 10:04] whereas full legionnaires were respected and granted all sorts of privileges.
+[10:05 --> 10:08] Not wanting to give up their so recently acquired bump in status,
+[10:08 --> 10:14] soldiers from the new legion greeted Galba at the Milvian Bridge and demanded that he legalize their promotions.
+[10:15 --> 10:17] Galba ordered them to disperse, but they refused,
+[10:18 --> 10:23] which Galba took to be nothing less than rank insubordination and possibly treason.
+[10:24 --> 10:28] When a few in the petitioning legion drew their sword to show that they meant business,
+[10:28 --> 10:30] Galba snapped and ordered his legion to attack.
+[10:32 --> 10:35] This was not simply meant to be a terrifying display of force.
+[10:35 --> 10:40] Galba was deadly serious, and in the ensuing massacre, thousands from the new legion were killed.
+[10:40 --> 10:48] When the fighting stopped, Galba rounded up the survivors and decided to revive the long since discarded practice of decimation,
+[10:49 --> 10:53] whereby one out of every ten men was selected by lots and put to death.
+[10:54 --> 10:58] The punished legion was in shock at having to submit to this archaic and cruel punishment.
+[10:59 --> 11:04] Galba's own men were disgusted by the display, and the people of Rome were horrified.
+[11:05 --> 11:09] Galba simply stated that he was acting well within the bounds of military law,
+[11:09 --> 11:14] and though he was right on the statutory point, politically he could not have been more wrong.
+[11:15 --> 11:19] When he finally entered the city, Galba was a feared and hated man.
+[11:20 --> 11:26] After just a few months in office, he was so thoroughly despised that it's a wonder he even lasted into the middle of January.
+[11:29 --> 11:31] It's not that Galba wasn't trying.
+[11:31 --> 11:37] It was just that he had the political instincts of a lemming and couldn't stop running headlong over the nearest cliff.
+[11:38 --> 11:43] The one and only major issue he tackled during his reign was trying to clean up the empire's finances,
+[11:44 --> 11:51] and he bungled that so badly that even his most ardent supporters conceded that Galba was not well suited for his new position.
+[11:52 --> 11:55] Nero had left an enormous financial mess to clean up,
+[11:55 --> 12:00] and the people likely would have given Galba the benefit of the doubt as he tried to wade through it all,
+[12:00 --> 12:08] but the new emperor pursued such a tone-deaf clean-up operation that whatever goodwill he had coming to him was immediately squandered.
+[12:09 --> 12:16] Though in the end responsibility for the majority of his ill-advised plans has been laid squarely at the feet of the three pedagogues,
+[12:17 --> 12:20] the buck, as they say, stopped with Galba at the time.
+[12:23 --> 12:29] Taking their first look at the official books, Galba and his advisors quickly understood the severity of the situation.
+[12:29 --> 12:34] Nero had effectively cleaned out the state reserves and left the empire essentially broke.
+[12:35 --> 12:42] Knowing that the vast majority of the funds had been spent either building the Golden Palace or been handed out to court favorites as gifts,
+[12:43 --> 12:45] Galba decided to simply recover the dispersed funds.
+[12:46 --> 12:49] But as the treasury officials knocked on doors looking for the money,
+[12:50 --> 12:54] it became clear that most of it had already been spent by those who had received it.
+[12:54 --> 13:00] In many cases the money had been spent on a variety of gifts that the court favorites had issued to clients
+[13:00 --> 13:04] as part of the patronage system that defined Roman political life.
+[13:05 --> 13:08] So while the money itself quickly became untraceable,
+[13:08 --> 13:12] the purchased items themselves were catalogued and pursued by the treasury officials.
+[13:13 --> 13:21] Galba's officers soon found themselves ordered to seize property from families who had acquired the goods in question blamelessly.
+[13:21 --> 13:24] Thus, rather than coming down hard on Nero's old accomplices,
+[13:25 --> 13:30] the burden was borne by men only tangentially related to the emperor's excesses.
+[13:30 --> 13:33] This, as you can imagine, was not a very popular policy.
+[13:35 --> 13:40] The larger plan was to auction off the seized property to re-raise the cash that had been lost.
+[13:40 --> 13:44] But with so much economic uncertainty, even if they could afford to,
+[13:44 --> 13:48] no one wanted to bid on the seized items and the auction raised next to nothing.
+[13:49 --> 13:54] To make matters worse, the two men who made out best in the auctions were Vinius and Ikellus,
+[13:55 --> 13:57] who picked up all manner of property for pennies on the dollar.
+[13:58 --> 14:04] This only reinforced the idea that the whole operation had been masterminded by Galba's fiendish advisors,
+[14:04 --> 14:07] who control the senile old fool completely, don't you know,
+[14:07 --> 14:10] to make themselves rich at everyone else's expense.
+[14:11 --> 14:13] The whole thing was a public relations nightmare.
+[14:14 --> 14:17] But Galba either didn't understand how much ill will he was stirring up,
+[14:17 --> 14:20] or he simply didn't care.
+[14:21 --> 14:25] The topper to all this was that while the new imperial administration was running around
+[14:25 --> 14:29] seizing everyone's property and auctioning it off to itself,
+[14:29 --> 14:33] Galba was announcing that there was not enough money to restore the free grain allotments
+[14:33 --> 14:36] that had been suspended by Nero following the great fire.
+[14:37 --> 14:42] The shuttering of the grain allotments had been a grievance the poor had been nursing for the last few years,
+[14:42 --> 14:47] and with Nero now gone, they fully expected Galba to get the grain flowing again.
+[14:48 --> 14:51] This one-two punch left the new emperor virtually friendless.
+[14:52 --> 14:57] The upper and middle classes hated him for arbitrarily seizing their legally obtained property,
+[14:57 --> 15:01] while the lower classes hated him for denying the free grain allotment.
+[15:02 --> 15:06] Having already alienated most of the legions with his heavy-handed discipline,
+[15:06 --> 15:10] especially the legions on the Rhine, which we'll cover in greater detail next week,
+[15:10 --> 15:12] Galba was fast running out of allies.
+[15:13 --> 15:16] But at least he still had the Praetorians on his side.
+[15:16 --> 15:19] As long as an emperor has that final line of protection,
+[15:19 --> 15:22] there is little anyone can do to stop him from doing whatever he wants.
+[15:23 --> 15:28] Oh, what's that you say? The Praetorians were actually among the first to get super-ticked off at Galba?
+[15:28 --> 15:31] Well, I guess he's in real trouble then, huh?
+[15:33 --> 15:36] The problem with the Praetorians, as I mentioned, was that earlier in the year,
+[15:36 --> 15:41] Nemphidius Sabinus had promised them a huge payout if they abandoned Nero and backed Galba.
+[15:42 --> 15:44] But of course, Galba had never authorized such a promise,
+[15:45 --> 15:49] and never in a million years would have paid what was, in effect, a massive bribe.
+[15:50 --> 15:55] As I said in episode 68, Galba believed in the chain of command almost to a fault.
+[15:56 --> 15:59] A commander did not purchase the loyalty of his troops.
+[15:59 --> 16:02] He commanded, and they obeyed. Period.
+[16:03 --> 16:06] But even discarding the specific promises made by Sabinus,
+[16:06 --> 16:11] Galba's decision not to pay out a donative to the Praetorians upon his ascension
+[16:11 --> 16:14] broke with an accepted practice that dated back to Tiberius.
+[16:15 --> 16:19] It was considered a goodwill gesture to get the new administration off on the right foot.
+[16:20 --> 16:23] Galba, though, not only refused to pay the sum promised by Sabinus,
+[16:23 --> 16:26] but he refused to pay any sum at all.
+[16:27 --> 16:32] The Praetorians were incensed at being denied what they considered to be their rightful payout.
+[16:32 --> 16:34] But Galba refused to reconsider his position.
+[16:35 --> 16:38] That may have been the way the Julio-Claudians operated,
+[16:39 --> 16:41] but the Julio-Claudians were dead and gone.
+[16:42 --> 16:46] Galba was intent on founding a new dynasty, one based on honor and duty,
+[16:46 --> 16:49] not crass self-interest and purchased loyalty.
+[16:52 --> 16:54] Which brings us to the last decision Galba would make as emperor.
+[16:56 --> 16:58] One old man does not a dynasty make.
+[16:59 --> 17:02] From the moment the childless Galba had been declared Caesar,
+[17:02 --> 17:07] the question on everybody's mind was who he would choose to be his heir and successor.
+[17:08 --> 17:12] Every semi-influential man of senatorial rank believed that he deserved the prize,
+[17:13 --> 17:18] but one man, above all the others, was really super convinced that he was going to get the nod.
+[17:19 --> 17:21] Marcus Salvius Otho.
+[17:22 --> 17:27] Having supported Galba from the beginning and having accompanied the new emperor on his march to Rome,
+[17:27 --> 17:32] Otho was already making plans for what he would do once he became emperor.
+[17:33 --> 17:39] As I mentioned a few episodes ago, adding to Otho's confidence was a recently taken astrological forecast
+[17:39 --> 17:43] that basically said Galba will soon be dead and you will succeed him.
+[17:44 --> 17:48] Plus, on a less abstract level, Otho had made a deal with Vinius
+[17:48 --> 17:55] that locked the influential advisor into backing Otho's bid in exchange for Otho marrying Vinius's sister once the adoption went through.
+[17:57 --> 18:02] But as 68 became 69 AD, Galba still had not made up his mind.
+[18:02 --> 18:06] Reports started coming in that there was some unrest within the legions on the Rhine
+[18:06 --> 18:08] and that possibly they were in full revolt.
+[18:09 --> 18:13] Probably nothing to worry about, the same thing had happened when Tiberius had ascended to the throne.
+[18:14 --> 18:18] All Tiberius had to do was send his son out to talk some sense into them,
+[18:18 --> 18:23] so maybe Galba should just, oh wait, the old man still hasn't chosen a successor yet.
+[18:24 --> 18:28] Galba had been taking his time with the decision to make sure he got it right.
+[18:28 --> 18:32] Or possibly, because with everything else that was going on,
+[18:32 --> 18:35] he simply didn't have the time or energy to focus on the issue of succession.
+[18:36 --> 18:39] But when word came that the legions on the Rhine were in full mutiny,
+[18:39 --> 18:45] Galba decided that he needed to reassure the empire that the center of power was and would remain in Rome,
+[18:45 --> 18:47] not in the legionary camps on the Rhine.
+[18:49 --> 18:50] Behind closed doors he met with his advisors.
+[18:51 --> 18:54] Vinius, of course, argued in favor of Otho,
+[18:54 --> 18:58] while Icellius and Laco backed a man named Cornelius Dorabella.
+[18:59 --> 19:03] But this seems to be one of the few occasions that Galba acted on his own.
+[19:03 --> 19:09] And dissatisfied with both candidates, he announced that he would be adopting a man named Lucius Calpurnius Piso,
+[19:10 --> 19:14] a man of impeccable breeding who had spent the majority of Nero's reign in exile
+[19:14 --> 19:17] and had only recently been recalled to Rome.
+[19:18 --> 19:22] Piso was brought into the meeting and informed that he was now officially the heir of Galba.
+[19:23 --> 19:28] The three pedagogues were shocked and annoyed when Piso took the announcement in calm stride.
+[19:29 --> 19:32] Clearly, Piso was not himself a power-hungry man,
+[19:32 --> 19:35] and they didn't much like the idea of having to serve someone
+[19:35 --> 19:38] who lacked the kind of avarice and ambition they could really exploit.
+[19:39 --> 19:40] Bad for business, you know?
+[19:42 --> 19:44] When Galba made his decision public,
+[19:44 --> 19:49] it is important to note that he did not make his speech to the Senate or to a mass gathering of the people,
+[19:50 --> 19:53] but rather to a hastily called meeting of the Praetorian Guard.
+[19:54 --> 19:59] Galba apparently thought that this deference to the Guard would make up for the missing donative that he had never paid.
+[20:01 --> 20:06] But the short speech introducing Piso, which Galba gave on January 10, went over like a lead balloon.
+[20:07 --> 20:11] There was still no word on the missing bonus, which the Guard had not forgotten,
+[20:11 --> 20:15] and adding insult to injury, there was no talk of the additional bonus,
+[20:15 --> 20:20] which usually accompanied births, weddings, adoptions, and other happy occasions.
+[20:21 --> 20:26] On top of all that, Otho had been making the rounds within the Praetorians for months,
+[20:26 --> 20:30] gaining their trust and confidence by dispersing huge sums of cash
+[20:30 --> 20:34] and hinting that there would be more where that came from once he finally became the heir apparent.
+[20:35 --> 20:39] So everyone was expecting generous and charismatic Otho,
+[20:39 --> 20:44] and what they got was a humorless exile who seemed no more inclined to buy their love than Galba.
+[20:45 --> 20:50] Needless to say, the cheers greeting the arrival of Piso were less than enthusiastic.
+[20:52 --> 20:55] When Otho found out he had been passed over, he was livid.
+[20:56 --> 21:02] So livid, in fact, that he quickly gave himself over to a murderous rage that came boiling up to the surface.
+[21:03 --> 21:05] He was embarrassed, and he was angry.
+[21:05 --> 21:10] But more than that, he was deeply in debt, and had been borrowing heavily against the understanding
+[21:10 --> 21:15] that he would soon be Galba's heir and eventually emperor in his own right.
+[21:16 --> 21:18] The minute Otho found out he was not going to be the heir
+[21:18 --> 21:23] was the minute Otho realized that his many, many creditors would soon be beating down his door.
+[21:25 --> 21:29] Otho himself is reported to have joked darkly that unless he became emperor,
+[21:29 --> 21:35] it would not matter whether he was found by his enemies on the battlefield or found by his creditors in the forum.
+[21:35 --> 21:37] The result would be the same.
+[21:38 --> 21:41] His life passing before his eyes, Otho turned to extreme measures
+[21:41 --> 21:45] and immediately began plotting to assassinate both Galba and Piso.
+[21:48 --> 21:54] With the last few dollars he could scrape together, Otho purchased the service of 23 Praetorian guardsmen.
+[21:54 --> 22:00] Tacitus mentions that had Galba even given a perfunctory sum to the guard upon his ascension,
+[22:00 --> 22:03] it is unlikely that any of them would have turned so readily.
+[22:03 --> 22:05] But that ship had now sailed.
+[22:07 --> 22:11] Otho came with money and promises, whereas Galba had shown himself disdainful of both.
+[22:13 --> 22:15] Knowing that they had to act fast to avoid discovery,
+[22:16 --> 22:21] the conspirators were ready to go on January 15, just five days after the introduction of Piso.
+[22:22 --> 22:25] That morning, Otho, along with the rest of the Senate,
+[22:25 --> 22:31] paid their respects to Galba at a religious ceremony held at the Temple of Apollo adjacent to the Imperial Palace.
+[22:32 --> 22:35] At the arranged hour, an accomplice fetched Otho from the proceedings
+[22:35 --> 22:40] with the cover story that a relator needed to talk to him about a potential home sale.
+[22:41 --> 22:45] Otho left the ceremony and hurried to meet his accomplices in the forum.
+[22:45 --> 22:51] With the rest of the ruling class occupied with Galba's ceremony, Otho rushed to the Praetorian camp.
+[22:52 --> 22:55] The conspirators pushed their way past the camp gatekeeper
+[22:55 --> 22:59] and called for the Praetorians to muster so Otho could address them.
+[23:00 --> 23:02] The officers were wary of what was unfolding,
+[23:03 --> 23:06] but the common soldiers were eager to hear what Otho had to say.
+[23:07 --> 23:12] Playing up their every grievance, Otho reminded them of the disrespect Galba had repeatedly shown
+[23:12 --> 23:16] not just to them, but to every common soldier he had ever led.
+[23:17 --> 23:20] Otho assured his audience that all the provincial legions hated Galba
+[23:21 --> 23:26] and that the Senate and people of Rome both would gladly be rid of the mean old man
+[23:26 --> 23:28] if only someone would act in their name.
+[23:29 --> 23:31] There was no time to waste, Otho cried.
+[23:31 --> 23:34] They must now, right now, strike a blow for the Empire.
+[23:36 --> 23:39] Having worked the soldiers into a frenzied mix of self-interest and grand idealism,
+[23:40 --> 23:46] Otho ordered a cohort of cavalry out of the camp to find the hated Galba and kill him.
+[23:48 --> 23:52] Meanwhile, the morning ceremony had wrapped up and Galba was getting down to the day's business
+[23:52 --> 23:56] when frantic word came of what was happening in the Praetorian camp.
+[23:57 --> 24:01] Confusion reigned as rumor after counter rumor poured into the palace.
+[24:02 --> 24:06] At one point, a soldier arrived and, lying through his teeth for whatever reason,
+[24:06 --> 24:11] announced that he had taken care of the situation by personally killing Otho.
+[24:12 --> 24:16] At this, Galba displayed his customary disdain for individual initiative.
+[24:17 --> 24:23] Rather than congratulating the soldier, Galba asked harshly who had ordered him to kill Otho.
+[24:24 --> 24:26] Unsure, though, now, of whether Otho was dead or alive,
+[24:27 --> 24:32] a heated debate between Galba's advisers ensued on whether to lock down the palace and hole up
+[24:32 --> 24:35] or ride out to meet this treasonous challenge to imperial authority.
+[24:36 --> 24:38] Galba finally settled on the latter course.
+[24:39 --> 24:43] Donning a breastplate, he climbed in his imperial litter and was carried out into the forum
+[24:43 --> 24:48] accompanied by a collection of bodyguards, the three pedagogues, and his adopted son Piso.
+[24:50 --> 24:52] Before he could make it to the Praetorian camp, though,
+[24:52 --> 24:54] Galba was met by the charging cavalrymen.
+[24:56 --> 25:01] No one knew how dire the situation really was until the cavalry ignored all calls to halt
+[25:01 --> 25:04] and simply charged headlong into Galba's party.
+[25:05 --> 25:09] The litter was knocked to the ground, and before Galba could rise, he was stabbed to death.
+[25:11 --> 25:16] Laco and Ikelis managed to flee, but Vinius was caught and killed, despite his protests
+[25:16 --> 25:21] possibly indicating his complicity in the plot, that Otho had not ordered his death.
+[25:22 --> 25:26] Piso also managed to flee the scene, but was cornered in the Temple of the Vestas and killed.
+[25:27 --> 25:30] The heads of both Galba and Piso were delivered to Otho,
+[25:30 --> 25:35] who allowed them to be kicked around for sport by the soldiers now under his command.
+[25:39 --> 25:43] Galba was murdered at the age of 70, having served as emperor for just over seven months,
+[25:44 --> 25:47] by far the shortest tenure in office since the inception of the Principate.
+[25:48 --> 25:51] It was a record, however, that would not last long.
+[25:52 --> 25:57] Otho, who would accept the title of both Caesar and Augustus after they were foisted upon him
+[25:57 --> 26:00] by the Praetorians and then confirmed by the Senate within hours of the coup,
+[26:01 --> 26:03] would wind up wearing the purple for half that long.
+[26:04 --> 26:07] On April 15, just three months after taking office,
+[26:08 --> 26:13] Otho would commit suicide in his tent after being defeated by Vitellius' invading Rhine legions.
+[26:15 --> 26:21] Next week, we will get into how Vitellius, one of the most unlikely candidates for emperor in Roman history,
+[26:21 --> 26:24] found himself leading the Western Empire in revolt,
+[26:25 --> 26:28] and what Otho did in the few months he reigned to try to stamp it out.
+[26:30 --> 26:33] I will close this week by extending my deep, deep appreciation
+[26:33 --> 26:36] for all the donations that have come in over the last few weeks.
+[26:37 --> 26:38] You guys are amazing.
+[26:39 --> 26:43] The now Mrs. History of Rome and I are blown away by your generosity.
+[26:43 --> 26:46] So thank you, thank you very, very much.
+[27:08 --> 27:10] Thank you.

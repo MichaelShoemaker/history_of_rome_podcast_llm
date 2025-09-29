@@ -1,0 +1,367 @@
+# 20100225 - 006- The Twelve Tables
+# Detected language: en
+# Duration: 956.08 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:06] Hello, and welcome to the History of Rome.
+[00:08 --> 00:13] We ended last week with the plebes finally being granted nominal political rights, or
+[00:13 --> 00:17] at least defenders within the political arena, with the creation of the Office of Tribune.
+[00:18 --> 00:22] This stopped plebian agitation for a while, but as the years passed a new generation
+[00:22 --> 00:27] came of age and demanded further protection from the ever present threat of patrician
+[00:27 --> 00:28] tyranny.
+[00:28 --> 00:33] It was not enough to be protected from an abuse of the law, because, at the time, nobody
+[00:33 --> 00:34] knew exactly what the law was.
+[00:35 --> 00:40] The legal framework of Rome was a nebulous body of oral and written traditions, with
+[00:40 --> 00:45] precedents and sub-causes hiding all over the place, in official decrees, letters,
+[00:45 --> 00:49] pronouncements, and, most dangerously, in the minds of old patrician lawyers.
+[00:50 --> 00:54] Who was to say a man was being treated unjustly if no one knew exactly what
+[00:54 --> 00:55] justice was?
+[00:56 --> 01:00] This new generation of plebian agitators would ultimately win a great victory for
+[01:00 --> 01:04] themselves and the rule of law, giving the Romans a set of written precepts that would
+[01:04 --> 01:08] be memorized by every child and recited by every adult.
+[01:08 --> 01:10] The Twelve Tables of Roman Law.
+[01:11 --> 01:16] This official codification of the law occurred around 451 BC, but before we
+[01:16 --> 01:20] get to that point in our story, I want to give a brief account of what Rome
+[01:20 --> 01:24] dealt with in the forty odd years between the inception of the tribune and the
+[01:24 --> 01:25] creation of the Twelve Tables.
+[01:26 --> 01:31] Internally, Rome was full of tension, but, as I said, for the first twenty years or
+[01:31 --> 01:35] so, nothing boiled over too much to disrupt the day-to-day, year-to-year
+[01:35 --> 01:36] operations of the city.
+[01:37 --> 01:40] The consuls and senate still held the lion's share of the power, though they
+[01:40 --> 01:42] were now checked somewhat by the tribunes.
+[01:43 --> 01:47] The Romans were held together by an unceasing series of wars against their neighbors
+[01:47 --> 01:49] to the north, east, and south.
+[01:49 --> 01:53] To the north, they fought a particularly hard campaign against their old
+[01:53 --> 01:58] nemesis, the Vaeites, that ended in a stalemate in 474 BC, a campaign that came
+[01:58 --> 02:02] complete with a dressed up battle of Thermopylae, with 306 members of the
+[02:02 --> 02:07] noble Phaebi family cast in the role of King Leonidas and his doomed Spartans.
+[02:07 --> 02:11] Protecting an undefensible past, the Phaebi clan fought to the last man to
+[02:11 --> 02:13] give the legions a chance to regroup.
+[02:14 --> 02:17] The battles fought to the east and south were of a different sort and
+[02:17 --> 02:20] revolved around a geographically based cultural clash.
+[02:20 --> 02:24] Vaea may have been in competition with Rome, but at least it was a settled city
+[02:24 --> 02:25] of civilized farmers.
+[02:26 --> 02:31] Out in the eastern hills, however, nomadic tribes, particularly the Volscians
+[02:31 --> 02:33] and the Aquians, pressed at Rome's borders.
+[02:34 --> 02:38] The nomadic herdsmen coveted Rome's soft, flat land and tried every year to
+[02:38 --> 02:42] carve out some or all of Roman territory and turn it from parceled
+[02:42 --> 02:44] farms into a massive grazing zone.
+[02:44 --> 02:48] As a result, the Romans were constantly beating back encroachment by the
+[02:48 --> 02:51] migrant tribes, who occasionally mustered enough force to give the Romans
+[02:51 --> 02:54] a run for their money, but were usually dispatched easily.
+[02:55 --> 02:58] For the first 10 years after the secession of the Plebes and running
+[02:58 --> 03:02] concurrently with the onagan-offagan battles with Vaea, the Volscians
+[03:02 --> 03:03] posed the greatest danger.
+[03:04 --> 03:07] They had already made great inroads south of the city, effectively
+[03:07 --> 03:10] securing all the land between the hills and the sea, blocking trade
+[03:10 --> 03:11] with Magna Graecia.
+[03:12 --> 03:16] The peak of the Volscian threat came early, in 491 BC, when a
+[03:16 --> 03:20] disgruntled Roman general named Corleones defected and led a Volscian
+[03:20 --> 03:23] army through the legions and right to the gates of the city.
+[03:23 --> 03:27] The Roman men beaten, the women were sent to plead with Corleones to
+[03:27 --> 03:30] end his attack, and it was only after a personal appeal from his
+[03:30 --> 03:34] own mother that Corleones' heart finally turned and he withdrew the army.
+[03:35 --> 03:38] His Volscian officers were appalled at being denied their easy victory,
+[03:38 --> 03:41] and back in Volscian territory, they murdered their Roman leader.
+[03:42 --> 03:45] It has been noted that the story of Corleones bears a striking
+[03:45 --> 03:48] resemblance to the story of the great Athenian general Themistocles,
+[03:48 --> 03:51] and that the story was probably inserted later to account for the
+[03:51 --> 03:54] defeat suffered by Rome at the hands of nomadic rabble.
+[03:54 --> 03:58] The Roman ego demanded that Romans could only be defeated by other
+[03:58 --> 03:58] Romans.
+[03:59 --> 04:02] By the mid-480s BC, though, the Volscian threat had largely
+[04:02 --> 04:05] been contained and the city was never seriously threatened again,
+[04:05 --> 04:08] though the Volscians maintained control over the southern plains
+[04:08 --> 04:11] for the remainder of the century and were a constant menace along
+[04:11 --> 04:12] Rome's borders.
+[04:12 --> 04:17] Throughout the 470s and 460s BC, even though the external danger
+[04:17 --> 04:20] had been greatly diminished, the legions still went out every
+[04:20 --> 04:23] summer campaigning against the latest forays by the Volscians
+[04:23 --> 04:24] or Achaean raiders.
+[04:24 --> 04:27] The total military dominance of Rome over the Hill tribes
+[04:27 --> 04:30] eventually led the plebe leaders to suspect that the patricians
+[04:30 --> 04:33] were not being totally honest with the threat level posed by
+[04:33 --> 04:37] the tribes, and with the record the Roman army had, it's hard
+[04:37 --> 04:37] to blame them.
+[04:38 --> 04:41] Without even breaking a sweat, the legions dispatched every
+[04:41 --> 04:42] enemy they encountered.
+[04:43 --> 04:45] A political pattern began to emerge.
+[04:45 --> 04:49] Plebe leaders would decry the raising of yet another army to
+[04:49 --> 04:51] go to battle with the Volscians or whoever, even though
+[04:51 --> 04:54] they posed no serious threat, and would denounce the
+[04:54 --> 04:57] Senate for starting wars to put off questions of further
+[04:57 --> 04:59] economic and political reform.
+[04:59 --> 05:03] These leaders would always, in turn, be denounced by the
+[05:03 --> 05:05] Senate as self-absorbed traitors who were putting
+[05:05 --> 05:07] personal ambition ahead of Rome's safety.
+[05:08 --> 05:10] The plebe leaders would shoot back that the patricians were
+[05:10 --> 05:13] sending men out to die for no other reason than to tighten
+[05:13 --> 05:15] their grip on wealth and power.
+[05:15 --> 05:19] A standoff would ensue, but Rome, being what it was, would
+[05:19 --> 05:22] ultimately raise the legion, and the plebeian demagogues
+[05:22 --> 05:23] would be silenced.
+[05:23 --> 05:26] The Romans were soldiers, and fighting is what they did.
+[05:27 --> 05:29] Throughout these years, Rome's position vis-a-vis the
+[05:29 --> 05:31] nomadic herdsmen was never seriously threatened,
+[05:32 --> 05:34] though in the following century, Rome would fight a
+[05:34 --> 05:37] knock-down, drag-out war with a rising Hill tribe
+[05:37 --> 05:40] called the Samnites that would ultimately see all Italy
+[05:40 --> 05:42] eventually fighting on one side or the other.
+[05:44 --> 05:46] In the years after the secession of the plebes, there
+[05:46 --> 05:49] were essentially two major initiatives that excited the
+[05:49 --> 05:51] plebes and kept the patricians up at night.
+[05:51 --> 05:53] The first was proposed by a tribune named
+[05:53 --> 05:55] Valero in 473 BC.
+[05:56 --> 05:58] It stated simply that the tribunes ought to be elected
+[05:58 --> 06:01] by the tribal assembly and not by the communist
+[06:01 --> 06:03] centuriata as they had been in the first years after
+[06:03 --> 06:04] the office was created.
+[06:05 --> 06:08] The patricians balked at the idea, knowing full well
+[06:08 --> 06:10] that they would no longer have undue weight in
+[06:10 --> 06:11] choosing who would be tribune.
+[06:12 --> 06:15] As I noted last week, the patricians inevitably failed
+[06:15 --> 06:16] in their attempt to quash the proposal.
+[06:17 --> 06:19] An election of the tribunes was duly passed to the
+[06:19 --> 06:20] Commida Tributa.
+[06:21 --> 06:25] As if this wasn't bad enough, in 462 BC, a
+[06:25 --> 06:27] tribune named Tarantellus made an even
+[06:27 --> 06:28] more radical proposal.
+[06:29 --> 06:32] The laws of Rome should be written down and posted so
+[06:32 --> 06:35] that all citizens would be bound to the same codes,
+[06:35 --> 06:37] and no man could rise above them.
+[06:37 --> 06:40] The patricians were horrified at the thought and
+[06:40 --> 06:42] spent the next 10 years doing everything in their
+[06:42 --> 06:44] power to stop its implementation.
+[06:44 --> 06:47] It was during these years that the plebes really
+[06:47 --> 06:49] started to resist military service and openly
+[06:49 --> 06:51] questioned patrician motives.
+[06:52 --> 06:54] At one point, however, caught up in their own
+[06:54 --> 06:56] rhetoric, they failed to believe it when the
+[06:56 --> 06:57] Senate woke up one morning and announced that
+[06:57 --> 07:00] during the night, a small Sabine army had
+[07:00 --> 07:02] penetrated the city and had taken the citadel.
+[07:03 --> 07:05] It was only after a desperate plea by the
+[07:05 --> 07:07] consuls that the plebes finally agreed to raise
+[07:07 --> 07:10] an army, finding much to their surprise that the
+[07:10 --> 07:12] citadel had in fact been taken and their city
+[07:12 --> 07:12] was under siege.
+[07:13 --> 07:16] The legions, along with a contingent of local
+[07:16 --> 07:18] allies, easily dislodged the Sabines and the
+[07:18 --> 07:21] greatest casualty of the whole encounter was
+[07:21 --> 07:23] what little influence the tribunes had so
+[07:23 --> 07:24] recently achieved.
+[07:24 --> 07:27] The patricians, as a result, managed to put off
+[07:27 --> 07:30] Tarantellus' proposal for another 10 years.
+[07:31 --> 07:33] In the end, though, they were forced to relent.
+[07:33 --> 07:35] Political consciousness had been raised in the
+[07:35 --> 07:38] city by travelers from the south who brought
+[07:38 --> 07:40] with them word of Solon's political reforms in
+[07:40 --> 07:42] the great Greek city of Athens, causing
+[07:42 --> 07:44] proponents of reform to beat a steady drum.
+[07:45 --> 07:48] Finally, a combination of plague, famine, and
+[07:48 --> 07:50] the economically destabilizing introduction
+[07:50 --> 07:54] of coins as a medium of exchange in 454 BC
+[07:54 --> 07:56] led to a crisis of confidence in the
+[07:56 --> 07:58] leadership and something had to be done to
+[07:58 --> 07:59] assuage the masses.
+[08:00 --> 08:03] It was agreed in 451 BC that consular power
+[08:03 --> 08:05] for the year would be transferred to a body
+[08:05 --> 08:08] of 10 men called the decemvirate, whose main
+[08:08 --> 08:10] task it would be to collect and condense
+[08:10 --> 08:12] Roman law into a single uniform code to be
+[08:12 --> 08:14] published on bronze tablets in the form
+[08:14 --> 08:15] for all to see.
+[08:16 --> 08:18] Unfortunately, the total contents of the
+[08:18 --> 08:21] 12 tables, each posted on a separate bronze
+[08:21 --> 08:24] tablet, hence the name, have been lost to
+[08:24 --> 08:26] history and all we have to rely on is
+[08:26 --> 08:29] occasional excerpts and summaries by later
+[08:29 --> 08:29] Roman authors.
+[08:30 --> 08:32] We know generally what topics each table
+[08:32 --> 08:35] covered and the range in detail gives a
+[08:35 --> 08:37] fascinating insight into the Roman mind.
+[08:38 --> 08:41] Held within the tables written 2500 years ago,
+[08:41 --> 08:43] we find the basis for many of our own
+[08:43 --> 08:44] founding principles.
+[08:44 --> 08:47] For example, the ninth table explicitly forbids
+[08:47 --> 08:49] passage of laws against specific individuals,
+[08:50 --> 08:52] a principle still enforced today, while the
+[08:52 --> 08:54] first table establishes the sanctity of the
+[08:54 --> 08:56] subpoena or the requirement to appear
+[08:56 --> 08:57] before a court.
+[08:58 --> 09:00] The tables covered a wide range of matters,
+[09:00 --> 09:03] from lawsuit procedures to payment of debts,
+[09:04 --> 09:06] to inheritance rights, to upkeep of public
+[09:06 --> 09:09] sewers, to divorce and property boundary issues.
+[09:09 --> 09:11] I will not bore you with a lengthy recitation
+[09:11 --> 09:14] of the contents of each table, but I do want
+[09:14 --> 09:16] to highlight some of the more curious facets
+[09:16 --> 09:17] of the Roman legal mind.
+[09:18 --> 09:20] For example, according to the eighth table,
+[09:20 --> 09:22] a thief caught at night may be killed
+[09:22 --> 09:24] without penalty, but if the same thief is
+[09:24 --> 09:26] caught during the day, he must be delivered
+[09:26 --> 09:27] unharmed to the magistrates.
+[09:28 --> 09:30] Contained within the same table, we
+[09:30 --> 09:32] discover what the penalty was for throwing
+[09:32 --> 09:34] an un-aimed weapon into a crowd.
+[09:34 --> 09:36] The accused was fined one ram.
+[09:37 --> 09:38] The seventh table states that fruit that
+[09:38 --> 09:40] falls from a tree onto a neighbor's property
+[09:40 --> 09:42] shall be the property of that neighbor,
+[09:42 --> 09:45] a provision which demonstrates just how
+[09:45 --> 09:47] scrupulously litigious the Romans could be.
+[09:48 --> 09:50] Death was the ultimate penalty and was
+[09:50 --> 09:51] prescribed for a number of crimes,
+[09:51 --> 09:53] including murder and the destruction of crops,
+[09:54 --> 09:56] but also, interestingly, for matters involving
+[09:56 --> 09:57] the integrity of the courts.
+[09:58 --> 10:00] Magistrates who took bribes to influence
+[10:00 --> 10:02] their decisions, as well as witnesses
+[10:02 --> 10:04] who lied under oath, were both ordered
+[10:04 --> 10:05] flung from a high cliff.
+[10:06 --> 10:09] To the Romans, perjury was a heinous crime
+[10:09 --> 10:10] that threatened the entire community.
+[10:11 --> 10:13] The final provision I want to point out
+[10:13 --> 10:15] was hidden deep in the ninth table,
+[10:15 --> 10:17] a piece of fine print that, once discovered,
+[10:18 --> 10:19] outraged the plebes and led
+[10:19 --> 10:21] to violent class confrontations.
+[10:22 --> 10:25] No patrician shall be allowed to marry a plebe.
+[10:26 --> 10:28] Effectively, this codified a closing off
+[10:28 --> 10:30] of upward social mobility to the majority
+[10:30 --> 10:32] of the population and guaranteed that none
+[10:32 --> 10:34] of them would ever hold the most powerful
+[10:34 --> 10:36] office of state, the consulship.
+[10:36 --> 10:39] This did not go over well with the plebes.
+[10:40 --> 10:42] As I mentioned earlier, the 12 tables
+[10:42 --> 10:44] were the foundation of later Roman law
+[10:44 --> 10:45] and were memorized by all citizens,
+[10:46 --> 10:46] literate or not.
+[10:47 --> 10:49] The existence of a written body of law
+[10:49 --> 10:50] was not a Roman innovation,
+[10:51 --> 10:53] nor did it make them unique in the ancient world,
+[10:53 --> 10:56] but it did put them into a select group of states
+[10:56 --> 10:58] that valued the objectivity of the law
+[10:58 --> 11:00] over the subjectivity of capricious rulers.
+[11:02 --> 11:03] The story of the decemvirs,
+[11:03 --> 11:05] the magistrates tasked with the compilation,
+[11:06 --> 11:08] ends with an interesting bit of legendary melodrama.
+[11:09 --> 11:12] During the year, or two depending on the source,
+[11:12 --> 11:13] that the decemvirs were in office,
+[11:14 --> 11:15] they held ultimate authority.
+[11:15 --> 11:17] The unbroken chain of consular elections
+[11:17 --> 11:20] had been broken and effectively a new form
+[11:20 --> 11:22] of government had been briefly ushered in.
+[11:23 --> 11:26] Rather than rule by two men, it was rule by 10 men,
+[11:26 --> 11:30] and among those 10 men, one was first among equals,
+[11:30 --> 11:32] a man named Apius Claudius.
+[11:33 --> 11:35] Claudius came from a family of staunch patricians
+[11:35 --> 11:36] and was a vigorous opponent
+[11:36 --> 11:39] of just about any proposed plebeian reform.
+[11:40 --> 11:41] After finishing their appointed task,
+[11:42 --> 11:44] the decemvirate had lost their raison d'etre
+[11:44 --> 11:45] and was set to disband,
+[11:46 --> 11:48] but Claudius, enjoying his newfound power,
+[11:48 --> 11:50] convinced his colleagues that they should remain in office
+[11:50 --> 11:52] after their term expired.
+[11:53 --> 11:55] The other decemvirs, similarly enjoying
+[11:55 --> 11:57] the trappings of power, agreed,
+[11:57 --> 11:59] and when the consular elections for that year arrived,
+[12:00 --> 12:02] the decemvirate simply did not allow anyone to stand
+[12:02 --> 12:03] and no elections were held.
+[12:04 --> 12:06] The people found themselves unexpectedly
+[12:06 --> 12:08] in a constitutional crisis.
+[12:08 --> 12:10] Even though Claudius and the decemvirs
+[12:10 --> 12:11] had made a naked power grab,
+[12:12 --> 12:14] there was no legal avenue available to stop them,
+[12:14 --> 12:16] for the decemvirate had been instilled
+[12:16 --> 12:17] with all judicial authority.
+[12:18 --> 12:21] Ironically, the body of men who laid down the laws
+[12:21 --> 12:23] were the first to blatantly ignore them.
+[12:24 --> 12:26] Days and weeks passed with the decemvirate
+[12:26 --> 12:28] maintaining their illegal hold on power
+[12:28 --> 12:30] until finally Claudius went too far
+[12:30 --> 12:32] and the entire city rose up in revolt.
+[12:33 --> 12:36] Claudius had his eye on a beautiful plebeian girl
+[12:36 --> 12:38] who was said to be married to a young army officer.
+[12:39 --> 12:41] Claudius declared out of the blue
+[12:41 --> 12:43] that the girl in question was an escaped slave
+[12:43 --> 12:44] owned by one of his clients
+[12:44 --> 12:46] and that she must be returned.
+[12:46 --> 12:49] A hearing was called to decide the case
+[12:49 --> 12:51] and numerous witnesses were brought up
+[12:51 --> 12:53] attesting to the freeborn status of the young woman.
+[12:54 --> 12:56] But the trial was overseen by Claudius who,
+[12:56 --> 12:58] to the astonishment of everyone present,
+[12:59 --> 13:01] ruled that the girl was indeed an escaped slave
+[13:01 --> 13:03] and was the property of the complaining client
+[13:03 --> 13:05] despite obvious evidence to the contrary.
+[13:06 --> 13:09] The people were appalled at this absurd conclusion
+[13:09 --> 13:11] and the army, when it caught wind of the decision,
+[13:11 --> 13:12] joined in their outrage.
+[13:13 --> 13:15] The husband-to-be and the father of the woman
+[13:15 --> 13:17] were both officers in good standing
+[13:17 --> 13:20] and the army was incredulous at the arbitrary injustice
+[13:20 --> 13:22] of Claudius towards one of their own.
+[13:23 --> 13:25] The people, supported by the army,
+[13:25 --> 13:27] then used their bargaining chip of last resort
+[13:27 --> 13:29] and abandoned the city,
+[13:29 --> 13:31] removing themselves to the sacred mount
+[13:31 --> 13:33] just as they had done four years earlier.
+[13:33 --> 13:36] The Decembers recognized that their position
+[13:36 --> 13:38] had become untenable, finally resigned.
+[13:39 --> 13:40] Claudius was arrested,
+[13:40 --> 13:42] but rather than face trial, he killed himself.
+[13:43 --> 13:46] Regular consular elections then took place
+[13:46 --> 13:49] and Rome's domestic tranquility was restored.
+[13:49 --> 13:51] The plebeians actually emerged from the order
+[13:51 --> 13:53] better off than they had been.
+[13:53 --> 13:55] For in their negotiations to return to the city,
+[13:56 --> 13:58] they demanded the number of tribunes be raised to 10,
+[13:58 --> 13:59] which the Senate,
+[13:59 --> 14:01] anxious to get things back to normal
+[14:01 --> 14:03] and again fearing invasion, agreed to.
+[14:04 --> 14:06] And of course, the codification of the laws,
+[14:07 --> 14:08] the decades-long plebeian demand,
+[14:08 --> 14:10] had already been accomplished,
+[14:10 --> 14:12] leaving them in a much stronger position legally
+[14:12 --> 14:14] to fend off future patrician tyranny.
+[14:15 --> 14:18] The creation of the 12 tables left the plebes
+[14:18 --> 14:20] on the one hand overjoyed,
+[14:20 --> 14:22] but on the other they were horrified
+[14:22 --> 14:23] by some of the provisions it contained.
+[14:24 --> 14:26] True, the rule of law would now dominate
+[14:26 --> 14:28] patrician subjectivity,
+[14:28 --> 14:30] but that one sticking point of the illegality
+[14:30 --> 14:32] of patrician-plebe marriage
+[14:32 --> 14:34] opened their eyes to an oppression
+[14:34 --> 14:35] that they never knew existed.
+[14:36 --> 14:38] Only patricians could be consuls
+[14:38 --> 14:39] or hold the other high magistrates,
+[14:40 --> 14:41] including Pontifex Maximus,
+[14:41 --> 14:44] if no plebe could ever marry a patrician,
+[14:44 --> 14:46] then no plebe would ever hold high office
+[14:46 --> 14:48] and the patricians would always and forever
+[14:48 --> 14:50] hold the winning political hand.
+[14:51 --> 14:53] The next cycle of patrician-plebe conflict
+[14:53 --> 14:55] would revolve around this very issue,
+[14:55 --> 14:57] eventually leading to a number of reforms
+[14:57 --> 15:00] that further diluted the patrician stranglehold
+[15:00 --> 15:02] on power, which we will get to in the weeks ahead.
+[15:04 --> 15:05] Those of you who know Roman history
+[15:05 --> 15:07] may have noticed that I ran right by
+[15:07 --> 15:09] one of the most well-known folk legends,
+[15:09 --> 15:11] which occurred around 460 BC,
+[15:11 --> 15:13] without so much as a mention.
+[15:14 --> 15:16] That is because next week I want to focus in detail
+[15:16 --> 15:17] on the central figure of that story,
+[15:18 --> 15:19] the great Cincinnati's,
+[15:19 --> 15:21] whose career spans both sides
+[15:21 --> 15:23] of the December interlude.
+[15:23 --> 15:26] Join me next week as we untangle the man from the myth
+[15:26 --> 15:27] and figure out what made Cincinnati
+[15:27 --> 15:29] such a towering figure
+[15:29 --> 15:31] that American settlers felt compelled
+[15:31 --> 15:33] to name their new boom town on the Ohio River
+[15:33 --> 15:36] after a Roman who had been dead 2,200 years.

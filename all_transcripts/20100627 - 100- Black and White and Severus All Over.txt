@@ -1,0 +1,311 @@
+# 20100627 - 100- Black and White and Severus All Over
+# Detected language: en
+# Duration: 1470.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:12] Hello, and welcome to the History of Rome, episode 100, Black and White and Severus All
+[00:12 --> 00:14] Over.
+[00:14 --> 00:20] On June 1st, 193 AD, Septimius Severus was officially recognized as emperor by the Senate
+[00:20 --> 00:23] and people of Rome.
+[00:23 --> 00:27] In theory, he now controlled the whole empire, but in practice he was only master of its
+[00:27 --> 00:29] western half.
+[00:29 --> 00:34] Unlike the Danube legions and the British legions, who both at this point backed Severus,
+[00:34 --> 00:39] the troops in Syria and Egypt recognized Paschinius Niger's claim to the throne and would have
+[00:39 --> 00:44] scoffed at any attempt by Severus to order them around.
+[00:44 --> 00:48] There were high hopes all around, though, that political tensions between east and west
+[00:48 --> 00:52] could be resolved without bloodshed, but it was not to be.
+[00:52 --> 00:56] The basic fact was that Severus was convinced that he had every right to the throne, and
+[00:56 --> 01:01] Niger was also convinced that he had every right to the throne.
+[01:01 --> 01:06] Keeping the aftermath of Julianus' rise and fall bloodless meant that one of the two generals
+[01:06 --> 01:11] was going to have to back down and take a subordinate role to the other.
+[01:11 --> 01:16] Claudius Albinus had already allowed himself to be so subordinated, but neither Niger nor
+[01:16 --> 01:20] Severus had any intention of following his example.
+[01:20 --> 01:24] And so, unfortunately, civil war.
+[01:24 --> 01:29] But Severus was savvy about optics, as evidenced by the care he took in keeping his initial
+[01:29 --> 01:31] coup a bloodless one.
+[01:31 --> 01:36] Well, relatively bloodless, Julianus and the men who had murdered Pertinax were dead, but
+[01:36 --> 01:39] no one liked them anyway, so they don't really count.
+[01:39 --> 01:45] In all his public posturing, Severus intimated that Niger was his friend and colleague and
+[01:45 --> 01:48] that they couldn't possibly have any real quarrel with one another, since they were
+[01:48 --> 01:52] such good friends and such good colleagues.
+[01:52 --> 01:56] Their two armies had both acted nobly in rejecting Julianus and independently hailing
+[01:56 --> 02:02] their leader's emperor, but now that Pertinax was avenged, it was time for them to act nobly
+[02:02 --> 02:07] again and reject discord in favor of concord.
+[02:07 --> 02:11] Despite his public front of hopeful hope and friendly friendship, though, Severus and his
+[02:11 --> 02:15] lieutenants were diligently preparing for war.
+[02:15 --> 02:20] They well knew that, barring a miracle, the only place Severus and Niger would be able
+[02:20 --> 02:25] to conclusively settle the issue of who was emperor would be on the battlefield.
+[02:25 --> 02:31] Thus, thirty days after he arrived in Rome, Severus ordered his forces to break camp and
+[02:31 --> 02:33] head east.
+[02:33 --> 02:37] He told the Senate and the people that he was merely on his way to tour and inspect
+[02:37 --> 02:42] the eastern provinces, and pointedly made no mention of Niger or his rival claim to
+[02:42 --> 02:43] power.
+[02:43 --> 02:47] But those in the know knew that Severus was on his way to demand the approaching Syrian
+[02:47 --> 02:54] legions recognize him as their emperor, or face destruction.
+[02:54 --> 02:58] We know basically how things are going to turn out in contests between Severus and Niger,
+[02:58 --> 03:01] and we'll get to the details in a second.
+[03:01 --> 03:05] But before we get into the particulars, I should point out that things didn't have
+[03:05 --> 03:07] to turn out this way.
+[03:07 --> 03:12] Indeed, to many at the time, the ascension and subsequent victories of Severus came as
+[03:12 --> 03:13] quite a shock.
+[03:14 --> 03:19] And see, a pretty good chunk of the political class simply assumed that the job was naturally
+[03:19 --> 03:22] going to pass over to Pescanius Niger.
+[03:22 --> 03:27] From the moment Julianus bought the throne, they expected Niger, not Severus, to be the
+[03:27 --> 03:33] man who would ride triumphantly into the city, cow the Praetorians, and restore order.
+[03:33 --> 03:37] All the Syrian governor had to do was get on his horse and ride.
+[03:37 --> 03:38] But then a funny thing happened.
+[03:38 --> 03:46] A presumed successor to Julianus never showed up for his coronation ceremony.
+[03:46 --> 03:50] There is not a ton in the historical record about Pescanius Niger, but we do know that
+[03:50 --> 03:55] he was born in the late 130s AD, around about the time that power was being transferred
+[03:55 --> 04:01] from Hadrian to Antoninus, making him the eldest of our three claimants to the throne.
+[04:01 --> 04:07] Like Severus, he had come from an upper middle class family of equites, and, also like Severus,
+[04:07 --> 04:12] saw his career advance rapidly during that age of upward mobility made possible by the
+[04:12 --> 04:18] Parthian War, the Marcomannic Wars, and the Antonine Plague.
+[04:18 --> 04:21] Early in Commodus' reign he had been made a senator and then appointed to a military
+[04:21 --> 04:26] command in Dacia, where he served alongside Claudius Albinus and helped settle a brief
+[04:26 --> 04:29] Sarmatian uprising.
+[04:29 --> 04:34] After that, he was enough in Commodus' confidence that when the deserter's war broke out in
+[04:34 --> 04:40] 186, it was Niger who was ordered into Gaul to put the rebel army down.
+[04:40 --> 04:44] Probably as a reward for his success in this endeavor, Commodus appointed Niger to the
+[04:44 --> 04:48] all-important governorship of Syria.
+[04:48 --> 04:53] Arriving in Antioch, he endeared himself to the population by taking a liberal attitude
+[04:53 --> 04:59] towards local custom, and for encouraging the kind of games Marcus had outlawed, and
+[04:59 --> 05:04] endeared himself to the legions by maintaining discipline without being overly harsh or strict
+[05:04 --> 05:06] about anything.
+[05:06 --> 05:12] He remained happily situated in Syria until the chaos of 193 led him to pack up his things
+[05:12 --> 05:15] and lead his armies toward Rome.
+[05:15 --> 05:20] Very slowly pack up his things and very slowly lead his armies toward Rome.
+[05:20 --> 05:23] Not to Rome, mind you, just toward Rome.
+[05:23 --> 05:27] He never would get there.
+[05:27 --> 05:31] The problem with Niger, and the thing that most especially led to his fall, was the fact
+[05:31 --> 05:35] that he did not feel the fierce urgency of now.
+[05:35 --> 05:39] When Septimius Severus decided to make his bid for the throne, he spent every waking
+[05:39 --> 05:44] moment preparing to march on Rome, and when preparations were complete, he spent every
+[05:44 --> 05:49] waking moment actually marching on Rome, and when he arrived, he spent every waking moment
+[05:49 --> 05:54] figuring out exactly how he was going to keep the power he had grabbed.
+[05:54 --> 06:00] Peschenius Niger, on the other hand, was far more lackadaisical about everything.
+[06:00 --> 06:06] Even a more vigorous response, he might have, like Vespasian before him, leveraged his position
+[06:06 --> 06:12] as de facto leader of the Eastern Empire into de jure leader of the whole empire.
+[06:12 --> 06:16] But he dillied and he dallied, and when he finally got around to making his move, it
+[06:16 --> 06:18] was too late.
+[06:18 --> 06:25] Two months had passed since the death of Julianus, and Niger was just now barely leaving Antioch.
+[06:25 --> 06:30] He wouldn't even make it to the Hellespont before being met by Severus's Danube legions,
+[06:30 --> 06:35] who in the same amount of time had marched from Pannonia to Rome, ousted Julianus, sat
+[06:35 --> 06:39] around for a bit catching their breath as Severus planned their next move, and then
+[06:39 --> 06:45] crossed the Adriatic, marched across Macedonia and Thrace, all the way to the Hellespont.
+[06:45 --> 06:50] It is quite obvious then which general was feeling said fierce urgency of now, and which
+[06:50 --> 06:56] was feeling the fierce urgency of whenever.
+[06:56 --> 07:01] Up until the very end, Severus and Niger maintained an officially friendly correspondence
+[07:01 --> 07:03] that pretended war was not imminent.
+[07:03 --> 07:08] But finally, the charade was called off when the two armies met in battle, seeing as how
+[07:08 --> 07:12] it's kind of hard to pretend you have nothing but the most peaceful of intentions when you're
+[07:12 --> 07:19] simultaneously ordering your cavalry in to ride and hack your rival to pieces.
+[07:19 --> 07:23] The advance guards of both armies found each other in the province of Bithynia and fought
+[07:23 --> 07:29] two separate engagements in the late summer of 193, which, though too large to be considered
+[07:29 --> 07:33] skirmishes, were also too small to be decisive.
+[07:33 --> 07:38] In both fights, though, Niger's eastern troops looked badly overmatched against the veteran
+[07:38 --> 07:42] Pannonian legions and were beaten handily.
+[07:42 --> 07:48] The ascension of Niger, which at first had seemed so right, so logical, and so inevitable,
+[07:48 --> 07:54] was now turning out to be so very clearly a pipe dream.
+[07:54 --> 07:59] Winter overtook the contest, though, and when the new year dawned, Severus cemented his
+[07:59 --> 08:04] alliance with Albionis by sharing a consulship with the British general.
+[08:04 --> 08:09] He further let it be known that while he was prosecuting the war in the east, that he fully
+[08:09 --> 08:14] trusted Albionis to maintain the peace and tranquility of the west.
+[08:14 --> 08:20] His other rival now fully complacent, Severus wasted no time trying to land the final blow
+[08:20 --> 08:24] against Niger when spring arrived.
+[08:24 --> 08:29] In the meantime, Niger had withdrawn his forces almost all the way back to Syria and had set
+[08:29 --> 08:35] up a fortified position near the village of Isis at a location known as the Cilician Gates,
+[08:35 --> 08:40] a narrow east-west passage wedged in between the southern coastline of Turkey and the sharply
+[08:40 --> 08:44] rising Taurus Mountains to the north.
+[08:44 --> 08:49] When you Google the Battle of Isis, though, your first hits will not point you to the
+[08:49 --> 08:54] decisive battle between Severus and Niger, but rather to the decisive battle between
+[08:54 --> 08:59] Alexander the Great and the Persians, fought over 500 years earlier on exactly the same
+[08:59 --> 09:02] spot.
+[09:02 --> 09:06] But Niger, as they say, was no Alexander.
+[09:06 --> 09:11] Though the two forces were roughly equal in size, three legions apiece plus some auxiliaries,
+[09:11 --> 09:16] the Danube troops, tempered in the fires of the Marko-Manic Wars, were simply superior
+[09:16 --> 09:22] to the Syrian troops, who had been tempered in the fires of, well, not much really.
+[09:22 --> 09:27] The Parthian War was already thirty years past, and as a result, none of the soldiers
+[09:27 --> 09:32] in the east had any real experience with any real fighting.
+[09:32 --> 09:36] Niger's men made a go of it, but they were already beginning to fall back when Severus's
+[09:36 --> 09:41] cavalry, sent around on a secret mission prior to the battle, suddenly appeared at their
+[09:41 --> 09:42] rear.
+[09:42 --> 09:48] Chaos and slaughter ensued, and Niger was forced to flee the battlefield.
+[09:48 --> 09:53] His army now completely destroyed, the Syrian governor was apparently making for Parthia,
+[09:53 --> 09:57] where he hoped to find asylum, and perhaps the resources to make another bid for the
+[09:57 --> 09:59] throne one day.
+[09:59 --> 10:04] But he was caught before he reached the Euphrates, and like Julianus before him, was unceremoniously
+[10:04 --> 10:07] beheaded.
+[10:07 --> 10:12] The head was sent back to Severus, who forwarded it on to the smallish but well-fortified city
+[10:12 --> 10:18] of Byzantium, where what was left of the Niger loyalists had holed up.
+[10:18 --> 10:23] Though their leader's head now sat atop a spike in front of the city gates, Niger's
+[10:23 --> 10:27] remaining lieutenants obstinately refused to surrender.
+[10:27 --> 10:33] At first, they held out simply to refuse Severus the satisfaction of victory, but eventually
+[10:33 --> 10:37] They came to believe that Claudius Albinus would eventually heed the various calls for
+[10:37 --> 10:42] him to get into the ring, and that maybe, just maybe, they could live long enough to
+[10:42 --> 10:45] see Severus's head on a spike too.
+[10:45 --> 10:50] But after a two-year holdout, famine got the better of them, and the last of Niger's soldiers
+[10:50 --> 10:54] finally surrendered Byzantium in 196.
+[10:54 --> 10:59] Severus ordered all the walls and fortifications of the city be toppled, reducing Byzantium
+[10:59 --> 11:04] to just another open village, which is exactly how Constantine found it more than a century
+[11:04 --> 11:09] later.
+[11:09 --> 11:15] In between the occupation and surrender of Byzantium, Severus busied himself in the east.
+[11:15 --> 11:20] Still hoping to maintain some thin veneer of clemency, Severus did not simply go around
+[11:20 --> 11:25] to the various provinces killing those leading men who had supported Niger, but he did do
+[11:25 --> 11:29] the next harshest thing he could think of.
+[11:29 --> 11:34] Anyone associated with the fallen Syrian governor, no matter how tenuously, was purged from political
+[11:34 --> 11:38] office and their property confiscated.
+[11:38 --> 11:44] The ill-gotten, but not murderously so, gains were then directed by Severus to his faithful
+[11:44 --> 11:46] soldiers.
+[11:46 --> 11:51] The soon-to-be undisputed emperor had no illusions about where his power was derived from, and
+[11:51 --> 11:57] no desire to beat around the bush in his plans to hold on to that power.
+[11:57 --> 12:02] For the entirety of the Severan dynasty, starting with Severus himself, it would be the army
+[12:02 --> 12:06] first, last, and always.
+[12:06 --> 12:12] Indeed, as he lay dying, he gave his sons one last piece of advice, summing up his whole
+[12:12 --> 12:16] political philosophy in one short sentence.
+[12:16 --> 12:25] Be harmonious with each other, enrich the soldiers, and scorn all other men.
+[12:25 --> 12:29] Severus's position was crystallizing, but since you can't return home to a triumph
+[12:29 --> 12:35] if your victory comes against your fellow Romans, literally it was against the rules,
+[12:35 --> 12:39] Severus embarked on a brief campaign against the Parthians to give himself a nice foreign
+[12:39 --> 12:42] victory to point to.
+[12:42 --> 12:46] Following a series of practically non-contested victories in the Parthian borderlands beyond
+[12:46 --> 12:51] the Euphrates, Severus was finally confident enough in his grasp on power that he decided
+[12:51 --> 12:56] to drop the pretense that he was going to make Albinus's heir, and announced that his
+[12:56 --> 13:03] young son Caracalla was now to be known as Marcus Aurelius Septimius Bossianus Antoninus,
+[13:03 --> 13:07] and would be next in line for the throne.
+[13:07 --> 13:12] This news came as something of a nasty surprise to Albinus in Britain, whose support for Severus
+[13:12 --> 13:17] after all had been premised on being named Severus's heir.
+[13:17 --> 13:22] The announcement also put an incident from the previous year in a new light.
+[13:22 --> 13:27] After defeating Niger, Severus had sent a note to Albinus proclaiming the triumph, but
+[13:27 --> 13:31] when the messengers arrived and requested a private audience with Albinus, they had
+[13:31 --> 13:35] whipped out daggers and tried to kill him.
+[13:35 --> 13:39] The assassination attempt had been unsettling, but it had also been difficult to believe
+[13:39 --> 13:44] based on every other thing he had ever said or done that Severus had been the one who
+[13:44 --> 13:46] ordered the attack.
+[13:46 --> 13:51] But now that Albinus was getting the old double cross, the random assassination attempt by
+[13:51 --> 13:56] some rogue soldiers took on a much more sinister light, because Severus had obviously tried
+[13:56 --> 14:00] to kill him.
+[14:00 --> 14:05] In 196, now fully aware that he had been duped into complacency for the last two and a half
+[14:06 --> 14:11] years, Albinus finally accepted all that his troops wanted him to accept.
+[14:11 --> 14:16] He allowed himself to be hailed Imperator, kept the name Caesar, and prepared himself
+[14:16 --> 14:19] for war with Severus.
+[14:19 --> 14:23] He crossed over the English Channel into Gaul with three legions and a host of auxiliaries,
+[14:23 --> 14:30] the Cassius Dio estimated to be some 150,000 total men, though like all ancient figures
+[14:30 --> 14:33] this is likely an exaggeration.
+[14:33 --> 14:38] He was met initially by a smaller force led by one of Severus's generals who had been
+[14:38 --> 14:44] tasked with halting the invasion or, at the very least, slowing it down.
+[14:44 --> 14:48] Albinus dispatched Severus's welcoming party with ease, though, and the setback gave some
+[14:48 --> 14:51] on the Severan side pause.
+[14:51 --> 14:54] Maybe we should come to some sort of agreement with Albinus.
+[14:54 --> 14:59] It turns out that fighting him isn't exactly going to be a walk in the park, you know?
+[14:59 --> 15:04] But Severus himself seemed undaunted and readied himself for what he was confident would be
+[15:04 --> 15:07] his final test.
+[15:07 --> 15:13] Beating Albinus meant that the Empire would be his, free and clear.
+[15:13 --> 15:18] Albinus was able to occupy Lugdunum, the capital of Roman Gaul, but he was unable to do the
+[15:18 --> 15:23] one thing he really needed to do to win.
+[15:23 --> 15:28] Severus now had British legions accepted, the whole of the Empire behind him.
+[15:28 --> 15:33] There was no way Albinus would be able to match Severus's reserve of men and material,
+[15:33 --> 15:38] unless he was able to convince the Rhine legions to join his cause.
+[15:38 --> 15:43] Thus far a non-factor in the war, the Rhine legions had remained essentially neutral,
+[15:43 --> 15:48] though they had leaned heavily towards Severus against Niger.
+[15:48 --> 15:52] Albinus hoped he could coax them into his camp, but all his entreaties were spurned
+[15:52 --> 15:57] as the Rhine troops instead dug in their support for Severus, pegging him to be the eventual
+[15:58 --> 16:03] winner in any contest that they themselves did not get involved in.
+[16:03 --> 16:09] Having failed to sway the Rhine troops, Albinus still persisted in his preparations for battle,
+[16:09 --> 16:14] but now his mission seemed to be working itself up to be a romantic last stand, rather than
+[16:14 --> 16:21] a stunning victory against the growing tyranny of Severus.
+[16:21 --> 16:27] Like Septimius Severus, Claudius Albinus had been born in Africa, though unlike Severus,
+[16:27 --> 16:32] Albinus was the son of a wealthy senatorial family, and was by far the most pedigreed
+[16:32 --> 16:35] of the three rivals for power.
+[16:35 --> 16:41] He earned the cognom in Albinus shortly after his birth in 147, when his father commented
+[16:41 --> 16:47] on the boy's unusually pale skin, though he was not an albino per se, as it is sometimes
+[16:47 --> 16:49] thought.
+[16:49 --> 16:54] From the very beginning, he was set on a military career, and as a young man, quickly established
+[16:54 --> 16:58] a reputation as an excellent soldier.
+[16:58 --> 17:02] He served in various capacities throughout the first half of the Marcomannic Wars, and
+[17:02 --> 17:09] was, at an early age, promoted to the governorship of Bithynia for the year 175.
+[17:09 --> 17:14] That meant that he was in Bithynia when the revolt of Avidius Cassius broke out.
+[17:14 --> 17:19] Rather than join the other eastern provinces, Albinus withheld the single legion he controlled
+[17:19 --> 17:24] from Cassius, and instead remained loyal to Marcus.
+[17:25 --> 17:29] This endeared him to the emperor and his son Commodus, who, you'll recall, was there during
+[17:29 --> 17:36] the crisis, and learned quickly who was with his family and who was opposed to them.
+[17:36 --> 17:40] For the entirety of Commodus' reign, Albinus continued to be held in high esteem by the
+[17:40 --> 17:45] emperor, and was given commands in Gaul, and then finally the powerful governorship of
+[17:45 --> 17:47] Britain.
+[17:47 --> 17:52] Given remarks that we should not hold it against Albinus that he was so well liked by Commodus,
+[17:53 --> 17:58] and that sometimes, even men who usually favor the corrupt and venal, occasionally, almost
+[17:58 --> 18:05] by accident, favor the honest and capable, which by all estimations Albinus was.
+[18:05 --> 18:10] In fact, Albinus actually took things a little bit further than that.
+[18:10 --> 18:15] In early 192, a believable rumor reached his headquarters in Britain that Commodus was
+[18:15 --> 18:21] dead, and in response, Albinus delivered an address to his troops, condemning the excesses
+[18:21 --> 18:27] and brutality of Commodus, and openly calling for a return to a republican form of government.
+[18:27 --> 18:32] By the time the speech was over, he had outed himself as a full-blown critic of the imperial
+[18:32 --> 18:37] system, and likely would have paid for the crime with his life, had not Commodus really
+[18:37 --> 18:41] been killed just a few months later before the emperor could deal with his suddenly treasonous
+[18:41 --> 18:45] governor of Britain.
+[18:45 --> 18:50] Just like with Severus in Niger, the elevation of Pertinax came as welcome news to Albinus,
+[18:50 --> 18:55] but the elevation of Julianus did not.
+[18:55 --> 18:59] Perhaps in a nod to his republican sympathies, Albinus initially refused the title imperator
+[18:59 --> 19:06] and Augustus, and allowed himself to be styled merely as a lieutenant of the people.
+[19:06 --> 19:11] But perhaps further revealing that some of those republican sympathies were more rhetorical
+[19:11 --> 19:17] and theoretical than actual, he allowed himself to be seduced by Severus' offer of Caesarhood,
+[19:17 --> 19:22] and so stood by while Severus annihilated Niger.
+[19:22 --> 19:28] But after Caracalla was elevated in Albinus' place, Severus was exposed as a ruthless two-faced
+[19:28 --> 19:32] tyrant who was not to be trusted nor followed.
+[19:32 --> 19:37] In Albinus' mind, it was now his duty, as the only man in a position to do something
+[19:37 --> 19:43] about it, to do something about Septimius Severus.
+[19:43 --> 19:49] In February 197, Albinus very nearly did something about it.
+[19:49 --> 19:54] The force Severus mustered to face down his last rival was roughly equal to that of Albinus'
+[19:54 --> 19:55] army.
+[19:55 --> 20:01] That is, Severus' army is also quoted to be at the aforementioned 150,000, which meant
+[20:01 --> 20:07] that at least for this one fight, the two generals were on equal footing.
+[20:07 --> 20:11] The size of the two armies also meant that this was the largest legion-on-legion fight
+[20:11 --> 20:15] in the whole long history of Rome.
+[20:15 --> 20:20] By contrast, the Battle of Pharsalus featured a mere 30,000 troops for Caesar and maybe
+[20:20 --> 20:25] 60,000 for Pompey, a combined total that would have been dwarfed by a single side in this
+[20:25 --> 20:30] latest fight for control of the empire.
+[20:30 --> 20:34] Even taking into account the exaggeration factor, the Battle of Lugdunum had to have
+[20:34 --> 20:39] been an absolutely humongous affair.
+[20:39 --> 20:44] In contrast to the other battles won in his name, Severus decided this fight was critical
+[20:44 --> 20:50] enough that he needed to be there in person to lead his armies, and with Albinus personally
+[20:50 --> 20:55] directing his own forces, the fight turned into a slugfest between two evenly matched
+[20:55 --> 21:01] armies, both being led by highly intelligent commanders.
+[21:01 --> 21:05] For most of the day, the two sides both gave as good as they got.
+[21:05 --> 21:11] When Albinus's left wing began to give way, Severus's left wing simultaneously fell into
+[21:11 --> 21:16] a trap that nearly cost Severus his life when he was caught in a chaotic retreat away from
+[21:16 --> 21:20] a booby-trapped field.
+[21:20 --> 21:25] But eventually, the Severans wore down Albinus's men and broke through their lines.
+[21:25 --> 21:30] Albinus himself fled the field and retreated back to a house in the still-as-of-yet untaken
+[21:30 --> 21:35] city of Lugdunum, but, recognizing that the day was lost and that it was only a matter
+[21:35 --> 21:42] of time before he was captured and executed, Claudius Albinus committed suicide.
+[21:42 --> 21:47] It is reported that Severus showed no respect for Albinus's honor, and, in addition to running
+[21:47 --> 21:52] over the discovered corpse with a cart, he chopped off the head and sent it back to Rome
+[21:52 --> 21:58] as a warning to anyone who dared to dream that Septimius Severus was not, in fact, the
+[21:58 --> 22:04] invincible and undisputed master of the world.
+[22:04 --> 22:09] Next time, Severus will have to deal with the consequences of his actions.
+[22:09 --> 22:14] A man of boundless energy, who was used to immediate and unquestioned compliance with
+[22:14 --> 22:19] his orders, suddenly found himself leading a civilian governmental apparatus that was
+[22:19 --> 22:25] sluggish, temperamental, and, above all, boring.
+[22:25 --> 22:29] The life of a Roman politician is absolutely nothing like the life of a Roman general,
+[22:29 --> 22:34] a fact that Severus was quickly coming to understand.
+[22:34 --> 22:38] In pursuit of power, he had never stopped to contemplate whether the imperial throne
+[22:38 --> 22:42] would prove to be a blessing or a curse.
+[22:42 --> 22:47] In the end, he came down squarely on the side of the ladder.
+[22:47 --> 22:52] With no great crises left to engage him, his spirit atrophied in the face of bureaucratic
+[22:52 --> 22:54] minutiae.
+[22:54 --> 22:59] Relief was supposed to be found in the cultivation of his sons, but before his very eyes, Caracalla
+[23:00 --> 23:07] were turning into cruel, petulant adolescents, and, worse yet, seemed to despise one another.
+[23:09 --> 23:13] Rather than being left satisfied that the power he had won for his family would be wielded
+[23:13 --> 23:18] wisely, he was left ejected, suspecting that the minute he was gone, the boys would tear
+[23:18 --> 23:23] each other and the empire apart.
+[23:23 --> 23:28] I say next time rather than next week, because unfortunately I am going to have to miss the
+[23:28 --> 23:30] next two Sundays.
+[23:30 --> 23:35] I'm headed up to Madison for an extended Fourth of July vacation, and all my available writing
+[23:35 --> 23:37] time is going to be replaced with family time.
+[23:37 --> 23:42] But, you might say, shouldn't that mean you're only taking one week off?
+[23:42 --> 23:46] Well, yes, that's what I thought too, but then I did the math, and it turns out that
+[23:46 --> 23:51] between everything, this one week long trip is going to knock me out for two full episodes
+[23:51 --> 23:54] worth of production time.
+[23:54 --> 23:59] But don't worry, I'll come back tanned, ready and rested, and next time, we'll delve into
+[23:59 --> 24:05] the back end of Severus' unhappy reign and watch his adorable little boys turn into deplorable
+[24:05 --> 24:06] little monsters.

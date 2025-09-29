@@ -1,0 +1,573 @@
+# 20100301 - 059- To the Tiber with Tiberius
+# Detected language: en
+# Duration: 1344.05 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, episode 59 to the Tiber with Tiberius.
+[00:14 --> 00:17] Tiberius had never been particularly happy with his role as emperor.
+[00:17 --> 00:20] From the beginning of his reign, he had attempted to dump as much of the drudgery
+[00:20 --> 00:25] of supreme authority as he could off on other people, first trying to enlist a
+[00:26 --> 00:32] Senate, then a willing but dead-too-soon son, before he finally settled on a supposedly
+[00:32 --> 00:37] hyper-loyal praetorian prefect named Lucius Sejanus, who proved to have only his own
+[00:37 --> 00:38] interests at heart.
+[00:38 --> 00:43] After the fall of Sejanus, though, Tiberius simply stopped looking for a partner to
+[00:43 --> 00:44] bear his burdens for him.
+[00:45 --> 00:48] That is not to say that he actually began to embrace the dull responsibilities of
+[00:48 --> 00:49] office.
+[00:49 --> 00:50] Quite the contrary.
+[00:50 --> 00:55] After Sejanus was executed, Tiberius attended to the empire even less than before.
+[00:56 --> 01:00] Had it not been for the inertia of the imperial bureaucracy, the empire likely would
+[01:00 --> 01:04] have devolved into another round of chaotic civil wars the minute ambitious men realized
+[01:04 --> 01:06] that there was no one manning the helm anymore.
+[01:07 --> 01:11] But the apparatus Augustus had set up turned out to be self-perpetuating enough
+[01:11 --> 01:14] to survive six years of utter neglect by his successor.
+[01:15 --> 01:20] In his last years, Tiberius was famously obsessed with two things.
+[01:20 --> 01:25] One, purging Rome with anything resembling a threat to his power, and two, indulging
+[01:25 --> 01:29] in his own increasingly inappropriate fetishes.
+[01:30 --> 01:34] We'll deal with the latter in a moment, but as to the former, in the early 30s
+[01:34 --> 01:39] B.C., Tiberius unleashed a terror on Rome that dwarfed anything perpetuated by Sejanus.
+[01:40 --> 01:44] I've been thinking a lot about these cycles of violence that have been plaguing
+[01:44 --> 01:45] Rome for the last century.
+[01:45 --> 01:50] I mean, I searched for the word purge in the manuscript, and other than a passing
+[01:50 --> 01:54] reference to Hannibal being a virus that needed to be purged from the Roman body,
+[01:54 --> 01:58] the word literally does not show up until episode 34, Marius and Sulla.
+[01:59 --> 02:03] But since then, it is a vocabulary word that I've been turning to with frightening
+[02:03 --> 02:04] regularity.
+[02:04 --> 02:06] Marius purges Sulla's supporters.
+[02:06 --> 02:08] Sulla purges Marius's supporters.
+[02:08 --> 02:10] The second triumvirate purges the Republicans.
+[02:11 --> 02:13] The second triumvirate purges each other.
+[02:13 --> 02:18] Lucius Sejanus purges his political enemies, and now Tiberius is about to purge
+[02:18 --> 02:20] anyone connected to Sejanus.
+[02:21 --> 02:24] Julius Caesar was the only one of them who refused to join in the fun,
+[02:24 --> 02:25] and guess what happened to him?
+[02:26 --> 02:29] That's right, murdered on the steps of Pompey's theater.
+[02:30 --> 02:33] There is definitely something to be said for the Romans emerging as the
+[02:33 --> 02:36] dominant power in the Mediterranean in the mid-100s B.C.
+[02:36 --> 02:40] Annihilating the Carthaginians and conquering the Greeks left the Romans
+[02:40 --> 02:43] with nothing to keep their politics from turning into life and death struggles.
+[02:44 --> 02:48] No threat from a foreign other remained to bind the competing political
+[02:48 --> 02:50] factions to one another.
+[02:51 --> 02:54] The number of men and women killed in intra-Roman feuds prior to 150 B.C.
+[02:55 --> 02:56] is practically nil.
+[02:56 --> 02:58] The number killed after, too many to count.
+[02:59 --> 03:03] And here we are again, another round of bloody violent purges.
+[03:03 --> 03:06] And believe me, this won't be going away anytime soon.
+[03:06 --> 03:10] With the state apparatus firmly now in the hands of a single man,
+[03:10 --> 03:12] if that man turned out to be cruel or paranoid,
+[03:13 --> 03:15] well, the state simply followed his lead.
+[03:17 --> 03:19] Tiberius turned out to be cruel and paranoid,
+[03:19 --> 03:22] and his vehicle for inflicting his wrath on the population of Rome
+[03:22 --> 03:25] was an escalation of his treason trials.
+[03:26 --> 03:29] Prescriptions may have been fine for the wild days of Yore,
+[03:29 --> 03:30] but since the beginning of his reign,
+[03:31 --> 03:34] Tiberius had slowly codified something far more horrific.
+[03:34 --> 03:38] There is something terrible about being consumed by violent chaos,
+[03:38 --> 03:41] but I think there is something far more terrifying about being
+[03:41 --> 03:43] consumed by violent order.
+[03:44 --> 03:46] After the rise and fall of Sejanus,
+[03:46 --> 03:50] Tiberius let his perfectly insane Kafkaesque legal system off its leash
+[03:50 --> 03:52] and allowed it to consume everyone.
+[03:53 --> 03:54] Evidence didn't matter.
+[03:55 --> 03:56] Rationality didn't matter.
+[03:56 --> 03:58] All that mattered was that you had been fingered,
+[03:58 --> 04:00] or knew someone who had been fingered.
+[04:01 --> 04:03] I shudder when I think about living under such circumstances.
+[04:04 --> 04:06] And unfortunately for the people of Rome,
+[04:06 --> 04:08] there was little they could do about it.
+[04:08 --> 04:10] As long as the leadership of the Praetorian Guard
+[04:10 --> 04:12] and the frontier armies were staffed with men
+[04:12 --> 04:15] loyal to the emperor, there was no fighting back.
+[04:15 --> 04:18] There was a comment in the thread to last week's episode
+[04:18 --> 04:21] from listener Mike wondering where the rest of the legion
+[04:21 --> 04:23] stood on all this and why they didn't push back
+[04:23 --> 04:25] against the growing power of the Praetorian Guard.
+[04:26 --> 04:28] The answer is that at the top,
+[04:28 --> 04:30] the generals appointed to lead the army
+[04:30 --> 04:32] were men chosen carefully by the emperor.
+[04:32 --> 04:35] And their loyalty to the regime was their most important qualification
+[04:35 --> 04:36] for office.
+[04:37 --> 04:40] Beneath the loyal generals, most of the professional officers
+[04:40 --> 04:42] in the armies were actually angling themselves
+[04:42 --> 04:44] for a spot in the Praetorian Guard.
+[04:45 --> 04:47] They didn't want to push back against the Praetorian Guard's
+[04:47 --> 04:47] new influence.
+[04:48 --> 04:49] They wanted to join in the fun.
+[04:50 --> 04:53] So the civilian population was left at the mercy of the regime.
+[04:55 --> 04:57] The primary targets of this round of purges
+[04:57 --> 05:00] were first and foremost families who had connections
+[05:00 --> 05:01] to Sejanus.
+[05:02 --> 05:04] The fallen prefect had earned himself many enemies
+[05:04 --> 05:07] during his rise to power, but he also
+[05:07 --> 05:08] gained many friends as well.
+[05:09 --> 05:12] With the fall of Sejanus, those friends joined their patron
+[05:12 --> 05:14] and were themselves accused, tried,
+[05:14 --> 05:15] and convicted of treason.
+[05:16 --> 05:19] Some were exiled, others committed suicide,
+[05:19 --> 05:22] but most, being unable or unwilling to escape
+[05:22 --> 05:24] the shame of it, were executed.
+[05:25 --> 05:27] Their property, as usual, was seized and folded
+[05:27 --> 05:28] into the imperial treasury.
+[05:30 --> 05:32] But not content to focus all of his attention
+[05:32 --> 05:34] on Sejanus' partisans, Tiberius also
+[05:34 --> 05:36] welcomed the opportunity to persecute
+[05:36 --> 05:39] senatorial and equestrian families with ties
+[05:39 --> 05:40] to the Julian clan, who he saw
+[05:40 --> 05:43] as having opposed his regime from the very beginning.
+[05:44 --> 05:46] Praetorian spies spread themselves throughout the city
+[05:46 --> 05:48] and the slightest slip of the tongue, say,
+[05:49 --> 05:50] complaining at a party that it sure
+[05:50 --> 05:53] stink that your old friend had just committed suicide
+[05:53 --> 05:56] after being caught up in crazy Tiberius' treason trials
+[05:56 --> 05:59] meant that you yourself were about to be caught up
+[05:59 --> 06:01] in crazy Tiberius' treason trials.
+[06:02 --> 06:04] Tacitus describes that the trials paid no heed
+[06:04 --> 06:06] to gender or age.
+[06:06 --> 06:09] Senior citizens, children, men, and women
+[06:09 --> 06:12] were all hauled before the courts, tried, and executed.
+[06:13 --> 06:15] Heaps of bodies began to pile up,
+[06:15 --> 06:18] and it became a crime to even linger where the corpses lay
+[06:18 --> 06:20] and mourn a dead friend or relative for too long.
+[06:21 --> 06:22] It also became a crime to attempt
+[06:22 --> 06:26] to bury or cremate the condemned dead, whose bodies were
+[06:26 --> 06:27] treated as those of common criminals,
+[06:28 --> 06:30] left to rot in the streets, or dragged with hooks
+[06:30 --> 06:31] into the Tiber River.
+[06:32 --> 06:33] It was a dark time for Rome,
+[06:33 --> 06:36] and the veil would not be lifted until Tiberius was dead,
+[06:37 --> 06:40] though we know now that the lifted veil would crash right
+[06:40 --> 06:42] back down after Caligula arrived
+[06:42 --> 06:44] and revealed his true colors.
+[06:45 --> 06:49] While all this was going on, Tiberius remained on Capri,
+[06:49 --> 06:52] approving lists of victims, but otherwise leaving
+[06:52 --> 06:53] the empire to its own devices.
+[06:55 --> 06:57] So what exactly filled the hours of his day?
+[06:58 --> 07:00] Well, the stories that have come down to us
+[07:00 --> 07:03] were mostly written after Tiberius' reputation
+[07:03 --> 07:05] had taken a nosedive, so it's
+[07:05 --> 07:08] tough to say where fact ends and slander begins.
+[07:08 --> 07:12] But let's just say that his inhibitions were no longer
+[07:12 --> 07:13] a factor in his actions.
+[07:14 --> 07:17] This is a family podcast, and I once upon a time
+[07:17 --> 07:20] marked the show as clean within the iTunes library.
+[07:20 --> 07:22] So I would hate to betray that trust by describing
+[07:22 --> 07:24] in detail what Tiberius was allegedly
+[07:24 --> 07:26] up to in the last years of his reign.
+[07:26 --> 07:29] But I will say that just like the Tries and Trials,
+[07:29 --> 07:31] gender and age did not matter.
+[07:31 --> 07:33] And also like the Tries and Trials,
+[07:34 --> 07:36] his victims wound up murdered, supposedly
+[07:36 --> 07:39] thrown from the cliffs at his villa on Capri
+[07:39 --> 07:41] when he grew bored with them or was simply not satisfied
+[07:41 --> 07:42] any longer.
+[07:43 --> 07:45] The specifics of his alleged depravities
+[07:45 --> 07:48] can be found in both Suetonius or Tacitus,
+[07:48 --> 07:49] if you would like a full accounting.
+[07:49 --> 07:51] But just keep in mind that I think a lot of it
+[07:51 --> 07:53] is probably exaggeration.
+[07:53 --> 07:57] The final takeaway from the tales of Tiberius' perversions
+[07:57 --> 07:59] should be that by the time the second emperor of Rome
+[07:59 --> 08:02] was dead, the people hated and despised him
+[08:02 --> 08:04] and were eager to utterly trash his reputation.
+[08:06 --> 08:08] The only silver lining Romans could
+[08:08 --> 08:10] see in the horror of Tiberius' final years
+[08:10 --> 08:12] was that the old man would soon be dead
+[08:12 --> 08:14] and they would get a chance to start over with a new emperor.
+[08:15 --> 08:17] It's not like the next man could possibly
+[08:17 --> 08:20] be as bad as the old bloodthirsty pervert, Tiberius.
+[08:21 --> 08:24] Enter to the stage, please, Gaius Julius Caesar
+[08:24 --> 08:27] Caligula, the man who would prove that you should never
+[08:27 --> 08:29] put your trust in the notion that at least it
+[08:29 --> 08:30] can't get any worse.
+[08:30 --> 08:31] Because guess what?
+[08:31 --> 08:33] It can always get worse.
+[08:35 --> 08:37] Gaius Julius Caesar, the third and youngest son
+[08:37 --> 08:41] of Germanicus and Agrippina, was born in 12 AD
+[08:41 --> 08:43] and raised in the legionary camps.
+[08:44 --> 08:45] It was common practice at the time
+[08:45 --> 08:47] for a general to take his family with him on assignment.
+[08:48 --> 08:50] So when Germanicus was put in charge of the legions
+[08:50 --> 08:52] on the Rhine following the death of Augustus,
+[08:53 --> 08:54] his wife Agrippina and children,
+[08:55 --> 08:57] which at this point included eight-year-old Nero,
+[08:57 --> 09:00] seven-year-old Drusus, and two-year-old Gaius,
+[09:00 --> 09:01] went with him.
+[09:01 --> 09:04] Young Gaius became something of a mascot for the soldiers
+[09:04 --> 09:06] under Germanicus' command.
+[09:06 --> 09:09] And the toddler was outfitted with a little army man outfit
+[09:09 --> 09:12] that he would wear around camp, prompting the soldiers
+[09:12 --> 09:14] to nickname him Caligula, or Little Boots,
+[09:15 --> 09:17] after the adorable versions of the sandal boots
+[09:17 --> 09:19] that the boy would march around in.
+[09:20 --> 09:22] I should note at this point that while history calls him
+[09:22 --> 09:24] Caligula, in his time as emperor,
+[09:25 --> 09:26] he was known simply as Gaius.
+[09:26 --> 09:29] The nickname only came back into use after his death,
+[09:29 --> 09:31] frequently with ironic derision.
+[09:33 --> 09:36] When Germanicus was reposted to Syria in 17 A.D.,
+[09:36 --> 09:40] the family, now joined by the girls Agrippina the Younger
+[09:40 --> 09:42] and Drusilla, dutifully followed along,
+[09:42 --> 09:44] and when Germanicus died two years later,
+[09:44 --> 09:47] the children, including now the infant Julia Lovilla,
+[09:48 --> 09:49] returned to Rome with Agrippina.
+[09:50 --> 09:53] The next decade would be difficult for Agrippina
+[09:53 --> 09:54] and her children.
+[09:54 --> 09:57] Deathly afraid that any man who married Germanicus
+[09:57 --> 09:59] as widow would immediately become a powerful rival,
+[09:59 --> 10:02] Tiberius forbade Agrippina to remarry.
+[10:03 --> 10:06] This left the family adrift with no other
+[10:06 --> 10:08] paterfamilias than Tiberius himself,
+[10:08 --> 10:10] who hated and feared the whole lot of them.
+[10:11 --> 10:14] Caligula managed to stay below Tiberius' radar
+[10:14 --> 10:16] when the paranoid old man decided he couldn't
+[10:16 --> 10:17] stand the family any longer,
+[10:17 --> 10:19] and prosecuted for treason Agrippina
+[10:19 --> 10:22] and the two elder boys Nero and Drusilla.
+[10:23 --> 10:25] With their mother and elder brothers dead,
+[10:25 --> 10:27] the remaining children were shunted off
+[10:27 --> 10:29] to live with their grandmother Antonia,
+[10:29 --> 10:31] who looked after them for the next few years.
+[10:32 --> 10:33] The girls were one by one married off
+[10:33 --> 10:35] at Tiberius' orders,
+[10:35 --> 10:37] while Caligula remained in a sort of limbo.
+[10:38 --> 10:40] After the fall of Sejanus though,
+[10:40 --> 10:42] Tiberius gave enough passing thought
+[10:42 --> 10:44] to his successor that he called for
+[10:44 --> 10:46] Caligula to come live with him on Capri.
+[10:46 --> 10:49] The young future emperor seems to have managed
+[10:49 --> 10:51] to avoid crossing Tiberius during the
+[10:51 --> 10:53] six years he spent as a virtual prisoner
+[10:53 --> 10:55] on the island by repressing all the fear
+[10:55 --> 10:57] and resentment he likely felt towards
+[10:57 --> 10:59] the old man, and pretended to be nothing
+[10:59 --> 11:01] less than the pliant servant of the
+[11:01 --> 11:02] aging emperor.
+[11:03 --> 11:05] In 33 AD, Caligula was given
+[11:05 --> 11:06] an honorary quaestorship,
+[11:07 --> 11:08] the only official office he would hold
+[11:08 --> 11:11] before becoming the supreme ruler of the empire,
+[11:11 --> 11:12] and also in that year,
+[11:13 --> 11:14] he married Junia Claudilla,
+[11:15 --> 11:16] though the union would only survive
+[11:16 --> 11:19] until Junia's death and childbirth a year later.
+[11:20 --> 11:21] In 35 AD,
+[11:21 --> 11:23] Tiberius changed his will to take
+[11:23 --> 11:24] some account for succession,
+[11:24 --> 11:27] ordering that his estate, and thus the throne,
+[11:27 --> 11:29] jointly fall to Caligula
+[11:29 --> 11:30] and Tiberius's grandson,
+[11:30 --> 11:32] Tiberius Gamelis,
+[11:32 --> 11:34] the only surviving son of the ill-fated
+[11:34 --> 11:36] marriage between Drusus and Lovilla.
+[11:38 --> 11:38] Unlike Augustus,
+[11:39 --> 11:40] who had obsessed over succession
+[11:40 --> 11:42] and spent a great deal of his energy
+[11:42 --> 11:44] readying his potential successors,
+[11:44 --> 11:46] first Marcellus, then Tiberius
+[11:46 --> 11:48] and Drusus, then Gaius and Lucius,
+[11:49 --> 11:50] Tiberius seems to have done nothing
+[11:50 --> 11:52] to prepare Caligula or Gamelis
+[11:52 --> 11:54] for imperial responsibility.
+[11:54 --> 11:56] Gamelis at this point was barely even
+[11:56 --> 11:57] a teenager.
+[11:59 --> 12:00] In 37 AD,
+[12:00 --> 12:02] death finally came knocking for Tiberius,
+[12:03 --> 12:05] though the details of his final moments
+[12:05 --> 12:06] are the source of some debate.
+[12:08 --> 12:08] Some sources claim
+[12:08 --> 12:10] that the now 77 year old emperor
+[12:10 --> 12:12] who had ruled Rome for 23 years
+[12:12 --> 12:14] simply passed away in his sleep.
+[12:15 --> 12:16] Another, more colorful
+[12:16 --> 12:18] account, is that the emperor was
+[12:18 --> 12:20] reported to have finally succumbed to a fatal
+[12:20 --> 12:22] illness, which prompted the people of Rome
+[12:22 --> 12:24] to begin celebrating his death.
+[12:24 --> 12:26] But then another report followed right on the heels
+[12:26 --> 12:28] of the first, stating that the emperor
+[12:28 --> 12:30] had actually recovered.
+[12:31 --> 12:32] Then a third and final report
+[12:32 --> 12:35] came, stating that the emperor's recovery
+[12:35 --> 12:36] was a fiction and that he had in fact
+[12:36 --> 12:37] died.
+[12:38 --> 12:40] This last report was issued by the
+[12:40 --> 12:42] Praetorian prefect, Navius
+[12:42 --> 12:44] Suetorius Macro, who had gone in to
+[12:44 --> 12:46] confirm for himself the death of the emperor.
+[12:47 --> 12:48] And by confirm the
+[12:48 --> 12:50] death of the emperor himself, I of course
+[12:50 --> 12:53] mean, smother with a pillow the weak
+[12:53 --> 12:54] but fully recovered Tiberius.
+[12:55 --> 12:56] A third version of the
+[12:56 --> 12:58] story points to Caligula as the
+[12:58 --> 13:00] murderer. But since this version was
+[13:00 --> 13:02] recounted by Caligula himself
+[13:02 --> 13:04] in an attempt to be seen as the man
+[13:04 --> 13:06] who finally delivered Rome from his wicked
+[13:06 --> 13:08] grandfather, I think we can safely
+[13:08 --> 13:09] dismiss this version.
+[13:10 --> 13:12] Caligula was also fond of telling people
+[13:12 --> 13:14] that he used to creep into Tiberius's room
+[13:14 --> 13:16] at night and stand over the sleeping emperor
+[13:16 --> 13:19] with a brandish knife and would refrain
+[13:19 --> 13:20] from doing what he felt was right,
+[13:20 --> 13:22] namely murdering the evil Tiberius
+[13:22 --> 13:24] only at the behest of the divine
+[13:24 --> 13:26] Augustus, whose voice commanded him
+[13:26 --> 13:29] to be patient and let nature take its
+[13:29 --> 13:31] course. Yeah, Caligula
+[13:31 --> 13:31] was nuts.
+[13:33 --> 13:34] However it happened,
+[13:35 --> 13:36] Tiberius was dead and the people
+[13:36 --> 13:38] rejoiced. Such was the depth
+[13:38 --> 13:40] of their hatred for him that rather than
+[13:40 --> 13:42] calling for elaborate funeral arrangements
+[13:42 --> 13:44] they simply cried out, to the Tiber
+[13:44 --> 13:45] Emperor, with Tiberius.
+[13:46 --> 13:48] They wanted to do to him what he had
+[13:48 --> 13:50] done to them, and treat his body
+[13:50 --> 13:53] as nothing more than a corpse of a criminal,
+[13:53 --> 13:55] drag it through the streets of Rome on hooks,
+[13:55 --> 13:56] and then deposit it unceremoniously
+[13:57 --> 13:58] into the river.
+[13:59 --> 14:00] The people did not get their way though
+[14:00 --> 14:02] and a formal funeral and cremation were
+[14:02 --> 14:04] arranged, but Tiberius was conspicuously
+[14:05 --> 14:06] not granted the same divine
+[14:06 --> 14:08] honors the Senate had tripped over itself
+[14:08 --> 14:10] bestowing upon Augustus.
+[14:11 --> 14:13] Though Tiberius's will specified
+[14:13 --> 14:15] that Caligula and Gamalus should jointly
+[14:15 --> 14:17] rule the Empire, Caligula
+[14:17 --> 14:18] had no interest in sharing power.
+[14:19 --> 14:21] The shrinking violet mask
+[14:21 --> 14:23] he had worn for years to avoid Tiberius's
+[14:23 --> 14:25] wrath was now cast aside.
+[14:26 --> 14:27] Having likely arranged
+[14:27 --> 14:29] in advance with Macro that when the
+[14:29 --> 14:31] day came the Praetorian prefect
+[14:31 --> 14:33] would figure prominently in the new regime
+[14:33 --> 14:35] if the guard declared for Caligula
+[14:35 --> 14:37] and Caligula alone, Gamalus
+[14:37 --> 14:39] was immediately locked out of his inheritance
+[14:39 --> 14:40] when Tiberius died.
+[14:41 --> 14:42] The young man turned out to be
+[14:42 --> 14:44] one of the first victims of Caligula's reign
+[14:44 --> 14:46] and did not survive the year.
+[14:47 --> 14:48] First, he was denied his
+[14:48 --> 14:50] inheritance, then he was put under
+[14:50 --> 14:51] something resembling house arrest,
+[14:52 --> 14:54] then he was executed for allegedly
+[14:54 --> 14:56] conspiring against the new regime.
+[14:57 --> 14:58] The boy's unhappy destiny
+[14:58 --> 15:00] it seems was to live as a prisoner
+[15:00 --> 15:02] of two emperors before finally being
+[15:02 --> 15:04] murdered at the tender age of eighteen,
+[15:04 --> 15:06] guilty of nothing more than being born
+[15:06 --> 15:08] into the wrong family at the wrong time.
+[15:10 --> 15:11] After freezing out
+[15:11 --> 15:13] Gamalus, Caligula made preparations
+[15:13 --> 15:15] to give the people of Rome something they
+[15:15 --> 15:16] had not seen in more than a decade,
+[15:17 --> 15:19] a personal appearance by their emperor.
+[15:19 --> 15:21] The imperial house, he announced,
+[15:21 --> 15:22] was returning from exile.
+[15:24 --> 15:25] The people were ecstatic at the news
+[15:25 --> 15:27] and when Caligula arrived
+[15:27 --> 15:29] they lined the roads out to the 20th
+[15:29 --> 15:30] mile post to greet him.
+[15:31 --> 15:32] When they saw the new emperor,
+[15:32 --> 15:34] they shouted at him every pet name they could
+[15:34 --> 15:36] think of, calling him our prince
+[15:36 --> 15:38] and our star, and of course
+[15:38 --> 15:39] little boots.
+[15:40 --> 15:42] With the handsome 24 year old son
+[15:42 --> 15:44] of Germanicus ascending to the throne
+[15:44 --> 15:46] it seemed like things were about to change
+[15:46 --> 15:48] for the better, that it might go back
+[15:48 --> 15:50] to the way that it had been under Augustus.
+[15:51 --> 15:52] It was reported that over
+[15:52 --> 15:54] 150,000 animal sacrifices
+[15:54 --> 15:56] were made across the empire to celebrate
+[15:56 --> 15:57] the good news.
+[15:59 --> 16:00] And at first,
+[16:00 --> 16:02] Caligula's ascension really was good news.
+[16:03 --> 16:04] He immediately canceled the
+[16:04 --> 16:06] season trials and made a very public show
+[16:06 --> 16:08] of gathering all the records and evidence
+[16:08 --> 16:10] that had been gathered by Tiberius' spies
+[16:10 --> 16:12] and burning it all in a great public
+[16:12 --> 16:13] bonfire.
+[16:14 --> 16:16] Those who had managed to survive by going into exile
+[16:16 --> 16:18] were recalled to Rome and
+[16:18 --> 16:20] pardoned of whatever crime they had been charged with
+[16:20 --> 16:22] or convicted of.
+[16:23 --> 16:24] Suetonius even recounts an
+[16:24 --> 16:26] episode where Caligula went so far
+[16:26 --> 16:28] as to refuse to even read a report
+[16:28 --> 16:31] supposedly outlining a plot against him.
+[16:31 --> 16:32] To explain his decision,
+[16:32 --> 16:34] the emperor simply said that since
+[16:34 --> 16:36] no one had any reason to hate him,
+[16:36 --> 16:38] he didn't have time to read such idle memoranda.
+[16:40 --> 16:40] And at this point,
+[16:40 --> 16:42] he was probably more right about that than wrong.
+[16:43 --> 16:44] The people of Rome no longer
+[16:44 --> 16:46] feared daily for their lives and property
+[16:46 --> 16:48] thanks to Caligula. It's hard to hate
+[16:48 --> 16:50] a guy for making you feel safe in your own
+[16:50 --> 16:51] home again.
+[16:53 --> 16:54] Caligula then went further.
+[16:54 --> 16:56] He canceled an unpopular tax the
+[16:56 --> 16:58] Italians had been chafing under,
+[16:58 --> 17:00] while simultaneously upping the pay for
+[17:00 --> 17:02] soldiers on the frontier and in the
+[17:02 --> 17:04] Praetorian Guard. He also
+[17:04 --> 17:06] reinstated a few of the provisional
+[17:06 --> 17:08] client monarchs who had been deposed by
+[17:08 --> 17:10] Tiberius for spurious reasons,
+[17:10 --> 17:12] and not only gave them their power back,
+[17:12 --> 17:14] but promised them the tax receipts they
+[17:14 --> 17:16] would have received had they not been removed
+[17:16 --> 17:17] from power.
+[17:18 --> 17:21] To top off his generous arrival to the throne,
+[17:21 --> 17:22] Caligula initiated lavish
+[17:22 --> 17:24] gladiatorial games to celebrate the
+[17:24 --> 17:25] dawning of this new day.
+[17:26 --> 17:28] At all levels of the empire,
+[17:28 --> 17:30] from the common citizens, to the middle class
+[17:30 --> 17:32] merchants, to the rich aristocracy,
+[17:32 --> 17:34] to the soldiers in the field and the
+[17:34 --> 17:35] provincials they defended,
+[17:36 --> 17:38] Emperor Caligula was a godsend.
+[17:38 --> 17:40] The pious young emperor then
+[17:40 --> 17:42] gathered up the bones of his dead mother and brothers
+[17:42 --> 17:44] and brought them back to Rome for burial
+[17:44 --> 17:45] in the imperial mausoleum.
+[17:46 --> 17:48] And finally, he renamed the month of September
+[17:48 --> 17:50] for his dear departed father
+[17:50 --> 17:51] Germanicus.
+[17:52 --> 17:54] Yep, everything was going A-OK.
+[17:55 --> 17:57] So the question is,
+[17:57 --> 17:57] what happened?
+[17:58 --> 18:01] Well, apparently behind the happy facade
+[18:01 --> 18:02] all was not well in the
+[18:02 --> 18:03] house of Caesar.
+[18:04 --> 18:06] Caligula had never been given the training
+[18:06 --> 18:08] he needed to really be an effective ruler.
+[18:08 --> 18:10] He had no experience in administration,
+[18:11 --> 18:12] had not served in the legions,
+[18:12 --> 18:14] and had been given no real responsibilities
+[18:14 --> 18:16] of his own until the moment he became
+[18:16 --> 18:17] emperor.
+[18:18 --> 18:20] His early political success seems to have been
+[18:20 --> 18:22] built largely by his doing nothing more
+[18:22 --> 18:24] than give the people whatever they wanted.
+[18:25 --> 18:26] Lower taxes? Sure.
+[18:26 --> 18:27] More benefits? Sure.
+[18:28 --> 18:30] Higher pay for the army? Of course.
+[18:30 --> 18:32] Lavish games and free grain for the mobs?
+[18:32 --> 18:34] I wouldn't think of doing anything less.
+[18:35 --> 18:36] It was a completely
+[18:36 --> 18:38] unsustainable combination of policies,
+[18:38 --> 18:40] of course, but it seems that
+[18:40 --> 18:42] the only thing Caligula learned at Tiberius'
+[18:42 --> 18:44] need during their six years together
+[18:44 --> 18:46] was that being emperor meant
+[18:46 --> 18:48] doing what you wanted, when you wanted,
+[18:48 --> 18:49] with whomever you wanted.
+[18:49 --> 18:52] Now think about maintaining steady
+[18:52 --> 18:54] revenue streams or limiting expenditures
+[18:54 --> 18:55] to justifiable ends
+[18:55 --> 18:57] or striking a balance between needs
+[18:57 --> 18:59] and wants. Caligula
+[18:59 --> 19:01] basically just said yes to anything
+[19:01 --> 19:03] and everything, no matter how contradictory
+[19:04 --> 19:05] all those things turned out to be.
+[19:08 --> 19:09] With this public policy time bomb
+[19:09 --> 19:11] ticking in the background, Caligula
+[19:11 --> 19:13] followed in Tiberius' footsteps
+[19:13 --> 19:15] and began indulging excessively
+[19:15 --> 19:17] in wine, women, food, and
+[19:17 --> 19:20] games. The hard living may
+[19:20 --> 19:21] have caught up with him because in October
+[19:21 --> 19:24] of 37, just six months after
+[19:24 --> 19:25] rising to power, Caligula
+[19:25 --> 19:27] was struck down by a serious illness
+[19:27 --> 19:28] and nearly died.
+[19:29 --> 19:31] The people were distraught at the news
+[19:31 --> 19:33] and prayers and promises of every shape and
+[19:33 --> 19:35] form were sent up to the gods to beg them
+[19:35 --> 19:37] for the safe return of their new emperor.
+[19:38 --> 19:40] Famously, a few senators
+[19:40 --> 19:41] promised to trade their own lives for
+[19:41 --> 19:44] Caligula's if only the emperor recovered.
+[19:44 --> 19:45] Basically, these were the
+[19:46 --> 19:48] empty promises that are often made on
+[19:48 --> 19:49] deathbeds. Oh, Jupiter,
+[19:50 --> 19:52] take me instead, that sort of thing.
+[19:53 --> 19:54] But then, Caligula
+[19:54 --> 19:54] recovered.
+[19:56 --> 19:58] Now, a few of the ancient sources
+[19:58 --> 20:00] don't draw a one-to-one causal link
+[20:00 --> 20:02] between the illness and the subsequent
+[20:02 --> 20:03] madness of Caligula's reign.
+[20:04 --> 20:06] But a few do point to the event as
+[20:06 --> 20:07] the decisive turning point.
+[20:08 --> 20:10] And certainly, if you were to ask the senators
+[20:10 --> 20:12] who had pledged their lives in a moment of
+[20:12 --> 20:14] melodramatic piety, they would tell you
+[20:14 --> 20:16] that the Caligula who went in was not
+[20:16 --> 20:18] the same as the Caligula who came out.
+[20:19 --> 20:20] Because, when the emperor
+[20:20 --> 20:22] recovered and learned of their generous
+[20:22 --> 20:24] offers, he supposedly took them at
+[20:24 --> 20:25] their word.
+[20:26 --> 20:28] How nice that you pledged your life so that I may live.
+[20:28 --> 20:30] I'm just wondering then, what are
+[20:30 --> 20:31] you still doing here?
+[20:32 --> 20:33] Shouldn't you be at home committing suicide?
+[20:34 --> 20:36] After all, what will the gods do if you break
+[20:36 --> 20:36] your oath?
+[20:38 --> 20:40] Pale-faced and in shock, the unfortunate
+[20:40 --> 20:42] senators in question had little recourse
+[20:42 --> 20:44] but to follow through on their once empty
+[20:44 --> 20:45] promise.
+[20:46 --> 20:48] In I, Claudius, Caligula's recovery
+[20:48 --> 20:50] from his illness is portrayed as the catalyst
+[20:50 --> 20:52] for his delusions of godhood.
+[20:53 --> 20:54] But the scattered accounts we have of his
+[20:54 --> 20:56] reign don't show him moving decisively
+[20:56 --> 20:58] towards self-deification until a few
+[20:58 --> 21:00] years later. So though the illness
+[21:00 --> 21:02] is a convenient place to point to
+[21:02 --> 21:04] and say, before this line, good,
+[21:05 --> 21:06] after this line, bad,
+[21:06 --> 21:08] it is probably more complicated than that.
+[21:09 --> 21:11] I, however, will
+[21:11 --> 21:13] take it as a convenient place to stop this
+[21:13 --> 21:14] week's episode.
+[21:15 --> 21:17] Next week, we'll get into the guts of
+[21:17 --> 21:19] Caligula's short and brutal reign.
+[21:20 --> 21:21] Though he was emperor for
+[21:21 --> 21:23] just four years, that proved time enough
+[21:23 --> 21:25] to mark him as one of, if not
+[21:25 --> 21:27] the, most infamous ruler in Roman
+[21:27 --> 21:29] history. Incest,
+[21:29 --> 21:31] murder, rape and theft
+[21:31 --> 21:33] are all the calling cards of Caligula
+[21:33 --> 21:35] and next week, we'll do our best
+[21:35 --> 21:36] to separate myth from fact.
+[21:37 --> 21:39] I mean, did this psycho really
+[21:39 --> 21:41] try to have his horse named Consul?
+[21:43 --> 21:45] Before we go this week though, I'm going
+[21:45 --> 21:46] to take another personal moment as today
+[21:46 --> 21:49] is Father's Day here in the United States.
+[21:49 --> 21:51] Dad, wherever and whenever
+[21:51 --> 21:53] you get this episode, happy Father's Day.
+[21:53 --> 21:55] I love you too. Though I plan
+[21:55 --> 21:57] to show you zero mercy in this week's
+[21:57 --> 21:59] Grandpa D. Herms epic battle for second
+[21:59 --> 22:00] place in the Western Amateur
+[22:00 --> 22:01] T-ball League.
+[22:22 --> 22:24] Happy Father's Day.

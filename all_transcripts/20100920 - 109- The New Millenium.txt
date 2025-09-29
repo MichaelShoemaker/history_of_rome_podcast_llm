@@ -1,0 +1,324 @@
+# 20100920 - 109- The New Millenium
+# Detected language: en
+# Duration: 1539.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to the History of Rome, Episode 109, The New Millennium.
+[00:14 --> 00:20] In 243 AD, eighteen-year-old Gordian III lost the man who would help make the first few
+[00:20 --> 00:23] years of his reign a success.
+[00:23 --> 00:28] With Timosithius in place, the empire had enjoyed the fruits of a capable administrator
+[00:28 --> 00:32] without having to ingest the poisoned seeds that often accompany those fruits when they
+[00:32 --> 00:36] are provided by too powerful an underling.
+[00:36 --> 00:40] Had Gordian's father-in-law and Praetorian prefect lived, there might have been conflict
+[00:40 --> 00:45] down the road as Gordian came of age, but we need not trouble ourselves with that question
+[00:45 --> 00:48] because that's not how it went.
+[00:48 --> 00:53] How it went was that things were going great for Gordian until Timosithius died and then
+[00:53 --> 00:57] everything went to hell.
+[00:57 --> 01:02] There are a couple of different versions about what happened between 243 and 244 that
+[01:02 --> 01:07] led to Philip the Arab becoming emperor, but the basic facts are these.
+[01:07 --> 01:13] Timosithius died, Philip was appointed Praetorian prefect, then Gordian died, and Philip became
+[01:13 --> 01:15] emperor.
+[01:15 --> 01:19] Other than that, the record is contradictory, but the different stories used to explain
+[01:19 --> 01:24] these basic facts break down into roughly three categories.
+[01:24 --> 01:28] One, Philip was completely innocent in everything that happened.
+[01:28 --> 01:32] Two, Philip started out innocent but wound up guilty.
+[01:32 --> 01:37] And three, that Philip was guilty right on down the line.
+[01:37 --> 01:41] To take the last first, the story goes that Philip and his brother Gaius conspired to
+[01:41 --> 01:47] kill Timosithius, that is, the mysterious illness that killed Gordian's father-in-law
+[01:47 --> 01:49] was actually poison.
+[01:49 --> 01:54] Then, once Philip was prefect, the brothers conspired to kill Gordian and have the guard
+[01:54 --> 01:56] elect Philip emperor.
+[01:56 --> 02:01] Call that version Philip the Archmachevelian.
+[02:01 --> 02:06] Version two is that Timosithius died of natural causes and it was only after Philip became
+[02:06 --> 02:11] prefect that he and his brother decided to make a play for the empire by killing Gordian.
+[02:11 --> 02:15] Call that version Philip the opportunist.
+[02:15 --> 02:20] The last version is that Philip had nothing to do with either death and was as surprised
+[02:20 --> 02:24] as anyone to find the Praetorians elevating him to the purple.
+[02:24 --> 02:28] Call that version Gordian the lucky.
+[02:28 --> 02:33] The Romans themselves clearly believed some combination of Philip the opportunist and
+[02:33 --> 02:39] Philip the Archmachevelian, and the characterization of Philip as a complete innocent likely wouldn't
+[02:39 --> 02:45] exist were it not for the curious case of the missing battle.
+[02:45 --> 02:51] In early 244 AD, Persian histories describe a battle taking place in Mesopotamia between
+[02:51 --> 02:57] the Romans and the Sassanids that is almost nowhere described in the Latin record.
+[02:57 --> 03:01] The Persian version has it that Sharpoor led an attack against the legions and that not
+[03:01 --> 03:07] only were the legions defeated, but that Gordian himself fell in battle.
+[03:07 --> 03:11] It is easy to dismiss this version as being propaganda invented by Sharpoor to embellish
+[03:11 --> 03:16] his own record, but it is not exactly out of the question that the Romans would try
+[03:16 --> 03:21] to bury the truth that the legions had been beaten and Gordian had been killed in battle
+[03:21 --> 03:25] for propaganda reasons of their own.
+[03:25 --> 03:30] I'm not going to pretend like I can settle this issue myself, and officially the cause
+[03:30 --> 03:33] of Gordian's death remains unknown to this day.
+[03:33 --> 03:37] But as I said, the Romans themselves certainly believed that Philip assassinated the young
+[03:37 --> 03:41] emperor and I'm going to stick with that interpretation.
+[03:41 --> 03:47] Besides, there is a very low likelihood that, covered up defeat or no, Gordian would have
+[03:47 --> 03:53] been anywhere near a battlefield at that point in his career.
+[03:53 --> 03:57] So the generally accepted version among the Romans is that after the war with the Sassanids
+[03:57 --> 04:02] was shut down following the death of Timosifius, that Philip assassinated Gordian while the
+[04:02 --> 04:07] imperial court was traveling around near the Euphrates River.
+[04:07 --> 04:11] With the emperor dead, no one else ready to make an immediate bid for the throne and Philip
+[04:11 --> 04:13] right there on the scene.
+[04:13 --> 04:17] The Praetorian Guard followed the precedent set by Macrinus' men and elevated their
+[04:17 --> 04:21] prefect to the top spot in the empire.
+[04:21 --> 04:26] Word quickly spread and before anyone could do anything about it, Rome had its second
+[04:26 --> 04:30] emperor of equestrian rank.
+[04:30 --> 04:34] The lack of a good credible record makes it hard to figure exactly the order of events
+[04:34 --> 04:39] and doesn't do much to explain how exactly Gordian died or why there was so little initial
+[04:39 --> 04:41] resistance to Philip's ascension.
+[04:41 --> 04:46] So at the end of the day, we have to simply accept the fact that Gordian died and Philip
+[04:46 --> 04:50] became emperor and that he then reigned for five years.
+[04:50 --> 04:55] We at least know that much.
+[04:55 --> 05:00] Like his equestrian predecessor Macrinus, Philip was worried about having to deal with a war
+[05:00 --> 05:06] in the east right at the outset of his reign and so shortly after becoming emperor he brokered
+[05:06 --> 05:10] a more permanent ceasefire with the Sassanids.
+[05:10 --> 05:14] While Sharpoor had been beaten soundly by Timosifius, Philip was wary of pressing the
+[05:14 --> 05:19] Roman case beyond the Euphrates, especially since he needed to head west and consolidate
+[05:19 --> 05:21] his hold on power.
+[05:21 --> 05:26] Plus, there is that missing battle out there that may or may not have been enough to convince
+[05:26 --> 05:31] the Roman high command to sue for peace.
+[05:31 --> 05:36] Philip sent ambassadors to the court of Sharpoor in 244 and once again the Romans agreed to
+[05:36 --> 05:41] purchase a peace that they had no interest in fighting for.
+[05:41 --> 05:46] Sharpoor accepted the terms, either grateful for having been let off so easily or satisfied
+[05:46 --> 05:51] that the Romans were admitting a justified defeat, and for a while the eastern front
+[05:51 --> 05:55] went quiet.
+[05:55 --> 05:59] Philip left his brother Gaius in Syria and granted all the authority a co-emperor might
+[05:59 --> 06:00] expect.
+[06:00 --> 06:05] Gaius then enjoyed a five-year run as the unquestioned ruler of the eastern empire while
+[06:05 --> 06:09] his brother took over the west.
+[06:09 --> 06:14] Philip was probably back in Rome at the end of 244 or the beginning of 245 and once he
+[06:14 --> 06:20] arrived the Senate granted him the title Augustus and named his son Caesar, two declarations
+[06:20 --> 06:25] I'm sure that came only after suitable promises from Philip that he meant them no harm and
+[06:25 --> 06:31] suitable threats from the Praetorian Guard that maybe he did.
+[06:31 --> 06:36] At roughly this same time the Senate asserted just a little bit of independence by pushing
+[06:36 --> 06:41] through the deification of Gordian III over Philip's objections, objections that arose
+[06:41 --> 06:49] most suspected from Philip's guilt over how he had murdered the boy.
+[06:49 --> 06:53] Philip's short reign would prove to be a microcosm of the wider crisis period within which it
+[06:53 --> 06:55] was set.
+[06:55 --> 07:00] His years in power were defined by internal rebellion and external invasion and were it
+[07:00 --> 07:05] not for the fact that he oversaw Rome's 1000th birthday celebration, which we'll get to
+[07:05 --> 07:13] in a moment, his imperial career would like any sort of truly memorable moment at all.
+[07:13 --> 07:18] This does, however, afford us a nice opportunity to turn our attention to one of those external
+[07:18 --> 07:24] menaces that would help make the crisis of the third century the truly existential emergency
+[07:24 --> 07:25] that it was.
+[07:25 --> 07:31] I am speaking, of course, of the Goths.
+[07:31 --> 07:36] There's a lot of confusion out there about who exactly the Goths were, when they appeared,
+[07:36 --> 07:42] how they appeared, and who or what a Goth actually was, so I think it would be a good
+[07:42 --> 07:47] idea to try to pick apart a few of the theories about their origins so we can have as clear
+[07:47 --> 07:53] an understanding about this great northern menace to the Empire as we possibly can.
+[07:53 --> 07:59] In time, the Goths would split into two main branches, the Visigoths and the Ostrogoths,
+[07:59 --> 08:04] the former being the ones who first sacked Rome in 410 AD, the latter being the ones
+[08:04 --> 08:09] who set up a successor kingdom in Italy following the fall of the Western Empire.
+[08:09 --> 08:16] But right now, they were still more or less a single unified people.
+[08:16 --> 08:22] The Goths first show up in the Roman record around 238 AD, just as the Empire was dealing
+[08:22 --> 08:25] with its year of the six emperors.
+[08:25 --> 08:30] While the Romans were occupied with their civil war, this new barbarian horde scorched
+[08:30 --> 08:35] down from the Ukraine right past the Danube and sacked the city of Hystria, which was
+[08:35 --> 08:38] situated on the banks of the Black Sea.
+[08:38 --> 08:43] The size and the force of this invasion was so shocking that the provincial legions barely
+[08:43 --> 08:48] had time to react before the Goths had come and gone.
+[08:48 --> 08:53] For years, the assumption had been, occasional raids aside, that the tribes beyond the Danube
+[08:53 --> 08:58] were no match for the legions, and so, focused on the domestic situation, the Roman soldiers
+[08:58 --> 09:04] were simply not prepared to deal with the kind of aggressive threat the Goths posed.
+[09:04 --> 09:08] But now, they were all on notice.
+[09:08 --> 09:13] There are two main competing theories about where the Goths came from.
+[09:13 --> 09:18] The first states that they originated in Sweden, were pushed across the Baltic by a shifting
+[09:18 --> 09:25] climate sometime between 400 BC and 180, and then slowly migrated south until, by the 200s
+[09:25 --> 09:30] AD, they were firmly situated in the modern Ukraine.
+[09:30 --> 09:34] The other theory is that the Goths actually originated in the Ukraine, and that, like
+[09:34 --> 09:40] the Franks, became a military powerhouse when local tribes combined into a super confederation,
+[09:40 --> 09:46] whose wide banner eventually supplanted their old tribal identities.
+[09:46 --> 09:51] Wherever they actually came from, by 238 AD, they were standing on Rome's doorstep, and
+[09:51 --> 09:55] more than ready to come banging through the door.
+[09:55 --> 10:00] There was a rumor going around, you see, that the Roman Empire was a paper tiger, that it
+[10:00 --> 10:05] was rich beyond imagination, and protected only by a reputation they had stopped deserving
+[10:05 --> 10:07] a long time ago.
+[10:07 --> 10:12] In just a few years, the Goths would come to believe beyond a shadow of a doubt that
+[10:12 --> 10:17] Rome was in fact theirs for the taking, when they utterly routed a Roman army, led personally
+[10:17 --> 10:22] by the Emperor Decius, who would die in the fighting.
+[10:22 --> 10:24] But that's for next week.
+[10:24 --> 10:30] This week, we will simply note the opening forays of the Goths into Moesia and Dacia,
+[10:30 --> 10:35] both of which dealt with persistent raids after the Goths discovered how easy it was
+[10:35 --> 10:39] to march around the Roman border provinces.
+[10:39 --> 10:42] Dacia especially stuck out like a sore thumb.
+[10:42 --> 10:49] Not particularly well settled or well garrisoned, Dacia was an easy target for the Goths.
+[10:49 --> 10:54] The Romans knew how difficult the province was to defend, going all the way back to Hadrian,
+[10:54 --> 10:57] who tried to abandon it following Trajan's death.
+[10:57 --> 11:02] But political pressure and the glorious memories of Trajan's campaign had kept the region
+[11:02 --> 11:06] on the far side of the Danube within the empire.
+[11:06 --> 11:09] But it would not survive the crisis of the third century.
+[11:09 --> 11:14] In the midst of Aurelian's campaign to rebuild the shattered empire, Dacia would become a
+[11:14 --> 11:16] strategic casualty.
+[11:16 --> 11:22] By that point, 270 AD, everyone recognized that the province had become little more than
+[11:22 --> 11:27] an unlocked back door into the empire, and its continued incorporation as a province
+[11:27 --> 11:35] was far too dangerous to allow a little pride in past glories to get in the way.
+[11:35 --> 11:40] While Philip kept one wary eye on the Goths, he had to keep another on the internal revolts
+[11:40 --> 11:45] that kept springing up across the empire during his five years in office.
+[11:45 --> 11:50] There are reports of at least four separate instances of provincials, citizens, or soldiers
+[11:50 --> 11:53] attempting to overthrow Philip and Gaius.
+[11:53 --> 12:00] In the east, Gaius especially provoked revolutionary ire with his heavy-handed governance.
+[12:00 --> 12:05] Tax collection was harsh, and at least two of the revolts of the late 240s occurred in
+[12:05 --> 12:08] the east and were directed at Gaius.
+[12:08 --> 12:13] Some evidence even suggests that the last of these actually wound up claiming Gaius's
+[12:13 --> 12:19] life, but as with Gordian III, the actual circumstances of Gaius Julius Priscus's death
+[12:19 --> 12:23] remain unknown.
+[12:23 --> 12:29] After four years of uneasy rule, everything finally came to a head in 248 AD.
+[12:29 --> 12:34] That year, a simultaneously delivered both the high point of Philip's reign and the
+[12:34 --> 12:39] beginning of the revolt that would eventually lead to his downfall.
+[12:39 --> 12:45] The high point came in April, a month which the Romans had long circled on their calendars,
+[12:45 --> 12:51] as it was believed to mark the one-thousandth anniversary of Romulus's founding of Rome.
+[12:51 --> 12:56] The citizens of the capital expected a party, and Philip happily delivered a magnificent
+[12:56 --> 13:02] set of secular games to celebrate.
+[13:02 --> 13:07] To our modern ears, the name might seem to suggest that the secular games were a set
+[13:07 --> 13:12] of games that had no religious overtones, but that's really just an ironic coincidence
+[13:12 --> 13:17] of naming, as the secular games were, like everything the Romans did, a highly religious
+[13:17 --> 13:19] affair.
+[13:19 --> 13:25] The secular games get their name from the Roman concept of psychulum, which represented
+[13:25 --> 13:29] the absolute upper bounds of a potential human life.
+[13:29 --> 13:36] When a psychulum cycle ended, which the Romans calculated to last 100-110 years, the reasonable
+[13:36 --> 13:42] belief was that there would have been a complete turnover in the living population in the meantime.
+[13:42 --> 13:47] That is, whatever arbitrary day you pick to start the cycle, when you go 110 years in
+[13:47 --> 13:51] the future, everyone who had been alive at the beginning, from the oldest man to the
+[13:51 --> 13:54] youngest baby, would be dead.
+[13:54 --> 14:00] The secular games thus held a particular fascination for the Romans, as they represented a set
+[14:00 --> 14:06] of ceremonies and celebrations that, theoretically at least, no one had ever seen before or would
+[14:06 --> 14:09] ever see again.
+[14:09 --> 14:14] The origin myth of the games reached back into the misty days of the early kingdom when
+[14:14 --> 14:20] a Sabine man, trying to save his sick children, was commanded to conduct nocturnal sacrifices
+[14:20 --> 14:25] to the Celtic god Dispator and the Greek god Persephone, both of whom were strongly
+[14:25 --> 14:29] associated with the underworld.
+[14:29 --> 14:34] Over the course of three days, he conducted the necessary ceremonies on the campus marshes,
+[14:34 --> 14:38] his children lived, and he was then left with instructions that the ceremony should be repeated
+[14:38 --> 14:43] once per psychulum from that day forward.
+[14:43 --> 14:47] How closely the Romans held to this injunction is unknown, but when the high priests of
+[14:47 --> 14:53] Rome consulted the Sibylline books in 249 while the First Punic War was raging, they
+[14:53 --> 14:59] were told that the prescription for what ailed them was to renew the secular sacrifices.
+[14:59 --> 15:04] This set was dutifully followed up in the 140s AD, but then, when the cycle next came
+[15:04 --> 15:10] round, Rome was too caught up in the fall of the Republic to remember.
+[15:10 --> 15:14] After Augustus became emperor, though, he decided he wanted to throw games better than
+[15:14 --> 15:19] anyone had ever seen before or would ever see again, and got the idea to revive the
+[15:19 --> 15:22] secular games in 17 BC.
+[15:22 --> 15:28] He revamped the ceremonies, instructed the priests to sacrifice to proper Roman gods,
+[15:28 --> 15:33] and introduced daytime sacrifices to accompany the traditional nighttime ceremonies.
+[15:33 --> 15:38] He also introduced the games, the banquets, and theatrical performances that came to be
+[15:38 --> 15:42] most closely associated with the event.
+[15:42 --> 15:47] Augustus was not reviving an ancient tradition just to mumble some words at midnight.
+[15:47 --> 15:53] He wanted to throw the biggest party of anyone's lifetime.
+[15:53 --> 15:57] After the secular games of Augustus, though, the theoretical underpinnings of the ceremony
+[15:57 --> 16:03] took a hit when Claudius decided to throw his own set in 47 AD.
+[16:03 --> 16:08] He had good reason to throw his games early, but Suetonius notes that Claudius was much
+[16:08 --> 16:14] mocked for announcing festivities that none had seen before and none would see again when
+[16:14 --> 16:19] plenty of people had been around when Augustus had said the same thing.
+[16:19 --> 16:23] The good reason for Claudius' secular games, though, was to celebrate the revolution of
+[16:23 --> 16:30] a different hundred year cycle, as 47 AD marked the 800th anniversary of the founding of Rome,
+[16:30 --> 16:35] and Claudius didn't want the birthday to pass unnoticed.
+[16:35 --> 16:39] From that point on, there were two cycles of secular games, basically negating the whole
+[16:39 --> 16:45] not before, not ever again mystique, but the various emperors were not going to let an
+[16:45 --> 16:50] opportunity to associate their name with this most rare of ceremonies pass.
+[16:50 --> 16:55] So one cycle followed Augustus and led to games thrown by Domitian in 88 and Septimius
+[16:55 --> 17:01] Severus in 204, and another cycle following Claudius and the birthdays of Rome, which
+[17:01 --> 17:07] led to games thrown in 148 by Antoninus Pius, and this last set thrown by Philip the Arab
+[17:07 --> 17:10] in 248.
+[17:10 --> 17:15] The next time either cycle came around, though, the empire was already undergoing Constantine's
+[17:15 --> 17:20] push to Christianize, and like a dozen other pagan celebrations, the secular games were
+[17:20 --> 17:22] neglected.
+[17:22 --> 17:27] So when Philip announced his games and said that no one would ever see their like again,
+[17:27 --> 17:32] he at least was telling the truth.
+[17:32 --> 17:37] Philip's games included the usual sacrifices, accompanied by city-wide theatrical performances
+[17:37 --> 17:42] and gladiatorial contests that saw a thousand men and god knows how many thousands of exotic
+[17:42 --> 17:47] animals killing and being killed for the crowd's amusement.
+[17:47 --> 17:52] When it was all over, everyone agreed that the event had lived up to its billing.
+[17:52 --> 17:56] No one had ever seen anything like it before, and they could expect to never see anything
+[17:56 --> 17:58] like it again.
+[17:58 --> 18:02] Philip was the toast of Rome.
+[18:02 --> 18:07] But Philip was not the toast of the province of Moesia.
+[18:07 --> 18:11] The troops along the lower Danube had dealt with the brunt of the initial Gothic invasions,
+[18:11 --> 18:17] and so far they had not had much success against this new barbarian menace.
+[18:17 --> 18:21] It appears that in response, the regular soldiers of the legions were clamoring to take the
+[18:21 --> 18:26] fight across the Danube and into the territory of the Goths.
+[18:26 --> 18:31] The invasion would offer the men a chance to exact some revenge for their lost honor,
+[18:31 --> 18:36] but perhaps more importantly, it would give them a chance to plunder a heretofore unknown
+[18:36 --> 18:38] source of wealth.
+[18:38 --> 18:44] The empire hadn't really had a good sizable influx of slaves since the Marcomannic Wars,
+[18:44 --> 18:48] and the thought of selling off a hundred thousand Goths into slavery was a mighty big incentive
+[18:48 --> 18:51] to fight another big war in the north.
+[18:51 --> 18:56] But Philip was content for now to keep the legions in their camps.
+[18:56 --> 19:01] A northern war might sound good when it's pitched by grunts and to grunts, but up in
+[19:01 --> 19:05] the high command, they understood that the likelihood of success was low, and the likelihood
+[19:05 --> 19:10] of doing irreparable damage to the northern defenses was high.
+[19:10 --> 19:15] But that didn't stop the grunts from talking, and in time, it didn't stop them from revolting
+[19:15 --> 19:19] against their cowardly leadership.
+[19:19 --> 19:25] In mid-248, while Philip was back in Rome celebrating the capital's birthday, the
+[19:25 --> 19:31] legions stationed in Moesia rebelled and declared a man named Tiberius Claudius Marinus Peccatianus
+[19:31 --> 19:33] their new emperor.
+[19:33 --> 19:38] There had been revolts before, but this one seemed particularly serious as it involved
+[19:38 --> 19:41] the legions of such a critical region.
+[19:41 --> 19:46] As Philip and his advisors scrambled to come up with a response plan, though, a man took
+[19:46 --> 19:51] to the floor of the Senate and declared that there was nothing to fear.
+[19:51 --> 19:55] The troops in Moesia, he announced, would quickly come to regret their hasty rebellion
+[19:55 --> 20:00] and would probably kill their new leader in just a matter of days.
+[20:00 --> 20:04] With Philip thinking he might have to go so far as to resign his office just to restore
+[20:04 --> 20:10] peace, he was naturally intrigued by the certainty of the old senator's prediction, and thought
+[20:10 --> 20:16] the man a genius when, just a few days later, word came that the rebellion had in fact collapsed
+[20:16 --> 20:19] and Peccatianus was dead.
+[20:19 --> 20:25] This was how Gaius Macias Quintus Theseus earned the everlasting love and respect of
+[20:25 --> 20:29] Philip the Arab.
+[20:29 --> 20:34] Theseus had been born in 201 in lower Pannonia and had spent his entire life serving the
+[20:34 --> 20:37] empire as a distinguished senator.
+[20:37 --> 20:44] He had been consul in 232 and had served as governor of lower Germany, Moesia, and Hispania
+[20:44 --> 20:45] Terraconensis.
+[20:45 --> 20:50] All key provinces with significant troop deployments.
+[20:50 --> 20:56] It appears that he was in Spain during the tumultuous year of 238, but had he not been,
+[20:56 --> 20:59] it seems highly likely that he would have been elected one of the twenty senators of
+[20:59 --> 21:02] the emergency council.
+[21:02 --> 21:08] During the early years of Philip's reign, Theseus had been prefect of Rome, and by 248,
+[21:08 --> 21:13] there was really no one in the Senate, with the possible exception of Valerian, more accomplished
+[21:13 --> 21:15] and respected than Theseus.
+[21:15 --> 21:23] His bold and correct reading of the situation in Moesia only increased that standing.
+[21:23 --> 21:27] But just because the rebellion had collapsed, that did not mean that Philip and his regime
+[21:27 --> 21:29] were out of danger.
+[21:29 --> 21:33] The troops may have lost their nerve this time, but that did not mean that they had
+[21:33 --> 21:35] lost their nerve forever.
+[21:35 --> 21:41] Clearly, a firm hand was needed along the Danube to restore discipline and make sure
+[21:41 --> 21:44] like this didn't happen in the future.
+[21:44 --> 21:49] And who better to send on this mission than wise Theseus, who seemed to know the troops
+[21:49 --> 21:52] better than they knew themselves.
+[21:52 --> 21:57] So Philip ordered Theseus to Moesia, where he was to whip the legions back into shape
+[21:57 --> 22:02] and prepare them for the critical task of defending the empire from a gothic threat
+[22:02 --> 22:07] that looked only to be gaining strength with each passing year.
+[22:07 --> 22:13] When looked at one way, that Theseus was respected, capable, loyal and smart, the decision
+[22:13 --> 22:16] to send him to Moesia was an obvious one.
+[22:16 --> 22:21] But when looked at another way, taking into account that Theseus was easily more popular
+[22:21 --> 22:25] than Philip, and was about to be given command over the largest and best fighting force in
+[22:25 --> 22:32] the empire, the decision to send him to Moesia turns into an absurd blunder.
+[22:32 --> 22:36] In any event, the next time the two would face each other would be at the heads of opposing
+[22:36 --> 22:37] armies.
+[22:37 --> 22:42] So yeah, maybe Philip shouldn't have gone and done that.
+[22:42 --> 22:44] But that is for next week.
+[22:44 --> 22:49] I want to close this week by addressing one little piece of historical trivia that was
+[22:49 --> 22:53] believed for centuries, but has since been more or less abandoned.
+[22:53 --> 23:00] The fact that Philip the Arab may have been the first Christian emperor of Rome.
+[23:00 --> 23:05] This rumor mostly took root as a result of Vesubius describing an incident in his ecclesiastical
+[23:05 --> 23:11] history that has Philip attempting to visit a church shortly after becoming emperor,
+[23:11 --> 23:17] being denied entry by the bishop, and then confessing his sins to gain admittance.
+[23:17 --> 23:22] His subsequent toleration of Christianity, in contrast most especially to his successor
+[23:22 --> 23:27] Theseus, served as further circumstantial proof that Philip was in fact a member of
+[23:27 --> 23:29] the flock.
+[23:29 --> 23:34] But weighing the scales down on the other side are big known facts, like Philip's
+[23:34 --> 23:39] embrace of his role as Pontifex maximus, and the pagan ceremonies he officiated during
+[23:39 --> 23:46] the secular games, both of which would have been big no-nos had he been truly Christian.
+[23:46 --> 23:51] With regards to Philip's relationship with the church, I am content then to believe that
+[23:51 --> 23:55] given his upbringing in the Christianized East, that he probably had more sympathy to
+[23:55 --> 24:01] and connection with the Christian communities than most of his imperial colleagues.
+[24:01 --> 24:05] But it doesn't seem plausible that he himself was a Christian.
+[24:05 --> 24:12] Philip's positive relationship with Christianity, though, does offer an interesting insight
+[24:12 --> 24:17] into the subsequent persecutions of Theseus, who would wind up issuing an edict shortly
+[24:17 --> 24:23] after he became emperor, demanding citizens of Rome offer sacrifices to the pagan gods.
+[24:23 --> 24:28] Theseus may have issued his edict to get the troubled Roman Empire back on the right side
+[24:28 --> 24:34] of the gods, but he may also have issued it as a means of persecuting allies of Philip
+[24:34 --> 24:40] as Theseus looked to consolidate his own rule.
+[24:40 --> 24:45] Next week, we will explore the anti-Christian policies of Theseus, but only after we cover
+[24:45 --> 24:49] his accidental rebellion against Philip.
+[24:49 --> 24:53] It seems that good Theseus had every intention of restoring discipline to the troops along
+[24:53 --> 24:59] the Danube, but upon arriving was greeted with an ultimatum that he either lead them
+[24:59 --> 25:03] in a new revolt or die right there on the spot.
+[25:03 --> 25:09] Loyal to Philip, but not suicidally loyal to Philip, Theseus agreed to their demands
+[25:09 --> 25:15] and immediately about-faced and headed back to Italy, this time at the head of an army.

@@ -1,0 +1,548 @@
+# 20100405 - 089- Provincial Matters
+# Detected language: en
+# Duration: 2626.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:13] Hello, and welcome to the History of Rome, Episode 89, Provincial Matters.
+[00:13 --> 00:17] During the reign of Antoninus Pius, Rome was at the height of its power.
+[00:17 --> 00:23] The empire was large, stable, and at relative peace both internally and externally.
+[00:23 --> 00:28] The age of military expansion had given way to an age of bureaucratic management, and
+[00:28 --> 00:33] with the exception of Trajan's last hurrah, the Romans had more or less come to terms
+[00:33 --> 00:37] with the fact that their domains were what they were.
+[00:37 --> 00:40] So what were their domains?
+[00:40 --> 00:45] Today I want to go on what will have to be a high speed tour of the empire so we can,
+[00:45 --> 00:50] at a minimum, touch base with each of the 42 odd provinces that now make up the Roman
+[00:50 --> 00:51] Empire.
+[00:51 --> 00:56] I'm pretty sure that number is 42, but it's hard to get an exact count as the emperors
+[00:56 --> 01:00] were forever fidgeting with the borders and divisions of their administrative districts
+[01:00 --> 01:05] and adding and subtracting from the list of what technically counted as a province.
+[01:05 --> 01:11] So maybe I should just say the now more than 40 provinces that make up the Roman Empire.
+[01:11 --> 01:16] I think the best thing for us to do, so this doesn't become too complicated, is to roughly
+[01:16 --> 01:19] follow Hadrian's first tour of the empire.
+[01:19 --> 01:25] Start in Italy, travel north into Gaul and Britain, then south through Hispania, then
+[01:25 --> 01:31] go east across North Africa, north through the Mideast, and then back west across Anatolia,
+[01:31 --> 01:36] into Greece and the Balkans, and then back to Italy by way of the Alps.
+[01:36 --> 01:40] This full circuit will take us through the backyards of the roughly 65 million people
+[01:40 --> 01:45] living within the Roman Empire and into the camps of the 30 legions stationed along the
+[01:45 --> 01:49] borders, protecting the Pax Romana.
+[01:49 --> 01:54] Before we get started, I should remind everyone that in the age of the Antonines, the Augustan
+[01:54 --> 02:00] constitutional settlements of 27 and 23 BC were still in effect and that the Roman Empire
+[02:00 --> 02:04] was divided between senatorial and imperial provinces.
+[02:04 --> 02:10] Barring a few exceptions, the former were composed of peaceful interior provinces, while
+[02:10 --> 02:14] the latter were composed of the more militant border provinces.
+[02:14 --> 02:19] The distinction between the two can also be made by looking at which provinces contain
+[02:19 --> 02:20] legions.
+[02:20 --> 02:24] Provinces with legions were almost always imperial, while un-Garrison provinces were
+[02:24 --> 02:28] usually but not always senatorial.
+[02:28 --> 02:33] The senatorial provinces, as the name suggests, were administered by the senate, who, in theory
+[02:33 --> 02:39] at least, chose by lot from among their ex-praetors and ex-consuls who would be assigned as governor
+[02:39 --> 02:41] to what territory.
+[02:41 --> 02:47] In practice, though, the lots were usually predetermined and pre-approved by the emperor.
+[02:47 --> 02:51] Provincial provinces, on the other hand, needed no such lottery charade as they were
+[02:51 --> 02:54] administered directly by the emperor.
+[02:54 --> 02:59] According to the settlement, the sitting princeps technically held proconsular authority over
+[02:59 --> 03:06] all of his provinces and was thus merely appointing men to govern in his name.
+[03:06 --> 03:11] Within this system, the provinces were further divided into order of importance between major
+[03:11 --> 03:17] Pro-Consular territories, minor Pro-Protorial territories, and really minor Pro-Curatorial
+[03:17 --> 03:18] territories.
+[03:18 --> 03:24] Technically, these further distinctions required incoming governors to have served at a certain
+[03:24 --> 03:28] magisterial level before being granted a particular province.
+[03:28 --> 03:32] For example, you needed to have previously risen to the rank of Consul if you wanted
+[03:32 --> 03:38] to govern Syria, but only to the rank of Praetor if you wanted to govern Lusitania.
+[03:38 --> 03:42] But in practice, this only applied to the senatorial provinces, and not even always
+[03:42 --> 03:43] then.
+[03:43 --> 03:48] The emperor, meanwhile, could and did appoint whoever he wanted to govern whatever he wanted
+[03:48 --> 03:51] whenever he wanted.
+[03:51 --> 03:56] The remaining Pro-Curatorial provinces were all imperial and were unique in that equites
+[03:56 --> 03:58] qualified to act as governor.
+[03:58 --> 04:04] These, as you can imagine, wound up being the really minor, really out of the way provinces.
+[04:04 --> 04:06] Think Mauritania.
+[04:06 --> 04:11] A sitting provincial governor, whatever his rank and status, was tasked with only a few
+[04:11 --> 04:16] basic responsibilities, as the Romans liked to govern with a light hand.
+[04:16 --> 04:21] If he was in an imperial province, chances are his overriding concern was for the fitness
+[04:21 --> 04:25] of the legions and defense of the border.
+[04:25 --> 04:29] If all was well there, his next concern was for the orderly and efficient collection of
+[04:29 --> 04:31] taxes.
+[04:31 --> 04:35] In addition to this collection of revenue, a governor would further act as a sort of
+[04:35 --> 04:40] provincial auditor, who kept an eye on the books and made sure corruption and inefficiency
+[04:40 --> 04:46] did not unnecessarily weigh down his corner of the empire, unless he was corrupt, in which
+[04:46 --> 04:52] case his job was to make sure that he skimmed as much as possible without getting caught.
+[04:52 --> 04:57] In between drilling the legions and cooking the books, governors also acted as the supreme
+[04:57 --> 05:01] judicial authority in their provinces, and would travel from district to district hearing
+[05:01 --> 05:05] cases and parceling out justice.
+[05:05 --> 05:10] Being just one man, these basic responsibilities took up all of the governor's time, with
+[05:10 --> 05:15] the rest of the day to day operations of a province either delegated to local elites
+[05:15 --> 05:19] or simply left to the great wheel of anonymous inertia.
+[05:19 --> 05:24] Finally, before we get started, I want to mention that I have posted a link to a pretty
+[05:24 --> 05:29] sweet map of the empire from Wikipedia, so if you want to follow along at home, just
+[05:29 --> 05:35] go to thehistoryofrome.typepad.com and click on the link.
+[05:35 --> 05:40] I also want to mention that provincial names do not exactly roll off the tongue, so I apologize
+[05:40 --> 05:44] in advance for any mispronunciations.
+[05:44 --> 05:48] Keeping all of these things in mind, let's get going on our tour because as it turns
+[05:48 --> 05:54] out this is a massive episode, and when recorded will easily be the longest in the history
+[05:54 --> 05:55] of the history of Rome.
+[05:55 --> 06:01] I figure we'll blow past the as of yet uncracked 30 minute mark somewhere around the Hellespont
+[06:01 --> 06:04] and still have Greece and the Balkans to go.
+[06:04 --> 06:05] So everyone ready?
+[06:05 --> 06:09] Okay, let's go.
+[06:09 --> 06:15] The Italia of the Roman Empire more or less conformed to the borders of modern Italy itself.
+[06:15 --> 06:20] You'll recall that prior to the Second Triumvirate, the land north of the Rubicon River had been
+[06:20 --> 06:26] its own province, Cisalpine Gaul, or literally, Gaul on this side of the Alps.
+[06:26 --> 06:30] But that Octavian merged the territory with the Italia proper, having witnessed the danger
+[06:30 --> 06:35] posed to Rome by rogue generals commanding troops on the near side of the Alps.
+[06:35 --> 06:40] Specifically, he was thinking of Julius Caesar and Mark Antony.
+[06:40 --> 06:44] Following his triumph over Antony, the new emperor followed this up by stationing all
+[06:44 --> 06:49] the remaining legions in the provinces, leaving only the newly formed and personally loyal
+[06:49 --> 06:53] Praetorian Guard in Italy itself.
+[06:53 --> 06:57] Except during extreme emergencies or after the breakout of a civil war, there would not
+[06:57 --> 07:02] be any legionary presence in Italy for the remainder of the empire, which was just fine
+[07:02 --> 07:06] by the local population.
+[07:06 --> 07:12] Native-born Italians enjoyed the further perk of being more or less exempt from direct taxation,
+[07:12 --> 07:17] which was in part a holdover from the early days of the expanding republic when Rome demanded
+[07:17 --> 07:21] soldiers from her new Italian allies rather than cash payments.
+[07:21 --> 07:27] But it was also a conscious policy to keep those closest to Rome happiest so as to avoid
+[07:27 --> 07:29] mass uprisings.
+[07:29 --> 07:35] Except for the brief detour through Hadrian's very unpopular administrative reforms, Italians
+[07:35 --> 07:38] also enjoyed a great deal of local autonomy.
+[07:38 --> 07:43] Julius Caesar had broken the peninsula into 17 districts, each centered around an urban
+[07:44 --> 07:48] was left to the councils of the individual districts to govern themselves.
+[07:48 --> 07:53] The emperor and the senate technically had jurisdiction, but the local elites took it
+[07:53 --> 07:58] very personally when either came snooping around in their business, and so Rome generally
+[07:58 --> 08:02] took a hands-off approach to her nearest neighbors.
+[08:02 --> 08:07] In general, Italia was fat and happy during the imperial period, protected from invasion
+[08:07 --> 08:13] by the buffer of the provinces blessed with abundant natural resources, rich soil, and
+[08:13 --> 08:18] benefiting from the lion's share of the emperor's generous largesse.
+[08:18 --> 08:23] If it was good to be a Roman citizen during the age of the Antonines, it was great to
+[08:23 --> 08:26] be an Italian one.
+[08:26 --> 08:31] Off the coast of the peninsula were the first provinces outside of Italy to come under Roman
+[08:31 --> 08:32] control.
+[08:32 --> 08:37] The first was Sicily, claimed officially and undisputedly at the conclusion of the Punic
+[08:37 --> 08:39] Wars.
+[08:39 --> 08:44] The most important breadbasket of Rome, the rich soil of the island, provided the food
+[08:44 --> 08:49] that almost single-handedly fed the empire until Augustus claimed the even bigger breadbasket
+[08:49 --> 08:51] of Egypt for Rome.
+[08:51 --> 08:56] Despite its proximity to Italy and its early entrance into the empire, Sicily remained
+[08:56 --> 09:02] a rural backwater dominated by the slave estates of a few wealthy senators who cared little
+[09:02 --> 09:07] for anything but growing crops and selling them back to the state.
+[09:07 --> 09:12] Romans on the island were harsh, and two slave uprisings in the 100s B.C. were bad
+[09:12 --> 09:20] enough that Spartacus's war is classified as merely the Third Servile War.
+[09:20 --> 09:24] North of Sicily were the sister islands of Corsica and Sardinia, claimed by the Romans
+[09:24 --> 09:28] in between the Punic Wars in 231 B.C.
+[09:28 --> 09:33] The natives were hostile to Roman rule, and so, content to keep to their coastal settlements,
+[09:33 --> 09:37] the Romans mostly left the rugged interior to the locals, which was an agreement that
+[09:37 --> 09:40] seemed to work well for everyone.
+[09:40 --> 09:44] In general, Corsica and Sardinia had little political or economic impact on the greater
+[09:44 --> 09:50] empire, but for a time, they practically held the fate of the Mediterranean in their hands
+[09:50 --> 09:55] as first Julius Caesar and then Octavian relied on the grain coming out of the two islands
+[09:55 --> 09:57] to feed their armies.
+[09:57 --> 10:01] Had anything happened to disrupt the food supply coming from those relatively unimportant
+[10:01 --> 10:07] islands, the history of the world may have been very different.
+[10:07 --> 10:12] The first official territory outside Italy claimed by the Romans on the European mainland,
+[10:12 --> 10:18] not counting their still undefined holdings in Spain, had been Transalpine Gaul, or Gaul
+[10:18 --> 10:24] on the far side of the Alps, which was annexed in 121 B.C.
+[10:24 --> 10:28] The territory stretched from the Alps in the east along the Mediterranean coast to the
+[10:28 --> 10:30] Pyrenees in the west.
+[10:30 --> 10:34] The Romans had previously entered into an agreement with the local Greek colony of
+[10:34 --> 10:40] Massilia to allow the Romans passage from Italy to Spain in exchange for Roman protection
+[10:40 --> 10:43] from the barbarian Gauls in the north.
+[10:43 --> 10:49] After the legion successfully campaigned against the northern Gauls in 123 B.C., the territory
+[10:49 --> 10:52] was officially brought in to the burgeoning Roman Empire.
+[10:52 --> 10:58] The strip of land thereafter became known to the Romans affectionately as Our Province,
+[10:58 --> 11:02] a name which has stuck with the region over the years and the French know it today as
+[11:02 --> 11:05] Provence.
+[11:05 --> 11:12] North of Our Province was the wild interior of Gallia Comita, or Long-Haired Gaul.
+[11:12 --> 11:17] Along the setting of many a Roman nightmare, Julius Caesar finally banished those particular
+[11:17 --> 11:23] demons in the 50s B.C. and brought everything east of the Rhine, south of the English Channel,
+[11:23 --> 11:27] and west of the Atlantic Ocean under Roman control.
+[11:27 --> 11:33] In 22 B.C., Marcus Agrippa divided the country into three separate provinces to better reflect
+[11:33 --> 11:36] economic and geographic divisions.
+[11:36 --> 11:42] Lugdunensis, the most important of the three, containing both the Roman capital of Lungdunum,
+[11:42 --> 11:46] hence the name, and a major imperial mint.
+[11:46 --> 11:51] Aquitania, which bordered Spain and wound up a minor pro-Pratorial province run by the
+[11:51 --> 11:57] Senate, and Belgica, which formed today's Low Countries and was the last and least Romanized
+[11:57 --> 12:00] of the three Gauls.
+[12:00 --> 12:05] There never was a single Gallic race, and even Agrippa's rezoning did little to accurately
+[12:05 --> 12:11] reflect the realities of the multiple and rival Gallic tribes that lived in the country,
+[12:11 --> 12:15] each considering themselves independent of every other.
+[12:15 --> 12:20] Each year, though, all the kings and chieftains would meet in Lugdunum for a ceremony that
+[12:20 --> 12:24] formalized the one bitter reality they all shared.
+[12:24 --> 12:28] Rome was in charge, and the emperor was their master.
+[12:28 --> 12:30] It wasn't really that bad, though.
+[12:30 --> 12:35] Most of the truly independent-minded chiefs had been killed, leaving behind a tribal elite
+[12:35 --> 12:38] that had been quickly and thoroughly Romanized.
+[12:38 --> 12:43] Except for a few minor flare-ups, and one big transgression in 260 A.D., which we'll
+[12:43 --> 12:48] get to one of these days, the provinces of Gaul remained a loyal and stable corner of
+[12:48 --> 12:53] the empire, providing from its rich land a variety of agricultural products, including
+[12:53 --> 13:02] by far the best cheese, and from its talented locals high-quality glass, metal, and woodwork.
+[13:02 --> 13:09] East of the Gallic provinces were the military zones of Germania Inferior and Germania Superior.
+[13:09 --> 13:15] Until Domitian, the zones were technically a part of Belgica and Lungdunensis respectively,
+[13:15 --> 13:20] but in reality the generals commanding the legions along the Rhine were autonomous, and
+[13:20 --> 13:25] so Domitian turned the two zones into true provinces to better reflect this reality in
+[13:25 --> 13:28] the 80s A.D.
+[13:28 --> 13:33] The character of the German provinces was dominated by their strategic defensive position.
+[13:33 --> 13:38] Two legions were stationed on the lower Rhine, and two on the upper Rhine, making it one
+[13:38 --> 13:42] of the most militarized territories in the empire.
+[13:42 --> 13:47] Until the focus of Roman war-making shifted to the Danube in the early 100s A.D., the
+[13:47 --> 13:51] Rhine legions were the most fearsome fighting force in the Roman world, and were tasked
+[13:51 --> 13:55] with fending off the menace of German invasion.
+[13:55 --> 14:00] In addition to formalizing their provincial status, you'll recall that Domitian also
+[14:00 --> 14:05] spent a great deal of time and attention constructing the Lime-Easter Manicus, which not only served
+[14:05 --> 14:10] as a defensive barrier, but was also a way to control trade coming in and going out of
+[14:10 --> 14:15] the empire, specifically the highly lucrative trade in amber.
+[14:15 --> 14:19] One of the most valuable commodities in the ancient world, and found in abundance along
+[14:19 --> 14:24] the Baltic coast, it would be shipped down along the so-called Amber Road to Rome, with
+[14:24 --> 14:27] gold returning in kind.
+[14:27 --> 14:31] Domitian made sure that the Roman state got a piece of the action both ways by forcing
+[14:31 --> 14:37] traders through the gates of his well-armed lime-ease.
+[14:37 --> 14:42] Across the English Channel from mainland Europe was the foggy island of Britannia, which became
+[14:42 --> 14:48] an imperial proconsular province following Claudius' invasion in 43 AD.
+[14:48 --> 14:52] The island may have seemed an unimportant little piece of land, but the three legions
+[14:52 --> 14:55] stationed there tell a different story.
+[14:55 --> 15:01] Aside from Syria, no single province housed as many permanent legions as Britannia, which
+[15:01 --> 15:04] begs us to ask the question, why?
+[15:04 --> 15:09] The answer is that Britain contained abundant natural resources that were inconveniently
+[15:10 --> 15:15] beneath the feet of unruly, independent-minded locals.
+[15:15 --> 15:21] In addition to gold, silver, tin, iron, lead, and marble that could all be dug up in great
+[15:21 --> 15:28] heaps, Britain also provided the empire with wool, timber, animal skins, slaves, due to
+[15:28 --> 15:34] the persistent revolts, and, of course, the best hunting dogs money could buy.
+[15:34 --> 15:39] This combination of natural wealth and angry locals added up to one of the most militant
+[15:39 --> 15:42] provinces in the empire.
+[15:42 --> 15:45] Hadrian settled the northern border of the province with the famous wall he ordered built
+[15:45 --> 15:51] in 122, though Antoninus built his own wall about 100 miles north that became the new
+[15:51 --> 15:55] border of the empire for about 20 years until it was abandoned for a variety of reasons
+[15:55 --> 15:58] in the 160s AD.
+[15:58 --> 16:03] Despite its unruly natives, Britannia would remain a lucrative corner of the empire until
+[16:03 --> 16:08] it was abandoned in the 400s by a western Roman empire facing both internal division
+[16:08 --> 16:12] and external barbarian invasion.
+[16:12 --> 16:17] South of Britannia and across the Pyrenees from Gaul lay the Iberian peninsula, which
+[16:17 --> 16:21] the Romans called Hispania.
+[16:21 --> 16:25] Long in the Roman orbit, it was actually one of the last territories in the empire to be
+[16:25 --> 16:31] truly pacified, holding out until Marcus Agrippa finally dealt the decisive blow against Spanish
+[16:31 --> 16:33] independence.
+[16:33 --> 16:38] The Roman foothold in Spain, originally restricted to the Mediterranean coast, had been won
+[16:38 --> 16:43] by Scipio Africanus during the Second Punic War and was settled initially by his wounded
+[16:43 --> 16:45] veterans.
+[16:45 --> 16:50] The territory along the coast Scipio had snatched from the Carthaginians was divided into Hispania
+[16:50 --> 16:56] Ulterior and Hispania Citerior, or literally further Spain and nearer Spain, which would
+[16:56 --> 17:01] remain the Roman administrative districts until 13 BC when, following Agrippa's final
+[17:02 --> 17:08] efforts, Augustus divided the now wholly owned Iberian peninsula into Lusitania, basically
+[17:08 --> 17:16] modern Portugal, Baitica, modern Andalusia, and the largest of the three, Terraconensis.
+[17:16 --> 17:21] Ironically, once the Spanish tribes were finally beaten down after 200 years of near constant
+[17:21 --> 17:27] warfare, the peninsula only required a single legion stationed in Terraconensis to maintain
+[17:27 --> 17:30] order.
+[17:30 --> 17:34] Hispania was one of the richest and most important regions in the empire.
+[17:34 --> 17:38] Its gold and silver mines were the best in the known world, and the Romans developed
+[17:38 --> 17:44] complex hydraulic mining techniques to extract every last ounce of precious metal from the
+[17:44 --> 17:46] Spanish mines.
+[17:46 --> 17:51] But beyond the geologic resources, which included marble, tin, and lead, the fertile Spanish
+[17:51 --> 17:57] countryside made Hispania a center of olive oil and wine production.
+[17:57 --> 18:02] These two products alone, the liquid that kept the empire running, would have been enough
+[18:02 --> 18:07] even without the gold mines to make the province of Spain wealthy beyond measure.
+[18:07 --> 18:12] As we've seen, by the age of the Antonines, the Roman-Spanish elite formed a powerful
+[18:12 --> 18:16] faction within the senate, producing at the height of its power two of the best emperors
+[18:16 --> 18:23] the Romans ever had, Trajan and Hadrian.
+[18:23 --> 18:27] Across the Strait of Gibraltar, which was either carved by or narrowed by Hercules,
+[18:27 --> 18:36] depending on who you ask, lay the twin provinces of Mauritania, Mauritania-Tingatana and Mauritania-Cisarianus,
+[18:36 --> 18:42] both of which were minor procuratorial provinces on the northwest African coast.
+[18:42 --> 18:47] Following the victory over Carthage, the territory was made a client kingdom, dominated by its
+[18:47 --> 18:52] eastern neighbor Numidia, which was the preeminent Roman client state in West Africa at the time.
+[18:53 --> 18:59] In 40 AD, for no real reason at all, Caligula lured the loyal king of Mauritania into a
+[18:59 --> 19:05] trap and had him executed, claiming the leaderless kingdom as his own personal domain, hence
+[19:05 --> 19:08] the name Cisarianus.
+[19:08 --> 19:12] Revolt followed, but Claudius decided that what was done was done and formally annexed
+[19:12 --> 19:16] the kingdom in 43 AD.
+[19:16 --> 19:21] Mauritania's primary contribution to the empire was wool and a high-quality, always-in-demand
+[19:21 --> 19:25] purple dye, though it was also known for providing the legions with excellent light
+[19:25 --> 19:27] cavalrymen.
+[19:27 --> 19:33] Eventually, the province would become troubled by local Berbers, the dark-skinned North African
+[19:33 --> 19:39] natives who had resisted first Phoenician, then Carthaginian, then Roman encroachment.
+[19:39 --> 19:45] The Berbers of Mauritania became known as Moors, Moor-Moritania, get it?
+[19:45 --> 19:51] And would eventually wreak havoc on the undermanned but incredibly rich province of Hispania,
+[19:51 --> 19:55] beginning during the reign of Marcus Aurelius.
+[19:55 --> 19:59] East of Mauritania was the province of Africa proper.
+[19:59 --> 20:04] The heart of the old Carthaginian empire, Rome had claimed the territory after the final
+[20:04 --> 20:08] destruction of Carthage in 146 BC.
+[20:08 --> 20:12] The Romans were initially somewhat ambivalent about governing overseas territory, and their
+[20:12 --> 20:17] primary concern in Africa was simply to ensure that no other power established itself in
+[20:17 --> 20:19] Carthage's place.
+[20:19 --> 20:24] For the most part, though, the loyal client kingdom of Numidia was the one actually tasked
+[20:24 --> 20:30] with doing the heavy lifting of keeping Africa free from anti-Roman sentiment.
+[20:30 --> 20:34] Once Rome finally embraced its international character, though, Africa became a key center
+[20:34 --> 20:40] of agricultural production, providing the empire with a huge array of olives, corn,
+[20:40 --> 20:49] bean, figs, grapes, textiles, marble, wine, timber, livestock, pottery, and wool.
+[20:49 --> 20:54] Coastal cities became highly developed and fully Romanized, becoming major trade centers
+[20:54 --> 20:59] as well as producing high quality crafts of their own, including their famous clay lamps
+[20:59 --> 21:03] which became the class of the empire.
+[21:03 --> 21:08] After Augustus' final constitutional settlement, Africa had the unique distinction of being
+[21:08 --> 21:13] the only senatorial province that contained a legion, which was also, by the way, the
+[21:13 --> 21:17] only African legion stationed west of Egypt.
+[21:17 --> 21:24] In between Africa and Egypt was the senatorial province of Cyrenaica, which was a minor agricultural
+[21:24 --> 21:30] province that was distinguished by its wide variety of native medicinal plants.
+[21:30 --> 21:35] Most Romans barely registered Cyrenaica's existence until the Third Jewish Revolt erupted
+[21:35 --> 21:38] from its borders in 132.
+[21:38 --> 21:43] The slaughter and counter-slaughter that accompanied the revolt left the province depopulated to
+[21:43 --> 21:48] the point of it becoming something of a ghost town, forcing Hadrian to concoct a colonization
+[21:48 --> 21:53] program to prevent the lights from going out completely.
+[21:53 --> 21:59] To the east of obscure Cyrenaica was the incalculably important prefecture of Egypt.
+[21:59 --> 22:04] The rich Nile Valley was so critical that it wasn't even technically a province and
+[22:04 --> 22:10] remained instead from the time of Augustus, a country owned personally by the emperor.
+[22:10 --> 22:15] It was governed by an equestrian prefect, as Augustus and his successors felt that a
+[22:15 --> 22:19] senator could not be trusted with a task.
+[22:19 --> 22:24] Ruling in Alexandria was an easy stepping stone to ruling the entire world, and so no
+[22:24 --> 22:30] one of senatorial rank was even allowed to visit Egypt without express imperial permission.
+[22:30 --> 22:37] This was, you'll recall, possibly the reason why Tiberius had Germanicus killed.
+[22:37 --> 22:41] Egypt was not only the breadbasket of the empire and the key transfer point of trade
+[22:41 --> 22:48] with India and the Far East, but its capital of Alexandria was the center of culture, science,
+[22:48 --> 22:51] and the arts in the Greco-Roman world.
+[22:51 --> 22:56] Unfortunately for locals and Romans alike, though, imperial control of Egypt, enforced
+[22:56 --> 23:02] by the two legions run out of Alexandria, was often heavy-handed and arbitrary.
+[23:02 --> 23:07] Taxes were administered and collected heavily and randomly, leaving the locals resentful
+[23:07 --> 23:13] and the Romans hated, and from the late 130s on, Egypt was a constant source of anti-Roman
+[23:13 --> 23:16] agitation and revolt.
+[23:16 --> 23:21] But through it all, the ancient kingdom on the Nile River continued to pump out the grain
+[23:21 --> 23:24] that fed the empire.
+[23:24 --> 23:30] Most of Egypt was Arabia, comprising most of what we now call the Sinai Peninsula.
+[23:30 --> 23:36] One of the last additions to the empire, Arabia was annexed by Trajan in 106, and was one
+[23:36 --> 23:42] of the few territories not abandoned by Hadrian when he came to power a decade later.
+[23:42 --> 23:48] Taken and held mostly so that the Romans could control all the trade routes into the Mediterranean,
+[23:48 --> 23:53] Arabia wound up a surprisingly stable province, and was a loyal and lucrative corner of the
+[23:53 --> 23:56] empire well into the Byzantine age.
+[23:56 --> 24:00] Its single legion was famous for refusing to back eastern pretenders to the throne like
+[24:00 --> 24:07] Avidius Cassius and Paschinius Niger, instead choosing to remain loyal to whoever ruled
+[24:07 --> 24:10] in Rome.
+[24:10 --> 24:16] Polar opposite of loyal Arabia was its northwestern neighbor, the once vigorously rebellious Judea,
+[24:16 --> 24:21] but now the utterly depopulated and weak, Palestine.
+[24:21 --> 24:25] I kind of feel like we've already spent enough time on this rebellious little province,
+[24:25 --> 24:29] but never seemed particularly rich enough or important enough to have been the source
+[24:29 --> 24:31] of so much trouble.
+[24:31 --> 24:38] Their primary exports wound up being slaves and refugees fleeing for their lives.
+[24:38 --> 24:44] North of Judea, Palestine was Syria, the key province of the Eastern Roman Empire.
+[24:44 --> 24:50] Conquered and organized by Pompey as he went east young man in the 60s BC, it housed three
+[24:50 --> 24:55] and sometimes four standing legions, and was the main staging point for all operations
+[24:55 --> 24:59] against the Parthians, which whom this critical territory shared a border.
+[24:59 --> 25:04] The provincial capital of Antioch became a hugely important urban center, and was the
+[25:04 --> 25:08] de facto capital of the Roman East.
+[25:08 --> 25:14] Complementing its rigid defense against incoming eastern armies, Syria simultaneously embraced
+[25:14 --> 25:19] all the incoming trade from the east, and became a decadent and wealthy middleman acting
+[25:19 --> 25:25] as the overland terminus of the famous Silk Road coming in from China.
+[25:25 --> 25:29] Proper Romans though, forever held Syria up as the example of everything that was wrong
+[25:29 --> 25:33] with exposing Rome to eastern temptations.
+[25:33 --> 25:38] The legions stationed there were constantly accused of showing lax discipline, and the
+[25:38 --> 25:44] soldiers castigated for constantly going native amidst a population more than willing to corrupt
+[25:44 --> 25:47] their supposed masters.
+[25:47 --> 25:52] But despite its reputation for loose morals, no one could deny that without Syria the empire
+[25:52 --> 25:57] would have been far less rich and far less powerful than it had become.
+[25:57 --> 26:02] The imports and exports that passed through and originated from its borders generated
+[26:02 --> 26:09] the gold and supplies that allowed Roman power to explode exponentially following Pompey's
+[26:09 --> 26:11] annexation.
+[26:11 --> 26:15] Round the bend from Syria were the provinces of Anatolia.
+[26:15 --> 26:21] The only bordering Syria were Cilicia, which hugged the Mediterranean coast, and Cappadocia,
+[26:21 --> 26:24] which headed up into the Taurus Mountains.
+[26:24 --> 26:29] Cappadocia was an imperial province that, thanks to its shared border with Armenia and
+[26:29 --> 26:34] greater Mesopotamia, wound up housing two legions.
+[26:34 --> 26:38] The province that would become best known for its series of underground cities, is,
+[26:38 --> 26:44] to me anyway, best known as the province that always backed the wrong side in a war, yet
+[26:44 --> 26:47] still managed to escape major reprisals.
+[26:47 --> 26:53] The Cappadocians backed first Antiochus against the Romans, then Mithridates against the Romans,
+[26:53 --> 26:59] then Pompey against Julius Caesar, then Brutus and Cassius against the Second Triumvirate,
+[26:59 --> 27:01] then Antony against Octavian.
+[27:01 --> 27:07] In every case they lost, and yet somehow managed to ingratiate themselves enough with the winner
+[27:07 --> 27:11] that they were ever after accepted as loyal allies of the victors.
+[27:11 --> 27:15] I would guess, though, that the two legions now stationed in their backyard was promise
+[27:15 --> 27:18] enough of their loyalty.
+[27:18 --> 27:23] To the south was Cilicia, a senatorial province that needed no legions.
+[27:23 --> 27:28] Combined administratively with the island of Cyprus, Cilicia was most famous for its
+[27:28 --> 27:33] rugged western half being a haven for pirates, until Pompey burned all their ships and turned
+[27:33 --> 27:38] the erstwhile brigands into foul-er-mouth than average farmers.
+[27:38 --> 27:43] The eastern half of Cilicia was composed of rich flats that produced millet, olives
+[27:43 --> 27:48] and sesame in addition to providing excellent pasture land for substantial herds of goats
+[27:48 --> 27:51] and cattle.
+[27:51 --> 27:54] West of Cilicia was Lycia Pamphylia.
+[27:54 --> 27:58] It was also a Roman province.
+[27:58 --> 28:03] West of Cappadocia and northwest of Cilicia was the unimpressive but still unique province
+[28:03 --> 28:08] of Galatia which literally translates as Gaul of the East.
+[28:08 --> 28:14] It was known by this seemingly out of place name because the territory, mostly high plateau,
+[28:14 --> 28:19] had been settled by a group of migrating Gauls in the 280s BC.
+[28:19 --> 28:24] They retained their semi-nomadic pastoral lifestyle and enriched themselves by launching
+[28:24 --> 28:28] periodic raids on the richer kingdom surrounding them.
+[28:28 --> 28:33] The Galatians initially joined with Antiochus and then Mithridates as they attempted to
+[28:33 --> 28:38] resist Roman expansion, but by the end of Sulla's eastern campaign they had attached
+[28:38 --> 28:44] themselves firmly to the Roman cause and remained a loyal and nominally independent client kingdom
+[28:44 --> 28:50] until the last Galatian king died in 25 BC, just as Augustus was defining the new imperial
+[28:50 --> 28:53] political order.
+[28:53 --> 28:58] Galatia was annexed and claimed by the emperor as one of his new imperial provinces.
+[28:58 --> 29:03] Thereafter it was a provincial backwater best known for the fact that because it was a provincial
+[29:03 --> 29:08] backwater early Christianity was able to flourish there relatively unmolested by the
+[29:08 --> 29:11] Roman authorities.
+[29:11 --> 29:17] North of Galatia and Cappadocia were the often combined provinces of Bithynia and Pontus
+[29:17 --> 29:22] which together ran the length of the southern Black Sea coast.
+[29:22 --> 29:26] The rich valleys of Pontus had been the home of some of Rome's fiercest enemies during
+[29:26 --> 29:31] the first and second centuries BC, but by the age of the Antonines all such resistance
+[29:31 --> 29:37] was dead and the locals contented themselves as tradesmen, farmers and as particularly
+[29:37 --> 29:41] good iron and steel smiths.
+[29:41 --> 29:45] Their sister province of Bithynia had the good fortune of being located at the crossroads
+[29:45 --> 29:50] of Asia and Europe leading its urban centers along the Sea of Marmara to become rich and
+[29:50 --> 29:53] important trading powers.
+[29:53 --> 29:58] The Bithynian interior was rugged and forested and the locals liked to boast that they were
+[29:58 --> 30:04] one of the few places on earth that Alexander had been unable to conquer outright.
+[30:04 --> 30:09] The Macedonian king had instead decided to simply keep moving when the fierce locals
+[30:09 --> 30:13] took to the mountains rather than bog his army down in a protracted siege of the dense
+[30:13 --> 30:16] steep countryside.
+[30:16 --> 30:20] The province, then a client kingdom, also wound up being a thorn in Julius Caesar's
+[30:20 --> 30:25] side as he was dogged for years by rumors that he had gone to bed as the passive partner
+[30:25 --> 30:27] with the king of Bithynia.
+[30:27 --> 30:32] Still recall that his enemies often scribbled graffiti on the walls of Rome calling Caesar
+[30:32 --> 30:35] the Queen of Bithynia.
+[30:35 --> 30:40] Bithynia Pontus was also the corrupt and disorganized province that Trajan had sent Pliny the Younger
+[30:40 --> 30:46] to straighten out in the early 100s AD, a difficult task that at best produced mixed
+[30:46 --> 30:49] results.
+[30:49 --> 30:54] The rest of the west coast of Anatolia was swallowed by the province of Asia, a senatorial
+[30:54 --> 30:59] province that had been brought into the empire following the death of King Ataullus of Pergamum
+[30:59 --> 31:02] in 129 BC.
+[31:02 --> 31:06] His kingdom had been created as a buffer client state following the withdrawal of Antiochus
+[31:06 --> 31:14] in 190 BC and, with no male heirs, Ataullus simply left the kingdom to Rome in his will.
+[31:14 --> 31:19] This territorial windfall was a political windfall in particular for Gaius Gracchus,
+[31:19 --> 31:25] who argued forcefully and then violently that Asia ought to be carved up democratically
+[31:25 --> 31:30] rather than being handed over to a couple of rich patricians.
+[31:30 --> 31:35] After years of indifferent Roman rule, Mithridates invaded and slaughtered every Roman he could
+[31:35 --> 31:42] find in the Asiatic Vespers of 88 BC, prompting Sulla to take revenge and reclaim the territory
+[31:42 --> 31:48] for Rome in whose sphere of influence it remained until the fall of the Byzantine Empire.
+[31:48 --> 31:54] Asia was characterized most especially by its decentralized political structure.
+[31:54 --> 31:59] Dozens of coastal Greek colonies, each more ancient in story than the last, vied with
+[31:59 --> 32:04] each other for prominence and refused to let any of the others gain the upper hand.
+[32:04 --> 32:09] In their race to secure the emperor's favor, Asia wound up being the first territory to
+[32:09 --> 32:13] really embrace the practice of worshipping the cult of the Caesars.
+[32:13 --> 32:18] An emperor worship became deeper and wider spread in Asia than just about anywhere else
+[32:18 --> 32:21] in the empire.
+[32:21 --> 32:26] Across the Hellespont from Asia was Thracia, supposed homeland of everyone's favorite
+[32:26 --> 32:29] gladiator Spartacus.
+[32:29 --> 32:34] The land between Macedonia and the Sea of Marmara had been one of Rome's undefined
+[32:34 --> 32:39] holdings that was annexed officially by Claudius as he and his ministers attempted to make
+[32:39 --> 32:42] the empire run more rationally.
+[32:42 --> 32:46] The rugged country was known for its disparate local tribes who seemed to hate each other
+[32:46 --> 32:49] more than they hated the Romans.
+[32:49 --> 32:54] Down the road, the province will produce a number of notable soldier-emperors including
+[32:54 --> 32:59] the beast Maximinus Thrax, whose assassination of Alexander Severus helped spark the crisis
+[32:59 --> 33:06] of the 3rd century, and Constantine's great colleagues-slash-rivals Galerius and Lycaeus,
+[33:06 --> 33:12] whose demise helped close the door on that particular century of chaos.
+[33:12 --> 33:17] The south of Thracia was the province of Moesia, eventually divided by demission into upper
+[33:17 --> 33:22] and lower halves to make the whole territory more militarily agile.
+[33:22 --> 33:27] The superior and inferior in this case referring to the downhill path of the Danube rather
+[33:27 --> 33:29] than the Rhine.
+[33:29 --> 33:34] The country had been finally conquered by the grandson of Marcus Crassus around 29 BC,
+[33:34 --> 33:40] but it was not organized as a province until at least 680.
+[33:40 --> 33:44] Located on the south bank of the Danube, Moesia became one of the keys to the whole
+[33:44 --> 33:49] Roman defensive strategy and four legions were stationed there permanently, two each
+[33:49 --> 33:52] in the upper and lower sections.
+[33:52 --> 33:57] Its strategic military value was never in doubt, though its responsibilities were lightened
+[33:57 --> 34:02] somewhat by Trajan's conquest of Dacia in 105, which pushed the northern border across
+[34:02 --> 34:08] the Danube and left upper Moesia at least an interior province.
+[34:08 --> 34:13] Beyond its military value, Moesia also came equipped with goldfields in the west and excellent
+[34:13 --> 34:15] farmland in the east.
+[34:15 --> 34:21] And obviously, its location along the Danube left it in control of most of the international
+[34:21 --> 34:27] trade coming down that great river, making Moesia rich, which was nice, but also leaving
+[34:27 --> 34:33] it the constant target of envious Germans on the north bank, which wasn't so nice.
+[34:33 --> 34:38] This was why the locals in Moesia were enthusiastic supporters of Trajan's Dacian conquest and
+[34:38 --> 34:41] hoped for more where that came from.
+[34:41 --> 34:45] They would be let down by Hadrian, though, and Dacia would be the last major province
+[34:45 --> 34:51] added to the empire and the only Roman territory on the far side of the Danube.
+[34:51 --> 34:56] Its abundant mineral resources, especially in the gold and silver department, gave the
+[34:56 --> 35:01] Roman economy a much needed shot in the arm, though it proved to be a tenuously held territory
+[35:01 --> 35:03] at best.
+[35:03 --> 35:09] Hadrian had wanted to withdraw, but was compelled by economic and political necessity to retain
+[35:09 --> 35:13] what he considered an indefensible position.
+[35:13 --> 35:18] The money flowing in was nice, though, and while it lasted, Dacia was a key cog in the
+[35:18 --> 35:21] imperial minting machine.
+[35:21 --> 35:25] The province would eventually be split into upper and lower departments by Hadrian after
+[35:25 --> 35:30] he determined he could not just let go of the province altogether, and at some point,
+[35:30 --> 35:35] during either his reign or Antoninus's, a third province was spun off, leading the Romans
+[35:35 --> 35:39] to call them all collectively the Three Dacias.
+[35:39 --> 35:45] Among the last territories added to the empire, Dacia was also one of the first to be abandoned,
+[35:45 --> 35:51] and it was left to its fate by Aurelian in 275 AD, the pointedly only after he had decisively
+[35:51 --> 35:56] beaten the Goths in battle and killed their leader.
+[35:56 --> 36:03] South of Moesia was the cradle of Greek civilization, now called Macedonia and Achaea.
+[36:03 --> 36:08] Finally conquered by the Romans during the Third Macedonian War in 146 BC, the exhausted
+[36:08 --> 36:14] Greeks were forced to give up their independence and accept foreign rule.
+[36:14 --> 36:18] Out of respect for the great and ancient civilization they had just defeated and which they admired
+[36:18 --> 36:25] so much, Rome pretty much left the cities of Greece free to govern themselves.
+[36:25 --> 36:29] Macedonia was obviously harder hit by the last war than the cities around the Peloponnese,
+[36:29 --> 36:34] and for a while it limped along a depopulated mess.
+[36:34 --> 36:39] But with the construction of the Via Ignatia, a major Roman road from Derechium to the Hellespont,
+[36:39 --> 36:45] it was revitalized and rode its booming business in trade and travel back to prominence.
+[36:45 --> 36:51] Achaea, meanwhile, less chastened by the Macedonian Wars, tried to hold on to its independence
+[36:51 --> 36:55] more forcefully than their northern neighbors.
+[36:55 --> 36:59] Believing themselves simply better than the barbarian Romans, the Greeks of Athens and
+[36:59 --> 37:05] Sparta treated their new overlords with barely concealed contempt.
+[37:05 --> 37:09] When Mithridates came calling in the 80s BC promising to lead the whole of the east to
+[37:09 --> 37:14] freedom, the Greek elites readily agreed to help out.
+[37:14 --> 37:18] Sulla made them pay for their defiance and famously sacked Athens in brutal fashion in
+[37:18 --> 37:21] 87 BC.
+[37:21 --> 37:26] Thereafter the chastened Greeks, while still feeling superior, were far less inclined to
+[37:26 --> 37:29] act on their contempt.
+[37:29 --> 37:36] For the next century the once mighty Greek city-states languished as a fallen backwater.
+[37:36 --> 37:40] Athens retained its traditional status as a cultural center, but it had long been eclipsed
+[37:40 --> 37:46] by Alexandria as the cultural center of the Mediterranean world.
+[37:46 --> 37:50] It wasn't really until Hadrian's active Greek revivalism that the cities of the Aegean
+[37:50 --> 37:55] began to return to prosperity and prominence.
+[37:55 --> 37:59] The craftsmen of Greece, meanwhile, produced a number of high-quality household goods that
+[37:59 --> 38:04] were highly sought after in Rome, and the rugged country was a source of high-quality
+[38:04 --> 38:05] tin and copper.
+[38:05 --> 38:11] But by far, Greece's most important contribution to the Roman economy was its export of educated
+[38:11 --> 38:17] slaves who, in time, came to run practically the whole empire.
+[38:17 --> 38:22] Overtly conquered, the Greeks had a bit of revenge by covertly running in many ways the
+[38:22 --> 38:27] empire they supposedly served.
+[38:27 --> 38:34] West of Achaea, and for a long time simply a part of Macedonia, was the province of Epirus.
+[38:34 --> 38:38] Conquered along with the rest of Greece in the Macedonian Wars and peeled off into its
+[38:38 --> 38:45] own province in 67 AD, this maritime territory was situated along the Ionian Sea across from
+[38:45 --> 38:47] the boot of Italy.
+[38:47 --> 38:52] Originally, one of the Roman's first footholds in the east, remember that the Romans took
+[38:52 --> 38:58] possession of the coast in the mid-200s BC to prevent piracy, the culture and economy
+[38:58 --> 39:03] of Epirus was centered around its port towns servicing the trade lines from Italy to Greece
+[39:03 --> 39:12] proper, though it was also known for producing its own excellent cheese, wine, and oils.
+[39:12 --> 39:17] Northwest of Greece and due west of Moesia was the critical region known as Illyrium
+[39:17 --> 39:20] or Illyricum.
+[39:20 --> 39:25] First conquered by the Romans in the 160s BC, the region wasn't fully pacified until
+[39:25 --> 39:30] Octavian put the final stamp on things in the mid-30s BC.
+[39:30 --> 39:36] In the constitutional settlement of 27, Augustus claimed Illyricum as an imperial province
+[39:36 --> 39:40] and eventually stationed four legions there.
+[39:40 --> 39:45] Illyricum wound up being the backbone of the Roman Empire as it stood at the crossroads
+[39:45 --> 39:48] between east and west, north and south.
+[39:48 --> 39:53] It bordered both the Adriatic Sea and the Danube River and depending on where you were
+[39:53 --> 39:58] coming from it was the gateway to Italy, the gateway to Greece, the gateway to the far
+[39:58 --> 40:04] east, while all the while acting as defender of the northern border.
+[40:04 --> 40:09] At some point during the reign of Tiberius, Illyricum was split into the more peaceful
+[40:09 --> 40:15] mineral-rich Dalmatia in the south, which is now the Croatian coast, and the more rugged
+[40:15 --> 40:18] and militant Pannonia in the north.
+[40:18 --> 40:23] Pannonia would then be divided further by Trajan into upper and lower Pannonia to make
+[40:23 --> 40:30] the territory, like Moesia, more agile and responsive to attacks.
+[40:30 --> 40:35] Illyricum in general has been called the province that held the empire together as its constantly
+[40:35 --> 40:41] under-arms population formed the bulk of the critical Danube legions and eventually produced
+[40:41 --> 40:47] the emperors that dragged Rome from the depths of the disastrous third century, Claudius
+[40:47 --> 40:53] Gothicus, Aurelian, and then finally Diocletian.
+[40:53 --> 40:58] Neighboring Pannonia to the west as Europe begins to climb up into the Alps was the imperial
+[40:58 --> 41:04] province of Noricum, composing most of modern Austria.
+[41:04 --> 41:11] The Noric people were left alone until they made a fateful decision to join in a Pannonian
+[41:13 --> 41:20] uprising in 16 BC that eventually, once put down, led to Noricum being called a province,
+[41:20 --> 41:25] even if it was not formally organized as such, until Claudius noted that they were still
+[41:25 --> 41:30] in off-the-books territory in 41 AD.
+[41:30 --> 41:35] For years, Noricum was un-Garrisoned, but Antoninus moved a legion into the country
+[41:35 --> 41:40] in order to shore up the northern border, perhaps anticipating the storm that he saw
+[41:40 --> 41:43] coming down from Germania.
+[41:43 --> 41:49] Lacking high-quality soil, Noricum was a classic iron and blood province, providing both high-quality
+[41:49 --> 41:56] steel and high-quality soldiers for the legions.
+[41:56 --> 42:03] We wind up then finally, and sorry, rather anticlimactically, in Raetia, an alpine province
+[42:03 --> 42:09] composed of modern west-central Switzerland. Conquered during the joint campaign of Tiberius
+[42:09 --> 42:14] and Drusus, Raetia was a classic example of the Romans making a desert and calling it
+[42:14 --> 42:17] a piece.
+[42:17 --> 42:22] Though it had no permanent legionary presence, Raetia still wound up a key part of the extended
+[42:22 --> 42:27] Lymus Germanicus, holding down the eastern portion of the fortification network with
+[42:27 --> 42:34] a locally raised militia. Relatively depopulated, the native Raetians produced cheeses, pitch,
+[42:35 --> 42:40] honey, and a particular brand of wine that Augustus declared was his favorite in the
+[42:40 --> 42:44] whole empire.
+[42:44 --> 42:49] So there you have it. In making this circuit of the empire, I think the only thing I missed
+[42:49 --> 42:56] were the three tiny administrative districts in the Alps, organized in 14, 47, and 63 AD
+[42:56 --> 43:01] respectively, to protect communication lines and keep travel routes through the alpine
+[43:01 --> 43:08] passes clear. By all means though, if I missed something, please let me know. I should probably
+[43:08 --> 43:13] at this point knock out a nice concluding paragraph that artfully condenses the many
+[43:13 --> 43:20] faces and many places of the Roman Empire, but the tour has left me exhausted. Next week
+[43:20 --> 43:23] is question time. See you then.

@@ -1,0 +1,306 @@
+# 20110620 - 140- My Three Sons
+# Detected language: en
+# Duration: 1437.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:13] Hello, and welcome to The History of Rome, Episode 140, My Three Sons.
+[00:13 --> 00:17] Well, live and in person, me is back.
+[00:17 --> 00:21] As you know, The History of Rome just spent the last five weeks bouncing back and forth
+[00:21 --> 00:26] between Italy and Turkey on the official History of Rome, Rome and History tour.
+[00:26 --> 00:31] It was an absolutely fantastic time, and the answer is yes, we are planning to do it
+[00:31 --> 00:34] again, and the sooner the better.
+[00:34 --> 00:38] That said, there's nothing I hate more than beating around the bush, so let's get back
+[00:38 --> 00:39] into this thing.
+[00:39 --> 00:44] It's been six weeks since I last thought about the show, and I'm dying to find out what happens
+[00:44 --> 00:46] next.
+[00:46 --> 00:50] But there are two minor corrections I need to get out of the way before we can get on
+[00:50 --> 00:51] with it.
+[00:51 --> 00:57] First, alert listener Anthony caught me accidentally reversing syllables in episode 137, so the
+[00:57 --> 01:04] polarizing deacon who later became the polarizing bishop of Alexandria should have been Othinaceous,
+[01:04 --> 01:06] not Onathaceous.
+[01:06 --> 01:08] Sorry about that.
+[01:08 --> 01:13] The second mistake is from episode 138, and is quite a bit more embarrassing.
+[01:13 --> 01:18] See, what happened is that I had just gotten Mrs. The History of Rome into the reboot of
+[01:18 --> 01:22] Battlestar Galactica, so we were pretty much watching it nonstop.
+[01:22 --> 01:28] At the same time, I personally also happen to be watching a lot of the HBO Rome series.
+[01:28 --> 01:30] Do you see where this is going?
+[01:30 --> 01:35] Unfortunately, despite my clear memory to the contrary, Saul Tye never did say, no one
+[01:35 --> 01:42] is a traitor until they are, although it really, really sounds like something he might say.
+[01:42 --> 01:45] In reality, Titus Pulo said it.
+[01:45 --> 01:50] He said it in Rome, season 2, episode 8, unnecessary fiction.
+[01:50 --> 01:54] Alert listener Nick mentioned in the comment thread that he remembered Pulo saying something
+[01:54 --> 01:58] just like that, and I immediately knew I had botched the reference.
+[01:58 --> 02:04] It was an honest mistake in a time of great stress, and I hope you will all forgive me.
+[02:04 --> 02:10] Okay, now that all the old business has been dispensed with, unless there are any objections,
+[02:10 --> 02:12] let's move on to new business.
+[02:12 --> 02:18] We left off last time with the death of Constantine on May 22, 337 AD.
+[02:18 --> 02:22] This week, I want to cover how his sons handled the fact that they were now in charge of the
+[02:22 --> 02:23] Empire.
+[02:23 --> 02:30] As we will see, they will quickly prove that they are every bit their father's sons.
+[02:30 --> 02:35] It is difficult to pinpoint exactly where the boys were at the moment of their father's
+[02:35 --> 02:40] death, but it appears that Constantine II, the eldest of the three at 21 years old, was
+[02:40 --> 02:44] in the far west, perhaps even as far off as Trier.
+[02:44 --> 02:50] Constance, the youngest of the three at somewhere between 14 and 17 years old, was likely in
+[02:50 --> 02:56] Pannonia or northern Italy, while the middle son, 20 year old Constancias II, was in the
+[02:56 --> 03:01] far east, readying for a campaign against the Sassanids.
+[03:01 --> 03:06] Of the three sons, Constancias will prove to be the most cunning, decisive, and ruthless
+[03:06 --> 03:11] of them all, and this became apparent right from the very beginning.
+[03:11 --> 03:17] Dropping everything, he rushed back to Constantinople and took it upon himself to immediately oversee
+[03:17 --> 03:21] the funeral and burial of the dead emperor before either of his brothers could arrive
+[03:21 --> 03:25] and share in the prestige of presiding over an imperial funeral.
+[03:25 --> 03:27] Savvy play.
+[03:27 --> 03:32] And he was just getting warmed up.
+[03:32 --> 03:36] As we discussed last week, Constantine had laid out a fairly detailed succession scheme
+[03:36 --> 03:42] that involved splitting up the empire between his three sons and two of his nephews, Dalmatius
+[03:42 --> 03:44] and Hannibalianus.
+[03:44 --> 03:49] The latter was to hold some vague authority over the eastern borderlands, while the former
+[03:49 --> 03:54] was to be granted control of Thrace, Macedonia, and Achaea, which is to say, Dalmatius was
+[03:54 --> 03:58] to be in charge of Constantinople itself.
+[03:58 --> 04:02] Researchers have surmised that Constantine was attempting to set up a sort of neutral
+[04:02 --> 04:05] zone around the capital so that no one of his sons would be able to claim it as their
+[04:05 --> 04:09] own and thus throw the balance of power out of whack.
+[04:09 --> 04:14] But boy, was that ever not what happened at all.
+[04:14 --> 04:18] About ten minutes after Constantine was laid to rest, Constancias II initiated what has
+[04:18 --> 04:24] since been dubbed the Massacre of the Princes, which was, yeah, exactly what it sounds like
+[04:24 --> 04:29] it was, a massacre of princes.
+[04:29 --> 04:34] To fully appreciate what Constancias II is about to do, we must unfortunately turn for
+[04:34 --> 04:40] a second to the insanely convoluted Constantinian family tree, which I can assure you is every
+[04:40 --> 04:44] bit as confusing as the Julio-Claudian family tree.
+[04:44 --> 04:49] I'll admit that as I parsed my way through the twists and turns of Constantine's extended
+[04:49 --> 04:56] family, I secretly began to thank Constancias II for killing half of them off in May 337
+[04:56 --> 05:00] just because of how much it simplifies everything.
+[05:00 --> 05:04] As with the Julio-Claudians, there were two main branches to the family that were often
+[05:04 --> 05:07] at subtle odds with each other.
+[05:07 --> 05:12] On one side, there were the descendants of Constancias and Helena, which is to say, Constantine
+[05:12 --> 05:17] the Great and his children, and on the other were the descendants of Constancias and Maximian's
+[05:17 --> 05:20] daughter, Theodora.
+[05:20 --> 05:25] Constancias' second marriage eventually produced three sons and three daughters, giving Constantine
+[05:25 --> 05:29] a raft of half-brothers and sisters to deal with.
+[05:29 --> 05:35] You'll no doubt recall that one of these half-sisters, Constantia, was married to Lycaenius, and
+[05:35 --> 05:41] another, Anastasia, was married to the ill-fated Bossianus, who Constantine executed on trumped-up
+[05:41 --> 05:46] treason charges as he was preparing a case for war against Lycaenius.
+[05:46 --> 05:52] The third sister, Eutropia, wound up giving birth to a boy named Nepotianus, which is
+[05:52 --> 05:54] noteworthy for two reasons.
+[05:54 --> 06:01] First, he will show up briefly in 350 AD running a counter-usurpation against Magnentius, and
+[06:01 --> 06:07] second, that means that he survived the massacre of the princes, despite all the talk about
+[06:07 --> 06:12] how Constancias Gallus and Julian were the only males from the Theodora side of the family
+[06:12 --> 06:15] to make it out alive.
+[06:15 --> 06:19] Secondly, he is little noted because he was the son of one of Constantine's sisters rather
+[06:19 --> 06:24] than one of Constantine's brothers, so with patriarchal rules applying, he just isn't
+[06:24 --> 06:27] considered that relevant.
+[06:27 --> 06:33] As for Constantine's half-brothers, the eldest, Flavius Dalmatius, had at least two sons that
+[06:33 --> 06:39] we know about, and coincidentally enough, two sons that you know about too, the aforementioned
+[06:39 --> 06:44] Dalmatius and Hannibalianus, who were favored enough by Constantine to be brought into his
+[06:44 --> 06:47] succession scheme.
+[06:47 --> 06:51] The second brother, Julius Constancias, gave birth to two sons and a daughter with his
+[06:51 --> 06:54] first wife, and another son with his second wife.
+[06:54 --> 07:00] Now, I normally wouldn't bother getting that deep into all of this, but the thing is that
+[07:00 --> 07:05] of all the males on the Theodora side of the family, not counting Nepotianus of course,
+[07:05 --> 07:10] only the youngest sons of Julius Constancias will manage to survive the massacre of the
+[07:11 --> 07:18] 11-year-old Constancias Gallus, and five- or six-year-old Flavius Claudius Julianus,
+[07:18 --> 07:23] the future emperor Julian the Apostate.
+[07:23 --> 07:27] So sorry for throwing all of this mind-numbing lineage at you, but I wanted to at least introduce
+[07:27 --> 07:33] these boys so you know how exactly they come by their future imperial dignities.
+[07:33 --> 07:38] The last of Constantine's half-brothers was an elder, Hannibalianus, who was probably
+[07:38 --> 07:42] dead by this point, so just forget about him.
+[07:42 --> 07:46] He will not be on the test.
+[07:46 --> 07:50] Over the course of his reign, Constantine had brought in all of these half-brothers
+[07:50 --> 07:55] and sisters into his imperial system, doling out key assignments to the brothers and key
+[07:55 --> 07:59] marriages to the sisters.
+[07:59 --> 08:03] Constancias and Theodora had started up their family about twenty years after Constantine
+[08:03 --> 08:08] had been born, so when the emperor kicked the bucket in 337, all of these brothers and
+[08:08 --> 08:12] sisters were in their late thirties and early forties.
+[08:12 --> 08:16] In other words, entering the prime of their lives, ready, willing, and able to take on
+[08:16 --> 08:21] a greater role in government and help steer the fortunes of the next generation, the generation
+[08:21 --> 08:26] that had been granted formal authority by Constantine.
+[08:26 --> 08:32] But Constancias II had no interest in playing nice with the other children.
+[08:32 --> 08:37] With the whole of Theodora's extended family present in Constantinople for the funeral,
+[08:37 --> 08:43] Constancias II saw an opportunity to secure undisputed power for himself and his brothers,
+[08:43 --> 08:45] and he took it.
+[08:45 --> 08:49] Though the details are sketchy, it appears that over the course of one or two bloody
+[08:49 --> 08:54] days, Constancias ordered his uncles and cousins seized and executed.
+[08:54 --> 08:56] Their alleged crime?
+[08:56 --> 09:01] Nothing less than the assassination of Constantine the Great.
+[09:01 --> 09:05] Some contrived evidence was put forth to support the charge, but other than that, there was
+[09:05 --> 09:09] nothing resembling due process.
+[09:09 --> 09:13] All in all, nine men from Theodora's side of the family were killed.
+[09:13 --> 09:18] This of course included Dalmatius and Hannibalianus, the young men who were supposed to share power
+[09:18 --> 09:22] with Constancias and his brothers.
+[09:22 --> 09:27] As I just said, not counting Nepatianus of course, young Constancias Gallus and Julian
+[09:27 --> 09:33] were the only ones spared, due entirely to the fact that they were merely children.
+[09:33 --> 09:38] But don't worry, Gallus II will eventually join his family by dying at Constancias'
+[09:38 --> 09:40] order in 354.
+[09:40 --> 09:46] In the end, only Julian will survive Constancias' wrath, and it's possible that that was only
+[09:46 --> 09:52] because Constancias died before he could get around to killing Julian.
+[09:52 --> 09:57] So far as I can tell, Constantine's middle son faced no long-term repercussions for having
+[09:57 --> 10:03] ordered a purge of his extended family, and the empire simply accepted that that was the
+[10:03 --> 10:05] way things went sometimes.
+[10:05 --> 10:11] That and whoever might be inclined to dissent just got put on notice that maybe criticizing
+[10:11 --> 10:15] the new emperor was bad for your health.
+[10:15 --> 10:19] Before we move off this though, I should mention that there is another version of all this
+[10:19 --> 10:24] that depicts Constancias as merely allowing the massacre to happen rather than ordering
+[10:24 --> 10:26] it himself.
+[10:26 --> 10:31] That is, the palace troops detested Theodora's side of the family so much that they were
+[10:31 --> 10:37] just itching to murder them all, and when Constantine died, Constancias II simply allowed
+[10:37 --> 10:40] their passions to run wild.
+[10:40 --> 10:45] But given every other paranoid and ruthless thing he did with his life, I am not at all
+[10:45 --> 10:49] opposed to laying blame squarely at the young prince's doorstep.
+[10:49 --> 10:57] It is in perfect keeping with all of Constancias' later tendencies.
+[10:57 --> 11:01] His two brothers, for their part, did not seem at all concerned about the massacre,
+[11:01 --> 11:05] and when the three of them met a few months later in Sirmium, they did not engage in any
+[11:05 --> 11:11] hand-wringing over the murders, so much as focus intently on how best to divide the empire
+[11:11 --> 11:13] between them.
+[11:13 --> 11:18] The map they agreed to adhered mostly to their father's boundary lines, with Constantine
+[11:18 --> 11:24] II receiving the far western provinces of Gaul, Britannia, Hispania, and Mauritania,
+[11:25 --> 11:31] Constancias holding all of the eastern provinces plus Thrace, which means he gets Constantinople,
+[11:31 --> 11:37] another savvy play, and Constans holding Italy, Illyria, Macedonia, Achaea, and the middle
+[11:37 --> 11:39] African provinces.
+[11:39 --> 11:46] However, since he was no older than 17 at this point, and possibly as young as 14, Constancias
+[11:46 --> 11:51] was forced to accept that Constantine II would be his guardian and hold a super-authority
+[11:51 --> 11:56] over his territories until young Constans came of age.
+[11:56 --> 12:01] The youngest of Constantine's sons was no doubt annoyed by this, but he gave in, knowing
+[12:01 --> 12:05] that he would not have to wait long to be considered their equal.
+[12:05 --> 12:10] After all, his brothers were only 21 and 20 respectively.
+[12:10 --> 12:14] In other words, not really much older than he was right then, so it's not like they
+[12:14 --> 12:18] were going to be bossing him around for long.
+[12:18 --> 12:23] Emerging from the meeting, the three sons of Constantine were officially hailed as co-Augusti
+[12:23 --> 12:28] by the assembled troops, and then they marched off to govern their respective provinces.
+[12:28 --> 12:33] For Constancias, this meant heading straight for the Syrian border.
+[12:33 --> 12:38] You'll recall from last week that in the final years of his reign, Constantine inexplicably
+[12:38 --> 12:43] began to provoke a war with the Sassanids, which, as you can imagine, they did not take
+[12:43 --> 12:45] kindly to.
+[12:45 --> 12:49] Now that some untested punks were in charge of the empire, the Persians decided that now
+[12:49 --> 12:54] was a pretty good time to punch the Romans in the nose and maybe remind them why detente
+[12:54 --> 12:57] in the east was far preferable to war.
+[12:57 --> 13:03] So they started attacking Roman positions, and off Constancias went to try to stop them.
+[13:03 --> 13:08] We don't have a particularly good record of the subsequent campaign, but it appears that
+[13:08 --> 13:13] in the beginning at least, Constancias was repeatedly beaten and forced to scramble around
+[13:13 --> 13:19] a bit before he was able to find his sea legs, although nothing resembling a decisive encounter
+[13:19 --> 13:21] ever took place.
+[13:21 --> 13:28] Meanwhile, back in the west, Constantine II set up court in Trier and began surveying
+[13:28 --> 13:31] the territory that he now controlled.
+[13:31 --> 13:36] But when he surveyed the territory he now controlled, he quickly became convinced that
+[13:36 --> 13:38] he had been shortchanged.
+[13:38 --> 13:42] I'm not sure why he didn't just speak up during the meeting in Sirmium when this was
+[13:42 --> 13:47] all being hashed out to begin with, but he didn't, and so it's not until the winter
+[13:47 --> 13:53] of 337-338 that we begin to hear Constantine complaining that he deserved a bigger share
+[13:53 --> 13:59] of the empire because, after all, he was the oldest brother.
+[13:59 --> 14:03] One possible explanation is that Constantine was under the impression that he would be
+[14:03 --> 14:08] able to dominate Constance forever, and so he had mentally lumped his youngest brother's
+[14:08 --> 14:11] territory in with his own.
+[14:11 --> 14:16] But after learning that Constance had no intention of being dominated by anyone, Constantine
+[14:16 --> 14:21] suddenly decided he wanted more territory to call explicitly his own.
+[14:21 --> 14:28] So he demanded that Constance immediately cede all the African provinces.
+[14:28 --> 14:33] This request was naturally met with some pushback by young Constance, but not so much at this
+[14:33 --> 14:37] point that war between the two brothers was inevitable.
+[14:37 --> 14:43] They agreed to meet later in 338 to discuss the situation.
+[14:43 --> 14:47] In between coming to power in the summit with Constance, there was one matter of consequence
+[14:47 --> 14:54] that Constantine II weighed in on, and it has to do with our old friend, Athanasius.
+[14:54 --> 14:59] After bursting onto the scene as a fierce anti-Aryan deacon during the run-up to the
+[14:59 --> 15:06] Council of Nicaea, Athanasius had since succeeded Alexander to the bishopric of Alexandria,
+[15:06 --> 15:10] requiring age requirements and proper electoral procedure to get there, by the way, and then
+[15:10 --> 15:16] he used his new powers to come down hard on those who strayed from the Nicenean orthodoxy.
+[15:16 --> 15:21] His methods were often denounced by his enemies within the church, and by 335 he was more
+[15:21 --> 15:27] or less dragged in front of Constantine the Great to answer a laundry list of charges,
+[15:27 --> 15:32] including destruction of church property and the murder of a rival bishop.
+[15:32 --> 15:37] Athanasius wound up being cleared of all the charges, except for an alleged threat he
+[15:37 --> 15:42] had made to cut off the Egyptian grain supply to Constantinople.
+[15:42 --> 15:47] You can do a lot of things in this life, but you do not even hint that you are going to
+[15:47 --> 15:51] mess with the grain supply from Egypt.
+[15:51 --> 15:57] Constantine ordered the polarizing bishop banished to Gaul.
+[15:57 --> 16:02] After Constantine's death, the pro-orthodoxy western bishops began to petition Constantine
+[16:02 --> 16:07] II to allow Athanasius to return to his post in Alexandria.
+[16:07 --> 16:11] Seeing a golden opportunity to establish friendly relations with the Christian leadership in
+[16:11 --> 16:18] his provinces, Constantine II cancelled Athanasius' exile and granted his request for a return
+[16:18 --> 16:20] passage to Egypt.
+[16:20 --> 16:27] Now, the various exiles and returns from exile that this controversial bishop endured during
+[16:27 --> 16:34] his life would be important to document for a comprehensive history of the church, but
+[16:36 --> 16:39] that is not exactly what we are doing here.
+[16:39 --> 16:44] So the big takeaway from all of this is that we must understand how much Constantine II's
+[16:44 --> 16:50] decision to free Athanasius annoyed his brother Constantius II.
+[16:50 --> 16:57] Because Constantius was, wait for it, a staunch Aryan.
+[16:57 --> 17:01] So just over a decade had passed since Constantine had made Christianity the religion of the
+[17:01 --> 17:06] emperors, and already doctrinal disputes were percolating their way up into the imperial
+[17:06 --> 17:08] court.
+[17:08 --> 17:13] Almost from the start then, Constantine's dream of one church supporting one emperor
+[17:13 --> 17:18] turned out to be something of a pipe dream, as rival factions within the church were now
+[17:18 --> 17:21] supporting rival factions within the imperial family.
+[17:21 --> 17:27] Each side was playing for keeps, and one side had just convinced Constantine II to let him
+[17:27 --> 17:34] let an almost certainly seditious leader loose in Constantius's, their enemy's, domain.
+[17:35 --> 17:38] Constantius was not at all happy about this.
+[17:38 --> 17:42] It's an issue that likely would have come to a head eventually, but at that particular
+[17:42 --> 17:47] moment Constantius was bogged down fighting an inconclusive war against the Sassanids,
+[17:47 --> 17:52] and Constantine II was about to find out just how little Constans was willing to be pushed
+[17:52 --> 17:53] around.
+[17:53 --> 18:00] So they didn't have time to have it out over Athanasius.
+[18:00 --> 18:06] In 338, the eldest and youngest of the three brothers met in Moesia to reassess their respective
+[18:06 --> 18:11] borders, and it appears that Constans, at least face to face, was willing to concede
+[18:11 --> 18:13] the issue.
+[18:13 --> 18:17] His older brother's rhetoric was getting mighty bellicose, so Constans agreed to hand over
+[18:17 --> 18:22] the African provinces to Constantine in the interest of imperial unity.
+[18:22 --> 18:25] At least, that's what he said.
+[18:25 --> 18:29] In practice, he was not going to go down that easy.
+[18:29 --> 18:35] For all of the rest of 338, the two brothers went off and defended their frontiers.
+[18:35 --> 18:39] Constans campaigned along the Danube against the Sarmatians, and Constantine campaigned
+[18:39 --> 18:42] against the Alamani along the Rhine.
+[18:42 --> 18:48] But as 338 gave way to 339, the African provinces had still not been handed over to Constantine
+[18:48 --> 18:51] as per the agreement.
+[18:51 --> 18:57] Constantine complained, which prompted Constans to finally begin the administrative handover.
+[18:57 --> 19:01] But even then, he told his brother that the city of Carthage and most of its surrounding
+[19:01 --> 19:05] territory was not going to be handed over.
+[19:05 --> 19:10] That land, Constans announced, was henceforth to be considered a part of Italia.
+[19:10 --> 19:15] Now, of course, on the one hand, that makes no kind of sense.
+[19:15 --> 19:19] But on the other hand, it makes perfect sense.
+[19:19 --> 19:24] That part of the North African coast was the key supplier of grain to Italy.
+[19:24 --> 19:29] Giving up control of it meant giving up any hope of self-sufficiency.
+[19:29 --> 19:36] From a geographic point of view, arguing that Carthage was a part of Italy was and is insane.
+[19:36 --> 19:41] But from a military and political point of view, that section of the North African coast
+[19:41 --> 19:46] had to be considered a part of Italy.
+[19:46 --> 19:50] In the ensuing back and forth, Constantine pointed out that arguing Carthage wasn't a
+[19:50 --> 19:56] part of Africa was insane, and Constans pointed out that he didn't really care because he
+[19:56 --> 19:59] wasn't going to give up Carthage.
+[19:59 --> 20:04] Constantine tried to play the I am technically still your guardian, so do what I say card,
+[20:04 --> 20:08] and Constans countered with his, you know, I'm an adult now and you can't tell me what
+[20:08 --> 20:11] to do card.
+[20:11 --> 20:19] As 339 gave way to 340, the issue had still not been resolved and tensions were rising.
+[20:19 --> 20:23] Constantine eventually became so angry over Constans' stonewalling that he decided to
+[20:23 --> 20:26] take the ultimate step.
+[20:26 --> 20:32] As the eldest brother, he could only allow so much disrespect before honor and dignity
+[20:32 --> 20:35] required that he do something about it.
+[20:35 --> 20:40] With Constans busy on the Danube campaigning once again against the Sarmatians, Constantine
+[20:40 --> 20:47] was ordered by dignity and honor to invade Italy.
+[20:47 --> 20:51] Word of the invasion reached Constans at his Dacian headquarters, and he immediately dispatched
+[20:51 --> 20:56] a company of his best troops to keep Constantine busy until Constans could extract himself
+[20:56 --> 21:02] safely from his northern campaign and come have it out with his brother in person.
+[21:02 --> 21:05] But there never would be any need for him to come.
+[21:05 --> 21:10] Shortly after invading, Constantine was running an operation near Aquileia when he was ambushed
+[21:10 --> 21:12] by enemy forces.
+[21:12 --> 21:15] In the ensuing fight, Constantine II was killed.
+[21:15 --> 21:22] He was 24 years old and had been in Augustus for just about three years.
+[21:22 --> 21:28] It is probably too strained an analogy to call Constantine II the Fredo of the family.
+[21:28 --> 21:32] But between his failure to take charge after the death of his father, to his acquiescing
+[21:32 --> 21:36] to a power sharing agreement that didn't favor him, to his whining about said power
+[21:36 --> 21:43] sharing agreement after the fact, and finally to his botched invasion that led to his death,
+[21:43 --> 21:48] Constantine II does not really jump out and say, I was a great leader, cut down before
+[21:48 --> 21:50] my time.
+[21:50 --> 21:55] More like, I'm not really the equal of my brothers politically or militarily, and it
+[21:55 --> 21:59] was just a matter of time before something like this happened to me.
+[21:59 --> 22:04] Dead on the battlefield or dead in a rowboat, I think that's where Constantine II was headed
+[22:04 --> 22:07] from day one.
+[22:07 --> 22:11] In a mirror to the reaction of his brothers following the massacre of the princes, this
+[22:11 --> 22:15] time it was Constantius who found himself taking the news of a family member being killed
+[22:15 --> 22:17] off in stride.
+[22:17 --> 22:23] In the brutally unsentimental world Constantine's sons had been raised in, the loss of a brother
+[22:23 --> 22:29] was not seen as the loss of a brother, so much as the elimination of a rival.
+[22:29 --> 22:35] Now the empire was neatly divided in two between Constantius and Constance, a much
+[22:35 --> 22:40] more satisfying state of affairs for both of them than the unwieldy five-way split that
+[22:40 --> 22:46] their father had left him with and the three-way split that they had just dealt with.
+[22:46 --> 22:51] I have no doubt that each harbored dreams of winning sole control of the empire, but
+[22:51 --> 22:56] for now each was fine to let the other have his half.
+[22:56 --> 23:00] Constance ruled the west and Constantius the east.
+[23:00 --> 23:04] It was a power-sharing agreement that would last for a full decade, and though they came
+[23:04 --> 23:10] close, it was also a power-sharing agreement that never devolved into open war.
+[23:10 --> 23:15] In the end, it was Constance's loss of support amongst the men of the Rhine legions that
+[23:15 --> 23:21] did him in, rather than the machinations of his Machiavellian brother.
+[23:21 --> 23:28] Next week, we will push on to that fateful year of 358 D, and watch as Constance falls,
+[23:28 --> 23:33] rises, and Napotianus makes his adorable little bit for power.

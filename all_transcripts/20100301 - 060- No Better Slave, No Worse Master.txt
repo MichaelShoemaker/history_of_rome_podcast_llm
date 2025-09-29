@@ -1,0 +1,446 @@
+# 20100301 - 060- No Better Slave, No Worse Master
+# Detected language: en
+# Duration: 1371.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, episode 60, No Better Slave, No Worse Master.
+[00:14 --> 00:16] The honeymoon lasted for about six months.
+[00:17 --> 00:21] The brief window of optimism that opened with the death of Tiberius was slammed shut
+[00:21 --> 00:23] by Caligula before the year was out.
+[00:24 --> 00:28] The half year between Tiberius' death and Caligula's nearly fatal illness can be
+[00:28 --> 00:32] described as the period after which the Romans had jumped from the frying pan but before
+[00:32 --> 00:33] they hit the fire.
+[00:34 --> 00:39] Because as it turns out, that while Tiberius was cruel, paranoid, and calculating, Caligula
+[00:39 --> 00:41] was simply mad as a hatter.
+[00:43 --> 00:47] Now I think most of us, even those who are relatively new to Roman history, know
+[00:47 --> 00:49] that Caligula was up to some pretty rotten stuff.
+[00:50 --> 00:54] Even people I know who have no interest in history whatsoever, generally know
+[00:54 --> 00:59] that a pretty disturbing flick called Caligula came out once upon a time, and that the
+[00:59 --> 01:04] guy had to be pretty messed up for the movie based on his life to gin up so much controversy.
+[01:05 --> 01:09] Which is true, incoherent as it is, Caligula the movie does do a pretty good job capturing
+[01:09 --> 01:12] the essence of the man as portrayed by the ancient historians.
+[01:13 --> 01:16] But the question is then, how accurate were those ancient historians?
+[01:17 --> 01:21] Should we really believe every detail that has been handed down to us as objective
+[01:21 --> 01:23] truth, or should we take some of it with a grain of salt?
+[01:25 --> 01:29] Unfortunately, we've lost the relevant chapters from Tacitus, who is generally the most
+[01:29 --> 01:33] reliable source for information on the early imperial period, and we're left with
+[01:33 --> 01:37] a combination of Suetonius and Cassius Dio, both of whom are writing well after
+[01:37 --> 01:42] the fact, and the contemporary passing accounts of Philo of Alexandria and Seneca,
+[01:42 --> 01:46] both of whom have their own individual bones to pick with the mad emperor.
+[01:47 --> 01:52] In his Sex and the Ancient World, John J. Younger points out that Romans would often
+[01:52 --> 01:57] use tales of sexual deviancy to emphasize how bad a public official was, the way
+[01:57 --> 02:01] that we might say that some despised ruler regularly kicks puppies or refuses to call
+[02:01 --> 02:03] his mother on her birthday.
+[02:04 --> 02:07] So with everyone agreeing that Caligula had psychological issues, and that he
+[02:07 --> 02:11] was a train wreck of an emperor, it is not surprising that his biography has
+[02:11 --> 02:13] become packed with deviant sexual activity.
+[02:14 --> 02:18] The same basic dynamic, by the way, is at play with biographies of Tiberius, and
+[02:18 --> 02:22] will be at play again when we get to Nero and his alleged Oedipal
+[02:22 --> 02:24] relationship with his mother Agrippina.
+[02:25 --> 02:28] So I'm sure that there is a lot that the ancient historians got right about
+[02:28 --> 02:32] Caligula, but much of it is undoubtedly exaggeration.
+[02:34 --> 02:38] When Caligula recovered from his illness in late 37, his personality
+[02:38 --> 02:42] either changed dramatically or, more likely, who he was simply began to
+[02:42 --> 02:46] break through the magnificent glow that people had shrouded him in.
+[02:46 --> 02:50] In the wake of Tiberius, the Romans were quick to project their own needs
+[02:50 --> 02:54] onto this savior Caligula, so I think it's quite likely that he was the same
+[02:54 --> 02:55] man throughout.
+[02:55 --> 02:58] It's just that nobody was really ready to notice what a crazy cretin he
+[02:58 --> 03:01] was until the initial honeymoon period was over.
+[03:02 --> 03:06] I mean, he had been dealt blow after traumatic blow his entire life, and
+[03:06 --> 03:10] had spent years thoroughly repressed, sucking up to the man who had killed
+[03:10 --> 03:13] his father, his mother, and his two brothers.
+[03:13 --> 03:17] So I don't think that Caligula needed anything so dramatic as a near-death
+[03:17 --> 03:19] experience to go off the deep end.
+[03:20 --> 03:23] Imperial slaves who spent more time around the boy than anyone
+[03:23 --> 03:26] certainly would have agreed that Caligula needed no illness to become
+[03:27 --> 03:28] unhinged.
+[03:28 --> 03:31] Watching him alternate between the pliant and passive servant of
+[03:31 --> 03:35] Tiberius, and the sadistic teenager who relaxed by witnessing the
+[03:35 --> 03:38] beatings and executions that occurred regularly at the Imperial villa
+[03:38 --> 03:42] on Capri, the slaves reported that concerning Gaius, there was no
+[03:42 --> 03:45] better slave and no worse master.
+[03:46 --> 03:50] Now that he was emperor, he was the slave to no man, and it was all
+[03:50 --> 03:52] no worse master from here on out.
+[03:52 --> 03:55] So let's jump on into the funhouse of horrors, shall we?
+[03:57 --> 04:00] We should probably get the most famous rumor about Caligula out of
+[04:00 --> 04:04] the way early, and that is that he was engaged in incestual
+[04:04 --> 04:09] with his sisters, Julia Lovilla, Agrippina, and particularly his favorite,
+[04:10 --> 04:10] Drusilla.
+[04:11 --> 04:15] The charges, like I say, likely spring from the fact that later
+[04:15 --> 04:19] unhappiness with Caligula led to some serious character assassination.
+[04:19 --> 04:23] But it's worth noting that the perception of incest was not made up
+[04:23 --> 04:24] out of whole cloth.
+[04:24 --> 04:28] It is understandable that Caligula and his sisters, suffering as orphans
+[04:28 --> 04:31] together, would be closer than your average set of siblings, but
+[04:31 --> 04:34] Caligula appears to have taken things to an extreme.
+[04:35 --> 04:39] The emperor, for example, seems to have had an atypical married life.
+[04:39 --> 04:42] He was married four times in his short life, with his first wife
+[04:42 --> 04:45] dying in childbirth and his second and third wives coming and
+[04:45 --> 04:47] going within a matter of months.
+[04:48 --> 04:51] The constant matrons of Caligula's house then in the early part of
+[04:51 --> 04:55] his reign were not his wives, but rather his sisters, particularly,
+[04:55 --> 04:56] like I say, Drusilla.
+[04:57 --> 05:00] His relationship with Drusilla was so close in fact that during
+[05:00 --> 05:04] his bachelor periods between wives, Caligula eschewed the custom
+[05:04 --> 05:08] of rotating hostesses for his dinner parties, instead sticking
+[05:08 --> 05:12] exclusively with Drusilla, in effect saying that she is my wife.
+[05:13 --> 05:17] However, there is no solid evidence of sexual activity between the two,
+[05:17 --> 05:21] and coupled with his more general embrace of living godhood, it looks
+[05:21 --> 05:24] like he may have just been playing out the kind of sister-brother,
+[05:24 --> 05:27] husband-wife dynamic seen in many Eastern religions.
+[05:28 --> 05:31] But the very public role Drusilla took on as Caligula's primary female
+[05:31 --> 05:35] companion makes it not particularly hard to believe that maybe
+[05:35 --> 05:38] something was going on behind closed doors.
+[05:39 --> 05:41] Not long before her death, which we'll get to in a moment,
+[05:42 --> 05:45] Caligula further demanded that she be included in the oaths taken by
+[05:45 --> 05:49] legionary soldiers when swearing to protect the emperor, again,
+[05:49 --> 05:52] in effect saying that she was to be considered his wife.
+[05:53 --> 05:57] So while the incest rap may be a bad one, Caligula basically did
+[05:57 --> 06:00] everything in his power to make it hard for people to believe otherwise.
+[06:02 --> 06:05] That all being said, the incest charges only dominated the gossip
+[06:05 --> 06:08] of the early part of Caligula's reign because in mid-38,
+[06:09 --> 06:10] Drusilla came down with a fever and died.
+[06:11 --> 06:14] The grief-stricken Caligula, who did not leave Drusilla's side
+[06:14 --> 06:17] during the illness, ordered that the entire empire go into mourning
+[06:17 --> 06:21] upon her death and thereafter would often swear oaths to the
+[06:21 --> 06:25] divine Drusilla, whom he inducted into the growing imperial pantheon.
+[06:25 --> 06:31] Unfortunately for Rome, though, once she was gone, the gloves really came off.
+[06:32 --> 06:36] For the three years left on his reign, Roman historians describe at length
+[06:36 --> 06:40] the man who personifies everything that is awful about absolute power
+[06:40 --> 06:41] resting in the hands of a single man.
+[06:43 --> 06:46] Unlike Augustus and Tiberius, who tried to downplay their power
+[06:46 --> 06:48] and defer to the Senate as much as possible,
+[06:49 --> 06:52] Caligula had no interest in such things and actually went out of his way
+[06:52 --> 06:56] to do everything he could to demean the Senate and exalt himself above them.
+[06:57 --> 07:00] For example, he would force them to run alongside his carriage
+[07:00 --> 07:04] while it made its way through Rome, and any senator who failed to show up
+[07:04 --> 07:08] or display the proper amount of enthusiasm were noted by the emperor
+[07:08 --> 07:10] and then targeted for future humiliations.
+[07:11 --> 07:14] One of his reported favorite pastimes was to bring senators
+[07:14 --> 07:17] and their wives to dinner and over the course of the meal,
+[07:17 --> 07:20] pick out one of the married women and disappear with her to the bedroom
+[07:20 --> 07:23] while her shamed husband was forced to remain at the table.
+[07:24 --> 07:26] Caligula would then return with the wife in question
+[07:26 --> 07:30] and proceed to describe in detail everything that had gone on in the bedroom.
+[07:31 --> 07:33] There was no recourse for the distressed couple.
+[07:33 --> 07:37] Any challenge to Caligula's whims was fast becoming a capital offense.
+[07:38 --> 07:40] Both Caligula's second and third marriages
+[07:40 --> 07:43] were actually the result of stealing women from their husbands,
+[07:43 --> 07:46] and in the case of his second wife, Livia Orestola,
+[07:46 --> 07:50] It was actually on the occasion of her marriage that the theft went down.
+[07:51 --> 07:53] Invited to the wedding, Caligula took a shine to the bride
+[07:53 --> 07:56] and told the new husband, Gaius Calpurnius Piso,
+[07:56 --> 07:59] who will feature prominently in the episode on Nero,
+[07:59 --> 08:01] to quote, get away from my wife,
+[08:02 --> 08:04] and then immediately absconded with the poor woman.
+[08:05 --> 08:07] Caligula would abandon her just days later,
+[08:07 --> 08:11] but not before twisting the knife further and forbidding her to remarry Piso.
+[08:12 --> 08:14] Why did he do it? Who knows?
+[08:15 --> 08:17] Men and women now lived in perpetual fear
+[08:17 --> 08:20] that they would say the wrong thing or do the wrong thing
+[08:20 --> 08:23] or do the right thing but at the wrong time.
+[08:24 --> 08:27] One young aristocrat was forced to fight as a gladiator
+[08:27 --> 08:30] simply because he was good-looking and made Caligula jealous.
+[08:30 --> 08:32] After the man won both of his matches,
+[08:33 --> 08:35] Caligula had him hauled off in chains and executed.
+[08:36 --> 08:37] Good times.
+[08:38 --> 08:41] But the biggest fear was that Caligula would simply covet your estate
+[08:41 --> 08:44] and confiscate it all after arresting and killing you
+[08:44 --> 08:44] for no reason.
+[08:46 --> 08:47] In this, he was indiscriminate.
+[08:48 --> 08:50] He didn't even bother working up any kind of paranoid fantasy
+[08:50 --> 08:52] to explain who he was targeting.
+[08:53 --> 08:55] He would just send agents to your doors one day
+[08:55 --> 08:59] and you would be hauled off to court, tried, and exiled or killed.
+[09:00 --> 09:03] The executions themselves became a hallmark of Caligula's sadism
+[09:03 --> 09:07] as he would force parents to come witness the executions of their children.
+[09:08 --> 09:10] When one man said that he was too sick to attend,
+[09:11 --> 09:13] Caligula sent around one of his imperial carriages
+[09:13 --> 09:15] to pick the man up and make sure that he could be there.
+[09:17 --> 09:18] And when the condemned were killed,
+[09:18 --> 09:21] they were not simply strangled or hurled from the tarpian rock.
+[09:22 --> 09:27] No, Caligula was famous for promoting the maxim of death by a thousand cuts.
+[09:28 --> 09:32] Major organs were left alone as the victims were nicked and bled
+[09:32 --> 09:35] and stabbed over the course of sometimes days.
+[09:36 --> 09:40] His usual order to the executioners was to make him feel that he is dying.
+[09:41 --> 09:46] When one man continued to proclaim his innocence as the execution began,
+[09:46 --> 09:47] Caligula halted the proceedings.
+[09:48 --> 09:50] Then he ordered the soldiers to cut out the man's tongue
+[09:50 --> 09:54] so Caligula would be able to enjoy the execution in peace.
+[09:55 --> 09:56] Charming stuff.
+[09:58 --> 10:01] The only practical foundation for all of this random cruelty
+[10:01 --> 10:04] was that Caligula needed money, lots and lots of money.
+[10:06 --> 10:08] Tiberius had been, famously, a spendthrift,
+[10:08 --> 10:12] who in his later life basically vetoed every spending bill he ever saw.
+[10:13 --> 10:17] He probably took it too far, leaving many worthy projects unfunded,
+[10:17 --> 10:19] but there is no denying that when he died,
+[10:19 --> 10:21] the empire was in excellent financial shape.
+[10:22 --> 10:26] The treasury was well stocked and revenue was outpacing expenditures.
+[10:27 --> 10:30] Caligula managed to blow up this financial cushion
+[10:30 --> 10:32] within two years of taking office,
+[10:33 --> 10:36] leaving the empire and the imperial family massively in debt.
+[10:37 --> 10:39] Some things he did were decent enough.
+[10:40 --> 10:41] He finished the Temple of Augustus
+[10:41 --> 10:44] and built improved ports at Regium and on Sicily
+[10:44 --> 10:46] to facilitate more grain shipments.
+[10:47 --> 10:49] He also expanded the aqueduct system
+[10:49 --> 10:51] that was essential for bringing clean water into the city.
+[10:53 --> 10:55] But mostly, he just blew through the treasury,
+[10:55 --> 10:57] building huge personal yachts, lavish villas,
+[10:58 --> 11:00] and a personal chariot racetrack.
+[11:01 --> 11:02] Caligula's basic motto was
+[11:05 --> 11:08] At one point, he called for hundreds of ships
+[11:08 --> 11:11] to line up beside one another in the Gulf of Baie.
+[11:11 --> 11:13] Then he packed them with earth and mortar,
+[11:14 --> 11:15] turning the whole line into a bridge
+[11:15 --> 11:19] between the resort at Baie and the port of Putioli
+[11:19 --> 11:20] on the other side of the Gulf.
+[11:21 --> 11:24] He then rode his horse across the two-mile expanse.
+[11:25 --> 11:27] Legend has it that the entire operation was undertaken
+[11:27 --> 11:30] because Tiberius's astrologer had once remarked
+[11:30 --> 11:33] that Caligula had no more hope of becoming empire
+[11:33 --> 11:36] than he did crossing the Gulf of Baie on horseback.
+[11:37 --> 11:39] It would make for an almost light-hearted tale,
+[11:39 --> 11:41] except for the massive expenditures involved
+[11:41 --> 11:44] and the fact that by pressing all the ships
+[11:44 --> 11:45] into becoming a bridge,
+[11:45 --> 11:47] Rome suffered from a grain shortage
+[11:47 --> 11:49] due to the lack of available freighters.
+[11:51 --> 11:53] By 39, Caligula's relationship
+[11:53 --> 11:55] with the Senate and people was shot.
+[11:55 --> 11:57] The man they had once hailed as their savior
+[11:57 --> 12:00] had proved himself to be nothing more than an erratic sadist
+[12:00 --> 12:02] who was bankrupting the empire.
+[12:03 --> 12:05] Caligula had showed the Senate nothing but disrespect,
+[12:06 --> 12:08] going so far as to promise to have
+[12:08 --> 12:09] his favorite horse named Consul
+[12:09 --> 12:11] because it possessed more intelligence
+[12:11 --> 12:13] than the whole lot of them put together.
+[12:14 --> 12:17] Eventually, the senators began to mumble under their breath
+[12:17 --> 12:19] that we really need to do something
+[12:19 --> 12:20] to rein this psychopath in.
+[12:22 --> 12:24] Catching wind that some kind of resistance movement
+[12:24 --> 12:25] was being organized,
+[12:25 --> 12:27] Caligula called the Senate to meet
+[12:27 --> 12:29] and revealed to them a big surprise.
+[12:30 --> 12:32] He had made copies of all the treason trial notes
+[12:32 --> 12:35] that he had allegedly destroyed upon taking office.
+[12:36 --> 12:38] Suddenly, the treason trials were back up and running.
+[12:40 --> 12:42] The Senate was forced to accept the emperor's decision,
+[12:42 --> 12:45] but unlike with the 70-year-old Tiberius,
+[12:45 --> 12:47] they could not reasonably hope to outlast the emperor.
+[12:49 --> 12:50] Caligula was still in his late 20s,
+[12:50 --> 12:53] so the madness could go on for 50 years or more.
+[12:53 --> 12:55] So it is probably at this point
+[12:55 --> 12:57] that Caligula's death warrant was really signed.
+[12:58 --> 13:01] He left them no choice but to eventually assassinate him.
+[13:02 --> 13:04] The simple logic of survival demanded it.
+[13:06 --> 13:07] It was right around this time, too,
+[13:07 --> 13:09] that Caligula began to let it be known
+[13:09 --> 13:11] that he was actually more than just a man.
+[13:12 --> 13:14] Unlike Augustus and Tiberius,
+[13:14 --> 13:16] who made no claims of divinity while they were alive,
+[13:17 --> 13:19] Augustus, in fact, went to great lengths
+[13:19 --> 13:21] to stop people from worshiping him as a god.
+[13:22 --> 13:24] Caligula decided that everyone was free
+[13:24 --> 13:26] to worship him as divine if they wished.
+[13:27 --> 13:28] In fact, he insisted.
+[13:29 --> 13:32] He began appearing in public dressed as Hercules
+[13:32 --> 13:35] and Apollo and Mercury, sometimes even Venus.
+[13:36 --> 13:39] More and more, he began to talk as if he were in fact a god,
+[13:40 --> 13:42] trapped down here on earth with all these scummy mortals
+[13:42 --> 13:44] who forever got in his way.
+[13:45 --> 13:47] The people more or less humored these claims
+[13:47 --> 13:49] because, hey, what else are you going to do?
+[13:49 --> 13:52] So when Caligula ordered that his statue be placed
+[13:52 --> 13:54] in every temple in the empire for worship,
+[13:54 --> 13:55] most everyone obliged.
+[13:56 --> 13:59] But his extreme megalomania ran into a brick wall
+[13:59 --> 14:01] in the far eastern province of Judea.
+[14:02 --> 14:05] When imperial agents brought word that a statue of the emperor
+[14:05 --> 14:08] was to be erected in the Holy Jewish Temple in Jerusalem,
+[14:08 --> 14:10] there were nearly riots.
+[14:11 --> 14:13] The fiercely monotheistic Jews,
+[14:13 --> 14:16] who were already pretty angry that they were forced to live
+[14:16 --> 14:17] under the Roman yoke to begin with,
+[14:17 --> 14:20] had no intention of allowing some egotistical punk
+[14:20 --> 14:22] to share the stage with Yahweh.
+[14:23 --> 14:26] It was only the timely intervention of Herod Agrippa
+[14:26 --> 14:28] that prevented a massive uprising against the Romans.
+[14:30 --> 14:32] Herod was the grandson of Herod the Great,
+[14:32 --> 14:34] and as a child he had been sent to live in Rome
+[14:34 --> 14:36] and was befriended by the imperial family.
+[14:37 --> 14:38] When Caligula became emperor,
+[14:39 --> 14:41] Herod had been sent home to govern the eastern territories,
+[14:41 --> 14:44] and it was only because of his personal influence
+[14:44 --> 14:46] that he had with Caligula that he was able
+[14:46 --> 14:48] to first delay the idea of erecting the statue
+[14:48 --> 14:51] and then get the idea killed altogether.
+[14:52 --> 14:55] Had Herod not been there to talk some sense into Caligula,
+[14:55 --> 14:58] the revolt in Judea almost certainly would have erupted
+[14:58 --> 15:00] 30 years earlier than it eventually did.
+[15:02 --> 15:04] Having become a god though,
+[15:04 --> 15:06] there was still something conspicuously absent
+[15:06 --> 15:07] from Caligula's resume.
+[15:08 --> 15:10] Military conquest.
+[15:11 --> 15:14] Being an imperator without any military triumphs
+[15:14 --> 15:18] is like being a surgeon who has never performed surgery.
+[15:18 --> 15:21] It just doesn't make sense on the face of it.
+[15:22 --> 15:23] So to rectify the situation,
+[15:23 --> 15:25] he got it in his head that he should return
+[15:25 --> 15:27] to the side of his father's glory
+[15:27 --> 15:29] and finally bring Germania to heel.
+[15:30 --> 15:33] Completely lacking in skill, experience, and training though,
+[15:34 --> 15:36] the campaign was probably never going to end well,
+[15:36 --> 15:37] so it was probably a good thing
+[15:37 --> 15:39] that it wound up ending early.
+[15:41 --> 15:43] He did lead the legions across the Rhine,
+[15:43 --> 15:45] but was nervous about penetrating too far into the forests.
+[15:46 --> 15:48] Not really craving an actual battle,
+[15:48 --> 15:51] he sent some allied Gauls into the woods dressed as Germans
+[15:51 --> 15:54] so that he could pretend to charge heroically into their midst
+[15:54 --> 15:57] when they emerged from the woods at the appointed hour.
+[15:58 --> 15:59] After this staged episode,
+[15:59 --> 16:02] he strutted about camp bragging about his own bravery
+[16:02 --> 16:04] in contrast to the rest of the men
+[16:04 --> 16:08] who had milled around when word of the attack came.
+[16:09 --> 16:12] Then reports arrived that there were really real Germans in the area,
+[16:12 --> 16:15] at which point Caligula's entourage ran everyone over,
+[16:15 --> 16:18] getting the emperor back to the Roman side of the Rhine.
+[16:19 --> 16:21] The whole thing is just cartoonishly pathetic.
+[16:22 --> 16:24] But while he was out playing soldier,
+[16:24 --> 16:27] a conspiracy involving a local Roman governor was uncovered
+[16:27 --> 16:30] that seems to have put the kibosh on the rest of the campaign.
+[16:31 --> 16:34] The details are unknown, but it was a serious enough plot
+[16:34 --> 16:36] that his brother-in-law was executed
+[16:36 --> 16:40] and his two remaining sisters, Agrippina and Giulia Lovilla,
+[16:40 --> 16:41] wound up exiled,
+[16:42 --> 16:45] suggesting Caligula had been hit fairly close to home.
+[16:47 --> 16:49] Having accomplished nothing in Germania,
+[16:49 --> 16:52] Caligula did what any sensible politician would do to save face.
+[16:53 --> 16:54] He declared victory and left.
+[16:56 --> 16:59] In 40 AD, the emperor turned his attention to Pretania,
+[16:59 --> 17:01] that foggy island on the edge of the world.
+[17:02 --> 17:05] But again, he managed to do little more there
+[17:05 --> 17:09] than add another bizarre chapter to his already bizarre biography.
+[17:10 --> 17:13] According to legend, he lined up the legions in battle formation
+[17:13 --> 17:15] along the banks of the English Channel,
+[17:15 --> 17:17] even though there was no enemy there to fight.
+[17:18 --> 17:20] The men waited around expectantly
+[17:20 --> 17:22] until Caligula's orders finally came down.
+[17:23 --> 17:25] Go forth and collect all the seashells on the beach
+[17:25 --> 17:28] and bring them back to Italy as spoils
+[17:28 --> 17:30] of this great victory over Neptune and the sea.
+[17:31 --> 17:32] Uh-huh.
+[17:32 --> 17:35] Having won another, um, battle,
+[17:36 --> 17:39] Caligula returned to Rome and celebrated a dual triumph
+[17:39 --> 17:42] in honor of his successful campaigns in Germania and Britain.
+[17:43 --> 17:47] The collected seashells were dutifully displayed as prized treasure.
+[17:48 --> 17:52] Can someone, anyone, do us all a favor and just knife this guy?
+[17:55 --> 17:58] Back home, Caligula settled into happy domesticity
+[17:58 --> 18:00] with his new wife and child.
+[18:00 --> 18:04] In either 39 or 40, he had begun an affair with a woman named Chisonia
+[18:04 --> 18:06] that resulted in the birth of a daughter,
+[18:07 --> 18:10] Julia Dursilla, named for Caligula's late lamented sister.
+[18:11 --> 18:14] In Chisonia, Caligula finally found a kindred spirit
+[18:14 --> 18:17] who he was not related to.
+[18:18 --> 18:19] Though she was much older than he was,
+[18:20 --> 18:22] she relished in extravagance, opulence,
+[18:22 --> 18:25] and had no empathy for anyone whatsoever.
+[18:26 --> 18:29] She was, in short, a perfect match for the mad emperor.
+[18:30 --> 18:32] They seemed to be perfectly happy with one another,
+[18:32 --> 18:36] though Caligula would often remind her in a doting sort of way
+[18:36 --> 18:38] that he could slit her throat whenever he wanted.
+[18:40 --> 18:42] But the good times were not to last.
+[18:43 --> 18:45] Caligula may have thought that he was a god
+[18:45 --> 18:47] and that he could do whatever he wanted,
+[18:47 --> 18:49] whenever he wanted, to whomever he wanted,
+[18:50 --> 18:52] but that did not mean that people were going to like it.
+[18:53 --> 18:56] It was only a matter of time before what went around came around,
+[18:56 --> 19:00] and in early 41 A.D. it came back around.
+[19:01 --> 19:03] There was a member of the Praetorian Guard
+[19:03 --> 19:06] by the name of Cassius Caria who had had enough.
+[19:07 --> 19:08] Caligula would often single the man out
+[19:08 --> 19:10] and mock him for his effeminency
+[19:10 --> 19:13] and allude to a genitalial-related injury
+[19:13 --> 19:15] Caria had suffered while on campaign.
+[19:16 --> 19:18] After being humiliated time and time again,
+[19:19 --> 19:21] the angry Praetorian Guardsmen began to whisper
+[19:21 --> 19:24] with members of the Senate who were looking for any opportunity
+[19:24 --> 19:27] to off this psychotic brat of an emperor.
+[19:28 --> 19:30] Caria agreed to be the man on the inside
+[19:30 --> 19:33] and brought two others in as formal accomplices.
+[19:33 --> 19:37] The plot was hatched with the tacit approval of the Praetorian Prefect,
+[19:37 --> 19:39] who was himself under investigation for treason
+[19:39 --> 19:41] and thus needed to get rid of Caligula
+[19:41 --> 19:43] before Caligula got rid of him.
+[19:45 --> 19:46] In January of 41 A.D.,
+[19:46 --> 19:49] after Caligula was done addressing a troupe of actors
+[19:49 --> 19:51] for an upcoming theatrical performance,
+[19:51 --> 19:54] Caria and the two accomplices cornered the emperor
+[19:54 --> 19:56] and stabbed him to death.
+[19:57 --> 19:58] Caligula was 28 years old
+[19:58 --> 20:01] and had ruled Rome for just shy of four years.
+[20:02 --> 20:03] The assassins then quickly made their way
+[20:03 --> 20:05] to the imperial family's chambers
+[20:05 --> 20:08] and killed Caesonia and the infant Drusilla.
+[20:08 --> 20:11] There could be no blood heir to Caligula left alive.
+[20:14 --> 20:16] With the emperor dead, the big question was,
+[20:16 --> 20:17] what came next?
+[20:18 --> 20:21] Caria himself seems to have been under the impression
+[20:21 --> 20:22] that by killing the emperor,
+[20:22 --> 20:25] it might give the Senate a chance to step into the power vacuum
+[20:25 --> 20:27] and return Rome to its Republican roots.
+[20:28 --> 20:30] But that was, of course, a pipe dream.
+[20:31 --> 20:32] The Praetorian Guard as a whole
+[20:32 --> 20:34] did not share their comrades' idealism.
+[20:35 --> 20:38] As it turned out, Caria and the other assassins
+[20:38 --> 20:40] were unable to get to Uncle Claudius
+[20:40 --> 20:41] before the rest of the guard
+[20:41 --> 20:44] hustled the stammering fool into the safety of their camp.
+[20:45 --> 20:46] According to legend,
+[20:46 --> 20:49] Claudius was hiding behind a curtain when they found him,
+[20:49 --> 20:52] but that is most likely a later dramatic flourish.
+[20:53 --> 20:56] That very night, the guard declared Claudius
+[20:56 --> 20:56] to be the new emperor,
+[20:57 --> 20:58] which, when word got out,
+[20:59 --> 21:00] seemed like some kind of sick joke.
+[21:01 --> 21:04] Everyone knew that Claudius was a mushy-headed dunce
+[21:04 --> 21:05] who would manage to stay alive
+[21:05 --> 21:07] through the reigns of Tiberius and Caligula
+[21:07 --> 21:09] because he made such a great butt for jokes.
+[21:10 --> 21:13] There was no way that he was capable of ruling the empire.
+[21:13 --> 21:16] And this was, of course, precisely the point.
+[21:17 --> 21:19] The Praetorian leadership figured
+[21:19 --> 21:20] Claudius would be easy to control.
+[21:22 --> 21:23] As we'll see next week, though,
+[21:23 --> 21:26] Claudius seems to have had everyone fooled pretty well.
+[21:26 --> 21:28] He was no fool at all
+[21:28 --> 21:30] and would prove to be a thoroughly competent emperor
+[21:30 --> 21:34] even if his domestic life left something to be desired.
+[21:37 --> 21:39] The short and brutal reign of Caligula
+[21:39 --> 21:41] is an object lesson for why you don't
+[21:41 --> 21:44] put absolute power in the hands of one man,
+[21:44 --> 21:46] especially without vetting him first.
+[21:48 --> 21:49] Though he was the first really terrible emperor,
+[21:50 --> 21:51] he would certainly not be the last,
+[21:52 --> 21:53] as every generation or so
+[21:53 --> 21:55] another Caligula will emerge
+[21:55 --> 21:57] to remind everyone why they tried to get away
+[21:57 --> 21:59] from all of this in the first place,
+[21:59 --> 22:01] why they had shared consulships,
+[22:01 --> 22:03] why they had thrown the kings out,
+[22:03 --> 22:04] why they had set up the senate,
+[22:04 --> 22:07] why they had set up the people's assemblies,
+[22:07 --> 22:08] why it was just dumb
+[22:08 --> 22:11] to give absolute power to just one guy.
+[22:12 --> 22:14] But it was too late to go back
+[22:14 --> 22:15] to the days of a shared consulship
+[22:15 --> 22:17] or the diffusion of power.
+[22:17 --> 22:19] All the Romans could do now
+[22:19 --> 22:20] was try to survive the bad years
+[22:20 --> 22:22] and hope that the next guy would be better.
+[22:23 --> 22:24] Because, like it or not,
+[22:25 --> 22:27] the emperors had all the power now.
+[22:49 --> 22:51] Thank you for watching!

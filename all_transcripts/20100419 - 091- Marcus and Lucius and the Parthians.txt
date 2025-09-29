@@ -1,0 +1,315 @@
+# 20100419 - 091- Marcus and Lucius and the Parthians
+# Detected language: en
+# Duration: 1440.57 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:15] Hello, and welcome to the History of Rome, Episode 91, Marcus and Lucius and the Parthians.
+[00:15 --> 00:20] From very early on, everyone knew that Marcus Aurelius was going to be emperor someday.
+[00:20 --> 00:25] Born Marcus Aeneas Verus, the future emperor displayed from a young age the serious and
+[00:25 --> 00:30] scholarly temperament that first recommended him to Hadrian and then cemented his reputation
+[00:30 --> 00:32] as Rome's great philosopher emperor.
+[00:32 --> 00:39] But of course, for the first eight years of his reign, Marcus did not rule alone.
+[00:39 --> 00:43] For the first time in history, at Marcus' insistence no less, there were actually two
+[00:43 --> 00:47] emperors ruling Rome at the same time.
+[00:47 --> 00:52] From very early on, no one knew what was going to become of Lucius Verus.
+[00:52 --> 00:57] Born Lucius Caonius Commodus, the future emperor displayed from a young age the self-indulgent
+[00:57 --> 01:02] and fun-loving temperament that first led Antoninus in the Senate to dismiss him and
+[01:02 --> 01:07] then cemented his reputation as one of Rome's great hedonist emperors.
+[01:07 --> 01:11] The unlikely partnership between Marcus and Lucius, which Lucius managed to not screw
+[01:11 --> 01:16] up too badly, would prove to be a watershed moment in the development of the always evolving
+[01:16 --> 01:21] imperial political apparatus, and in less than a century, multiple emperors would become
+[01:21 --> 01:26] the rule rather than the exception.
+[01:26 --> 01:31] Marcus' family, like the families of Hadrian and Trajan before him, originated in Roman
+[01:31 --> 01:36] Spain, and though they had only risen to prominence the century before, by the time Marcus was
+[01:36 --> 01:42] born in 121, his family was rich and powerful, connected closely to the imperial court and
+[01:42 --> 01:47] living fat off the brickworks they owned which Hadrian had used to build his architectural
+[01:47 --> 01:49] empire.
+[01:49 --> 01:53] The grandson of one of Hadrian's closest friends, Marcus was only six when Hadrian
+[01:53 --> 01:58] ordered the boy's enrollment in the equestrian order, and only seven when Hadrian appointed
+[01:58 --> 02:02] him to an ancient and exclusive priesthood for young men, even though Marcus, due to
+[02:02 --> 02:08] his age and the fact that his father was dead, did not qualify for the honor.
+[02:08 --> 02:13] Hadrian had clearly taken a shine to the boy, and from that young age a precedent was set.
+[02:13 --> 02:17] The rules would not apply to Marcus.
+[02:17 --> 02:21] After rising to the occasion and displaying a talent for leadership within the priesthood,
+[02:21 --> 02:26] the emperor arranged for the boy, now fifteen, and ready to don the toga of manhood, to be
+[02:26 --> 02:33] wed to Caonia Fabia, daughter of Hadrian's newly adopted heir Lucius Aelius Caesar.
+[02:33 --> 02:38] When Marcus' would-be father-in-law died in 138, Hadrian was forced to scramble for
+[02:38 --> 02:45] a new heir and, as you know, the burden slash honor fell to Antoninus, with the famous proviso
+[02:45 --> 02:50] that he must adopt both Marcus and Lucius Caesar's seven-year-old biological son,
+[02:50 --> 02:53] Lucius Caonius Commodus.
+[02:53 --> 02:58] Antoninus agreed, and Marcus Aeneas Verus became Marcus Aelius Aurelius Verus, taking
+[02:58 --> 03:03] a name each from Hadrian and Antoninus.
+[03:03 --> 03:07] Marcus was reportedly unhappy with the arranged adoption, doubly so for having to move in
+[03:07 --> 03:12] with the unstable Hadrian, who historians and scholars have surmised Marcus did not
+[03:12 --> 03:15] particularly like.
+[03:15 --> 03:20] But whatever his own misgivings, Marcus was now clearly marked for high office, and Hadrian
+[03:20 --> 03:25] requested that the rules once again be set aside, so that the now seventeen-year-old
+[03:25 --> 03:29] boy could serve as quaestor in 139.
+[03:29 --> 03:34] After Hadrian's death in July 138, Antoninus approached Marcus about canceling the arranged
+[03:34 --> 03:40] marriage with Caonia Fabia and instead asked Marcus to marry his own daughter Faustina,
+[03:40 --> 03:45] despite the fact that technically the two were now brother and sister.
+[03:45 --> 03:50] The engagements thus shuffled around to better reflect the new dynastic realities.
+[03:50 --> 03:55] Antoninus made his nineteen-year-old adopted son slash future son-in-law Marcus consul
+[03:55 --> 04:00] for 140, an honor made even more prestigious by the fact that the emperor himself served
+[04:00 --> 04:03] as Marcus' colleague.
+[04:03 --> 04:08] Lest anyone miss the point, Antoninus enrolled Marcus in every important priesthood he could
+[04:08 --> 04:14] think of, and then, as the topping cherry, added Caesar to Marcus' growing list of names.
+[04:14 --> 04:20] There was no doubt Marcus was destined for the purple.
+[04:20 --> 04:24] This all might have gone to a lesser man's head, but Marcus, by this time, was already
+[04:24 --> 04:29] showing signs of the stoic character that would come to define him, and with each new
+[04:29 --> 04:33] honor, he cautioned himself against getting caught up in the power and the pageantry that
+[04:33 --> 04:38] now surrounded him, or succumbing to the sheer exceptionalism that seemed to radiate from
+[04:38 --> 04:41] his very being.
+[04:41 --> 04:46] As I mentioned during the bit about Roman early education, Marcus himself had been homeschooled,
+[04:46 --> 04:51] a state of affairs he counted amongst the greatest blessings of his life.
+[04:51 --> 04:55] He had been taught, and still a young man, was still being taught, by some of the most
+[04:55 --> 05:01] gifted orators and rhetoricians the empire had to offer, including the Athenian Herides
+[05:01 --> 05:06] Atticus and the Latin authority Marcus Cornelius Fronto.
+[05:06 --> 05:11] Both were considered masters of their respective languages, and Marcus was the ever-hardworking
+[05:11 --> 05:14] if skeptical student of their lessons.
+[05:14 --> 05:18] But by his early twenties, Marcus had grown disillusioned with the empty sophistry of
+[05:18 --> 05:23] mere rhetoric, and began moving towards the philosophy of Stoicism, guided by the most
+[05:23 --> 05:27] prominent Stoic of the day, Junius Rusticus.
+[05:28 --> 05:32] Fronto in particular warned Marcus against falling in with the wrong crowd, but the Stoic
+[05:32 --> 05:37] doctrine passed down to Rusticus from his grandfather by way of Seneca himself, spoke
+[05:37 --> 05:43] to Marcus, and seemed to fit easily with his own native outlook on life.
+[05:43 --> 05:49] The rigid self-analysis appealed to the introspective Marcus, as did its emphasis on duty, which
+[05:49 --> 05:54] helped Marcus cope with the immense and largely unasked-for burden that was being foisted
+[05:54 --> 05:55] upon him.
+[05:55 --> 06:00] Indeed, it was likely this sense of Stoic duty that compelled Marcus, who seemed to
+[06:00 --> 06:06] be repelled by all things sexual, to help Foskina conceive each of the fourteen, yes,
+[06:06 --> 06:10] fourteen children they had together.
+[06:10 --> 06:15] Marcus and Foskina were officially wed in 145, the same year that Marcus served as consul
+[06:15 --> 06:20] for the second time, and their first child was born in 147, the same year that Marcus
+[06:20 --> 06:25] was given tribunition authority to match that of Antoninus.
+[06:25 --> 06:30] Aside from these public honors, throughout the 140s, Antoninus included Marcus in just
+[06:30 --> 06:33] about every aspect of his daily administration.
+[06:33 --> 06:38] The emperor, admirably enough, wanted Marcus to learn how to rule by staying by his side
+[06:38 --> 06:44] at all times, and Marcus subsequently became an expert in the day-to-day bureaucratic responsibilities
+[06:44 --> 06:46] of office.
+[06:46 --> 06:50] But there was a huge drawback to this right-hand man's status.
+[06:50 --> 06:55] Wherever Antoninus went, Marcus followed, but if Antoninus did not go anywhere, neither
+[06:55 --> 06:57] did Marcus.
+[06:57 --> 07:01] And as we know, Antoninus never went anywhere.
+[07:01 --> 07:05] This meant that the heir apparent never went abroad to help govern a province or serve
+[07:05 --> 07:10] in the legions or even visit the places he would one day rule.
+[07:10 --> 07:14] He was a kept man, locked up tight in a very small bubble.
+[07:14 --> 07:18] It was a rich bubble, and it was a powerful bubble, and Marcus learned a great deal while
+[07:18 --> 07:19] living in it.
+[07:19 --> 07:24] But there is no mistaking the fact that when it was his turn to rule, he lacked a great
+[07:24 --> 07:29] deal of the practical, worldly experience that helped all the really good emperors be
+[07:29 --> 07:31] really good.
+[07:31 --> 07:35] It is to his great credit, then, that he was able to overcome this rather gaping hole in
+[07:35 --> 07:37] his education.
+[07:37 --> 07:43] However, if Antoninus neglected a part of Marcus's education, he neglected the man who
+[07:43 --> 07:47] would serve as Marcus's imperial colleague altogether.
+[07:47 --> 07:53] Playing the part of demission to Marcus's Titus, the future Lucius Verus drifted along
+[07:53 --> 07:57] with only the title Son of Augustus to keep him company for the first decade and a half
+[07:57 --> 08:00] of Antoninus's reign.
+[08:00 --> 08:05] I say the future Lucius Verus because at this point he was called Lucius Aurelius Aurelius
+[08:05 --> 08:07] Commodus.
+[08:07 --> 08:12] He had no responsibilities, no authority, and no expectation of either.
+[08:12 --> 08:17] Whatever Hadrian's wishes had been in forcing Antoninus to adopt Lucius, it was clear that
+[08:17 --> 08:22] Antoninus himself had no use for the boy.
+[08:22 --> 08:27] Nine years Marcus's junior, Lucius was raised in the shadow of everyone, his dead biological
+[08:27 --> 08:33] father Lucius Caesar, his living adoptive father Antoninus, and his favored adopted
+[08:33 --> 08:35] brother Marcus.
+[08:35 --> 08:40] On the surface, he was given the same rigorous, excellent education Marcus received, but as
+[08:40 --> 08:45] student to the same men who had taught his often brilliant brother, the intelligent but
+[08:45 --> 08:50] not nearly as focused Lucius was a bit of a letdown and it seems that early on the boy
+[08:50 --> 08:55] sensed that the scholarly life was not for him.
+[08:55 --> 09:00] While Marcus served as the right hand of Antoninus, the now teenage Lucius embraced the distracting
+[09:00 --> 09:06] world of chariot races, gladiatorial fights, theatrical productions, and that favorite
+[09:06 --> 09:09] of Roman vices, gambling.
+[09:09 --> 09:14] Where Marcus disdained all sport and thought taking sides unseemly, Lucius enthusiastically
+[09:14 --> 09:20] supported the green faction in the chariot races.
+[09:20 --> 09:23] Lucius was finally brought into the imperial administration when he was made quaster in
+[09:23 --> 09:28] 152 and consul in 154.
+[09:28 --> 09:32] Forever reminding him of which son Antoninus favored more though, Lucius reached each office
+[09:32 --> 09:40] at the age of 22 and 24 respectively, compared to Marcus's 17 and 19.
+[09:40 --> 09:45] As Antoninus aged and Marcus more and more took the lead in imperial affairs, it seemed
+[09:45 --> 09:49] to everyone that Lucius was destined for a comfortable life as the emperor's brother,
+[09:49 --> 09:52] but not much more than that.
+[09:52 --> 09:57] But when Antoninus finally died in March of 161 after 23 years on the throne, a funny
+[09:57 --> 09:59] thing happened.
+[09:59 --> 10:04] The Senate was readying an official proclamation stating that all imperial authority would
+[10:04 --> 10:10] be transferred to and held solely by the dead emperor's capable heir, the newly dubbed
+[10:10 --> 10:14] Marcus Aurelius Antoninus Augustus.
+[10:14 --> 10:18] Marcus himself though, sent along word that there was a condition to his acceptance of
+[10:18 --> 10:20] authority and power.
+[10:20 --> 10:25] His brother Lucius, who Hadrian had clearly meant to join Marcus in the purple, must be
+[10:25 --> 10:28] granted the same authority and power.
+[10:28 --> 10:33] The Senate, a bit bewildered at the request, agreed to the terms in order to avoid a crisis
+[10:33 --> 10:38] of political continuity, but it left everyone scratching their heads.
+[10:38 --> 10:43] Why would Marcus want to share power, especially with Lucius, whose reputation for good times
+[10:43 --> 10:46] was beginning to precede him?
+[10:46 --> 10:51] But it seems that out of some lingering sense of duty to Hadrian, Marcus was not going to
+[10:51 --> 10:57] leave Lucius behind, or perhaps he saw what the later empire would see all too well.
+[10:57 --> 11:03] One man cannot govern the whole of the Mediterranean by himself.
+[11:03 --> 11:07] Whatever the reasons, Lucius took his brother's unexpected yes for an answer, and changed
+[11:07 --> 11:14] his name one last time to Lucius Aurelius Verus Augustus, taking up Marcus's discarded
+[11:14 --> 11:18] cognum in Verus out of respect for his older brother, which is how we roundaboutly come
+[11:18 --> 11:22] to now calling him Lucius Verus.
+[11:22 --> 11:28] Ironically, in 160, the dying Antoninus had arranged for his two adopted sons to serve
+[11:28 --> 11:31] a consulship together in 161.
+[11:31 --> 11:36] So when they jointly accepted imperial authority in March, they had likely just finished serving
+[11:36 --> 11:42] alongside each other as the years naming ordinary consuls, making 161 officially the year of
+[11:42 --> 11:48] Marcus Aurelius and Lucius Verus, which it very much turned out to be.
+[11:48 --> 11:51] In most respects, the two men were equals.
+[11:51 --> 11:57] Both held tribunition power, proconsular authority over the provinces, etc. etc.
+[11:57 --> 12:00] But Marcus was clearly the first among equals.
+[12:00 --> 12:05] He was nine years Lucius' senior, had served one more consulship than his brother, and
+[12:05 --> 12:10] perhaps most pointedly was the sitting Pontifex Maximus, an honor he declined to share with
+[12:10 --> 12:12] his brother.
+[12:12 --> 12:16] So in practice, their power sharing worked out a bit like the old dictator and master
+[12:16 --> 12:22] of the horse relationship, Marcus the dictator, whose authority was absolute, and Lucius the
+[12:22 --> 12:29] master of horse, who ruled everyone but Marcus, to whom even he deferred.
+[12:29 --> 12:33] The history books like to point out that this was the first time the empire was ruled by
+[12:33 --> 12:37] co-emperors, which would become the norm in the coming century.
+[12:37 --> 12:41] But I don't think that we should forget other critical power sharing agreements that served
+[12:41 --> 12:47] as well-known precedents, Augustus and Marcus Agrippa, Augustus and Tiberius, and, in all
+[12:47 --> 12:52] but name, Trajan and Nerva.
+[12:52 --> 12:56] Having been granted the Senate's blessing, Marcus and Lucius went down to the Praetorian
+[12:56 --> 13:01] camp where they promised the largest ascension donative in history, equivalent to nearly
+[13:01 --> 13:06] three years pay for the soldiers and more than that for the officers.
+[13:06 --> 13:10] The guard had not been making any seditious noises and was not even challenging the elevation
+[13:10 --> 13:12] of either man.
+[13:12 --> 13:17] But with the two new emperors lacking any experience or rapport with the legions, it
+[13:17 --> 13:21] was perhaps prudent to overwhelm any doubts that might creep into their heads down the
+[13:21 --> 13:25] road with an enormous chunk of cash up front.
+[13:25 --> 13:27] It did the trick.
+[13:27 --> 13:31] The provincial legions would be taken care of in due course, but Marcus and Lucius left
+[13:31 --> 13:36] the Praetorian camp secure in the knowledge that the only armed men within 500 miles of
+[13:36 --> 13:41] room were firmly on their side.
+[13:41 --> 13:45] All in all, the new emperors' first day in power went swimmingly and closed without
+[13:45 --> 13:51] any major disasters or crises erupting, and at least for that one day it seemed like their
+[13:51 --> 13:56] joint reign might turn out to be a pleasant continuation of Antoninus's.
+[13:56 --> 14:02] For the scholarly, introspective Marcus and the fun-loving Lucius, an empire at peace
+[14:02 --> 14:07] meant that they would be left free to pursue whatever particular pleasures actually interested
+[14:07 --> 14:08] them.
+[14:08 --> 14:12] Marcus could read and think, Lucius could drink and gamble.
+[14:12 --> 14:19] But unfortunately, unbeknownst to them, the golden age of Antoninus was already dead.
+[14:19 --> 14:23] Day one may have come and gone without incident, but that would prove to be the exception rather
+[14:23 --> 14:25] than the rule.
+[14:25 --> 14:32] The joint reign of Marcus Aurelius and Lucius Verus was one of near-continuous war, plague,
+[14:32 --> 14:36] and disaster.
+[14:36 --> 14:40] Right away, the peace was shattered by a newly aggressive Parthia.
+[14:40 --> 14:45] The Parthian king Voligosses appears to have been biding his time, waiting for Antoninus
+[14:45 --> 14:51] to die so he could jump the Romans while they were absorbed with the transfer of power.
+[14:51 --> 14:55] Marcus had tried to avoid just this sort of incident by leaving most of Antoninus's key
+[14:55 --> 15:01] eastern governors in place so that there would be continuity of leadership on the frontiers.
+[15:01 --> 15:05] It is possible that Voligosses read this to mean that the new emperors were weak and
+[15:05 --> 15:12] that now, more than ever, the Roman Empire was a paper tiger, ready to be kicked around.
+[15:12 --> 15:18] So he led an army across the border into Armenia, deposed the Roman-approved king, appointed
+[15:18 --> 15:24] his own man, and dared the Romans to do anything about it.
+[15:24 --> 15:28] With Rome once again on the verge of war with Parthia, I think we should stop for a second
+[15:29 --> 15:33] and answer one of the questions I couldn't get to last week, which was suggested by a
+[15:33 --> 15:37] few people, but first asked by Hans Delbruck.
+[15:37 --> 15:41] Can you give a brief historical outline of the Persian-Parthian Empire?
+[15:41 --> 15:44] Why yes, I think I can.
+[15:44 --> 15:48] The Parthians have been popping in and out of our narrative for a long while now, first
+[15:48 --> 15:54] appearing way back in episode 37, as Likullus led the initial offensive of the Third Mithridatic
+[15:54 --> 15:55] War.
+[15:55 --> 16:00] But you're right, I never really stopped to tell you who the Parthians actually were,
+[16:00 --> 16:05] so I want to finish this week by correcting that oversight.
+[16:05 --> 16:09] The thing that makes it difficult is that the Parthians left us very little in the way
+[16:09 --> 16:11] of written records.
+[16:11 --> 16:16] We know far more about the Seleucids who preceded them and the Sassanids who succeeded them
+[16:16 --> 16:18] than we do about the Parthians themselves.
+[16:18 --> 16:23] That being said, here's some stuff that we do know.
+[16:23 --> 16:28] The largest empire in the history of the ancient world had been the Old Persian Empire, or
+[16:28 --> 16:35] more properly, the Achaemenid Empire, founded in 550 BC and which, at its height, controlled
+[16:35 --> 16:39] all the territory between India and the Ionian Sea.
+[16:39 --> 16:44] This was the empire of Darius and Xerxes and the empire that had tried to envelop the Greeks
+[16:44 --> 16:49] in the 400s BC, leading to some of the most legendary battles in the history of the Western
+[16:49 --> 16:54] world, Marathon, Thermopylae, Salamis.
+[16:54 --> 16:59] Though the Persians had, against seemingly insurmountable odds, been driven off, the
+[16:59 --> 17:05] Greeks never forgave or forgot the terrible destruction the invasion had caused.
+[17:05 --> 17:10] In the 350s BC, the Greek world became dominated by the Macedonian King Philip II and then
+[17:10 --> 17:12] his son Alexander.
+[17:12 --> 17:15] Yes, that Alexander.
+[17:15 --> 17:21] Still nursing the Greek grudge, Alexander launched himself east in 334 BC and took revenge
+[17:21 --> 17:23] on the Persians.
+[17:23 --> 17:27] Over the course of the next decade, he sliced through Persia like a hot knife through butter,
+[17:27 --> 17:32] tossed out the Achaemenids, and then pushed his way to India.
+[17:32 --> 17:38] When he died in 323 BC, the huge Macedonian Empire was divided, not at all amicably, between
+[17:38 --> 17:41] Alexander's generals.
+[17:41 --> 17:46] Most of the old Persian Empire was seized by the general Seleucus, who founded Antioch
+[17:46 --> 17:51] and forged an eastern Hellenic kingdom known as the Seleucid Empire, which ruled Persia
+[17:51 --> 17:55] until the rise of the Parthians in the mid-200s BC.
+[17:55 --> 18:00] The Parthians took their name from the northeastern satrapy of the Seleucid Empire from which
+[18:00 --> 18:02] they arose.
+[18:02 --> 18:08] In or around 247 BC, a central Asian nomadic tribe called the Parney invaded and took control
+[18:08 --> 18:14] of Parthia, which was already in revolt against Seleucid domination.
+[18:14 --> 18:18] The Seleucids at this point were caught up in a war with Ptolemaic Egypt, and the Parney
+[18:18 --> 18:23] tribe were able to cement their power over Parthia unopposed.
+[18:23 --> 18:27] When things in the west settled down, the Seleucid king was able to turn east and attempted
+[18:27 --> 18:33] to reassert control over his lost satrapy, but by then it was too late.
+[18:33 --> 18:38] A peace settlement left the rising northeastern power nominally a client kingdom, but a high
+[18:38 --> 18:40] independent one.
+[18:40 --> 18:46] From the 160s to the 140s though, an ambitious Parthian king named Mithridates I of Parthia
+[18:46 --> 18:54] swept east, reaching, besieging, and conquering all of the territory up to and including Babylon.
+[18:54 --> 19:00] In 139 BC, Mithridates captured the Seleucid king Demetrius, effectively silencing Seleucid
+[19:00 --> 19:04] claims to anything east of the Euphrates.
+[19:04 --> 19:09] But the old Hellenic kingdom, now consisting only of Antioch and its surrounding territory,
+[19:09 --> 19:14] was left intact by the Parthians, who saw the territory as a convenient buffer zone
+[19:14 --> 19:19] between them and the rising Roman menace sweeping out of the west.
+[19:19 --> 19:24] This was basically where things stood as Pompey led his legions around the bend into Syria
+[19:24 --> 19:28] during the eastern campaign of the 60s BC.
+[19:28 --> 19:32] Confident in the might of Rome, Pompey had no compunctions about sharing a border with
+[19:32 --> 19:37] the now firmly established Parthian empire, deposed the last Seleucid king, and turned
+[19:37 --> 19:40] Syria into a Roman province.
+[19:40 --> 19:46] For the next 300 or so years, the Romans and Parthians lived as sometimes hostile and sometimes
+[19:46 --> 19:48] peaceful neighbors.
+[19:48 --> 19:53] After the massive defeats of Crassus and Marc Antony, the Romans basically shelved the idea
+[19:53 --> 19:57] of expanding further east, and apart from their persistent attempts to gain the upper
+[19:57 --> 20:03] hand in Armenia, the Parthians never seriously contemplated further expansion west.
+[20:03 --> 20:07] The border between the two great powers was set at the Euphrates river, and each settled
+[20:07 --> 20:12] in to enjoying the fruits of their particular empires.
+[20:12 --> 20:19] For the Parthians, the fruits of their empire were primarily harvested along the Silk Road.
+[20:19 --> 20:23] As I mentioned last week, just as the Romans were rising in the west and the Parthians
+[20:23 --> 20:28] were rising in Central Asia, the Han were rising in the east, and the great overland
+[20:28 --> 20:33] trade route known as the Silk Road began to form.
+[20:33 --> 20:38] The entire west-central leg of the Silk Road, including any and all spurs, passed through
+[20:38 --> 20:43] Parthian territory, and as a result, most of the revenue coming into the central Parthian
+[20:43 --> 20:48] treasury was derived from the taxes they charged traders to get from here to there.
+[20:48 --> 20:53] With their highly decentralized governmental apparatus, which left most provinces relatively
+[20:53 --> 20:58] autonomous, the money coming in from the import and export duties was the one steady
+[20:58 --> 21:03] source of income for the central government, and as a result, the overriding political
+[21:03 --> 21:07] and economic imperative for the Parthians was maintaining their monopoly of the trade
+[21:07 --> 21:09] roads.
+[21:09 --> 21:13] Of course, this meant that one of the overriding political and economic imperatives of the
+[21:13 --> 21:18] Eastern Roman Empire was figuring out a way to crack that Parthian monopoly, and some
+[21:18 --> 21:22] have argued that this is exactly what was on Trajan's mind as he headed off to invade
+[21:22 --> 21:26] Mesopotamia in 115.
+[21:26 --> 21:30] That campaign, you'll recall, eventually found the Romans in control of Cherix, a port
+[21:30 --> 21:35] along the Persian Gulf, which, had the Romans kept it, could have been one of the keys to
+[21:35 --> 21:38] breaking the Parthian monopoly.
+[21:38 --> 21:42] But Hadrian surmised that the benefits far outweighed the costs and retreated back to
+[21:42 --> 21:45] the Mediterranean.
+[21:45 --> 21:51] Some argued then, and argue today, that Hadrian should have shown stiffer resolve, but others
+[21:51 --> 21:55] point out that the Parthians had been caught up in one of their frequent dynastic struggles
+[21:55 --> 22:00] during Trajan's campaign, and once their internal disputes were settled, that the Romans
+[22:00 --> 22:04] would have found the Parthians themselves showing much stiffer resolve than Trajan had
+[22:04 --> 22:06] encountered.
+[22:06 --> 22:11] When Parthia was politically fractured, as it frequently was because of their decentralized
+[22:11 --> 22:14] structure, it could be steamrolled easily.
+[22:14 --> 22:20] But united, it had obliterated some of the largest armies Rome had ever assembled.
+[22:20 --> 22:26] In 161, the Parthians were once again united under the rule of Volagosis IV, who had watched
+[22:26 --> 22:31] the Romans under Hadrian and then Antoninus undertake no meaningful military operations
+[22:31 --> 22:33] for decades.
+[22:33 --> 22:38] The Eastern legions, by the Parthian king's estimation, had gotten fat and complacent
+[22:38 --> 22:42] after nearly forty years of inactivity.
+[22:42 --> 22:46] Emboldened by his own reunification of the eastern and western halves of the Parthian
+[22:46 --> 22:52] empire, Volagosis revived the ages-old Parthian dream of controlling Armenia.
+[22:52 --> 22:56] Perhaps it was time to test whether or not the legendary Roman invincibility, which had
+[22:56 --> 23:01] often met its match in the Parthians anyway, was still a living fact, or whether it was
+[23:01 --> 23:04] now simply a myth for the ages.
+[23:04 --> 23:09] And with the elevation of two military novices to the Roman throne, the iron was never going
+[23:09 --> 23:12] to be hotter.
+[23:12 --> 23:17] Next week, the Parthians will strike, and Rome will quickly find itself embroiled in
+[23:17 --> 23:21] its first major foreign war in two generations.
+[23:21 --> 23:25] Following the pattern of so many Roman wars, things will go from bad to worse at the outset
+[23:25 --> 23:30] of the conflict, at which point the Romans will rally to victory and prove once again
+[23:30 --> 23:36] that while messing with Rome always seems like a good idea, it never ever pays.
+[23:36 --> 23:37] At least not yet.

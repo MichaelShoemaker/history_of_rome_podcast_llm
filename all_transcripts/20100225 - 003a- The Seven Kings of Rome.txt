@@ -1,0 +1,354 @@
+# 20100225 - 003a- The Seven Kings of Rome
+# Detected language: en
+# Duration: 960.60 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:06] Hello, and welcome to the History of Rome.
+[00:08 --> 00:12] Last time we finished with the death of Romulus, first and greatest King of Rome.
+[00:13 --> 00:18] Today we will cover his first three successors, who they were, and what roles they played
+[00:18 --> 00:20] in the evolution of Roman law and society.
+[00:21 --> 00:25] I called this section the Seven Kings of Rome because common historical nomenclature
+[00:25 --> 00:28] always refers to the Seven Kings of Rome.
+[00:29 --> 00:33] So though we will only be talking about three kings, it seemed appropriate to use the phrase
+[00:33 --> 00:36] as a title even if it isn't technically accurate.
+[00:36 --> 00:39] Just remember, there were seven kings of Rome.
+[00:41 --> 00:45] Oh, by the way, in reality, there were almost certainly more than seven kings of Rome.
+[00:46 --> 00:50] The idea that seven successive kings could reign for an average of 35 years each
+[00:50 --> 00:52] stretches credulity.
+[00:52 --> 00:57] Nowhere else in the history of mankind have seven monarchs in a row managed such continuous
+[00:57 --> 00:58] good luck.
+[00:58 --> 01:03] The stories handed down to us of Pneuma and Hostilius and Martius and the Tarquins
+[01:03 --> 01:07] are no doubt apocryphal, meant to cover the ground between Romulus and the founding
+[01:07 --> 01:12] of the Republic, while explaining the evolution of the city's culture at the same time.
+[01:12 --> 01:16] So just remember, even though there weren't really seven kings of Rome, there were
+[01:16 --> 01:18] seven kings of Rome.
+[01:19 --> 01:23] After Romulus died or disappeared, there was a crisis.
+[01:23 --> 01:26] Who would lead the Romans now that their first and only king was gone?
+[01:27 --> 01:32] Trouble arose not just from the question of which particular man would reign, but
+[01:32 --> 01:34] also from the question of what tribe he would be from.
+[01:35 --> 01:39] The Sabines, who would suffer the sole rule of Romulus in silence, now wished
+[01:39 --> 01:41] to see one of their own placed upon the throne.
+[01:42 --> 01:46] The Romans found this idea preposterous, but the Sabines refused all Roman candidates,
+[01:46 --> 01:49] and the Romans, in turn, refused all Sabine candidates.
+[01:50 --> 01:54] To avoid a slip in anarchy, it was decided that each senator in succession would
+[01:54 --> 01:58] reign for a single day until an acceptable man was found to rule.
+[01:58 --> 02:02] This was the first instance in Roman history of an interregnum, or period
+[02:02 --> 02:04] between official sovereigns.
+[02:04 --> 02:08] A compromise was finally proposed that allowed the Romans to choose whomever
+[02:08 --> 02:12] they wished, without Sabine veto, as long as the man was a Sabine.
+[02:13 --> 02:17] The Romans agreed to this and picked a man of universal renown, Numa Pompulius.
+[02:18 --> 02:22] The Sabines, delighted by the choice, agreed at once, and messengers were sent
+[02:22 --> 02:24] to Numa to present him with the good news.
+[02:25 --> 02:29] To the amazement of everyone, however, Numa refused the offer, and it was only
+[02:29 --> 02:31] after much cajoling that he agreed to take the throne.
+[02:32 --> 02:34] You see, Numa was a bit of an odd bird.
+[02:34 --> 02:39] He disdained all luxury and had devoted his life to religious contemplation.
+[02:39 --> 02:43] He often took long walks alone, and it was believed that on these strolls he
+[02:43 --> 02:44] conversed with the gods.
+[02:45 --> 02:46] Not that this concerned anyone.
+[02:46 --> 02:50] Quite the opposite, it only enhanced his reputation that the gods spoke to him.
+[02:50 --> 02:54] But still, not exactly a man you usually find at the head of a growing
+[02:54 --> 02:55] military power.
+[02:56 --> 02:57] Numa did not even live in Rome.
+[02:57 --> 03:01] He resided in a nearby town and was, for the most part, put off by
+[03:01 --> 03:02] the violence and greed of the city.
+[03:03 --> 03:06] This second King of Rome was the opposite of Romulus in almost every way.
+[03:06 --> 03:09] Where Romulus was brash, Numa was reserved.
+[03:10 --> 03:12] Where Romulus was a warrior, Numa was a pacifist.
+[03:13 --> 03:17] Where Romulus sought glory and fame, Numa sought peace and solitude.
+[03:17 --> 03:21] Overnight, he changed the trajectory of Rome's march to greatness.
+[03:22 --> 03:26] When Numa arrived in Rome, he found a warmongering population of brutes who
+[03:26 --> 03:28] had known 40 years of war.
+[03:28 --> 03:31] And when he died, he left Rome a population of farmers who had known 40
+[03:31 --> 03:32] years of peace.
+[03:33 --> 03:37] The remarkable transformation was due entirely to Numa's introduction of
+[03:37 --> 03:38] religion to the city.
+[03:38 --> 03:41] He turned the people's attention away from the battlefield and
+[03:41 --> 03:42] towards the heavens.
+[03:43 --> 03:47] Desiring peace more than anything else, Numa devised complex religious rights
+[03:47 --> 03:51] to occupy the time of the now demobilized army so they would not
+[03:51 --> 03:53] grow restless and provoke unnecessary wars.
+[03:54 --> 03:57] He instilled in the Romans an everlasting fear and awe of the gods,
+[03:57 --> 03:59] which would last for the remainder of the empire.
+[04:01 --> 04:04] Numa is credited with the foundation of the most important religious
+[04:04 --> 04:06] institutions in Rome.
+[04:06 --> 04:10] He imported the Vestal Virgins and established the laws governing their
+[04:10 --> 04:11] watch over the eternal flame.
+[04:12 --> 04:15] He created the office of Pontifex Maximus, the high priest of Rome,
+[04:16 --> 04:19] who would be responsible for the maintenance of all religious services.
+[04:19 --> 04:23] And in an act of remarkable foresight, declined to serve in that role
+[04:23 --> 04:26] himself, establishing a sovereign religious realm that could not be
+[04:26 --> 04:28] meddled with by future kings.
+[04:29 --> 04:32] He believed that later kings would be so caught up in war making that
+[04:32 --> 04:35] they would neglect their religious duties and bring the wrath of the
+[04:35 --> 04:36] gods upon the city.
+[04:37 --> 04:40] The office of Pontifex Maximus would remain an independent authority
+[04:40 --> 04:43] until the title was claimed for the emperors by Augustus at the
+[04:43 --> 04:44] dawn of the imperium.
+[04:45 --> 04:48] At the end of the empire, the title was passed to the popes, who
+[04:48 --> 04:52] hold it to this day, 2,600 years after its inception.
+[04:54 --> 04:57] Just as Romulus is the answer to all questions about the founding of
+[04:57 --> 05:00] the city, Pneuma is the answer to all questions about the origin
+[05:00 --> 05:01] of religious practices.
+[05:02 --> 05:04] Who divided regular days from holy days?
+[05:04 --> 05:05] Pneuma.
+[05:05 --> 05:07] Who created the priesthood of Mars?
+[05:07 --> 05:08] Pneuma did.
+[05:08 --> 05:10] The priesthood of Quirinius?
+[05:10 --> 05:10] Pneuma.
+[05:11 --> 05:12] Who built the altar to Jupiter?
+[05:12 --> 05:13] Pneuma, of course.
+[05:14 --> 05:17] In the development of Roman culture, Pneuma is second only to
+[05:17 --> 05:20] Romulus in importance, and to some, he was even more important.
+[05:21 --> 05:25] Machiavelli writes, and for anyone who considers Roman history
+[05:25 --> 05:28] it is clear how much religion helped in the commanding of armies,
+[05:29 --> 05:32] in inspiring the plebeians, in keeping men good, and in making
+[05:32 --> 05:33] the wicked feel shame.
+[05:34 --> 05:37] Thus, if one were to debate about the prince to whom Rome
+[05:37 --> 05:40] owed the most, I think Pneuma would sooner obtain the first
+[05:40 --> 05:43] place, for where there is religion, one can easily
+[05:43 --> 05:46] introduce arms, but where there are arms, but no religion,
+[05:46 --> 05:49] the former can only be introduced with difficulty.
+[05:50 --> 05:53] Perhaps Pneuma's most famous addition to Rome was the
+[05:53 --> 05:54] Temple of Janus.
+[05:54 --> 05:57] The gates of the temple were to remain open while Rome was
+[05:57 --> 05:59] at war, and be closed in times of peace.
+[06:00 --> 06:03] For the entirety of Pneuma's reign, the doors stayed shut.
+[06:04 --> 06:06] But after his passing, they remained open almost
+[06:06 --> 06:07] continuously.
+[06:07 --> 06:10] Pneuma's dream of peace, it would seem, died with him,
+[06:10 --> 06:13] and his reign would be an anomaly in Roman history.
+[06:14 --> 06:18] Of Pneuma's Rome, Livy writes, once Rome's neighbors
+[06:18 --> 06:21] had considered her no more than an armed camp in their
+[06:21 --> 06:22] midst, threatening the general peace.
+[06:22 --> 06:26] Now they came to revere her so profoundly as a community
+[06:26 --> 06:29] dedicated wholly to worship, that the mere thought of
+[06:29 --> 06:32] offering her violence seemed to them like sacrilege.
+[06:33 --> 06:36] Pneuma reigned 43 years and died in 673 BC.
+[06:37 --> 06:39] His successor to the throne, Tullus Hostilius,
+[06:39 --> 06:42] did his level best to banish forever this image of
+[06:42 --> 06:45] Rome as a city of docile farmer-priests.
+[06:46 --> 06:50] Just as Pneuma was the opposite of Romulus, Tullus
+[06:50 --> 06:51] was the opposite of Pneuma.
+[06:51 --> 06:54] He longed for a return to the martial virtues of Romulus.
+[06:55 --> 06:57] He believed Pneuma had left the Romans soft and
+[06:57 --> 07:00] dangerously unprepared for what Tullus saw as
+[07:00 --> 07:02] inevitable attack from eternally hostile neighbors.
+[07:03 --> 07:05] The peace of the previous decades could not hold
+[07:05 --> 07:08] forever, and if Rome was to live, it had to fight.
+[07:09 --> 07:11] With this in mind, Tullus looked around for a clash
+[07:11 --> 07:13] that would reinvigorate the warrior spirit of his
+[07:13 --> 07:16] people and found it in the place of Romulus's birth.
+[07:17 --> 07:20] A cattle-raiding dispute along the border between
+[07:20 --> 07:23] Rome and Alba led to mutual recriminations, and
+[07:23 --> 07:26] for Tullus, this was enough of a pretext and war
+[07:26 --> 07:27] was declared.
+[07:27 --> 07:29] He even managed to arrange things so that the
+[07:29 --> 07:31] Romans looked like the aggrieved party who were
+[07:31 --> 07:34] being dragged against their will into battle.
+[07:35 --> 07:37] Armies from both sides advanced on one another,
+[07:38 --> 07:40] but before the order for full-scale engagement
+[07:40 --> 07:43] was given, Medius, the leader of the Albans,
+[07:43 --> 07:45] approached Tullus with an unusual proposal.
+[07:46 --> 07:48] There was nothing to be gained, the Albans said,
+[07:48 --> 07:51] in a bloody struggle between two familial people,
+[07:52 --> 07:54] when the Etruscans sat at both their doorsteps,
+[07:54 --> 07:57] eagerly awaiting any opportunity to invade.
+[07:57 --> 08:00] A fight between Alba and Rome would deplete the
+[08:00 --> 08:02] strength of both Victor and Vanquished, leaving
+[08:02 --> 08:04] the door wide open for the Etruscans to make
+[08:04 --> 08:05] them all slaves.
+[08:06 --> 08:09] Medius proposed that single combat should decide
+[08:09 --> 08:10] their quarrel.
+[08:10 --> 08:12] That way their respective armies could still
+[08:12 --> 08:14] keep the ambitious Etruscans in check.
+[08:15 --> 08:17] Tullus agreed reluctantly, seeing the logic
+[08:17 --> 08:19] of Medius' argument, though it would not be
+[08:19 --> 08:22] single combat per se that would decide things.
+[08:23 --> 08:25] Each army's ranks held three brothers, triplets,
+[08:26 --> 08:28] who were chosen to fight for the fate of their people.
+[08:29 --> 08:31] This fight between the Roman Herati and the
+[08:31 --> 08:33] Albans Curiati is an episode, like the Rape of
+[08:33 --> 08:36] the Sabine Women, that has found its way into
+[08:36 --> 08:37] countless works of art and literature,
+[08:38 --> 08:40] most famously in the Oath of the Herati by
+[08:40 --> 08:43] Jacques-Louis David, that great lover of antiquity.
+[08:44 --> 08:46] In front of the opposing armies, the two sets
+[08:46 --> 08:47] of brothers squared off.
+[08:48 --> 08:50] The fight was furious, and in quick succession
+[08:50 --> 08:51] two of the Romans lay dead.
+[08:52 --> 08:54] Horatius, the remaining brother, knowing he
+[08:54 --> 08:56] could not take all three of his enemies at once,
+[08:57 --> 08:59] ran up a nearby hill, forcing the three
+[08:59 --> 09:00] Curiati to chase him.
+[09:01 --> 09:03] As the first neared, Horatius turned abruptly
+[09:03 --> 09:04] and killed him.
+[09:04 --> 09:06] The second Albans brother arrived too late to
+[09:06 --> 09:09] help, and Horatius fought and killed him as well.
+[09:09 --> 09:12] The third Curiati, weary from the chase and
+[09:12 --> 09:14] from wounds sustained in the earlier fight,
+[09:14 --> 09:16] was no match at all upon arrival.
+[09:16 --> 09:19] He fell to his knees, and Horatius did not
+[09:19 --> 09:21] fight him so much as execute him,
+[09:21 --> 09:23] plunging his sword down the poor bastard's throat.
+[09:25 --> 09:27] The Romans cheered their victory, and the
+[09:27 --> 09:29] Albans, grumbling at Medius' deal, were
+[09:29 --> 09:31] forced to withdraw and supplicate
+[09:31 --> 09:32] themselves to Roman rule.
+[09:33 --> 09:35] But Medius, aware of how precarious his
+[09:35 --> 09:37] authority was in the aftermath of this
+[09:37 --> 09:39] non-defeat to Rome, conspired to release
+[09:39 --> 09:41] his people from subjugation.
+[09:41 --> 09:44] He induced V.A., the nearest Etruscan city
+[09:44 --> 09:46] and, as we will later see, an important
+[09:46 --> 09:49] early rival of Rome, to attack the Romans.
+[09:49 --> 09:51] The Albans, Medius said, would be called
+[09:51 --> 09:54] upon to aid Rome, and he promised that
+[09:54 --> 09:55] at a decisive moment in the battle,
+[09:56 --> 09:58] the Albans would desert, leaving the
+[09:58 --> 09:59] Roman flank unguarded.
+[09:59 --> 10:01] V.A. jumped at the opportunity to crush
+[10:01 --> 10:03] Rome and attacked immediately.
+[10:03 --> 10:06] Just as Medius predicted, Tullus called
+[10:06 --> 10:07] upon the Albans to join the fight,
+[10:07 --> 10:09] and the armies gathered to do battle.
+[10:10 --> 10:12] Just as the fight was about to begin,
+[10:12 --> 10:14] Medius ordered the Albans to withdraw.
+[10:14 --> 10:16] The Roman soldiers were shocked to see
+[10:16 --> 10:18] their ally suddenly leaving, but Tullus,
+[10:18 --> 10:20] thinking quickly, addressed his troops,
+[10:20 --> 10:22] telling them that it was his plan
+[10:22 --> 10:24] for the Albans to sneak around behind the enemy.
+[10:25 --> 10:27] The Romans, heartened, marched into
+[10:27 --> 10:29] battle with confidence and defeated the Vaeites.
+[10:30 --> 10:32] Back in camp, however, Tullus ordered
+[10:32 --> 10:34] the arrest of Medius and had him
+[10:34 --> 10:35] brought before the Roman troops.
+[10:36 --> 10:37] Tullus then revealed the treachery
+[10:37 --> 10:39] of the Albans leader and, to the horror
+[10:39 --> 10:41] of his men, passed, without trial,
+[10:41 --> 10:43] a sentence of death by dismemberment.
+[10:44 --> 10:46] Their leader dead, Tullus then
+[10:46 --> 10:48] ordered the destruction of Alba Longa itself.
+[10:49 --> 10:50] He ordered the city destroyed,
+[10:50 --> 10:52] and the citizens relocated to Rome,
+[10:52 --> 10:53] where they would become Romans,
+[10:54 --> 10:56] forever wiping Alba from the map.
+[10:57 --> 11:01] Tullus ran 32 years and died in 642 B.C.
+[11:01 --> 11:04] The return to arms was his lasting legacy,
+[11:04 --> 11:05] and the incorporation of the Albans
+[11:05 --> 11:07] was his most important contribution
+[11:07 --> 11:09] to the growth of the city.
+[11:10 --> 11:11] Henceforth, Rome's neighbors returned
+[11:11 --> 11:13] to their view of the city as little more
+[11:13 --> 11:15] than an armed camp and worked tirelessly
+[11:15 --> 11:17] to defeat the Roman menace.
+[11:17 --> 11:20] Never again would Rome enjoy an extended period
+[11:20 --> 11:22] of uninterrupted peace, despite the efforts
+[11:22 --> 11:25] made by Tullus' successor, Ancus Martius,
+[11:25 --> 11:27] the grandson of Pneuma, to bring the population
+[11:27 --> 11:30] back to his grandfather's vision of peace.
+[11:31 --> 11:33] Less is known or told about Ancus
+[11:33 --> 11:35] than any of his predecessors,
+[11:35 --> 11:37] but we do know that he attempted to follow
+[11:37 --> 11:39] in the footsteps of his grandfathers,
+[11:39 --> 11:41] but with far less success.
+[11:41 --> 11:43] Events conspired to force war upon him,
+[11:43 --> 11:45] and despite his natural proclivities,
+[11:45 --> 11:48] he accepted his fate and led the Romans into battle.
+[11:49 --> 11:51] A confederation of Latin communities
+[11:51 --> 11:53] who chafed under Roman dominance
+[11:53 --> 11:56] took Ancus' succession as the perfect opportunity
+[11:56 --> 11:58] to attack, believing they had another Pneuma
+[11:58 --> 12:00] on their hands who would be an easy mark.
+[12:01 --> 12:02] But Ancus accepted the challenge,
+[12:02 --> 12:05] and the Roman forces, battle-tested by their years
+[12:05 --> 12:07] under Tullus, routed each in turn.
+[12:08 --> 12:11] The defeated inhabitants were forced, like the Albans,
+[12:11 --> 12:13] to abandon their homes and settle in Rome,
+[12:13 --> 12:16] while Romans were sent to settle the vacated towns.
+[12:16 --> 12:19] Through this policy, the population of the city swelled,
+[12:19 --> 12:21] and the surrounding countryside was filled
+[12:21 --> 12:22] with subjects loyal to Rome.
+[12:24 --> 12:26] At the outset of the fight with the Latins,
+[12:26 --> 12:28] Ancus made his most important contribution
+[12:28 --> 12:32] to Roman society, dissatisfied with the haphazard way
+[12:32 --> 12:34] the war began between Rome and her enemies,
+[12:34 --> 12:36] he decided to inject a sacred ritual,
+[12:36 --> 12:37] introducing something of Pneuma
+[12:37 --> 12:39] into the barbarism of armed conflict.
+[12:40 --> 12:42] A specific formula was proscribed
+[12:42 --> 12:44] as to how exactly the Romans would declare war
+[12:44 --> 12:47] on an enemy, too tedious to spell out here,
+[12:47 --> 12:50] but it involved sending envoys into enemy territory,
+[12:50 --> 12:52] announcing the war to the first man met
+[12:52 --> 12:53] in an official pronouncement,
+[12:54 --> 12:57] making more official declarations at appointed times,
+[12:57 --> 13:00] waiting 33 days, and finally throwing a spear
+[13:00 --> 13:02] into enemy territory, signaling the beginning
+[13:02 --> 13:03] of hostilities.
+[13:04 --> 13:06] The entire process may seem a bit overwrought,
+[13:06 --> 13:08] but it demonstrates the Roman desire
+[13:08 --> 13:11] to infuse all aspects of life with the rule of law,
+[13:11 --> 13:14] even if the end result was savage bloodshed.
+[13:15 --> 13:17] After the campaign against the Latins,
+[13:18 --> 13:20] Ancus won an important victory against the Vaeites,
+[13:20 --> 13:22] gaining control of the Maishan forest
+[13:22 --> 13:24] and extending Roman territory all the way to the sea.
+[13:25 --> 13:28] The consequences of this event cannot be overstated.
+[13:28 --> 13:30] Through Ostia, the port town founded by Ancus
+[13:30 --> 13:33] at the mouth of the Tiber, all initial Roman forays
+[13:33 --> 13:36] into the Mediterranean were launched and received.
+[13:37 --> 13:40] Ancus reigned 24 years and died in 617 BC.
+[13:41 --> 13:44] At his death, Rome found itself immeasurably strengthened
+[13:44 --> 13:46] by the addition of countless new citizens,
+[13:46 --> 13:48] a neighborhood free of enemies,
+[13:48 --> 13:49] and a port to call its very own.
+[13:50 --> 13:52] We will leave the story here and pick up next time
+[13:52 --> 13:55] with the final three kings, the Tarquin dynasty,
+[13:55 --> 13:57] the last of which would show himself
+[13:57 --> 14:00] to be such a tyrant that the very idea of monarchy
+[14:00 --> 14:02] would be hateful to Romans forever after,
+[14:02 --> 14:04] even forcing the emperors
+[14:04 --> 14:05] to semantically cloak their activities
+[14:05 --> 14:08] so as not to be accused of monarchism.
+[14:10 --> 14:12] As I said earlier, the lives of these kings
+[14:12 --> 14:14] are apocryphal biographies designed to explain
+[14:14 --> 14:17] the origin and development of Rome to later Romans.
+[14:18 --> 14:19] What is mostly being fleshed out
+[14:19 --> 14:21] in the story of these first kings
+[14:21 --> 14:24] is the relationship between the two most important pillars
+[14:24 --> 14:26] of Roman society, war and religion.
+[14:27 --> 14:30] The warlike Romulus is followed by the religious Numa,
+[14:30 --> 14:32] who is followed by the warlike Tullus,
+[14:32 --> 14:34] until finally the two pillars are joined in Ancus,
+[14:34 --> 14:37] the religious king who is dragged into battle by fate.
+[14:38 --> 14:39] This interplay is instructive
+[14:39 --> 14:42] and offers a neat encapsulation of their character.
+[14:43 --> 14:45] The Romans are a warlike people tempered by religion,
+[14:46 --> 14:48] not a religious people forged into warriors.
+[14:49 --> 14:51] Ultimately, it is war, not prayer,
+[14:51 --> 14:52] that defines the Romans.
+[14:53 --> 14:54] Imagine if it had been the opposite,
+[14:54 --> 14:57] a people founded by a religious pacifist
+[14:57 --> 14:58] and succeeded by a warrior
+[14:58 --> 15:00] who was then succeeded by a pacifist
+[15:00 --> 15:02] who was then succeeded by a warrior
+[15:02 --> 15:04] dragged by fate into a religious life.
+[15:05 --> 15:06] It paints a very different picture.
+[15:07 --> 15:09] The Romans are fighters through and through,
+[15:09 --> 15:11] though Machiavelli's point is well taken.
+[15:12 --> 15:13] Without religious tempering,
+[15:13 --> 15:15] it is doubtful the Romans could have sustained
+[15:15 --> 15:17] a republic based upon the rule of law
+[15:17 --> 15:19] and would have remained an unremarkable tribe
+[15:19 --> 15:20] of violent barbarians.
+[15:21 --> 15:23] To sum up, the Romans were soldiers
+[15:23 --> 15:24] who took oath seriously,
+[15:24 --> 15:27] not priests who took swordsmanship seriously.
+[15:29 --> 15:30] Join me next time as we discuss
+[15:30 --> 15:32] the last days of the Roman monarchy
+[15:32 --> 15:34] and what was so bad about Tarquinius Superbus,
+[15:34 --> 15:35] the last king of Rome,
+[15:36 --> 15:38] that led the city to transform itself
+[15:38 --> 15:41] into a republic that lasted for 500 years.

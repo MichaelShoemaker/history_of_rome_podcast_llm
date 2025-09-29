@@ -1,0 +1,326 @@
+# 20100301 - 066- 666
+# Detected language: en
+# Duration: 1477.07 seconds
+# Model: medium, Device: cpu
+
+[00:00 --> 00:03] This week's episode is brought to you by Audible.
+[00:04 --> 00:09] As you are now fully aware, Audible is the internet's leading provider of audio entertainment,
+[00:09 --> 00:11] with over 60,000 titles to choose from.
+[00:12 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash rome.
+[00:17 --> 00:20] That again is audiblepodcast.com forward slash rome.
+[00:21 --> 00:24] By going to that address, you will qualify for a free book download when you sign
+[00:24 --> 00:26] up for a 14-day trial membership.
+[00:26 --> 00:31] There is no obligation to continue the service and you can cancel any time and keep the free book.
+[00:32 --> 00:37] You can also keep going with one of the monthly subscription options and get great deals on all future book purchases.
+[00:38 --> 00:42] This week I'm going to branch out from Roman history and recommend picking up the classic
+[00:42 --> 00:48] March of Folly by Barbara Tuckman, which is an excellent investigation of how governments
+[00:48 --> 00:53] often act against their own self-interest, starting by trying to answer the age-old question
+[00:53 --> 00:56] of why did the Trojans bring that giant horse into their city?
+[00:57 --> 01:02] Just remember to go to audiblepodcast.com forward slash rome so they know who sent you.
+[01:07 --> 01:10] Hello, and welcome to the history of Rome.
+[01:11 --> 01:13] Episode 66, 666.
+[01:15 --> 01:20] At the end of last week's episode, I hinted that today we would be getting into the great Jewish revolt,
+[01:20 --> 01:26] which erupted in Judea in 66 AD and led to the destruction of Jerusalem in 70 AD.
+[01:27 --> 01:32] However, as I began to unpack my outline for this week, I quickly realized that this hinting was premature.
+[01:33 --> 01:38] So, to those of you out there who got really psyched for that story, sorry, you're going to have to wait until next week.
+[01:39 --> 01:42] There is too much I want to get into about Nero, the great fire of Rome,
+[01:42 --> 01:46] the emperor's relationship with the early Christians, and his relationship with the Senate
+[01:46 --> 01:48] to cram the great revolt in there too.
+[01:48 --> 01:54] So, the great revolt will be next week. This week, was Nero actually the Antichrist?
+[01:56 --> 02:02] You'll remember from two weeks ago that in 59 AD, Nero had grown so tired of his mother Agrippina
+[02:02 --> 02:03] that he conspired to have her killed.
+[02:04 --> 02:07] Though this act of matricide could not be said to mark a clear line
+[02:07 --> 02:10] between Nero the self-indulgent and Nero the sadist,
+[02:11 --> 02:14] since on the one hand, killing your own mother goes way beyond self-indulgent,
+[02:14 --> 02:21] and on the other, Nero the sadist didn't really get going until after the death of the Praetorian Prefect Burris in 62 AD,
+[02:22 --> 02:27] the death of Agrippina pretty clearly foreshadowed what Nero was capable of and what he was becoming.
+[02:29 --> 02:31] But like I say, it wasn't a clear breaking point.
+[02:32 --> 02:37] For a few years, Nero continued on as he always had, moderately interested in the affairs of state
+[02:37 --> 02:40] and excessively interested in affairs of, well, excess.
+[02:41 --> 02:45] He served his consul four times from 55 to 60 AD, an office which,
+[02:46 --> 02:50] while not as important as it had once been, was still a key administrative cog in the empire,
+[02:50 --> 02:54] signaling that Nero enjoyed at least some aspects of practical governance,
+[02:54 --> 03:00] but at the same time, he began to take his leisure pursuits even more seriously than he had in the past.
+[03:01 --> 03:03] Nero was essentially a Bohemian emperor.
+[03:04 --> 03:06] He liked drinking, poetry, and music.
+[03:06 --> 03:10] He liked lazing around during the day and partying his way through the night.
+[03:11 --> 03:13] He and his friends would go on drunken romps through the city,
+[03:14 --> 03:16] stirring up trouble at brothels and bathhouses,
+[03:16 --> 03:21] and generally making the LA nightclub scene look like a meeting of the woman's Christian temperance union.
+[03:23 --> 03:26] But even with the emperor whirling around Rome in a debauched frenzy every night,
+[03:27 --> 03:30] the day-to-day operations of empire were still in relatively good hands.
+[03:31 --> 03:36] The Prefect Burris and Seneca the Younger continued to act as moderating hands,
+[03:36 --> 03:42] steering the no doubt perpetually hungover Nero away from this terrible idea and toward that sound policy.
+[03:43 --> 03:46] But in the early 60s AD, things began to change,
+[03:46 --> 03:52] and the sort of embarrassing but harmless Bohemian emperor began to turn into something much darker,
+[03:52 --> 03:56] and in response, the people of Rome began to turn on him.
+[03:58 --> 04:01] In 58 AD, Nero met the wife of his friend Otho,
+[04:01 --> 04:05] who was a stunning and ambitious woman named Papia Sabina,
+[04:05 --> 04:08] and was immediately smitten with her.
+[04:08 --> 04:11] Papia was more than happy to return the emperor's affections,
+[04:11 --> 04:17] as it was widely rumored that she had initially targeted Otho for marriage specifically to get closer to Nero.
+[04:18 --> 04:20] The two began to have an affair shortly thereafter,
+[04:21 --> 04:25] that some pointed to as the key factor in Nero's decision to off his disapproving mother,
+[04:26 --> 04:29] and though that explanation has been pretty well debunked,
+[04:29 --> 04:33] it is worth noting again that the accusation was thrown around at the time.
+[04:33 --> 04:40] The reason Agrippina disapproved is that Nero was still married to Claudia Octavia, the daughter of Claudius.
+[04:41 --> 04:46] The union between Nero and Claudia kept the two wings of the Julio-Claudian dynasty tied together,
+[04:46 --> 04:50] and Agrippina didn't want Nero to throw that away in a fit of young lust.
+[04:51 --> 04:54] Mistresses were fine, as long as they remained mistresses.
+[04:55 --> 05:00] But Nero was never happy in his arranged marriage and was always looking to turn his mistresses into wives,
+[05:00 --> 05:06] something that would shatter the only recently reunited bonds of the Julians and the Claudians.
+[05:07 --> 05:11] Papia, for her part, had no interest in remaining Nero's mistress
+[05:11 --> 05:16] and was forever whispering in the emperor's ear that he ought to ditch his prudish wife and marry her instead.
+[05:17 --> 05:23] In 62 AD, things came to a head when Papia announced that she was pregnant with Nero's child.
+[05:23 --> 05:26] The emperor finally decided that it was time to give up all the pretenses
+[05:26 --> 05:33] and announced to the people that on grounds of infertility he was divorcing Octavia and marrying Papia instead.
+[05:34 --> 05:40] He then banished Octavia to the same small island that had previously been the de facto prison of her aunt, Agrippina the Elder.
+[05:41 --> 05:45] Eighteen days later, Nero married Papia in a lavish ceremony.
+[05:46 --> 05:51] The divorce and remarriage of Nero marks the first time the public really turned on the young emperor.
+[05:51 --> 05:58] Up until now he had been writing his Julian blood and generous social programs right into the hearts of the masses.
+[05:59 --> 06:02] But the people seemed to take the betrayal of Octavia personally.
+[06:02 --> 06:10] Well liked for her noble demeanor, they couldn't understand why Nero was suddenly dumping this fine Roman woman who they were all proud to call their empress.
+[06:10 --> 06:17] And who was taking her place? Some harlot adulterer? No, they weren't happy about this at all.
+[06:17 --> 06:24] It got so bad that people began carrying statues of Octavia through the streets, demanding that she be recalled from exile.
+[06:25 --> 06:31] Nero, spooked by the sudden demonstrations, nearly caved in, but Papia convinced him to do the other thing.
+[06:32 --> 06:37] The thing where, sorry, Octavia is dead, so as much as I'd like to, there's no one really left to recall.
+[06:38 --> 06:44] Imperial agents staged the murder of Octavia to make it look like a suicide, but no one was buying it.
+[06:44 --> 06:50] Whatever benefit of the doubt Nero had been receiving was now gone, and two years later, when Rome went up in flames,
+[06:50 --> 06:56] no one hesitated to accuse the emperor of setting the blaze himself for his own insane purposes.
+[06:58 --> 07:01] But it wasn't just the incident with Octavia that turned the people against Nero.
+[07:02 --> 07:06] In general, his policies were trending towards unsustainable extravagance.
+[07:06 --> 07:15] Not typical rich boy extravagance, mind you, but a budget-busting, megalomaniacal extravagance that was beginning to weigh the whole empire down.
+[07:16 --> 07:22] The key shift in his attitude came later in 62 AD, when the Praetorian prefect Burrus died of an illness.
+[07:23 --> 07:28] Though he had been gradually losing favor with the emperor, especially since the arrival of Papia,
+[07:28 --> 07:34] Burrus was still a positive influence on Nero, and his death left a giant hole where moderation used to be.
+[07:35 --> 07:43] His death also left the key office of Praetorian prefect open, and Nero filled the vacancy not with a man who would moderate his vices,
+[07:43 --> 07:45] but who would openly encourage them.
+[07:46 --> 07:54] Further, with Burrus dead, Seneca the Younger found himself isolated in an imperial court that was now dominated by Papia and her friends.
+[07:55 --> 08:02] After they began passing around rumors that the old man was embezzling from the state treasury, Seneca knew that he was a marked man.
+[08:02 --> 08:07] Rather than run the risk of winding up in front of some treason trial on trumped-up charges,
+[08:07 --> 08:12] Seneca resigned from his post and retired to a quiet life of philosophical contemplation.
+[08:13 --> 08:15] Not that it would all do him much good.
+[08:16 --> 08:19] Recognizing that his young charge was becoming a massive liability for the empire,
+[08:20 --> 08:27] Seneca would get caught up in the Pisonian conspiracy and then be exposed along with everyone else when the plot was betrayed in 65 AD,
+[08:28 --> 08:29] all of which I'll get to in a moment.
+[08:30 --> 08:35] The man who replaced Burrus as prefect was Gaius Ophonius Tegelinus,
+[08:36 --> 08:42] and it can be justifiably said that the downfall of Nero coincides neatly with the rise of Tegelinus.
+[08:43 --> 08:49] The new prefect quickly gained a reputation for cruelty and spent the majority of his seven odd years in office
+[08:49 --> 08:53] either persecuting the enemies of Nero or orchestrating his mass orgies.
+[08:54 --> 08:58] As I just said, where Burrus had acted to keep Nero in check,
+[08:58 --> 09:04] Tegelinus actively encouraged the emperor to indulge himself without reservation or hesitation.
+[09:05 --> 09:11] The combined influence of Poppaea and the new Praetorian prefect unhinged Nero completely from his super-ego
+[09:11 --> 09:18] and sent him down a path that eventually led to him committing suicide after being declared an enemy of the state in 68 AD.
+[09:18 --> 09:25] So remember kids, the super-ego may be a joyless old stick in the mud, but it's there for a reason.
+[09:27 --> 09:33] In 64 AD, the negative consequences of the emperor's excesses were finally put on full display
+[09:33 --> 09:38] following one of the seminal events of Nero's reign, the Great Fire of Rome.
+[09:39 --> 09:43] The accusations and counter-accusations about who was behind the disaster
+[09:43 --> 09:49] paint a picture of an emperor who had not only lost the faith of the aristocratic classes, but of the general public as well.
+[09:50 --> 09:55] Because the widely spread and widely believed rumor was that Nero had himself started the blaze.
+[09:56 --> 10:02] A popular and well-regarded ruler does not usually have to answer questions about whether or not he has burned his own capital down,
+[10:02 --> 10:05] but an increasingly disliked and despotic ruler?
+[10:06 --> 10:09] Well, those are exactly the sorts of questions that everyone starts asking.
+[10:10 --> 10:17] As disconnected as he was becoming from reality though, Nero wasn't oblivious to this evidence at his sinking popularity
+[10:17 --> 10:19] or the threat that that posed to his regime.
+[10:20 --> 10:24] His decision to scapegoat the early Christians and blame them for starting the fire
+[10:24 --> 10:29] is clear evidence that Nero decided he needed some kind of evil foil to point to
+[10:29 --> 10:32] to keep the public's tension off of his own failings.
+[10:33 --> 10:37] With the Romans already suspicious of those weirdo Christian cultists,
+[10:37 --> 10:44] Nero guessed that it would be easy to fan the flames of bigotry and in the process maybe regain some of his lost popularity.
+[10:46 --> 10:49] Accounts of the breadth and depth of the Great Fire differ,
+[10:49 --> 10:55] but the classic accounting is that three of the fourteen districts of Rome wound up utterly destroyed
+[10:55 --> 10:57] and another seven were badly damaged.
+[10:58 --> 11:01] The fire broke out near the Circus Maximus and quickly raged out of control,
+[11:01 --> 11:06] ultimately burning for somewhere between five and seven days before running out of fuel.
+[11:08 --> 11:10] In addition to the countless homes and businesses that were destroyed in the blaze,
+[11:11 --> 11:15] portions of the Imperial Palace were consumed along with the hearth of the Vestal Virgins
+[11:15 --> 11:17] and the Temple of the Jupiter Stator,
+[11:18 --> 11:24] which legend had it had been founded by Romulus himself after the Romans' first successful battle with the Sabines.
+[11:25 --> 11:29] The fire was devastating and in its aftermath the displaced victims,
+[11:29 --> 11:31] families who had lost everything,
+[11:31 --> 11:33] naturally wanted to know what had happened,
+[11:34 --> 11:36] why it had happened, and how it had happened.
+[11:37 --> 11:41] But there was no clear cause and in the absence of a plausible explanation,
+[11:41 --> 11:44] rumors began to fly that perhaps Nero was behind the whole thing.
+[11:45 --> 11:50] It had long been known that the Emperor dreamed of building a massive palace complex in the heart of the city,
+[11:50 --> 11:54] so wasn't it obvious that Nero had sent his agents, led by that damn Tigolinus,
+[11:54 --> 12:00] to start the fire in order to clear out the existing buildings that were in the way of his opulent vision?
+[12:01 --> 12:03] Reports began to crop up that while the fire raged,
+[12:04 --> 12:08] a joyful Nero had plucked at his prized lyre while watching the city go down in flames.
+[12:09 --> 12:14] In fact, wasn't it true that setting the fire hadn't even been about building his Golden Palace?
+[12:15 --> 12:19] Wasn't it just that Nero desired a magnificent backdrop for some new performance
+[12:19 --> 12:25] and that in the midst of the blaze he had dressed in a costume and sung the sack of Ilium for him and his monstrous friends?
+[12:26 --> 12:29] Wasn't it true that Nero had fiddled while Rome burned?
+[12:31 --> 12:32] So turned to the rumor mill.
+[12:33 --> 12:35] But were any of these rumors actually true?
+[12:36 --> 12:40] I tend to follow Tacitus on this because as biased as he is against Nero,
+[12:41 --> 12:46] he's usually reliable with his facts and he reports that Nero wasn't even in Rome at the time
+[12:46 --> 12:48] and when news that the city was on fire reached him,
+[12:49 --> 12:52] that he rushed back and immediately spearheaded a relief effort,
+[12:52 --> 12:55] housing refugees in the standing portions of the palace
+[12:55 --> 12:59] and arranging for food and water to be dispersed to victims throughout the city.
+[13:01 --> 13:03] Once the immediate emergency had passed,
+[13:03 --> 13:08] Nero then began a reconstruction effort that led to some pretty major revisions to the fire code
+[13:08 --> 13:13] and a rationalization of the organic mess that had been the urban plan of Rome.
+[13:14 --> 13:20] But for all these good works, Nero still managed to come off as the leading candidate for having set the fire
+[13:20 --> 13:25] because in the aftermath he did indeed set to work on building his golden palace,
+[13:25 --> 13:33] a complex of opulent buildings that eventually covered somewhere between 100 and 300 acres of prime downtown real estate.
+[13:34 --> 13:41] It was this blatant land grab as much as anything else that led many to believe that Nero had indeed set the fire.
+[13:42 --> 13:45] Conscious that his standing with the people was taking a hit,
+[13:45 --> 13:48] Nero decided he needed to find someone to take the fall for the fire.
+[13:49 --> 13:51] Someone he could point to and say,
+[13:51 --> 13:54] it was them, not me, I didn't have anything to do with it.
+[13:55 --> 14:00] But he couldn't just grab someone off the street because with his popularity sinking like a stone,
+[14:00 --> 14:05] that would just engender the further charge that he was setting up some innocent to take all the blame.
+[14:05 --> 14:11] What Nero needed was someone, some group, that the people disliked even more than him.
+[14:12 --> 14:17] Someone that the people were ready, willing and able to believe had done this horrible thing,
+[14:17 --> 14:22] if for no other reason than that the people were looking for an excuse to round up and punish them.
+[14:23 --> 14:24] Enter the Christians.
+[14:26 --> 14:28] In the 30 odd years since the death of Christ,
+[14:29 --> 14:32] nascent Christian communities had begun cropping up throughout the empire.
+[14:32 --> 14:35] At first they were primarily Jewish in character,
+[14:36 --> 14:40] but through the missionary work of St. Paul, known later as the Apostle to the Gentiles,
+[14:41 --> 14:44] this new religion began to spread into the Greco-Roman world.
+[14:45 --> 14:50] By the reign of Nero, a tiny community of believers, led according to tradition by St. Peter,
+[14:51 --> 14:53] had established a religious beachhead in Rome itself.
+[14:55 --> 14:57] The problem the early Christians faced in Rome, though,
+[14:57 --> 15:01] was not just that their religion, in comparison to the wider pagan world,
+[15:01 --> 15:03] struck the average Roman as downright weird,
+[15:04 --> 15:09] but also that at this point most Christian adherents were non-citizen resident aliens of the city,
+[15:09 --> 15:11] who spoke primarily Greek or Hebrew.
+[15:12 --> 15:16] So the Christians in Rome looked different, spoke a different language,
+[15:16 --> 15:18] usually came from the lower rungs of the social ladder,
+[15:19 --> 15:24] and belonged to a strange monotheistic cult that seemed to have cannibalistic overtones.
+[15:24 --> 15:29] All in all, they were capital O other in every sense of the word,
+[15:29 --> 15:32] and as has been proven over and over again by history,
+[15:33 --> 15:35] whenever terrible things happen to a community,
+[15:35 --> 15:39] economic problems, floods, plagues, fires,
+[15:39 --> 15:42] it is the capital O others who usually get blamed.
+[15:44 --> 15:48] So, desperate to shift responsibility for the Great Fire away from himself,
+[15:49 --> 15:52] Nero looked at these others, and decided to lay it all on them.
+[15:52 --> 15:59] He sent out his agents into the city, and had them round up as many identified Christians as they could find,
+[15:59 --> 16:03] drag them into dark rooms, and torture them until they admitted to starting the fire.
+[16:04 --> 16:10] These confessions in hand, Nero then decided to expand his persecution beyond some limited group of conspirators,
+[16:10 --> 16:13] and target the Christian community as a whole.
+[16:14 --> 16:19] According to Tacitus, Nero embarked on his persecution with a cruel zeal.
+[16:19 --> 16:22] Christians were thrown to the dogs for public amusement,
+[16:22 --> 16:24] crucified and left to die,
+[16:24 --> 16:26] or perhaps most gruesomely,
+[16:26 --> 16:31] crucified and then burnt alive to serve as torches for Nero's nightly parties.
+[16:32 --> 16:36] But if Nero was hoping that he could regain the public's favor by torturing Christians,
+[16:37 --> 16:39] he underestimated the humanity of the masses.
+[16:40 --> 16:43] Sure, the Christians are weird, and nobody really wants them around,
+[16:43 --> 16:46] but at a certain point, burning them alive for sport,
+[16:46 --> 16:49] while you and your friends watch and drink yourself stupid.
+[16:50 --> 16:52] Really? That seems a bit excessive, you know?
+[16:54 --> 16:59] Sympathy for the Christians grew, while Nero wound up even more unpopular than he had been when he started.
+[17:00 --> 17:03] So you could say that the plan backfired.
+[17:04 --> 17:10] I should also note that while it is not confirmed that St. Peter himself was caught up specifically in the great fire persecutions,
+[17:11 --> 17:15] tradition does have him being crucified by the Romans at some point in the mid-60s AD.
+[17:16 --> 17:19] St. Peter's Basilica, the beating heart of the Catholic Church,
+[17:20 --> 17:22] is allegedly built upon the spot where he was buried.
+[17:24 --> 17:27] As unpopular as Nero was becoming with the people of Rome,
+[17:28 --> 17:32] their dissatisfaction paled in comparison to the feelings of the Christians themselves
+[17:32 --> 17:36] who now came to revile Nero with an understandable fury.
+[17:37 --> 17:39] It has been suggested, I think plausibly,
+[17:40 --> 17:45] that the reference in the Book of Revelations to 666 being the number of the beast
+[17:45 --> 17:46] is a coded reference to Nero.
+[17:47 --> 17:50] I'm not going to get into the specifics of Jewish numerology,
+[17:51 --> 17:55] but basically, if you take the Greek spelling of Nero's name and translate it into Hebrew,
+[17:55 --> 17:59] you are left with a name that has the numerological value of 666.
+[18:00 --> 18:04] After Nero's suicide, there was a great deal of speculation, especially in the East,
+[18:04 --> 18:09] that Nero had not really died and was poised to make a dramatic comeback at any time.
+[18:10 --> 18:13] Fearful of Roman reprisals for speaking against the Caesars,
+[18:13 --> 18:17] but still wishing to warn their brethren about the threat that Nero posed,
+[18:17 --> 18:22] the early Christians used numerology to code in a reference for those with the wisdom to see.
+[18:24 --> 18:26] I think it's fair to say, too, that one of the primary reasons
+[18:26 --> 18:29] Nero has such a terrible historical reputation
+[18:29 --> 18:31] is that around about the fourth century,
+[18:31 --> 18:33] the Church Fathers got ahold of the history books
+[18:33 --> 18:38] and saw no reason to paint Nero as anything more than a demonic monster.
+[18:40 --> 18:41] While that perhaps went too far,
+[18:41 --> 18:45] even in his own time, Nero was fast running out of defenders.
+[18:46 --> 18:47] The people no longer trusted him,
+[18:48 --> 18:51] and the aristocracy, well, they hadn't liked him from the beginning.
+[18:53 --> 18:55] Like most autocrats, Nero had come to the throne
+[18:55 --> 18:58] promising greater power for the Senate and a lighter imperial hand,
+[18:59 --> 19:02] but before long, as usual, those promises were forgotten
+[19:02 --> 19:06] and the Senate returned to its natural state of irrelevancy.
+[19:07 --> 19:09] While this irrelevancy suited many men,
+[19:09 --> 19:13] who were members primarily for the social status it conferred upon them,
+[19:13 --> 19:15] there was still a core group of senators
+[19:15 --> 19:18] who either had an interest in good governance for its own sake
+[19:18 --> 19:21] or had personal political ambitions
+[19:21 --> 19:24] that they thought membership in the Senate could advance.
+[19:25 --> 19:29] In either case, Nero's actions in the early to mid-60s AD inflamed both.
+[19:30 --> 19:34] The emperor was slashing taxes while increasing public works projects
+[19:34 --> 19:37] and diverting funds into the construction of his palace,
+[19:38 --> 19:42] which now featured a 120-foot statue of himself looking down upon the city,
+[19:43 --> 19:46] all of which left the state teetering on the brink of insolvency.
+[19:46 --> 19:49] This, of course, offended the good government types.
+[19:50 --> 19:53] At the same time, if you weren't a part of Nero's inner circle of friends,
+[19:54 --> 19:55] good luck advancing your career.
+[19:56 --> 19:58] Nero played favorites early and often,
+[19:58 --> 20:02] and there were dozens of powerful men who didn't get on with the emperor personally,
+[20:02 --> 20:04] which left them out in the cold politically.
+[20:05 --> 20:07] This, of course, offended the ambitious types.
+[20:08 --> 20:11] These various offenses bubbled under the surface
+[20:11 --> 20:17] until a formal conspiracy to assassinate Nero coalesced around Gaius Calpurnius Piso.
+[20:19 --> 20:21] Piso was a distinguished statesman and orator
+[20:21 --> 20:24] who enjoyed a fine reputation at all levels of Roman society
+[20:24 --> 20:28] and who had been watching the devolution of Nero's reign with disgust.
+[20:28 --> 20:33] If Rome could be ruled again by a man of talent like Augustus,
+[20:33 --> 20:36] rather than men like his incompetent and insane descendants,
+[20:36 --> 20:41] the empire might thrive again rather than simply stagnate as it seemed to be doing.
+[20:42 --> 20:47] Piso, a man of modest ego, decided that the very best candidate to rule Rome,
+[20:47 --> 20:51] if the criteria was basic merit, was himself.
+[20:52 --> 20:54] Details of the plot remain sketchy,
+[20:54 --> 21:01] but it seems as though Piso had secured the support of Tegelinus' praetorian prefect collie Phineas Rufus,
+[21:01 --> 21:06] and the two men had agreed that upon the assassination of Nero, however that went down,
+[21:06 --> 21:11] Rufus would lead Piso to the praetorian camp where Piso would be declared the new emperor.
+[21:13 --> 21:17] Dozens of men in the Senate, in the imperial bureaucracy, and in the army
+[21:17 --> 21:22] eventually joined in the word-of-mouth conspiracy, including Seneca the Younger.
+[21:22 --> 21:25] But before the plan could be initiated, it was betrayed.
+[21:27 --> 21:31] When a young officer was heard complaining that his career had stalled because Nero didn't like him,
+[21:31 --> 21:34] he was approached about joining the growing plot.
+[21:35 --> 21:39] But rather than join, he decided to use the information he obtained to betray the plot
+[21:39 --> 21:41] as a means of currying favor with the emperor.
+[21:43 --> 21:46] Though the young officer lacked details, he put the imperial court on notice
+[21:46 --> 21:51] that a sizable chunk of the aristocracy was actively plotting the regime's downfall.
+[21:52 --> 21:57] In April of 65 AD, a freedman secretary confirmed the existence of the plot
+[21:57 --> 22:01] and provided the details that Nero's agents were looking for.
+[22:02 --> 22:07] Piso and everyone else were either ordered to commit suicide or were exiled to the provinces.
+[22:08 --> 22:10] Seneca committed suicide.
+[22:12 --> 22:15] The Pisonian conspiracy represented a very real threat to Nero.
+[22:16 --> 22:18] It was not some ham-fisted caper.
+[22:18 --> 22:24] It was a well-orchestrated plot that involved some of the most prominent men in Rome.
+[22:24 --> 22:27] Scared out of his wits that now everyone was out to get him,
+[22:28 --> 22:32] an increasingly paranoid Nero re-initiated indiscriminate treason trials,
+[22:32 --> 22:35] the bloody calling card of imperial insecurity.
+[22:36 --> 22:40] The trials, of course, only entrenched the aristocratic hatred of Nero,
+[22:40 --> 22:44] and in a few short years he would find himself fleeing his golden palace,
+[22:44 --> 22:47] friendless, and officially an enemy of the state.
+[22:49 --> 22:51] I'm going to leave it there for this week.
+[22:52 --> 22:56] Next time, we'll hop back and forth between the final stages of Nero's reign
+[22:56 --> 22:59] and the great revolt that erupts in Judea in 66 AD.
+[23:00 --> 23:04] And after that, I'll lay the groundwork for the year of the four emperors,
+[23:04 --> 23:06] the death of the Julio-Claudian dynasty,
+[23:06 --> 23:10] and the rise of the new Flavian dynasty that took its place once all the dust had settled.
+[23:12 --> 23:15] But before we take off into that next phase of Roman history,
+[23:15 --> 23:17] as some of you have already noticed,
+[23:17 --> 23:20] The History of Rome will be going off the air for about four weeks,
+[23:20 --> 23:23] following the September 13th episode.
+[23:23 --> 23:26] I am getting married on September 23rd,
+[23:26 --> 23:29] and then immediately moving from Portland, Oregon to Austin, Texas,
+[23:30 --> 23:33] so, long story short, I am going to be a very busy man
+[23:33 --> 23:36] and will not be able to pay my little podcast the attention it deserves.
+[23:37 --> 23:41] I want to direct all of you back to thehistoryofrome.typad.com,
+[23:41 --> 23:43] where I have posted a brief message on all of this,
+[23:44 --> 23:48] and also address the growing movement to have me keep going with this thing
+[23:48 --> 23:51] until the fall of Constantinople in 1453,
+[23:51 --> 23:54] which, as I explained, is most likely not going to happen.
+[23:55 --> 23:58] So, after this, we'll have three more episodes,
+[23:58 --> 24:02] the last of which will probably be a fun episode dedicated to Roman wedding customs,
+[24:02 --> 24:06] because, hey, right now it's basically wedding stuff all the time for me,
+[24:07 --> 24:09] so why should the History of Rome be any different?
+[24:33 --> 24:34] Thank you.

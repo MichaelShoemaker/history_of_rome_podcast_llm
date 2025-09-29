@@ -1,0 +1,21 @@
+# Flask App Requirements
+# For the RAG question-answering web interface
+
+# Web framework
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Vector database and embeddings
+qdrant-client>=1.7.0
+sentence-transformers>=2.2.0
+
+# Ollama integration
+ollama>=0.3.0
+requests>=2.31.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# Optional: For better JSON handling
+pydantic>=2.0.0

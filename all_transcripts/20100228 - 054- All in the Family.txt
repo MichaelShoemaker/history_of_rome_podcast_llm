@@ -1,0 +1,551 @@
+# 20100228 - 054- All in the Family
+# Detected language: en
+# Duration: 1472.05 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to The History of Rome, Episode 54, All in the Family.
+[00:12 --> 00:16] Before we get started, I just want to thank everyone for their feedback on the sponsorship
+[00:16 --> 00:17] issue.
+[00:18 --> 00:20] Based on the comments, it looks like ads will be a go.
+[00:21 --> 00:24] I'm not sure exactly when they're going to start, but I promise not to let it
+[00:24 --> 00:28] get in the way of anything and the content itself won't change a bit.
+[00:28 --> 00:33] When we left off last week, Augustus had set his sights on clearing out the last pockets
+[00:33 --> 00:38] of resistance to Roman rule within the existing boundaries of the Empire, before setting
+[00:38 --> 00:42] out to push those boundaries northwest to the Danube and Elbe rivers.
+[00:43 --> 00:47] Tiberius and his younger brother, Drusus, both in their early 20s, had been put in
+[00:47 --> 00:52] charge of the initial phase, pacifying the independent tribes living in and around
+[00:52 --> 00:52] the Alps.
+[00:53 --> 00:57] As I mentioned at the end of last week, it was important that Augustus elevate his
+[00:57 --> 01:00] stepsons to prominence as quickly as possible.
+[01:00 --> 01:04] The princeps' health had always been a concern, and even though he wound up
+[01:04 --> 01:08] living well into his 70s, the specter of sudden death always loomed large in
+[01:08 --> 01:09] his mind.
+[01:10 --> 01:14] Agrippa had thus far served admirably as a backstop in case Augustus were to die,
+[01:14 --> 01:18] but let's face it, he was growing old as quickly as Augustus was.
+[01:19 --> 01:23] A new generation would have to be ready to step forward if and when the princeps
+[01:23 --> 01:23] died.
+[01:24 --> 01:28] It is worth pointing out, though, that as much as selfishness contributed to
+[01:28 --> 01:32] Augustus' promotion of his stepsons because he wanted power to remain within
+[01:32 --> 01:35] the family, he also had his eye firmly on the public good.
+[01:36 --> 01:40] By having a well-established succession plan in place, Augustus could die
+[01:40 --> 01:44] knowing that when he did, it would not plunge his people back into
+[01:44 --> 01:45] immediate civil war.
+[01:47 --> 01:50] But just as Agrippa had been a necessary stand-in when true descendants of
+[01:50 --> 01:55] Augustus were unavailable, Tiberius and Drusus were now being set up to play
+[01:55 --> 01:56] much the same role.
+[01:57 --> 02:00] Though Augustus liked and trusted his stepsons, he was still biased
+[02:00 --> 02:03] towards passing power to a blood relative.
+[02:04 --> 02:06] It's almost as if the claim that he was not setting up a monarchy
+[02:06 --> 02:09] dominated by a royal family was completely bogus.
+[02:10 --> 02:14] The temporary status of Tiberius and Drusus' heirs' parent became
+[02:14 --> 02:17] clear once Agrippa and Julia's new family began to grow.
+[02:18 --> 02:22] After marrying his best friend to his only daughter in 21 BC,
+[02:23 --> 02:26] Augustus kept a close eye on the new couple, hoping they would produce
+[02:26 --> 02:28] a long-term solution to his dynastic problems.
+[02:29 --> 02:32] It did not take long for Augustus to be greeted with the happy news
+[02:32 --> 02:36] that Julia had given birth to a son, Gaius, in 20 BC.
+[02:37 --> 02:40] More good news followed, as the marriage of Agrippa and Julia
+[02:40 --> 02:43] proved to be a fertile one, and year after year, they produced
+[02:43 --> 02:45] child after child.
+[02:45 --> 02:52] In 19 BC, Julia the Younger was born, in 17 BC, a second son, Lucius.
+[02:52 --> 02:56] Three years later, Agrippina the Elder was born, followed in 12 BC
+[02:56 --> 03:00] by the final son, Agrippa Postumus, so named because he was born
+[03:00 --> 03:03] after the unfortunate early death of his father,
+[03:03 --> 03:04] which we will get to in a moment.
+[03:05 --> 03:08] In addition to this week's maps, which highlights the Danube
+[03:08 --> 03:12] provinces secured during the period, I have also posted a family
+[03:12 --> 03:14] tree of the Julio-Claudian dynasty.
+[03:14 --> 03:17] They are a tricky bunch to keep track of, because not only did
+[03:17 --> 03:20] they share about three total names between the whole lot of them,
+[03:20 --> 03:23] so which Agrippina are we talking about again?
+[03:23 --> 03:26] There was also some pretty heavy intermarriage going on.
+[03:26 --> 03:29] So I hope the family tree will help you sort everyone out.
+[03:29 --> 03:32] Keep it handy, because it should be good for about 80 more years.
+[03:34 --> 03:36] As I was saying, though, the births of Gaius and Lucius
+[03:36 --> 03:39] immediately put a sell-by date on Tiberius and Drusus.
+[03:40 --> 03:43] In a highly irregular move, Augustus decided to adopt the boys
+[03:43 --> 03:46] when they were still infants, bring them into his household,
+[03:46 --> 03:47] and raise them himself.
+[03:48 --> 03:51] There was simply too much at stake not to involve himself
+[03:51 --> 03:53] in every aspect of their lives and education.
+[03:54 --> 03:56] One of them was destined to sit on the throne.
+[03:57 --> 03:59] Augustus needed to make sure that they would be ready.
+[04:00 --> 04:03] But just because there was a planned obsolescence now
+[04:03 --> 04:05] built into Tiberius and Drusus,
+[04:05 --> 04:07] that did not mean that Augustus could simply ignore them.
+[04:08 --> 04:11] It would be 20 years or more before Gaius and Lucius
+[04:11 --> 04:14] could even begin the process of establishing public lives
+[04:14 --> 04:15] for themselves.
+[04:15 --> 04:18] Tiberius and Drusus were ready now.
+[04:18 --> 04:21] And with all the illnesses that had felled him over the years,
+[04:21 --> 04:24] Augustus knew that lasting the 20 years before his grandsons
+[04:24 --> 04:27] would be ready to take over was a dicey prospect at best.
+[04:28 --> 04:30] Plus, the ancient world being what it was,
+[04:30 --> 04:32] there was no guarantee that Gaius and Lucius
+[04:32 --> 04:34] would even survive childhood.
+[04:34 --> 04:37] It was best to keep as many irons in the fire as possible.
+[04:38 --> 04:41] So on the off chance that either Tiberius or Drusus
+[04:41 --> 04:44] was indeed destined to succeed him to the throne,
+[04:44 --> 04:46] Augustus made sure that everything stayed
+[04:46 --> 04:48] in the tight family he was building.
+[04:49 --> 04:52] So in 19 BC, he had Tiberius marry Vipsania,
+[04:52 --> 04:55] the daughter of Marcus Agrippa by his first wife.
+[04:55 --> 04:58] And not long after, Drusus married Antonia,
+[04:58 --> 05:00] the daughter of Augustus' sister Octavia,
+[05:00 --> 05:02] and ironically enough, Mark Antony.
+[05:03 --> 05:05] Both marriages were happy ones,
+[05:05 --> 05:06] though in the case of Tiberius,
+[05:07 --> 05:09] it was this very happiness that would open up a rift
+[05:09 --> 05:11] with Augustus that would be the hallmark
+[05:11 --> 05:13] of their future relationship with each other.
+[05:15 --> 05:18] In 17 BC, Augustus began to set the stage
+[05:18 --> 05:19] for his imperial expansion.
+[05:20 --> 05:22] That year, one of his generals in Gaul
+[05:22 --> 05:24] lost a minor battle to some Germanic tribes.
+[05:25 --> 05:28] Rather than letting the incident pass without notice,
+[05:28 --> 05:30] Augustus saw his opportunity
+[05:30 --> 05:32] to open up legal war in Germania.
+[05:33 --> 05:36] Just as is the case with most every civilized country
+[05:36 --> 05:39] across history, Rome never just declared war.
+[05:39 --> 05:42] Hostilities were only opened once Rome
+[05:42 --> 05:44] or one of their allied kingdoms was attacked.
+[05:45 --> 05:47] It was very important to the Roman sense of themselves
+[05:47 --> 05:50] that they only entered into just wars of self-defense.
+[05:51 --> 05:53] In theory, this meant that they were always
+[05:53 --> 05:56] on strong moral footing when they marched off to war,
+[05:56 --> 05:58] but in practice, this meant that they simply seized
+[05:58 --> 06:01] on the flimsiest pretext to launch a campaign.
+[06:02 --> 06:04] Now, Augustus had his flimsy pretext.
+[06:05 --> 06:07] He traveled himself to Gaul
+[06:07 --> 06:09] and began reorganizing the legions there
+[06:09 --> 06:11] to prepare them for what would no doubt be
+[06:11 --> 06:13] a difficult push across the Rhine River
+[06:13 --> 06:15] to the banks of the Elbe.
+[06:15 --> 06:17] The princeps would remain in the province
+[06:17 --> 06:19] for a good three years, keeping himself
+[06:19 --> 06:22] within easy reach of all the campaigns he had initiated.
+[06:24 --> 06:27] The first major push, as I said at the end of last week,
+[06:27 --> 06:29] was Tiberius and Jerusalem's invasion
+[06:29 --> 06:32] of what would become the province of Raetia,
+[06:32 --> 06:35] which covered modern-day Switzerland and part of Austria.
+[06:36 --> 06:38] In the single summer of 15 BC,
+[06:38 --> 06:40] the two brothers ruthlessly prosecuted
+[06:40 --> 06:43] a war of pacification against the tribes living there.
+[06:43 --> 06:45] The cause's bellae for the invasion, I should note,
+[06:46 --> 06:47] was some reported ill treatment
+[06:47 --> 06:49] of Roman citizens passing through the territory.
+[06:50 --> 06:52] Flimsy pretexts, I has them.
+[06:53 --> 06:54] Rather than being satisfied
+[06:54 --> 06:56] with simply beating the tribes on the battlefield
+[06:56 --> 06:58] and turning them into taxpayers,
+[06:58 --> 07:00] the two brothers decided that the best way
+[07:00 --> 07:02] to ensure the mountainous region
+[07:02 --> 07:04] remained safe for Roman travelers
+[07:04 --> 07:07] was to initiate a mass deportation of the men.
+[07:08 --> 07:09] Those who weren't sold into slavery
+[07:09 --> 07:11] were marched at spear point off their land.
+[07:12 --> 07:16] Women, children, and old men were left behind
+[07:16 --> 07:18] to keep the region nominally populated,
+[07:18 --> 07:19] but completely defenseless.
+[07:21 --> 07:23] Neighboring Raetia, incorporating the rest
+[07:23 --> 07:26] of modern Austria, was the recently consolidated,
+[07:26 --> 07:29] if still unofficial, province of Noricum.
+[07:30 --> 07:31] The tribes there had been friends of Rome
+[07:31 --> 07:35] since at least 170 BC and had actually been
+[07:35 --> 07:36] important allies of Julius Caesar
+[07:36 --> 07:38] during his civil wars against the Senate.
+[07:39 --> 07:42] In 16 BC, all Augustus had to do
+[07:42 --> 07:44] was order a proconsul in to occupy the land.
+[07:45 --> 07:47] The formal annexation of all the land
+[07:47 --> 07:49] south of the Danube was well underway.
+[07:51 --> 07:53] With Roman intentions obvious,
+[07:53 --> 07:56] the recently passive tribes inhabiting Pannonia
+[07:56 --> 07:57] rose up against encroachment.
+[07:58 --> 08:00] They had been beaten soundly by Augustus
+[08:00 --> 08:03] during his Illyrian campaigns 20 years earlier,
+[08:03 --> 08:05] but their territory had not been officially
+[08:05 --> 08:06] incorporated into the empire.
+[08:08 --> 08:10] The fiercely independent Pannonian tribes
+[08:10 --> 08:12] could barely stand unofficial servitude,
+[08:12 --> 08:13] so there was no way they were going
+[08:13 --> 08:15] to be able to stand official servitude.
+[08:16 --> 08:18] And with the legions on the march,
+[08:18 --> 08:20] that sure looked like what they were headed for.
+[08:21 --> 08:23] But that fierce independence would ironically
+[08:23 --> 08:25] sow the seeds for their loss of it,
+[08:25 --> 08:27] because not only were they predisposed
+[08:27 --> 08:28] to standing apart from Rome,
+[08:28 --> 08:30] they were also predisposed
+[08:30 --> 08:31] to standing apart from each other.
+[08:32 --> 08:34] Unable to establish a united front,
+[08:34 --> 08:36] the tribes were easily picked off one by one.
+[08:37 --> 08:39] That is not to say that the conquest of Pannonia
+[08:39 --> 08:40] took place overnight,
+[08:41 --> 08:43] as the conquest of Raetia basically had,
+[08:43 --> 08:45] but just to say that the outcome
+[08:45 --> 08:46] was never really in doubt.
+[08:48 --> 08:51] In 13 BC, the 29-year-old Tiberius
+[08:51 --> 08:53] served his consul for the first time,
+[08:54 --> 08:55] obviously long before he should have
+[08:55 --> 08:57] qualified for that office.
+[08:57 --> 09:00] Lifting age restrictions for his possible heirs
+[09:00 --> 09:02] was one of Augustus's favorite tricks
+[09:02 --> 09:04] to give them a leg up on the competition.
+[09:05 --> 09:07] When his year in the consulship was done,
+[09:07 --> 09:09] Tiberius would qualify for any number
+[09:09 --> 09:11] of pro-consulships in the provinces,
+[09:11 --> 09:12] where he could continue to grow
+[09:12 --> 09:13] his power and prestige.
+[09:14 --> 09:16] All the while, his peers would be hoping
+[09:16 --> 09:19] against hope to nail down that first quaestorship.
+[09:21 --> 09:24] 13 BC also marked, finally,
+[09:24 --> 09:25] the passing of Marcus Lepidus.
+[09:26 --> 09:28] The old triumvirate had managed to last
+[09:28 --> 09:31] another 25 years living in comfortable obscurity
+[09:31 --> 09:34] after being booted from the triumvirate in 36 BC.
+[09:35 --> 09:38] The one concession Augustus had allowed Lepidus
+[09:38 --> 09:39] when the latter left the public stage
+[09:39 --> 09:42] was allowing him to remain as Pontifex maximus,
+[09:43 --> 09:45] an office he had held since the death of Julius Caesar.
+[09:46 --> 09:47] When Lepidus died,
+[09:47 --> 09:50] Augustus naturally assumed the high priesthood.
+[09:51 --> 09:53] Now, the princeps was the official head
+[09:53 --> 09:55] of all three branches of Roman public life,
+[09:56 --> 09:58] the church, the state, and the military.
+[10:00 --> 10:01] At the end of the year,
+[10:02 --> 10:04] with operations in Pannonia going well,
+[10:04 --> 10:07] but not perfectly, Augustus sent in Marcus Agrippa
+[10:07 --> 10:09] to bring the annexation to a speedy conclusion.
+[10:10 --> 10:13] Eager to get started, Agrippa immediately set sail
+[10:13 --> 10:15] for the Balkans and spent the winter there,
+[10:15 --> 10:17] planning the next summer's campaign.
+[10:18 --> 10:21] But it was a campaign that he would not live to see.
+[10:21 --> 10:24] Suffering from a number of nagging ailments,
+[10:24 --> 10:26] Agrippa caught sick and was forced to return home
+[10:26 --> 10:27] in March of 12 BC.
+[10:29 --> 10:32] But landing in Brundisium, he took a turn for the worse.
+[10:33 --> 10:36] Messengers raced to Rome to deliver the news to Augustus
+[10:36 --> 10:38] who dropped what he was doing and rushed to Brundisium,
+[10:38 --> 10:40] but by the time he got there, it was too late.
+[10:41 --> 10:42] Marcus Agrippa was dead.
+[10:44 --> 10:47] It would be difficult to overstate what a blow this was.
+[10:48 --> 10:50] Agrippa was basically the reason
+[10:50 --> 10:52] Augustus had gotten anywhere in life.
+[10:52 --> 10:54] The inherited name of Julius Caesar
+[10:54 --> 10:56] was obviously the catalyst for his rise,
+[10:57 --> 10:58] and the savvy advice of Messinus
+[10:58 --> 11:00] helped him pick his way through the treacherous world
+[11:00 --> 11:02] of Roman politics.
+[11:02 --> 11:04] But it would all have been for naught
+[11:04 --> 11:05] without victories on the battlefield.
+[11:06 --> 11:08] And all of Augustus' most important victories
+[11:08 --> 11:11] against First Sextus Pompey and then Mark Antony
+[11:11 --> 11:13] had been won by Agrippa.
+[11:14 --> 11:16] The death of the great general at age 51
+[11:16 --> 11:20] was a harsh reminder that while he was now all powerful,
+[11:20 --> 11:23] Augustus never really had been able to do it alone.
+[11:23 --> 11:25] The question of what would happen
+[11:25 --> 11:27] the next time a key military victory was required
+[11:27 --> 11:30] must have weighed heavy on Augustus' mind.
+[11:30 --> 11:32] Because not only had he been able to trust Agrippa
+[11:32 --> 11:33] to win the battle,
+[11:34 --> 11:35] but he could also trust Agrippa
+[11:35 --> 11:37] not to betray him afterwards.
+[11:38 --> 11:40] The next great battle, if such a thing occurred,
+[11:40 --> 11:42] would be fraught with danger for the regime.
+[11:43 --> 11:45] Defeat would mean a loss of legitimacy,
+[11:46 --> 11:48] while victory would mean a new rival for power.
+[11:49 --> 11:52] The death of Agrippa was bad news for Augustus
+[11:52 --> 11:54] no matter which way he sliced it.
+[11:55 --> 11:57] But that did not mean Augustus
+[11:57 --> 11:58] was going to simply cash in his chips
+[11:58 --> 12:01] or linger too long over the death of his friend.
+[12:02 --> 12:04] After escorting Agrippa's body back to Rome,
+[12:05 --> 12:06] Augustus placed the remains
+[12:06 --> 12:08] in his own recently constructed mausoleum.
+[12:08 --> 12:11] So at least in death, the two friends would be reunited.
+[12:13 --> 12:14] But when he closed the doors on the tomb,
+[12:14 --> 12:16] it was time to move on.
+[12:17 --> 12:18] The key question was what to do
+[12:18 --> 12:20] with his now twice-widowed daughter, Julia.
+[12:22 --> 12:24] He mulled over, but then dismissed the idea
+[12:24 --> 12:26] of marrying her to an ally outside the family.
+[12:27 --> 12:29] No, Augustus wanted to keep everything
+[12:29 --> 12:31] in a nice tight little bundle,
+[12:31 --> 12:33] so he settled on marrying her to Tiberius.
+[12:35 --> 12:37] The only problem was that Tiberius
+[12:37 --> 12:38] was happily married to Vipsonium,
+[12:39 --> 12:41] and he had no desire to marry the woman
+[12:41 --> 12:43] who had so recently been his stepmother-in-law.
+[12:44 --> 12:47] He and Vipsonium had already produced a healthy son
+[12:47 --> 12:49] named Nero Claudius Jerusus,
+[12:49 --> 12:51] named unusually after his uncle
+[12:51 --> 12:54] rather than Tiberius himself, as was the custom.
+[12:55 --> 12:56] But when Augustus made up his mind,
+[12:56 --> 12:58] he made up everybody's mind.
+[12:59 --> 13:01] Tiberius was forced to divorce Vipsonium
+[13:01 --> 13:02] and marry Julia.
+[13:03 --> 13:04] The bitterness over the incident
+[13:04 --> 13:06] grew slowly in Tiberius.
+[13:06 --> 13:09] Sparked at first simply by his longing for Vipsonium,
+[13:10 --> 13:12] but then nursed into a full-blown fiery rage
+[13:12 --> 13:15] when he really got to know his new wife.
+[13:16 --> 13:19] The problem was that the two were simply not compatible.
+[13:20 --> 13:22] Tiberius was conservative, thoughtful,
+[13:23 --> 13:25] and at times an admittedly humorless man.
+[13:26 --> 13:28] He was smart, talented, and ambitious,
+[13:28 --> 13:30] but embraced none of the flamboyance
+[13:30 --> 13:32] that had come to mark Julia's personality.
+[13:34 --> 13:35] As the only daughter of Augustus,
+[13:35 --> 13:38] Julia had been raised in a pampered world
+[13:38 --> 13:39] of wealth and privilege.
+[13:40 --> 13:41] But now that she was grown up,
+[13:41 --> 13:43] she was not daddy's little girl anymore.
+[13:43 --> 13:46] She was now simply a pawn in her father's dynastic games.
+[13:48 --> 13:50] Never one to consider his daughter's feelings,
+[13:50 --> 13:53] Augustus married her off as was politically expedient
+[13:53 --> 13:55] and then took her sons Gaius and Lucius away
+[13:55 --> 13:57] at the first opportunity.
+[13:58 --> 14:00] In response, Julia began to act out
+[14:00 --> 14:03] against her father's obsession with traditional morality
+[14:03 --> 14:05] and proceeded to carry on affairs
+[14:05 --> 14:06] with Rome's leading men,
+[14:07 --> 14:09] essentially making a fool out of Augustus
+[14:09 --> 14:10] behind his moralizing back.
+[14:12 --> 14:13] Tiberius stepped into the situation
+[14:13 --> 14:16] and soon found himself playing the cuckold.
+[14:17 --> 14:19] But as much as Tiberius disdained his new wife,
+[14:19 --> 14:22] it seems that Julia was no great fan of Tiberius's either.
+[14:23 --> 14:25] She even sent a letter to her father
+[14:25 --> 14:27] through an intermediary denouncing Tiberius
+[14:27 --> 14:30] as unworthy of her hand in marriage and beneath her.
+[14:31 --> 14:33] After their only child died in infancy,
+[14:33 --> 14:36] Tiberius seems to have renounced marital relations
+[14:36 --> 14:38] with Julia, not that she cared.
+[14:40 --> 14:42] After Agrippa died, Tiberius inherited
+[14:42 --> 14:44] not just the general's widow,
+[14:44 --> 14:46] but also his command in Pannonia.
+[14:47 --> 14:49] Drusus meanwhile was placed in charge
+[14:49 --> 14:50] of the armies of the Rhine
+[14:50 --> 14:53] and in contrast to Tiberius's unhappy private life,
+[14:53 --> 14:55] found his own family a source of great joy.
+[14:57 --> 14:59] His marriage to Antonia was a happy one
+[14:59 --> 15:00] and produced three children,
+[15:00 --> 15:03] each destined for a life in the public eye.
+[15:04 --> 15:07] Drusus returned the compliment Tiberius had paid him
+[15:07 --> 15:08] by naming his own eldest son,
+[15:09 --> 15:13] born in either 16 or 15 BC, Nero Claudius Tiberius.
+[15:13 --> 15:15] Of course, we know the boy today
+[15:15 --> 15:19] by the agnomen he inherited from his father, Germanicus.
+[15:20 --> 15:24] Filling out the family was Julia Lovilla, born in 13 BC,
+[15:25 --> 15:28] and the reversely named Tiberius Claudius Nero,
+[15:28 --> 15:29] born in 10 BC.
+[15:30 --> 15:32] Obviously the Romans were not much for unique naming,
+[15:32 --> 15:34] so from here on out,
+[15:34 --> 15:36] I'll be referring to them as Germanicus,
+[15:36 --> 15:38] Lovilla, and Claudius respectively.
+[15:39 --> 15:40] And in case you didn't already know,
+[15:40 --> 15:42] yes, that Claudius.
+[15:43 --> 15:46] The young family was the toast of the Roman world.
+[15:46 --> 15:48] Drusus, unlike his sad sack
+[15:48 --> 15:49] and socially awkward older brother,
+[15:50 --> 15:52] was outgoing and universally popular.
+[15:53 --> 15:56] Antonia herself soon joined the auspicious ranks
+[15:56 --> 15:59] of Cornelia Africana, mother of the Gracchi brothers,
+[15:59 --> 16:00] and her own mother, Octavia,
+[16:00 --> 16:04] as a near deified paragon of womanly virtue.
+[16:05 --> 16:07] When Drusus died, she refused to remarry,
+[16:07 --> 16:09] eventually living another five decades
+[16:09 --> 16:10] without ever taking a new husband,
+[16:11 --> 16:13] a highly unusual state of affairs.
+[16:15 --> 16:17] From 11 BC to nine BC,
+[16:18 --> 16:19] the two step-sons of Augustus
+[16:19 --> 16:21] battled their way into hostile territory.
+[16:22 --> 16:24] Tiberius had the easier time of it
+[16:24 --> 16:27] because, as I said, the tribes of Pannonia
+[16:27 --> 16:28] remained too disconnected
+[16:28 --> 16:30] to really prove a match for the legions.
+[16:31 --> 16:33] But Germania was a different story.
+[16:34 --> 16:36] The tribes there were larger, tougher,
+[16:36 --> 16:37] and more strategically advanced
+[16:37 --> 16:39] than the natives in Pannonia.
+[16:40 --> 16:42] Drusus was able to eventually push his armies
+[16:42 --> 16:43] all the way to the Elbe,
+[16:44 --> 16:46] but every winter he was forced to withdraw back
+[16:46 --> 16:47] to the safety of Gaul.
+[16:48 --> 16:50] When they faced Drusus in battle,
+[16:50 --> 16:51] the Germans usually lost,
+[16:52 --> 16:54] but that in no way led to anything resembling
+[16:54 --> 16:55] an atmosphere of conquest.
+[16:56 --> 16:58] Like the Romans themselves,
+[16:58 --> 17:00] the Germans could lose all the battles in the world
+[17:00 --> 17:02] and still never admit defeat.
+[17:03 --> 17:07] In 9 AD, a Roman general named Publius Varus
+[17:07 --> 17:09] would make the mistake of thinking the Germans
+[17:09 --> 17:11] had conquered people and lead three legions
+[17:11 --> 17:13] into a disaster that would see the Romans
+[17:13 --> 17:15] more or less withdraw from Germania forever,
+[17:16 --> 17:19] the dream of a border on the Elbe River abandoned.
+[17:21 --> 17:23] Disaster struck the royal family,
+[17:23 --> 17:24] and really, that's what they were,
+[17:24 --> 17:28] a royal family, in the late summer of 9 BC,
+[17:28 --> 17:30] when Drusus fell off of his horse.
+[17:31 --> 17:32] He'd been winding down a successful year
+[17:32 --> 17:34] in the consulship and was preparing
+[17:34 --> 17:36] to take on proconsular authority
+[17:36 --> 17:38] and follow his brother up the chain of command,
+[17:39 --> 17:42] but just like that, his career and his life
+[17:42 --> 17:43] were cut short.
+[17:44 --> 17:46] The injuries he sustained from the fall
+[17:46 --> 17:47] likely became infected,
+[17:47 --> 17:49] and he was simply unable to recover.
+[17:50 --> 17:52] In a touching tribute to the bond
+[17:52 --> 17:53] shared by the brothers,
+[17:53 --> 17:57] Tiberius raced across 200 miles of hostile territory
+[17:57 --> 17:59] accompanied by a single Gallic guide
+[17:59 --> 18:00] when he heard the news.
+[18:01 --> 18:03] Unlike Augustus racing to meet Agrippa,
+[18:03 --> 18:05] Tiberius was able to make it in time,
+[18:05 --> 18:06] but just barely.
+[18:07 --> 18:08] Soon after his brother's arrival,
+[18:09 --> 18:09] Drusus died.
+[18:11 --> 18:12] Tiberius led the body back to Rome
+[18:12 --> 18:15] and was soon joined by Augustus and Livia,
+[18:15 --> 18:16] who was beside herself with grief
+[18:16 --> 18:18] at the loss of her son.
+[18:19 --> 18:21] As I said, Antonia never remarried.
+[18:21 --> 18:23] She moved in with Augustus and Livia,
+[18:23 --> 18:25] and her children were raised alongside
+[18:25 --> 18:28] their older cousins, Gaius and Lucius.
+[18:29 --> 18:32] The next year brought only more bad news for Augustus.
+[18:33 --> 18:35] Messinus, his longtime friend
+[18:35 --> 18:37] and key political advisor during the rise to power,
+[18:38 --> 18:41] died in October, leaving Augustus alone at the top.
+[18:42 --> 18:45] There is something indispensable about advisors
+[18:45 --> 18:47] who are around before power is won,
+[18:48 --> 18:49] who can speak plainly and directly
+[18:49 --> 18:51] without succumbing to awe.
+[18:52 --> 18:54] Augustus was fast running out of such men,
+[18:55 --> 18:57] and the two most important were now dead.
+[18:58 --> 19:00] Augustus, for so long the young man
+[19:00 --> 19:02] fighting his elders for power,
+[19:02 --> 19:03] was now himself the elder,
+[19:04 --> 19:05] surrounded by younger men
+[19:05 --> 19:06] whose relationship to him
+[19:06 --> 19:09] was inalterably colored by his supreme power.
+[19:11 --> 19:13] Augustus was never lonely or lacking for company,
+[19:14 --> 19:16] but at this point, the only person left
+[19:16 --> 19:19] who resembled both a friend and an equal was Livia.
+[19:21 --> 19:23] There was much speculation about why he remained with her
+[19:23 --> 19:25] after it became apparent that their marriage
+[19:25 --> 19:26] would never produce children,
+[19:27 --> 19:30] but perhaps she gave him access to an easy familiarity
+[19:30 --> 19:33] that he would be unable to find anywhere else.
+[19:34 --> 19:36] File that under pure speculation, though.
+[19:37 --> 19:39] With Agrippa and Drusus dead,
+[19:40 --> 19:42] the only man ready to step into power now,
+[19:42 --> 19:44] should Augustus die, was Tiberius.
+[19:45 --> 19:48] Probably out of consideration for this fact,
+[19:48 --> 19:50] Tiberius was promoted to a status
+[19:50 --> 19:52] not unlike that attained by Agrippa
+[19:52 --> 19:55] after Augustus's brush with death in 23 BC.
+[19:56 --> 19:59] After taking over his brother's command in Germania,
+[19:59 --> 20:01] he served his consul in 7 BC,
+[20:01 --> 20:03] and was then granted the same power
+[20:03 --> 20:05] of the tribunate that Augustus enjoyed.
+[20:06 --> 20:08] Once his year in the consulship was over,
+[20:09 --> 20:11] Augustus had slated Tiberius to head east
+[20:11 --> 20:14] and oversee another intervention into Armenia,
+[20:14 --> 20:17] where a pro-Parthian monarch had recently ascended the throne.
+[20:18 --> 20:22] But Tiberius shocked everyone when he suddenly announced
+[20:22 --> 20:23] that he would be doing no such thing,
+[20:24 --> 20:27] that, in fact, he was retiring from public life for good.
+[20:29 --> 20:31] Historians, both ancient and modern,
+[20:31 --> 20:34] have puzzled over Tiberius's inexplicable retirement.
+[20:35 --> 20:38] Some posit that he could see plainly
+[20:38 --> 20:40] that he was simply a temporary placeholder,
+[20:40 --> 20:42] that he would be forced to step aside
+[20:42 --> 20:44] for Gaius and Lucius eventually,
+[20:44 --> 20:46] so why waste his life clearing the way
+[20:46 --> 20:48] for his younger stepbrothers?
+[20:49 --> 20:50] Others say that he actually had
+[20:50 --> 20:52] the teenager's best interests at heart,
+[20:52 --> 20:54] and was removing himself from this stage
+[20:54 --> 20:56] so there would be no competition
+[20:56 --> 20:57] for the public's attention.
+[20:58 --> 21:00] And, of course, on a more personal level,
+[21:01 --> 21:02] everyone likes to point out how unhappy
+[21:02 --> 21:05] the marriage between Tiberius and Julia was,
+[21:05 --> 21:07] and that when he retired,
+[21:07 --> 21:10] he was retiring as much from her as he was from politics.
+[21:11 --> 21:13] Whatever the real reason, in 6 BC,
+[21:14 --> 21:16] the one man Augustus would feel comfortable
+[21:16 --> 21:19] turning over the empire to, walked away from him.
+[21:21 --> 21:23] Augustus was enraged by his stepson's betrayal,
+[21:23 --> 21:25] and when the princeps announced
+[21:25 --> 21:26] Tiberius's decision to the Senate,
+[21:27 --> 21:28] his remarks made it very clear
+[21:28 --> 21:30] that he was taking the whole thing personally.
+[21:32 --> 21:33] But despite the heavy pressure
+[21:33 --> 21:34] exerted on him to reconsider,
+[21:35 --> 21:37] Tiberius packed his bags and sailed for Rhodes,
+[21:38 --> 21:40] the island he had chosen for his self-imposed ex-wife.
+[21:41 --> 21:44] It's hard to tell what to make of the episode.
+[21:44 --> 21:45] Did Tiberius really think
+[21:45 --> 21:47] he was leaving public life behind,
+[21:47 --> 21:49] or was it all some elaborate charade
+[21:49 --> 21:52] designed to prove how indispensable he was?
+[21:52 --> 21:54] To partially answer the question,
+[21:54 --> 21:56] I think we can look to the fact
+[21:56 --> 21:58] that while Tiberius gave up formal office
+[21:58 --> 21:59] when he left for Rhodes,
+[22:00 --> 22:02] he conspicuously did not give back
+[22:02 --> 22:04] the at-large powers the Senate had bestowed upon him.
+[22:05 --> 22:07] One suspects that Tiberius
+[22:07 --> 22:09] was not done with politics just yet.
+[22:12 --> 22:15] Tiberius's announcement left Augustus in a bind.
+[22:15 --> 22:19] Gaius and Lucius, at this point, were only 14 and 11.
+[22:19 --> 22:22] If the princeps died, who would take over?
+[22:22 --> 22:23] Because they certainly weren't ready.
+[22:24 --> 22:27] Tiberius could always be returned from retirement,
+[22:27 --> 22:29] but this whole self-imposed exile thing
+[22:29 --> 22:31] would make it very difficult to arrange
+[22:31 --> 22:33] for a peaceful transfer of power.
+[22:34 --> 22:36] If Tiberius was still retired when Augustus died,
+[22:37 --> 22:40] other ambitious men would seize on the opportunity
+[22:40 --> 22:42] to lay their own claim on the throne.
+[22:43 --> 22:44] Since that certainly wouldn't do,
+[22:45 --> 22:46] Augustus was left with no other choice.
+[22:47 --> 22:48] He simply had to keep living.
+[22:49 --> 22:50] One way or the other,
+[22:50 --> 22:52] he would have to stay alive long enough
+[22:52 --> 22:54] to see Gaius and Lucius come of age
+[22:54 --> 22:57] and establish a place in Roman public life for themselves.
+[22:59 --> 23:02] Next week, fate will continue to mock
+[23:02 --> 23:04] Augustus's plan for a permanent dynasty.
+[23:05 --> 23:07] While the princeps focused on outliving
+[23:07 --> 23:08] the childhoods of his two grandsons,
+[23:08 --> 23:11] he was not prepared to outlive them completely.
+[23:12 --> 23:13] But when death came calling,
+[23:14 --> 23:16] first for Lucius and then for Gaius,
+[23:16 --> 23:18] the princeps could only stand by helplessly
+[23:18 --> 23:21] as his young heirs were stolen away from him.
+[23:22 --> 23:25] To make matters worse, by the time the two boys died,
+[23:25 --> 23:27] Augustus had already banished Julia from Rome
+[23:27 --> 23:29] when somebody finally told him
+[23:29 --> 23:31] what she had been up to all these years.
+[23:32 --> 23:34] With his only daughter wasting away in exile
+[23:34 --> 23:36] and his two prized grandsons dead,
+[23:36 --> 23:38] the family Augustus had worked so hard
+[23:38 --> 23:41] to build and protect was now in shambles.
+[23:42 --> 23:45] The Julian line could no longer stand on its own two feet.
+[23:45 --> 23:47] It would need a transfusion of blood
+[23:47 --> 23:49] from the Claudians to survive.
+[23:51 --> 23:54] Before we go, I would like to take a personal moment here
+[23:54 --> 23:56] as today is Mother's Day in the United States.
+[23:57 --> 23:59] Mom, I know you're like three episodes behind the pace,
+[23:59 --> 24:02] so this won't get to you for another week or two.
+[24:02 --> 24:03] But wherever you are,
+[24:03 --> 24:04] probably trucking around the neighborhood,
+[24:04 --> 24:06] happy Mother's Day.
+[24:06 --> 24:07] I love you.

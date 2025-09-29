@@ -1,0 +1,366 @@
+# 20110221 - 127- Commanding The Economy
+# Detected language: en
+# Duration: 1698.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you know, Audible is the internet's leading provider of audio entertainment with over
+[00:08 --> 00:11] 80,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:16 --> 00:20] That again audiblepodcast.com forward slash Rome.
+[00:20 --> 00:24] By going to that address, you qualify for a free book download when you sign up for
+[00:24 --> 00:26] a 14-day trial membership.
+[00:26 --> 00:30] There is no obligation to continue the service and you can cancel any time and keep the free
+[00:30 --> 00:32] book download.
+[00:32 --> 00:36] You can also keep going with one of the monthly subscription options and get great deals on
+[00:36 --> 00:39] all future audiobook purchases.
+[00:39 --> 00:44] This week I see that there is another Julius Caesar biography available, this one by Samuel
+[00:44 --> 00:45] Willard Crompton.
+[00:45 --> 00:50] So if you still can't get enough of everyone's favorite dictator, well, now's your chance
+[00:50 --> 00:53] to get even more.
+[00:53 --> 00:57] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent
+[00:57 --> 01:03] you.
+[01:03 --> 01:14] Hello and welcome to the History of Rome, episode 127, Commanding the Economy.
+[01:14 --> 01:19] When Diocletian first came into office, the Roman economy was pretty much just limping
+[01:19 --> 01:20] along.
+[01:20 --> 01:26] In the critical agricultural sector, the combination of war, plague, and forced migration
+[01:26 --> 01:32] had left Rome with fewer people harvesting fewer crops from fewer functional farms.
+[01:32 --> 01:37] In the less critical but still important urban centers, the hardships of the past 50 years
+[01:37 --> 01:44] had essentially brought construction, trade, skilled craft, and banking to a standstill.
+[01:44 --> 01:48] But as with everything else, Diocletian was optimistic about the future.
+[01:48 --> 01:54] He had big fancy plans for the economy and turning it into what he wanted to turn everything
+[01:54 --> 01:55] into.
+[01:55 --> 01:59] A rational, centrally controlled mechanism that once organized properly would begin producing
+[01:59 --> 02:04] wealth for everyone in quantities not seen in years.
+[02:04 --> 02:09] Yes, the problem of inflation would put a kink in his plans, but Diocletian was determined
+[02:09 --> 02:14] to see the Roman economy reinvented and by the time he abdicated, economic activity in
+[02:14 --> 02:21] the empire had taken on an almost wholly different character from what it had been before.
+[02:21 --> 02:26] Part of the change was the result of the natural evolutionary forces of civilization, but much
+[02:26 --> 02:33] of it was the result of the reforms Diocletian himself initiated.
+[02:33 --> 02:38] Just to give you an idea of where we're going, I want to talk today about four things.
+[02:38 --> 02:44] The attempt to stabilize the currency, the reorganization of the tax structure, the calcification
+[02:44 --> 02:51] of professions, and finally the edict on prices, which though it achieved basically nothing,
+[02:51 --> 02:57] is a fascinating bit of history nonetheless.
+[02:57 --> 03:01] So yeah, it has finally happened.
+[03:01 --> 03:06] Years of misguided imperial fiscal policy have finally ruined the currency of the Roman
+[03:06 --> 03:08] Empire.
+[03:08 --> 03:14] By the 280s AD, prices had begun to soar, wages had become inadequate, and savings were
+[03:14 --> 03:16] wiped out.
+[03:16 --> 03:17] It was bound to happen.
+[03:17 --> 03:22] As I mentioned before, the sheer volume of base metal coins flooding out into circulation
+[03:22 --> 03:26] would eventually cause major problems for the empire, and it was during the reign of
+[03:26 --> 03:30] Diocletian that those chickens finally came home to roost.
+[03:30 --> 03:34] Which was a particularly maddening state of affairs for the senior Augustus, because in
+[03:34 --> 03:39] almost every other respect, the empire was recovering from its brush with death.
+[03:39 --> 03:44] But when it came to the money, not only was the wound not healing, it had only just begun
+[03:44 --> 03:50] to bleed, and no one knew how to stop it.
+[03:50 --> 03:54] As with his predecessors, Diocletian understood that there was something inherently dangerous
+[03:54 --> 03:59] about making the coins of the empire literally less valuable.
+[03:59 --> 04:04] Of course, that hadn't stopped his predecessors from going ahead and debasing the coins anyway,
+[04:04 --> 04:08] but they all sort of grasped that they were playing with fire, which is why debasement
+[04:08 --> 04:11] went on in secret.
+[04:11 --> 04:15] Aurelian had finally arrested the freefall, and even turned back the tide a bit, and Diocletian
+[04:15 --> 04:22] hoped to follow his lead and bring the currency of the Roman Empire back into respectability.
+[04:22 --> 04:28] To this end, he ordered that a new hierarchy of five coins begin circulation immediately,
+[04:28 --> 04:31] based on the old three-metal system.
+[04:31 --> 04:37] Two copper coins and one silver-copper mixed coin for everyday transactions.
+[04:37 --> 04:43] One nearly pure silver coin, something which had not been seen in years for larger purposes,
+[04:43 --> 04:48] and one high-grade gold coin reserved for major payments, those usually coming from
+[04:48 --> 04:52] or going to the imperial government.
+[04:52 --> 04:56] One of the side effects of debasement had been that cheap silver coins had pushed the
+[04:56 --> 05:02] more common copper coins, the dollars and cents used on a daily basis by the population,
+[05:02 --> 05:08] out of circulation, which threw the whole system completely out of whack.
+[05:08 --> 05:14] Diocletian hoped that his new hierarchy would return balance to the system, but, unfortunately,
+[05:14 --> 05:16] no dice.
+[05:16 --> 05:22] See, while there is no denying that the coins Diocletian issued during this period were
+[05:22 --> 05:28] of far better quality than what had been released over the course of the preceding generation,
+[05:28 --> 05:32] Diocletian was not practicing monetary policy in a vacuum.
+[05:32 --> 05:37] Had his new currency system been set up on a blank slate, it probably would have worked
+[05:37 --> 05:38] great.
+[05:38 --> 05:44] But the Roman Empire, at the end of the third century, was anything but a blank slate.
+[05:44 --> 05:49] There were just millions and millions of bad coins already out there, and given the shortage
+[05:49 --> 05:55] of precious metals and the exacting standards Diocletian was trying to reassert in the mints,
+[05:55 --> 06:01] his new coins were simply unable to make a big enough impact to really curb inflation.
+[06:01 --> 06:06] Plus, the Romans didn't really understand the root of the problem, and so they missed
+[06:06 --> 06:09] what is today obvious to us.
+[06:09 --> 06:14] It is not necessarily the intrinsic value of the coin that is important to setting prices.
+[06:14 --> 06:20] It is rather the number of coins in circulation.
+[06:20 --> 06:22] Now the Romans weren't complete dummies.
+[06:22 --> 06:26] They understood the basics of scarcity and abundance.
+[06:26 --> 06:30] After all, they lived and died each year with crop failures and bumper harvests driving
+[06:30 --> 06:34] the prices of grain all over the map.
+[06:34 --> 06:38] But they never made the leap to understanding that the same laws affect currency.
+[06:38 --> 06:42] To the Romans, currency was a stable element.
+[06:42 --> 06:46] A coin was worth exactly what it was worth, whether there were five hundred in circulation
+[06:46 --> 06:49] or five million.
+[06:49 --> 06:54] And the thing is, for the most part, that had been true in their experience.
+[06:54 --> 06:58] The price of goods and the wages of workers and soldiers changed very little over the
+[06:58 --> 07:03] centuries, in sharp contrast to our own experience of that trip to the movie costing more with
+[07:03 --> 07:06] each passing year.
+[07:06 --> 07:10] So they just failed to grasp that the sheer tonnage of coins out in the marketplace was
+[07:10 --> 07:14] affecting the purchasing power of all those coins.
+[07:14 --> 07:18] And here was Diocletian issuing even more coins.
+[07:18 --> 07:23] Better coins, yes, but still more.
+[07:23 --> 07:26] This is where the emperor and his advisors made their biggest mistake.
+[07:26 --> 07:32] They did not call back in nearly enough of the old coins.
+[07:32 --> 07:36] They cycled some out of circulation, but if he really wanted the currency put back on
+[07:36 --> 07:42] sound footing, Diocletian needed to put the recall of all the bad coins at the center
+[07:42 --> 07:46] of his policy, and he just did not do it.
+[07:46 --> 07:51] As a result, his new five coin system, while definitely introducing an element of stability,
+[07:51 --> 07:55] failed to do what the emperor wanted it to do.
+[07:55 --> 07:59] And unfortunately, he did not recognize that he had made this mistake.
+[07:59 --> 08:05] So when inflation continued, even after he launched his good coin policy, he looked elsewhere
+[08:05 --> 08:07] for the causes.
+[08:07 --> 08:12] And as we'll see, he wound up far afield, blaming people, places and things that had
+[08:12 --> 08:19] nothing at all to do with the real underlying issue.
+[08:19 --> 08:24] As he waited patiently for the currency to revalue itself, and then watched helplessly
+[08:24 --> 08:30] as it did not, Diocletian still had an empire to pay for, and he understood instinctively
+[08:30 --> 08:35] that he couldn't afford to rely on the cash anymore.
+[08:35 --> 08:39] Taxes paid in cash were worthless, wages paid in cash were worthless.
+[08:39 --> 08:43] If Diocletian was going to keep the empire functioning, and just to be clear when I'm
+[08:43 --> 08:49] talking about the empire, what I really mean is the army, for the time being, taxes and
+[08:49 --> 08:54] wages were going to have to be assessed and paid by some standard other than money, something
+[08:54 --> 09:00] real and tangible, or at least something that seemed real and tangible.
+[09:00 --> 09:06] For this, Diocletian and his advisors concocted an elaborate and really ingenious new system
+[09:06 --> 09:12] to calculate imperial revenue and imperial expenses that cut out the middleman of cash,
+[09:12 --> 09:17] and was based instead directly on the goods and services that money was supposed to be
+[09:17 --> 09:21] able to purchase.
+[09:21 --> 09:27] The origins of Diocletian's new system of taxation lay in the way the army had come
+[09:27 --> 09:33] to rely on forced requisition to supply itself during the latter part of the crisis years.
+[09:33 --> 09:38] When times had been good, and the money was sound, everything was done on the up and up,
+[09:38 --> 09:43] with the army purchasing goods and services from contractors more than willing to do business
+[09:43 --> 09:45] with the legions.
+[09:45 --> 09:49] When times got tougher, the goods and services were still purchased by the army, but from
+[09:49 --> 09:54] far less willing sellers, and commanders often invoked a proto-version of today's eminent
+[09:54 --> 10:00] domain laws, whereby in an emergency, the sale of goods and services were compelable
+[10:00 --> 10:02] by law.
+[10:02 --> 10:07] When times got really tough, and the money had become a joke, commanders no longer even
+[10:07 --> 10:14] bothered with the farce of compulsive transactions, and simply took what they needed.
+[10:14 --> 10:18] This new means of supplying themselves naturally changed the way that officers and soldiers
+[10:18 --> 10:24] were paid, as money had simply stopped being a functional medium of exchange.
+[10:24 --> 10:29] Officers and soldiers were now paid in kind, that is, with the goods themselves, rather
+[10:29 --> 10:32] than the money to purchase the goods.
+[10:32 --> 10:39] Grain, shirts, meat, blankets, shoes, whatever was around that approximated what a man would
+[10:39 --> 10:42] have purchased had his money been worth anything.
+[10:42 --> 10:46] It used to be that all of these items would have been deducted from a soldier's pay by
+[10:46 --> 10:48] the quartermaster.
+[10:48 --> 10:53] Now they were the pay.
+[10:53 --> 10:56] This was the army that Diocletian had spent the majority of his career in, and though
+[10:57 --> 11:01] it is clear he was no fan of forced requisition because of the damage it did to the bonds
+[11:01 --> 11:07] of civil society, he understood that it was necessary.
+[11:07 --> 11:11] When he became emperor then, his ideas about how to extract resources from his subjects
+[11:11 --> 11:16] and how to pass them along to his soldiers was informed by his experience with this ad
+[11:16 --> 11:20] hoc system of requisition and in-kind payment.
+[11:20 --> 11:23] But it shouldn't surprise you to learn that the thing that bugged Diocletian the most
+[11:23 --> 11:29] about the system was how random, arbitrary, and untidy it all was.
+[11:29 --> 11:37] So he set about to make the empire's new tax structure less all those things.
+[11:37 --> 11:42] In order to run a proper army, there were certain things a general learned by heart.
+[11:42 --> 11:47] If he had a thousand men to feed, clothe, and shelter, he knew exactly how much timber
+[11:47 --> 11:51] he was going to need, how much wine he was going to need, how many horses he was going
+[11:51 --> 11:54] to need, and how many boots he was going to need.
+[11:54 --> 11:58] The army, in fact, had this practically down to a science.
+[11:58 --> 12:03] They knew down to the fraction of everything how much one soldier was going to add to their
+[12:03 --> 12:06] supply burden.
+[12:06 --> 12:11] Diocletian simply took this understanding and blew it up to an empire-wide level.
+[12:11 --> 12:16] Since the money was no longer any good, Diocletian just added up everything the imperial government
+[12:17 --> 12:23] its army and bureaucracy for one year, which is the very first annual budget in the Western
+[12:23 --> 12:30] world, by the way, and then ordered his subjects to supply him with what he needed.
+[12:30 --> 12:35] But of course, the regions of the empire did not produce goods and services on a uniform
+[12:35 --> 12:36] basis.
+[12:36 --> 12:42] One city may specialize in textile production with nary a pig farmer in sight, while another
+[12:42 --> 12:45] may have abundant wheat fields but no brickworks.
+[12:45 --> 12:50] So you couldn't just divide up the list and demand everyone pony up the same fractions
+[12:50 --> 12:52] of everything.
+[12:52 --> 12:57] What Diocletian needed was a way of reducing what a man legally owed in taxes to some standard
+[12:57 --> 13:03] unit of measurement and exchange, kind of like money, except we can't use money because
+[13:03 --> 13:06] the money is no good.
+[13:06 --> 13:12] So the answer was a new theoretical unit of exchange.
+[13:12 --> 13:15] Basically what the emperor and his advisors did was take everything listed in the new
+[13:15 --> 13:21] annual budget and make a giant equivalency chart to track the relative value of all the
+[13:21 --> 13:22] items.
+[13:22 --> 13:27] So many bushels of wheat equals so many shirts equals so many miles of transportation provided
+[13:27 --> 13:31] equals so many chickens and so on.
+[13:31 --> 13:36] Then they reduced the total of everything down to manageable fractions and used that
+[13:36 --> 13:39] as the basis for taxation.
+[13:39 --> 13:44] So Farmer Gaius, who doesn't owe cash really anymore, also doesn't owe half a shoe and
+[13:44 --> 13:51] two thirds of a shirt and a quarter of a blanket, instead he owes five units of tax payable
+[13:51 --> 13:55] in whatever good or service he can most easily provide.
+[13:55 --> 13:59] In this case probably bushels of wheat.
+[13:59 --> 14:03] Mule driver Publius on the other hand pays his five units of tax by transporting some
+[14:03 --> 14:08] swords the army needs from point A to point B.
+[14:08 --> 14:12] There is an inherent danger of course in that well what if everyone satisfies their
+[14:12 --> 14:15] allotment of tax by paying in pigs.
+[14:15 --> 14:21] But apparently it never came up and the diversification of the empire's economy produced mostly of
+[14:21 --> 14:28] its own accord the supplies Diocletian demanded.
+[14:28 --> 14:33] The other question then was how do you assess how much a person is required to supply?
+[14:33 --> 14:38] For this Diocletian turned to his newly enlarged bureaucracy.
+[14:38 --> 14:42] They fanned out across the empire and catalogued everything.
+[14:42 --> 14:45] They counted every man, woman, child and slave.
+[14:45 --> 14:49] They counted how many chickens you had and how many horses you had and how many acres
+[14:49 --> 14:52] you owned and what was being grown on them.
+[14:52 --> 14:56] They noted your profession, your skills, your physical strength and they drew it all up
+[14:56 --> 14:58] on a ledger.
+[14:58 --> 15:02] Then they asked around to see if you were hiding anything.
+[15:02 --> 15:08] Once everything was catalogued the empire was reduced to two basic units, manpower and
+[15:08 --> 15:13] land, which is how imperial agents determine what your share of the tax burden was going
+[15:13 --> 15:16] to be.
+[15:16 --> 15:20] Both units were calculated with some nuance, with women and children being counted for
+[15:20 --> 15:26] less and the manpower department and rich land being valued differently from poor land
+[15:26 --> 15:31] because Diocletian was actually sensitive to matters of fairness.
+[15:31 --> 15:35] As I said, one of the problems he had with forced requisition was that it was arbitrary
+[15:35 --> 15:37] and cruel.
+[15:37 --> 15:41] So Diocletian really was trying to put in place a system that would take a man's particular
+[15:41 --> 15:47] circumstances into account rather than just laying some blanket levy on his head whether
+[15:47 --> 15:53] his 10 acres were prized vineyards or a rocky mountainside.
+[15:53 --> 15:57] So this is how it worked then and I'll just make some numbers up here.
+[15:57 --> 16:02] Let's say your city has 500 units of land and 200 units of manpower.
+[16:02 --> 16:08] Well according to our calculations you collectively owe 75 units of tax.
+[16:08 --> 16:10] You can pay with whatever you've got.
+[16:10 --> 16:16] Shirts, bricks, timber, pigs, just make sure that we get it.
+[16:16 --> 16:19] Payable in three yearly installments to account for spoilage.
+[16:19 --> 16:23] Thank you and see you next year.
+[16:23 --> 16:28] The inflation solution was an ingenious way to get around the inflation issue and in no
+[16:28 --> 16:33] time the empire was reaping tax harvests like the good old days.
+[16:33 --> 16:36] Well more even than the good old days.
+[16:36 --> 16:41] Back in its various golden ages Rome had actually been pretty loose about taxes.
+[16:41 --> 16:44] As long as enough was coming in they never really questioned whether there was more to
+[16:44 --> 16:50] be had or whether they could be exploiting their empire more efficiently.
+[16:50 --> 16:55] But after systematically cataloging every single thing in the empire and then applying
+[16:55 --> 17:01] a uniform system of collection Diocletian was able to extract resources from his subjects
+[17:01 --> 17:04] at a previously unimagined level.
+[17:04 --> 17:08] He didn't take everything of course that would have been counterproductive.
+[17:08 --> 17:14] Diocletian kept to Tiberius's old maxim that the sheet must be shorn and not skinned but
+[17:14 --> 17:21] he now had a far more exact idea of how close he could get without skinning the sheet.
+[17:21 --> 17:24] Unfortunately his successors would not be so exact.
+[17:24 --> 17:32] A problem that we will get to in future episodes.
+[17:32 --> 17:36] But in his attempt to mobilize the resources of the empire as quickly and efficiently as
+[17:36 --> 17:41] possible Diocletian did not stop with tax policy.
+[17:41 --> 17:46] He also inserted the imperial government directly into the economy in ways that had never been
+[17:46 --> 17:48] seen before.
+[17:48 --> 17:54] As I mentioned last week Diocletian wanted the empire to function as one unified mechanism
+[17:54 --> 17:57] to maximize its power.
+[17:57 --> 18:00] But that did not mean just paying attention to the big stuff.
+[18:00 --> 18:05] It also meant ensuring that all the little screws and cogs and springs were where they
+[18:05 --> 18:09] needed to be doing what they needed to do.
+[18:09 --> 18:16] In other words the free market is about to become a lot less free.
+[18:16 --> 18:21] The rigid tentacles of the state first worked their way into the economy by way of the trade
+[18:21 --> 18:26] guilds and from there extended themselves until they touched every man woman and child
+[18:26 --> 18:29] in the empire.
+[18:29 --> 18:34] Diocletian was not insensible to the danger that his new tax system would fall apart if
+[18:34 --> 18:36] everyone paid in pigs.
+[18:36 --> 18:41] And he was well aware that the chaos of the previous decades had caused massive population
+[18:41 --> 18:47] upheavals and severe shifts in the economic output of whole swaths of the empire.
+[18:47 --> 18:53] In other words if he wasn't careful the diversified economy Diocletian needed to make his new
+[18:53 --> 18:58] tax system work would collapse down into a few subsistence industries with everything
+[18:58 --> 19:03] else being abandoned as an unsustainable luxury.
+[19:03 --> 19:08] Of course yet many of the jobs that needed doing were not at all happy fun jobs.
+[19:08 --> 19:13] What if young Publius son of Publius the mule driver decides that he doesn't want to follow
+[19:13 --> 19:15] in his father's footsteps?
+[19:15 --> 19:19] What if all the sons of all the mule drivers decide that?
+[19:19 --> 19:23] Pretty soon there will be no mule drivers left.
+[19:23 --> 19:29] It is entirely likely that had he not gotten into it everything would have worked out fine
+[19:29 --> 19:36] But Diocletian was never one to not get into something.
+[19:36 --> 19:39] As I just said it started with the trade guilds.
+[19:39 --> 19:44] One of the first to be enveloped was the guild of shippers who brought the grain from Africa
+[19:44 --> 19:46] to Italy.
+[19:46 --> 19:51] After doing business with the empire for centuries as an independent corporation Diocletian simply
+[19:51 --> 19:56] took it over and declared the guild an arm of the government and then took over wages
+[19:56 --> 19:58] and prices.
+[19:58 --> 20:02] Then it said that if you wanted to ship anything into Italy you had to join the government's
+[20:02 --> 20:04] guild.
+[20:04 --> 20:08] And oh yeah, once you've joined you can't resign.
+[20:08 --> 20:14] He followed that same pattern with everyone, brickmakers, cobblers, architects, whoever.
+[20:14 --> 20:19] Wherever there was a voluntary association of professionals Diocletian would come in,
+[20:19 --> 20:25] co-opt it, make it compulsory, and then make it hereditary.
+[20:25 --> 20:31] This process was amongst the most gradual of his career but by the time Diocletian abdicated
+[20:31 --> 20:36] most of the empire's citizens were attached to some sort of imperially mandated guild
+[20:36 --> 20:40] that compelled them to keep the job they had been doing.
+[20:40 --> 20:44] And it further compelled their sons to join the guild and then their sons to join the
+[20:44 --> 20:47] guild after that.
+[20:47 --> 20:52] So if by some random chance you were a tanner in the late third century that meant that
+[20:52 --> 20:56] your family was now, forever, tanners.
+[20:56 --> 21:02] Same for potters and teachers and fishermen and of course same for farmers.
+[21:02 --> 21:07] On top of everything else you weren't even allowed to move anymore without permission
+[21:07 --> 21:11] even if you planned to keep the same job because Diocletian didn't want industries to die
+[21:11 --> 21:17] off in a given city due to unplanned population migrations.
+[21:17 --> 21:22] If you think this sounds an awful lot like the beginnings of medieval serfdom then gold
+[21:22 --> 21:24] star for you.
+[21:24 --> 21:29] We are right now transitioning away from the Roman Empire of old and into pre-feudal
+[21:29 --> 21:31] society.
+[21:31 --> 21:37] Diocletian was the author of a lot of what defines the next thousand years of history.
+[21:37 --> 21:42] He did it as a response to the particular economic necessities of his day but once it
+[21:42 --> 21:49] all took root it really took root.
+[21:49 --> 21:54] One thing he did that most definitely did not take root is the last thing I want to
+[21:54 --> 21:56] talk about today.
+[21:56 --> 22:03] The infamous Edict on Maximum Prices which represented Diocletian's last furious attempt
+[22:03 --> 22:07] to put a stop to inflationary prices.
+[22:07 --> 22:12] I don't want to spend too much time on it because, well, it was more or less abandoned
+[22:12 --> 22:17] an hour and a half after it was issued but still it is a fascinating little piece of
+[22:17 --> 22:20] history that deserves some attention.
+[22:20 --> 22:25] For no other reason than it lets us know that the Romans had three kinds of beer, Pannonian,
+[22:25 --> 22:30] Celtic, and Egyptian, and that the Egyptian kind was considered half as good as the other
+[22:30 --> 22:38] two because apparently Egyptian beer was the schlitz of the ancient world.
+[22:38 --> 22:44] After 16 years on the throne inflation continued to ravage the empire and nothing Diocletian
+[22:44 --> 22:47] seemed to even slow it down.
+[22:47 --> 22:52] Though his tax structure had been mostly taken off the gold, silver, copper standard, there
+[22:52 --> 22:57] was no getting away from currency completely and it drove Diocletian crazy that he could
+[22:57 --> 23:05] never ensure that wages kept up with prices, especially when it came to his soldiers.
+[23:05 --> 23:10] Paid to risk their lives in defense of the empire, Diocletian was outraged every time
+[23:10 --> 23:15] he heard of a soldier being forced to drop a whole year's pay on a single shirt.
+[23:15 --> 23:21] Price gouging and war profiteering was nothing new but things had gotten ridiculous and Diocletian
+[23:21 --> 23:26] decided that the main culprits were the evil, no-good merchants who were taking advantage
+[23:26 --> 23:28] of the situation.
+[23:28 --> 23:34] They were thieving the life savings of good, honest, hardworking soldiers and it had to
+[23:34 --> 23:36] stop.
+[23:36 --> 23:43] In 301 Diocletian had finally had enough and he issued in typical Diocletianic fashion
+[23:43 --> 23:50] an encyclopedic edict divided into 32 sections breaking down practically every single thing
+[23:50 --> 23:56] that could be bought and sold and then setting a maximum price for it.
+[23:56 --> 24:01] The emperor was careful to note that he was not setting the price, he was only setting
+[24:01 --> 24:03] the maximum price.
+[24:03 --> 24:08] If you wanted to charge less, that was your prerogative, just don't charge more.
+[24:08 --> 24:14] If you charged more, the edict was crystal clear in the consequences of your greed.
+[24:14 --> 24:16] Death
+[24:16 --> 24:21] Of course, even with the death penalty hanging over their heads, no one paid any attention
+[24:21 --> 24:27] to the edict, no one had any motivation to turn anyone in for violating it, and everyone
+[24:27 --> 24:32] paid the going rate for everything, just as usually happens when draconian price controls
+[24:32 --> 24:35] are put into effect.
+[24:35 --> 24:40] But nonetheless, the edict was carved in stone and posted all over the empire, so we get
+[24:40 --> 24:45] to learn fascinating things about what an idealized version of Roman economic values
+[24:45 --> 24:47] looks like.
+[24:47 --> 24:53] Per day farm laborers made 25 denarii a day, compared to the 50 earned by a stonemason
+[24:53 --> 24:55] or a cabinet maker.
+[24:55 --> 25:01] There were seven kinds of wine, all listed at 30 denarii each, and one listed as simply
+[25:01 --> 25:05] ordinary wine, which sold for just 16.
+[25:05 --> 25:10] Aged wine actually lowered the price, as each of the seven more expensive varieties dropped
+[25:10 --> 25:14] at 24 denarii once it was a year old.
+[25:14 --> 25:20] A lawyer could make a thousand denarii for pleading a case, and 250 just for filing the
+[25:20 --> 25:23] opening paperwork.
+[25:23 --> 25:28] Our old friend Publius the mule driver would have made with maintenance 25 denarii per
+[25:28 --> 25:35] day, or four denarii per mile for one mule load of goods.
+[25:35 --> 25:39] Every kind of grain, seed, or bean you can think of gets its due price, as does every
+[25:39 --> 25:43] kind of shoe, boot, sandal, and shirt imaginable.
+[25:43 --> 25:50] Famously, the most expensive item listed is one pound of purple dyed silk, which a merchant
+[25:50 --> 25:55] was not allowed to charge more than 150,000 denarii for.
+[25:55 --> 26:00] And since the only person who was probably buying purple dyed silk by the pound was
+[26:00 --> 26:06] the emperor himself, I'd wager to guess that it was maybe one of the few items that actually
+[26:06 --> 26:11] went for the price listed.
+[26:11 --> 26:16] As I said, the edict was quietly abandoned just a few years after it was issued, and
+[26:16 --> 26:20] many historians believe that Maximian and Constantius never even got around to announcing
+[26:21 --> 26:26] recognized what a terribly unenforceable idea it was.
+[26:26 --> 26:32] But for a while there, wherever Diocletian went, so went the price edict, until even
+[26:32 --> 26:36] he began to recognize that he was tilting at windmills.
+[26:36 --> 26:39] That was right around the time he decided to retire.
+[26:39 --> 26:45] Not that the two are in any way connected.
+[26:45 --> 26:51] With that, I'll bring to a close our brief little tour through Diocletian's reforms.
+[26:51 --> 26:57] We've seen the deep impact he had on the military, the government, and the economy,
+[26:57 --> 27:03] and in many respects, he was as transformative a figure as Rome had ever known.
+[27:03 --> 27:08] The empire Diocletian inherited was not the same one he bequeathed to his successors.
+[27:08 --> 27:14] And perhaps even more importantly, the answer to the age-old question, are you better off
+[27:14 --> 27:20] than you were four years ago, was almost everywhere a resounding yes.
+[27:20 --> 27:24] Which is to say that there is nothing at all that prevents us from comfortably placing
+[27:24 --> 27:30] Diocletian among the top five emperors of all time.
+[27:30 --> 27:34] Next week though, we'll start to get into why we can't put him at the very top of the
+[27:34 --> 27:39] pile, and some of the curious moves he made at the end of his reign that damaged the stability
+[27:39 --> 27:45] of the empire, stability that he had worked so hard to establish, so that when he handed
+[27:45 --> 27:51] the reins of power off, his successors were more than able and more than willing to take
+[27:51 --> 27:54] Rome right back into the snake pit of civil war.

@@ -1,0 +1,337 @@
+# 20100228 - 045- The End of the War
+# Detected language: en
+# Duration: 1434.57 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, episode 45, The End of the War.
+[00:13 --> 00:18] In early 47 BC, after settling the civil war in Egypt and firmly establishing Roman
+[00:18 --> 00:23] dominance over the Nile, Caesar took a month-long cruise up the Great River with Cleopatra.
+[00:24 --> 00:28] Though no doubt relaxing, it was not simply an uncharacteristic vacation.
+[00:28 --> 00:33] Caesar took with him some 400 ships. The slow-moving entourage was meant to display
+[00:33 --> 00:37] the power of Rome to any Egyptian who may be planning resistance to the new regime.
+[00:38 --> 00:42] Caesar had a dozen major problems to deal with as he reshaped the political map of the ancient
+[00:42 --> 00:47] world. He did not need a revolt in newly pacified Egypt to become one of them.
+[00:48 --> 00:52] Of those major problems, his greatest lay near the remains of Old Carthage,
+[00:52 --> 00:57] where the senatorial forces that had fled from Pharsalus were regrouping under the
+[00:57 --> 01:01] who was building a massive army with the help of the Numidian king,
+[01:01 --> 01:06] Juba. The problem was in fact so big that Caesar knew he could not face it right away.
+[01:07 --> 01:10] His men were exhausted, the cash supply was running dangerously low,
+[01:11 --> 01:15] and the entire eastern half of the empire seemed ready to revolt at a moment's notice.
+[01:16 --> 01:20] Plus, between the battle of Pharsalus and the war in Alexandria, he had basically lost
+[01:20 --> 01:26] contact with Rome itself. The population, who had once received regular glowing reports
+[01:26 --> 01:31] from Caesar during the Gallic Wars, had now gone more than six months without any updates at all.
+[01:32 --> 01:36] Before he could face his enemies in North Africa, Caesar would have to solidify his
+[01:36 --> 01:40] hold over every other corner of the empire, including the capital city itself.
+[01:41 --> 01:45] So, rather than marching west, Caesar took the road east out of Alexandria.
+[01:46 --> 01:48] His plan was to travel up the eastern Mediterranean coast,
+[01:49 --> 01:54] cross Asia Minor into Greece, and sail back across the Adriatic into Italy. Along the way,
+[01:54 --> 02:01] he would collect money, allies, soldiers, and support, and he would eliminate anyone who opposed him.
+[02:02 --> 02:06] For the most part though, there was no opposition. Kings who had been clients of Pompey readily
+[02:06 --> 02:10] embraced Caesar as their new patron. Roman garrisons scattered across the east,
+[02:10 --> 02:14] most previously allied with the Senate, repudiated their old generals and begged
+[02:14 --> 02:20] clemency from Caesar, who was more than happy to grant it. But it was not all easy going.
+[02:20 --> 02:25] Pharnaces II, the son of Rome's old enemy Mithridates, had returned to Pontus and thought
+[02:25 --> 02:30] it right that he should be king. But to stake his claim, he had been forced to battle with
+[02:30 --> 02:34] the Roman garrison stationed there to keep an eye on Caesar's interests in the region.
+[02:34 --> 02:39] The Roman garrison, distracted by a desire to make for Egypt to reinforce their embattled
+[02:39 --> 02:43] general, had not taken the fight seriously and Pharnaces had beaten them soundly.
+[02:44 --> 02:49] Now, in the great game of power politics, Caesar might have let this go and worked out
+[02:49 --> 02:53] deal with Pharnaces to recognize his sovereignty over Pontus in exchange for not making trouble.
+[02:54 --> 02:59] But upon his ascension to the throne, the new Pontic king had made a point to track down any
+[02:59 --> 03:04] Roman citizen he could find and castrate them. This was a crime that Caesar could not let go
+[03:04 --> 03:10] unpunished. So as he traveled through Asia Minor, Caesar humored the Pontic envoy sent
+[03:10 --> 03:14] to work out a lasting peace. He replied with kind words and generous promises,
+[03:14 --> 03:19] but it was all merely a show to buy himself some time as he marched toward Pontus.
+[03:19 --> 03:23] The speed with which Caesar moved took Pharnaces off guard, and before he knew it,
+[03:23 --> 03:27] Caesar was at his doorstep. When the Romans arrived though,
+[03:27 --> 03:31] Caesar's tone immediately changed. There would be no peace with a man who castrated Roman
+[03:31 --> 03:36] citizens. Pharnaces, who thought he was on the verge of a deal with Rome, quickly assembled
+[03:36 --> 03:41] his army as Caesar dug in outside the hill fort of Azalea where the Pontic king was
+[03:41 --> 03:47] holding court. The only hope for Pharnaces was a surprise attack before the Romans were firmly
+[03:47 --> 03:52] entrenched. So at dawn, while the legionaries dug trenches, the Pontic army poured out of the
+[03:52 --> 03:56] gates of the fort. At first, Caesar could not believe that they were really attacking,
+[03:57 --> 04:01] but it was soon obvious that this was no bluff. Throwing aside their shovels,
+[04:01 --> 04:06] the Romans tried to assemble as the enemy army hit. In the din of battle, it took longer
+[04:06 --> 04:10] than usual for the legions to get their act together, but once some order was imposed on
+[04:10 --> 04:14] battle, the Romans quickly gained the upper hand. The Pontic army was destroyed,
+[04:15 --> 04:19] and Caesar let his men sack the town. Writing to a friend in Rome,
+[04:19 --> 04:24] Caesar described the campaign in Pontus simply, I came, I saw, I conquered.
+[04:27 --> 04:31] Caesar continued west through Greece without incident, and soon enough landed on the
+[04:31 --> 04:36] shores of Italy. There to greet him in Vrindicium was Cicero, who had gone home
+[04:36 --> 04:40] after the defeat of Pharsalus, and was now ready to face whatever punishment Caesar had
+[04:40 --> 04:45] in mind for him. But Caesar, who had tried his whole career to win Cicero over to his side,
+[04:46 --> 04:49] merely embraced the old senator and asked him to join him on the final leg of his journey
+[04:49 --> 04:56] so they could catch up. Back in Rome, Caesar's first order of business was removing Mark Antony
+[04:56 --> 05:01] from power. While he had been on campaign in the east, Caesar had been appointed dictator
+[05:01 --> 05:07] by what was left of the Senate, and Antony had been made master of the horse. And legally,
+[05:07 --> 05:12] when the dictator is absent, the word of a master of the horse becomes law, and Antony had let
+[05:12 --> 05:18] absolute power corrupt him absolutely. While Caesar had refused to revive the horrifying
+[05:18 --> 05:23] prescriptions that had marked the reigns of Marius, Senna, and Sulla, his chief lieutenant
+[05:23 --> 05:28] showed no such restraint, and terror had gripped the city while Antony lived a lavish
+[05:28 --> 05:34] life of drunken excess, casually murdering his real or imagined enemies. But the bloody,
+[05:34 --> 05:39] debauched reign of Antony did have a silver lining. It made Caesar look great by comparison.
+[05:40 --> 05:44] All he had to do to win the people's affection when he came home was remove Antony from
+[05:44 --> 05:49] office. After bringing a measure of peace to the strife-torn city, he set aside the
+[05:49 --> 05:54] mantle of dictator and was again elected consul. He kept Antony on the political
+[05:54 --> 05:59] sidelines, though, and instead, chose as his colleague an amiable and completely loyal
+[05:59 --> 06:03] cavalry commander named Marcus Lepidus. Those of you who read ahead to the next chapter
+[06:03 --> 06:08] know that in a few years, Lepidus will form the third leg of the Second Triumvirate,
+[06:08 --> 06:13] along with Antony and Caesar's great nephew and heir, Gaius Octavius, the future Caesar
+[06:14 --> 06:20] Augustus. Satisfied that the eastern provinces were pacified and the situation in Rome was
+[06:20 --> 06:24] under control, Caesar finally turned his attention to the problem in North Africa.
+[06:25 --> 06:28] But just as he was getting started on the initial planning of an invasion,
+[06:28 --> 06:32] Caesar dealt with revolt from an unexpected corner, his own troops.
+[06:34 --> 06:39] The men who had conquered Gaul, secured Italy, sprinted across the continent to Spain and
+[06:39 --> 06:43] back, crossed the Adriatic in the middle of winter, defeated Pompey, taken Egypt,
+[06:43 --> 06:48] and then marched back home again had finally had enough. Their paychecks were chronically
+[06:48 --> 06:53] late, and promises of discharge and land grants were forever just one more campaign away.
+[06:54 --> 06:58] When word came that Caesar was planning to leave them all on an invasion of North
+[06:58 --> 07:02] Africa, they mutinied. Marching north from their camps in southern Italy,
+[07:02 --> 07:06] they planted themselves just outside the gates of Rome with a list of demands.
+[07:08 --> 07:11] Against the advice of his friends, Caesar rode out alone to meet them.
+[07:12 --> 07:18] Standing in front of the assembled legions, the men who had been his family for a
+[07:18 --> 07:19] long time, they had no choice but to make them happy.
+[07:20 --> 07:25] Their tough talk about demanding gold and land melted away, and they told Caesar all
+[07:25 --> 07:30] they desired was to be discharged from service. In response, Caesar dealt them a cruel blow.
+[07:31 --> 07:36] He granted their request. Telling them he would handle the matters of back pay and land grants
+[07:36 --> 07:40] when he returned from Africa, he turned to leave the camp, and in bidding goodbye,
+[07:40 --> 07:44] he addressed them now not as my fellow comrades, but as my fellow citizens.
+[07:44 --> 07:49] It was too much to take. The soldiers were utterly shamed.
+[07:49 --> 07:52] Were they really deserting their general on the eve of his final battle?
+[07:53 --> 07:56] Were they really going to force Caesar to meet his enemies with only raw recruits to
+[07:56 --> 08:01] protect him? And if he won, were they really going to let those recruits march back to
+[08:01 --> 08:05] Rome in triumph and be awarded honors that had been secured by their own hard work and
+[08:05 --> 08:10] sacrifice? This hit them all in a rush as Caesar left the stage, and immediately,
+[08:10 --> 08:15] calls went out for him to take them back. Caesar paused and let them twist in the wind
+[08:15 --> 08:21] for a heartbeat before returning to the stage. When we returned from Africa, he told them,
+[08:21 --> 08:25] every man will be granted land and pay and be honorably discharged from service,
+[08:25 --> 08:31] but first, we must go to Africa together. The soldiers exploded in cheers,
+[08:31 --> 08:34] shouting their thanks and promising him a great victory.
+[08:35 --> 08:40] So in early 46 BC, two years after crossing the wintry Adriatic,
+[08:40 --> 08:44] Caesar ready his legions for a similar winter crossing of the straits between Sicily and
+[08:44 --> 08:50] North Africa. While Metellus Scipio had gathered somewhere between 10 and 14 legions,
+[08:51 --> 08:54] Caesar once again charged into the belly of the beast completely outnumbered.
+[08:55 --> 08:58] Eager to make the crossing and establish a beachhead under Scipio's radar,
+[08:58 --> 09:05] Caesar set out from Sicily with but one legion. His men, terrified of drowning in the choppy
+[09:05 --> 09:09] sea, were overjoyed to see land appear on the horizon, but were horrified when they saw
+[09:09 --> 09:14] Caesar disembark onto the shores of Africa. While climbing from the ship, he became
+[09:14 --> 09:18] entangled in his cloak and fell face first onto the beach, a terrible omen to the
+[09:18 --> 09:24] superstitious Romans. But Caesar thought fast and tried to play off the mishap. According
+[09:24 --> 09:28] to Soutanius, he hugged the sand and cried, I hold you now, Africa.
+[09:30 --> 09:34] For the first few months after landing, though, the omen seemed to prove true,
+[09:34 --> 09:38] and things went badly for Caesar. Reinforcements were continually being blown
+[09:38 --> 09:43] off course or captured by the senatorial forces. His legions already ashore were harassed
+[09:43 --> 09:48] constantly by detachments of Numidian cavalry who would strike and disappear with impunity.
+[09:49 --> 09:52] Access to supplies was terrible, and his foraging parties came back empty-handed,
+[09:52 --> 09:58] or not at all. Caesar finally decided to move his men to the interior where food was
+[09:58 --> 10:02] more plentiful, but as soon as he began to march, the entire Numidian cavalry,
+[10:02 --> 10:07] led by Roman officers, appeared on the horizon. Caesar was forced to slowly retreat
+[10:07 --> 10:12] after being encircled and mocked by his rival commanders, but the attacking Numidians
+[10:12 --> 10:15] were unable to break Caesar's lines, and he made it to the high ground where
+[10:15 --> 10:20] horses were more of a hindrance than a help. They staved off attack and the Numidians
+[10:21 --> 10:25] retreated, but huddled amongst the rocks, bloody, tired, and hungry. It was looking
+[10:25 --> 10:28] like Caesar should have heated the omen and just gone back to Italy.
+[10:30 --> 10:34] But he managed to hold his army together until spring, by which point the continuously
+[10:34 --> 10:38] arriving reinforcements finally gave him an army he felt he could go to battle with,
+[10:38 --> 10:43] rather than simply survive with. But of course, what looked to Caesar like a big
+[10:43 --> 10:47] enough army to go to battle with usually looked to everyone else like an army that would
+[10:47 --> 10:52] easily overrun by 14 legions. It certainly looked that way to Metellus Scipio,
+[10:52 --> 10:56] right up until the moment his much larger army was completely destroyed.
+[10:58 --> 11:03] The decisive battle came at the port city of Thapsus, whose unique geography led both
+[11:03 --> 11:08] sides to think they were laying a clever trap for the other. The city itself lay
+[11:08 --> 11:13] on an isthmus, with the sea on one side and heavy marshes on the other, with only
+[11:13 --> 11:18] narrow strips of dry land connecting the city to the mainland. When Caesar marched
+[11:18 --> 11:22] in and overran the garrison station there, Scipio jumped at the opportunity Caesar
+[11:22 --> 11:27] presented. All he had to do was blockade the narrow exits and Caesar would be
+[11:27 --> 11:33] trapped. Unbeknownst to Scipio, however, this was exactly what Caesar wanted. By
+[11:33 --> 11:36] forcing the battle onto the narrow strips of land, Scipio's greater numbers would
+[11:36 --> 11:40] be negated and the ferocity of Caesar's veteran legions would be the greatest
+[11:40 --> 11:46] factor in the fight, which is of course exactly how it happened. With King Jubal
+[11:46 --> 11:50] marching to hold the southern escape route, Caesar massed his own army on the
+[11:50 --> 11:54] other side to face Scipio, who could not resist attacking. Just as Caesar
+[11:54 --> 11:58] planned, Scipio was unable to overwhelm Caesar's troops as they were forced to
+[11:58 --> 12:03] fight in a bottleneck. The battle soon turned into a bloodbath. Caesar's
+[12:03 --> 12:06] troops, believing that this was the really real last battle of the civil
+[12:06 --> 12:11] war, were ferocious and soon some 10,000 of Scipio's infantry lay dead and his
+[12:11 --> 12:16] army was shattered. King Jubal, realizing he'd backed the wrong horse in
+[12:16 --> 12:20] the Roman civil war, committed suicide upon hearing the news of Caesar's
+[12:20 --> 12:24] victory. Scipio tried to escape with the last remnants of his men but drowned
+[12:24 --> 12:29] when his ship sank on its way to Spain. In Utica, the capital of the
+[12:29 --> 12:33] Roman province of Africa where all of this action was taking place, Cato
+[12:33 --> 12:38] received the news with characteristic stoicism. He had held the city for the
+[12:38 --> 12:41] Senate during the majority of the civil war, despite the fact that its
+[12:41 --> 12:45] inhabitants were overwhelmingly pro-Caesar. Caesar's most implacable
+[12:45 --> 12:50] and incorruptible opponent knew that the end had come. He also knew that
+[12:50 --> 12:53] there was nothing Caesar liked more than pardoning his enemies and
+[12:53 --> 12:56] leaving them in his debt. Cato had no intention of giving him the
+[12:56 --> 13:01] pleasure. After setting his affairs in order, he retired for the evening
+[13:01 --> 13:05] with a copy of Plato's Fido, the dialogue that ends with Socrates drinking
+[13:05 --> 13:09] the hemlock tea. Cato had smuggled a knife into the tent with him,
+[13:09 --> 13:12] despite being searched by his son who feared his father's intentions
+[13:12 --> 13:15] and plunged it into his stomach when he was done reading.
+[13:16 --> 13:18] When his body hit the floor, his friends came running and a doctor
+[13:18 --> 13:22] patched the old senator back together. But Cato was nothing if not
+[13:22 --> 13:26] stubborn. When he came to, he ripped out the bandages, causing enough
+[13:26 --> 13:30] damage that this time he died, defying Caesar one last time.
+[13:32 --> 13:35] After making sure he had nothing left to fear in Africa,
+[13:35 --> 13:38] Caesar returned to Italy in the summer of 46 B.C.
+[13:38 --> 13:40] and made his triumphal entrance into Rome.
+[13:41 --> 13:44] For all he had accomplished and all the battles he had won,
+[13:44 --> 13:46] Caesar had yet to celebrate an official triumph.
+[13:47 --> 13:50] He had thrown away his one opportunity years before when he chose to run
+[13:50 --> 13:54] for consul instead. A bold move at the time as triumphs
+[13:54 --> 13:57] were usually once-in-a-lifetime events for a Roman general.
+[13:58 --> 14:01] But perhaps to prove that he had been right to forego the opportunity,
+[14:01 --> 14:04] Caesar planned to celebrate his victories with not one but four
+[14:04 --> 14:08] consecutive triumphs, one each to celebrate his victories in
+[14:08 --> 14:10] Gaul, Greece, Egypt, and North Africa.
+[14:12 --> 14:15] Coinciding with these great marches, Caesar threw lavish banquets and
+[14:15 --> 14:18] gladiatorial games. The wars were finally over. It was
+[14:18 --> 14:23] time to celebrate. The masses of Rome praised Caesar
+[14:23 --> 14:25] and jumped headlong into his running party.
+[14:26 --> 14:29] They cheered as he hauled Vercingetorix out of the cell he had been
+[14:29 --> 14:33] languishing in and had him strangled. They laughed at giant depictions of all
+[14:33 --> 14:36] the foreign enemies he had beaten and marveled at the exotic creatures he
+[14:36 --> 14:40] put on display. But in the fourth and final triumph,
+[14:40 --> 14:43] Caesar finally made a mistake and pushed things too far.
+[14:44 --> 14:47] While the Romans had no problem cheering his victory over Egyptian
+[14:47 --> 14:50] eunuchs, when the floats bearing the images of
+[14:50 --> 14:55] dying Cato and fleeing Metellus Scipio came down the street, the mood of the
+[14:55 --> 14:59] masses changed. No one actually liked Cato, but should
+[14:59 --> 15:01] they really be reveling in the suicide of the great statesman?
+[15:02 --> 15:05] It made them think about who they were celebrating and what they were
+[15:05 --> 15:08] celebrating. Stability was wonderful and everyone
+[15:08 --> 15:13] was glad the civil war was over, but what now? With Cato dead, was there
+[15:13 --> 15:16] anyone left to defend the Republic? Was there even a Republic left to
+[15:16 --> 15:20] defend? Caesar was surprised at the reaction. All
+[15:20 --> 15:23] he had done was dislodge the corrupt oligarchs who had sat
+[15:23 --> 15:26] parasitically on the top of the Roman political economy.
+[15:26 --> 15:29] The people ought to be offering toast after toast to the death of Cato,
+[15:29 --> 15:32] but here they were mourning him. It didn't make any sense.
+[15:33 --> 15:36] Caesar chose not to dwell on it. He had work to do,
+[15:36 --> 15:39] but the seeds of disenchantment had been planted.
+[15:41 --> 15:45] As I mentioned a few episodes ago, if the governing apparatus of the
+[15:45 --> 15:49] state was to fall into the hands of a single man, Rome could have done a lot
+[15:49 --> 15:52] worse than Julius Caesar, and as we will see down the line, Rome
+[15:52 --> 15:54] eventually does do quite a bit worse than Julius Caesar.
+[15:56 --> 15:59] While the Marcantines of the world see absolute power as a vehicle for
+[15:59 --> 16:02] personal indulgence, the Julius Caesars of the world see
+[16:02 --> 16:05] absolute power as a vehicle for total reform.
+[16:06 --> 16:10] Caesar saw on the old Republican system a laundry list of injustices,
+[16:11 --> 16:14] irrationalities, and inefficiencies that did unnecessary harm to the
+[16:14 --> 16:18] people and the empire. He brought with him to power an ambitious
+[16:18 --> 16:20] agenda designed to write the ship of state,
+[16:21 --> 16:25] but where Sulla had attempted a similar writing of the ship by turning to the
+[16:25 --> 16:28] past, Caesar's eye was firmly on the future.
+[16:29 --> 16:32] The Republic was dead, and the outmoded ways it did business
+[16:32 --> 16:35] ought to die with it. If Rome was to rule what it had conquered,
+[16:35 --> 16:37] it needed a system-wide overhaul.
+[16:40 --> 16:44] The first thing on his agenda was a proper census. Since the start of the
+[16:44 --> 16:47] Civil War three years earlier, there had been massive upheavals in the
+[16:47 --> 16:52] population and economy. Families had moved, fled, had their
+[16:52 --> 16:55] property seized, moved back, resettled elsewhere, or been
+[16:55 --> 17:00] consumed by the violence and anarchy. No one had any real idea how many people
+[17:00 --> 17:03] actually lived in Rome, nor really who owned what anymore.
+[17:04 --> 17:08] Caesar sent agents from house to house to count every man, woman, and
+[17:08 --> 17:11] child, and determine their citizenship status and income.
+[17:11 --> 17:15] The immediate issue was Caesar's suspicion that the free grain dole was
+[17:15 --> 17:19] being abused by non-citizen foreign residents, and by
+[17:19 --> 17:22] citizens whose property disqualified them from state charity.
+[17:23 --> 17:27] When the numbers came back, they showed that while some 320,000 had been
+[17:27 --> 17:31] receiving grain allotments, only 150,000 actually qualified. So
+[17:31 --> 17:33] Caesar halved the free grain supply,
+[17:33 --> 17:37] instantly saving the state a huge quantity of money, and he was just
+[17:37 --> 17:41] getting started. Also contained within the census numbers,
+[17:42 --> 17:44] which showed a total population of some 900,000,
+[17:45 --> 17:48] Caesar also discovered that Rome had become economically unbalanced.
+[17:49 --> 17:52] There were a ton of poor laborers and a few rich nobles,
+[17:52 --> 17:54] but the middle class was badly underrepresented.
+[17:55 --> 17:58] So he instituted a dual policy to solve the problem.
+[17:58 --> 18:02] On the one hand, he offered citizenship to any foreign professionals who
+[18:02 --> 18:05] migrated to the city, while on the other hand, he set up
+[18:05 --> 18:09] a colonization program offering land to citizens who moved out to the provinces.
+[18:11 --> 18:14] Over the next few years, some 80,000 members of the urban poor
+[18:14 --> 18:18] took Caesar up on his offer and moved out of the city, while teachers and
+[18:18 --> 18:22] doctors from across the empire resettled in the capital. It was a
+[18:22 --> 18:25] win-win-win for everyone. Skilled professionals received
+[18:25 --> 18:29] citizenship, poor workers moved out of the slums and onto small farms,
+[18:30 --> 18:34] and Rome itself became more prosperous. At the same time,
+[18:34 --> 18:37] Caesar took care of his loyal soldiers and lived up to his promise to release
+[18:37 --> 18:42] them and grant them back pay and land. As much as he loved them, though, he
+[18:42 --> 18:45] made sure to scatter the veteran settlements across the whole of the
+[18:45 --> 18:47] empire. There is nothing more dangerous than
+[18:47 --> 18:52] congregating veterans. Eventually, they get ideas. He also
+[18:52 --> 18:54] followed through on one of the promises he had made to his foreign
+[18:54 --> 18:56] allies while he traveled the empire during the wars.
+[18:57 --> 19:00] That if he won, Roman citizenship would be the prize of victory.
+[19:02 --> 19:06] Caesar had always seen restrictions on citizenship as a great hindrance to the
+[19:06 --> 19:09] empire, benefiting only the nobles who
+[19:09 --> 19:13] jealously hoarded power. Having already granted citizenship to
+[19:13 --> 19:16] the population of his old province of Cisalpine Gaul
+[19:16 --> 19:20] during the early stages of the war, Caesar liberally granted citizenship to
+[19:20 --> 19:22] his allies and men he hoped to become his allies
+[19:22 --> 19:27] across the multinational empire. Not only did it bind the men personally
+[19:27 --> 19:30] to Caesar, but in the future it would bind their
+[19:30 --> 19:34] families to Rome. Citizenship in the empire meant that
+[19:34 --> 19:39] potentially seditious elements in Syria or Spain or Greece would now see their
+[19:39 --> 19:42] interests aligned with Rome's. Caesar had the
+[19:42 --> 19:45] vision to see that the empire would not survive
+[19:45 --> 19:49] if it remained simply a Roman empire. It must embrace its growing
+[19:49 --> 19:52] multi-ethnic character or it would inevitably fracture.
+[19:53 --> 19:56] To this end, he also expanded the ranks of the depleted senate
+[19:56 --> 20:00] to some thousand members and to the horror of old conservatives
+[20:00 --> 20:04] welcomed into the august body important, read loyal to Caesar,
+[20:04 --> 20:08] men from across the empire regardless of their national origins.
+[20:10 --> 20:13] After taking care of all these human questions, enfranchisement,
+[20:14 --> 20:18] grain doles, colonization, Caesar turned to the physical infrastructure of
+[20:18 --> 20:21] the empire. The city had been crumbling and as in
+[20:21 --> 20:24] the case of the old senate house been deliberately destroyed
+[20:24 --> 20:29] in the chaos of the previous few years. Caesar initiated a slew of public works
+[20:29 --> 20:32] projects rebuilding and expanding the neglected city.
+[20:33 --> 20:35] But he had his eye not just on Rome itself.
+[20:36 --> 20:40] Caesar personally drew up plans for an expanded and rationalized harbor
+[20:40 --> 20:43] at the poorly conceived but vitally important port of Ostia.
+[20:44 --> 20:47] He also initiated a program to drain the swamps around Italy
+[20:47 --> 20:50] which he saw as little more than factories for malaria.
+[20:51 --> 20:54] The modernization program was bold and far-reaching
+[20:54 --> 20:58] but perhaps his boldest and farthest reaching program was to reimagine the
+[20:58 --> 21:03] nature of time itself. Since its inception, Rome had
+[21:03 --> 21:08] operated on a lunar calendar. To handle the lag between the 355 day
+[21:08 --> 21:13] lunar year and the 365 day solar year, the high priests were forever
+[21:13 --> 21:16] inserting holy days to keep the months and years aligned.
+[21:16 --> 21:20] But in the chaos of the war years, the calendar had been neglected
+[21:20 --> 21:24] and things were completely out of whack. Caesar decided to prevent this from
+[21:24 --> 21:27] ever happening again by officially moving Rome onto a solar
+[21:27 --> 21:30] calendar. Using a Greek astronomer's
+[21:30 --> 21:35] calculations, he declared a 12 month 365 day year with a leap day
+[21:35 --> 21:40] scheduled every four years. Sound familiar? The Julian calendar
+[21:40 --> 21:43] would remain in effect in the west until the 1500s
+[21:43 --> 21:47] when it was tweaked by Pope Gregory to reflect the subtle drift of the equinoxes
+[21:47 --> 21:51] over the centuries. But in substance, we live today in the
+[21:51 --> 21:54] calendar that Julius Caesar declared unilaterally in 46 BC.
+[21:55 --> 21:59] The month of July, Julii, should tell us everything we need to know
+[21:59 --> 22:01] about the impact of Caesar's vision.
+[22:04 --> 22:08] There is little doubt that Caesar's reforms had a net positive impact on
+[22:08 --> 22:11] the empire and coupled with the subsequent overhauls
+[22:11 --> 22:15] initiated by Augustus, his policy set the stage for another five
+[22:15 --> 22:17] centuries of Roman dominance over the Mediterranean basin.
+[22:18 --> 22:22] But there was still the little matter of how all of these necessary reforms
+[22:22 --> 22:26] were being executed. It had been 500 years since the
+[22:26 --> 22:28] Romans had driven out Tarquinius Superbus
+[22:28 --> 22:32] and founded their republic, believing that never again should one man hold
+[22:32 --> 22:37] absolute power over his countrymen. On what authority was Caesar really
+[22:37 --> 22:41] acting? What were his real intentions? When the crowds in the
+[22:41 --> 22:45] street hailed him as Rex Caesar, and he casually waved them off, was
+[22:45 --> 22:47] he waving off their attempts to crown him
+[22:47 --> 22:50] or waving off their attempts to crown him as simply premature?
+[22:51 --> 22:55] Next week, we will get more into the specifics of Caesar's legal
+[22:55 --> 22:58] authority through this period, but suffice it to say that growing
+[22:58 --> 23:01] contingent of the waning nobility did not believe for a second
+[23:01 --> 23:04] Caesar's claims that he would restore the old order
+[23:04 --> 23:09] as soon as order itself was restored. When a group of senators called on
+[23:09 --> 23:12] Caesar one afternoon, and he did not rise to greet them as equals,
+[23:12 --> 23:16] but instead remained seated in lordly fashion, they saw their worst fears
+[23:16 --> 23:20] confirmed. Caesar was aiming to make himself a king
+[23:20 --> 23:24] and a god, and he must be stopped. And though Caesar was clearly aiming for
+[23:24 --> 23:27] immortality, they knew that in fact he was just a man,
+[23:28 --> 23:30] a man who could and must be killed.

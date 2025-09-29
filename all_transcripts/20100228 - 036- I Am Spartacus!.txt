@@ -1,0 +1,460 @@
+# 20100228 - 036- I Am Spartacus!
+# Detected language: en
+# Duration: 1188.08 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, episode 36, I Am Spartacus.
+[00:13 --> 00:18] Last week, we traced the early career paths of Crassus and Pompey, leaving them both
+[00:18 --> 00:20] on the edge of political prominence.
+[00:21 --> 00:25] This week, we will cover the event that broke them into the big time.
+[00:25 --> 00:30] Prior to the Third Servile War, Crassus was just another fat cat, and Pompey was just
+[00:30 --> 00:32] another ambitious young man on the make.
+[00:32 --> 00:37] But after the slave revolt, both turned their well-deserved, and not so well-deserved
+[00:37 --> 00:39] acclaim into a shared consulship.
+[00:40 --> 00:44] Acclaim, and the fact that both refused to stand down their armies until the
+[00:44 --> 00:48] Senate agreed to make sure the elections produced the result that was in everyone's
+[00:48 --> 00:49] best interest.
+[00:50 --> 00:56] In 73 BC, Pompey was in Spain trying to pin down the rebellious Marian general,
+[00:56 --> 01:00] Quintus Sertorius, and Crassus was in Rome doing whatever it was that Crassus
+[01:00 --> 01:04] did, probably dickering with a drowning man over the price of tossing him a
+[01:04 --> 01:05] lifeline.
+[01:06 --> 01:10] Spartacus, though, was at gladiator school in Capua. He was supposed to be
+[01:10 --> 01:14] learning how to put on a good show for his Roman masters, but mostly he
+[01:14 --> 01:15] was plotting his escape.
+[01:16 --> 01:21] Kirk Douglas was born in New York in 1916 to illiterate Russian immigrants.
+[01:22 --> 01:26] His real name was Isuer Dnielewicz, but he spent his early years answering
+[01:26 --> 01:30] to the name of Izzy Dempsky. He began acting in high school and knew from
+[01:30 --> 01:33] the moment he first stepped out on stage that he wanted to be an actor.
+[01:34 --> 01:38] Oh, wait a second. I think I may have mixed things up a bit. Hang on.
+[01:38 --> 01:40] Okay, I got it.
+[01:41 --> 01:44] No one is quite sure where Spartacus the gladiator came from.
+[01:44 --> 01:47] It seems pretty clear that he was born somewhere in Greece, and he is
+[01:47 --> 01:51] most often referred to as a Thracian. But Thracian was also the gladiatorial
+[01:51 --> 01:54] combat style he practiced, so there may have been some confusion
+[01:54 --> 01:59] somewhere along the line about his true origins. It is also not known
+[01:59 --> 02:02] how he came to be in captivity, but he was widely believed to have
+[02:02 --> 02:05] served as an auxiliary soldier in the legions at some point, and he
+[02:05 --> 02:09] may have been a captured deserter. However it happened, it did not
+[02:09 --> 02:12] take long for the traitors to recognize that he would make a
+[02:12 --> 02:16] gladiator. Peter Ustinov purchased Spartacus and brought him to
+[02:16 --> 02:19] Capua to train for life in the arena at a gladiatorial school.
+[02:21 --> 02:25] In 73 BC, a plot was hatched at the school that eventually
+[02:25 --> 02:28] included some 200 gladiators and slaves to break out of
+[02:28 --> 02:32] captivity. However, with that many people involved, it was just a
+[02:32 --> 02:35] matter of time before someone talked. When the conspirators were
+[02:35 --> 02:39] confronted after the inevitable squealer squealed, they decided
+[02:39 --> 02:42] to just go for it, and with whatever crude weapons they could
+[02:42 --> 02:45] grab, mostly kitchen utensils, about 70 fought their way out of
+[02:45 --> 02:50] the school. Initially, the escape mob had no leader, but a
+[02:50 --> 02:53] few in the group possessed the kind of natural authority men
+[02:53 --> 02:55] turned to in a crisis. One of these was of course
+[02:55 --> 02:59] Spartacus, but another of equal standing at this point was
+[02:59 --> 03:04] a gall named Crixus. The escapees showed more confidence and
+[03:04 --> 03:08] daring than one might expect from men on the run. They
+[03:08 --> 03:10] proceeded to raid the countryside around Capua, which
+[03:10 --> 03:13] as you may recall from earlier episodes, was some of the
+[03:13 --> 03:18] richest, most fertile land in Italy. The majority of the
+[03:18 --> 03:21] Roman elites had country estates in the region, and of
+[03:21 --> 03:23] course, where there are palatial country estates,
+[03:24 --> 03:26] there are slaves, none of whom were too excited about
+[03:26 --> 03:30] their status. So, when the escape gladiators showed up at
+[03:30 --> 03:33] the door demanding plunder, master's slaves did not
+[03:33 --> 03:36] defend master's things. Master's slaves joined up and
+[03:36 --> 03:40] helped carry off whatever they could. Pretty soon, the
+[03:40 --> 03:43] men had grown into the thousands. Displaying the kind
+[03:43 --> 03:45] of sound judgment and strategic thinking that would make
+[03:45 --> 03:48] them such a formidable force, the group headed towards
+[03:48 --> 03:51] Mount Vesuvius where they set up a stable camp on the
+[03:51 --> 03:56] densely wooded slopes. At first, the Senate looked upon
+[03:56 --> 03:59] the raiding as little more than common thievery and took
+[03:59 --> 04:02] no official notice. They did not realize that Spartacus
+[04:02 --> 04:06] and his compatriots were building an army. They did not
+[04:06 --> 04:08] realize that the Third Servile War had already begun.
+[04:09 --> 04:12] Now, I'm sure you're asking yourself, Third Servile
+[04:12 --> 04:16] War, what about the first two? So, let's back up a
+[04:16 --> 04:19] bit. The First and Second Servile Wars were both
+[04:19 --> 04:22] contained to Sicily, and I mentioned the former in
+[04:22 --> 04:25] passing during the episode on Tiberius Gracchus when
+[04:25 --> 04:27] I was ticking off some of the reasons grain prices
+[04:27 --> 04:31] in Rome were skyrocketing at the time. That war
+[04:31 --> 04:35] lasted from 135 to 132 BC and was the result of
+[04:35 --> 04:38] the barbaric treatment shown to the island's slave
+[04:38 --> 04:40] population after Rome took full control of the
+[04:40 --> 04:44] island in the aftermath of the Punic Wars. The
+[04:44 --> 04:47] Second Servile War broke out a generation later
+[04:47 --> 04:49] while Marius recruited for his showdown with the
+[04:49 --> 04:53] Cimbri in 104 BC. After some local provincial
+[04:53 --> 04:55] rulers across the empire complained that they were
+[04:55 --> 04:58] unable to supply their recruit quotas because all
+[04:58 --> 05:01] of their ableist recruits, read poor young men,
+[05:02 --> 05:04] had been chained up and sold into slavery by
+[05:04 --> 05:07] overzealous Roman debt collectors. So Marius
+[05:07 --> 05:10] ordered the release of any slave from an allied
+[05:10 --> 05:13] nation. This was great as far as it went, but in
+[05:13 --> 05:15] Sicily, many slaves took this to mean that they
+[05:15 --> 05:18] were free and were quite displeased when they
+[05:18 --> 05:21] were ordered to return to their masters. So a
+[05:21 --> 05:24] force of about 25,000 formed a coherent army and
+[05:24 --> 05:27] broke out into open revolt. Both slave
+[05:27 --> 05:29] uprisings were eventually quelled, but only
+[05:29 --> 05:33] after great effort and expense. So the Roman
+[05:33 --> 05:35] Senate, despite having previously witnessed two
+[05:35 --> 05:38] slave revolts, did not yet recognize what was
+[05:38 --> 05:41] happening in Campania was in fact another slave
+[05:41 --> 05:44] revolt. They dispatched an irregular militia of
+[05:44 --> 05:47] about 3,000 led by one of that year's praetors,
+[05:47 --> 05:49] Gaius Claudius Glauber, down to round up the
+[05:49 --> 05:51] fugitives and put a halt to the looting.
+[05:52 --> 05:59] Glauber located the slave hideout on the
+[05:59 --> 06:01] hill. Everyone knew there was only one safe way
+[06:01 --> 06:03] to come down Vesuvius because the back end of the
+[06:03 --> 06:06] mountain was all cliffs. The slaves would
+[06:06 --> 06:08] eventually get hungry, come down to forage, and
+[06:08 --> 06:10] when they did, the militia would envelop them
+[06:10 --> 06:13] and Glauber would be welcomed home a hero. QED.
+[06:15 --> 06:16] Except that the slave army had no time for
+[06:16 --> 06:19] conventional wisdom or standard military
+[06:19 --> 06:24] practice. During the night, they used vines from
+[06:25 --> 06:28] While Glauber slept, dreams of a consul ship
+[06:28 --> 06:30] dancing in his head, the slaves approached from
+[06:30 --> 06:33] behind, surprised the militia, and killed them
+[06:33 --> 06:36] all. Upon receiving the news, the Roman
+[06:36 --> 06:39] Senate was nonplussed. The slaves were making
+[06:39 --> 06:41] a big old mess of everyone's favorite vacation
+[06:41 --> 06:44] spot and it was frankly getting annoying. They
+[06:44 --> 06:46] weren't quite ready to commit the full force
+[06:46 --> 06:49] of the legions, so another militia of about
+[06:49 --> 06:52] 4,000 was sent down, but for some reason, the
+[06:52 --> 06:54] commander decided to split this force into two
+[06:54 --> 06:58] before engaging the outlaw slaves. Both halves
+[06:58 --> 07:00] were too weak on their own and the slaves
+[07:00 --> 07:03] defeated the new militia with ease. So, not
+[07:03 --> 07:05] only had the slaves now won three successive
+[07:05 --> 07:08] battles against the Romans, but they also had
+[07:08 --> 07:10] the armor, weapons, and equipment that had
+[07:10 --> 07:16] been sent down along with the 7,000
+[07:16 --> 07:17] slaves that they had trained with, and slaves
+[07:17 --> 07:20] from across the countryside, men, women,
+[07:20 --> 07:22] and children, flocked to the growing, now
+[07:22 --> 07:25] formidable, slave army. The 70 who had
+[07:25 --> 07:27] initially broken out of the gladiator
+[07:27 --> 07:30] school found themselves backed up by 70,000
+[07:30 --> 07:33] of their closest friends. As the winter
+[07:33 --> 07:36] of 73 BC approached, Rome had a very big
+[07:36 --> 07:38] problem on its hands and it wasn't going
+[07:38 --> 07:42] anywhere anytime soon. The slaves spent the
+[07:42 --> 07:44] winter continuing to raid the countryside
+[07:44 --> 07:47] with impunity and, most importantly, train.
+[07:48 --> 07:50] Their survival now depended on their ability
+[07:50 --> 07:52] to stand against the Roman legions on the
+[07:52 --> 07:56] open battlefield. The core group of mostly
+[07:56 --> 07:58] Gallic gladiators would individually train
+[07:58 --> 08:01] groups of new recruits to block, parry,
+[08:01 --> 08:03] thrust, march, and, most importantly,
+[08:03 --> 08:06] follow orders. Those newly trained individuals
+[08:07 --> 08:08] would then go off and train their own groups,
+[08:09 --> 08:11] who would, in turn, train yet more groups.
+[08:12 --> 08:14] Using this exponential system of training,
+[08:15 --> 08:17] by the time the campaign season of 72 finally
+[08:17 --> 08:20] came around, the slaves were ready. And it
+[08:20 --> 08:22] was a good thing, too, because Rome wasn't
+[08:22 --> 08:25] going to be sending militias this time. No,
+[08:25 --> 08:28] this time it would be full consular armies.
+[08:29 --> 08:33] By most accounts, Spartacus' main aim was
+[08:33 --> 08:35] to make his way north and get out of Italy.
+[08:35 --> 08:37] His fellow commander, Crixus, however,
+[08:38 --> 08:39] seemed much more enamored with a life spent
+[08:39 --> 08:42] pillaging the Roman countryside. So while
+[08:42 --> 08:44] Spartacus led the bulk of the newly minted
+[08:44 --> 08:47] army north, Criscus peeled off with about
+[08:47 --> 08:49] 30,000, the plan being for them to stay
+[08:49 --> 08:51] in southern Italy and suck up whatever
+[08:51 --> 08:55] wasn't nailed down. His reasoning, I suppose,
+[08:55 --> 08:56] was that Rome hadn't been able to stop them
+[08:56 --> 08:59] so far, and now they were stronger and better
+[08:59 --> 09:02] equipped. So Criscus was going to get his
+[09:02 --> 09:05] before he retired. But regular legions are
+[09:05 --> 09:08] not drafted militias, and untested paraders
+[09:08 --> 09:11] are not seasoned consuls. And Rome had
+[09:11 --> 09:13] decided the slave revolt was the business
+[09:13 --> 09:16] at hand for 72 BC, and sent both consuls
+[09:16 --> 09:19] for the year, Lucius Gellius Publicola and
+[09:19 --> 09:21] Nius Cornelius Lentolus, at the head of
+[09:21 --> 09:24] full consular armies to put down what they
+[09:24 --> 09:26] now finally recognized to be a full-blown
+[09:26 --> 09:29] revolt. Crixus and his force did not last
+[09:29 --> 09:32] very long. Gellius caught up with him, and
+[09:32 --> 09:34] the far more disciplined Romans were able
+[09:34 --> 09:36] to carve their way through the mostly
+[09:36 --> 09:46] Germanic infantry with ease. At least
+[09:46 --> 09:47] they were able to march north towards the
+[09:47 --> 09:50] Alps. And there are two divergent accounts
+[09:50 --> 09:52] of what happened next. According to the
+[09:52 --> 09:56] historian Appian, writing in about 160 AD,
+[09:56 --> 09:58] Lentolus placed his army between Spartacus
+[09:58 --> 10:01] and the Alps, while Gellius, fresh off his
+[10:01 --> 10:03] victory over Crixus, followed Spartacus
+[10:03 --> 10:06] north. The consuls hoped to trap the
+[10:06 --> 10:08] slaves between their two armies and crush
+[10:08 --> 10:11] them. But Spartacus acted quickly, and
+[10:11 --> 10:13] decided to attack Lentolus before Gellius
+[10:13 --> 10:15] was able to arrive and close the trap.
+[10:16 --> 10:18] The slave army defeated Lentolus' outnumbered
+[10:18 --> 10:21] legion, whereupon Spartacus wheeled around
+[10:21 --> 10:23] when Gellius arrived and beat his army,
+[10:23 --> 10:26] too. Then, just to top things off, the
+[10:26 --> 10:28] two defeated consular armies regrouped
+[10:28 --> 10:35] and combined, whereupon Spartacus
+[10:36 --> 10:38] The Greek historian Plutarch, on the other
+[10:38 --> 10:40] hand, writing around 100 AD, says simply
+[10:40 --> 10:42] that Spartacus faced Lentolus and defeated
+[10:42 --> 10:45] him before meeting and beating another
+[10:45 --> 10:46] small Roman legion at the foot of the
+[10:46 --> 10:49] Alps. No mention is made of facing Gellius
+[10:49 --> 10:52] or the subsequent third battle. My suspicion
+[10:52 --> 10:53] is that the latter version, which I
+[10:53 --> 10:56] call probably closer to the truth, was
+[10:56 --> 10:57] probably closer to the truth.
+[10:59 --> 11:02] But whatever exactly happened in 72, the
+[11:02 --> 11:03] sources pretty much agree on what happened
+[11:03 --> 11:06] next. Crassus entered the picture and
+[11:06 --> 11:08] brought the Third Servile War to a
+[11:08 --> 11:11] brutal conclusion. The big gaping hole
+[11:11 --> 11:13] in the story, though, is having most
+[11:13 --> 11:15] likely defeated Lentolus, and with
+[11:15 --> 11:23] nothing standing between him and
+[11:23 --> 11:24] Lentolus, there is a lack of an answer
+[11:24 --> 11:26] for what the motivations behind the revolt
+[11:26 --> 11:29] really were. Criscus' motives seem clear.
+[11:29 --> 11:31] He wanted to kill Romans and take their
+[11:31 --> 11:34] stuff. Spartacus obviously had some
+[11:34 --> 11:36] divergent motivation, or he would have
+[11:36 --> 11:38] kept the army whole, but if he did,
+[11:38 --> 11:40] why fight all the way to the Alps
+[11:40 --> 11:42] just to turn around? We will probably
+[11:42 --> 11:44] never know why Spartacus turned around,
+[11:44 --> 11:46] but in any event he did, and the army
+[11:46 --> 11:50] marched back south. With the failure of
+[11:50 --> 11:51] the consuls the previous year to get
+[11:51 --> 11:53] the job done, though Gellius pretty
+[11:53 --> 11:55] clearly seemed to have done his part,
+[11:56 --> 11:57] Crassus saw his chance to win some
+[11:57 --> 11:59] of that glory that had so eluded him
+[11:59 --> 12:01] by putting down the revolt himself.
+[12:02 --> 12:04] He convinced the Senate to give him the
+[12:04 --> 12:07] title of praetor and command of 50,000
+[12:07 --> 12:09] troops, more than enough, he said, to
+[12:09 --> 12:11] defeat the rabble once and for all.
+[12:12 --> 12:14] Crassus, by all accounts, was a
+[12:14 --> 12:16] strict disciplinarian, even going so
+[12:16 --> 12:18] far as to bring back the old tradition
+[12:18 --> 12:20] of decimation by which every tenth
+[12:20 --> 12:23] soldier of a retreating legion is
+[12:23 --> 12:25] executed. He definitely came from the
+[12:25 --> 12:27] old school of thought that the soldiers
+[12:27 --> 12:29] ought to fear their officers more than
+[12:29 --> 12:32] the enemy. It didn't endear him to
+[12:32 --> 12:34] anyone, and Crassus never enjoyed the
+[12:34 --> 12:36] kind of love and adulation that Caesar
+[12:36 --> 12:38] or Pompey basked in, but at least
+[12:38 --> 12:40] this time it got the job done.
+[12:41 --> 12:43] Spartacus led his slave army south,
+[12:44 --> 12:45] all the way to the very toe of
+[12:45 --> 12:47] Italy, and began to negotiate for
+[12:47 --> 12:49] passage across the Straits of Messina
+[12:49 --> 12:52] to Sicily. Obviously Sicily had
+[12:52 --> 12:54] given birth to the first two
+[12:54 --> 12:55] servile wars, so it seems that
+[12:55 --> 12:57] Spartacus may have intended to lead
+[12:57 --> 12:59] a general revolt on the island, acquire
+[12:59 --> 13:02] new recruits, and, let's say,
+[13:02 --> 13:04] overthrow the Roman Empire. His wider
+[13:04 --> 13:06] strategic plans are a complete mystery.
+[13:07 --> 13:09] All we know is what he did, not why
+[13:09 --> 13:12] he did it. Being the leader of an
+[13:12 --> 13:13] outlaw army, he was forced to deal
+[13:13 --> 13:15] with Sicilian pirates as his only
+[13:15 --> 13:17] option for faring the army off the
+[13:17 --> 13:19] mainland. But having paid the pirates,
+[13:19 --> 13:21] the pirates did what pirates normally
+[13:21 --> 13:23] do. They took the money and ran.
+[13:24 --> 13:25] This left Spartacus lighter in the
+[13:25 --> 13:27] pocketbook, but, more importantly,
+[13:28 --> 13:29] up the proverbial creek without a
+[13:29 --> 13:32] paddle. The toe of Italy is not
+[13:32 --> 13:34] particularly wide, so as Spartacus
+[13:34 --> 13:36] was trying to flee Italy by sea,
+[13:36 --> 13:38] Crassus marched his army down to
+[13:38 --> 13:39] prevent the slaves from backtracking
+[13:39 --> 13:42] by land. When the pirates betrayed
+[13:42 --> 13:44] him, Spartacus was trapped.
+[13:45 --> 13:46] There is some indication that
+[13:46 --> 13:48] Spartacus attempted to bargain with
+[13:48 --> 13:50] Crassus at this point, but Crassus
+[13:50 --> 13:52] would have none of it. He wasn't
+[13:52 --> 13:53] simply interested in bringing the
+[13:53 --> 13:55] revolt to an end. He was interested
+[13:55 --> 13:58] in defeating the slave army militarily.
+[13:58 --> 14:00] Crassus had more important things to
+[14:00 --> 14:02] worry about than the ultimate safety
+[14:02 --> 14:03] of the Roman people. He had his
+[14:03 --> 14:05] political career to look out for,
+[14:06 --> 14:07] and he was banking on a great military
+[14:07 --> 14:09] victory to catapult him into the
+[14:09 --> 14:11] upper echelon of the nobility.
+[14:12 --> 14:14] Negotiate? The consulship was just
+[14:14 --> 14:15] a day's battle away.
+[14:17 --> 14:20] Spartacus and his army were in
+[14:20 --> 14:22] battle by Crassus' legions, where it
+[14:22 --> 14:24] also began to filter through the lines
+[14:24 --> 14:26] that Roman reinforcements were arriving
+[14:26 --> 14:27] from the east, and that Pompey had
+[14:27 --> 14:29] crossed back into Italy and was heading
+[14:29 --> 14:31] south to aid Crassus.
+[14:32 --> 14:34] Spartacus decided that they had to
+[14:34 --> 14:36] break through Crassus' line now,
+[14:36 --> 14:37] or they would have no hope at all.
+[14:38 --> 14:40] He concentrated all his strength on
+[14:40 --> 14:42] one point, and eventually his army
+[14:42 --> 14:43] was able to break through the line,
+[14:43 --> 14:45] running at full steam to escape the
+[14:45 --> 14:47] tow of Italy before the reinforcements
+[14:47 --> 14:50] could arrive. But the escape effort,
+[14:51 --> 14:52] combined with the nearly two years
+[14:52 --> 14:54] of continuous struggle and hardship,
+[14:54 --> 14:55] had finally taken their toll
+[14:55 --> 14:57] on the unprofessional slave army.
+[14:58 --> 15:00] 15,000 men were separated
+[15:00 --> 15:02] from the main force led by Spartacus,
+[15:02 --> 15:04] and were destroyed by Crassus
+[15:04 --> 15:06] and his pursuing legions.
+[15:06 --> 15:08] Discipline broke down in the slave
+[15:08 --> 15:10] army, as groups began to flee
+[15:10 --> 15:11] or fight depending on their own
+[15:11 --> 15:14] disposition. Realizing that
+[15:14 --> 15:16] he would not be able to keep his army together
+[15:16 --> 15:18] for much longer, Spartacus decided
+[15:18 --> 15:19] to make a last stand.
+[15:20 --> 15:22] His army turned and threw everything it had
+[15:22 --> 15:24] at Crassus, but it simply wasn't enough.
+[15:24 --> 15:26] The majority of the slave
+[15:26 --> 15:28] army, along with Spartacus himself,
+[15:28 --> 15:29] were killed in the final battle.
+[15:30 --> 15:32] Crassus had put down the revolt
+[15:32 --> 15:34] and stood as the conquering hero
+[15:34 --> 15:36] of the Third Servile War, and he
+[15:36 --> 15:38] wouldn't have to share his glory with anybody.
+[15:39 --> 15:40] Except that
+[15:40 --> 15:42] about 5,000 slaves had managed
+[15:42 --> 15:44] to evade capture and continue running
+[15:44 --> 15:46] north. Pompey was
+[15:46 --> 15:48] on his way south, with instructions
+[15:48 --> 15:50] to aid Crassus against the great and terrible
+[15:50 --> 15:52] slave menace. Not
+[15:52 --> 15:53] making it in time for the main battle,
+[15:54 --> 15:56] he instead ran right into these 5,000
+[15:56 --> 15:58] fleeing slaves. Exhausted,
+[15:58 --> 15:59] ill-equipped, and on their last legs,
+[16:00 --> 16:01] Pompey barely broke a sweat
+[16:01 --> 16:04] defeating this last remnant of Spartacus's
+[16:04 --> 16:05] already defeated army.
+[16:06 --> 16:08] But, master of PR
+[16:08 --> 16:10] that he was, Pompey sent a message
+[16:10 --> 16:11] to the Senate announcing that he,
+[16:11 --> 16:13] Pompey Magnus, had officially brought the
+[16:13 --> 16:15] uprising to an end.
+[16:16 --> 16:17] While the honors were being handed out
+[16:17 --> 16:19] after the legions returned to Rome,
+[16:20 --> 16:22] Pompey stood side by side with Crassus,
+[16:22 --> 16:23] accepting credit for things he
+[16:23 --> 16:25] very obviously did not deserve credit for.
+[16:27 --> 16:27] The victory over the
+[16:27 --> 16:29] slave army was supposed to establish
+[16:29 --> 16:31] Crassus as the preeminent leader of
+[16:31 --> 16:33] the Republic, but instead
+[16:33 --> 16:35] he now shared that distinction with Pompey,
+[16:36 --> 16:37] much to the former chagrin and the
+[16:37 --> 16:40] latter's delight. But the enmity
+[16:40 --> 16:42] Crassus now bore Pompey was not
+[16:42 --> 16:43] strong enough to make him miss an obvious
+[16:43 --> 16:45] political opportunity.
+[16:46 --> 16:47] Both men stood at the head of large armies
+[16:47 --> 16:49] camped outside the city walls,
+[16:49 --> 16:51] and neither was particularly disposed to
+[16:51 --> 16:53] disband them until an understanding was reached.
+[16:54 --> 16:56] They each knew that the other
+[16:56 --> 16:58] would be their biggest rival for power,
+[16:58 --> 17:00] but also that there were dozens
+[17:00 --> 17:02] of other nobles who fancied themselves
+[17:02 --> 17:03] the next solo.
+[17:04 --> 17:06] So first, you have to eliminate the
+[17:06 --> 17:08] pretenders to the throne before you can
+[17:08 --> 17:09] deal with the real claimants.
+[17:10 --> 17:12] So Crassus, Pompey, and the Senate
+[17:12 --> 17:14] agreed that it was in everyone's best
+[17:14 --> 17:16] interest for Crassus and Pompey
+[17:16 --> 17:18] to serve as co-consuls for the next year.
+[17:19 --> 17:20] From there,
+[17:20 --> 17:22] it would be easy for them to eliminate
+[17:22 --> 17:24] the weaker competition before
+[17:24 --> 17:26] inevitably turning on each other to decide
+[17:26 --> 17:27] the final fate of Rome.
+[17:28 --> 17:30] Who knew that some impoverished noble
+[17:30 --> 17:32] named Julius Caesar would wind up
+[17:32 --> 17:33] beating them both?
+[17:35 --> 17:36] The slave revolt led by
+[17:36 --> 17:38] Spartacus was the last such revolt
+[17:38 --> 17:39] in Roman history.
+[17:40 --> 17:42] Crassus would probably tell you that it was the fact
+[17:42 --> 17:44] that he ordered 6,000 recaptured
+[17:44 --> 17:46] slaves crucified along the Appian Way
+[17:46 --> 17:48] as the reason why.
+[17:49 --> 17:50] You see, though he ordered them
+[17:50 --> 17:52] crucified, he declined to order that
+[17:52 --> 17:53] the bodies be removed.
+[17:54 --> 17:56] The decomposing corpses, then
+[17:56 --> 17:58] skeletons, served as a stark
+[17:58 --> 18:00] reminder to slaves everywhere
+[18:00 --> 18:02] what happens if they forget their place in the
+[18:02 --> 18:04] world. More likely,
+[18:04 --> 18:06] though, it was the shifting undercurrents
+[18:06 --> 18:08] of the Roman economy and Roman politics.
+[18:09 --> 18:10] The bulk of the
+[18:10 --> 18:12] Roman wars of territorial expansion
+[18:12 --> 18:14] where slaves came from, were now
+[18:14 --> 18:15] a thing of the past.
+[18:16 --> 18:18] So not only would there be fewer slaves in the future,
+[18:19 --> 18:20] but those slaves would inevitably
+[18:20 --> 18:22] become a more precious commodity.
+[18:23 --> 18:25] The rampant mistreatment
+[18:25 --> 18:26] that had characterized the master-slave
+[18:26 --> 18:28] relationship previously
+[18:28 --> 18:30] shifted into something more humane.
+[18:31 --> 18:32] Eventually, in the empire,
+[18:32 --> 18:35] it would actually become a crime to kill a slave.
+[18:35 --> 18:37] Imagine that, not being
+[18:37 --> 18:38] able to destroy your own property.
+[18:39 --> 18:40] How uncivilized.
+[18:41 --> 18:43] The declining slave population
+[18:43 --> 18:44] changed the dynamic.
+[18:45 --> 18:47] So while slavery was still a terrible thing to
+[18:47 --> 18:48] endure, it was not so bad
+[18:48 --> 18:50] that huge armies would spontaneously
+[18:50 --> 18:52] spring up to threaten the peace.
+[18:53 --> 18:55] Now, for the next few
+[18:55 --> 18:57] hundred years, it is pretty safe to say
+[18:57 --> 18:58] that the greatest threat to the peace
+[18:58 --> 19:00] was not revolting slaves or
+[19:00 --> 19:03] invading foreign armies, but rather
+[19:03 --> 19:05] the rampant scheming of ambitious
+[19:05 --> 19:06] nobles to put themselves in charge
+[19:06 --> 19:09] of the greatest empire the western world
+[19:09 --> 19:09] had ever known.
+[19:10 --> 19:12] It was a race to see who could kill the
+[19:12 --> 19:14] 500-year-old republic first.
+[19:14 --> 19:16] And next week, we will cover one of the
+[19:16 --> 19:19] more infamous plots, deadly in
+[19:19 --> 19:20] purpose, but ultimately hilarious
+[19:20 --> 19:23] in execution. The Conspiracy
+[19:23 --> 19:24] of Catalan.
+[19:46 --> 19:48] Thank you for watching!

@@ -1,0 +1,365 @@
+# 20100301 - 084- Longing For Death
+# Detected language: en
+# Duration: 1644.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to the History of Rome, Episode 84, Longing for Death.
+[00:14 --> 00:18] Hadrian had been in Athens when word came in 132 that another revolt had broken out
+[00:18 --> 00:19] in Judea.
+[00:19 --> 00:25] The two and a half years of fighting to retake the province would prove to be the most significant
+[00:25 --> 00:30] military operation Rome would engage in during Hadrian's reign, and it is likely, bordering
+[00:30 --> 00:35] on confirmed fact, that the emperor traveled to the troubled region to oversee the campaign
+[00:35 --> 00:37] for himself.
+[00:37 --> 00:42] But he did not stick around to see the conflict's resolution, and by 134 the emperor was back
+[00:42 --> 00:47] in Italy, having left the prosecution of the war in the hands of his best general, Sextus
+[00:47 --> 00:49] Julius Severus.
+[00:49 --> 00:53] This final trip back from the east would mark Hadrian's last tour as the great traveling
+[00:53 --> 00:58] emperor, and when he settled into his villa at Tivoli, whether he knew it or not, he
+[00:58 --> 01:02] was settling in for good.
+[01:02 --> 01:06] By all accounts, the last few years of Hadrian's reign were unhappy ones, both for the emperor
+[01:06 --> 01:10] himself and for everyone around him.
+[01:10 --> 01:15] His mental and physical health began to deteriorate, and as his life grew shorter, so too did his
+[01:15 --> 01:17] temper.
+[01:17 --> 01:22] The image of himself Hadrian had worked so hard to create, that of a patient, generous,
+[01:22 --> 01:27] enlightened monarch, began to fall apart, and all the close friends and associates who
+[01:27 --> 01:33] had stood by his side through thick and thin began to be pushed away one by one.
+[01:33 --> 01:37] Hadrian had been proud to call the best and brightest the empire had to offer his personal
+[01:37 --> 01:38] friends.
+[01:38 --> 01:42] When he died, though, he was attended by none but a few slaves.
+[01:42 --> 01:47] Every man who should have stood by the emperor as he slipped away was either dead or exiled,
+[01:47 --> 01:52] or had chosen to withdraw from a ruler who seemed to be lashing out at those he trusted
+[01:52 --> 01:55] and who trusted him the most.
+[01:55 --> 02:00] Those who knew him best saw Hadrian's final years as a departure from his natural disposition,
+[02:00 --> 02:04] while his enemies in the senate saw it as confirmation that he had been a monster all
+[02:04 --> 02:07] along.
+[02:07 --> 02:11] For a while after he returned to Italy, things seemed to be okay.
+[02:11 --> 02:15] Hadrian, naturally feeling the effects of nearly two decades on the throne, began to
+[02:15 --> 02:19] think about what the world would be like when he was gone.
+[02:19 --> 02:24] Frequent, unstoppable nosebleeds had him thinking about his own mortality.
+[02:24 --> 02:28] Who would follow him on the throne, and how would history remember him?
+[02:28 --> 02:33] Much like Augustus, Hadrian displayed concern about the future of both the imperial dynasty
+[02:33 --> 02:36] and the empire as a whole.
+[02:36 --> 02:40] For an emperor obsessed with the stability and strength of Rome, it would have been nearly
+[02:40 --> 02:44] impossible for him to treat the question of succession with the same cavalier attitude
+[02:44 --> 02:47] Trajan had displayed.
+[02:47 --> 02:51] He had spent his life consolidating Rome's holdings and establishing peaceful relations
+[02:51 --> 02:53] with potential external threats.
+[02:53 --> 02:59] He did not want it all to be thrown away by some less enlightened successor.
+[02:59 --> 03:03] He needed to think long and hard about who he was going to hand power to.
+[03:03 --> 03:08] But it soon became apparent that the aging and very possibly dying emperor was not the
+[03:08 --> 03:15] same eminently rational man who had ruled the empire for so long.
+[03:15 --> 03:20] The ancient histories first point to the emperor's feud with Apollodorus of Damascus as proof
+[03:20 --> 03:22] that he was beginning to lose his grip.
+[03:22 --> 03:27] Hadrian, who always fancied himself an excellent architect, had designed a great temple of
+[03:27 --> 03:32] Venus that was dedicated in Rome in 135.
+[03:32 --> 03:36] Proud of what he considered a magnificent work of art, Hadrian asked the greatest architect
+[03:36 --> 03:41] of his generation, Apollodorus, to comment on the design and construction.
+[03:41 --> 03:46] Obviously fishing for compliment, Hadrian was deeply grieved when Apollodorus sent back
+[03:46 --> 03:51] a stern critique of the building's foundation, the line of sight for visitors approaching
+[03:51 --> 03:56] along the sacred way, the size of the doors, they were too small, and the size of the statue
+[03:56 --> 03:59] of Venus inside, it was too large.
+[03:59 --> 04:04] If Venus ever wished to go out for a stroll, Apollodorus caustically informed the emperor,
+[04:04 --> 04:08] she would be unable to fit through the entryway.
+[04:08 --> 04:12] Now the emperor and the architect had been on tense terms for years.
+[04:12 --> 04:17] A standard legend has it that at some point during the Dacian Wars, Hadrian had interrupted
+[04:17 --> 04:21] a conference between Trajan and Apollodorus to offer his own opinion of the project they
+[04:21 --> 04:26] were discussing, and Apollodorus, incensed that this young amateur was even approaching
+[04:26 --> 04:31] the grown-ups table, dismissed Hadrian, telling him to go back to his drawings, that he understood
+[04:31 --> 04:34] none of this.
+[04:34 --> 04:37] Relations between the enthusiastic amateur and the proud professional never got much
+[04:37 --> 04:42] better, though Hadrian seems to have respected Apollodorus enough that he asked the architect
+[04:42 --> 04:47] to help design war machines that would allow the legions to attack Jewish cave bases during
+[04:47 --> 04:50] the Third Jewish War.
+[04:50 --> 04:55] But respect or no, Cassius Dio reports that when Hadrian read Apollodorus's critique,
+[04:55 --> 05:01] that he became enraged and ordered the architect banished from Rome, and shortly thereafter
+[05:01 --> 05:03] had him executed.
+[05:03 --> 05:08] If this seems like an overly rash response to what was probably reasonable criticism,
+[05:08 --> 05:12] you're right, and most modern historians do not believe that Apollodorus was actually
+[05:12 --> 05:18] killed by Hadrian, but that instead the old architect simply died of natural causes around
+[05:18 --> 05:25] the time of the exchange, and that Hadrian's enemies drew their own libelous conclusions.
+[05:25 --> 05:29] But if the crime itself never took place, the mood of Hadrian's last years certainly
+[05:29 --> 05:34] made believing that the crime did take place easy to swallow, and that, more than anything
+[05:34 --> 05:37] else, is the moral of the story.
+[05:37 --> 05:41] Because while he may not have executed Apollodorus, the emperor's treatment of his own family
+[05:41 --> 05:43] is confirmed fact.
+[05:43 --> 05:48] Placing Apollodorus's blood on Hadrian's hands is not so much a matter of falsely accusing
+[05:48 --> 05:54] the innocent, as it is adding one more name to the list.
+[05:54 --> 06:00] As 135 gave way to 136, the issue of succession began to consume the emperor.
+[06:00 --> 06:04] That and the completion of his great mausoleum on the banks of the Tiber, which is still
+[06:04 --> 06:09] standing in Rome, so go visit that too.
+[06:09 --> 06:13] For Neospidanius Fuscus, the only living male relative of the emperor, this should have
+[06:13 --> 06:15] come as welcome news.
+[06:15 --> 06:20] Fuscus was Hadrian's teenage great-nephew, the grandson of his sister and a powerful
+[06:20 --> 06:24] senator named Lucius Julius Servianus.
+[06:24 --> 06:28] But unfortunately for Fuscus, Hadrian had watched the boy grow up, and determined that
+[06:28 --> 06:34] he was utterly unfit for power, that his tastes were too lavish and too petty, a Nero in the
+[06:34 --> 06:37] making if there ever was one.
+[06:37 --> 06:42] Hadrian's unwillingness to commit to Fuscus greatly annoyed his grandfather Servianus,
+[06:42 --> 06:47] who was past ninety years old, but still growing strong.
+[06:47 --> 06:51] Servianus and Hadrian had never gotten along, and the fact that they were brothers-in-law
+[06:51 --> 06:55] seems only to have widened the gap rather than bridge it.
+[06:55 --> 06:59] It certainly did not help that it had been widely reported Servianus's was one of the
+[06:59 --> 07:04] few names Trajan had ever firmly put forward as a possible worthy heir to the throne back
+[07:04 --> 07:08] in 116-117.
+[07:08 --> 07:12] That he had been passed over in favor of his younger, cockier brother-in-law, likely through
+[07:12 --> 07:17] the machinations of a woman at that, had always stuck in Servianus's craw.
+[07:17 --> 07:22] But in his last years, the unmistakable reality that his grandson was the only man living
+[07:22 --> 07:27] with a blood relation to the emperor seemed to Servianus to resemble some kind of cosmic
+[07:27 --> 07:30] justice.
+[07:30 --> 07:35] But in defiance of this cosmic justice, Hadrian determined that whoever he chose, young Fuscus
+[07:35 --> 07:39] would not be his man, blood ties be damned.
+[07:39 --> 07:44] This second passover of Servianus's family maybe, maybe would have gone without incident
+[07:44 --> 07:49] Had Hadrian chosen as heir someone whose worth could not be denied by anyone, much as nervous
+[07:49 --> 07:54] choice of Trajan had put to rest every other claim on power, even amongst those who really
+[07:54 --> 07:58] thought they deserved the call.
+[07:58 --> 08:03] Hadrian could have settled Servianus's discontent by choosing some worthy men, like for example,
+[08:03 --> 08:08] and I'm just throwing this out there, Sextus Julius Severus, the troubleshooting general
+[08:08 --> 08:11] who had just won the war in Judea.
+[08:11 --> 08:16] But instead, in 136, prompted by a massive hemorrhage that nearly killed him, Hadrian
+[08:16 --> 08:21] announced to a shocked Roman world that he was adopting a relatively obscure and unaccomplished
+[08:21 --> 08:26] man named Lucius Caonius Commodus.
+[08:26 --> 08:30] Muckriggers immediately pointed to Lucius's reputation as a pretty dilettante, as the
+[08:30 --> 08:36] deciding factor, but the emperor's sympathizers argued that Hadrian was playing a game of
+[08:36 --> 08:40] four dimensional chess with the succession issue that only the brilliant emperor himself
+[08:40 --> 08:42] could fully understand.
+[08:42 --> 08:47] I, of course, would adopt the boring conclusion that it was likely somewhere in between these
+[08:47 --> 08:49] two extremes.
+[08:49 --> 08:54] The choice of Lucius, who changed his name to Lucius Aelius Caesar when the adoption
+[08:54 --> 08:59] went through, does seem a curious one taken on its own though.
+[08:59 --> 09:03] Lucius was a capable enough senator, but he had well known health problems, likely suffering
+[09:03 --> 09:05] from tuberculosis.
+[09:05 --> 09:10] If Hadrian wanted to ensure the stability of the dynasty and the empire, choosing the
+[09:10 --> 09:15] perpetually bedridden Lucius was an odd choice to say the least.
+[09:15 --> 09:20] But like I say, it is entirely possible that Hadrian was looking beyond Lucius to the man
+[09:20 --> 09:25] or men he really wanted to control the empire down the road.
+[09:25 --> 09:30] Lucius would be his stopgap, his very own Nerva, to bridge the interregnum between
+[09:30 --> 09:35] Hadrian and the young men he really had his eyes on.
+[09:35 --> 09:39] But before we get into them, it is worth mentioning one other salient detail about
+[09:39 --> 09:44] Lucius that may have recommended him to the emperor, namely that he was the son-in-law
+[09:44 --> 09:50] of Publius Negrinus, one of the four ex-consuls who had been murdered in 118.
+[09:50 --> 09:54] Hadrian was concerned about his legacy and the choice of Lucius may have been an olive
+[09:54 --> 09:59] branch to the senate, an admission that he understood their anger and that he wanted
+[09:59 --> 10:03] to set things right.
+[10:03 --> 10:08] Let's agree, though, that Lucius was not the true object of the emperor's plans, that
+[10:08 --> 10:13] the fourth dimension of Hadrian's scheme was the grandson of one of the emperor's closest
+[10:13 --> 10:18] friends and advisors, Marcus Aeneas Verus.
+[10:18 --> 10:23] Born with his father and grandfather's name, young Marcus Verus, then fifteen years old,
+[10:23 --> 10:29] had caught the emperor's attention early as an unusually serious and intelligent boy.
+[10:29 --> 10:34] Having been raised in part by his grandfather, who Hadrian held in the highest esteem, young
+[10:34 --> 10:39] Marcus was marked from the beginning as one worth watching.
+[10:39 --> 10:43] As the emperor watched Marcus grow up, he was impressed more and more with the studious
+[10:43 --> 10:46] and capable teenager.
+[10:46 --> 10:50] We'll get more into the biographical particulars of the man history will come to know as Marcus
+[10:50 --> 10:55] Aurelius in our next episode, but I just want to note for now that upon Lucius's adoption
+[10:56 --> 11:01] Marcus was engaged to Lucius's daughter almost immediately.
+[11:01 --> 11:06] Though he had a son of his own, a six-year-old also named Lucius Caonius Commodus, Hadrian
+[11:06 --> 11:11] seems to have been setting things up so that when the perpetually ill Lucius Caesar inevitably
+[11:11 --> 11:16] succumbed to one of his many ailments, power would transfer naturally to his new son-in-law
+[11:16 --> 11:18] Marcus.
+[11:18 --> 11:23] This of course begs us to ask the question, why not just adopt Marcus straight away?
+[11:23 --> 11:26] Why take the scenic route through Lucius?
+[11:26 --> 11:30] The one obvious answer is that at fifteen, Marcus may have been a promising candidate
+[11:30 --> 11:35] for power, but was not yet seasoned enough for Hadrian's tastes.
+[11:35 --> 11:40] Nero and Caligula had proven the folly of allowing the young too much power.
+[11:40 --> 11:45] Lucius, though weakly constituted, was still in the prime of his middle age and would likely
+[11:45 --> 11:50] last long enough to at least get Marcus into his mid-twenties, at which point he would
+[11:50 --> 11:54] hopefully have enough experience to temper the excesses of youth.
+[11:54 --> 11:59] But who knows, maybe Hadrian was trying to have his cake and eat it too.
+[11:59 --> 12:03] Adopt the son-in-law of Negrinus to appease the senate, knowing full well that Lucius would
+[12:03 --> 12:10] die off quickly and Hadrian's real choice of heir could take over.
+[12:10 --> 12:15] The choice of Lucius appears to have been too much for Servianus and Fuscus to take.
+[12:15 --> 12:20] Fuscus especially saw the throne as his birthright and when he learned that he had been passed
+[12:20 --> 12:25] over just as his grandfather had before him, the young man set himself on a plan to overthrow
+[12:25 --> 12:30] the aging Hadrian and seize power for himself.
+[12:30 --> 12:35] At some point in late 137, Hadrian's spy network informed him of the plot and the Emperor
+[12:35 --> 12:38] took decisive action.
+[12:38 --> 12:42] He seized young Fuscus, who was no doubt close at hand as he was still a member of the imperial
+[12:42 --> 12:48] court, even if his relevance was now virtually non-existent.
+[12:48 --> 12:52] During the brunt of the Emperor's wrath, the young alleged usurper was ordered to commit
+[12:52 --> 12:54] suicide.
+[12:54 --> 13:00] But the death of his great-nephew was apparently not enough and shortly after Fuscus's death,
+[13:00 --> 13:06] Hadrian unexpectedly turned on Servianus and ordered him too to commit suicide.
+[13:06 --> 13:10] The Roman elites could take in stride the political assassination of a young man who
+[13:10 --> 13:15] was very possibly himself plotting political assassination, but forcing an old man to end
+[13:16 --> 13:21] his life in such a dishonorable way, especially one who had spent that life nobly serving
+[13:21 --> 13:24] the Empire, was a pointless outrage.
+[13:24 --> 13:30] Servianus, as you can imagine, was himself outraged, but after firmly avowing his innocence
+[13:30 --> 13:35] and his fidelity both to Rome and the Emperor, he did indeed kill himself.
+[13:35 --> 13:40] But before he died, he swore one solemn, bitter prayer.
+[13:40 --> 13:45] May Hadrian long for death, yet be unable to die.
+[13:45 --> 13:50] It seems clear that the case against Servianus was trumped up and that Hadrian was finally
+[13:50 --> 13:56] acting on a long-held grudge, but what are we to make of Fuscus's alleged coup plot?
+[13:56 --> 14:00] For the Senate, it was not even a matter of debate.
+[14:00 --> 14:04] Hadrian had invented charges against and then murdered his great-nephew to ensure that his
+[14:04 --> 14:10] own diabolical plans for the future of Rome progressed unhindered.
+[14:10 --> 14:14] Some sources claim that other men of senatorial rank were also caught up in Hadrian's paranoid
+[14:14 --> 14:20] net and killed at the same time, implying that Hadrian had basically cooked up a wide-ranging
+[14:20 --> 14:27] conspiracy so he could prosecute anyone who might trouble his plan for succession.
+[14:27 --> 14:31] In the end, it's really hard to tell what's true and what's not, especially given the
+[14:31 --> 14:34] Senate's clear enmity toward Hadrian.
+[14:34 --> 14:38] But given the Emperor's mood at the time, it is possible that he did engage in a carefully
+[14:38 --> 14:43] planned purge to clear the path for his chosen heirs, and perhaps deal a bit of vengeance
+[14:43 --> 14:47] to his enemies before he died.
+[14:47 --> 14:54] Some sources even have it that Hadrian's long-estranged wife Sabina was herself caught up in the purge.
+[14:54 --> 14:59] Because however it happened, she died in early 137 and was thus easily lumped into stories
+[14:59 --> 15:03] about the Emperor's mad reign of terror.
+[15:03 --> 15:08] Rumor mongers breathlessly wondered, did he suspect that she would act as Pompeya had
+[15:08 --> 15:13] when Trajan died and upset the apple-cart of his carefully laid plans?
+[15:13 --> 15:14] Probably not.
+[15:14 --> 15:19] Though they had never gotten along personally, Hadrian had always gone out of his way to
+[15:19 --> 15:24] treat her, and make sure everyone else treated her, with great respect, and in turn she was
+[15:24 --> 15:27] as loyal to the regime as anyone.
+[15:27 --> 15:34] Like with Appledorus, coincidence is likely leading to conspiracy theory.
+[15:34 --> 15:39] But if, after the deaths of Fuscus, Servianus, and whoever else, Hadrian thought his house
+[15:40 --> 15:44] was well in order, he was in for a cruel shock.
+[15:44 --> 15:49] Just a month after the executions, let's call them what they really were, his heir Lucius
+[15:49 --> 15:53] Caesar returned from Pannonia where he had been sent by the Emperor to oversee the defense
+[15:53 --> 15:56] of the Danube frontier for the year.
+[15:56 --> 16:01] Though Lucius did an admirable job in ministering the region throughout 137, the climate had
+[16:01 --> 16:06] taken its toll on the perpetually bed-ridden new Caesar.
+[16:06 --> 16:10] Back in Rome, Lucius was preparing to address the Senate on New Year's Day when he became
+[16:10 --> 16:13] seriously ill.
+[16:13 --> 16:17] Some report that he overdosed on the medicine he had been prescribed, but whatever the cause,
+[16:17 --> 16:24] on January 1, 138, Lucius Caesar died, sending Hadrian's perhaps too clever by half succession
+[16:24 --> 16:28] plans into disarray.
+[16:28 --> 16:32] The Senate breathed a sigh of relief that Lucius had not lived long enough to fall flat
+[16:32 --> 16:36] on his face as Emperor, as they were all fairly sure he would, and hope rippled through
+[16:36 --> 16:43] the aristocracy that Hadrian would come to his senses and choose a deserving candidate.
+[16:43 --> 16:48] But dipping once again into the well of the handsome, yet undistinguished, on January
+[16:48 --> 16:55] 22, 138 AD, Hadrian pulled out another random name to confound professional prognosticators.
+[16:56 --> 17:03] Titus Aurelius Fulvius Boeionius Arius Antoninus was a well-liked senator who had traveled
+[17:03 --> 17:08] up the cursus honorum with a sort of stable plotting, but he was just about the last man
+[17:08 --> 17:12] anyone would have guessed Hadrian would adopt as his heir.
+[17:12 --> 17:17] But the fates work in random ways, and Antoninus suddenly found himself next in line for the
+[17:17 --> 17:18] throne.
+[17:18 --> 17:24] This time, the choice would stick, and the man we all now know as Antoninus Pius will
+[17:24 --> 17:31] soon find himself ruling Rome for the better part of twenty-three blessedly banal years.
+[17:31 --> 17:37] Antoninus had been born in September of 86 AD, the son of Titus Aurelius Fulvius, who
+[17:37 --> 17:41] would serve as consul under Domitian in 89.
+[17:41 --> 17:45] The Fulvii branch of the Aurelians had emerged during the early imperial period as one of
+[17:45 --> 17:49] the leading families of non-Italian origin.
+[17:49 --> 17:53] But though they called southern Gaul their homeland, by Antoninus's time, the family
+[17:53 --> 17:58] had emigrated to Italy, and Antoninus himself was born in Lavinium, about twenty miles
+[17:58 --> 18:00] from Rome.
+[18:00 --> 18:04] His grandfather had taken the family to the height of imperial favor during the crisis
+[18:04 --> 18:11] of 69 AD, throughout which he commanded the third legion stationed along the Danube.
+[18:11 --> 18:16] After initially fighting for Otho, he switched, along with the rest of his defeated comrades,
+[18:16 --> 18:21] to Vespasian's banner, and so found himself seated alongside the Flavians when they finally
+[18:21 --> 18:25] won that brutal game of musical chairs.
+[18:25 --> 18:31] Rewarded for his service with a Suffet consulship at some point in the 70s AD, Domitian rewarded
+[18:31 --> 18:35] him further with an ordinary consulship in 85.
+[18:35 --> 18:41] Just four years later, his son, Antoninus's father, was similarly rewarded.
+[18:41 --> 18:46] But both Antoninus's father and grandfather died sometime in the early 90s AD, and young
+[18:46 --> 18:51] Antoninus, then still known by his birth name Titus Aurelius Fulvis, was taken under
+[18:51 --> 18:57] the wing of his maternal grandfather, Neus Arius Antoninus, hence the addition of Arius
+[18:57 --> 19:00] and Antoninus to the boy's name.
+[19:00 --> 19:04] The elder Antoninus was a well-respected senator who counted amongst his friends plenty the
+[19:04 --> 19:10] younger, and he brought up his grandson with the stable, if boring, values of a cultured
+[19:10 --> 19:13] Roman aristocrat.
+[19:13 --> 19:19] While in his early 20s, Antoninus married Ania Galeria Faustina, granddaughter of Hadrian's
+[19:19 --> 19:23] aforementioned friend Marcus Aeneas Verus.
+[19:23 --> 19:29] The pairing was obviously fortuitous for Antoninus, and when Hadrian became emperor in 117, the
+[19:29 --> 19:33] young man found himself on the fringes of the imperial court by virtue of his relation
+[19:33 --> 19:35] to Verus.
+[19:35 --> 19:41] In 120, Antoninus was given a consulship, and, having obviously impressed Hadrian, he
+[19:41 --> 19:46] was later chosen to be one of the four procurators who would govern Italy after Hadrian reformed
+[19:46 --> 19:50] the administration of the peninsula in 127.
+[19:50 --> 19:55] Long term, of course, his association with this wildly unpopular reform was something
+[19:55 --> 19:59] of a black mark on his reputation, but for the time being, it was a signal of imperial
+[19:59 --> 20:02] favor.
+[20:02 --> 20:06] Antoninus was likely looking forward to a career of distinction and responsibility,
+[20:06 --> 20:12] though it is unlikely he ever considered that he himself would be emperor one day.
+[20:12 --> 20:17] But there he was in January of 138, suddenly called to the imperial villa and informed
+[20:17 --> 20:23] that he could now add Caesar to his long list of names because the emperor, out of the blue,
+[20:23 --> 20:26] was adopting him.
+[20:26 --> 20:29] Once again, we must ask the question why.
+[20:29 --> 20:31] Why Antoninus?
+[20:31 --> 20:35] He was capable and trustworthy, sure, but like Lucius before him, there was nothing
+[20:35 --> 20:40] really special to point to that said, oh yeah, you have to pick this guy Antoninus.
+[20:40 --> 20:42] He's perfect for the job.
+[20:42 --> 20:46] It is at this point, though, that we can really get into the guts of Hadrian's thinking, where
+[20:46 --> 20:52] it becomes apparent that it was Marcus Aurelius Hadrian wanted all along.
+[20:52 --> 20:57] Because when he offered Antoninus the job of emperor, a job that dying Hadrian assured
+[20:57 --> 21:01] Antoninus would be his sooner rather than later, he stipulated that Antoninus had to
+[21:01 --> 21:07] adopt both Marcus and the dead Lucius Caesar's son, Lucius Commodus, as his heirs, otherwise
+[21:07 --> 21:09] the deal was off.
+[21:09 --> 21:15] Clearly, Hadrian was thinking a generation ahead of everyone else.
+[21:15 --> 21:20] Antoninus then was merely a dependable way to get from here to Marcus.
+[21:20 --> 21:24] Already well into his fifties, Antoninus could be expected to die off sometime in the next
+[21:24 --> 21:29] decade or so, giving Marcus time for a proper imperial apprenticeship before he donned the
+[21:29 --> 21:33] purple for himself.
+[21:33 --> 21:38] Antoninus begged a few days to consider the emperor's offer.
+[21:38 --> 21:42] Though this humble podcast has been dealing primarily with the most ambitious Romans of
+[21:42 --> 21:46] every generation, which may leave you all with the impression that lust for power was
+[21:46 --> 21:52] the defining character trait of every man, woman, and child in the empire, not every
+[21:52 --> 21:54] Roman dreamed imperial dreams.
+[21:54 --> 21:59] The job was hard, dangerous, and all consuming.
+[21:59 --> 22:03] Antoninus was genuinely unsure whether he wanted the gig.
+[22:03 --> 22:08] He had a pretty good life, a happy marriage, a nice network of friends, and a healthy amount
+[22:08 --> 22:10] of cash in the bank.
+[22:10 --> 22:14] Was it really worth giving up the comfortable life of a cultured senator for the infinite
+[22:14 --> 22:17] burdens of empire?
+[22:17 --> 22:23] But the lure of power, or perhaps more likely the pressure from Hadrian, induced Antoninus
+[22:23 --> 22:30] to accept the deal, and on February 25, 138 AD, he became Titus Aelius Caesar Antoninus,
+[22:30 --> 22:35] heir to the imperial throne and adoptive father of a solemn teenager named Marcus and a precocious
+[22:35 --> 22:40] adolescent boy named Lucius.
+[22:40 --> 22:44] In recognition of the adoption, the senate invested Antoninus with tribunition power
+[22:44 --> 22:49] and granted him full imperium, that is, power of life and death over the subjects of the
+[22:49 --> 22:51] empire.
+[22:51 --> 22:55] He did not have long to get up to speed on the full gamut of responsibilities weighing
+[22:55 --> 22:59] down Hadrian's clearly slumping shoulders, and by the look of the emperor, the transfer
+[22:59 --> 23:03] of power could come at any time.
+[23:03 --> 23:07] Hadrian was suffering from what modern doctors have diagnosed as congestive heart disease
+[23:07 --> 23:12] and his body filled painfully with fluid, forcing him to spend most of his final days
+[23:12 --> 23:13] in bed.
+[23:13 --> 23:18] In the end, Servianus's prayer came true, as the suffering emperor tried and failed
+[23:18 --> 23:21] multiple times to kill himself.
+[23:21 --> 23:25] He had daggers and poison smuggled into his room on no fewer than three occasions, only
+[23:25 --> 23:31] to be thwarted at the last moment, and one attendant at least committed suicide rather
+[23:31 --> 23:35] than disobey Hadrian's orders to kill him.
+[23:35 --> 23:40] Antoninus himself finally intervened and begged Hadrian to bear his pain and let nature take
+[23:40 --> 23:42] its course.
+[23:42 --> 23:47] Hadrian's mood seems to have improved at least some following the intervention, and in letters
+[23:47 --> 23:52] exchanged with his new adopted son, he apologizes for letting his grief take over.
+[23:52 --> 23:57] A correspondence commenced that eventually resulted in Hadrian writing a full autobiography
+[23:57 --> 24:02] so that the record would be straight and Antoninus would have the full story of the past 20 years
+[24:02 --> 24:04] laid out in full.
+[24:04 --> 24:10] Unfortunately, no record of the autobiography exists, though modern scholars suppose that
+[24:10 --> 24:17] much of Hadrian's entry in the Historia Augusta was sourced to this autobiography.
+[24:17 --> 24:23] Finally though, the black magic of Servianus's prayer wore off, and on July 10, 138 AD, attended
+[24:23 --> 24:29] only by two slaves and Antoninus, Hadrian died at one of the imperial palaces in Campania
+[24:29 --> 24:31] along the Bay of Naples.
+[24:31 --> 24:39] He was 62 years old and had ruled Rome for 21 years.
+[24:39 --> 24:43] Servianus is one of the most fascinating men in the history of Rome, but I will admit that
+[24:43 --> 24:48] after a month of obsessing over him and trying to fit all of his contradictions and nuances
+[24:48 --> 24:54] and accomplishments into my head, I'm suffering from a bit of Hadrian fatigue.
+[24:54 --> 24:59] But in this, I kind of feel like I know the emperor as his contemporaries did.
+[24:59 --> 25:03] He was, simply put, an exhausting man to deal with.
+[25:03 --> 25:08] Eternally energetic, he was always traveling to some new city or starting some new project.
+[25:09 --> 25:14] But the wisdom of his rule, which bordered on visionary, was accompanied by a know-it-all
+[25:14 --> 25:19] pomposity that had to have driven everyone at least a little bit nuts.
+[25:19 --> 25:24] No one likes a man who knows everything, especially when he shows up at your doorstep and starts
+[25:24 --> 25:28] lecturing you on subjects you yourself are an expert in.
+[25:28 --> 25:33] There is a funny story where the emperor and a celebrated philosopher engaged in a debate
+[25:33 --> 25:38] where it was apparent to everyone that Hadrian's argument was far weaker.
+[25:38 --> 25:42] To the surprise of the audience, though, the philosopher eventually gave in and acknowledged
+[25:42 --> 25:45] the emperor had bested him.
+[25:45 --> 25:49] After the event, the philosopher was pressed by his friends, who demanded to know why he
+[25:49 --> 25:51] had given up so easily.
+[25:51 --> 25:55] The philosopher simply reminded his friends that the emperor was the most learned man
+[25:55 --> 25:57] of all.
+[25:57 --> 26:01] Taken aback, the friends laughed at this obviously untrue statement.
+[26:01 --> 26:03] But the philosopher insisted that it was true.
+[26:03 --> 26:08] You should always remember, he said to them, the most learned man of all is the man who
+[26:08 --> 26:11] commands thirty legions.
+[26:11 --> 26:17] Hadrian was undeniably a great emperor, and very often a good man, but he was also a flawed
+[26:17 --> 26:21] human being who could be an insufferably smug bully.
+[26:21 --> 26:26] But he did bring the beard back into fashion, and for that alone he deserves all the praise
+[26:26 --> 26:29] he gets.
+[26:29 --> 26:31] There will be no episode next week.
+[26:32 --> 26:35] Mr. and Mrs. The History of Rome are both celebrating birthdays and we're going to take
+[26:35 --> 26:41] some time for ourselves, but we'll be back on February 28th to introduce the Antonines,
+[26:41 --> 26:45] the last enlightened emperors of the Principate.
+[26:45 --> 26:49] After their departure from the stage, Rome will not see rulers with half as much vision
+[26:49 --> 26:54] until the rise of Diocletian, and by that point, Augustus' Principate will be dead
+[26:54 --> 26:59] and a whole new political order will need to be created to sustain the battered empire.

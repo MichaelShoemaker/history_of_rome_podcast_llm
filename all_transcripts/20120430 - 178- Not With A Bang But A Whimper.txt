@@ -1,0 +1,354 @@
+# 20120430 - 178- Not With A Bang But A Whimper
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:04 --> 00:13] Hello, and welcome to the History of Rome, Episode 178, Not with a Bang, but a Whimper.
+[00:16 --> 00:21] Last time, we left off with Anthemius holed up in Rome, and Riccimer making all kinds
+[00:21 --> 00:26] of noises about ousting the eastern-appointed emperor and replacing him with someone more
+[00:26 --> 00:27] pliable.
+[00:27 --> 00:32] When Oligbrius and his little diplomatic mission showed up from Constantinople in the spring
+[00:32 --> 00:37] of 472, those noises turned into direct action.
+[00:38 --> 00:43] Hidden among the papers of one of the secretaries was a message from Leo to Anthemius directing
+[00:43 --> 00:48] his western colleague to kill Riccimer and Oligbrius in order to eliminate these two
+[00:48 --> 00:50] most obvious threats to Anthemius' rule.
+[00:52 --> 00:56] When Riccimer's men discovered the message, they showed it to their boss, who showed it
+[00:56 --> 00:57] to Oligbrius.
+[00:57 --> 01:02] Both were outraged and agreed that they should join forces and kill Anthemius before he could
+[01:02 --> 01:03] kill them.
+[01:04 --> 01:08] Their agreement was sealed right then and there when Riccimer ordered his men to hail
+[01:08 --> 01:11] Oligbrius as the new Augustus of the west.
+[01:12 --> 01:17] Now, this is never mentioned in the sources, but I can't help but wonder about the credibility
+[01:17 --> 01:18] of Riccimer in all this.
+[01:19 --> 01:20] I mean, think about it.
+[01:20 --> 01:25] Riccimer's men just so happen to find a written note from Leo that leaves Oligbrius with no
+[01:25 --> 01:29] choice but to side with the virtual king of Italy instead of carrying out his original
+[01:29 --> 01:31] mission of brokering a peace.
+[01:32 --> 01:37] I mean, it might very well be true that Leo sent along handwritten, murderous orders,
+[01:38 --> 01:42] but it's not like it's implausible that Riccimer just made the whole thing up, you know?
+[01:44 --> 01:48] Word quickly reached Rome that a coup had begun down the road, and Anthemius rushed
+[01:48 --> 01:53] out of hiding to direct the gates of the city be shut and the defenses manned.
+[01:53 --> 01:58] He then sent messengers up the imperial post roads to Gaul to summon all the available
+[01:58 --> 02:00] forces there left under imperial command.
+[02:02 --> 02:06] But by the time the messengers arrived, whatever forces were left in Gaul had already begun
+[02:06 --> 02:07] to fracture.
+[02:08 --> 02:14] The available soldiers split between the Magister Militum, a general named Bilemer, and a Burgundian
+[02:14 --> 02:18] chief named Gundabad, who just so happened to be Riccimer's nephew.
+[02:20 --> 02:25] Gundabad had at one point served his Magister Militum for Gaul, but at some point he had
+[02:25 --> 02:30] been replaced by Bilemer, either following the near civil war of the previous year, or
+[02:30 --> 02:32] right at this very moment.
+[02:33 --> 02:38] By which I mean that, knowing he couldn't trust Gundabad, Anthemius sent his plea for
+[02:38 --> 02:42] help to Bilemer, officially making him Magister Militum in the same breath.
+[02:44 --> 02:49] Whichever way it went down, when the coup erupted, two forces wound up marching down
+[02:49 --> 02:55] from Gaul to help, one led by Bilemer to reinforce Anthemius, and the other led by Gundabad to
+[02:55 --> 02:57] reinforce Riccimer and Illibrius.
+[02:59 --> 03:04] It is hard to see this ever really working out for Anthemius, he was after all a stranger
+[03:04 --> 03:09] in a strange land, and most of the local nobility was solidly in Riccimer's camp.
+[03:09 --> 03:15] But the Emperor did somehow manage to keep Rome shut tight, at least into the early summer.
+[03:16 --> 03:21] It seems pretty clear though that he was pinning all his hopes on reinforcements from Gaul,
+[03:22 --> 03:26] and morale within Rome was almost entirely based on the assumption that relief was on
+[03:26 --> 03:27] its way.
+[03:28 --> 03:33] When that relief showed up in July though, the air really went out of Anthemius's sails.
+[03:34 --> 03:39] Bilemer arrived with his troops from Gaul alright, but he was promptly defeated in battle
+[03:39 --> 03:40] by Riccimer's forces.
+[03:42 --> 03:45] This brief battle is interesting to us for two reasons.
+[03:46 --> 03:50] First, it pretty much ended any hope Anthemius had of escaping this thing with his life,
+[03:51 --> 03:56] and second, it marks the first appearance in the historical record of Odoacer, who was
+[03:56 --> 04:01] a commander of some high level bodyguards who had gone over to Riccimer back in the
+[04:01 --> 04:01] spring.
+[04:04 --> 04:09] With Bilemer defeated, the entire citizen body of Rome essentially deserted Anthemius,
+[04:10 --> 04:14] as there was absolutely no reason for any one of them to suffer or die on his behalf.
+[04:15 --> 04:18] He was simply not a ship worth going down with.
+[04:19 --> 04:24] So as the gates of Rome were opened, and Riccimer's men came pouring in, once again Anthemius
+[04:24 --> 04:25] took refuge within a church.
+[04:26 --> 04:31] There is some disagreement as to whether he went back to St. Peter's, or whether he
+[04:31 --> 04:36] holed up in Santa Maria of Trastivere, but it doesn't make much difference, because
+[04:36 --> 04:37] it didn't do him any good.
+[04:38 --> 04:42] He was tracked down by a search party led by Gundabad, and when the fallen emperor was
+[04:42 --> 04:48] found Gundabad paid very little attention to the sanctity of the church, and Anthemius
+[04:48 --> 04:50] was immediately beheaded.
+[04:50 --> 04:55] He was about fifty years old, and had been emperor for just over five years.
+[04:56 --> 04:58] There are now four emperors left.
+[04:58 --> 05:02] Anthemius was the last who had any sort of talent or ability.
+[05:05 --> 05:10] With Anthemius dead, and Olibrius now elevated in his place, the Italian nobility, who were
+[05:10 --> 05:16] already mostly with Riccimer, were now doubly happy, because Olibrius, one of their own,
+[05:16 --> 05:17] was back in power.
+[05:18 --> 05:23] But the man who had to have been happiest of all was the Vandal king in Saric.
+[05:24 --> 05:30] He had been fighting and arguing and pleading and cajoling to get Olibrius on the throne
+[05:30 --> 05:35] for years, going all the way back to the fall of Avetis and Riccimer's initial rise to
+[05:35 --> 05:36] power back in 458.
+[05:37 --> 05:40] Now he finally had what he wanted.
+[05:40 --> 05:45] The brother-in-law of his daughter-in-law now sat on the throne of the West.
+[05:46 --> 05:48] These were happy days for the Vandal king.
+[05:49 --> 05:53] Just a few years after it looked like he was going to be toppled from power by a massive
+[05:53 --> 05:58] invasion fleet, not only was he still standing, but he had finally gotten his way.
+[05:59 --> 06:01] Happy happy days.
+[06:03 --> 06:06] But fate, oh fate, she has a wicked sense of humor.
+[06:07 --> 06:10] First she giveth, and then she taketh away.
+[06:11 --> 06:16] But at first she appeared to be truly in the giving sort of mood, at least from Gansaric's
+[06:16 --> 06:17] point of view.
+[06:18 --> 06:24] Because in August of 472, just a month after Anthemius' fall, Riccimer, the virtual king
+[06:24 --> 06:27] of Italy, keeled over dead.
+[06:28 --> 06:31] The historical diagnosis is massive hemorrhage.
+[06:32 --> 06:37] He was about 67 years old and had been the virtual king of Italy for 15 years, bridging
+[06:37 --> 06:40] the gap between Stilicho and Odoacer.
+[06:42 --> 06:46] So from Gansaric's point of view, this all could not be working out better.
+[06:47 --> 06:51] The only thing that would have stopped him from exerting a huge amount of influence over
+[06:51 --> 06:54] Oligbrius was Riccimer, and now Riccimer was dead.
+[06:55 --> 07:00] The only thing that could possibly screw this up is if Oligbrius were to like suddenly keel
+[07:00 --> 07:01] over dead himself.
+[07:01 --> 07:03] And what are the odds of that happening?
+[07:04 --> 07:05] What's that you say?
+[07:05 --> 07:07] Oh, come on, you've got to be kidding me.
+[07:09 --> 07:14] In late October or early November 472, Oligbrius died of dropsy.
+[07:15 --> 07:20] Though no one seems to want to give me a solid birthdate, he was maybe in his mid-40s when
+[07:20 --> 07:24] he died and had been emperor for six months or three months, depending on whether you
+[07:24 --> 07:28] date his reign from his elevation by Riccimer or from the fall of Anthemius.
+[07:30 --> 07:33] Just like that, there are only three emperors left.
+[07:33 --> 07:39] Well, two if you happen to be a partisan of Julius Nepos, but mainstream history does
+[07:39 --> 07:42] not appear to be a partisan of Julius Nepos.
+[07:44 --> 07:50] When Riccimer died, he was immediately succeeded by his nephew Gundabad, who after killing
+[07:50 --> 07:55] Anthemius in a church had proven himself to be a man you did not want to mess around with.
+[07:56 --> 08:00] So when Oligbrius died a few months later, the power that had normally been reverting
+[08:00 --> 08:03] to Riccimer instead reverted to Gundabad.
+[08:05 --> 08:09] The new virtual king of Italy pondered what he was going to do about the vacant throne
+[08:09 --> 08:17] over the winter of 472-473, and then in March decided to elevate the unknown, well, unknown
+[08:17 --> 08:24] to us anyway, captain of the elite court bodyguard, Glicarius, about whom we know next to nothing
+[08:24 --> 08:27] before he becomes emperor in March of 473.
+[08:30 --> 08:35] Glicarius's elevation, like I should note the elevation of Oligbrius the year before,
+[08:36 --> 08:38] was never recognized in the east.
+[08:39 --> 08:44] For Leo, Anthemius had been the legitimate emperor of the west, and everything that had
+[08:44 --> 08:47] happened since his death amounted to illegal usurpation.
+[08:49 --> 08:54] Had Oligbrius lived, Leo would have certainly tried to toss him out and replace him with
+[08:54 --> 08:55] another eastern candidate.
+[08:55 --> 09:01] But Oligbrius died before Leo could even begin to plan a counterrevolution, so it was left
+[09:01 --> 09:03] to Glicarius to deal with the wrath of Constantinople.
+[09:05 --> 09:08] Well, not exactly the wrath of Constantinople.
+[09:09 --> 09:14] Though the east had recovered somewhat from its debacle in North Africa, I doubt Leo had
+[09:14 --> 09:17] any interest in sending another army off to the west.
+[09:18 --> 09:21] For example, it probably would have been political suicide.
+[09:22 --> 09:28] So instead, he got in touch with the aforementioned Julius Nepos, and talked him into mounting
+[09:28 --> 09:30] an expedition to oust the usurpers in Italy.
+[09:32 --> 09:38] Nepos was the nephew of the general Marcellinus, and he had inherited his uncle's quasi-independent
+[09:38 --> 09:45] territory of Dalmatia, and as such had access to a good number of Hun and Goth mercenaries.
+[09:46 --> 09:51] Leo essentially told Nepos that Constantinople was prepared to recognize him as emperor of
+[09:51 --> 09:55] the west should he decide to go seize the throne from Glicarius.
+[09:56 --> 10:00] This sounded like a pretty good deal to Nepos, so he started to prepare for an invasion.
+[10:04 --> 10:09] But Julius Nepos' invasion was not the only invasion Glicarius and Gundabad had to contend
+[10:09 --> 10:09] with.
+[10:10 --> 10:16] Up in Gaul, the Goth king Uruk was getting even more ambitious, and it appears that he
+[10:16 --> 10:20] had designs on perhaps sweeping down and seizing northern Italy for himself.
+[10:22 --> 10:27] At the same time, another Goth king named Vidomer, who ran a little autonomous kingdom
+[10:27 --> 10:32] between the Danube and Dalmatia, also appears to have been considering making a run at Italy.
+[10:34 --> 10:39] Which brings me to a point that I probably should have made a long time ago, but I didn't
+[10:39 --> 10:43] for decent reasons, but eventually became a little ridiculous.
+[10:44 --> 10:49] Back during the initial run-up to the Battle of Adrianople, we distinguished between the
+[10:49 --> 10:52] Tervingai and Gurtungai branches of the Goth nation.
+[10:53 --> 10:57] But ever since then, it's just sort of been Goth this and Goth that.
+[10:58 --> 11:03] This was mostly because for the last century, we'd been dealing exclusively with Alarix
+[11:03 --> 11:08] Goths, the Tervingai, whose descendants are now firmly established in Gaul, so there was
+[11:08 --> 11:10] no need to make any distinction.
+[11:11 --> 11:15] But what about that most famous of Goth distinctions?
+[11:16 --> 11:19] If you listen to the history of Rome, you would never know that there was something
+[11:19 --> 11:22] called a Visigoth and something called an Ostrogoth.
+[11:24 --> 11:27] So what is an Ostrogoth and what is a Visigoth?
+[11:28 --> 11:33] Well, at first, I avoided the terminology because it was not invented until way later,
+[11:33 --> 11:38] and is often anachronistically misapplied to the groups that we've been dealing with,
+[11:38 --> 11:40] and I didn't want to get caught in the trap.
+[11:41 --> 11:47] But by this point, the late 400s, even if the labels weren't contemporaneously used,
+[11:48 --> 11:52] everyone agrees that we call these guys Visigoths and those guys Ostrogoths.
+[11:53 --> 11:54] So who were they?
+[11:55 --> 12:02] Well, essentially, all Visigoth means is Western Goth, and all Ostrogoth means is Eastern Goth.
+[12:03 --> 12:09] So Alarix Goths, who had moved into Italy and then up into Gaul, became known as the Visigoths.
+[12:10 --> 12:15] The Goths who stayed behind, straddling the Danube and contending with the Huns, became
+[12:15 --> 12:16] known as the Ostrogoths.
+[12:18 --> 12:25] So for example, history books often speak of the Visigoth sack of Rome in 410, and the
+[12:25 --> 12:30] Ostrogoth kingdom that was established in Italy following the fall of the Western Empire.
+[12:31 --> 12:37] In terms of reality, these signifiers mean very little, but in terms of understanding
+[12:37 --> 12:42] history and keeping things straight in your head, Visigoth and Ostrogoth is actually a
+[12:42 --> 12:43] fairly important distinction.
+[12:44 --> 12:46] So now you know.
+[12:47 --> 12:53] What that means is that up in Gaul, the Visigoth king Uruk was likely planning an invasion
+[12:53 --> 12:59] of Italy, and over south of the Danube, his counterpart, the Ostrogoth king Vitamer was
+[12:59 --> 13:01] contemplating the same thing.
+[13:02 --> 13:07] The great fear down in Ravenna, where Glicarius had taken up residence, was that the two great
+[13:07 --> 13:12] branches of the Goth nation would join forces and crush what was left of the empire.
+[13:14 --> 13:20] Possibly to Glicarius' great credit though, or maybe it was just luck, not only did the
+[13:20 --> 13:24] two Goth branches not link up, but neither wound up invading Italy.
+[13:26 --> 13:31] This may have been the work of Gundabad though, who right around this same time returned to
+[13:31 --> 13:33] Gaul to attend to some family business.
+[13:34 --> 13:38] It is not unreasonable to assume that the ethnic Burgundian used his contacts within
+[13:38 --> 13:41] the neighboring Visigoth community to secure a peace.
+[13:45 --> 13:54] But neither Gundabad nor Glicarius was able to do anything about Julius Nepos, who was
+[13:54 --> 13:59] patron Leo died and threw Constantinople's backing of the adventure into doubt.
+[14:00 --> 14:03] But that's not going to ha- oh you've got to be kidding me.
+[14:04 --> 14:07] In January of 474, Leo the Thracian died.
+[14:08 --> 14:13] He was 74 years old and had been Emperor of the East for 17 years.
+[14:14 --> 14:19] When he died, he was officially succeeded by his grandson Leo II.
+[14:20 --> 14:25] But since the new emperor was maybe only six years old, power really wound up in the hands
+[14:25 --> 14:31] of Leo I's son-in-law and Leo II's father, the Isurian general Zeno.
+[14:32 --> 14:38] Zeno had risen to prominence as part of Emperor Leo's push to get out from under the domination
+[14:38 --> 14:42] of Aspar and the Germanic commanders who had dominated the court of Constantinople.
+[14:43 --> 14:49] Leo had used the debacle in North Africa, among other things, as an excuse to turn on
+[14:49 --> 14:56] the man who had made him emperor all those years ago, and in 471, Aspar and his son Ardabor
+[14:56 --> 14:57] were executed.
+[14:58 --> 15:03] Zeno, meanwhile, was a leading member of Leo's new favorite clique of military officers,
+[15:03 --> 15:07] and he was married to the emperor's daughter in 466.
+[15:07 --> 15:11] When Aspar fell, Zeno stepped into his place.
+[15:12 --> 15:17] When Leo died, Zeno became co-emperor along with his son Leo II.
+[15:18 --> 15:23] When Leo II died that November, Zeno claimed imperial power for himself.
+[15:25 --> 15:30] The official report says that Leo II died of natural causes, but conspiracy theories
+[15:30 --> 15:37] abound about who really killed the boy, and I, of course, tend to believe that Livia did it.
+[15:38 --> 15:43] Fortunately for Julius Nepos, Zeno seemed amenable to the idea of ousting Glicarius
+[15:43 --> 15:46] and backing Nepos' claim to the throne.
+[15:47 --> 15:52] After all, as Leo's chief military advisor, Zeno had almost certainly come up with the
+[15:52 --> 15:53] idea himself.
+[15:54 --> 16:00] So in June of 474, Julius Nepos and his army sailed from Dalmatia, down around the Italian
+[16:00 --> 16:05] peninsula and landed at the mouth of the Tiber, probably on the right bank, at the imperial
+[16:05 --> 16:07] port of Portus.
+[16:08 --> 16:12] Glicarius appears to have been alerted to the fact that Nepos was sailing around Italy,
+[16:12 --> 16:14] and he rushed down to Rome to meet him.
+[16:15 --> 16:20] Whether he intended to offer up any resistance is an open question, but when Julius Nepos
+[16:20 --> 16:26] docked, it was immediately obvious that his forces were much stronger than anything Glicarius
+[16:26 --> 16:27] had at his disposal.
+[16:28 --> 16:34] As I said, Gundabad was still up in Gaul while all this was happening, leaving Glicarius
+[16:34 --> 16:36] to deal with the invasion by himself.
+[16:37 --> 16:42] It is also possible that he rushed down to Rome to take the pulse of the senate and see
+[16:42 --> 16:42] where they stood.
+[16:43 --> 16:47] Were they disposed to back him, or were they abandoning him for the newcomer?
+[16:48 --> 16:53] With the answer appearing to be, back the newcomer, Glicarius gave it up.
+[16:54 --> 16:59] When Nepos arrived, Glicarius was there to meet him, and he surrendered without so much
+[16:59 --> 17:00] as a sword being drawn.
+[17:01 --> 17:06] Glicarius was in his mid fifties, and had been emperor for just over a year.
+[17:07 --> 17:13] Nepos, for his part, took this bloodless victory well, and instead of killing Glicarius, he
+[17:13 --> 17:18] followed the lead of Ricomur and Majorion, and made Glicarius a bishop, specifically
+[17:18 --> 17:24] the bishop of Salona, the major port city in Nepos' home province of Dalmatia, which
+[17:24 --> 17:29] is more famous to students of Roman history as the city where Diocletian retired to following
+[17:29 --> 17:31] his abdication in 305.
+[17:33 --> 17:38] With Glicarius out of the picture, there are now just two emperors left, unless you believe
+[17:38 --> 17:43] Julius Nepos, and lots of good people think that we really ought to believe Julius Nepos.
+[17:45 --> 17:51] After being accepted as emperor by the senate, Nepos set to work laying the foundation for
+[17:51 --> 17:52] his long and glorious rule.
+[17:53 --> 17:59] His first order of business was officially firing Gundabad, and elevating a Gallic native
+[17:59 --> 18:02] named Echdicius to the rank of Magister Militum.
+[18:03 --> 18:09] Echdicius' main claim to fame was that he was the son of Avetus, and if Julius was going
+[18:09 --> 18:15] to ever have any hope of recovering Gaul, he was going to need the support of the Gallic
+[18:15 --> 18:16] Romano nobility.
+[18:17 --> 18:22] Since most of them still carried a torch for Avetus, Avetus' son was brought into the
+[18:22 --> 18:23] administration.
+[18:24 --> 18:29] With Echdicius almost certainly doing the negotiating, Julius Nepos got his reign off
+[18:29 --> 18:35] to a fine start by working out a land-swap peace deal with Uruk and the Visigoths.
+[18:36 --> 18:41] In exchange for the Gothic withdrawal from Provence, the Romans would grant them title
+[18:41 --> 18:46] to lands further north and west that they had no hope of reclaiming right now anyway.
+[18:47 --> 18:52] There is some disagreement in the historical record about how and why this plan was approved,
+[18:53 --> 18:58] with some blaming Echdicius for blundering away territory, but the general consensus
+[18:58 --> 19:04] seems to be that this was Nepos' conscious plan from the start, to maintain a geographically
+[19:04 --> 19:10] contiguous territory and worry about unreachable pockets of Roman territory like the domain
+[19:10 --> 19:11] of Swassan later.
+[19:13 --> 19:20] The chroniclers like Jordanus, who tend to blame Echdicius' blundering, use that alleged
+[19:20 --> 19:26] blundering to explain the rise of Orestes, because in early 475, Orestes was suddenly
+[19:26 --> 19:31] an inexplicably made magister militum at Echdicius' expense.
+[19:33 --> 19:39] Orestes was a soldier and politician of Germanic descent, who had once upon a time been attached
+[19:39 --> 19:44] to Attila the Hun's court, serving as a secretary and diplomat for the Hun king.
+[19:45 --> 19:51] When the Huns sent envoys to Constantinople to demand more indemnity payments, you can
+[19:51 --> 19:54] be sure that Orestes was on at least a few of those missions.
+[19:55 --> 20:00] After Hun unity was shattered after the death of Attila in the 450s, Orestes appears to
+[20:00 --> 20:06] have drifted into the western orbit, and by the 470s, somehow, he had become a prominent
+[20:06 --> 20:08] member of the western establishment.
+[20:09 --> 20:13] He was also the father of a young boy named Romulus.
+[20:16 --> 20:19] The exact reasons for his elevation are obscure.
+[20:20 --> 20:25] Either it was indeed because Echdicius had freelanced the deal with the Goths over Nepos's
+[20:25 --> 20:30] head and so he got the big ugly axe, but another explanation is that the elevation of Orestes
+[20:30 --> 20:36] was engineered by the Senate, who, though they technically acquiesced to Nepos's rule,
+[20:36 --> 20:41] when he had a very strong army in their backyard, were now trying to undermine him.
+[20:42 --> 20:47] In this telling, Echdicius was not recalled to Italy because he was being fired.
+[20:48 --> 20:54] He was recalled to Italy to help Nepos fend off a possible attack by the suddenly emboldened
+[20:54 --> 20:55] Orestes.
+[20:57 --> 21:03] Whichever it was, in mid-475, Orestes organized a revolt against Nepos in Rome.
+[21:04 --> 21:09] Whether the Emperor was in Ravenna at the time, or whether he just fled there when he
+[21:09 --> 21:14] found out what Orestes was up to is unknown, but it seems pretty clear that Orestes marched
+[21:14 --> 21:20] north at the head of some kind of army, and Nepos, fearing for his life, boarded a ship
+[21:20 --> 21:21] and fled to Dalmatia.
+[21:23 --> 21:28] Though he would never relinquish his claim to power, he would remain in Dalmatia as a
+[21:28 --> 21:31] private citizen until he was finally killed in 480.
+[21:33 --> 21:39] During the five years he spent in Salona in exile, his personal bishop was none other
+[21:39 --> 21:45] than the deposed Glicarius, which I believe marks only the second time that two former
+[21:45 --> 21:48] emperors were able to get together and just kind of shoot the breeze.
+[21:49 --> 21:54] The first being the brief imperial summit attended by both Diocletian and Maximian in
+[21:55 --> 21:58] after the Tetrarchy started to break down.
+[22:00 --> 22:05] When Orestes arrived in Ravenna and found that Julius Nepos had flown the coup, he decided
+[22:05 --> 22:08] to take the logical step and seize power.
+[22:09 --> 22:15] But probably due to his Germanic extraction and old connections to Attila the Hun, Orestes
+[22:15 --> 22:17] didn't presume to claim the throne for himself.
+[22:18 --> 22:23] Although, that said, no one really knows why Orestes did not proclaim himself emperor,
+[22:24 --> 22:27] or why his son would have been more acceptable.
+[22:28 --> 22:33] For example, Gibbon simply states that it was quote, for some secret motive, unquote.
+[22:35 --> 22:42] Whatever those secret motives were, on October 31, 475, fourteen or fifteen year old Romulus
+[22:42 --> 22:47] Augustus, the little Augustus, was proclaimed emperor in Ravenna.
+[22:51 --> 22:56] So now you can see why Julius Nepos keeps raising a stink about how he's really the
+[22:56 --> 22:57] last emperor of the Western Empire.
+[22:58 --> 23:00] He had the backing of Constantinople.
+[23:01 --> 23:05] After marrying one of Leo's nieces, he had ties to the Eastern Imperial family.
+[23:06 --> 23:11] He had been driven off by an illegal coup led by some barbarian secretary of Attila
+[23:12 --> 23:15] His successor was a fourteen year old puppet.
+[23:17 --> 23:20] So why does he get to be the last emperor of the West and not me?
+[23:21 --> 23:24] I'll still be claiming imperial authority until they kill me in 480.
+[23:25 --> 23:30] Shouldn't the fall of the West at least be linked to my death, not the exile of some
+[23:30 --> 23:31] anonymous kid?
+[23:33 --> 23:36] Well, unfortunately, that's not the way history remembers it, my friend.
+[23:36 --> 23:39] But your objections are duly noted for the record.
+[23:40 --> 23:46] Julius Nepos was in his mid-forties and he had been emperor for just about a year, though
+[23:46 --> 23:51] he would maintain his claim to the throne for another four years until he was murdered
+[23:51 --> 23:53] in 480.
+[23:55 --> 23:59] Orestes settled into Ravenna to lay the groundwork for his own long and glorious rule.
+[24:00 --> 24:05] But unlike Nepos, who actually got off to a fairly decent start, Orestes started screwing
+[24:05 --> 24:07] things up right off the bat.
+[24:08 --> 24:13] Shortly after seizing power, the new puppet master of Italy was approached by a group
+[24:13 --> 24:19] of federated soldiers who demanded what soldiers had been demanding from time immemorial.
+[24:19 --> 24:21] Better pay and more land.
+[24:23 --> 24:29] Orestes, feeling awfully secure in his position for absolutely no good reason, refused to
+[24:29 --> 24:31] grant any sort of concessions.
+[24:32 --> 24:37] So the soldiers went to their captain, who just so happened to be Odoacer, and asked
+[24:37 --> 24:42] him to please do something about this joker calling the shots in Ravenna.
+[24:43 --> 24:45] Odoacer agreed to do something about him, alright.
+[24:46 --> 24:52] In August of 476, Odoacer told him that if they wanted, he would lead them in revolt
+[24:52 --> 24:58] against Orestes, that he would rid them of their problem, and if all went well, rid them
+[24:58 --> 25:00] of haughty imperial bureaucrats forever.
+[25:01 --> 25:06] Five days later, Odoacer marched on Ravenna and caught Orestes near Piacenza.
+[25:07 --> 25:09] The little snake was trying to sneak away.
+[25:10 --> 25:13] He was executed immediately.
+[25:14 --> 25:20] A few days later, Odoacer entered Ravenna, killed Orestes' brother, occupied the Imperial
+[25:20 --> 25:24] Palace, and tracked down young Romulus Augustilis.
+[25:25 --> 25:31] Taking pity on the boy, who was, after all, just a puppet of his father, Odoacer decided
+[25:31 --> 25:35] to let the boy live, and he exiled him down to an estate in Campania.
+[25:37 --> 25:43] Romulus Augustilis was maybe fifteen or sixteen years old, and he was emperor for ten months.
+[25:44 --> 25:48] So no, the Western Empire did not exactly go out with a bang.
+[25:49 --> 25:56] After deposing the boy emperor, Odoacer collected up the Imperial Regalia, put it in a package
+[25:56 --> 25:59] bound for Constantinople with a note for the Emperor Zeno.
+[26:00 --> 26:03] There is no longer any need for separate empires.
+[26:03 --> 26:05] A single emperor is enough.
+[26:06 --> 26:11] I will rule Italy in your name, but don't bother sending any imperial replacements.
+[26:13 --> 26:16] With that, the line of Western emperors was truly broken.
+[26:17 --> 26:20] Yes, yes, Julius Nepos, I hear you wailing over there.
+[26:21 --> 26:22] But did you ever make it back to Italy?
+[26:23 --> 26:27] Were you ever able to wrest back control of your empire from Odoacer?
+[26:27 --> 26:28] No?
+[26:28 --> 26:29] Well, okay then.
+[26:30 --> 26:33] You and Glykerius go back to playing backgammon, or whatever it is that you do.
+[26:38 --> 26:41] So, that's it, right?
+[26:41 --> 26:43] I mean, here we are.
+[26:43 --> 26:45] Today is some day.
+[26:45 --> 26:52] It is 476 AD, and Romulus Augustilis, last emperor of the Western Empire, has just been
+[26:52 --> 26:53] exiled.
+[26:54 --> 27:00] The History of Rome podcast, as once upon a time defined by me, is over.
+[27:01 --> 27:05] But it wouldn't be very nice of me to just go off and leave you like that.
+[27:05 --> 27:09] So we will be back next week for one final episode.
+[27:10 --> 27:16] All good stories have an epilogue, so the History of Rome shall too have an epilogue.
+[27:16 --> 27:21] A chance to wrap things up, ponder all the stuff that comes after 476 that we didn't
+[27:21 --> 27:27] get to, wonder aloud why the West fell but the East kept right on trucking, and gaze
+[27:27 --> 27:30] in awe at the legacy of the Roman Empire.
+[27:31 --> 27:35] Are we going to stumble upon a grand unified theory of Roman history?
+[27:35 --> 27:41] I doubt it, but it will be good to digest what we have all been through and what will
+[27:41 --> 27:42] come next.
+[27:43 --> 27:48] So I will see you next week for the final episode of the History of Rome.
+[27:49 --> 27:53] Unless, of course, we have a baby in the next seven days, in which case, see ya!

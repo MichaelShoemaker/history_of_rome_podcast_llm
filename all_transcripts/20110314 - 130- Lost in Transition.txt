@@ -1,0 +1,354 @@
+# 20110314 - 130- Lost in Transition
+# Detected language: en
+# Duration: 1723.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:15] Hello, and welcome to The History of Rome, episode 130, Lost in Transition.
+[00:15 --> 00:19] When Diocletian and Maximian stepped aside in 305 AD, there was a great deal of hope
+[00:19 --> 00:25] that their abdication would be merely the first in a long line of voluntary imperial
+[00:25 --> 00:27] retirements.
+[00:27 --> 00:31] Later forward, the dream was essentially for future Tetrarchs to rule for 10 years
+[00:31 --> 00:36] as a Caesar, and then for another 10 years as an Augustus, before abdicating in favor
+[00:36 --> 00:41] of their junior colleagues, which would begin the whole cycle over again.
+[00:41 --> 00:47] The imperial regime would thus be perpetually renewed, perpetually refreshed, and perpetually
+[00:47 --> 00:51] free of dynastic struggles.
+[00:51 --> 00:56] The foundation for all of this had been dug and the concrete poured by Diocletian.
+[00:56 --> 00:59] The challenge now would be getting the cement to set.
+[00:59 --> 01:05] The challenge that would have to be met by the new set of four Tetrarchs, Galerius, Constantius,
+[01:05 --> 01:09] Severus, and Maximinus Dia.
+[01:09 --> 01:14] That the Tetrarchy would eventually fall apart is perhaps predictable.
+[01:14 --> 01:22] That it would begin to fall apart after less than a year, however, came as a bit of a surprise.
+[01:22 --> 01:27] As I mentioned last week, there was tension right from the beginning, internally because
+[01:27 --> 01:33] the two new Augusti were not exactly best friends, and externally because Constantine
+[01:33 --> 01:36] and Maxentius had been left out in the cold.
+[01:36 --> 01:41] I'll leave the former issue for the moment, since the rivalry between Galerius and Constantius
+[01:41 --> 01:47] is about to become moot anyway, and instead focus on the two imperial sons who had been
+[01:47 --> 01:52] denied what they believed was their rightful inheritance, because their rivalry with the
+[01:52 --> 01:57] official Tetrarchy, and then their rivalry with one another, has a long way to go before
+[01:57 --> 02:02] Constantine will render all rivalries moot.
+[02:02 --> 02:08] Marcus Aurelius Valerius Maxentius was born in the late 270s AD, and was the only son
+[02:08 --> 02:13] of Maximian, who at that time was still just a high ranking general serving under the Emperor
+[02:13 --> 02:15] Probus.
+[02:15 --> 02:20] When Diocletian tapped Maximian to be his fellow Augustus in 285, the expectations for
+[02:20 --> 02:24] young Maxentius naturally skyrocketed.
+[02:24 --> 02:30] Diocletian had one daughter and no sons, and Maximian had two daughters and just the one
+[02:30 --> 02:31] son.
+[02:31 --> 02:37] The imperial daughters could and would be used to secure dynastic alliances, but Maxentius
+[02:37 --> 02:41] stood alone as the only blood son of an emperor.
+[02:41 --> 02:48] That he would become emperor himself one day was therefore practically a foregone conclusion.
+[02:48 --> 02:53] But as he grew up, Maxentius found himself not really being groomed for much of anything.
+[02:53 --> 02:59] He received a first rate education and all that, but in his teenage years, just as previous
+[02:59 --> 03:03] heir presumptives had begun to receive the honors and assignments that had marked their
+[03:03 --> 03:10] path to power, Maxentius was instead granted no special favors, and given no extraordinary
+[03:10 --> 03:13] commands.
+[03:13 --> 03:19] With the elevation of Galerius and Constantius in 293, Maxentius' future was clouded still
+[03:19 --> 03:20] further.
+[03:20 --> 03:25] There was no hope now that he would directly succeed his father, but that was okay.
+[03:25 --> 03:28] He was, after all, still young.
+[03:28 --> 03:31] If the Tetrarchy as established was going to continue, then eventually there would be
+[03:31 --> 03:36] new Caesars appointed when Galerius and Constantius were promoted to full Augusti.
+[03:36 --> 03:40] That then would be his moment to shine.
+[03:40 --> 03:45] His marriage to Galerius' daughter certainly fanned the flames of his ambition, as that
+[03:45 --> 03:49] was exactly how Galerius and Constantius had been brought into the family before they were
+[03:49 --> 03:52] formally invited to become Caesars.
+[03:52 --> 03:59] But in 305, now in his mid-twenties and fully ready to fulfill his destiny, Maxentius was
+[03:59 --> 04:01] instead slapped in the face.
+[04:01 --> 04:05] He found out along with everyone else that he would not be named Caesar.
+[04:06 --> 04:12] Instead, two men from outside the family would be elevated in his place.
+[04:12 --> 04:16] Some say that Galerius did not like Maxentius, and so used his influence to deny him the
+[04:16 --> 04:18] prize.
+[04:18 --> 04:23] But others say that Diocletian was explicitly trying to break the cycle of blood inheritance,
+[04:23 --> 04:28] and so made it a point to ensure Maxentius and Constantine were kept out.
+[04:28 --> 04:35] Whatever the reasons, Maxentius went into a slow burn.
+[04:35 --> 04:40] His counterpart in all this, and soon to be arch-rival in all this, is a man who needs
+[04:40 --> 04:47] no introduction, which is why it is about time that we introduced him.
+[04:47 --> 04:48] CONSTANTINE THE GREAT
+[04:48 --> 04:56] Flavius Valerius Constantinus was born in the early 270s AD in Moesia, making him just
+[04:56 --> 04:58] about five years older than Maxentius.
+[04:58 --> 05:05] However, due to the career arcs of their respective fathers, Constantine's star would trail Maxentius
+[05:05 --> 05:09] by a good eight years.
+[05:09 --> 05:14] With his father constantly away fighting alongside first Aurelian, then Probus, then Diocletian,
+[05:14 --> 05:19] and then Maximian, Constantine never really developed much of a relationship with his
+[05:19 --> 05:21] father.
+[05:21 --> 05:25] Not that they were in any way antagonistic towards each other, just that, you know, they
+[05:25 --> 05:28] didn't really know each other.
+[05:28 --> 05:33] As a result, Constantine grew close to his mother Helena, a low-born woman who was either
+[05:34 --> 05:38] Constantius's wife or mistress, depending on who you talked to.
+[05:38 --> 05:43] The teenage Constantine was thus shocked when he was told one day that his father was marrying
+[05:43 --> 05:50] another woman, Theodora, the daughter of the Western Emperor Maximian.
+[05:50 --> 05:56] This turn of events was simultaneously a boon to Constantine, and a potential death blow.
+[05:56 --> 06:01] On the one hand, his father was now the son-in-law of an emperor, and that has to be good news
+[06:01 --> 06:03] for your career.
+[06:03 --> 06:08] But on the other hand, any children born of Constantius's new marriage would almost certainly
+[06:08 --> 06:15] take precedence over the son he had already had with some peasant ex-wife years before.
+[06:17 --> 06:21] But whatever the new dynastic arrangement, Constantius never came close to disavowing
+[06:21 --> 06:28] Constantine, and quite the contrary, always declared him his rightful leading heir, doing
+[06:28 --> 06:33] everything he could to promote the boy's education and career.
+[06:33 --> 06:38] When Constantius became Caesar in 293, the now roughly 20-year-old Constantine was ordered
+[06:38 --> 06:43] to pack up his bags and head east, where he would join up with the court of Diocletian.
+[06:43 --> 06:49] For the remainder of the original Tetrarchy's run, Constantine would remain under the watchful
+[06:49 --> 06:54] eye of the senior Augustus, because, on the one hand, it was important for the son of
+[06:54 --> 07:00] a Caesar to be protected, and to learn what imperial life was like, and so on and so on.
+[07:00 --> 07:06] But on the other hand, well, hostage is such an ugly word.
+[07:06 --> 07:10] In Nicomedia, Constantine happily entered the social and intellectual circles of the
+[07:10 --> 07:16] cosmopolitan city, and he furthered his education there, beginning to form the worldview that
+[07:16 --> 07:20] would come to change the whole world.
+[07:20 --> 07:25] Beyond his intellectual abilities, Constantine also showed himself to be a ready and able
+[07:25 --> 07:31] soldier, and in the late 290s, he served on campaigns along the Danube, in Syria, and
+[07:31 --> 07:36] finally in Galerius' successful war with the Sassanids.
+[07:36 --> 07:43] By the end of Diocletian's run, it was crystal clear that Constantine was intelligent, personable,
+[07:43 --> 07:49] athletic, brave, and a natural leader of men, which is either something to be revered, or
+[07:49 --> 07:55] something to be feared, depending on your point of view.
+[07:55 --> 08:01] There is no doubt that from Galerius' point of view, Constantine was something to be feared,
+[08:01 --> 08:06] and as with Maxentius, the incoming Augustus is often blamed for Constantine getting frozen
+[08:06 --> 08:08] out of the Tetrarchy.
+[08:08 --> 08:13] But again, it could have just as easily been Diocletian wanting to table the idea of blood
+[08:13 --> 08:16] succession forever.
+[08:16 --> 08:21] But whatever Diocletian's wishes, it did not mean that anyone was going to take any
+[08:21 --> 08:25] of this lying down.
+[08:25 --> 08:29] The interests of the western half of the original Tetrarchy, for whatever reason, had just been
+[08:29 --> 08:32] blatantly ignored.
+[08:32 --> 08:36] If Diocletian and Galerius didn't think that was going to pose problems for them down the
+[08:36 --> 08:40] road, then they were in for a rude awakening.
+[08:41 --> 08:46] Initially, however, there was little the two snubbed princes could do.
+[08:46 --> 08:50] Constantine was particularly helpless because the court that had been Diocletian's, the
+[08:50 --> 08:56] one he was presently attached to, was now controlled by Galerius, meaning that the new
+[08:56 --> 09:00] Augustus held the life of Constantine in his hands.
+[09:00 --> 09:05] Not only would this stifle whatever seditious ambitions Constantine might be dreaming up,
+[09:05 --> 09:11] but it would also serve as a convenient check on Constantius' activities.
+[09:11 --> 09:15] The new Augustus of the west fully understood this fact, and right away he began sending
+[09:15 --> 09:22] Galerius letters asking that Constantine be released, but Galerius ignored him.
+[09:22 --> 09:29] Constantine, meanwhile, petitioned the eastern Augustus personally, asking, begging, demanding,
+[09:29 --> 09:35] imploring that he be allowed to go west and serve with his father.
+[09:35 --> 09:40] He has it that finally, in the midst of a drinking bout, a fed-up Galerius finally acquiesced
+[09:40 --> 09:45] and told Constantine he could go do whatever he wanted.
+[09:45 --> 09:50] Hardly pausing to pack, Constantine allegedly headed west that very night, crippling the
+[09:50 --> 09:55] horses at each post he passed along the way, convinced that as soon as Galerius sobered
+[09:55 --> 10:03] up he would realize the mistake he had made and come after the fleeing Constantine.
+[10:03 --> 10:09] This exciting tale is probably hyperbole, but at its core lay the key truth that Constantine
+[10:09 --> 10:16] was allowed to leave and that Galerius had blundered in allowing him to leave.
+[10:16 --> 10:20] All in all, it probably wasn't so bad for Galerius that people thought he was drunk
+[10:20 --> 10:23] when he made the decision.
+[10:23 --> 10:28] Better that than for people to think that he had been sober.
+[10:28 --> 10:32] Whatever the real story, Constantine, now in his early thirties, arrived in Boulogne
+[10:32 --> 10:38] in the summer of 305 where his father was preparing for a return trip to Britain.
+[10:38 --> 10:41] Together for the first time, really, a father and son made their way across the English
+[10:41 --> 10:46] Channel and waged a brief campaign against the Picts, who lived north of Hadrian's
+[10:46 --> 10:47] Wall.
+[10:47 --> 10:52] The fighting went well enough for the Romans that in January of 306, Constantius again
+[10:52 --> 10:56] took the title Britannicus Maximus.
+[10:56 --> 11:02] But in the background of all this, his ascension to full Augustus, his reunion with his son,
+[11:02 --> 11:10] his war with the Picts, was the fact that Constantius was a very sick man.
+[11:10 --> 11:13] Probably the worst thing that could happen to the fragile Tetrarchy at that point was
+[11:13 --> 11:18] for an unpredictable illness or accident to take out one of the members before the new
+[11:18 --> 11:21] team could solidify.
+[11:21 --> 11:23] But unfortunately, that's exactly what happened.
+[11:23 --> 11:29] In July of 306, while working up plans for a second campaign against the Picts in York,
+[11:29 --> 11:35] Constantius suddenly died, leaving a big gaping hole where a solid leg of the Tetrarchic
+[11:35 --> 11:40] stool had once stood.
+[11:40 --> 11:46] The life and career of Constantius is often lost in the confusing shuffle of the Tetrarchy,
+[11:46 --> 11:52] and when it's not busy being lost, it's busy being overshadowed by the sheer giganticness
+[11:52 --> 11:54] of his son.
+[11:54 --> 11:59] But Constantius led a good and noble life, and it ought to be remembered.
+[11:59 --> 12:04] He brought Britain back into the Empire, he kept the German tribes at bay, he ruled
+[12:04 --> 12:09] effectively over his territory, and though we don't have polls to confirm it, I would
+[12:09 --> 12:14] reckon that he was probably the most personally popular of all the Tetrarchs.
+[12:14 --> 12:19] It doesn't seem fair, then, that he is often listed as, quote, emperor, merely for the
+[12:19 --> 12:25] years 305 to 306, making it look to a casual observer like he was just another transient
+[12:25 --> 12:28] and forgettable soldier-emperor.
+[12:28 --> 12:33] I think we should give him full credit for his whole imperial career, and say that Constantius
+[12:33 --> 12:39] was about 56 years old when he died, and that he helped rule the Empire, well and good,
+[12:39 --> 12:45] for just over 13 years.
+[12:45 --> 12:49] As is often the case, what happened in the aftermath of Constantius's death has been
+[12:49 --> 12:55] processed through enough propaganda and counter-propaganda that it's nearly impossible to separate truth
+[12:55 --> 12:56] from fiction.
+[12:57 --> 13:02] In the official version, that is, Constantine's version, one of his father's final acts was
+[13:02 --> 13:07] to recommend to the army that they proclaim Constantine Augustus when he was dead, and
+[13:07 --> 13:11] that when he died, that's exactly what they did.
+[13:11 --> 13:15] Other versions say that Constantius took no part in the decision to elevate Constantine,
+[13:15 --> 13:20] and that the army did it on its own, while still others state flatly that Constantine
+[13:20 --> 13:27] ambitiously engineered it all himself once his father was out of the way.
+[13:27 --> 13:33] So again, it's hard to tell what the exact cause and effect was, but the end result was
+[13:33 --> 13:37] that the troops stationed in New York, along with the King of the Alamani and his men who
+[13:37 --> 13:44] were present, went ahead and proclaimed Constantine Augustus in July 306 AD.
+[13:44 --> 13:49] News spread quickly across the West, and in no time, Constantine's claim was recognized
+[13:49 --> 13:52] throughout Britain and Gaul.
+[13:52 --> 13:56] Now I know what you're thinking, and yes, you heard that right.
+[13:56 --> 14:02] The troops went ahead and named him Augustus, not Caesar.
+[14:02 --> 14:07] So not only was Constantine being unilaterally inserted into the Imperial College, but he
+[14:07 --> 14:11] was being inserted at the top of the heap.
+[14:11 --> 14:17] This, as you can imagine, did not go over well with Galerius, his deputy maximinist
+[14:18 --> 14:25] nor Severus, the man who was in line to actually become Augustus should Constantius die.
+[14:25 --> 14:30] It also did not go over too well with Maxentius, who was suddenly in danger of being left behind
+[14:30 --> 14:38] completely in the now fast-paced world of the post-Diocletian Tetrarchy.
+[14:38 --> 14:42] Constantine sent a letter to Galerius informing the Augustus of the East what had happened,
+[14:42 --> 14:47] swearing that none of this had been his doing, that his troops had nearly forced him at spearpoint
+[14:47 --> 14:52] to become their leader, so what was he supposed to do?
+[14:52 --> 14:57] Galerius flew into a rage at this upstart's presumption, not believing for a second that
+[14:57 --> 15:02] Constantine was somehow an innocent third party in all this.
+[15:02 --> 15:05] But it was also an impotent rage.
+[15:05 --> 15:11] There was, maddeningly enough, little reason to doubt that the legions of the West, along
+[15:11 --> 15:16] with the allied German auxiliaries, were indeed loyal to the son of Constantius.
+[15:16 --> 15:22] Galerius could fume all he wanted, but he understood that at this point, only a full-scale
+[15:22 --> 15:27] civil war would be able to dislodge Constantine if the young pretender chose to fight for
+[15:27 --> 15:35] his claim, and that it would be a civil war whose outcome would not at all be certain.
+[15:35 --> 15:40] So after he calmed down, Galerius considered the realities of the situation, and decided
+[15:40 --> 15:44] to bargain with Constantine instead of fighting with him.
+[15:44 --> 15:49] He sent back a message saying that Constantine's entrance into the Tetrarchy would be accepted,
+[15:49 --> 15:52] but that it would not be as an Augustus.
+[15:52 --> 15:58] Instead, Severus would properly receive the promotion that was coming to him, and Constantine
+[15:58 --> 16:02] would be ratified as the new Caesar of the West.
+[16:02 --> 16:07] Knowing that his position was strong, but not absolutely so, Constantine accepted the
+[16:07 --> 16:08] deal.
+[16:08 --> 16:12] He was playing a long game, and playing it for keeps.
+[16:12 --> 16:19] The first thing he needed was legitimacy, and that is exactly what Galerius was offering.
+[16:19 --> 16:23] Everything else would come in its own due time.
+[16:23 --> 16:31] Meanwhile, down in Rome, Maxentius stood unhappily over this development.
+[16:31 --> 16:35] It was one thing for both he and Constantine to be left out of the Tetrarchy, but with
+[16:35 --> 16:41] Constantine now in, why was Maxentius still out?
+[16:41 --> 16:45] It was a question that began to be asked not just within Maxentius's inner circle, but
+[16:45 --> 16:49] also within the Senate of Rome.
+[16:49 --> 16:55] Though their reasons for talking about it were a bit different from Maxentius's.
+[16:55 --> 16:58] Maxentius was reeling from a personal slight.
+[16:58 --> 17:04] The Senate, on the other hand, was looking for someone to carry them back to relevance.
+[17:04 --> 17:09] This disgruntled prince in their midst seemed like the perfect guy.
+[17:09 --> 17:14] So they stoked his resentment, and wondered along with him why noble Maxentius was being
+[17:14 --> 17:16] treated like a dog.
+[17:16 --> 17:22] Why they were all now slaves to this Severus, who nobody knew and who nobody really liked.
+[17:22 --> 17:28] How much better would it be if noble Maxentius combined his power with that of mighty Rome
+[17:28 --> 17:29] itself?
+[17:29 --> 17:34] Together, they could seize what was rightfully theirs.
+[17:34 --> 17:40] By the autumn of 306, Rome was practically brimming over with revolutionary angst.
+[17:40 --> 17:45] And when Severus announced a new round of taxes, taxes remember that the Italians were
+[17:45 --> 17:50] not at all used to dealing with, the city exploded.
+[17:50 --> 17:55] Adding to this outrage, Severus also announced in October that the already much diminished
+[17:55 --> 17:59] Garde was about to be officially abolished.
+[17:59 --> 18:06] At this, officers of the Garde went to Maxentius and hailed him as their emperor, asking him
+[18:06 --> 18:11] to put a stop to the rampant injustices of the tyrant Severus.
+[18:11 --> 18:16] Maxentius was more than ready to accept the offer.
+[18:16 --> 18:21] Working with the Roman nobility, he quickly secured the loyalty of southern Italy, Corsica,
+[18:21 --> 18:27] Sardinia, Sicily, and most of the West African provinces.
+[18:27 --> 18:32] But unlike his counterpart to the north, Maxentius did not presume to have himself proclaimed
+[18:32 --> 18:38] either Augustus or Caesar, and instead decided the least antagonistic course of action would
+[18:38 --> 18:44] be for him to wait for Galerius, now unequivocally the senior emperor, to recognize his claim
+[18:44 --> 18:47] to power.
+[18:47 --> 18:53] But whatever leaps of rationalization Galerius had been able to make when he recognized Constantine,
+[18:53 --> 18:57] he was unable to make for Maxentius.
+[18:57 --> 19:03] At least in Constantine's case, one of the four emperors had died, and a spot was vacant.
+[19:03 --> 19:09] But at present, there was no vacancy in the Tetrarchy, and so there was no room for Maxentius.
+[19:09 --> 19:13] Plus, Galerius had acquiesced to one pretender already.
+[19:13 --> 19:18] If he acquiesced to another, then every general in the empire would get it into its head that
+[19:18 --> 19:22] all you had to do was demand a promotion, and that that pushover Galerius would then
+[19:22 --> 19:25] be happy to grant your request.
+[19:25 --> 19:29] So no dice for Maxentius.
+[19:29 --> 19:36] Instead, Galerius ordered Severus to crush him.
+[19:36 --> 19:41] In early 307, Severus gathered up his army and marched on Rome, fully intending to return
+[19:41 --> 19:45] to Milan with the young man's head on a spike.
+[19:45 --> 19:52] But as it turned out, Maxentius was no pushover, and capturing Rome, no easy task.
+[19:52 --> 19:58] This was the first real test of the Aurelian walls, and they performed splendidly.
+[19:58 --> 20:04] Severus could make no headway, and the Romans were able to fend off his attacks with ease.
+[20:04 --> 20:09] On top of that, the troops Severus led had just spent the last twenty-odd years serving
+[20:09 --> 20:15] Maximian, and their true loyalties were not hard to deduce, especially when they began
+[20:15 --> 20:20] to desert in droves to Maxentius' banner.
+[20:20 --> 20:25] It was at this point that Maximian, living a comfortable retirement down in southern
+[20:25 --> 20:29] Italy, could contain himself no longer.
+[20:29 --> 20:34] Envoys from the Senate, from the Praetorian Guard, and from his own son, had already asked
+[20:34 --> 20:39] him to come out of retirement, but he had so far refused to break his oath to Diocletian
+[20:39 --> 20:41] that he was done with politics.
+[20:41 --> 20:47] But with Severus besieging Rome, and his old troops defecting to Maxentius, Maximian could
+[20:47 --> 20:50] stay on the sidelines no longer.
+[20:50 --> 20:53] He left his villa and headed north.
+[20:53 --> 20:57] When word reached the capital that Maximian was on his way, Severus finally recognized
+[20:57 --> 21:00] that his position was hopeless.
+[21:00 --> 21:07] He withdrew with the troops he had left and made for Ravenna, where he planned to regroup.
+[21:07 --> 21:11] When Maximian entered Rome, he was happily embraced by his son and the aristocracy, who
+[21:11 --> 21:17] both saw the usefulness of having the ex-Augustus on their side.
+[21:17 --> 21:21] The old man's first task would be to lead the army north to capture Severus and force
+[21:21 --> 21:27] him to abdicate, which would open the necessary spot in the Tetrarchy for Galerius to go ahead
+[21:27 --> 21:30] and insert Maxentius.
+[21:30 --> 21:34] This Maximian was able to pull off with ease.
+[21:34 --> 21:37] Severus really was an outsider in Italy.
+[21:37 --> 21:41] He had no friends and no stable base of power.
+[21:41 --> 21:45] When Maximian arrived in Ravenna, it was just a matter of time before the city was betrayed
+[21:45 --> 21:47] into his hands.
+[21:47 --> 21:52] So when Maximian got word to Severus that if the western Augustus surrendered himself
+[21:53 --> 21:59] that he would be allowed to live, Severus reluctantly turned himself over, seeing no
+[21:59 --> 22:01] other way out.
+[22:01 --> 22:06] His mission accomplished, however, and Maximian revealed to the world that it was now dealing
+[22:06 --> 22:11] with a far less stable Maximian than it had grown accustomed to when Diocletian was around
+[22:11 --> 22:14] to moderate his vices.
+[22:14 --> 22:19] Once the Augustus was in hand, Maximian immediately broke the promise he had made and had Severus
+[22:19 --> 22:22] executed.
+[22:22 --> 22:27] We don't know exactly how old he was when he died, but Severus had reigned first as
+[22:27 --> 22:33] Caesar and then as Augustus for just about a year and a half.
+[22:33 --> 22:37] Now whether it was the right thing to do is an open question.
+[22:37 --> 22:43] A good old-fashioned coup usually demands that the old ruler be ruthlessly exterminated,
+[22:43 --> 22:49] both to prevent him from coming back and to put everyone on notice that you mean business.
+[22:49 --> 22:54] But in this case, Severus was not the only ruler to be reckoned with, and killing him,
+[22:54 --> 22:58] especially after having used such a dirty trick to get him in hand, did not exactly
+[22:58 --> 23:02] make Galerius amenable to Maxentius' demands.
+[23:02 --> 23:08] Rather, when Galerius heard what had happened, he immediately mustered his own army and marched
+[23:08 --> 23:09] on Italy.
+[23:09 --> 23:15] There was going to be hell to pay for the murder of Severus.
+[23:15 --> 23:20] Facing a war with Galerius, a war that he had hoped to avoid, Maxentius quickly sent
+[23:20 --> 23:25] Emissaries north to meet and haggle with Constantine.
+[23:25 --> 23:30] Maxentius hoped to bring him over to his side, but barring that, to at least secure Constantine's
+[23:30 --> 23:33] neutrality in the coming fight.
+[23:33 --> 23:39] Constantine, again playing the long game, did not jump at the chance to join with Galerius,
+[23:39 --> 23:45] and instead his own offer was for neutrality and neutrality only.
+[23:45 --> 23:52] The price would be a marriage to Maximian's daughter and Maxentius' sister, Fausta.
+[23:52 --> 23:56] This would not only strengthen his overall claim to power, after all, he would now be
+[23:56 --> 24:02] directly tied to the Herculanean dynasty, but it would also give him future leverage
+[24:02 --> 24:09] over Maxentius, should he ever need to leverage Maxentius in the future.
+[24:09 --> 24:13] The deal struck, Constantine was good to his word, and stayed on the sidelines when Galerius
+[24:13 --> 24:19] arrived in Italy in the summer of 307.
+[24:19 --> 24:24] The Eastern Augustus may have been mad as hell and ready to blow Maximian and Maxentius
+[24:24 --> 24:31] off the face of the earth, but like Severus, he found this to be nearly impossible.
+[24:31 --> 24:36] Reinforced by all those troops that had been with Severus initially, Maxentius was now
+[24:36 --> 24:41] in an even stronger position than he had been before, and this time the whole of Italy was
+[24:41 --> 24:43] with him.
+[24:43 --> 24:49] As soon as he arrived on the peninsula, Galerius found nearly every city shut to him, munitions
+[24:49 --> 24:54] stockpiled behind walls, and hostile locals everywhere harassing his scouts and supply
+[24:54 --> 24:56] lines.
+[24:56 --> 25:01] Galerius pressed within 60 miles of Rome, but was so frustrated in his advance that
+[25:01 --> 25:05] by the time he neared the city he was more than ready to come to some sort of agreement
+[25:05 --> 25:11] with Maxentius, and he sent envoys to Rome to feel the young man out.
+[25:11 --> 25:16] But Maxentius was not as ready to deal as he had once been.
+[25:16 --> 25:21] He had bested one Augustus already, and it looked a lot like he was going to do it again.
+[25:21 --> 25:23] So why deal down?
+[25:23 --> 25:29] Had he not already proven himself to be the strongest of them all?
+[25:29 --> 25:35] The envoys were sent back with a no deal.
+[25:35 --> 25:42] Now just spinning with rage, Galerius found himself in a position similar to Severus.
+[25:42 --> 25:47] Isolated in enemy territory, his own troops were getting itchy feet, enticed as they were
+[25:47 --> 25:52] by the lucrative promises Maxentius and his agents had been spreading among them.
+[25:52 --> 25:57] The eastern Augustus decided that his only course of action would be a humiliating withdrawal
+[25:57 --> 26:03] from the peninsula, but he refused to leave empty handed.
+[26:03 --> 26:07] His men were clamoring for something to match the rewards promised by Maxentius, and so
+[26:07 --> 26:13] Galerius, maybe just to spite the Italians, let his men off the leash.
+[26:13 --> 26:18] They ravaged the countryside, burning and pillaging their way north.
+[26:18 --> 26:23] It may have felt good, and it may have lined their pockets, but if there was one thing
+[26:23 --> 26:27] that was going to be true from here on out, it was that Galerius, the senior Augustus
+[26:27 --> 26:36] of the empire, was now a supremely hated man in Italy and in Rome.
+[26:36 --> 26:40] So that didn't take too long.
+[26:40 --> 26:46] Diocletian had retired in May of 305, and by the summer of 307 the Tetrarchy was in
+[26:46 --> 26:47] shambles.
+[26:47 --> 26:52] Two Augusti were dead, one at the hands of an ex-Augustus no less.
+[26:52 --> 26:58] Constantine had snuck in through the back door, and Maxentius controlled Italy and Africa,
+[26:58 --> 27:02] even though he operated in no legitimate capacity.
+[27:02 --> 27:07] As Galerius sulked his way back to Nicomedia, he tried to figure out how it had all gone
+[27:07 --> 27:10] so wrong so fast.
+[27:10 --> 27:14] He thought he had stacked the deck to his advantage, but when the hand played out, he
+[27:14 --> 27:17] wound up losing half the empire.
+[27:17 --> 27:20] It just didn't make sense.
+[27:20 --> 27:24] The only man he could think of who might be able to make sense of it all, and who could
+[27:24 --> 27:30] maybe figure out a way to get things back on track, was Diocletian, who had so far refused
+[27:30 --> 27:36] any invitation to get involved.
+[27:36 --> 27:41] Next time though, Galerius will finally succeed in convincing Diocletian to temporarily give
+[27:41 --> 27:44] up his cabbages.
+[27:44 --> 27:49] The old senior Augustus cannot have been happy with the way things had gone since he retired,
+[27:49 --> 27:54] and I guess he figured that the time had finally come for him to throw his weight behind some
+[27:54 --> 27:59] kind of settlement that would get the Tetrarchy working again.
+[27:59 --> 28:04] I say next time, because unfortunately there will be no episode next week, but we will
+[28:04 --> 28:09] be back in two weeks to cover the imperial summit that will solve all the problems that
+[28:09 --> 28:15] had cropped up since Diocletian's abdication, and in so doing create a whole bunch of new
+[28:15 --> 28:16] ones.

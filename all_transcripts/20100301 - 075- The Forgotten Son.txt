@@ -1,0 +1,350 @@
+# 20100301 - 075- The Forgotten Son
+# Detected language: en
+# Duration: 1595.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:13] Hello, and welcome to the History of Rome, Episode 75, The Forgotten Son.
+[00:13 --> 00:17] First of all, sorry for last week's cliffhanger ending.
+[00:17 --> 00:20] Somehow the final cut got truncated when I wasn't looking.
+[00:20 --> 00:25] Luckily, or maddeningly or something, it only dropped the last 8 words.
+[00:25 --> 00:29] So for those of you who haven't gone back and downloaded the corrected version, which
+[00:29 --> 00:34] is posted by the way, I'll just go ahead and spoil the ending.
+[00:34 --> 00:39] Senatorial historians were doing their best to confine Domitian to the dustbin of history,
+[00:39 --> 00:40] then the music plays.
+[00:40 --> 00:42] That was all that was left.
+[00:42 --> 00:45] Sorry about that.
+[00:45 --> 00:50] But as much as the Senate tried to literally purge Domitian from the collective consciousness,
+[00:50 --> 00:54] passing an edict damning his memory just days after the emperor was assassinated, and then
+[00:54 --> 00:59] proceeding to expunge his name from public records and monuments.
+[00:59 --> 01:04] Domitian reigned for too long and had too much of an impact to simply be ignored.
+[01:04 --> 01:09] So failing to erase his memory completely, sympathetic historians of senatorial rank
+[01:09 --> 01:14] ran a fairly uniform smear campaign against him that was picked up and promulgated by
+[01:14 --> 01:19] later church scholars who further identified the evil Domitian as an early prosecutor of
+[01:19 --> 01:21] Christians.
+[01:21 --> 01:26] So for the better part of 1800 years, the perception that Domitian was one of the worst
+[01:26 --> 01:29] Roman history persisted.
+[01:29 --> 01:34] But in the 20th century, his memory has been rehabilitated some, most notably by Brian
+[01:34 --> 01:36] Jones' The Emperor Domitian.
+[01:36 --> 01:42] And he is now understood to be an undeniably autocratic ruler, but one who was far more
+[01:42 --> 01:48] effective and rational than early sources give him credit for.
+[01:48 --> 01:55] Titus Flavius Domitianus was born on October 24, 51 A.D., the youngest son of the year's
+[01:55 --> 01:58] newly elected consul Vespasian.
+[01:58 --> 02:02] For the first few years, the Flavian nuclear family was strong and stable.
+[02:02 --> 02:07] Vespasian withdrew from public life following the rise of Agrippina and was around to supervise
+[02:07 --> 02:12] the upbringing of his three children, Titus, who was 12 years Domitian's senior, daughter
+[02:12 --> 02:17] Domitila, six years older, and Domitian himself.
+[02:17 --> 02:22] But as was sometimes typical in Roman families, while Vespasian took a keen interest in his
+[02:22 --> 02:27] eldest son's education and a keen interest in finding his daughter a husband, he did
+[02:27 --> 02:31] not take much interest at all in his youngest son.
+[02:31 --> 02:36] Not that Domitian did not receive a first-rate education, just that by the time he was born,
+[02:36 --> 02:41] Titus was almost an adult and Vespasian naturally looked at the older boy as the bearer of his
+[02:41 --> 02:42] legacy.
+[02:42 --> 02:50] Domitian, unfortunately, became little more than an afterthought in his father's eyes.
+[02:50 --> 02:54] Titus was shipped off to Germania to begin his public career when Domitian was seven
+[02:54 --> 02:59] and a few years later Vespasian accepted a governorship in North Africa, leaving the
+[02:59 --> 03:04] 12-year-old Domitian at home with his mother and sister and he naturally grew much closer
+[03:04 --> 03:08] to them than the two men to whom he is historically connected.
+[03:08 --> 03:14] But by the time his father and brother left for Judea in 66 AD, both women were dead.
+[03:14 --> 03:19] The causes of death are unknown, but they left the 15-year-old Domitian virtually alone
+[03:19 --> 03:24] in the world, and during this period he developed a penchant for solitude, a very un-Roman-like
+[03:24 --> 03:29] trait that would be inevitably pointed out by his enemies as they ticked off all the
+[03:29 --> 03:33] things that made the monster Domitian such an abomination.
+[03:33 --> 03:35] Where's Domitian, someone would ask.
+[03:35 --> 03:40] Alone in the palace would come the witty reply with not even a fly.
+[03:40 --> 03:44] Of course, this joke worked doubly well because it was rumored that Domitian liked to sit
+[03:44 --> 03:49] around and stab flies with a penknife, but that is neither here nor there.
+[03:49 --> 03:54] The virtually orphaned Domitian was handed off to Vespasian's brother Flavius Sabinus
+[03:54 --> 03:59] and he was still living in his uncle's home when the events of 68 and 69 AD swept across
+[03:59 --> 04:03] the empire.
+[04:03 --> 04:07] When it comes to contrasting the roots of the generous and positive reigns of Vespasian
+[04:07 --> 04:12] and Titus with the jealous and negative reign of Domitian, one can look obviously to the
+[04:12 --> 04:17] circumstances of his upbringing and the humiliating slights he would receive under the reign of
+[04:17 --> 04:20] his father and one would be right to do so.
+[04:20 --> 04:25] But there is another little thing that no doubt colored Domitian's whole worldview.
+[04:25 --> 04:30] He was actually physically present in Rome during the last mad days of Nero, then the
+[04:30 --> 04:36] massacres that greeted the arrival of Galba, then the violent coup orchestrated by Otho,
+[04:36 --> 04:42] then the occupation of the city by Vitellius' Rhine legions, and then, finally, the sacking
+[04:42 --> 04:45] of Rome by Antonius' army.
+[04:45 --> 04:50] Not only did he endure the paranoia of being related to a prominent politician at a time
+[04:50 --> 04:56] when standing out was likely to get you purged by the capricious Nero or the scheming pedagogues,
+[04:56 --> 05:01] but he also saw up close and personal just how readily the Senate swung with the political
+[05:01 --> 05:06] breeze and how much that political breeze was blown by violence.
+[05:06 --> 05:11] Every time some usurper got the upper hand, the Senate was right there to retroactively
+[05:11 --> 05:14] justify their most heinous crimes.
+[05:14 --> 05:18] One minute they were praising you to the stars, the next they were hailing your assassins
+[05:18 --> 05:21] as state heroes.
+[05:21 --> 05:26] The Senate as a body had many characteristics, but loyalty to the sitting emperor was clearly
+[05:26 --> 05:32] not one of them and it was a lesson Domitian would not soon forget.
+[05:32 --> 05:36] He spent his latter teenage years surrounded by backstabbers, plotters, and the senators
+[05:36 --> 05:38] who enabled them.
+[05:38 --> 05:43] It should come as no surprise then that in contrast to his laid back father and brother,
+[05:43 --> 05:48] Emperor Domitian would rule with a strong and vigilant hand and do everything he could
+[05:48 --> 05:53] to enfeeble the Senate who he knew full well would turn on him the minute he looked away.
+[05:53 --> 05:59] Ironically, of course, this paranoid disposition would become a self-fulfilling prophecy and
+[05:59 --> 06:05] the Flavian most worried about assassination would be the only one to die a violent death.
+[06:05 --> 06:09] Life's funny that way.
+[06:09 --> 06:14] As the son of a prominent Neuronian general, Domitian had lived into 69 AD as a sort of
+[06:14 --> 06:20] unofficial political hostage, but when Vespasian launched his own bid for the throne, the target
+[06:20 --> 06:25] on Domitian's back threatened to overwhelm the young man.
+[06:25 --> 06:29] By the time Vitellius arrived in the city, Vespasian's eastern revolt was well under
+[06:29 --> 06:34] way and the Vitellians were quick to locate their rival's youngest son and place him
+[06:34 --> 06:37] under house arrest.
+[06:37 --> 06:42] Vitellius hoped that by keeping Domitian hostage, Vespasian would think twice about his plans,
+[06:42 --> 06:47] but of course Antonius' aggressive invasion of Italy took the decision out of Vespasian's
+[06:47 --> 06:52] hands completely, though whether he would have let Vitellius' threats to harm Domitian
+[06:52 --> 06:56] deter him is still an open question.
+[06:56 --> 07:00] When Vitellius attempted to abdicate the throne, Domitian was freed from his confinement and
+[07:00 --> 07:05] accompanied his uncle Sabinus as the latter marched to the forum to deliver a message
+[07:05 --> 07:08] on Vespasian's behalf.
+[07:08 --> 07:12] This meant that Domitian was with his uncle when the Flavian entourage ran into the still
+[07:12 --> 07:17] defiant Vitellians and fought in the ensuing street fight that drove the Flavians up onto
+[07:17 --> 07:19] the Capitoline Hill.
+[07:19 --> 07:23] When it was clear that the impromptu siege was not going to end well, Domitian was snuck
+[07:23 --> 07:28] off the hill dressed as an adherent of the cult of Isis.
+[07:28 --> 07:32] He slipped into a passing religious procession and escaped the fate of his less fortunate
+[07:32 --> 07:35] uncle.
+[07:35 --> 07:40] When Antonius' army smashed their way into Rome a few days later, Domitian was liberated
+[07:40 --> 07:45] from his hiding place and hailed the Caesar by the triumphant Flavian troops who carried
+[07:45 --> 07:48] the eighteen year old on a shield to his father's house.
+[07:48 --> 07:54] Suddenly, the boy who had always been relegated to the background found himself standing right
+[07:54 --> 07:57] smack dab in the middle of everything.
+[07:57 --> 08:00] But his time in the limelight was short lived.
+[08:00 --> 08:04] When Mucianus arrived in the city, he quickly co-opted Domitian and relegated the boy to
+[08:04 --> 08:08] a closely guarded ceremonial position.
+[08:08 --> 08:12] As the son of Vespasian, he had enormous value and was assigned the task of representing
+[08:12 --> 08:15] his father's interests in the Senate.
+[08:15 --> 08:20] But he was kept away from real power and any Flavian supporter who seemed inclined to back
+[08:20 --> 08:27] Domitian over Mucianus was rapidly promoted away to positions in the provinces.
+[08:27 --> 08:31] While he waited for his father to arrive, Domitian dutifully attended sessions of the
+[08:31 --> 08:33] Senate and spoke on his father's behalf.
+[08:33 --> 08:38] And it was very likely that during these formative months that the future emperor Domitian's
+[08:38 --> 08:42] disdain for the body cemented itself.
+[08:42 --> 08:46] There was no escaping the fact that the Senate had no real authority and seemed driven by
+[08:46 --> 08:50] nothing so much as the vanity of old men.
+[08:50 --> 08:55] Domitian endured their endless speeches, all the while longing to get out of this sideshow
+[08:55 --> 09:00] and on to the main stage.
+[09:00 --> 09:04] Like most young men of his age and ambition, Domitian craved the opportunity to prove himself
+[09:04 --> 09:07] in the field of battle.
+[09:07 --> 09:11] He had tried to talk his father into taking him to Judea at the outset of the Jewish revolt,
+[09:11 --> 09:14] but this request was dismissed out of hand.
+[09:14 --> 09:18] He was far too young and would only get in the way.
+[09:18 --> 09:22] By the time he was old enough to join the legions in his own right, the whole empire
+[09:22 --> 09:26] was turned upside down and Domitian was forced to sit on the sidelines while the rest of
+[09:26 --> 09:31] his family bathed themselves in military glory.
+[09:31 --> 09:35] With his father now emperor, Domitian was sure to be granted a position somewhere in
+[09:35 --> 09:40] the legions, if not a command then at least something close to it.
+[09:40 --> 09:45] The Batavian revolt offered the perfect opportunity and Domitian jumped at the chance to join
+[09:45 --> 09:50] Mucianus as the imperial administrator raised reinforcements to lead north to crush the
+[09:50 --> 09:52] rebellion.
+[09:52 --> 09:56] Mucianus was hesitant to put the boy in charge of troops, not just because he was totally
+[09:56 --> 10:03] inexperienced but also because he would become a dangerous rival for the army's loyalty.
+[10:03 --> 10:08] Fortunately for Mucianus and unfortunately for Domitian, the revolt was put down before
+[10:08 --> 10:12] the armies from Rome got anywhere near the front lines and the unfulfilled Domitian was
+[10:12 --> 10:15] returned to Rome.
+[10:15 --> 10:20] Sensing that Mucianus did not perhaps have his best interests at heart, Domitian wrote
+[10:20 --> 10:24] a letter directly to the commander of the Rhine legions, who just so happened to be
+[10:24 --> 10:30] his uncle-in-law, asking for a command but his uncle essentially ignored the request.
+[10:30 --> 10:35] When Vespasian arrived in Rome later that year, Domitian then was still stuck, shut
+[10:35 --> 10:40] out of political power and denied a military post.
+[10:40 --> 10:44] The young man may have hoped that the arrival of his father would correct this situation,
+[10:44 --> 10:49] but it was apparent from the get-go that Vespasian had no interest in raising Domitian out of
+[10:49 --> 10:52] his glum irrelevancy.
+[10:52 --> 10:58] Despite being one of only two sons, Domitian was treated with remarkable indifference by
+[10:58 --> 11:02] Vespasian, who, like always, seemed to only have eyes for Titus.
+[11:02 --> 11:08] In fact, when Titus returned from the east and Vespasian granted his eldest son a triumph,
+[11:08 --> 11:13] Domitian was forced to trail behind the vanguard led by his father and brother, relegated to
+[11:13 --> 11:18] the spot reserved for other family members.
+[11:18 --> 11:22] This would prove to be Domitian's lot in life for the remainder of his father's decade
+[11:22 --> 11:23] in office.
+[11:23 --> 11:28] Where Titus was granted near-co-equal status with Vespasian, Domitian was assigned only
+[11:28 --> 11:31] ceremonial positions.
+[11:31 --> 11:35] Aside from being trotted out every once in a while to preside over some archaic ceremony
+[11:35 --> 11:40] or another, Domitian faded completely from public view.
+[11:40 --> 11:45] He spent most of his time in the imperial palace, reading and writing, and generally
+[11:45 --> 11:51] resigning himself to the life of obscure scholarship that he seemed destined for.
+[11:51 --> 11:56] In fact, if it hadn't have been for the influence of Titus, Domitian likely would not have been
+[11:56 --> 12:01] allowed any practical governmental experience at all before attaining the throne for himself
+[12:01 --> 12:03] in 81 AD.
+[12:03 --> 12:08] Though he had never been close to his so much younger brother, Titus seemed at least aware
+[12:08 --> 12:12] of Domitian's existence.
+[12:12 --> 12:17] Not to get off on too much of a tangent, but by the time of the imperial period, consulships
+[12:17 --> 12:21] still existed, but they were no longer the yearly affairs that they had been during the
+[12:21 --> 12:23] republican era.
+[12:23 --> 12:28] In order to satisfy the many grasping elites who all clamored to add consul to their list
+[12:28 --> 12:33] of public accomplishments, the consulship turned into an office held for months and
+[12:33 --> 12:36] sometimes even days.
+[12:36 --> 12:41] The most prestigious slot was to begin the year in office, as the Roman dating system
+[12:41 --> 12:46] still named the years after the consuls in office on January 1st.
+[12:46 --> 12:51] These men were called the consul's ordinarii, and once they had served for a few months,
+[12:51 --> 12:56] they often resigned in favor of new candidates who were known as suffet consuls.
+[12:57 --> 13:02] Vespasian assigned Titus to seven ordinarii consulships during his time in office, while
+[13:02 --> 13:05] granting Domitian only one.
+[13:05 --> 13:10] But aware that his brother needed much more practical experience than this, Titus ensured
+[13:10 --> 13:15] that when he resigned from his consulships, that Domitian took over a suffet consul, bringing
+[13:15 --> 13:22] his younger brother's total to a less prestigious, but still respectable, six consulships.
+[13:22 --> 13:27] I think the main difference between Vespasian and Titus' attitude towards Domitian is that
+[13:27 --> 13:33] the former was an old man who felt that the issue of succession was a done deal and beyond
+[13:33 --> 13:38] Titus he didn't really have to worry about it, while the much younger and sonless Titus
+[13:38 --> 13:46] still had to consider the possibility that Domitian would dawn the purple one day.
+[13:46 --> 13:50] While Domitian got absolutely nowhere with his father when it came to career advancement,
+[13:50 --> 13:54] he was able to get his way when it came to his private life.
+[13:54 --> 13:59] He warded off a plot hatched by Vespasian to marry him off to Titus' daughter to ensure
+[13:59 --> 14:07] the purity of the dynasty, and in 70 AD he married the woman he loved, Domitia Longia.
+[14:07 --> 14:12] The match may not have been the one Vespasian wanted, but politically it was an excellent
+[14:12 --> 14:14] pairing.
+[14:14 --> 14:18] Domitia was the youngest daughter of the great general Corbulo, who had spent his life in
+[14:18 --> 14:25] service to the empire, and had been rewarded by Nero with an order to commit suicide.
+[14:25 --> 14:31] Connecting the Flavians to this great sanitorial family raised the profile of both, and established
+[14:31 --> 14:37] the Flavians as a family of anti-Neros and signaling to those who had previously opposed
+[14:37 --> 14:43] the imperial regimes of the past that they could find a home in this new dynasty.
+[14:43 --> 14:47] Beyond the political upside, the marriage seemed to be a happy one, and despite a brief
+[14:47 --> 14:51] hiccup shortly after Domitian became emperor, the two remained devoted to each other for
+[14:51 --> 14:55] the rest of their lives.
+[14:55 --> 15:01] Just as he had hoped the arrival of Vespasian in Rome would deliver him from powerless obscurity,
+[15:01 --> 15:07] Domitian held out similar hopes when his brother ascended to the throne in 79 AD.
+[15:07 --> 15:11] But just as before, Domitian was disappointed.
+[15:11 --> 15:16] This time the snub was more acutely felt, as Titus had specifically promised him a greater
+[15:16 --> 15:20] role in government once he became emperor.
+[15:20 --> 15:24] In Titus's defense, it may have been that he was fully planning on following through
+[15:24 --> 15:28] with his promise, and died before he could take any concrete steps.
+[15:28 --> 15:34] But for the two years he reigned, Domitian's status changed very little.
+[15:34 --> 15:37] It is at this point in the story that the ancient historians really start to get their
+[15:37 --> 15:44] digs in on the man they so love to hate, casting Domitian as an undisciplined and scheming
+[15:44 --> 15:50] cad who did everything in his limited power to undermine his handsome and wonderful brother.
+[15:50 --> 15:55] Suetonius even paints a scene in which Titus, after discovering that Domitian has been plotting
+[15:55 --> 16:01] against his life yet again, confronts his brother and pleads with him to remain an honorable
+[16:01 --> 16:06] partner, reminding him that at this point he is Titus's chosen successor, so there
+[16:06 --> 16:11] was no need for shifty violence.
+[16:11 --> 16:15] Following the sudden death of Emperor Titus, rumors were dutifully handed around that Domitian
+[16:15 --> 16:20] had a hand in the tragedy, and even if he hadn't killed his brother, he certainly proved
+[16:20 --> 16:25] himself to be unworthy of the Flavian name and his conduct immediately following his
+[16:25 --> 16:27] brother's fatal illness.
+[16:27 --> 16:32] Rather than taking the time to mourn his brother properly, Domitian instead left the corpse
+[16:32 --> 16:36] behind and hurried to the Praetorian camp to have himself hailed emperor.
+[16:37 --> 16:42] However it really happened and however much he really felt the loss of his older brother,
+[16:42 --> 16:48] it is true that on September 14, 81 AD, just a day after Titus died, Domitian called a
+[16:48 --> 16:52] session of the senate and was confirmed as Augustus.
+[16:52 --> 16:59] The forgotten son of Vespasian was now master of the Roman Empire.
+[16:59 --> 17:04] As I have mentioned, Domitian arrived in office with a very different idea about how to wield
+[17:04 --> 17:07] power than any of his predecessors.
+[17:07 --> 17:13] The Julio-Claudians, even the craziest of them, had always followed in Augustus' footsteps
+[17:13 --> 17:18] and pretended that the mechanisms of the old republic still had power.
+[17:18 --> 17:23] Vespasian and Titus had both continued this tradition, not seeing any reason to upset
+[17:23 --> 17:27] a political apple cart that had so recently been set right.
+[17:27 --> 17:31] But Domitian had no use for this play acting.
+[17:31 --> 17:36] His experience had taught him that the senate was an ineffective partner at best and a dangerous
+[17:36 --> 17:39] threat to the imperial peace at worst.
+[17:39 --> 17:45] The republic had been dead for more than a century, there was no use pretending otherwise.
+[17:45 --> 17:50] All that Rome required was an enlightened despot to guide the ship of state wisely and
+[17:50 --> 17:56] placating the senate was an unnecessary and inefficient distraction from the kind of enlightened
+[17:56 --> 18:00] despotism the empire needed to flourish.
+[18:00 --> 18:06] Not lacking in ambition or ego, Domitian decided to model his new administration on no less
+[18:06 --> 18:12] a figure than the greatest enlightened despot of them all, the divine Augustus.
+[18:12 --> 18:16] But though Domitian's policies would prove themselves to be clearly Augustan in both
+[18:16 --> 18:22] scope and quality, in the end he completely missed the insight that had made Augustus
+[18:22 --> 18:24] so successful.
+[18:24 --> 18:29] Rather than publicly castrating the senate, the first emperor had obsessively maintained
+[18:29 --> 18:34] the charade of democracy, knowing full well that giving a little publicly meant getting
+[18:34 --> 18:36] a lot privately.
+[18:36 --> 18:43] In contrast, Domitian dragged the ugly realities of imperial rule right out into the open and
+[18:43 --> 18:48] very loudly concentrated all power in the imperial palace, refusing to even pay lip
+[18:48 --> 18:53] service to the self-important windbags down in the senate house.
+[18:53 --> 18:59] For Augustus had styled himself as princeps, merely your first citizen.
+[18:59 --> 19:03] Domitian preferred Domitian your lord and god.
+[19:03 --> 19:08] One could argue that the unsentimental administration set up by Domitian was more efficient than
+[19:08 --> 19:11] the touchy-feely charade of Augustus.
+[19:11 --> 19:17] But what one cannot argue is that when Augustus died they made him a god and his name became
+[19:17 --> 19:20] synonymous with supreme authority.
+[19:20 --> 19:26] Whereas when Domitian died they toppled his statues and damned his name.
+[19:26 --> 19:32] But despite his ultimately fatal unwillingness to play act, in every other way Domitian sought
+[19:32 --> 19:35] to emulate Rome's first and greatest emperor.
+[19:35 --> 19:40] In the breadth of his interests and the depths of his management, Domitian sought to usher
+[19:40 --> 19:46] in nothing less than an Augustan renaissance.
+[19:46 --> 19:51] First up on his list of things to do was to reaffirm the divine status of the Caesars.
+[19:51 --> 19:56] The recent civil wars had perhaps given some the idea that donning the purple was simply
+[19:56 --> 20:01] a matter of controlling the strongest army or the sneakiest assassins.
+[20:01 --> 20:06] Domitian wanted to remind everyone that the imperial dynasties were divinely ordained
+[20:06 --> 20:11] and that the past emperors were nothing less than gods themselves.
+[20:11 --> 20:16] If you're thinking about making a bid for the throne, just ask yourself, are you a god?
+[20:16 --> 20:19] Or are you descended from a god?
+[20:19 --> 20:23] If not, then you'd better just pack it up right now.
+[20:23 --> 20:27] So his first official act as emperor was to push through an edict deifying his deceased
+[20:27 --> 20:32] brother Titus to join his already deified father.
+[20:32 --> 20:37] But unlike Titus's push to have Vespasian deified, Domitian refused to submit himself
+[20:37 --> 20:42] to the plotting of the Senate, who had only approved godhood for Vespasian six months
+[20:42 --> 20:45] after the latter's death.
+[20:45 --> 20:50] Domitian had no patience for such stalling and simply declared the divinity of his brother
+[20:50 --> 20:53] without waiting for senatorial approval.
+[20:53 --> 20:58] This total abandonment of protocol was the opening salvo in Domitian's running war on
+[20:58 --> 21:02] the obsolete institution.
+[21:02 --> 21:07] The new emperor then set to work, closely tying himself not to the Senate, but to the
+[21:07 --> 21:08] gods.
+[21:08 --> 21:12] He finished the rebuild of the temple of Jupiter, adding splendid flourishes that were sure
+[21:12 --> 21:17] to please the king of the gods, and then set to work building a lesser shrine to Jupiter
+[21:17 --> 21:22] the protector in the home that he had hidden himself in during the final dark days of Vitellius's
+[21:22 --> 21:25] reign.
+[21:25 --> 21:29] Capping off this initial flurry of religious monument building, Domitian completed the
+[21:29 --> 21:34] temple of Vespasian and Titus, where the people of Rome would be encouraged to actively
+[21:34 --> 21:40] worship his deceased and now divine father and brother.
+[21:40 --> 21:42] Domitian's point was clear.
+[21:42 --> 21:45] The emperor was not the first among equals.
+[21:45 --> 21:52] He was nothing less than the gods appointed representative on earth.
+[21:52 --> 21:57] With the gods firmly in his corner, Domitian then set about reorganizing how the state
+[21:57 --> 22:00] went about its daily business.
+[22:00 --> 22:05] He unceremoniously stripped the Senate of all practical authority and ensured that they
+[22:05 --> 22:09] were cut out of the decision making process completely.
+[22:09 --> 22:15] No more debates, no more delays, no more humoring long irrelevant elites.
+[22:15 --> 22:21] If the emperor wanted something done, he was just going to order it done and that was that.
+[22:21 --> 22:25] The Senate was shocked that the new emperor refused them even the slightest consideration
+[22:25 --> 22:28] and they quickly grew to despise him.
+[22:28 --> 22:32] This was fine with Domitian as he really didn't care what they thought.
+[22:32 --> 22:37] He had an empire to run and tiptoeing around the sensitivities of rich old men was not
+[22:37 --> 22:40] how he planned to spend his days.
+[22:40 --> 22:44] But as much as this embittered the elites, the common people loved it.
+[22:44 --> 22:49] Because though Domitian was every bit the dictatorial autocrat, he seemed focused on
+[22:49 --> 22:55] weeding out corruption and streamlining the tax code and making things fairer, not wallowing
+[22:55 --> 22:57] in his own hedonism.
+[22:57 --> 23:02] The corrupt upper classes had been growing fat for years while the emperors had turned
+[23:02 --> 23:03] a blind eye.
+[23:03 --> 23:09] Now it seemed that the bill was finally coming due.
+[23:09 --> 23:13] But this is not to say that Domitian was some fire breathing populist like Julius Caesar
+[23:13 --> 23:14] had been.
+[23:14 --> 23:17] He was not on a crusade for social justice.
+[23:17 --> 23:22] He just saw the nobility as far more of a hindrance than a help when it came to administrative
+[23:23 --> 23:25] and so he cut them loose.
+[23:25 --> 23:31] What Domitian was looking for was hard working, loyal, conscientious and honest administrators
+[23:31 --> 23:36] to help him govern and the senatorial class did not seem particularly well stocked with
+[23:36 --> 23:38] any of these types.
+[23:38 --> 23:44] Sweeping aside the old order, Domitian instead elevated men of the lower ranking equestrian
+[23:44 --> 23:50] class to positions they never would have been considered for in another administration.
+[23:50 --> 23:54] This not only filled the government with men of merit, it also filled the government
+[23:54 --> 24:00] with men intensely loyal to Domitian, to whom they owed their jobs, their lives and
+[24:00 --> 24:02] their careers.
+[24:02 --> 24:06] The new emperor's zeal for eschewing the hereditary politics of the past even extended
+[24:06 --> 24:09] to his own family.
+[24:09 --> 24:15] Breaking with every imperial tradition in the book, Domitian abandoned nepotism, refusing
+[24:15 --> 24:20] to fill key positions with family members just because they were family members.
+[24:20 --> 24:24] If they could do the job, then they could have the job, but being a relative of the
+[24:24 --> 24:29] emperor was no longer a free pass.
+[24:29 --> 24:33] Despite his lack of experience and the low regard his own father seems to have held him
+[24:33 --> 24:38] in, Domitian was in fact turning out to be a bold and innovative emperor.
+[24:38 --> 24:43] Eventually, of course, his flagrant disregard for elite opinion would come back to haunt
+[24:43 --> 24:48] him, but for the time being, Emperor Domitian was successfully reinventing the office he
+[24:48 --> 24:50] held.
+[24:50 --> 24:55] Through his reforms, including his decision to declare himself censor in perpetuity so
+[24:55 --> 25:00] he could control the senatorial roles and expel members who opposed him, the seat of
+[25:00 --> 25:05] power in the empire was now no longer Rome itself.
+[25:05 --> 25:09] Domitian famously moved around more than any other emperor since Augustus, and wherever
+[25:09 --> 25:13] he went, he brought the imperial court with him.
+[25:13 --> 25:18] This subtle shift was a big deal in the politics of the empire.
+[25:18 --> 25:23] When Tiberius had absented himself to Capri, the politics of the time required him to
+[25:23 --> 25:26] rely on a man in Rome to run the government.
+[25:26 --> 25:31] It was understood that while the emperor may have left, Rome was still where the action
+[25:31 --> 25:32] was.
+[25:32 --> 25:39] By contrast, when Domitian absented himself to Gaul or to Illyricum or to Moesia, it was
+[25:39 --> 25:45] understood the power went with him.
+[25:45 --> 25:50] Next time, we'll get more into what Domitian did with all the power he was so jealously
+[25:50 --> 25:54] hoarding and why he was traveling the empire more than any emperor since Augustus.
+[25:54 --> 26:00] There will be no episode next week as it is Thanksgiving here in the United States, but
+[26:00 --> 26:05] we'll be back in two weeks, ready to dive headlong into Domitian's everlasting quest
+[26:05 --> 26:11] for military glory and his ever-annoying need to control every little detail of Roman life.

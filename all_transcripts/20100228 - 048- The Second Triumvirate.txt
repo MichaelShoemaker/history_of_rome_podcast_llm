@@ -1,0 +1,327 @@
+# 20100228 - 048- The Second Triumvirate
+# Detected language: en
+# Duration: 1462.57 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 48, The Second Triumvirate.
+[00:13 --> 00:18] On January 1st, 43 BC, the annual rollover of office holders took place in Rome.
+[00:18 --> 00:23] Praetors, adiles and quaestors stepped down from their position, and new men took their
+[00:23 --> 00:23] place.
+[00:24 --> 00:28] In keeping with the long-established custom, the men on their way out stepped laterally
+[00:28 --> 00:30] into prorogued offices in the provinces.
+[00:31 --> 00:34] Praetors became pro-praetors, consuls became pro-consuls.
+[00:35 --> 00:39] But what had in the past been a relatively boring reshuffling of the imperial bureaucracy
+[00:39 --> 00:42] was now a flashpoint for confrontation.
+[00:43 --> 00:47] Mark Antony, newly minted pro-consul, had been slated to take over Macedonia,
+[00:48 --> 00:51] but in the last days of his consulship, he decided that he didn't want Macedonia.
+[00:52 --> 00:56] He wanted the rich and strategically important province of Cisalpine Gaul.
+[00:56 --> 01:00] So he had the tribunes propose and ratify a change in assignments.
+[01:00 --> 01:05] Except that the term of the current governor, Decimus Brutus, had not yet expired, and
+[01:05 --> 01:07] he refused to recognize the new orders.
+[01:08 --> 01:13] This being a new age of Roman politics, an age defined by force rather than persuasion,
+[01:13 --> 01:17] Antony simply gathered an army and marched for the Po Valley to force Brutus out.
+[01:18 --> 01:22] Obviously there were special circumstances surrounding Antony's desire to take Cisalpine
+[01:22 --> 01:26] Gaul and dislodge Brutus in the process, namely that the latter had been a central
+[01:26 --> 01:29] figure in the liberator conspiracy to kill Julius Caesar.
+[01:30 --> 01:34] But it is nonetheless unsettling how easy it had become for legion to fight legion.
+[01:35 --> 01:39] A hundred years ago, two Roman armies lined up against one another would have been
+[01:39 --> 01:40] an unthinkable shame.
+[01:40 --> 01:43] Now it was as regular as clockwork.
+[01:45 --> 01:49] By the time January rolled around, Antony was in fact already in the Po Valley,
+[01:49 --> 01:52] with his three legions besieging Brutus in the town of Mutina.
+[01:52 --> 01:58] The new consuls for the year, Aeolus Hirtius and Gaius Vibius Pansa, had both been strong
+[01:58 --> 02:01] supporters of Caesar, and had fought alongside him during the civil wars.
+[02:01 --> 02:05] Indeed, their turn in the consulship had been arranged by the dictator prior to his
+[02:05 --> 02:06] death.
+[02:06 --> 02:10] But with Caesar dead, both men reverted back to moderate republicanism.
+[02:11 --> 02:15] For them, Caesar was a singular figure, and with him gone, it was time for the
+[02:15 --> 02:17] natural order of things to be restored.
+[02:17 --> 02:22] So, despite their long-time fellow traveling with Antony, neither of them had much stomach
+[02:22 --> 02:26] for his continuation of the extreme Caesarian agenda he was pursuing.
+[02:27 --> 02:31] When the Senate decided that Antony had gone too far in claiming Cisalpine golfer
+[02:31 --> 02:35] himself and declared him an enemy of the state, both consuls were ready to lead
+[02:35 --> 02:38] armies north and put down their erstwhile friend.
+[02:39 --> 02:42] Octavian welcomed the new year with relish.
+[02:42 --> 02:46] Thus far, in his brief and meteoric rise up the political ladder, he had not
+[02:46 --> 02:48] stepped foot on the ladder.
+[02:49 --> 02:50] His prominence was due entirely to his name.
+[02:51 --> 02:55] The armies he led and the support he enjoyed was all private, and he badly needed
+[02:55 --> 02:57] some official cover to make himself legitimate.
+[02:58 --> 03:02] But he was at this point not yet 20 years old, and barely qualified to be a
+[03:02 --> 03:04] military tribune, let alone the general of an army.
+[03:05 --> 03:08] But he was determined to not let a little thing like the rules hold him back,
+[03:09 --> 03:12] and he engineered a rather odd point of entry into the government, skipping the
+[03:13 --> 03:17] formal offices themselves and jumping directly to an appointment as procreator.
+[03:18 --> 03:22] No doubt the legions Octavian controlled played an important role in the Senate
+[03:22 --> 03:23] throwing out the book for the young man.
+[03:24 --> 03:28] He was asked to merge his legions with the consular armies headed to face Antony,
+[03:28 --> 03:32] and soon after taking office, he was on his way north to battle in defense of,
+[03:32 --> 03:33] get this, the Republic.
+[03:35 --> 03:38] Hirtius was already in the Po Valley when Octavian and the two defecting
+[03:38 --> 03:40] Macedonian legions arrived.
+[03:41 --> 03:45] Still years away from becoming Augustus, undisputed master of the Roman Empire,
+[03:46 --> 03:49] Octavian was immediately put in his place by Hirtius, who treated the junior officer
+[03:49 --> 03:51] like the junior officer he was.
+[03:52 --> 03:55] Hirtius took control of the Macedonian legions and made sure Octavian
+[03:55 --> 04:00] understood that whatever his name, a consul's word, was still the law in camp.
+[04:02 --> 04:04] Brutus was in dire straits and desperately needed relief,
+[04:04 --> 04:07] but Hirtius did not press Antony right away.
+[04:07 --> 04:11] He wanted to make sure that when he attacked, Antony would have no hope of victory.
+[04:12 --> 04:15] Julius Caesar may have been the luckiest general alive, but he was dead now,
+[04:16 --> 04:18] and overwhelming force might actually count for something again.
+[04:19 --> 04:23] So he waited while his colleague Panza finished raising three new legions.
+[04:24 --> 04:26] Antony would stand no chance against their combined armies.
+[04:27 --> 04:30] At the beginning of spring, Panza was ready and began to march north.
+[04:31 --> 04:34] Antony was fully aware that he would soon be outnumbered,
+[04:34 --> 04:38] so he broke off his focus on Brutus and headed down to ambush Panza
+[04:38 --> 04:40] before he could link up with Hirtius and Octavian.
+[04:42 --> 04:45] At the small village of Forum Galorum, Antony's veteran legions
+[04:45 --> 04:49] surprised the raw recruits led by Panza and crushed them with relative ease.
+[04:49 --> 04:51] Panza himself was injured in the fighting.
+[04:52 --> 04:56] The only drawback, though, to easy victory is that it breeds complacency,
+[04:56 --> 04:59] and while Antony's men strolled merrily back to camp,
+[04:59 --> 05:01] they were surprised by Hirtius's army,
+[05:01 --> 05:04] who would march south when the consul realized what Antony was up to.
+[05:05 --> 05:08] The only thing that saved Antony's legions was the onset of night,
+[05:08 --> 05:11] which forced an end to what was shaping up to be a slaughter.
+[05:11 --> 05:15] Missing all the fun was Octavian, who was apparently left behind to guard the camp,
+[05:16 --> 05:19] a fact that Antony would use to needle his rival for years.
+[05:19 --> 05:21] Remember Forum Galorum when you...
+[05:21 --> 05:23] Oh no, wait, you weren't there, were you?
+[05:24 --> 05:28] But six days later, Octavian would be present for the assault on Antony's camp.
+[05:29 --> 05:31] Hirtius may have lost the edge of overwhelming force,
+[05:31 --> 05:35] but Antony's men were in bad shape and looked ready for a finishing off.
+[05:36 --> 05:39] The consular army stormed Antony's camp and broke through the gates.
+[05:40 --> 05:43] Octavian, for the first time, found himself in the thick of battle.
+[05:44 --> 05:46] Legend has it that when Hirtius was killed near Antony's tent,
+[05:47 --> 05:50] that it was Octavian who dragged his body out of harm's way.
+[05:50 --> 05:54] Though a later, equally repeated rumor has Octavian secretly killing Hirtius
+[05:54 --> 05:57] in the den of battle so he could seize control of the army
+[05:57 --> 05:59] from a general who had disrespected him.
+[06:00 --> 06:02] Both stories are likely fabrications.
+[06:03 --> 06:07] Octavian's career will be filled with these kinds of contradictory myths and slanders.
+[06:07 --> 06:11] Put simply, though, we know that he was there, we know that he fought,
+[06:11 --> 06:14] and we know that in his first real battle he was on the winning side.
+[06:15 --> 06:18] Antony was forced to retreat and the siege of Brutus was lifted.
+[06:20 --> 06:24] Fueling the later slanderous rumor that Octavian somehow managed to murder a consul
+[06:24 --> 06:27] in broad daylight while surrounded by literally hundreds of men,
+[06:27 --> 06:32] the other consul, Pansa, died of his wounds a few days after the Battle of Mutina.
+[06:33 --> 06:36] Allegedly, he was poisoned by a Greek doctor on Octavian's orders.
+[06:37 --> 06:40] Why would Octavian secretly order the death of a consul?
+[06:40 --> 06:44] Because with Hirtius dead, Pansa was the only thing standing between Octavian
+[06:44 --> 06:46] and control of eight full legions.
+[06:48 --> 06:50] Whatever part Octavian did or did not play,
+[06:50 --> 06:55] the deaths of Hirtius and Pansa would be two of the more fateful deaths in Roman history.
+[06:55 --> 07:00] Because once control of the legions fell into his lap, Octavian never looked back.
+[07:02 --> 07:06] Brutus tried briefly to assert command in his role as governor of the province,
+[07:06 --> 07:08] but Octavian would have none of it.
+[07:08 --> 07:10] Brutus wasn't even allowed into camp.
+[07:10 --> 07:13] Lucky for him, he had been rescued by a man who probably wanted his head
+[07:13 --> 07:15] even more than the man he had been saved from.
+[07:17 --> 07:19] Brutus, though, was undaunted and led his legions through the Alps
+[07:19 --> 07:22] in pursuit of Antony, who was making for Gaul.
+[07:23 --> 07:25] Technically, he and Octavian were on the same side,
+[07:26 --> 07:30] but Octavian declined to move an inch and remained camped in Cisalpine Gaul,
+[07:30 --> 07:33] leaving Brutus hanging in the mountains alone and unsupported.
+[07:34 --> 07:38] Meanwhile, Antony arrived in Gaul and hooked up with the 11 legions
+[07:38 --> 07:40] stationed there under the command of Marcus Lepidus.
+[07:41 --> 07:45] Brutus had no hope of defeating Antony now, but when he turned around,
+[07:45 --> 07:48] he realized he was staring down the barrel of Octavian and his eight legions.
+[07:49 --> 07:53] Sensing disaster, his troops deserted, getting out of the mountains anyway they could.
+[07:54 --> 07:58] Brutus himself fell into the hands of a Gallic tribe looking to make nice with Antony,
+[07:59 --> 08:01] who received a head and a box a few days later.
+[08:03 --> 08:07] Back in Rome, the Republicans initially cheered the defeat of Antony,
+[08:07 --> 08:10] but the savvy could see that this was no victory at all.
+[08:11 --> 08:16] Caesar's son and Caesar's best friend now controlled between them some 20 legions,
+[08:16 --> 08:19] and unfortunately the interests of the two men were no longer at odds.
+[08:20 --> 08:25] In the east, Marcus Brutus and Cassius were raising armies to destroy the
+[08:25 --> 08:28] Caesarian menace before it strangled the Republic forever.
+[08:28 --> 08:33] Divided, it was possible Antony and Octavian might each be beaten by the liberator armies,
+[08:33 --> 08:36] but combined they would be unstoppable.
+[08:37 --> 08:40] So what at first looked like a victory for Republicans
+[08:40 --> 08:42] turned out to be another crucial step towards their demise.
+[08:45 --> 08:50] Octavian wasted no time after the death of the consuls to raise himself into their vacated seats.
+[08:51 --> 08:55] He sent a contingent of Centurions to the Senate demanding that they name him consul.
+[08:56 --> 09:00] The Senate, trying to maintain some hold on the situation, refused.
+[09:01 --> 09:05] Octavian was unperturbed by the rebuke though, and simply packed up his army and headed to Rome.
+[09:05 --> 09:07] He camped outside the walls and asked again.
+[09:08 --> 09:10] This time his request was granted.
+[09:11 --> 09:15] Satisfied, the newly minted consul Octavian headed back to Cisalpine Gaul
+[09:15 --> 09:18] to make the final arrangements for his anticipated meeting with Antony.
+[09:19 --> 09:24] All summer, envoys had crossed back and forth across the Alps to work out the details of the
+[09:24 --> 09:30] summit. Antony detested Octavian, and Octavian in turn despised Antony, but for now
+[09:30 --> 09:33] it was clear that it was in both their interests to join forces.
+[09:33 --> 09:37] The future? Well, we'll burn that bridge when we get to it.
+[09:39 --> 09:45] In October of 43 BC, with Lepidus acting as broker, Antony and Octavian met on a small island
+[09:45 --> 09:49] in the river Lavinius and for two straight days hashed out the fate of the Roman Empire.
+[09:51 --> 09:54] The upshot of the meeting was the creation of the innocuous sounding
+[09:54 --> 09:58] Commission of Three for the ordering of the state, which has become known to us though
+[09:58 --> 10:04] as the Second Triumvirate. The Triumvirate included Antony, Octavian, and Marcus Lepidus,
+[10:04 --> 10:08] whose inclusion seems to have been to act as a rubber stamp for Antony's decisions,
+[10:09 --> 10:12] but the old general was trusted by both men to be a silent partner.
+[10:13 --> 10:15] This was between Octavian and Antony.
+[10:16 --> 10:20] It was agreed that the first order of business would be crushing Brutus and Cassius,
+[10:21 --> 10:25] but though the two triumvirs led now a combined army of some hundred thousand troops,
+[10:25 --> 10:29] more than enough for any war with Brutus and Cassius, they were light on cash.
+[10:29 --> 10:35] No money for paychecks, no troops, no troops, no army, no army, no war.
+[10:36 --> 10:40] So the triumvirate decided to revive prescription, a practice Julius Caesar
+[10:40 --> 10:44] had steadfastly refused to engage in to raise the necessary funds.
+[10:45 --> 10:49] So where Caesar had played for greatness, eschewing prescriptions to demonstrate what a
+[10:49 --> 10:53] wonderful guy he was, Antony and Octavian played for keeps.
+[10:55 --> 10:57] The process would be the same as during the reign of Sulla.
+[10:58 --> 11:02] A list of 2,500 names would be drawn up, the names would be posted in the form,
+[11:02 --> 11:05] the property and lives of those named would be forfeit.
+[11:06 --> 11:10] The enemies of the Caesareans would be eliminated and the necessary funds for
+[11:10 --> 11:12] their campaigns against Brutus and Cassius would be secured.
+[11:13 --> 11:17] The coming terror would eradicate the last of the real defenders of the Republic.
+[11:18 --> 11:20] Defenders, for example, like Cicero.
+[11:21 --> 11:26] In the negotiations, Octavian was unable to persuade Antony to spare Cicero's life.
+[11:26 --> 11:30] For Antony, leaving the pompous old order alive was a deal breaker,
+[11:30 --> 11:32] and in the end, Octavian was forced to relent.
+[11:33 --> 11:38] A new order was coming and there was no place in it for eloquent defenders of Republican virtue.
+[11:39 --> 11:44] In December of 43 BC, soldiers caught up with Cicero and he stoically offered them his neck,
+[11:45 --> 11:48] asking only that they get it right the first time.
+[11:50 --> 11:54] Octavian, Antony and Lepidus now ruled the Roman Empire as a three-headed dictator.
+[11:55 --> 12:00] Unlike the previous triumvirate, this new incarnation was legally ratified by the
+[12:00 --> 12:04] assemblies for a term of five years. The word of the triumvirs was law.
+[12:06 --> 12:09] They posted the prescription list and let their bloody reign begin.
+[12:10 --> 12:15] Heads rolled, property was seized, men of high standing were reduced to hiding in attics and
+[12:16 --> 12:19] Antony and Octavian observed it all without compassion.
+[12:20 --> 12:23] It is said that Antony demanded to review every prescribed head himself,
+[12:23 --> 12:25] even if it interrupted dinner.
+[12:26 --> 12:32] The only problem with the plan, besides the gross inhumanity of it all, was that by flooding
+[12:32 --> 12:36] the market with the newly prescribed homes, the real estate market bottomed out and the
+[12:36 --> 12:39] triumvirs raised far less money than they originally anticipated.
+[12:40 --> 12:42] They were forced to post more names on the prescribed lists.
+[12:42 --> 12:47] When that didn't work, they were forced to outright steal from safe deposit boxes held
+[12:47 --> 12:51] in the temple of the Vestas and when that wasn't enough, they did the really unthinkable.
+[12:52 --> 12:56] They instituted a tax on the people of Italy who had, from time immemorial,
+[12:57 --> 12:58] been exempt from taxation.
+[12:59 --> 13:02] Even during the days of Rome's initial rise to power over the peninsula,
+[13:03 --> 13:06] conquered tribes were usually asked for soldiers rather than cash as the price of
+[13:06 --> 13:11] their servitude. The new tax, in fact, would prove to be far more unpopular than
+[13:11 --> 13:16] prescriptions. But the triumvirate, unpopular as they were making themselves,
+[13:16 --> 13:18] finally scraped together enough to fund their war.
+[13:19 --> 13:22] It was time to head east and deal with the murderers of Caesar.
+[13:24 --> 13:28] Leaving Lepidus in control of Italy, Antony and Octavian ferried 19 legions
+[13:28 --> 13:30] across the Adriatic, landing near Dyrrachium.
+[13:31 --> 13:36] It was not an easy crossing. Despite controlling all the lands of the western empire,
+[13:36 --> 13:40] the triumvirate had virtually no presence on the seas, a fact that would come back
+[13:40 --> 13:44] haunt them time and again. But they managed to get across before a Republican naval
+[13:44 --> 13:49] blockade could be firmly established. Once they disembarked, Antony sent eight
+[13:49 --> 13:53] legions ahead on a scouting mission. The triumvirs knew that Brutus and Cassius
+[13:53 --> 13:57] were out there somewhere, but they didn't know where exactly.
+[13:59 --> 14:03] Where exactly turned out to be the town of Philippi in Thrace, about halfway down
+[14:03 --> 14:08] the road to the Hellespont. Brutus and Cassius had set up strong defensive positions,
+[14:08 --> 14:13] building camps atop two hills and then building a north-south wall between their camps.
+[14:14 --> 14:19] Further north of their position was steep rocky hills and further south was marshlands.
+[14:20 --> 14:25] If the triumvirs marching east were going to attack, it was going to be head on.
+[14:26 --> 14:30] But battle is not what Cassius, the senior general and tactical mastermind of the liberators,
+[14:30 --> 14:36] was after. He fully expected to sit tight and wait for a naval blockade to take its toll.
+[14:37 --> 14:42] Macedonia is notoriously hard country and could in no way support the 100,000 some men
+[14:42 --> 14:48] of the triumvir army for long. As Brutus and Cassius waited for Antony and Octavian to arrive,
+[14:48 --> 14:53] 150 ships filled the Adriatic, cutting them off from their supply line in Italy.
+[14:54 --> 14:58] All Brutus and Cassius had to do was repel whatever assault the triumvirists attempted
+[14:58 --> 15:02] and then wait for them to starve. But unfortunately for the liberators,
+[15:02 --> 15:06] while the blockade worked like a charm, the whole repelling whatever assault the
+[15:06 --> 15:10] triumvirists attempted thing didn't work out exactly as planned.
+[15:12 --> 15:16] When the liberator position was discovered, Antony immediately led the triumvir legions to
+[15:16 --> 15:21] confront Brutus and Cassius. Octavian, however, once again debilitated by sickness,
+[15:21 --> 15:27] was forced to remain behind in Derechium, adding fuel to the persistent rumor of cowardice.
+[15:28 --> 15:32] Antony arrived outside the liberator camps in late September 42 B.C.
+[15:32 --> 15:37] and quickly assessed the situation. The north side was indeed no good for an approach
+[15:37 --> 15:43] and a frontal assault would be suicidal. The southern swamp, though, ugly or rude as it was,
+[15:43 --> 15:48] showed some promise. Cassius, in the southernmost camp, obviously did not believe
+[15:48 --> 15:53] he had to worry about an approach through the bar and had set up no defensive line.
+[15:53 --> 15:59] So, taking a page from the playbook of Hannibal, Antony decided his best bet was to lead a force
+[15:59 --> 16:04] through the muck and appear suddenly where no one expected him to be. With luck, he would
+[16:04 --> 16:08] be able to surprise Cassius and get at the underbelly of the liberator army before they knew
+[16:08 --> 16:14] what hit him. Keeping the bulk of his army skirmishing around as a distraction, Antony
+[16:14 --> 16:19] sent his engineers into the swamp and had them begin constructing a causeway. A few days
+[16:19 --> 16:25] into the work, Octavian arrived from Derechium. He was still in bad shape, but had no intention
+[16:25 --> 16:30] of letting Antony hog all the glory. Plus, more importantly, he could not allow Antony to seize
+[16:30 --> 16:36] the opportunity a great victory would provide to turn on his young colleague. Overall command
+[16:36 --> 16:41] of the operation was firmly in Antony's hands, but Octavian planned to be standing right next
+[16:41 --> 16:47] to him the whole time. They would rise or fall together. The engineers worked for days in the
+[16:47 --> 16:53] swamp, slowly cutting and building a plank road through the muck. On October the 3rd, though,
+[16:53 --> 16:57] just as they reached the other side, their cover was blown. Sentries finally noticed
+[16:57 --> 17:03] something was going on in the impassable swamp and alerted Cassius. The liberator general
+[17:03 --> 17:08] acted fast, ordering that fortifications be built into the swamp by secting the causeway
+[17:08 --> 17:15] and trapping the lead insertion force in enemy territory. Recognizing that the jig was up,
+[17:15 --> 17:20] Antony ordered a full-on attack, targeting the place where Cassius's main defensive wall met
+[17:20 --> 17:26] the swamp. Taken off guard by the sudden frontal assault, Cassius's men were unable to
+[17:26 --> 17:32] prevent Antony from breaking through. At the same time, Brutus saw that the camps of Octavian
+[17:32 --> 17:37] and Antony now were totally unprotected. Rather than send his men to reinforce Cassius,
+[17:37 --> 17:42] Brutus ordered them to seize the triumphal camps. At worst, any success Antony achieved
+[17:42 --> 17:48] would be offset by the loss of his bases, and at best he would be beaten and then have nowhere
+[17:48 --> 17:54] to retreat to. Octavian was supposed to be leading the camp forces, but when Brutus's
+[17:54 --> 17:59] legions stormed the wall, he was nowhere to be found. There is no accounting for him at this
+[17:59 --> 18:04] point, though it was rumored that recognizing Brutus would easily overrun the reserve forces,
+[18:05 --> 18:09] that Octavian hid out in the swamp until the battle was over. Antony, on the other
+[18:09 --> 18:15] hand, was in the middle of intense fighting near Cassius's camp. Eventually he was able to storm
+[18:15 --> 18:20] the walls and take the base, which left the battle at a peculiar draw. Antony in control of
+[18:20 --> 18:28] Cassius's camp, Brutus in control of Antony's. But for Cassius, it was all a loss. He had
+[18:28 --> 18:32] retreated with a small force to another nearby hill and watched the battle wind down.
+[18:33 --> 18:38] There are two accounts of what happened next. In the first, dust from the battle so obscured
+[18:38 --> 18:43] everyone's vision that Cassius did not realize Brutus had seized the triumph for camps,
+[18:43 --> 18:48] knowing only that his own army had been defeated. Assuming the worst, he ordered a slave
+[18:48 --> 18:54] to take his life, knowing that he was dead one way or the other. In the other account,
+[18:54 --> 18:58] Cassius had gotten word of Brutus's victory, but was ashamed that Brutus,
+[18:58 --> 19:04] a lesser general, had succeeded while he had failed, and in his shame he took his own life.
+[19:05 --> 19:09] Whatever the reason, in the aftermath of the battle, Cassius's beheaded body was discovered.
+[19:10 --> 19:13] When news reached Brutus, he mourned for his brother-in-law.
+[19:14 --> 19:17] He was, said Brutus, the last of the Romans.
+[19:19 --> 19:23] Brutus regrouped and re-fortified his position in the aftermath of the first battle,
+[19:24 --> 19:28] having looted anything serviceable from the Triumvir camps. But with Cassius,
+[19:28 --> 19:32] the far more respected commander gone, discipline began to break down in the
+[19:32 --> 19:38] army. Brutus attempted to revert to the original strategy of holding out long enough to let the
+[19:38 --> 19:44] naval blockade take its toll, but he was pressed by his officers to attack. They may have listened
+[19:44 --> 19:48] to Cassius, but they were not convinced that Brutus wasn't simply afraid of another battle.
+[19:49 --> 19:53] Like Pompey before him, Brutus was goaded into battle against his better judgment.
+[19:54 --> 20:00] On October 23, the final confrontation came. No trick maneuvers or fancy tactics were
+[20:00 --> 20:05] employed. The two armies charged at each other and fought in close quarters for hours,
+[20:06 --> 20:11] until finally the Triumvirs pushed Brutus back. The Liberator army broke down and scattered.
+[20:12 --> 20:17] Brutus managed to keep four undersized legions in coherent enough order to lead them up a
+[20:17 --> 20:22] hill where he could plan his next move, but assessing the damage, it was obvious what his
+[20:22 --> 20:27] next move would be. His troops were surrounded and already talking openly of surrender,
+[20:28 --> 20:32] so Brutus mingled with his men, bidding them goodbye and embracing his officers.
+[20:33 --> 20:37] He then walked away from them all, picked out a nice spot, and fell on his sword.
+[20:40 --> 20:44] The battles at Philippi not only marked the effective death of the Republic,
+[20:45 --> 20:48] it also marked the pinnacle of Mark Antony's career.
+[20:49 --> 20:54] Though Octavian was, well, present, sort of, there was no doubt who had earned the
+[20:54 --> 20:59] victory. At this moment, Mark Antony was the most powerful man in Rome.
+[21:00 --> 21:03] His ambitions, of course, reached for even greater heights, but he would never reach
+[21:03 --> 21:09] those summits. Philippi would be his crowning glory. Though no one would have believed it at
+[21:09 --> 21:13] the time, from here on out, Antony's career will slowly but surely unravel.
+[21:14 --> 21:19] Finally, outmaneuvered politically and defeated militarily by Octavian, Antony would
+[21:19 --> 21:24] himself commit suicide. But, ignorant of his fate, Antony reveled in his victory.
+[21:26 --> 21:30] Brutus' body was brought to him, and knowing that there was much to be said for graceful
+[21:30 --> 21:35] victory, he honored his old comrade, draping the body with his general's cloak.
+[21:36 --> 21:40] But when Antony moved on to other concerns, the corpse passed into the hands of Octavian,
+[21:41 --> 21:46] who allowed Brutus' memory no further dignity. He ordered that the head be chopped off,
+[21:46 --> 21:50] sent back to Rome, and thrown at the foot of a statue to Julius Caesar,
+[21:51 --> 21:54] thus always to those who stand in the way of tyrants.
+[21:56 --> 22:02] But of course, as with the last round of civil wars, the end is not always the end.
+[22:02 --> 22:05] Though Philippi was effectively the end of resistance to Antony and Octavian,
+[22:06 --> 22:11] in practice, there were still battles to be fought. Sextus Pompey, the son of Pompey
+[22:11 --> 22:16] Great, had re-emerged following his defeat in Spain and was now in control of the Liberator
+[22:16 --> 22:22] Navy. Depending on who you were talking to, Sextus was either the noble admiral of the
+[22:22 --> 22:27] Republican fleet or a dread pirate. But everyone agreed that he was a massive thorn
+[22:27 --> 22:33] in the side of the triumvirs. Whatever climax had allegedly played out at Philippi,
+[22:33 --> 22:37] Sextus was not going to be giving up anytime soon. If the triumvirs couldn't be defeated
+[22:37 --> 22:42] on the battlefield, Sextus decided the next best thing would be to literally starve them
+[22:42 --> 22:47] of support. Let's see the triumvirs try to control a capital that is about to have
+[22:47 --> 22:52] its food supply cut off completely. Hungry citizens are never complacent citizens.
+[22:54 --> 22:59] Breaking Sextus's naval blockade of Italy would be the overarching concern of Octavian
+[22:59 --> 23:05] for years as he tried to solidify his hold on the Western Empire. Antony, as the senior
+[23:05 --> 23:09] triumvir, remained in the East where he planned to follow up his victory at Philippi
+[23:09 --> 23:14] with an even greater victory over the Parthian Empire. Once the Parthians were defeated,
+[23:14 --> 23:18] he would be in a strong enough position to break the triumvirate and knock troublesome
+[23:18 --> 23:22] Octavian out of the picture for good. That was the plan, anyway.
+[23:25 --> 23:30] Next week there will be no episode. I know I just skipped a week like a month ago,
+[23:30 --> 23:34] but I'm going to have to do it again. The soon to be Mrs. History of Rome is
+[23:34 --> 23:38] graduating on Friday and we are hosting out-of-town dignitaries throughout the week,
+[23:38 --> 23:42] so I'm going to be a good host and not hole up with my laptop. I hope you understand.
+[23:43 --> 23:47] But we will return in two weeks and trace Octavian's attempt to maintain order in
+[23:47 --> 23:53] the West and Antony's disastrous attempts to conquer the East. Finally, I would like to
+[23:53 --> 23:58] wish a happy birthday to faithful listener George in Los Angeles. I hope you like the book.

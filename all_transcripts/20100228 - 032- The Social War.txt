@@ -1,0 +1,156 @@
+# 20100228 - 032- The Social War
+# Detected language: en
+# Duration: 868.08 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to The History of Rome, episode 32, The Social War.
+[00:12 --> 00:19] After his final consulship in 100 BC, Gaius Marius returned to a self-imposed exile,
+[00:19 --> 00:23] and it appeared that the great general had left the public stage for good.
+[00:23 --> 00:31] Ten years of relative peace followed, until, in 91 BC, Rome was once again threatened by a hostile enemy,
+[00:31 --> 00:36] triggering Marius' return to the familiar territory of war and politics.
+[00:37 --> 00:40] This time, however, he would not be fighting Numidians or Gauls.
+[00:41 --> 00:46] Rather, he would be fighting the very men who helped him to defeat the Numidians and Gauls.
+[00:46 --> 00:47] Some of them, anyway.
+[00:48 --> 00:53] The Roman-led Italian confederacy, which had endured now for hundreds of years,
+[00:53 --> 00:57] and had stood firm even against the clever might of Hannibal Baracca,
+[00:57 --> 01:02] whose entire strategy hinged on bringing about its dissolution, was finally breaking apart.
+[01:02 --> 01:07] The second-class status afforded the Italian allies finally became intolerable,
+[01:07 --> 01:13] and rather than making obviously just concessions, the tone-deaf Roman Senate took a hard line stance,
+[01:14 --> 01:17] initiating what was to become known as the Social War.
+[01:17 --> 01:22] When a collection of Italian allies would break away and form an independent state.
+[01:23 --> 01:27] After two years, the Italians would finally be granted their simple request to be treated as equals.
+[01:28 --> 01:30] But, of course, those were a bloody two years.
+[01:31 --> 01:34] The war served no one's interests and should have never started.
+[01:35 --> 01:40] Just another example of unnecessary carnage brought about by short-sighted pigheadedness.
+[01:42 --> 01:44] Trouble had been brewing for years.
+[01:44 --> 01:49] The fight for full Italian citizenship had picked up momentum during the tribunates of the Grocai,
+[01:50 --> 01:53] but the Senate had always managed to block the extension of suffrage,
+[01:53 --> 01:59] more concerned with the immediate political expediency of denying the Grocai and their allies a victory,
+[01:59 --> 02:02] than actually addressing whether or not the policy was right or wrong.
+[02:03 --> 02:08] In 91 BC, the flint was sparked again by a tribune named Marcus Drusus.
+[02:08 --> 02:13] This time, the kindling lit and pretty soon a full-scale bonfire was raging.
+[02:15 --> 02:22] In the past, the Confederate arrangement between Rome and the allied Italian cities had served everyone well.
+[02:23 --> 02:29] The Italians were nominally independent, but were required to provide troops to serve in the legions if Rome required it.
+[02:30 --> 02:35] In return for their troop levies, the Italians had always shared generously in the spoils of war,
+[02:35 --> 02:38] and found their formal taxes kept to a bare minimum.
+[02:38 --> 02:44] But in recent decades, while their commitment increased, by the turn of the 1st century BC,
+[02:44 --> 02:48] fully 65% of the raid's legions were composed of non-Roman Italians,
+[02:49 --> 02:52] war booty was increasingly held by the Roman leadership.
+[02:53 --> 02:57] This began to irk the Italians, but they had no official way to address the situation,
+[02:58 --> 03:03] and had no say in the election of the consuls who had now grown accustomed to giving their allies the shaft.
+[03:04 --> 03:11] Their attitude grew steadily worse after Marius eliminated the distinction between Roman and non-Roman legions.
+[03:11 --> 03:17] Indeed, Marius famously stated that in the din of battle, he could not tell Roman and ally apart.
+[03:18 --> 03:22] So here they were, literally fighting side by side with the Romans,
+[03:22 --> 03:25] but taking home an increasingly reduced share of the profits.
+[03:26 --> 03:30] Many assumed after Marius' reform that citizenship would soon follow,
+[03:30 --> 03:35] leaving them bitterly disappointed when the Senate refused to take up the issue.
+[03:36 --> 03:42] Finally, in 91, a tribune named Marcus Livius Drusus introduced legislation aimed at providing
+[03:42 --> 03:49] full equality to the Italians. Oddly enough, Drusus was no radical populare. Indeed,
+[03:49 --> 03:54] his legislation was aimed at diminishing the ability of rabble-rousing tribunes to sway the
+[03:54 --> 03:59] hordes of Rome against the Senate, who Drusus saw as the true defenders of Republican virtue.
+[03:59 --> 04:04] By introducing more level-headed middle-class Italians into the electorate,
+[04:04 --> 04:09] Drusus hoped to shift power away from the populist demagogues who had only the narrow
+[04:09 --> 04:14] interests of their constituents at heart. The Senate didn't pick up on the vibe Drusus was
+[04:14 --> 04:18] laying down, however, and immediately opposed the idea. They were confident in their hold
+[04:18 --> 04:24] on power and didn't want to introduce an unstable element into the equation. Besides,
+[04:24 --> 04:27] they might start peeling off some of those riches the senators had been hoarding for
+[04:27 --> 04:34] themselves. So, oblivious to their own long-term self-interest, a cabal of patricians conspired
+[04:34 --> 04:39] to put a stop to Drusus. First they killed his legislation, and when that didn't seem to
+[04:39 --> 04:44] work, they simply killed Drusus. For the Italians watching from the sidelines,
+[04:45 --> 04:49] the assassination of Drusus was the final straw. They really thought that this time
+[04:49 --> 04:54] around the Senate would listen and make them full equals. The dead tribune's body, however,
+[04:54 --> 04:59] told them everything they needed to know. The time for drastic action had arrived.
+[05:01 --> 05:06] One by one, Italian cities began to openly declare that they no longer bore any allegiance
+[05:06 --> 05:12] to Rome, and henceforth would be completely free and independent. At the vanguard of this
+[05:12 --> 05:17] movement were the Samnites, one of Rome's oldest foes who had never fully gotten over
+[05:17 --> 05:23] their final defeat some 200 years earlier. In Rome, the news was greeted with furious
+[05:23 --> 05:28] disbelief. To them, the issue of who ruled Italy had been solved at the close of the Samnite
+[05:28 --> 05:34] Wars. But the disbelief did not delay their actions, and legions were immediately raised
+[05:34 --> 05:39] to put the upstarts back in their place. Across Italy, though, town after town joined
+[05:39 --> 05:44] with the anti-Roman confederacy. The only region to remain steadfastly in the Roman camp
+[05:44 --> 05:49] were the Latins. Everyone else, it seemed, was going to take their shot at independence.
+[05:50 --> 05:53] It did not, however, turn out to be a very good shot.
+[05:55 --> 06:00] In the city of Cornfinium, which lay across the Apennines due east of Rome, representatives
+[06:00 --> 06:05] of the various Italian cities gathered to formalize their alliance. They renamed
+[06:05 --> 06:10] Cornfinium Italica and declared that it was the seat of a new government based on the
+[06:10 --> 06:15] Roman model, complete with its own senate and assemblies, but completely free of Roman rule.
+[06:16 --> 06:20] The immediate business of the new Italian government was the very war their existence
+[06:20 --> 06:25] had sparked. The Romans were not going to take this rebellion with grace and good humor,
+[06:25 --> 06:29] so preparations had to be made to withstand the inevitable onslaught.
+[06:31 --> 06:36] The Romans, quick with the rod, sent their consular armies out in opposite directions
+[06:36 --> 06:43] in 90 BC, one north and one south, to put the revolt down. To the north went the consul
+[06:43 --> 06:49] Publius Retilius, who coaxed out of retirement his famous relative Gaius Marius to act as a
+[06:49 --> 06:54] military advisor. It didn't do much good, though, as Retilius quickly led his army
+[06:54 --> 07:00] to a series of blundering, mistake-prone defeats. Finally, the consul made his one
+[07:00 --> 07:06] positive contribution to the war effort by getting himself killed. After the consul's death,
+[07:06 --> 07:11] Marius stepped into the leadership vacuum and quickly had the northern Italians on the run.
+[07:11 --> 07:17] With the situation in the north for the most part well in hand, the focus of the Romans turned
+[07:17 --> 07:22] south, where they faced the horrible deja vu of crossing swords with the dreaded Samnites.
+[07:24 --> 07:28] Lucius Julius Caesar, the consul leading the Romans in the south and the elder
+[07:28 --> 07:34] relative of a ten-year-old boy named Gaius, found the Samnites no less fierce an opponent
+[07:34 --> 07:39] than when last they met in battle. Caesar, along with his fellow commander Lucius Cornelius
+[07:40 --> 07:46] watched in vain as the Samnites sacked a number of Roman towns, but they were finally able to
+[07:46 --> 07:51] halt the advance and keep the Samnites bottled up while Caesar returned to Rome to oversee the
+[07:51 --> 07:58] consular elections. But before he left office, Caesar laid the political foundation of the war's
+[07:58 --> 08:04] end. The senate, understanding now that citizenship was inevitable, passed the lex
+[08:04 --> 08:09] Julia, granting citizenship to those Italian cities who had not joined the rebellion and
+[08:09 --> 08:15] offering it to any Italian currently in revolt who laid down his arms. The vast majority of
+[08:15 --> 08:20] Italians to whom independence had been an unwelcome state anyway jumped at the chance,
+[08:21 --> 08:25] but the Samnites and a collection of tribes in the north continued to hold out.
+[08:27 --> 08:32] In 89 BC, Sulla was given full command of the southern troops and showed himself
+[08:32 --> 08:38] to be a brilliant tactician and leader of men. After saving a besieged legion at the
+[08:38 --> 08:42] Sulla was awarded the grass crown by the grateful soldiers whose lives he had saved.
+[08:43 --> 08:49] His fame was growing and to the people of Rome Sulla emerged as the clear hero of the social
+[08:49 --> 08:55] war. This did not sit well with Marius, who had been maneuvered out of his command in the north
+[08:55 --> 09:01] when the senate, afraid of the old consul returning to the political arena, gave the
+[09:01 --> 09:05] north over to Capio, the son of the consul who had left Malleus out to dry during the
+[09:05 --> 09:12] Gauls. But when Capio fell in battle, Marius was sure he was destined to return to Rome the
+[09:12 --> 09:18] triumphant hero. But the senate again thwarted him and sent the consul Pompey Strabo, the
+[09:18 --> 09:24] father of Pompey the Great, north to take over. There was little Marius could do and he was
+[09:24 --> 09:28] forced to play a subordinate role as Pompey laid a brutal siege to the town of Ascalum,
+[09:29 --> 09:34] which was the last city in the north holding out. Once Ascalum fell, the back of the
+[09:34 --> 09:39] resistance had been broken and the fight went out of the Italians. By this time most of them
+[09:39 --> 09:44] had already given up anyway, content with the fact that they had achieved exactly what they
+[09:44 --> 09:49] wanted and would soon be full equals in a united Italy. Sulla wrapped up the last
+[09:49 --> 09:56] pockets of resistance in the south and the brief social war was over. As a footnote,
+[09:56 --> 10:00] I should mention that during these years a young noble named Cicero was punching the clock
+[10:00 --> 10:06] his brief military career in order to qualify for the political career he really wanted,
+[10:06 --> 10:12] fighting both under Pompey Strabo and Sulla. Cicero had no taste at all for battle and never
+[10:12 --> 10:19] made any secret that he disliked war. In later life he was given a statue of Mars by a friend
+[10:19 --> 10:24] to add to his growing collection and Cicero wrote in reply, why send me a statue of Mars,
+[10:24 --> 10:31] you know I'm a pacifist. But from 90 to 88 BC, young Cicero did what he had to do and slogged
+[10:31 --> 10:37] around Samnium, knowing that no man in Rome could hope to lead without a few war stories
+[10:37 --> 10:43] to make him credible. Another young noble who cut his teeth during the social war
+[10:43 --> 10:54] was Neus Pompeius. Those attitude towards battle was much more in keeping with the
+[10:54 --> 11:00] to serve with his father in the north and was presumably present during the siege of Ascalum.
+[11:01 --> 11:06] The young Pompey, if Plutarch is to be believed, already had an air of greatness
+[11:06 --> 11:10] surrounding him and his fellow troops made comparisons to young Alexander the Great
+[11:10 --> 11:18] and Scipio Africanus. Pompey and Cicero had little in common personally but in 40 years
+[11:18 --> 11:23] the two men, all grown up and having reached the pinnacle of the political ladder,
+[11:23 --> 11:27] would find themselves on the same side of a bitter civil war against a man who at the time
+[11:27 --> 11:33] of the social war was only ten. I often think that this was about the only time Pompey and
+[11:33 --> 11:39] Cicero would have proved a match for Julius Caesar who in his good time would both outfight
+[11:39 --> 11:44] Pompey, Rome's greatest general, and out politic Cicero, Rome's greatest politician.
+[11:45 --> 11:50] But how were they supposed to know that? By the time Sulla remarked that in the teenage
+[11:50 --> 11:56] Caesar he saw many a Marius it was probably too late. Remember though that sometimes
+[11:56 --> 12:00] the best way to win is to make sure that your opponent is still a child.
+[12:03 --> 12:08] The social war was paradoxically both a war of unification and the last time for 70 years
+[12:08 --> 12:15] the Romans themselves were truly unified. In 88 BC, just as the Italian allies were
+[12:15 --> 12:20] officially enrolled as full Roman citizens, Sulla was elected to his first consulship.
+[12:21 --> 12:27] In itself it seemed a natural and innocuous choice. He was after all the hero of the most
+[12:27 --> 12:34] recent war so who better to lead Rome? Besides in the east Mithridates, the king of Pontus,
+[12:34 --> 12:38] was hatching the first of his seemingly endless merry-go-rounds with the Roman legions.
+[12:39 --> 12:44] Who better then to march out and face this new threat in the east than the great Sulla?
+[12:45 --> 12:52] Well according to the aging Marius, he was. And the old general became convinced that it was his
+[12:52 --> 12:58] destiny to lead the legions in the east. Unfortunately he couldn't convince anyone else
+[12:58 --> 13:03] to back him and why should they? Sure he had been great in his prime but it was a different
+[13:03 --> 13:09] age and it was becoming clear that Marius was borderline senile and clearly unable to wrap
+[13:09 --> 13:14] his head around the fact that the world was moving on without him. Sulla was young,
+[13:14 --> 13:19] dynamic, and clearly represented the future of Rome so he was unanimously chosen to head up the
+[13:19 --> 13:26] armies headed east. Marius, bitter in defeat, decided that rather than go out quietly he
+[13:26 --> 13:30] would order his hardcore partisans to do everything in their power to reverse the
+[13:30 --> 13:36] decision and place Marius himself back in charge. Sulla was forced to flee the city
+[13:36 --> 13:41] and made his way to the encamped legions most of whom were loyal veterans of the social
+[13:41 --> 13:48] power. But though he briefly held on to power, Marius's desperate selfish grab triggered a wholly
+[13:48 --> 13:54] unprecedented response from Sulla who did not take his eviction well. Pretty soon word reached
+[13:54 --> 14:11] Marius and his partisans that the aggrieved consul was on his way back at the head of a

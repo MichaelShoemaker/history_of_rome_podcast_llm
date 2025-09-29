@@ -1,0 +1,377 @@
+# 20100225 - 010_ Barbarians at the Gates
+# Detected language: en
+# Duration: 950.10 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:06] Hello, and welcome to the History of Rome.
+[00:08 --> 00:10] I would like to start this week with a correction.
+[00:11 --> 00:15] In the episode Decades of Bloom, I told the story of a wealthy grain merchant who attempted
+[00:15 --> 00:18] to usurp republican control and install himself as king.
+[00:19 --> 00:24] The grain merchant in question was not named Manlius, as I mistakenly said, but rather
+[00:24 --> 00:24] Malleus.
+[00:25 --> 00:29] We are about to meet a patrician named Manlius, who will soon find himself embroiled
+[00:29 --> 00:34] in a conspiracy to overthrow the government, but he bears no relation to the Malleus who
+[00:34 --> 00:38] tried to use a grain famine to his personal advantage in 439 BC.
+[00:38 --> 00:39] I regret the error.
+[00:40 --> 00:43] I would also like to say that those of you who are noticing an improvement in
+[00:43 --> 00:45] audio quality are not hallucinating.
+[00:46 --> 00:48] I have recently upgraded my recording equipment.
+[00:48 --> 00:53] My only concern about this switch is that my previous efforts will now seem poor cousins
+[00:53 --> 00:54] in comparison to these new episodes.
+[00:55 --> 00:57] Please do not hold it against those episodes.
+[00:57 --> 00:58] It is not their fault.
+[00:58 --> 01:01] They were merely the victims of inferior equipment.
+[01:02 --> 01:06] The Romans were riding high after their decisive triumph over Vier.
+[01:07 --> 01:11] The defeat of their long-time Etruscan rival had left the Romans an economic powerhouse.
+[01:12 --> 01:16] They now controlled the lands north of the Tiber and began resettlement almost
+[01:16 --> 01:16] immediately.
+[01:17 --> 01:21] The crops from the rich Etruscan soil promised an end to the cycle of grain
+[01:21 --> 01:24] famines that had plagued Rome for the last 50 years.
+[01:24 --> 01:30] They also became the hub of commerce in central Italy and took sole possession of the all-important
+[01:30 --> 01:32] salt trade, exponentially increasing Roman wealth.
+[01:34 --> 01:37] Things were looking good for the Romans, but fate was about to deal them a cruel
+[01:37 --> 01:38] blow.
+[01:38 --> 01:43] In an instant they would crash down from the highest high to the lowest low and
+[01:43 --> 01:48] find themselves wandering aimlessly amidst the burned out rubble of their city, wondering
+[01:48 --> 01:51] how the gods could have forsaken them so quickly and so completely.
+[01:52 --> 01:56] The barbarian sack of Rome would be one of the most traumatizing events in Roman history
+[01:56 --> 02:01] and leave the Romans in fearful awe of the Gauls until Julius Caesar finally exercised
+[02:01 --> 02:05] their psychological demons 350 years later.
+[02:06 --> 02:10] Rome would survive, but just barely and not without lasting damage.
+[02:11 --> 02:15] Now I say that the Gauls sacked Rome, but that is too broad a description.
+[02:16 --> 02:20] The label Gaul was a catch-all used by the Romans to describe numerous independent
+[02:20 --> 02:22] tribes who lived in and around the Alps.
+[02:23 --> 02:28] There was no sense of union between the Gallic tribes themselves apart from occasional alliances
+[02:29 --> 02:32] and for the most part they fought as much amongst themselves as they did against
+[02:32 --> 02:33] any foreign race.
+[02:35 --> 02:39] The particular tribe that sacked Rome was called the Senons and they were led by
+[02:39 --> 02:41] a strong warrior chieftain named Brennus.
+[02:41 --> 02:45] They had come over the Alps into the Po Valley in the previous century and settled
+[02:45 --> 02:47] along the Adriatic coast.
+[02:48 --> 02:51] This brought them into conflict with the Etruscans who had previously controlled the
+[02:51 --> 02:55] land and it was this conflict that brought the Senons into conflict with Rome.
+[02:57 --> 03:01] There is an official legend that explains Brennus' decision to leave the Adriatic
+[03:01 --> 03:06] and move south to attack Rome as well as a modern interpretation that puts the
+[03:06 --> 03:10] attack in a wider geopolitical context of Italian Realpolitik.
+[03:11 --> 03:15] The official legend is that Brennus attacked the Etruscan city of Colusium who sent
+[03:15 --> 03:18] envoys to Rome desperately seeking assistance.
+[03:18 --> 03:22] The Romans were no great friend to Colusium who had backed the hated King Tarquin
+[03:22 --> 03:26] in his bid to regain the throne a hundred years before, but the Romans knew
+[03:26 --> 03:30] the Gauls were an enemy to be wary of and so sent envoys to Colusium to take
+[03:30 --> 03:34] stock of the situation and report back how deeply Rome should involve itself.
+[03:36 --> 03:39] When they arrived, however, the Roman envoys immediately recognized the horde
+[03:39 --> 03:43] of barbarians as a real threat to all Italy and agreed to help Colusium
+[03:43 --> 03:44] right then and there.
+[03:45 --> 03:49] These envoys wound up leading Colusium's army against the Gauls and in the
+[03:49 --> 03:51] fighting a Gallic chieftain was killed.
+[03:52 --> 03:53] Brennus took offense to this.
+[03:54 --> 03:57] He felt that the diplomatic nature of their mission precluded the
+[03:57 --> 03:58] envoys from taking part in hostilities.
+[03:59 --> 04:03] He sent his own envoys to Rome to demand retribution, but the Romans,
+[04:03 --> 04:07] in their infinite wisdom, decided that rather than handing the envoys
+[04:07 --> 04:10] over to Brennus, would elect them military tribunes for that year instead.
+[04:11 --> 04:15] At this further insult, Brennus ordered his people to march south where he
+[04:15 --> 04:18] would teach the ill-mannered Romans a lesson.
+[04:19 --> 04:22] Modern historians doubt that such a minor incident would lead Brennus to
+[04:22 --> 04:25] suddenly move his tribe south and attack one of the most heavily
+[04:25 --> 04:27] fortified cities in Italy.
+[04:27 --> 04:31] They postulate, and there is some evidence to back it up, that
+[04:31 --> 04:34] Brennus had come to an agreement with Dionysius of Syracuse to tie
+[04:34 --> 04:38] the Romans up while Syracuse made their move to dominate Sicily.
+[04:38 --> 04:42] The Romans had historically been the allies of a Sicilian city called
+[04:42 --> 04:46] Massana, and Dionysius would have been eager to prevent Rome from
+[04:46 --> 04:49] sending troops in support of a city that he was trying to capture.
+[04:50 --> 04:53] Thus an arrangement was made between Syracuse and the Gauls to attack
+[04:53 --> 04:56] Rome and keep them occupied while Dionysius made his move.
+[04:57 --> 05:00] This seems plausible, but we will never know for sure exactly why
+[05:00 --> 05:03] Brennus suddenly decided to march on Rome.
+[05:04 --> 05:07] We are not only unsure of why the Gauls attacked, but also when the
+[05:07 --> 05:09] attack actually took place.
+[05:10 --> 05:14] The confusion, again, is caused by the scarcity of accurate records
+[05:14 --> 05:15] prior to the event.
+[05:16 --> 05:19] Traditional Roman history records that the sack took place in 390
+[05:19 --> 05:23] B.C., though that date is derived from the often incomplete
+[05:23 --> 05:26] magisterial election rolls that later Romans used to calculate
+[05:26 --> 05:27] dates of past events.
+[05:28 --> 05:31] We will encounter this problem again when Livy makes the
+[05:31 --> 05:36] implausible claim that between 375 and 370 B.C., no magistrates
+[05:36 --> 05:37] of any kind were elected.
+[05:38 --> 05:41] Livy explains this as being the result of a patrician-pleibed
+[05:41 --> 05:43] political deadlock, but most likely he was just trying to
+[05:43 --> 05:46] reconcile what the electoral roll said with what his own
+[05:46 --> 05:48] backwards chronology was telling him.
+[05:49 --> 05:52] Modern historians, cross-referencing with the
+[05:52 --> 05:55] more accurate Greek records, place the sack of Rome in 387
+[05:55 --> 05:58] or 386 B.C.
+[05:58 --> 06:01] So we are not entirely sure why the Gauls marched on Rome,
+[06:01 --> 06:05] nor entirely sure when they did so, but we do know who
+[06:05 --> 06:08] marched, the Sinons, and we know where they marched, from
+[06:08 --> 06:11] the Adriatic coast to Rome, and we know how they got there,
+[06:11 --> 06:14] they walked, and we know what happened when they got there,
+[06:15 --> 06:16] they sacked Rome.
+[06:16 --> 06:19] And four out of six is not bad when you're talking
+[06:19 --> 06:21] about things that happened 2,500 years ago.
+[06:23 --> 06:26] The Romans were aware of the Gallic advance and enlisted
+[06:26 --> 06:28] one of the largest armies they had ever assembled to
+[06:28 --> 06:31] battle a single enemy, with plausible estimates ranging
+[06:31 --> 06:34] from anywhere from 12,000 to 25,000 men.
+[06:34 --> 06:37] They gathered at the Alea River, actually more of a brook
+[06:37 --> 06:40] than a river, and waited for the barbarians to appear
+[06:40 --> 06:41] on the horizon.
+[06:42 --> 06:44] When they did, the Romans were immediately on the
+[06:44 --> 06:45] fearful defensive.
+[06:46 --> 06:48] The Gauls were like nothing they'd ever seen before,
+[06:49 --> 06:52] huge and painted, bearded, with long hair, roaring all
+[06:52 --> 06:54] manner of crazy battle cries.
+[06:54 --> 06:57] The Gauls were a fearsome sight, and when they
+[06:57 --> 07:00] charged full speed directly at the Roman line, it did not
+[07:00 --> 07:02] take long before the Romans broke.
+[07:02 --> 07:05] The wings of the Roman army, composed of the lightly
+[07:05 --> 07:08] armed lower class soldiers, were easily routed and fled
+[07:08 --> 07:11] for home, leaving the heavily armed center phalanx to
+[07:11 --> 07:12] be surrounded and massacred.
+[07:13 --> 07:16] It was the worst defeat the Romans had suffered at
+[07:16 --> 07:18] this point in their history, but their nightmare
+[07:18 --> 07:19] was only just beginning.
+[07:20 --> 07:23] In their haste to save themselves, the fleeing
+[07:23 --> 07:25] soldiers made directly for the fortified
+[07:25 --> 07:30] Capitol Hill Citadel, leaving the walls of the
+[07:30 --> 07:33] remaining inhabitants of the city either fled outright
+[07:33 --> 07:35] or followed the soldiers into the Citadel, giving
+[07:35 --> 07:38] free range of the city to the pursuing Gauls, who,
+[07:39 --> 07:41] incredulous at the lack of resistance and believing
+[07:41 --> 07:43] it to be some sort of trap, actually waited a full
+[07:43 --> 07:46] day before they were satisfied it was no trick
+[07:46 --> 07:47] and entered the city.
+[07:48 --> 07:50] An initial attempt to take the Capitol failed, so
+[07:50 --> 07:53] Brennus, rather than waste his manpower in
+[07:53 --> 07:55] pointless fighting, decided to settle in and
+[07:55 --> 07:58] starve the Romans out, meanwhile stripping the
+[07:58 --> 07:59] city of all its movable wealth.
+[08:01 --> 08:03] The siege of the Capitol began to be measured
+[08:03 --> 08:07] not in days or weeks, but in months, without any
+[08:07 --> 08:08] sign of the deadlock breaking.
+[08:09 --> 08:11] The besieged Romans grew more and more desperate
+[08:11 --> 08:14] as their supplies and morale ran out.
+[08:15 --> 08:16] The Gauls were faring no better.
+[08:17 --> 08:19] The hot Italian summer was not what the northern
+[08:19 --> 08:21] tribesmen were used to, and they began to drop
+[08:21 --> 08:22] like flies.
+[08:23 --> 08:25] Disease ran rampant, and Brennus saw his force
+[08:25 --> 08:27] dwindle daily in the foreign climate.
+[08:28 --> 08:30] It was a race to the bottom as both sides hoped
+[08:30 --> 08:32] to hold out one day longer than their equally
+[08:32 --> 08:35] beleaguered foe.
+[08:35 --> 08:37] At one point, the Romans were nearly defeated,
+[08:37 --> 08:39] but were saved at the last minute in dramatic
+[08:39 --> 08:40] fashion.
+[08:41 --> 08:43] A messenger had been sent from the Capitol to
+[08:43 --> 08:45] make contact with Camillus, their exiled
+[08:45 --> 08:47] hero, to plead with him to bring a force to
+[08:47 --> 08:50] lift the siege and save his former countrymen.
+[08:51 --> 08:53] The messenger scaled down an unguarded cliff,
+[08:53 --> 08:56] but the Gauls noticed the route and themselves
+[08:56 --> 08:58] attempted to scale the same cliff and break
+[08:58 --> 08:58] into the citadel.
+[08:59 --> 09:02] But famously, as they climbed, the sacred
+[09:02 --> 09:04] Capitoline geese, who the Romans had brought
+[09:04 --> 09:06] with them into the citadel, were roused and
+[09:06 --> 09:07] began to make a racket.
+[09:08 --> 09:10] The Romans, led by a patrician soldier named
+[09:10 --> 09:13] Manlius, were tipped off to the danger and
+[09:13 --> 09:15] drove the barbarians off the wall,
+[09:15 --> 09:17] preventing the only real attempt to take the
+[09:17 --> 09:18] Romans by force.
+[09:19 --> 09:21] Manlius, for his quick action and bravery,
+[09:21 --> 09:24] was lauded as a hero, but in a few years he
+[09:24 --> 09:26] would be executed for treason not far from
+[09:26 --> 09:28] the sight of these heroics, a tragic victim
+[09:28 --> 09:29] of his own vanity.
+[09:31 --> 09:33] The siege stretched to seven months and both
+[09:33 --> 09:35] sides were at the breaking point.
+[09:36 --> 09:38] In their respective desperate straits, they
+[09:38 --> 09:39] both agreed to something neither would have
+[09:39 --> 09:40] considered at the start.
+[09:41 --> 09:43] The Romans would pay the Gauls to leave the
+[09:43 --> 09:43] city.
+[09:44 --> 09:47] Both considered this a dishonorable end of the
+[09:47 --> 09:49] fight, but the Romans had to get off the
+[09:49 --> 09:51] capital hill, where they would all die, and
+[09:51 --> 09:53] Brennus, who wanted nothing more than to get
+[09:53 --> 09:56] out of the hot, diseased city, was now able to
+[09:56 --> 09:58] do so and still claim victory.
+[09:59 --> 10:01] The Romans agreed to pay the Gauls 1,000
+[10:01 --> 10:03] pounds of gold and scales were brought in to
+[10:03 --> 10:04] measure the amount.
+[10:05 --> 10:07] As the gold was being weighed, however, the
+[10:07 --> 10:09] Romans noticed that the scales had been
+[10:09 --> 10:11] tampered with and the pounds were much
+[10:11 --> 10:12] heavier than they should have been.
+[10:12 --> 10:15] They complained and in response Brennus
+[10:15 --> 10:17] threw his sword onto the scales, further
+[10:17 --> 10:19] increasing the imbalance and stating
+[10:19 --> 10:21] famously, woe to the conquered.
+[10:22 --> 10:24] The Romans stifled their objections and
+[10:24 --> 10:27] measured out the remaining gold, fuming but
+[10:27 --> 10:28] unable to do anything.
+[10:29 --> 10:32] The story of the sack of Rome, in reality,
+[10:32 --> 10:35] probably ended here, with the Gauls withdrawing
+[10:35 --> 10:36] north after being paid off.
+[10:37 --> 10:40] However, later Romans spread a thick coat of
+[10:40 --> 10:42] triumphant propaganda over the end of the
+[10:42 --> 10:44] story to save themselves the embarrassment of
+[10:44 --> 10:46] admitting to such a dishonorable conclusion.
+[10:46 --> 10:49] Just as they added the story of Mucius
+[10:49 --> 10:52] Scavola to the end of the war with Clusium to
+[10:52 --> 10:53] avoid admitting that they had been beaten by
+[10:53 --> 10:54] Lars Porcena.
+[10:55 --> 10:58] In the Roman Hollywood ending, Camillus is
+[10:58 --> 11:00] reached and raises a force from the
+[11:00 --> 11:02] neighboring Latin tribes and marches on the
+[11:02 --> 11:02] city.
+[11:03 --> 11:05] He arrives just after the Gauls have been
+[11:05 --> 11:07] paid and, finding them sleeping off their
+[11:07 --> 11:09] triumph, attacks and beats the formerly
+[11:09 --> 11:12] invincible barbarian army, driving them out
+[11:12 --> 11:14] of Latium for good and recovering the
+[11:14 --> 11:14] Roman gold.
+[11:15 --> 11:17] Camillus then basks in the glow of Roman
+[11:17 --> 11:20] adulation as the screen fades to black and
+[11:20 --> 11:21] the credits roll.
+[11:22 --> 11:24] A nice story, but complete fiction.
+[11:26 --> 11:28] Regardless of whether Roman honor was saved
+[11:28 --> 11:29] at the last moment by miraculous
+[11:29 --> 11:32] intervention or not, the fact remained that
+[11:32 --> 11:33] the city was in ruins.
+[11:34 --> 11:36] At some point during the siege, a fire had
+[11:36 --> 11:38] started and the city was gutted by an
+[11:38 --> 11:39] uncontrolled blaze.
+[11:40 --> 11:42] The surviving Romans, penniless and faced
+[11:42 --> 11:44] with the prospect of completely rebuilding
+[11:44 --> 11:46] their city, despaired that it was even
+[11:46 --> 11:49] possible and began to speak of abandoning
+[11:49 --> 11:51] the seven hills altogether and moving
+[11:51 --> 11:53] en masse to Viet, where they could start
+[11:53 --> 11:53] afresh.
+[11:54 --> 11:56] Camillus strongly opposed this idea and
+[11:56 --> 11:58] gave an impassioned speech for the
+[11:58 --> 12:00] people to rebuild Rome and not flee in
+[12:00 --> 12:01] the face of adversity.
+[12:02 --> 12:04] To leave would be an admission of
+[12:04 --> 12:06] weakness and a moral failing.
+[12:06 --> 12:08] To stay would prove that Rome could never
+[12:08 --> 12:09] be defeated.
+[12:10 --> 12:12] The people, facing a choice between
+[12:12 --> 12:14] practical logistics and theoretical
+[12:14 --> 12:16] duty, remained unconvinced.
+[12:17 --> 12:18] But as the Senate was proceeding with
+[12:18 --> 12:20] the debate, a company of soldiers
+[12:20 --> 12:22] returning from guard duty stopped in
+[12:22 --> 12:24] the forum and their commander ordered
+[12:24 --> 12:26] a halt saying, well, we may as well
+[12:26 --> 12:27] stop here.
+[12:28 --> 12:30] The senators overheard this and never
+[12:30 --> 12:32] ones to ignore a clear omen,
+[12:32 --> 12:34] immediately closed the debate and
+[12:34 --> 12:35] rejected all further proposals to
+[12:35 --> 12:36] abandon the city.
+[12:37 --> 12:38] Rebuilding would begin at once no
+[12:38 --> 12:40] matter the cost or difficulty.
+[12:40 --> 12:42] Rome was here to stay.
+[12:44 --> 12:45] The history of Rome is bookended by
+[12:45 --> 12:47] barbarian sacks.
+[12:47 --> 12:49] It would be 850 years before another
+[12:49 --> 12:51] foreign invader stepped foot in the
+[12:51 --> 12:51] city.
+[12:52 --> 12:55] By then, Rome had risen, crested,
+[12:55 --> 12:57] declined, and was in the process of
+[12:57 --> 12:57] failing.
+[12:58 --> 13:00] Brannis's sack of Rome, on the other
+[13:00 --> 13:02] end, ushered in Rome's era of
+[13:02 --> 13:02] dominance.
+[13:03 --> 13:05] Until the sack, Rome was merely one
+[13:05 --> 13:07] among many in Italian politics,
+[13:07 --> 13:09] fighting and winning, but also
+[13:09 --> 13:11] dealing with setbacks and defeats.
+[13:12 --> 13:13] After the destruction of Rome, the
+[13:13 --> 13:15] Romans were reborn along with the
+[13:15 --> 13:16] physical city they lived in.
+[13:17 --> 13:19] It would be a more determined, more
+[13:19 --> 13:21] consciously imperial citizen body
+[13:21 --> 13:23] that would emerge in the 300s B.C.
+[13:24 --> 13:25] The Romans would never again find
+[13:25 --> 13:26] themselves under the yoke of a
+[13:26 --> 13:28] foreign power, nor their walls
+[13:28 --> 13:30] breached by an invading force.
+[13:31 --> 13:33] When, in the 400s A.D., the
+[13:33 --> 13:35] Visigoths and then the Vandals
+[13:35 --> 13:37] finally sacked the city, the level
+[13:37 --> 13:39] of despair was grossly inflated
+[13:39 --> 13:40] because the inviolability of the
+[13:40 --> 13:42] city had been taken for granted.
+[13:43 --> 13:44] Other cities changed hands, were
+[13:44 --> 13:46] occupied or expelled occupiers.
+[13:46 --> 13:48] This was the natural ebb and flow
+[13:48 --> 13:49] of ancient politics.
+[13:50 --> 13:52] But Rome itself would be eternally
+[13:52 --> 13:53] free, granted special status by
+[13:53 --> 13:54] the gods.
+[13:55 --> 13:56] The Vandal sack, for all the
+[13:56 --> 13:58] physical damage it did, destroyed
+[13:58 --> 14:01] Rome psychologically, a blow from
+[14:01 --> 14:02] which it never recovered.
+[14:03 --> 14:04] And this sense of invincibility was
+[14:04 --> 14:06] born in the aftermath of the last
+[14:06 --> 14:08] barbarian sack, 850 years earlier.
+[14:09 --> 14:11] The Gallic victory humiliated,
+[14:11 --> 14:13] offended, and horrified the
+[14:13 --> 14:14] Romans who endured it, and they
+[14:14 --> 14:16] vowed to never let it happen
+[14:16 --> 14:16] again.
+[14:17 --> 14:18] They successfully kept their
+[14:18 --> 14:20] word for almost a thousand years,
+[14:20 --> 14:21] a remarkable feat in the
+[14:21 --> 14:23] perilous and violent world of
+[14:23 --> 14:24] antiquity.
+[14:24 --> 14:26] Roman obstinacy, steadfast
+[14:26 --> 14:28] endurance and unflinching
+[14:28 --> 14:30] resolve, a commitment to
+[14:30 --> 14:32] existence born out of near total
+[14:32 --> 14:32] destruction.
+[14:34 --> 14:36] From a practical standpoint, the
+[14:36 --> 14:38] sack also brings to an end the
+[14:38 --> 14:39] period of early Roman history
+[14:39 --> 14:41] about which we have no clear
+[14:41 --> 14:42] records or primary sources.
+[14:43 --> 14:44] Though all the previous records
+[14:44 --> 14:46] were lost in the fire, the
+[14:46 --> 14:47] Romans simply started again,
+[14:48 --> 14:49] leaving us a wealth of
+[14:49 --> 14:50] documentation that puts our
+[14:50 --> 14:51] understanding of their history
+[14:51 --> 14:53] on much firmer footing from
+[14:53 --> 14:54] this point on.
+[14:54 --> 14:56] I'm thankful to say that the
+[14:56 --> 14:57] legend of Rome has finally
+[14:57 --> 14:59] ended and the history of Rome
+[14:59 --> 14:59] has begun.
+[15:01 --> 15:03] Next week, the Romans began the
+[15:03 --> 15:04] slow process of rebuilding.
+[15:05 --> 15:06] Their task was complicated by
+[15:06 --> 15:08] the fact that all their enemies,
+[15:08 --> 15:09] past and present, would attempt
+[15:09 --> 15:11] to take advantage of their
+[15:11 --> 15:11] weakened state.
+[15:12 --> 15:13] The Volscians and Aquians, of
+[15:13 --> 15:15] course, attacked, as always,
+[15:15 --> 15:17] but Latin allies revolted as
+[15:17 --> 15:18] well and even some of Rome's
+[15:18 --> 15:20] own colonies decided the time
+[15:20 --> 15:21] was ripe to throw off the
+[15:21 --> 15:22] yoke of their mother city.
+[15:23 --> 15:25] But Camillus, not called the
+[15:25 --> 15:26] second founder of Rome for
+[15:26 --> 15:27] nothing, would lead the Romans
+[15:27 --> 15:29] to triumph and restore them
+[15:29 --> 15:31] on their inevitable path to
+[15:31 --> 15:31] glory.

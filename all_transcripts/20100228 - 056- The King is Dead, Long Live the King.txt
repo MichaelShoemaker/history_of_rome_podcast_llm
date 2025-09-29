@@ -1,0 +1,296 @@
+# 20100228 - 056- The King is Dead, Long Live the King
+# Detected language: en
+# Duration: 1240.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, episode 56, The King is Dead, Long Lived the
+[00:12 --> 00:12] King.
+[00:14 --> 00:18] Last time, we left Augustus reeling from the shocking annihilation of three legions
+[00:18 --> 00:20] in the Tudiburg Forest in 9 AD.
+[00:21 --> 00:25] The princeps, who was now over 70, never really recovered from the blow.
+[00:25 --> 00:30] The self-assuredness that had marked the regime from the beginning, a more tempered version
+[00:30 --> 00:34] of the audacious swagger that young Octavian had displayed, now shifted into something
+[00:34 --> 00:37] more cautious, more uneasy, and more paranoid.
+[00:38 --> 00:41] It was not just the defeat in Germania that caused the change in tone.
+[00:42 --> 00:45] Augustus was getting on in years and found himself handing off more and more of
+[00:45 --> 00:50] the day-to-day routine of empire to Tiberius, who, as we will see, was nothing if
+[00:50 --> 00:53] not cautious, uneasy, and paranoid.
+[00:54 --> 00:58] But Tiberius's influence aside, there is no doubt that the disaster in the Tudiburg
+[00:58 --> 01:00] Forest affected Augustus mightily.
+[01:00 --> 01:05] It was the first time the fates had conspired to deny the princeps what he really wanted,
+[01:05 --> 01:07] in this case, the full annexation of Germania.
+[01:08 --> 01:12] He had dealt with setbacks and disappointments and betrayals before, and perhaps a
+[01:12 --> 01:16] younger Augustus would have raised more troops and conquered Germania just to prove
+[01:16 --> 01:17] to them who was in charge.
+[01:17 --> 01:21] But now, he took the defeat as a sign from the gods that he was overreaching,
+[01:21 --> 01:25] that he asked for too much, and that it was time to pull back.
+[01:26 --> 01:28] Twilight was settling in on the emperor, and he knew it.
+[01:29 --> 01:33] After the loss in Germania, Augustus stopped thinking about expansion and
+[01:33 --> 01:36] stopped thinking altogether really about initiating new projects.
+[01:37 --> 01:40] The time had come to shore up the regime, secure his legacy, and
+[01:40 --> 01:43] make sure that when he finally, inevitably died, that the empire would
+[01:43 --> 01:44] not slip into chaos.
+[01:47 --> 01:50] Looking out over Rome, Augustus could at least be content in the knowledge
+[01:50 --> 01:52] that his legacy would not be that hard to secure.
+[01:53 --> 01:56] Every street in the capital and every city in the provinces had been touched by
+[01:56 --> 02:00] his policies, his reforms, and his vision for the future of the empire.
+[02:01 --> 02:05] Famously announcing on his deathbed that he had found Rome a city of brick
+[02:05 --> 02:10] and left it a city of marble, Augustus was speaking both literally and metaphorically.
+[02:11 --> 02:14] Literally, his building projects had replaced many of the old crumbling
+[02:14 --> 02:18] facades around the city with the marble edifices we think of today when
+[02:18 --> 02:19] we picture ancient Rome.
+[02:20 --> 02:24] Augustus also left in his wake a slew of temples, baths, palaces, and
+[02:24 --> 02:28] aqueducts, all built in an attempt to turn the city, which was now after all
+[02:28 --> 02:32] the capital of the known world, into something that at least resembled its status.
+[02:34 --> 02:37] A great many of the projects, in particular a new line of aqueducts that
+[02:37 --> 02:40] delivered fresh water in abundance to the filthy, teeming masses,
+[02:41 --> 02:44] were spearheaded by Agrippa, who was not just Augustus's leader on
+[02:44 --> 02:47] the battlefield, but also something like his chief urban planner.
+[02:48 --> 02:52] At one point, Agrippa even took a step backwards on the curses honorum,
+[02:52 --> 02:55] a thing not often done, just to take the office of city Aedile,
+[02:55 --> 02:58] which had jurisdiction over the areas Agrippa and Augustus wanted
+[02:58 --> 03:00] to see improvements done.
+[03:01 --> 03:05] But it was not just the physical buildings themselves that Augustus transformed.
+[03:05 --> 03:09] He also inherited a jumbled mess of haphazard Republican administrative
+[03:09 --> 03:12] practices that left the empire ill governed and ill served.
+[03:13 --> 03:16] He had the good fortune to reign for over 40 years, so
+[03:16 --> 03:19] he could afford to slowly work his way through the Gordian knot
+[03:19 --> 03:21] of entrenched interests that protected what was theirs,
+[03:22 --> 03:24] at the expense of anything resembling the greater good.
+[03:25 --> 03:29] In addition to building out a stable slave and freedman based bureaucracy,
+[03:29 --> 03:32] Augustus also introduced a professional firefighting force and
+[03:32 --> 03:35] a professional police force to roam for the first time.
+[03:36 --> 03:40] Gone now were the days where Marcus Crassus could sit outside a burning
+[03:40 --> 03:43] home and extort the property from frantic owners in exchange for
+[03:43 --> 03:44] putting out the blaze.
+[03:45 --> 03:48] Gone also were the private tax farmers out in the provinces.
+[03:49 --> 03:52] I haven't talked much about how the Romans collected their taxes up to this
+[03:52 --> 03:55] point, but basically it went like this.
+[03:55 --> 03:59] A private agency would bid for the right to collect taxes in a certain area.
+[04:00 --> 04:03] The winning bid paid to the Senate was the money the state received as
+[04:03 --> 04:05] the quote unquote tax revenue.
+[04:06 --> 04:09] The business model of the tax farmer was then to go out into his province
+[04:09 --> 04:12] and try to raise more in taxes than he had paid to the government.
+[04:13 --> 04:16] There was little oversight built into the system, and
+[04:16 --> 04:19] the structure became lousy with corruption, dishonesty, and extortion.
+[04:20 --> 04:23] So Augustus canceled the whole setup and began employing a professional
+[04:23 --> 04:27] corps of tax collectors to implement a tax code that reflected reasonable
+[04:27 --> 04:30] expectations about what the provincials ought to be able to provide.
+[04:31 --> 04:33] If Rome was going to rule what it had conquered,
+[04:33 --> 04:37] they needed to get smart about how they treated the provincials.
+[04:37 --> 04:39] To paraphrase a line not yet uttered by Tiberius,
+[04:39 --> 04:42] the point is to fleece the sheep, not skin them.
+[04:43 --> 04:47] Letting unscrupulous tax farmers run rampant was a persistent PR nightmare
+[04:47 --> 04:51] for Rome, and Augustus's reforms there probably paid for themselves ten times
+[04:51 --> 04:55] over in the cost not borne by future generations, putting down revolts that
+[04:55 --> 04:58] would have inevitably strung up when the sheep started getting skinned.
+[05:01 --> 05:04] Augustus also took a hard look at the organization of the legions.
+[05:04 --> 05:08] Since the reforms of Marius, the army had been populated with professional
+[05:08 --> 05:12] soldiers whose income depended on their generals winning battles and securing loot.
+[05:13 --> 05:17] As Augustus himself could attest, if an ambitious general wanted to turn his
+[05:17 --> 05:21] armies against the state, there was little to stop him as long as the men
+[05:21 --> 05:22] were handsomely paid.
+[05:23 --> 05:25] The princeps was confident that the generals and
+[05:25 --> 05:28] men of the army were loyal to him personally for now.
+[05:28 --> 05:31] But after he died, there was no telling what was going to happen.
+[05:32 --> 05:35] A likely scenario, though, was that every ambitious general was going to
+[05:35 --> 05:39] turn on every other ambitious general, plunging Rome back into civil war.
+[05:41 --> 05:44] So Augustus set up a central treasury for the payment of soldiers and
+[05:44 --> 05:47] veterans, providing the seed money for the new treasury out of his own pocket.
+[05:49 --> 05:51] With the men knowing that their salaries came from Rome and
+[05:51 --> 05:53] not from the local general in charge,
+[05:53 --> 05:57] they would be far less likely to follow him if his ambition took him beyond the law.
+[05:58 --> 06:01] Not that it wouldn't happen, mind you, just that it would be a lot less likely.
+[06:02 --> 06:04] With all he could do in a single lifetime,
+[06:05 --> 06:08] as done as he could ever hope it would be, Augustus began to withdraw from
+[06:08 --> 06:09] public life.
+[06:10 --> 06:13] He stopped coming to meetings of the Senate and relied on Tiberius and
+[06:13 --> 06:15] Germanicus to be the public face of the regime.
+[06:16 --> 06:20] Tiberius already had most of the powers that Augustus held, and
+[06:20 --> 06:23] for all intents and purposes, they were co-rulers by this point.
+[06:23 --> 06:24] Which was, of course, by design.
+[06:25 --> 06:29] When Augustus died, Tiberius would not really need to ascend to the throne.
+[06:29 --> 06:33] He would simply need to continue to wield all the power he already had.
+[06:34 --> 06:38] But the growing power of Tiberius, so necessary for a smooth handover,
+[06:38 --> 06:41] also changed the overall outlook of the late Augustan regime.
+[06:43 --> 06:45] Augustus had always been advised by Messinus to allow for
+[06:45 --> 06:48] a large degree of freedom when it came to the arts and the letters.
+[06:49 --> 06:52] That is to say, that Augustan Rome enjoyed something like freedom of
+[06:52 --> 06:53] speech.
+[06:53 --> 06:57] Critics were free to speak their minds, and old enemies of the Caesars,
+[06:57 --> 07:02] Brutus, Cassius, and Cato, were allowed to be described in glowing terms.
+[07:02 --> 07:04] Augustus may not have liked what he heard, but
+[07:04 --> 07:08] it was far better to let a man have his say than try to censor him.
+[07:08 --> 07:12] A man who believes he can speak his mind will air his grievances in
+[07:12 --> 07:13] public and be done with it.
+[07:13 --> 07:16] While a man who is stifled will not suddenly be less aggrieved,
+[07:16 --> 07:20] he will merely speak of them privately and with other like-minded individuals.
+[07:21 --> 07:24] And that, of course, is where truly dangerous conspiracies are born.
+[07:25 --> 07:28] But Tiberius, lacking the self-confidence of Augustus,
+[07:28 --> 07:30] proved to be very touchy about criticism.
+[07:31 --> 07:34] And in the last years of Augustus' life, it became more dangerous to
+[07:34 --> 07:37] criticize the regime openly than it had been in the past.
+[07:38 --> 07:41] In a sign of things to come, public criticism of the regime came to be
+[07:41 --> 07:43] conflated with treason.
+[07:43 --> 07:46] And where once a book highlighting the moral failings of imperial allies
+[07:46 --> 07:50] would have passed unnoticed, now it was grounds for banishment.
+[07:51 --> 07:55] But the bed Tiberius was making would not be Augustus' to lie in.
+[07:56 --> 08:00] Now, all that was left for him to do was put the final spin on the events of
+[08:00 --> 08:03] his life, make sure his affairs were in order, and wait patiently for death.
+[08:05 --> 08:08] To the first end, he composed what had become known as the Deeds of the
+[08:08 --> 08:12] Divine Augustus, a listing of all the things he had accomplished in his long
+[08:12 --> 08:17] life. When he finally settled on the final draft in 14 AD, he ordered that
+[08:17 --> 08:21] be published on tablets and spread throughout the empire upon his death.
+[08:22 --> 08:25] The list turned out to be a masterpiece of not quite revisionist history.
+[08:26 --> 08:30] That is, he did what he said he did, none of the deeds listed are lies.
+[08:30 --> 08:32] But he also did quite a few other things, too.
+[08:33 --> 08:35] Things that he didn't necessarily want to highlight for eternity,
+[08:35 --> 08:36] if you catch my drift.
+[08:37 --> 08:40] The horror of the prescriptions, for example, don't make the cut.
+[08:41 --> 08:44] I've posted a link to a translation of the document on the website if
+[08:44 --> 08:46] you want to browse the list in its entirety.
+[08:47 --> 08:50] I think my favorite part, listed right there amidst the battles he won,
+[08:50 --> 08:53] the temples he built, the provinces he brought into the empire,
+[08:54 --> 08:56] the honors he received, and the honors he turned down,
+[08:56 --> 09:00] is when he describes the spectacle of a naval battle he staged for the people
+[09:00 --> 09:03] after digging an enormous hole near the Tiber and filling it with water.
+[09:04 --> 09:09] Some 3,000 men and 30 large ships participated in a giant mock sea battle.
+[09:09 --> 09:12] Hey guys, remember that? That was awesome, huh?
+[09:12 --> 09:18] At the same time he was placing the final draft of the deeds for safekeeping with the Vestal Virgins,
+[09:18 --> 09:20] Augustus also deposited three other documents.
+[09:21 --> 09:25] One described in detail the military and financial situation of the empire,
+[09:25 --> 09:29] tax rolls, troop locations, project timelines, the works,
+[09:29 --> 09:33] everything Tiberius would need to immediately understand what he had inherited.
+[09:34 --> 09:38] The second document laid out in detail how he wanted his funeral procession to unfold.
+[09:38 --> 09:40] And the last was his final will,
+[09:40 --> 09:43] which contained only one posthumous surprise for Rome.
+[09:45 --> 09:50] In the spring of 14 AD, for reasons that will forever be open to historical interpretation,
+[09:51 --> 09:55] Augustus decided to visit his exiled grandson posthumous Agrippa,
+[09:55 --> 09:58] who had been living on a small barren island these past seven years.
+[10:00 --> 10:03] Explanations for the visit ranged from Augustus needing to take stock of the boy
+[10:03 --> 10:08] to see if he was fit to return to society, to Augustus needing to take stock of the boy
+[10:08 --> 10:11] to see if he had any plans to overthrow Tiberius once the old man was dead,
+[10:12 --> 10:16] to Augustus needing to take stock of the boy to decide whether or not he could possibly
+[10:16 --> 10:19] push Tiberius aside and make posthumous his heir.
+[10:20 --> 10:24] There is also some disagreement about whether Livia knew anything about the meeting
+[10:24 --> 10:26] and what her reaction to the encounter might have been.
+[10:27 --> 10:30] According to the Livia killed everyone faction,
+[10:30 --> 10:34] Augustus tried to keep the meeting secret but Livia found out about it anyway.
+[10:34 --> 10:38] Afraid of what this meant for Tiberius, she would order the assassination of posthumous
+[10:38 --> 10:43] as soon as Augustus was dead. And, oh yeah, according to the Livia killed everyone theory,
+[10:44 --> 10:47] she's about to kill Augustus too, but we'll get to that.
+[10:48 --> 10:51] Others speculate that she knew full well about the meeting and its result,
+[10:51 --> 10:56] that Augustus determined posthumous was too dangerous, that he would welcome any opportunity
+[10:56 --> 10:59] to become a rallying point for anti-Tiberian partisans,
+[10:59 --> 11:02] and that Augustus was leaving orders that posthumous be killed upon his death.
+[11:03 --> 11:06] There is really no coming to a firm conclusion about the meeting,
+[11:06 --> 11:11] but we know that it happened and what happened to posthumous as soon as Augustus was dead.
+[11:11 --> 11:12] He was killed.
+[11:13 --> 11:16] Whether the princeps ordered it because he was worried about the stability of the empire
+[11:16 --> 11:21] or Livia ordered it because she feared for her own son's career is anyone's guess.
+[11:22 --> 11:26] But perhaps belaying the notion at least that Augustus was set to push Tiberius aside and
+[11:26 --> 11:31] make posthumous his heir, in the summer of 14 AD he ordered Tiberius to take over the
+[11:31 --> 11:36] command in Illyricum. This meant that Augustus was putting Tiberius in charge of a large chunk
+[11:36 --> 11:41] of the Roman army while simultaneously keeping him close to Italy. Posthumous, meanwhile,
+[11:42 --> 11:46] continued to sit on a lifeless rock and was left out of Augustus's so recently revised will.
+[11:47 --> 11:50] That probably tells us all we need to know about whether Augustus was
+[11:50 --> 11:53] planning to replace Tiberius as his heir.
+[11:54 --> 11:59] In the early summer of 14 AD, Tiberius set out for Brundisium to take over his command
+[11:59 --> 12:03] the Balkans and was accompanied for the first leg of his journey by Augustus himself.
+[12:04 --> 12:10] But the two parted ways about 150 miles south of Rome. Tiberius continued south while Augustus
+[12:10 --> 12:14] peeled off and made his way to one of his villas in the town of Nola which lay in the
+[12:14 --> 12:19] shadow of Mount Vesuvius. His health had been deteriorating for some time and lately
+[12:19 --> 12:24] he had come down with another serious illness. Publicly he was settling into the villa to
+[12:24 --> 12:29] recuperate away from the hustle and bustle of Rome, but those close to the princeps knew
+[12:29 --> 12:34] that he was really settling in to die. It had been a long life, a good life, but it was time
+[12:34 --> 12:40] to let go. On the 19th of the month that now bears his name, with Livia by his side,
+[12:40 --> 12:46] Gaius Julius Caesar Augustus finally died. He was 76 years old and had ruled Rome for
+[12:46 --> 12:51] 44 years. His attributed final words depending on the translation went,
+[12:51 --> 12:57] Have I played my part in the farce of life well enough? He followed this with a common tagline
+[12:57 --> 13:01] used by actors when closing out their performances. If I have pleased you,
+[13:01 --> 13:07] then kindly signify appreciation with a warm goodbye. To Augustus, all the world really was
+[13:07 --> 13:12] but a stage. I think it's safe to say that he played his part convincingly.
+[13:13 --> 13:17] Like everything else surrounding the last few months of Augustus's life, there is some
+[13:17 --> 13:22] disagreement about what happened next. Either Tiberius was recalled to Nola when Augustus was
+[13:22 --> 13:28] still dying and the two were able to go over the last details of succession, or he was only
+[13:28 --> 13:32] alerted once the princeps was dead and that Livia spent a few days keeping her husband's
+[13:32 --> 13:37] death a secret while she waited for Tiberius to arrive. There was also some disagreement
+[13:37 --> 13:43] about how and why Augustus finally died, namely whether he died of natural causes or was
+[13:43 --> 13:48] poisoned by his wicked wife Livia. I don't tend to think that dying at the age of 76,
+[13:49 --> 13:53] after a life spent in and out of sickbeds, needs a conspiracy theory to explain it,
+[13:53 --> 13:58] but rumors persist to this day that Livia poisoned the figs Augustus was fond of eating
+[13:58 --> 14:02] because she was afraid that if Augustus kept living he might change his mind about her son.
+[14:04 --> 14:08] In his biography of Augustus, Anthony Everett does some fancy mental gymnastics
+[14:08 --> 14:13] to reconcile the ambiguity surrounding Augustus's death by wondering if perhaps,
+[14:13 --> 14:18] with all the pieces in place for a smooth transition and Augustus's final illness not
+[14:18 --> 14:23] proving fatal enough, that he and Livia had a nod-wink agreement for her to poison the figs.
+[14:24 --> 14:28] If life was merely theater and Augustus had written his script such that now it was time
+[14:28 --> 14:33] for him to die, there was no sense in lingering on the stage and risking the whole production.
+[14:35 --> 14:40] As I alluded to earlier, immediately upon the death of Augustus, imperial agents hastened to
+[14:40 --> 14:46] the island where Agrippa Postumus was exiled and the young man was murdered. As I said,
+[14:46 --> 14:51] the two prime suspects for the order were Augustus or Livia, but many drew the conclusion
+[14:51 --> 14:56] that Tiberius might have been behind the murder. When confronted with these accusations,
+[14:56 --> 15:00] though, Tiberius made a great stink about opening an inquiry into the case in order to
+[15:00 --> 15:05] clear his own name. When Augustus and Livia's inner circle caught wind that Tiberius was
+[15:05 --> 15:09] perhaps getting ready to air some dirty laundry, they moved quickly to stop the
+[15:09 --> 15:14] accusations against the new emperor so that he would drop the matter. It was a dangerous
+[15:14 --> 15:17] time for the regime, but there were still doubts about whether or not it could survive
+[15:17 --> 15:21] Augustus. Now was not the time to go around embracing transparency.
+[15:23 --> 15:27] After his obligatory stay in Nolla, Tiberius traveled to Rome and delivered news
+[15:27 --> 15:32] of Augustus's death to the Senate. In Tacitus's famously direct language,
+[15:33 --> 15:38] two pieces of news became known simultaneously. Augustus was dead and Tiberius was now in
+[15:38 --> 15:43] control. This was exactly as Augustus had planned the handover to take place.
+[15:43 --> 15:49] No power vacuum was to open up, not even for a moment. Immediately, the Senate fell into
+[15:49 --> 15:53] line and hailed Tiberius as their new emperor and then set about trying to one-up each other
+[15:53 --> 15:58] with proposed honors for the now-dead Augustus. They also started drawing up
+[15:58 --> 16:02] elaborate funeral arrangements, but, of course, Augustus had already provided the
+[16:02 --> 16:07] details of his funeral, leaving nothing to chance. When Tiberius read the princep's wishes
+[16:07 --> 16:13] aloud, the Senate deferred, just like they always had. Tiberius then read them the last
+[16:13 --> 16:18] will and testament of Caesar Augustus, which famously began, Since fate has cruelly
+[16:18 --> 16:23] carried off my sons Gaius and Lucius, Tiberius must inherit two-thirds of my property.
+[16:24 --> 16:30] In other words, dear Tiberius, I never did like you. After making room for small payments
+[16:30 --> 16:34] to every citizen in Rome, Augustus left the remaining third of his estate to his wife Livia,
+[16:35 --> 16:39] who the Senate was astonished to learn. He was posthumously adopting as his daughter.
+[16:40 --> 16:44] The adoption would ensure that she would be allowed to maintain her power and position,
+[16:44 --> 16:49] drawing strength not because of her marriage to Augustus, which was now obviously at an end,
+[16:49 --> 16:52] but because she was his daughter, status that she could never lose.
+[16:53 --> 16:57] Henceforth, she would be known as Livia Augusta, or simply the Augusta.
+[16:59 --> 17:03] The body of Augustus was borne back to Rome, and the funeral procession he had laid out was
+[17:03 --> 17:09] carefully followed. The official funeral orations were delivered by Tiberius and his natural son
+[17:09 --> 17:15] The body was cremated in the forum, and the ashes placed in the family mausoleum that Augustus
+[17:15 --> 17:20] had constructed. At this point, he also formally joined the pantheon of Roman gods,
+[17:20 --> 17:26] and is forever after referred to as the Divine Augustus, whose pronouncements and policies took
+[17:26 --> 17:31] on an almost holy character. Tiberius certainly justified many of the decisions of his early
+[17:31 --> 17:35] reign by pointing out that he was merely following the lead of the Divine Augustus.
+[17:36 --> 17:41] For example, in his final paperwork, Augustus implored Rome to stay within the settled
+[17:41 --> 17:45] boundaries of the empire. This injunction was adhered to not just by Tiberius,
+[17:45 --> 17:50] but more or less by every one of their successors. The only real exception being
+[17:50 --> 17:54] Claudius' annexation of Britain and Trajan's campaigns in the early 100s,
+[17:54 --> 17:59] most of the fruits of which were immediately abandoned by his successor Hadrian anyway.
+[18:01 --> 18:06] Over the course of his long life, Augustus changed the face of Rome. He had taken it from
+[18:06 --> 18:11] shaky republic to outright autocracy, and ensured that the empire never looked back.
+[18:12 --> 18:17] His institutional reforms cleared out most of the inefficiencies that threatened to drag down
+[18:17 --> 18:21] Rome's domination over the whole of the Mediterranean, while the ruthless purges of
+[18:21 --> 18:26] his enemies guaranteed that all the energy to go back to the old ways had been eliminated.
+[18:26 --> 18:33] The Republic was dead, but Rome would live. His life was complicated, his motives sometimes
+[18:33 --> 18:39] pure and sometimes not, and historians and scholars throughout the ages have variously
+[18:39 --> 18:43] described him as a maniacal tyrant, a puppet of his wife, and a wise, benevolent dictator.
+[18:44 --> 18:49] He is almost universally referred to, though, as Rome's greatest and most successful emperor.
+[18:50 --> 18:54] Most believe that his long reign set the foundations for Rome's continued status
+[18:54 --> 18:59] as the preeminent power of the ancient world. Whether this was a good thing or not depends on
+[18:59 --> 19:04] who you talk to, but there is no denying that Augustus was one of the most influential men
+[19:04 --> 19:08] in the history of the western world. Now, he passes from the stage.
+[19:10 --> 19:14] Next week, we will plunge into the early years of Tiberius's reign as emperor
+[19:14 --> 19:17] and his rivalry with the charismatic and popular Germanicus.
+[19:18 --> 19:22] The young prince may have been oblivious to the fact that his popularity was far
+[19:22 --> 19:27] from eclipsing that of his uncle, but Tiberius certainly wasn't. It's not that Tiberius was a
+[19:27 --> 19:32] bad emperor early on, just that he wound up playing the socially awkward Nixon to
+[19:32 --> 19:38] Germanicus's easy-going Kennedy. Germanicus's popularity at the expense of Tiberius played
+[19:38 --> 19:42] right into the persecution complex that the emperor had carried around with him his whole
+[19:42 --> 19:46] life. So while we don't know for sure that he played a role in the untimely death of
+[19:46 --> 19:51] his nephew, the people of Rome certainly believed that he did, which did nothing for his
+[19:51 --> 19:57] popularity. This negative feedback loop ate at Tiberius, but he took comfort in the fact that
+[19:57 --> 20:01] his own son, Drusus, now had no rival for the throne and would be able to follow in his
+[20:01 --> 20:07] father's footsteps. But when, in 23 AD, Drusus either died from an illness or, more likely,
+[20:08 --> 20:12] was killed by his wife and her lover, Sejanus, Tiberius lost the last thing keeping
+[20:12 --> 20:16] him grounded, which proved to be very, very bad for the citizens of Rome.

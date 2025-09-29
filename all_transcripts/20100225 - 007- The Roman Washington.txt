@@ -1,0 +1,267 @@
+# 20100225 - 007- The Roman Washington
+# Detected language: en
+# Duration: 729.10 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:06] Hello, and welcome to the History of Rome.
+[00:08 --> 00:15] We ended last week in 451 BC with the 12 Tables of Law written down and the December had expelled.
+[00:16 --> 00:21] This week I want to step back a few years to focus on the life of one man, Lucius Quintius
+[00:21 --> 00:26] Cincinnati, who was passed into the collective memory as a paradigm of Republican virtue,
+[00:27 --> 00:31] though the decisive moments of his life were almost certainly invented by later historians
+[00:31 --> 00:37] to embellish his famous career, and, in the end, nothing he did was particularly unprecedented.
+[00:37 --> 00:42] Still, his biography continues to resonate, and taken by itself, it is a pretty good
+[00:42 --> 00:47] story of a humble man who had absolute power thrust upon him, and then, remarkably,
+[00:47 --> 00:50] relinquished that power and returned to his plow.
+[00:50 --> 00:53] A man who sacrificed everything for the Republic.
+[00:55 --> 01:00] Cincinnati was born around 519 BC, when the king still reigned, and was just a boy when
+[01:00 --> 01:02] Brutus and Colatinus expelled the Tarquins.
+[01:03 --> 01:07] He was therefore one of the first citizens in Rome who lived his entire life under
+[01:07 --> 01:10] a Republican government, without strong memories of the monarchy.
+[01:11 --> 01:13] He was in the vanguard of a critical generation.
+[01:14 --> 01:18] His elders remembered vividly the tyranny of Tarquin, and their steadfast Republican
+[01:18 --> 01:22] principles reflect a personally developed hatred of monarchy.
+[01:22 --> 01:26] They were the victims, and would do anything to avoid being victims again.
+[01:26 --> 01:32] Cincinnati, however, and those of his generation, never personally experienced this victimization.
+[01:32 --> 01:36] Once they came of age, the Republic would have to sink or swim on its own merit.
+[01:37 --> 01:40] If a would-be tyrant began to acquire too much power, there would be no one to
+[01:40 --> 01:43] turn to and say, hey, remember Tarquin?
+[01:43 --> 01:46] This guy's trying to be another Tarquin, because there would be no one left who
+[01:46 --> 01:47] actually remembered Tarquin.
+[01:48 --> 01:52] It is in this passing from living memory that mistakes of history repeat themselves.
+[01:53 --> 01:57] Ambitious men of later generations might attempt to seize power, and, believing
+[01:57 --> 02:01] their times to be unique, a cowering population might allow it.
+[02:01 --> 02:05] In those times, only vigilance born of a love of Republic, not a hatred of
+[02:05 --> 02:10] monarchy, would save the people from slavery, and Cincinnati was amongst the
+[02:10 --> 02:13] first to set down that love of the Republic for its own sake.
+[02:14 --> 02:19] To dispel one myth straight away, Cincinnati was at no point a defender of the little
+[02:19 --> 02:20] guy.
+[02:20 --> 02:24] He was a patrician by birth and upbringing, and when he emerged on the
+[02:24 --> 02:28] public stage, it was as a steadfast opponent of the tribunes and their reforms.
+[02:29 --> 02:33] His first appearance in the historical record is not a starring role, but rather a
+[02:33 --> 02:35] supporting part in the drama of his son, Queso.
+[02:36 --> 02:39] There is a great deal of civil unrest in the aftermath of Tarantillus's
+[02:39 --> 02:43] proposal to codify the law, and plebe demonstrations in the forum were often
+[02:43 --> 02:48] broken up by collections, or gangs, if you prefer, of young patrician nobles.
+[02:49 --> 02:53] Queso, an abnormally large young man, took to this with great relish,
+[02:53 --> 02:56] personally beating and chasing any plebe who tried to take part in such
+[02:56 --> 02:57] demonstrations.
+[02:58 --> 03:01] Young and hot-tempered that he was, though, he was easy pickings for a
+[03:01 --> 03:05] savvy tribune named Virginius, who intentionally goaded Queso by leading
+[03:06 --> 03:09] public marches that would inevitably draw the wrath of the young man.
+[03:10 --> 03:14] Once he had enough witnesses and evidence, Virginius brought capital charges
+[03:14 --> 03:18] against Queso for, well, all the horrible things he had done.
+[03:18 --> 03:22] Queso was ordered to appear at a trial, and if he did not, then he would
+[03:22 --> 03:23] be fined a large sum of money.
+[03:24 --> 03:27] It is at this point that Cincinnati makes his first appearance in the
+[03:27 --> 03:30] public record, defending his son against Virginius's accusations and
+[03:30 --> 03:32] asking that the charges be dropped.
+[03:32 --> 03:37] Rather than face an obviously hostile and biased court, Queso fled north
+[03:37 --> 03:39] to Atruria and out of the history of Rome completely.
+[03:40 --> 03:44] His son having essentially jumped bail, Cincinnati was forced to sell
+[03:44 --> 03:47] most of his properties to pay the debt, leaving him a pauper with
+[03:47 --> 03:49] only a small plot of land on the far side of the Tiber.
+[03:51 --> 03:54] It is from this impoverished state that Cincinnati's own legend begins.
+[03:55 --> 03:59] In 460 BC, not long after the Sabines had been expelled from the
+[03:59 --> 04:02] Citadel, Cincinnati was chosen to serve as one of the two consuls
+[04:02 --> 04:03] for that year.
+[04:04 --> 04:06] The tribunes were less than thrilled at this development,
+[04:06 --> 04:09] recognizing that they had just put the screws to this old man
+[04:09 --> 04:12] because they were angry with his son, and now he was in a position
+[04:12 --> 04:13] of authority over them.
+[04:14 --> 04:17] Cincinnati did nothing to ease their minds, immediately attacking
+[04:17 --> 04:20] the character of the plebe leadership, who he accused of aiding
+[04:20 --> 04:23] and abetting the Sabine capture of the Citadel with their
+[04:23 --> 04:24] selfish myopia.
+[04:25 --> 04:26] This set the tone for the year.
+[04:27 --> 04:30] Struggles ensued between the consuls on the one hand, the tribunes
+[04:30 --> 04:34] on the other, with the Senate and popular assemblies caught in between.
+[04:35 --> 04:37] Cincinnati managed to kill Tarantellus' bill for the year,
+[04:38 --> 04:41] while the tribunes banned the consuls from taking any army
+[04:41 --> 04:43] more than one mile outside the city limits.
+[04:44 --> 04:46] By the end of the year, no compromise was reached, and the
+[04:46 --> 04:49] battle was set to continue on into the next year, but the
+[04:49 --> 04:52] Senate passed a law stating that no magistrate, patrician,
+[04:52 --> 04:54] or plebe could serve in successive years.
+[04:55 --> 04:58] The tribunes dismissed this out of hat and had themselves
+[04:58 --> 05:00] re-elected, so the patricians were set to reconfirm
+[05:01 --> 05:03] Cincinnati's when he announced that if they were to act no
+[05:03 --> 05:06] better than the plebes, then they were no better than the
+[05:06 --> 05:08] plebes, and refused to stand for office.
+[05:09 --> 05:12] Agreeing reluctantly to this logic, the patricians allowed
+[05:12 --> 05:14] Cincinnati's to retire to a small farm.
+[05:15 --> 05:17] It would not be long, however, before he was called back
+[05:17 --> 05:20] to service in his most famous role, dictator of Rome.
+[05:22 --> 05:25] In 458, the Aequians had been causing Rome trouble, and one
+[05:25 --> 05:27] of the consuls for the year was sent with an army to deal
+[05:27 --> 05:28] with them.
+[05:28 --> 05:30] However, the fight was much rougher than it had been in
+[05:30 --> 05:33] the past, and the legions found themselves pinned down,
+[05:33 --> 05:36] unable to retreat, and facing annihilation.
+[05:37 --> 05:39] The citizens of Rome panicked and, without descent,
+[05:39 --> 05:42] a dictator was called for, and Cincinnati was named.
+[05:43 --> 05:45] A delegation was sent to inform the old man, and
+[05:45 --> 05:48] famously found him at work on the small farm he had
+[05:48 --> 05:51] retired to, a living paradigm of Roman virtue.
+[05:52 --> 05:54] The delegation saluted Cincinnati's dictator,
+[05:54 --> 05:57] imploring him to return to the city at once.
+[05:57 --> 05:59] The tribunes were appalled to see their old political
+[05:59 --> 06:02] enemy return to such a powerful position, but Cincinnati
+[06:02 --> 06:05] was greeted in the city with such a claim that there was
+[06:05 --> 06:07] little they could do but hope that the old patrician
+[06:07 --> 06:10] would not turn his absolute power against them.
+[06:11 --> 06:13] Cincinnati, however, was not out to settle political
+[06:13 --> 06:17] grudges, well, not yet anyway, and promptly raised an
+[06:17 --> 06:19] army and marched to the rescue of the besieged legion.
+[06:20 --> 06:23] Wasting no time, Cincinnati's army swept in and
+[06:23 --> 06:25] decisively beat the Aquians, saving the legion and
+[06:25 --> 06:26] ending the threat.
+[06:27 --> 06:29] He marched back to Rome and celebrated his well-earned
+[06:29 --> 06:32] triumph a mere fifteen days after being named dictator.
+[06:33 --> 06:36] Before stepping down, though, Cincinnati did clear up
+[06:36 --> 06:38] one bit of family business, forcing Virginia to plead
+[06:38 --> 06:41] guilty to perjury and go into exile.
+[06:41 --> 06:44] Rome safe and his family's honor restored, Cincinnati
+[06:44 --> 06:46] resigned the dictatorship and returned to his farm,
+[06:47 --> 06:49] a hero in his own time and a legend thereafter.
+[06:51 --> 06:53] He would make one final appearance in the public
+[06:53 --> 06:56] record twenty years later, again appointed as dictator,
+[06:56 --> 06:59] though this time it was to deal with internal strife
+[06:59 --> 07:00] and not an external threat.
+[07:01 --> 07:03] Ironically, it was an attempt by a single man to
+[07:03 --> 07:06] capture total power in Rome that led to the
+[07:06 --> 07:07] reappointment of Cincinnati's dictator.
+[07:08 --> 07:10] We will talk more next week about the plot of
+[07:10 --> 07:13] Malleus to make himself king, so for now I will
+[07:13 --> 07:16] just leave it that a conspiracy was in motion and
+[07:16 --> 07:18] Cincinnati was brought in to deal with it, which he
+[07:18 --> 07:21] did as quickly as he dispatched the Aequians and
+[07:21 --> 07:23] again resigned the dictatorship and returned to
+[07:23 --> 07:25] his farm, this time for the last time.
+[07:27 --> 07:29] Cincinnati is a bona fide legend, but the
+[07:29 --> 07:31] particulars of his life are almost certainly an
+[07:31 --> 07:32] invention.
+[07:32 --> 07:34] I look forward to the day when I begin covering
+[07:34 --> 07:37] events from the later, more accurate records,
+[07:37 --> 07:39] so I don't have to keep saying that the story
+[07:39 --> 07:41] I've just told you is largely fictitious, but
+[07:41 --> 07:43] we still have another fifty years before we get to
+[07:43 --> 07:45] the sack of Rome, so we'll just have to grind
+[07:45 --> 07:46] through this together.
+[07:47 --> 07:49] Anyway, the story of Cincinnati is largely
+[07:49 --> 07:52] fictitious, but the man was a giant of his age
+[07:52 --> 07:54] and earned a little mythical embellishment,
+[07:55 --> 07:57] and regardless of its accuracy, the life of
+[07:57 --> 07:59] Cincinnati was handed down from generation to
+[07:59 --> 08:01] generation and is still told today.
+[08:02 --> 08:04] His story had a great impact on the
+[08:04 --> 08:06] Enlightenment age soldiers of the American
+[08:06 --> 08:08] Continental Army, who often referred to their
+[08:08 --> 08:10] great leader, General Washington, as the
+[08:10 --> 08:13] American Cincinnati, because at the end of
+[08:13 --> 08:14] the war he retired rather than allow the
+[08:14 --> 08:16] people to make him king.
+[08:17 --> 08:19] When the Army was demobilized, the retired
+[08:19 --> 08:21] officers formed a fraternity of sorts called
+[08:21 --> 08:24] the Society of the Cincinnati, membership
+[08:24 --> 08:25] in which was limited to men who had served
+[08:25 --> 08:27] in the Army for three years.
+[08:28 --> 08:29] One of their members was later the
+[08:29 --> 08:31] Territorial Governor of Ohio, and he
+[08:31 --> 08:34] renamed a growing urban hub on the Ohio
+[08:34 --> 08:36] River Cincinnati, both in honor of the
+[08:36 --> 08:38] Society itself and in honor of Washington,
+[08:39 --> 08:40] to whom the name originally referred.
+[08:41 --> 08:43] Ironically, the Society still exists today,
+[08:43 --> 08:46] membership being limited to sons of the
+[08:46 --> 08:48] original members, making it a hereditary
+[08:48 --> 08:50] institution, completely anathema to
+[08:50 --> 08:52] everything the officers had originally
+[08:52 --> 08:54] been commissioned to fight, but I digress.
+[08:55 --> 08:57] Since Annis' mark had been set upon
+[08:57 --> 08:59] the world, but what do we make of him?
+[09:00 --> 09:01] Clearly he was a towering figure in
+[09:01 --> 09:03] the first century of the Republic, a
+[09:03 --> 09:06] hero, a consul, a twice named dictator,
+[09:06 --> 09:08] but why the iconic veneration?
+[09:09 --> 09:11] Allegedly it is for the act of
+[09:11 --> 09:13] relinquishing absolute power, but we have
+[09:13 --> 09:14] already seen that Cincinnati was not
+[09:14 --> 09:16] the first man to do this, nor would he be
+[09:16 --> 09:19] the last. The office of dictator was
+[09:19 --> 09:20] not created especially for him.
+[09:20 --> 09:23] It was, in fact, a constitutional role
+[09:23 --> 09:25] that was used regularly in times of
+[09:25 --> 09:27] crisis. His story, of course, had a
+[09:27 --> 09:29] nice ring to later Romans, who revel
+[09:29 --> 09:31] in his simple homespun virtue,
+[09:32 --> 09:33] called from his field to save the
+[09:33 --> 09:36] city. In the good old days, they said,
+[09:36 --> 09:38] the greatest man of his age was found
+[09:38 --> 09:40] hard at work on a small farm, not
+[09:40 --> 09:41] eating figs on a sofa in some
+[09:41 --> 09:44] palatial estate. He was the epitome of
+[09:44 --> 09:46] the virtuous farmer-soldier, the ideal
+[09:46 --> 09:50] Roman. I think two things really
+[09:50 --> 09:51] contribute to the fame of Cincinnati.
+[09:52 --> 09:54] The first is the incidental fact that
+[09:54 --> 09:56] most people, myself included before I
+[09:56 --> 09:58] began digging, believe Cincinnati must
+[09:58 --> 10:00] have either been the first dictator
+[10:00 --> 10:02] of Rome, or the only dictator of Rome
+[10:02 --> 10:04] to ever step down voluntarily, or
+[10:04 --> 10:07] something equally unprecedented. But, of
+[10:07 --> 10:08] course, there was nothing particularly
+[10:08 --> 10:10] unprecedented about Cincinnati, and our
+[10:10 --> 10:12] generation of him, in that case, would
+[10:12 --> 10:14] seem to be based upon nothing more than
+[10:14 --> 10:16] our own misconceptions about Roman
+[10:16 --> 10:18] history. But even though Cincinnati
+[10:18 --> 10:20] wasn't the first or last of anything,
+[10:21 --> 10:23] he was unique in a profound way. The
+[10:23 --> 10:25] first two dictators, who, like
+[10:25 --> 10:27] Cincinnati, served and then resigned,
+[10:28 --> 10:29] were men of a generation that
+[10:29 --> 10:31] remembered the Tarquins, remembered
+[10:31 --> 10:33] the tyranny, and would not think for
+[10:33 --> 10:34] a moment about seizing power for
+[10:34 --> 10:36] themselves so soon after they had
+[10:36 --> 10:39] thrown out the kings. Cincinnati, on
+[10:39 --> 10:40] the other hand, comes from the
+[10:40 --> 10:42] next generation, a generation that
+[10:42 --> 10:44] lived their entire lives under the
+[10:44 --> 10:46] Republic, and was thus the first man who
+[10:46 --> 10:48] had no memory of monarchy to be given
+[10:48 --> 10:51] absolute power. The temptation to keep
+[10:51 --> 10:53] it would not this time be tempered by
+[10:53 --> 10:55] memories of subjugation and struggle.
+[10:56 --> 10:57] But the virtue of Cincinnati's
+[10:57 --> 10:59] return to the people the power that
+[10:59 --> 11:01] was rightfully theirs. It was his
+[11:01 --> 11:03] resignation from dictatorship that
+[11:03 --> 11:04] really cemented the precedent for
+[11:04 --> 11:06] later Romans to relinquish
+[11:06 --> 11:08] dictatorial power and maintain the
+[11:08 --> 11:10] Republic, that thing of the people.
+[11:11 --> 11:13] In that case, Cincinnati really does
+[11:13 --> 11:14] deserve all the praise he has given
+[11:14 --> 11:16] for selflessly handing the reins of
+[11:16 --> 11:17] power back to the people, where it
+[11:17 --> 11:19] would remain for hundreds of years.
+[11:20 --> 11:22] In any case, any man who
+[11:22 --> 11:24] voluntarily gives up absolute power
+[11:24 --> 11:26] is a hero whose story rightfully is
+[11:26 --> 11:27] told.
+[11:28 --> 11:29] Next week we will learn more about
+[11:29 --> 11:31] the machinations of Malleus,
+[11:31 --> 11:33] a scoundrel of the highest order, as
+[11:33 --> 11:35] well as the events that led up to the
+[11:35 --> 11:37] final confrontation with Vie, a
+[11:37 --> 11:38] struggle that broke the back of
+[11:38 --> 11:41] Etruscan dominance, which, though a
+[11:41 --> 11:43] victory for Rome, opened the door for
+[11:43 --> 11:44] the Gauls to sweep in from the North
+[11:44 --> 11:46] and hand the Romans their most
+[11:46 --> 11:48] devastating defeat, almost ending the
+[11:48 --> 11:50] empire before it had a chance to
+[11:50 --> 11:51] really begin.
+[12:07 --> 12:07] you

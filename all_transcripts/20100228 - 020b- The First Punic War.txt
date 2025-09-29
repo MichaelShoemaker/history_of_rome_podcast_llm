@@ -1,0 +1,516 @@
+# 20100228 - 020b- The First Punic War
+# Detected language: en
+# Duration: 1376.05 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 20B, The First Punic War.
+[00:12 --> 00:18] After years of inconclusive fighting on and around Sicily, the Romans decided the time
+[00:18 --> 00:22] had finally come to stop fighting the tentacles of the Carthaginian Empire and stab right
+[00:22 --> 00:23] at its heart.
+[00:24 --> 00:28] They assembled a massive invasion fleet of 350 ships on the southern coast of
+[00:28 --> 00:33] Sicily and in 256 BC set sail for Africa.
+[00:34 --> 00:38] Though they were stalled by one of the largest naval battles in history, the Romans were
+[00:38 --> 00:41] able to regroup and set out once again no worse for the wear.
+[00:42 --> 00:47] They had been set back a few months, which threw a small monkey wrench into their plans,
+[00:47 --> 00:51] but the Romans remained focused and confident that they were on their way to sack Carthage
+[00:51 --> 00:52] and end the war.
+[00:53 --> 00:58] In charge of the operation was the senior consul for the year, Marcus Attilius Regulus.
+[01:00 --> 01:04] Originally, the plan in place had been to land about 50 miles southeast of Carthage,
+[01:05 --> 01:09] disembark the legions, set up a defensive perimeter, and begin the march on the enemy
+[01:09 --> 01:09] city.
+[01:11 --> 01:14] The logic behind landing down the road from Carthage and not right on their
+[01:14 --> 01:15] doorstep was twofold.
+[01:16 --> 01:21] First, the waters immediately surrounding Carthage were patrolled by the weakened
+[01:21 --> 01:23] but still powerful Carthaginian navy.
+[01:24 --> 01:28] The Romans concluded that any resistance they faced at sea would be far stiffer than
+[01:28 --> 01:29] any they met on land.
+[01:30 --> 01:35] Second, the Romans had no illusions about the ease of taking a great city like Carthage,
+[01:35 --> 01:39] so just as they had done with Syracuse, they knew they needed to isolate Carthage
+[01:39 --> 01:41] and cut off its supply lines.
+[01:42 --> 01:46] So, as the legions made their way to Carthage, they were supposed to convince locals along
+[01:46 --> 01:50] the way that Carthage was doomed and it was time to join the Roman side.
+[01:51 --> 01:55] Once the infantry reached Carthage, the bulk of the fleet would set up a blockade of the
+[01:55 --> 02:00] city outside the reach of the Carthaginian navy, but still standing between Carthage
+[02:00 --> 02:01] and its maritime supply routes.
+[02:02 --> 02:06] It was a good plan, but the Battle of Aeknomus had set it all back a few months
+[02:06 --> 02:10] and by the time the Romans finally landed in Africa, winter was fast approaching.
+[02:11 --> 02:15] There was no way to provision the entire force, which included something like 75,000
+[02:15 --> 02:20] rowers, so just like that, the carefully laid plan was tossed out and improvisation
+[02:21 --> 02:21] commenced.
+[02:22 --> 02:27] Most of the fleet was ordered back to Sicily, leaving Regulus in Africa with 15,000 infantry
+[02:27 --> 02:28] and 500 cavalry.
+[02:29 --> 02:33] His instructions were to hold the Roman position for the winter and do his level
+[02:33 --> 02:37] best to begin the process of turning Carthage's allies against them.
+[02:38 --> 02:42] Regulus though, had in mind for himself the glory of ending the war and decided
+[02:42 --> 02:45] to march for Carthage anyway, with or without naval support.
+[02:46 --> 02:51] He still understood the wisdom of isolating the Carthaginians though, and attacked Carthage's
+[02:51 --> 02:52] North African allies along the way.
+[02:54 --> 02:58] It was at one of these stops, about 40 miles from Carthage at the city of Aedes, that
+[02:58 --> 03:01] the Romans met their first real resistance from the Carthaginian army.
+[03:02 --> 03:07] However, afraid of meeting the Romans out on the plains, the Carthaginians took to
+[03:07 --> 03:10] the hills where they figured the strength of the legions would be diminished.
+[03:10 --> 03:14] This however was a disastrous strategy for two reasons.
+[03:14 --> 03:19] First, the Romans had just spent 60 years locked in a mortal death struggle with the
+[03:19 --> 03:22] Samnites and had learned every trick in the book when it came to hill fighting.
+[03:23 --> 03:27] And second, the one true superiority of the Carthaginian ground forces was their
+[03:27 --> 03:32] cavalry which, in the hills, were effectively taken out of the fight altogether.
+[03:33 --> 03:37] So after the Carthaginian generals carefully set themselves up to fail, all that was
+[03:37 --> 03:40] left to do was take the field and do just that.
+[03:40 --> 03:44] The Romans marched up into the hills and dislodged the Carthaginians with ease,
+[03:44 --> 03:45] driving them out of the area.
+[03:46 --> 03:49] The city of Aedes then surrendered without further resistance.
+[03:50 --> 03:53] The Carthaginian Senate was now beside itself.
+[03:53 --> 03:57] Its army had been dispatched with ease and the Romans were on the move.
+[03:58 --> 04:02] Adding to their despair, reports began to arrive that the fragile Carthaginian
+[04:02 --> 04:06] domination of the Libyans and Numidians was breaking down and
+[04:06 --> 04:07] revolts were flaring up.
+[04:08 --> 04:11] The defection of the Numidians was particularly distressing.
+[04:11 --> 04:15] In the whole of the Mediterranean, the Numidians were by far the best horsemen.
+[04:16 --> 04:19] Without the Numidian cavalry riding with them, the one advantage the
+[04:19 --> 04:21] Carthaginians did have would go out the window.
+[04:23 --> 04:26] Cut off from their allies and without an army strong enough to oppose the
+[04:26 --> 04:30] legions, the only option left to Carthage seemed to be negotiation.
+[04:30 --> 04:34] The riding was on the wall and when the Romans finally did arrive at Carthage,
+[04:34 --> 04:37] envoys, not an army, were sent to greet them.
+[04:38 --> 04:42] Regulus agreed to meet with them and by all accounts was about to receive
+[04:42 --> 04:45] significant concessions from the Carthaginians and bring an end to the
+[04:45 --> 04:49] long war when fate, or rather ego, stepped in.
+[04:50 --> 04:54] Intemperate in his demands, Regulus laid terms of surrender so preposterous
+[04:54 --> 04:56] that the Carthaginians were forced to refuse.
+[04:57 --> 05:01] He demanded the Carthaginians leave Sicily, Corsica, and Sardinia
+[05:01 --> 05:05] forever, that they completely dismantle their navy, pay a huge
+[05:05 --> 05:09] punitive fine to Rome, and as a final humiliation, sign a treaty
+[05:09 --> 05:12] that would place Carthage under the sovereignty of the Roman Senate.
+[05:13 --> 05:16] The Carthaginian envoys were shocked.
+[05:16 --> 05:19] Regulus was essentially acting as if he had defeated the Carthaginians
+[05:19 --> 05:23] in battle and was imposing terms rather than bargaining with a weak
+[05:23 --> 05:24] but still unconquered city.
+[05:25 --> 05:29] The Carthaginians were better off rejecting the terms and praying for a
+[05:29 --> 05:32] miracle than just giving away the farm without making the Romans even
+[05:32 --> 05:34] work for it.
+[05:34 --> 05:37] So the envoys returned to Carthage and announced that they had failed
+[05:37 --> 05:40] to give up, which is pretty hard to do when you think about it.
+[05:42 --> 05:44] But all was not completely lost for the Carthaginians.
+[05:45 --> 05:48] They had sent out feelers across the Mediterranean looking for aid
+[05:48 --> 05:52] and had hit upon a good lead in Greece, specifically in the
+[05:52 --> 05:54] legendarily martial city of Sparta.
+[05:55 --> 05:58] At the same time the negotiations were underway with Regulus,
+[05:58 --> 06:02] word came that a Spartan general with a small but lethal force of Greek
+[06:02 --> 06:03] mercenaries were on their way.
+[06:04 --> 06:07] The Carthaginian Senate hoped that this army from the east would turn out
+[06:07 --> 06:09] to be the miracle they had prayed for.
+[06:10 --> 06:13] So as Regulus settled in for the winter and dreamed of the triumph he
+[06:13 --> 06:16] would receive when the Carthaginians finally came to their senses,
+[06:17 --> 06:20] the Greek army arrived and though Regulus did not realize it yet,
+[06:20 --> 06:22] kicked glory out of his reach.
+[06:24 --> 06:28] The Spartan general, Xanthippus, set to work immediately by interviewing
+[06:28 --> 06:30] Carthaginian soldiers present at the Battle of Aedes.
+[06:31 --> 06:35] He was shocked to hear how badly the Carthaginian generals had mucked
+[06:35 --> 06:38] things up and concluded quickly that there was nothing wrong with
+[06:38 --> 06:40] the Carthaginian army itself, just its leadership.
+[06:41 --> 06:45] He was further convinced when he was tasked by the Carthaginian
+[06:45 --> 06:47] Senate with drilling their army into shape.
+[06:47 --> 06:50] As he watched them, he realized there was nothing wrong with the
+[06:50 --> 06:54] infantry, the cavalry was magnificent and the war elephants
+[06:54 --> 06:55] practically indestructible.
+[06:56 --> 06:58] He reported to the Senate that they had nothing to fear from the
+[06:58 --> 07:02] Romans and as soon as spring came, advised them to immediately
+[07:02 --> 07:04] challenge the legions in the open plains.
+[07:05 --> 07:08] The Senate was skeptical, but Xanthippus eventually moved them
+[07:08 --> 07:09] to order the attack.
+[07:11 --> 07:13] When spring did arrive and no treaty had been reached,
+[07:14 --> 07:15] Regulus began to get fidgety.
+[07:16 --> 07:19] When the Roman fleet returned to North Africa, they were sure
+[07:19 --> 07:21] to bring the new consuls for the year with them.
+[07:22 --> 07:26] Regulus had won the Battle of Aknamis, landed in North Africa
+[07:26 --> 07:27] and marched to the gates of Carthage.
+[07:28 --> 07:31] Now, with victory in his grasp, he was about to have to
+[07:31 --> 07:34] hand the baton off in the final 50 yards of the marathon
+[07:34 --> 07:37] and let some newbie cross the finish line and get all the
+[07:37 --> 07:37] glory.
+[07:38 --> 07:41] The clock was ticking, not on Rome's chances in North
+[07:41 --> 07:44] Africa, but on Regulus's chance to be the center of
+[07:44 --> 07:45] attention at the victory party.
+[07:47 --> 07:50] When the newly confident Carthaginian army marched out
+[07:50 --> 07:52] into the plains beside Carthage, was
+[07:52 --> 07:55] Xanthippus at its head, Regulus would have been wise
+[07:55 --> 07:58] to stall for time and wait for reinforcements from Rome
+[07:58 --> 07:59] to guarantee victory.
+[08:00 --> 08:02] His army was not large and had just spent the winter in
+[08:02 --> 08:06] enemy territory, but blinded by vanity, he jumped
+[08:06 --> 08:07] at the chance to fight.
+[08:08 --> 08:10] Conventional wisdom was that the Carthaginians were
+[08:10 --> 08:13] no match for the legions out in the open, and when
+[08:13 --> 08:16] Regulus saw them march out, his head was filled with
+[08:16 --> 08:18] visions of dining in Carthage that very night,
+[08:18 --> 08:21] which, of course, he did, just not in the way he
+[08:21 --> 08:22] imagined.
+[08:23 --> 08:26] The battle, to say the least, was an unmitigated
+[08:26 --> 08:27] disaster for Rome.
+[08:28 --> 08:30] Xanthippus saw clearly the advantage his superior
+[08:30 --> 08:33] cavalry afforded him, and Regulus's infantry
+[08:33 --> 08:35] deployment all but guaranteed Carthaginian
+[08:35 --> 08:37] victory before the battle even began.
+[08:38 --> 08:41] Xanthippus placed the war elephant at the head of
+[08:41 --> 08:43] his army and the cavalry on the wings.
+[08:43 --> 08:46] Regulus responded by deepening his line so the
+[08:46 --> 08:48] elephants could not break through them completely,
+[08:48 --> 08:51] but in order to do so, he had to sacrifice the width
+[08:51 --> 08:52] of his front.
+[08:53 --> 08:55] He essentially flipped the rettkangle that was his
+[08:55 --> 08:57] army so that the short end, rather than the
+[08:57 --> 08:59] broad side, were facing the Carthaginians.
+[09:01 --> 09:03] When Xanthippus saw Regulus order the new
+[09:03 --> 09:05] deployment, he knew victory was in his grasp.
+[09:06 --> 09:08] With the short in front, the Romans would be
+[09:08 --> 09:10] easily outflanked by the Carthaginian cavalry.
+[09:11 --> 09:13] Regulus couldn't have played into Xanthippus's
+[09:13 --> 09:15] hands more if he had tried.
+[09:17 --> 09:19] The battle began when Xanthippus sent the elephants
+[09:19 --> 09:22] in, who duly caused their patented brand of havoc.
+[09:23 --> 09:25] While the Romans were focused on the giant
+[09:25 --> 09:27] beasts, he ordered out the cavalry, which rooted
+[09:27 --> 09:29] their Roman counterparts easily.
+[09:30 --> 09:31] And just as the Romans were getting a handle on
+[09:31 --> 09:34] the elephants, they were hit from both sides by
+[09:34 --> 09:35] the Carthaginian cavalry.
+[09:36 --> 09:39] The Romans, now besieged from all fronts, fought
+[09:39 --> 09:41] for their lives, surging forward in an attempt
+[09:41 --> 09:43] to break out of the cavalry pincher.
+[09:44 --> 09:47] But waiting for them was the fresh and so far
+[09:47 --> 09:48] unused Carthaginian infantry.
+[09:50 --> 09:52] The exhausted Romans didn't stand a chance.
+[09:52 --> 09:54] Of the 15,000 or so who entered the battle,
+[09:55 --> 09:56] only 2,000 made it out alive.
+[09:57 --> 10:00] Of these, around 500 were taken prisoner,
+[10:00 --> 10:03] including Regulus himself, who, as I said,
+[10:03 --> 10:05] did indeed dine in Carthage that very evening,
+[10:06 --> 10:07] his hands hobbled by chains.
+[10:09 --> 10:11] When the Roman fleet finally arrived,
+[10:11 --> 10:14] it was not to preside over a final victory for Rome,
+[10:14 --> 10:16] but rather to pick up the pitiful survivors
+[10:16 --> 10:17] of a devastated army.
+[10:19 --> 10:21] The Roman adventure in North Africa was over,
+[10:21 --> 10:22] and it would be 50 years before they would
+[10:22 --> 10:24] attempt anything so audacious again.
+[10:26 --> 10:28] That time, though, young Scipio Africanus
+[10:28 --> 10:30] would lead the invasion and secure a much
+[10:30 --> 10:31] better result.
+[10:32 --> 10:34] To add insult to injury, when the Roman ships
+[10:34 --> 10:37] were returning from North Africa, a storm
+[10:37 --> 10:39] kicked up and sank the entire fleet.
+[10:39 --> 10:42] It was one of the worst maritime disasters
+[10:42 --> 10:42] in history.
+[10:43 --> 10:45] 100,000 men drowned, just like that.
+[10:46 --> 10:48] After news of the disaster reached Rome,
+[10:48 --> 10:50] the Senate took stock of the situation
+[10:50 --> 10:52] and realized that after 10 years of fighting,
+[10:52 --> 10:54] they were right back at square one.
+[10:56 --> 10:58] Xanthippus, clearly the best thing to ever happen
+[10:58 --> 11:01] to Carthage, was rewarded for his victory
+[11:01 --> 11:03] with public acclaim and private threats.
+[11:04 --> 11:06] The Carthaginian nobility was threatened
+[11:06 --> 11:08] by the brilliant Greek tactician,
+[11:08 --> 11:10] and it was not long before Xanthippus,
+[11:10 --> 11:12] fearing he would be assassinated
+[11:12 --> 11:13] by the jealous nobility if he remained
+[11:13 --> 11:16] in Carthage, left the city for good.
+[11:16 --> 11:18] The loss of so great a commander did nothing
+[11:18 --> 11:20] to help the Carthaginian war effort.
+[11:21 --> 11:22] It was one of the great blunders of the war
+[11:22 --> 11:25] that the nobility let their own paranoia
+[11:25 --> 11:27] take precedence over actually winning the fight.
+[11:28 --> 11:29] Xanthippus could have done great things
+[11:29 --> 11:32] for them, but he was never given a chance.
+[11:33 --> 11:35] The war now returned to Sicily.
+[11:36 --> 11:39] The Romans, with their seemingly bottomless reserves
+[11:39 --> 11:41] of men and money, enlisted tens of thousands
+[11:41 --> 11:44] of new soldiers and sent them off to continue the fight.
+[11:45 --> 11:47] Just as had happened before though,
+[11:47 --> 11:49] years of inconclusive fighting followed,
+[11:49 --> 11:51] and it led the Romans to conclude
+[11:51 --> 11:53] that they had to do something drastic
+[11:53 --> 11:55] to bring this interminable conflict to an end.
+[11:56 --> 11:57] The decision was made to attack
+[11:57 --> 11:59] the Carthaginian stronghold of Lillebom
+[11:59 --> 12:01] on the northwest coast of the island.
+[12:03 --> 12:04] A victory there would mean the end
+[12:04 --> 12:06] of a Carthaginian presence on Sicily,
+[12:07 --> 12:09] and the Romans prepared for the attack
+[12:09 --> 12:11] with all the energy and skill they could muster.
+[12:12 --> 12:14] They built a fleet of about 80 ships
+[12:14 --> 12:15] to blockade Lillebom's harbor
+[12:15 --> 12:17] and ordered the bulk of their land forces
+[12:17 --> 12:20] to the city with instructions to bring it to its knees.
+[12:21 --> 12:24] But despite the massive investment of time
+[12:24 --> 12:27] and money into siege equipment and provisions,
+[12:27 --> 12:29] the Carthaginians simply would not be moved.
+[12:30 --> 12:32] They had little trouble running the blockade,
+[12:32 --> 12:33] which the inexperienced Romans
+[12:33 --> 12:35] did a poor job of maintaining,
+[12:35 --> 12:37] and they kept themselves well supplied.
+[12:38 --> 12:41] In 249 BC, after about a year of getting nowhere,
+[12:42 --> 12:43] new consuls arrived at Lillebom,
+[12:44 --> 12:46] and one of them, Publius Claudius Pulcher,
+[12:46 --> 12:48] brought with him a bold plan.
+[12:49 --> 12:51] He gathered the military tribunes together
+[12:51 --> 12:52] and made his pitch.
+[12:53 --> 12:54] The Carthaginian fleet,
+[12:54 --> 12:56] which was anchored not far down the coast
+[12:56 --> 12:57] at a city called Drapana,
+[12:58 --> 13:01] believed the Romans were set on maintaining the blockade
+[13:01 --> 13:02] and posed no real threat.
+[13:03 --> 13:05] If the Romans sailed their 120 odd ships
+[13:05 --> 13:07] down the coast at night,
+[13:07 --> 13:09] they could surprise the Carthaginians
+[13:09 --> 13:11] and destroy their navy before they knew what hit them.
+[13:12 --> 13:14] Their ability to run the blockade crippled.
+[13:14 --> 13:17] It would only be a matter of time before Lillebom fell.
+[13:18 --> 13:21] With the eloquent certainty of a true Claudii,
+[13:21 --> 13:22] Pulcher won over the troops
+[13:22 --> 13:24] and preparations for the raid began immediately.
+[13:26 --> 13:29] However, Pulcher made one huge mistake
+[13:29 --> 13:30] at the outset of the operation
+[13:30 --> 13:31] that sealed his fate
+[13:31 --> 13:33] and secured his place in Roman history
+[13:33 --> 13:35] not as a great hero,
+[13:35 --> 13:37] but one of its greatest goats.
+[13:38 --> 13:39] Setting out for Drapana,
+[13:39 --> 13:41] he ordered that the auspices be taken
+[13:41 --> 13:43] and the sacred chickens consulted.
+[13:44 --> 13:46] In the great litany of Roman superstition,
+[13:47 --> 13:48] consulting with the sacred chickens
+[13:48 --> 13:50] has always been my personal favorite.
+[13:51 --> 13:53] A flock of chickens were always carried around
+[13:53 --> 13:53] with the army,
+[13:53 --> 13:55] and just before a battle,
+[13:55 --> 13:57] an auger would scatter feed in front of them.
+[13:58 --> 13:59] If the sacred chickens ate,
+[13:59 --> 14:01] it meant victory was assured.
+[14:01 --> 14:02] But if they did not,
+[14:02 --> 14:04] the prudent commander held up his attack
+[14:04 --> 14:05] for another day.
+[14:06 --> 14:06] Pulcher, however,
+[14:07 --> 14:09] had no time for such ridiculous piety,
+[14:09 --> 14:11] and when the sacred chickens refused to eat,
+[14:11 --> 14:13] he ordered them thrown overboard,
+[14:13 --> 14:14] saying famously,
+[14:14 --> 14:15] if they're not hungry,
+[14:15 --> 14:16] maybe they're thirsty.
+[14:17 --> 14:18] He sailed off into battle,
+[14:19 --> 14:20] though how he expected to win
+[14:20 --> 14:22] without the approval of the sacred chickens
+[14:22 --> 14:23] is a mystery.
+[14:25 --> 14:26] The debacle that followed
+[14:26 --> 14:28] left the Carthaginians stronger than ever.
+[14:28 --> 14:30] Pulcher's fleet got started late
+[14:30 --> 14:32] and was noticed by Carthaginian lookouts
+[14:32 --> 14:34] before they were within striking distance.
+[14:35 --> 14:37] They immediately responded by outmaneuvering
+[14:37 --> 14:39] and trapping Pulcher's fleet against the coast,
+[14:40 --> 14:41] where they were smashed against the rocks.
+[14:42 --> 14:45] Of the 120 Roman ships that set sail,
+[14:45 --> 14:46] only 30 returned.
+[14:47 --> 14:48] The dream of taking Lillebom
+[14:48 --> 14:50] had now passed into complete fantasy.
+[14:52 --> 14:53] The other consul for the year
+[14:53 --> 14:55] attempted to reprovision the Roman troops
+[14:55 --> 14:56] left at Lillebom
+[14:56 --> 14:58] by sailing around the south end of the island,
+[14:58 --> 15:00] but lost all his ships in yet another storm.
+[15:01 --> 15:03] He himself managed to survive
+[15:03 --> 15:04] and make his way to Lillebom,
+[15:04 --> 15:07] where he declared an end to the siege and withdrew.
+[15:08 --> 15:11] When the First Punic War finally ended eight years later,
+[15:11 --> 15:13] Lillebom remained unconquered.
+[15:14 --> 15:16] But the Romans were not done yet.
+[15:17 --> 15:19] They withdrew their troops to Mount Erex,
+[15:19 --> 15:21] a mountain in the west center of the island.
+[15:21 --> 15:23] By taking the strategic high ground,
+[15:23 --> 15:26] they were able to bottle up the Carthaginian land forces
+[15:26 --> 15:29] in their two garrisons, Lillebom and Drapana.
+[15:30 --> 15:32] The war had now come full circle.
+[15:32 --> 15:33] The Romans controlled the land
+[15:33 --> 15:35] and the Carthaginians the sea.
+[15:35 --> 15:37] Neither was strong enough to beat the other
+[15:37 --> 15:39] in their respective sphere of dominance,
+[15:39 --> 15:41] and a new stalemate commenced.
+[15:42 --> 15:44] By this time though,
+[15:44 --> 15:46] both sides were broke and short of manpower
+[15:46 --> 15:47] and facing problems elsewhere.
+[15:48 --> 15:51] The Gauls were stirring on Rome's northern frontier
+[15:51 --> 15:54] and North Africa was in revolt against Carthaginian rule.
+[15:55 --> 15:57] The enemies of Rome and Carthage seemed to have finally noticed
+[15:57 --> 15:59] that the two combatants were beating each other
+[15:59 --> 16:01] into a state of exhaustion in Sicily
+[16:01 --> 16:03] and set about trying to exploit the situation.
+[16:05 --> 16:07] So for the next seven years,
+[16:07 --> 16:10] Sicily became a neglected backwater war zone.
+[16:11 --> 16:12] The Carthaginians,
+[16:12 --> 16:15] under the command of a new general, Hamilcar Baracca,
+[16:15 --> 16:17] was reduced to running a guerrilla war
+[16:17 --> 16:18] and hoping that the Romans
+[16:18 --> 16:20] would just quit the island out of frustration.
+[16:21 --> 16:23] The center of the action was at Mount Erex,
+[16:24 --> 16:26] where the strongest Roman garrison was stationed
+[16:26 --> 16:28] and where Hamilcar directed the majority of his attacks.
+[16:30 --> 16:33] In 244 BC, Hamilcar finally managed to drive the Romans
+[16:33 --> 16:35] out and hold the high ground for himself.
+[16:36 --> 16:37] For the next three years,
+[16:38 --> 16:39] he would use the mountain as a base
+[16:39 --> 16:41] while he prosecuted his asymmetrical war
+[16:41 --> 16:42] against the Romans,
+[16:43 --> 16:45] under man and under supplied by the Carthaginian Senate,
+[16:46 --> 16:48] who, after a political party shift,
+[16:48 --> 16:50] had lost all interest in the war against Rome.
+[16:52 --> 16:55] Seeing Carthaginian interest at an all-time low,
+[16:55 --> 16:57] the Romans decided to make their final,
+[16:57 --> 16:58] final push to win the war.
+[17:00 --> 17:02] After failing first in North Africa and then at Lillebom,
+[17:03 --> 17:05] the Romans, eternal optimists that they were,
+[17:06 --> 17:08] decided that the time for victory had finally come.
+[17:09 --> 17:11] They built a new, new fleet,
+[17:11 --> 17:12] starting a navy from scratch
+[17:12 --> 17:14] for the fourth time of the war.
+[17:15 --> 17:17] The Carthaginian fleet had been removed from Sicily
+[17:17 --> 17:19] after the disappearance of Rome from the seas
+[17:19 --> 17:20] a few years earlier,
+[17:21 --> 17:22] and there was nothing standing in the way of the Romans
+[17:22 --> 17:25] as they once again blockaded Lillebom and Drapana,
+[17:26 --> 17:28] the last two Carthaginian outposts on the island.
+[17:30 --> 17:31] This time, the blockades worked
+[17:31 --> 17:33] and the garrisons were slowly starved out.
+[17:34 --> 17:36] The Carthaginians suddenly became interested
+[17:36 --> 17:39] in Sicily again and launched their entire fleet
+[17:39 --> 17:40] to drive the Romans off.
+[17:41 --> 17:42] But the hastily mustered crews
+[17:42 --> 17:45] were this time less experienced than the Romans,
+[17:45 --> 17:47] who had been at sea for some time.
+[17:48 --> 17:50] Around the northwest coast of Sicily,
+[17:50 --> 17:52] the last battle of the war was fought,
+[17:52 --> 17:55] the Romans decisively routing the Carthaginian navy.
+[17:56 --> 17:57] The garrison's about to fall
+[17:57 --> 18:00] and with no way of keeping himself provisioned,
+[18:00 --> 18:02] Hamilcar reluctantly opened negotiations
+[18:02 --> 18:03] with the Romans.
+[18:04 --> 18:05] The final treaty,
+[18:06 --> 18:08] hammered out by Hamilcar and his Roman counterpart,
+[18:08 --> 18:10] read, there shall be peace
+[18:10 --> 18:12] between the Carthaginians and the Romans,
+[18:13 --> 18:14] subject to the approval by the Roman people
+[18:14 --> 18:16] upon these conditions.
+[18:17 --> 18:19] The Carthaginians shall relinquish every part of Sicily.
+[18:20 --> 18:21] They are not to make war against Cairo
+[18:21 --> 18:24] nor do anything to disturb the Syracusans
+[18:24 --> 18:25] or their allies.
+[18:26 --> 18:28] All the Roman prisoners will be returned without ransom
+[18:28 --> 18:31] and a tribute of 200 talents of silver
+[18:31 --> 18:32] paid within 20 years.
+[18:34 --> 18:35] Returning to Carthage,
+[18:36 --> 18:37] Hamilcar immediately began to look elsewhere
+[18:37 --> 18:40] for an opportunity to make up for Carthage's loss
+[18:40 --> 18:42] of Sicily and set his sights on Spain.
+[18:43 --> 18:45] He did not forget the humiliation
+[18:45 --> 18:47] of having to abandon Mount Erex, however,
+[18:47 --> 18:49] and as he sailed north with his eldest son,
+[18:49 --> 18:50] Hannibal, in tow,
+[18:50 --> 18:52] he made the nine-year-old boy swear an oath
+[18:52 --> 18:54] of eternal hatred for the Romans,
+[18:55 --> 18:55] which the boy did.
+[18:56 --> 18:58] It was an oath Hannibal never forgot
+[18:58 --> 19:00] and he would dedicate his entire life
+[19:00 --> 19:01] to the destruction of the Romans,
+[19:02 --> 19:03] the mortal enemy of his family.
+[19:06 --> 19:07] The First Punic War was now over
+[19:07 --> 19:09] and Rome was the clear victor.
+[19:10 --> 19:11] However, the peace settlement
+[19:11 --> 19:13] did not address the larger issues
+[19:13 --> 19:15] still facing the two strongest empires
+[19:15 --> 19:16] in the western Mediterranean.
+[19:18 --> 19:20] Yes, Rome had won control of Sicily
+[19:20 --> 19:22] and the Carthaginians had been forced to retreat,
+[19:22 --> 19:24] but the North Africans were undeterred
+[19:24 --> 19:26] in their quest for territorial expansion.
+[19:27 --> 19:29] The First Punic War settled the issue
+[19:29 --> 19:30] of who controlled the island of Sicily,
+[19:31 --> 19:33] but did nothing to settle the larger issues
+[19:33 --> 19:34] of who controlled the greater Mediterranean.
+[19:35 --> 19:37] In that larger game,
+[19:37 --> 19:39] the Carthaginians still obviously felt confident
+[19:39 --> 19:40] that they could win.
+[19:41 --> 19:44] The First Punic War, as I said last week,
+[19:44 --> 19:46] was marked by poor judgment on both sides
+[19:46 --> 19:49] and ironically, it was the victorious Romans
+[19:49 --> 19:51] who seemed to make more boneheaded moves
+[19:51 --> 19:53] than the defeated Carthaginians.
+[19:54 --> 19:56] Regulus blew an opportunity to end the war
+[19:56 --> 19:58] and because he let his ego get in the way,
+[19:59 --> 20:00] the conflict dragged on 10 years longer
+[20:00 --> 20:01] than it should have.
+[20:02 --> 20:04] The neophyte Roman sailors
+[20:04 --> 20:06] managed to lose two entire fleets to storms,
+[20:07 --> 20:09] storms they were warned about in advance, by the way,
+[20:10 --> 20:12] and another to Claudius Poulcher's botched midnight raid.
+[20:13 --> 20:15] If it had been anyone else,
+[20:15 --> 20:17] each of these disasters by themselves
+[20:17 --> 20:19] would have been enough to shut down the war,
+[20:19 --> 20:21] but the Romans were able to absorb the losses
+[20:21 --> 20:23] and it was their deep pockets
+[20:23 --> 20:24] more than battlefield skill,
+[20:25 --> 20:26] which they rode to victory.
+[20:27 --> 20:29] The Carthaginians, for their part,
+[20:30 --> 20:31] found themselves succumbing as much
+[20:31 --> 20:34] to the reputation of the Romans as anything else.
+[20:35 --> 20:37] Despite the fact that Xanthippus clearly demonstrated
+[20:37 --> 20:39] that the Romans could be beaten on land,
+[20:39 --> 20:41] the Carthaginians were reluctant
+[20:41 --> 20:42] to invest in their land forces.
+[20:44 --> 20:45] After the last of their fleet
+[20:45 --> 20:47] was dashed on the rocks in 248 BC,
+[20:48 --> 20:50] the Romans essentially ceded the water to Carthage.
+[20:51 --> 20:53] But with one theater of the war now shut down,
+[20:54 --> 20:56] the Carthaginians failed to capitalize on it
+[20:56 --> 20:58] and divert resources to the other theater
+[20:58 --> 21:00] and left Hamilcar to run a guerrilla war
+[21:00 --> 21:02] on a shoestring budget,
+[21:02 --> 21:04] rather than give him men and money
+[21:04 --> 21:06] to prosecute a real ground attack.
+[21:07 --> 21:08] The winner of the first Punic War
+[21:08 --> 21:10] was always going to be the side
+[21:10 --> 21:12] that succeeded on the other team's field.
+[21:13 --> 21:14] So it went to the Romans,
+[21:14 --> 21:16] who finally raised one last navy.
+[21:17 --> 21:19] If the Carthaginians had sucked it up
+[21:19 --> 21:20] and done the same thing,
+[21:21 --> 21:23] only building an army rather than a navy,
+[21:23 --> 21:25] they may have succeeded in pushing
+[21:25 --> 21:27] the war-weary Romans off the island.
+[21:28 --> 21:30] It would have been an interesting historical turn
+[21:30 --> 21:31] had that occurred.
+[21:32 --> 21:34] The war marked the first time Rome fought outside of Italy
+[21:34 --> 21:36] and had they lost,
+[21:36 --> 21:38] overseas fighting may have left
+[21:38 --> 21:39] a bad enough taste in their mouth
+[21:39 --> 21:41] that they would have contented themselves
+[21:41 --> 21:43] with merely an Italian empire.
+[21:44 --> 21:45] As it stood now, however,
+[21:46 --> 21:47] Rome's first overseas adventure
+[21:47 --> 21:49] had left them with a rich new province
+[21:49 --> 21:52] and it merely whetted their appetite for more.
+[21:54 --> 21:56] Next week, we will cover the years
+[21:56 --> 21:58] between the first and second Punic Wars.
+[21:59 --> 22:01] Rome would face a Gallic army
+[22:01 --> 22:02] pressing down from the north
+[22:02 --> 22:05] and also make their first foray east,
+[22:05 --> 22:07] landing an army on the far side of the Adriatic.
+[22:08 --> 22:09] All the while,
+[22:10 --> 22:12] Carthage was consolidating its holdings in Spain.
+[22:13 --> 22:15] Both sides knew the peace between them
+[22:15 --> 22:16] could not last forever.
+[22:16 --> 22:17] It was only a matter of time
+[22:17 --> 22:20] before hostilities between the two great powers resumed.
+[22:21 --> 22:24] In 218 BC, the peace would finally break
+[22:24 --> 22:27] and Hannibal Baraka would make good on his oath,
+[22:27 --> 22:29] descend into Italy and wreak havoc
+[22:29 --> 22:31] not just in the Roman countryside
+[22:31 --> 22:32] but in the Roman mine.

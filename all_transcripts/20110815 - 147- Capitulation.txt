@@ -1,0 +1,315 @@
+# 20110815 - 147- Capitulation
+# Detected language: en
+# Duration: 1512.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:15] Hello, and welcome to the History of Rome, Episode 147, Capitulation.
+[00:15 --> 00:19] Last week, we left off with the Eastern Legions in a bit of a scrape.
+[00:19 --> 00:24] The Emperor Julian was dead, he had not named a successor, and they were surrounded on all
+[00:24 --> 00:28] sides by a hostile, sassanid army.
+[00:28 --> 00:31] Any one of those things taken alone would have been pretty rotten.
+[00:31 --> 00:39] But taken together, well, let's break out the popcorn and see what happens next.
+[00:39 --> 00:43] After news of Julian's death got out, the senior officers of the army got together and
+[00:43 --> 00:47] tried to figure out what the hell they were going to do next.
+[00:47 --> 00:53] Naturally, the first order of business was figuring out who was in charge.
+[00:53 --> 00:58] After all, a good chain of command can't just peter out into a mud puddle of cavalry
+[00:58 --> 01:00] officers and supply chiefs.
+[01:00 --> 01:04] Someone's got to be the eye in the pyramid.
+[01:04 --> 01:08] With no imperial relatives around to make the choice easy on them, the officers turned
+[01:08 --> 01:15] to the most obvious non-royal candidate, the senior praetorian prefect, Saturninus Secundus
+[01:15 --> 01:17] Salutius.
+[01:17 --> 01:22] The prefect was universally respected, and from the moment Julian had been named Caesar,
+[01:22 --> 01:28] Salutius had been one of the emperor's closest and most influential advisors.
+[01:28 --> 01:32] He had been so trusted, in fact, that when Julian had formed the commission to oversee
+[01:32 --> 01:40] the post-Constantius purge of the imperial court, Salutius had been its chairman.
+[01:40 --> 01:43] Elevated to the rank praetorian prefect of the east after the commission wrapped up its
+[01:43 --> 01:49] business, Salutius was the highest ranking official in the tent after Julian died.
+[01:49 --> 01:54] So the senior officers of the army tried to make him emperor.
+[01:54 --> 01:59] But Salutius begged off, pleading that he was too old and too sick for such an exhausting
+[01:59 --> 02:00] job.
+[02:00 --> 02:07] Also, man, is now really the best time to become emperor?
+[02:07 --> 02:12] So the officers went back to the drawing board and came up with a surprising new candidate,
+[02:12 --> 02:17] a man who at the very least would not be able to cite Arthritis as an excuse to get out
+[02:17 --> 02:25] of the promotion, captain of the imperial bodyguard, Flavius Jovianus.
+[02:25 --> 02:31] The choice of Jovian was surprising not just because he was only 31 years old, but also
+[02:31 --> 02:33] because he was a relative unknown.
+[02:33 --> 02:39] That is, he was not some high official or long-serving officer with a lifetime of experience
+[02:39 --> 02:42] under his belt and friends in all corners of the empire.
+[02:43 --> 02:48] Plus, while he was a fine officer, he had likely risen as high as he had, as fast as
+[02:48 --> 02:54] he had, not because of merit, but because his father had served for years in that same
+[02:54 --> 02:57] post.
+[02:57 --> 03:01] So though his sudden elevation to the purple is surprising, I reckon that Jovian got the
+[03:01 --> 03:04] call for two main reasons.
+[03:04 --> 03:09] First, because there were enough internal rivalries between the officers that, after
+[03:10 --> 03:14] any unanimous choice was going to have to be a lesser candidate because all the better
+[03:14 --> 03:18] candidates had enemies in the room.
+[03:18 --> 03:25] And second, again, man, is now really the best time to become emperor?
+[03:25 --> 03:30] Ammionus Marcellinus reports that Jovian was such an unexpected choice that when the soldiers
+[03:30 --> 03:35] cheered his elevation, it is possible that they completely misunderstood who they were
+[03:35 --> 03:36] cheering.
+[03:36 --> 03:40] That some thought they were hailing a high notary named Jovianus, while others thought
+[03:40 --> 03:45] they were cheering a recovered Julian.
+[03:45 --> 03:52] But despite coming out of nowhere, Jovian was not exactly coming out of nowhere.
+[03:52 --> 03:57] He was born around 331 in Illyria, making him roughly the same age as Julian, and as
+[03:57 --> 04:02] I mentioned, he was the son of a highly regarded officer who had risen to become captain of
+[04:03 --> 04:06] Second's personal bodyguard.
+[04:06 --> 04:11] Jovian was also, coincidentally enough, the son-in-law of the commander of the Sirmium
+[04:11 --> 04:18] garrison who Julian had kidnapped just prior to taking the city in mid-361.
+[04:18 --> 04:23] There are two interesting things to note about Jovian's rise in the ranks that speak to
+[04:23 --> 04:25] Julian's character.
+[04:25 --> 04:30] First, Julian was not necessarily one to hold a family grudge.
+[04:30 --> 04:36] Both Jovian's father and father-in-law had been loyal to Constantius II, which you would
+[04:36 --> 04:40] think would be the sort of thing that would actually preclude Jovian from being promoted
+[04:40 --> 04:45] to such a key position, but apparently it was not.
+[04:45 --> 04:52] Second, Jovian was openly Christian, which contradicts any notion that Julian was an
+[04:52 --> 04:54] anti-Christian extremist.
+[04:54 --> 05:00] He was anti-Christian, sure, but a good officer was a good officer, and good officers were
+[05:00 --> 05:03] in short supply.
+[05:03 --> 05:08] The presence in the army of Valentinian, who we will get to in a moment, further speaks
+[05:08 --> 05:14] to the surprisingly limited extent of Julian's religious intolerance, which is to say that
+[05:14 --> 05:22] when push came to shove for Julian, talent often trumped religion.
+[05:22 --> 05:27] Before I get off this point, I should note also, though, that the same was true for Constantine
+[05:27 --> 05:28] and his sons.
+[05:29 --> 05:34] Yes, they were Christian and promoted Christianity and tried to push paganism to the fringes,
+[05:34 --> 05:39] but during the period between the Milvian Bridge and the revolt of Julian, polytheist
+[05:39 --> 05:45] officers and polytheist officials continued to occupy key positions in the military and
+[05:45 --> 05:47] in the government.
+[05:47 --> 05:53] The emperors were pragmatic men ruling in difficult times, and talent was not just something
+[05:53 --> 06:02] you could discard, even if there was a larger religious battle to fight.
+[06:02 --> 06:08] In terms of the sheer ugliness of the situation an emperor walked into upon donning the purple,
+[06:08 --> 06:14] there were few situations uglier than the one Jovian walked into.
+[06:14 --> 06:19] Probably only the ascension of Gallus, who came to power after the disaster at Abertus,
+[06:19 --> 06:25] holds Jovian's ascension in terms of its terrible no-goodness.
+[06:25 --> 06:31] In both cases, an emperor was dead at the enemy's hand, that enemy was still at hand,
+[06:31 --> 06:36] and the Roman army was mentally and physically broken.
+[06:36 --> 06:42] Which is why only Gallus could probably appreciate what Jovian did next.
+[06:42 --> 06:47] Certainly none of Jovian's contemporaries demonstrated any appreciation for it at all.
+[06:47 --> 06:53] It's easy to demand vigor and resiliency, and if that fails, noble self-sacrifice, when
+[06:53 --> 06:57] you're safely tucked thousands of miles away at the imperial capital.
+[06:57 --> 07:05] Much harder when you're actually standing there, plausibly facing total annihilation.
+[07:05 --> 07:10] The new emperor at first attempted to continue the retreat towards Armenia, but the loss
+[07:10 --> 07:16] of Julian had destroyed morale, so he did what he no doubt felt he had to do.
+[07:16 --> 07:24] He sent envoys to Shapur, and asked what the price would be for safe passage home.
+[07:24 --> 07:29] Shapur was delighted by this turn of events, and replied that the terms would be simple.
+[07:29 --> 07:35] Give back all the territory ceded to Galerius by the Treaty of Nispis, exactly what the
+[07:35 --> 07:41] Sassanid king had demanded of Constantius back in 357.
+[07:41 --> 07:45] This meant the Romans would have to evacuate all the fortress cities that had acted as
+[07:45 --> 07:49] their forward line of defense, and pull out of all the territory they occupied on the
+[07:49 --> 07:51] far side of the Tigris.
+[07:51 --> 07:57] The one added term Shapur tacked on was a guarantee of Armenian neutrality in all future
+[07:57 --> 08:02] conflicts between the two empires.
+[08:02 --> 08:07] The terms were harsh, and essentially amounted to total capitulation for the Romans, but
+[08:07 --> 08:10] Jovian had little choice.
+[08:10 --> 08:16] For him, the deal boiled down to capitulate with your army left intact, or capitulate
+[08:16 --> 08:18] after it has been destroyed.
+[08:18 --> 08:23] Sure, in the latter case maybe you get to go out fighting, but was that really in the
+[08:23 --> 08:26] best interests of the empire long term?
+[08:26 --> 08:33] To lose its whole eastern army in battle just for the sheer stubborn glory of it all?
+[08:34 --> 08:40] Jovian, probably glad Shapur wasn't asking for more, accepted the terms.
+[08:40 --> 08:45] The Romans were granted safe passage back to Syria.
+[08:45 --> 08:50] Julian had gone out looking for victory for victory's sake, and the army instead returned
+[08:50 --> 08:56] with nothing to show for it, but defeat for the sake of survival.
+[08:56 --> 09:03] Now, I would be remiss if I did not point out that there is another way to look at the
+[09:03 --> 09:05] Roman surrender.
+[09:05 --> 09:11] For example, Ammianus Marcellinus states that Jovian misunderstood the tactical realities
+[09:11 --> 09:13] of the situation.
+[09:13 --> 09:18] That the new emperor was mistaken in his belief that the cause was hopeless, because Shapur
+[09:18 --> 09:22] was actually much weaker than he appeared.
+[09:22 --> 09:25] And it is worth asking a few questions.
+[09:25 --> 09:30] If the cause was so hopeless, why hadn't the Sassanids crushed the Romans yet?
+[09:30 --> 09:35] If the cause was so hopeless, why had Shapur asked only for withdrawal from the land beyond
+[09:35 --> 09:36] the Tigris?
+[09:36 --> 09:39] Why not demand all of Mesopotamia?
+[09:39 --> 09:45] Why not demand the Roman army lay down its arms before they headed home?
+[09:45 --> 09:50] The answers to these questions no doubt lie in Shapur's own evaluation of the situation,
+[09:50 --> 09:54] which likely jibes with Marcellinus' assessment.
+[09:54 --> 09:58] That the Romans were run down, but they weren't beaten yet.
+[09:58 --> 10:02] But it was best not to risk asking the Romans for too much, because if they decided they
+[10:02 --> 10:10] had to fight on, well, this isn't exactly a case of the ant begging the foot for mercy.
+[10:10 --> 10:15] Shapur clearly did not think he held the lives of the Romans in the palm of his hand, otherwise
+[10:15 --> 10:18] the terms would have been even harsher.
+[10:18 --> 10:25] Indeed, if Jovian had decided to keep on fighting, it is very possible that the fortunes of war
+[10:25 --> 10:30] could have turned this all from a Roman debacle into a Roman victory, a fact the Sassanid
+[10:30 --> 10:34] king must have been acutely aware of.
+[10:34 --> 10:40] So when the emperor came calling, Shapur jumped at the chance to end this thing on favorable
+[10:40 --> 10:41] terms.
+[10:41 --> 10:46] Remember, he had never wanted this war in the first place, because he did not think
+[10:46 --> 10:54] he was strong enough to beat the Romans without it costing him big time.
+[10:54 --> 10:59] All that said, however, a strategy that pins its hopes on the fortunes of war suddenly
+[10:59 --> 11:04] turning your way risks an awful lot.
+[11:04 --> 11:10] In this case, it meant risking the safety of the entire eastern empire.
+[11:10 --> 11:15] If the expeditionary army was destroyed, then there would be nothing to stop Shapur from
+[11:15 --> 11:20] sacking Antioch, and maybe even from sacking Alexandria.
+[11:20 --> 11:22] It was just that simple.
+[11:22 --> 11:27] At a minimum, any further fighting would just mean more dead Roman soldiers.
+[11:27 --> 11:33] Not dead for any purpose, but dead because the invasion had been a bad idea, poorly executed,
+[11:33 --> 11:37] and no one wanted to admit it.
+[11:37 --> 11:43] Sometimes you just have to grit your teeth, tip your cap, and go home.
+[11:43 --> 11:44] And what was the cost?
+[11:44 --> 11:46] Some land beyond the Tigris?
+[11:46 --> 11:48] No one was ceding Syria.
+[11:48 --> 11:51] No one was handing over Egypt.
+[11:51 --> 11:56] Everyone was accepting mild defeat, rather than risk appalling defeat.
+[11:56 --> 11:58] Was it the optimum outcome?
+[11:58 --> 12:00] Of course not.
+[12:00 --> 12:05] Especially when you factor in that the surrender, of course, emboldened Shapur and left later
+[12:05 --> 12:11] Romans hungry for revenge, which virtually guaranteed continued strife along the eastern
+[12:11 --> 12:14] frontier for another generation.
+[12:14 --> 12:20] And as you may or may not know, that strife will one day prove so distracting that the
+[12:20 --> 12:25] issue of what to do about the horde of Goths that just showed up on the Danube asking for
+[12:25 --> 12:28] asylum will be badly mishandled.
+[12:28 --> 12:32] And I mean, badly mishandled.
+[12:32 --> 12:33] Who knows?
+[12:33 --> 12:37] Maybe a mutually destructive fight in the desert would have led to an exhausted peace
+[12:37 --> 12:44] in the east that would have left the Romans free to deal with the incoming Goths responsibly.
+[12:44 --> 12:47] But now I'm just kind of wandering off topic.
+[12:47 --> 12:49] Jovian made the deal.
+[12:49 --> 12:56] The Roman army headed home intact.
+[12:56 --> 13:01] When Jovian and his exhausted men arrived back in Roman territory, the reaction to his
+[13:01 --> 13:05] peace deal was immediate and negative.
+[13:05 --> 13:09] The ruling narrative quickly became that Jovian was a coward who had sold out the empire to
+[13:09 --> 13:12] save his own skin.
+[13:12 --> 13:17] In an age when military victory and political legitimacy were one in the same, just ask
+[13:17 --> 13:24] Julian, Jovian had committed the unforgivable sin of surrender.
+[13:24 --> 13:28] It would have been interesting to see just how long Jovian would have been able to stay
+[13:28 --> 13:33] in power given this albatross hanging around his neck.
+[13:33 --> 13:38] We'll never know, of course, because, well, we'll get to that in a second.
+[13:38 --> 13:44] But it is hard to imagine too much time passing before Jovian faced either a palace coup or
+[13:44 --> 13:49] a military revolt.
+[13:49 --> 13:53] By all accounts, the emperor was acutely aware of his unpopularity.
+[13:53 --> 13:59] But before heading to Constantinople, he lingered in Antioch and began the process of returning
+[13:59 --> 14:02] the empire to Christianity.
+[14:02 --> 14:06] The fact that he was personally a Christian had to have played a major role in his subsequent
+[14:06 --> 14:08] edicts.
+[14:08 --> 14:12] But it's easy to imagine the new emperor also believed he was laying the foundations
+[14:12 --> 14:14] for his own base of power.
+[14:14 --> 14:18] Reinstate the Christians, get the support of the Christians.
+[14:18 --> 14:22] Isn't that how these things work?
+[14:22 --> 14:28] To this end, Julian unrolled most of the restrictions on Christian practices and revived most of
+[14:28 --> 14:31] the restrictions on pagan practices.
+[14:31 --> 14:39] The empire would never again return to its polytheistic roots.
+[14:39 --> 14:43] In November of 363, Jovian felt that things were settled enough in the east that he could
+[14:43 --> 14:50] afford to head to Constantinople and face his political unpopularity head on.
+[14:50 --> 14:55] He knew that he was likely walking into a viper's nest of backstabbers, because, after
+[14:55 --> 14:59] all, in addition to being the man who had surrendered the eastern legions, he wasn't
+[14:59 --> 15:06] even a member of the Constantinian dynasty, so who did he think he was anyway?
+[15:06 --> 15:10] It was going to be a tough sell, but Jovian was a tough guy and ready to do what he had
+[15:10 --> 15:17] to do to secure the throne for years to come, except, yeah, it's not going to happen.
+[15:17 --> 15:23] In February of 364, Jovian was heading down the home stretch in between Ancyra and Nicaea
+[15:23 --> 15:26] when he suddenly died.
+[15:26 --> 15:33] Some sources point to carbon monoxide poisoning, while others point to poison mushrooms.
+[15:33 --> 15:38] A few later sources take it on faith that the emperor was assassinated, but most modern
+[15:38 --> 15:42] scholars seem to come down squarely on the side of a freak accident.
+[15:42 --> 15:48] I, for one, am under the impression that Livia did it.
+[15:48 --> 15:53] Whatever or whoever it was that killed Jovian, he was 32 years old when he died and had ruled
+[15:53 --> 15:59] the empire for just eight months.
+[15:59 --> 16:04] I hate to say this because I'm fairly sympathetic to Jovian, but I think his death was a blessing
+[16:04 --> 16:05] for Rome.
+[16:05 --> 16:11] I really don't see how the empire survives the next few years or even the next few months
+[16:11 --> 16:15] without some kind of disastrous civil war.
+[16:15 --> 16:19] There had already been riots in Milan when Julian's death was announced, riots that
+[16:19 --> 16:23] wound up killing Jovian's father-in-law, by the way, who had been the one to read the
+[16:23 --> 16:26] announcement.
+[16:26 --> 16:28] Julian was a political newcomer.
+[16:28 --> 16:33] He had no connection to the previous dynasty, and he had just surrendered to the Sassanids.
+[16:33 --> 16:38] You take these three things together and you get big red flashing lights going off in the
+[16:38 --> 16:44] head of every ambitious general and prefect in the empire.
+[16:44 --> 16:48] Though Rome would still have to deal with the brief revolt of Julian's maternal cousin
+[16:48 --> 16:54] Procopius, I don't think that that even touches the kind of civil discord that probably would
+[16:54 --> 16:57] have broken out had Julian lived.
+[16:57 --> 17:02] That's just speculation on my part, but I think the combination of Valentinian and Valens
+[17:02 --> 17:12] offered a much stronger imperial hand than Jovian would have ever been able to provide.
+[17:12 --> 17:15] Which brings us to Valentinian and Valens.
+[17:15 --> 17:18] Who are Valentinian and Valens, you ask?
+[17:18 --> 17:20] Well, I'll tell you.
+[17:20 --> 17:25] The former was a highly regarded officer who was in the right place at the right time,
+[17:25 --> 17:30] and the latter was that guy's brother.
+[17:30 --> 17:36] Flavius Valentinianus had been born in 321 in Pannonia, and was the son of an important
+[17:36 --> 17:39] general named Gracianus.
+[17:39 --> 17:44] Gracianus had spent most of his career in the west, and he reached the uppermost rungs
+[17:44 --> 17:48] of the chain of command during the reign of Constans.
+[17:48 --> 17:53] Young Valentinian joined the army just after Constans took control of all the western provinces
+[17:53 --> 18:01] in 340, and he followed his father to postings first in North Africa, and then in Britain.
+[18:01 --> 18:06] After Gracianus presciently retired just before the fall of Constans, we don't know where
+[18:06 --> 18:11] exactly Valentinian went next, but it was almost certainly somewhere along the Rhine
+[18:11 --> 18:16] or Danube frontier.
+[18:16 --> 18:22] The confusion about who was doing what when continues during the period of Magnentius's
+[18:22 --> 18:24] revolt.
+[18:24 --> 18:30] No sources speak to what, if any role Valentinian played in the conflict, but we do know that
+[18:30 --> 18:37] following his victory, Constantius II confiscated the estates of Gracianus, hinting that the
+[18:37 --> 18:43] retired general may have been providing support for the usurping general, which was not out
+[18:43 --> 18:50] of the question since the two old soldiers were both veterans of the western legions.
+[18:50 --> 18:54] If Valentinian joined his father's presumed support for Magnentius, it cannot have been
+[18:54 --> 19:01] too staunch because the rising officer next appears in Gaul attached to Julian's army,
+[19:01 --> 19:09] which is not exactly the sort of promotion you'd expect for a blood enemy of the dynasty.
+[19:09 --> 19:14] It was in Gaul that Valentinian really began to make a name for himself.
+[19:14 --> 19:20] He served with distinction as a cavalry officer, almost certainly fought at the Battle of Strausburg,
+[19:20 --> 19:26] and generally endeared himself to superiors and subordinates alike.
+[19:26 --> 19:30] The senior officers liked him because he got the job done, and the grunts liked him because
+[19:30 --> 19:37] of his easy-going disposition, a disposition which is kind of hard to imagine given Valentinian's
+[19:37 --> 19:42] ultimate cause of death.
+[19:42 --> 19:48] In the winter of 359-360, Valentinian was promoted to the eastern legions, as Constantius
+[19:48 --> 19:53] prepared for war against the Sassanids, and he was likely already in Antioch by the time
+[19:53 --> 19:58] Julian revolted in January of 360.
+[19:58 --> 20:02] For Valentinian, the upshot of this imperial conflict was that he was immediately dismissed
+[20:02 --> 20:08] from service by Constantius, who was concerned that Valentinian's close ties to Julian would
+[20:08 --> 20:13] make him a potential snake in the grass.
+[20:13 --> 20:17] As with the revolt of Magnentius, we don't know what Valentinian thought about Julian's
+[20:17 --> 20:23] uprising, but it's possible Constantius was being overly paranoid about the whole thing,
+[20:23 --> 20:28] because after Julian became sole emperor, Valentinian was forced to remain in semi-exile
+[20:28 --> 20:31] in Egypt.
+[20:31 --> 20:36] As a Christian, in a time when that was suddenly a bad thing again, Valentinian's future was
+[20:36 --> 20:38] very much in doubt.
+[20:38 --> 20:44] However, as Julian was building up his war machine to go invade Persia, he recalled Valentinian
+[20:44 --> 20:46] to service.
+[20:46 --> 20:52] Like I said, good officers are good officers, whatever they believe, and Valentinian was
+[20:52 --> 20:57] a good officer.
+[20:57 --> 21:01] His reward for being such a good officer was that he got to witness firsthand the utter
+[21:01 --> 21:07] meltdown of the eastern invasion, Julian's subsequent death, and the Roman army's humiliating
+[21:07 --> 21:10] withdrawal back to Syria.
+[21:10 --> 21:15] When they reached Antioch though, Valentinian received one of the most fortuitous promotions
+[21:15 --> 21:18] in history.
+[21:18 --> 21:22] As Jovian worked through the aftermath of the failed invasion and tried to lay the groundwork
+[21:22 --> 21:30] for his own imperial rule, he sent Valentinian to Ancyra to command a key infantry division.
+[21:30 --> 21:35] Which meant that when Jovian passed through a few months later, and then suddenly died
+[21:35 --> 21:41] a few miles down the road, well, good Valentinian was right there, wasn't he?
+[21:41 --> 21:45] I mean, literally, physically, right there.
+[21:45 --> 21:49] Wasn't he?
+[21:49 --> 21:53] The immediate response to Jovian's death was very similar to the immediate response
+[21:53 --> 21:55] to Julian's death.
+[21:55 --> 22:00] The military and political inner circle got together and tried to figure out who the next
+[22:00 --> 22:03] next emperor was going to be.
+[22:03 --> 22:12] Initially, two names were put forward, Equitius, a veteran officer, and Januarius, a relative
+[22:12 --> 22:18] of Jovian's who was currently overseeing supply operations in Illyria.
+[22:18 --> 22:23] But as the officials talked their way through the problem, Equitius was rejected because
+[22:23 --> 22:28] he was a bit rough around the edges, too much soldier and not enough statesman.
+[22:28 --> 22:34] Then, Januarius was rejected because there would be a frightening lag time between now
+[22:34 --> 22:38] and when we can actually drape him in the purple.
+[22:38 --> 22:44] No one wanted to be responsible for opening up a prolonged power vacuum.
+[22:44 --> 22:50] So what they needed was an experienced officer who was educated and cultured enough to survive
+[22:50 --> 22:55] as a politician, but who was also near enough at hand that we can get him in office like
+[22:55 --> 22:57] right now.
+[22:57 --> 23:02] And then someone mentioned Valentinian, who they had just passed a few days back.
+[23:02 --> 23:07] And they all liked and respected Valentinian, and the men seemed to like and respect Valentinian,
+[23:07 --> 23:13] and he's pretty well educated, and hey, I think we have our man.
+[23:14 --> 23:20] A messenger was sent at once to fetch the no doubt surprised, but apparently willing,
+[23:20 --> 23:28] Valentinian, and on February 26, 364 AD, he became emperor of the Roman Empire.
+[23:28 --> 23:33] When he emerged to address the assembled troops, however, they greeted him more as an angry
+[23:33 --> 23:37] mob than as joyful subjects.
+[23:37 --> 23:41] With all the backroom picking of emperors lately, the soldiers were starting to feel
+[23:41 --> 23:43] left out of the process.
+[23:43 --> 23:49] But Valentinian assured them that the needs of the army would always come first, and that
+[23:49 --> 23:53] they had nothing to fear from Emperor Valentinian.
+[23:53 --> 23:57] After all, was he not one of them?
+[23:57 --> 24:02] With the army now pretty securely on his side, Valentinian next had to shore up political
+[24:02 --> 24:05] support for his new dynasty.
+[24:05 --> 24:11] To this end, one of his first acts as emperor was to announce that he would be appointing
+[24:11 --> 24:13] another emperor.
+[24:13 --> 24:20] With the east not at all secured, and the west shaky at best, appointing a second emperor
+[24:20 --> 24:24] would ensure that everyone would have the imperial authority they needed to respond
+[24:24 --> 24:28] to crises when they needed it.
+[24:28 --> 24:34] A few weeks later, Valentinian completed Jovian's journey and arrived in Constantinople, whereupon
+[24:34 --> 24:41] he announced his choice for co-emperor, his brother Valens, the man who, as I'm sure
+[24:41 --> 24:47] you already know, will one day ride out into a swarm of Goths at the disastrous Battle
+[24:47 --> 24:50] of Adrianople, never to return.
+[25:04 --> 25:11] .

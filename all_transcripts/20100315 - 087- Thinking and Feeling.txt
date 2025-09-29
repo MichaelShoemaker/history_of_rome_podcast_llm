@@ -1,0 +1,372 @@
+# 20100315 - 087- Thinking and Feeling
+# Detected language: en
+# Duration: 1676.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to The History of Rome, episode 87, Thinking and Feeling.
+[00:14 --> 00:18] Last time we discussed the general economic and political ordering of Roman society in
+[00:18 --> 00:21] the age of the Antonines.
+[00:21 --> 00:25] Today I want to add additional layers to that discussion by talking a bit about how these
+[00:25 --> 00:30] various classes felt about education, religion, and philosophy.
+[00:30 --> 00:35] Obviously, your outlook depended a great deal on your position in society, but as with most
+[00:35 --> 00:38] things, it was never quite that simple.
+[00:38 --> 00:44] Wealth in class usually locked Romans into inescapable social roles, but it did not necessarily
+[00:44 --> 00:49] predetermine their worldviews, what they held dear, what they believed, and to whom, if
+[00:49 --> 00:51] anyone they prayed.
+[00:51 --> 00:56] One young senator reacted to his inherited wealth by turning towards Stoic self-denial,
+[00:56 --> 01:00] while his neighbor embraced the joyfully nihilistic leanings of the Epicureans.
+[01:00 --> 01:04] One middle-class merchant took the loss of his inventory to fire as proof that he needed
+[01:04 --> 01:09] to double down on his offerings to Jupiter, while his competitor took it to mean that
+[01:09 --> 01:13] the old gods had forsaken him and that he must find a new religion to explain and justify
+[01:13 --> 01:16] his sorry lot in life.
+[01:16 --> 01:20] One dirt-poor pleb looked at the squalor in which he lived and decided to enlist in the
+[01:20 --> 01:25] army with the hope of rising through the ranks and maybe retiring to a comfortable
+[01:25 --> 01:30] farm someday, while his brother said bag it and went off to bet on the races.
+[01:30 --> 01:35] There were general outlooks that defined each class, but by no means did everyone march
+[01:35 --> 01:39] in lockstep with one another.
+[01:39 --> 01:43] Identity formation in ancient Rome often followed the same path it does today.
+[01:43 --> 01:48] At first, a child was locked into their family structure with the attitudes and material
+[01:48 --> 01:52] possessions of their parents dominating their understanding of the world.
+[01:52 --> 01:57] But at a certain point, that child made contact with the outside world, free from the active
+[01:57 --> 02:02] mediation, translation, or protection of their parents.
+[02:02 --> 02:07] For most of us, as for many Roman children, that point of contact was primary school.
+[02:07 --> 02:11] Now, of course, the middle and upper classes were the only ones who could afford school
+[02:11 --> 02:16] for their children, as there was no universal free education as we know it today, so we're
+[02:16 --> 02:20] going to briefly leave behind the poor to learn what they can of the world on the streets
+[02:20 --> 02:25] of the city or in the fields of the country and focus on the curriculum of the wealthier
+[02:25 --> 02:26] children.
+[02:26 --> 02:29] But do not fret for the poor boys and girls too much.
+[02:29 --> 02:35] Critics, both modern and ancient alike, cringe when they contemplate the damage wrought by
+[02:35 --> 02:41] the inadequate, boring, backwards, limited, and cruel years of primary education that
+[02:41 --> 02:45] were endured by the future leaders of the empire.
+[02:45 --> 02:50] Because the one major upshot of Roman early education was that it left its pupils intellectually
+[02:50 --> 02:55] incurious, distrustful of teachers, and generally glad to be rid of anything that reminded them
+[02:55 --> 02:59] of school, books, or learning in general.
+[02:59 --> 03:04] Not exactly the values of a ruling class with staying power.
+[03:04 --> 03:07] In the days of the republic, things were different.
+[03:07 --> 03:11] One of the major responsibilities of a father, if not the overriding responsibility, was
+[03:11 --> 03:14] to handle the education of his children.
+[03:14 --> 03:17] In practice, this meant the boys and not really the girls.
+[03:17 --> 03:22] But that aside, it was very important for a father to develop and oversee the education
+[03:22 --> 03:24] of his offspring.
+[03:24 --> 03:29] Cato the Elder famously spent much of his time focused on the intellectual and physical
+[03:29 --> 03:33] growth of his sons and demanded that his colleagues do the same.
+[03:33 --> 03:38] But as the empire grew and enveloped the east, it became fashionable to turn over the children
+[03:38 --> 03:41] to educated Greek slaves for schooling.
+[03:41 --> 03:46] The father might consult with the teachers to develop lessons and monitor progress, but
+[03:46 --> 03:51] gradually the whole process was outsourced to the tutors and then, finally, to the group
+[03:51 --> 03:55] learning sessions we are all familiar with today.
+[03:55 --> 03:59] For those of you out there who are critical of how we handle early education in modern
+[03:59 --> 04:04] western society, I can assure you that the horrors awaiting the Roman school children
+[04:04 --> 04:08] were a hundred times worse.
+[04:08 --> 04:12] The class curriculum for children aged seven to twelve, in this case we are talking about
+[04:12 --> 04:18] both boys and girls who seem to have attended school together, was limited to reading, writing
+[04:18 --> 04:20] and arithmetic.
+[04:20 --> 04:25] Students would use wax tablets to practice writing and an abacus for basic math.
+[04:25 --> 04:29] This seems well and good until you dig a little deeper.
+[04:29 --> 04:34] For starters, students were required to learn the names of the letters of the alphabet first
+[04:34 --> 04:38] without any context for what they might mean to later word construction.
+[04:38 --> 04:43] They would repeat the names of the letters until they had memorized the proper order.
+[04:43 --> 04:47] This memorization went on before the teacher even showed them what the letters looked like,
+[04:47 --> 04:52] further exacerbating the mindless repetition of the process.
+[04:52 --> 04:56] Once the letters were named, the teacher would reveal what the letters looked like and then
+[04:56 --> 05:00] command the student to copy the forms on their tablets.
+[05:00 --> 05:04] Without any initial instruction into how to hold or use their stylus, they were suddenly
+[05:04 --> 05:09] ordered to copy perfectly forms that they had never before seen.
+[05:09 --> 05:14] Mistakes in this or any other subject was met with corporal punishment, wraps on the
+[05:14 --> 05:19] wrist for small mistakes and full beatings for repeated failures.
+[05:19 --> 05:25] Arithmetic held no hope of relief as primary math boiled down to repeating over and over
+[05:26 --> 05:32] again the basic numerals and then repeating over and over and over again the results of
+[05:32 --> 05:35] their combinations or multiplications.
+[05:35 --> 05:39] These rote memorization exercises could eventually be recited without the need for the child
+[05:39 --> 05:42] to even switch his or her brain on.
+[05:42 --> 05:47] And of course, the mind-numbing repetition was compounded by the fact that Roman children
+[05:47 --> 05:49] went to school every single day.
+[05:49 --> 05:53] No weekends, sporadic holidays.
+[05:53 --> 05:57] Solid years of dull memorization, recitation, and copying.
+[05:57 --> 06:02] An endless monotony broken only by the occasional beating.
+[06:02 --> 06:06] I've heard horror stories about Catholic school, but honestly, it sounds like a lazy day at
+[06:06 --> 06:10] the park compared to what Roman children endured.
+[06:10 --> 06:15] Marcus Aurelius considered the fact that his guardians kept him out of primary school altogether
+[06:15 --> 06:20] as one of the greatest things that ever happened to him in his entire life.
+[06:20 --> 06:25] Once the student had had all the joy of knowledge sucked and beaten out of them, they were ready
+[06:25 --> 06:30] for secondary education, which for the Romans meant grammar and rhetoric.
+[06:30 --> 06:35] Grammar was taught by focusing on a rigid canon of classics featuring Greek writers
+[06:35 --> 06:40] like Homer and Menander and Latin writers like Terence and Enius.
+[06:40 --> 06:44] The rigidity of the canon was apparently so absolute that it was something of a radical
+[06:44 --> 06:50] revolution when more recent figures like Virgil and Seneca began to appear on the required
+[06:50 --> 06:51] reading lists.
+[06:51 --> 06:57] The teaching of grammar did not depart too far from the form of primary school with emphasis
+[06:57 --> 07:01] being placed on memorization and oral recitation of whole passages.
+[07:01 --> 07:06] The focus was never on the content of the works in question, but rather on the words
+[07:06 --> 07:09] and the order in which they were used.
+[07:09 --> 07:14] Educated Romans may not have been great poets, but they were pedants of the highest order,
+[07:14 --> 07:19] which of course made their cocktail parties awesome.
+[07:19 --> 07:23] The final stop on the road of Roman education, left only to those who truly had the means
+[07:23 --> 07:26] to pay for it, was rhetoric.
+[07:26 --> 07:33] For the Romans, who so highly valued oratory, rhetoric was the top of the intellectual pyramid.
+[07:33 --> 07:38] But again, the lesson plans were so pedantic and ludicrous that it is difficult to fathom
+[07:38 --> 07:42] what they really thought they were getting out of it.
+[07:42 --> 07:46] Beyond endlessly spelling out every single way a potential sentence could be phrased,
+[07:46 --> 07:48] It's good to see you this morning.
+[07:48 --> 07:50] This morning it is good to see you.
+[07:50 --> 07:53] Seeing you this morning is good.
+[07:53 --> 07:57] The primary focus of the Rhetorician was to prepare his students for life in the highly
+[07:57 --> 08:00] litigious public sphere.
+[08:00 --> 08:03] This meant working constantly at debate.
+[08:03 --> 08:08] The teacher would invent some thorny case and then have his students work up prosecutions
+[08:08 --> 08:09] and defenses.
+[08:09 --> 08:16] As with the Grammarian, the focus was on eloquence, presentation, and theatricality before content
+[08:16 --> 08:18] was even considered.
+[08:18 --> 08:21] These were not philosophers debating moral truths.
+[08:21 --> 08:27] These were sophists debating who could deliver a better speech.
+[08:27 --> 08:32] Once the course in rhetoric was complete, usually in the late teens, the educated Roman
+[08:32 --> 08:37] was as educated as your average educated Roman was ever going to get.
+[08:37 --> 08:42] You can't help but notice then all the things missing from their quote unquote education.
+[08:42 --> 08:49] Science, advanced math, music, geography, economics, literature beyond a few approved
+[08:49 --> 08:53] classics, and art were all completely ignored.
+[08:53 --> 08:59] This totally stagnant, unappealing, and downright informationless educational system would haunt
+[08:59 --> 09:03] the Romans as they tried to hold onto their empire in the face of the foreign and domestic
+[09:03 --> 09:07] turmoil that would soon rock them in the third century.
+[09:07 --> 09:12] Going forward, the best and brightest of any given generation would often prove to be
+[09:12 --> 09:17] mediocre and dim, with the most talented often succeeding despite what they had learned
+[09:17 --> 09:21] in school rather than because of it.
+[09:21 --> 09:25] This general failure of education though, which managed to simultaneously stunt both
+[09:25 --> 09:30] the right and left sides of the Roman brain, did not stunt the Roman yearning for answers
+[09:30 --> 09:32] to the great questions.
+[09:32 --> 09:33] Why are we here?
+[09:33 --> 09:34] What are we doing?
+[09:34 --> 09:35] What's the point?
+[09:35 --> 09:38] And is there a point?
+[09:38 --> 09:42] Finding no answers in the books that they had beaten into them as children, most second
+[09:42 --> 09:47] century Romans turned to either religion or philosophy for solace.
+[09:47 --> 09:54] The former absorbing the majority, the latter a small but dedicated minority.
+[09:54 --> 09:59] The religion the people turned to though, to deal with that angle first, was not the
+[09:59 --> 10:01] religion of their mothers and fathers.
+[10:01 --> 10:07] By the second century, the titular deities of Rome were losing their hold on the people.
+[10:07 --> 10:13] Faith in Jupiter, or sacrifices to Apollo, or celebrations in honor of Minerva, continued
+[10:13 --> 10:19] out of sheer inertia, but there was no faith underlying the rituals anymore.
+[10:19 --> 10:23] The impact of Rome's conquest of the East was felt everywhere, but nowhere was it more
+[10:23 --> 10:28] dramatically felt than in the religious revolution it unleashed.
+[10:28 --> 10:33] For years, Roman officials had tried to maintain the preeminence of the old Olympians, but
+[10:33 --> 10:39] But despite various decrees banning the cult of Isis, and overt persecution of early Christians
+[10:39 --> 10:44] or Egyptian astrologers, Roman faith continued to leak out of the Temple of Jupiter from
+[10:44 --> 10:47] a thousand tiny holes.
+[10:47 --> 10:51] For the upper classes, these exciting new religions promised a form of enlightenment
+[10:51 --> 10:57] denied them by their empty, merely rhetorical educations, while the lower classes listened
+[10:57 --> 11:02] intently as priests told them that the material world was a transient delusion and that soon
+[11:02 --> 11:05] enough their souls would be set free.
+[11:05 --> 11:11] Slaves, women, and common soldiers would flock to Christianity in particular and its radical
+[11:11 --> 11:17] profession that all were equal in the eyes of God.
+[11:17 --> 11:21] Though the various Eastern cults differed in their particulars, almost all involved
+[11:21 --> 11:27] some sort of initiation process, and the promise that once initiated, followers would be privy
+[11:27 --> 11:30] to secret mystical truths.
+[11:30 --> 11:35] These secret mystical truths usually revolved around using esoteric astrology to predict
+[11:35 --> 11:41] the future, and then the use of complex rituals to secure good fortune.
+[11:41 --> 11:46] Best of all, barring a few exceptions, the various Eastern cults never tried to stop
+[11:46 --> 11:51] their new Roman converts from joining other cults, and in many cases encouraged them to
+[11:51 --> 11:53] do so.
+[11:53 --> 11:57] According to the faithful, this was a simple recognition that there was no harm in comparing
+[11:57 --> 12:02] and combining religious knowledge for the greater good of the adherent, while satirists
+[12:02 --> 12:07] noted that more likely, Huxter cult leaders felt that there was no harm in each of them
+[12:07 --> 12:11] getting a bite at the same rich apple.
+[12:11 --> 12:16] Conservative Romans bemoaned the rise of these cults and the strange behavior they provoked.
+[12:16 --> 12:20] Women plunging into the Tiber during winter, men crawling on their hands and knees through
+[12:20 --> 12:25] the streets, and children babbling incoherent warnings about the danger of Saturn being
+[12:25 --> 12:27] in the house of Osiris.
+[12:27 --> 12:33] But they were unable to provide any alternative to satisfy the converting masses.
+[12:33 --> 12:38] Just as with literature, the old Roman religion had been purged of its meaning, leaving behind
+[12:38 --> 12:44] only a series of empty rituals that no one understood or cared about.
+[12:44 --> 12:48] Superstition kept them performing the rituals, but they no longer excited the passionate
+[12:48 --> 12:50] feeling that they once had.
+[12:50 --> 12:55] The Eastern cults in contrast were fresh and exciting, and filled with just the right mixture
+[12:55 --> 13:02] of secrecy to get them hooked, exotic cosmology to keep them interested, and promises of eternal
+[13:02 --> 13:11] personal salvation, which was apparently what everyone decided they were now searching for.
+[13:11 --> 13:15] During this period of transforming religious values, the religion destined to leave all
+[13:15 --> 13:21] the others in the dust began to really gain its foothold in the Western world.
+[13:21 --> 13:25] Christianity was in many respects similar to other Eastern cults.
+[13:25 --> 13:31] It had a secret initiation process, strange rituals, and an exotic take on the universe.
+[13:31 --> 13:35] But in other respects, it was radically different.
+[13:35 --> 13:40] Reflecting its Jewish roots, Christians were staunch monotheists who demanded their followers
+[13:40 --> 13:43] forsake all other religions.
+[13:43 --> 13:48] This requirement of total commitment to a single religion was practically unknown in
+[13:48 --> 13:53] a pagan world where idols, gods, and rituals were considered interchangeable.
+[13:53 --> 13:58] But this was not the only thing that set the Christians apart.
+[13:58 --> 14:02] In the century between the death of Jesus, supposedly around 30 AD, and the reign of
+[14:02 --> 14:08] Antoninus, Christian dogma had been filtered through the various, sometimes contradictory
+[14:08 --> 14:13] lenses of the early church fathers like St. Peter and St. Paul, and so the version of
+[14:13 --> 14:18] the religion that began to flourish in the 2nd century AD was thoroughly Hellenized and
+[14:18 --> 14:23] focused as much on sexual denial and withdrawal from the material Greco-Roman world as it
+[14:23 --> 14:28] was in preparing for the second coming of Christ, which everyone agreed was just around
+[14:28 --> 14:31] the corner.
+[14:31 --> 14:36] This was all weird enough to provoke the scorn of average Romans, but Christianity further
+[14:36 --> 14:41] invited ridicule by willingly embracing the politically and economically downtrodden,
+[14:41 --> 14:48] slaves, the poor, and, critically for its early success, women.
+[14:48 --> 14:53] This religion of slaves was viewed with suspicion by the existing power structure, who were
+[14:53 --> 14:59] further provoked by the Christian unwillingness to offer sacrifices to the deified emperors,
+[14:59 --> 15:04] a simple request for political obedience that even the combative Jews had bowed to, though
+[15:04 --> 15:11] it was in their own way, they offered sacrifice to Yahweh in the name of the Caesars.
+[15:11 --> 15:16] But the Christians refused any compromise, and so incurred the wrath of Roman administrators
+[15:16 --> 15:19] the empire.
+[15:19 --> 15:24] But despite these persecutions, Christianity continued to gain faithful adherents who were
+[15:24 --> 15:29] willing and sometimes even proud to die for their religion.
+[15:29 --> 15:34] The question of how and why early Christianity managed to flourish in the face of almost
+[15:34 --> 15:38] overwhelming odds is too big of a question to answer just now.
+[15:38 --> 15:42] I promise there will be much more to say about Christianity before the end of the history
+[15:42 --> 15:44] of Rome.
+[15:44 --> 15:48] So for now, I will simply remind you of the point I made last week.
+[15:48 --> 15:53] By orders of magnitude, the politically and economically downtrodden made up the bulk
+[15:53 --> 15:56] of the population in the Roman Empire.
+[15:56 --> 16:00] When Christianity began speaking a language that empowered these forever marginalized
+[16:00 --> 16:06] groups, well, the rest is history, you know?
+[16:06 --> 16:10] Apart from the religious seekers of the second century, who delved into mystery cults to
+[16:10 --> 16:16] satisfy their desire to know the meaning of life, a small minority of educated elites
+[16:16 --> 16:22] pursued a slightly different course, believing philosophy rather than religion held the key
+[16:22 --> 16:25] to understanding the universe.
+[16:25 --> 16:32] In many ways, ancient philosophy was indistinguishable from ancient religion, with the key distinction
+[16:32 --> 16:37] being merely that philosophy rested its case on human rationality rather than faith in
+[16:37 --> 16:39] exotic rituals.
+[16:39 --> 16:45] But other than that, they both had basic tenets of belief in action, quasi-godlike historical
+[16:45 --> 16:50] figures to worship, and high priests to instruct the faithful.
+[16:50 --> 16:58] In Rome, the two dominant strains of philosophy were Stoicism and Epicureanism.
+[16:58 --> 17:02] Both were disdained by the average Roman, who thought the extreme behavior each branch
+[17:02 --> 17:08] preached was incompatible with everyday good taste, and only a few dedicated thinkers embraced
+[17:08 --> 17:12] philosophy over the rising tides of Eastern mysticism.
+[17:12 --> 17:17] Not that either Stoicism or Epicureanism taught the kind of extreme behavior that stereotyping
+[17:17 --> 17:22] masses usually thought they did, but hey, when you've escaped childhood with an extreme
+[17:22 --> 17:28] aversion to further education, ignorance of philosophical precepts does not exactly come
+[17:28 --> 17:30] as a surprise.
+[17:30 --> 17:35] We'll wind up going into a bit more detail on Stoicism as we move into the reign of Marcus
+[17:35 --> 17:39] Aurelius, that philosophy's most famous Roman advocate.
+[17:39 --> 17:44] But just to lay some initial groundwork, a Stoicism as a school of thought was founded
+[17:44 --> 17:50] by Zeno of Sidium in the 3rd century BC as an offshoot or a continuation of the work
+[17:50 --> 17:54] begun by the cynics in the 5th century BC.
+[17:54 --> 17:59] Taking its name from the Stoa, or porch under which Zeno taught, the Stoic philosophy was
+[17:59 --> 18:05] grounded in a belief that emotion ought to be subordinate to reason, and that this subordination
+[18:05 --> 18:10] allowed men to live a virtuous life in accord with nature.
+[18:10 --> 18:14] It is important to point out that the Stoics were not anti-emotional robots.
+[18:14 --> 18:18] They just believed that negative emotions were highly destructive and could only be
+[18:18 --> 18:21] reigned in by reason.
+[18:21 --> 18:25] Discord and chaos reigned when men allowed their passions to get the better of them,
+[18:25 --> 18:32] especially passions that raged uselessly against the unfolding plan of nature.
+[18:32 --> 18:36] Stoicism was thus an attempt to marry the determinism of the universe with the free
+[18:36 --> 18:39] will of the individual.
+[18:39 --> 18:44] Correct judgment conformed with the laws of nature and produced the calm mind and spirit
+[18:44 --> 18:49] that was the desired end state for the Stoic adherent.
+[18:49 --> 18:54] Stoicism was surprisingly egalitarian in its message, though not in the same way Christianity
+[18:54 --> 18:55] does.
+[18:55 --> 19:01] Seneca famously reminded his readers, Kindly remember that he whom you call your slave
+[19:01 --> 19:07] sprang from the same stock, is smiled upon by the same skies, and on equal terms with
+[19:07 --> 19:11] yourself breathes, lives, and dies.
+[19:11 --> 19:18] The point being that deep down we are all the same, suffer the same, yearn the same.
+[19:18 --> 19:23] But where Christianity promised those slaves eventual salvation, the Stoics simply exhorted
+[19:23 --> 19:28] men and women of every station to accept the world and their place within it.
+[19:28 --> 19:32] Just as a Marcus Aurelius must resign himself each morning to meeting the joyless burdens
+[19:32 --> 19:39] of his office, so too must the slave resign himself to the joyless burdens of his.
+[19:39 --> 19:44] Ambition ought to be confined to a desire to play your part as best you can each and
+[19:44 --> 19:46] every day.
+[19:46 --> 19:50] That Stoicism did not turn out to be the religion of the slave should not come as a shock to
+[19:50 --> 19:53] anyone.
+[19:53 --> 19:58] Despite its reputation for producing dour, joyless men, Stoicism flourished throughout
+[19:58 --> 20:03] the Greco-Roman world for the positive ideal it gave many to strive for.
+[20:03 --> 20:08] No one, especially the Romans, could argue with the Stoics' four cardinal virtues which
+[20:08 --> 20:15] they derived from Plato—wisdom, courage, justice, and temperance.
+[20:15 --> 20:19] That the average Roman of the second century disdained the committed Stoic was evidence
+[20:19 --> 20:24] more of their own anti-intellectual prejudices than any real problem with the philosophy
+[20:24 --> 20:25] itself.
+[20:25 --> 20:31] It took hard work and constant self-reflection to properly practice Stoicism, and let's
+[20:31 --> 20:35] face it, hard work and self-reflection were not necessarily the principles upon which
+[20:35 --> 20:40] the empire was now founded.
+[20:40 --> 20:45] On the other end of the philosophical spectrum were the Epicureans, who, though they pursued
+[20:45 --> 20:50] the same end status as Stoics—a calm and tranquil mind—they went about it in a very
+[20:50 --> 20:53] different way.
+[20:53 --> 20:58] Founded in the early 200s BC by Epicurus, the purpose of this new philosophy was to
+[20:58 --> 21:05] help students attain a state of mind free from fear, pain, or turmoil.
+[21:05 --> 21:10] This was a radical notion in the ancient world, a place notorious for its fear, pain, and
+[21:10 --> 21:12] turmoil.
+[21:12 --> 21:18] Where Stoicism met the challenges of life head on and demanded that they be endured,
+[21:18 --> 21:23] Epicurus exhorted his followers to identify that which caused them pain and then purge
+[21:23 --> 21:26] it from their everyday lives.
+[21:26 --> 21:29] Though the message was often misunderstood to mean that one ought to embrace hedonistic
+[21:29 --> 21:37] pleasure seeking, the Epicureans were usually far more modest than their non-Epicurean neighbors.
+[21:37 --> 21:42] Drinking wine is a fleeting joy that is balanced by the morning's hangover.
+[21:42 --> 21:47] Sexual inhibition leads to all manner of jealousies, fights, and misunderstandings.
+[21:47 --> 21:53] Hedonism, in other words, usually leads to more pain than pleasure.
+[21:53 --> 21:58] The true Epicurean simply cultivated a close circle of friends and enjoyed their company
+[21:58 --> 22:03] while dining on simple meals and partaking in non-disruptive pastimes like sitting and
+[22:03 --> 22:04] chatting.
+[22:04 --> 22:09] They took no part in politics, tried not to get involved in lawsuits, refrained from commercial
+[22:09 --> 22:13] activity, and generally tried to mind their own business.
+[22:13 --> 22:18] The only responsibility an Epicurean really had towards other people was to do unto them
+[22:18 --> 22:21] as he would have them do unto him.
+[22:21 --> 22:27] If the whole point of life was to avoid pain, there was no sense in inflicting it on others.
+[22:27 --> 22:30] That would just be wrong.
+[22:30 --> 22:36] The biggest thing Epicurus tried to remind his students was that they need not fear death.
+[22:36 --> 22:41] The fear of death was the single biggest source of all the chaos, disruptive violence, and
+[22:41 --> 22:47] anger that permeated society, and if one could conquer that fear, everything else would fall
+[22:47 --> 22:49] into place.
+[22:49 --> 22:54] To this end, he came out fully as a sort of proto-atheist, denying completely that the
+[22:54 --> 22:59] gods played an active role in the lives of mortal men and that there was any sort of
+[22:59 --> 23:02] afterlife that you needed to worry about.
+[23:02 --> 23:05] You are alive now and have sensation.
+[23:05 --> 23:07] When you die, sensation will cease.
+[23:07 --> 23:11] There is nothing to fear because there will be nothing to feel.
+[23:11 --> 23:16] What you have today is all you will ever have, so don't waste your time spinning your wheels
+[23:16 --> 23:24] worrying about something that will A. inevitably come whenever it wants and B. won't hurt anyway.
+[23:24 --> 23:28] Beyond the misunderstanding over what the pursuit of Epicurean pleasure meant, it was this
+[23:28 --> 23:34] atheism that caused the Epicureans the most problem amongst their superstitious and highly
+[23:34 --> 23:36] religious neighbors.
+[23:36 --> 23:41] Because when you put the two together, you get a freaky stereotype of a nihilistic atheist
+[23:41 --> 23:45] who would just as soon ravage your daughter as look at you.
+[23:45 --> 23:48] Nothing could have been further from the truth, and by the standards of the day, the average
+[23:48 --> 23:53] Epicurean, like the average Stoic, was a model citizen.
+[23:53 --> 23:57] What feud merits you could honestly assess them with comes mostly from an unwillingness
+[23:57 --> 24:02] to engage in public life, which was a bit like a Roman choosing not to breathe, but
+[24:02 --> 24:05] it had nothing to do with the fact that you had to keep calling the cops on them every
+[24:05 --> 24:09] Saturday night.
+[24:09 --> 24:14] The philosophy students of 2nd century Rome, be they Stoic or Epicurean, usually came out
+[24:14 --> 24:20] of the upper classes, men with the means to indulge their peculiar habits.
+[24:20 --> 24:23] But not all of them were rich and educated.
+[24:23 --> 24:27] One of my favorite groups of people, and no doubt one of the least popular groups in their
+[24:27 --> 24:30] own time, were the poor philosophers.
+[24:30 --> 24:35] Lampooned off and on over the years, these were men who often had no prospects and no
+[24:35 --> 24:41] hope of any work beyond dull manual labor, who suddenly became enamored with philosophy,
+[24:41 --> 24:46] grew their beards long, and wandered the streets criticizing the material obsessions of their
+[24:46 --> 24:49] fellow citizens in between requests for handouts.
+[24:49 --> 24:54] These street gurus, who assured anyone who would listen that their poverty was not only
+[24:54 --> 25:00] a chosen state, but also of the highest virtue, combined effortlessly the roles of crazy bum
+[25:00 --> 25:06] and freeloading artist to produce a character unique to the classical world, the panhandling
+[25:06 --> 25:08] philosopher.
+[25:08 --> 25:12] The streets of Rome would have been a less vibrant place without their angry harangues
+[25:12 --> 25:17] and subsequent requests for cash.
+[25:17 --> 25:21] In all of these things we are left, I must say, with the picture of a civilization on
+[25:21 --> 25:24] the verge of decay.
+[25:24 --> 25:27] Education had become stagnant and counterproductive.
+[25:27 --> 25:32] The elites were either withdrawing into weird mystery cults or esoteric philosophy, and everyone
+[25:32 --> 25:36] else was focused on just trying to stay alive.
+[25:36 --> 25:41] The vision, dedication, and camaraderie of the republic was all but gone, leaving in
+[25:41 --> 25:46] its wake an ignorant, self-absorbed society that had no idea what horrors were lurking
+[25:46 --> 25:51] beyond the frontiers, just waiting to smash the comfortable world the Romans had begun
+[25:51 --> 25:53] to take for granted.
+[25:53 --> 25:58] Unfortunately, due to time constraints, everything we've covered today has been little more
+[25:58 --> 26:02] than a thumbnail sketch of a thumbnail sketch.
+[26:02 --> 26:08] Any one of these topics, Roman education, the Eastern mystery cults, or ancient philosophy,
+[26:08 --> 26:12] could easily become the topic of standalone podcasts of their own, and so I would encourage
+[26:12 --> 26:17] you to take this episode as an outline for further study, rather than say the comprehensive
+[26:17 --> 26:22] final word on Roman rhetoric, which I can assure you it was not.
+[26:22 --> 26:28] If any of this stuff sparks your imagination, remember that Amazon or Powells are both positively
+[26:28 --> 26:34] overflowing with books on all of these topics, usually at cut rate prices too, because as
+[26:34 --> 26:39] much as we know how fascinating Seneca's Letters from a Stoic is going to be, the free market
+[26:39 --> 26:44] is under the impression that it can only charge five bucks for it.
+[26:44 --> 26:48] Next week, we're going to follow the Romans through the course of an average day, from
+[26:48 --> 26:53] waking up and heading out the door, to the barbershop, the law courts, the afternoon
+[26:53 --> 26:56] bath and the evening meal.
+[26:56 --> 27:00] Two weeks from now, we're going to go on a tour of the provinces, and wrap our heads
+[27:00 --> 27:04] around what the Romans controlled, how they controlled it, and what each region brought
+[27:04 --> 27:11] to the greater empire, be it natural resources or simply more soldiers for the legions.
+[27:11 --> 27:15] That will bring us up to the 100th episode, which I'm really looking forward to, since
+[27:15 --> 27:18] you guys have filled the comment thread with some great questions.
+[27:18 --> 27:22] I'm going to put a deadline on submissions though, so I can have a little bit of time
+[27:22 --> 27:26] to sort through it all, so if you haven't posted your question by the time next week's
+[27:26 --> 27:31] episode comes out, then you're just going to have to wait for episode 200 to come around
+[27:31 --> 27:32] before I'll be able to address it.

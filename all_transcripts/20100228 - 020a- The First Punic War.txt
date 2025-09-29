@@ -1,0 +1,339 @@
+# 20100228 - 020a- The First Punic War
+# Detected language: en
+# Duration: 1367.56 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 20A, The First Punic War.
+[00:12 --> 00:17] As a way to set up today's episode and recap last week's topic, I would like to start
+[00:17 --> 00:23] with an extended quote from Sir Nigel Bagnall's The Punic Wars, which sums up the events
+[00:23 --> 00:26] that led to the First Punic War with perfect brevity.
+[00:26 --> 00:33] A gang of ex-mercenaries turned brigands seized Massana to exploit its people and its natural
+[00:33 --> 00:34] resources for their own enrichment.
+[00:36 --> 00:40] Faced with the threat of falling under the domination of Hiro of Syracuse and losing
+[00:40 --> 00:44] their privileged status, the Mamertines turned to the Carthaginians for help.
+[00:44 --> 00:49] Soon finding their arrangement unsatisfactory, they invited the Romans to help them instead.
+[00:50 --> 00:54] The Romans had recently recovered one of their own cities, Regium, from a similar
+[00:54 --> 00:59] band of adventurers whom they considered so reprehensible that they had taken them
+[00:59 --> 01:00] to Rome for public execution.
+[01:01 --> 01:06] But in spite of this, they accepted the Mamertines' invitation and occupied Massana.
+[01:06 --> 01:11] The temptation to acquire a foothold in Sicily and secure the Straits in the face
+[01:11 --> 01:15] of Carthaginian unpreparedness clearly overcame all moral considerations.
+[01:16 --> 01:19] It was an example of blatant opportunism.
+[01:19 --> 01:24] Though they gravely underestimated the consequences, the Romans had the muscle and
+[01:24 --> 01:25] they used it.
+[01:27 --> 01:33] In 264 BC, Rome had dispatched one of its consuls for the year, Appius Claudius, along
+[01:33 --> 01:37] with two legions to Sicily with the understanding that they were to quickly secure the city
+[01:37 --> 01:41] of Massana in the northeast corner of the island and then take what further territory
+[01:41 --> 01:42] they could.
+[01:42 --> 01:47] Claudius had been a vocal supporter of invading Sicily and was positively licking
+[01:47 --> 01:51] his lips at the thought of the riches and glory he was about to win for himself.
+[01:51 --> 01:56] He managed to slip by the Carthaginian fleet stationed in the Straits between Italy and
+[01:56 --> 02:01] Sicily and marched two legions to Massana where he joined the small expeditionary
+[02:01 --> 02:05] force led by his cousin that was already holding the city for Rome.
+[02:06 --> 02:11] Upon his arrival, Claudius immediately set about fortifying his position, knowing
+[02:11 --> 02:15] that despite his claims of easy victory to the Senate, the Syracusans who controlled
+[02:15 --> 02:19] the southeast quadrant of the island and the Carthaginians who controlled the
+[02:19 --> 02:24] western half were not going to simply let Rome waltz onto their turf without a fight.
+[02:25 --> 02:29] He did not have to wait long for a reaction from the two major established powers on
+[02:29 --> 02:29] the island.
+[02:31 --> 02:35] Upon hearing the news that the Romans had arrived in Sicily, Carthage immediately
+[02:35 --> 02:38] concluded a treaty with Hiero, the king of Syracuse, and they launched a joint
+[02:38 --> 02:40] effort to dislodge the interlopers.
+[02:41 --> 02:45] Hiero marched his army north from Syracuse and the Carthaginians marched east from
+[02:45 --> 02:48] their strongholds on the western edge of the island.
+[02:48 --> 02:53] They met at Massana and made preparations to lay siege to the city.
+[02:53 --> 02:57] Claudius was outnumbered by the two armies, but as he watched his opponent
+[02:57 --> 03:01] set up their camps, it was obvious they had not yet coordinated their armies.
+[03:01 --> 03:05] Seizing the initiative, Claudius marched out and attacked Hiero's force first,
+[03:06 --> 03:08] driving them off with little difficulty.
+[03:09 --> 03:12] Hiero had no incentive to put up stiff resistance to the Romans.
+[03:12 --> 03:16] The treaty with his longtime nemesis Carthage was nominal at best,
+[03:16 --> 03:21] sort of a, well, if you're going to fight the Romans, go ahead, I've got your back.
+[03:21 --> 03:26] But he had no intention of actually leading the attack, and so, facing the
+[03:26 --> 03:29] brunt of the Roman offensive with the Carthaginians standing by watching,
+[03:30 --> 03:32] Hiero prudently withdrew.
+[03:32 --> 03:36] Better to let the Romans and Carthaginians duke it out than overcommit
+[03:36 --> 03:40] and risk losing his kingdom if the Romans emerged victorious and came
+[03:40 --> 03:41] looking for revenge.
+[03:42 --> 03:46] The quickness of Hiero's defeat allowed Claudius to wheel his army around
+[03:46 --> 03:48] and attack the Carthaginians immediately.
+[03:49 --> 03:53] In the first major engagement between the two powers, Rome got the upper hand
+[03:53 --> 03:57] and the Carthaginians were forced back, but it was an orderly,
+[03:57 --> 04:01] tactical retreat, not the mad, chaotic dash of outright defeat.
+[04:02 --> 04:06] The victorious Romans followed up their victory by marching south on Syracuse.
+[04:07 --> 04:11] Claudius knew it was essential to neutralize the powerful Greek city state,
+[04:11 --> 04:15] and after Hiero's force showing outside Massana, Claudius was confident
+[04:15 --> 04:19] he could spook the king into a treaty, at the very least ensuring his neutrality
+[04:19 --> 04:22] in the fight that was sure to come against the Carthaginians.
+[04:23 --> 04:27] Claudius began setting up for a siege of Hiero's city, but it is likely
+[04:27 --> 04:30] that the entire operation was pure theater.
+[04:30 --> 04:34] Two legions with no naval support was not nearly enough manpower to take a city
+[04:34 --> 04:39] as strong as Syracuse, but Claudius was hoping that Hiero would deal anyway.
+[04:40 --> 04:44] Though he had no real desire to fight the Romans and every reason to align himself
+[04:44 --> 04:48] with them against the Carthaginians, the king of Syracuse was not about to capitulate
+[04:48 --> 04:52] to a few thousand soldiers who may be gone by winter never to return.
+[04:53 --> 04:56] So Hiero remained secure in his city, refused to negotiate,
+[04:57 --> 04:58] and waited for the Romans to withdraw.
+[05:00 --> 05:03] Knowing that the legions were vulnerable out in the open to a Carthaginian attack,
+[05:04 --> 05:08] Claudius sat aside himself that Hiero would not bargain and marched his two legions
+[05:08 --> 05:10] back to Massana where they would remain for the winter.
+[05:11 --> 05:14] The next year, 263 BC,
+[05:14 --> 05:18] the Romans decided to commit themselves more fully to the Sicilian invasion.
+[05:19 --> 05:23] The operation of the previous year had essentially been a private campaign
+[05:23 --> 05:26] waged by Appius Claudius. He had raised the two legions himself
+[05:27 --> 05:30] and conducted the campaign without any input from the Senate.
+[05:31 --> 05:34] But now, what had been a personal adventure authorized by the Senate,
+[05:35 --> 05:36] was about to become state policy.
+[05:38 --> 05:41] Recognizing that the quick and easy road to victory in Sicily
+[05:41 --> 05:44] had been a mirage all along, the Senate now made their plans
+[05:44 --> 05:47] with a broad, long-term strategy in mind.
+[05:48 --> 05:52] The first step was to eliminate Hiero as a threat. If Syracuse could not be made
+[05:52 --> 05:56] into an ally, then at the very least he had to agree to stay out of the fight.
+[05:57 --> 06:01] With this in mind, both consuls for the year, each in command
+[06:01 --> 06:05] of two legions, were sent to Sicily with instructions to march on Syracuse
+[06:05 --> 06:09] and force Hiero to the table. As the four legions moved
+[06:09 --> 06:12] south from Massana, for now the Roman home base on the island,
+[06:13 --> 06:15] they attacked towns allied with Syracuse.
+[06:16 --> 06:21] None of these cities were a match for Rome, and after forcing a few to capitulate under arms,
+[06:22 --> 06:24] the rest quickly announced their surrender without a fight.
+[06:25 --> 06:29] When the Romans arrived at the gates of Syracuse this time, they brought with them
+[06:29 --> 06:33] a much better hand than the inside strait Claudius had bluffed the year before.
+[06:34 --> 06:37] Isolated, cut off from his supply lines, and facing
+[06:37 --> 06:41] four full legions, eternally pragmatic Hiero agreed
+[06:41 --> 06:43] to meet with the consuls and talk terms.
+[06:45 --> 06:49] The king was delighted by what the Romans offered. He was to keep his existing
+[06:49 --> 06:53] kingdom intact and even be granted control of a few additional cities
+[06:53 --> 06:57] in exchange for aiding Rome in their impending showdown with Carthage.
+[06:57 --> 07:01] Hiero jumped at the deal. He had long wanted the North Africans expelled
+[07:01 --> 07:05] from his island, and the Romans stood a very good chance of doing just that.
+[07:06 --> 07:09] Plus, if he helped the Romans now, he would secure the territorial
+[07:09 --> 07:13] integrity of his kingdom, which even neutrality might cost him
+[07:13 --> 07:17] if Rome won without his help. There was always the possibility
+[07:17 --> 07:21] the Romans may renege down the road, but that was for another day.
+[07:21 --> 07:24] For now he pledged himself fully and completely to Rome.
+[07:26 --> 07:29] In the end, the Romans did not renege on their deal, and Hiero
+[07:29 --> 07:33] was allowed to keep his Sicilian kingdom intact. The alliance between
+[07:33 --> 07:37] Hiero and Rome would last for 50 years until the Old King's death
+[07:37 --> 07:41] in 215 BC, and proved to be decisive as the Romans
+[07:41 --> 07:44] transitioned from an Italian to a Mediterranean power.
+[07:45 --> 07:49] Hiero essentially midwifed the birth of the wider Roman Empire, forever
+[07:49 --> 07:53] standing by Rome's side as it fought its decades-long war against Carthage,
+[07:54 --> 07:57] and forever there with aid and comfort after every Roman setback.
+[07:58 --> 08:01] Without the support of Hiero, the Romans would never have been able
+[08:01 --> 08:05] to accomplish what they did, and the king was rewarded with the gift of
+[08:05 --> 08:09] unchallenged sovereignty over his kingdom. There was a lesson
+[08:09 --> 08:13] implicit in the pact with Hiero that the Romans followed to great success
+[08:13 --> 08:17] and ignored at their peril, which is neatly captured by the aphorism
+[08:17 --> 08:20] you can attract more bees with honey than vinegar.
+[08:21 --> 08:25] The Roman road to global empire was always smoothest when they affected
+[08:25 --> 08:29] a generous and honorable stance, and rocky is when they acted with deceit
+[08:29 --> 08:33] and cruelty. They were capable of both, but with Hiero
+[08:33 --> 08:37] they got it exactly right. However, in their attempt to win the
+[08:37 --> 08:41] rest of Sicily, they displayed far less wisdom and protracted the
+[08:41 --> 08:45] conflict longer than necessary by driving cities to the Carthaginian
+[08:45 --> 08:49] side with acts of unnecessary brutality, as was with the case
+[08:49 --> 08:53] of the Sack of Aggregantum. By 262
+[08:53 --> 08:57] BC, the year after securing the alliance with Hiero, the Romans were
+[08:57 --> 09:00] now free to prosecute their greater war with Carthage.
+[09:01 --> 09:05] The Carthaginians were assembling a mercenary army at Aggregantum, a
+[09:05 --> 09:09] Greek city on the southern coast of Sicily, which was both geographically
+[09:09 --> 09:12] and culturally disposed to an alliance with Carthage.
+[09:13 --> 09:17] The Romans were intent on preventing this force from spreading out onto the island
+[09:17 --> 09:21] beyond their port of entry, and raised an army 40,000 strong
+[09:21 --> 09:25] to bottle up the city. Despite persistent skirmishes,
+[09:25 --> 09:29] the Romans were able to build a double wall around the city, one facing
+[09:29 --> 09:33] in, pinning the Carthaginian army down, and one facing out
+[09:33 --> 09:36] to prevent any relieving force from coming to Aggregantum's aid.
+[09:38 --> 09:41] This was a risky strategy in that the Romans themselves
+[09:41 --> 09:45] were now open to a siege. The Carthaginians, well
+[09:45 --> 09:49] aware of this vulnerability, rerouted their incoming troops to a
+[09:49 --> 09:53] nearby port, and decided to exploit the situation and besiege
+[09:53 --> 09:57] the besiegers. The siege of Aggregantum was the first
+[09:57 --> 10:00] opportunity for the new Roman friendship with Hiero to bear fruit,
+[10:01 --> 10:05] as the king of Syracuse spared no expense to keep the Roman army
+[10:05 --> 10:07] trapped now between their two walls, well supplied.
+[10:08 --> 10:13] The Carthaginian commander of the relieving force had every intention of simply starving
+[10:13 --> 10:17] the Romans out, as his own troops were raw and undisciplined,
+[10:17 --> 10:21] but after failing to cut the Roman supply lines, and recognizing that
+[10:21 --> 10:24] the situation inside Aggregantum was becoming desperate,
+[10:24 --> 10:29] decided to risk an open confrontation. He challenged the Romans
+[10:29 --> 10:31] to come out and fight, and the challenge was accepted.
+[10:32 --> 10:37] The resulting battle lasted all day, but in the end, just as the Carthaginian
+[10:37 --> 10:41] commander had feared, the experience and discipline of the Roman soldiers
+[10:41 --> 10:43] proved decisive, and the Carthaginians were beaten.
+[10:44 --> 10:48] In the aftermath of the fighting, though, that discipline broke down,
+[10:48 --> 10:51] as the Roman soldiers got caught up scavenging for spoils.
+[10:52 --> 10:56] The Carthaginian army trapped inside Aggregantum was able
+[10:56 --> 10:59] to slip out of the city, and it wasn't until the last Carthaginian company
+[10:59 --> 11:03] was leaving that the escape was finally noticed. The legions
+[11:03 --> 11:08] briefly mustered to give chase, but then realized that with the Carthaginian
+[11:08 --> 11:12] army gone, Aggregantum was ripe for the taking. The soldiers
+[11:12 --> 11:16] wheeled around and charged headlong into the city they had spent months sitting outside of.
+[11:17 --> 11:20] In their lust for plunder, all hell broke loose, and no
+[11:20 --> 11:22] distinction was made between civilian and combatant.
+[11:23 --> 11:28] Women and children were slaughtered along with the men, and the city was stripped of its wealth.
+[11:29 --> 11:32] The commanders, whether they approved of the horror or not,
+[11:32 --> 11:35] justified it after the fact by singing the familiar refrain
+[11:35 --> 11:40] that they needed to make an example of Aggregantum to teach other Carthage
+[11:40 --> 11:44] allied cities a lesson about resisting Rome. The only lesson
+[11:44 --> 11:48] the Carthage allied cities learned, however, was that the Romans were sadistic
+[11:48 --> 11:50] barbarians who had to be resisted at all cost.
+[11:51 --> 11:56] The sack of Aggregantum did nothing to dissuade future resistance, and in fact
+[11:56 --> 12:00] did everything to promote it. A more humane victory lap
+[12:00 --> 12:04] may have convinced the rest of Sicily that they had nothing to fear from the
+[12:04 --> 12:08] ascendant Romans, but in the end, the dose of Roman vinegar at Aggregantum
+[12:08 --> 12:12] attracted no bees. After taking Aggregantum,
+[12:13 --> 12:16] the Romans now effectively controlled two-thirds of Sicily,
+[12:17 --> 12:20] but the Carthaginian strongholds on the west coast were impregnable.
+[12:21 --> 12:24] Their walls were almost impossible to breach, and no prolonged siege
+[12:24 --> 12:28] would work as long as the cities could be supplied from the sea.
+[12:29 --> 12:33] It was the same dilemma the Spartans had faced during the Peloponnesian War.
+[12:33 --> 12:36] The Spartan phalanx could not be beaten on land,
+[12:36 --> 12:40] but the Athenians dominated the water. Neither side
+[12:40 --> 12:43] risked total defeat by challenging the other on their home field,
+[12:44 --> 12:48] but after essentially talking past each other for thirty years, the Spartans
+[12:48 --> 12:51] finally decided to force the issue and built a navy to compete.
+[12:52 --> 12:56] A decisive Spartan victory at sea finally put an end to
+[12:56 --> 13:00] the long war. In the first Punic War, the Romans
+[13:00 --> 13:04] were dominant on land, but the Carthaginians controlled the sea,
+[13:04 --> 13:08] and so, with typical Roman confidence and audacity, they decided
+[13:08 --> 13:11] to follow Sparta's example and take the fight on to the other guy's turf.
+[13:13 --> 13:16] While Appius Claudius was initially crossing over to Messana,
+[13:16 --> 13:20] a Carthaginian ship had charged too aggressively and run aground
+[13:20 --> 13:24] on the Italian mainland. Roman engineers studied the ship,
+[13:24 --> 13:28] and in 261 BC, the Senate, deciding to take the plunge
+[13:28 --> 13:32] into a world they knew nothing about, ordered a fleet built based on
+[13:32 --> 13:36] Carthaginian design. The Romans knew nothing about
+[13:36 --> 13:40] shipbuilding, or seamanship, but in two months they built 120
+[13:40 --> 13:44] ships and raised the 30,000 troops necessary to man them,
+[13:44 --> 13:48] training them on rowing techniques on the beach while the ships were completed.
+[13:49 --> 13:52] With minimal real practice at sea, the new Roman fleet
+[13:52 --> 13:56] sailed off to challenge Carthaginian naval supremacy. How hard could
+[13:56 --> 14:00] it really be? Leading the new Roman fleet was
+[14:00 --> 14:04] Cornelius Scipio, the first Scipio to appear in our narrative,
+[14:04 --> 14:08] but I can assure you he won't be the last. The forebearer
+[14:08 --> 14:12] of two of the greatest generals in Roman history, however, did not get the famous
+[14:12 --> 14:16] name off to a good start. Scipio led a squadron
+[14:16 --> 14:20] of 17 ships to Messana to make sure there was no Carthaginian presence
+[14:20 --> 14:23] in the area. The main fleet was to follow a few days later,
+[14:24 --> 14:28] under the capable hands of Scipio's consular colleague, Gaius Julius.
+[14:28 --> 14:32] But Scipio got greedy and decided to attack a small
+[14:32 --> 14:35] coastal city while he waited for the rest of the fleet.
+[14:36 --> 14:39] The Carthaginians got wind that the Romans were trying to launch a navy
+[14:39 --> 14:44] and decided to come have a look for themselves, knowing it would be good for a few laughs
+[14:44 --> 14:48] if nothing else. They watched with amusement as Scipio
+[14:48 --> 14:52] foolishly led all 17 of his ships into a harbor the Carthaginians
+[14:52 --> 14:56] could easily trap him in. Night fell and the Carthaginians
+[14:56 --> 15:00] did just that. And when the morning came, Scipio's little fleet
+[15:00 --> 15:03] was bottled up by a much larger Carthaginian force.
+[15:04 --> 15:08] As the Carthaginians advanced, the newly minted Roman sailors lost their
+[15:08 --> 15:12] nerve and abandoned ship. The 17 ships were all lost
+[15:12 --> 15:16] and Scipio himself was taken prisoner. The blunder
+[15:16 --> 15:20] earned Scipio the famous moniker Acina, which roughly translates as
+[15:20 --> 15:24] the ass. Scipio Acina, as history now
+[15:24 --> 15:28] remembers him, would eventually be handed over in a prisoner exchange and resume
+[15:28 --> 15:32] his career, but he never shook the memory of presiding over Rome's first
+[15:32 --> 15:36] naval battle and consequently Rome's first naval disaster.
+[15:37 --> 15:40] Scipio Acina's collie, however, fared much better.
+[15:41 --> 15:44] The Carthaginian naval commander, confident that every victory
+[15:44 --> 15:48] would be so easy, headed off to find the rest of the Roman fleet.
+[15:49 --> 15:52] Rounding the northeast corner of Sicily, the 50 Carthaginian
+[15:52 --> 15:56] ships plundered into the 100 Roman ships, and this time the Romans
+[15:56 --> 16:00] held their own. The Carthaginian fleet was soon driven back
+[16:00 --> 16:03] and was lucky to escape without greater losses than they did.
+[16:04 --> 16:08] After these two skirmishes, the stage was set for the first real
+[16:08 --> 16:12] full-on naval battle of the war. The Carthaginians
+[16:12 --> 16:16] sent 145 ships to meet the Romans, who by now had a fleet
+[16:16 --> 16:20] of 130 anchored off the north coast of the island near Mile.
+[16:21 --> 16:24] Carthage was intent on using their superior seamanship
+[16:24 --> 16:28] to devastate the Romans and put them back where they belonged, which is to say
+[16:28 --> 16:32] the land. The Romans, however, had a secret weapon.
+[16:32 --> 16:36] They knew they were no match for the Carthaginians in terms of nautical skill,
+[16:36 --> 16:40] so they devised a way of leveling the playing field and turning the battle
+[16:40 --> 16:42] into nothing more than an infantry fight at sea.
+[16:44 --> 16:48] The standard tactic of ancient naval battles was the subtle and refined
+[16:48 --> 16:52] art of ramming. One ship would try and swing around and head
+[16:52 --> 16:56] full speed at the broad side of an enemy vessel and crash into it with
+[16:56 --> 17:00] their armored prow, sinking the ship or at least taking it out of the fight.
+[17:02 --> 17:04] The Romans lacked the skill set necessary to compete on
+[17:04 --> 17:08] this level, so they developed a device called the corvus, which functioned
+[17:08 --> 17:12] like a narrow drawbridge. Each Roman ship had a
+[17:12 --> 17:15] wooden column outfitted with a pulley mounted on its prow.
+[17:16 --> 17:19] Attached to the pulley was a narrow plank with a large metal spike
+[17:19 --> 17:23] protruding from its bottom. When the Romans got near enough to an enemy
+[17:23 --> 17:27] vessel, they dropped the corvus, which crashed into the enemy deck
+[17:27 --> 17:32] and held the ship in place. The Roman soldiers then used the corvus
+[17:32 --> 17:36] as a bridge, running onto the other ship and fighting the Carthaginian
+[17:36 --> 17:39] sailors hand to hand, the kind of fighting the Romans excelled at.
+[17:41 --> 17:43] At Mile, the corvus was used to great effect.
+[17:43 --> 17:48] An initial foray of 30 Carthaginian ships were all caught up
+[17:48 --> 17:51] and their crews slaughtered. The rest of the Carthaginian fleet
+[17:51 --> 17:55] charging on their heels, saw what was happening to the lead group
+[17:55 --> 17:59] and tried to peel off, but another 20 were caught up anyway.
+[18:00 --> 18:03] Just like that, the Carthaginians had lost a third of their fleet.
+[18:04 --> 18:08] Having taken the Carthaginians completely by surprise with their new
+[18:08 --> 18:12] toy, Rome won its first major naval battle handily.
+[18:12 --> 18:16] The corvus, however, was never again so effective, the Carthaginians
+[18:16 --> 18:20] learning quickly to avoid the trap. Once the secret weapon was
+[18:20 --> 18:22] no longer secret, its effectiveness disappeared.
+[18:24 --> 18:28] For the next four years, the First Punic War bogged down into a series
+[18:28 --> 18:31] of intermittent and indecisive battles on land and at sea.
+[18:32 --> 18:36] The Romans diverted forces from Sicily in an attempt to dislodge
+[18:36 --> 18:40] the Carthaginians from Sardinia and Corsica, which they were using as bases
+[18:40 --> 18:44] to harass the Italian coast. No major push was made by Rome
+[18:44 --> 18:48] on the Carthaginian strongholds on the west coast of Sicily
+[18:48 --> 18:52] and the Carthaginians were content, for now, to hold what possessions they
+[18:52 --> 18:56] could, unable to raise a large enough force to end the now permanent
+[18:56 --> 19:01] Roman presence on the island. In 255 BC, however,
+[19:01 --> 19:04] the Senate decided that its muddled and incoherent strategy
+[19:04 --> 19:08] of having forces spread across multiple islands would leave them
+[19:08 --> 19:12] at war forever and initiated a much bolder strategy that would change
+[19:12 --> 19:16] the whole dynamic of the war. They would invade North Africa.
+[19:17 --> 19:20] For this mission, the Romans built a massive fleet
+[19:20 --> 19:24] of 330 ships, 250 ships of war
+[19:24 --> 19:28] and 80 troop transports to ferry the standard ground legions
+[19:28 --> 19:32] into Africa. Once there, the infantry would
+[19:32 --> 19:36] disembark, march on Carthage itself, and put an end to this war once
+[19:36 --> 19:39] and for all. That was the plan, anyway.
+[19:40 --> 19:44] The Carthaginian Senate was alarmed at what the Romans were obviously up to
+[19:44 --> 19:48] and ordered a massive fleet of their own to intercept the invasion force
+[19:48 --> 19:52] before it could be launched from Sicily. The Carthaginian
+[19:52 --> 19:56] fleet waited for the Romans to load up their 80 transport vessels
+[19:56 --> 19:59] which had to be towed behind road ships of war.
+[20:00 --> 20:04] The Carthaginians knew they didn't necessarily have to win the battle to end the threat of invasion.
+[20:04 --> 20:07] They simply had to sink the helpless transport vessels.
+[20:08 --> 20:10] No invasion force, no invasion.
+[20:11 --> 20:16] The two fleets met in the shadow of Mount Equnomus on the southern coast of Sicily.
+[20:17 --> 20:20] If the ancient sources are to be believed, then the Battle of
+[20:20 --> 20:23] Equnomus was one of the largest naval battles in the history of the world
+[20:23 --> 20:28] with something like 600 ships and 200,000 sailors and soldiers taking part.
+[20:29 --> 20:32] The Romans set off in a well-planned triangle formation
+[20:32 --> 20:36] placing the troop transport at the base of the triangle for maximum protection.
+[20:38 --> 20:41] But the Carthaginians managed to bait the lead ships out of
+[20:41 --> 20:44] formation by feigning a retreat. The lead ships of the
+[20:44 --> 20:48] wedge headed off in pursuit of the Carthaginians and the back Roman line
+[20:48 --> 20:53] was unable to keep up. The feint successful, the Carthaginians
+[20:53 --> 20:57] then whipped around and locked up the advancing Romans, leaving the transport
+[20:57 --> 21:00] sitting ducks for another squadron of Carthaginian ships.
+[21:01 --> 21:04] However, despite thoroughly out maneuvering the Romans,
+[21:04 --> 21:08] the Carthaginians were unable to seal the deal and the Roman line towing
+[21:08 --> 21:11] the transports were able to fend off the attack.
+[21:12 --> 21:16] The lead Roman ships then got the better of their opponents and were able to swing back around
+[21:16 --> 21:18] to relieve the beleaguered back line.
+[21:20 --> 21:23] At the end of the day, the Roman fleet was still essentially intact.
+[21:23 --> 21:28] The Carthaginians had done nothing more than delay the invasion and after the Romans
+[21:28 --> 21:32] repaired their damaged vessels they set out again, this time without meeting any resistance
+[21:32 --> 21:36] at all. The Carthaginians pulled back
+[21:36 --> 21:40] to their home city where they made preparations to fend off the Roman invasion.
+[21:41 --> 21:44] The dynamic of the war was indeed about to change as the
+[21:44 --> 21:48] Romans landed troops in Africa for the first, but certainly not the last
+[21:48 --> 21:52] time. Next week, the Romans will encounter
+[21:52 --> 21:56] a Carthaginian army revitalized under the brilliant command of a hired
+[21:56 --> 22:00] Spartan general named Xanthippus. Despite his brilliant
+[22:00 --> 22:04] generalship, though, Rome will come a hair's breadth away from ending the war
+[22:04 --> 22:08] but an overinflated ego will blow the opportunity, forcing the
+[22:08 --> 22:12] war back to Sicily where Carthage will wage a decade-long guerrilla war
+[22:12 --> 22:14] against the inevitable tide of Roman domination.
+[22:16 --> 22:20] In the final years of the war, a young Carthaginian boy will swear
+[22:20 --> 22:24] eternal hatred for Rome, starting him on the path to becoming Nightmare
+[22:24 --> 22:28] the Boogeyman, a number one in the Roman psyche, Hannibal.

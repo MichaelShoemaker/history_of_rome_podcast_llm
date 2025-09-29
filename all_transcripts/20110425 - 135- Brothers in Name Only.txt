@@ -1,0 +1,348 @@
+# 20110425 - 135- Brothers in Name Only
+# Detected language: en
+# Duration: 1619.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you know, Audible is the Internet's leading provider of audio entertainment with over
+[00:08 --> 00:10] 80,000 titles to choose from.
+[00:10 --> 00:15] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:15 --> 00:19] That again, audiblepodcast.com forward slash Rome.
+[00:19 --> 00:22] By going to that address, you qualify for a free book download when you sign up for
+[00:22 --> 00:24] a 14-day trial membership.
+[00:24 --> 00:28] There is no obligation to continue the service and you can cancel anytime and keep the free
+[00:28 --> 00:29] book.
+[00:29 --> 00:34] Also, you can keep going with one of the monthly subscription options and get great deals on
+[00:34 --> 00:37] all future audiobook purchases.
+[00:37 --> 00:42] This week, I'm going to go with a recommendation from listener Paul, Imperium and Conspirata
+[00:42 --> 00:47] by Robert Harris, the first two books in a planned trilogy of historical fiction novels
+[00:47 --> 00:52] about the life and times of everyone's favorite genius windbag, Cicero.
+[00:52 --> 00:57] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent
+[00:57 --> 01:00] you.
+[01:00 --> 01:14] Hello, and welcome to The History of Rome, episode 135, Brothers in Name Only.
+[01:14 --> 01:19] Following the defeat and death of Maximinus Dio in the summer of 313 AD, the Roman Empire
+[01:19 --> 01:24] was back down to two emperors for the first time in 20 years.
+[01:24 --> 01:29] But unlike the previous partnership between Diocletian and Maximian, the partnership between
+[01:29 --> 01:34] Constantine and Lycanius was not premised on cooperation and mutual respect, so much
+[01:34 --> 01:38] as on hostility and mutual suspicion.
+[01:38 --> 01:43] Their joint reign was not about working together to solve the problems of the empire.
+[01:43 --> 01:47] It was instead about putting themselves in the best position possible to take the other
+[01:47 --> 01:52] out as soon as an opportunity presented itself.
+[01:52 --> 01:56] The two men resembled no one so much as Octavian and Antony.
+[01:56 --> 02:01] They were avowed allies, legally brothers-in-law, and ready to slit each other's throats at
+[02:01 --> 02:03] the drop of a hat.
+[02:03 --> 02:08] And of course, in the end, the climax of their drama played out the same as well, with the
+[02:08 --> 02:12] man in the west utterly crushing the man in the east.
+[02:12 --> 02:21] But just like that old drama, this new drama would take more than a decade to play out.
+[02:21 --> 02:25] Lycanius did not have long to savor his victory over Maximinus before the responsibilities
+[02:25 --> 02:28] he had won for himself came knocking.
+[02:28 --> 02:32] After arriving in Antioch to consolidate his rule over Syria, Lycanius appears to have
+[02:32 --> 02:38] been dragged straight away into hostilities with Rome's Persian neighbor to the east.
+[02:38 --> 02:42] There is very little detail in the record about what exactly was going on between the
+[02:42 --> 02:47] Romans and the Sassanids at this point in history, but one thing was clear.
+[02:47 --> 02:52] Whatever fight Maximinus Daya had been embroiled in when Constantine knocked off Maxentius,
+[02:52 --> 02:55] it was far from over.
+[02:55 --> 03:00] But though we don't know the exact circumstances, if we take historical precedents and combine
+[03:00 --> 03:05] them with one major contemporaneous event, historians reckon that once again the two
+[03:05 --> 03:09] empires were feuding over Armenia.
+[03:09 --> 03:15] That one major contemporaneous event occurred in the late summer or early fall of 314 AD,
+[03:15 --> 03:20] maybe six to nine months after Lycanius began campaigning in the desert.
+[03:20 --> 03:25] A new king of Armenia was crowned.
+[03:25 --> 03:29] The establishment of a new monarch over the border kingdom at this particular moment is
+[03:29 --> 03:33] why historians suspect Rome and Persia were fighting over Armenia.
+[03:33 --> 03:39] But that said, there is nothing particularly major about Armenia getting a new king.
+[03:39 --> 03:41] It happened all the time.
+[03:41 --> 03:46] What made it a major event is that the new king, Tyredates, had recently been baptized
+[03:46 --> 03:50] a Christian, and when he took over the throne he declared that the kingdom of Armenia would
+[03:50 --> 03:55] henceforth recognize Christianity as its official religion.
+[03:55 --> 04:00] This of course was the first time in history that any government recognized Christianity
+[04:00 --> 04:08] as its state religion, which I think you'll agree is a major event indeed.
+[04:09 --> 04:13] While Lycanius was thus absorbed in the east, Constantine handled all imperial business
+[04:13 --> 04:15] in the west.
+[04:15 --> 04:20] After satisfying himself that Maximinus was dead and that he would not have to like invade
+[04:20 --> 04:25] Illyria or something, Constantine headed back north to Gaul and established a headquarters
+[04:25 --> 04:27] at Trier.
+[04:27 --> 04:31] He spent most of the next year dealing with the routine matters of government, petitions
+[04:31 --> 04:35] here, skirmishes with the Germans there, etc. etc.
+[04:35 --> 04:39] But in the summer of 314, Constantine dealt with his own major turning point in the history
+[04:39 --> 04:42] of Christianity.
+[04:42 --> 04:46] This turning point sprang from an internal disagreement within the church, which led
+[04:46 --> 04:51] to one side appealing to the emperor to resolve the argument.
+[04:51 --> 04:55] For the first 300 years of Christianity's existence, the imperial government was not
+[04:55 --> 05:01] just a separate institution, it was practically the exact opposite of everything Christianity
+[05:01 --> 05:03] stood for.
+[05:03 --> 05:07] But now that Constantine was in power, that was all about to change.
+[05:07 --> 05:12] And it is the Donatists who get the credit, or the blame depending on your point of view,
+[05:12 --> 05:18] for first inviting the emperor into the church.
+[05:18 --> 05:22] The stage for this invitation was set by the Great Persecution.
+[05:22 --> 05:26] Essentially what happened is that while the persecution was going on, the Christians wound
+[05:26 --> 05:31] up breaking down into two camps, those who complied with the imperial authorities and
+[05:31 --> 05:34] those who resisted.
+[05:34 --> 05:38] Now that the persecution was over, the Christian leadership was faced with the question of
+[05:38 --> 05:43] what to do with the collaborating clergymen, who were called Trada Torres, or men who had
+[05:43 --> 05:49] handed over, which gives us the root of our English word, traitor.
+[05:49 --> 05:54] Could they just return as if nothing had happened, or did they need to be rebaptized, or what?
+[05:54 --> 05:59] And more importantly, should they be allowed to return at all?
+[05:59 --> 06:04] You'll recall that following the Deceit and Persecution, the church faced a similar situation,
+[06:04 --> 06:10] and eventually came down solidly on the side of readmittance without the need for rebaptism,
+[06:10 --> 06:13] and declared the opposing view heretical.
+[06:13 --> 06:18] You'll also recall that when we discussed what became known as the Novationist heresy,
+[06:18 --> 06:22] that I said it was a precursor to the much larger fight that would follow Diocletian's
+[06:22 --> 06:23] Great Persecution.
+[06:23 --> 06:28] Well, here we are.
+[06:28 --> 06:33] A faction within the church, centered in North Africa, and led by, but not founded by, the
+[06:33 --> 06:38] Bishop Donatus, believed that collaborating members of the clergy should not be allowed
+[06:38 --> 06:43] to maintain their positions, and that any sacraments they celebrated should be considered
+[06:43 --> 06:45] invalid.
+[06:45 --> 06:50] The position of these so-called Donatus was considered unnecessarily harsh by the majority
+[06:50 --> 06:55] of the Christian clergy, possibly because many of them could be accused of being Trada
+[06:55 --> 06:59] Tores, and a far more lenient course was plotted.
+[06:59 --> 07:04] I don't want to dive too deeply into the minutiae of the arguments, because doctrinal
+[07:04 --> 07:10] disputes like this quickly turn into black holes of esoteric theology, but suffice it
+[07:10 --> 07:18] to say that it was a very complex issue, the two sides dug in, and the problem seemed intractable.
+[07:18 --> 07:23] After an anti-Donatus deacon was elected to serve as the Bishop of Carthage, under highly
+[07:23 --> 07:28] suspicious circumstances, it should be noted, Bishop Donatus of Numidia decided to outflank
+[07:28 --> 07:33] his enemies in the church, and played an unprecedented trump card.
+[07:33 --> 07:40] He appealed directly to Constantine, and asked the emperor to help settle the matter.
+[07:40 --> 07:44] Now before we get too far along, I do want to point out that this was not completely
+[07:44 --> 07:47] uncharted territory.
+[07:47 --> 07:51] It is often said that the fight over the Donatus heresy and the subsequent council at Arles
+[07:51 --> 07:56] was the first time the church invited the emperor in to help solve their problems.
+[07:56 --> 08:01] But there was actually a precedent for this set during the reign of Aurelian.
+[08:01 --> 08:06] There was too much else going on for me to talk about it at the time, but as Queen Zenobia
+[08:06 --> 08:11] was extending her influence into Syria, she made common cause with a controversial bishop
+[08:11 --> 08:17] named Paul of Samasada, who agreed to turn his flock in her direction if she supported
+[08:17 --> 08:21] his claim to the bishopric of Antioch.
+[08:21 --> 08:25] Once Palmyra was defeated, a delegation of Christian leaders approached Aurelian and
+[08:25 --> 08:29] asked him to expel Paul from the city.
+[08:29 --> 08:34] Since their religious aims coincided with his political aims, Aurelian granted the request
+[08:34 --> 08:36] and Paul was exiled.
+[08:36 --> 08:41] That, so far as I can tell, is actually the first time an emperor got in the middle of
+[08:41 --> 08:47] what was, really, an internal dispute between rival Christian factions.
+[08:47 --> 08:52] But that all being said, no emperor had ever gotten involved with doctrinal issues, so
+[08:52 --> 09:01] Constantine is definitely about to set off into uncharted territory on that front.
+[09:01 --> 09:05] It should be noted, though, that when Constantine accepted the petition of the Donatus, it was
+[09:05 --> 09:12] not because he was itching to stick his nose into church business, but because, as emperor,
+[09:12 --> 09:16] he felt like he had a responsibility to ensure that justice was done.
+[09:16 --> 09:22] Indeed, the petition delivered to the emperor had nothing to do with doctrinal disputes,
+[09:22 --> 09:27] but instead focused exclusively on the alleged crimes of the controversial new bishop of
+[09:27 --> 09:29] Carthage.
+[09:29 --> 09:34] The Donatus' strategy was to smear their rival bishop, get the recent election results
+[09:34 --> 09:41] tossed out, and then get a new pro-Donatus candidate elected to the bishopric of Carthage.
+[09:41 --> 09:45] But despite the fact that he agreed, in the interest of justice, that the Donatus should
+[09:45 --> 09:51] be heard, that did not mean that Constantine was eager to jump into internal church politics
+[09:51 --> 09:56] with both feet, so he ordered the matter be arbitrated by the bishop of Rome and a panel
+[09:56 --> 10:01] of three other impartial bishops from Gaul, who would be selected by the emperor personally
+[10:01 --> 10:05] to ensure a fair result.
+[10:05 --> 10:09] But before the trial took place, the bishop of Rome, a staunch anti-Donatist and friend
+[10:09 --> 10:15] of the accused, packed the judge's table with 15 more bishops, all from Italy and all
+[10:15 --> 10:18] in his pocket.
+[10:18 --> 10:23] As soon as the proceedings began, it became clear that the whole thing was now a setup.
+[10:23 --> 10:28] The council not only ruled against the Donatus on the limited issue of whether the bishop
+[10:28 --> 10:33] of Carthage was a guilty man, but they also ruled against them on the broader issue of
+[10:33 --> 10:38] their doctrinal beliefs, which the council declared heretical.
+[10:38 --> 10:45] The Donatus were, of course, outraged and appealed to Constantine a second time.
+[10:45 --> 10:49] When the emperor was filled in on the details of the trial, he agreed that the Donatus had
+[10:49 --> 10:54] been treated unfairly and agreed that their case should be retried, this time before a
+[10:54 --> 10:59] council composed of bishops from every province in the Western Empire, a council that was
+[10:59 --> 11:03] to be called by Constantine himself.
+[11:03 --> 11:08] When the subsequent council of Arles convened in August of 314, though, the outcome for
+[11:08 --> 11:10] the Donatus was the same.
+[11:10 --> 11:15] Their charges against the bishop of Carthage were tossed out, and their beliefs were declared
+[11:15 --> 11:16] heretical.
+[11:16 --> 11:21] The Donatus appealed to Constantine a third time, and like most major court cases, there
+[11:21 --> 11:26] were a few more procedural twists and turns before the matter was finally settled for
+[11:26 --> 11:27] good.
+[11:27 --> 11:30] But in the end, the decision of the council of Arles stood.
+[11:30 --> 11:36] The accused bishop was exonerated, and the Donatus were declared heretics.
+[11:36 --> 11:41] When the Donatus continued to pester the emperor about the issue, though, Constantine finally
+[11:41 --> 11:44] lost his temper.
+[11:44 --> 11:49] He had been at the council, though he sat as a layperson, and saw nothing untoward
+[11:49 --> 11:51] about the process.
+[11:51 --> 11:54] The Donatus had had their day in court, and they had lost.
+[11:54 --> 12:01] It was time to get over it, drop their complaints, and get on board with the program.
+[12:01 --> 12:05] Which brings us to the last two points I want to make about the whole affair.
+[12:05 --> 12:11] First, it gives us an initial glimpse at what Constantine's religious priorities really
+[12:11 --> 12:12] were.
+[12:12 --> 12:17] Specifically, how much weight he put in the idea of unity.
+[12:17 --> 12:22] As we go forward, we will see again and again that Constantine liked Christianity, supported
+[12:22 --> 12:28] Christianity, and believed in Christianity, but that it drove him crazy how much Christians
+[12:28 --> 12:31] fought with each other.
+[12:31 --> 12:36] Constantine didn't care what wound up orthodoxy and what wound up heresy, though there is
+[12:36 --> 12:42] good reason to believe he actually supported the anti-Donatus position, just as long as
+[12:42 --> 12:44] everyone agreed what was what.
+[12:44 --> 12:50] He seemed genuinely afraid that discord within the church imperiled all their souls.
+[12:50 --> 12:55] This fear would culminate with the Council of Nicaea, when Constantine pushed for all
+[12:55 --> 12:59] doctrinal disputes to be settled once and for all.
+[12:59 --> 13:03] This fear would also lead to the second point I want to make.
+[13:03 --> 13:08] Now that Donatism had been given a fair hearing and still been declared heretical, it was
+[13:08 --> 13:13] time for it to be purged from the system in order to maintain the all-important unity
+[13:13 --> 13:16] and purity of the church.
+[13:16 --> 13:20] So following the Council of Arles, we see Constantine nodding in approval as the first
+[13:20 --> 13:26] instances of Christian-on-Christian violence begin to break out in North Africa.
+[13:26 --> 13:32] And then, when the Donatist persisted, we see him threatening to come down there himself
+[13:32 --> 13:35] and show everyone how it was done.
+[13:35 --> 13:40] But he wouldn't get the chance, as war with Lycaenius interrupted his dabbling for now
+[13:40 --> 13:46] in the controversies of the church.
+[13:46 --> 13:50] After he left Arles in the late summer of 314, Constantine returned to Trier to keep
+[13:50 --> 13:55] an eye on the Rhine frontier, and Lycaenius returned from the east to keep an eye on the
+[13:55 --> 13:57] Danube frontier.
+[13:57 --> 14:02] At some point after the first of the year, though we really don't know when, a subtle
+[14:02 --> 14:08] new wrinkle in the balance of power was introduced, as Constantia gave birth to Lycaenius' first
+[14:08 --> 14:13] child, a son who we'll call Lycaenius the younger.
+[14:13 --> 14:18] Though the baby Lycaenius was just that, a baby, most historians believe that Constantine
+[14:18 --> 14:23] immediately detected a threat to his long-term dynastic ambitions, so the Western Emperor
+[14:23 --> 14:28] set in motion a series of events that would eventually lead first to murder, and then
+[14:28 --> 14:31] to war.
+[14:31 --> 14:36] Though over the course of the last few years the Tetrarchy as an institution had withered,
+[14:36 --> 14:41] as no replacement candidates had been elevated to replace Galerius or Maxiministia, at some
+[14:41 --> 14:48] point in 315 Constantine suddenly proposed resurrecting the idea of junior imperial colleagues.
+[14:48 --> 14:54] Specifically, he sent a message to Lycaenius suggesting a man named Bossianus be elevated
+[14:54 --> 14:56] to the rank of Caesar.
+[14:56 --> 15:02] But one additional Caesar does not a Tetrarchy make, which is why scholars suppose that in
+[15:02 --> 15:08] addition to the documented proposal to elevate Bossianus, that Constantine further intended
+[15:08 --> 15:12] to elevate his son Crispus at the same time.
+[15:12 --> 15:16] Though we have no proof of it, the supposition makes sense on its own merits, and conveniently
+[15:16 --> 15:22] fits with Constantine's general political posture during the period.
+[15:22 --> 15:27] Crispus had been born sometime between 299 and 305, while Constantine was in the East
+[15:27 --> 15:33] at Diocletian's court, and his story mirrors that of his father.
+[15:33 --> 15:39] He was the son of Constantine and a woman named Minervina whose relationship with Constantine,
+[15:39 --> 15:46] like that of Constantine's own mother Helena with his father Constantius, is a bit murky.
+[15:46 --> 15:50] Minervina may have been an informal mistress, she may have been a legal wife who was divorced
+[15:50 --> 15:57] to make way for Fausta, or she may have been a legal wife who died before 307.
+[15:57 --> 16:03] Like Constantine himself then, by 315 AD, Crispus stood as the son of a previous marriage
+[16:03 --> 16:07] who was very possibly illegitimate.
+[16:07 --> 16:11] But perhaps drawing from his own experience, Constantine never wavered in his recognition
+[16:11 --> 16:17] of Crispus, and always acknowledged and supported the boy as his rightful heir, as we are seeing
+[16:17 --> 16:23] right now in his attempt to make a Caesar of the boy slash teenager.
+[16:23 --> 16:27] The presumption here is that Constantine was looking to overwhelm any claim to power
+[16:27 --> 16:32] the baby like Cineus might put forward someday, by packing a revived tetrarchy with his own
+[16:32 --> 16:33] people.
+[16:33 --> 16:41] Bossianus, you see, was not just a respected senator, he was also Constantine's brother-in-law.
+[16:41 --> 16:46] But Constantine didn't want to be too obvious in his dynastic maneuverings, which is why,
+[16:46 --> 16:52] of all his possible male relations, the Western Augustus specifically nominated Bossianus,
+[16:52 --> 16:59] since Bossianus's brother was a man named Senecio, who was a close friend of Lichinus.
+[16:59 --> 17:04] Hopefully, Lichinus would agree to the proposal, believing that he was getting a Caesar he
+[17:04 --> 17:11] could trust, and thus accept a tetrarchy essentially composed of Constantine's extended family.
+[17:11 --> 17:15] And if you count Lichinus, who was himself Constantine's brother-in-law, then you could
+[17:15 --> 17:21] say that the whole tetrarchy would be composed of Constantine's extended family.
+[17:21 --> 17:28] But the Eastern Augustus was not buying what Constantine was selling.
+[17:28 --> 17:31] According to Constantine's later version of events, it was a good thing for him that
+[17:31 --> 17:36] Lichinus shot down Bossianus's nomination, because as it turned out, the would-be Caesar
+[17:36 --> 17:42] was not nearly as loyal to Constantine as the Western Augustus had supposed.
+[17:42 --> 17:46] According to Constantine's later story, not long after refusing the proposal to renew
+[17:46 --> 17:52] the tetrarchy, Lichinus had actually talked his friend Senecio into talking his brother
+[17:52 --> 18:01] Bossianus into initiating a plot to kill Constantine, and that Bossianus had agreed to the plan.
+[18:01 --> 18:05] No one really believes today that Bossianus was actually involved in a conspiracy against
+[18:05 --> 18:11] his brother-in-law, but over the winter of 315-316, Constantine's agents allegedly caught
+[18:11 --> 18:17] Bossianus red-handed and the would-be assassin was executed.
+[18:17 --> 18:22] So if there was no plot, why did Constantine suddenly turn on the man he had been ready
+[18:22 --> 18:26] to make Caesar just the year before?
+[18:26 --> 18:30] The answer appears to lie in the fact that after eight years of marriage, Afosta was
+[18:30 --> 18:32] finally pregnant.
+[18:32 --> 18:38] With another heir on the way, and of course the child would be a boy, Bossianus became
+[18:38 --> 18:43] expendable, so Constantine used him as a convenient conduit through which to accuse
+[18:43 --> 18:48] Lichinus of murderous treachery.
+[18:48 --> 18:52] After Afosta gave birth to Constantine's second son, of course it was a son, the ill-fated
+[18:52 --> 18:58] Constantine II, Constantine I stepped up his rhetoric and demanded that Lichinus hand over
+[18:58 --> 19:03] Senecio so that he too could be tried for attempted re-decide.
+[19:03 --> 19:07] But Lichinus refused to hand over his old friend and diplomatic relations between the
+[19:07 --> 19:10] two emperors broke down.
+[19:10 --> 19:15] In the fall of 316, Constantine, convenient pretext for war now in hand, led a force of
+[19:15 --> 19:20] about 20,000 over the Alps and into Illyria to confront Lichinus.
+[19:20 --> 19:25] Hearing that his brother emperor was on the march, Lichinus mustered 35,000 troops and
+[19:25 --> 19:29] marched west, ready to do some confronting of his own.
+[19:29 --> 19:35] The two emperors met on October 8, 316 AD on an open plain near the Pannonian citadel
+[19:36 --> 19:41] And after some brief skirmishing, the two infantries got down to business.
+[19:41 --> 19:45] Both emperors were no doubt hoping that this would prove to be their final battle for control
+[19:45 --> 19:49] of the Roman Empire, but both were disappointed.
+[19:49 --> 19:54] After a slug-fest that lasted all day, Constantine finally led a cavalry charge right before
+[19:54 --> 19:57] sundown that decisively routed Lichinus's army.
+[19:57 --> 20:01] But the breakthrough came too late in the day and darkness ended hostilities before
+[20:02 --> 20:05] Constantine could finish the job.
+[20:05 --> 20:08] Under the cover of night, Lichinus gathered up what was left of his army and drove them
+[20:08 --> 20:14] first north to Sirmium and then east to Adrianople to regroup.
+[20:14 --> 20:19] It seems that it was at this point, just after the Battle of Kibali, that Lichinus elevated
+[20:19 --> 20:27] one of his generals, a man named Aurelius Valerius Valens, to the rank of full co-Augustus.
+[20:27 --> 20:32] Valens had been serving as the theater commander of the Danube frontier, and it appears that
+[20:32 --> 20:37] with his legitimacy badly shaken by Constantine's victory, that Lichinus wanted to secure the
+[20:37 --> 20:43] loyalty of Valens before the general defected to Constantine's side.
+[20:43 --> 20:48] The now co-emperors based in Adrianople then quickly raised a new army, and at some point
+[20:48 --> 20:54] during the winter of 316-317, the peace talks that had been ongoing since Kibali broke down
+[20:54 --> 21:02] and the armies of east and west met again, this time at the Thracian town of Mardia.
+[21:02 --> 21:09] Both emperors hoped that this would be their final battle, but alas, again it was not.
+[21:09 --> 21:13] Like the Battle of Kibali, the Battle of Mardia was an extremely hard-fought affair that once
+[21:13 --> 21:19] again saw Constantine get the upper hand, but once again saw night fall before he could
+[21:19 --> 21:21] finish the job.
+[21:21 --> 21:25] Then once again Lichinus and Valens gathered up their battered army and retreated under
+[21:25 --> 21:28] the cover of night.
+[21:28 --> 21:33] But they were not running scared, and their line of retreat led the so-far perfect golden-boy
+[21:33 --> 21:38] Constantine to finally make a mistake.
+[21:38 --> 21:43] The most obvious fallback position for Lichinus's army at this point was Byzantium, and this
+[21:43 --> 21:48] was so obvious that Constantine just assumed that that's where his rival Augustus was
+[21:48 --> 21:49] headed.
+[21:49 --> 21:54] More than ready to end this thing, Constantine plunged east, hoping to take down Lichinus
+[21:54 --> 21:58] before he could fully solidify his defenses.
+[21:58 --> 22:03] But Lichinus and Valens had not in fact headed to Byzantium.
+[22:03 --> 22:07] Guessing that this is what Constantine was guessing that they'd do, they instead withdrew
+[22:07 --> 22:09] north into the hills.
+[22:09 --> 22:14] Once Constantine blew past their position, they dropped back down and neatly cut off
+[22:14 --> 22:17] his supply and communication lines to the west.
+[22:17 --> 22:22] It did not take long for Constantine to realize his mistake.
+[22:22 --> 22:26] Both sides stalled for time, as Lichinus and Valens waited for Constantine to recognize
+[22:26 --> 22:31] how dire his position was, and as Constantine waited to see if his porters could somehow
+[22:31 --> 22:35] slip through the enemy blockade.
+[22:35 --> 22:38] As soon as a much-needed shipment of supplies was captured though, Constantine threw in
+[22:38 --> 22:41] the towel and came to the table.
+[22:41 --> 22:48] On March 1, 316 AD, the two sides came together and hammered out a peace.
+[22:48 --> 22:54] Now Constantine was in a tight spot, but he had still whipped Lichinus twice in a row,
+[22:54 --> 22:57] so it's not like he was negotiating with a gun to his head.
+[22:57 --> 23:02] He knew that Lichinus wanted this over even more than he did, which is why Constantine
+[23:02 --> 23:06] was able to negotiate such a favorable settlement for himself.
+[23:06 --> 23:11] In fact, his only real concession to Lichinus was that the eastern Augustus would not be
+[23:11 --> 23:13] deposed just yet.
+[23:13 --> 23:18] Other than that though, Constantine dictated the terms and Lichinus accepted them.
+[23:18 --> 23:24] First, the eastern Augustus would unequivocally recognize the western Augustus as the senior
+[23:24 --> 23:26] Augustus.
+[23:26 --> 23:31] Up until now, it had been a little unclear who outranked who.
+[23:31 --> 23:35] Constantine had had himself declared maximum Augustus by the Senate, but there was no getting
+[23:35 --> 23:41] around the fact that Lichinus had been Augustus longer, and so enjoyed a natural seniority.
+[23:41 --> 23:44] Now the issue was put to bed.
+[23:44 --> 23:47] Constantine was the top dog.
+[23:47 --> 23:53] Second, all the territory west of Thrace was ceded to Constantine, giving him control over
+[23:53 --> 23:58] Greece, which was nice, but more importantly, giving him control over all the legions stationed
+[23:58 --> 24:00] along the Danube.
+[24:00 --> 24:05] Finally, there was the small matter of Valens.
+[24:05 --> 24:09] Where in Constantine's dynastic plans was there room for some random general inserted
+[24:09 --> 24:13] into the imperial college without his approval?
+[24:13 --> 24:17] Valens was to be deposed and executed.
+[24:17 --> 24:20] Lichinus agreed to everything and Valens, who had enjoyed the novelty of calling himself
+[24:20 --> 24:27] Augustus for maybe three or four months, was stripped of his rank and killed.
+[24:27 --> 24:31] The last little bit of business to attend to was to finally address the long-term future
+[24:31 --> 24:34] of the imperial dynasty.
+[24:34 --> 24:38] Constantine had tried to restart the tetrarchy on his own terms, and Lichinus had tried to
+[24:38 --> 24:43] elevate a new emperor on his own terms, so now both men agreed to a simple compromise
+[24:43 --> 24:45] that would hopefully settle things.
+[24:45 --> 24:50] Crispus, Constantine II, and Lichinus the Younger would all be elevated to the rank
+[24:50 --> 24:53] of Caesar.
+[24:53 --> 24:59] Now since Crispus was at most 17 years old, and possibly as young as 11, and Constantine
+[24:59 --> 25:04] and Lichinus the Younger were both babies, this compromise does not represent a return
+[25:04 --> 25:09] to the tetrarchy, so much as it harkens back to the old days, when a Roman emperor would
+[25:09 --> 25:15] give his son the title Caesar to signal that he was the official heir to the throne.
+[25:15 --> 25:21] Though the idea of the tetrarchy was not entirely done for yet, as evidenced by the fact that
+[25:21 --> 25:27] when Lichinus and Constantine next went to war, each was supported by a Caesar, clearly
+[25:27 --> 25:34] the tetrarchy is about to be relegated to the dustbin of history.
+[25:34 --> 25:39] The peace would hold for the next seven years, though clearly neither emperor thought it
+[25:39 --> 25:45] would last forever, as evidenced by the fact that while Lichinus made his capital at Nicomedia,
+[25:45 --> 25:49] Constantine made his at Sirmium.
+[25:49 --> 25:53] Both men campaigned against Rome's enemies to the north in order to justify the location
+[25:53 --> 25:57] of their respective headquarters, but there was no missing the obvious fact that they
+[25:57 --> 26:01] were basically living right next door to each other.
+[26:01 --> 26:07] The first time either emperor slipped up, the other was going to pounce.
+[26:07 --> 26:12] Next week though, Constantine will eventually be able to stand the suspense no longer, and
+[26:12 --> 26:17] instead of waiting for Lichinus to slip up, he will simply start poking Lichinus in the
+[26:17 --> 26:19] eye with a stick.
+[26:19 --> 26:23] After enduring the prodding for a bit, Lichinus will finally snap and demand that Constantine
+[26:23 --> 26:28] stop poking him in the eye with a stick, at which point Constantine will say, well why
+[26:28 --> 26:32] don't you make me, and then Lichinus will say, okay, here I come.
+[26:32 --> 26:35] This time, it would be their final battle.

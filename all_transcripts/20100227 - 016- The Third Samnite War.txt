@@ -1,0 +1,178 @@
+# 20100227 - 016- The Third Samnite War
+# Detected language: en
+# Duration: 935.11 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:07] Hello, and welcome to the history of Rome.
+[00:08 --> 00:14] As the 300s gave way to the 200s BC, Rome found itself the de facto master of Italy.
+[00:15 --> 00:20] It was not yet official, but for all intents and purposes, Italy belonged to Rome.
+[00:21 --> 00:25] Certainly the Romans saw themselves as being in charge, and their actions in the
+[00:25 --> 00:29] immediate aftermath of the long second Samnite War demonstrated this.
+[00:29 --> 00:35] But in the volatile ancient world, a beaten enemy one year was often victorious the next,
+[00:35 --> 00:40] so though Rome was surrounded by beaten enemies, next year was just around the corner.
+[00:41 --> 00:47] Rome's attitude towards the fiercely independent Samnites and once regal Etruscans led to
+[00:47 --> 00:52] smoldering resentment across Rome's new territory, which I suppose was the source
+[00:52 --> 00:57] of their resentment, Rome considering Etruria and Samnium to be newly conquered territory
+[00:57 --> 01:02] ripe for settlement and colonization, while the natives saw their treaties with Rome as being
+[01:02 --> 01:06] between equals. Unequal terms, yes, but between equals.
+[01:07 --> 01:12] When Rome started planting colonies in Samnium and parading the legions through Etruria,
+[01:13 --> 01:15] a fresh talk of resistance and war began again.
+[01:16 --> 01:20] The Samnites in particular understood that Rome was now driven by visions of a
+[01:20 --> 01:25] peninsula-wide empire, and peace meant little more than death by population migration
+[01:25 --> 01:28] and displacement rather than by a sword to the head.
+[01:29 --> 01:33] They were proud of their culture and language and way of life and saw all too well what
+[01:33 --> 01:38] the future held for a passive Samnite nation, a mere footnote in Roman history books.
+[01:39 --> 01:43] At least if they fought, they could be the subjects of one more podcast episode.
+[01:44 --> 01:49] In 298 BC, the Samnites began to resist Roman incursions into their land.
+[01:50 --> 01:54] Rome sent envoys to Samnium to demand that the Treaty of Peace be honored,
+[01:54 --> 01:59] but the Samnites were done with the treaty and war was declared once again.
+[01:59 --> 02:04] Two consular armies, two armies under the command of a consul, so four total legions,
+[02:05 --> 02:11] were sent into Samnium in 297 BC. The Samnites were unprepared for this onslaught
+[02:11 --> 02:14] and the army they had raised its level best to stay away from the Romans,
+[02:15 --> 02:18] not wanting to risk a full-scale battle that they would surely lose.
+[02:19 --> 02:24] So the consuls, Marcus Valerius, no longer the intemperate young master of horse,
+[02:24 --> 02:29] but by now an old man and widely considered to be the most able of all the Roman generals,
+[02:30 --> 02:35] and Publius Decius, son of the legendary Decius who won the grass crown and sacrificed
+[02:35 --> 02:38] himself in battle, spent the year ransacking the countryside.
+[02:39 --> 02:43] Eventually the Samnite army, still unwilling to fight in the open,
+[02:43 --> 02:46] left Samnium altogether and made its way to Atruria.
+[02:46 --> 02:49] They knew they could never defeat the Romans alone. They needed help.
+[02:52 --> 02:57] The next year, Appius Claudius, he of the Appian Way, was elected consul again.
+[02:57 --> 03:01] The people wanted to return Marcus Valerius' consul for the second year in a row,
+[03:02 --> 03:06] but he begged off, citing the mandatory decade wait before holding office again,
+[03:07 --> 03:10] scolding the Romans for attempting to abandon the rule of law
+[03:10 --> 03:12] just because they were faced with an emergency.
+[03:13 --> 03:18] Chastened, the electorate re-voted and elected instead a Publian named Lucius Volumnius.
+[03:19 --> 03:25] When the Etruscans began to rise up as well, the two new consuls drew lots to determine their
+[03:25 --> 03:30] spheres of command. Volumnius was assigned Samnium, while Claudius drew Atruria.
+[03:31 --> 03:36] When Volumnius arrived in Samnium, he found that its army remained in semi-exile.
+[03:36 --> 03:41] He marched around, capturing towns, raiding for plunder, generally enriching himself and
+[03:41 --> 03:46] men with ease. But he knew that there was no threat to Rome to be found amongst the women
+[03:46 --> 03:51] and children and old men of Samnium. Rome's enemies were in Atruria, he thought.
+[03:51 --> 03:53] What in the world am I doing here?
+[03:54 --> 03:56] At this point, a discrepancy in the record emerges.
+[03:57 --> 04:02] According to Volumnius, Claudius sent him a distress letter confirming his spheres,
+[04:03 --> 04:06] stating that the Etruscans and Samnite armies had joined forces,
+[04:06 --> 04:09] and Volumnius must come to Atruria at once to help.
+[04:10 --> 04:16] Volumnius, seeing no danger in leaving Samnium, marched his legions north to Atruria to answer
+[04:16 --> 04:21] Claudius' call for help. When he arrived, however, Claudius denied having ever written
+[04:21 --> 04:26] such a letter. Claudius said that he was well in command of the situation and did not need
+[04:26 --> 04:32] Volumnius around trying to horn in on his glory. It was not explicit, but the implication
+[04:32 --> 04:36] was that the patrician Claudius did not need the assistance of a mere plebeian.
+[04:37 --> 04:41] Volumnius, offended by the reaction to what he thought was requested aid,
+[04:41 --> 04:44] said, fine, have it your way, and wheel his army around.
+[04:46 --> 04:51] But the officers and men of Claudius' army blocked his path. Despite the vain assertions
+[04:51 --> 04:56] of their commander, they told Volumnius that the situation in Atruria was dire,
+[04:56 --> 04:59] and the presence of both armies was necessary for victory.
+[05:00 --> 05:04] Volumnius decided to put it to a vote of the legions, who, by loud acclaim,
+[05:04 --> 05:10] demanded he stay. Claudius was nonplussed, but was a savvy enough politician not to
+[05:10 --> 05:15] fly in the face of a resounding popular opinion, and agreed to fight with Volumnius
+[05:15 --> 05:20] by his side. The united legions then rushed out to find the mixed Atruscan and Samnite
+[05:20 --> 05:27] army. The resulting battle was an ill-organized and sloppy affair on both sides. The general
+[05:27 --> 05:31] of the Samnites wasn't even present, so the Samnites were completely disorganized
+[05:31 --> 05:35] their deployment, and the Roman legions, with their commanders at odds with one another
+[05:35 --> 05:41] and hasty in their search for a fight, just charged into the fray without any plan at all.
+[05:41 --> 05:46] But in spite of this, the Romans prevailed, scattering the Atruscans and leaving the
+[05:46 --> 05:54] Samnite army in disarray. However, this victory did not end the danger. The next year,
+[05:54 --> 05:59] 295, the Samnite army regrouped, and the Atruscan communities committed fresh
+[05:59 --> 06:04] troops to the struggle. In addition, the Umbrians, a hill tribe from the northern
+[06:04 --> 06:09] Apennines, officially joined the coalition against the Romans, and, in a surprise
+[06:09 --> 06:14] development, Gallic tribes that had settled in the Po Valley allowed their services to be
+[06:14 --> 06:19] bought by the rich Atruscans, swelling the size and strength of the army Rome would soon
+[06:19 --> 06:25] face. The armies of these four races gathered near Clusium in northern Atruria to plan
+[06:25 --> 06:31] their next move. In Rome, consular elections were held, and despite his renewed protest,
+[06:32 --> 06:37] Marcus Valerius was returned once again. This time he bowed to public pressure and agreed to
+[06:37 --> 06:43] serve. His only stipulation was that Publius Decius be made his colleague. The two had been
+[06:43 --> 06:48] partners in the consulship twice before, and had served together as censors. There were
+[06:48 --> 06:53] obvious tactical disadvantages to having consuls at odds with one another, as Claudius and
+[06:53 --> 06:58] Luminus had proven, and Marcus Valerius wanted to make sure that there was harmony at the top
+[06:58 --> 07:03] as Rome went off to challenge the largest and most dangerous enemy it had ever faced.
+[07:04 --> 07:10] The people agreed with this logic and returned Decius. However, despite their previous excellent
+[07:10 --> 07:16] working relationship, things immediately got off on the wrong foot. The senate wanted to assign
+[07:16 --> 07:23] Marcus Valerius to Atruria without the traditional drawing of lots. Decius protested,
+[07:23 --> 07:27] saying that he had no problem being sent to Samnium to lead the war on a quiet front,
+[07:27 --> 07:33] but he would not do so arbitrarily because Marcus Valerius, a patrician, was considered
+[07:33 --> 07:38] better suited for the greater danger that lay in Atruria. He demanded that lots be drawn
+[07:38 --> 07:44] and let the chips fall where they may. Marcus Valerius, for his part, exacerbated the
+[07:44 --> 07:49] situation by accepting command in Atruria and, in fact, claiming it as his right.
+[07:50 --> 07:56] If it had not been for his bold decision to enter the Camerian forest and secure the natives as
+[07:56 --> 08:01] allies of Rome, the legions would not have the supply routes needed to enable a major campaign
+[08:01 --> 08:06] in Atruria in the first place. He considered Atruria to be his country and wanted to finish
+[08:06 --> 08:13] the job he had started. A heated exchange of words followed, but in the end, precedent gave
+[08:13 --> 08:18] way to popular pressure and Marcus Valerius led his legions into Atruria without lots being
+[08:18 --> 08:24] drawn. However, after the Senate began to read Marcus Valerius' reports of the massive
+[08:24 --> 08:29] army gathering and hearing Appius Claudius describe the desperate situation he had just
+[08:29 --> 08:34] left, they recalled Decius from Samnium and asked him to join Valerius in Atruria.
+[08:36 --> 08:40] Every enemy of Rome was gathered in the north and the Romans absolutely,
+[08:40 --> 08:44] positively had to win the upcoming battle if they were to have any peace at all in the
+[08:44 --> 08:51] future. So Decius marched with his armies north, leaving a token force to watch over the
+[08:51 --> 08:56] non-combatant Samnites. Marcus Valerius was a far more practical man than Claudius,
+[08:56 --> 09:00] and when he saw Decius approaching, he welcomed him with open arms.
+[09:01 --> 09:06] Glory could only be had in victory, and the size of the anti-Roman coalition army
+[09:06 --> 09:11] was drastically reducing the odds of victory. But joined together, the legions would be more
+[09:11 --> 09:17] than a match for this formidable enemy. The two armies met near Centinum and set
+[09:17 --> 09:23] up camp across from one another on a plain. Deserters from the Gallic camp brought the
+[09:23 --> 09:28] consul's word of the coalition's plan. They had decided that the Gauls and Samnites would
+[09:28 --> 09:32] fight Rome on the battlefield while the Etruscans and Umbrians overwhelmed the
+[09:32 --> 09:37] undermanned Roman camp. They hoped to catch the Romans without an exit strategy
+[09:37 --> 09:41] and crush them between the force of their four combined armies.
+[09:42 --> 09:47] But now knowing the plan, the consuls immediately took measures to prevent its implementation.
+[09:48 --> 09:52] In a classic display of indirect strategy, a contingent of legionaries was ordered out
+[09:52 --> 09:57] into the Etruscan countryside to attack and burn at will any house, community,
+[09:58 --> 10:03] town, or field they encountered. This devastation could not be tolerated by the Etruscans,
+[10:03 --> 10:08] who broke camp and made off to protect their homes. Having now peeled off at least a fourth
+[10:08 --> 10:13] of the opposing forces and throwing a wrench in the coalition plan, the Romans immediately
+[10:13 --> 10:17] sought a battle, which the remaining Samnites, Umbrians, and Gauls welcomed,
+[10:18 --> 10:24] abandoning their dual attack strategy for one all-out attack. They were confident of victory.
+[10:25 --> 10:29] Today would be the day they broke Rome and lifted its oppressive yoke from the back of
+[10:29 --> 10:32] Italy. That was the plan, anyway.
+[10:33 --> 10:39] The Battle of Sentinum was the largest ever fought in Italy to that date. Both sides fueled
+[10:39 --> 10:45] armies upwards of 40,000 men, with allies and cavalry included. On the Roman side,
+[10:45 --> 10:50] Decius commanded the left flank against the Gauls, while Marcus Valerius took the right
+[10:50 --> 10:55] against the Samnites. Though united in purpose, they took very different approaches.
+[10:55 --> 10:59] Valerius felt that Rome's strength lay in its discipline and endurance,
+[11:00 --> 11:05] that the Gauls and Samnites started strong but faded down the stretch. He took a conservative
+[11:05 --> 11:11] approach, holding against Samnite rushes, but not pressing the advantage or taking risks.
+[11:11 --> 11:17] Once they tired, though, he planned on crushing them. Decius, however, the junior partner,
+[11:17 --> 11:22] had no such patience. He wanted to meet strength with strength and push back with
+[11:22 --> 11:28] everything he had against the Gauls. When they began to falter, Decius decided to win
+[11:28 --> 11:33] the battle early and decisively, but in his haste for glory, he sealed his own fate.
+[11:34 --> 11:39] He led a bold cavalry charge into the heart of the Gallic line, but rather than breaking
+[11:39 --> 11:44] them, he found his own forces scattered and killed, and when the cavalry wheeled around
+[11:44 --> 11:48] to escape the Gallic attack, they charged headlong into the front lines of the Roman
+[11:48 --> 11:55] infantry, crushing under hoof many of their own men. The Roman left was in complete disarray
+[11:55 --> 12:00] and began to panic and flee. Decius, however, recognizing his folly,
+[12:00 --> 12:06] and here we are moving into romantic, vivid Roman storytelling, knew what he had to do.
+[12:07 --> 12:12] He called a priest and declared that as his father had sacrificed himself to ensure victory,
+[12:12 --> 12:19] so too would he to atone for his folly. He anointed himself and, wrapped in a ceremonial
+[12:19 --> 12:25] robe, followed his father into the underworld. Seeing their commander's sacrifice,
+[12:25 --> 12:31] the Roman left rallied and charged the Gauls. On the right, Marcus Valerius's plan was about
+[12:31 --> 12:36] to come to fruition. He saw that the spears were thrown with a little less force and a
+[12:36 --> 12:42] little more aimlessly. He ordered his cavalry and middle line around to the right and pressed
+[12:42 --> 12:47] Samnite flank. When they turned, Valerius ordered his main line to charge ahead and
+[12:47 --> 12:53] take no prisoners. The Samnites could not long endure the dual front, and finally,
+[12:53 --> 12:58] after a full day's fighting, they broke and fled. The Gauls, along with the Umbrian
+[12:58 --> 13:04] forces, were now pinned between two armies and, recognizing the fight was lost, followed
+[13:04 --> 13:09] the Samnites into the Etruscan countryside. The Romans had faced a combined army of the
+[13:09 --> 13:16] strongest tribes in Italy and emerged victorious. The peninsula was now Rome's and would remain
+[13:16 --> 13:22] so for the next eight hundred years. The war against the Samnites would carry
+[13:22 --> 13:28] on for another five years, but at Centinum, the fate of Italy was sealed. A final clash
+[13:28 --> 13:33] between the Romans and Samnites was fought at Aquilonia in 293 BC, with the Romans
+[13:33 --> 13:38] completely dominating an enemy that had once been more than equal to Roman strength.
+[13:39 --> 13:44] The Samnites were beaten, finally and completely, and the five decades long struggle came to an
+[13:44 --> 13:50] end. But though they could no longer muster the force necessary to resist Roman domination,
+[13:51 --> 13:57] Samnite resentment never died. Two hundred years later, the Samnites would be at the
+[13:57 --> 14:02] center of the Social War, an Italian revolt against Roman discrimination. In that war,
+[14:02 --> 14:08] they were the first to take the field and the last to surrender. But that story is for another
+[14:08 --> 14:15] day. Next week we will turn our attention south. The new Roman dream of an Italian empire was
+[14:15 --> 14:21] fast becoming a reality, and the only thing that stood in their way now was the Greek cities of
+[14:21 --> 14:26] Magna Graecia. The time had come for the independent city-states in the south to recognize
+[14:26 --> 14:32] a new master, though subduing the Greeks would be no easy task. They were as skilled at war as
+[14:32 --> 14:37] the Romans and had the resources of Greece to support them in their struggle, and one general
+[14:37 --> 14:44] in particular, Pyrrhus of Epirus, a relative of Alexander the Great, to lead them. Greece was
+[14:44 --> 14:49] fresh off conquering half the world under Alexander and was the premier civilization
+[14:49 --> 14:54] of its day. This would be the first in a series of clashes between the upstart Romans
+[14:54 --> 15:00] and the long-established Greeks, that would mark the transition from Greek to Roman dominance
+[15:00 --> 15:04] in the Mediterranean. Though when Pyrrhus climbed aboard his ship to sail for Italy,
+[15:05 --> 15:09] he knew none of this. He thought he was off to put down some barbaric rabble
+[15:09 --> 15:13] and maybe get rich, but he had no idea what he was up against.

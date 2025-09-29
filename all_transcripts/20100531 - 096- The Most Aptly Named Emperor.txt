@@ -1,0 +1,347 @@
+# 20100531 - 096- The Most Aptly Named Emperor
+# Detected language: en
+# Duration: 1589.05 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to The History of Rome, episode 96, The Most Aptly Named Emperor.
+[00:14 --> 00:20] The mildness of Marcus, which the rigid discipline of the Stoics had been unable to eradicate,
+[00:20 --> 00:25] formed at the same time the most amiable and the only defective part of his character.
+[00:25 --> 00:32] His excellent understanding was often deceived by the unsuspecting goodness in his heart.
+[00:32 --> 00:36] So begins chapter 4 of Edward Gibbon's Decline and Fall of the Roman Empire, also known
+[00:36 --> 00:41] as the chapter where it starts to get really good and isn't quite so super boring anymore.
+[00:41 --> 00:47] Marcus, suffering from the defect of excessive kind-heartedness, had sealed his legacy as
+[00:47 --> 00:53] the last good princeps by entrusting the empire to his son, whose legacy everyone agrees is
+[00:53 --> 00:58] that he was one of the worst emperors of all time.
+[00:58 --> 01:02] But Gibbon himself is not quite as harsh on Commodus as you might think.
+[01:02 --> 01:07] In Gibbon's estimation, Commodus' failure was not that he was cruel or bloodthirsty or
+[01:07 --> 01:11] evil, but simply that he was weak.
+[01:11 --> 01:16] Ascending to the throne at the age of 19 in March of 180 AD, Commodus naturally fell under
+[01:16 --> 01:21] the sway of older, savvier men who manipulated the young prince into satisfying their own
+[01:21 --> 01:23] ambitions.
+[01:23 --> 01:28] Once he had spent a few years as a mere puppet, the dark habits of his advisors simply ingrained
+[01:28 --> 01:34] themselves onto his character, and from then on, the weakness of his soul became indistinguishable
+[01:34 --> 01:38] from the cruelty that manifested as a result.
+[01:38 --> 01:42] In the end, though, he seemed to have learned his lessons a little too well, and he turned
+[01:42 --> 01:46] out to be far savvier and far crueler than any of his advisors, and he was only caught
+[01:46 --> 01:51] out and killed after a good three or four complete and bloody turnovers of personnel
+[01:51 --> 01:52] within his inner circle.
+[01:52 --> 01:56] That's Gibbon's assessment, anyway.
+[01:56 --> 02:00] Others are not quite so quick to let Commodus off the hook.
+[02:00 --> 02:05] They see in him from the get-go a self-absorbed hedonist who was intellectually vacant, obsessed
+[02:05 --> 02:09] with sport, and likely a sociopath to boot.
+[02:09 --> 02:13] He was Lucius Verus without any Marcus Aurelius to keep him in check.
+[02:13 --> 02:19] He was Nero and Caligula combined, topping both in scandal, debauchery, and murderous
+[02:19 --> 02:21] frivolity.
+[02:21 --> 02:26] Still others, though, loved Commodus, and, at least for the majority of his reign, thought
+[02:26 --> 02:29] he was the absolute bee's knees.
+[02:29 --> 02:34] Now what group of compulsive contrarians would take such a contradictory line on a man so
+[02:34 --> 02:37] universally reviled by history?
+[02:37 --> 02:41] Why, the people of Rome, of course.
+[02:41 --> 02:46] The story of the reign of Commodus, and like the story of the reign of Domitian, was chronicled
+[02:46 --> 02:53] by the Roman aristocracy, and they, to a man, loathed him and everything he ever did.
+[02:53 --> 02:57] The general population never got a say in the way Roman history was written, so all
+[02:57 --> 03:01] the bits about how Commodus was, for a long time at least, a beloved figure, comes as
+[03:01 --> 03:05] something of a surprise to modern ears.
+[03:05 --> 03:10] But unlike Domitian, who comes by his bad rap somewhat, but not totally unfairly, Commodus,
+[03:10 --> 03:13] I think, earned his in spades.
+[03:13 --> 03:18] There was, for example, no underlying soundness of policy to go with the cruelty, no greater
+[03:18 --> 03:23] vision for the empire, beyond when the next set of games was going to be.
+[03:23 --> 03:28] And unlike Domitian's reign of terror, which, as I mentioned, was comparable to the political
+[03:28 --> 03:33] murders of dear old Uncle Claudius, Commodus went back to the well of blood time and time
+[03:33 --> 03:38] again in a purge and prescription cycle that came around every three to five years as men
+[03:38 --> 03:43] fell from favor and others rose to take their place.
+[03:43 --> 03:47] But if there was one thing that Commodus did really well, at least until the very end,
+[03:47 --> 03:52] it was keeping the people in the street eating out of his often extended hand.
+[03:52 --> 03:56] The people in the street didn't really care what Senator Commodus was in the process of
+[03:56 --> 04:00] humiliating or what governor he was in the process of assassinating.
+[04:00 --> 04:04] What they cared about, honestly, was games.
+[04:04 --> 04:08] And boy, did Commodus ever give them what they wanted.
+[04:08 --> 04:13] Similar opposite of Marcus and his few begrudging spectacles, Commodus embraced the games like
+[04:13 --> 04:18] no emperor before or since, and the people ate it up.
+[04:18 --> 04:22] By the end, though, he had driven the empire deep, deep into debt and had gone so far off
+[04:22 --> 04:27] his rocker that even his previously adoring masses turned on him.
+[04:27 --> 04:30] But for the better part of a decade, we should always remember that his enemies were in the
+[04:30 --> 04:37] Senate and just about nowhere else.
+[04:37 --> 04:41] Commodus made it plain from the very beginning that his reign was not going to be like that
+[04:41 --> 04:43] of his father's.
+[04:43 --> 04:49] Shipping the corpse of Marcus to Rome for burial and deification and etc. etc.
+[04:49 --> 04:53] Commodus stayed and camped along the Danube to finish what his father had started.
+[04:53 --> 04:58] And by that I mean just that, finish what his father had started.
+[04:58 --> 05:03] Despite the pleas of Claudius Pompeianus and the other leaders who had poured their blood
+[05:03 --> 05:08] and sweat into the German campaigns, Commodus announced his intention to wrap things up
+[05:08 --> 05:10] and head home.
+[05:10 --> 05:14] But the work is undone, his father's old phalanx of lieutenants cried.
+[05:14 --> 05:18] It will only take another year and then we can all bask in the glory of having defeated
+[05:18 --> 05:24] the barbarians and added new territory to the empire, just as your father always wanted.
+[05:24 --> 05:28] It was practically his dying wish that you should lead us to victory.
+[05:28 --> 05:30] But Commodus was having none of it.
+[05:30 --> 05:35] He would come to final terms with the Marco Mani and Quadi and then head back to Rome
+[05:35 --> 05:39] as soon as possible.
+[05:39 --> 05:43] There are two interpretations of why Commodus was so quick to withdraw from the Danube,
+[05:43 --> 05:47] and at least to a good chunk of his father's allies, simply vacate the meaning of twelve
+[05:47 --> 05:51] years hard labor in the process.
+[05:51 --> 05:54] The first take is a high-minded one.
+[05:54 --> 05:58] Commodus saw himself playing Hadrian to his father's Trajan, but he saw the new German
+[05:58 --> 06:04] provinces would, rather than add wealth to the empire, prove to be militarily indefensible
+[06:04 --> 06:08] and become a dangerous drain on the treasury.
+[06:08 --> 06:13] Whatever romantic notions of victory Marcus had forged in the heat of battle, someone,
+[06:13 --> 06:18] namely Commodus, had to bring some objective clear thinking to the situation, and the fact
+[06:18 --> 06:23] of the matter was, the whole campaign had probably been an unforgivable waste of men
+[06:23 --> 06:24] and money.
+[06:24 --> 06:29] To see it through to the end would not secure his father's legacy, it would damn it as
+[06:29 --> 06:33] an example of criminal overreach.
+[06:33 --> 06:39] But the other interpretation, and these two rationales are by no means mutually exclusive,
+[06:39 --> 06:43] is that Commodus had had it up to here with freezing to death in a plague-infested legionary
+[06:43 --> 06:44] camp.
+[06:44 --> 06:49] He was going back to Rome, where the baths were hot and the women were plentiful.
+[06:49 --> 06:55] What was the point of being emperor if you couldn't live like one?
+[06:55 --> 07:00] Not totally insensible to appearances, Commodus did decide to lead a force across the river
+[07:00 --> 07:05] one last time where, after picking a suitably overmatched collection of Germans, he beat
+[07:05 --> 07:09] said overmatched collection of Germans soundly.
+[07:09 --> 07:13] This allowed the new emperor the necessary optical cover he needed to declare victory
+[07:13 --> 07:15] and leave.
+[07:15 --> 07:20] He came to terms with the grateful and utterly exhausted Quadi and Marcomani, and in the
+[07:20 --> 07:25] autumn of 180 AD began the trip back to Rome.
+[07:25 --> 07:30] What we should make of this decision to leave is still open to debate, but it is worth mentioning
+[07:30 --> 07:35] that when the Romans called off the fight this time, the Germans took peace for an answer,
+[07:35 --> 07:39] and it proved to be more than seventy years before there was once again serious trouble
+[07:39 --> 07:42] north of the Danube.
+[07:42 --> 07:46] Commodus took the relative peace as proof of the wisdom of his actions, but it is also
+[07:46 --> 07:50] worth pointing out that the various German tribes had just had the snot kicked out of
+[07:50 --> 07:53] them for the better part of twelve years.
+[07:53 --> 07:57] Their leaders were all dead, and the ranks of their armies had been reduced by plague
+[07:57 --> 08:01] and war even worse than the legions had been.
+[08:01 --> 08:05] If Commodus had pursued the same policy a decade earlier, the whole northern empire
+[08:05 --> 08:07] might have been overrun.
+[08:07 --> 08:11] But he didn't pursue the policy then, he was pursuing it now, and much as it irked
+[08:11 --> 08:16] the hawks in the senate and among his own circle of imperial advisors, there was no
+[08:16 --> 08:21] great fallout to come from abandoning the war.
+[08:21 --> 08:27] In October 180, Commodus returned to Rome to begin the process of securing his rule.
+[08:27 --> 08:31] As you'll recall from last week's episode, Marcus had been very careful about making
+[08:31 --> 08:35] sure that there would be no pretenders to the throne when Commodus succeeded him, and
+[08:35 --> 08:38] in this he was entirely successful.
+[08:38 --> 08:42] None of his various brothers-in-law had any interest in challenging him, and no one else
+[08:42 --> 08:47] had the guts or support to pull a fast one on the empire, especially after the fall of
+[08:47 --> 08:49] Avidius Cassius.
+[08:49 --> 08:53] But that did not mean that there was not still work to be done.
+[08:53 --> 08:58] In securing their own positions, Marcus and Antoninus Pius had worked assiduously to curry
+[08:58 --> 09:01] favor within the senatorial class.
+[09:01 --> 09:07] But Commodus, as in all things where his father did one thing, he did the exact opposite.
+[09:07 --> 09:12] Commodus figured his rule would be unchallenged if he won the support of two groups, the soldiers
+[09:12 --> 09:16] in the field and the masses in the street.
+[09:16 --> 09:20] He had already earned the love of the common soldiers in the army by canceling the war
+[09:20 --> 09:21] in Germany.
+[09:21 --> 09:25] Soldiers, in general, love it when you tell them they don't have to slog around dank
+[09:25 --> 09:28] forests and during guerrilla attacks anymore.
+[09:28 --> 09:33] So upon his return to Rome, Commodus set about earning the love of the people.
+[09:33 --> 09:40] This meant, first, issuing a generous donative to every male citizen in the city, and second,
+[09:40 --> 09:44] it meant throwing spectacular games to celebrate his ascension.
+[09:44 --> 09:49] Fat with cash and prizes, the people, needless to say, were in Commodus' pocket from day
+[09:49 --> 09:52] one.
+[09:52 --> 09:57] The senate, meanwhile, looked on all of this with a mixture of hope and disdain.
+[09:57 --> 10:02] They knew Commodus' reputation and knew that he was still a teenager, but hoped that maybe
+[10:02 --> 10:07] one day, once he's done proving to everyone what a super wonderful guy he is, that he
+[10:07 --> 10:11] would get down to the serious business and work with the senate to govern the empire
+[10:11 --> 10:13] responsibly.
+[10:13 --> 10:18] But their hope quickly faded, engulfed by the disdain.
+[10:18 --> 10:21] Because it wasn't just that Commodus planned to ignore the senate.
+[10:21 --> 10:27] No, he was about to embark on a policy of openly antagonizing them.
+[10:27 --> 10:31] There doesn't seem to be any real rationale for Commodus' attitude towards the senate,
+[10:31 --> 10:36] and his reasoning may not have been any deeper than that he had been born a high prince and
+[10:36 --> 10:39] was now the undisputed ruler of the Roman Empire.
+[10:39 --> 10:44] He was not, as Marcus and Antoninus had been, a member in good standing of the aristocratic
+[10:44 --> 10:49] mutual admiration society, and probably figured that as long as he had the people and the
+[10:49 --> 10:53] armies on his side, that he could pretty much do whatever he wanted with the old fuddy-duddies
+[10:53 --> 10:55] in the senate.
+[10:55 --> 10:59] And in a way, he was right.
+[10:59 --> 11:04] People asked during the 100th episode thread when the old Roman Senate stopped convening,
+[11:04 --> 11:09] and the answer is that we don't exactly know, but in the West it looked like it persisted
+[11:09 --> 11:12] at least into the 600s AD.
+[11:12 --> 11:18] However, for all practical purposes, they could have closed up shop right now.
+[11:18 --> 11:23] Despite a few brief flirtations with relevance during the chaos of the mid-third century,
+[11:23 --> 11:28] the reign of Commodus marked the end of the line for the aristocratic assembly.
+[11:28 --> 11:31] The Severans had no time for the Senate.
+[11:31 --> 11:36] The crisis period was a running battle between rival generals, and then when Diocletian reformed
+[11:36 --> 11:40] the governmental structure of the Empire to better reflect reality, the Senate was left
+[11:40 --> 11:43] out of the bargain completely.
+[11:43 --> 11:47] In this respect, Commodus did have a major hand in helping push the old Roman order off
+[11:47 --> 11:50] a cliff.
+[11:50 --> 11:54] Remember how worried Hadrian had been about having the blood of four senators on his hand?
+[11:54 --> 11:59] Remember how proud Antoninus and Marcus had been that they had not executed any members
+[11:59 --> 12:02] of the Senate during their reign?
+[12:02 --> 12:04] That was all over.
+[12:04 --> 12:09] When 193 rolled around, the Senate was not just irrelevant, it had been transformed by
+[12:09 --> 12:14] execution, prescription, murder, and exile into an entirely different assembly than the
+[12:14 --> 12:18] one Commodus had inherited in 180.
+[12:18 --> 12:24] The Senate Septimius Severus inherited was not just ignorable, it was, after being packed
+[12:24 --> 12:30] with low-life supporters of Commodus, probably worth ignoring.
+[12:30 --> 12:35] At the outset, though, no one, probably not even Commodus himself, knew that was the direction
+[12:35 --> 12:38] the young emperor was headed.
+[12:38 --> 12:42] For right now, anyway, Commodus didn't seem to have much interest in anything as boring
+[12:42 --> 12:47] or time-consuming as an epic purge of the Senate.
+[12:47 --> 12:51] He instead retired to the palace to enjoy the benefits of being emperor, and turned
+[12:51 --> 12:56] over actual administration of the empire to his imperial chamberlain and sometimes
+[12:56 --> 13:00] male lover, a freedman named Satyrus.
+[13:00 --> 13:04] The Senate was obviously scandalized that the emperor was handing power over to some
+[13:04 --> 13:12] freedman lover, male lover no less, and Satyrus was universally despised in the upper classes.
+[13:12 --> 13:16] This hatred was only heightened when Satyrus realized that the treasury could not support
+[13:16 --> 13:21] the promises Commodus had made to the people, and he hit upon the old idea of property confiscation
+[13:21 --> 13:24] to help pay for it all.
+[13:24 --> 13:30] In fits and starts at first, but then more routinely, senators would be accused of treason
+[13:30 --> 13:34] on trumped-up charges and wake up to find that their estates had been seized by the
+[13:34 --> 13:36] emperor.
+[13:36 --> 13:41] It was right around this time that all hope dissolved and the disdain fully took over,
+[13:41 --> 13:46] and also the fear.
+[13:46 --> 13:50] But it wouldn't be the Senate who took the first shot at Commodus, nor would that first
+[13:50 --> 13:56] shot be taken to strike a blow for liberty in the face of despotic tyranny.
+[13:56 --> 14:01] Commodus's sister Lucilla, by virtue of her long-dead marriage to Lucius Verus, still
+[14:01 --> 14:06] retained the title of Augusta, and since the death of Faustina in 175, had enjoyed the
+[14:06 --> 14:11] perks that came with being the preeminent woman of the empire.
+[14:11 --> 14:14] But now that her younger brother wore the purple, his pretty little thing of a wife
+[14:14 --> 14:18] Crispina suddenly supplanted Lucilla.
+[14:18 --> 14:23] Pretty as it sounds, the most commonly relayed version of the story is that the final break
+[14:23 --> 14:30] came when Lucilla was forced to give up the prize box at the theater in favor of Crispina.
+[14:30 --> 14:34] From that moment on, it seems that Lucilla opened up a conspiracy to kill her little
+[14:34 --> 14:37] brother.
+[14:37 --> 14:42] She took into confidence her lover Marcus Quadratus and a few other particularly dissatisfied
+[14:42 --> 14:47] senators, though, importantly, not her husband Claudius Pompeianus, who Lucilla seems to
+[14:47 --> 14:55] have had no like or love for whatsoever, and a plot was hatched.
+[14:55 --> 15:01] As 181 gave way to 182, the plan hardened and the details were set.
+[15:01 --> 15:07] A young senator and nephew of Claudius Pompeianus, named Pompeius Quintanus, was enlisted to
+[15:07 --> 15:12] actually lay the killing stroke, and one night, as Commodus returned home from the theater,
+[15:12 --> 15:17] Quintanus was hiding in the shadowy porticos of the Colosseum.
+[15:17 --> 15:22] He leapt out of his hiding place as the imperial party passed, catching the emperor and his
+[15:22 --> 15:27] bodyguards by surprise, but rather than just killing the emperor, Quintanus added a little
+[15:27 --> 15:33] dramatic flourish, crying, See, this is what the Senate sends you.
+[15:33 --> 15:39] This unnecessary hesitation allowed the startled Praetorian's time to recover, tackle Quintanus,
+[15:39 --> 15:42] and wrestle him to the ground.
+[15:42 --> 15:47] Caught and tortured, the young assassin revealed the full details of the plot, and that the
+[15:47 --> 15:52] prime mover of the conspiracy had been none other than Lucilla.
+[15:52 --> 15:58] Quadratus and Quintanus were immediately executed, and Lucilla was exiled to the island of Capri.
+[15:58 --> 16:02] Once she had been out of sight and mind for a while, Commodus sent along the order to
+[16:02 --> 16:07] have her killed.
+[16:07 --> 16:11] But the attempt on Commodus's life had only been part of the plan.
+[16:11 --> 16:16] The other half of the plot actually succeeded, and with the help of the two Praetorian prefects,
+[16:16 --> 16:20] a terrorist turned up dead a few days later.
+[16:20 --> 16:24] Still reeling from his own brush with death, when Commodus learned that his favorite had
+[16:24 --> 16:29] been murdered, the emperor went into a frenzy.
+[16:29 --> 16:33] Just as the reign of Commodus was a turning point in the history of Rome, the assassination
+[16:33 --> 16:39] attempt of 182 was the turning point within the turning point.
+[16:39 --> 16:44] With the unnecessary and only partially true words, This is what the Senate sends you,
+[16:44 --> 16:48] ringing in his ears, Commodus's attitude towards the Senate would take a homicidal
+[16:48 --> 16:51] turn for the worse.
+[16:51 --> 16:56] In the immediate aftermath of the botched plot, Claudius Pompeianus wisely retired from
+[16:56 --> 16:58] public life.
+[16:58 --> 17:03] Though he was not under suspicion, his wife and nephew had been prime movers in the attempt
+[17:03 --> 17:05] on the emperor's life.
+[17:05 --> 17:10] It was time for his long and distinguished career to come to an end.
+[17:10 --> 17:14] Obviously in this situation, politicians cite the desire to spend more time with their
+[17:14 --> 17:17] families as the reason they are retiring.
+[17:17 --> 17:21] But obviously, that would not have been the most prudent excuse given the circumstances.
+[17:21 --> 17:29] So Pompeianus cited, um, poor eyesight, yeah, that's the ticket, instead.
+[17:29 --> 17:33] The rest of the fallout came when one of the Praetorian prefects, a ruthlessly ambitious
+[17:33 --> 17:39] equite named Tegidius Parenus, double crossed his Praetorian colleague and everyone else
+[17:39 --> 17:42] he knew who was involved in the plot.
+[17:42 --> 17:47] Keeping his own role hidden, the information Parenus provided led to the executions of
+[17:47 --> 17:52] his Praetorian colleague, two of the consuls for the year, the secretary of correspondence
+[17:52 --> 17:57] and the governor of upper Germany, Salvius Julianus.
+[17:57 --> 18:01] Surviving with his head intact, but nonetheless removed from his post as the long-serving
+[18:01 --> 18:07] governor of lower Germany, was Julianus's cousin Didius Julianus, who, those of you
+[18:07 --> 18:14] who are reading ahead, know that we'll have cause to deal with a little bit down the road.
+[18:14 --> 18:18] Also caught up in the purge were the famous Quintilius brothers, who had been key lieutenants
+[18:18 --> 18:23] of Marcus during the Marcomannic Wars, and who, as a reward, had shared a consulship
+[18:23 --> 18:25] together.
+[18:25 --> 18:30] His paranoia now raging unchecked, Commodus fired the innocent and highly capable governors
+[18:30 --> 18:36] Septimius Severus and Pertinax for their failure to capture one of the conspirators who had
+[18:36 --> 18:37] gotten out of Rome alive.
+[18:37 --> 18:41] We'll have cause to deal with both of them down the road as well.
+[18:41 --> 18:46] The purge then extended to all of his father's old advisors, and then to every legionary
+[18:46 --> 18:49] commander across the whole empire.
+[18:49 --> 18:54] Commodus fired every single one of them, and replaced them with his own men.
+[18:54 --> 18:59] Back in Rome, anyone who raised the ire of the emperor, man, woman, or child, was likely
+[18:59 --> 19:03] to wind up murdered, and their estates confiscated.
+[19:03 --> 19:07] All in all, the failed assassination attempt led the empire into the bloodiest round of
+[19:07 --> 19:10] purges since the end of Domitian's reign.
+[19:10 --> 19:16] But really, not since the old, old days of Tiberius and Sejanus had the aristocracy lived
+[19:16 --> 19:21] with such a cloud of fear hanging over their heads.
+[19:21 --> 19:27] Playing the part of Sejanus to Commodus's Tiberius was the archmachiavellian Parenus,
+[19:27 --> 19:30] who had parlayed his insider information.
+[19:30 --> 19:44] He handed over the day-to-day operations of the empire to Parenus, and for the next
+[19:44 --> 19:49] three years, while the emperor himself engaged in every debauched activity you think of when
+[19:49 --> 19:56] you think of debauched Roman aristocrats, Tegidius Parenus was the man in charge.
+[19:56 --> 20:00] When Commodus did climb down into the real world of politics, it was mostly to humiliate
+[20:00 --> 20:08] some senator or rearrange the provincial postings to keep everyone on their toes.
+[20:08 --> 20:12] Beginning during this period, but not perfected until the fall of Parenus and the rise of
+[20:12 --> 20:17] Cleander, who had recently been made chamberlain to replace the assassinated Satyrus, was the
+[20:17 --> 20:23] regular sale of office and the constant shuffling of office holders.
+[20:23 --> 20:28] Commodus and Commodus were, in a way, engaged in a friendly rivalry to see who could create
+[20:28 --> 20:34] the most political and bureaucratic chaos so that the dust would keep swirling and they,
+[20:34 --> 20:39] themselves, would remain safely cocooned in the center of the storm.
+[20:39 --> 20:43] Consulships were bought and sold, praetorian prefects were appointed and fired sometimes
+[20:43 --> 20:48] within the span of days, governors were sent out to provinces and learned that they had
+[20:48 --> 20:51] been replaced when they arrived at their new posting.
+[20:51 --> 20:57] Most important of all, membership in the senate was open to anyone who Commodus favored,
+[20:57 --> 21:03] or perhaps more importantly, who the emperor thought the old senators would hate.
+[21:03 --> 21:07] The empire was lucky during this chaotic period for two reasons.
+[21:07 --> 21:11] First, the borders were relatively peaceful.
+[21:11 --> 21:15] The two groups who would have posed the biggest threat to the empire were the Parthians and
+[21:15 --> 21:19] the Germans and they had both been recently humbled by massive defeat at the hands of
+[21:19 --> 21:25] the legions and were not looking to make trouble again any time soon.
+[21:25 --> 21:29] So even though Rome had become politically schizophrenic, no foreign enemy was ready to
+[21:29 --> 21:32] take advantage of the empire's madness.
+[21:32 --> 21:39] Second, though he was personally ruthless, Perenus was no administrative slouch.
+[21:39 --> 21:43] He kept the grain flowing, the books balanced, and the games running.
+[21:43 --> 21:48] It all would have fallen apart much sooner had he been utterly corrupt or a dismal accountant,
+[21:48 --> 21:54] but he was neither and so the empire, while not exactly flourishing, was not yet to be
+[21:54 --> 21:56] driven into the ground.
+[21:56 --> 21:59] But discontentment was stirring.
+[21:59 --> 22:05] In 183, a brief war in Dacia broke out that was put down by a combined effort of the final
+[22:05 --> 22:11] two of the five would-be emperors in the fast-approaching year of the five emperors, Claudius Albinus
+[22:11 --> 22:13] and Paschinius Niger.
+[22:13 --> 22:21] The other three being the aforementioned Pertinax, Didius Julianus, and Septimius Severus.
+[22:21 --> 22:26] The next year, unrest in Britain led the commander there to press north and retake the Antonine
+[22:26 --> 22:31] Wall, which had been abandoned around the time of Marcus' ascension.
+[22:31 --> 22:36] The general in question, though, was a harsh disciplinarian who the regular troops hated,
+[22:36 --> 22:40] and following the campaign, they revolted against his leadership and proclaimed another
+[22:40 --> 22:43] commander emperor.
+[22:43 --> 22:47] His commander wisely refused the honor and got the troops back under control for the
+[22:47 --> 22:54] moment, but the next year, rebellion among the British legions flared up once again.
+[22:54 --> 22:59] This time, their ire was directed at Perennis himself, who they blamed for being late with
+[22:59 --> 23:04] equipment, stingy with pay, and saddling them with harsh masters who would not indulge the
+[23:04 --> 23:09] lax atmosphere they had come to expect.
+[23:09 --> 23:13] In a sign of things to come, that is, the failure of discipline that would soon become
+[23:13 --> 23:19] an epidemic in the legions, a deputation of 1,500 armed soldiers marched out of Britain
+[23:19 --> 23:25] for Rome where they planned to present their grievances to the emperor in person.
+[23:25 --> 23:29] Missing the greater point of the precedent he was endorsing, Commodus allowed the rogue
+[23:29 --> 23:36] company to enter Italy and march on Rome armed to the teeth.
+[23:36 --> 23:40] Hearing the news that this force from Britain was on the way, the imperial chamberlain Cleander
+[23:40 --> 23:45] saw the perfect opportunity to make his own Machiavellian strike.
+[23:45 --> 23:51] With the help of some dissatisfied senators, Cleander set about trumping up charges against
+[23:51 --> 23:56] Perennis that seemed to show he was aiming to make either himself or his son emperor
+[23:56 --> 23:59] at some point in the not too distant future.
+[23:59 --> 24:03] When the soldiers from Britain arrived to present their case, Perennis was confident
+[24:04 --> 24:08] that he would be able to dispatch them with ease, but at the same moment Cleander was
+[24:08 --> 24:14] presenting Commodus with the allegation that Perennis was planning on overthrowing him.
+[24:14 --> 24:18] Having hit the emperor's paranoid center right where it hurt, Commodus suddenly turned
+[24:18 --> 24:25] on the blindsided Perennis and ordered his former favorite and his entire family executed.
+[24:25 --> 24:30] Cleander then dutifully led the emperor through the list of senators who were involved in
+[24:30 --> 24:31] the trumped up plot.
+[24:31 --> 24:37] Conveniently, they were all personal enemies of Cleander, and the aristocracy was once
+[24:37 --> 24:44] again caught up in a bloody purge, already the second of Commodus' short reign.
+[24:44 --> 24:49] The fall of Perennis would send the empire off a cliff, because while the old praetorian
+[24:49 --> 24:55] prefect had been a capable administrator, his replacement as imperial favorite Cleander
+[24:55 --> 24:58] was nothing of the sort.
+[24:58 --> 25:02] Next week, the wheels will come off the bus.
+[25:02 --> 25:07] The art of creating bureaucratic chaos for fun and profit will be perfected by Cleander,
+[25:07 --> 25:12] who will run the empire, if you could even call it that, for five years while Commodus
+[25:12 --> 25:17] drifted further off into his own private fantasy land.
+[25:17 --> 25:21] Cleander will finally be eaten by the monster he creates, and Commodus, now nearing his
+[25:21 --> 25:26] thirties, will be forced to step in and actually do some real governing.
+[25:26 --> 25:31] But by this time, he was convinced not only that he was the reincarnation of Hercules,
+[25:31 --> 25:36] but also that he was the greatest gladiator who ever lived, so it's not like he brought
+[25:36 --> 25:39] a lot of stability to the situation.
+[25:39 --> 25:44] Like Domitian before him, Commodus would eventually be done in by members of his own inner circle,
+[25:44 --> 25:50] who were worried that they were about to be caught up in yet another round of purges.
+[25:50 --> 25:55] His assassination on New Year's Eve 192 will spark the first great domestic crisis since
+[25:56 --> 26:01] the year of the four emperors, and 193 AD will go down in history with a nice little
+[26:01 --> 26:05] nod to inflation as the year of the five emperors.

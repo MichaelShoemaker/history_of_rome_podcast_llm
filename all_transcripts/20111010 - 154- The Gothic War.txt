@@ -1,0 +1,311 @@
+# 20111010 - 154- The Gothic War
+# Detected language: en
+# Duration: 1797.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:06 --> 00:10] internet's leading provider of audio entertainment with over 100,000 titles
+[00:10 --> 00:15] to choose from. When you're done with this episode go to audiblepodcast.com
+[00:15 --> 00:23] forward slash Rome. That again audiblepodcast.com forward slash Rome. By
+[00:23 --> 00:26] going to that address you qualify for a free book download when you sign up for
+[00:26 --> 00:30] a 14-day trial membership. There is no obligation to continue the service and
+[00:30 --> 00:35] you can cancel anytime and keep the free book download. You can also keep going
+[00:35 --> 00:39] with one of the monthly subscription options and get great deals on all your
+[00:39 --> 00:45] future audiobook purchases. This week I'm going to go with a recommendation from
+[00:45 --> 00:50] listener Melinda. Into Africa the epic adventures of Stanley and Livingston
+[00:50 --> 00:55] which delves deep into the story behind one of the most famous introductions in
+[00:55 --> 01:01] history. Just remember to go to audiblepodcast.com forward slash Rome so
+[01:01 --> 01:04] that they know who sent you.
+[01:08 --> 01:22] Hello and welcome to the history of Rome. Episode 154 the Gothic War. There's an
+[01:22 --> 01:26] old legend that a few days after the Battle of Adrianople Fritigern and his
+[01:26 --> 01:32] triumphant Goths advanced on Constantinople. Fear and trepidation seized
+[01:32 --> 01:35] the capital at the sight of this great horde advancing because the people of
+[01:35 --> 01:41] the city knew there would be no stopping them. The Emperor was dead and his army
+[01:41 --> 01:47] destroyed. It seemed that only God himself could deliver them all from doom.
+[01:47 --> 01:53] But of course as it turned out it did not take God to deliver Constantinople
+[01:53 --> 01:59] from doom. All it took was the Goths getting one look at the city walls.
+[01:59 --> 02:03] Fritigern's horde may have been the largest army for 500 miles in any
+[02:03 --> 02:08] direction but that did not mean they had the skills or the tools to lay siege to
+[02:08 --> 02:15] a fortified city. There would be no sacking of Constantinople. Instead the
+[02:15 --> 02:18] Goths turned around and headed back into the heart of the Balkans looking
+[02:18 --> 02:26] for prizes they actually had the means to win. No one knows if this little
+[02:26 --> 02:31] anecdote is true in fact but it is at least true in spirit as it captures the
+[02:31 --> 02:35] essence of the stalemate that is about to ensue between the Romans and the
+[02:35 --> 02:43] Goths. A stalemate referred to perhaps a bit grandiosely as the Gothic War. Way
+[02:43 --> 02:48] back during the episodes on Aurelian I spent some time detailing how the Romans
+[02:48 --> 02:51] had changed their military posture in the face of the crisis of the third
+[02:51 --> 02:57] century to reflect the new realities of the world. You'll recall that the Romans
+[02:57 --> 03:01] allowed their static frontier lines to become more permeable but made up for
+[03:01 --> 03:06] this by strengthening the defenses of the individual cities dramatically.
+[03:06 --> 03:11] We've seen in bits and pieces how this worked to the Roman advantage during the
+[03:11 --> 03:15] various barbarian raids of the last century but nowhere is the success of
+[03:15 --> 03:22] the strategy more on display than during the Gothic War. Between Pannonia and God
+[03:22 --> 03:27] like Syria there was literally no Roman army big enough to do a thing about the
+[03:27 --> 03:32] Goths and yet for the next four years Fritigern and his people were unable to
+[03:32 --> 03:38] do anything more than just sort of roam the countryside. The existence of the
+[03:38 --> 03:43] Roman Empire was never truly threatened by the Goths because the fortifications
+[03:43 --> 03:47] of the various cities were simply too great an obstacle for the barbarians to
+[03:47 --> 03:56] overcome. So like I said the Gothic War played out as a stalemate. The flip side
+[03:56 --> 04:01] to the Gothic inability to capture fortified cities though was the Roman
+[04:01 --> 04:07] inability to defeat the Goths in open battle. Obviously in the immediate
+[04:07 --> 04:11] aftermath of Adrianople the Romans were unable to confront the Goths in the
+[04:11 --> 04:15] field but even after a few years had passed and a new army had been raised
+[04:15 --> 04:22] the inexperienced rushed training and poor morale of the new army left it far
+[04:22 --> 04:29] inferior to the veteran Gothic warriors. So both sides struggled on scraping up
+[04:29 --> 04:33] supplies as best they could until everyone realized that some kind of
+[04:33 --> 04:39] settlement needed to be reached. And as we will see it will be the essence of
+[04:39 --> 04:43] that settlement rather than the immediate consequences of military
+[04:43 --> 04:48] defeat that tends to elevate Adrianople to its key place in the history of the
+[04:48 --> 04:56] decline and fall of the Roman Empire. The Western Emperor Gratian had already
+[04:56 --> 05:00] left Sirmium in August 378 and was on his way toward Thrace when news of
+[05:00 --> 05:06] Adrianople broke. Leading an army that was supposed to be overwhelming only
+[05:06 --> 05:10] after it linked up with Valens when Gratian learned that there was no longer
+[05:10 --> 05:18] a Valens to link up with he immediately turned his force around. Back in the
+[05:18 --> 05:22] safety of Sirmium Gratian and his advisor sat down to survey the damage
+[05:22 --> 05:27] and see if they couldn't figure out what to do next. The problem they grappled
+[05:27 --> 05:34] with was twofold. One part military and one part political. The military problem
+[05:34 --> 05:39] was obvious. An enemy army was loose in Roman territory and there was no longer
+[05:39 --> 05:45] a Roman army around to fight it. That needed to be rectified immediately. But
+[05:45 --> 05:49] Valens had already siphoned off all the men and resources the far eastern
+[05:49 --> 05:54] frontier could bear to lose. Siphon off any more and you may as well cede the
+[05:54 --> 05:59] whole region to Shapur and the Sassanids. Gratian meanwhile had redeployed a good
+[05:59 --> 06:04] chunk of his own Rhine defenses but that redeployment had already sparked at
+[06:04 --> 06:09] least one Alamani invasion. Redeploy any more and he risked throwing the whole
+[06:09 --> 06:16] west into chaos. As much as Gratian and his war council hated to admit it the
+[06:16 --> 06:22] Central Empire was more or less on its own. The eastern and western legions
+[06:22 --> 06:26] could provide leaders and some support staff but other than that the Middle
+[06:26 --> 06:31] Empire was going to have to raise a whole new army by itself. Which is not
+[06:31 --> 06:38] exactly what they wanted to hear I'm sure. And as if the military problem
+[06:38 --> 06:43] wasn't bad enough on its own, Gratian also had to deal with the political
+[06:43 --> 06:48] problem. Namely that with Valens dead there was now a massive power vacuum in
+[06:48 --> 06:55] the east. Under normal circumstances going with just one emperor was a dicey
+[06:55 --> 06:59] proposition and I'm not really counting Valentini in the second in all of this
+[06:59 --> 07:04] since no one else seems to be either. But given the absolutely dire
+[07:04 --> 07:10] circumstances facing Rome going with just one emperor would have been insane.
+[07:10 --> 07:16] So it was time to play everyone's favorite game let's pick a new emperor.
+[07:16 --> 07:22] And remember if you accidentally back the wrong man or speak out against the
+[07:22 --> 07:25] man who ultimately does win the prize then your career will most likely be
+[07:25 --> 07:32] over and you may even wind up dead. So good luck everyone let's play the game.
+[07:32 --> 07:37] But even though the need to fill the power vacuum was acutely felt by
+[07:37 --> 07:42] everyone when they finally did land on a candidate they could agree on they did
+[07:42 --> 07:47] not just elevate him to the purple right away. Instead they gave him military
+[07:47 --> 07:52] jurisdiction over the shattered Balkan provinces to see how he would handle the
+[07:52 --> 07:57] crisis. Only after passing this initial test would the candidate be elevated to
+[07:57 --> 08:02] the purple, which he was, but not until almost six months after Valens
+[08:02 --> 08:09] disappeared at Adrianople. So what is the name of this future emperor? Why the
+[08:09 --> 08:17] Theodosius of course. Now at the end of episode 150 I hinted at the fate of
+[08:17 --> 08:22] Valentinian's Mr. Fix-It Theodosius the Elder. But in the confusing rush of
+[08:22 --> 08:26] events that followed Valentinian the first death I neglected to follow up on
+[08:26 --> 08:33] that hint. So I will do so now. You would think a resume as sterling as the elder
+[08:33 --> 08:38] Theodosius would have given him a measure of protection in the post
+[08:38 --> 08:44] Valentinian realignment. But alas men that capable often make enemies as
+[08:44 --> 08:51] easily as they solve problems and Theodosius was no exception. The click of
+[08:51 --> 08:54] high officials who came to power immediately after Valentinian's death
+[08:54 --> 09:01] was no fan of the elder Theodosius. We don't know why he was disliked but
+[09:01 --> 09:04] historians have speculated that the execution for treason of a particular
+[09:04 --> 09:08] general who was close to the click by Mr. Fix-It while he was serving in
+[09:08 --> 09:15] Britain was a potential catalyst for Theodosius's ultimate demise. Sadly
+[09:15 --> 09:20] though not only do we not know what the exact charges were that brought him down
+[09:20 --> 09:25] we don't even know who authored the charges. That is whether they sprang from
+[09:25 --> 09:30] the court of Gratian or the court of Valentinian the second. Whatever the
+[09:30 --> 09:35] charges were though and wherever they came from Theodosius the elder was
+[09:35 --> 09:40] executed in 375 while he was still in North Africa attempting to sort out the
+[09:40 --> 09:46] mess created by Romanus. The fate of Theodosius's nearly 30 year old son
+[09:46 --> 09:52] during the next few years is equally difficult to nail down. What we know for
+[09:52 --> 09:56] sure is that Theodosius the younger was serving as a commander in Moesia around
+[09:56 --> 10:01] the time of Valentinian's death and then later he was living in Spain and then
+[10:01 --> 10:07] later still we find him back in charge of troops in Thrace. But the timeline is
+[10:07 --> 10:13] garbled. The most commonly told version of the story though is that the younger
+[10:13 --> 10:16] Theodosius was caught up in the intrigues that brought down his father
+[10:16 --> 10:22] and he was driven out of public service. He then retired to his home in Spain
+[10:22 --> 10:27] where he married started a family and likely expected to pass the rest of his
+[10:27 --> 10:33] days living the comfortable life of a country aristocrat. But then the wheel of
+[10:33 --> 10:37] destiny rolled over on the plains near Adrianople and Gratian recalled
+[10:37 --> 10:41] Theodosius the younger from retirement and ordered him to take charge of the
+[10:41 --> 10:48] shattered legions of the Middle Empire. This version of the story relies on
+[10:48 --> 10:51] conjecture that there had been a turnover in the upper rungs of Gratian's
+[10:51 --> 10:55] court that brought to power a group of officials who had been friends of the
+[10:55 --> 11:02] elder Theodosius and knew the abilities of his son. It also relies on conjecture
+[11:02 --> 11:06] that all the high-ranking military officials in the east who had survived
+[11:06 --> 11:11] Adrianople were all now discredited by the defeat and that the emperor was
+[11:11 --> 11:16] looking for a man untainted by the recent debacle to come in and salvage
+[11:16 --> 11:24] the situation. There is another less repeated version of the story that has
+[11:24 --> 11:29] Theodosius initially sacked not by a malicious clique targeting his family
+[11:29 --> 11:36] but by Valentinian himself. Why? Well because Theodosius was being held
+[11:36 --> 11:40] responsible for the failure of one of his legions during the Quadi raid that
+[11:40 --> 11:45] had followed the diplomatic plunder of Marcellianus. This version goes on to
+[11:45 --> 11:49] report that Theodosius was almost immediately reinstated to the army
+[11:49 --> 11:55] following the ascension of Gratian. So in this telling Theodosius was actually
+[11:55 --> 11:59] serving in Illyria at the time of Adrianople and the reason he was chosen
+[11:59 --> 12:03] to go salvage the situation in Thrace and Moesia was that he was the nearest
+[12:03 --> 12:09] commander of noble Roman birth available to Gratian at that moment. So his
+[12:09 --> 12:13] elevation to power was more a coincidence of proximity than anything
+[12:13 --> 12:19] else. To be honest I have only ever heard the version that Theodosius was in Spain
+[12:19 --> 12:23] and didn't know there was even an alternate until I started doing research
+[12:23 --> 12:29] for these episodes but Dr. David Woods of the University College of Cork thinks
+[12:29 --> 12:33] that we've been misreading unreliable sources for years so I thought I'd throw
+[12:33 --> 12:40] it out there. Whichever way it happened after Adrianople Gratian and his
+[12:40 --> 12:47] advisors decided that the now 32 year old Theodosius was the man for them. As I
+[12:47 --> 12:51] just mentioned though the initial promotion did not come with purple robes.
+[12:51 --> 12:57] Instead Theodosius was simply given overall military command of Moesia and
+[12:57 --> 13:03] Thrace. The two provinces presently qualified as national disaster areas. His
+[13:03 --> 13:11] mandate? Oh my god try to restore some order. Theodosius spent the next six
+[13:11 --> 13:15] months getting a handle on the situation trying to reorganize what was left of
+[13:15 --> 13:19] Valence's army and ensuring that the various cities of the region could hold
+[13:19 --> 13:25] out without relief for a little while because be aware no relief will be
+[13:25 --> 13:30] coming for a little while. He acquitted himself well enough during this trial
+[13:30 --> 13:36] period that the further promotion the one that really had been his to lose was
+[13:36 --> 13:43] now offered. On January 19 379 AD in a ceremony at Sirmium Theodosius was
+[13:43 --> 13:48] elevated to the rank of Augustus. He was given command over all of Valence's
+[13:48 --> 13:55] territories with one notable addition. The western diocese of Illyria which had
+[13:55 --> 13:58] traditionally been controlled by the western Augustus as they protected the
+[13:58 --> 14:03] passes into Italy were ceded over to Theodosius in order to create a unified
+[14:03 --> 14:09] theater of operations. Though he was now emperor of the whole of the Eastern
+[14:09 --> 14:20] Empire, Theodosius's new mandate was crystal clear. Defeat the Goths. But that
+[14:20 --> 14:26] was of course easier said than done. As we've seen reinforcements could not just
+[14:26 --> 14:31] be called in from elsewhere. The Empire was stretched as thin as it was going to
+[14:31 --> 14:36] stretch. So Theodosius had to spend the next year raising and training a whole
+[14:36 --> 14:42] new army. At this point in history there were three sources of new soldiers for
+[14:42 --> 14:49] Theodosius to draw on and he drew from all of them to help fill his ranks. First
+[14:49 --> 14:53] there were retired veterans whose discharge contracts required them to
+[14:53 --> 14:59] return to service should the Emperor deem it necessary. Second there were raw
+[14:59 --> 15:05] draftees yanked from civilian life. And third there were barbarian fighters not
+[15:05 --> 15:11] aligned with the barbarian fighters the Empire was currently fighting. The first
+[15:11 --> 15:15] needed only be notified that they were being recalled. The second needed only
+[15:15 --> 15:22] be drafted. And the third needed only be paid. As Theodosius found out though the
+[15:22 --> 15:28] first and third sources of troops were fairly easy to manage. But that second
+[15:28 --> 15:35] source turned out to be a sticking point. Many people have asked why an Empire as
+[15:35 --> 15:39] large as the Roman Empire ever had trouble with military recruitment.
+[15:39 --> 15:42] Especially since they were able to replace their armies practically
+[15:42 --> 15:48] overnight when they were just a regional Italian power. A big part of the problem
+[15:48 --> 15:53] is something that Theodosius is about to find out. Very few people these days are
+[15:53 --> 16:02] crazy enough to want to join the army. Life in the army of late antiquity was
+[16:02 --> 16:09] harsh, uncomfortable, dangerous, and just swarming with draconian punishments of
+[16:09 --> 16:16] every shape and size. Only the phony tough or the crazy brave willingly signed up
+[16:16 --> 16:19] for a life that promised little more than a choice between death by disease,
+[16:19 --> 16:24] death by sword, or death by a senior officer who had woken up on the wrong
+[16:24 --> 16:30] side of the cot. Part of the reason Dioclesian instituted the laws that
+[16:30 --> 16:34] forced men to inherit their father's profession was to keep the ranks of the
+[16:34 --> 16:39] army reasonably well stocked. Otherwise the frontiers would have wound up
+[16:39 --> 16:45] unmanned two generations back. But compounding the problem of soldiering
+[16:45 --> 16:51] being a really unattractive profession was the attitude of rich landowners.
+[16:51 --> 16:56] Though their enlightened self-interest should have led them to support military
+[16:56 --> 17:00] recruitment, after all being rich doesn't count for much when your empire is
+[17:00 --> 17:06] undefended, but unfortunately the immediate self-interest of the landowners
+[17:06 --> 17:11] usually led them to do everything in their power to hinder military
+[17:11 --> 17:18] recruitment. The manpower shortage that afflicted the army was just an extension
+[17:18 --> 17:22] of the more general manpower shortage that was afflicting the whole empire, and
+[17:22 --> 17:27] every poor sod who joined the army was one less poor sod available to work the
+[17:27 --> 17:33] enormous estates of the landowners. So what wound up happening is that when the
+[17:33 --> 17:37] draft officials came around demanding a landowner provide his quota of poor sods,
+[17:38 --> 17:44] the landowner would lie about how many poor sods he had. When pressed, the
+[17:44 --> 17:50] landowner might hand over the oldest, lamest, and feeblest of his workers, but
+[17:50 --> 17:56] the best of the bunch would usually be hidden away from view. This willful
+[17:56 --> 18:00] obstruction of military recruitment during a national security crisis
+[18:00 --> 18:05] enraged the emperors in a series of laws threatening horrible punishment to
+[18:05 --> 18:11] anyone who held able-bodied men back, flew out of the imperial courts, usually
+[18:11 --> 18:18] to no avail. It was also well known to soldiers already in service that if they
+[18:18 --> 18:23] decided to desert and they managed to make it to a large estate, that the owner
+[18:23 --> 18:27] would often secretly shelter them in exchange for a pledge of servitude. This
+[18:27 --> 18:32] was also well known to the emperors, and so another series of laws came flying
+[18:32 --> 18:37] out of the imperial courts prohibiting the practice, again usually to no avail.
+[18:37 --> 18:44] This tension between the economic interests of large landowners and the
+[18:44 --> 18:51] military interests of the state was, you guessed it, another one of the 257
+[18:51 --> 18:59] different reasons why the Western Empire is nearing collapse. When Theodosius
+[18:59 --> 19:03] finally gathered up an army large enough to maybe do something about the
+[19:03 --> 19:09] Goths, he drilled them and trained them and drilled them some more. But despite
+[19:09 --> 19:13] all the training, Theodosius's army was never going to be more than a rag-tag
+[19:13 --> 19:20] bunch of misfits. The recalled veterans were experienced, but they were old. The
+[19:20 --> 19:24] new recruits were young, but not at all professional soldiers, and having been
+[19:24 --> 19:28] pressed into service, their morale was low and their desertion rate was high.
+[19:28 --> 19:34] And then there were the auxiliary barbarians, some of whom were ethnically
+[19:34 --> 19:42] Goth. Who knew where their loyalties lay? Theodosius was smart enough then to do
+[19:42 --> 19:47] two things. First, for the whole of 379, he never
+[19:47 --> 19:53] risked putting this army into battle. Not only would a loss have been catastrophic,
+[19:53 --> 19:58] but given the gulf of ability between the seasoned Goths and the green Romans,
+[19:58 --> 20:05] a loss was very likely going to be the outcome. This meant that the Goths had a
+[20:05 --> 20:10] full year during which they basically had the run of the Middle Empire. But
+[20:10 --> 20:15] still, a Roman loss would have been catastrophic. It simply could not be
+[20:15 --> 20:21] risked. The other thing Theodosius was smart enough to do was not treat this
+[20:21 --> 20:27] army like a professional force of willing volunteers. Discipline was tight,
+[20:27 --> 20:33] but not draconian. Deserters were not killed as long as they came back.
+[20:33 --> 20:39] Floggings for minor infractions were kept to a minimum. He needed these men to fight
+[20:39 --> 20:43] for him someday. Beating them mercilessly because they weren't digging that hole
+[20:43 --> 20:51] right would have been counterproductive. Not that any of this really mattered.
+[20:51 --> 20:56] It would have made for a heartwarming story had this ragtag punch gone out and
+[20:56 --> 21:00] saved the day. But unfortunately for Hollywood executives everywhere,
+[21:00 --> 21:07] that's not the way it went. When Theodosius finally let his army out into battle in 380,
+[21:07 --> 21:12] the hope of course was that he was leading them out to avenge Adrianople and crush the
+[21:12 --> 21:19] barbarians. But it was not to be. And this is even after the Goths helped the Romans out by
+[21:19 --> 21:24] having the Gruthungi and the Tervingi decide to go their separate ways earlier in the year,
+[21:24 --> 21:31] leaving Theodosius with a much less daunting task ahead of him. Citing the fact that there
+[21:31 --> 21:36] was not enough food around to feed them all, the Gruthungi decided to head northwest,
+[21:36 --> 21:41] where they were eventually crushed by a western army guarding the Illyrian frontier.
+[21:41 --> 21:49] This left Theodosius with only Fritigern and the Tervingi to deal with. But when the two sides
+[21:49 --> 21:54] met in battle at some unknown point later in 380, the Goths once again won the day.
+[21:54 --> 22:00] The sources point to some unknown bit of treachery just before the battle,
+[22:00 --> 22:07] possibly the defection of some of those barbarian auxiliaries, but all other details have been lost
+[22:07 --> 22:14] to history. However, despite the Roman defeat, Theodosius made sure that it was not another
+[22:15 --> 22:20] Adrianople, and the new emperor extracted his army from the fray before things got out of hand.
+[22:20 --> 22:29] From that moment on, Theodosius's strategy for winning the war changed completely. He no
+[22:29 --> 22:34] longer believed that he could deliver the kind of outright military victory that he was expected
+[22:34 --> 22:41] to win, and so he focused all his energy on reaching a peace agreement that would be acceptable to both
+[22:41 --> 22:48] sides. After three years of wandering aimlessly, trying to feed themselves on ever-diminishing
+[22:48 --> 22:54] spoils of war, Theodosius was betting that the Goths were probably getting as ready for a
+[22:54 --> 23:02] settlement as he was. In January of 381, the emperor was gifted an opportunity to demonstrate
+[23:02 --> 23:09] his honorable intentions when Othenaric, the old enemy of Rome who had sworn never to set foot in
+[23:09 --> 23:15] the empire, arrived at the Danube with what remained of his people, begging for asylum.
+[23:15 --> 23:23] The old Gothic king was sick and dying, and after years of hiding out in the Carpathian mountains
+[23:23 --> 23:29] hounded by the Huns, he finally decided enough was enough. He wanted to die in peace, and
+[23:29 --> 23:36] Theodosius jumped at the chance to give him the opportunity. He welcomed Othenaric into
+[23:36 --> 23:40] Constantinople, which the emperor himself had only set foot in for the first time just three
+[23:40 --> 23:48] months before, and he treated the Gothic king like, well, a king. And when Othenaric died of his
+[23:48 --> 23:57] illness two weeks later, Theodosius gave him a state funeral. The message Theodosius was hoping
+[23:57 --> 24:03] to send to Fritigern's people was clear. Romans and Goths are much better served when they are
+[24:03 --> 24:10] friends, not enemies. If you give me a chance, I am prepared to treat you as well as I have just
+[24:10 --> 24:18] treated Othenaric and his people. To the outlaw Goths still out in the Roman countryside, this
+[24:18 --> 24:23] was a message they were willing to hear, but it would still be another year and a half before
+[24:23 --> 24:32] the war officially came to an end. Throughout that end phase, perpetuating the stalemate became
+[24:32 --> 24:38] Theodosius' sole military objective, keeping the city supplied, making sure they could continue
+[24:38 --> 24:46] to hold out, and never risking an open battle. By the autumn of 382, trapped in a cycle of diminishing
+[24:46 --> 24:56] returns and perpetual insecurity, the Goths were finally ready to deal. The terms agreed to by the
+[24:56 --> 25:03] Romans and the Goths were, as I said, the true essence of why Adrianople was such a big deal.
+[25:03 --> 25:10] The agreement wound up being pretty simple. The Goths would put away their swords if the Romans
+[25:10 --> 25:17] allowed them to settle within the Empire. But critically, the rule book governing how barbarians
+[25:17 --> 25:22] were to be settled within the Empire was thrown out, and a whole new book was written on the spot.
+[25:22 --> 25:31] The particular details are lost, but the big overarching themes are visible. For example,
+[25:31 --> 25:38] the Goths were not broken up and scattered into small settlements, but instead allowed to live
+[25:38 --> 25:43] together in a large group. This of course meant that at all times they had to be seen as a
+[25:43 --> 25:49] potential military threat, but it also meant that they were better able to maintain their own
+[25:49 --> 25:59] separate Gothic identities. That is not good. On top of that, the Romans agreed to recognize
+[25:59 --> 26:03] Gothic leaders and bargain with those leaders when they wanted something out of the Goths.
+[26:03 --> 26:11] So that whole breaking of the tribal power structure thing that had been the foundation
+[26:11 --> 26:18] of how the Romans handled barbarian resettlement was now tossed out. In its place, that whole tribal
+[26:18 --> 26:26] power structure was allowed to persist. This is also not good. Although I will mention here
+[26:26 --> 26:34] that somewhere along the line, Fritigern magically vanishes from the historical record. No one knows
+[26:34 --> 26:41] if he died in battle or if he was overthrown by his war-weary people, but there is some speculation
+[26:41 --> 26:47] that his ouster may have been one of the Roman conditions for peace. You know, we'll deal with
+[26:47 --> 26:55] your leaders, that's fine, but we won't deal with that leader. Perhaps it was a teensy tiny
+[26:55 --> 27:03] measure of revenge for Adrianople. Finally, though many of the settled Goths wound up joining the
+[27:03 --> 27:09] Roman army as individuals, both sides agreed that if the emperor deemed it necessary, he would be
+[27:09 --> 27:17] allowed to call on the Gothic nation as a whole to come fight for Rome. However, they would not be
+[27:17 --> 27:23] required to fight under Roman officers. Instead, they would be allowed to fight in their own way
+[27:23 --> 27:29] under their own leaders. Basically, they would be nothing more than an emergency auxiliary force
+[27:29 --> 27:36] serving next to the legions, rather than being a group of Roman citizens serving in the legions.
+[27:36 --> 27:45] All of this boiled down to the same thing. The Goths were not going to become integrated
+[27:45 --> 27:52] members of the empire. Instead, they were going to continue on as a foreign nation who just happened
+[27:52 --> 27:59] to be living on Roman soil. To say that this was a break with precedent is the understatement of
+[27:59 --> 28:06] the millennium. Romanization of their enemies had been like the overriding goal of Roman foreign
+[28:06 --> 28:14] policy going back I don't even know how far, maybe forever. That overriding goal was now caput.
+[28:14 --> 28:21] Backed up against the wall, bargaining from a weak position, and desperate just to get the
+[28:21 --> 28:28] Goths to go to bed, Theodosius chose to deal with them not as mighty empire and puny mortal,
+[28:28 --> 28:35] but as just another flawed and vulnerable nation trying to secure a peace with just another flawed
+[28:35 --> 28:43] and vulnerable nation. The ripple effect of this choice would be felt for the next century, and yes,
+[28:43 --> 28:49] proved to be yet another one of the 257 different reasons why the Western Roman Empire fell apart.
+[28:49 --> 29:00] But the Roman Empire is not done yet, and next week will be a time of much rejoicing. The five
+[29:00 --> 29:05] year long Gothic reign of terror was at an end, and things could finally go back to normal.
+[29:05 --> 29:12] Theodosius, Gratian, and the rest of the Romans were allowed to bask in the glow of this quasi
+[29:12 --> 29:18] victory for almost a whole year, before on the complete other side of the world yet another
+[29:18 --> 29:24] massive threat to the stability of the empire would pop up. This threat would also lead to the
+[29:24 --> 29:29] death of an emperor, although instead of coming from outside the empire, this one would come
+[29:29 --> 29:33] from within. So at least it was a nice change of pace.

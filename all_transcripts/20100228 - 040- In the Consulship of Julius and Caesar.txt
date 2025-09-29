@@ -1,0 +1,454 @@
+# 20100228 - 040- In the Consulship of Julius and Caesar
+# Detected language: en
+# Duration: 1381.07 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to The History of Rome, episode 40 in The Consulship of Julius and
+[00:12 --> 00:12] Caesar.
+[00:13 --> 00:18] Last week, we followed Julius Caesar's rise of the cursus honorum, which was capped by
+[00:18 --> 00:23] a successful election of the consulship for a term to be served in 59 BC.
+[00:23 --> 00:28] On his way up the political ladder, Caesar had spent lavishly, bribed when necessary,
+[00:28 --> 00:30] made a lot of friends and even more enemies.
+[00:31 --> 00:35] More than anything else, he had established himself as a man to be reckoned with.
+[00:36 --> 00:40] He was an able governor and a brilliant military commander, a master orator, and
+[00:40 --> 00:41] a shrewd politician.
+[00:42 --> 00:45] For most Romans, the consulship marked the end of a long career.
+[00:46 --> 00:48] For Julius Caesar, it was only the beginning.
+[00:50 --> 00:55] The consular elections that saw Caesar emerge triumphant was a dirty affair, one that
+[00:55 --> 00:57] saw rampant bribery on all sides.
+[00:57 --> 01:01] It was obvious that Caesar was going to win in a walk, so the important thing to the
+[01:01 --> 01:05] conservative senate was to elect someone who would stand as a bulwark against any
+[01:05 --> 01:09] radical reforms they suspected Caesar would try and push through.
+[01:10 --> 01:14] To this end, they threw all their support behind Marcus Calpurnius Bibulus, who
+[01:14 --> 01:19] had served as aidile alongside Caesar years earlier and forever bore a grudge
+[01:19 --> 01:23] against his former colleague for taking credit for things Bibulus himself had accomplished
+[01:23 --> 01:24] while in that office.
+[01:24 --> 01:29] That personal enmity, coupled with a naturally conservative worldview, made him the
+[01:29 --> 01:32] perfect foil for Caesar's charismatic populism.
+[01:34 --> 01:38] In anticipation of the struggle with the senate, Caesar had been lining up support
+[01:38 --> 01:42] across the Roman world, men at all levels of society who would back him through thick
+[01:42 --> 01:43] and thin.
+[01:43 --> 01:47] Some because they genuinely believed in Caesar's programs, some simply out of
+[01:47 --> 01:48] crass self-interest.
+[01:49 --> 01:53] Caesar spread bribes liberally and promises a patronage constantly.
+[01:54 --> 01:57] It made no matter to him, a vote was a vote was a vote, whether it came
+[01:57 --> 02:00] unsolicited or after a massive payoff.
+[02:01 --> 02:05] At the top of his pyramid of support, Caesar targeted three powerful men
+[02:05 --> 02:05] specifically.
+[02:07 --> 02:09] The first of these men was an obvious choice.
+[02:10 --> 02:13] Marcus Crassus had been a long-time backer of Caesar and their alliance
+[02:13 --> 02:17] was already well-known, but it bears repeating that Crassus was exceedingly
+[02:17 --> 02:20] wealthy and still dreamed of becoming a great military commander.
+[02:21 --> 02:26] Second, Caesar targeted Pompey the Great, who had struggled upon returning from
+[02:26 --> 02:29] the east to have his conquests ratified and his veterans settled.
+[02:31 --> 02:34] It took some deaf maneuvering on Caesar's part to get Crassus and Pompey
+[02:34 --> 02:38] in the same room, but both were well aware that their own personal projects
+[02:38 --> 02:42] and aspirations could be realized easier with the help of the other.
+[02:43 --> 02:47] Last, Caesar made overtures to Rome's greatest lawyer and orator, Cicero.
+[02:48 --> 02:52] He appealed to Cicero's vision, intelligence, and legal savvy.
+[02:53 --> 02:56] The empire as presently constituted was unsustainable.
+[02:56 --> 02:59] Cicero could see that as well as anyone, but the conservative Senate
+[02:59 --> 03:02] resisted all attempts at desperately needed reform.
+[03:03 --> 03:06] Caesar was offering Cicero the chance to have great influence
+[03:06 --> 03:08] over the course correction he planned for the empire.
+[03:09 --> 03:13] But Cicero rejected the mutual support pact, preferring to remain an
+[03:13 --> 03:15] independent, moderate voice.
+[03:17 --> 03:20] Thus was born the first triumvirate, not its name at the time,
+[03:20 --> 03:23] nor a particularly accurate description of the wide network of
+[03:23 --> 03:26] supporters Caesar had aligned, but history gives us our shorthand
+[03:26 --> 03:30] labels and is often easier to simply use them rather than try to
+[03:30 --> 03:31] reinvent the wheel.
+[03:33 --> 03:37] The agreement between Caesar, Crassus, and Pompey was made official
+[03:37 --> 03:40] when they swore a solemn oath, administered by Caesar in his role
+[03:40 --> 03:45] as Pontifex Maximus, to undertake no action that opposed any of the
+[03:45 --> 03:46] others. Pretty simple, right?
+[03:47 --> 03:49] Well, actually, yeah, it was pretty simple.
+[03:50 --> 03:51] And it worked, too.
+[03:52 --> 03:55] With his support lined up, Caesar wrapped up some unfinished
+[03:55 --> 03:57] business in his personal life.
+[03:57 --> 03:59] He needed to find a new wife.
+[04:00 --> 04:03] I neglected the scandal that led to his divorce from his second wife,
+[04:03 --> 04:04] Pompeia, last week.
+[04:05 --> 04:08] So before we delve into the details of Caesar's eventful consulship,
+[04:08 --> 04:12] I want to slide back a few years, as the man who sparked the
+[04:12 --> 04:15] scandal will feature prominently in the coming breakdown of
+[04:15 --> 04:17] civility between Caesar and Cicero.
+[04:19 --> 04:23] Each year, the rites of Bonidia, the Roman goddess of
+[04:23 --> 04:25] fertility and healing, were performed in the home of the
+[04:25 --> 04:26] Pontifex Maximus.
+[04:27 --> 04:30] Men were excluded from the ceremony, so Caesar was out of the
+[04:30 --> 04:33] house, leaving his wife and mother in charge of the proceedings.
+[04:34 --> 04:38] Into this segregated affair slipped Publius Clodius Pulcher,
+[04:38 --> 04:41] a free-thinking, flamboyant, loose cannon who loved
+[04:41 --> 04:43] thumbing his nose at stodgy Roman tradition.
+[04:44 --> 04:47] Clodius, dressed as a woman, lingered on the edges of the
+[04:47 --> 04:49] party until he was outed by Caesar's mother.
+[04:50 --> 04:53] It would have been bad enough for Caesar had the ceremony
+[04:53 --> 04:55] he sponsored simply been desecrated.
+[04:55 --> 04:58] But to make matters worse, it was widely rumored that Clodius
+[04:58 --> 05:01] was engaged in an affair with Pompeii and was taking Caesar's
+[05:01 --> 05:04] absence as an opportunity for a rendezvous.
+[05:05 --> 05:08] In response to the destructive chatter, Caesar acted quickly.
+[05:08 --> 05:12] He divorced Pompeii for, whether she was guilty of the
+[05:12 --> 05:15] affair or not, quote, Caesar's wife must be above
+[05:15 --> 05:15] suspicion.
+[05:17 --> 05:19] The affair marked the last we will hear of Pompeii, but
+[05:19 --> 05:21] not the last we will hear of Clodius.
+[05:22 --> 05:25] I will also take this opportunity to note that while
+[05:25 --> 05:28] Caesar's wife must be above suspicion, Caesar himself was
+[05:28 --> 05:29] under no such obligation.
+[05:30 --> 05:33] Caesar cheated early and often on all of his wives,
+[05:34 --> 05:36] carrying on affairs with some of the most prominent women
+[05:36 --> 05:40] in Rome, including Servilia Capionis, who was at the
+[05:40 --> 05:43] same time the mother and mother-in-law of Caesar's
+[05:43 --> 05:46] two most famous assassins, Brutus and Cassius respectively.
+[05:47 --> 05:49] While the affair was on, though, she was best
+[05:49 --> 05:51] known as the half-sister of Cato the Younger.
+[05:51 --> 05:54] Caesar played politics to win and knew he was getting
+[05:54 --> 05:57] Cato's goat, hopefully forcing the staunch conservative
+[05:57 --> 06:00] in his personal rage and embarrassment to get sloppy.
+[06:02 --> 06:04] Caesar finally settled on marrying the daughter
+[06:04 --> 06:08] of the statesman Lucius Calpurnius Piso, who would
+[06:08 --> 06:10] coincidentally follow Caesar in the consulship
+[06:10 --> 06:13] the next year. And with Calpurnia by his side,
+[06:13 --> 06:16] Caesar took the oath of office in 59 B.C.,
+[06:16 --> 06:19] immediately setting to work on his reform program.
+[06:20 --> 06:23] First up, as agreed to by the Three Triumvirs,
+[06:23 --> 06:26] was a land redistribution program aimed primarily
+[06:26 --> 06:28] at Pompey's veterans, but further intended to
+[06:28 --> 06:31] alleviate the general problem of urban poverty
+[06:31 --> 06:33] that had become a chronic disease in Rome.
+[06:34 --> 06:36] Since the closing days of the Punic War,
+[06:36 --> 06:38] land ownership in Italy had become more and more
+[06:38 --> 06:41] centralized into fewer and fewer hands.
+[06:42 --> 06:44] The large land-owning nobles further exacerbated
+[06:44 --> 06:47] the problem by importing slaves to work their estates
+[06:47 --> 06:50] rather than relying on a sharecropping system
+[06:50 --> 06:52] that would have kept locals tied to the land.
+[06:53 --> 06:56] These displaced ex-farmers flooded into Rome,
+[06:56 --> 06:58] putting enormous strain on the treasury and
+[06:58 --> 07:01] contributing to a general atmosphere of lawlessness
+[07:01 --> 07:03] in the growing slums and housing projects.
+[07:04 --> 07:07] And with so many of the landless being ex-soldiers,
+[07:07 --> 07:09] the possibility of violent uprisings was always
+[07:09 --> 07:11] just a few missed meals away.
+[07:13 --> 07:15] Caesar entered for the Senate's consideration
+[07:15 --> 07:18] a carefully written bill to address the issue.
+[07:19 --> 07:20] State-owned land would be opened up to settlement,
+[07:21 --> 07:23] and state funds would be used to purchase further
+[07:23 --> 07:26] tracks from willing sellers at the land's assessed value.
+[07:27 --> 07:29] The money to do this would come from the treasure
+[07:29 --> 07:30] Pompey had brought back with him from the East,
+[07:31 --> 07:32] making the project cost-neutral.
+[07:33 --> 07:36] In order to mollify the changed adverse Senate,
+[07:36 --> 07:38] Caesar specifically exempted the rich lands of Campania,
+[07:39 --> 07:41] which had long been owned and operated by the nobles
+[07:41 --> 07:43] of Rome for their personal enrichment.
+[07:44 --> 07:46] But the exemption was not enough, and the Senate,
+[07:47 --> 07:49] though unable to voice a single constructive criticism
+[07:49 --> 07:51] of the bill, nonetheless stalled its passage.
+[07:52 --> 07:54] If they let Caesar pass such a popular bill,
+[07:55 --> 07:57] his influence would skyrocket off the charts,
+[07:57 --> 08:00] and they simply could not allow that to happen.
+[08:01 --> 08:03] Cato rose in opposition and began to talk,
+[08:04 --> 08:06] and talk, and talk, and talk.
+[08:07 --> 08:09] Pretty soon, it was clear that he intended to talk
+[08:09 --> 08:11] until the sun fell out of the sky.
+[08:11 --> 08:13] The merits of the bill were no longer in question.
+[08:14 --> 08:16] This was a naked stall tactic, pure and simple.
+[08:17 --> 08:19] Caesar grew impatient and then enraged at Cato,
+[08:20 --> 08:23] and in his fury made one of his few political miscalculations.
+[08:23 --> 08:26] He ordered that Cato be seized and hauled off to jail
+[08:26 --> 08:28] for obstructing senatorial business.
+[08:29 --> 08:31] The Senate was understandably shocked at one of their
+[08:31 --> 08:33] most respected members being hauled off to jail
+[08:33 --> 08:36] like a common criminal, and in protest walked out
+[08:36 --> 08:37] of the session en masse.
+[08:38 --> 08:40] Caesar caught a member who he knew to be at least
+[08:40 --> 08:43] sympathetic to his cause and asked why he, too, was leaving.
+[08:44 --> 08:45] The Senator replied,
+[08:45 --> 08:48] I would rather be in jail with Cato than here with you.
+[08:50 --> 08:52] This harsh statement, coming from a friend no less,
+[08:53 --> 08:55] brought Caesar to his senses, and he ordered Cato released.
+[08:56 --> 08:59] But the battle over the bill was just heating up.
+[09:00 --> 09:01] When the Senate reconvened,
+[09:02 --> 09:04] Caesar announced that because the Senate was obviously intent
+[09:04 --> 09:06] on blocking the bill no matter its merits,
+[09:07 --> 09:09] he would take his legislation and all future legislation
+[09:10 --> 09:11] directly to the People's Assemblies.
+[09:12 --> 09:15] Now, at this point, the Senate simply knew
+[09:15 --> 09:17] that Caesar was a popular and charismatic politician.
+[09:18 --> 09:20] What they did not know about was the Triumvirate Alliance
+[09:20 --> 09:23] and that he had the power and resources to make good
+[09:23 --> 09:27] on his threat to bypass them completely from here on out.
+[09:28 --> 09:30] But the next day, as Caesar stood before
+[09:30 --> 09:33] the popular assembly, an assembly packed with Pompey's veterans,
+[09:33 --> 09:35] the Senate was in for a rude awakening.
+[09:36 --> 09:38] Standing beside Caesar were Crassus and Pompey.
+[09:38 --> 09:42] And when Pompey strode forward and announced his intention
+[09:42 --> 09:44] to back the legislation, with his sword if necessary,
+[09:45 --> 09:46] to the roaring approval of the crowd,
+[09:47 --> 09:50] the Senate realized the whole ballgame had changed behind their backs.
+[09:51 --> 09:52] The secret pact was now out in the open.
+[09:53 --> 09:55] The question was, could the Senate do anything about it?
+[09:57 --> 09:59] Bibulus, Caesar's co-consul,
+[09:59 --> 10:02] swore to do everything in his power to prevent the bill from passing,
+[10:02 --> 10:05] despite the jeers and threats that rained down on his head
+[10:05 --> 10:07] by the increasingly unruly mob.
+[10:08 --> 10:10] Clearly this was not a time for open confrontation,
+[10:10 --> 10:13] so Bibulus beat a hasty retreat to plan his next move.
+[10:14 --> 10:16] What he came up with was sneakily brilliant,
+[10:17 --> 10:19] obviously an abuse of power, but technically
+[10:19 --> 10:22] an insurmountable hurdle to Caesar's entire program.
+[10:23 --> 10:25] One of the functions of the consul is to decide
+[10:25 --> 10:29] which days over the course of the year will be considered holy days,
+[10:29 --> 10:32] on which no public business can be transacted.
+[10:32 --> 10:35] With the help of some conservative tribunes,
+[10:35 --> 10:37] Bibulus simply declared that every day left in his
+[10:37 --> 10:40] and Caesar's consulship was a holy day.
+[10:40 --> 10:43] Public business would be shuttered for the rest of the year.
+[10:44 --> 10:47] It was ridiculous, of course, and everyone saw it for what it was,
+[10:47 --> 10:49] but there was little Caesar could do about it.
+[10:50 --> 10:54] Without a legal leg to stand on, though, Caesar refused to be deterred.
+[10:54 --> 10:56] He pressed on for a vote on the land bill anyway,
+[10:56 --> 10:59] and decided to deal with the legal implications later.
+[10:59 --> 11:01] The people, at least, were with him.
+[11:03 --> 11:05] On the day of the vote, Caesar packed the forum with allies,
+[11:06 --> 11:07] and victory was never in any doubt.
+[11:08 --> 11:10] But Bibulus, much to the surprise of everyone,
+[11:10 --> 11:13] strode right into the belly of the beast and began denouncing the bill
+[11:13 --> 11:15] and declaring the proceedings illegal.
+[11:16 --> 11:18] The mob erupted in anger.
+[11:18 --> 11:20] Bibulus and his lictors were assaulted,
+[11:21 --> 11:23] a bucket of manure was dumped on the consul's head,
+[11:23 --> 11:25] and, most importantly, his fascis,
+[11:26 --> 11:28] the symbol of consular authority, were broken.
+[11:29 --> 11:30] Bibulus fled from the scene.
+[11:31 --> 11:34] From that point on, he essentially retired from public life,
+[11:34 --> 11:37] spending the remainder of his consulship holed up in his house,
+[11:38 --> 11:39] refusing to come out.
+[11:39 --> 11:42] This was the origin of the satirical Roman quip
+[11:42 --> 11:45] that events of the year took place in the consulship of Julius and Caesar.
+[11:47 --> 11:50] With the opposition out of the way, the bill passed,
+[11:50 --> 11:53] and a land commission was created to oversee the redistribution.
+[11:54 --> 11:56] To ensure that there would be no conflicts of interest,
+[11:56 --> 11:59] Caesar declared that he would not take an active role in the project.
+[11:59 --> 12:01] Crassus and Pompey, however,
+[12:01 --> 12:04] both agreed to the honor of serving the people as commissioners.
+[12:04 --> 12:06] Nope, no conflicts of interest there.
+[12:08 --> 12:09] After the law took effect, however,
+[12:09 --> 12:12] it was clear that there was not enough land to fill all the requests.
+[12:13 --> 12:16] So, possibly for practical reasons, and almost certainly for personal ones,
+[12:16 --> 12:20] Caesar announced that he was granting the new land commission purview
+[12:20 --> 12:23] over Campania, aka the Senate's backyard,
+[12:24 --> 12:26] just as he had promised not to do.
+[12:27 --> 12:30] Perhaps if the Senate had joined with me in the initial stages
+[12:30 --> 12:32] of the legislation and not ignored the will of the people
+[12:32 --> 12:34] for so long, etc., etc.
+[12:37 --> 12:38] Next up on Caesar's list
+[12:38 --> 12:41] was the ratification of Pompey's eastern campaign.
+[12:42 --> 12:44] The incorporation of Syria as a province
+[12:44 --> 12:46] and the treaties Pompey signed with new client states
+[12:46 --> 12:50] needed approval by the Senate to officially go into effect.
+[12:51 --> 12:53] Time had been of the essence for a while now,
+[12:53 --> 12:56] as these territories directly bordered the Parthian empire.
+[12:56 --> 12:58] If things were left in doubt for too long,
+[12:58 --> 13:01] it was likely the Parthians would take advantage of the uncertainty
+[13:01 --> 13:04] and reverse the gains Pompey had made on Rome's behalf.
+[13:05 --> 13:07] The Senate, cowed by Caesar,
+[13:07 --> 13:11] and knowing full well they should have taken care of this business years ago anyway,
+[13:11 --> 13:13] ratified all of Pompey's actions.
+[13:14 --> 13:16] But this victory left Caesar with a problem.
+[13:17 --> 13:20] Everything Pompey hoped to gain by joining the Triumvirate
+[13:20 --> 13:21] had been gained.
+[13:22 --> 13:24] His men had land and his conquests were legal.
+[13:25 --> 13:27] In anticipation of this inevitability,
+[13:27 --> 13:30] Caesar offered Pompey his daughter, Julia, in marriage.
+[13:31 --> 13:34] Pompey agreed to the arrangement, and just like that,
+[13:34 --> 13:36] Caesar became Pompey's father-in-law.
+[13:36 --> 13:39] The man who was to become Julia's husband
+[13:39 --> 13:42] was shocked when his prospective bride was pulled out from under him,
+[13:42 --> 13:45] but Pompey offered his daughter to the young man in exchange.
+[13:46 --> 13:48] All of this prompted Cato to spit
+[13:48 --> 13:52] that it was disgusting how Roman power was now based on the trading of women.
+[13:53 --> 13:54] By all accounts, though,
+[13:55 --> 13:57] the marriage between Pompey and Julia was a happy arrangement,
+[13:57 --> 14:01] full of genuine love, and as hard as it is to believe today,
+[14:01 --> 14:03] this genuine love actually raised eyebrows
+[14:03 --> 14:05] in the aristocracy of Rome,
+[14:06 --> 14:08] and Pompey was subjected to endless jokes.
+[14:08 --> 14:11] Get a load of Pompey. He actually loves his wife.
+[14:13 --> 14:15] Caesar's final piece of legislation
+[14:15 --> 14:17] proved to be perhaps his greatest legacy.
+[14:18 --> 14:20] The Lex Julia De Repetundici,
+[14:20 --> 14:21] the Julian law of extortion.
+[14:22 --> 14:25] It was a voluminous and detailed set of rules
+[14:25 --> 14:28] governing the dos and don'ts of provincial administration.
+[14:28 --> 14:32] It set the ground rules and guidelines for the acceptance of gifts
+[14:32 --> 14:34] and set limits on the amount that a governor
+[14:34 --> 14:36] could personally benefit from his term in office.
+[14:37 --> 14:38] With one sweeping bill,
+[14:38 --> 14:41] Caesar modernized imperial administration overnight
+[14:41 --> 14:44] and brought the rule of law to a corrupt and inefficient system,
+[14:44 --> 14:46] if it could even be called a system.
+[14:47 --> 14:49] The Lex Julia was a huge success
+[14:49 --> 14:55] and remained in effect with few additions or subtractions
+[14:56 --> 14:59] Though it was obvious that Caesar was undertaking
+[14:59 --> 15:02] much-needed reform, his term in office also showed
+[15:02 --> 15:04] he was willing to ignore laws, tradition,
+[15:05 --> 15:06] and common decency to get his way.
+[15:07 --> 15:10] The assault on Bibulus was particularly troubling to Cicero,
+[15:11 --> 15:14] who began to shift away from moderate accommodation of Caesar
+[15:14 --> 15:16] to a more confrontational posture.
+[15:17 --> 15:19] While arguing in defense of his ex-co-consul
+[15:19 --> 15:22] against a corruption charge backed by Caesar,
+[15:22 --> 15:26] Cicero took the opportunity to stray from the facts of the case
+[15:26 --> 15:29] into a broad indictment of Caesar and his tactics.
+[15:30 --> 15:32] Caesar was furious at what he perceived
+[15:32 --> 15:33] to be Cicero's betrayal.
+[15:34 --> 15:36] He had always done his best to cultivate a cordial relationship
+[15:36 --> 15:39] with the great lawyer and seemed to actually respect Cicero.
+[15:40 --> 15:43] Now, the master orator was suddenly turning his considerable skill
+[15:43 --> 15:46] against Caesar, and it was too much for him to let go.
+[15:48 --> 15:49] In retaliation,
+[15:49 --> 15:51] Caesar decided to cut loose Clodius,
+[15:51 --> 15:53] he of the Bonadilla scandal.
+[15:54 --> 15:56] Clodius was a rabid opponent of all things conservative
+[15:56 --> 16:00] and bore a special hatred for the pompous and vain Cicero.
+[16:00 --> 16:02] But because of the enemies he had made over the years,
+[16:03 --> 16:06] the patrician Clodius found himself publicly blacklisted
+[16:06 --> 16:07] from pursuing high office.
+[16:08 --> 16:10] So he hatched a plan to throw away his patrician status,
+[16:11 --> 16:14] an unthinkable act, so he become tribune of the plebs.
+[16:14 --> 16:17] The fix was simple, he just needed to be formally adopted
+[16:17 --> 16:20] by a pleb, thus, as lineage was patriarchal,
+[16:21 --> 16:22] he would immediately cease to be a patrician.
+[16:23 --> 16:26] But he couldn't find anyone willing to make his proposed adoption legal.
+[16:27 --> 16:30] After Cicero's scathing indictment, however,
+[16:30 --> 16:33] Caesar, as Pontifex Maximus and consul,
+[16:33 --> 16:35] decided to validate Clodius' adoption.
+[16:37 --> 16:40] The iconoclastic loose cannon was adopted by a pleb
+[16:40 --> 16:42] half his age, and immediately announced his candidacy
+[16:44 --> 16:46] Once he had some power at his disposal,
+[16:46 --> 16:49] he planned to unleash the full brunt of it on Cicero
+[16:49 --> 16:52] and against anything else he deemed decadent and worthless.
+[16:53 --> 16:56] Caesar hoped to maintain some influence over Clodius,
+[16:56 --> 16:59] but it would soon become clear that having attained the tribunate,
+[16:59 --> 17:02] Clodius considered himself beholden to no one.
+[17:04 --> 17:06] With his consulship winding down,
+[17:06 --> 17:08] Caesar had two overarching concerns.
+[17:09 --> 17:12] First, he had to ensure that his reforms, now enacted,
+[17:12 --> 17:14] would not immediately be repealed,
+[17:14 --> 17:17] and second, he had to make sure that he was protected
+[17:17 --> 17:18] from personal prosecution.
+[17:19 --> 17:22] His enemies in the Senate were compiling a long list of charges
+[17:22 --> 17:25] that they would bring against him the minute he became a private citizen.
+[17:27 --> 17:29] If Caesar did not secure a nice long proconsulship,
+[17:30 --> 17:32] he was liable to be hauled into court and destroyed.
+[17:33 --> 17:35] Now, it would have been unthinkable for Caesar
+[17:35 --> 17:38] to receive no proconsulship at all,
+[17:38 --> 17:41] so the Senate laid the groundwork for his consular imperium
+[17:41 --> 17:44] to extend to the fields and pastures of Italy.
+[17:45 --> 17:47] It would have been an embarrassing assignment
+[17:47 --> 17:50] and would have denied Caesar access to both personal enrichment
+[17:50 --> 17:52] and military command.
+[17:53 --> 17:56] They intended for Caesar to command the streams of Italy for a year
+[17:56 --> 17:58] and then return to Rome a private citizen,
+[17:58 --> 18:01] whereupon they would crucify him, perhaps literally.
+[18:04 --> 18:05] Toward the first major concern,
+[18:05 --> 18:07] securing the continuation of his new laws,
+[18:08 --> 18:09] Caesar took two steps.
+[18:10 --> 18:12] First, he ensured that his new father-in-law
+[18:12 --> 18:14] would be elected consul the next year.
+[18:14 --> 18:17] Caesar could then rest assured, knowing he would leave office
+[18:17 --> 18:19] with a staunch ally standing ready to veto
+[18:19 --> 18:21] any attempt to alter his laws.
+[18:22 --> 18:24] Second, and I really love this bit,
+[18:24 --> 18:28] he introduced a curse clause into the oath of the consulship.
+[18:28 --> 18:32] Upon taking office, incoming consuls would have to swear
+[18:32 --> 18:34] not to undo Caesar's work, because if they did,
+[18:35 --> 18:37] they would, well, be cursed.
+[18:38 --> 18:40] This was a very big deal to the superstitious Romans,
+[18:41 --> 18:42] and though I doubt it would work today,
+[18:42 --> 18:45] I would love, love to see stuff like this
+[18:45 --> 18:47] get written into bills and oaths of office today.
+[18:48 --> 18:51] By the way, you can't mess with my highway works project,
+[18:51 --> 18:53] because if you do, the gods will flood your district.
+[18:53 --> 18:56] That kind of thing. It may not work,
+[18:56 --> 18:59] but it sure would make the process a whole lot more fun.
+[19:00 --> 19:01] Towards the second major concern,
+[19:01 --> 19:03] protecting himself from prosecution,
+[19:04 --> 19:06] Caesar held true to form and simply ignored the Senate
+[19:06 --> 19:09] and their plans for him to serve a meaningless proconsulship.
+[19:10 --> 19:14] With the help of sympathetic, reed, bribed, tribunes,
+[19:14 --> 19:17] and the tacit support of his fellow triumvirs,
+[19:17 --> 19:20] Caesar conspired to have the People's Assembly assign him
+[19:20 --> 19:23] a lucrative post that would keep him out of the clutches of his enemies
+[19:23 --> 19:26] and, most importantly for his wider ambitions,
+[19:26 --> 19:29] offer him the chance at some good old-fashioned military conquest.
+[19:31 --> 19:33] Today, everyone knows Caesar primarily
+[19:33 --> 19:35] as the great general he proved to be.
+[19:36 --> 19:38] But at this point in his career, as you may have noticed
+[19:38 --> 19:41] over the last two episodes, Caesar was known primarily
+[19:41 --> 19:45] as a lawyer and politician who had had some military success in Spain
+[19:45 --> 19:47] and as a soldier had been brave,
+[19:47 --> 19:49] but nothing to write home about.
+[19:50 --> 19:53] He craved the opportunity to leave civilian life behind
+[19:53 --> 19:56] and throw himself into a great campaign on behalf of Rome.
+[19:57 --> 19:59] The question, then, was where best
+[19:59 --> 20:01] did geographically position himself in the empire
+[20:01 --> 20:05] to maximize the possibility of becoming engaged in military action?
+[20:07 --> 20:09] His choices were limited to the east,
+[20:09 --> 20:12] where he could possibly expand on Pompey's acquisitions,
+[20:12 --> 20:15] North Africa, where Egypt still stood ripe for the plucking,
+[20:15 --> 20:18] and the Gallic provinces in the north.
+[20:19 --> 20:21] North Africa was out because Egypt secured
+[20:21 --> 20:24] its continued independence by way of massive bribes
+[20:24 --> 20:27] and they made sure Caesar's pockets were as lined as everyone else's.
+[20:28 --> 20:31] The Far East was out, as any future expansion
+[20:31 --> 20:32] would come at the expense of the Parthians.
+[20:34 --> 20:37] And as great as a commander as Caesar believed himself to be,
+[20:37 --> 20:39] there was not much upside in picking a fight
+[20:39 --> 20:41] with the heirs of the Persian Empire in the middle of the desert.
+[20:42 --> 20:43] Just ask Crassus.
+[20:44 --> 20:46] That left the Gallic provinces.
+[20:47 --> 20:50] Specifically, Caesar had his eye on Cisalpine Gaul,
+[20:50 --> 20:53] or, literally, Gaul on this side of the Alps.
+[20:55 --> 20:56] The region north of the Po Valley
+[20:56 --> 20:58] stood in perfect strategic position.
+[20:59 --> 21:01] To the northwest stood European Gaul,
+[21:01 --> 21:04] or, as the Romans sometimes called it, the land of the long-haired Gaul.
+[21:05 --> 21:07] To the north lay the warlike Germanic tribes
+[21:07 --> 21:08] who were always stirring up trouble.
+[21:09 --> 21:11] And to the northeast lay the unconquered lands
+[21:11 --> 21:13] on the far side of the Danube River.
+[21:14 --> 21:17] Plus, by securing the proconsulship of Cisalpine Gaul,
+[21:17 --> 21:20] Caesar would control the legions closest to Rome itself,
+[21:20 --> 21:23] allowing him to keep an eye on his enemies in the Senate.
+[21:24 --> 21:27] When everything shook out, the People's Assembly granted Caesar
+[21:27 --> 21:31] the proconsulship of Cisalpine Gaul for a period of five years.
+[21:32 --> 21:34] The Senate was furious, but the Assembly's decree
+[21:34 --> 21:37] went through before they could stop it.
+[21:37 --> 21:40] Almost as an afterthought, but of monumental importance
+[21:40 --> 21:42] to Roman and world history, the People's Assembly
+[21:42 --> 21:45] also granted Caesar the province of Transalpine Gaul,
+[21:45 --> 21:48] or Gaul on the far side of the Alps.
+[21:48 --> 21:51] Thus situated, all he needed was an excuse.
+[21:52 --> 21:55] Almost as if on cue, Caesar got his excuse.
+[21:56 --> 21:58] The delicate balance of power between the Gallic
+[21:58 --> 22:00] and Germanic tribes began to break down,
+[22:00 --> 22:04] and a tribe of Gauls living alongside Lake Geneva
+[22:04 --> 22:06] decided that they had had enough of marauding Germans.
+[22:07 --> 22:09] They would pack up their entire civilization
+[22:09 --> 22:10] and move down out of the mountains.
+[22:11 --> 22:13] They planned on moving into Roman territory,
+[22:14 --> 22:15] which may be a problem for them,
+[22:16 --> 22:18] but surely the Roman governor, what's his name,
+[22:18 --> 22:20] Caesar, would be a reasonable man.
+[22:21 --> 22:23] Surely he won't build a giant wall blocking our migration.
+[22:25 --> 22:27] Next week, Caesar will build a giant wall
+[22:27 --> 22:29] blocking the migration of the Helvetii,
+[22:30 --> 22:32] which would prove to be the opening chapter
+[22:32 --> 22:34] of some of the most famous campaigns in history,
+[22:35 --> 22:36] collectively called the Gallic Wars.
+[22:59 --> 23:01] Thank you for watching.

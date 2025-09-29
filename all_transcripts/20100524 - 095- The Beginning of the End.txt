@@ -1,0 +1,256 @@
+# 20100524 - 095- The Beginning of the End
+# Detected language: en
+# Duration: 1498.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you now know, Audible is the
+[00:06 --> 00:11] internet's leading provider of audio entertainment with probably now more than 60,000 titles to
+[00:11 --> 00:17] choose from. When you're done with this episode, go to audiblepodcast.com forward slash Roam.
+[00:17 --> 00:22] That again is audiblepodcast.com forward slash Roam. By going to that address,
+[00:22 --> 00:26] you qualify for a free book download when you sign up for a 14-day trial membership.
+[00:26 --> 00:30] There is no obligation to continue the service and you can cancel anytime and keep the free book.
+[00:31 --> 00:35] You can also keep going with one of the monthly subscription options and get great deals on all
+[00:35 --> 00:41] future audiobook purchases. This week, I'm going to recommend the first great work of political and
+[00:41 --> 00:47] military history, The Peloponnesian Wars by Thucydides. Rather than cobbling together
+[00:47 --> 00:52] myths and legends, Thucydides used interviews and written records in an attempt to accurately
+[00:52 --> 00:57] tell the story of the wars he himself had participated in. It's a fascinating read.
+[00:58 --> 01:03] Just remember to go to audiblepodcast.com forward slash Roam so that they know who sent you.
+[01:08 --> 01:15] Hello and welcome to the history of Roam. Episode 95, the beginning of the end.
+[01:17 --> 01:22] Don't worry about the title of this episode. The transition from Marcus Aurelius to his son
+[01:22 --> 01:27] Commodus is usually pointed to as the point at which the luck of the Roman Empire began to run
+[01:27 --> 01:33] out. But it has also been joked on more than one occasion that as decline phases go, we should all
+[01:33 --> 01:39] be so lucky to enjoy one as long as the Romans did. We are still 300 years from the last Roman
+[01:39 --> 01:45] emperor and more than a thousand years from the fall of Constantinople. To put it another way,
+[01:45 --> 01:51] the United States has officially been a big S state for about 230 years, which would fit neatly
+[01:51 --> 01:57] into the pocket of Rome's quote, decline phase. So for those of you who might fear that we are
+[01:57 --> 02:02] nearing the end of our little podcast, don't worry. Focus on the fact that this is merely the beginning
+[02:02 --> 02:08] of the end. There's still a lot to cover. The only difference is that rather than talking about what
+[02:08 --> 02:13] battles the Romans won and what territory they added to the empire, we'll be talking about what
+[02:13 --> 02:19] battles they lost and what territory they abandoned. Something whose end is rapidly
+[02:19 --> 02:26] approaching though is Augustus' Principate. Just as the Republic cracked and by necessity gave way
+[02:26 --> 02:32] to a new imperial system, so too is the Principate now on the verge of cracking and by necessity
+[02:32 --> 02:38] giving way to a new system, which scholars have usually dubbed the Dominate. After the fall of
+[02:38 --> 02:44] Commodus, the often troubled Severan dynasty will begin the transition away from the convenient
+[02:44 --> 02:49] fictions that the emperor is merely the first citizen and the Senate still maintains its ancient
+[02:49 --> 02:56] power to a more authoritarian and more militant political order. When the Severans were toppled,
+[02:56 --> 03:01] the crisis period of the mid-third century, roughly analogous to the civil wars of the
+[03:01 --> 03:07] first century B.C., finally obliterated the Rome of Augustus and Vespasian and Hadrian,
+[03:07 --> 03:12] just as Caesar's civil wars had obliterated the Rome of Camillus and Cato and Cicero.
+[03:14 --> 03:19] Rome would surprisingly live through the crisis, but what would come out the other side would be
+[03:19 --> 03:25] a very different animal than what went in. The empire would no longer be a quasi-Republican
+[03:25 --> 03:31] magisterial dictatorship. Instead, it would be transformed by Aurelian and Diocletian into
+[03:31 --> 03:39] a quasi-divine monarchy, almost in the mode of ancient Persia. Commodus then earns the
+[03:39 --> 03:44] distinction of being the last true princeps, and since he turned out to be such a disaster,
+[03:44 --> 03:48] Marcus Aurelius earns the distinction of being the last good princeps.
+[03:49 --> 03:54] Not that Marcus didn't try to ensure that Commodus would be up to the task. He gave the boy a great
+[03:54 --> 04:00] education, introduced him to military affairs, and took him along on his one extended tour of
+[04:00 --> 04:07] the empire, but in the end it seems that Commodus just wasn't having it. He was growing into a man
+[04:07 --> 04:12] far more in the mold of his uncle Lucius Verus than in the mold of his father, so much so that
+[04:12 --> 04:17] it was an accepted fact in Rome that Commodus was not actually Marcus's son at all, and that
+[04:17 --> 04:24] he was in fact the product of an affair between Faustina and a gladiator. Commodus loved games
+[04:24 --> 04:30] and gambling and spectacle and partying, all the things his father utterly disdained.
+[04:31 --> 04:36] Setting aside any psychoanalytical reasons for Commodus turning out to be the exact
+[04:36 --> 04:40] opposite of his father, the boy did face a considerable uphill battle on the road to
+[04:40 --> 04:48] becoming a conscientious, serious, and virtuous man. He was, after all, the first emperor who was
+[04:48 --> 04:55] born to the purple, as they say. Surprising as it is, thus far, not a single Roman emperor was
+[04:55 --> 05:03] himself born to an emperor. Not Augustus, or Tiberius, or Caligula, or Claudius, or Nero,
+[05:03 --> 05:10] or Galba, or Otho, or Vitellius, or Vespasian, or Titus, or Domitian, or Nerva, or Trajan,
+[05:10 --> 05:17] or Hadrian, or Marcus Aurelius. Only Titus and Domitian were even the blood sons of an emperor,
+[05:17 --> 05:21] and they spent their formative years as the obscure sons of a minor politician in general.
+[05:22 --> 05:28] But Commodus was born shortly after Marcus became emperor, and was thus raised in the palace as true
+[05:28 --> 05:35] Roman royalty, surrounded by all the pleasures indulgent sycophants could drum up. Much as the
+[05:35 --> 05:40] austere Marcus did his best to mold Commodus in his own image, he stood little chance against
+[05:40 --> 05:47] the spoiling atmosphere that crown princes are often submerged in. Marcus could see what was
+[05:47 --> 05:53] happening, and openly worried that he was raising another Nero. But for all his stoic wisdom, he
+[05:53 --> 05:58] fell victim to the realities of fraternal love, and when he wasn't maintaining a strict regimen
+[05:58 --> 06:04] of denial, he was rationalizing away his son's behavior. After all, hadn't Philip II been
+[06:04 --> 06:09] mortified at how Alexander the Great was turning out? And he turned out to be Alexander the Great.
+[06:10 --> 06:14] So there's no reason to believe Commodus won't turn it around once he matures a bit.
+[06:16 --> 06:20] People have often wondered, though, why Marcus of all people would break with the imperial
+[06:20 --> 06:25] tradition of adopting a worthy heir, and instead choose to hand it all over to a son,
+[06:25 --> 06:30] who was pretty clearly a bad egg, and who was pretty clearly not going to mature into Alexander
+[06:30 --> 06:36] the Great one day. The answer involves some speculation on our part, but in the first case,
+[06:36 --> 06:42] we should never forget that the reason why every previous Roman emperor had adopted an heir was
+[06:42 --> 06:48] because there were simply very few blood sons to be had. There were in fact only two emperors who
+[06:48 --> 06:54] died with living sons, Vespasian, who left the throne to Titus, and Claudius, who had wanted to
+[06:54 --> 06:59] leave the throne to Britannicus, but was manipulated into adopting Nero instead.
+[07:00 --> 07:06] For every other emperor, heir adoption was not an explicit policy or even a preferred mode of
+[07:06 --> 07:12] succession. It was the result of inescapable circumstance. Augustus tried like mad to get
+[07:12 --> 07:18] anyone with a blood connection to him in power, but was forced by fate to roll with Tiberius instead.
+[07:20 --> 07:24] Beyond the simple fact that just about every emperor probably would have left the throne
+[07:24 --> 07:30] to his son had they had the chance, the further fact is that not letting Commodus succeed him
+[07:30 --> 07:37] brought with it its own problems. In his recent biography of Marcus Aurelius, Frank McLenn talks
+[07:37 --> 07:43] about Marcus's quandary at length after relaying Septimius Severus's quote that Marcus's great
+[07:43 --> 07:50] mistake was not killing the rotten Commodus when he had the chance. In McLenn's formulation,
+[07:50 --> 07:56] Marcus was faced with a stark choice. Either he had to kill Commodus or promote him. There was no
+[07:56 --> 08:03] middle ground. When, for what I hope are easy to understand reasons, Marcus did not assassinate his
+[08:03 --> 08:09] own son, he had no choice then but to make him emperor. The alternative would have been to leave
+[08:09 --> 08:16] the empire with all the ingredients for a civil war. There would naturally be, either out of
+[08:16 --> 08:22] jealousy, spite, or stifled ambition, those opposed to whoever Marcus decided to adopt in Commodus's
+[08:22 --> 08:28] place. Those disgruntled elements would likely, as we have seen in other times and places,
+[08:28 --> 08:33] rally around the overlooked crown prince, whispering in his ear that it was outrageous
+[08:33 --> 08:40] and unjust that his birthright had been stolen by some usurper. And then, voila, civil war.
+[08:41 --> 08:47] Had Marcus left Commodus both alive and out of power, we might be talking about that decision
+[08:47 --> 08:52] as one of the great blunders in history. And the alternative left to Marcus,
+[08:52 --> 08:55] the not blunder choice, as it were, meant killing his own son.
+[08:56 --> 08:59] Are we really supposed to fault him for not going down that road?
+[09:01 --> 09:07] Marcus and Commodus arrived back in Rome in late 176 and the emperor quickly set about promoting
+[09:07 --> 09:14] his son politically. The emperor had already granted his son the title Germanicus in recognition
+[09:14 --> 09:19] of, oh, I guess the fact that he had been physically present at the front. And now,
+[09:19 --> 09:23] upon their return to the capital, Marcus shared his triumphal parade with the young man,
+[09:23 --> 09:28] and they stood side by side in a gleaming chariot as the procession made its way through the city.
+[09:30 --> 09:34] Probably coinciding with the triumph, though the chronology is a bit hazy,
+[09:34 --> 09:39] Marcus commissioned his own triumphal column, an intricate spiral relief monument,
+[09:39 --> 09:44] to rival that of Trajan's, telling the story of Marcus' victories along the Danube.
+[09:45 --> 09:50] The column still stands today, and as I hinted, it is one of the key pieces of evidence we have
+[09:50 --> 09:55] for putting together a narrative of the Marcomannic Wars. The depiction of the
+[09:55 --> 10:01] Reign Miracle is perhaps the most famous panel, but the section usefully depicting a proto-democratic
+[10:01 --> 10:06] German council of war is also often pointed to by anthropologists of early German history.
+[10:07 --> 10:11] As the column winds its way up, and the momentum of war shifts away from the Germans,
+[10:11 --> 10:17] we are treated to multiple depictions of a larger-than-life Marcus overseeing prisoners,
+[10:17 --> 10:23] beheadings, and wailing families. Today, these panels act as a sort of Rorschach test for the
+[10:23 --> 10:28] viewer, with some claiming to see Marcus playing the part of merciful conqueror offering clemency
+[10:28 --> 10:34] to the captured, while others see stoic Marcus playing the part of harsh realist and ordering
+[10:34 --> 10:40] the executions to proceed. The History of Rome has posted a few of the more famous scenes from
+[10:40 --> 10:46] the column on the blog at thehistoryofrome.tipad.com and invites you to offer your own interpretation.
+[10:48 --> 10:55] 177 opened with Commodus elevated to an ordinary consulship. A consulship of particular note,
+[10:55 --> 11:01] not for anything Commodus did while in office, but because, at 15, he was the youngest consul
+[11:01 --> 11:08] in the history of the empire. Just as Hadrian had set a precedent whereby the rules would not
+[11:08 --> 11:14] apply to Marcus, Marcus himself followed the same line with Commodus. For those of you wondering
+[11:14 --> 11:19] who received the honor of serving as the future emperor's colleague, it was a nephew of Lucius
+[11:19 --> 11:25] Verus named Plautius Quintillus, who was now married to one of Marcus' daughters. Quintillus
+[11:25 --> 11:30] would eventually serve as an advisor to the emperor Commodus, and after being ignored in
+[11:30 --> 11:33] the succession battles that followed his brother-in-law's death, he would wind up
+[11:33 --> 11:38] committing suicide in 205 to escape execution at the hands of Septimius Severus.
+[11:41 --> 11:45] The peaceful lull that the empire had enjoyed following first the accession of hostilities
+[11:45 --> 11:51] along the Danube and then the abrupt end to Cassius' revolt in the east proved to be just that,
+[11:51 --> 11:58] a lull, later that year. When spring arrived, the Quadi took advantage of the emperor's withdrawal
+[11:58 --> 12:04] from the north and began attacking Roman positions across the frontier. They were soon joined by the
+[12:04 --> 12:11] Marcomani, and once again the northern border was awash in bloody skirmishes. Marcus hoped his
+[12:11 --> 12:15] presence would not be required and that the generals he left behind would be able to bottle
+[12:15 --> 12:20] up the menace as he remained in Rome to focus on administrative work and the all-important task
+[12:20 --> 12:29] of establishing his son's legacy. In the summer of 177, Commodus was given the title Augustus,
+[12:29 --> 12:35] and with the honorific, the now probably 16-year-old boy found himself elevated to the same level of
+[12:35 --> 12:42] power Lucius Verus had enjoyed. Technically, father and son were now co-emperors. Coins from
+[12:42 --> 12:47] this period go out of their way to establish the notion of their joint and unified rule,
+[12:47 --> 12:51] but as with Lucius, Marcus was still in every way the senior Augusti.
+[12:53 --> 12:58] Despite Marcus' hopes, the situation in Germania was refusing to solve itself.
+[12:59 --> 13:04] The Germans had learned from the last round of fighting and this time refused to offer formal
+[13:04 --> 13:09] battles to the legions, choosing instead to use guerrilla tactics to harass the Romans.
+[13:11 --> 13:16] As is typical of most asymmetrical wars, whenever the Romans were able to force a battle,
+[13:16 --> 13:21] they usually won, but these brief moments of triumph could do little to stop the neverending
+[13:21 --> 13:28] series of demoralizing raids and ambushes and traps that kept the legions harried and skittish.
+[13:29 --> 13:35] The situation was quickly spiraling out of control and after resisting calls for his presence,
+[13:35 --> 13:40] Marcus finally relented and in 178 began making preparations to return to the front.
+[13:40 --> 13:48] His final bit of business before leaving was to hastily marry Commodus to Brudia Crispina, daughter
+[13:48 --> 13:52] of a family distinguished mostly for their close connection to the imperial household.
+[13:53 --> 13:59] At the age of 56, the always on the frail side Marcus had no way of knowing how much more
+[13:59 --> 14:04] campaigning his body would be able to handle, but when he and Commodus left Rome in the summer of
+[14:04 --> 14:10] 178, Marcus was content in the knowledge that his son was now recognized by everyone as Augustus
+[14:10 --> 14:14] and that he was properly married and ready to carry on the imperial line.
+[14:15 --> 14:21] The emperor's foresight would be rewarded, if you can call Commodus' unchallenged ascension a reward,
+[14:22 --> 14:25] because when he left Rome this time, it would be for the last time.
+[14:26 --> 14:32] In less than two years, Marcus would be dead and just as he had arranged, Commodus would face no
+[14:32 --> 14:40] opposition as he assumed the mantle of sole emperor. Arriving at the front, Marcus renewed
+[14:40 --> 14:46] his surprisingly useful alliance with the Aziges, going so far as to allow them passage through
+[14:46 --> 14:50] Dacia so they could travel to and from their traditional homelands, and then set himself
+[14:50 --> 14:56] to the task of purging the Marco Mani and the Quadi of their hostile tendencies once and for all.
+[14:56 --> 15:03] As the emperor began to think about how best to accomplish his goal, he started dreaming bigger
+[15:03 --> 15:07] dreams than the simple strategy of maintaining Hadrian's borders had previously allowed him.
+[15:09 --> 15:14] Liberating himself from Hadrian's cowardice or prudence or whatever you want to call it,
+[15:14 --> 15:20] Marcus began to sketch out a plan to annex one or possibly even two new provinces into the empire,
+[15:21 --> 15:27] internally dubbed Marcomania and Sarmatia. Together, they would have encompassed most
+[15:27 --> 15:33] of the Czech Republic and Slovakia, and pushed the northern border of the empire into modern Bavaria.
+[15:34 --> 15:39] Scholars had long pointed out that the scheme was ludicrous, and as a result,
+[15:39 --> 15:43] doubt the credulity of sources claiming that wise Marcus could have considered such an
+[15:43 --> 15:50] indefensible plan, but the patience of the emperor had apparently run out,
+[15:50 --> 15:54] and he seems to have just wanted to swallow the entire territory into the empire so it could be
+[15:54 --> 15:59] rationally policed and taxed rather than being allowed to continue on as a breeding ground for
+[15:59 --> 16:08] strife and chaos. With the Ezigis safely in his corner, Marcus ordered 40,000 soldiers across
+[16:08 --> 16:14] the Danube, and the process of conquest was initiated. The Marco Mani and Quadi refused
+[16:14 --> 16:19] to offer themselves in battle and continued their guerrilla campaign, so the Romans methodically
+[16:19 --> 16:25] worked to sweep and hold every last piece of land until the German armies had nowhere else to hide.
+[16:27 --> 16:31] This being no ordinary foreign excursion, the legions began to build stone forts
+[16:31 --> 16:38] rather than keeping to their mobile camps. In the late summer, the Romans were able to trap and
+[16:38 --> 16:44] defeat a mid-sized tribe allied with the Marco Mani. The captured Germans were marched into
+[16:44 --> 16:49] lower Pannonia where they were disarmed and settled. If this doesn't seem like the worst
+[16:49 --> 16:55] punishment in the world, you're right. Other than the shame of being defeated and dislodged
+[16:55 --> 17:00] from their traditional homeland, being moved into the empire with its promise of eventual citizenship
+[17:00 --> 17:06] was a pretty good deal. The settlement reminds us of the toll the Antonine Plague had taken on the
+[17:06 --> 17:13] empire. The border provinces had become depopulated to the point that as often as the emperor was
+[17:13 --> 17:18] looking to destroy the tribes, he was also trying to figure out ways to resettle them peacefully on
+[17:18 --> 17:24] Roman land so that they would become industrious new taxpayers. Indeed, as we'll see in a minute
+[17:24 --> 17:30] with the Quadi, Marcus' genocidal bent seems to have given way to a policy of integration.
+[17:30 --> 17:34] He no longer wanted to exterminate the Germans, he wanted to make them Romans.
+[17:37 --> 17:43] By the winter of 178-179, the Quadi began to worry that the territorial squeeze Marcus
+[17:43 --> 17:48] had ordered was having an effect. Not only were there fewer places to hide, but there was almost
+[17:48 --> 17:55] no land to be fought over anymore. In response to the inevitable Roman conquest, the Quadi decided
+[17:55 --> 18:00] to just abandon the fight and migrate north where they could make a new life free of Roman troubles.
+[18:01 --> 18:07] But though this seems like the sort of thing Marcus would have welcomed, after all, the Quadi were
+[18:07 --> 18:14] essentially ceding him this vast swath of new territory, so awesome, right? The emperor instead
+[18:14 --> 18:18] ordered an army led by Maximianus to head the Quadi off and prevent their escape.
+[18:20 --> 18:25] Had the empire been bursting at the population seams with thousands upon thousands of potential
+[18:25 --> 18:30] settlers ready and willing to colonize some new territory, Marcus probably would have just let
+[18:30 --> 18:36] the Quadi go. But Rome was enduring the opposite plight. In the hardest hit areas, the plague had
+[18:36 --> 18:42] cost the empire something like 30 percent of its citizens. Not only was there no excess population
+[18:42 --> 18:48] to be had, Marcus was trying to fill the empty quarters with German settlers. So if he just let
+[18:48 --> 18:55] the Quadi walk away, his new provinces would remain empty and unproductive and not paying taxes.
+[18:57 --> 19:02] Maximianus succeeded in preventing the Quadi from escaping and in doing so,
+[19:02 --> 19:05] set the stage for the last great battle of the Germanic Wars.
+[19:06 --> 19:11] The Quadi were trapped and desperate, the Marcomani just saw their own Roman dominated
+[19:11 --> 19:17] future pass before their eyes, and a third tribe, the Roxolani, were spoiling for a fight
+[19:17 --> 19:21] because they were bitter at having been denied all the favorable concessions their cousins,
+[19:21 --> 19:27] the Aziges, had won. Together, they determined that the guerrilla campaign was futile and that
+[19:27 --> 19:34] they needed a decisive victory to prevent complete Roman envelopment. In April 179,
+[19:34 --> 19:40] a combined German army faced off against the legions and were utterly routed. The back of
+[19:40 --> 19:47] German resistance broken, once again, Marcus stood on the cusp of total victory. A few mop-up
+[19:47 --> 19:52] operations were all that stood between the emperor and his new province of Marcomania.
+[19:52 --> 19:59] But once again, fate stepped in to deny Marcus a final crowning glory.
+[20:01 --> 20:07] While still encamped along the Danube, Marcus contracted the Antonine Plague in early 180 AD
+[20:07 --> 20:13] and was forced to his deathbed. Knowing that the end was near, he refused to linger on as a
+[20:13 --> 20:19] shell of a man, or, more importantly, as a shell of an emperor, and stopped eating or drinking,
+[20:19 --> 20:24] content to let death release him from all the mortal burdens he had spent a lifetime attempting
+[20:24 --> 20:32] to bear. He implored Commodus to complete the job on the Danube, but his son, who did his best to
+[20:32 --> 20:37] stay away from his dying and likely contagious father at the end, was already beginning to
+[20:37 --> 20:42] indulge in his own fantasies about what was good and bad for the empire and what was good and bad
+[20:42 --> 20:49] for Commodus. In mid-March, Marcus gathered his corps of advisors and generals, a corps who had
+[20:49 --> 20:54] proved during these troubled decades to be amongst the most capable men in Roman history,
+[20:54 --> 20:59] and implored them to guide Commodus and give the boy the benefit of their experience and wisdom.
+[21:01 --> 21:08] Having done all he could do, Marcus died on March 17, 180 AD. He was 59 years old
+[21:08 --> 21:13] and had been sometimes emperor and sometimes co-emperor for almost exactly 19 years.
+[21:15 --> 21:19] His death will mark a turning point in Roman history, or at least a turning point in the way
+[21:19 --> 21:24] we conceive of and tell the story of Roman history. There would be no sixth good emperor.
+[21:25 --> 21:29] The glory and power that was Rome in the second century would quickly give way to the
+[21:29 --> 21:35] chaos and destruction that was Rome in the third century. Though we conveniently point to Commodus
+[21:35 --> 21:39] as providing some crucial element in the transition from good to bad, from rise to
+[21:39 --> 21:44] fall, the fact is that most of the seeds that eventually grew into the crisis of the third
+[21:44 --> 21:50] century had taken root during the reign of Marcus Aurelius. Commodus may have acted as some kind of
+[21:50 --> 21:56] supercharged fertilizer, but it's not like he took an empire at its swing and best and single-handedly
+[21:56 --> 22:02] destroyed all that was good in the world. First of all, the migration of the barbarian tribes
+[22:02 --> 22:08] beyond the northern frontier, specifically the rise of an interconnected and sometimes ill-defined
+[22:08 --> 22:13] people called the Goths, was already putting pressure on the borders in ways never before felt.
+[22:14 --> 22:19] From the reign of Marcus on, the western empire would find itself under near constant attack from
+[22:19 --> 22:25] these barbarian forces who were looking to raid the empire or settle within the empire or conquer
+[22:25 --> 22:31] the empire. In the past, the unified and disciplined legions had always been able to easily mow down the
+[22:31 --> 22:37] proud but undisciplined warriors of the north, but a new breed of horde was coming, one that was
+[22:37 --> 22:42] often led by men who had fought in the legions and who knew how to fight the Roman way, which
+[22:42 --> 22:47] meant that the Romans were about to lose the one competitive advantage they had always had.
+[22:49 --> 22:53] Further, the Antonine Plague had sapped the strength of both the legions and the civilian
+[22:53 --> 22:59] population, reducing the Roman ranks at every level. Senators were dying, farmers were dying,
+[22:59 --> 23:06] generals were dying, infantrymen were dying, emperors were dying, food shortages resulted,
+[23:06 --> 23:12] reduced tax revenue resulted, and thus an increased tax burden on those still alive resulted,
+[23:12 --> 23:17] and of course the crippling of Rome's military strength resulted. The problem of manning,
+[23:17 --> 23:22] feeding, and paying the armies would lead to a disconnect between the interests of the people
+[23:22 --> 23:27] of Rome and the interests of its armies, which in turn led to the more fully developed military
+[23:27 --> 23:35] dictatorship of the Severan dynasty. Finally, the brief revolt of Ovidius Cassius hinted that the
+[23:35 --> 23:40] unity between the eastern and western halves of the empire was beginning to crack. When all is
+[23:40 --> 23:45] well, everyone loves everyone else. When times get tough, everyone begins to look at everyone
+[23:45 --> 23:51] else as the cause of their misfortune. For those in the east, the western battles against migrating
+[23:51 --> 23:57] barbarians was a drain on their resources, financial as well as human, and for those in
+[23:57 --> 24:02] the west, the east had become practically an alien world inhabited by scheming eunuchs and
+[24:02 --> 24:10] oriental mystics who were destroying the moral fiber of the empire. It is fair to say that
+[24:10 --> 24:15] Commodus did not cause any of this, nor did he cause the decline and fall of the Roman empire.
+[24:15 --> 24:22] Next week, though, we will see what Commodus did to exacerbate the situation. Because though he got
+[24:22 --> 24:27] off to a good start, a botched assassination attempt early in his reign would trigger an
+[24:27 --> 24:33] excess of paranoia, a paranoia the young emperor would offset by retreating into a megalomaniacal
+[24:33 --> 24:37] fantasy world.

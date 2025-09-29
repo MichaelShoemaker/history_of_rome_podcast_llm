@@ -1,0 +1,104 @@
+# 20101004 - 111- Phase One Complete
+# Detected language: en
+# Duration: 1686.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:10] This week's episode is brought to you by Audible. Audible is the Internet's leading provider of audio entertainment with over 60,000 titles to choose from.
+[00:10 --> 00:20] When you're done with this episode, go to audiblepodcast.com forward slash Roam. That again audiblepodcast.com forward slash Roam.
+[00:20 --> 00:26] By going to that address, you qualify for free book download when you sign up for a 14 day trial membership.
+[00:26 --> 00:32] There is no obligation to continue the service and you can cancel anytime and keep the free book download.
+[00:32 --> 00:39] You can also keep going with one of the monthly subscription options and get great deals on all your future audiobook purchases.
+[00:39 --> 00:54] This week I am going to recommend picking up The Rise and Fall of Alexandria, Birthplace of the Modern Mind by Justin Pollard and Howard Reed, documenting the history of one of the most important cities of the Roman Empire.
+[00:54 --> 01:00] Just remember to go to audiblepodcast.com forward slash Roam so they know who sent you.
+[01:06 --> 01:14] Hello and welcome to The History of Rome, episode 111, phase one complete.
+[01:14 --> 01:24] The Battle of Abertus forced the Romans to deal with something they had never before had to face, the death of an emperor in battle.
+[01:24 --> 01:35] Up until now, emperors had died of natural causes or they had been assassinated or they had committed suicide, but never had they fallen to an enemy sword.
+[01:35 --> 01:42] The gods struck down emperors or the Romans struck down emperors or emperors struck down themselves.
+[01:42 --> 01:46] But they were not knocked off by some common barbarian warrior.
+[01:46 --> 01:48] It simply wasn't done.
+[01:48 --> 02:01] But while this humiliating blow to the national psyche was immense, the Romans did not have long to dwell on their misery because there was one big practical problem the death of Odysseus had left them with.
+[02:01 --> 02:03] Who would rule now?
+[02:04 --> 02:20] The elevation of Odysseus' son Herennius to the rank of co-emperor just a few months earlier was supposed to have solved this problem, but he too had died at Abertus, leaving the empire not just without a leader, but without a leader in its darkest hour.
+[02:20 --> 02:29] To extract the empire from this predicament, the senate and the army both came up with solutions to the problem of who would rule.
+[02:29 --> 02:33] Unfortunately, they were different solutions.
+[02:33 --> 02:45] The army naturally chose to elevate one of their own, specifically the senior ranking officer left on the scene after the disaster at Abertus, Gaius Vibius Tribonianus Gallus.
+[02:45 --> 02:58] Back in Rome though, the senate chose to stick with the hereditary rights of Odysseus' family and elected Gaius Valens Hostilianus Messius Quintus, Odysseus' youngest son who had been left behind in Rome,
+[02:58 --> 03:02] while his father and brother had gone off to fight the Goths.
+[03:02 --> 03:13] The big justifiable fear after Odysseus' death was that some kind of civil war would break out at a moment when a lack of internal unity might prove fatal.
+[03:13 --> 03:22] And with the senate and armies backing separate candidates for the throne, that seemed to be the deadly path Rome was headed down.
+[03:22 --> 03:36] But the inevitable confrontation between Hostilian and Gallus never arrived, in part because Gallus decided that circumstances demanded that someone take the high road and offer a compromise.
+[03:36 --> 03:48] Sitting in a tent out near the Danube surrounded by the remnants of an army that had just been annihilated by the Goths, Gallus recognized that this was no time for a civil war.
+[03:49 --> 04:00] If he wasted the time and energy of what was left of Odysseus' army on some power grab, the Goths could just sweep down, conquer the middle empire, and split Rome in half.
+[04:00 --> 04:11] So while he made it clear to the senate that he planned to accept the armies acclaim, he also made it clear that he had no problem with Hostilian serving as his co-emperor.
+[04:12 --> 04:23] He was able to come to this magnanimous conclusion because, one, he had always been on excellent terms with Theseus and his family, and did not instinctively see Hostilian as a rival.
+[04:23 --> 04:32] And two, the age difference between them, Hostilian was still a teenager, meant that Gallus would always be the senior Augustus.
+[04:32 --> 04:38] Accepting Hostilian, then, was more like accepting an heir than a true colleague.
+[04:38 --> 04:45] Plus, it's not like the Moesian legions were in any condition to force their demands on anyone.
+[04:47 --> 04:55] Though it seems a bit crazy to think about, Trebonianus Gallus was a rare figure at this point in Roman history.
+[04:55 --> 04:59] He was an emperor of fully Italian extraction.
+[05:00 --> 05:14] Since the fall of the Flavian dynasty, the imperial office had been populated by Spaniards and Africans and Thracians and Illyrians, but only on a few rare occasions was the emperor of Rome actually an Italian.
+[05:14 --> 05:31] Now, of course, we can't read too much into this, as many of these emperors, the Thracians and Hadrians and Severans of the world, either came from Italian families transplanted into the provinces, or from provincial families who had married into important Italian clans.
+[05:31 --> 05:42] But still, it is worth noting that an emperor born in Italy to an Italian family had, by the third century, become something of an endangered species.
+[05:44 --> 05:56] Gallus was born into a senatorial family of Etruscan origin, and had spent his life working his way up the Cursus honorum, serving in civilian and military posts across the empire.
+[05:56 --> 06:07] At some point, he became an associate of Decius's, and when Decius became emperor, he immediately appointed Gallus to govern the province of Upper Moesia.
+[06:07 --> 06:17] The appointment underscores the close working relationship between the two men, as the governorship of Upper Moesia was no honorary ambassadorship to Tahiti.
+[06:17 --> 06:28] This was, after all, a territory not only being harassed by the Goths, but which had also been ground zero for the rebellion that had put Decius in power in the first place.
+[06:29 --> 06:40] The degree to which Decius trusted and respected Gallus is obvious, and the new governor quickly became trusted and respected by the men under his command as well.
+[06:40 --> 06:50] A full-bronze statue of Gallus still exists that depicts a large, barrel-chested man with close-cropped hair, cutting an imposing figure.
+[06:50 --> 06:56] He was not some aristocratic dandy the Moesian legions could hope to push around.
+[06:57 --> 07:00] Not that they had time for such bullying.
+[07:00 --> 07:08] Gallus took over in 250 AD, and for the next 18 months he led the Roman response to the increasing Gothic raids.
+[07:08 --> 07:19] Sometimes he was successful, and sometimes he wasn't, but no one could argue that Gallus wasn't exerting maximum effort in an attempt to stem the barbarian tribe.
+[07:19 --> 07:37] When Geneva invaded with a full force, though, the Moesian legions were simply unable to do anything to stop him, and Gallus was one of those provincial leaders who told Decius in no uncertain terms that the lower Danube needed reinforcements and fast.
+[07:37 --> 07:47] He then served as one of Decius' key generals during the campaign against the Gothic king, and wound up being one of the few to escape from a Britess alive.
+[07:48 --> 07:57] As I said at the end of last week's show, Gallus took over what was left of the legions and came to an understanding with the victorious Geneva.
+[07:57 --> 08:09] The Romans would not hinder the Gothic retreat back across the Danube, and henceforth payment would be made annually to the Gothic king to prevent him from attacking in the future.
+[08:10 --> 08:18] Though later Romans would castigate Gallus for this ignoble peace, modern scholars seemed more than willing to give him a pass.
+[08:18 --> 08:26] He was in an incredibly difficult position, and doing the best he could to save the empire from further humiliation.
+[08:27 --> 08:38] The rumor that he and Geneva were in cahoots started up a few years later, but no one at the time, and no one now, really believes that those smears hold much water.
+[08:38 --> 08:45] The men of the shattered legions who had just elected him emperor certainly didn't think he was a traitor who had just gotten most of them killed.
+[08:45 --> 08:51] Otherwise, they would have torn him limb from limb, rather than giving him the keys to the empire.
+[08:52 --> 09:02] The peace deal with Geneva is evidence that Gallus was of a mind to walk the Romans away from the battle of a Britess without making things any worse than they already were.
+[09:03 --> 09:08] But the external threat posed by the Goths was not the only source of potential peril.
+[09:08 --> 09:14] Gallus also had to make a choice about how to deal with the Senate's elevation of Hostilian.
+[09:15 --> 09:23] In this too, Gallus showed that he was more interested in making sure things didn't get worse than he was in just about anything else.
+[09:24 --> 09:34] So he sent a letter to the Senate informing them that their choice of Hostilian was a fine one, and that he would be happy to share the imperial insignia with the son of Decius.
+[09:35 --> 09:42] The Senate was no more disposed to start up a civil war than Gallus was, and immediately accepted the compromise.
+[09:43 --> 09:59] With the Goths temporarily sated, Gallus and a few key advisors made their way back to Rome to meet with Hostilian and the Senate so that together they could work up for a plan on how to stabilize the empire, which was clearly teetering on the brink of something.
+[10:00 --> 10:11] When he arrived back in the capital, Gallus and Hostilian were acclaimed as the co-Augusti of Rome, and Gallus's son Volusianus was named Caesar and eventual heir to the throne.
+[10:13 --> 10:18] The partnership between Gallus and Hostilian, though, wouldn't last the year.
+[10:19 --> 10:27] In the summer of 251, Hostilian mysteriously vanished from the historical record, and we can only guess at what happened to him.
+[10:28 --> 10:50] Gallus's conspiracy theorists claimed that the young Augustus had been offed by the evil betrayer of a Britus, but the consensus opinion seems to be that Hostilian fell victim to a new plague that had chosen this inopportune moment to appear on the scene, the Cyprian Plague, so named because its effects were described in detail by Saint Cyprian, the Bishop of Carthage.
+[10:51 --> 11:04] As with the Antonine Plague, there is some debate over which particular disease ravaged the empire for the next 20 years, but again, as with the Antonine Plague, smallpox appears to be the likely culprit.
+[11:06 --> 11:13] If there is one recent cliché that I have really come to loathe, it is the cliché of the quote, perfect storm.
+[11:14 --> 11:33] Everyone these days wants to describe everything as a perfect storm, making it hard to distinguish when an incredibly rare confluence of events produces something historically destructive, and when someone just wants to use the phrase, a perfect storm, to lend whatever minor crisis they're describing some dramatic heft.
+[11:34 --> 11:39] Really, I promise you, the overuse of a perfect storm is a big pet peeve of mine.
+[11:40 --> 11:45] With that in mind, the crisis of the third century was a perfect storm.
+[11:46 --> 12:01] The empire was already being ravaged by external pressures stronger than it had known in centuries, violent internal political division, economic depression, soaring taxation, and now, on top of everything else, a massive plague was breaking out.
+[12:02 --> 12:05] You guys, this is what a perfect storm looks like.
+[12:05 --> 12:16] At the height of the Cyprian Plague, which ran from 251 until sometime after 270, 5,000 people died every day in Rome, and the bodies piled up faster than they could be buried.
+[12:17 --> 12:26] Manpower shortages inevitably resulted in the fields and in the army barracks, leading to further economic depression, famine, and anemic border defense.
+[12:26 --> 12:31] This, at a time when the last thing the empire could afford was economic depression, famine, and anemic border defense.
+[12:32 --> 12:41] Besides Hostilian, the plague would eventually claim the life of the Emperor Claudius Gothicus as well, a man who was well on his way to leading Rome out of the darkness when he died prematurely in his camp.
+[12:42 --> 12:47] Really, I will never stop marking the end of the last century.
+[12:47 --> 12:54] Everyone always wants to know why Rome fell, but I think the more fascinating question is how it managed to survive as long as it did.
+[12:55 --> 13:00] Over the course of the next few episodes, I hope to get to the bottom of that particular mystery.
+[13:01 --> 13:04] Seriously, I hope to get to the bottom of that particular mystery.
+[13:04 --> 13:09] Though the Romans have been focused for the last few years on the threat in the north posed by the Goths, it was during the short reign of Gallus that they were reminded that the Romans had been under threat in the north.
+[13:10 --> 13:15] Over the course of the next few episodes, I hope to get to the bottom of that particular mystery.
+[13:16 --> 13:19] Seriously, I hope to get to the bottom of that particular mystery.
+[13:20 --> 13:23] Seriously, I hope to get to the bottom of that particular mystery.
+[13:24 --> 13:37] Though the Romans have been focused for the last few years on the threat in the north posed by the Goths, it was during the short reign of Gallus that they were reminded that the Sassanids still posed a major threat in the east.
+[13:38 --> 13:55] Sharpor had been biding his time after making peace with Philip the Arab back in 244, but once word trickled over to the Sassanid king that the Romans were getting battered around by a Gothic invasion, it did not take him long to call an army back into the field and point them west.
+[13:56 --> 14:07] The strength of Rome was at a low ebb, and now was the perfect opportunity to maybe peel off some of that old Persian territory his family had been covening all these years.
+[14:08 --> 14:23] The results of Sharpor's campaign would prove as disastrous to the Romans as Canoeva's campaign had just been, and when the Romans finally got around to responding, the results of that campaign would prove to be even more disastrous still.
+[14:23 --> 14:27] Bad times. Bad, bad times.
+[14:30 --> 14:38] As is so often the case in Roman history, Armenia lay at the center of this latest outbreak of hostilities between east and west.
+[14:39 --> 14:49] The chronology on all of this is a bit muddled, but it appears that Sharpor used it as a spute over Armenian succession as a pretext for invading the buffer kingdom.
+[14:50 --> 15:00] After marching around unopposed and placing his own man on the throne, Sharpor then shocked everyone by directly invading the Roman province of Syria.
+[15:01 --> 15:13] As had just happened in the north, the eastern legions were so used to simply keeping watch without any real fear of direct attack that the sudden invasion caught them completely by surprise.
+[15:14 --> 15:22] Sharpor captured key legionary garrisons and sacked important cities, including, amazingly, Antioch itself.
+[15:24 --> 15:32] After his string of victories, Sharpor chose to withdraw from Syria as winter descended rather than attempt an occupation at this early stage in the game.
+[15:33 --> 15:37] Rome may be weakened, but it certainly wasn't defenseless.
+[15:38 --> 15:44] The easy success of his initial foray into Roman territory, though, had to have had Sharpor's mouth watering.
+[15:47 --> 15:57] Back in Rome, the surprising news of this marauding Sasanid army was met by an equally surprising reaction from the Emperor Gallus. Relative indifference.

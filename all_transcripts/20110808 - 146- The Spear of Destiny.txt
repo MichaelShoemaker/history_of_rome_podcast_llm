@@ -1,0 +1,327 @@
+# 20110808 - 146- The Spear of Destiny
+# Detected language: en
+# Duration: 1538.56 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:09] As you know, Audible is the internet's leading provider of audio entertainment with over
+[00:09 --> 00:11] 80,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:16 --> 00:21] That again, audiblepodcast.com forward slash Rome.
+[00:21 --> 00:25] By going to that address, you qualify for a free book download when you sign up for
+[00:25 --> 00:27] a 14-day trial membership.
+[00:27 --> 00:32] There is no obligation to continue the service and you can cancel anytime and keep the free
+[00:32 --> 00:33] book.
+[00:33 --> 00:37] You can also keep going with one of the monthly subscription options and get great deals on
+[00:37 --> 00:41] all future audiobook purchases.
+[00:41 --> 00:45] If you are just now getting to this episode, this week I initially passed along a listener
+[00:45 --> 00:50] recommendation for 1421, the year China discovered the world.
+[00:50 --> 00:56] However, I must confess that I did not do my usual due diligence on researching the
+[00:56 --> 01:03] merits of the book and so just now discovered that 1421 is basically pseudo-historical nonsense
+[01:03 --> 01:09] that relies on no good evidence whatsoever, speculates wildly beyond the facts, and that
+[01:09 --> 01:15] the author, Gavin Menzies, is basically a novelist pretending to be a historian.
+[01:15 --> 01:20] I am embarrassed to have given 1421 the history of Rome seal of approval.
+[01:20 --> 01:26] It is not good history and I sincerely apologize for what can only be described as a slot
+[01:26 --> 01:28] copy recommendation.
+[01:28 --> 01:34] How about next time I just recommend The History of the World and 100 Objects, or maybe one
+[01:34 --> 01:39] of those Star Wars books that people keep wanting me to plug?
+[01:39 --> 01:45] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:50 --> 01:55] Hello and welcome to The History of Rome.
+[01:55 --> 02:02] Episode 146, The Spear of Destiny.
+[02:02 --> 02:08] Last week we covered the wide range of reforms Julian initiated after becoming emperor.
+[02:08 --> 02:13] Though he is usually remembered as the man who tried to stem the tide of Christianity,
+[02:13 --> 02:17] we should not forget that he was interested in more than just religion, and given enough
+[02:17 --> 02:22] time it is possible that we could have been sitting here talking about Julian as a major
+[02:23 --> 02:25] transformative figure.
+[02:25 --> 02:32] But instead we talk about him merely as a brief detour, an accidental left turn noticed
+[02:32 --> 02:36] and corrected within a block of the mistake.
+[02:36 --> 02:41] This week we will get into why Julian's imperial course correction never got the empire further
+[02:41 --> 02:45] down his pagan, principate side road.
+[02:45 --> 02:50] In the end, it wasn't because of institutional barriers, entrenched interests, or even the
+[02:50 --> 02:53] irresistible destiny of Christianity.
+[02:53 --> 03:00] It was because of a forgotten breastplate and an anonymously thrown spear.
+[03:01 --> 03:06] After a frustrating winter spent butting heads with the citizens of Antioch, Julian was eager
+[03:06 --> 03:11] to leave behind the aggravating belligerency of his fellow citizens and focus his attention
+[03:11 --> 03:16] on a much easier enemy to grapple with, the Sassanids.
+[03:16 --> 03:21] He didn't have to worry about placating the Sassanids or making friends with the Sassanids
+[03:21 --> 03:25] or even caring what the Sassanids thought about his reform agenda.
+[03:25 --> 03:30] He just needed to beat the crap out of the Sassanids.
+[03:30 --> 03:33] I imagine that as much as Julian was looking forward to the political bounce he would get
+[03:33 --> 03:38] from a successful campaign in the East, that he was also looking forward to the cathartic
+[03:38 --> 03:43] relief he would get from a good, hard fight.
+[03:43 --> 03:47] Watch to Julian's consternation, however, the Sassanids were presently trying to duck
+[03:47 --> 03:51] that fight.
+[03:51 --> 03:57] The Persian King Shapur II spent most of his epic reign, which was an amazing seventy years
+[03:57 --> 04:04] long, vacillating between aggression and pacifism towards Rome, and it appears that with the
+[04:04 --> 04:09] death of his old enemy, Constantius II, that the king was ready to once again enter one
+[04:09 --> 04:11] of his passive phases.
+[04:11 --> 04:16] His recent victories, which had included the Sack of Amida, had turned out to have been
+[04:16 --> 04:18] of the Pyrrhic variety.
+[04:18 --> 04:23] That is, the costs of the campaign far outweighed the benefits.
+[04:23 --> 04:28] Further fighting at this point would probably only shift the border between Rome and Persia
+[04:28 --> 04:34] a few yards in either direction, so what was the point?
+[04:34 --> 04:37] Shapur reached out to Julian and tried to work out a peace agreement that would satisfy
+[04:37 --> 04:41] both leaders, but Julian was not having it.
+[04:41 --> 04:48] He had come east to make war on the Sassanids, not to make peace with the Sassanids.
+[04:48 --> 04:52] Though the terms were reasonable, and it is hard to see how rejecting them benefited Rome
+[04:52 --> 04:57] in the final analysis, Julian had designed a game plan to take him through the early
+[04:57 --> 05:03] years of his reign, and that game plan said very clearly, win a great victory against
+[05:03 --> 05:05] Persia.
+[05:05 --> 05:08] So Julian refused to listen to terms.
+[05:08 --> 05:13] If I make peace, I won't be able to win a great victory against Persia, and it says
+[05:13 --> 05:19] very clearly right here that I need to win a great victory against Persia.
+[05:19 --> 05:24] You get the feeling like Shapur could have offered control of the whole Sassanid empire
+[05:24 --> 05:29] and promised to become the emperor's private footstool, and Julian still would have demanded
+[05:29 --> 05:33] a war.
+[05:33 --> 05:39] So in March of 363, Julian left Antioch at the head of an army, telling those lousy ingrate
+[05:39 --> 05:45] Antiochians on his way out the door that he was never, ever coming back.
+[05:45 --> 05:50] Though the estimates for the size of Julian's army vary from a low of 65,000 to a high of
+[05:50 --> 05:55] 90,000, there is one thing we can be sure of.
+[05:55 --> 06:00] Julian was mustering every available soldier he could get his hands on.
+[06:00 --> 06:04] He even demanded that the king of Armenia send an auxiliary army to help shore up the
+[06:04 --> 06:06] Roman ranks.
+[06:06 --> 06:12] Julian wanted nothing less than a total, complete, and overwhelming victory, and he did not want
+[06:12 --> 06:15] to leave anything to chance.
+[06:15 --> 06:21] However, though an army the size of Julian's Eastern invasion force, whatever size it actually
+[06:21 --> 06:28] was, would have made the emperor an unstoppable juggernaut back in Gaul, out here in Syria,
+[06:28 --> 06:31] it made him merely equal to the task.
+[06:31 --> 06:36] By most estimates, the army Shapur had in the field was able to match the Romans man
+[06:36 --> 06:38] for man.
+[06:38 --> 06:41] When you throw in the fact that most of the soldiers in the Roman army were either recently
+[06:41 --> 06:47] recruited or had been transferred over from the West and were unused to desert fighting,
+[06:47 --> 06:53] well, even a hundred thousand men might not have been equal to the task.
+[06:53 --> 06:57] In other words, Julian might have thought he wasn't leaving anything to chance, but
+[06:57 --> 07:05] he was still going to need a healthy dose of luck to pull this thing off.
+[07:05 --> 07:10] Beyond questions about whether his army could do what Julian wanted them to do, the emperor
+[07:10 --> 07:16] is often criticized for marching east without a clear strategic aim beyond victory for victory's
+[07:16 --> 07:17] sake.
+[07:17 --> 07:22] Sadly, for the men of the Roman army, though, no one realized quite how rudderless this
+[07:22 --> 07:27] war actually was in the beginning, because Julian appeared to have a very clear idea
+[07:27 --> 07:29] of what he was doing.
+[07:29 --> 07:34] He was going to attack the Sassanid capital of Tessifon.
+[07:34 --> 07:38] To pull this off, the emperor knew that he would need to keep Shapur off his back for
+[07:38 --> 07:40] a little while.
+[07:40 --> 07:44] The Persian king was up in the north near the Armenian border with the bulk of his veteran
+[07:44 --> 07:49] army, and that is exactly where Julian wanted him to stay.
+[07:49 --> 07:55] To keep Shapur in place, Julian peeled off 20,000 to 30,000 of his men, the variation
+[07:55 --> 08:00] depending on how large you think his overall army was, and sent them to feign an attack
+[08:00 --> 08:02] on Medea.
+[08:02 --> 08:07] The emperor hoped that in the fog of war, this decoy invasion force would be taken for
+[08:07 --> 08:14] the main invasion force and confound Shapur's reaction time accordingly.
+[08:14 --> 08:19] Even if the king saw through the Medea feint, Julian reckoned that Shapur would, at the
+[08:19 --> 08:24] very least, assume the Romans would be taking the easy route down the Tigris to attack
+[08:24 --> 08:31] Tessifon, and so, while the decoy army marched northeast, Julian himself chose the tougher
+[08:31 --> 08:38] but less expected route down the Euphrates.
+[08:38 --> 08:44] Despite his lack of a coherent strategy, Julian did not neglect his logistical responsibilities,
+[08:44 --> 08:48] and after reaching the Euphrates, he rendezvoused with a fleet of some thousand ships that he
+[08:48 --> 08:53] had ordered constructed to keep the food and munitions flowing.
+[08:53 --> 08:59] With his years in Gaul marked by constant supply problems, Julian was making damn sure
+[08:59 --> 09:03] that he would not have to worry about some Latter-day Barbatio seizing his grain and
+[09:03 --> 09:08] burning his supply transports.
+[09:08 --> 09:12] The preparations were complete by early April, and Julian spent the next month methodically
+[09:12 --> 09:17] making his way south towards the Sassanid capital.
+[09:17 --> 09:22] As the Romans marched, they seized control of any cities or military outposts they happened
+[09:22 --> 09:24] by.
+[09:24 --> 09:28] Since the majority of these were only lightly garrisoned, the resistance they met during
+[09:28 --> 09:31] these first few weeks was sporadic and short-lived.
+[09:31 --> 09:37] It wasn't until they were closing in on Tessifon that Julian and his army finally ran into
+[09:37 --> 09:39] some real pushback.
+[09:39 --> 09:44] Two cities in a row shut up their gates and attempted to resist, and though in both cases
+[09:44 --> 09:50] the Romans won after a quick, hard battle, the fights did lay bare the realities of siege
+[09:50 --> 09:56] warfare in the desert keep.
+[09:56 --> 10:01] As the Roman army neared Tessifon, the big question became how to get his men and his
+[10:01 --> 10:04] thousand ships over to the capital.
+[10:04 --> 10:10] You see, part of the reason the approach along the Tigris was easier was because Tessifon
+[10:10 --> 10:14] is actually located on the Tigris.
+[10:14 --> 10:18] Having tens of thousands of soldiers and one thousand supply ships doesn't do you much
+[10:19 --> 10:24] good if you're, you know, on the complete wrong river.
+[10:24 --> 10:29] The obvious answer was to take the long way around, that is, head down to the confluence
+[10:29 --> 10:33] of the rivers and then turn around and row upstream.
+[10:33 --> 10:38] But that route was arduous and fraught with danger, and Julian had no intention of exposing
+[10:38 --> 10:41] his army if he didn't have to.
+[10:41 --> 10:44] And he was pretty sure that he didn't have to.
+[10:44 --> 10:50] You see, Julian knew a little secret that had been lost to the ages.
+[10:50 --> 10:55] Once upon a time, the kings of Persia had built a canal connecting the Tigris and Euphrates
+[10:55 --> 10:56] rivers.
+[10:56 --> 11:02] But due to excessive flooding, the canal had long ago been blocked up and now sat around
+[11:02 --> 11:05] as an innocuous dry ditch.
+[11:05 --> 11:11] Julian located this royal canal and had his men knock out the dam that kept the long-forgotten
+[11:11 --> 11:14] channel dry.
+[11:14 --> 11:18] Just like that, the Romans had a straight path from here to there.
+[11:18 --> 11:25] Thus, in mid-May of 363, the Sassanid garrison defending Ctesiphon was dismayed to discover
+[11:25 --> 11:31] a massive Roman invasion fleet descending on them, not from the north or from the south,
+[11:31 --> 11:37] where attacks were to be expected, but from the west, which, wait, what?
+[11:37 --> 11:42] Was Shapur stalled, but by this point no longer completely fooled, by the Decoy army in the
+[11:42 --> 11:43] north?
+[11:43 --> 11:48] The soldiers defending Ctesiphon were also dismayed to learn that they were on their
+[11:48 --> 11:52] own.
+[11:52 --> 11:57] At this point, Julian had to have been delighted by his prospects, and even more delighted
+[11:57 --> 12:03] by the result of the initial encounter between his men and the Ctesiphon garrison.
+[12:03 --> 12:08] The Persians lined up for battle in front of the city, but rather than attack them directly,
+[12:08 --> 12:13] Julian spent the day lulling them into a false sense of security by making a big show of
+[12:13 --> 12:18] settling in and not paying much attention to the opposing army.
+[12:18 --> 12:23] But as soon as night fell, Julian ordered a surprise attack.
+[12:23 --> 12:28] The resulting battle lasted well into the next day, and eventually the Sassanids were
+[12:28 --> 12:31] pushed back into the city.
+[12:31 --> 12:36] But critically, the Romans did not immediately follow up this success, and they retired before
+[12:36 --> 12:40] capturing the city in one fell swoop.
+[12:40 --> 12:44] Which is unfortunate, because that day's battle would prove to be the high point of
+[12:44 --> 12:47] Julian's invasion.
+[12:47 --> 12:53] From that moment on, it was pretty much all downhill.
+[12:53 --> 12:57] The first thing that struck the Roman officers the next morning, and the first thing that
+[12:57 --> 13:02] makes us think that perhaps Julian had not thought this through fully, was the impressive
+[13:02 --> 13:07] defensive fortifications Ctesiphon now boasted.
+[13:07 --> 13:12] You'll recall from past episodes that sacking Ctesiphon was practically a rite of passage
+[13:12 --> 13:17] for Roman emperors there for a while, and really, all they had to do was show up and
+[13:17 --> 13:19] the city would surrender.
+[13:19 --> 13:23] But the advanced fortification techniques that had begun cropping up at the end of the
+[13:23 --> 13:28] third century were not a strictly Roman phenomenon.
+[13:28 --> 13:33] Even with his full army, and he was still waiting for the Decoy army to rejoin his main
+[13:33 --> 13:38] force, it would take time and effort to dislodge the Sassanids now that they were settling
+[13:38 --> 13:40] in for a siege.
+[13:40 --> 13:46] More to the point, the Romans would probably be unable to take the city before Shapur arrived
+[13:46 --> 13:49] with the main Persian army.
+[13:49 --> 13:53] And even if Shapur took his time getting to Ctesiphon, the royal canal, the one that had
+[13:53 --> 14:00] been closed because of excessive flooding, well, it was now flooding and creating a malaria-ridden
+[14:00 --> 14:05] swamp for the Romans to camp in.
+[14:05 --> 14:08] So where did that leave them?
+[14:08 --> 14:10] What was the plan now?
+[14:10 --> 14:16] Initially, Julian argued in favor of launching the siege anyway, but in the command tent
+[14:16 --> 14:22] he was pummeled by a nearly unanimous officer corps that told him in no uncertain terms
+[14:22 --> 14:26] that in their professional opinion, a siege would be suicide.
+[14:27 --> 14:32] Finally, Julian relented and agreed to call off the assault.
+[14:32 --> 14:36] So okay, now that that's settled, what's the new plan?
+[14:36 --> 14:41] Sacking Ctesiphon would have been nice, but what was the greater purpose it would have
+[14:41 --> 14:42] served?
+[14:42 --> 14:47] It's clear we need to change our approach, so what's our overarching strategic goal?
+[14:47 --> 14:51] Maybe we can rejigger our methods and achieve the same result?
+[14:51 --> 14:53] Are we trying to conquer Persia?
+[14:53 --> 14:56] Are we trying to remove Shapur from power?
+[14:56 --> 15:00] Are we simply trying to force him to give us a better peace deal?
+[15:00 --> 15:03] What are we doing out here?
+[15:03 --> 15:08] Though we do not have a solid record of these meetings, it appears that Julian did not really
+[15:08 --> 15:12] have answers to these questions.
+[15:12 --> 15:16] Sacking Ctesiphon had likely been an end unto itself.
+[15:16 --> 15:22] Now that he had run into a wall, literally a big, thick wall, Julian wasn't sure what
+[15:22 --> 15:24] to do.
+[15:24 --> 15:29] He was going to have to improvise his way out of this, and the plan he came up with
+[15:29 --> 15:36] was pretty clearly not in the original playbook.
+[15:36 --> 15:40] Going back the way that they had come would have been too difficult, so the emperor decided
+[15:40 --> 15:45] to lead his army up the Tigris River, which was the quickest route back to Armenia and
+[15:45 --> 15:47] back to safety.
+[15:47 --> 15:51] The Roman soldiers were understandably skeptical of this plan.
+[15:51 --> 15:56] I mean, isn't that the direction Shapur is coming from?
+[15:56 --> 16:01] But they went from skeptical to appalled when they learned the next part of the plan, that
+[16:01 --> 16:06] Julian was also planning to burn the thousand supply ships.
+[16:06 --> 16:12] It would have been much too difficult to haul them all back upriver, and leaving them behind
+[16:12 --> 16:15] meant leaving them gift-wrapped for Shapur.
+[16:15 --> 16:20] But the cold logic of command is sometimes lost on the average grunt.
+[16:20 --> 16:26] All the grunt sees is that the things that bring him food are going up in smoke.
+[16:26 --> 16:31] So on top of having to call an audible in the middle of a campaign, Julian also had
+[16:31 --> 16:36] to deal with the fact that his troops were now questioning his sanity.
+[16:36 --> 16:41] And then things got really bad.
+[16:41 --> 16:45] When Shapur's scouts reported back that the Romans were heading north up the Tigris, the
+[16:45 --> 16:50] King responded with a harsh but obvious strategy.
+[16:50 --> 16:55] Despite Roman fears to the contrary, Shapur was still not looking to initiate a set-piece
+[16:55 --> 17:00] battle, at least not yet, so he ordered his men to pour into the countryside and burn
+[17:00 --> 17:04] every single edible thing they could find.
+[17:04 --> 17:09] This scorched-earth tactic was rough on his own people, but it was even rougher on the
+[17:09 --> 17:12] Romans.
+[17:12 --> 17:16] Julian had been expecting to be able to live off the land until they reached Armenia, or
+[17:16 --> 17:19] at least until they met Shapur in battle.
+[17:19 --> 17:25] But instead, the Sassanids were keeping their distance, offering no terms, and watching
+[17:25 --> 17:28] as the Romans starved.
+[17:28 --> 17:34] By the middle of June 363, the situation was desperate, and it was at this point that Julian
+[17:34 --> 17:39] met his fate.
+[17:39 --> 17:43] Once he determined that the Romans had been worn down by their grueling march north, Shapur
+[17:43 --> 17:48] finally ordered his army to begin harassing the legions.
+[17:48 --> 17:53] Skirmishes in the front and in the rear of the Roman line gave way to heavier fighting,
+[17:53 --> 17:57] and pretty soon the two sides were locked in a running battle.
+[17:57 --> 18:02] The Romans desperately attempted to push north, but could make almost no headway, and they
+[18:02 --> 18:07] were averaging just a few miles a day.
+[18:07 --> 18:11] But despite the bleakness of the situation, Julian never gave up.
+[18:11 --> 18:16] He never locked himself up in his tent, he never tried to run for it, and by all accounts,
+[18:16 --> 18:20] he never even hinted that he would do either of those things.
+[18:20 --> 18:25] He was constantly out in front of his men, leading them, fighting with them, encouraging
+[18:25 --> 18:27] them.
+[18:27 --> 18:32] There is absolutely no denying that he handled the situation as admirably as a man in his
+[18:32 --> 18:34] situation could.
+[18:34 --> 18:43] There is also no denying that in the end, this admirable conduct is what killed him.
+[18:43 --> 18:46] The details of Julian's death are vague.
+[18:46 --> 18:51] Despite the fact that Ammianus Marcellinus was actually there and fought in the fateful
+[18:51 --> 18:55] battle, we still don't know exactly what happened.
+[18:55 --> 18:57] Which is understandable.
+[18:57 --> 19:02] We are talking about a clash between tens of thousands of men here.
+[19:02 --> 19:07] Unless he was right next to the emperor, even Marcellinus' account is going to be
+[19:07 --> 19:08] second-hand.
+[19:08 --> 19:12] And he wasn't right next to the emperor.
+[19:12 --> 19:19] That said, the standard account is that on June 26, 363 AD, the Sassanids hit the Romans
+[19:19 --> 19:22] with a multi-pronged assault.
+[19:22 --> 19:27] As Julian was trying to rally the men on one side, they were attacked from another.
+[19:27 --> 19:32] When he rushed over to rally the men on that side, they were attacked from a third side.
+[19:32 --> 19:39] In the midst of all this rushing around, Julian had neglected to don his breastplate.
+[19:39 --> 19:43] When word came of the attack, he had simply dashed off to lead his men.
+[19:43 --> 19:48] Admirable, but more than a little short-sighted.
+[19:48 --> 19:52] He was on his horse in the thick of the fray on that third front when a spear came flying
+[19:52 --> 19:58] out of the Persian line and struck Julian in the side.
+[19:58 --> 20:02] Marcellinus says specifically that the spear grazed the emperor's arm and then lodged
+[20:02 --> 20:05] itself in his liver.
+[20:05 --> 20:09] Julian tried to remove the spear, but the blade was too long to get a firm grip, and
+[20:09 --> 20:13] he cut his hands in the process.
+[20:13 --> 20:17] Weak from shock and a loss of blood, the emperor fainted, then regained consciousness
+[20:17 --> 20:23] long enough to announce that his wound was not mortal, and then he fainted again.
+[20:23 --> 20:27] Julian was then rushed away from the scene and his doctor immediately began to save the
+[20:27 --> 20:32] emperor's life.
+[20:32 --> 20:38] In his biography of Julian the Apostate, the last pagan, Adrian Murdoch spends a good amount
+[20:38 --> 20:43] of time at the end of the book trying to parse through the different versions of Julian's
+[20:43 --> 20:48] death to try and reach some tentative conclusion.
+[20:48 --> 20:53] Though Marcellinus is usually deferred to when it comes to Julian, Murdoch argues that
+[20:53 --> 21:01] the soldier historians believe that the emperor died on the same day he was wounded is suspect.
+[21:01 --> 21:05] First of all, the cause of Julian's death is described as strangulation rather than
+[21:05 --> 21:09] something more directly related to the wound.
+[21:09 --> 21:16] This points to an infection, and infection is going to need time to build up.
+[21:16 --> 21:22] The reason this even matters is because as he lay dying, Julian, surprisingly and not
+[21:22 --> 21:28] a little bit recklessly, never did name an heir.
+[21:28 --> 21:34] In Marcellinus' version, Julian spends his final evening engaged in some romantic deathbed
+[21:34 --> 21:40] philosophizing, but he never even hints at who ought to lead the army and the empire
+[21:40 --> 21:44] when he inevitably dies.
+[21:44 --> 21:49] This seems so ridiculously short-sighted that it calls the whole version of the story into
+[21:49 --> 21:50] question.
+[21:50 --> 21:56] If, however, Julian spent three days in bed slowed by a wound that did not necessarily
+[21:56 --> 22:02] look like it was killing him until, whoops, it killed him, then the fact that he did not
+[22:03 --> 22:06] name an heir makes sense.
+[22:06 --> 22:12] Put simply, the emperor did not believe he was dying and so he did not name a successor.
+[22:12 --> 22:20] This is why I tend to believe that Julian died on June 29, 363 AD, two days after receiving
+[22:20 --> 22:23] the mortal wound.
+[22:23 --> 22:31] Either way though, he was 31 years old and had ruled the empire for just a year and a
+[22:32 --> 22:37] Julian's short reign is unique in Roman history.
+[22:37 --> 22:42] Previous emperors had initiated fundamental changes to the way the empire operated and
+[22:42 --> 22:47] previous emperors had of course served very short terms of office, but never had they
+[22:47 --> 22:52] done both at the same time.
+[22:52 --> 22:58] Julian had tried to pull off a system-wide overhaul of the empire that, had it succeeded,
+[22:58 --> 23:04] would have made his reign a key hinge point on the imperial timeline.
+[23:04 --> 23:08] Maybe his overhaul would not have been as grand as, say, Augustus' or Diocletian's
+[23:08 --> 23:14] had been, but it certainly might have had the power to diminish the prominent part Constantine
+[23:14 --> 23:17] plays in the history of the western world.
+[23:17 --> 23:25] Perhaps it might have even served as a bookend to an anomalous Christian era for the empire.
+[23:25 --> 23:29] But the other emperors who dreamed big had the luck to serve a long time and see their
+[23:29 --> 23:34] reform cemented into the bedrock of the system.
+[23:34 --> 23:38] Julian dreamed big, and then he died young.
+[23:38 --> 23:44] I honestly think that in terms of ambition of vision and brevity of rule, the only one
+[23:44 --> 23:51] who matches Julian is, and I know this is going to sound crazy, Elagabalus, who, like
+[23:52 --> 23:57] tried to reinvent Roman religion, but died before his reforms could firmly take root
+[23:57 --> 23:59] in the system.
+[23:59 --> 24:06] However, other than that superficial similarity, there is really nothing to connect the half-mad
+[24:06 --> 24:12] teenager Elagabalus to the genuinely conscientious Julian, so I really think that Julian the
+[24:12 --> 24:20] Apostate is a unique figure in Roman history, which makes him interesting, which means that
+[24:20 --> 24:25] we will never stop poring over his year and a half in office and wondering what might
+[24:25 --> 24:29] have been.
+[24:29 --> 24:35] All that said, however, in June of 363, the Roman army did not have the luxury of pondering
+[24:35 --> 24:39] what Julian's place in history was going to be.
+[24:39 --> 24:44] They were stranded in enemy territory, surrounded, and flailing.
+[24:44 --> 24:48] The emperor was dead, and no heir was in place.
+[24:48 --> 24:53] In other words, disaster loomed.
+[24:53 --> 25:00] Next week, Julian's officers will attempt to pick up the pieces and avert said disaster.
+[25:00 --> 25:04] But given the circumstances, and the fact that the legitimate imperial line was now
+[25:04 --> 25:09] suddenly extinct, well, in trying to solve the problem of what they were going to do
+[25:09 --> 25:15] next, they may have wound up simply swapping one disaster for another.

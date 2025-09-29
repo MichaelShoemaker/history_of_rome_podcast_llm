@@ -1,0 +1,312 @@
+# 20100510 - 093- The Marcomannic Wars
+# Detected language: en
+# Duration: 1492.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to the History of Rome, episode 93, The Marcomannic Wars.
+[00:14 --> 00:17] The victory over Parthia had been a double-edged sword.
+[00:17 --> 00:21] On the one hand, Rome had proven to their enemies that, whether or not the rumors were
+[00:21 --> 00:27] true that the empire was slipping into decline, for the moment, it was still the premier political,
+[00:27 --> 00:31] economic, and military force in the Western world.
+[00:31 --> 00:36] But on the other hand, the legions of Avidius Cassius, legions that had been so decisive
+[00:36 --> 00:42] in proving that point, had brought the devastating Antonine Plague back home with them.
+[00:42 --> 00:47] Thus, Rome's so recently reestablished aura of invincibility was immediately shattered
+[00:47 --> 00:53] by an epidemic that hastened the pace of the empire's decline.
+[00:53 --> 00:58] In the end, it seems that labor shortages, famines, and undermanned legions were the
+[00:58 --> 01:04] only permanent spoils of war won by Rome in the conflict with Parthia.
+[01:04 --> 01:07] While these ill effects were not so immediately felt that the triumph over Parthia could be
+[01:07 --> 01:13] called a Pyrrhic victory, the conquest of the East definitely wound up a close cousin,
+[01:13 --> 01:21] as it was, after all, costly to the point of negating all benefit.
+[01:21 --> 01:25] Marcus had spent the years of the Parthian War in Rome, running every other part of the
+[01:25 --> 01:28] empire, while hostilities unfolded in the East.
+[01:28 --> 01:33] I didn't mention this last week, but just as the new emperors were forced to deal with
+[01:33 --> 01:37] the immediate crisis of a Parthian invasion of Armenia, they were also forced to deal
+[01:37 --> 01:41] with two other crises right in their own backyard.
+[01:41 --> 01:47] In 162, after less than a year on the throne, the Tiber flooded, causing extensive damage
+[01:47 --> 01:52] to the capital and triggering catastrophic food shortages.
+[01:52 --> 01:56] Hunger and panic gripped the city, and both Marcus and Lucius, who was still in Italy
+[01:56 --> 02:02] at the time, had to scramble to initiate rescue, relief, and cleanup efforts.
+[02:02 --> 02:06] Both men received high marks for their response, and the suffering of the general population
+[02:06 --> 02:11] was kept as low as a disaster of that magnitude would allow.
+[02:11 --> 02:15] The other crisis that struck Rome in the early years of Marcus' reign was neither immediately
+[02:15 --> 02:21] recognized nor, frankly, even suspected would become a crisis.
+[02:21 --> 02:26] In August 161, Faustina gave birth to twins.
+[02:26 --> 02:31] As so often happened with Roman children, one of the two, a boy named Titus, died in
+[02:31 --> 02:35] 165, having just barely emerged from infancy.
+[02:35 --> 02:40] This was a tragedy, but in the grand scheme of things, only a minor one.
+[02:40 --> 02:47] The far greater tragedy was that the other twin, a boy named Commodus, survived.
+[02:47 --> 02:51] But that time bomb wasn't set to go off for another 20 years, and for now, the emperor
+[02:51 --> 02:56] and the empire seemed blessed that this healthy young boy was managing to thrive in a world
+[02:56 --> 03:01] full of disease, famine, and war.
+[03:01 --> 03:06] During the early 160s then, while Rome was dealing with a series of disasters both manifest
+[03:06 --> 03:10] and dormant, the challenge that would consume the second half of Marcus' reign was just
+[03:10 --> 03:14] beginning to come into its own.
+[03:14 --> 03:18] North of the Danube, the disparate German tribes were beginning to rethink their relationship
+[03:18 --> 03:23] with each other and question their greater relationship with Rome.
+[03:23 --> 03:27] After the massacre in the Tudiburg Forest, the Romans had successfully prevented Arminius
+[03:27 --> 03:32] from uniting all the German tribes into a single force by exploiting the ascendant German
+[03:32 --> 03:36] leaders' rivalry with the Marcomannic king Morobidus.
+[03:36 --> 03:41] Famously, when Arminius sent Varus' head to Morobidus in an attempt to persuade the
+[03:41 --> 03:46] Macromani to join him, the already co-opted Morobidus sent the head along to Augustus
+[03:46 --> 03:49] for burial.
+[03:49 --> 03:53] Without the necessary support from the Marcomani, by far the strongest single tribe in southwest
+[03:53 --> 03:59] Germany, Arminius' coalition eventually collapsed and the Romans did not face another serious
+[03:59 --> 04:04] threat from beyond the frontier for a century and a half.
+[04:04 --> 04:09] The basic Roman strategy of divide and conquer was never on better display than in Germany
+[04:09 --> 04:12] during the years of the early Principate.
+[04:12 --> 04:17] As I mentioned while discussing the construction of the Lymus Germanicus, the Roman walls were
+[04:17 --> 04:23] not built to radically cut off quote civilization from quote the barbarians, but rather they
+[04:23 --> 04:28] were designed to control trade, limit available points of entry and exit, and serve as a base
+[04:29 --> 04:33] from which to project Roman power north and east.
+[04:33 --> 04:38] Roman interaction with the tribes was extensive and robust, and at all times, along with the
+[04:38 --> 04:44] economic exploitation, a political hand was kept stirring the pot and managing the loyalties
+[04:44 --> 04:46] of the Germans.
+[04:46 --> 04:50] Not only were some tribes given advantages over other tribes to keep their interests
+[04:50 --> 04:56] divergent, but elites within those favored tribes were often further enticed and divided
+[04:56 --> 05:00] from their own people, creating a condition where the tribes were divided from each other
+[05:00 --> 05:04] both internally and externally.
+[05:04 --> 05:09] Popular uprisings were suppressed by their own leadership, and hostile tribes were kept
+[05:09 --> 05:14] in check by their Roman allied neighbors, all without the Romans really having to lift
+[05:14 --> 05:16] a finger.
+[05:16 --> 05:21] These deft political machinations lie at the heart of what has occasionally and poetically
+[05:21 --> 05:24] been dubbed the Roman genius.
+[05:24 --> 05:29] Along with the discipline of the legions, the unparalleled skill of their engineers,
+[05:29 --> 05:33] the Roman ability to politically manipulate their enemies into submission was one of the
+[05:33 --> 05:37] great keys to the success of the empire.
+[05:37 --> 05:42] But the times, they were a changing.
+[05:42 --> 05:46] When the war with Parthia erupted, the Romans were forced to redeploy the legions to meet
+[05:46 --> 05:48] the threat.
+[05:48 --> 05:54] This meant that while the east was reinforced, the Rhine and Danube frontiers were depleted.
+[05:54 --> 05:58] The Romans were forced to rely on locally raised militias rather than proper legions
+[05:58 --> 06:02] to maintain peace along the border, and it did not take long for the Germans to notice
+[06:02 --> 06:04] the shift.
+[06:04 --> 06:09] Though the Romans had for years been able to successfully buy off the tribal leadership,
+[06:09 --> 06:13] that did not mean that if there was more to get, that the various kings wouldn't jump
+[06:13 --> 06:16] at the chance to grab it.
+[06:16 --> 06:21] Some wanted unrestricted access to Roman markets, that is, exemption from import and export
+[06:21 --> 06:23] taxes.
+[06:23 --> 06:27] Some simply wanted increased cash tributes to keep their tribes loyal, while others wanted
+[06:27 --> 06:33] the whole hog, the right to migrate south into the empire proper where, in time, they
+[06:33 --> 06:37] would become full-fledged citizens.
+[06:37 --> 06:41] With Roman attention diverted east, this might prove the perfect opportunity for the Germans
+[06:41 --> 06:46] to press for greater concessions.
+[06:46 --> 06:51] Against this backdrop, it is possible, though not a confirmed fact, that the Marcomannic
+[06:51 --> 06:57] king Balamar, technically a Roman appointee, began to sow the seeds for a combined German
+[06:57 --> 07:00] campaign against the Romans.
+[07:00 --> 07:05] There were dozens of tribes of various sizes living in and around the Roman border, and
+[07:05 --> 07:10] getting them all to act in concert with one another was like herding cats, but Balamar
+[07:10 --> 07:16] put out his feelers and began to get the sense that maybe he could cobble something together.
+[07:16 --> 07:21] Though his task was made nearly impossible by the years of inter-tribal enmity the Romans
+[07:21 --> 07:27] had stoked, it seems that by the time the Parthian campaign was wrapping up, Balamar
+[07:27 --> 07:31] had built up some kind of coalition that was willing to press the Romans from different
+[07:31 --> 07:36] sides at different times to achieve unified success.
+[07:36 --> 07:43] As I mentioned last time, in 166 or 167, a combined army of about 6,000 Germans broke
+[07:43 --> 07:47] across the border into Pannonia, causing all manner of havoc.
+[07:47 --> 07:52] They were eventually driven back across the Danube by a locally raised militia, but the
+[07:52 --> 07:57] surprise attack put the Romans on notice that there was renewed offensive energy brewing
+[07:57 --> 07:59] across the border.
+[07:59 --> 08:04] So the governor of Pannonia, Marcus Bassus, called together the heads of 11 German tribes
+[08:04 --> 08:09] for a summit mediated by Balamar, who was, at that point, still acting officially as
+[08:09 --> 08:15] an ally of Rome, and who had offered magnanimously to help smooth over the difficulties he himself
+[08:15 --> 08:17] was likely creating.
+[08:17 --> 08:22] The upshot of the talks was that the Marcomani agreed to take the lead in maintaining the
+[08:22 --> 08:24] good order of their countrymen.
+[08:24 --> 08:29] Under the guise of this diplomatic peacekeeping mission, Balamar was able to secretly shore
+[08:29 --> 08:34] up support for his planned invasion of the empire.
+[08:34 --> 08:40] The same year as the summit, possibly at Balamar's order, possibly with his blessing, or possibly
+[08:40 --> 08:46] simply by pure coincidence, a combined force of vandals and a Sarmatian tribe called, if
+[08:46 --> 08:52] I'm even pronouncing this correctly, the Azeegis, invaded Moesia, killed the Roman governor,
+[08:52 --> 08:57] and then penetrated as far south as Greece before retreating back across the border laden
+[08:57 --> 09:00] with treasure.
+[09:00 --> 09:04] Of the two, the nomadic Azeegis would prove to be the more permanent threat.
+[09:04 --> 09:09] Ironically, they had actually been brought into the dangerous territory they occupied
+[09:09 --> 09:14] between the Danube and Dacia by Trajan when they agreed to act as loyal clients during
+[09:14 --> 09:17] his war with the Kebalists.
+[09:17 --> 09:21] But once the war was over and the Azeegis found their migration routes blocked and hampered
+[09:21 --> 09:26] by the Romans, relations quickly deteriorated.
+[09:26 --> 09:30] Though they were technically classified as a client of Rome, the Azeegis were more or
+[09:30 --> 09:35] less simply biding their time through the reigns of Hadrian and Antoninus, waiting for
+[09:35 --> 09:39] an opportunity to reassert their true independence.
+[09:39 --> 09:44] With the war in the east sapping Roman strength and Balamar ready to press his case further
+[09:44 --> 09:49] west, opportunity seemed to be knocking.
+[09:49 --> 09:54] Though there had now been two successful invasions of imperial territory, the Romans had to delay
+[09:54 --> 09:58] whatever punitive measures they were planning as they watched the Antonine plague suck the
+[09:58 --> 10:01] life out of the legions.
+[10:01 --> 10:07] But by the end of 168, Marcus managed to raise two new legions and he struck north with Lucius
+[10:07 --> 10:13] where the co-emperors hoped to reinforce and reorganize the Danube border.
+[10:13 --> 10:19] At the outset, Marcus was probably planning to simply set the old order back to zero.
+[10:19 --> 10:24] But rather than falling back into their divided and submissive state, the Germans, led initially
+[10:24 --> 10:31] by Balamar's Marcomannic coalition, instead turned the heat up, and just like that the
+[10:31 --> 10:34] last twelve years of Marcus' reign was written.
+[10:34 --> 10:38] War along the Danube for the rest of his natural life.
+[10:38 --> 10:45] Lucius, meanwhile, escaped what fate had in store for Marcus by dying in early 169, which
+[10:45 --> 10:51] was probably not such a bad thing for him as tent life along the frozen Danube was nothing,
+[10:51 --> 10:57] and I mean nothing, like the pleasures he was used to enjoying in Antioch and Rome.
+[10:57 --> 11:03] With Lucius dead and buried, Marcus returned to the Danube in the autumn of 169, this time
+[11:03 --> 11:09] with his son-in-law, the eminently capable Claudius Pompeianus by his side.
+[11:09 --> 11:12] While they were making preparations for a campaign across the river to assert Roman
+[11:12 --> 11:18] order, the Azoge's invaded Dacia, captured the gold mines, moved south into Moesia, and
+[11:18 --> 11:21] killed yet another governor.
+[11:21 --> 11:26] Marcus, naturally, ordered the legions to counter the invasion, but as soon as they
+[11:26 --> 11:31] moved forward, other German tribes launched their own raids into Roman territory, the
+[11:31 --> 11:36] most successful of which slashed through the Balkans before reaching and destroying the
+[11:36 --> 11:39] ancient and sacred temple of the Elysian Mysteries.
+[11:39 --> 11:45] Suddenly, Germans were crossing back and forth across the border at will, plundering whatever
+[11:45 --> 11:48] they could find before heading back home.
+[11:48 --> 11:53] The Romans scrambled to plug all the leaks, but all of this was merely a prelude for the
+[11:53 --> 11:58] great flood Balomar had planned.
+[11:58 --> 12:03] West of the great bend in the Danube, where the river begins its journey south, Balomar
+[12:03 --> 12:08] assembled 20,000 men from the tribes he had so carefully cultivated and led them into
+[12:08 --> 12:11] the Roman province of Noricum.
+[12:11 --> 12:15] They clashed with the legionary garrison stationed at Carrintum and blew the outnumbered Romans
+[12:15 --> 12:17] out of the water.
+[12:17 --> 12:21] Suddenly, the path to Italy was clear.
+[12:21 --> 12:28] Leaving behind a contingent to ransack Noricum, Balomar led the rest of his army southwest.
+[12:28 --> 12:33] Foreshadowing future disasters for Rome, the Germans made quick time using the well-maintained
+[12:33 --> 12:38] Roman roads, and before any reasonable response could be initiated, they were banging at the
+[12:38 --> 12:41] gates of Aquileia.
+[12:41 --> 12:45] This was obviously now a crisis of humongous proportions.
+[12:45 --> 12:51] No foreign invader had set foot in Italy since 101 BC, when Gaius Marius had defeated the
+[12:51 --> 12:57] combined army of the Cimbri and the Teutones, but now, almost out of nowhere, a German army
+[12:57 --> 13:01] was wreaking havoc in the home province.
+[13:01 --> 13:05] Worse yet for the Romans, a relief army sent under the command of the Praetorian prefect
+[13:05 --> 13:11] Furius Victorianus was defeated upon arrival, and Victorianus himself was killed in the
+[13:11 --> 13:14] fighting.
+[13:14 --> 13:20] But as the Germans had no siege works, Aquileia held, and a second relief force, this time
+[13:20 --> 13:26] led by Pompeianus and his trusty lieutenant Pertinax, was able to pry Balomar from his
+[13:26 --> 13:31] position and force him to retreat back into German territory.
+[13:31 --> 13:36] Marcus and the Romans spent the rest of 170 launching armies across the Danube on multiple
+[13:36 --> 13:41] fronts in an attempt to remind the Germans who was boss.
+[13:41 --> 13:44] But the results of these actions were mixed at best.
+[13:44 --> 13:49] The Germans had been purged from the empire proper, but the tribes were able to deal multiple
+[13:49 --> 13:54] defeats to the Romans in skirmishes and battles north of the frontier.
+[13:54 --> 13:59] By the end of the year, badly shaken, but at least having reasserted mastery of their
+[13:59 --> 14:04] own domain, Marcus opened negotiations with the various tribes to see what could be done
+[14:04 --> 14:08] about re-isolating them from one another.
+[14:08 --> 14:13] Through a combination of carrots and sticks, Marcus managed to break both the Aziges and
+[14:13 --> 14:19] the Quadi, one of the other seriously badass German tribes, from Balomar's coalition,
+[14:19 --> 14:24] with both promising neither to fight the Romans themselves nor lend support to those Germans
+[14:24 --> 14:26] who did.
+[14:26 --> 14:31] The Romans were able to further fracture German unity, as lesser tribes began to get the sense
+[14:31 --> 14:34] that if they didn't cut their own deal with the empire, that they would be left out in
+[14:34 --> 14:39] the cold when the big dogs decided to make peace.
+[14:39 --> 14:43] Not the diplomacy was the only tool working in the Roman kit.
+[14:43 --> 14:48] In 171, a mid-sized tribe was taken out of the fighting when their chief was killed in
+[14:48 --> 14:55] single combat by a rising legionary general named Valerius Maximianus.
+[14:55 --> 15:00] This duel not only had the immediate effect of pacifying that one particular tribe, but
+[15:00 --> 15:04] its propaganda value to the Romans was enormous.
+[15:04 --> 15:09] It was an exploit straight out of Livy's tales of Rome's early heroes, and Marcus was
+[15:09 --> 15:16] quick to spread the tale of Maximianus' victory to friend and foe alike.
+[15:16 --> 15:20] With the Quadi and Aziges bought off, and other lesser tribes beginning to question
+[15:20 --> 15:26] the fancy tales Balomar had spun about Roman weakness, Marcus pressed forward and led the
+[15:26 --> 15:32] legions across the Danube on a punitive campaign in 172 to punish those Germans who continued
+[15:32 --> 15:34] to resist.
+[15:34 --> 15:38] Though we know little about the details of the campaign, we know that Balomar and the
+[15:38 --> 15:43] Marco Mani were humbled enough that peace terms were agreed to that included the return
+[15:43 --> 15:49] of Roman prisoners of war and the Marco Mani respecting a ten-mile neutral zone north of
+[15:49 --> 15:51] the Danube.
+[15:51 --> 15:54] Marcus thought enough of the results of his efforts that coins from the next year bore
+[15:54 --> 16:01] the happy slogan, subjugated Germany, and he took for himself the title Germanicus.
+[16:01 --> 16:05] But this was not the end of Marcus' adventures along the Danube.
+[16:05 --> 16:09] Not by a long shot.
+[16:09 --> 16:14] Watching the Romans gain ground provoked fear among both the Aziges and the Quadi that perhaps
+[16:14 --> 16:18] they had come to terms too quickly.
+[16:18 --> 16:23] The Aziges in particular worried about noise being made by Marcus, that he felt the Eastern
+[16:23 --> 16:28] nomads, who were not Germans per se, were too dangerous to tolerate in any fashion and
+[16:28 --> 16:34] that he considered outright genocide to be the best policy for the Romans to pursue.
+[16:34 --> 16:39] The Aziges, finding themselves considered not an equal power to be dealt with honestly,
+[16:39 --> 16:44] but a menace in need of extermination, decided to resume hostilities.
+[16:44 --> 16:49] But now fighting alone rather than as the part of a larger coalition, the Aziges were
+[16:49 --> 16:54] defeated by the Romans in battle and were forced to withdraw or face the kind of genocidal
+[16:54 --> 16:57] purge Marcus seemed to be planning.
+[16:57 --> 17:03] This defeat of the Aziges prompted rank-and-file Quadi to revolt against their leadership,
+[17:03 --> 17:07] sell the Roman-approved king, and send money and men to help the Aziges in their struggle
+[17:07 --> 17:09] for survival.
+[17:09 --> 17:15] Having already been accused by legionary officers of offering sanctuary to Germans still fighting
+[17:15 --> 17:21] Rome, this latest affront was too much to bear, and as quickly as they had ceased hostilities,
+[17:21 --> 17:23] war with the Quadi was back on.
+[17:23 --> 17:25] And not just war.
+[17:25 --> 17:30] The combined effect of their clandestine support for Rome's enemies and this latest overt
+[17:30 --> 17:37] treaty convinced Marcus that the very existence of the Quadi, too, was too dangerous to tolerate.
+[17:37 --> 17:42] More and more, this war ceased to be about restoring the old border stability and began
+[17:42 --> 17:51] to coalesce as a genocidal campaign to eliminate huge portions of the German population.
+[17:51 --> 17:56] In late 173, a combined force of Quadi and Aziges raided Pannonia, but as they made their
+[17:56 --> 18:02] way back across the frozen Danube, they were surprised by a Roman army led by Marcus personally,
+[18:02 --> 18:08] who in a very short time had transformed himself from a bookish philosopher into a highly effective
+[18:08 --> 18:11] leader of men.
+[18:11 --> 18:16] That is not to say that he ceased his intellectual reflections, just that he refused to allow
+[18:16 --> 18:20] his natural tendency towards intellectual isolation to get in the way of the fact that
+[18:20 --> 18:25] right now Rome needed a general, not a philosopher.
+[18:25 --> 18:30] But when he wasn't consumed with running his various campaigns, Marcus did steal time
+[18:30 --> 18:35] for himself, and it was during the war with the Quadi in particular that he began to write
+[18:35 --> 18:41] and compile what would become known as the Meditations, a book mostly comprising self-reflective
+[18:41 --> 18:46] aphorisms designed to help Marcus himself deal with the immense burden he was forced
+[18:46 --> 18:47] to bear.
+[18:47 --> 18:55] I hope to elaborate on this key addition to the Western canon a bit more next week.
+[18:55 --> 19:01] In 174, Marcus ordered a two-pronged assault across the Danube, one aiming at the Aziges
+[19:01 --> 19:07] led by Marcus himself, and the other aiming at the Quadi led by Pertinax, who was fast
+[19:07 --> 19:13] making a name for himself as one of the empire's key go-to guys.
+[19:13 --> 19:19] The two campaigns of 174 are notable for providing the Romans with the two great miracles of
+[19:19 --> 19:20] the war.
+[19:20 --> 19:26] Two miracles which cemented in the imaginations of the general Roman citizenry the notion
+[19:26 --> 19:31] that their elitist, philosophic, and perhaps not entirely liked emperor Marcus Aurelius
+[19:31 --> 19:38] was in fact a gift sent by the gods to save Rome from the German menace.
+[19:38 --> 19:42] The first miracle came while Marcus was campaigning against the Aziges.
+[19:42 --> 19:48] The Romans were being pressed hard and defeat seemed imminent when suddenly the clouds darkened
+[19:48 --> 19:52] and a lightning bolt struck and destroyed the German siege works.
+[19:52 --> 19:58] Terrified, the Azige line collapsed and Marcus rolled to victory.
+[19:58 --> 20:03] This became known as the lightning miracle.
+[20:03 --> 20:08] The second miracle came about a month later while Pertinax fought the Quadi.
+[20:08 --> 20:12] The Romans found themselves surrounded by a much larger Quadi force and though they
+[20:12 --> 20:18] were able to temporarily resist attack, there seemed to be no escape.
+[20:18 --> 20:22] Compounding the danger was the fact that the Quadi had effectively blocked Roman access
+[20:22 --> 20:29] to fresh water and in the heat the legions were becoming dehydrated.
+[20:29 --> 20:33] With Roman morale sinking to its breaking point, the Quadi were about to launch what
+[20:33 --> 20:39] was shaping up to be a massacre when suddenly the clear skies clouded over and began pouring
+[20:39 --> 20:41] rain.
+[20:41 --> 20:46] The demoralized legions suddenly sprang back to life, catching water in their shields and
+[20:46 --> 20:50] helmets and drinking deeply from this sudden gift from the gods.
+[20:50 --> 20:56] The Quadi, recognizing that they needed to act fast, closed in on the Romans, many of
+[20:56 --> 21:01] whom were so busy drinking that they forgot to watch out for the enemy.
+[21:01 --> 21:06] The ensuing battle was a mass of blood, mud, and rain water, but the sudden turn in the
+[21:06 --> 21:11] weather proved decisive as the Quadi were driven back as much by hail, thunder, and
+[21:11 --> 21:15] lightning as by any Roman sword.
+[21:15 --> 21:19] This became known as the Rain Miracle.
+[21:19 --> 21:25] Though neither miracle led to decisive victory, momentum had clearly shifted to the Romans
+[21:25 --> 21:30] and though the rest of the year saw nothing but an inglorious series of hard-fought brutal
+[21:30 --> 21:36] skirmishes, Roman morale remained high while German morale plunged.
+[21:36 --> 21:42] By 175 the Quadi were ready to settle, convinced now more than ever that battling the favored
+[21:42 --> 21:46] by the gods Romans was pointless.
+[21:46 --> 21:50] Marcus granted them the same peace he had offered the Marco Mani, though he made a point
+[21:50 --> 21:55] of simultaneously lifting some of the imposed burdens on the Marco Mani as a reward for
+[21:55 --> 21:58] keeping out of the recent fighting.
+[21:58 --> 22:04] The Ezigis held out for a little while longer, but finding themselves totally isolated, further
+[22:04 --> 22:06] hostilities seemed pointless.
+[22:06 --> 22:12] They sent envoys to Marcus requesting terms, with the emperor held to his genocidal line
+[22:12 --> 22:15] and refused to negotiate surrender.
+[22:15 --> 22:22] The Ezigis were slated for extinction, nothing more and nothing less.
+[22:22 --> 22:27] But then, just as the Romans had been delivered by a sudden twist of fate, so too were the
+[22:27 --> 22:29] Ezigis.
+[22:29 --> 22:35] Just as Marcus was closing in for the kill, word came of a crisis in the east.
+[22:35 --> 22:40] Perhaps spurred by erroneous reports of the emperor's death, Ovidius Cassius, hero of
+[22:41 --> 22:46] the Parthian War, who had been given the governorship of Syria as a reward for his service, allowed
+[22:46 --> 22:51] himself to be hailed emperor by his troops in mid-175.
+[22:51 --> 22:56] The other eastern legions followed suit, and just like that, seemingly without cause or
+[22:56 --> 23:04] warning, Cassius found himself leading the whole eastern empire in revolt against Marcus.
+[23:04 --> 23:08] The Syrian general could perhaps be excused for acting prematurely in a bid to snatch
+[23:08 --> 23:12] power in the vacuum Marcus's death would have left at the time.
+[23:12 --> 23:16] His chosen Archimedes was still only fourteen years old.
+[23:16 --> 23:21] But in persisting with his revolt, even after he learned Marcus was alive and well, Cassius
+[23:21 --> 23:25] became a full-blown enemy of the state.
+[23:25 --> 23:29] Marcus was forced to set aside whatever plans he had for sealing the deal along the Danube
+[23:29 --> 23:34] and rush east to deal with Cassius's revolt head on.
+[23:34 --> 23:39] This sudden domestic eruption was nothing short of, well, a miracle for the Azeegis,
+[23:39 --> 23:45] whose peace envoys now found themselves returning home with favorable terms.
+[23:45 --> 23:49] They had to return their prisoners of war and provide about 8,000 horsemen to act as
+[23:49 --> 23:55] auxiliaries for the legions, but other than that, they would be left alone.
+[23:55 --> 24:03] Rather than facing extinction, the Azeegis found themselves welcomed into the Roman fold.
+[24:03 --> 24:08] Next week, we'll follow Marcus east as he attempts to quell the totally unexpected
+[24:08 --> 24:10] eastern revolt.
+[24:10 --> 24:15] The breathing space his absence offered the Germans will allow them to regroup for a second
+[24:15 --> 24:19] round of fighting that will force Marcus to return to the Danube and attempt to finish
+[24:19 --> 24:24] a job he had come so tantalizingly close to finishing already.

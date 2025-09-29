@@ -8,7 +8,7 @@ from faster_whisper import WhisperModel
 # CONFIG
 # -------------------------
 MODEL_SIZE = "medium"
-TRANSCRIPTS_DIR = "./gpu_transcripts"
+TRANSCRIPTS_DIR = "./all_transcripts"
 EPISODES_DIR = "history_of_rome_episodes"
 
 # Ensure output directory exists

@@ -1,0 +1,332 @@
+# 20101213 - 119- Restitutor Orbis
+# Detected language: en
+# Duration: 1572.08 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:15] Hello, and welcome to the History of Rome, episode 119, Restituor Orbis.
+[00:15 --> 00:19] After a grueling march across the Empire and an even more grueling summer campaign in the
+[00:19 --> 00:27] desert, Aurelian finally defeated Palmyra and captured Queen Zenobia in late 272 AD.
+[00:27 --> 00:31] Under different circumstances, a victory of this magnitude might have earned the Emperor
+[00:31 --> 00:36] a rest from his labors, but no such luck.
+[00:36 --> 00:40] No sooner had Palmyra fallen than messengers arrived with the news that the Carpi, a Germanic
+[00:40 --> 00:46] tribe situated north of the Danube, had taken advantage of the Emperor's eastern campaign
+[00:46 --> 00:50] and were now flooding down into Moesia and Thrace.
+[00:50 --> 00:54] Leaving behind a garrison under the command of a lieutenant named Marcellinus, the indefatigable
+[00:54 --> 01:00] Aurelian gathered up his equally indefatigable army and marched back to the Danube.
+[01:00 --> 01:04] An Emperor's work is never done.
+[01:04 --> 01:08] Once Aurelian had left Palmyra though, some of the leaders of the defeated city began
+[01:08 --> 01:10] to regret their surrender.
+[01:10 --> 01:14] Apparently, the ambitions of these leading citizens was only stifled when the Emperor
+[01:14 --> 01:17] was right there on top of them.
+[01:17 --> 01:21] Now that he wasn't around, it was time to go back to dreaming about an independent Palmyrene
+[01:21 --> 01:23] kingdom again.
+[01:23 --> 01:28] These leading men quickly joined in a conspiracy that centered around Zenobia's youngest son,
+[01:28 --> 01:33] still basically an infant, but the best they could do on short notice.
+[01:33 --> 01:37] The men of Palmyra grew bold enough in their plans that they actually approached Marcellinus,
+[01:37 --> 01:42] the Roman garrison commander, offering him great rewards if he and his men joined their
+[01:42 --> 01:44] cause.
+[01:44 --> 01:48] The savvy Marcellinus told the Palmyrenes that this was a very tempting offer and that
+[01:48 --> 01:53] he would surely take some time to think the matter through fully.
+[01:53 --> 01:56] The Palmyrenes left thinking that a nudge in the right direction is all it would take
+[01:56 --> 01:58] to flip Marcellinus.
+[01:58 --> 02:03] Marcellinus left thinking that he better send a message to Aurelian right away so that the
+[02:03 --> 02:08] Emperor could come back and crush these ungrateful wretches.
+[02:08 --> 02:12] Aurelian was engaged along the Danube in an operation that required the presence of the
+[02:12 --> 02:16] Imperial army, but not much more than that, when he received the note from Marcellinus
+[02:16 --> 02:18] about the conspiracy.
+[02:18 --> 02:22] The garrison commander assured Aurelian that he had bought the Emperor some time by pretending
+[02:22 --> 02:28] to consider joining the revolt, but that his little game would not play forever.
+[02:28 --> 02:37] Aurelian sighed, packed up his army, and marched back to Palmyra in a foul mood.
+[02:37 --> 02:40] Under the impression that the Emperor was far away and fully engaged with a Germanic
+[02:40 --> 02:48] invasion, the Palmyrenes shown themselves to be simultaneously overconfident and ill-prepared.
+[02:48 --> 02:53] While they lackadaisically got ready for war, they made contact with allies in Alexandria
+[02:53 --> 02:58] and induced a faction there to revolt in advance of the new Palmyrene offensive, which they
+[02:58 --> 03:02] all thought they had plenty of time to prepare for.
+[03:02 --> 03:07] It came as a mortal shock to everyone then, perhaps even Marcellinus himself, when Aurelian
+[03:07 --> 03:12] and his army appeared on the horizon right at the beginning of spring 273.
+[03:12 --> 03:18] A half-hearted effort was made to defend Palmyra, but nothing was in place and no one was ready.
+[03:18 --> 03:26] Aurelian took the city without a fight and once again marched in as its conqueror.
+[03:26 --> 03:32] As in his previous conquest, Aurelian showed himself unwilling to engage in a bloody free-for-all,
+[03:32 --> 03:37] and after executing everyone associated with the revolt, he let the rest of the citizens
+[03:37 --> 03:43] live, but he didn't leave them much to live with.
+[03:43 --> 03:48] This time, the emperor's clemency extended to living things only, and he ordered his
+[03:48 --> 03:51] men to level the city.
+[03:51 --> 03:55] A few of the more important religious buildings were left untouched and still sit in the Syrian
+[03:55 --> 04:00] desert to this day, but the rest of the city was destroyed.
+[04:00 --> 04:05] Aurelian had no intention of making this trip to the desert a third time.
+[04:05 --> 04:10] To further guarantee this, the emperor rerouted all east-west trade routes so that they bypassed
+[04:10 --> 04:16] the city, leaving Palmyra economically and existentially strangled.
+[04:16 --> 04:21] Its citizens drifted off as refugees to start new lives in new towns, and the great oasis
+[04:21 --> 04:27] city in the desert was no more.
+[04:27 --> 04:31] Aurelian then turned on Alexandria and quickly brought an end to the revolt there that had
+[04:31 --> 04:37] neither the men nor the resources to actually work without Palmyrian assistance.
+[04:37 --> 04:42] As with Palmyra, Aurelian did not take kindly to the Alexandrians revolting again so soon
+[04:42 --> 04:45] after being bought back into the Roman fold.
+[04:45 --> 04:50] He let his men off the leash and allowed them to plunder the city with savage abandon.
+[04:50 --> 04:55] It was during this punitive sacking that the royal quarter, which either contained or had
+[04:55 --> 05:00] contained the library of Alexandria, was burned to the ground, leading some to lay the destruction
+[05:00 --> 05:04] of that great storehouse of knowledge at Aurelian's feet.
+[05:05 --> 05:10] But the jury is still out on when the library was actually destroyed, and probably will
+[05:10 --> 05:15] remain so until we invent ourselves a time machine.
+[05:15 --> 05:20] With clemency having brought most of the east back into the fold, and cold-hearted brutality
+[05:20 --> 05:27] bringing the rest into line, Aurelian's career east of the Hellespont was over.
+[05:27 --> 05:33] By the end of 273, he was back in Rome, attending to long put-off civil matters, but more importantly,
+[05:33 --> 05:39] working up a plan to reconquer the Gallic provinces, a reconquest he could now finally
+[05:39 --> 05:42] turn his full attention to.
+[05:42 --> 05:46] The leaders of the Gallic Empire had been granted a stay of execution by Aurelian's
+[05:46 --> 05:51] preoccupation with the east, but with the emperor back in Italy, they knew it would
+[05:51 --> 05:57] not be long before he turned his fearsome attention on their little slice of the empire.
+[05:57 --> 06:01] That he did not celebrate a triumph for his victory over Palmyra was all the men of the
+[06:01 --> 06:05] Gallic Empire needed to know about Aurelian's intentions.
+[06:05 --> 06:10] Why throw two small triumphs when you can throw one great big one to celebrate full
+[06:10 --> 06:15] reunification?
+[06:15 --> 06:19] When last we left the Gallic Empire in 270, Posthumus was dead and a man by the name of
+[06:19 --> 06:24] Victorinus had risen to take his place as emperor of the west.
+[06:24 --> 06:30] Victorinus successfully saw the Gallic Empire transition from the personal domain of Posthumus
+[06:30 --> 06:35] to a free-standing political entity, albeit one that had shed the Iberian peninsula in
+[06:35 --> 06:37] the process.
+[06:37 --> 06:42] Victorinus vigorously pursued the Rhine defenses just as Posthumus had, and spent the majority
+[06:42 --> 06:48] of his time in office battling back the Franks on the lower half of the river.
+[06:48 --> 06:52] But though he had the loyalty of the army and the government, Victorinus's conduct
+[06:52 --> 06:57] in private earned him personal enemies, and it was these personal enemies who eventually
+[06:57 --> 07:01] took him down.
+[07:01 --> 07:06] The conventional story is that Victorinus made advances on the wife of one of his officers,
+[07:06 --> 07:10] and that as soon as he had the opportunity, the officer in question assassinated the Letrus
+[07:10 --> 07:12] emperor.
+[07:12 --> 07:18] The story may or may not be true, as jilted underlings is a standard trope of ancient
+[07:18 --> 07:23] literature, but whatever the reason, Victorinus was killed in 271, leaving the Gallic Empire
+[07:23 --> 07:27] leaderless once again.
+[07:27 --> 07:31] Rising up to fill the void was a man named Aesuvius Tetricus, who was likely a provincial
+[07:31 --> 07:34] governor at the time.
+[07:34 --> 07:38] Possibly with the backing of Victorinus's mother Victoria, whose bank accounts had bought
+[07:38 --> 07:43] the throne for her son, Tetricus was quickly installed and the Gallic Empire was put back
+[07:43 --> 07:45] on firm footing.
+[07:45 --> 07:51] I say possibly with the backing of Victorinus's mother, because there is reason to doubt her
+[07:51 --> 07:52] existence at all.
+[07:52 --> 07:55] God, I love the third century.
+[07:56 --> 08:02] Tetricus was not a weak ruler, or a weak man, but the future course of his career has tended
+[08:02 --> 08:06] to leave him with a reputation as something of a coward.
+[08:06 --> 08:10] For three years, though, he held the remaining provinces of the Gallic Empire together and
+[08:10 --> 08:14] enjoyed the support of the Rhine legions, whom he led to victory against the Franks
+[08:14 --> 08:17] on more than one occasion.
+[08:17 --> 08:23] But by the opening of 274, Tetricus found himself facing a serious problem.
+[08:23 --> 08:27] Napoleon was back in Rome plotting his downfall, and his friends and advisors were beginning
+[08:27 --> 08:31] to think seriously about the future.
+[08:31 --> 08:37] With a fatalist mood beginning to take hold, the governor of Belgica, a man named Faustinus,
+[08:37 --> 08:41] revolted and seized Tetricus's capital of Trier, while the Gallic emperor was in the
+[08:41 --> 08:45] south, attempting to regain the territory that had been previously lost during the reign
+[08:45 --> 08:49] of Claudius Gothicus.
+[08:49 --> 08:55] Tetricus led his army back up north, and Faustinus quickly gave up his bid for power.
+[08:55 --> 09:00] Knowing full well the fate of Posthumus, Tetricus allowed his men to sack Trier, even though
+[09:00 --> 09:03] it was the emperor's own capital.
+[09:03 --> 09:08] In both psychological and material value, the sacking of the Gallic capital was bad
+[09:08 --> 09:13] news for the Gallic Empire.
+[09:13 --> 09:17] Aurelian could not have cared less about Tetricus's problems.
+[09:17 --> 09:23] Fully united or internally fractured, the Gallic Empire was going down.
+[09:23 --> 09:30] As soon as the campaign season of 274 opened for business, Aurelian was on the move north.
+[09:30 --> 09:34] Operating out of the beachhead in the Rhône Valley established during the reign of Claudius,
+[09:34 --> 09:39] Aurelian quickly secured the surrender of any town, city, or individual he met, while
+[09:39 --> 09:44] Tetricus and the Rhine army attempted to find a suitable position from which to face Aurelian
+[09:44 --> 09:47] when the final showdown came.
+[09:47 --> 09:52] The suitable position they decided on were the plains outside of Chalon in what is now
+[09:52 --> 10:00] northeastern France, and in due course, Aurelian and his army progressed up to meet them.
+[10:00 --> 10:03] It is difficult to say for sure what happened next.
+[10:03 --> 10:08] There are some reports and some evidence to back the claim that a full-on battle was fought
+[10:08 --> 10:13] between the imperial army and the Rhine legions, and that after a bloody, vicious day, Aurelian
+[10:13 --> 10:19] captured Tetricus, which decisively turned the tide in Rome's favor.
+[10:19 --> 10:23] But the more familiar legend has it that Tetricus and Aurelian worked out a deal prior to the
+[10:23 --> 10:26] battle.
+[10:26 --> 10:30] Knowing he could not withstand Aurelian's invasion, Tetricus would line up his men for
+[10:30 --> 10:36] battle, and then, right before the fighting began, he promised to surrender himself to
+[10:36 --> 10:37] Aurelian.
+[10:37 --> 10:44] In exchange for this bloodless victory, Tetricus and his son would be allowed to live.
+[10:44 --> 10:47] A third tradition maintains that both the prearranged surrender and the bloody battle
+[10:47 --> 10:53] took place, but the only way this last version makes sense is if you believe the Rhine legions
+[10:53 --> 10:59] decided to carry on the fight without a leader, which seems impractical to the point of unbelieveability.
+[10:59 --> 11:03] Or you could believe that Aurelian forced the Rhine legions to fight him as punishment
+[11:03 --> 11:06] for their transgressions or something.
+[11:06 --> 11:11] But the loss of perfectly useful manpower this revenge battle would have entailed seems
+[11:11 --> 11:15] like it would have been too much for Aurelian to justify.
+[11:15 --> 11:20] So I reckon either there was no deal, and Tetricus led his men into battle and lost,
+[11:20 --> 11:23] or there was a deal and no battle followed.
+[11:23 --> 11:25] Pick your poison.
+[11:25 --> 11:30] Either way, Tetricus fell into Aurelian's hands, and the Gallic Empire, independent
+[11:30 --> 11:35] for fourteen years now, was dissolved.
+[11:35 --> 11:39] Following his standard MO, Aurelian tempered his iron will with a generous spirit when
+[11:39 --> 11:43] dealing with the defeated Gallic provinces.
+[11:43 --> 11:48] He wanted reintegration to proceed as quickly and seamlessly as possible, so he undertook
+[11:48 --> 11:53] no post-war purges, and for the most part left magistrates appointed by the Gallic Emperors
+[11:53 --> 11:56] in place.
+[11:56 --> 12:00] Resumes posted on grave markers attest to the ease with which service in the Gallic
+[12:01 --> 12:07] was recognized as a valid step up the career ladder in the now reunified empire.
+[12:07 --> 12:12] The only major change Aurelian made was to relocate the main Gallic mint from the far-off
+[12:12 --> 12:18] and repeatedly seditious city of Trier to the city of Lyon in southern Gaul, where it
+[12:18 --> 12:21] could be better controlled.
+[12:21 --> 12:26] This move was also undertaken as part of Aurelian's wider fiscal reforms, which he could now implement
+[12:26 --> 12:31] fully across the empire.
+[12:31 --> 12:37] We have already seen that Aurelian took the matter of coin valuation very, very seriously,
+[12:37 --> 12:41] and you'll recall that the mint riots in Rome were caused by resistance to the reforms
+[12:41 --> 12:45] Aurelian was planning to make to the system.
+[12:45 --> 12:50] Without any sophisticated knowledge of how economics worked, Aurelian did not tackle
+[12:50 --> 12:55] the big problem of inflation, which was just beginning to make itself known, but he had
+[12:55 --> 13:00] a deep understanding of the problem of coin devaluation, and particularly of the effects
+[13:00 --> 13:03] it had on the army.
+[13:03 --> 13:08] Keeping the troops paid and paid on time was the key to everything, and if the imperial
+[13:08 --> 13:12] mint kept spitting out worthless hunks of metal, then the empire was going to have a
+[13:12 --> 13:16] very big problem on its hands very soon.
+[13:16 --> 13:19] The problems Aurelian sought was twofold.
+[13:19 --> 13:25] First, official imperial policy was ordering teabasement, and second, there was very little
+[13:25 --> 13:29] oversight over the local mints.
+[13:29 --> 13:34] A related problem was where the mints were geographically located.
+[13:34 --> 13:39] With just a few main coining centers, problems at one location caused issues across multiple
+[13:39 --> 13:44] provinces and potentially affected hundreds of thousands of soldiers.
+[13:44 --> 13:49] So following Gallienus' lead, Aurelian further multiplied the number of mints across the
+[13:49 --> 13:55] empire, basically giving each major garrison its own mint.
+[13:55 --> 14:00] At the same time, he centralized the coining bureaucracy and put the entire operation under
+[14:00 --> 14:06] the auspices of an imperial agent, answerable directly to the emperor.
+[14:06 --> 14:14] The days of local operators producing coins of dubious value were now at an end.
+[14:14 --> 14:18] With these changes in place, Aurelian could then do something like order the silver content
+[14:18 --> 14:23] of a standard denarius to be raised to 5%, and feel confident that his orders would be
+[14:23 --> 14:25] carried out.
+[14:25 --> 14:31] Aurelian's stabilization of the currency system turned back the tide of the worst effects
+[14:31 --> 14:37] of teabasement, but as I just hinted, it did nothing to help with the problem of inflation,
+[14:37 --> 14:44] a problem which was likely exacerbated by the proliferation of new coining centers.
+[14:44 --> 14:49] Inflation would be left to his successors to deal with, and boy, will they have fun
+[14:49 --> 14:52] with that one.
+[14:52 --> 14:55] But how much can you ask of one man?
+[14:55 --> 14:57] Aurelian's legacy was secure.
+[14:57 --> 15:03] He had reunited the empire, and that was how his contemporaries planned to remember him.
+[15:03 --> 15:07] With the Palmyrene and Gallic empires defeated, and Rome's dominance reasserted over all
+[15:07 --> 15:15] her previous domains, well, except for poor old Dacia, Aurelian returned to Roman triumph,
+[15:15 --> 15:19] and well, threw himself a triumph.
+[15:19 --> 15:23] Zenobia and Tetricus were the star attractions, and the two defeated monarchs were led through
+[15:23 --> 15:25] the streets and chains.
+[15:25 --> 15:27] But they were not the only stars.
+[15:27 --> 15:31] Exotic prisoners from the east were also on full display, as was the abundant wealth and
+[15:31 --> 15:36] treasure stolen from the defeated Palmyrenes.
+[15:36 --> 15:39] These were heady days for the jubilant Romans.
+[15:39 --> 15:44] For the past few decades, their empire without end had looked a lot like it was going to
+[15:44 --> 15:45] end.
+[15:45 --> 15:50] But now, Aurelian marched through the streets of the Eternal City as one of the greatest
+[15:50 --> 15:52] heroes in Roman history.
+[15:52 --> 15:57] This Illyrian general had given them back their empire.
+[15:57 --> 16:03] In gratitude, the Senate vowed him the grandiose, but not at all undeserved title, Restitut
+[16:03 --> 16:07] or Orbis, the Restorer of the World.
+[16:07 --> 16:12] This new title was often combined with the further adjective Invictus, which turned Aurelian
+[16:12 --> 16:16] into the unconquered Restorer of the World.
+[16:16 --> 16:25] Again, grandiose, but again, not at all undeserved.
+[16:25 --> 16:28] Aurelian was well aware that his now four years in office had been nothing less than
+[16:28 --> 16:32] a string of complete and unqualified successes.
+[16:32 --> 16:37] Apart from the one minor setback against the Jethungi outside Placentia at the outset of
+[16:37 --> 16:42] his reign, Aurelian was undefeated in the field and had accomplished all that he had
+[16:42 --> 16:45] set out to do.
+[16:45 --> 16:49] While no doubt recognizing that his own native talents were to be credited, success of this
+[16:49 --> 16:56] kind in the ancient world usually called for recognition of something more.
+[16:56 --> 17:01] The classical world, as you may know, was awash in patron deities who were believed
+[17:01 --> 17:05] to ensure good ends for their mortal clients.
+[17:05 --> 17:10] We need look no further than the divine aid Apollo granted Augustus throughout the first
+[17:10 --> 17:16] emperor's providential career to understand the archetype we're talking about.
+[17:16 --> 17:20] There was no question that Aurelian was being protected by a powerful deity.
+[17:20 --> 17:24] The only question is which of the literally hundreds to choose from did Aurelian attribute
+[17:24 --> 17:27] his victories?
+[17:27 --> 17:32] The answer, helpfully, speaks to the larger religious transformation going on in the Mediterranean
+[17:32 --> 17:37] world during the shift into Late Antiquity.
+[17:37 --> 17:42] After following convention and identifying himself with Jupiter early in his reign, at
+[17:42 --> 17:47] some point, most likely during the campaign against the Palmyrenes, Aurelian began to
+[17:47 --> 17:53] believe that he was in fact the tool of something much bigger, Sol Invictus, the unconquered
+[17:53 --> 17:59] sun, an overarching solar deity who came to serve as an important link in the ancient
+[17:59 --> 18:05] world's transition from polytheism to monotheism.
+[18:05 --> 18:10] Now an overarching solar deity has already made an appearance in the history of Rome
+[18:10 --> 18:15] during the confused and doomed reign of Elagobolis.
+[18:15 --> 18:21] Like Elagobolis, Aurelian came to believe that Sol really was the one true god and that
+[18:21 --> 18:23] all other gods were inferior.
+[18:23 --> 18:29] But unlike Elagobolis, Aurelian did not attempt to suppress traditional pagan religion with
+[18:29 --> 18:33] his kooky new theological conceptions.
+[18:33 --> 18:38] Aurelian saw no incompatibility between his own budding monotheism and the wider world
+[18:38 --> 18:41] of pagan polytheism.
+[18:41 --> 18:46] He paid studious attention to Jupiter and Mars and Apollo and all the other usual suspects,
+[18:46 --> 18:51] but with the understanding that these old gods were actually just the forms that the
+[18:51 --> 18:57] one true god used to manifest itself on the moral plane.
+[18:57 --> 19:03] To thank his great benefactor, Aurelian established a new temple in Rome dedicated to Sol Invictus
+[19:03 --> 19:08] and initiated a new priesthood dedicated to its worship.
+[19:08 --> 19:13] While he made no attempt to hinder any other religious activities, Aurelian in word and
+[19:13 --> 19:19] deed made it clear that he considered Sol to be the most important of all the gods,
+[19:19 --> 19:26] indeed the one true god, and encouraged its worship wherever he went.
+[19:26 --> 19:32] In this, he was engaged not just in religious zeal, but also in a wider socio-political
+[19:32 --> 19:39] project he hoped would help reconnect the so recently fractured empire.
+[19:39 --> 19:44] From Spain to Syria and from Britain to Africa, the citizens of the empire worshiped a huge
+[19:44 --> 19:51] variety of gods and goddesses who often bore little resemblance to one another.
+[19:51 --> 19:55] Aurelian hoped to provide everyone with a single manifest god to whom they could all
+[19:55 --> 19:57] equally worship.
+[19:57 --> 20:02] The natives of Gaul and say the natives of Carthage worship their own particular gods
+[20:02 --> 20:08] in their own particular ways, but if at some point during each day they turned their attention
+[20:08 --> 20:13] to the great overarching Sol Invictus, then the ties that bound the far-flung corners
+[20:13 --> 20:18] of the empire together would be immeasurably strengthened.
+[20:18 --> 20:23] That was the idea anyway, and it was an idea whose time was coming.
+[20:24 --> 20:30] Constantine's vision of one empire and one church was in many ways foreshadowed by Aurelian's
+[20:30 --> 20:36] promulgation of the cult of Sol Invictus, and indeed this earlier promulgation made
+[20:36 --> 20:42] the later transition to Christianity that much easier as Jesus Christ was eventually
+[20:42 --> 20:45] identified with the sun god.
+[20:45 --> 20:49] So if you were comfortable with worshiping Sol Invictus, then the shift to worshiping
+[20:49 --> 20:55] Jesus Christ became almost seamless.
+[20:55 --> 20:59] The last note I'll make about Aurelian's worship of the sun is that it was largely
+[20:59 --> 21:04] through his efforts that the feast of the unconquered sun, which usually took place
+[21:04 --> 21:11] around December 25th, firmly took root on the Roman holiday calendar.
+[21:11 --> 21:15] And you should all remember from the History of Rome Christmas special that this feast
+[21:15 --> 21:20] was eventually claimed by the church fathers as the official birthday of Jesus and is the
+[21:20 --> 21:24] reason we celebrate Christmas on the day that we do.
+[21:24 --> 21:29] It's worth noting that the switcheroo from Sol to Jesus didn't strike anyone as being
+[21:29 --> 21:35] too out of the blue since, as I just mentioned, Jesus had already been firmly identified with
+[21:35 --> 21:41] the sun god.
+[21:41 --> 21:47] The unconquered restorer of the world, with the backing of the powerful Sol Invictus,
+[21:47 --> 21:51] next turned his attention on one of the few loose ends that had been left hanging in the
+[21:51 --> 21:56] past four years whirlwind of activity.
+[21:56 --> 22:02] Fourteen years ago, the king of Sasanid Persia had taken the noble emperor Valerian prisoner
+[22:02 --> 22:05] by means of a dirty trick.
+[22:05 --> 22:10] Then he had forced Valerian to submit to all manner of humiliation and torture before the
+[22:10 --> 22:13] good emperor was finally allowed to die.
+[22:13 --> 22:19] His body, allegedly, still sat stuffed in the Sasanid throne room.
+[22:19 --> 22:24] If the Persians thought that all of this was going to be forgiven and forgotten, then they
+[22:24 --> 22:27] had another thing coming.
+[22:27 --> 22:32] Shortly after his defeat of Palmyra, word came west that the great king Sharpor had
+[22:32 --> 22:34] finally died.
+[22:34 --> 22:37] His death was a mixed bag for the Romans.
+[22:37 --> 22:42] On the one hand, it meant that they would not be able to exact revenge on Sharpor personally.
+[22:42 --> 22:47] But on the other hand, it meant that the Sasanids were now dealing with a succession crisis
+[22:47 --> 22:50] and were divided and weak.
+[22:50 --> 22:54] Now would be the perfect time to kick them while they were down and take revenge for
+[22:54 --> 22:56] the capture of Valerian.
+[22:56 --> 23:02] Aurelian was not going to let this opportunity pass.
+[23:02 --> 23:06] Remaining in Rome for the winter, Aurelian made plans for an invasion of Persia and in
+[23:06 --> 23:13] the spring of 275 set out east with his army, intent on avenging Rome's honor.
+[23:13 --> 23:17] He would never make it past Thrace.
+[23:17 --> 23:22] By far the most capable emperor since Septimius Severus, and really one of the most capable
+[23:22 --> 23:28] emperors ever, was cut down in the prime of his life by misguided assassins who immediately
+[23:28 --> 23:31] regretted their rash murder.
+[23:31 --> 23:36] As you can probably imagine, the stern and humorless Aurelian had very little patience
+[23:36 --> 23:42] for corruption and double dealing, especially within his own staff.
+[23:42 --> 23:46] One of his personal secretaries had apparently lied his head off to the emperor about some
+[23:46 --> 23:53] random issue or another and had either already been found out or was about to be found out
+[23:53 --> 23:58] and terrified that he was going to be executed, he forged a document that purported to be
+[23:58 --> 24:03] a death list drawn up by the emperor with numerous high ranking officers marked down
+[24:03 --> 24:07] for execution.
+[24:07 --> 24:12] This weasely advisor then showed it to the high ranking officers and let them take care
+[24:12 --> 24:14] of the rest.
+[24:14 --> 24:19] All these men knew Aurelian to be a strict and remorseless disciplinarian, and in the
+[24:19 --> 24:24] heat of the moment they became convinced that if they didn't strike first that Aurelian
+[24:24 --> 24:29] was going to kill them all, and unjustly at that.
+[24:29 --> 24:35] Encamped in Thrace in September or October of 275, the officers surprised Aurelian in
+[24:35 --> 24:39] his tent and stabbed him to death.
+[24:39 --> 24:46] Aurelian was 60 years old and had ruled the empire for five magnificent years.
+[24:46 --> 24:50] The rank and file were horrified to discover that their great general, the greatest that
+[24:50 --> 24:56] they had ever known, was dead, and the officers themselves were horrified when they discovered
+[24:56 --> 25:01] shortly thereafter that the whole thing had been a trick.
+[25:01 --> 25:10] The secretary, I can promise you, did not come to a quick or a painless end.
+[25:10 --> 25:15] So just when it looked like everything was going to be okay, the empire was suddenly
+[25:15 --> 25:18] thrown into its own succession crisis.
+[25:18 --> 25:23] Only this time, the crisis did not unfold as a battle between men vying to put their
+[25:23 --> 25:29] own man on the throne, but instead as a battle between men who were trying to voice the question
+[25:29 --> 25:34] of who would rule now on to someone else.
+[25:34 --> 25:40] Next week, we will watch the amusing spectacle of the Senate and the Imperial Army, who had
+[25:40 --> 25:45] fought each other for so long over the right to nominate emperors, each now trying to get
+[25:45 --> 25:48] the other to pick a new leader for Rome.

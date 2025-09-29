@@ -1,0 +1,287 @@
+# 20101206 - 118- The Palmyrene Wars
+# Detected language: en
+# Duration: 1750.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the internet's leading
+[00:06 --> 00:10] provider of audio entertainment with over 60,000 titles to choose from.
+[00:11 --> 00:15] When you're done with this episode, go to audiblepodcast.com forward slash rom.
+[00:16 --> 00:22] That again audiblepodcast.com forward slash rom. By going to that address,
+[00:22 --> 00:26] you qualify for a free book download when you sign up for a 14-day trial membership.
+[00:26 --> 00:31] There is no obligation to continue the service and you can cancel anytime and keep the free book.
+[00:32 --> 00:35] You can also keep going with one of their monthly subscription options
+[00:35 --> 00:38] and get great deals on all your future audiobook purchases.
+[00:39 --> 00:44] This week I'm going to move away from Rome a little bit and recommend Marathon,
+[00:44 --> 00:47] The Battle That Changed Western Civilization by Richard Billows.
+[00:49 --> 00:53] I don't know how much Rome's development would have been arrested had the Persians conquered
+[00:53 --> 01:00] Greece, but my suspicion is that it would have been a lot. Just remember to go to audiblepodcast.com
+[01:00 --> 01:11] forward slash rom so that they know who sent you. Hello and welcome to The History of Rome,
+[01:13 --> 01:16] episode 118, The Palmyrene Wars.
+[01:16 --> 01:20] The Palmyrene Wars
+[01:20 --> 01:26] Ever since the death of her husband in 267, the Palmyrene Queen Zenobia had shown herself to be a
+[01:26 --> 01:33] formidable new player in the great game of power politics. In an age where every soldier was a
+[01:33 --> 01:39] potential emperor and every territory a potential new kingdom, Zenobia had not only held on to the
+[01:39 --> 01:45] power and land she had inherited from Odinothus, but little by little she managed to expand upon
+[01:45 --> 01:52] it. The power and prestige of Rome was at an all-time low, and Zenobia was taking full advantage
+[01:52 --> 02:00] of the eternal city's eclipse. She was shrewd and ambitious and capable, and had the ball of
+[02:00 --> 02:05] fate bounce this way instead of that, she might just have permanently severed Rome's claim to the
+[02:05 --> 02:13] east. Empires evolved and devolved all the time, and by Zenobia's estimation, the sun was setting
+[02:13 --> 02:18] on Rome's almost 350 years of dominance over the eastern Mediterranean.
+[02:20 --> 02:26] Standing between Zenobia and a new independent Palmyrene empire, though, was an Illyrian emperor
+[02:26 --> 02:32] named Aurelian, who, like his brother officers, was obsessed with the idea of reuniting the empire.
+[02:33 --> 02:38] It had become their almost religious mission in life, and nothing was going to stop them,
+[02:39 --> 02:41] certainly not some Oriental queen.
+[02:44 --> 02:48] Consumed as he was with Germanic invasions and riots in Rome, though,
+[02:48 --> 02:54] Aurelian was at first unable to deal with said Oriental queen, even as she thumbed her nose at
+[02:54 --> 03:02] Roman authority. Probably upon receiving the news that Claudius was dead, Zenobia and her top general
+[03:02 --> 03:07] Zabdis had taken the opportunity to lead the Palmyrene army into Egypt,
+[03:07 --> 03:14] expel the Roman garrison, and occupy Alexandria. Whatever official or unofficial understanding
+[03:14 --> 03:21] existed between Rome and Palmyra, the status of Egypt was never in play. It was a Roman province
+[03:21 --> 03:26] to be held by a Roman prefect, duly appointed by a Roman emperor, just as it had been since the
+[03:26 --> 03:34] days of Augustus. In other words, her invasion of Egypt was way, way out of bounds. But,
+[03:34 --> 03:40] matching her own audacity in seizing Alexandria, Zenobia then pretended like nothing at all was
+[03:40 --> 03:47] amiss. After the brief power struggle following Claudius' death confirmed Aurelian was the new
+[03:47 --> 03:52] master of Rome, Zenobia dutifully issued coins from the Alexandrian mints, featuring Aurelian's
+[03:52 --> 03:58] name and image. True, the back of those coins feature the image of her young son Vibolathus,
+[03:58 --> 04:05] who, it should be recalled, Zenobia was ruling through, but her son was not presented as Augustus,
+[04:05 --> 04:11] as Aurelian clearly was. Further, official documents in the East were issued using
+[04:11 --> 04:15] letterhead that presented Aurelian's name first and Vibolathus' second.
+[04:15 --> 04:21] You see, nothing is amiss here. Rome and Palmyra are partners in power,
+[04:21 --> 04:27] and as is just and as is right, Rome is and will remain the senior and dominant partner.
+[04:30 --> 04:34] But while officially downplaying Palmyrian independence, Zenobia was clearly not
+[04:34 --> 04:40] planning to stop with the annexation of Egypt. The Palmyrian claims to the Eastern Empire had
+[04:40 --> 04:45] always been a weird mixture of personal prerogative and sanctioned super-authority,
+[04:45 --> 04:50] and as I mentioned a few episodes back, it is likely that the governance of Syria and
+[04:50 --> 04:55] its various municipalities had been left in the hands of the same local officials who had been
+[04:55 --> 05:01] running the show prior to the rise of Oedonothus. Now Zenobia sought something a little more concrete.
+[05:03 --> 05:07] Working through agents and allies in the various cities of Syria, especially Antioch,
+[05:08 --> 05:13] she arranged for each intern to begin the process of formally recognizing Palmyra as
+[05:13 --> 05:21] their political master. Through skillful diplomacy, Zenobia was able to secure direct control of Syria
+[05:21 --> 05:27] while avoiding the use of military force. Following up on this success, she initiated
+[05:27 --> 05:33] the same process in Asia Minor, and pretty soon, half of Anatolia had come around to
+[05:33 --> 05:41] recognizing Palmyra as their capital. These subtle power plays though were not lost on Aurelian.
+[05:41 --> 05:47] Zenobia could issue all the coins and declarations under Aurelian's name that she wished,
+[05:47 --> 05:53] but it was obvious that it was all so much kabuki. The alliance Gallienus had made with
+[05:53 --> 05:59] Oedonothus had been born of a particular set of circumstances facing Rome at a time of emergency,
+[05:59 --> 06:05] and the mere fact of its perpetuation now that the emergency had passed was already a daily slap in
+[06:05 --> 06:11] the face to the proud officers of the Roman high command. Zenobia's attempt to revise and extend the
+[06:11 --> 06:19] power of Palmyra was not just insulting then, it was an act of war. So in 271, Aurelian gathered
+[06:19 --> 06:24] up his imperial army and marched them out of Italy, beginning a journey that would eventually
+[06:24 --> 06:29] see them march all the way to the gates of Palmyra and back again, and then back to the gates of
+[06:29 --> 06:36] Palmyra. And I can tell you, when Aurelian has to go back the second time, he really, really isn't
+[06:36 --> 06:43] going to be happy about it. But before the legions could begin their march to the east in earnest,
+[06:43 --> 06:48] they had to settle the situation in the Balkans. Despite the fact that the invasions of their
+[06:48 --> 06:54] countrymen were now routinely ending in defeat at the hands of the legions, some Gothic tribes were
+[06:54 --> 07:00] still keen on the idea of raiding the empire for its wealth. So as Aurelian reached the Danube
+[07:00 --> 07:07] frontier, he found the provinces once again littered with Gothic invaders. This batch,
+[07:07 --> 07:13] though, was nothing like the massive waves that had come down south in the 260s, indicating that
+[07:13 --> 07:19] Gothic power had been significantly affected by the previous decade's misadventures in Roman territory.
+[07:20 --> 07:24] But there were still enough of them on the loose to require Aurelian to stop short and deal with
+[07:24 --> 07:31] them. He was entirely successful in his efforts, and the Goths were driven back across the river.
+[07:32 --> 07:37] An interesting footnote to this brief Gothic campaign is that the tide of battle was turned
+[07:37 --> 07:44] when the Gothic king leading the invasion was killed. The sources have this Gothic king being
+[07:44 --> 07:49] named as some variation of Canabutus, which is similar enough phonetically to a certain Gothic
+[07:49 --> 07:55] king who, twenty years before, had destroyed the legions at Abertus and killed two emperors,
+[07:55 --> 08:01] to make some wonder if King Canabutus and King Canoeva were not in fact the same person.
+[08:03 --> 08:08] If they were, then his death would have been sweet revenge for the Romans, much like Galerius'
+[08:08 --> 08:13] future capture of the Sassanid royal family will come as sweet revenge for the Persian imprisonment
+[08:13 --> 08:20] of Valerian. As concerned with the future security of the Danube frontier as he was
+[08:20 --> 08:26] with the future security of Rome, Aurelian likely took this moment to initiate his controversial
+[08:26 --> 08:34] plan to dramatically tighten up the Roman defensive line. The province of Dacia,
+[08:34 --> 08:39] sticking out like a sore thumb north of the Danube, had only avoided Hadrian's consolidation of Roman
+[08:39 --> 08:45] holding some 150 years before because the blood, sweat, and tears that had gone into winning it
+[08:45 --> 08:50] was still fresh in everybody's mind. To give it up would have been an affront to the memories of
+[08:50 --> 08:56] those who had just fought and died to take it, so Hadrian was forced against his better judgment
+[08:56 --> 09:03] to leave it be. Also, it had some pretty sweet gold and silver mines. But the mines were dried
+[09:03 --> 09:11] up now, and in every way, Dacia was a lead weight around Rome's neck. It added over 500 miles to
+[09:11 --> 09:16] the military perimeter of the empire without offering any kind of strategic or tactical value
+[09:16 --> 09:24] in return. The mountainous province had never been colonized or Romanized properly, and, bottom line,
+[09:25 --> 09:31] hanging on to Dacia put the empire in greater danger than it needed to be in. The empire was
+[09:31 --> 09:35] already in great danger. It didn't need to be in greater danger.
+[09:38 --> 09:43] So Aurelian ordered the evacuation of the province. He was careful to make the process
+[09:43 --> 09:49] as steady and organized as possible. That is, he didn't just go around blaring a siren telling
+[09:49 --> 09:54] everybody to grab what they could and get out, but he made it very clear that in the near future,
+[09:54 --> 09:59] the order was going to come for the troops on the Dacian frontier to abandon their posts and
+[09:59 --> 10:05] re-entrench on the south bank of the Danube. Anyone left in Dacia would be on their own.
+[10:07 --> 10:13] Some, living lives far closer to their quote barbarian enemies than their Roman neighbors,
+[10:13 --> 10:17] did indeed stay put, but most everyone else packed up and headed south.
+[10:19 --> 10:24] When the order finally came to remove the Roman troops, a collection of Goths was ready and
+[10:24 --> 10:30] waiting to move in. Their migration into Dacia came with the approval of Aurelian,
+[10:30 --> 10:34] who worked out a deal involving trade rights and certain other concessions
+[10:34 --> 10:40] in exchange for these new Dacian Goths to agree to act as a military buffer to other Germanic tribes.
+[10:42 --> 10:46] The new frontier line was thus not only shorter and easier to defend,
+[10:46 --> 10:51] but it came equipped with a buffer zone that absorbed the brunt of many a potential invasion
+[10:51 --> 10:59] force. The evacuation of Dacia was as sound a policy as Rome had seen in a long time,
+[10:59 --> 11:05] but there was no mistaking the fact that good old Terminus, the implacable Roman god of boundaries,
+[11:05 --> 11:12] who once planted refused to be moved, had now been moved. That did not bode well for the future.
+[11:16 --> 11:21] Probably because he was not totally insensible to the optics of abandoning a fully
+[11:21 --> 11:26] incorporated province, Aurelian carved out of Moesia a new province which he dubbed Dacia.
+[11:28 --> 11:33] Now he could plausibly argue that he had not abandoned Dacia so much as moved south of the
+[11:33 --> 11:41] Danube. See, there it is right there on the map. Okay, maybe he couldn't plausibly argue that,
+[11:41 --> 11:46] but it is worth noting that a province called Dacia still existed after Trajan's territory
+[11:46 --> 11:53] had been abandoned. The main point though was that while a Dacia still existed, the old Dacia
+[11:53 --> 12:00] was now gone. It had long been a back door into the empire, exploited endlessly by Rome's enemies,
+[12:00 --> 12:06] and Aurelian had now locked that door. Rome was safer and more secure for his decision.
+[12:09 --> 12:14] With walls being built around the cities of the empire and the long Danube frontier now left far
+[12:14 --> 12:19] more manageable, Aurelian could finally turn body and soul to his divinely ordained mission.
+[12:23 --> 12:31] Aurelian's priority list in 271 looked like this. Number one, retake Egypt. Number two,
+[12:31 --> 12:37] reassert Roman control over the rest of the eastern provinces. And three, knock Palmyra down a peg or
+[12:37 --> 12:44] five. His own army was too cumbersome to quickly deal with the first priority,
+[12:44 --> 12:49] so Aurelian ordered one of his officers, possibly the future emperor Probus,
+[12:49 --> 12:55] to gather up a fleet and sail immediately for Alexandria. With luck, Probus, or whoever it
+[12:55 --> 13:00] actually was, there are good reasons to believe Probus was actually in Gaul through this whole
+[13:00 --> 13:05] period, would be able to land in Egypt and drive off the Palmyrene garrison before Aurelian even
+[13:05 --> 13:11] set foot in Syria to handle the business of priority number two. Once Egypt was retaken,
+[13:11 --> 13:15] the imperial army could focus all of its energy on regaining control of Syria.
+[13:16 --> 13:19] Priority three would then be a foregone conclusion.
+[13:22 --> 13:28] The preparations underway in the imperial camp did not pass unnoticed by Zenobia. Knowing that
+[13:28 --> 13:34] Aurelian was likely coming no matter what her next move was, the Palmyrene queen decided to go all in,
+[13:34 --> 13:38] abandoning any pretense of partnership with Rome and issuing coins and orders
+[13:38 --> 13:44] under the auspices of Vibolethus alone, who was now styled, finally, Augustus.
+[13:46 --> 13:51] The Palmyrene court then advanced to a mesa, where Zenobia set up a forward base from which
+[13:51 --> 13:58] to confront Aurelian when he emerged into Syria. With a little luck, the cities of Asia Minor that
+[13:58 --> 14:04] she had recently brought into the Palmyrene fold would stick with their new eastern benefactor,
+[14:04 --> 14:09] and resist the advance of Aurelian, leading the Roman emperor to either become bogged down in
+[14:09 --> 14:14] profitless sieges or continue on without secure supply or communication lines back to the west.
+[14:16 --> 14:20] Either outcome would have worked out to the Palmyrene advantage, and it would hopefully be
+[14:20 --> 14:25] a much worn down Roman army that Zenobia and Zabdis would have to face.
+[14:26 --> 14:33] But Aurelian, as I think I've mentioned, was a no-nonsense kind of guy. He had no time for
+[14:33 --> 14:39] prolonged sieges, and no intention of continuing without ensuring that all of Anatolia was subdued.
+[14:40 --> 14:45] So, much to Zenobia's chagrin, Aurelian picked a third option from the hat.
+[14:46 --> 14:50] Forced the cities of Asia Minor to capitulate with minimal fighting,
+[14:50 --> 14:52] and then proceed safely and securely onto Syria.
+[14:55 --> 15:01] The further west you went, the looser the ties to Palmyra, and as Aurelian advanced east,
+[15:01 --> 15:04] the cities that he approached opened their gates without a fight.
+[15:05 --> 15:10] Aurelian had a fierce reputation, and there was very little doubt that should he be defied,
+[15:10 --> 15:13] that the emperor's wrath would be swift and deadly.
+[15:15 --> 15:20] Aurelian was well aware that his reputation was preceding him, and he used it to great effect,
+[15:20 --> 15:25] but to no greater effect than when he finally reached a city that attempted to hold out.
+[15:25 --> 15:32] Moving south towards the Cilician gates, the imperial army reached the city of Tyna.
+[15:33 --> 15:38] Closer now to the center of Palmyra's power, the leaders of Tyna made a calculated decision
+[15:38 --> 15:44] to hold out against Aurelian, and hopefully find great rewards for themselves in a new Palmyrene
+[15:44 --> 15:52] empire. But resisting Aurelian and enduring a prolonged siege was not on the to-do list of
+[15:52 --> 15:58] everyone in Tyna, and the city was quickly betrayed into Aurelian's hands. Everyone held
+[15:58 --> 16:05] their breath. Here was a city that had essentially spit in the face of Rome. How bloody was Aurelian's
+[16:05 --> 16:13] retribution going to be? The soldiers prepared to do some serious sacking, the citizens prepared
+[16:13 --> 16:18] to endure some serious sacking. But Aurelian emerged from his tent, and to the surprise of
+[16:18 --> 16:25] everyone, announced that there would be no reprisals, no sacking, no punishments. Instead,
+[16:25 --> 16:32] a general pardon was declared. According to the official legend, Aurelian had been visited in a
+[16:32 --> 16:39] dream by Apollonius, the famous philosophical son of Tyna, who by the third century was being put
+[16:39 --> 16:46] forward as a sort of pagan answer to the growing cult of Jesus Christ. According to the legend,
+[16:46 --> 16:52] on the eve of Tyna's capitulation, Apollonius visited Aurelian and told the emperor that if
+[16:52 --> 16:57] he desired to rule, that he must abstain from shedding the blood of innocence, and that if he
+[16:57 --> 17:05] planned to conquer, he must also plan to be merciful. Whether it was the ghost of a dead
+[17:05 --> 17:11] philosopher or the shrewd mind of Aurelian that led Tyna to be spared, the decision was a master
+[17:11 --> 17:18] stroke. Further east, the leading men of the cities that had gone over solidly to Palmyra
+[17:18 --> 17:23] had rightly feared punishment at the hands of Aurelian, but the example of Tyna proved that
+[17:23 --> 17:30] the emperor was in a forgiving mood. As the imperial army continued southeast, cities that
+[17:30 --> 17:34] would have resisted out of a desperate belief that they were doomed one way or the other,
+[17:34 --> 17:40] now threw open their gates. Each city was given the same light treatment, compounding a wave of
+[17:40 --> 17:47] capitulation that led Aurelian all the way to the doorstep of Antioch. The emperor's surprise
+[17:47 --> 17:54] decision to play off type led not just to a far easier campaign for his legions, but also it laid
+[17:54 --> 18:01] the groundwork for an amicable return of the eastern provinces into the Roman fold. Aurelian
+[18:01 --> 18:07] wanted to reunify the empire. Laying terrible waste to the countryside might allow him to occupy the
+[18:07 --> 18:16] east, but it would unify nothing. As the emperor continued his march, a word came up from Egypt
+[18:16 --> 18:21] that the fleet he had dispatched to retake Alexandria had landed and easily expelled the
+[18:21 --> 18:26] Palmyrian garrison, meaning that priority one was already now checked off the list.
+[18:29 --> 18:34] Watching her recently won political gains melt away, an undeterred Zenobia prepared for war,
+[18:35 --> 18:39] deploying Zabdis and the Palmyrene army between Aurelian and Antioch.
+[18:41 --> 18:46] Now the Palmyrene army, especially the Cataphracts, their much vaunted armored cavalry,
+[18:47 --> 18:53] was a force to be reckoned with in any situation, but fighting on their home turf against legionaries
+[18:53 --> 18:57] not used to combat in the heat of the desert appeared to make them invincible.
+[18:57 --> 19:05] But Aurelian was a master strategist and tactician, and he had a plan to defeat the Palmyrenes and
+[19:05 --> 19:12] troops who were disciplined enough to pull it off. After a few days maneuvering around Antioch,
+[19:12 --> 19:19] Aurelian and Zabdis finally met in battle in May or June of 272. Knowing that defeating the
+[19:19 --> 19:25] Cataphracts was the key to victory, Aurelian employed the same ruse Claudius had used against
+[19:25 --> 19:30] the Goths at Nices, a ruse Aurelian knew the devastating effects of first hand,
+[19:30 --> 19:36] as he had been the general leading the cavalry that day. While the infantry on both sides
+[19:36 --> 19:41] shuffled their feet, Aurelian ordered his cavalry to directly attack the Cataphracts.
+[19:42 --> 19:47] At a pre-arranged moment, the Roman cavalry suddenly broke apart and began to flee from the
+[19:47 --> 19:54] field. With the Roman horsemen retreating in what appeared to be a panic, the Palmyrene Cataphracts
+[19:54 --> 19:59] gave chase, smugly convinced that they were about to secure their own legend by crushing
+[19:59 --> 20:06] the cream of the Roman legions. But you know what comes next. After leading the Cataphracts on a
+[20:06 --> 20:11] merry chase that wore out the heavily armored Palmyrenes, the Roman cavalry wheeled around
+[20:11 --> 20:17] at a second pre-arranged moment and as one unit barreled straight into the surprised and exhausted
+[20:17 --> 20:22] Cataphracts, devastating their ranks and allowing only a few to escape with their lives.
+[20:24 --> 20:30] As soon as Zabdis learned the fate of his armored cavalry, he knew that the battle was lost. His
+[20:30 --> 20:36] infantry was no match for the Roman infantry and wasting little time, Zabdis ordered a retreat back
+[20:36 --> 20:45] to Antioch. Inside the city, the panic gripped the local leaders who had, rashly they now realized,
+[20:45 --> 20:52] thrown their lot in with the enemies of Rome. Aurelian had thus far displayed almost supernatural
+[20:53 --> 20:56] clemency, but who knew how long that was going to hold out.
+[20:58 --> 21:02] Nervous as they were though, the city fathers figured that as long as the Palmyrene army was
+[21:02 --> 21:07] there to protect them, that there was still hope. Which is why they were mortified to wake up on
+[21:07 --> 21:13] the morning after the battle to find that Zabdis, recognizing the inevitability of Antioch's fall,
+[21:13 --> 21:17] had packed up and marched his army in the direction of Emisa in the middle of the night.
+[21:18 --> 21:23] Aurelian entered Antioch unchallenged, and was greeted by a citizen body prepared for the worst.
+[21:24 --> 21:29] But again, Aurelian proved to be of a much higher mind than anyone gave him credit for.
+[21:30 --> 21:34] Another general pardon was issued, and Syria was back in Roman hands.
+[21:38 --> 21:43] With priority one already accomplished and priority two well in hand, all that was left was priority
+[21:43 --> 21:47] three. All that was left was priority three, the crushing of Palmyra.
+[21:49 --> 21:53] Aurelian lingered in Antioch for a few weeks waiting on reinforcements to ensure
+[21:53 --> 21:58] they would only have to make one trip into the desert. And when they finally arrived,
+[21:58 --> 22:03] the emperor headed northeast to the city of Emisa, where Zenobia and Zabdis were holed up
+[22:03 --> 22:06] with the Palmyrene royal treasury and an army 70,000 strong.
+[22:06 --> 22:14] The significance of the coming battle, nor the significance of the coming battle sight, were
+[22:14 --> 22:20] missed. Though it seemed like a lifetime ago, only 12 years had elapsed since Valerian had walked out
+[22:20 --> 22:27] to meet his fate on the same plains beside Emisa. Would Aurelian exorcise Rome's demons,
+[22:27 --> 22:31] or would the desert city become known to history as the Slayer of Emperors?
+[22:31 --> 22:38] In the battle that followed, Aurelian once again attempted to lure the Palmyrenes out with a fake
+[22:38 --> 22:45] retreat. But this time, his lines came too close to the Palmyrenes, and the chase was over before
+[22:45 --> 22:52] it got going. The Roman ranks, infantry and cavalry alike, were soon engulfed in bloody
+[22:52 --> 22:57] confusion. But the less disciplined Palmyrenes pushed their advantage too hard, which led to
+[22:57 --> 23:02] a breakup of their line, a breakup which was exploited to deadly effect by the Romans.
+[23:04 --> 23:10] First flanking, and then surrounding the Palmyrenes, slaughter ensued. Zabdis and
+[23:10 --> 23:15] a few officers escaped back to the city, where they collected Zenobia and the rest of the royal
+[23:15 --> 23:21] family and dashed back to the relative safety of Palmyra. There was not even time to collect
+[23:21 --> 23:25] the treasury, which was music to the ears of the cash-strapped Aurelian.
+[23:28 --> 23:33] The rest was foregone conclusion. Aurelian secured the Palmyrene treasury and then followed his
+[23:33 --> 23:41] enemies back to their home city. Still defiant, Palmyra refused to yield just yet, and Aurelian
+[23:41 --> 23:47] was forced to begin a siege in the middle of the desert in the middle of summer. Now, being the
+[23:47 --> 23:53] oasis city that it was, Palmyra was well situated to hold out against the Romans and their dicey
+[23:53 --> 23:59] supply lines, but that was just in the near-term. Long-term, Zenobia recognized that they were
+[23:59 --> 24:05] going to need help if they wanted to get out of their fight with Rome alive. The only place
+[24:05 --> 24:10] they could possibly turn to for help, though, was, awkwardly, the Sassanids.
+[24:12 --> 24:17] The Persians were not likely to have forgotten that Odin office had brought Palmyra to power
+[24:17 --> 24:22] by defeating and humiliating them, but in her desperation, Zenobia felt that she had no choice
+[24:22 --> 24:29] but to turn to them for aid. Unfortunately for the Palmyrenes, though, Sharpor, the great king
+[24:29 --> 24:35] who had captured an emperor and sacked Antioch, was dying, and the Sassanids were divided and
+[24:35 --> 24:41] distracted by the question of who was going to succeed him. Under different circumstances,
+[24:41 --> 24:47] the Persians might have decided to go to war for Palmyra, but right now, it was out of the question.
+[24:47 --> 24:53] Zenobia, though, could not afford to take no for an answer, so she decided to risk everything by
+[24:53 --> 25:00] traveling to the Sassanid capital and making her case in person. By risking everything, though,
+[25:00 --> 25:05] she wound up losing everything. Aurelian was alerted to the fact that the queen had slipped
+[25:05 --> 25:11] out of the city and was heading east. A Roman cavalry detachment quickly caught up and overtook
+[25:11 --> 25:19] the Palmyrenes, and Zenobia, the eastern queen who very nearly made herself the equal of a Roman
+[25:19 --> 25:26] emperor, was now his prisoner. The rank and file of the legions clamored for her death,
+[25:26 --> 25:33] but Aurelian would have none of it. After a generation of bad news, Aurelian was finally
+[25:33 --> 25:37] putting together a record the Romans could celebrate, and he planned to let them celebrate
+[25:37 --> 25:43] his victories with a good old-fashioned triumph. And what was a triumph without
+[25:43 --> 25:46] Rome's enemies marched through the streets of the eternal city in chains?
+[25:49 --> 25:53] Back inside Palmyra, news of the queen's capture sparked a brief fight between
+[25:53 --> 25:58] moderates and diehards about whether to capitulate. The war-weary moderates
+[25:58 --> 26:02] quickly suppressed the diehards, and the gates of the city were opened.
+[26:02 --> 26:09] As he had done for the entirety of his eastern campaign, Aurelian showed restraint when dealing
+[26:09 --> 26:14] with the citizens of Palmyra, announcing that there would be no bloody reprisals for their
+[26:14 --> 26:21] breach of faith. Unlike the cities of the empire proper, though, this time Aurelian allowed his men,
+[26:21 --> 26:28] who had thus far been denied any real spoils, a nice organized sacking of the rich oasis city
+[26:28 --> 26:34] in the desert. And of course, the Palmyrian high command could not be treated as lightly as the
+[26:34 --> 26:41] leaders of Antioch or Tyna. After a brief public trial, the leaders of Palmyra, including Zabdus,
+[26:41 --> 26:48] were put to death. The fate of Vibolethus is unknown, though by one account he's going to die
+[26:48 --> 26:56] on the trip to Rome. But he's not very important anyway. Zenobia was the real prize, and Aurelian
+[26:56 --> 27:04] had her. With the eastern half of the empire now back under Roman control,
+[27:04 --> 27:11] Aurelian could turn to the west. The dream of a reunited empire was still only half fulfilled,
+[27:11 --> 27:16] and next week Aurelian will turn his full attention on the Gallic empire.
+[27:17 --> 27:21] The death of Posthumus had left the western provinces without a strong leader,
+[27:22 --> 27:27] and Aurelian reckoned that capturing Gaul would be a whole lot easier than recapturing Syria.
+[27:28 --> 27:29] And he was right.
+[27:33 --> 27:37] I want to close this week by letting you all know that The History of Rome has apparently
+[27:37 --> 27:44] been nominated for a podcast award. We are in the running for best educational podcast of 2010,
+[27:45 --> 27:50] and the award will be decided by an internet vote. So I figure that if every one of you takes a
+[27:50 --> 28:00] second to go to podcastawards.com, that again, podcastawards.com, and vote for us, then we have
+[28:00 --> 28:06] a pretty good shot at me forever after referring to The History of Rome as award-winning podcast,
+[28:06 --> 28:12] The History of Rome. Kind of like the way Pabst has gotten so much mileage out of that one blue
+[28:12 --> 28:19] ribbon they won that one time. You can vote once a day, so feel free to go crazy and let's win this
+[28:19 --> 28:25] thing. I also want to mention that the final nominees were selected based on the number of
+[28:25 --> 28:30] nominations each show got, which means that some of you out there took the time and effort
+[28:30 --> 28:38] to talk the show up, submit our name, and get us nominated. Thank you very much. And dare I say it?
+[28:38 --> 28:54] Yes, I think I will. It's an honor just to be nominated. Podcastawards.com. Go vote for us.

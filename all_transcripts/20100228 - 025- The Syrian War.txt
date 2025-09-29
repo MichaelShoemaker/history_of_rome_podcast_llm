@@ -1,0 +1,173 @@
+# 20100228 - 025- The Syrian War
+# Detected language: en
+# Duration: 808.07 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 25, The Syrian War.
+[00:12 --> 00:17] Last week, Rome was drawn into the thick of Greek politics and emerged from its brief
+[00:17 --> 00:21] war with Philip of Macedon, the leading power west of the Aegean.
+[00:22 --> 00:27] The hero of the Second Macedonian War, Gaius Flaminius, had declared Greece free
+[00:27 --> 00:30] from foreign interference, to the great joy of the proud Greeks.
+[00:32 --> 00:36] However, it was a peculiar form of freedom, as Flaminius did not seem to count Rome
+[00:36 --> 00:39] amongst the foreign powers Greece was free from.
+[00:40 --> 00:44] Soon enough, the Greeks would begin to look sideways at their liberators, who were
+[00:44 --> 00:46] fast becoming occupiers.
+[00:47 --> 00:51] A faction of Greeks, fed up with the Roman presence, would look across the Aegean
+[00:51 --> 00:56] to the only other power in the Mediterranean who could possibly expel the Romans, the
+[00:56 --> 01:00] Seleucid Empire of Syria, led by Antiochus the Great.
+[01:02 --> 01:07] Trouble began in 195 BC, the year after Flaminius' declaration.
+[01:08 --> 01:12] The Aetolian League, the collection of cities that had been Rome's first allies
+[01:12 --> 01:16] in Greece, felt they had not received the rewards they deserved for all the help
+[01:16 --> 01:17] they had given the Romans.
+[01:18 --> 01:22] All their aid for Rome had been given with the assumption that once they helped
+[01:22 --> 01:27] clear out Macedon, the Aetolian League would be handed control of Greece, with
+[01:27 --> 01:29] Rome withdrawing into the role of silent partner.
+[01:30 --> 01:33] But the generous Romans had not punished their Greek enemies at the bargaining
+[01:33 --> 01:38] table, and had left the existing power structure in place, granting the
+[01:38 --> 01:42] Aetolians no more control than they had prior to the war against Philip.
+[01:43 --> 01:47] Rome was well aware of the Aetolian grievances, and was also well aware
+[01:47 --> 01:51] that the Aetolians were entering negotiations with Sparta to form an
+[01:51 --> 01:55] alliance that could then offer itself to Antiochus if the Syrian king agreed to
+[01:55 --> 01:57] launch an anti-Roman offensive.
+[01:58 --> 02:03] Hoping to preempt an alliance, Flaminius led a force against Sparta, and easily
+[02:03 --> 02:04] overran the outnumbered Greeks.
+[02:05 --> 02:09] The move was a tactical victory in the sense that it forestalled an
+[02:09 --> 02:14] Aetolian-Spartan alliance, but strategically the move backfired, turning Greek public
+[02:14 --> 02:15] opinion against Rome.
+[02:16 --> 02:20] If Greece was free, why was a Roman army attacking Sparta?
+[02:20 --> 02:24] If Greece was free, what was a Roman army doing here in the first place?
+[02:25 --> 02:28] The public relations crisis only ballooned from there.
+[02:28 --> 02:32] Friends of Rome and Greece were fast becoming an endangered species.
+[02:35 --> 02:39] At the same time Rome moved against Sparta, envoys, including the leading
+[02:39 --> 02:44] citizen of his day, Scipio Africanus, were sent to Antiochus in Syria to
+[02:44 --> 02:45] convince him to keep out of Greece.
+[02:46 --> 02:50] The Roman delegates announced their policy of Greek freedom and ordered
+[02:50 --> 02:53] Antiochus to stay on his side of the Hellespont.
+[02:54 --> 02:58] Antiochus was amused by these demands, pointing out that if Greece was so
+[02:58 --> 02:59] free, what were the Romans doing there?
+[03:00 --> 03:04] It was a fair point, and the Romans had no real answer for it.
+[03:04 --> 03:08] Antiochus sent the delegation away, telling them flatly that Roman demands
+[03:08 --> 03:12] regarding Greece were as absurd as Antiochus dictating policy to the
+[03:12 --> 03:13] Romans in Italy.
+[03:14 --> 03:17] They would each do well to mind their own business.
+[03:19 --> 03:24] But before the cordial visit passed into open antagonism, Antiochus greeted
+[03:24 --> 03:26] the Romans with all the honors due of visiting power.
+[03:27 --> 03:32] Present also as a guest of Antiochus was Hannibal, the scourge of
+[03:32 --> 03:34] Carthage now living with the king in exile.
+[03:35 --> 03:38] In one of the most interesting face-to-face meetings of the ancient
+[03:38 --> 03:42] world, Scipio and Hannibal found themselves present at a banquet
+[03:42 --> 03:43] together.
+[03:44 --> 03:48] Scipio, perhaps needling Hannibal a bit, asked the Carthaginian
+[03:48 --> 03:51] casually who he thought were the greatest generals in history.
+[03:52 --> 03:55] Hannibal replied that he placed Alexander first, a choice
+[03:55 --> 03:57] Scipio heartily seconded.
+[03:58 --> 04:02] Next, Hannibal, needling the Romans back a bit, announced that
+[04:02 --> 04:05] Pyrrhus was his choice for second greatest general of all time,
+[04:06 --> 04:09] pointing out his succession of victories against the Romans.
+[04:10 --> 04:14] Hannibal then boldly declared that he put himself third on the list.
+[04:14 --> 04:17] Scipio, who was preparing for the satisfaction of Hannibal
+[04:17 --> 04:21] acknowledging that he was the better general, was shocked at the choice.
+[04:21 --> 04:25] How could Hannibal claim he was better than a man who had beaten him?
+[04:26 --> 04:29] As a way of reminding Hannibal of the outcome at Zama, he asked
+[04:29 --> 04:33] Hannibal, and where would you stand if you had actually, you know, beaten me?
+[04:34 --> 04:37] Hannibal replied that had he beaten Scipio, he would place
+[04:37 --> 04:42] himself even above Alexander, a backhanded acknowledgement that
+[04:42 --> 04:45] beating Scipio would have indeed been a major accomplishment, but that
+[04:45 --> 04:49] the Roman general did not merit a place amongst the very best of all time.
+[04:50 --> 04:54] Scipio nursed his wounded ego, no doubt, by remembering that he was
+[04:54 --> 04:58] dining with the king of Syria as a leading representative of a great power,
+[04:58 --> 05:01] while Hannibal was dining as little more than a beggar.
+[05:02 --> 05:03] Who's the best general now, sucker?
+[05:05 --> 05:10] At the conclusion of the meeting between Syria and Rome, the two powers were at loggerheads.
+[05:11 --> 05:15] Both sides were being goaded by their allies in Greece to fight it out.
+[05:15 --> 05:18] The Aetolians were begging Antiochus to drive the Romans out of Greece,
+[05:19 --> 05:24] and the Kingdom of Pergamum was egging Rome into attacking its neighbor Antiochus.
+[05:24 --> 05:28] Hannibal told the Syrian king he would gladly lead an invasion of Italy himself
+[05:28 --> 05:30] if given the troops and supplies.
+[05:31 --> 05:36] But no direct confrontation was forthcoming, so the Aetolians decided to press the issue
+[05:36 --> 05:41] by launching simultaneous attacks on three Roman-allied Greek cities,
+[05:41 --> 05:45] each of which would serve as a safe point of entry for any Syrian army.
+[05:46 --> 05:50] They were repulsed in two of the cities, but welcomed by the citizens of Demetrius,
+[05:51 --> 05:52] who were fed up with the Roman presence.
+[05:55 --> 05:59] This action, coupled with the fact that the Romans were showing signs of stepping back from
+[05:59 --> 06:03] Greece, convinced Antiochus that the time was ripe for an invasion.
+[06:04 --> 06:07] He gathered 10,000 troops and sailed for Demetrius.
+[06:08 --> 06:11] When he arrived, however, two facts became immediately apparent.
+[06:12 --> 06:15] First, the Aetolians had painted a somewhat misleading picture
+[06:15 --> 06:17] of the reception Antiochus would receive.
+[06:18 --> 06:23] Greeted not as a welcome liberator, Antiochus was treated as just another foreign invader
+[06:23 --> 06:26] and found the gates of Greece closed to his army.
+[06:27 --> 06:33] Second, Roman interest in Greece was waning only as long as no other power stepped into the vacuum.
+[06:34 --> 06:38] The arrival of the Syrians triggered an immediate Roman response.
+[06:38 --> 06:42] Two legions were mustered and sailed for a pyrus where they landed
+[06:42 --> 06:46] and began a march straight for the invaders, who were camped on the Aegean coast.
+[06:47 --> 06:51] At the same time, the Achaean League, a rival confederation of the Aetolians,
+[06:52 --> 06:54] declared for Rome and joined the legions.
+[06:55 --> 07:00] Antiochus and his 10,000 were facing an army that had grown to more than double that size.
+[07:02 --> 07:05] Knowing he had miscalculated but unwilling to simply run for it,
+[07:06 --> 07:11] Antiochus looked around for a nearby spot where the clear numerical superiority of the
+[07:11 --> 07:16] Romans would be negated and settled on the most famous bottleneck in history, Thermopylae.
+[07:17 --> 07:21] 300 Spartans had stood against 2 million Persians, right?
+[07:21 --> 07:24] 10,000 versus 20,000 would be a pretty safe bet.
+[07:26 --> 07:29] Except that the Syrians were not the Spartans, the Romans were not the Persians,
+[07:30 --> 07:34] and everyone and their mother knew by now that there were ways of getting around the narrow pass.
+[07:36 --> 07:39] It may have looked good on paper, or I guess I should say papyrus,
+[07:39 --> 07:44] but when the Romans arrived, this battle of Thermopylae had none of the luster of the
+[07:44 --> 07:50] original. Roman victory was quick and decisive. Antiochus fled back across the Hellespont
+[07:50 --> 07:54] and the Romans, smelling blood, came fast on his heels.
+[07:56 --> 08:00] The one lasting legacy of this battle of Thermopylae was the entrance of Cato the
+[08:00 --> 08:06] Elder onto history's stage. The man who would dominate Roman politics for the next 50 years
+[08:06 --> 08:11] made a name for himself leading the charge around the rear of the Syrian army that proved
+[08:11 --> 08:17] to be the critical maneuver of the battle. Cato, the great conservative of his time,
+[08:17 --> 08:22] would be the leading defender of old Roman virtue and find himself constantly at odds with
+[08:22 --> 08:28] Scipio Africanus, who represented the modern Roman man, Hellenized and worldly. Cato fought
+[08:28 --> 08:33] a losing battle against the evolution of the Roman character, but was idolized by future
+[08:33 --> 08:39] generations who longed for the simple Stoicism of a now largely mythical Golden Age they held
+[08:39 --> 08:43] out in contrast to the modern corrupt state they lived with.
+[08:45 --> 08:52] In 190 BC, adopting a clearly aggressive stance toward Antiochus, the Romans elected his
+[08:52 --> 08:57] consul, Neus Scipio, the brother of Scipio Africanus, and sent the two brothers to Greece
+[08:57 --> 09:04] to pursue what policies they would. The Scipiones, notoriously bold, did not waste
+[09:04 --> 09:08] time and took their armies across the Hellespont, leading the Romans into Asia
+[09:09 --> 09:16] time. As this was occurring, in the south, Hannibal, who had for reasons of court jealousy
+[09:16 --> 09:22] been left out of Antiochus's general staff, was relegated to commanding a small fleet of ships
+[09:22 --> 09:28] engaged with the Roman ally Rhodes off the coast of Asia Minor. The great commander,
+[09:28 --> 09:33] whose talents were clearly wasted, was unable to pry victory from the jaws of defeat
+[09:33 --> 09:39] and found himself routed by the Rhodesian navy. Who knows what would have happened if Antiochus
+[09:39 --> 09:43] had allowed Hannibal to lead his forces into Greece or placed him at the head of the army
+[09:43 --> 09:48] that was about to be annihilated by the Scipione brothers. Maybe Roman inertia would
+[09:48 --> 09:53] have proved too much to overcome, but then again maybe the Carthaginian general could
+[09:53 --> 09:58] have played a role in keeping the Romans bottled up in the west. Certainly, leaving
+[09:58 --> 10:02] Hannibal on the bench was not a move that served Antiochus well.
+[10:03 --> 10:08] The decisive battle came at Magnesia, on the border between Pergamum and Syria,
+[10:08 --> 10:13] in modern-day Turkey, where Antiochus had gathered 70,000 Syrian and mercenary troops.
+[10:14 --> 10:20] Against this force marched 50,000 Italians and a mixture of Greek allies. The numerical
+[10:20 --> 10:25] superiority of the Syrians was easily offset by the far greater talent of the Romans.
+[10:26 --> 10:30] The undertrained Syrians lacked the hard-nosed professionalism of the Romans,
+[10:30 --> 10:35] and the outcome of the battle was never in doubt. Antiochus's army was crushed,
+[10:35 --> 10:40] and the disparity between the two supposedly equal powers was thrown out into the open.
+[10:41 --> 10:46] With a victorious and practically unscathed Roman army standing triumphant deep in Asia
+[10:46 --> 10:51] Minor, the truth became apparent. Rome had no equal in the Mediterranean.
+[10:52 --> 10:58] The terms Rome laid at the feet of Antiochus were harsh. A huge cash payment was demanded,
+[10:59 --> 11:03] hostages of the ruling families were taken back to Rome, and the Syrian king agreed to
+[11:03 --> 11:08] never again cross the Taurus Mountains, which stood between Anatolia and the mainland Middle
+[11:08 --> 11:14] East. This range became the de facto frontier of the rapidly expanding Roman Empire.
+[11:15 --> 11:20] Though Greece and Asia Minor would not be incorporated as official provinces for years,
+[11:20 --> 11:26] Roman rule in the region was never again in doubt. It was a Roman world, the Greeks just lived in it.
+[11:29 --> 11:32] The outcome of the war seems like it should have been another feather in the cap of Scipio,
+[11:33 --> 11:37] but instead it became the source of a great bitterness that would fill the Roman general
+[11:37 --> 11:43] for the rest of his life. Upon returning to Rome, the Scipione brothers were accused by
+[11:43 --> 11:48] Cato and his allies of misappropriating war funds. While not denying the charges,
+[11:48 --> 11:54] Scipio asked if anyone present was dissatisfied with the fact that Rome was making back five
+[11:54 --> 11:58] times what it had put into the war because of the indemnity forced on Antiochus by the two
+[11:58 --> 12:06] brothers. Anyone? Anyone? The brothers were off the hook for a while, but charges were
+[12:06 --> 12:10] raised again five years later. In a bit of poor planning by the opposition, however,
+[12:11 --> 12:14] the charges against Scipio were brought on the anniversary of the Battle of Zama,
+[12:14 --> 12:20] and public support for Scipio was at an all-time high. He was never convicted of anything,
+[12:21 --> 12:26] but the affair left a bad taste in the general's mouth. Retiring to an estate in Campania,
+[12:27 --> 12:32] he died in 183 BC. The epitaph of his tomb allegedly read,
+[12:32 --> 12:39] ungrateful fatherland, you will not even have my bones. He never did deny the charges, though.
+[12:41 --> 12:48] Next week, Rome will face Deja vu all over again. After the deaths of Philip V and Antiochus
+[12:48 --> 12:53] the Great, their sons would pick up the mantle and challenge Rome in the field.
+[12:54 --> 12:58] Having not yet felt the sting of defeat, the brash young kings would soon enough find
+[12:58 --> 13:03] themselves as beaten and demoralized as their fathers. Fighting Rome was nothing
+[13:03 --> 13:05] if not a death blow to the ego.

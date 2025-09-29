@@ -1,0 +1,298 @@
+# 20100621 - 099- What Evil Have I Done_
+# Detected language: en
+# Duration: 1544.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. Audible is the Internet's leading
+[00:05 --> 00:10] provider of audio entertainment with over 60,000 titles to choose from. When you're
+[00:10 --> 00:17] done with this episode, go to audiblepodcast.com forward slash Roam. That again is audiblepodcast.com
+[00:17 --> 00:22] forward slash Roam. By going to that address, you qualify for a free book download when
+[00:22 --> 00:26] you sign up for a 14-day trial membership. There is no obligation to continue the service
+[00:26 --> 00:31] and you can cancel any time. You can also keep going with one of the monthly subscription
+[00:31 --> 00:36] options and get great deals on all future audiobook purchases. This week, I'm going
+[00:36 --> 00:41] to recommend A Short History of Nearly Everything by Bill Bryson, a thoroughly enjoyable trip
+[00:41 --> 00:46] through an amazing variety of topics. I seem to recall something in there about the odds
+[00:46 --> 00:51] of polypeptides coming together in just the right pattern to form life being greater than
+[00:51 --> 00:57] the number of atoms in the universe. So it's pretty good stuff. Just remember to go to
+[00:57 --> 01:08] audiblepodcast.com forward slash Roam so that they know who sent you. Hello and welcome to
+[01:08 --> 01:17] the history of Roam. Episode 99. What evil have I done? So the Praetorians had pulled
+[01:17 --> 01:22] off the perfect crime. They had murdered an emperor and replaced him with a man whose
+[01:22 --> 01:27] only claim to the throne was that he had promised to pay them all a boatload of cash. Yep, they
+[01:27 --> 01:32] were set for life and nothing could touch them. They were, after all, the Praetorian
+[01:32 --> 01:40] Guard. The Praetorian Guard. While commonists reigned, the various cabals of corrupt imperial
+[01:40 --> 01:44] officials who came and went over the years had wielded near absolute power over the people
+[01:44 --> 01:50] and the Praetorians had been the iron hand keeping them all in line. So perhaps the last
+[01:50 --> 01:55] twelve years had made the guard a bit myopic. What they were forgetting was that commonists
+[01:55 --> 01:59] had paid enough attention to the provincial legions that they never really considered
+[01:59 --> 02:04] rebellion. Plus, he was the son of Marcus Aurelius, who was the son of Antoninus, who
+[02:04 --> 02:10] was the son of Hadrian, who was the son of Trajan. The legitimacy of his rule was never
+[02:10 --> 02:15] really in question. Maybe his antics left something to be desired, but it's not like
+[02:15 --> 02:19] anyone could really mount a legal brief proving that they had more of a claim to the throne
+[02:19 --> 02:27] than Commodus, son of Marcus, son of Antoninus, etc., etc. But now, well, in their hubris,
+[02:27 --> 02:32] the Praetorians had missed the fact that killing Pertinax and putting Julianus in power meant
+[02:32 --> 02:38] that all bets were now off. It did not take long for the Praetorians to realize their
+[02:38 --> 02:43] mistake. Words spread quickly about what had happened to Pertinax and what had happened
+[02:43 --> 02:49] after he was dead. The leading governors across the empire, each on their own initiative,
+[02:49 --> 02:54] refused to recognize Julianus' lawful emperor and instead simply got down to the business
+[02:54 --> 03:00] of deciding who they wanted to replace Julianus with. Coincidentally, the answer each one
+[03:00 --> 03:07] of them came up with was the same. Me. In April 193, Claudius Albinus, Septimius Severus,
+[03:08 --> 03:13] and Paschinius Niger, each stood at the head of their armies and, vowing to revenge the
+[03:13 --> 03:17] murder of Pertinax and restore dignity to the empire, they were each hailed emperor
+[03:17 --> 03:23] by their assembled troops. Well, technically Albinus refused the title emperor, but the
+[03:23 --> 03:28] effect was the same. This meant that unless they could come to some sort of agreement
+[03:28 --> 03:35] with one another, this trifecta of pretenders meant only one thing. Civil war. And I don't
+[03:35 --> 03:39] want to give anything away, but guess what? They don't really come to an agreement with
+[03:39 --> 03:46] one another. As quickly as word reached the legionary camps that Julianus was emperor,
+[03:46 --> 03:53] word came back to Julianus that, yeah right, won a bet. But having mortgaged a great deal
+[03:53 --> 03:57] of his honor in buying the imperial throne, Julianus was not prepared to just give it
+[03:57 --> 04:03] up at the first sign of trouble. He was an experienced commander and administrator. Now
+[04:03 --> 04:09] was the time to muster all that experience and fight to keep what he had paid for. He
+[04:09 --> 04:14] rightly concluded that Niger and Albinus were too far away to pose an immediate threat,
+[04:14 --> 04:21] but Septimius Severus and Pannonia? That right there was most definitely an immediate threat.
+[04:21 --> 04:25] The discipline of the Danube legions and the quality of the Roman roads meant that if he
+[04:25 --> 04:31] wanted to, Severus could march his army to the gates of Rome in a matter of weeks. Severus
+[04:31 --> 04:37] had to be neutralized immediately. So for the crime of treason against the new emperor,
+[04:37 --> 04:42] Julianus, again with armed soldiers literally standing over the senate's shoulders, induced
+[04:42 --> 04:47] the body to declare Severus a public enemy and pass a sentence of death against the rogue
+[04:47 --> 04:54] general. Severus, meanwhile, wasted no time breaking camp. He knew, just as Julianus knew,
+[04:56 --> 05:01] that he was the closest of the provincial generals to Rome. If he moved fast, he would
+[05:01 --> 05:06] be able to beat Albinus and Niger to the punch and, invoking the old possession is nine-tenths
+[05:06 --> 05:13] of the law thing, dare them to challenge him, not Julianus, for control of the capital.
+[05:13 --> 05:19] Plus, once Julianus the dishonorable usurper was ousted and our beloved Pertinax avenged,
+[05:19 --> 05:25] a lot of the rhetorical wind would go out of their arguments. Gibbon estimated that,
+[05:25 --> 05:30] with the prize of supreme power in sight, that Severus pushed his troops to the limit
+[05:30 --> 05:36] and marched them at a clip of about twenty miles a day toward Rome. As he was on the
+[05:36 --> 05:42] move, Severus had a Machiavellian brainstorm. His next closest rival, geographically speaking,
+[05:42 --> 05:48] was Albinus up in Britain. Albinus was an excellent commander and the British legions,
+[05:48 --> 05:54] while lacking some of the prestige of Severus' Danube troops, was still a formidable army.
+[05:54 --> 05:58] There was little doubt, though, that in the end, Paschinius Niger, who would be able to
+[05:58 --> 06:04] muster the full resources of the rich eastern empire, would prove to be Severus' more formidable
+[06:04 --> 06:10] opponent. So Severus sent a note up to Albinus, who was also, by the way, the youngest of
+[06:10 --> 06:15] the three, promising that if Albinus backed Severus' emperor, Severus would name Albinus
+[06:15 --> 06:22] Caesar, effectively making him the heir apparent. Albinus, in part because it satisfied his
+[06:22 --> 06:27] personal ambition, but also in part because aligning with Severus would head off civil
+[06:27 --> 06:32] war, agreed to the terms, and just like that, Septimius Severus had locked up the whole
+[06:32 --> 06:38] western empire. Whether he was aware of these further developments
+[06:38 --> 06:44] is unknown, but it didn't really matter. Julianus was already stricken by the justifiable
+[06:44 --> 06:48] fear that he had nothing in his disposal that could match up against the three Pannonian
+[06:48 --> 06:55] legions. Tossing in the British troops was really just piling on. So, still scrambling
+[06:55 --> 07:00] for any means of survival, he sent a group of senators north to convince the Pannonian
+[07:00 --> 07:05] troops with a bundle of carrots and sticks that they ought to abandon their leader's
+[07:05 --> 07:11] cause. However, doubting that the delegation would have much of an effect, Julianus also
+[07:11 --> 07:15] sent some hand-picked men on a secret mission to just assassinate Severus and be done with
+[07:15 --> 07:22] him. By hook or crook, Severus had to be stopped before he reached Rome, or else Julianus was
+[07:22 --> 07:29] doomed. While he waited to hear how his various missions turned out, he set what men he had,
+[07:29 --> 07:34] that is, the Praetorians and the urban cohorts, to work fortifying the city and drilling for
+[07:34 --> 07:39] battle to keep their minds from dwelling on the fact that they were all probably dead
+[07:39 --> 07:45] in. Severus passed into Italy without meeting any resistance and occupied Ravenna, home
+[07:45 --> 07:52] of the Imperial fleet, simply by showing up and announcing that he was now occupying Ravenna.
+[07:52 --> 07:57] With eventual victory all but assured, Severus was finally met by the various delegations
+[07:57 --> 08:03] sent by Julianus to talk him out of it or kill him or whatever. The assassination squad
+[08:03 --> 08:08] was detected long before it got close to Severus and failed to penetrate the general's
+[08:08 --> 08:14] outer circle, let alone his inner one. The senators, though, were allowed to meet the
+[08:14 --> 08:20] general and make their case. Far from convincing Severus to abandon his cause or the troops
+[08:20 --> 08:26] to abandon Severus, the group heard what Severus had to say, namely that Julianus did not stand
+[08:26 --> 08:32] a chance and that he was about to become emperor. They immediately switched sides. The desperate
+[08:32 --> 08:37] Julianus then ordered a token force north to try to halt the incoming Pannonian legions,
+[08:37 --> 08:43] but they were brushed aside with hardly a fight. The only notable thing about the skirmish
+[08:43 --> 08:49] is that it was the first time Romans had fought Romans in 124 years. It would not, by any
+[08:49 --> 08:56] means, be the last. As he continued south, towns and cities threw their doors open to
+[08:56 --> 09:03] Severus and hailed him emperor. So not only had Julianus failed to stop Severus, but his
+[09:03 --> 09:08] rival was picking up steam and shrouding himself in something of an aura of inevitability.
+[09:08 --> 09:14] Panicked, Julianus sent a message north to his rival, declaring that he would be open
+[09:14 --> 09:19] to discussing some sort of power-sharing agreement. But Severus knew what the score was and he
+[09:19 --> 09:26] flatly rejected the offer. He stopped about 70 miles north of Rome in late May 193 and
+[09:26 --> 09:33] prepared for his final march on the city. He didn't want to take it by force, though,
+[09:33 --> 09:36] after all, he was about to have to lead these people and if he wanted to stay in office
+[09:36 --> 09:42] longer than Julianus, he couldn't kick things off by making a bloody mess of the capital.
+[09:42 --> 09:48] So he opened negotiations to isolate Julianus and remove him from power peacefully.
+[09:48 --> 09:53] He started by informing the Praetorians that they would not be punished if they agreed
+[09:53 --> 09:59] to hand over the men who had killed Pertinax. After about 17 seconds of debate, they agreed
+[09:59 --> 10:04] to the terms and delivered Letus and the others to Severus's men. Not a man to beat
+[10:04 --> 10:10] around the bush, Severus had them all killed immediately.
+[10:10 --> 10:15] This show of murderous resolve convinced all the men surrounding Julianus that the time
+[10:15 --> 10:21] to abandon the doomed foe emperor was right about now. The Praetorians informed the Senate
+[10:21 --> 10:27] that they no longer supported Julianus and on June 1st, the Senate responded by declaring
+[10:27 --> 10:32] Severus the lawful emperor and Julianus an enemy of the state.
+[10:32 --> 10:38] The exact circumstances of Julianus's fate are variously told, but the most common version
+[10:38 --> 10:43] is that the defrocked Julianus, now left miserably alone in the palace, was apprehended by a
+[10:43 --> 10:49] company of soldiers, marched into a private chamber, and beheaded.
+[10:49 --> 10:54] His last words were recorded as the pitiful, but not entirely unjustified plea. What evil
+[10:55 --> 11:02] have I done? Whom have I killed? He was either 56 or 58 years old and had ruled Rome for
+[11:02 --> 11:08] a grand total of 66 days.
+[11:08 --> 11:12] With Julianus deposed and both the Senate and Praetorians declaring him their sovereign,
+[11:12 --> 11:17] Septimius Severus became emperor of the Roman Empire.
+[11:17 --> 11:21] His claim to power was not totally secure and there was still much to be done, but I
+[11:21 --> 11:25] don't think I'm giving anything away when I say that he will successfully outmaneuver
+[11:25 --> 11:31] his rivals and in the process found a new imperial dynasty that will rule Rome more
+[11:31 --> 11:35] or less uninterrupted for the next 42 years.
+[11:35 --> 11:40] It was, when you get right down to it, quite a feat for an obscure half-Punic, half-Roman
+[11:40 --> 11:46] equite from Libya.
+[11:46 --> 11:51] Lucius Septimius Severus had been born in 145 in the province of Africa, right at the beginning
+[11:51 --> 11:58] of the Golden Age of Antoninus. His father was a native, though thoroughly Romanized,
+[11:58 --> 12:02] African of equestrian rank, but his mother was Italian and related to a prominent Roman
+[12:02 --> 12:04] family.
+[12:04 --> 12:09] Though his own immediate family was not particularly influential, his father apparently never held
+[12:09 --> 12:15] political office, he had two cousins back in Italy, Uncle Publius and Uncle Gaius, who
+[12:15 --> 12:21] would both serve as consuls during the reign of Antoninus. Gaius Septimius Severus in particular
+[12:21 --> 12:27] would be the bridge young Lucius used to cross over from obscurity to prominence.
+[12:27 --> 12:32] The details of his youth are not particularly well known, but he was educated as much as
+[12:32 --> 12:37] a minor provincial family could afford, and by the time he was 17, his expressed interest
+[12:37 --> 12:42] in making more of himself than his father had, led Uncle Gaius to recommend him to the
+[12:42 --> 12:46] new emperor, Marcus Aurelius.
+[12:46 --> 12:51] But despite the endorsement, giving some young provincial a special leg up wasn't on Marcus's
+[12:51 --> 12:57] to-do list at the time, and so Severus languished in a sort of limbo, waiting patiently to
+[12:57 --> 13:01] reach the minimum age to serve as quaester, when it was hoped that Marcus would appoint
+[13:01 --> 13:06] him to office, and simultaneously enroll him in the Senate.
+[13:06 --> 13:11] This obviously did not mark him for greatness, as most men destined for the purple had all
+[13:11 --> 13:16] these age requirements waived, and had already served as consul by now. But then again, Severus
+[13:16 --> 13:22] wasn't aiming to be emperor, he was simply shooting for prominence.
+[13:22 --> 13:26] Things actually got a little bit worse for young Severus in the mid to late 160s, as
+[13:26 --> 13:33] he waited patiently for the expected assignment. The Antonine plague infected Rome, and Severus
+[13:33 --> 13:38] prudently, if a bit dejectedly, left the disease capital and returned to Africa where things
+[13:38 --> 13:40] were safer.
+[13:40 --> 13:44] He had left home with high hopes, and now he was right back where he had started, with
+[13:44 --> 13:49] nothing to show for it but a few wasted years.
+[13:49 --> 13:53] But the plague, which seemed like it might be the final nail in the coffin of whatever
+[13:53 --> 13:58] grand ambitions Severus secretly harbored for himself, actually turned out to be the
+[13:58 --> 14:02] defibrillator that brought those ambitions back to life.
+[14:02 --> 14:07] In addition to being a human tragedy of enormous proportions, the plague had the practical
+[14:07 --> 14:12] effect of creating many a vacancy in the imperial government.
+[14:12 --> 14:17] Just as the Second Punic War, and specifically the disaster at Cannae, had cleared out most
+[14:17 --> 14:22] of the rising stars of the old patrician families, and opened the door for men of merit wherever
+[14:22 --> 14:28] they might be found, so too did the Antonine plague leave room for men who likely never
+[14:28 --> 14:32] would have been granted a second look had the old aristocracy not been dropping like
+[14:33 --> 14:38] I think Pompey, honest, benefited from these conditions, Pertinax certainly rose higher
+[14:38 --> 14:44] than he otherwise would have, and young Severus, nobody provincial, would soon find his application
+[14:44 --> 14:49] for membership in the senate readily granted and important business happily heaped upon
+[14:49 --> 14:52] his shoulders.
+[14:52 --> 14:57] But even here, Severus's career progressed in fits and starts.
+[14:57 --> 15:02] He was assigned a pro-questorship in the Spanish senatorial province of Betica, but
+[15:02 --> 15:08] soon after taking up the posting his father died, forcing Severus to return home to assume
+[15:08 --> 15:11] the mantle of paterfamilias.
+[15:11 --> 15:16] While he was gone, which means we can infer this was around 172 or so, the Moors invaded
+[15:16 --> 15:20] Spain and threw the region into crisis.
+[15:20 --> 15:25] The senate handed control of Betica to the emperor, and in trade the emperor granted
+[15:25 --> 15:29] the senate authority over the island of Sardinia.
+[15:29 --> 15:34] So when he was ready to return to duty, Severus was redirected to the moderately hostile backwater
+[15:34 --> 15:40] of Sardinia rather than the lush and wealthy coast of Spain.
+[15:40 --> 15:44] But uncle Gaius still saw promise in the young man, though it should be admitted he was not
+[15:44 --> 15:46] quite so young anymore.
+[15:46 --> 15:51] He was serious and dedicated, and so when Gaius Severus was assigned the pro-consulship
+[15:51 --> 15:57] of Africa, he picked his younger cousin to serve on his staff.
+[15:57 --> 16:02] In 175, the now 30-year-old Severus married a local African girl, and though they were
+[16:02 --> 16:09] married 11 years, she would die in 186, no children resulted from the union.
+[16:09 --> 16:14] Around that same time, he was the recipient of imperial favor and appointed to serve as
+[16:14 --> 16:19] one of the now entirely honorary Tribune of the Plebs back in Rome.
+[16:19 --> 16:23] For the decade that followed, he would find himself fully in the emperor's good graces
+[16:23 --> 16:28] and assigned to key political and military posts across the empire, mostly in Spain and
+[16:28 --> 16:31] Gaul.
+[16:31 --> 16:35] When Commodus succeeded his father, Severus was close enough to the imperial family that
+[16:35 --> 16:42] Commodus trusted him, without being so close that Commodus felt threatened by him.
+[16:42 --> 16:46] Shortly after Lucilla's failed plot to kill her brother, though, Severus did temporarily
+[16:46 --> 16:52] fall from favor, when he botched, perhaps intentionally, the job of tracking down one
+[16:52 --> 16:55] of the conspirators who had fled east.
+[16:55 --> 17:00] But this was a minor blip on Severus's now firmly established record, and before too
+[17:00 --> 17:05] long he was called back into service.
+[17:05 --> 17:11] In 186, Severus's first wife died, and he set himself to finding a new partner, this
+[17:11 --> 17:17] time one he hoped would help catapult his career to the next level.
+[17:17 --> 17:21] Belief in astrology and divination was as strong in the empire as it had ever been,
+[17:21 --> 17:26] and Severus in particular bought into the whole system completely.
+[17:26 --> 17:30] He was informed by some mystics that there was a woman in the east who was destined to
+[17:30 --> 17:37] marry a king, so Severus immediately went forth to track her down and marry her.
+[17:37 --> 17:42] The woman in question was a Syrian named Julia Domna, who was descended from a line of kings
+[17:42 --> 17:50] established by Pompey during his initial political reorganization of the east in the 60s BC.
+[17:50 --> 17:54] Though her family's royalty had long been stripped away, her father was a high priest
+[17:54 --> 18:00] in the small but important mystery religion that dedicated itself to the worship of Elagabal,
+[18:00 --> 18:03] god of the sun.
+[18:03 --> 18:07] Severus talked his way into an engagement with the woman who was destined to marry a
+[18:07 --> 18:12] king, and in the summer of 187 the two were wed.
+[18:12 --> 18:16] The marriage would prove to be a happy and fruitful one.
+[18:16 --> 18:21] Julia would go down as one of the more beloved empresses of all time, and apart from earning
+[18:21 --> 18:27] praise for her intelligence, wit, and political savvy, she was also a tireless promoter of
+[18:27 --> 18:31] the arts, philosophy, and poetry.
+[18:31 --> 18:35] Though she did her best to stem the tide, her work was largely a losing battle against
+[18:35 --> 18:41] a Greco-Roman culture that had stagnated and felt content to worship past masters rather
+[18:41 --> 18:46] than cultivate their generation's own voices.
+[18:46 --> 18:54] In 188 Severus's first son, Lucius Septimius Bossianus was born, and in 189 a second son,
+[18:54 --> 18:58] Publius Septimius Geta, followed.
+[18:58 --> 19:02] Though the elder son would be known during his own life as Lucius, we know him today
+[19:02 --> 19:07] by the nickname that was rarely uttered in his presence, but which I'll use to refer
+[19:07 --> 19:11] to him from here on out, Caracalla.
+[19:11 --> 19:15] The feud with his younger brother Geta, the means by which he resolved said feud, and
+[19:15 --> 19:20] the tyrannical regime he subsequently oversaw following his father's death, would become
+[19:20 --> 19:26] the stuff of legend, and Caracalla provided most, but not all of the reasons we usually
+[19:26 --> 19:32] the Severan dynasty, the troubled Severan dynasty.
+[19:32 --> 19:36] Before we move on from Severus's growing nuclear family, though, I should mention that
+[19:36 --> 19:43] his new sister-in-law, Julia Misa, will soon become a major player in her own right.
+[19:43 --> 19:48] It was her young grandsons, whom we know as Elagabalus and Alexander Severus, who will
+[19:48 --> 19:53] round out the ill-fated Severan dynasty.
+[19:53 --> 19:58] At the time of their respective ascensions, Julia Misa will wield considerable influence
+[19:58 --> 20:04] behind the scenes, and in her heyday was the most powerful Roman woman the empire had ever
+[20:04 --> 20:10] seen since the time of Agrippina.
+[20:10 --> 20:14] His family growing happily and rapidly, though what it grew into was an entirely different
+[20:14 --> 20:20] story, Severus finally received that bright-feather political men still strove to put in their
+[20:20 --> 20:26] caps despite its ultimate irrelevance by being named consul in 190.
+[20:26 --> 20:31] As you'll recall, though, his consulship was even more irrelevant than most, his naming
+[20:31 --> 20:38] coming as it did in the middle of Cleander's scandalous list of 25 for the year.
+[20:38 --> 20:43] The following year, Severus was assigned to the key governorship of Pannonia, which brings
+[20:43 --> 20:45] us back to where we just began.
+[20:45 --> 20:51] The assassination of Commodus, the murder of Pertinax, the elevation of Julianus.
+[20:51 --> 20:55] Severus was willing to accept Pertinax and so kept his men in check during what had to
+[20:55 --> 21:01] be at least a slightly chaotic period following Commodus' demise, but Julianus?
+[21:01 --> 21:07] Julianus was not to be accepted, nor tolerated, nor even resigned to.
+[21:07 --> 21:13] Julianus was to be removed.
+[21:13 --> 21:19] Severus entered Rome in June 193 as the acknowledged master of the Roman Empire, king in all but
+[21:19 --> 21:23] name, just as the oracles had predicted.
+[21:23 --> 21:28] His first act was to order the disgraced Praetorian guard to assemble unarmed on a plain outside
+[21:28 --> 21:34] the city walls, where they were surrounded by his own armed troops.
+[21:34 --> 21:38] The Praetorians were no doubt thinking that Severus' promise of no recriminations was
+[21:38 --> 21:43] about to be revealed as just a clever expedient, and that they were all about to pay the ultimate
+[21:43 --> 21:49] price for their greed and hubris, but Severus instead simply ordered them to disband.
+[21:49 --> 21:54] That is, the Praetorian guard was abolished.
+[21:54 --> 21:58] The now former members of the guard escaped with their lives, but found their livelihoods
+[21:58 --> 22:03] stripped away in an instant.
+[22:03 --> 22:07] In place of the old Praetorians, which had been an assembly of mostly Italian, mostly
+[22:07 --> 22:12] well-to-do soldiers who treated the posting as purely ceremonial and little more than
+[22:12 --> 22:17] an opportunity to live high on the hog at the Empire's expense, Severus instituted a
+[22:17 --> 22:19] new order of Praetorians.
+[22:19 --> 22:25] This one would be four times as large and be made up of provincial soldiers.
+[22:25 --> 22:30] Rather than a social club for pampered Italians, the guard was reconstructed to be the premier
+[22:30 --> 22:35] military unit in the Empire, and served as the ultimate reward for excellent service
+[22:35 --> 22:37] in the legions.
+[22:37 --> 22:41] The reconstruction of the Praetorians was, in other words, now open to any soldier who
+[22:41 --> 22:45] earned the right.
+[22:45 --> 22:48] The effects of this reconstruction were threefold.
+[22:48 --> 22:54] First, it further increased the distance between the citizens of Rome and their emperor.
+[22:54 --> 22:58] Rather than the barrier separating the two being made up of armed Italians, who at least
+[22:58 --> 23:03] looked like the citizens of Rome and talked like them, and were in many cases related
+[23:04 --> 23:09] The barrier was now made up of a motley group of uncouth provincial soldiers who shared
+[23:09 --> 23:13] nothing in common with the citizenry of the capital.
+[23:13 --> 23:17] From this point on, basically, no one had a cousin in the guard anymore who could, you
+[23:17 --> 23:21] know, bend the rules a bit now and then.
+[23:21 --> 23:26] The second ramification of the Praetorian reorganization was that it wound up draining
+[23:26 --> 23:29] away talent from the provinces.
+[23:29 --> 23:33] When the best soldiers are promoted up to a posting in Rome, well, they're not around
+[23:33 --> 23:38] to help dig trenches anymore, or lead men in battle, or generally ensure that the borders
+[23:38 --> 23:41] remain secure.
+[23:41 --> 23:45] Though only one of many factors that led to the disastrous barbarian invasions of the
+[23:45 --> 23:50] next century, it certainly didn't help that all the best men were stationed in Rome rather
+[23:50 --> 23:54] than on the Danube when the Goths came calling.
+[23:55 --> 24:00] Finally, when the old guard was disbanded, they took with them the last few Italians
+[24:00 --> 24:03] still serving in uniform.
+[24:03 --> 24:08] The Roman legions were now no longer in any sense Roman legions.
+[24:08 --> 24:13] From here on out, wherever you looked, you saw foreign faces under those helmets.
+[24:13 --> 24:18] The Romans themselves were now content to let others do the fighting for them.
+[24:18 --> 24:23] This abandonment of their martial heritage is high on the list of potential reasons why
+[24:23 --> 24:28] the Western Empire ultimately fell.
+[24:28 --> 24:33] But as of yet, these reorganizations were still just a glimmer in Severus's eye.
+[24:33 --> 24:38] He had been recognized by the Senate and the Praetorians, but so what?
+[24:38 --> 24:41] So had the late Didius Julianus.
+[24:41 --> 24:46] Paschinius Niger was still in Syria, still in control of the resources of the Eastern
+[24:46 --> 24:52] Empire, and still showing every indication that he was planning to become emperor himself.
+[24:52 --> 24:57] Claudius Albinus was temporarily sated, but Severus knew that Albinus would not be so
+[24:57 --> 25:03] docile when the new emperor revealed his plan to double-cross his supposed heir and instead
+[25:03 --> 25:08] name his sons Caracalla and Geta co-Caesars.
+[25:08 --> 25:13] Next week, Severus will face down his two rivals in a three-way battle for power that
+[25:13 --> 25:17] will finally unlock the Pandora's Box of Civil War that the Romans had successfully
+[25:17 --> 25:21] kept shut for 125 years.

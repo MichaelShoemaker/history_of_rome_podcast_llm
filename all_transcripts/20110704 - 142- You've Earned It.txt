@@ -1,0 +1,336 @@
+# 20110704 - 142- You've Earned It
+# Detected language: en
+# Duration: 1540.08 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to the History of Rome, Episode 142, You've Earned It.
+[00:14 --> 00:19] Last time, we left off with Constantius II, finally headed west after extracting himself
+[00:19 --> 00:23] from the war with Persia in the winter of 350 AD.
+[00:23 --> 00:28] It had been almost a year since the Gallic general Magnentius had overthrown and killed
+[00:28 --> 00:34] Constantius's younger brother Constans, and it was finally, finally time for the emperor
+[00:34 --> 00:37] to do something about it.
+[00:37 --> 00:42] While on his way to dole out some imperial retribution, though, Constantius had to stop
+[00:42 --> 00:45] along the way to take care of some business.
+[00:45 --> 00:51] You'll recall from last week that in March of 350, at the prompting of Constantina, the
+[00:51 --> 00:57] general Vetroneo had declared himself Augustus at his headquarters along the Danube frontier.
+[00:57 --> 01:02] He had made this move specifically to aid Constantius and to counter the rise of Magnentius,
+[01:02 --> 01:09] but when push came to shove, who knew what his ultimate ambitions were, or what Constantius's
+[01:09 --> 01:14] reaction was going to be to Vetroneo's self-elevation.
+[01:14 --> 01:18] So far, the emperor had let it slide because he had been tied up with the war against the
+[01:18 --> 01:22] Sassanids, but now, who knows?
+[01:22 --> 01:26] As Constantius approached the Dacian city of Sardica, though, it became obvious that neither
+[01:26 --> 01:29] man was planning to double-cross the other.
+[01:29 --> 01:36] The aging Vetroneo welcomed 33-year-old Constantius as the true Augustus, and Constantius accepted
+[01:36 --> 01:39] the welcome without malice.
+[01:39 --> 01:44] They then traveled together across the province to Nices, where, on December 25, the two leaders
+[01:44 --> 01:48] mounted a stage before an assembly of troops.
+[01:48 --> 01:52] The soldiers had been instructed to reaffirm their allegiance to Constantius, and so, right
+[01:52 --> 01:56] on cue, they reaffirmed their allegiance to Constantius.
+[01:56 --> 02:00] The emperor accepted their pledge of loyalty, and then thanked Vetroneo for the good work
+[02:00 --> 02:03] he had done defending his family's honor.
+[02:03 --> 02:08] Then, he graciously accepted the general's resignation, not just from the office of Augustus,
+[02:08 --> 02:11] but from the army completely.
+[02:11 --> 02:15] There were no hard feelings on either side, but there was absolutely no way Constantius
+[02:15 --> 02:21] could afford to have a man who had sniffed imperial power remain anywhere near that power.
+[02:21 --> 02:23] It was just bad for business.
+[02:23 --> 02:28] Vetroneo was allowed to live out the rest of his days as a private citizen, supported
+[02:28 --> 02:32] by a generous state pension.
+[02:32 --> 02:36] Constantius then traveled north to Sirmium, where he took stock of the situation on the
+[02:36 --> 02:42] Danube frontier, and made his arrangements for the coming war with Magnenches.
+[02:42 --> 02:46] Aware that battle would likely be joined in the spring, Constantius called his cousin
+[02:47 --> 02:52] in March of 351, and formally elevated him to the rank of Caesar for all of the reasons
+[02:52 --> 02:54] I outlined last week.
+[02:54 --> 02:56] What's that you say?
+[02:56 --> 03:01] You could have sworn that last week I said Gallus was elevated at Antioch in 350 before
+[03:01 --> 03:03] Constantius even left the east?
+[03:03 --> 03:07] Well, yes, I did say that, and I was wrong.
+[03:07 --> 03:11] I misinterpreted something I read while I was writing last week's show, and then when
+[03:11 --> 03:15] I was writing this week's show, I got to the part in my notes where it said, March
+[03:15 --> 03:22] 351, Gallus elevated at Sirmium, and began muttering really foul things under my breath.
+[03:22 --> 03:24] So sorry about that.
+[03:24 --> 03:29] Gallus was elevated to the rank of Caesar in March of 351 at Sirmium, and married off
+[03:29 --> 03:32] to Constantina at the same time.
+[03:32 --> 03:36] Then he was sent to Antioch to keep an eye on the east, while Constantius focused on
+[03:36 --> 03:40] the west.
+[03:40 --> 03:47] Now the stage was set for the long-awaited confrontation between emperor and usurper.
+[03:47 --> 03:51] Except neither commander was stupid and looking to just rush into some battle for the sake
+[03:51 --> 03:54] of having a battle.
+[03:54 --> 03:58] Constantius in particular had no interest in plunging into Gaul, and so he remained
+[03:58 --> 04:03] coyly perched along the Danube, hoping to draw his rival out.
+[04:03 --> 04:08] I have never read a good explanation for why Magnentius decided to fall for this and march
+[04:08 --> 04:12] away from his base of power and choose to face the emperor in Pannonia, and the only
+[04:12 --> 04:17] thing I can think of is that he felt like time was not on his side.
+[04:17 --> 04:21] He had convinced the legions of the west to back him against Constans, but now they were
+[04:21 --> 04:25] dealing with the far less hated Constantius.
+[04:25 --> 04:29] So maybe Magnentius determined that if he waited too long that enthusiasm for the rebellion
+[04:29 --> 04:32] would drift and he would become isolated.
+[04:32 --> 04:34] But that's all just me speculating.
+[04:34 --> 04:41] All we really know is that he did go to Constans rather than forcing Constans to come to him.
+[04:41 --> 04:45] But even then the two rivals maneuvered around each other for the entire campaign season
+[04:45 --> 04:53] of 351, and it wasn't until September that their armies finally squared off.
+[04:53 --> 04:59] So by now, the buildup to this battle had been going on for a year and nine months.
+[04:59 --> 05:03] As a general rule, it's usually safe to assume that a big match will never quite live up
+[05:03 --> 05:08] to the hype, and the longer the hype period, the less impressive the match will seem in
+[05:08 --> 05:10] comparison.
+[05:10 --> 05:17] But the battle of Mersa Major, fought alongside the Drava River, turned out to be a barn burner.
+[05:17 --> 05:21] True, it did not settle the issue once and for all like all of the advertisements on
+[05:21 --> 05:26] TV had promised it would, but still, it was one of the bloodiest battles in the history
+[05:26 --> 05:28] of Roman Civil War.
+[05:28 --> 05:33] And as you know now, that is really saying something.
+[05:33 --> 05:38] And on top of that, there was even a dramatic betrayal right before the whistle blew that
+[05:38 --> 05:41] changed the whole dynamic of the fight.
+[05:41 --> 05:45] The match was likely shaping up to be an equal contest, with each side probably composed
+[05:45 --> 05:52] of 40-50,000 men, but at the last minute, one of Magnentius' key supporters, a general
+[05:52 --> 05:57] named Claudius Silvanus, a general who was so at the center of the rebellion that not
+[05:57 --> 06:02] only had he been the host at the dinner party where Magnentius had been proclaimed Augustus,
+[06:02 --> 06:07] but he was also the man who had spearheaded the assault on Rome following Nepatianus'
+[06:07 --> 06:09] attempt to control the city.
+[06:09 --> 06:14] Well, he decided to defect to Constantius at the last minute.
+[06:14 --> 06:20] Taking most of the men under his command along with him, Magnentius was left with just 35,000
+[06:20 --> 06:25] to square off against the 60,000 Constantius now controlled.
+[06:25 --> 06:27] But there was no getting out of the battle now.
+[06:27 --> 06:34] The two sides were locked in, and on the 28th of September, they got down to business.
+[06:34 --> 06:39] As I said, the resulting battle was one of the bloodiest in the history of Roman Civil
+[06:39 --> 06:40] War.
+[06:40 --> 06:46] Over the course of the day's fighting, fully half of Constantius' army, some 30,000 men,
+[06:46 --> 06:48] wound up dead in the field.
+[06:48 --> 06:52] Which would be really bad for Constantius, until you consider that fully two-thirds of
+[06:53 --> 06:59] Magnentius' army, some 25,000 men, also wound up dead in the field.
+[06:59 --> 07:03] The immediate upshot of this raw carnage was that with only 10,000 men left, Magnentius
+[07:03 --> 07:08] was forced to fall back across the Alps to northern Italy, and Constantius was able to
+[07:08 --> 07:10] declare victory.
+[07:10 --> 07:15] But the longer term upshot was that at a time when the empire was under constant attack
+[07:15 --> 07:22] from all sides, Rome lost 55,000 highly trained soldiers in a single day.
+[07:22 --> 07:26] I'll leave it to you to do the math on whether you think the Battle of Mercia Major wound
+[07:26 --> 07:33] up as a net positive for the empire long term.
+[07:33 --> 07:37] To his credit though, Constantius did not immediately pursue Magnentius following the
+[07:37 --> 07:38] battle.
+[07:38 --> 07:44] And by did not immediately pursue, I don't mean he waited a few days or even a few weeks.
+[07:44 --> 07:50] No, as Constantius had already demonstrated, he was not so blinded by his desire to crush
+[07:50 --> 07:56] Magnentius that he was willing to just abandon the rest of the empire to its fate.
+[07:56 --> 08:00] That is to say that Constantius had enough foresight to recognize that beating down an
+[08:00 --> 08:06] internal enemy would be a pretty hollow victory if it meant allowing the external enemies
+[08:06 --> 08:09] of the empire to overrun the provinces.
+[08:09 --> 08:14] So he put the war against Magnentius on hold for a full year as he focused his attention
+[08:14 --> 08:20] on the Danube frontier, and in particular, the Sarmatians.
+[08:20 --> 08:23] Since the Goths had been pushed back at the close of the crisis years, the Sarmatians
+[08:23 --> 08:28] had taken their place as public enemy number one along the northern border and they took
+[08:28 --> 08:34] advantage of any and all weaknesses they detected in the empire's lines.
+[08:34 --> 08:39] If Constantius were to simply march off with the remaining legions in pursuit of Magnentius,
+[08:39 --> 08:46] well that would be a weakness the Sarmatians would not fail to take advantage of.
+[08:46 --> 08:51] So for the rest of 351 and almost all of 352, Constantius stayed in Sirmium to focus his
+[08:51 --> 08:58] attention on stabilizing the border and running a pacification campaign against the Sarmatians.
+[08:58 --> 09:01] Only after he was reasonably sure that he could turn his back for a little while without
+[09:01 --> 09:06] the middle of the empire going to hell in a handbasket did Constantius turn his attention
+[09:06 --> 09:09] back to Magnentius.
+[09:09 --> 09:14] Between his unwillingness to ditch the eastern frontier in the middle of a war and his unwillingness
+[09:14 --> 09:20] to push on west before ensuring the Danube region was secure, I gotta say, Constantius
+[09:20 --> 09:25] has a well-deserved reputation for impulsive hotheadedness, but it was clearly not a personality
+[09:25 --> 09:29] trait that defined him 100% of the time.
+[09:29 --> 09:34] At least some of the time, he was patient and farsighted.
+[09:34 --> 09:40] In his later dealings with Julian, he will display almost exactly this same temperament.
+[09:40 --> 09:45] So you can say a lot of things about Constantius II, but I think it's pretty clear that at
+[09:45 --> 09:51] the end of the day, the man did have his priorities straight.
+[09:51 --> 09:55] So once he was satisfied that the Danube was safe, he marched off through the Alps before
+[09:55 --> 10:00] the winner of 352 could settle in, and he landed in north Italy, where Magnentius had
+[10:00 --> 10:03] been waiting for him.
+[10:03 --> 10:07] Though he was not yet beaten, between the defection of Sylvanus and the defeat at Mercia
+[10:07 --> 10:11] Major, Magnentius was definitely reeling.
+[10:11 --> 10:16] His legitimacy as a military leader had taken a major hit, but even more troubling was the
+[10:16 --> 10:20] fact that his political legitimacy was on life support.
+[10:20 --> 10:26] So when Constantius crossed the Alps, all he really needed to do was pull the plug.
+[10:26 --> 10:31] The citizens of Italy had lost all interest in helping prop up Magnentius, but they were
+[10:31 --> 10:36] compelled to continue supporting him because he was the biggest, baddest thing around.
+[10:36 --> 10:40] As soon as Constantius showed up with his bigger, badder army, though, the locals relished
+[10:40 --> 10:45] in helping the emperor expel Magnentius' garrisons from their various cities.
+[10:45 --> 10:51] Magnentius, no dummy, saw which way the winds were blowing and withdrew to Gaul.
+[10:51 --> 10:57] Constantius then entered Milan, where he spent the winter planning the endgame.
+[10:57 --> 11:02] As soon as the spring of 353 arrived, the emperor marched north into Gaul, looking to
+[11:02 --> 11:05] squash the rebel general once and for all.
+[11:05 --> 11:10] Magnentius waited for Constantius at a pick spot in the Gallic Alps, where the last battle
+[11:10 --> 11:13] of the war would soon be fought.
+[11:13 --> 11:18] Despite the significance of this battle, we don't know many details, troop numbers or
+[11:18 --> 11:20] tactics or anything like that.
+[11:20 --> 11:25] All we do know is that Magnentius was once again defeated, but once again able to get
+[11:25 --> 11:27] out of the battle alive.
+[11:27 --> 11:34] But getting out alive was of small comfort, as it only delayed the inevitable.
+[11:34 --> 11:39] With two major defeats behind him and his coalition collapsing, Magnentius came to terms
+[11:39 --> 11:43] with the fact that he had taken his shot at Empire and missed.
+[11:43 --> 11:47] At some point after the final battle, though we don't know exactly when, Magnentius committed
+[11:47 --> 11:53] suicide by falling on his sword.
+[11:53 --> 11:57] Following the defeat and suicide of Magnentius, Constantius found himself in a wholly new
+[11:57 --> 11:59] position.
+[11:59 --> 12:04] He was the only Augustus in the Empire left standing.
+[12:04 --> 12:09] Sure he had something of an imperial colleague in Gallus, but Gallus was just a Caesar, so
+[12:09 --> 12:12] I think it's safe to go ahead and say it.
+[12:12 --> 12:16] Constantius II was now the sole ruler of the Roman Empire.
+[12:16 --> 12:20] Congratulations dude, you've earned it.
+[12:20 --> 12:25] The now sole emperor spent the rest of 353 and 354 campaigning against the Alamani, mostly
+[12:25 --> 12:29] around the no man's land between the Rhine and Danube rivers.
+[12:29 --> 12:34] The sweetness of his victory over Magnentius, though, had almost immediately turned sour
+[12:34 --> 12:39] in Constantius' mouth as he realized just how much the Rhine defenses had been weakened
+[12:39 --> 12:41] by the civil war.
+[12:41 --> 12:45] Magnentius had pulled men off the frontier to fight his battles, and most of them had
+[12:45 --> 12:47] never come back.
+[12:47 --> 12:52] So the real prize of war that Constantius had won for himself was a chaotic and weak
+[12:52 --> 12:54] Western frontier.
+[12:54 --> 12:58] Congratulations, you've earned that too.
+[12:58 --> 13:02] He would do his best to get a handle on the situation, but it would be years before the
+[13:02 --> 13:08] citizens of the West were allowed to breathe easy again.
+[13:08 --> 13:12] As Constantius was dealing with the Alamani, he was also forced to pay attention to something
+[13:12 --> 13:17] his advisors had been trying to get him to pay attention to for a little while now.
+[13:17 --> 13:22] The conduct of his Caesar, Constantius Gallus.
+[13:22 --> 13:27] Since his elevation of power, Gallus had set up shop in Antioch, and from almost the word
+[13:27 --> 13:32] go, complaints had been filtering in about his behavior.
+[13:32 --> 13:37] When you look at the situation objectively, I don't think Gallus comes off as that terrible
+[13:37 --> 13:43] ruler, so much as one who was in the habit of making enemies with the wrong people.
+[13:43 --> 13:47] That is not to say he was a great guy who was just slandered to death, but there was
+[13:47 --> 13:52] definitely an influential clique of imperial advisors who hated him, and who exploited
+[13:52 --> 13:55] Constantius' natural paranoia to get rid of him.
+[13:55 --> 13:58] Oh, did I mention that Gallus is about to be gotten rid of?
+[13:58 --> 14:01] Well, he is.
+[14:01 --> 14:05] There were basically two main things that set the stage for the fall of the young Caesar.
+[14:05 --> 14:10] First, he was faced with a drought, which meant that grain supplies became limited.
+[14:10 --> 14:15] Gallus, predictably, put the needs of the army above those of the common citizens, so
+[14:15 --> 14:17] grain deliveries to civilians were cut.
+[14:17 --> 14:24] This, again predictably, made Gallus not particularly beloved by the man in the street.
+[14:24 --> 14:32] Second, he had gotten in the habit of zealously persecuting pagans, particularly rich pagans,
+[14:32 --> 14:37] which is to say that Gallus appears to have stumbled across that ages-old method of imperial
+[14:37 --> 14:38] fundraising.
+[14:38 --> 14:44] Find the richest guy on the block, and find him guilty of something.
+[14:44 --> 14:48] With Gallus making enemies among the rich and poor alike, it was just a matter of time
+[14:48 --> 14:53] before word reached Constantius that there was a problem with his cousin.
+[14:53 --> 14:57] Constantius decided to dispatch one of his Praetorian prefects to Antioch to ask Gallus
+[14:57 --> 15:00] to come to Italy and account for himself.
+[15:00 --> 15:06] But Gallus was suspicious of the prefect's true motives, and so had him arrested.
+[15:06 --> 15:10] Members of the local Antiochian political establishment attempted to come to the prefect's
+[15:11 --> 15:16] But in the ensuing back and forth, evidence of a conspiracy to overthrow Gallus came to
+[15:16 --> 15:21] light that, though it had nothing to do with the prefect's arrival, all got thrown into
+[15:21 --> 15:23] the same pot.
+[15:23 --> 15:30] Gallus, angry and paranoid, executed the whole lot of them for treason, including the unlucky
+[15:30 --> 15:32] prefect.
+[15:32 --> 15:39] And with that, Gallus pretty much signed his own death warrant.
+[15:39 --> 15:44] Constantius was extremely irate when he found out about the treason trials, and sent another
+[15:44 --> 15:46] messenger to Antioch.
+[15:46 --> 15:53] This time, he did not ask Gallus to come to Italy, he ordered Gallus to come to Italy.
+[15:53 --> 15:58] And this order, as you can imagine, made Gallus really, really nervous.
+[15:58 --> 16:04] Orders like that, from men like Constantius, usually mean just the one thing.
+[16:04 --> 16:09] So instead of packing up and heading west, Gallus packed up his wife slash cousin, Constantina,
+[16:09 --> 16:11] and sent her west instead.
+[16:11 --> 16:16] The presumption is that Gallus was hoping she would be able to soothe her brother enough
+[16:16 --> 16:21] for Gallus to get out of this with his head still attached to his body.
+[16:21 --> 16:24] We will never know if this plan was going to work.
+[16:24 --> 16:28] And there was good reason to think that it would not have worked, since Constantius was
+[16:28 --> 16:33] likely as angry at Constantina as he was at Gallus at this point for the active role she
+[16:33 --> 16:37] had played in everything that had gone on.
+[16:37 --> 16:42] But we will never know, because on the way to Milan, Constantina came down sick and died
+[16:42 --> 16:46] en route.
+[16:46 --> 16:50] Hearing of his wife's death, Gallus determined that he wasn't going anywhere, no way, no
+[16:50 --> 16:52] how.
+[16:52 --> 16:57] So Constantius, that sneaky Constantius, tried a different tack.
+[16:57 --> 17:02] He sent another messenger to Gallus, wondering aloud why Gallus had not come to Milan, since
+[17:03 --> 17:06] all he wanted to do was make him co-Augustus.
+[17:06 --> 17:12] Gallus, paranoid, but also ambitious, allowed himself to be persuaded that he was actually
+[17:12 --> 17:19] going to get promoted, even after everything he had done, and so he left for Milan immediately.
+[17:19 --> 17:24] But along the way, there were subtle clues that the promotion was in fact a ruse.
+[17:24 --> 17:29] Like for example the fact that whenever Gallus's entourage approached, the various legionary
+[17:29 --> 17:34] garrisons along the way were mysteriously sent out on patrol.
+[17:34 --> 17:39] This meant that Gallus never got within sniffing distance of a force big enough to help him
+[17:39 --> 17:45] revolt, should he decide that revolt was actually his best option.
+[17:45 --> 17:49] Isolated from whatever allies he had left, and any soldiers who might be bribed into
+[17:49 --> 17:55] protecting him, Gallus was now easy pickings, and while entering the home stretch, the unsuspecting
+[17:55 --> 18:00] Caesar was picked up in Noricum by Constantius' men at some point in late 354, and placed
+[18:00 --> 18:02] under arrest.
+[18:02 --> 18:07] Assured that no harm would come to him, Gallus was escorted down to a city along the Adriatic
+[18:07 --> 18:12] coast, where some of the most powerful members of Constantius' court came to interrogate
+[18:12 --> 18:14] him.
+[18:14 --> 18:18] Unfortunately for the imprisoned Caesar, these men also happened to be the same men
+[18:18 --> 18:23] who had been pressing Constantius to eliminate Gallus ever since the victory over Magnentius.
+[18:23 --> 18:29] So yeah, this is not really going to end well for Gallus.
+[18:29 --> 18:34] The court officials accused the Caesar of all manner of treason, and then tortured him
+[18:34 --> 18:39] in an attempt to get him to confess to all the things they needed him to confess to.
+[18:39 --> 18:44] But Gallus took another route, and decided to pin every single thing he was accused of
+[18:44 --> 18:50] on Constantine, who he painted as a conniving shrew who had forced him to do all this rotten
+[18:50 --> 18:52] stuff.
+[18:52 --> 18:57] A summary of Gallus' defense was sent to Constantius, who, upon reading the report,
+[18:57 --> 18:58] blew his top.
+[18:58 --> 19:02] "'This little weasel is trying to blame it all on my sister?
+[19:02 --> 19:05] Well that's about it for him.'
+[19:05 --> 19:09] Constantius sent his reply, "'Execute the impertinent Caesar.'"
+[19:09 --> 19:16] Now, as was typical with Constantius, as soon as the initial fury wore off, he mellowed
+[19:16 --> 19:21] and sent another order that Gallus not be killed, and instead brought directly to Milan
+[19:21 --> 19:23] for further questioning.
+[19:23 --> 19:27] After all, it's not like Constantine was the Virgin Mary or something, so maybe the
+[19:27 --> 19:30] kid did have a point.
+[19:30 --> 19:34] But Constantius' men knew their boss well, and knew that as likely as not he was going
+[19:34 --> 19:39] to rescind the execution order when he calmed down, so they wasted no time.
+[19:39 --> 19:44] Gallus was put to death the minute the execution order arrived.
+[19:44 --> 19:52] He was 28 or 29 years old, and had been Caesar for three and a half years.
+[19:52 --> 19:56] When Constantius learned that Gallus had been put to death, he probably regretted that his
+[19:56 --> 20:01] counter orders had not gone out quick enough to save his cousin, but I seriously doubt
+[20:01 --> 20:03] he lost much sleep over it.
+[20:03 --> 20:08] Gallus, as a person, had never really been much of anything to Constantius.
+[20:08 --> 20:13] But it did leave the emperor with a problem, because, after all, he had elevated Gallus
+[20:13 --> 20:18] for a reason, to maintain an imperial presence in the Far East.
+[20:18 --> 20:24] Wintering in Milan over the winter of 354-355, Constantius had to have been at least a little
+[20:24 --> 20:29] nervous now that the volatile border with the Persians was left unmanned.
+[20:29 --> 20:34] But the only male member of his family left, the emperor had no sons of his own, was the
+[20:34 --> 20:38] bookish and completely inexperienced Julian.
+[20:38 --> 20:43] Constantius had already elevated one inexperienced cousin to the purple, and look where that
+[20:43 --> 20:45] had gotten him.
+[20:45 --> 20:54] So I think he can be forgiven for hesitating a bit before wanting to do it all over again.
+[20:54 --> 21:00] As the spring of 355 turned into the summer of 355, though, a crisis popped up that likely
+[21:00 --> 21:04] pushed Constantius decisively into favoring the elevation of Julian.
+[21:04 --> 21:07] Well, alleged crisis, anyway.
+[21:07 --> 21:13] See, one of Constantius's flaws, and there were a few flaws, was that he was too quick
+[21:13 --> 21:20] to believe whatever he was told, especially in matters of conspiracy, sedition, and revolution.
+[21:20 --> 21:25] His court advisors had picked up on this, and so any time a personal enemy of some senior
+[21:25 --> 21:29] official needed to be taken care of, well, let's just say that it wasn't too hard to
+[21:29 --> 21:34] convince Constantius that these personal enemies were, in fact, public enemies.
+[21:34 --> 21:38] And so it went for Claudius Silvanus.
+[21:38 --> 21:43] After defecting to Constantius at the Battle of Mercia Major, Silvanus had been rewarded
+[21:43 --> 21:48] with the command of the Rhine legions, where he had served the emperor faithfully.
+[21:48 --> 21:50] This did not mean he was a saint.
+[21:50 --> 21:54] Silvanus always made sure that he got his cut, if you know what I mean.
+[21:54 --> 21:58] But even if he wasn't necessarily honest, he had been faithful.
+[21:58 --> 22:03] But Silvanus had made enemies within Constantius's inner circle, and as his power and reputation
+[22:03 --> 22:08] grew, so too did his ability to threaten that inner circle.
+[22:08 --> 22:13] So they determined to get rid of him.
+[22:13 --> 22:17] In a very cloak and dagger move, they got ahold of a letter Silvanus had sent to a friend
+[22:17 --> 22:23] in Rome, sponged out some innocent lines, and rewrote them to make it look like Silvanus
+[22:23 --> 22:26] was drumming up support for a possible rebellion.
+[22:26 --> 22:33] Then they forged a further series of letters that appeared to confirm Silvanus's guilt.
+[22:33 --> 22:40] Then they waved all of this in the emperor's face and demanded he do something about it.
+[22:40 --> 22:44] As paranoid as Constantius was, though, he was surprised enough by the charges that he
+[22:44 --> 22:45] decided to investigate.
+[22:45 --> 22:50] Silvanus, of course, denied everything, and dispatched a couple of top aides to Milan
+[22:50 --> 22:56] to rebut the charges the minute he heard what the unscrupulous courtiers were up to.
+[22:56 --> 23:02] In a sad twist of fate, Silvanus's aides were able to prove the letters fake, but
+[23:02 --> 23:06] in the meantime, their general had gotten jumpy.
+[23:06 --> 23:10] Convinced that Constantius was going to find him guilty one way or the other, Silvanus
+[23:10 --> 23:16] decided that if he was going to be executed for treason, he may as well commit some treason.
+[23:16 --> 23:23] In the summer of 355, he declared himself Augustus and prepared for war.
+[23:23 --> 23:27] Not too long after this declaration, though, a message arrived from the emperor ordering
+[23:27 --> 23:31] Silvanus to come to Milan at once.
+[23:31 --> 23:36] Under normal circumstances, this would have been rightfully considered a death sentence,
+[23:36 --> 23:42] but the man who bore the message, a general named Ursa Kinnis, gave Silvanus hope.
+[23:42 --> 23:48] Ursa Kinnis and Silvanus shared a loathing for Constantius's inner circle, so the fact
+[23:48 --> 23:53] that the emperor had used him to bear the message meant that Silvanus may yet survive.
+[23:53 --> 23:59] Indeed, the contents of the message indicated that Constantius did not even realize Silvanus
+[23:59 --> 24:02] had gone ahead and declared himself Augustus.
+[24:02 --> 24:07] So, Silvanus agreed to follow Ursa Kinnis to Milan.
+[24:07 --> 24:14] But the crafty Constantius, who did in fact know about Silvanus's revolt, had used Ursa
+[24:14 --> 24:19] Kinnis specifically because he knew Silvanus would drop his guard.
+[24:19 --> 24:25] On the way to Milan, Silvanus was arrested and put to death, executed for treason only
+[24:25 --> 24:28] because he had been framed for treason.
+[24:28 --> 24:32] That is a hard luck case.
+[24:32 --> 24:38] The Silvanus episode didn't really have too many long-term repercussions for the empire,
+[24:38 --> 24:43] but it probably did play a role in Constantius's final decision to go ahead and elevate Julian
+[24:43 --> 24:45] to power.
+[24:45 --> 24:50] Between tribal incursions along the Rhine, the possibility of war with Persia, and the
+[24:50 --> 24:54] ever-present threat of a revolt, Constantius knew he needed an imperial colleague to help
+[24:54 --> 24:59] him handle it all, and that said colleague had better be a member of the family, because
+[24:59 --> 25:02] no one else could be trusted.
+[25:02 --> 25:07] So next week, we will get our first look at the man enlightenment philosophers and neo-pagans
+[25:07 --> 25:12] everywhere crush so very hard on, Julian the Apostate.
+[25:12 --> 25:16] The last emperor to attempt to stem the rising tide of Christianity.

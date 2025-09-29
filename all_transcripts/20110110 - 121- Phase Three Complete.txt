@@ -1,0 +1,186 @@
+# 20110110 - 121- Phase Three Complete
+# Detected language: en
+# Duration: 1532.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:11] This week's episode is brought to you by Audible. As you know, Audible is the Internet's leading provider of audio entertainment with now over 80,000 titles to choose from.
+[00:11 --> 00:20] When you're done with this episode, go to audiblepodcast.com forward slash Roam. That again audiblepodcast.com forward slash Roam.
+[00:20 --> 00:26] By going to that address, you will qualify for a free book download when you sign up for a 14-day trial membership.
+[00:26 --> 00:31] There is no obligation to continue the service, and you can cancel anytime and keep the free book download.
+[00:31 --> 00:38] You can also keep going with one of the monthly subscription options and get great deals on all your future audiobook purchases.
+[00:38 --> 00:48] This week, I am going to pass on a reader recommendation that is outside the scope of Roman history, Jack Weatherford's Genghis Khan and the Making of the Modern World,
+[00:48 --> 00:55] which is by all accounts a fantastic new biography of one of the most pivotal lives in the history of the world.
+[00:55 --> 01:04] So thanks to Charles for the recommendation, and remember to go to audiblepodcast.com forward slash Roam so that they know who sent you.
+[01:08 --> 01:17] Hello, and welcome to the History of Rome, Episode 121, Phase 3 Complete.
+[01:17 --> 01:28] Way back in Episode 51, I talked about the generation of Romans who grew up during the factional conflicts of Sala and Marius,
+[01:28 --> 01:35] spent their middle years embroiled in the political wars of the First Triumvirate, and if they managed to survive,
+[01:35 --> 01:40] they then died an old age having just been dragged through two decades of civil war.
+[01:40 --> 01:47] It was a generation that knew nothing of the golden ages of Roman history that had come before them and would come after them.
+[01:47 --> 01:58] Theirs was a world where crass ambition and an indifference to the rule of law led to a series of compounding burdens that crippled them economically, morally, and spiritually.
+[01:58 --> 02:03] To wit, human life was cheap and everything else was expensive.
+[02:04 --> 02:09] The men and women born during the late Severan period could relate.
+[02:09 --> 02:14] Their entire adult lives had been given over to the crisis of the third century.
+[02:14 --> 02:25] Now approaching old age, they could look back on a life that had been filled by nothing more than endless war, political instability, plague, famine, and economic depression.
+[02:26 --> 02:33] Theirs had been a hard road, as hard a road as had been endured by the generation that had witnessed the fall of the Republic.
+[02:33 --> 02:41] But that road was finally, mercifully, coming to an end, just in time for them to die.
+[02:41 --> 02:45] I suppose that of some generations much is asked.
+[02:47 --> 02:51] Not that anyone knew the hard road was coming to an end at the time.
+[02:51 --> 03:04] It would take a while before anyone realized that the Illyrian captain of the bodyguard who had just seized power was not just here to stay, but here to reshape, redefine, and restore an empire that had almost fallen apart completely.
+[03:04 --> 03:14] They didn't have the benefit of hindsight to help them clearly demarcate that before this point crisis, and after this point, tetrarchy.
+[03:14 --> 03:23] We use arbitrary labels as a convenient way to help keep history straight in our heads, but we should never forget that they are just labels.
+[03:23 --> 03:32] To the Romans at the time, there was very little that would help them recognize that some corner had actually been turned when Diocletian came to power in 284.
+[03:32 --> 03:43] It was all just one long continuous evolution, and no one really had any reason to believe that the ascension of Diocletian would turn out later to be some epoch-defining moment.
+[03:43 --> 03:49] Most probably thought he would reign for a few years and then be killed off like all the rest.
+[03:49 --> 03:52] But history has a funny way of working itself out.
+[03:52 --> 04:03] Sometimes scrawny 19-year-olds of no consequence turn out to be Augustus, and sometimes relatively undistinguished soldier administrators turn out to be Diocletian.
+[04:03 --> 04:05] Who knows how these things work.
+[04:06 --> 04:18] But before we get to Diocletian, we have to pass through the last mini-dynasty of the crisis years, and cover the reigns of Charus and his two sons, Carinus and Neumerian.
+[04:18 --> 04:32] Marcus Aurelius Charus, or possibly Marcus Neumerius Charus, had been born around 224 in Gaul, and was thus a card-carrying member of that generation that had known nothing but toil and trouble.
+[04:32 --> 04:42] Born into a family of senatorial rank, Charus was of course insulated from some of the more abject deprivations endured by his less wealthy contemporaries.
+[04:42 --> 04:49] But still, Romans of every rank and class had to face a world that was not at all their oyster anymore.
+[04:50 --> 04:58] Charus had been born in Gaul, but educated in Rome, planting him firmly on the side of the old Roman aristocracy.
+[04:58 --> 05:11] And whatever his role in the assassination of Probus, it probably felt good to wrestle power away from the rough Illyrian generals, and return it to the hands of a senator who at least knew who Virgil was.
+[05:12 --> 05:25] His career is mostly obscure, but we know that he had not yet received the honor of a consulship, despite the fact that he was approaching 60, which means that he could not have ever been particularly close to the previous imperial inner circles.
+[05:25 --> 05:36] But he was regarded enough by Probus to be named Praetorian Prefect in early 282, so we can probably trust that he was a capable administrator and solid soldier.
+[05:37 --> 05:52] As with the other beneficiaries of imperial assassination during this period, it is hard to tell if Charus took an active part in the plot to kill Probus, or whether he simply took advantage of the opportunity that presented itself once the deed was done.
+[05:52 --> 05:58] And really, we don't even know if he was hailed as emperor before or after Probus was killed.
+[05:59 --> 06:12] So was he a Machiavellian usurper who engineered the death of a man who had just named him to one of the most important positions in the government, or was he a diligent careerist who was well positioned to be swept along by history?
+[06:12 --> 06:14] We'll likely never know.
+[06:15 --> 06:28] All we do know is that the Senate didn't fight the choice made by the Sirmium Garrison, and none of the generals out on the frontiers who might have challenged Charus chose to fight him, and so in late 282, he became emperor of the Roman Empire.
+[06:29 --> 06:49] After dutifully punishing the men who had murdered Probus, Charus followed the lead of just about every other emperor who had come to power with living sons, and elevated his two boys, Marcus Aurelius Carinus and Marcus Aurelius Numerius Numerianus, to the rank of Caesar, putting both in line to inherit the empire from their father.
+[06:50 --> 07:01] We don't have birthdates for either of Charus's sons, but if we figure they were sired when Charus was in his twenties, as would have been typical, then I think it's safe to say that they were both in their thirties at the time.
+[07:01 --> 07:11] Though in reading about them you do get the distinct impression that they were younger than that, with Numerian in particular being depicted as a young man, perhaps even in his early twenties.
+[07:11 --> 07:21] So as not to belabor the point, I would say that the two new Caesars were neither children nor middle-aged men, and simply leave it at that.
+[07:22 --> 07:36] With a new Augustus in place, and two grown sons ready to take over in case anything happened to him, there may have been hopes floating around that a new dynasty was in the making, a new dynasty that would bring some political stability to the empire.
+[07:37 --> 07:44] But alas, in less than two years all three men would be dead, and the Romans would have to start all over again.
+[07:44 --> 07:57] Luckily, they would start all over again with Diocletian, who would bring political stability to the empire, so the demise of Charus and his sons didn't turn out to be the worst of all possible scenarios.
+[07:58 --> 08:06] Charus was the third Praetorian prefect to step into the purple, following in the footsteps of Macrinus and Philip the Arab.
+[08:06 --> 08:17] The former had been too bogged down by problems in the east to ever return to Rome, while the latter had made it a point to immediately return to the capital to solidify his position.
+[08:17 --> 08:20] Charus chose to split the difference.
+[08:20 --> 08:34] Remaining in Sirmium to keep would-be German raiders in check, and to finish preparations for the now twice-aborted invasion of Persia, Charus sent his eldest son Carinus to Rome to represent the interests of the new imperial family.
+[08:35 --> 08:49] To help ensure that Carinus would be taken seriously, Charus decided to further elevate his oldest son to the rank of full Augustus, and charged Carinus with the task of ruling over the west, while he and Numerian focused on the east.
+[08:51 --> 09:03] With Carinus consolidating the family power in Rome, Charus and his younger son Numerian began a slow march to Syria, where they planned to launch the long-delayed attack on Sassanid Persia.
+[09:03 --> 09:17] As they passed through Moesia and Thrace, they fought a series of short engagements against hostile Quadi and Sarmatian raiders, engagements that were just significant enough for Charus to plausibly claim the title Germanicus Maximus.
+[09:18 --> 09:36] Charus and Numerian then passed through Asia Minor into Syria without incident, and in 283, they finally initiated the punitive expedition against the Persians that the Romans, well, at least the Roman High Command, had been seeking since the capture of Valerian now some twenty years past.
+[09:36 --> 09:39] And they could not have picked a better time.
+[09:40 --> 09:55] The Persian succession crisis that had arisen following the death of Sharpor in the early 270s had been settled, but the heirs of the great king were weak and perpetually undercut by rival nobles, leaving the Sassanid Empire vulnerable to the Roman advance.
+[09:56 --> 10:13] On top of these internal divisions, Bahram II, one of Sharpor's sons and the now reigning king, decided in the early 280s to look to the east rather than the west as the best direction for his empire to expand, and launched an invasion of what is now Afghanistan.
+[10:14 --> 10:32] With the bulk of his available forces tied down thousands of miles away in the mountains of Central Asia, Bahram had no way to counter Charus' invasion of Mesopotamia, and the Romans were essentially able to do whatever they wanted, inflict whatever damage they wanted, and claim whatever territory they wanted unopposed.
+[10:33 --> 10:43] Charus re-annexed Mesopotamia, occupied Seleucia and Ctesiphon, and then led his army across the Tigris without once facing significant opposition.
+[10:45 --> 10:56] Things could not have been going better for Charus, but of course the gods were always a fickle bunch, and right at the moment of his greatest triumph, the emperor fell over dead in August 283.
+[10:57 --> 11:02] He was almost 60 years old, and had ruled Rome for less than a year.
+[11:04 --> 11:07] There are, as usual, conflicting stories about his death.
+[11:08 --> 11:24] No one seems to believe that he was assassinated, though that is a possibility that can never fully be discounted, and instead, the sources say that he either died of a natural cause, like disease or heart attack, or, and this is where it gets good, he was struck dead by the
+[11:26 --> 11:27] bolt of lightning.
+[11:28 --> 11:43] The lightning story, of course, received the most airplay in the Roman world, as a freak accident like that, especially one involving a murderous thunderbolt from the sky, was immediately interpreted as a warning from the gods that Charus had strayed from the righteous path.
+[11:44 --> 11:52] Or, more specifically, he had strayed too far beyond the Tigris River, the long established outer bounds of Roman territory.
+[11:53 --> 12:07] The alleged lightning strike was, in any event, the rationale most often pointed to when attempting to explain Neumerian's decision to withdraw from Persia, despite facing, well, nothing in the way of Persian resistance.
+[12:08 --> 12:12] Charus had pressed too far east, and had been struck dead by lightning.
+[12:13 --> 12:16] The message could not have been more clear to the superstitious Romans.
+[12:17 --> 12:25] I would venture to guess, though, that Neumerian's withdrawal was actually premised on the same logic that had led to so many Roman retreats from the eastern deserts.
+[12:26 --> 12:30] It was not worth the men or the resources that would have been necessary to hold the territory.
+[12:31 --> 12:39] And there was no telling whether the legions would be even able to hold the territory if and when the Persian armies decided to come down out of the mountains,
+[12:39 --> 12:46] which they would almost certainly be forced to do if the Romans continued to press their luck on the east side of the Tigris.
+[12:47 --> 12:52] So, following the death of his father, Neumerian ordered the legions back to Syria.
+[12:53 --> 13:00] The campaign of Charus, while uniformly successful, didn't do much to sue the still-bruised Roman ego,
+[13:01 --> 13:10] and it wasn't until the victories of Galerius some two decades later that the Romans really exercised the humiliation of Valerian's capture from their psyches.
+[13:11 --> 13:18] Unfortunately for Neumerian, the gods were feeling extremely fickle these days,
+[13:19 --> 13:26] and despite his attempt to appease them by heading back home, he too would be dead after ruling for just over a year.
+[13:27 --> 13:38] The new emperor was apparently in good health as the legions passed through Emesa on what appeared to be the first leg of a long and leisurely trip back to the west to link up with his brother Cerenus,
+[13:38 --> 13:45] but by the time the army reached Asia Minor in November of 284, something was clearly amiss.
+[13:46 --> 13:51] The story going around was that Neumerian had been stricken by some sort of inflammation of the eyes,
+[13:52 --> 13:56] and was unable to leave the dark, safe confines of his imperial litter.
+[13:57 --> 14:04] While the emperor was so stricken, orders were issued through his father-in-law, the Praetorian prefect Lucius Aper,
+[14:04 --> 14:10] a man who found his personal standing greatly enhanced by the death of one emperor and the sickness of another.
+[14:11 --> 14:16] So much so that his fellow officers began to grow suspicious.
+[14:17 --> 14:24] The story then goes that their suspicions were confirmed when the stench emanating from the imperial litter could no longer be covered up.
+[14:25 --> 14:30] The curtain of the litter was thrown open, and the rotting corpse of Neumerian was revealed to everyone.
+[14:30 --> 14:35] That sneaky snake Aper had been issuing orders in the name of a dead man.
+[14:36 --> 14:41] Now, this whole story is of course preposterous on a number of different levels,
+[14:42 --> 14:45] but it's the story that Diocletian pushed once he was in charge of the history books,
+[14:46 --> 14:50] and so, for better or for worse, it is the story that has been handed down to us.
+[14:51 --> 14:57] Neumerian's age was unknown, but he co-ruled the empire with his brother for just about a year.
+[14:58 --> 15:05] The story then continues that the general staff of the imperial army did not take too kindly to Aper's deception,
+[15:06 --> 15:11] and met in a closed council to decide, yes, the fate of that sneaky snake Praetorian prefect,
+[15:12 --> 15:17] but more importantly, to decide who ought to wear Neumerian's now discarded purple robes.
+[15:18 --> 15:23] This was not a decision to be taken lightly, because there was, after all,
+[15:23 --> 15:28] a fully established Augustus sitting in Rome right at that very moment.
+[15:29 --> 15:37] Any decision the officers made other than recognizing the full authority of cariness would be treason and precipitate civil war.
+[15:38 --> 15:43] But the still Illyrian heavy general staff looked at the veteran imperial army at their disposal,
+[15:44 --> 15:49] and figured that now would be a pretty good opportunity to get one of their own back into power.
+[15:50 --> 15:58] The one of their own they settled on was something of a surprise pick, a career soldier by the name of Diocles.
+[15:59 --> 16:08] Unlike Claudius, or Aurelian, or Probus, Diocles had not been a man who had won fame leading the leadings to victory in battle,
+[16:09 --> 16:13] and at the moment of his ascension he personally controlled only a small number of troops.
+[16:14 --> 16:21] But what he lacked in grand military reputation he more than made up for with his skill in the less showy,
+[16:22 --> 16:25] but equally important game of backroom politics.
+[16:26 --> 16:29] That company of troops he commanded may have been small,
+[16:30 --> 16:34] but it just so happened to be the cavalry detachment that acted as the personal bodyguard of the emperor.
+[16:35 --> 16:41] Diocles may not have been a great general, but he had earned a spot in the emperor's inner circle,
+[16:41 --> 16:45] and carried with him the luster and authority of that association.
+[16:47 --> 16:54] Plus, over the course of his nearly 20 year long career, a career about which we know almost nothing by the way,
+[16:55 --> 17:01] Diocles had studiously cultivated relationships with every officer and soldier he came into contact with,
+[17:02 --> 17:08] and that network of allies was ready to spring into action when their friend, comrade, and benefactor
+[17:08 --> 17:13] decided to take the opportunity of Neumerian's death to make a bid for power.
+[17:15 --> 17:19] The personal loyalty that Diocles inspired in the men he came into contact with
+[17:20 --> 17:23] was probably the single biggest factor in explaining his success as emperor,
+[17:24 --> 17:29] because only a man supremely confident in the continued loyalty of his subordinates
+[17:30 --> 17:35] could have even considered the kind of power sharing agreement that the emperor Diocletian would institute.
+[17:36 --> 17:41] And only a man who actually did inspire that kind of loyalty would be able to pull it off.
+[17:44 --> 17:50] As I just mentioned, we know almost nothing about the life and times of Diocles prior to his ascension.
+[17:51 --> 17:53] We don't even know his full name.
+[17:54 --> 17:58] He appears to have been born in 244 in Pannonia to lower class parents,
+[17:59 --> 18:03] and his later detractors even went so far as to label him the son of a freedman.
+[18:03 --> 18:07] He would have joined the army sometime after the disaster of Valerian's capture,
+[18:08 --> 18:14] and thus would have spent the majority of his career as an officer serving under the auspices of his Valerian countrymen,
+[18:15 --> 18:21] slowly rising up the ranks as that cabal of officers secured control of the military apparatus.
+[18:23 --> 18:29] He almost certainly commanded legions in Moesia, and the Historia Augusta records that he also served in Gaul,
+[18:29 --> 18:36] but modern scholars dismiss that whole episode as a fabrication that only served to put the future emperor in contact with a soothsayer
+[18:37 --> 18:42] who would helpfully prophesize that Diocles would attain great power after killing an ass.
+[18:43 --> 18:46] A prophecy that we will see fulfilled in just a minute.
+[18:49 --> 18:53] He apparently established a positive relationship with Charus at some point along the way,
+[18:53 --> 18:58] because when Charus became emperor, he not only named Diocles the captain of his personal bodyguard,
+[18:59 --> 19:02] but also awarded him with a consulship in 283.
+[19:04 --> 19:11] There is no telling what, if any, role Diocles played in the three imperial deaths that preceded his own rise to power.
+[19:12 --> 19:17] It could be that he played no part in any of them, played a part in some but not in others,
+[19:17 --> 19:23] or was in on every death from Probus to Pnumerion as a part of a long-term project to secure the throne for himself.
+[19:24 --> 19:30] Since he got to write the history books, though, tradition has it that Diocletian is innocent of all charges.
+[19:31 --> 19:37] His first act as emperor, in fact, was to declare publicly that he had had nothing to do with the death of Pnumerion,
+[19:38 --> 19:43] and that any and all blame lay squarely at the feet of the nefarious emperor.
+[19:43 --> 19:48] He made this announcement in front of an assembly of troops, with a bound apir on his knees beside him.
+[19:49 --> 19:54] And in case you're wondering, yes, indeed, apir is the Latin word for ass,
+[19:55 --> 20:01] Diocles then drew his sword and personally executed the prefect, fulfilling the alleged prophecy.
+[20:02 --> 20:08] Once apir was dead, Diocles retired to his seat and was taken to the city of Pnumerion.
+[20:08 --> 20:14] Once apir was dead, Diocles retired to his tent to plan his next move.
+[20:15 --> 20:21] First up on the docket was the small matter of creating a more, how do you say, imperial persona for himself.
+[20:22 --> 20:32] The simple soldier Diocles thus announced that henceforth he was to be known as the far more regal Gaius Aurelius Valerius Diocletianus,
+[20:33 --> 20:38] a name change that explains why we know him today as Diocletian.
+[20:39 --> 20:46] Once this was done, he had to turn his attention to the small matter of cariness, you know, the sitting Augustus back in Rome.
+[20:47 --> 20:57] This problem he set about solving by issuing proclamations that cariness was actually a hated and debauched tyrant who maintained his position through fear and violence.
+[20:58 --> 21:07] It was thus Diocletian's responsibility, and the responsibility of any Roman with a conscience really, to march on Rome and depose the hated tyrant.
+[21:08 --> 21:17] Whether or not any of this was true is highly debatable, especially since, again, Diocletian had 20 years at his disposal to firmly cement the idea
+[21:18 --> 21:24] that he rose to power as a divinely appointed defender of Roman freedom rather than as just another power-hungry general.
+[21:24 --> 21:28] Diocletian needed a villain, and cariness fit the bill.
+[21:30 --> 21:36] The villain in question, though, was not at all prepared to simply roll over for this upstart captain of the bodyguard.
+[21:37 --> 21:43] As soon as he learned that the men under his brother's command had decided to not simply transfer their loyalty to him,
+[21:44 --> 21:50] cariness gathered up his own army and marched east to meet the army marching west under the command of Diocletian.
+[21:50 --> 21:59] While passing through Pannonia, cariness apparently dealt with an uprising led by the local garrison commander and easily put the clamp down on any seditious activity.
+[22:00 --> 22:10] He then continued east with all deliberate speed, intent on preventing Diocletian from claiming any more territory than he already had de facto control of.
+[22:10 --> 22:22] The two armies finally met in Moesia in July of 285, and at the outset, it looked like cariness was going to put down Diocletian's insurrection as easily as he had put down the one in Pannonia.
+[22:23 --> 22:31] In a series of short engagements, cariness repeatedly got the better of Diocletian's men, and up until the decisive battle of the Margus River,
+[22:31 --> 22:37] it looked like Diocletian, whatever his political skills, was about to get thoroughly out-generaled.
+[22:38 --> 22:43] But then, cariness was betrayed and everything fell apart.
+[22:44 --> 22:55] The first explanation we have for cariness' fall is that Diocletian had used those amazing political skills of his to induce cariness' army to defect to Pannonia.
+[22:55 --> 23:07] Backing this theory is the fact that cariness' praetorian prefect, the man who would have been most able to induce a defection of that magnitude, was kept on in his post after cariness' fall, and you have to figure that he did something to secure that kind of treatment.
+[23:08 --> 23:14] The other, more salacious story, is that a tribune who harbored a partnership with Diocletian,
+[23:14 --> 23:36] is that a tribune who harbored a personal grudge against the emperor because cariness had seduced his wife, assassinated him, just as Diocletian's army was about to be defeated, instantly turning the tide of the whole battle.
+[23:36 --> 23:46] Remember when I said that the death of Victorinus sounded like maybe it was made up because the whole jilted underling trope was a common one in ancient literature?
+[23:47 --> 23:49] Well, here's another example of that.
+[23:50 --> 23:58] One way or the other though, at the end of the day, cariness was dead and Diocletian stood tall as the sole ruler of the Roman Empire.
+[23:59 --> 24:07] As with his brother, we really don't know how old cariness was when he died, but he had been Augustus for just about two years.
+[24:08 --> 24:14] His death, for all intents and purposes, marked the end of the crisis of the third century.
+[24:18 --> 24:21] But as I mentioned earlier, no one knew it at the time.
+[24:22 --> 24:29] Diocletian was, at that point, just another usurper, and frankly, they were a dime a dozen these days.
+[24:30 --> 24:38] Next week though, the Roman world will begin to realize that in Diocletian they were dealing with something else entirely.
+[24:39 --> 24:56] From the very beginning, his reign would prove to be a radical departure from what had come before him, and by the time he was done, almost every part of the Roman order, political, economic, social, military, would be transformed by the novel new policies of Diocletian.
+[24:56 --> 25:06] Ironically though, Diocletian transformed the Roman Empire not because he wanted to build something new, but because he wanted to restore something old.
+[25:26 --> 25:28] .

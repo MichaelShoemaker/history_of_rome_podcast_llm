@@ -1,0 +1,327 @@
+# 20110530 - 138- The New Rome
+# Detected language: en
+# Duration: 1642.55 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:05 --> 00:09] internet's leading provider of audio entertainment with over 80,000 titles to
+[00:09 --> 00:14] choose from. When you're done with this episode go to audiblepodcast.com
+[00:14 --> 00:20] forward slash Roam. That again audiblepodcast.com forward slash Roam. By
+[00:20 --> 00:24] going to that address you qualify for a free book download when you sign up for
+[00:24 --> 00:28] a 14-day trial membership. There is no obligation to continue the service and
+[00:28 --> 00:33] you can cancel anytime and keep the free book. You can also keep going with one of
+[00:33 --> 00:37] the monthly subscription options and get great deals on all future audiobook
+[00:37 --> 00:42] purchases. This week I'm going to go with a recommendation from listener Mark
+[00:42 --> 00:47] Andre, Before the Dawn by Nicholas Wade. A look at the origin and spread of
+[00:47 --> 00:53] humanity from a genetic point of view. Just remember to go to audiblepodcast.com
+[00:53 --> 00:58] forward slash Roam so that they know who sent you.
+[00:58 --> 01:12] Hello and welcome to the history of Rome. Episode 138, The New Rome. So last
+[01:12 --> 01:16] time we focused exclusively on Constantine's relationship with and
+[01:16 --> 01:22] promotion of Christianity. Obviously the Emperor's push to convert the Empire was
+[01:22 --> 01:27] a hugely important step in the development of the Western world, but it
+[01:27 --> 01:31] was by no means the only thing he was up to in the years after he became sole
+[01:31 --> 01:36] ruler of the Roman Empire. There were still wars to be fought, a government to
+[01:36 --> 01:42] be run, and oh yeah a whole new Rome to build. So today I want to dive into all
+[01:42 --> 01:48] the not overtly Christian aspects of Constantine's reign. I say not overtly
+[01:48 --> 01:53] Christian because the Emperor's religion was so tangled up in everything that he
+[01:53 --> 01:58] did that you can't just separate it out and say this stuff has to do with
+[01:58 --> 02:02] Christianity and this stuff doesn't. Even something as basic as the
+[02:02 --> 02:06] construction of Constantinople, which was a project undertaken first and
+[02:06 --> 02:10] foremost for strategic and political reasons, winds up taking on a heavy
+[02:10 --> 02:16] Christian dimension. It's inescapable. That was just the nature of the man. They
+[02:16 --> 02:22] didn't wind up calling him the equal of the Apostles for nothing. Speaking of
+[02:22 --> 02:27] Constantinople, we might as well start there because Constantine broke ground
+[02:27 --> 02:31] on his new capital practically the morning after he defeated Lichinus in
+[02:31 --> 02:37] September of 324 AD. The rapidity with which he moved to transform the ancient
+[02:37 --> 02:42] city of Byzantium into the new city of Constantinople speaks to how much
+[02:42 --> 02:46] thought Constantine had given the project prior to his victory over
+[02:46 --> 02:51] Lichinus. So the questions we must ask are why did Constantine feel like he
+[02:51 --> 02:56] needed a new capital and why did he choose Byzantium for his imperial
+[02:56 --> 03:02] makeover? As you know, Rome itself had ceased to be the political and military
+[03:02 --> 03:08] capital of the Roman Empire a long time ago. Round about 260, the emperors had
+[03:08 --> 03:12] moved decisively away from the Eternal City to more strategically sound
+[03:12 --> 03:17] locations across the Empire. And in the 65 years or so since Gallienus first
+[03:17 --> 03:21] set up shop in Milan, multiple cities had wound up serving as imperial capitals
+[03:21 --> 03:26] at one point or another. Trier along the Rhine, Milan in Italy,
+[03:26 --> 03:31] Sirmium along the Danube, Nicomedia at the crossroads between Europe and Asia,
+[03:31 --> 03:37] and Antioch in the Far East. But as Constantine surveyed the military and
+[03:37 --> 03:41] political situation of the Empire following his victory at Chrysopolis, no
+[03:41 --> 03:46] one of these cities really satisfied his vision for what a true imperial capital
+[03:46 --> 03:52] should be. They all had their merits as regional capitals, but if it was really
+[03:52 --> 03:59] going to be one emperor ruling one empire, then one capital was called for.
+[03:59 --> 04:04] Constantine needed a city that was centrally located, easily defensible,
+[04:04 --> 04:08] situated on the sea with a good harbor, and had easy access to the Danube
+[04:08 --> 04:15] frontier, which everyone understood to be the most volatile in the Empire. Of the
+[04:15 --> 04:19] existing capitals, Nicomedia was the most obvious candidate to become
+[04:19 --> 04:23] Constantine's headquarters, and by that point it was already recognized as being
+[04:23 --> 04:27] one of the preeminent cities of the Empire. But the emperor didn't really
+[04:27 --> 04:31] like that it was located on the east side of the Bosphorus, and while he found the
+[04:31 --> 04:37] city's defenses adequate, Nicomedia did not necessarily scream, I am immune to
+[04:37 --> 04:43] siege. But over the course of his two wars with Lycaeus, Constantine had become
+[04:43 --> 04:47] aware of a city that, if upgraded properly, would fit all his conditions for a great
+[04:47 --> 04:54] capital, Byzantium. Located right on the west bank of the southern entrance of
+[04:54 --> 04:59] the Bosphorus, Byzantium had a fabulous natural harbor, which meant supply and
+[04:59 --> 05:05] trade would be no problem. It was also located right smack dab at the crossroads
+[05:05 --> 05:09] between east and west, which would not only allow the emperor to quickly move
+[05:09 --> 05:13] to trouble spots, but it would also keep communication lines relatively short,
+[05:13 --> 05:18] meaning that Constantine would become aware of trouble spots that much quicker.
+[05:18 --> 05:23] But the coup d'etat was that the ancient Greek city was surrounded on three sides
+[05:23 --> 05:28] by water. This meant that a hostile land army could approach from one direction
+[05:28 --> 05:33] and one direction only, and if you were to say, build a massive wall covering
+[05:33 --> 05:38] that flank, the city would be impregnable. And while the hostile army banged their
+[05:38 --> 05:42] heads against that wall, the residents of the city could sit tight and enjoy the
+[05:42 --> 05:47] benefits of infinite resupply by sea. Constantine looked at Byzantium, and it
+[05:47 --> 05:55] screamed to him, I am immune to siege. As with everything else he did, though, there
+[05:55 --> 05:59] was a religious rationale for building a new capital to go along with the obvious
+[05:59 --> 06:04] military and political rationales. By basically building a brand new city from
+[06:04 --> 06:09] the ground up, Constantine ensured that he would not have to deal with any pushback
+[06:09 --> 06:13] from entrenched religious interests when he revealed the fact that his new capital
+[06:13 --> 06:19] was going to be an exclusively Christian capital. The major cities of the empire,
+[06:19 --> 06:23] by virtue of being the major cities of the empire, hosted all of the most
+[06:23 --> 06:29] important cults and temples of the empire. Byzantium, being a relatively minor city
+[06:29 --> 06:35] up until this point, was not saddled with that kind of pagan baggage. Though the
+[06:35 --> 06:39] story would not take root for at least a generation, it was widely believed in the
+[06:39 --> 06:43] Byzantine age that the Christian character of the city was set from the
+[06:43 --> 06:47] start, and that it was an archangel, visible only to Constantine, who told the
+[06:47 --> 06:55] emperor where to set the boundaries of the new city. In November of 324, and just
+[06:55 --> 06:59] a month after his victory over Lycinius, Constantine made the short trip from
+[06:59 --> 07:04] Nicomedia to Byzantium and began eagerly marking up the layout, possibly with the
+[07:04 --> 07:08] help of an invisible archangel, for what he grandly declared would be the
+[07:08 --> 07:15] Alternaroma, the new or second Rome. The name Constantinople, which meant literally
+[07:15 --> 07:19] the city of Constantine, was at first only an informal nickname for the
+[07:19 --> 07:24] emperor's pet project, but within a few years the unofficial name stuck, and it
+[07:24 --> 07:30] would remain stuck for more than a thousand years. Constantine planned for
+[07:30 --> 07:34] the city to be the greatest in the empire, and laid the boundaries and the
+[07:34 --> 07:40] grid lines accordingly. But Byzantium by no means became Constantinople
+[07:40 --> 07:46] overnight. At this point in history, Rome was a city of maybe a million people. The
+[07:46 --> 07:51] other big cities of the empire, Alexandria and Antioch and Nicomedia, were
+[07:51 --> 07:56] filled with populations in the hundreds of thousands. When Constantine began to
+[07:56 --> 08:01] transform Byzantium, though, it was a city of tens of thousands. In other words,
+[08:01 --> 08:05] it had a lot of growing up to do if it was really going to compete with the big
+[08:05 --> 08:12] boys. In a way, the early days of the new Rome parallel the early days of the old
+[08:12 --> 08:18] Rome. You'll recall from way back in episode 2 that the first generation of
+[08:18 --> 08:24] Romans were a motley bunch. In an effort to populate his city quickly, Romulus had
+[08:24 --> 08:30] thrown the doors open to anyone who happened by. Beggars, thieves, malcontents,
+[08:30 --> 08:37] exiles, basically the cast-offs of civilized society. As Byzantium transformed
+[08:37 --> 08:42] into Constantinople, this new Rome followed a similar pattern. The emperor
+[08:42 --> 08:45] put out the word that he was looking for men and women and families to come fill
+[08:45 --> 08:51] up his new capital. But the respectable citizens of the empire were respectable
+[08:51 --> 08:55] because they had a good thing going right where they were. So the citizens who
+[08:55 --> 09:00] initially heeded Constantine's call were the struggling, the failed, and the
+[09:00 --> 09:05] disliked from across the empire who were desperate for a fresh start. This group
+[09:05 --> 09:10] was augmented by the greedy, the ambitious, and the ruthless, who saw in
+[09:10 --> 09:14] Constantine's city an opportunity to get in on the ground floor of something
+[09:14 --> 09:20] really big and make a killing in the process. I think it's safe to say that
+[09:20 --> 09:23] you would not want to invite Constantinople's first generation of
+[09:23 --> 09:31] citizens to dinner. As we saw last time, after initiating the process of
+[09:31 --> 09:34] transforming Byzantium into Constantinople, a process that would take
+[09:34 --> 09:39] just six years, Constantine turned his attention most especially to establishing
+[09:40 --> 09:44] within the Christian church. When the Council of Nicaea wrapped up its
+[09:44 --> 09:48] business though, he invited the bishops up to Nicomedia to help him inaugurate
+[09:48 --> 09:52] his 20th year on the throne, backdating his rule to the death of his father of
+[09:52 --> 09:58] course. Antoninus Pius had been the last emperor to serve for more than 20 years
+[09:58 --> 10:03] and at just 53 years old and with his health never an issue, Constantine looked
+[10:03 --> 10:09] poised to set a new standard for longevity. Though in the end he will only
+[10:09 --> 10:15] be sole ruler for about 12 years. When Constantine died in 337, his 31-year
+[10:15 --> 10:20] tenure in the purple will rank him second only to the divine Augustus on
+[10:20 --> 10:26] the all-time list. And speaking of Augustus, after celebrating his
+[10:26 --> 10:31] anniversary, Constantine made his way over to Aquileia in the spring of 326
+[10:31 --> 10:35] and it was here that he decided to follow in the footsteps of that first
+[10:35 --> 10:40] and greatest of Roman emperors. Unfortunately, the footsteps he decided
+[10:40 --> 10:44] to follow were the ones that contemporaries and historians alike agree
+[10:44 --> 10:51] were the biggest missteps of Augustus's career. First up, do you remember the ill-fated
+[10:51 --> 10:56] and overly cruel Lex Julia that sought to legislate sexual morality and failed
+[10:56 --> 11:02] miserably? Yeah, we're back to that. Second up, do you remember how Augustus
+[11:02 --> 11:07] lashed out at wayward members of his family by exiling them? Well,
+[11:07 --> 11:12] Constantine is about to outdo the emperor in cold-hearted brutality because
+[11:12 --> 11:17] where Augustus merely exiled members of his family, Constantine is about to kill
+[11:17 --> 11:23] them dead. Constantine's morality laws followed the Augustan precedent in that
+[11:23 --> 11:28] they established an idealized model of family life and then rigidly demanded
+[11:28 --> 11:32] adherence to the model with draconian punishments doled out to the wayward.
+[11:32 --> 11:37] The only difference really was that Constantine's laws came down particularly
+[11:37 --> 11:41] hard on women, especially on the issue of premarital virginity, and were
+[11:41 --> 11:45] rationalized with appeals to Christian scripture rather than appeals to
+[11:45 --> 11:51] traditional Roman virtue. As with the Augustan attempt to scare everyone
+[11:51 --> 11:55] straight though, Constantine's morality laws wound up inflicting punishments on
+[11:55 --> 12:01] a few unfortunate souls far in excess of their crimes, pouring molten lead down
+[12:01 --> 12:07] the throat of a servant who aids a couple in eloping. Really? Well, ultimately
+[12:07 --> 12:13] having very little impact on how people actually live their lives. It was while
+[12:13 --> 12:18] he was in Italy in 326 that Constantine then took his second cue from Augustus
+[12:18 --> 12:22] and, deciding to do the old boy one better, wound up committing one of the
+[12:22 --> 12:27] more heinous crimes you can possibly commit. He ordered his eldest son
+[12:27 --> 12:34] Crispus, seized and executed. No one knows exactly why Constantine
+[12:34 --> 12:39] suddenly turned on his son. That is, what specifically Crispus was supposed to
+[12:39 --> 12:43] have done, but there is near universal agreement that the Emperor's wife Fausta
+[12:43 --> 12:48] was behind it all. Some people claim Fausta attempted to seduce Crispus and
+[12:48 --> 12:53] was rejected. Others claim Crispus raped his stepmother in a fit of passion,
+[12:53 --> 12:57] though this accusation can almost certainly be dismissed, while others
+[12:57 --> 13:01] simply roll with the old familiar tale of a stepmother looking to get rid of a
+[13:01 --> 13:06] stepson so that her own children can ascend to the throne. Whatever the
+[13:06 --> 13:11] reason, she allegedly framed or set up Crispus. The frame up or set up job was
+[13:11 --> 13:18] effective and the Emperor, convinced of something, ordered his boy executed.
+[13:18 --> 13:22] There is a centuries-old rumor that Crispus fell victim to Constantine's new
+[13:22 --> 13:27] morality laws, but a far more likely guess is that Crispus was implicated in
+[13:27 --> 13:31] a plot to overthrow his father. We have no way of knowing if the charges were
+[13:31 --> 13:35] true, and certainly nothing in Crispus's life or career even hint that he planned
+[13:35 --> 13:40] to turn on his father, but as that great military philosopher Saul Tai once said,
+[13:40 --> 13:48] no one is a traitor until they are. So, who knows? The consensus, though, is that
+[13:48 --> 13:53] Crispus was framed, and most likely framed by Fausta. Certainly what happens
+[13:53 --> 13:58] next does not bode well for her historical reputation. After Crispus was
+[13:58 --> 14:02] executed, the Imperial Court moved down to Rome, or it was joined by Constantine's
+[14:02 --> 14:06] mother Helena, who had been living in the city since her son's victory at the
+[14:06 --> 14:11] Milvian Bridge. Shortly after the Emperor's arrival, Helena appears to have
+[14:11 --> 14:14] met privately with Constantine to discuss the circumstances of her
+[14:14 --> 14:20] grandson's death. We don't know exactly what proof she presented to Constantine,
+[14:20 --> 14:24] but it apparently convinced him that his lovely wife had just tricked him into
+[14:24 --> 14:29] murdering his own son, because straight away he had Fausta seized and put
+[14:29 --> 14:35] under guard. Then, torn by an understandable mix of grief and rage, he
+[14:35 --> 14:40] decided that an eye for an eye was the best way to go. The most commonly told
+[14:40 --> 14:44] version of the story is that he had his wife put in a steam room, the doors were
+[14:44 --> 14:49] locked, and the heat was cranked up to 11. The Empress suffocated in the
+[14:49 --> 14:56] unbearable heat. Just like that, the Emperor's son and wife were both dead,
+[14:56 --> 15:03] and both were dead at the Emperor's hand. Even in the far more permissive ancient
+[15:03 --> 15:07] world, these were serious crimes that would haunt Constantine for the rest of
+[15:07 --> 15:13] his life. The Emperor remained in Rome for a time, and then began a slow journey
+[15:14 --> 15:20] back to Nicomedia. Well aware that he had maybe screwed up pretty royally, and that
+[15:20 --> 15:23] his reputation was going to suffer, especially in the Christian circles who
+[15:23 --> 15:28] tended to look sideways at things like murdering members of your own family,
+[15:28 --> 15:32] Constantine sought to minimize the damage, and maybe change the subject by
+[15:32 --> 15:37] sending his mother Helena on a religious pilgrimage to the Far East. She was sent
+[15:37 --> 15:41] to identify key locations in the life of Jesus, initiate construction of any
+[15:41 --> 15:46] shrine she felt appropriate, and wherever she went to liberally spread
+[15:46 --> 15:51] the Imperial wealth. In other words, she was on a goodwill mission to help head
+[15:51 --> 15:57] off any tarnishing of Constantine's image. The mission succeeded beyond the
+[15:57 --> 16:01] Emperor's wildest expectations, and his mother's tour of the East, which among
+[16:01 --> 16:05] other things officially determined the site of both Jesus's birth and his death,
+[16:05 --> 16:09] built a number of important churches that stand to this day, and then came
+[16:09 --> 16:14] home with pieces of the True Cross, inspired thousands and then millions to
+[16:14 --> 16:18] follow in her footsteps and make a pilgrimage to what was now starting to
+[16:18 --> 16:24] be known as the Holy Land. Like her son, she is not known as Saint Helena for
+[16:24 --> 16:32] nothing. With the heat from this double murder partially deflected, Constantine
+[16:32 --> 16:35] was able to get back to the business of being Emperor without suffering too much
+[16:35 --> 16:40] for his crime. The questions I want to spend the rest of this episode on then
+[16:40 --> 16:45] are, aside from his promotion of Christianity, what kind of Emperor was
+[16:45 --> 16:51] Constantine, and what role did he play in the evolution of the Empire? In general,
+[16:51 --> 16:55] the answer is that he was, in almost every way, the ideological heir of the
+[16:55 --> 17:01] old senior Augustus Diocletian. There were differences, of course, the biggest
+[17:01 --> 17:05] being that Constantine had no truck with the division of Imperial labor, but
+[17:05 --> 17:10] other than that, we see him continuing Diocletian's policies, and refining
+[17:10 --> 17:15] Diocletian's policies, and extending Diocletian's policies, but only rarely do
+[17:15 --> 17:20] we see him turning away from Diocletian's policies. Despite the failure
+[17:20 --> 17:25] of the Tetrarchy, in the end, most of what Diocletian put in place wound up
+[17:25 --> 17:30] defining the next few centuries of the Empire's evolution. Even Constantine,
+[17:30 --> 17:36] radical, visionary Constantine, appears to have seen no reason to fundamentally
+[17:36 --> 17:42] change much of anything at all. First off, Constantine completely bought into the
+[17:42 --> 17:47] ideology of the Emperor as the divinely appointed ruler, and fully embraced the
+[17:47 --> 17:51] pageantry that Diocletian had built up to elevate the Emperor above mortal men,
+[17:51 --> 17:57] though obviously Constantine looked to God rather than Jupiter as his ultimate
+[17:57 --> 18:03] patron. Constantine dressed exquisitely, wore a diadem, remained sequestered from
+[18:03 --> 18:08] all but the most important dignitaries, sat while others stood, and was addressed
+[18:08 --> 18:14] as Lord Constantine, or Sacred Constantine, or Divine Constantine.
+[18:14 --> 18:19] Diocletian had redefined the role of the Emperor in the Empire, and Constantine
+[18:19 --> 18:25] played the new part to perfection. But it was not just in the optics department
+[18:25 --> 18:29] that Constantine followed Diocletian's lead. In the realm of Imperial
+[18:29 --> 18:34] administration, he followed the old senior Augustus as well. He made only
+[18:34 --> 18:38] minor tweaks to the reformed provincial divisions Diocletian had established,
+[18:38 --> 18:43] military and civilian careers were kept separate, and real power was increasingly
+[18:43 --> 18:50] shifted to the Emperor's ever-expanding central bureaucracy. Constantine added new
+[18:50 --> 18:54] positions and new layers to the already elaborate governmental apparatus he
+[18:54 --> 18:59] inherited, and did everything he could to enhance the dignity and cement the
+[18:59 --> 19:05] authority of the Imperial bureaucrats. His only break with Diocletian in this
+[19:05 --> 19:09] regard is that Constantine was not so eager to thumb his nose at the
+[19:09 --> 19:13] senatorial class, especially since he was in the middle of an all-out assault on
+[19:13 --> 19:18] their religious beliefs. Following through on the promise he had made
+[19:18 --> 19:22] following the Milvian Bridge to renew their old privileges, Constantine
+[19:22 --> 19:27] reopened most of the higher offices in the Empire to men of senatorial rank, and
+[19:27 --> 19:33] eagerly welcomed them into his administration. He coupled this reform
+[19:33 --> 19:36] with a deliberate move to reduce the number of equites serving in government.
+[19:36 --> 19:41] Now this appears to be a pretty significant shift in policy, but there
+[19:41 --> 19:46] was actually less to it than meets the eye. Because though Constantine opened up
+[19:46 --> 19:51] all these positions to men of senatorial rank, he also significantly lowered the
+[19:51 --> 19:57] bar for admission into that class. In effect, all those equites who were now
+[19:57 --> 20:02] barred from this office or that post didn't really care, because, hey look at
+[20:02 --> 20:07] me, I'm a senator now too. When Constantine enrolled a new Senate to
+[20:07 --> 20:15] serve him in Constantinople, it did not number 300 or even 600, but 2000. The
+[20:15 --> 20:19] senatorial class was welcomed back into power, sure, but only after Constantine
+[20:19 --> 20:26] had carefully watered it down. Constantine also continued with Diocletian's
+[20:26 --> 20:31] almost scientific approach to taxation, though when coupled with his monetary
+[20:31 --> 20:36] policy, Constantine really did a number on Diocletian's vision of everyone
+[20:36 --> 20:42] sharing in the burden of empire according to their particular means. Though
+[20:42 --> 20:46] for the most part Diocletian's tax structure continued to function as it
+[20:46 --> 20:51] previously had, Constantine began pushing to augment the in-kind system
+[20:51 --> 20:55] with new taxes that were to be paid in precious metal, just like the good old
+[20:55 --> 21:00] days. The political and economic systems of the empire had stabilized
+[21:00 --> 21:05] considerably since Diocletian had initiated his tax reforms, and Constantine
+[21:05 --> 21:10] felt like it was time for his subjects to start paying in cash again. This move
+[21:10 --> 21:14] was coupled with the Emperor's introduction of a carefully crafted gold
+[21:14 --> 21:21] coin called the solidus, 72 of which were to equal one Roman pound. Though no
+[21:21 --> 21:26] one knew it at the time, the soundness of the solidus would become legendary as
+[21:26 --> 21:30] its weight and purity would be maintained for the next 700 years at
+[21:30 --> 21:35] least, forming the basis of the Byzantine economy and almost single-handedly
+[21:35 --> 21:40] helping to keep the West from falling into a strictly barter economy following
+[21:40 --> 21:45] the fall of the Empire. But unfortunately, Constantine focused only
+[21:45 --> 21:49] on the gold standard, and he basically left silver and copper coins to fend for
+[21:49 --> 21:54] themselves, which helped to exacerbate the growing divide between the rich and
+[21:54 --> 21:59] everyone else. Those rich enough to deal in gold found that their wealth and
+[21:59 --> 22:03] power was now shielded from the ravages of runaway inflation, while those further
+[22:03 --> 22:07] down the ladder, in particular the middle-class merchants, once again saw
+[22:07 --> 22:14] their lives and livelihoods threatened by an unstable economy. The most
+[22:14 --> 22:18] pernicious aspect of Constantine's new gold and silver tax, which was directed
+[22:18 --> 22:22] primarily at the commerce of the merchant class, was that it was only
+[22:22 --> 22:28] assessed once every four years. That is, the collectors would come around and
+[22:28 --> 22:33] demand a lump sum of what you owe to cover the next four annual budgets. You
+[22:33 --> 22:37] can imagine how much stress this would cause us today, and we have automatic
+[22:37 --> 22:43] withholding. For a population also dealing with runaway inflation, the new
+[22:43 --> 22:48] tax was a disaster. What money they had was virtually worthless, and nowhere near
+[22:48 --> 22:51] enough to cover the patently absurd demands that were now being laid down
+[22:51 --> 22:56] from on high. So every four years, the citizens of the Empire would have a
+[22:56 --> 23:00] collective panic attack as they tried to figure out how in the hell they were
+[23:00 --> 23:05] going to pay the tax collectors. And of course, since the tax collectors
+[23:05 --> 23:09] themselves were on the hook if they did not meet their quota for revenue, well,
+[23:09 --> 23:14] let's just say that exceptions were never made, and eventually Constantine had to
+[23:14 --> 23:20] step in and publish edicts banning the more sadistic forms of torture. It was
+[23:20 --> 23:23] not at all uncommon during this quadrennial nightmare for children to be
+[23:23 --> 23:28] sold into slavery to pay tax debts, or for households to simply give up and
+[23:28 --> 23:33] become indentured servants to wealthy landowners when they were unable to pay.
+[23:33 --> 23:37] Constantine was not indifferent to the problems of this new tax system, and over
+[23:37 --> 23:41] the years he did his best to make sure tax allegations lined up with a
+[23:41 --> 23:46] citizen's actual ability to pay. But the long and short of it was that he needed
+[23:46 --> 23:52] the money, and sometimes you can't make an omelet without breaking a few eggs.
+[23:52 --> 23:59] So what was the omelet Constantine was trying to make? That is, why did he need
+[23:59 --> 24:04] all of that money? The Emperor, of course, had an army to pay for and frontiers to
+[24:04 --> 24:09] defend, which we'll talk about more next time. He also had a bureaucracy to pay
+[24:09 --> 24:14] for and a government to run. He also had initiated an empire-wide building
+[24:14 --> 24:19] program that was unprecedented in its size and scope, at least in the context
+[24:19 --> 24:24] of its time. And that building program, though dominated by church construction,
+[24:24 --> 24:30] St. Peter's, for example, was a hugely expensive undertaking. Constantine did
+[24:30 --> 24:34] not ignore the secular infrastructure, and he did his best to help cash-strapped
+[24:34 --> 24:37] municipalities keep their public buildings from falling into disrepair.
+[24:37 --> 24:43] And of course, there was the city he was building on the Bosphorus, which was
+[24:43 --> 24:48] officially inaugurated in May of 330 AD, but which remained a persistent drain on
+[24:48 --> 24:54] the Treasury as the Emperor got his city up and running. All of this added up
+[24:54 --> 24:58] to a very large number on the bottom line, and it is actually much to
+[24:58 --> 25:02] Constantine's credit that he was at least mindful of the fact that at the end of
+[25:02 --> 25:08] the day, the credits and debits ought to line up. Tax and spend might be bad, but
+[25:08 --> 25:13] tax cut and spend is even worse. Plus, while Constantine could never be
+[25:13 --> 25:18] accused of being frugal, neither could he be accused of being mindlessly
+[25:18 --> 25:23] extravagant. Everything he did had a point, and for the most part, that which
+[25:23 --> 25:29] Constantine paid for was well worth the cost. That said, his handling of the
+[25:29 --> 25:34] economy and his monetary policy in particular inflamed problems that would,
+[25:34 --> 25:41] in time, lead to nothing less than the fall of the Western Empire. For example,
+[25:41 --> 25:46] one of the most interesting side effects of the commercial tax was that large
+[25:46 --> 25:50] landowners were able to avoid paying it simply by making their estates as
+[25:50 --> 25:56] self-sufficient as possible. No trade, no tax. Along with a number of other
+[25:56 --> 26:00] factors, this increased self-sufficiently allowed the super elites to begin
+[26:00 --> 26:04] withdrawing from public life altogether, undermining the imperial system, and
+[26:04 --> 26:09] creating little independent fiefdoms that would, in time, form the backbone of
+[26:09 --> 26:14] feudal Europe. And that's the problem with these things. Sometimes you don't
+[26:14 --> 26:18] know what the final cost is going to be.
+[26:20 --> 26:25] Next time, we will cover the last years of the man history will come to know as
+[26:25 --> 26:30] Constantine the Great. With his heir apparent Crispus now dead, the aging
+[26:30 --> 26:34] Emperor will have to quickly bring his younger sons up to speed so that the
+[26:34 --> 26:39] Empire would not be left in the hands of novices when he was gone. Pressures in
+[26:39 --> 26:43] the north will plunge him and the Empire back into war, and a crisis in the East
+[26:43 --> 26:49] will very nearly lead to armed conflict with the Persians. And of course, at the
+[26:49 --> 26:53] very end, and with no time left for any further sin to stain his soul,
+[26:53 --> 27:00] Constantine, the first Christian Emperor, will finally be baptized.
+[27:13 --> 27:15] you

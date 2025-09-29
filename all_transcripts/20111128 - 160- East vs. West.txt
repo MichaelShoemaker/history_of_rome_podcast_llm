@@ -1,0 +1,253 @@
+# 20111128 - 160- East vs. West
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the internet's leading
+[00:06 --> 00:12] provider of audio entertainment with over 100,000 titles to choose from. When you're
+[00:12 --> 00:19] done with this episode, go to audiblepodcast.com forward slash Rome. That again, audiblepodcast.com
+[00:19 --> 00:24] forward slash Rome. By going to that address, you qualify for a free book download when
+[00:24 --> 00:29] you sign up for a 14-day trial membership. There is no obligation to continue the service
+[00:29 --> 00:34] and you can cancel anytime and keep the free book. Or, you can keep going with one of the
+[00:34 --> 00:38] monthly subscription options and get great deals on all future audiobook purchases.
+[00:39 --> 00:46] This week, I am going to go with a recommendation from listener Larry L. The 48 Laws of Power
+[00:46 --> 00:51] by Robert Greene, which appears to be a fun list of maxims designed to help you win and
+[00:51 --> 00:57] maintain power. Things like, do not commit to anyone and crush your enemies totally.
+[00:58 --> 01:03] Illustrated by historical examples, it looks like exactly the sort of book that would have
+[01:03 --> 01:09] amused Julius Caesar. Just remember to go to audiblepodcast.com forward slash Rome so
+[01:09 --> 01:11] that they know who sent you.
+[01:16 --> 01:27] Hello and welcome to the History of Rome, episode 160, East versus West. In the summer
+[01:27 --> 01:33] of 395, Astylico led practically the only Roman army of consequence left in the empire
+[01:33 --> 01:39] into Thrace to face down Alaric and his rampaging Goths. But right at the moment when it appeared
+[01:39 --> 01:45] that victory was within his grasp, Astylico suddenly decided to detach the eastern contingent
+[01:45 --> 01:50] of his army and return it to Constantinople before leading the rest of his army back towards
+[01:50 --> 01:56] the west. Preparing to make his last stand, Alaric wound up simply watching the Roman
+[01:56 --> 01:59] army dissipate without so much as a sword being drawn.
+[02:01 --> 02:06] Scholars long blamed the machinations of the eastern Praetorian prefect Rufinus for the
+[02:06 --> 02:11] order to break up Astylico's army, but it is just as likely that Astylico himself never
+[02:11 --> 02:16] had any intention of bringing Alaric to battle and was just happy for any excuse to withdraw.
+[02:17 --> 02:22] As later events would show, as much as imperial propaganda liked to paint the Goths as out-of-control
+[02:22 --> 02:27] monsters, the courts of both east and west knew that they were actually an incredibly
+[02:27 --> 02:33] valuable military resource to be utilized, not some terrible foreign enemy to be defeated
+[02:33 --> 02:40] at all costs. Put simply, crushing the Goths would have meant crippling the long-term war-making
+[02:40 --> 02:45] power of the empire. And beyond that, the courts of east and west also understood that
+[02:45 --> 02:50] crushing the Goths would have meant losing a potential ace in the hole to be laid down
+[02:50 --> 02:54] In the high-stakes game of political poker, they were playing with each other.
+[02:57 --> 03:01] Aside from long-term geopolitical strategy, Astylico had another incentive for breaking
+[03:01 --> 03:07] up his army. Whether he was the instigator of the coming assassination of Rufinus or
+[03:07 --> 03:13] just an interested third party is unknown, but it is hard to believe Astylico didn't
+[03:13 --> 03:17] know what was going to happen when the eastern troops returned to Constantinople.
+[03:19 --> 03:24] Heading back east under the command of an ethnically Goth general named Gainas, the
+[03:24 --> 03:29] troops arrived at the great capital city in the late summer of 395. The emperor Arcadius
+[03:29 --> 03:35] came out to the army's camp to greet them, and the prefect Rufinus was by his side. But
+[03:35 --> 03:40] when they arrived, a hand-picked company of soldiers surrounded the shocked prefect and
+[03:40 --> 03:46] unceremoniously hacked him to death. Rufinus had apparently been so focused on his enemy
+[03:46 --> 03:51] Astylico that he failed to see just how many enemies he was generating right there at home,
+[03:52 --> 03:55] not the least of whom was the new empress Eudoxia.
+[03:57 --> 04:03] It's not that Rufinus didn't know Eudoxia was a deadly rival for power. After all, her
+[04:03 --> 04:08] marriage to Arcadius earlier that April had been publicly opposed by the prefect, as he
+[04:08 --> 04:16] had been pushing his own daughter on the emperor. And you can't really stand in the way of a
+[04:17 --> 04:24] past you into the emperor's bedroom. Eudoxia quickly got together with one of Rufinus's
+[04:24 --> 04:29] court enemies, a eunuch named Eutropius, and together they conspired to topple the prefect,
+[04:29 --> 04:35] all likely with Astylico's nod and wink, if not outright support. But if Astylico was
+[04:35 --> 04:39] thinking that the fall of Rufinus would lead the eastern court to recognize his claim to
+[04:39 --> 04:46] regency over Constantinople, well then he was let down. Eutropius and Eudoxia simply
+[04:46 --> 04:50] stepped into the power vacuum left by the prefect and controlled Arcadius for their
+[04:50 --> 04:53] own purposes, rebuffing all of Astylico's political advances.
+[04:57 --> 05:02] Shut out once again from the east, in 396, Astylico turned his attention to his own backyard
+[05:02 --> 05:07] to ensure its stability when he inevitably went back across the Alps to confront Alaric.
+[05:08 --> 05:13] The rise of Eutropius and Eudoxia as enemies of the vandal general meant that the Goths
+[05:13 --> 05:19] needed to be brought into Stilicho's sphere and fast. Alaric must not be allowed to sign
+[05:19 --> 05:24] a peace deal with Constantinople, he must be brought to heel by the west, and if not
+[05:24 --> 05:29] converted into an active ally, then at least sidelined for any intra-imperial struggle.
+[05:32 --> 05:36] Stilicho's biggest fear, of course, was a vaguely noble one. He feared that Constantinople
+[05:36 --> 05:41] would give the Gothic king the Roman generalship that he had been craving as the price for
+[05:41 --> 05:46] an alliance, a price that Stilicho thought way too high and way too dangerous to the
+[05:46 --> 05:52] long-term health of the empire. Having ethnically barbarian generals was fine, after all he
+[05:52 --> 05:59] was one, but having one who doubled as the king of a barbarian nation? Well, the implications
+[05:59 --> 06:03] of that conflict of interest were just too terrifying to contemplate.
+[06:05 --> 06:10] So Stilicho spent 396 marching up and down the Rhine, making deals with the Germans to
+[06:10 --> 06:16] get them to sit tight, raising new recruits and extra cash along the way. While Stilicho
+[06:16 --> 06:22] was thus occupied, Alaric continued to plunder the central empire, more or less at will.
+[06:23 --> 06:28] Not that he was on some hell-bent-for-leather trip, he too was looking for a political arrangement
+[06:28 --> 06:33] rather than a military victory, so as plundering campaigns went it was actually pretty mild,
+[06:34 --> 06:40] and cities were of course more than welcome to pay their way out of any potential sacking.
+[06:40 --> 06:45] Eutropius, for his part, just sort of let Alaric run because he too was looking to strike
+[06:45 --> 06:51] a deal and didn't want to make enemies with the man he was trying to make his ally. It's
+[06:51 --> 06:55] also written a few places that the Huns were starting to make trouble near Syria, so it's
+[06:55 --> 07:00] entirely possible that even had he wanted to, Eutropius would have been unable to muster
+[07:00 --> 07:09] resources to do anything about Alaric. In 397 though, Stilicho felt like he was ready
+[07:09 --> 07:13] to do something about Alaric, so he gathered up an army, partially composed of veterans
+[07:13 --> 07:20] and partially composed of new recruits, and sailed them over to Corinth. This was a gutsy
+[07:20 --> 07:26] move for the vandal general, as Greece clearly belonged to Constantinople. To up and land
+[07:26 --> 07:31] an army there without permission could easily be seen as an act of war, and in case you're
+[07:31 --> 07:37] wondering, no, Stilicho did not have permission to up and land an army there.
+[07:38 --> 07:43] But he did have a moral argument that someone had to do something about the Goths, and are
+[07:43 --> 07:51] we not one united empire? So he landed his army and began to wage war on Alaric. But
+[07:51 --> 07:57] as with his campaign in 395, it was a war of positional maneuvering rather than open
+[07:57 --> 08:03] field battling. Alaric marched here, Stilicho marched there. Alaric marched there, Stilicho
+[08:03 --> 08:09] marched here. The vandal general's objective was to checkmate Alaric, not destroy him.
+[08:10 --> 08:15] But again, as with the campaign of 395, Stilicho would be forced to break off his offensive
+[08:15 --> 08:18] before even checkmate could be achieved.
+[08:21 --> 08:27] There is no explicit reason given for Stilicho's decision to withdraw from Greece, and speculation
+[08:27 --> 08:31] ranges from the general believing that his new troops might not be a match for the Goths
+[08:31 --> 08:36] should it come down to a battle, to the fact that Eutropius had Stilicho declared a public
+[08:36 --> 08:42] enemy for waging this unsanctioned war, which undercut the political rationale for the campaign.
+[08:43 --> 08:48] But I have always suspected that the situation in North Africa might have been a major catalyst.
+[08:50 --> 08:56] Ah, what situation in North Africa, you ask? I'll get to that in a second, but before we
+[08:56 --> 09:00] move on, I should note that this was the second time that Stilicho will have Alaric on the
+[09:00 --> 09:07] run and fail to finish the job. It will also not be the last time, and eventually the gossipy
+[09:07 --> 09:12] backstabbers in Milan will start to wonder if the barbarian general running their army
+[09:12 --> 09:17] maybe doesn't have Rome's best interests at heart, and was instead looking to form
+[09:17 --> 09:23] some pan-barbarian alliance that would someday conquer Rome, either from within or from without.
+[09:25 --> 09:31] Far-fetched and paranoid? Perhaps. But why else would Stilicho keep letting Alaric get away?
+[09:35 --> 09:41] The situation in North Africa was that in mid-397 a revolt against Milan had broken
+[09:41 --> 09:48] out, led by the local governor and likely instigated by Eutropius. The governor, a man
+[09:48 --> 09:53] named Gildo, is an interesting character, and it's kind of a shame I haven't gotten
+[09:53 --> 09:59] to him until just now because I'm about to kill him off. Gildo was of Berber descent,
+[09:59 --> 10:05] and had been a close associate of the Theodosian family, serving the elder Theodosius loyally
+[10:05 --> 10:11] during the campaign against Firmus. As a reward for this loyalty, the younger Theodosius promoted
+[10:11 --> 10:17] Gildo up the ranks until by 386 the Berber general was more or less in charge of the
+[10:17 --> 10:23] entire North African coast, not counting Egypt, of course. With the consent of Theodosius,
+[10:23 --> 10:30] for the next decade Gildo served as a nearly autonomous dictator of Africa, whose principal
+[10:30 --> 10:36] assignment was maintaining the all-important grain shipments bound for Italy. He ruthlessly
+[10:36 --> 10:42] and effectively carried out his assignment, and so he was left alone. But when his patron
+[10:42 --> 10:49] Theodosius died, Gildo's loyalties and motives became far less clear. Technically, he was
+[10:49 --> 10:54] part of the Western Empire and subject to the court of Milan, but he had been on his
+[10:54 --> 11:00] own for so long that Stilicho viewed him with suspicion, and Eutropius viewed him with hope.
+[11:03 --> 11:08] In mid-397, Gildo allowed himself to be swayed by Eutropius, and he pledged his loyalty to
+[11:08 --> 11:14] Arcadius and the court of Constantinople. This shift in the political gravity of the
+[11:14 --> 11:19] empire came so hot on the heels of Stilicho's withdrawal from Greece that I wonder, but
+[11:19 --> 11:24] I have no evidence to support this bit of speculation, whether Gildo's imminent side-switching
+[11:24 --> 11:31] wasn't known privately before it was announced publicly. In any case, it sure was lucky that
+[11:31 --> 11:36] Stilicho and his army were back in Italy right at the moment when they needed to head south
+[11:36 --> 11:43] to defend Milan's claim to the grain shipments, which Gildo had begun to withhold. Stilicho
+[11:43 --> 11:48] sprang into action when the grain stopped coming, because he knew that any disruption
+[11:48 --> 11:54] to the food supplies would have been devastating to his political legitimacy, especially since
+[11:54 --> 12:02] earlier that year he had lost his most important political ally. In April of 397, at the age
+[12:02 --> 12:09] of 58, Ambrose of Milan had died. Ambrose had been the bishop of the Italian capital
+[12:09 --> 12:15] for 23 years, and is justly recognized not just as one of the most influential men in
+[12:15 --> 12:20] the history of the Catholic Church, which he obviously was, but also as one of the most
+[12:20 --> 12:26] influential men in the history of the world, period. He provided a continuity of leadership
+[12:26 --> 12:30] through an age during which no fewer than six different men laid claim to the imperial
+[12:30 --> 12:36] throne of Milan, and so it was he, way more than they, who really came to define that
+[12:36 --> 12:42] age and the future trajectory of both the church and the state. To say nothing of the
+[12:43 --> 12:48] fact that back in 386 he had personally converted a 30-something year old religious seeker named
+[12:48 --> 12:54] Augustine to Christianity, which is why I hold Ambrose personally responsible for all
+[12:54 --> 12:59] those times I had to read select portions of the City of God for the test on Friday.
+[13:02 --> 13:07] Stilicho spent the rest of 397 and the early part of 398 scrambling to deal with the loss
+[13:07 --> 13:13] of the African grain, and showing off his administrative acumen, he was largely successful
+[13:13 --> 13:19] in the effort, bringing down supplies from Gaul to make up for the shortfall. This was
+[13:19 --> 13:24] only a temporary solution, but it was enough of a solution that, far from toppling the
+[13:24 --> 13:29] Vandal general, his prestige was actually elevated and he became stronger than ever.
+[13:30 --> 13:34] So strong, in fact, that he was able to push through the marriage of his daughter to the
+[13:34 --> 13:39] 14-year-old Honorius, meaning that Stilicho was now not just the guardian of the emperor,
+[13:39 --> 13:44] but also his father-in-law, which also meant that down the road he was going to be the
+[13:44 --> 13:51] grandfather of any and all imperial heirs. But as strong as his standing was right at
+[13:51 --> 13:56] that moment, Stilicho knew it would all be pulled right out from under him if he failed
+[13:56 --> 13:58] to turn back on the North African grain shipments.
+[14:01 --> 14:07] In the spring of 398 then, Stilicho ordered an invasion force to head south, topple Gildo,
+[14:07 --> 14:13] and retake the farms and ports of the region. The Vandal general did not lead this force
+[14:13 --> 14:18] personally, but instead left it in the hands of a commander Stilicho knew would pursue
+[14:18 --> 14:24] the destruction of Gildo with a relentless zeal, Gildo's brother and now mortal enemy,
+[14:25 --> 14:25] Mezquizel.
+[14:27 --> 14:32] The two brothers had once been as close as you'd expect brothers to be, but they had
+[14:32 --> 14:37] had a falling out, and Mezquizel, fearing for his life, had fled North Africa for the
+[14:37 --> 14:43] safety of Italy. As punishment for the flight, Gildo took the rather extreme step of executing
+[14:43 --> 14:49] Mezquizel's two sons. So Stilicho recognized that if there was one man in the empire who
+[14:49 --> 14:55] was not going to rest until Gildo's head was on a stick, it was Mezquizel. So he gave
+[14:55 --> 14:59] the Berber general command of the invasion force and left it to him to interpret the
+[14:59 --> 15:04] vague orders to retake North Africa however he saw fit.
+[15:06 --> 15:10] Mezquizel's forces landed in Africa, and though they were outnumbered by the army that
+[15:10 --> 15:17] greeted them, Gildo's forces crumpled almost immediately. The ease of Mezquizel's victory
+[15:17 --> 15:22] has been explained variously as the result of his own troops being far superior in discipline
+[15:22 --> 15:27] and skill. After all, the North African brigades never faced the kind of threats faced daily
+[15:27 --> 15:33] by their northern comrades, or possibly as the result of bribes from Mezquizel, who knew
+[15:33 --> 15:40] that his brothers' ruthless tendencies had not endeared him to many over the years. Probably,
+[15:40 --> 15:44] it was a little from column A and a little from column B.
+[15:45 --> 15:50] Gildo immediately recognized that the jig was up, and that making a run for Constantinople
+[15:50 --> 15:56] was his only chance at survival. Mezquizel was obviously not going to be lenient in
+[15:56 --> 16:02] his victory. But as Gildo's ship set sail for the east, a storm kicked up and blew the
+[16:02 --> 16:09] boat back ashore. Washed up and recognized, Gildo was thrown into chains by some local
+[16:09 --> 16:13] magistrates looking to make a good impression on Mezquizel. But before his brother could
+[16:13 --> 16:17] get to him, Gildo was able to commit suicide.
+[16:18 --> 16:22] Though he had succeeded in his mission far faster than anyone could have predicted,
+[16:23 --> 16:28] I'd be willing to bet that Mezquizel himself was mostly just bitter about the outcome of
+[16:28 --> 16:33] the invasion, since he had not been able to kill Gildo with his own bare hands.
+[16:35 --> 16:41] But he did not have long to stew in his bitterness. Recalled to Milan, Mezquizel was greeted by
+[16:41 --> 16:46] the population as a hero. But a few weeks later, he and Stiliko went out for a stroll,
+[16:47 --> 16:52] and while crossing a bridge, poor Mezquizel lost his footing and plunged off the bridge
+[16:52 --> 16:59] to his death. Stiliko swore up and down that it was an accident. But it's really, really
+[16:59 --> 17:04] hard not to conclude that having successfully used the Berber to retake Africa, that Stiliko
+[17:04 --> 17:11] did away with Mezquizel before his power and popularity grew to rival Stiliko's. These
+[17:11 --> 17:17] were dangerous times, and the stakes were high. But Stiliko swore it was an accident.
+[17:17 --> 17:20] And what are you going to do? Argue with the father-in-law of the emperor?
+[17:23 --> 17:29] With his North African gambit having come to nothing, back in Constantinople, Eutropius
+[17:29 --> 17:33] returned to the other major political and military power that could be possibly used
+[17:33 --> 17:41] his leverage against Stiliko, Alaric and his Goths. Eutropius decided that the time
+[17:41 --> 17:46] had finally come to give the Gothic king what he wanted, an official command in the Eastern
+[17:46 --> 17:51] Roman army, which had the further effect of essentially deputizing the Gothic warriors
+[17:51 --> 17:57] into said Eastern Roman army, which was partly the point of Alaric wanting the command in
+[17:57 --> 18:04] the first place. He had been angling for the command for two main reasons. First, it meant
+[18:04 --> 18:09] that his people were now hooked into the official imperial supply lines. So rather than having
+[18:09 --> 18:14] to go through the rigor morale of plundering, the Goths could now kick back and wait for
+[18:14 --> 18:20] regular shipments of food and supplies. Second, it meant that Alaric would now have access
+[18:20 --> 18:26] to the inner circle of Roman military planning and execution. And as long as he was in the
+[18:26 --> 18:30] room, nothing like the exploitation of the Goths that had happened at the Frigidus River
+[18:30 --> 18:38] would ever happen again. Alaric standing with his own people was at an all-time high. And
+[18:38 --> 18:44] though he was now technically subject to Arcadius, and by extension, Eutropius, in practice,
+[18:44 --> 18:51] he was subject to no one at all. As great as this all was for Alaric, however, the deal
+[18:51 --> 18:58] wound up sowing the seeds of Eutropius' demise. There were more than a few people in the empire
+[18:58 --> 19:03] who were not at all happy about the deal, especially the people who had just been terrorized
+[19:03 --> 19:09] by the Goths and who were now obligated to supply them in perpetuity. Maybe Eutropius
+[19:09 --> 19:15] could have weathered that political storm, but later in 398, he proceeded to make another
+[19:15 --> 19:22] key mistake that wound up pushing his career completely off the rails. A branch of the
+[19:22 --> 19:26] Huns had apparently gotten a little too friendly with the Roman front lines, and it became
+[19:26 --> 19:30] clear that they would have to be pushed back. But rather than assign one of his generals
+[19:30 --> 19:37] to see to that pushing back, Eutropius decided to take command for himself. Which, remember
+[19:37 --> 19:43] please, that Eutropius is a eunuch, with all the prejudicial baggage that status entails.
+[19:44 --> 19:49] Secretly running the empire as a high-ranking court official was one thing. That's the sort
+[19:49 --> 19:53] of thing you'd expect a eunuch to be up to. But leading troops in battle? Well,
+[19:53 --> 19:57] that was hugely offensive to conservative Roman sensibilities.
+[19:59 --> 20:04] The worst part of it though came later, when Eutropius' command proved to be entirely
+[20:04 --> 20:11] successful. Rather than take to the shadows like a eunuch should, Eutropius boldly stepped forward,
+[20:11 --> 20:17] took credit for the victory, and paraded himself around Constantinople in triumph. And then came
+[20:17 --> 20:23] the final affront. In January 399, Eutropius had himself named one of the consuls for the year.
+[20:25 --> 20:33] This was simply too much for most people to handle. Unix were not consuls. Period. End of
+[20:33 --> 20:39] story. But Eutropius' hubris had gotten the better of him, and he simply assumed that he was
+[20:39 --> 20:48] untouchable. He was not. The exact sequence of events that wound up toppling Eutropius began
+[20:48 --> 20:54] in the spring of 399. Some Gothic auxiliaries who had been settled in Asia Minor began to
+[20:54 --> 20:58] complain that Eutropius had not delivered on promises made during the previous year's
+[20:58 --> 21:03] campaign against the Huns, and when they decided their complaints were falling on deaf ears,
+[21:03 --> 21:07] they picked up their swords to see if maybe Constantinople would listen to that.
+[21:09 --> 21:14] Eutropius did indeed listen, but instead of delivering on his promises, he sent some troops
+[21:14 --> 21:20] under the command of the Gothic general Gainas, who we met earlier at the assassination of Rufinus,
+[21:20 --> 21:27] to put down the burgeoning revolt. But Gainas, being ethnically Goth, sympathized with the
+[21:27 --> 21:32] leaders of the revolt, and did not try very hard to put them down. Instead, he opened up
+[21:32 --> 21:39] them, not revolving on how to resettle them, but revolving around what was to be done with the eunuch.
+[21:42 --> 21:48] Meanwhile, in Constantinople, a backroom campaign to oust the arrogant Eutropius began to unfold,
+[21:49 --> 21:55] matching the talks that were going on out in the field. Spearheaded by a minister named Aurelian,
+[21:55 --> 22:00] the campaign eventually received the blessing, and then the backing, of the Empress Eudoxia,
+[22:00 --> 22:05] who had begun to feud with Eutropius now that he was getting too big for his britches.
+[22:07 --> 22:12] In mid-399, Eutropius opened up a dispatch from Gainas, and instead of reading about how the
+[22:12 --> 22:18] rabble had been defeated, he instead read about how the two sides had united in demanding Eutropius
+[22:18 --> 22:25] step down from office. This ultimatum was the cue for Aurelian's conspiracy to spring into action
+[22:25 --> 22:31] and destroy Eutropius's political credibility with the Emperor, and with Eudoxia on board,
+[22:31 --> 22:36] they were able to quickly isolate the eunuch. Eutropius's four years in power were over,
+[22:37 --> 22:41] and he was either exiled or executed, depending on which source you believe.
+[22:44 --> 22:49] But the coalition to eliminate Eutropius turned on itself the minute it succeeded.
+[22:50 --> 22:54] Aurelian had been a convenient ally for Gainas as long as they shared the same enemy,
+[22:54 --> 23:00] but the minister was long suspected of having anti-army biases, and as soon as Eutropius was
+[23:00 --> 23:06] out of the picture, the Gothic general turned the leverage he held as the most powerful general in
+[23:06 --> 23:12] the East against his one-time ally. Which is to say that Aurelian disappears from the historical
+[23:12 --> 23:19] record almost as suddenly as he had appeared in the first place. As the fifth century dawned then,
+[23:19 --> 23:25] the Eastern Empire was essentially run by Eudoxia in the palace and Gainas out in the field.
+[23:26 --> 23:34] Arcadius, now 23 years old, was nowhere to be seen, as indifferent as he likely was incompetent.
+[23:35 --> 23:39] In the West, Stilicho continued to run the show for Honorius, who was no better than his older
+[23:39 --> 23:45] brother, and in the middle was Alaric and his Goths, now an officially sanctioned arm of the
+[23:45 --> 23:46] Eastern Roman army.
+[23:49 --> 23:55] Next week, Stilicho will continue to outlast his enemies in the East, as Gainas will fall almost
+[23:55 --> 24:02] as fast as he had risen. Stilicho will also continue his on-again off-again wars with the
+[24:02 --> 24:08] Goths, who will pretty soon get it into their heads to invade Italy, but as had happened twice
+[24:08 --> 24:14] before, Alaric will once again escape Stilicho's clutches. And it was the rumors of barbarian
+[24:14 --> 24:21] collusion, as much as anything else, that will eventually see the Vandal general finally toppled from power.

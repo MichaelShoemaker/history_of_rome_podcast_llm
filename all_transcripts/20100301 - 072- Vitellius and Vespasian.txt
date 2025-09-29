@@ -1,0 +1,774 @@
+# 20100301 - 072- Vitellius and Vespasian
+# Detected language: en
+# Duration: 1597.07 seconds
+# Model: medium, Device: cpu
+
+[00:00 --> 00:03] This week's episode is brought to you by Audible.
+[00:04 --> 00:09] As you are now aware, Audible is the internet's leading provider of audio entertainment with
+[00:09 --> 00:11] over 60,000 titles to choose from.
+[00:12 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:16 --> 00:20] That again is audiblepodcast.com forward slash Rome.
+[00:21 --> 00:24] By going to that address, you will qualify for a free book download when you sign
+[00:24 --> 00:26] up for a 14-day trial membership.
+[00:26 --> 00:30] There is no obligation to continue the service and you can cancel anytime and keep the book
+[00:30 --> 00:31] that you downloaded.
+[00:32 --> 00:36] You can also keep going with one of the monthly subscription options and get great
+[00:36 --> 00:38] deals on all future audiobook purchases.
+[00:38 --> 00:43] This week, I am pleased to recommend Lost to the West by Lars Brownworth, the
+[00:43 --> 00:46] grandmaster of history podcasting's book on the Byzantine Empire.
+[00:47 --> 00:51] It's even narrated by him, so yeah, you should go buy it.
+[00:51 --> 00:56] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:01 --> 01:09] Hello and welcome to The History of Rome, episode 72, Vitellius and Vespasian.
+[01:10 --> 01:15] In April of 69 AD, the Romans watched Vitellius, their fourth emperor in less
+[01:15 --> 01:17] than a year, ascend to the throne.
+[01:18 --> 01:22] When Nero had committed suicide, conventional wisdom held that old Galba
+[01:22 --> 01:26] would reign for a few years and then hand power to an heir, presumably some
+[01:26 --> 01:28] young man with many years ahead of him.
+[01:29 --> 01:33] If anything, the death of Nero was supposed to open up a period of stability.
+[01:33 --> 01:38] But here they were 10 months later and the Senate was recognizing yet another emperor.
+[01:39 --> 01:42] There was nothing anyone could really do about it, except hope that this
+[01:42 --> 01:44] finally was the end of it.
+[01:44 --> 01:46] But it was not to be.
+[01:46 --> 01:51] Vitellius would not live to see the new year, and before the final emperor of this
+[01:51 --> 01:55] chaotic period strode into office, there would be more bloodshed, more misery,
+[01:55 --> 01:57] more betrayal, and more destruction.
+[01:58 --> 02:02] Though he was of mild disposition and never would have ordered the crimes
+[02:02 --> 02:06] committed in his name, when the forces of Vespasian stormed into Italy on
+[02:06 --> 02:09] their way to Rome, they brought with them the worst civil war had to offer.
+[02:10 --> 02:13] It would be a bloody end to a bloody year.
+[02:13 --> 02:17] The only silver lining was that it would be an end.
+[02:17 --> 02:21] Vespasian would reign for years, not months, and his sons for years after
+[02:21 --> 02:21] that.
+[02:22 --> 02:24] The luck of the Flavians would see to that.
+[02:26 --> 02:30] The suicide of Otho had taken everyone by surprise.
+[02:31 --> 02:34] Frenden Fowl alike expected the young emperor to fight it out with
+[02:34 --> 02:35] Vitellius to the bitter end.
+[02:36 --> 02:41] After going to such extreme lengths to seize power, it was inconceivable
+[02:41 --> 02:44] that he would simply give up after suffering what could be seen as no more
+[02:44 --> 02:46] than a minor setback at Bedriacum.
+[02:47 --> 02:51] But rather than receiving further instructions, the legions that had
+[02:51 --> 02:54] pledged their loyalty to Otho were simply informed that their leader was
+[02:54 --> 02:54] dead.
+[02:55 --> 02:58] And rather than preparing themselves for the next battle, the legions
+[02:58 --> 03:02] that had pledged their loyalty to Vitellius were simply informed that
+[03:02 --> 03:03] they had won.
+[03:03 --> 03:06] No one knew quite what to do next.
+[03:07 --> 03:11] Vitellius, though, knew exactly what to do, throw a huge party.
+[03:12 --> 03:16] The new emperor, not officially designated as such yet, was staying in
+[03:16 --> 03:19] Lugdunum, the Roman capital of Gaul, when he got the news that
+[03:19 --> 03:20] Otho was dead.
+[03:21 --> 03:24] Valens and Chisina were told to make sure their respective armies
+[03:24 --> 03:27] were in order and that the enemy was fully subdued, and then
+[03:27 --> 03:30] they were to make haste to Gaul for an extravagant banquet.
+[03:31 --> 03:34] When the two generals arrived, they sat on opposite sides of the new
+[03:34 --> 03:37] emperor at the main table, and everyone got good and drunk, singing
+[03:37 --> 03:41] each other's praises and mocking the Othonians well into the night.
+[03:42 --> 03:45] The excesses of the victory celebration would set the tone for
+[03:45 --> 03:49] Vitellius' reign, or at least the historical depiction of Vitellius'
+[03:49 --> 03:52] reign, which may or may not be the same thing.
+[03:54 --> 03:57] The problem for Vitellius is that none of the ancient historians
+[03:57 --> 03:58] were on his side.
+[03:59 --> 04:01] The men who recorded the events of the year of the four
+[04:01 --> 04:04] emperors were obviously writing after Vespasian had emerged
+[04:04 --> 04:08] victorious, and I think we all know what they say about who
+[04:08 --> 04:09] gets to write history.
+[04:10 --> 04:13] Vespasian would have naturally justified his own actions by
+[04:13 --> 04:16] repeating the worst rumors about Vitellius' excesses in
+[04:16 --> 04:20] order to portray himself as a savior, and so Roman scholars
+[04:20 --> 04:24] became steeped in Vespasian's version of who did what to who,
+[04:24 --> 04:25] why, and how.
+[04:27 --> 04:29] Tacitus may have published his account well after the
+[04:29 --> 04:33] death of Domitian, but his early career was influenced by
+[04:33 --> 04:37] first Vespasian and then Titus, and it is understandable that
+[04:37 --> 04:40] he portrayed Vitellius in less than glowing terms.
+[04:41 --> 04:44] But it was not just Flavian propaganda that Vitellius is up
+[04:44 --> 04:44] against.
+[04:45 --> 04:47] Suetonius' father fought with the Othonians at
+[04:47 --> 04:50] Bedriacum, and if you think that the father had anything
+[04:50 --> 04:54] good to say to the son about the gluttonous usurper from
+[04:54 --> 04:56] Germania, well, you haven't read Twelve Caesars.
+[04:57 --> 05:00] This is all to say that the caricature of Vitellius that
+[05:00 --> 05:04] has been handed down to us may bear only a passing resemblance
+[05:04 --> 05:05] to the man himself.
+[05:05 --> 05:09] That being said, though, it sure is a fun caricature, so let's
+[05:09 --> 05:10] just roll with it.
+[05:11 --> 05:15] It took Vitellius six weeks to wind his way down to Rome,
+[05:15 --> 05:19] leading his army from the Rhine on a meandering, debauched
+[05:19 --> 05:19] road trip.
+[05:20 --> 05:23] With some 60,000 soldiers, followers, and hangers-on
+[05:23 --> 05:27] accompanying him, discipline was lax and the toll taken on
+[05:27 --> 05:28] the towns they passed high.
+[05:30 --> 05:33] Along the way, the new emperor detoured to the battlefield at
+[05:33 --> 05:36] Bedriacum and pronounced the stench of death that still hung
+[05:36 --> 05:38] over the field sweet to his nose.
+[05:38 --> 05:41] He then swung by Otho's modest burial site and
+[05:41 --> 05:44] pronounced it a small grave for a small man.
+[05:45 --> 05:48] Then he went back to his traveling party and got drunk.
+[05:48 --> 05:50] See, isn't this Vitellius' fun?
+[05:50 --> 05:54] He finally arrived in Roman June and had every intention of
+[05:54 --> 05:57] marching into the capital in full triumphal regalia, but was
+[05:57 --> 06:00] reminded that it would be in really, really poor form to
+[06:00 --> 06:04] celebrate victory over his fellow Romans, so he entered
+[06:04 --> 06:07] the gates dressed in a simple civilian toga instead.
+[06:09 --> 06:12] The actual reign of Vitellius is not particularly well
+[06:12 --> 06:15] documented, but the general consensus is that while
+[06:15 --> 06:17] Vitellius banqueted four times a day, attended the
+[06:17 --> 06:21] and then slept it off, Valens and Kaisina were left in
+[06:21 --> 06:23] control of the day-to-day operations.
+[06:24 --> 06:27] Partners in war, however, the two became bitter enemies in
+[06:27 --> 06:31] peace, and nothing so defined the Vitellian regime as the
+[06:31 --> 06:33] rivalry between Valens and Kaisina.
+[06:35 --> 06:37] Every appointment, every assignment, every
+[06:37 --> 06:40] appropriation became a cause worth fighting for.
+[06:41 --> 06:43] They both stacked the reorganized legions, civil
+[06:43 --> 06:46] service, and praetorian guard with their own clients
+[06:46 --> 06:50] so that every level of every department became a front in
+[06:50 --> 06:51] their running political war.
+[06:52 --> 06:55] In the end, Valens would win the war for influence,
+[06:56 --> 06:58] leading Kaisina to famously betray his third
+[06:58 --> 07:00] emperor in 15 months.
+[07:03 --> 07:05] The Vitellian regime was unable to accomplish that
+[07:05 --> 07:07] much in their brief time at the helm.
+[07:07 --> 07:10] They raised some taxes, threw some games, and tried
+[07:10 --> 07:13] to manage four emperors' worth of consular promises in
+[07:13 --> 07:15] an effort to keep the nobility happy.
+[07:16 --> 07:19] But between the first battle of Bedriacum in April and the
+[07:19 --> 07:22] second in October, it's not like they had a lot of time
+[07:22 --> 07:23] to work with.
+[07:24 --> 07:26] The only really significant thing they did upon taking
+[07:26 --> 07:30] office was to disband the existing praetorian guard and
+[07:30 --> 07:33] then reform it using their own troops to ensure that all
+[07:33 --> 07:35] the Othonian loyalists were purged.
+[07:36 --> 07:39] This was maybe a good idea and maybe not, but the
+[07:39 --> 07:42] final upshot was that all the best troops were
+[07:42 --> 07:43] siphoned out of the Rhine legions.
+[07:43 --> 07:46] So when Kaisina headed north to face Antonius's
+[07:46 --> 07:50] invading army, the force he led was not the same army
+[07:50 --> 07:51] he had led against Otho.
+[07:52 --> 07:54] Oh, and all those fired praetorians?
+[07:55 --> 07:57] When they heard that the legions of the east were
+[07:57 --> 07:59] promising to topple Vitellius, guess whose banner
+[07:59 --> 08:00] they all flocked to.
+[08:01 --> 08:04] So the reformation of the praetorians may have seemed
+[08:04 --> 08:06] like a good idea at the time, but all it ultimately
+[08:06 --> 08:09] did was weaken Vitellius and strengthen Vespasian.
+[08:10 --> 08:12] So yeah, maybe not such a good idea.
+[08:14 --> 08:18] Speaking of Vespasian, when we last left him, he was in
+[08:18 --> 08:20] the process of putting down the great Jewish revolt,
+[08:21 --> 08:23] specifically contemplating when and how he was going to
+[08:23 --> 08:24] take Jerusalem.
+[08:25 --> 08:28] But when news of Nero's suicide arrived, he put the
+[08:28 --> 08:31] brakes on the campaign, unsure of whether Galba planned
+[08:31 --> 08:34] to adopt a harsh or lenient posture towards the Jews.
+[08:35 --> 08:38] Plus, as one of Nero's appointees, he had every
+[08:38 --> 08:41] reason to fear that Galba would recall him from his
+[08:41 --> 08:45] So he wrote the new emperor a friendly letter, pledging
+[08:45 --> 08:47] loyalty and requesting instructions.
+[08:48 --> 08:50] Fearing the worst when Galba ignored his overture,
+[08:51 --> 08:53] Vespasian sent his 28-year-old son Titus to Rome
+[08:53 --> 08:55] to feel Galba out.
+[08:55 --> 08:58] But before Titus could arrive, he received news of
+[08:58 --> 09:01] Galba's assassination and decided to turn back,
+[09:01 --> 09:04] rather than allow himself to become a pawn in the
+[09:04 --> 09:06] brewing war between Otho and Vitellius.
+[09:08 --> 09:11] Vespasian commended his son's decision and then
+[09:11 --> 09:13] began to mull over what to do.
+[09:14 --> 09:16] Obviously, he should try to keep himself at arm's
+[09:16 --> 09:19] length from the conflict between Otho and Vitellius
+[09:19 --> 09:21] and wait to see how it played out.
+[09:22 --> 09:24] He was obligated to swear loyalty to Otho, of
+[09:24 --> 09:26] course, but that did not mean that he had to lift
+[09:26 --> 09:28] a finger to help him.
+[09:28 --> 09:31] So Vespasian settled back to wait for further news
+[09:31 --> 09:32] from the West.
+[09:33 --> 09:36] While he waited, though, a thought began to form
+[09:36 --> 09:37] in his head.
+[09:37 --> 09:40] Back home, every two-bit general with a legion at
+[09:40 --> 09:42] his disposal was making his bid for power.
+[09:43 --> 09:46] What makes them so much more qualified than, you
+[09:46 --> 09:47] know, me?
+[09:49 --> 09:50] The future king of the world will come from
+[09:50 --> 09:52] Judea, the prophecy had said.
+[09:53 --> 09:55] Vespasian was beginning to think that he could
+[09:55 --> 09:57] make that prophecy come true.
+[09:58 --> 10:00] But that is not to say that this was all
+[10:00 --> 10:01] Vespasian's idea.
+[10:02 --> 10:05] Gaius Licinius Mucianus, the governor of
+[10:05 --> 10:07] Syria, had gone as high as he could hope to go
+[10:07 --> 10:09] on public life under existing conditions and
+[10:09 --> 10:13] was dissatisfied with how low a height it was.
+[10:13 --> 10:16] Stuck in the largely diplomatic post of Syria,
+[10:16 --> 10:18] he was in danger of passing his whole life
+[10:18 --> 10:21] without ever tasting military glory and was
+[10:21 --> 10:23] determined to rectify that situation.
+[10:24 --> 10:27] Mucianus saw in the mild, capable, and well
+[10:27 --> 10:30] like Vespasian the perfect vehicle for his
+[10:30 --> 10:30] ambitions.
+[10:31 --> 10:34] So he became an early prodder of Vespasian's
+[10:34 --> 10:36] growing ego and an active supporter once the
+[10:36 --> 10:39] future emperor finally decided to go for it.
+[10:40 --> 10:42] The other key prodder of Vespasian was
+[10:42 --> 10:45] Tiberius Julius Alexander, the Jewish born
+[10:45 --> 10:46] prefect of Egypt.
+[10:47 --> 10:50] Appointed by Nero, events in the west had
+[10:50 --> 10:53] unfolded too rapidly for either Galba or Otho
+[10:53 --> 10:54] to replace him.
+[10:54 --> 10:56] So he and his two legions continued their
+[10:56 --> 10:59] administration in Alexandria well into
+[10:59 --> 11:00] Vitellius's reign.
+[11:01 --> 11:03] Having no love for Vitellius and knowing
+[11:03 --> 11:05] full well that the new emperor would likely
+[11:05 --> 11:08] replace him and possibly execute him at the
+[11:08 --> 11:11] first opportunity, Alexander began a secret
+[11:11 --> 11:13] correspondence with Vespasian, pledging his
+[11:13 --> 11:16] support and his legions if Vespasian decided
+[11:16 --> 11:18] to, you know, do something.
+[11:19 --> 11:21] The two legions were nice, but the real
+[11:21 --> 11:23] prize here was that Egypt was still a key
+[11:23 --> 11:25] agricultural engine of the empire.
+[11:26 --> 11:28] Any invasion of Italy that was coupled with
+[11:28 --> 11:31] a strangling off of the grain supply did not
+[11:31 --> 11:34] necessarily guarantee victory, see Antony,
+[11:34 --> 11:37] Mark, but it sure upped the percentages by a
+[11:37 --> 11:38] healthy margin.
+[11:40 --> 11:43] Both Mucianus and Alexander were ready to
+[11:43 --> 11:45] declare for Vespasian immediately, but the
+[11:45 --> 11:48] future emperor was a deliberate man, and as
+[11:48 --> 11:50] spring turned to summer, he had still not
+[11:50 --> 11:52] yet announced whether or not he was going to
+[11:52 --> 11:54] lead the armies of the east in revolt.
+[11:55 --> 11:58] The impatient Alexander decided Vespasian just
+[11:58 --> 12:00] needed a swift kick to get going, so the
+[12:00 --> 12:02] prefect of Egypt went ahead and administered
+[12:02 --> 12:04] an oath of loyalty to Vespasian to his
+[12:04 --> 12:07] legions on July the 1st.
+[12:07 --> 12:09] A few days later, Vespasian's armies in
+[12:09 --> 12:11] Judea heard the news, and when their general
+[12:11 --> 12:14] emerged from his tent, a collection of them
+[12:14 --> 12:15] casually hailed him as emperor.
+[12:16 --> 12:18] With the cat now out of the bag, Vespasian
+[12:18 --> 12:20] decided to let it roam free.
+[12:21 --> 12:24] On July 15, Mucianus administered the
+[12:24 --> 12:26] oath to the legions of Syria and went to
+[12:26 --> 12:28] work convincing the legions and the
+[12:28 --> 12:29] Balkans to join them.
+[12:30 --> 12:31] In the process of being punished by
+[12:31 --> 12:34] Vitellius for their support of Otho, the
+[12:34 --> 12:35] troops and the Balkans were more than
+[12:35 --> 12:37] happy to join in the fight.
+[12:38 --> 12:40] In short order, Vespasian had the whole of
+[12:40 --> 12:42] the eastern empire lined up behind him.
+[12:43 --> 12:45] Vitellius, meanwhile, was still taking his
+[12:45 --> 12:46] victory lap.
+[12:48 --> 12:51] The Flavian plan was for Vespasian to
+[12:51 --> 12:53] remain behind in the east while Mucianus
+[12:53 --> 12:55] led an invasion of the west.
+[12:55 --> 12:58] Taking up residence in Alexandria, Vespasian
+[12:58 --> 13:00] would be able to personally oversee the
+[13:00 --> 13:02] all-important province of Egypt while
+[13:02 --> 13:04] remaining perfectly situated to reinforce
+[13:04 --> 13:06] his invasion force should they need
+[13:06 --> 13:07] support.
+[13:08 --> 13:10] After receiving assurances from the
+[13:10 --> 13:11] Parthians that they would not stir up
+[13:11 --> 13:13] trouble along the border, Mucianus set
+[13:13 --> 13:16] out west with a force of about 18,000
+[13:16 --> 13:16] troops.
+[13:17 --> 13:19] Along the way, he was supposed to pick
+[13:19 --> 13:21] up the Balkan legions and then, when
+[13:21 --> 13:23] he got near Italy, put out the call to
+[13:23 --> 13:25] the demobilized Othonian troops to
+[13:25 --> 13:27] flock to Vespasian's banner.
+[13:28 --> 13:30] But things did not exactly go
+[13:30 --> 13:31] according to plan.
+[13:33 --> 13:34] The commanders of the five legions
+[13:34 --> 13:36] stationed in the Balkans were eager to
+[13:36 --> 13:38] take their revenge on Vitellius, but
+[13:38 --> 13:41] not as eager as the troops themselves.
+[13:42 --> 13:44] The officers stated flatly that the
+[13:44 --> 13:46] plan was to wait for Mucianus, so
+[13:46 --> 13:48] that's what they were going to do.
+[13:49 --> 13:51] Seeing an opportunity to bathe himself
+[13:51 --> 13:54] in glory though, Marcus Antonius Primus
+[13:54 --> 13:56] broke with his colleagues and argued
+[13:56 --> 13:58] that they should immediately invade Italy
+[13:58 --> 13:59] while the Vitellian troops were still
+[13:59 --> 14:00] drunk with victory.
+[14:01 --> 14:03] The troops couldn't have agreed more and
+[14:03 --> 14:05] elected Antonius their new general.
+[14:06 --> 14:08] Instead of waiting for Mucianus to
+[14:08 --> 14:10] arrive, Antonius went off the
+[14:10 --> 14:12] reservation and led the legions now
+[14:12 --> 14:13] under his command into Italy.
+[14:14 --> 14:16] In other words, the army that
+[14:16 --> 14:18] ultimately won the war for Vespasian
+[14:18 --> 14:20] was never authorized to do what it
+[14:20 --> 14:21] did.
+[14:23 --> 14:24] When Vitellius learned that a Flavian
+[14:24 --> 14:26] army was marching on Italy, he
+[14:27 --> 14:29] dispatched Kysena to stop their advance.
+[14:30 --> 14:31] The emperor no doubt would have sent
+[14:31 --> 14:33] Valens as well, but the elder general
+[14:33 --> 14:35] was recovering from an illness at the
+[14:35 --> 14:37] time and was unable to make the trip.
+[14:38 --> 14:41] For Kysena, this presented a golden
+[14:41 --> 14:41] opportunity.
+[14:42 --> 14:44] In the months since he had helped
+[14:44 --> 14:46] Vitellius become emperor, the young
+[14:46 --> 14:48] noble had found himself increasingly
+[14:48 --> 14:50] ignored while Valens emerged as the
+[14:50 --> 14:52] far more influential advisor.
+[14:53 --> 14:55] Whenever Valens and Kysena disagreed
+[14:55 --> 14:57] over some issue or another, Vitellius
+[14:57 --> 14:58] generally backed Valens.
+[15:00 --> 15:01] Deeply unhappy with his position,
+[15:02 --> 15:03] Kysena marched north at the head of
+[15:03 --> 15:05] the Vitellian legions, thinking
+[15:05 --> 15:07] deeply not about battle plans, but
+[15:07 --> 15:09] whether or not he should defect to
+[15:09 --> 15:09] Vespasian.
+[15:11 --> 15:12] He had already been in contact with
+[15:12 --> 15:14] the commander of the Vitellian naval
+[15:14 --> 15:16] fleet stationed at Ravenna, and the
+[15:16 --> 15:18] commander there had assured Kysena
+[15:18 --> 15:19] that he was going over to Vespasian
+[15:19 --> 15:21] at the first opportunity.
+[15:21 --> 15:24] Kysena, he said, should join him on
+[15:24 --> 15:25] the winning team.
+[15:26 --> 15:28] Antonius arrived in Italy with his
+[15:28 --> 15:30] advance guard in October, and was
+[15:30 --> 15:32] greeted by a much stronger force led
+[15:32 --> 15:33] by Kysena.
+[15:34 --> 15:35] But rather than attack as his men
+[15:35 --> 15:38] expected, Kysena opened negotiations
+[15:38 --> 15:40] with Antonius, hinting elliptically
+[15:40 --> 15:41] that he was willing to betray
+[15:41 --> 15:43] Vitellius if the terms were right.
+[15:45 --> 15:46] While he negotiated, the rest of
+[15:46 --> 15:48] Antonius' troops arrived, negating
+[15:48 --> 15:50] the numerical advantage that the
+[15:50 --> 15:52] Vitellians had once had, leading
+[15:52 --> 15:54] the men under Kysena's command to
+[15:54 --> 15:55] wonder just what their general was
+[15:55 --> 15:56] up to.
+[15:57 --> 15:58] Not long after that, though, they
+[15:58 --> 15:59] got their answer.
+[16:00 --> 16:02] Messengers arrived with the news
+[16:02 --> 16:03] that the Ravenna fleet had
+[16:03 --> 16:04] defected to Vespasian.
+[16:05 --> 16:06] Kysena called together his
+[16:06 --> 16:08] officers and announced that it
+[16:08 --> 16:09] was hopeless to fight the
+[16:09 --> 16:10] Flavian onslaught.
+[16:11 --> 16:12] The whole empire was turning
+[16:12 --> 16:14] against Vitellius, and they had
+[16:14 --> 16:15] better join the winning side
+[16:15 --> 16:16] before they all found their heads
+[16:16 --> 16:17] on the chopping block.
+[16:19 --> 16:20] He managed to convince the
+[16:20 --> 16:21] officers, but when the regular
+[16:21 --> 16:23] troops learned of the betrayal,
+[16:23 --> 16:25] they stormed the tent and threw
+[16:25 --> 16:27] the shocked and sputtering Kysena
+[16:27 --> 16:27] into chains.
+[16:28 --> 16:30] The men elected new generals and
+[16:30 --> 16:31] abandoned the position they had
+[16:31 --> 16:33] held near Antonius' base in
+[16:33 --> 16:34] Verona.
+[16:35 --> 16:36] Antonius woke up the next
+[16:36 --> 16:38] morning and discovered the army
+[16:38 --> 16:39] he thought was about to join
+[16:39 --> 16:41] him had suddenly disappeared
+[16:41 --> 16:41] into the night.
+[16:43 --> 16:44] But not one to delay,
+[16:44 --> 16:45] Antonius marched straight away
+[16:45 --> 16:47] for Bedriacum, where he planned
+[16:47 --> 16:48] to make a camp from which to
+[16:48 --> 16:50] launch an assault on Cremona,
+[16:50 --> 16:51] the Vitellian base of
+[16:51 --> 16:53] operations in North Italy.
+[16:54 --> 16:55] Kysena's army had already made
+[16:55 --> 16:56] for Cremona following their
+[16:56 --> 16:58] generals' aborted defection,
+[16:58 --> 17:00] and now waited nervously for
+[17:00 --> 17:01] Antonius to arrive.
+[17:02 --> 17:03] In a few days, the two sides
+[17:03 --> 17:05] would meet in one of the
+[17:05 --> 17:06] rarest sights in the ancient
+[17:06 --> 17:08] world, a night battle.
+[17:10 --> 17:11] Marching in from the east on
+[17:11 --> 17:12] October the 24th,
+[17:13 --> 17:14] Antonius' army was disrupted
+[17:14 --> 17:16] by a Vitellian cavalry attack
+[17:16 --> 17:18] and a brief skirmish ensued
+[17:18 --> 17:19] that saw the Vitellians
+[17:19 --> 17:20] driven off.
+[17:20 --> 17:22] The Flavian army kept marching,
+[17:22 --> 17:24] but they were unable to reach
+[17:24 --> 17:25] the full Vitellian force
+[17:25 --> 17:27] until late in the afternoon.
+[17:28 --> 17:29] Flushed with victory,
+[17:29 --> 17:31] the Flavians refused to retire
+[17:31 --> 17:31] from the field.
+[17:32 --> 17:33] For their part,
+[17:33 --> 17:35] the Vitellians were so close
+[17:35 --> 17:36] to the safety of Cremona
+[17:36 --> 17:37] that they figured that if
+[17:37 --> 17:38] things got too hairy,
+[17:38 --> 17:39] they could just make a run
+[17:39 --> 17:41] for it, so they too refused
+[17:41 --> 17:42] to retire for the evening.
+[17:44 --> 17:45] For the next 10 hours,
+[17:45 --> 17:46] the two armies fought a
+[17:46 --> 17:48] sporadic and bloody battle
+[17:48 --> 17:49] through the night that was
+[17:49 --> 17:50] still undecided when the sun
+[17:50 --> 17:52] rose the next morning.
+[17:53 --> 17:54] In a quirky twist of fate,
+[17:55 --> 17:56] though, the Vitellians lost
+[17:56 --> 17:57] heart when they saw one
+[17:57 --> 17:58] of the Flavian legions
+[17:58 --> 18:00] turn east and clearly greet
+[18:00 --> 18:02] the arrival of reinforcements.
+[18:03 --> 18:04] Exhausted from the battle,
+[18:04 --> 18:06] the Vitellians fled back
+[18:06 --> 18:07] to the safety of Cremona
+[18:07 --> 18:08] to wait for their own
+[18:09 --> 18:09] reinforcements,
+[18:09 --> 18:11] except that there were no
+[18:11 --> 18:12] Flavian reinforcements.
+[18:13 --> 18:14] Having spent years stationed
+[18:14 --> 18:15] in the east,
+[18:15 --> 18:16] the legion in question
+[18:16 --> 18:18] had adopted a local custom
+[18:18 --> 18:19] of greeting the sun
+[18:19 --> 18:20] as it rose each morning.
+[18:21 --> 18:22] At the second battle
+[18:22 --> 18:22] of Bedriacum,
+[18:23 --> 18:24] the Vitellians were finally
+[18:24 --> 18:25] defeated not by force,
+[18:26 --> 18:27] but by a completely harmless
+[18:27 --> 18:28] religious ritual.
+[18:30 --> 18:32] Despite their own exhaustion,
+[18:32 --> 18:33] Antonius's army closed
+[18:33 --> 18:35] the last few miles to Cremona
+[18:35 --> 18:36] and laid siege to the city
+[18:36 --> 18:37] that morning.
+[18:38 --> 18:39] First, they destroyed
+[18:39 --> 18:40] the Vitellian camp
+[18:40 --> 18:41] outside the walls,
+[18:41 --> 18:42] and then they launched
+[18:42 --> 18:43] a ferocious assault
+[18:43 --> 18:44] on the city itself.
+[18:45 --> 18:46] While the troops and citizens
+[18:46 --> 18:47] of the city fought off
+[18:47 --> 18:49] the attack, the officers
+[18:49 --> 18:50] of the Vitellian army
+[18:50 --> 18:51] lost hope.
+[18:52 --> 18:54] They set Kaisina loose
+[18:54 --> 18:55] and begged him to negotiate
+[18:55 --> 18:56] a peace that would spare
+[18:56 --> 18:57] their lives.
+[18:58 --> 18:59] With the leadership
+[18:59 --> 19:00] of the army protecting them
+[19:00 --> 19:00] giving up,
+[19:01 --> 19:02] the civilian leadership
+[19:02 --> 19:02] of Cremona
+[19:02 --> 19:04] opened their own talks,
+[19:04 --> 19:05] and in short order,
+[19:05 --> 19:07] both the Vitellian legions
+[19:07 --> 19:08] and the people of Cremona
+[19:08 --> 19:09] emerged from the city
+[19:09 --> 19:10] to stand before
+[19:10 --> 19:12] the victorious Flavians.
+[19:13 --> 19:14] It was supposed to be
+[19:14 --> 19:15] a peaceful settlement,
+[19:15 --> 19:16] one with no sacking,
+[19:16 --> 19:18] but the tired, bloody,
+[19:19 --> 19:20] and angry Flavian troops
+[19:20 --> 19:21] were in no mood
+[19:21 --> 19:22] to be denied the loot
+[19:22 --> 19:24] they saw as rightfully theirs.
+[19:25 --> 19:26] They believed that they had been
+[19:26 --> 19:28] promised Cremona as a prize
+[19:28 --> 19:29] for the extreme effort
+[19:29 --> 19:30] they had just expended
+[19:30 --> 19:31] in taking it,
+[19:31 --> 19:33] but it seemed that the officers
+[19:33 --> 19:34] were now conspiring
+[19:34 --> 19:36] to deny them their prize.
+[19:37 --> 19:38] So when Antonius entered
+[19:38 --> 19:40] the city to take a hot bath,
+[19:40 --> 19:41] his absence allowed
+[19:41 --> 19:43] the restraint of his army
+[19:43 --> 19:43] to slip.
+[19:44 --> 19:45] Forty thousand troops
+[19:45 --> 19:46] poured into Cremona,
+[19:47 --> 19:47] grabbing anything
+[19:47 --> 19:49] that wasn't nailed down
+[19:49 --> 19:50] and setting fire to the rest.
+[19:51 --> 19:52] When Vespasian learned
+[19:52 --> 19:53] what had happened,
+[19:53 --> 19:54] he denounced the actions
+[19:54 --> 19:56] of Antonius' army,
+[19:56 --> 19:56] and as emperor,
+[19:57 --> 19:58] he tried to rebuild the city,
+[19:59 --> 19:59] but it would never again
+[19:59 --> 20:00] rise to the prominence
+[20:00 --> 20:02] it had enjoyed since its founding
+[20:02 --> 20:04] just before the Second Punic War.
+[20:06 --> 20:07] The battle may not have marked
+[20:07 --> 20:09] the official end of the war,
+[20:09 --> 20:10] but it certainly dealt
+[20:10 --> 20:11] a heavy blow
+[20:11 --> 20:12] to Vitellius' chances.
+[20:13 --> 20:15] From this point on,
+[20:15 --> 20:16] practically everything pointed
+[20:16 --> 20:19] to an emperor destined to fall.
+[20:20 --> 20:21] Valens had been ordered north
+[20:21 --> 20:22] about a week
+[20:22 --> 20:23] after Cicena's departure,
+[20:24 --> 20:25] but his sluggish pace
+[20:25 --> 20:27] left him far from Cremona
+[20:27 --> 20:28] when he learned first
+[20:28 --> 20:29] of Cicena's attempt
+[20:29 --> 20:29] to defection
+[20:29 --> 20:30] and then the sack
+[20:30 --> 20:31] of the city itself.
+[20:33 --> 20:34] He changed direction
+[20:34 --> 20:35] and tried to make for Gaul,
+[20:35 --> 20:36] where he would be able
+[20:36 --> 20:37] to raise reinforcements.
+[20:37 --> 20:38] But by this point,
+[20:39 --> 20:40] practically every governor
+[20:40 --> 20:41] in the area was pledging
+[20:41 --> 20:42] allegiance to Vespasian.
+[20:43 --> 20:45] Valens was captured at sea
+[20:45 --> 20:46] by former members
+[20:46 --> 20:47] of Othos Praetorian Guard
+[20:47 --> 20:49] and then sent along to Antonius
+[20:49 --> 20:51] as a gift wrap present.
+[20:52 --> 20:53] Soon enough,
+[20:53 --> 20:54] Valens' head would be waved
+[20:54 --> 20:56] before the Vitellian troops
+[20:56 --> 20:57] as proof that further
+[20:57 --> 21:00] resistance was futile.
+[21:01 --> 21:01] Cicena and Valens
+[21:01 --> 21:03] had been the driving force
+[21:03 --> 21:05] behind Vitellius' bid for power,
+[21:05 --> 21:06] and now one of them
+[21:06 --> 21:07] had turned on him
+[21:07 --> 21:08] and the other was dead.
+[21:09 --> 21:10] The emperor did not know
+[21:10 --> 21:11] what to do.
+[21:12 --> 21:14] He marched out of Rome
+[21:14 --> 21:15] with most of his new Praetorian
+[21:15 --> 21:16] guard to make a stand,
+[21:17 --> 21:18] but upon hearing about
+[21:18 --> 21:18] more defections
+[21:18 --> 21:19] throughout the empire,
+[21:20 --> 21:21] he returned to Rome
+[21:21 --> 21:22] with half the troops
+[21:22 --> 21:23] at his disposal,
+[21:23 --> 21:24] leaving the rest in place
+[21:24 --> 21:26] to halt the advance of Antonius.
+[21:27 --> 21:29] As the Flavian army marched
+[21:29 --> 21:30] south, both Mucianus
+[21:30 --> 21:32] and Antonius opened up
+[21:32 --> 21:33] correspondence with Vitellius
+[21:33 --> 21:35] in an attempt to secure
+[21:35 --> 21:36] his abdication.
+[21:37 --> 21:38] They promised him his life,
+[21:39 --> 21:40] money, and a villain
+[21:40 --> 21:41] Campania if he agreed
+[21:41 --> 21:43] to give up the throne willingly.
+[21:44 --> 21:46] Vitellius, in way over his head,
+[21:46 --> 21:48] was eager for the opportunity
+[21:48 --> 21:49] to get out of all of this
+[21:49 --> 21:50] with his life.
+[21:50 --> 21:52] So he took up negotiations
+[21:52 --> 21:53] with Vespasian's brother,
+[21:53 --> 21:54] Flavius Sabinus,
+[21:54 --> 21:55] who was living in Rome
+[21:55 --> 21:56] at the time.
+[21:57 --> 21:58] But Vitellius' attempt
+[21:58 --> 22:00] to abdicate was thwarted
+[22:00 --> 22:01] by his own supporters.
+[22:02 --> 22:03] On December 18,
+[22:03 --> 22:05] the emperor gave a speech
+[22:05 --> 22:05] announcing that he was
+[22:05 --> 22:06] stepping down,
+[22:07 --> 22:08] much to the dismay
+[22:08 --> 22:09] of the loyal troops
+[22:09 --> 22:10] he still had with him.
+[22:11 --> 22:12] They had all staked their lives
+[22:12 --> 22:13] to this man,
+[22:13 --> 22:14] and now he was simply
+[22:14 --> 22:15] going to give up.
+[22:16 --> 22:17] Where did that leave them?
+[22:18 --> 22:20] So as Vitellius attempted
+[22:20 --> 22:20] to leave the Forum,
+[22:21 --> 22:22] he was boxed in by members
+[22:22 --> 22:23] of his own praetorian guard
+[22:23 --> 22:25] and marched back to the palace,
+[22:25 --> 22:27] his resignation annulled
+[22:27 --> 22:28] by the tip of a spear.
+[22:31 --> 22:32] Sabinus was at home
+[22:32 --> 22:33] when he heard of Vitellius'
+[22:33 --> 22:34] attempted resignation,
+[22:34 --> 22:36] and he immediately headed down
+[22:36 --> 22:37] to the Forum with an armed guard
+[22:37 --> 22:39] to issue a proclamation
+[22:39 --> 22:40] in his brother's name.
+[22:41 --> 22:42] But along the way,
+[22:42 --> 22:43] he was surprised to find
+[22:43 --> 22:45] the Vitellians had not,
+[22:45 --> 22:46] in fact, given up.
+[22:47 --> 22:48] A brief skirmish broke out
+[22:48 --> 22:49] and Sabinus was driven up
+[22:49 --> 22:51] onto the Capitoline Hill,
+[22:51 --> 22:52] where he and his men
+[22:52 --> 22:53] barricaded themselves.
+[22:54 --> 22:55] Over the course of a night
+[22:55 --> 22:56] and a day,
+[22:56 --> 22:57] the Vitellian forces
+[22:57 --> 22:58] attempted to dislodge
+[22:58 --> 22:59] Sabinus,
+[22:59 --> 23:00] and in the process,
+[23:00 --> 23:01] the Temple of Jupiter,
+[23:01 --> 23:02] one of the most important
+[23:02 --> 23:03] temples in Rome,
+[23:04 --> 23:05] was burned to the ground.
+[23:06 --> 23:07] With the fire raging,
+[23:07 --> 23:08] the men who had surrounded
+[23:08 --> 23:10] Sabinus deserted him,
+[23:10 --> 23:10] and he was eventually
+[23:10 --> 23:12] captured by the Vitellians
+[23:12 --> 23:12] and executed.
+[23:15 --> 23:17] The execution of Vespasian's
+[23:17 --> 23:18] brother precluded
+[23:18 --> 23:19] all future negotiations.
+[23:20 --> 23:21] The army of Antonius,
+[23:22 --> 23:23] now only miles from Rome,
+[23:23 --> 23:24] learned of the incident
+[23:24 --> 23:25] and made straightaway
+[23:25 --> 23:26] for the city.
+[23:27 --> 23:28] At first,
+[23:28 --> 23:29] Antonius hesitated,
+[23:30 --> 23:31] understandably nervous,
+[23:31 --> 23:32] that attacking Rome itself
+[23:32 --> 23:34] would irreparably damage
+[23:34 --> 23:36] Vespasian's and his own
+[23:36 --> 23:36] reputation,
+[23:36 --> 23:37] to the point that even
+[23:37 --> 23:39] a victory would be a defeat.
+[23:40 --> 23:41] But his men convinced him
+[23:41 --> 23:42] that they ought not
+[23:42 --> 23:43] balk now that the empire
+[23:43 --> 23:44] was in their hands.
+[23:46 --> 23:47] Antonius divided his army
+[23:47 --> 23:47] into thirds
+[23:47 --> 23:49] and attacked at three
+[23:49 --> 23:49] different gates.
+[23:50 --> 23:51] Two of the gates
+[23:51 --> 23:52] were easily breached,
+[23:52 --> 23:53] as they were only guarded
+[23:53 --> 23:54] by an untrained mix
+[23:54 --> 23:56] of civilian militia.
+[23:56 --> 23:57] But the fighting at the
+[23:57 --> 23:59] coal line gate was intense.
+[24:00 --> 24:01] The outnumbered Vitellians
+[24:01 --> 24:02] were eventually pressed back
+[24:02 --> 24:03] and forced to make
+[24:03 --> 24:04] a last stand within
+[24:04 --> 24:05] the Praetorian camp.
+[24:05 --> 24:07] But despite heavy casualties,
+[24:08 --> 24:09] the Vitellians finally
+[24:09 --> 24:09] breached the walls,
+[24:10 --> 24:11] led by the former members
+[24:11 --> 24:12] of Otho's Praetorian Guard,
+[24:13 --> 24:14] who viewed reclaiming the camp
+[24:14 --> 24:16] as a matter of personal honor.
+[24:18 --> 24:20] Vitellius was now all alone.
+[24:20 --> 24:21] His attempt to give up
+[24:21 --> 24:22] had failed,
+[24:22 --> 24:23] and he wandered
+[24:23 --> 24:24] the deserted imperial palace
+[24:24 --> 24:25] in shock,
+[24:25 --> 24:26] trying to figure out
+[24:26 --> 24:27] what to do next.
+[24:28 --> 24:29] Eventually,
+[24:29 --> 24:30] the incoming Vitellian army
+[24:30 --> 24:31] stumbled upon him
+[24:31 --> 24:32] and took him prisoner.
+[24:33 --> 24:34] They marched him
+[24:34 --> 24:35] blubbering through the streets
+[24:35 --> 24:36] to the steps of lamentation,
+[24:37 --> 24:38] where he was unceremoniously
+[24:38 --> 24:40] beheaded as insults
+[24:40 --> 24:41] rained down upon him.
+[24:42 --> 24:43] His head was paraded
+[24:43 --> 24:44] through the city as a trophy,
+[24:44 --> 24:45] and his body thrown
+[24:45 --> 24:46] in the Tiber.
+[24:48 --> 24:49] Vitellius was 54 years old
+[24:49 --> 24:50] when he died,
+[24:50 --> 24:51] and had reigned for just
+[24:51 --> 24:52] over nine months.
+[24:53 --> 24:54] His death would bring
+[24:54 --> 24:55] a violent close
+[24:55 --> 24:57] to a violent year.
+[24:57 --> 24:59] On the 20th of September,
+[24:59 --> 25:00] the Senate met
+[25:00 --> 25:01] and unanimously declared
+[25:01 --> 25:02] Vespasian emperor.
+[25:03 --> 25:05] It would be understandable
+[25:05 --> 25:06] if the no doubt
+[25:06 --> 25:08] skittish citizens of the empire
+[25:08 --> 25:09] were a bit skeptical
+[25:09 --> 25:10] that this really was
+[25:10 --> 25:11] an end to the chaos.
+[25:12 --> 25:13] But as the months
+[25:13 --> 25:14] passed into years,
+[25:14 --> 25:15] and no other pretender
+[25:15 --> 25:16] to the throne arose,
+[25:16 --> 25:17] they began to get comfortable
+[25:17 --> 25:18] with the idea
+[25:18 --> 25:20] that things had sort of
+[25:20 --> 25:21] returned to normal,
+[25:21 --> 25:22] that they could fully embrace
+[25:22 --> 25:23] this new dynasty,
+[25:24 --> 25:25] the Flavian dynasty.
+[25:29 --> 25:30] Before we go this week,
+[25:30 --> 25:31] I just want to mention
+[25:31 --> 25:32] that Lars Brownworth,
+[25:32 --> 25:33] whose book I just
+[25:33 --> 25:34] recommended you buy,
+[25:35 --> 25:36] is in the process
+[25:36 --> 25:37] of gauging interest
+[25:37 --> 25:38] for a lecture tour
+[25:38 --> 25:39] in early 2010.
+[25:40 --> 25:41] Since we have so many listeners
+[25:41 --> 25:42] in common,
+[25:42 --> 25:43] they've asked me to ask you
+[25:43 --> 25:45] if anyone in and around
+[25:45 --> 25:47] Boston, New York,
+[25:47 --> 25:49] Washington DC, Chicago,
+[25:49 --> 25:50] and San Francisco
+[25:50 --> 25:51] would be interested
+[25:51 --> 25:52] in such a thing.
+[25:52 --> 25:53] I'm also going to add
+[25:53 --> 25:55] Austin, Texas to the list
+[25:55 --> 25:56] because that's where I live now
+[25:56 --> 25:58] and I think he should come
+[25:58 --> 25:58] down here.
+[25:59 --> 26:00] I'll post some links
+[26:00 --> 26:02] at thehistoryofroham.typepad.com
+[26:02 --> 26:04] so that you can either
+[26:04 --> 26:05] email superfan Detlef
+[26:05 --> 26:06] with your thoughts
+[26:06 --> 26:07] or sound off
+[26:07 --> 26:09] at the Forum Galorum,
+[26:09 --> 26:10] the discussion community
+[26:10 --> 26:11] for the history of Rome
+[26:11 --> 26:13] that Detlef has set up.

@@ -1,0 +1,326 @@
+# 20100614 - 098- Purchasing Power
+# Detected language: en
+# Duration: 1381.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:13] Hello, and welcome to the History of Rome, episode 98, Purchasing Power.
+[00:13 --> 00:18] After numerous failed attempts, foiled plots, and exposed conspiracies, someone finally
+[00:18 --> 00:21] managed to kill Commodus.
+[00:21 --> 00:25] That someone was a young athlete named Narcissus, who had been promised a huge reward by the
+[00:25 --> 00:31] emperor's inner circle if he successfully strangled Commodus to death.
+[00:31 --> 00:36] With the deed done and finally done right, phase two of the plan was then initiated.
+[00:36 --> 00:41] One of the key conspirators, Praetorian prefect Quintus Letus, went and retrieved Publius
+[00:41 --> 00:46] Helvius Pertinax, who had been pacing around his house all night, waiting for either the
+[00:46 --> 00:51] good news that the emperor was dead, or the bad news that the plot had failed and it was
+[00:51 --> 00:55] caught up in the never-ending cycle of purges.
+[00:55 --> 00:59] When the knock on the door finally came, it was Letus announcing that the emperor was
+[00:59 --> 01:02] in fact dead, and phase two was at hand.
+[01:02 --> 01:07] Phase two was hustling Pertinax to the Praetorian camp, where Letus had arranged for the old
+[01:07 --> 01:11] senator to be immediately proclaimed emperor.
+[01:11 --> 01:15] The troops were told that Commodus had died of an embolism, that Pertinax was already
+[01:15 --> 01:20] the consensus choice to succeed him, and that it was up to the rank and file Praetorians
+[01:20 --> 01:22] to make it official.
+[01:22 --> 01:26] They were uneasy about all of this, and were probably one of the few groups in the empire
+[01:26 --> 01:31] ready to shed tears for Commodus, but Letus promised them the world if they backed Pertinax,
+[01:31 --> 01:34] and so they did.
+[01:34 --> 01:38] The point of all of this was to present the senate with a fait accompli, so that when
+[01:38 --> 01:42] the senators awakened on New Year's Day and found the old emperor dead, a new one would
+[01:42 --> 01:45] already be in place.
+[01:45 --> 01:50] All night, the conspirators fretted over how the senate would react, but they were worried
+[01:50 --> 01:51] over nothing.
+[01:51 --> 01:56] Most of the senate, after finally being convinced that this wasn't one of the hilarious emperor's
+[01:56 --> 02:01] practical jokes, were thrilled at the news that mad as a hatter Commodus was dead, and
+[02:01 --> 02:06] that Pertinax, wise, capable, and experienced Pertinax, was the man the Praetorians were
+[02:06 --> 02:09] demanding they accept as the new emperor.
+[02:09 --> 02:14] The choice of Pertinax was ratified immediately, and in almost the same breath, the memory
+[02:14 --> 02:17] of Commodus was officially damned.
+[02:17 --> 02:21] All his crazy pronouncements about renaming Rome, and the months, and the legions, those
+[02:21 --> 02:26] were all nullified, and across the city, his statues were toppled.
+[02:26 --> 02:31] At the dawn of a new year, a new day was dawning for the empire.
+[02:31 --> 02:32] Kind of.
+[02:32 --> 02:33] Sort of.
+[02:33 --> 02:36] Not really.
+[02:36 --> 02:40] So a few episodes ago, I just sort of slipped Pertinax into the narrative, and have referred
+[02:40 --> 02:46] to him off and on ever since, but other than the fact that he was an able military officer,
+[02:46 --> 02:50] and that he did his damnedest not to get involved in plots against Commodus, I haven't
+[02:50 --> 02:53] really told you that much about him.
+[02:53 --> 02:57] By far the most interesting thing to note is that, unique among emperors, at least up
+[02:57 --> 03:02] until this point, he was the son of a mere freedman.
+[03:02 --> 03:07] Born in 126, he had planned on becoming a grammar instructor, but in his late teens,
+[03:07 --> 03:10] he decided to have some strings pulled for him so he could be commissioned as an officer
+[03:10 --> 03:14] in the legions instead.
+[03:14 --> 03:18] Once in uniform, he immediately proved that he was a hardworking soldier and a natural
+[03:18 --> 03:23] leader of men, whatever his lowly background said about him.
+[03:23 --> 03:27] He came to the attention of Claudius Pompeianus, who was himself of lowly origin, though not
+[03:27 --> 03:33] as lowly as being the son of a freedman, and he became attached to the older man's staff.
+[03:33 --> 03:38] As Pompeianus' star rose during the reign of Marcus Aurelius, Pertinax rose along with
+[03:38 --> 03:39] it.
+[03:40 --> 03:44] Eventually, his undeniable talent won out and Marcus decided to enroll the young man
+[03:44 --> 03:49] as a senator so he could grant Pertinax a full command.
+[03:49 --> 03:55] In 175, he was granted a suffet consulship as a reward for his excellent service, a consulship
+[03:55 --> 04:01] he would coincidentally share with Didius Julianus, who we will get to in a second.
+[04:01 --> 04:05] His rise was not without setbacks, though, and for his entire career he would have to
+[04:05 --> 04:10] deal with aristocratic bigotry against this son of a slave who had had the temerity to
+[04:10 --> 04:14] order around his social betters.
+[04:14 --> 04:18] During the reign of Marcus, he was briefly blacklisted following the machinations of
+[04:18 --> 04:23] some officials close to Faustina, who hated Pertinax for, among other things, his close
+[04:23 --> 04:27] relationship with Pompeianus, who she detested.
+[04:27 --> 04:32] During the early years of Commodus' reign, Pertinax essentially retired from public life
+[04:32 --> 04:36] rather than attempt to get into a political flame war with Perenus, but once Perenus was
+[04:36 --> 04:43] out of the picture, Pertinax found himself back in favor and back in demand.
+[04:43 --> 04:47] In all, during his long career, he served with distinction in the Parthian War and the
+[04:47 --> 04:52] Marcomannic Wars and at one time or another governed the provinces of Upper Moesia, Lower
+[04:52 --> 04:57] Moesia, Dacia, Syria, Britain, and Africa.
+[04:57 --> 05:02] Far from being honorary postings, these were among the most critical territories the Empire
+[05:02 --> 05:05] had to offer.
+[05:05 --> 05:09] Throughout his career, there was only one real lingering flaw in his character, at least
+[05:09 --> 05:13] according to the troops who served under him.
+[05:13 --> 05:17] Unlike many other commanders, particularly those who served at Commodus' pleasure,
+[05:17 --> 05:20] Pertinax was not indulgent of his troops.
+[05:20 --> 05:25] He demanded strict discipline in the camps and had no time for whiners or complainers.
+[05:25 --> 05:27] They were soldiers and they ought to act like it.
+[05:27 --> 05:31] There was nothing more to say on the subject.
+[05:31 --> 05:35] Unfortunately this reputation would come back to haunt him once he was Emperor.
+[05:35 --> 05:39] Strict discipline was not, for example, what the Praetorian Guard had in mind when they
+[05:39 --> 05:47] went and did the old man a pretty huge favor by making him Emperor of the whole Empire.
+[05:47 --> 05:51] While the Senate needed no prodding to be ecstatic about the elevation of Pertinax,
+[05:51 --> 05:54] the Praetorians had to be bought off.
+[05:54 --> 05:58] In securing their support, Pertinax had been forced to promise a huge donative to every
+[05:58 --> 06:01] man in the Guard.
+[06:01 --> 06:05] Now more than ever, the men of the Imperial bodyguard didn't care who was in power as
+[06:05 --> 06:07] long as they got paid.
+[06:07 --> 06:12] In a few short months, the crass financial underpinnings of their morality would be displayed
+[06:12 --> 06:15] in a way never before imaginable.
+[06:15 --> 06:19] But for now, they accepted the promise of money from Pertinax and so they supported
+[06:19 --> 06:20] Pertinax.
+[06:21 --> 06:26] Out in the provinces, word spread of Commodus' demise, and though there was no political
+[06:26 --> 06:31] unrest following the death of the erratic and dangerous Emperor, the fact of his murder
+[06:31 --> 06:36] and the fact that a man who had no connection whatsoever to the now-dead Antonine dynasty
+[06:36 --> 06:40] had to have sparked the imaginations of more than a few powerful Governors.
+[06:40 --> 06:46] Shortly, we will deal with three such powerful Governors, who between them commanded a majority
+[06:46 --> 06:49] of the Empire's legions.
+[06:49 --> 06:53] They all knew and appreciated the service and stature of Pertinax, and so there was
+[06:53 --> 06:55] no immediate uprising.
+[06:55 --> 07:00] The new Emperor was awfully long in the tooth, and when he went to meet his maker, who exactly
+[07:00 --> 07:06] would succeed him, was the question on all their minds.
+[07:06 --> 07:08] The answer came much sooner than anyone thought.
+[07:08 --> 07:13] You see, when Pertinax promised a huge bonus to the Praetorians in exchange for their support,
+[07:13 --> 07:19] he had done so at the behest of Letus, who told him it was the only way.
+[07:19 --> 07:23] Once the crisis of succession was in the rear-view mirror a bit, though, Pertinax re-evaluated
+[07:23 --> 07:28] the wisdom of paying the Praetorians such an ungodly sum of money.
+[07:28 --> 07:32] He came through with half the amount, but declined to pay the rest, arguing that what
+[07:32 --> 07:36] he had already given them was more than most soldiers make in a lifetime.
+[07:36 --> 07:42] Besides, the Imperial treasury is empty, so there's really nothing left to pay you with.
+[07:42 --> 07:46] But the Praetorians couldn't have cared less about where the money came from or what the
+[07:46 --> 07:48] average soldier made in a lifetime.
+[07:48 --> 07:52] They just wanted what was theirs.
+[07:52 --> 07:55] Pertinax considered the matter closed, though, and shifted his focus to seeing what could
+[07:55 --> 08:00] be done to get the Empire back on track after so many years of mismanagement.
+[08:00 --> 08:04] The Praetorians, however, did not consider the matter closed.
+[08:04 --> 08:07] They were the only reason this stuffy old man was on the throne in the first place,
+[08:07 --> 08:10] and now he was stiffing them when the bill came due?
+[08:10 --> 08:12] Who did he think he was?
+[08:12 --> 08:17] They made him, and they could break him.
+[08:17 --> 08:22] In March, Pertinax visited the port of Ostia to inspect incoming grain shipments, and while
+[08:22 --> 08:26] there, he was given evidence proving that one of the year's consuls, a senator named
+[08:26 --> 08:32] Quintus Falco, had gone in with a few key members of the Guard on a plot to kill Pertinax.
+[08:32 --> 08:38] The Guard promised to make Falco Emperor if he promised to pay up promptly and in full.
+[08:38 --> 08:42] Unwilling to be held hostage by a bunch of greedy bodyguards who did not know their true
+[08:43 --> 08:48] Pertinax continued to refuse them the second half of the donative, but now did so knowing
+[08:48 --> 08:53] full well that he was putting himself in a very dangerous position.
+[08:53 --> 08:58] But whether out of principle, obstinacy, or something else, he refused to back down on
+[08:58 --> 09:00] the issue.
+[09:00 --> 09:05] He went so far as to avoid passing out Imperial titles to his wife and children, perhaps
+[09:05 --> 09:10] suspecting that if and when a final showdown came that they would be safer on the sidelines
+[09:10 --> 09:16] than carrying around dangerous titles like Augusta and Caesar.
+[09:16 --> 09:20] There was a hope prevailing in Rome early in 193 that maybe the reign of Commodus had
+[09:20 --> 09:25] just been a hiccup, and that with Pertinax now in power, that things could go back to
+[09:25 --> 09:27] normal.
+[09:27 --> 09:32] Commodus aside, no one living had any memory of a bad emperor.
+[09:32 --> 09:37] Even the oldest of the old men had been born during the reign of Trajan.
+[09:37 --> 09:42] Pertinax himself, a venerable elder statesman, had been born during the reign of Hadrian.
+[09:42 --> 09:47] The point is that for most Romans, the default setting was good emperors reigning for a long
+[09:47 --> 09:52] time over a relatively quiet and stable empire.
+[09:52 --> 09:56] So the reasoning went that since Pertinax was obviously not a crazy person, that maybe
+[09:56 --> 10:02] the detour through Commodus would prove to be just that, a detour.
+[10:02 --> 10:06] Pertinax would reign for a bit, then hand power to some worthy successor, and then he
+[10:06 --> 10:11] would pass power to some other worthy successor, and just like that, the memory of Commodus,
+[10:11 --> 10:15] already damned, would be truly forgotten.
+[10:15 --> 10:17] But it was not to be.
+[10:17 --> 10:19] Commodus was not a detour.
+[10:19 --> 10:22] He was the new way forward.
+[10:22 --> 10:26] The Romans would never again return to the road they had traveled for the last century,
+[10:26 --> 10:30] the one paved in wisdom, luck, and competence.
+[10:30 --> 10:33] No, they were on a different road now.
+[10:33 --> 10:38] And in late March 193, the people of Rome discovered how far they had already strayed
+[10:38 --> 10:45] from that good solid road they had enjoyed for so many years.
+[10:45 --> 10:49] The Praetorians had been indulged for too long to simply take Pertinax's stiffing lying
+[10:49 --> 10:50] down.
+[10:50 --> 10:54] Well, it wasn't just the case of the missing Donative.
+[10:54 --> 10:58] It was also the fact that Pertinax was trying to impose a level of discipline on the urban
+[10:58 --> 11:01] troops that they were totally unaccustomed to.
+[11:01 --> 11:02] What were they?
+[11:02 --> 11:03] Infantry?
+[11:03 --> 11:08] They had never been hip to Pertinax to begin with, but Letus had been persuasive on the
+[11:08 --> 11:14] night of Commodus's death, which they had always suspected had been murder, not an embolism,
+[11:14 --> 11:17] and so they had gone along with their prefect.
+[11:17 --> 11:22] But if the past few months had proved anything, it was that this relationship just wasn't
+[11:22 --> 11:23] going to work.
+[11:23 --> 11:29] It was time for the Praetorians to break up with Pertinax.
+[11:29 --> 11:34] On March 28, a collection of about 300 soldiers and officers of the guard stormed the palace
+[11:34 --> 11:36] to confront the emperor.
+[11:36 --> 11:41] None of the soldiers or officials surrounding Pertinax had any desire to get in the middle
+[11:41 --> 11:45] of what was about to go down, so this armed company of Praetorians was allowed to pass
+[11:45 --> 11:46] unchallenged.
+[11:46 --> 11:50] Well, not totally unchallenged.
+[11:50 --> 11:54] Pertinax heard the commotion and dispatched Letus to go talk his men down.
+[11:54 --> 11:58] But when Letus, not exactly the most scrupulous guy in the world, confronted the incoming
+[11:58 --> 12:04] troops, he decided that joining them would be safer than trying to stop them.
+[12:04 --> 12:09] So he promptly about-faced and led his men straight to the emperor.
+[12:09 --> 12:15] Pertinax faced down the 300 Praetorians, well, 301 I guess at this point, and attempted to
+[12:15 --> 12:20] explain his position and reasonably defuse the situation.
+[12:20 --> 12:24] Whether or not his words were starting to dissuade a majority of the men became irrelevant
+[12:24 --> 12:29] when one of the soldiers, who was obviously not being dissuaded, stepped forward and slashed
+[12:29 --> 12:34] Pertinax with his sword, killing the emperor instantly.
+[12:34 --> 12:41] Pertinax was 66 years old and had ruled the empire for 86 days.
+[12:41 --> 12:46] This rash act of violence left Letus and the Praetorians in a dilly of a pickle.
+[12:46 --> 12:51] As I'm sure Letus calmly explained without raising his voice or cussing anyone out, you
+[12:51 --> 12:53] don't just kill an emperor.
+[12:53 --> 12:58] At least, you don't kill an emperor without having a replacement ready to step in.
+[12:58 --> 13:03] Because as it stands right now, there is no emperor, and no generally agreed upon mechanism
+[13:03 --> 13:05] for selecting a new one.
+[13:05 --> 13:09] The senate will argue that they have the right to elect the empire's new leader.
+[13:09 --> 13:13] The armies out in the provinces will almost certainly ignore the senate and acclaim one
+[13:13 --> 13:14] of their own generals.
+[13:14 --> 13:19] Hell, every man in the empire will have his own pet candidate and be more than willing
+[13:19 --> 13:23] to fight to the death to win this highly valuable and suddenly available prize.
+[13:23 --> 13:29] This, he explained, is why you don't just kill an emperor.
+[13:29 --> 13:33] Keeping his wits about him, though, Letus thought fast and determined that at the end
+[13:33 --> 13:37] of the day, the Praetorians still really held all the cards here.
+[13:37 --> 13:42] We'll just pick whoever we want, bully the senate into ratifying the choice, and have
+[13:42 --> 13:48] everything wrapped up before the provincial governors even hear that Pertinax is dead.
+[13:48 --> 13:51] But who did the Praetorians want?
+[13:51 --> 13:54] At that moment, what they wanted was someone who would pay up when he was supposed to pay
+[13:54 --> 13:56] up.
+[13:56 --> 13:59] That was their whole beef with Pertinax, and the reason why they were standing over his
+[13:59 --> 14:03] bloody body trying to figure out who to replace him with.
+[14:03 --> 14:06] So Letus hit upon a great idea.
+[14:06 --> 14:10] A really, really great idea that was just really, really great.
+[14:10 --> 14:15] They would auction off the job to the highest bidder.
+[14:16 --> 14:20] Letus ordered his agents out into the city to spread the news that Pertinax was dead
+[14:20 --> 14:25] and that the Praetorians were entertaining bids to be his replacement.
+[14:25 --> 14:29] What followed obviously became one of the most notorious incidents in Roman imperial
+[14:29 --> 14:31] history.
+[14:31 --> 14:35] No self-respecting senator was going to get into a bidding war to win the honor of becoming
+[14:35 --> 14:41] the Praetorians' puppet, which meant that only senators of a more morally ambiguous
+[14:41 --> 14:44] nature were going to enter into the auction.
+[14:44 --> 14:49] But then again, if only morally ambiguous men entered in the bidding, then maybe it
+[14:49 --> 14:53] was the duty of a self-respecting senator to step in and outbid the bad seeds.
+[14:53 --> 14:57] It was quite a conundrum.
+[14:57 --> 15:01] In the end, events moved so quickly that the bidding came down to two men, who were neither
+[15:01 --> 15:06] inflexibly virtuous nor necessarily terrible men.
+[15:06 --> 15:10] They just acted on their instincts, their vanity, and the belief that someone was going
+[15:10 --> 15:14] to get the job, so it might as well be them.
+[15:14 --> 15:20] The first was Pertinax's father-in-law, a man named Titus Flavius Sulpicianus.
+[15:20 --> 15:25] Sulpicianus had been appointed city prefect upon his son-in-law's ascension, and when
+[15:25 --> 15:29] the company of Praetorians had invaded the palace, Pertinax had dispatched Sulpicianus
+[15:29 --> 15:35] down to the Praetorian camp to hopefully quell any further unrest.
+[15:35 --> 15:39] So he found himself physically present when the murderous company returned base with his
+[15:39 --> 15:43] son-in-law's head on a spike, and was the first to hear their plan to auction off the
+[15:43 --> 15:46] imperial throne.
+[15:46 --> 15:52] Sulpicianus, probably first out of a desire to simply restore order as quickly as possible,
+[15:52 --> 15:57] put in a bid, but the Praetorians decided it was too low, and shouted from the ramparts
+[15:57 --> 16:03] that anyone who could do better ought to come down straight away and do better.
+[16:03 --> 16:08] The second man involved in this infamous auction, and the one who would eventually win the dubious
+[16:08 --> 16:12] prize, was Marcus Didius Julianus.
+[16:12 --> 16:16] He was enjoying a lavish dinner with his family when the news came that the imperial throne
+[16:16 --> 16:18] was up for grabs.
+[16:18 --> 16:23] According to most sources, Julianus was pushed into making a bid by his wife and daughter,
+[16:23 --> 16:28] who were themselves hungrier for power than Julianus himself was, but sometimes I can't
+[16:28 --> 16:33] help but take these portrayals of shrewish Roman women with a grain of salt.
+[16:33 --> 16:39] If Julianus needed to be pushed into it, I doubt he needed to be pushed very hard.
+[16:39 --> 16:44] But whether he jumped at the chance, or had to be pushed, or pulled, or nudged, or whatever,
+[16:44 --> 16:48] Julianus rushed from his banquet table down to the Praetorian camp.
+[16:48 --> 16:53] He was barred from actually passing through the gates by suspicious guards, but, undeterred,
+[16:53 --> 16:57] he shouted his offer over the walls.
+[16:57 --> 17:01] The men on the ramparts dutifully relayed Julianus's bid to their comrades in the center
+[17:01 --> 17:05] of camp, and Solpicianus upped his bid accordingly.
+[17:05 --> 17:10] The men raced back to the wall where they told Julianus what the new price was, and
+[17:10 --> 17:13] Julianus upped his own bid accordingly.
+[17:13 --> 17:16] Now this is what the Praetorians had in mind.
+[17:16 --> 17:22] Finally, Solpicianus offered twenty thousand sesterces ahead for the privilege of becoming
+[17:22 --> 17:27] emperor, an absurd sum that equaled something like eight times the annual salary of the
+[17:27 --> 17:30] average Praetorian.
+[17:30 --> 17:34] But Julianus, caught up in the moment and determined not to lose, promised twenty-five
+[17:34 --> 17:37] thousand sesterces ahead.
+[17:37 --> 17:43] At this last offer, the Praetorians were satisfied, and, maybe worried that continuing the auction
+[17:43 --> 17:47] would lead both men to walk away from the table, declared Julianus the winner, ushered
+[17:47 --> 17:52] him into camp, and acclaimed him emperor.
+[17:52 --> 17:57] Proving that he was not totally morally bankrupt, which he really wasn't, Julianus stipulated
+[17:57 --> 18:03] that his promised donative was contingent upon no harm coming to Solpicianus.
+[18:03 --> 18:08] The Praetorians agreed, and let the losing bidder go, though he had to see himself out,
+[18:08 --> 18:13] as the soldiers were all temporarily blinded by the massive dollar signs in their eyes.
+[18:13 --> 18:15] They were all about to be rich men.
+[18:15 --> 18:19] They should really do this more often.
+[18:19 --> 18:23] The Praetorians then marched out into the streets to rouse the senate, and demand that
+[18:23 --> 18:27] they assemble at once to make their choice official.
+[18:27 --> 18:31] They came down to the forum, and after listening to Julianus make a speech about how all of
+[18:31 --> 18:35] this wasn't nearly as dishonorable as it appeared, and reminding them that they all
+[18:35 --> 18:40] knew him and knew him well, that he was a good man, and he would lead the empire back
+[18:40 --> 18:42] to glory.
+[18:42 --> 18:47] With armed soldiers literally standing over their shoulders, the senate nodded in agreement,
+[18:47 --> 18:52] and Didius Julianus became emperor.
+[18:52 --> 18:55] Now what he had said was basically true.
+[18:55 --> 19:00] Marcus Didius Julianus had been around a long time, was well known, and not for infamous
+[19:00 --> 19:01] reasons.
+[19:01 --> 19:07] He had been born in the 130s, the exact date is under dispute, to an Italian father and
+[19:07 --> 19:13] a Roman African mother, both of whom came from distinguished senatorial families.
+[19:13 --> 19:18] By a stroke of luck, he wound up being raised in the home of Domitia Lucilla, the mother
+[19:18 --> 19:20] of Marcus Aurelius.
+[19:20 --> 19:25] He didn't have much contact with Marcus, who was at least fifteen years his senior,
+[19:25 --> 19:30] but when Marcus became emperor, it did not hurt Julianus' career one bit that he was
+[19:30 --> 19:33] a favorite of the emperor's mother.
+[19:33 --> 19:38] He climbed up the cursus honorum in brisk fashion, and when the Marcomannic Wars broke out, he
+[19:38 --> 19:43] found himself the governor of Upper Germany, which, while not exactly the front lines,
+[19:43 --> 19:46] was still a key theater of the war.
+[19:46 --> 19:50] Julianus and his fellows along the Rhine were tasked with fending off attacks on the
+[19:50 --> 19:57] Lymus Germanicus and preventing the Germans from even thinking about expanding the conflict.
+[19:57 --> 20:02] Julianus was completely successful in his mission, and deftly deflected numerous attempts
+[20:02 --> 20:06] at invasion from local tribes allied with the Marcomanni.
+[20:06 --> 20:11] As a reward for his good work, as I mentioned before, he was given a consulship in 175 along
+[20:11 --> 20:15] with Pertinax.
+[20:15 --> 20:19] During the reign of Commodus, he mostly kept his head down, and despite being accused of
+[20:19 --> 20:23] involvement in one of the various plots against the emperor's life, he was acquitted and
+[20:23 --> 20:28] wound up serving as provincial governor in Dithynia and then later succeeded Pertinax
+[20:28 --> 20:30] as proconsul of Africa.
+[20:30 --> 20:34] He was back in Rome and enjoying the life of a wealthy aristocrat during the last year
+[20:34 --> 20:40] of Commodus' reign, however much a wealthy aristocrat could enjoy his life with Commodus'
+[20:40 --> 20:45] mad whims hanging over his head all the time, and was finally, as I said, enjoying a nice
+[20:45 --> 20:48] dinner when Pertinax was murdered.
+[20:48 --> 20:52] Before the sun rose the next morning, he was in the imperial palace and likely wondering
+[20:52 --> 20:57] if the night's events had been a strange dream.
+[20:57 --> 20:58] But it was no dream.
+[20:58 --> 21:00] Julianus was emperor.
+[21:00 --> 21:05] It was time for the Praetorians to initiate the final phase of their brilliant plan, kick
+[21:05 --> 21:08] back and live like kings.
+[21:08 --> 21:12] But this final phase was premised on the assumption that there would be no repercussions for the
+[21:12 --> 21:16] double crime of murdering Pertinax and selling off the throne.
+[21:16 --> 21:21] This was, as you can imagine, as faulty an assumption as there has ever been in the long
+[21:21 --> 21:24] history of faulty assumptions.
+[21:24 --> 21:29] In the full light of day, the magnitude of how faulty that assumption was became all
+[21:29 --> 21:31] too clear.
+[21:31 --> 21:36] When Julianus traveled through the streets, he was hissed at and booed at by the people
+[21:36 --> 21:39] who called him names and pelted him with rocks.
+[21:39 --> 21:43] The Senate, with swords in their faces, had agreed to honor his claim to the throne, but
+[21:43 --> 21:50] to a man they now reviled Julianus and considered his residence in the imperial palace a mockery.
+[21:50 --> 21:55] If Pertinax's mistake had been ignoring the Praetorians, Julianus's crime was in paying
+[21:55 --> 21:58] them exclusive attention.
+[21:58 --> 22:03] Because outside the couple of thousand members of the guard, no one else supported him.
+[22:03 --> 22:07] And there was a lot more men in the provincial armies than there were in the urban cohorts,
+[22:07 --> 22:12] if you catch my drift.
+[22:12 --> 22:15] Next week, the chickens will come home to roost.
+[22:15 --> 22:19] None of the governors out in the provinces had any intention of offering fealty to this
+[22:19 --> 22:22] imperial imposter.
+[22:22 --> 22:27] And the three most powerful, Septimius Severus in Pannonia, Claudius Albinus in Britain,
+[22:27 --> 22:32] and Paschinius Niger in Syria, will each further intend not only to brush aside Julianus and
+[22:32 --> 22:37] his ridiculous claims to the throne, but to step in and take power for themselves.

@@ -1,0 +1,345 @@
+# 20110710 - 143- Julian the Pre-Apostate
+# Detected language: en
+# Duration: 1559.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you know, Audible is the Internet's leading provider of audio entertainment with over
+[00:08 --> 00:10] 80,000 titles to choose from.
+[00:10 --> 00:15] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:15 --> 00:19] That again audiblepodcast.com forward slash Rome.
+[00:19 --> 00:22] By going to that address, you qualify for a free book download when you sign up for
+[00:22 --> 00:24] a 14-day trial membership.
+[00:24 --> 00:28] There is no obligation to continue the service and you can cancel anytime and keep the free
+[00:28 --> 00:30] book download.
+[00:30 --> 00:34] You can also keep going with one of the monthly subscription options and get great deals on
+[00:34 --> 00:37] all future audiobook purchases.
+[00:37 --> 00:42] This week, I'm going to go with a recommendation from listener Richard Eppert in honor of the
+[00:42 --> 00:48] fact that it was just Independence Day here in the States, 1776 by David McCullough, an
+[00:48 --> 00:53] eminently accessible account of the most famous year in American history.
+[00:53 --> 00:58] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent
+[00:58 --> 01:03] you.
+[01:03 --> 01:15] Hello and welcome to The History of Rome, episode 143, Julian the Pre-Apostate.
+[01:15 --> 01:20] After defeating Magnentius, dispensing with Gallus, and putting down the recent revolt
+[01:20 --> 01:25] of Sylvanus, for the first time in a long time, Constantius II was completely secure
+[01:25 --> 01:26] on the throne.
+[01:27 --> 01:31] But with everything that had gone on the last few years, it must have felt like the most
+[01:31 --> 01:34] insecure security in the world.
+[01:34 --> 01:38] Like that at any moment some chunk of the empire could slip away and bring Constantius
+[01:38 --> 01:42] crashing down with it.
+[01:42 --> 01:46] Opportunistic German tribes had taken advantage of the shaky Rhine defenses, leaving the West
+[01:46 --> 01:48] awash in barbarian invaders.
+[01:48 --> 01:53] The Sarmatians were a persistent source of trouble along the Danube and it seemed like
+[01:53 --> 01:58] the Sassanids would come crashing back into Mesopotamia at any moment.
+[01:58 --> 02:02] So while Constantius had to have been happy that he now was the sole and unchallenged
+[02:02 --> 02:08] ruler of the empire, he also had to have been more than a little wary about what the future
+[02:08 --> 02:10] had in store for him.
+[02:10 --> 02:15] With all of this weighing on his mind, the emperor finally decided in November of 355
+[02:15 --> 02:19] to elevate the last male member of his family to the purple and hope the young man would
+[02:19 --> 02:26] be able to help shore up that insecure security Constantius was wrestling with.
+[02:26 --> 02:31] It was obvious that at this stage in history, the empire absolutely needed multiple emperors
+[02:31 --> 02:35] fighting on multiple fronts to keep the whole project from falling apart.
+[02:35 --> 02:40] And so, enter Julian the Apostate.
+[02:40 --> 02:47] Julian had been born in 331 or 332 AD in Constantinople and as we've already seen, he managed to
+[02:47 --> 02:52] survive the massacre of the princes by virtue of the fact that he was too young to pose
+[02:52 --> 02:54] any immediate threat.
+[02:54 --> 02:59] After the massacre, Julian was shipped off with his brother to Bithynium to live with
+[02:59 --> 03:04] their maternal grandmother and he appears to have had a happy few years living in comfortable
+[03:04 --> 03:06] pseudo-exile.
+[03:06 --> 03:11] His education was overseen by the bishop Eusebius, the same bishop Constantius had pushed to
+[03:11 --> 03:18] take over Constantinople in 338, and a Gothic eunuch named Mardonius.
+[03:18 --> 03:24] After Eusebius died in 341, Julian and Gallus were packed off to an imperial estate in Cappadocia
+[03:24 --> 03:29] and there was nothing pseudo about this exile.
+[03:29 --> 03:33] Far from the cosmopolitan centers of the empire, the villa in Cappadocia became a prison that
+[03:33 --> 03:38] young Julian only managed to escape by means of the collection of books he was allowed
+[03:38 --> 03:41] to accumulate.
+[03:41 --> 03:45] Finding anything that seemed even mildly interesting, Julian became enamored with Greek
+[03:45 --> 03:51] philosophy and the pagan cults of old, though he was always careful to focus first and foremost
+[03:51 --> 03:59] on Christian texts to avoid any unpleasant questions about where his heart might be drifting.
+[03:59 --> 04:04] In 348, probably because he already had his eye on them as potential heirs, the sonless
+[04:04 --> 04:09] Constantius recalled his cousins from their Cappadocian exile.
+[04:09 --> 04:13] Eusebius likely spent some time in Ephesus before settling in at Constantinople while
+[04:13 --> 04:18] Julian spent the next two years bouncing between the capital and Nicomedia, furthering both
+[04:18 --> 04:25] his classical and Christian education by studying with the greatest teachers of his age.
+[04:25 --> 04:30] Following the revolt of Magnentius, the universe fired a warning shot across Julian's contemplative
+[04:30 --> 04:35] bow when he found himself present in Sirmium to witness his brother's elevation to the
+[04:35 --> 04:38] rank of Caesar.
+[04:38 --> 04:42] It is one thing to be the kept relative of a distant Augustus.
+[04:42 --> 04:45] It is quite another to be the brother of a Caesar.
+[04:45 --> 04:50] The political waters were lapping at Julian's heels.
+[04:50 --> 04:54] But they would not drown him just yet, and for the next few years he was allowed some
+[04:54 --> 04:59] freedom of movement to continue his studies, so he traveled up and down the Anatolian coast
+[04:59 --> 05:06] where he sought out the great masters of philosophy and rhetoric and even magic.
+[05:06 --> 05:12] It was at this point, around about 351 or 352 AD, that Julian turned decisively away
+[05:12 --> 05:14] from Christianity.
+[05:14 --> 05:20] Now, there was no real dramatic moment of conversion where Julian lights a bundle of
+[05:20 --> 05:25] scripture on fire and declares himself the enemy of Christianity for all time.
+[05:25 --> 05:30] It was just that during this period, the scales of belief tipped away from Christianity and
+[05:30 --> 05:33] towards paganism.
+[05:33 --> 05:37] Julian knew Christian scripture backward and forward, and had always been troubled by its
+[05:37 --> 05:42] many contradictions, and so now he embraced an alternative theology.
+[05:42 --> 05:47] The classical philosophy he read and the pagan cults he encountered were exciting, and most
+[05:47 --> 05:53] likely they simply offered Julian a more satisfying explanation of the cosmos than he found in
+[05:53 --> 05:55] Christian teachings.
+[05:55 --> 06:00] I should note, though, that a few armchair psychologists have argued that Julian's rejection
+[06:00 --> 06:05] of Christianity may have stemmed from the fact that his devoutly Christian cousin,
+[06:05 --> 06:09] Constantius, had, you know, murdered his entire family.
+[06:09 --> 06:11] But I think that's unnecessary.
+[06:11 --> 06:16] I just think Julian was a whip-smart 20-year-old who turned his back on the traditional religion
+[06:16 --> 06:21] of his family in order to pursue more exotic belief systems.
+[06:21 --> 06:25] Things like this happen literally every single day, so I don't think we need to bring the
+[06:25 --> 06:30] trauma of his childhood in to explain why Julian ultimately turned his back on Christianity
+[06:30 --> 06:33] forever.
+[06:33 --> 06:38] I have to imagine that the years in between Gallus' rise and Gallus' fall had to have
+[06:38 --> 06:40] been the happiest of Julian's life.
+[06:40 --> 06:45] He was young, mostly free to come and go as he pleased, and he was surrounded by exciting
+[06:45 --> 06:47] new ideas.
+[06:47 --> 06:52] For a reserved intellectual like Julian, this had to have been something close to heaven,
+[06:52 --> 06:59] enjoying the perks of his imperial connections without any of the political or military entanglements.
+[06:59 --> 07:05] However, when the Gallus affair climaxed with the execution of his brother, the idyllic
+[07:05 --> 07:10] life of Julian ended, and something far more complicated took its place.
+[07:10 --> 07:15] As the last remaining male relative of Constantius, he was called to Milan shortly after his brother's
+[07:15 --> 07:21] death in late 354 so that the emperor could size him up, figure out if he was dangerous
+[07:21 --> 07:25] first of all, and then figure out if maybe Julian could handle the job of Caesar should
+[07:25 --> 07:29] the need arise.
+[07:29 --> 07:34] After his arrival in the Italian capital though, he was kept under a sort of house arrest.
+[07:34 --> 07:39] He wasn't allowed to leave, but neither was he ever summoned to meet with Constantius.
+[07:39 --> 07:43] So is he going to kill me like the rest of my family, is he going to let me go, like
+[07:43 --> 07:46] what's the deal here?
+[07:46 --> 07:51] This limbo persisted a good seven months, and it was not until mid-355 that Constantius
+[07:51 --> 07:55] finally decided to have a look at the boy.
+[07:55 --> 08:00] Julian had done his best to adopt a non-threatening posture throughout his life, and after meeting
+[08:00 --> 08:05] with the emperor, Julian was relieved to discover that this posture had shown through.
+[08:05 --> 08:11] His confinement in Milan did not in fact turn out to be him just sitting on death row.
+[08:11 --> 08:17] Constantius decided to let his cousin leave Italy to continue his education.
+[08:17 --> 08:21] His life having just flashed before his eyes though, Julian took this opportunity to visit
+[08:21 --> 08:29] the only city a burgeoning young intellectual absolutely must visit before they die, Athens.
+[08:29 --> 08:34] He received permission to travel to the ancient city and departed at once.
+[08:34 --> 08:38] Eager to take in everything that Athens had to offer, he studied at the feet of the Greek
+[08:38 --> 08:43] masters and was inducted into the Eleusinian mysteries.
+[08:43 --> 08:48] But at the end of autumn 355, just three months after arriving, Julian learned that his days
+[08:48 --> 08:51] as a professional student were about to come to an end.
+[08:51 --> 08:55] Or maybe, Constantius had reconsidered, and it was his life that was about to come to
+[08:55 --> 08:57] an end.
+[08:57 --> 09:05] Julian, reluctantly, and most likely fearfully, returned to Milan.
+[09:05 --> 09:08] As I'm sure you can probably guess though, Constantius had not called Julian back to
+[09:08 --> 09:10] Milan to kill him.
+[09:10 --> 09:15] No, he had a far worse fate in store for the cerebral 23 year old.
+[09:15 --> 09:20] On November 6, 355 AD, Constantius assembled the troops and announced that he was making
+[09:20 --> 09:22] Julian his Caesar.
+[09:22 --> 09:29] The troops cheered, Julian cringed, and the empire had itself a new junior emperor.
+[09:29 --> 09:32] And what would the new junior emperor's assignment be?
+[09:32 --> 09:37] How about ridding all Gaul of its German invaders and returning peace and security to the western
+[09:37 --> 09:38] provinces?
+[09:38 --> 09:41] Think you can handle that?
+[09:41 --> 09:46] This throw him in the deep end and see if he can swim mentality has been taken by some
+[09:46 --> 09:50] to indicate that Constantius didn't really care if Julian sank or swam.
+[09:50 --> 09:55] If the kid pulls it off then great, the empire is that much better for it.
+[09:55 --> 09:58] But if it turns out he's in over his head and gets killed in the fighting, well, that
+[09:58 --> 10:03] takes care of a dynastic threat I'll probably just get all paranoid about in a few years
+[10:03 --> 10:04] anyway.
+[10:04 --> 10:11] In other words, sending Julian north was win-win, at least from Constantius's point of view.
+[10:11 --> 10:16] As Julian left for Gaul, I can very much picture the bookmakers of the empire taking odds as
+[10:16 --> 10:20] to whether the young Caesar was going to come back alive.
+[10:20 --> 10:23] He had no military experience and no political experience.
+[10:23 --> 10:28] So if the Germans didn't stab him in the front, then surely some cutthroat advisor
+[10:28 --> 10:31] is going to stab him in the back.
+[10:31 --> 10:34] Just look at what had happened to his brother.
+[10:34 --> 10:38] When the new Caesar arrived in Gaul in his ill-fitting military attire and accompanied
+[10:38 --> 10:44] by an entourage whose loyalty first and foremost was to Constantius, no one figured that he
+[10:44 --> 10:47] stood a chance.
+[10:47 --> 10:51] But to everyone's surprise, Julian decided not to mess around with this thing.
+[10:51 --> 10:57] If he was going to be Caesar, then doggone it, he was going to be Caesar.
+[10:57 --> 11:01] Much as I'm sure part of him wanted to sit in his tent reading books while other men
+[11:01 --> 11:07] took care of his business for him, Julian refused to fall into that trap.
+[11:07 --> 11:11] The parallels to Marcus Aurelius on this point are interesting and I often think that in
+[11:11 --> 11:16] Julian we get a chance to see what a twenty-something year old Marcus would have been like as an
+[11:16 --> 11:23] emperor had not Antoninus Pius inexplicably reigned for like 150 years.
+[11:23 --> 11:29] Both men were much more inclined temperamentally to intellectual pursuits, but forced into
+[11:29 --> 11:34] action both refused to shirk their duty and they took seriously their role as a military
+[11:34 --> 11:35] leader.
+[11:35 --> 11:39] It speaks well of both of them.
+[11:39 --> 11:45] Over that winter of 355-356 Julian threw himself into the soldier's life, commandeering a drill
+[11:45 --> 11:52] sergeant and forcing himself to do everything a new recruit would be expected to do.
+[11:52 --> 11:56] The senior officials surrounding the young leader, military and political alike, were
+[11:56 --> 12:02] surprised at his dedication, but still they probably were snickering behind his back.
+[12:02 --> 12:07] This pampered prince was no soldier, who did he think he was kidding?
+[12:07 --> 12:13] At the end of this no doubt stirring montage though Julian was in shape and ready for action.
+[12:13 --> 12:17] He had no intention of sitting on the sidelines or being a mere figurehead.
+[12:17 --> 12:20] He was going to lead the legions into battle.
+[12:20 --> 12:26] If people didn't think he was up to it, well he was just going to have to prove them wrong.
+[12:26 --> 12:32] The only question left was where to start.
+[12:32 --> 12:36] As I touched on last week, the revolt and subsequent defeat of Magnentius had left the
+[12:36 --> 12:39] Rhine defenses in shambles.
+[12:39 --> 12:44] Cities were under garrisoned, watchtowers were left unmanned, and the general focus
+[12:44 --> 12:48] of everyone had been on the internal threat of Constantius rather than the external threat
+[12:48 --> 12:52] of the Alamani and the Franks.
+[12:52 --> 12:56] The Germans picked up on this pretty quickly, and in the five years since Magnentius had
+[12:56 --> 13:02] donned his purple cloak, the Romans had been pushed back off the Rhine river, losing control
+[13:02 --> 13:06] of a good number of cities in the process, including Cologne, the capital of Germania
+[13:06 --> 13:09] inferior.
+[13:09 --> 13:14] So Julian's first task was clear, march to the lower Rhine and retake the lost urban
+[13:14 --> 13:17] centers along the river.
+[13:17 --> 13:21] For all of 356, Julian campaigned against the Germans and emerged victorious from a
+[13:21 --> 13:24] series of decently sized encounters.
+[13:24 --> 13:29] As winter approached, Julian had succeeded in driving off the occupying Germans and retaking,
+[13:29 --> 13:33] among other cities, the great military capital of Cologne.
+[13:33 --> 13:39] It was a fantastic start to his career, though I would be negligent in my duties if I didn't
+[13:39 --> 13:44] point out that defending walled cities was not exactly the Germans' forte.
+[13:44 --> 13:49] They withdrew at the first sign of serious pushback from the Romans, but still a good
+[13:49 --> 13:53] first day for the new Caesar.
+[13:53 --> 13:58] The winter would bring Julian's first taste of real hardship.
+[13:58 --> 14:02] After scattering his men across Gaul in winter quarters, Julian himself set up shop with
+[14:02 --> 14:05] a small garrison in the city of Sinan.
+[14:05 --> 14:10] Julian, confident that the year's campaign had put the Germans on notice, was expecting
+[14:10 --> 14:15] no trouble, but as soon as he was settled, an army of Franks suddenly appeared at the
+[14:15 --> 14:17] gates of the city.
+[14:17 --> 14:21] It was not a large army, but it was bigger than any force Julian could muster right at
+[14:21 --> 14:26] that moment, so direct counterattack was out of the question.
+[14:26 --> 14:32] That said, the city's defensive fortifications were sturdy, so it looks like if the Germans
+[14:32 --> 14:36] want a siege, then a siege is what they are going to get.
+[14:36 --> 14:41] The Germans apparently had no problem with this, and so a siege is what they got.
+[14:41 --> 14:47] For the next month, Julian was trapped inside the city, unable to break out, but also unwilling
+[14:47 --> 14:49] to give up.
+[14:49 --> 14:54] Now, the siege of Sinan raises a huge question.
+[14:54 --> 14:59] What in the world was Marcellus doing during all of this?
+[14:59 --> 15:01] Who was Marcellus, you ask?
+[15:01 --> 15:07] Well, he was Julian's master of the horse, who was stationed just a hundred miles away,
+[15:07 --> 15:12] with an army big enough to easily drive off the besieging Germans.
+[15:12 --> 15:16] He knew what was happening, and yet he did nothing.
+[15:16 --> 15:21] He had his excuses, but really, dude, what is so important that you can't pop down and
+[15:21 --> 15:25] rescue the freaking Caesar of the empire?
+[15:25 --> 15:29] Which is exactly what Julian wanted to know after the Germans got tired of the stalemate
+[15:29 --> 15:30] and withdrew.
+[15:30 --> 15:36] Marcellus, as I said, has his excuses, but there was absolutely no doubt in Julian's
+[15:36 --> 15:42] mind that he had been hung out to dry by a disgruntled subordinate, and he wrote to Constantius
+[15:42 --> 15:49] telling the emperor exactly that, and demanding that Marcellus be removed from his post.
+[15:49 --> 15:53] Marcellus countered by writing a letter of his own, explaining why he had failed to do
+[15:53 --> 15:55] anything about the siege.
+[15:55 --> 16:00] But confirming, at least in my own mind, that Marcellus was full of it, and had indeed intentionally
+[16:00 --> 16:06] left Julian hung out to dry, Constantius sided with his Caesar, and Marcellus was banished
+[16:06 --> 16:10] to the Danube frontier.
+[16:10 --> 16:15] Once the spring of 357 arrived, Julian was ready to put the winter struggle behind him
+[16:15 --> 16:18] and go on the offensive.
+[16:18 --> 16:23] In coordination with his master of the infantry, a general named Barbascio, Julian planned
+[16:23 --> 16:28] a two-pronged invasion of Alamani territory along the Upper Rhine.
+[16:28 --> 16:33] Julian would march due east, while Barbascio, currently in Milan, would march north through
+[16:33 --> 16:35] Raetia.
+[16:35 --> 16:40] They would then meet in Alamani territory and deliver some stern reprisals to the Germans
+[16:40 --> 16:44] for running amok in Roman territory.
+[16:44 --> 16:48] But the flying pincer move Julian envisioned fell apart immediately.
+[16:48 --> 16:52] It started out well enough, but as Julian advanced, a German army crossed the Rhine
+[16:52 --> 17:00] and attacked the key galaxy of Lugdunum, forcing Julian to stop and come to the city's aid.
+[17:00 --> 17:05] Barbascio, meanwhile, was about to prove himself to be either incompetent or sinister, or maybe
+[17:05 --> 17:07] both.
+[17:07 --> 17:12] Not only had he allowed the Germans now attacking Lugdunum through the line in the first place,
+[17:12 --> 17:18] but when they were finally driven off by Julian, Barbascio let them waltz right back through,
+[17:18 --> 17:22] despite a clear warning from Julian that fugitive barbarians were headed his way and weighed
+[17:22 --> 17:25] down with captured treasure.
+[17:25 --> 17:30] As if this wasn't bad enough, a few weeks later Julian was fighting with the Alamani
+[17:30 --> 17:35] and struggling to cross the Rhine, and he requested Barbascio send him seven boats
+[17:35 --> 17:38] to help him make the crossing.
+[17:38 --> 17:42] Barbascio was in the process of building a pontoon bridge of his own, and with more
+[17:42 --> 17:46] than enough boats at his disposal, Julian figured the master of the infantry could spare
+[17:46 --> 17:47] him a few.
+[17:47 --> 17:54] But when he got the request, get this, rather than give Julian seven boats, Barbascio burned
+[17:54 --> 17:56] seven boats.
+[17:56 --> 18:00] Which just doesn't make sense on any level.
+[18:00 --> 18:04] So then Julian found a fortable spot in the river and managed to drive off the Alamani
+[18:04 --> 18:09] he had been facing, but when he looked around for Barbascio, who should be in the area any
+[18:09 --> 18:14] second now, he discovered that his master of the infantry had been outsmarted and that
+[18:14 --> 18:19] the Germans had destroyed his pontoon bridge, and so Barbascio was still on the Roman side
+[18:19 --> 18:22] of the Rhine.
+[18:22 --> 18:27] Left alone in German territory, Julian prudently fell back.
+[18:27 --> 18:32] Undeterred, the Caesar set about trying to salvage the campaign, and so he called for
+[18:32 --> 18:35] additional grain supplies from the south.
+[18:35 --> 18:41] But rather than allow these grain supplies to pass through, Barbascio, again, get this,
+[18:41 --> 18:45] burned the carts they were being transported on, claiming that he was afraid the shipments
+[18:45 --> 18:48] would fall into enemy hands.
+[18:48 --> 18:53] Then unilaterally deciding that the year's campaign season was over, Barbascio withdrew
+[18:53 --> 19:00] back to Milan, leaving Julian exposed to a swarm of stirred up Germans.
+[19:00 --> 19:04] So what exactly was Barbascio's deal?
+[19:04 --> 19:09] Ammianus Marcellinus, the soldier historian who was serving in the legions at this point,
+[19:09 --> 19:15] summed it up nicely when he said it is unresolved whether he, that is Barbascio, committed so
+[19:15 --> 19:22] many monstrous acts as a result of his own vanity and self-destructiveness, or prompted
+[19:22 --> 19:25] by orders of the emperor.
+[19:25 --> 19:30] Coupled with Marcellus's conduct the previous winter, it does not seem exactly out of the
+[19:30 --> 19:35] question to wonder if Julian's various commanders had been given explicit instructions by the
+[19:35 --> 19:40] emperor to undermine his Caesar at every opportunity.
+[19:40 --> 19:45] But Constantius did want the Germans bottled up, and he had sent Julian to spearhead the
+[19:45 --> 19:51] operation, so it seems a little weird that he would simultaneously try to trip him up.
+[19:51 --> 19:57] If he wanted Julian dead, why not just kill him like he had killed everyone else?
+[19:57 --> 20:02] In all likelihood then, Marcellus, Barbascio, and the others were simply ticked off about
+[20:02 --> 20:07] having to take orders from some untested youth playing soldier, and when they saw chances
+[20:07 --> 20:11] to undermine him, they took them.
+[20:11 --> 20:17] That and Barbascio appears to have been kind of an idiot.
+[20:17 --> 20:21] But despite their efforts, Julian would not be undermined.
+[20:21 --> 20:27] Indeed, it was right at this low moment, ditched by Barbascio and left stranded near Strausburg
+[20:27 --> 20:34] with an undersized and ill-supplied army, that Julian won his greatest victory.
+[20:34 --> 20:39] A German king named Canotamar, I have no idea if I'm pronouncing that right, took the success
+[20:39 --> 20:45] the Alamani had been having that year as an opportunity to forge a coalition of six tribes
+[20:45 --> 20:49] and lead them on a massive offensive.
+[20:49 --> 20:55] As Julian hunkered down with the 13,000 soldiers he had left, reports came in that some 35,000
+[20:55 --> 20:59] Alamani were crossing the Rhine River and heading straight for him.
+[20:59 --> 21:05] Julian, choosing to force the issue now rather than face battle after a retreat that would
+[21:05 --> 21:12] likely completely exhaust his already exhausted army, ordered his men forward.
+[21:12 --> 21:16] Though the Romans were outnumbered, and by Romans I of course mean the Germans fighting
+[21:16 --> 21:22] for Rome, the discipline that had always been the legion's calling card was still a decisive
+[21:22 --> 21:27] factor and at the Battle of Strausburg, Julian had some of the best troops in the whole empire
+[21:27 --> 21:32] at his disposal.
+[21:32 --> 21:37] The turning point in this battle likely came before the first shot was even fired.
+[21:37 --> 21:42] Always hyperprotective of the egalitarianism that they felt defined them, the German troops
+[21:42 --> 21:47] demanded that Canotamar and the other chiefs dismount from their horses and fight on foot
+[21:47 --> 21:50] with everyone else.
+[21:50 --> 21:55] Sowing to public pressure, the German king complied, but in so doing he lost his mobility
+[21:55 --> 22:00] and any sort of ability to run a coherent attack.
+[22:00 --> 22:06] But then again, with 35,000 fighting 13,000, how coherent does your attack really need
+[22:06 --> 22:09] to be?
+[22:09 --> 22:13] Things started out well for the Germans as they managed to turn back Julian's initial
+[22:13 --> 22:16] cavalry assault on their left side.
+[22:16 --> 22:20] Wurtten by this success, the middle of the German line surged forward and the bloody
+[22:20 --> 22:23] business of raw hand-to-hand fighting commenced.
+[22:23 --> 22:29] Eventually, the sheer weight of the Germans took its toll and the German center was cut
+[22:29 --> 22:31] in two.
+[22:31 --> 22:36] Normally, this would be death to an army, but both split wings were able to maintain
+[22:36 --> 22:40] their order and continue fighting as two separate units.
+[22:40 --> 22:45] Still, things looked pretty dire for Julian and his army until the Roman back reserve
+[22:45 --> 22:49] line stepped up to the plate.
+[22:49 --> 22:54] After the Germans cut through the front line, they ran headlong into a solid wall of highly
+[22:54 --> 23:00] trained veterans who refused to be pushed back and who refused to be split up.
+[23:00 --> 23:04] So now, rather than emerging on the far side of a victorious charge with nothing left to
+[23:04 --> 23:10] do but mop up the fractured Roman army, the German foot soldiers found themselves trapped
+[23:10 --> 23:14] between the solid back line and the two wings of the split front line who now hemmed them
+[23:14 --> 23:18] in on either side.
+[23:18 --> 23:22] If Julian had been able to swing some cavalry around behind them, this all would have resembled
+[23:22 --> 23:26] nothing so much as the last phase of the Battle of Cannae.
+[23:26 --> 23:30] So yeah, now things looked pretty dire for the Alamani.
+[23:30 --> 23:35] Finally, frustrated and dying by the hundreds, the Germans lost heart and hightailed it out
+[23:35 --> 23:39] of there.
+[23:39 --> 23:42] Julian ordered his own army in pursuit, but only to a point.
+[23:42 --> 23:45] He told his men that when they reached the Rhine that they were not to get bogged down
+[23:45 --> 23:48] by climbing into the river.
+[23:48 --> 23:52] Instead, he ordered them to stay on the banks and just fire spears and arrows at the fleeing
+[23:52 --> 23:54] Germans.
+[23:54 --> 24:00] The estimate is that the Alamani left as many dead in that river as they had on the battlefield.
+[24:00 --> 24:05] In total, 6,000 Germans died at the Battle of Strausburg.
+[24:05 --> 24:11] The Romans, amazingly, lost only 243.
+[24:11 --> 24:15] The cherry on top of this great victory was when Cnodomar was tracked down and brought
+[24:15 --> 24:18] back in chains.
+[24:18 --> 24:24] Julian dutifully sent the beaten king on to Milan for Constantius to gloat over.
+[24:24 --> 24:30] The Battle of Strausburg cemented Julian's reputation as a leader to be reckoned with.
+[24:30 --> 24:33] His troops now loved him.
+[24:33 --> 24:36] Constantius' agents now feared him.
+[24:36 --> 24:41] And that little tick in the back of the emperor's mind, the one that led him to be super paranoid
+[24:41 --> 24:47] about everyone and everything, especially threats from within his own family, well,
+[24:47 --> 24:52] that little tick just got real fired up.
+[24:52 --> 24:57] Next time, we'll watch all of this come to a head as the relationship between Constantius
+[24:57 --> 25:01] and Julian will break down completely over an order to transfer Gallic troops to the
+[25:01 --> 25:05] east to help fight the resurgence of the Saunids.
+[25:05 --> 25:09] Were the troops really needed, or was this all just about undermining, there's that
+[25:09 --> 25:14] word again, a Caesar on the rise.
+[25:14 --> 25:18] I say next time because I hate to do this to you after just being gone for so long,
+[25:18 --> 25:23] but I'm flying back home for a week of family fun and I will have absolutely no time to
+[25:23 --> 25:25] work on the show.
+[25:25 --> 25:31] But we'll be back in two weeks to watch as Julian's troops surprisingly, and without
+[25:31 --> 25:35] any prompting from me, I swear, declare Julian Augustus.

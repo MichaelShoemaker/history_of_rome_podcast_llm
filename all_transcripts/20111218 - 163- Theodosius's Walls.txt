@@ -1,0 +1,287 @@
+# 20111218 - 163- Theodosius's Walls
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:05 --> 00:09] internet's leading provider of audio entertainment with over a hundred
+[00:09 --> 00:13] thousand titles to choose from. When you're done with this episode, go to
+[00:13 --> 00:19] audiblepodcast.com forward slash Rome. That again audiblepodcast.com forward
+[00:19 --> 00:24] slash Rome. By going to that address, you qualify for a free book download when
+[00:24 --> 00:28] you sign up for a 14-day trial membership. There's no obligation to
+[00:28 --> 00:33] continue the service, and you can cancel any time and keep the free book. You can
+[00:33 --> 00:36] also keep going with one of the monthly subscription options and get great deals
+[00:36 --> 00:42] on all your future audiobook purchases. This week, I'm going to recommend a book
+[00:42 --> 00:46] that is extremely relevant to the history of Rome, but only on a meta level,
+[00:47 --> 00:53] Walter Isaacson's biography of Steve Jobs. See, every word of the history of Rome
+[00:53 --> 00:59] has been written on a Mac, every minute recorded into GarageBand, and for a while,
+[01:00 --> 01:05] almost every download came via iTunes. Everyone is entitled to their own
+[01:05 --> 01:10] opinions about the man, but just so you know, this podcast would literally not
+[01:10 --> 01:15] exist without the products and services that he bequeathed upon the world. Rest
+[01:15 --> 01:21] in peace, Steve, and thank you. Just remember to go to audiblepodcast.com
+[01:21 --> 01:24] forward slash Rome so that they know who sent you.
+[01:30 --> 01:38] Hello, and welcome to the history of Rome, episode 163, Theodosius's Walls.
+[01:41 --> 01:45] We've spent the last two weeks focused primarily on the Western Empire during
+[01:45 --> 01:50] the first decade of the 400s AD. So before we just keep barreling along
+[01:50 --> 01:55] into the sack of Rome and the fall of Constantine III, I want to double back
+[01:55 --> 02:00] and bring the Eastern Empire up to speed. But just so you know, as soon as we're
+[02:00 --> 02:05] caught up, we're going to head right back to the West because basically that's
+[02:05 --> 02:11] where all the action is right now. The thing to understand about the Eastern
+[02:11 --> 02:15] half of the Empire in the years after Theodosius's death is that though the
+[02:15 --> 02:20] Eastern court was far less stable politically than the Stilicho-led Western
+[02:20 --> 02:25] court, the Eastern provinces as a whole were far more stable than the Western
+[02:25 --> 02:30] provinces as a whole. The population migrations brought on by the Hunnic
+[02:30 --> 02:34] advance onto the Hungarian plain tended to drive displaced local barbarian
+[02:34 --> 02:40] tribes west rather than south, which meant, as we saw last week, that the
+[02:40 --> 02:44] Western provinces wound up dealing with the consequences of those disruptive
+[02:44 --> 02:50] migrations. On top of that, Sassanid Persia had been peaceful since signing a
+[02:50 --> 02:55] treaty with Theodosius back in the 380s, a treaty that Stilicho helped broker, so
+[02:55 --> 02:59] the Eastern legions could afford to focus on deflecting those barbarian
+[02:59 --> 03:04] migrations west instead of allowing them to come south. Indeed, in just a minute,
+[03:05 --> 03:09] Constantinople and the Sassanids will renew their peaceful terms, and that
+[03:09 --> 03:13] renewal will further stabilize the Eastern provinces, both because it meant
+[03:13 --> 03:18] the Romans didn't have to pour resources into fighting the Persians, but also
+[03:18 --> 03:23] because it meant the lucrative trade routes to and from Asia remained open for
+[03:23 --> 03:32] business. As we've seen, in the late 390s and early 400s, the Emperor Arcadius was
+[03:32 --> 03:37] dominated by a shifting cast of ministers and generals who focused on
+[03:37 --> 03:41] winning and holding power at least as much as they focused on actually
+[03:41 --> 03:46] governing the Eastern Empire. The only permanent political presence during
+[03:46 --> 03:50] these years was the Empress Eudoxia, whose influence over her husband never
+[03:50 --> 03:56] wavered while all these ministers rose and fell around her. In fact, the only
+[03:56 --> 04:01] real challenge to her authority came not from some ambitious prefect or powerful
+[04:01 --> 04:05] general, but from an incorruptible clergyman who had risen to become
+[04:05 --> 04:12] Bishop of Constantinople, John Chrysostom, also known as John the Golden Mouth.
+[04:13 --> 04:17] Though he would never achieve the same sort of political success that Ambrose
+[04:17 --> 04:21] of Milan had achieved, there were two critical similarities between the two
+[04:21 --> 04:27] men. First, both were fearless when it came to challenging imperial authority,
+[04:27 --> 04:36] and second, both were wildly popular with the masses. John tended towards a vow of
+[04:36 --> 04:41] poverty form of Christianity, and early in his life he had gone so far as to
+[04:41 --> 04:46] spend a few years living as an ascetic hermit. After nearly dying from his
+[04:46 --> 04:51] self-imposed deprivations, John returned to civilization and began preaching. He
+[04:51 --> 04:55] liked to use simple language to teach practical interpretations of scripture
+[04:55 --> 05:00] rather than using a highfalutin rhetoric to teach snooze-inducing abstract
+[05:00 --> 05:06] philosophy, and he quickly became a favorite of the common people. Because of
+[05:06 --> 05:12] John was tapped to become Bishop of Constantinople in 398, but at first he
+[05:12 --> 05:18] refused. He genuinely did not want to get caught up in the trappings of power that
+[05:18 --> 05:24] came along with such an important office. But when pressed, he relented, though he
+[05:24 --> 05:30] refused to temper his beliefs in any way. He was unapologetic about denouncing the
+[05:30 --> 05:34] extravagant lifestyles enjoyed by the ruling elite, and one of his favorite
+[05:34 --> 05:39] targets became Eudoxia, who was similarly unapologetic about said
+[05:39 --> 05:45] extravagant lifestyle. Pretty soon the bishops constant hammering began to have
+[05:45 --> 05:51] an effect, and the popularity of the Empress fell precipitously. So in 403,
+[05:51 --> 05:56] Eudoxia finally decided she had had enough of this gadfly bishop, and so she
+[05:56 --> 06:00] organized a church council whose sole purpose was to oust John and replace him
+[06:00 --> 06:06] with someone more agreeable. But the Empress underestimated John's popularity,
+[06:07 --> 06:10] and when the council completed its task and John was dumped from the bishopric,
+[06:11 --> 06:18] unrest bordering on riots broke out across Constantinople. Plus, on the very
+[06:18 --> 06:22] night that John was taken into imperial custody in advance of his expected
+[06:22 --> 06:27] banishment, an earthquake struck, which almost everyone, including the Empress
+[06:27 --> 06:34] took to be a sign of God's displeasure with how they had treated the bishop. He
+[06:34 --> 06:40] was released from custody and reinstated to his position at once. This brush with
+[06:40 --> 06:47] exile dampened John's spirit not at all. The very next year a silver statue of
+[06:47 --> 06:50] Eudoxia was erected near the bishops church, which sent him straight to the
+[06:50 --> 06:57] pulpit to denounce both the Empress and her shiny new statue. This would
+[06:57 --> 07:01] prove to be the last straw, and when Eudoxia and her allies moved against John this
+[07:01 --> 07:06] time, there was no earthquake to make them think twice. The bishop was exiled
+[07:06 --> 07:11] from Constantinople, and despite a concerted campaign to recall him, he never
+[07:11 --> 07:18] would return. Unfortunately for the Empress, though, she would not have long
+[07:18 --> 07:24] to enjoy an uncritiqued life of luxury, because in mid-404 she died suddenly of
+[07:24 --> 07:30] a pregnancy-related infection. Though it's really not polite to dance on
+[07:30 --> 07:35] anyone's grave, objectively speaking, it's hard not to see Eudoxia's death as a
+[07:35 --> 07:39] net positive for the Empire, because it cleared room for the new Praetorian
+[07:39 --> 07:47] prefect, Flavius Anthemius, to rise up and seize hold of power. Without a
+[07:47 --> 07:51] jealous Empress around to potentially stab him in the back, Anthemius was able
+[07:51 --> 07:56] to dominate the Eastern emperors for the next decade, first Arcadius and then
+[07:56 --> 08:01] Theodosius II, and see to it that the Empire was run with a consistent
+[08:01 --> 08:07] competence it had not enjoyed in years. Not only that, but Anthemius is more or
+[08:07 --> 08:11] less personally responsible for the Byzantine Empire holding out as long as
+[08:11 --> 08:16] it did, because as soon as he came to power, the prefect initiated one of the
+[08:16 --> 08:20] most important construction projects in world history, the building of the
+[08:20 --> 08:27] Theodosian Walls. Now I have had the good fortune to stand atop the Theodosian
+[08:27 --> 08:31] Walls on three separate occasions, and I can tell you straight up that there is a
+[08:31 --> 08:37] reason Constantinople was simply invulnerable to overland assaults. When
+[08:37 --> 08:41] you approach the fortification line, there is a short initial wall to trip
+[08:41 --> 08:47] up you and your siege engines. That short wall stands in front of the much larger
+[08:47 --> 08:53] outer wall, which stands about eight meters tall. Behind that much larger wall
+[08:53 --> 08:57] are huge towers about 20 meters tall that would be able to rain hell and
+[08:57 --> 09:01] damnation down on your head while you struggle valiantly to get over the top
+[09:01 --> 09:07] of the 8 meter wall. But once you're over the top of the 8 meter wall, the reality
+[09:07 --> 09:12] of your situation would have hit you full in the face, because about 20 meters
+[09:12 --> 09:20] was an even larger wall about 12 meters tall. All you've managed to do is plop
+[09:20 --> 09:24] yourself down in a no man's land trench filled with mud and debris that would
+[09:24 --> 09:29] stick you in place while the soldiers on top of the even bigger inner wall and
+[09:29 --> 09:35] the guard towers rained further hell and damnation down on your head. No one got
+[09:35 --> 09:41] out of that pit of despair alive. The Theodosian Walls would be completed
+[09:41 --> 09:47] around 414, during the reign of young Theodosius II, hence the name, and for
+[09:47 --> 09:52] the next thousand years they would repel every attempt to take Constantinople by
+[09:52 --> 09:57] land. It took the invention of the cannon and then the construction of
+[09:57 --> 10:03] literally the biggest cannon ever built by humans to finally break through. I've
+[10:03 --> 10:07] posted some pictures that we took of the walls during the first set of History of
+[10:07 --> 10:15] Tours up at thehistoryofrome.typad.com. Honestly, my heart goes out to every foot
+[10:15 --> 10:19] soldier ever ordered by some megalomaniacal general to attack the
+[10:19 --> 10:25] Theodosian Walls. With the physical defense of the capital city taken care
+[10:25 --> 10:31] of, Anthemius then turned his attention to broader security concerns. As I just
+[10:31 --> 10:35] mentioned, historically speaking the biggest threats to the Eastern Empire
+[10:35 --> 10:39] always came from the direction of Persia, first from the Parthians and then
+[10:39 --> 10:44] from the Sassanids. With the Huns now moving decisively onto the Hungarian
+[10:44 --> 10:48] plain where they would pose a permanent threat to the northern border,
+[10:49 --> 10:52] Anthemius knew that any kind of conflict with the Sassanids would be
+[10:52 --> 10:59] disastrous. The Huns already posed enough of a threat that Anthemius had ordered a
+[10:59 --> 11:03] humongous wall built to guard Constantinople. If troops ever had to be
+[11:03 --> 11:08] fueled off to fight in Syria, I mean, that could have been the ballgame right there.
+[11:09 --> 11:14] So, Anthemius sent envoys to the Sassanid court and very respectfully renewed the
+[11:14 --> 11:19] terms that had kept the two empires at peace for the last generation. In other
+[11:19 --> 11:23] words, at just the right moment, Constantinople fell under the sway of an
+[11:23 --> 11:27] eminently practical man who did not suffer any trumped-up delusions of
+[11:27 --> 11:33] grandeur. He was not petty, he did not make politics personal, and he didn't
+[11:33 --> 11:37] appear to have much of an agenda beyond protecting and serving the empire.
+[11:41 --> 11:46] What made Anthemius' arrival so perfectly timed was the fact that Arcadius wound up
+[11:46 --> 11:53] dying on his watch in 408. As we've seen ad nauseam, transitions of imperial power
+[11:53 --> 11:58] can be times fraught with danger, and even though an heir was in place, that
+[11:58 --> 12:04] heir was just seven years old. So opportunists of every shape and size
+[12:04 --> 12:08] were sharpening their long knives and getting ready to make their move, but
+[12:08 --> 12:13] with Anthemius firmly entrenched in power, the transition from Arcadius to the
+[12:13 --> 12:20] seven-year-old Theodosius II was, well, kind of anticlimactic. The prefect was
+[12:20 --> 12:25] able to provide a continuity of leadership and a continuity of policy that
+[12:25 --> 12:29] allowed the empire to move seamlessly into being ruled by a boy emperor
+[12:29 --> 12:36] without missing a beat. Child emperors are only as good as their regents, and
+[12:36 --> 12:43] not unlike Stilicho and Honorius, in Anthemius, Theodosius II had a rock-solid
+[12:43 --> 12:50] regent. Speaking of Stilicho, the only thing that really could have screwed up
+[12:50 --> 12:55] the transition of power in 408 would have been Stilicho showing up and making
+[12:55 --> 13:00] all kinds of noise about his own claim to power. Though I think it's a good
+[13:00 --> 13:04] thing that the trip never happened, it would have been kind of cool to see
+[13:04 --> 13:09] Stilicho and Anthemius square off in a fight for control of Constantinople. I
+[13:09 --> 13:12] don't particularly like Stilicho's chances given the enormous home field
+[13:12 --> 13:17] advantage Anthemius would have enjoyed, but still it would have made for some
+[13:17 --> 13:23] good theater. Sadly though, Stilicho was betrayed and then he calmly allowed
+[13:23 --> 13:29] himself to be beheaded in order to nobly avert a civil war, which I suppose was
+[13:29 --> 13:37] pretty good theater too. Okay, so that brings us back up to where we left off
+[13:37 --> 13:40] last week. The East is now in the capable hands of
+[13:40 --> 13:45] Anthemius, while the West is presently falling into the bungling hands of
+[13:45 --> 13:52] Stilicho's successors. The bungling got started right away when Olympius, the
+[13:52 --> 13:57] minister who had undermined Stilicho to death, decided to give in to the absolute
+[13:57 --> 14:04] worst impulses of his age. You'll recall that both the Italian nobility and the
+[14:04 --> 14:08] rank-and-file foot soldiers of the regular Roman army had been none too
+[14:08 --> 14:12] pleased about Stilicho's pro-barbarian policies, which were really just an
+[14:12 --> 14:18] extension of Theodosius's pro-barbarian policies by the way. They didn't like
+[14:18 --> 14:22] taking orders from barbarian officers, they didn't like using gold to buy the
+[14:22 --> 14:27] support of barbarian kings, and they really, really didn't like Alaric and his
+[14:27 --> 14:33] Goths. With Stilicho out of the way, Olympius just went ahead and let all
+[14:33 --> 14:41] this irrational hatred off its leash. When Radagaisus was defeated in 406,
+[14:42 --> 14:47] those 12,000 Gothic warriors who were incorporated into Stilicho's army brought
+[14:47 --> 14:51] their families along with them. Essentially, their wives and children
+[14:51 --> 14:56] were exempted from being sold into slavery. These Gothic families were then
+[14:56 --> 15:01] split up and settled across dozens of Italian municipalities, partly to give
+[15:01 --> 15:07] them a place to live, but partly to act as hostages to keep the men in line. In
+[15:07 --> 15:12] the late summer 408, Olympius announced that the presence of Gothic families in
+[15:12 --> 15:19] Italian cities would no longer be tolerated. So, did he ask them nicely to
+[15:19 --> 15:25] leave? Did he send soldiers to forcibly eject them? No, he put out an order that
+[15:25 --> 15:30] they were all to be slaughtered. Literally, I want you to murder every
+[15:30 --> 15:37] Gothic woman and every Gothic child you can find. Whatever good Olympius thought
+[15:37 --> 15:41] this insanely cruel order would accomplish, and he must have thought it
+[15:41 --> 15:47] would accomplish something good, the only lasting impact it had was to drive those
+[15:47 --> 15:53] 12,000 warriors right out of the Roman camp. With Italy momentarily consumed by
+[15:53 --> 15:57] genocidal chaos, the Goth warriors abandoned their posts and marched
+[15:57 --> 16:03] straight for the one man who could offer them asylum, Alaric. In a flash, the
+[16:03 --> 16:07] Gothic king went from potentially marginalized figure in a post-Stilicho
+[16:07 --> 16:15] geopolitical world back to major player. Also in a flash, the Roman army lost 12,000
+[16:15 --> 16:21] soldiers. Genocide is as morally reprehensible a thing as exists in the
+[16:21 --> 16:26] world, but rarely does it so immediately blow up in the face of the perpetrators.
+[16:27 --> 16:33] Really, the massacre of the Goth families was just so unbelievably stupid, I'm kind
+[16:33 --> 16:40] of at a loss for words. Alaric wasted no time seizing the day, and with the
+[16:40 --> 16:45] enthusiastic backing of his new revenge-minded recruits, he immediately
+[16:45 --> 16:50] marched them and the rest of his army over the Alps into Italy. With the
+[16:50 --> 16:54] regular Roman forces mostly prepared for the coming offensive against Constantine
+[16:54 --> 16:59] and Gaul, Alaric was able to pass into Italy without so much as an arrow being
+[16:59 --> 17:05] shot in his direction. Plus, with the addition of Radegaisus' Goths, Alaric now
+[17:06 --> 17:11] comparable numerically to the Roman forces stationed at Pavia. Beating the
+[17:11 --> 17:16] Goths in battle now was by no means a sure thing, so the Roman high command
+[17:16 --> 17:21] couldn't take the risk of a direct confrontation. I mean, what if they lost?
+[17:25 --> 17:29] During Alaric's first invasion of Italy, he had kept mostly to the northern edges
+[17:29 --> 17:33] of the home province, since that's where the military and political centers of
+[17:33 --> 17:38] the Western Empire now were. But this time, he decided to play a more
+[17:38 --> 17:44] psychologically terrifying card. Bypassing Aquileia and Ravenna and Milan,
+[17:45 --> 17:53] Alaric led his Goths due south on a beeline directly for Rome. Now at this
+[17:53 --> 17:59] point, Alaric had absolutely no intention of sacking the Eternal City. His plan was
+[17:59 --> 18:05] simply set up a blockade, make demands, and wait for the Senate to cave. Which he
+[18:05 --> 18:11] did, and which they then did. Alaric surrounded the city, preventing all food
+[18:11 --> 18:16] and supplies from entering Rome, and then demanded 5,000 pounds of gold, 30,000
+[18:16 --> 18:23] pounds of silver, and all manner of silks and linens and furs to clothe his people.
+[18:24 --> 18:28] He also demanded the release of the 40,000 odd Goths who had been sold into
+[18:28 --> 18:34] slavery following Radic Isis' defeat. Not that he really needed to stand firm on
+[18:34 --> 18:39] that last point. As soon as Alaric entered Italy, most of the recently enslaved
+[18:39 --> 18:45] Goths just walked away from their new masters and joined his army. The Senate
+[18:45 --> 18:50] deemed the blockade obviously unbreakable, and agreed to meet all of
+[18:50 --> 18:57] Alaric's demands. The slaves freed, the Senate humiliated, and the Goths now
+[18:57 --> 19:03] struggling under the weight of 35,000 pounds of precious metal. Alaric called
+[19:03 --> 19:07] off the blockade, and returned north to negotiate further concessions from
+[19:07 --> 19:14] Honorius. Now the thing we must keep in mind about Alaric is that despite any
+[19:14 --> 19:18] preconceptions we might have about him being some rampaging barbarians because
+[19:18 --> 19:24] of the fact that, yes, he is about to sack Rome, this whole adventure, the
+[19:24 --> 19:28] invasion, the blockades, and eventually the sack itself, were all just part of
+[19:28 --> 19:34] his larger struggle with the Western court for political recognition. At no
+[19:34 --> 19:39] point was Alaric engaged in some attempt to destroy the Roman Empire. Just the
+[19:39 --> 19:43] opposite. What he wanted more than anything else was a legitimate place for
+[19:43 --> 19:50] himself and his people within the Roman Empire. In initiating the blockade, he was
+[19:50 --> 19:55] demonstrating how powerful he now was. And in breaking off the blockade, he was
+[19:55 --> 20:00] demonstrating that he was fully capable of bargaining in good faith. So when he
+[20:00 --> 20:06] met with Honorius's agents in late 408 and early 409, he had every reasonable
+[20:06 --> 20:10] hope that an agreement could be reached. That the Romans would grant some sort of
+[20:10 --> 20:14] territorial independence to the Goths in Illyria, where they would be safe from
+[20:14 --> 20:19] future genocidal massacres, and that Alaric would once again be made a high
+[20:19 --> 20:27] ranking general in the Roman army. But Honorius was still under the sway of the
+[20:27 --> 20:32] suicidally anti-barbarian Olympias, and so the negotiations went nowhere.
+[20:33 --> 20:38] Frustrated that the emperor did not seem to have gotten the message, in early 409
+[20:38 --> 20:43] Alaric marched back to Rome and blockaded the city a second time. The people of
+[20:44 --> 20:50] Rome offered no resistance, and the cowed Senate seemed positively eager to help Alaric
+[20:50 --> 20:54] get what he wanted out of Honorius, because otherwise he was just going to keep showing
+[20:54 --> 21:02] up on their doorstep. While Alaric was once again encamped outside Rome, Honorius and
+[21:02 --> 21:06] his ministers took steps to ensure that they would be able to focus exclusively on
+[21:06 --> 21:13] the Gothic question, at least for the next little while. Headquartered up in Arles in
+[21:13 --> 21:18] Gaul, the usurper Constantine III was delighted when he opened up a package from Honorius
+[21:18 --> 21:25] one day in the spring of 409, and found that it contained a purple cloak, a clear signal
+[21:25 --> 21:30] that Ravenna now recognized Constantine's claim to imperium over Gaul and Britain.
+[21:31 --> 21:36] In the great back and forth of imperial politics, Constantine had just been surpassed by Alaric
+[21:36 --> 21:41] as the greater threat, and so he suddenly got what he had been asking for for the last
+[21:41 --> 21:50] two years. With the northern frontier temporarily free from the threat of invasion, Ravenna
+[21:50 --> 21:55] then turned its attention back to the question of Alaric, and received an embassy of senators
+[21:55 --> 22:00] from Rome to help them talk through the issue. The senators, obviously, recommended that
+[22:00 --> 22:06] Honorius grant Alaric's demands. We don't like it any more than you do, but the Goths
+[22:06 --> 22:13] are just too strong at the moment. This is no time to get pigheaded. So when Alaric came
+[22:13 --> 22:20] back north to resume negotiations, things went a bit smoother. This time, the two sides
+[22:20 --> 22:25] agreed in principle to political independence for the Goths in Elyria, as well as an annual
+[22:25 --> 22:32] stipend of gold and grain to keep them happy and fed. But Honorius refused to yield on
+[22:32 --> 22:38] point of giving Alaric an official position in the Roman military. The talks looked like
+[22:38 --> 22:44] they were about to break down again when Alaric shocked everyone by suddenly abandoning almost
+[22:44 --> 22:50] everything he had been asking for. Gone was the request for an independent Gothic state
+[22:50 --> 22:58] in Elyria. Gone were the payments of gold, and gone was the military commission. Instead,
+[22:58 --> 23:04] Alaric came back with a simple proposal. Let us go live along the Danube border in Noricum.
+[23:04 --> 23:09] Send us enough grain to help keep us fed, and we'll live in peace and defend the frontiers
+[23:09 --> 23:18] for you. In his excellent book, The Fall of the Roman Empire, Peter Heather speculates
+[23:18 --> 23:24] that this sudden about-face was driven by Alaric's long-range censors, which picked
+[23:24 --> 23:29] up on the fact that though the Romans were weak now, they would not be weak forever.
+[23:30 --> 23:34] Take them to the cleaners today, and they may come back tomorrow when they're strong
+[23:34 --> 23:40] again and take it all back with interest. But ask them for only a few supplies and the
+[23:40 --> 23:47] right to live in peace, and the Romans might consider us friends forever. Everyone expected
+[23:47 --> 23:54] the deal to go through. I mean, why wouldn't it? But at the eleventh hour, Ravenna rejected
+[23:54 --> 24:01] all terms and broke off negotiations. There is probably something that explains this otherwise
+[24:01 --> 24:08] inexplicable rejection of what appears to be a criminally good deal for Rome, but we
+[24:08 --> 24:13] don't seem to have it. Alaric promised to go away for a song, and Honorius refused to
+[24:14 --> 24:23] So Alaric packed his bags and headed back to Rome for the third time. When he got there,
+[24:23 --> 24:29] he decided to up the ante. He picked an amenable and influential senator of Greek origin named
+[24:29 --> 24:34] Priscus Ataullus and had the Senate proclaim their colleague Augustus of the Western Empire.
+[24:36 --> 24:41] If Honorius wasn't even going to pretend to play ball, then it was time to ditch him
+[24:41 --> 24:47] and recognize a whole new emperor, one who would actually listen to reason.
+[24:48 --> 24:55] So now there were three rival imperial courts in the West. Constantine III up in Arles,
+[24:55 --> 25:01] who was backed by a mix of regular troops and barbarian allies. Honorius in Ravenna,
+[25:01 --> 25:06] who was backed by some palace guards and the swamps of Ravenna. And Priscus down in Rome,
+[25:06 --> 25:14] backed by Alaric and his Goths. Next time, we will throw them all into the octagon to
+[25:14 --> 25:17] see who winds up being the last man standing.
+[25:20 --> 25:26] I say next time because the holidays are upon us once again, and as usual, I'm going to
+[25:26 --> 25:30] take the next two weeks off for Christmas and New Year's and all the jam-packed family
+[25:30 --> 25:37] fun contained therein. But we'll be back on January the 8th for the Sack of Rome, the
+[25:37 --> 25:42] Rise of Attila, and the rest of the rocket sled ride into the Abyss.
+[25:44 --> 25:49] Before we go though, I should also mention that a few spots have opened up on the History
+[25:49 --> 25:54] of Rome's next tour in March, so if someone's been asking you what you want for Saturnalia,
+[25:54 --> 25:57] I'm just saying, that would be a pretty awesome present.
+[25:59 --> 26:03] Okay, Happy Saturnalia to you all, and I'll see you next year.

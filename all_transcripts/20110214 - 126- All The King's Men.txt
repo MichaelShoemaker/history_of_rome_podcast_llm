@@ -1,0 +1,335 @@
+# 20110214 - 126- All The King's Men
+# Detected language: en
+# Duration: 1681.55 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:15] Hello, and welcome to The History of Rome, episode 126, All the King's Men.
+[00:15 --> 00:20] As you know, when Diocletian came to power in 284, he inherited an empire that had spent
+[00:20 --> 00:25] the better part of 50 years getting kicked around the neighborhood.
+[00:25 --> 00:29] Everywhere he looked, things were in shambles.
+[00:29 --> 00:33] He wanted to revive and restore the empire he had been taught to revere, and as he took
+[00:33 --> 00:39] over he faced no greater roadblock to this goal than the problem of the malfunctioning
+[00:39 --> 00:43] governmental apparatus he now headed.
+[00:43 --> 00:48] What had happened was that as the military crisis became worse and worse, the government
+[00:48 --> 00:53] had basically become nothing more than the supply arm of the army.
+[00:53 --> 00:57] If civilians entered into the government's calculations at all, it was only to determine
+[00:58 --> 01:02] what they might have that the army might need.
+[01:02 --> 01:09] Everything else, by the dire necessities of the times, was considered an unimportant distraction.
+[01:09 --> 01:15] But now that the crisis had subsided, it became clear what sorts of really important things
+[01:15 --> 01:18] had been deemed unimportant distractions.
+[01:18 --> 01:22] For example, a functioning judicial system.
+[01:22 --> 01:27] Basically, everything that you would expect a government to do, the imperial government
+[01:27 --> 01:29] had ceased to do.
+[01:29 --> 01:33] It was time then to reinvent that government.
+[01:33 --> 01:37] As we've seen, this reinvention started at the very top with the establishment of co-emperors
+[01:37 --> 01:42] and then the Tetrarchy, but it would descend all the way down to the local list of local
+[01:42 --> 01:47] levels as Diocletian ensured that wherever there were Romans, the Roman government would
+[01:47 --> 01:51] be there.
+[01:51 --> 01:56] The big problem really was that too much was getting missed.
+[01:56 --> 02:00] There are multiple reasons for the fracturing of imperial authority, and the military and
+[02:00 --> 02:06] political rationales cannot be understated, but on an administrative level, the establishment
+[02:06 --> 02:13] of the Tetrarchy was an extension of Diocletian's desire to get more people focused on fewer
+[02:13 --> 02:19] things so that all that stuff that was getting missed would stop getting missed.
+[02:19 --> 02:23] Had he done nothing else, the simple fact that there were now four emperors spread out
+[02:23 --> 02:29] across the empire instead of just one meant that already four times as much work was getting
+[02:29 --> 02:30] done.
+[02:30 --> 02:35] Four times as many letters were being answered, four times as many petitions were being ruled
+[02:35 --> 02:39] on, four times as many decisions were being made.
+[02:39 --> 02:43] And as a bonus, each Tetrarch didn't have to worry about what was going on on the other
+[02:43 --> 02:49] side of the empire, leaving him to focus on the management of his particular domain.
+[02:49 --> 02:54] Which was nice, because even though it was just a quarter of the empire, those domains
+[02:54 --> 03:02] were still a pretty huge chunk of land, and millions of people still lived in them.
+[03:02 --> 03:07] But of course, the division of imperial authority was not the end of Diocletian's reforms,
+[03:07 --> 03:09] it was just the beginning.
+[03:09 --> 03:14] In keeping with the theme of getting more people doing fewer things, Diocletian also
+[03:14 --> 03:20] set about dividing up the empire into smaller, more manageable provinces.
+[03:20 --> 03:25] Last week I focused on the military implications of this reformation, so this week I want to
+[03:25 --> 03:28] focus on the administrative aspects.
+[03:28 --> 03:32] There were basically three main things here that were of concern.
+[03:32 --> 03:39] The collection of taxes, the administration of justice, and the maintenance of the infrastructure.
+[03:39 --> 03:43] All three of these core missions had been more or less abandoned as the crisis years
+[03:43 --> 03:49] wore on, and even before then the size of an individual province, which was big, and
+[03:49 --> 03:54] the size of a provincial government, which was small, conspired to make most administrations
+[03:54 --> 03:59] woefully inadequate with regards to all three anyway.
+[03:59 --> 04:04] Sure taxes were collected and justice was administered, and the roads were maintained,
+[04:04 --> 04:09] but not without delays, inefficiencies, and outright failures.
+[04:09 --> 04:13] When it came to government, Diocletian didn't want to just set things back to the way they
+[04:13 --> 04:19] had been, he wanted to make the whole operation better.
+[04:19 --> 04:23] When Diocletian finished drawing his lines all over the map, and I have posted a map
+[04:23 --> 04:29] of Diocletian's new provincial alignment at thehistoryofrome.titepad.com, the Romans
+[04:29 --> 04:35] found that their empire now contained over a hundred provinces.
+[04:35 --> 04:40] As with the larger division of the Tetrarchy, the proliferation of new provinces meant that,
+[04:40 --> 04:44] simply put, governors had less to worry about.
+[04:44 --> 04:48] And it was a good thing that they had less to worry about, because Diocletian was going
+[04:48 --> 04:53] to expect more of them than any previous emperor had.
+[04:53 --> 04:58] For example, he sent out instructions that he expected his governors to be active participants
+[04:58 --> 05:00] in the judicial system.
+[05:00 --> 05:06] They were not to ignore petitions or appeals, and they were not to hand them off to subordinates.
+[05:06 --> 05:09] They had been made the supreme legal authority in their province, and they were damn well
+[05:09 --> 05:11] going to act like it.
+[05:11 --> 05:17] It used to be easy to shirk these responsibilities because the absolute flood of plaintiffs
+[05:17 --> 05:22] and defendants who would come calling made for an easy excuse, but even the most conscientious
+[05:22 --> 05:26] governor had no hope of dealing with it all himself.
+[05:26 --> 05:33] So smaller provinces, and voila, a reasonably sized caseload.
+[05:33 --> 05:37] I don't want to belabor these points because I think you get the general idea, but suffice
+[05:37 --> 05:43] it to say that smaller provinces also meant that it was easier to track down tax evaders,
+[05:43 --> 05:48] and it was easier to notice when a dilapidated building needed to be repaired.
+[05:48 --> 05:56] More people focused on fewer things meant that fewer things were getting missed.
+[05:56 --> 06:01] But of course, with all these little provinces running around, coordinating empire-wide initiatives
+[06:01 --> 06:04] became a major headache.
+[06:04 --> 06:08] So over and above the provincial governors, Diocletian created a whole new bureaucratic
+[06:08 --> 06:16] level to help manage macro policy, and these were called the diocese.
+[06:16 --> 06:21] The 100-odd provinces were collected into just 12 of these new diocese, and it was at
+[06:21 --> 06:26] this level that the most basic policies of the Tantraarchy were implemented.
+[06:26 --> 06:31] A diocese could be made up by as few as four provinces, as in the case of Britain, and
+[06:31 --> 06:36] as many as 16, as in the case of the so-called Diocese of the East, which encompassed the
+[06:36 --> 06:39] whole of the Eastern Mediterranean.
+[06:39 --> 06:44] Their main function was to help enforce policy that was being handed down by the emperor,
+[06:44 --> 06:50] and help oversee policy that was being enacted on the local level.
+[06:50 --> 06:54] The men in charge of a diocese were called vicars, and they were officially listed as
+[06:54 --> 06:59] the personal representative of the Praetorian Prefect, meaning that they were just about
+[06:59 --> 07:04] as close to the emperor as you could get these days, which helped streamline the process
+[07:04 --> 07:07] of rolling out new policies.
+[07:07 --> 07:12] These novel new super districts were kept around in the East until Justinian decided
+[07:12 --> 07:17] to abolish them and go back to the more powerful provincial governor model, but in the West
+[07:17 --> 07:22] the diocese were taken over by the clergy, and formed the basis, even today, of Catholic
+[07:22 --> 07:27] administration in Europe.
+[07:27 --> 07:31] On the subject of macro policy, I want to insert a small correction for something I
+[07:31 --> 07:35] said last week with regard to the new military duxes.
+[07:35 --> 07:41] I said that given the smaller sizes of Diocletian's provinces, that the duxes only commanded small
+[07:41 --> 07:46] contingents of soldiers, but the opposite was actually true.
+[07:46 --> 07:52] A dux functioned more like a theater commander, who often oversaw multiple provinces' worth
+[07:52 --> 07:58] of soldiers in order to maintain strategic coordination out on the frontiers.
+[07:58 --> 08:02] Their ability to revolt was blunted not so much by the fact that they only commanded
+[08:02 --> 08:07] a small number of troops, some duxes actually controlled 20,000 men or more, but rather
+[08:07 --> 08:12] by the fact that they had no political powers and no private control over the tax and levy
+[08:12 --> 08:17] system that they would need if they were going to fund and feed a revolt.
+[08:17 --> 08:26] So I apologize for having denigrated the rank and dignity of the noble dux.
+[08:26 --> 08:33] The point of adding new layers of administration was to try to get everyone on the same page.
+[08:33 --> 08:38] Diocletian wanted the empire to function as one coordinated mechanism, with all parts
+[08:38 --> 08:43] working in concert with one another, for the betterment of the whole.
+[08:43 --> 08:50] To this end he also initiated two highly unpopular shifts, at least in the affected regions,
+[08:50 --> 08:54] to make sure that no part of the empire thought it was somehow better or different than the
+[08:54 --> 08:55] rest.
+[08:55 --> 09:01] I am speaking, of course, of his treatment of two parts of the empire that most definitely
+[09:01 --> 09:09] considered themselves better and different, Italy and Egypt.
+[09:09 --> 09:14] As he was splitting up the provinces and appointing vicars, Diocletian decided that the time for
+[09:14 --> 09:20] special treatment was over, and that henceforth everyone would be equal within what had become
+[09:20 --> 09:25] in every single way a multinational empire.
+[09:25 --> 09:29] The Italians, going back to the very beginning of Rome's expansion, had been exempt from
+[09:29 --> 09:34] taxation and had always enjoyed certain other little perks that came with being the home
+[09:34 --> 09:36] base of the empire.
+[09:36 --> 09:39] But now that was over.
+[09:39 --> 09:45] Divided into sixteen districts and watched over by a vicar, Italy was now treated just
+[09:45 --> 09:48] like any other province.
+[09:48 --> 09:52] Only the city of Rome itself maintained its exemption, one of the few deferential nods
+[09:52 --> 09:59] Diocletian ever made to the birthplace of his empire.
+[09:59 --> 10:04] Egypt on the other hand had always paid its taxes, though there was an awful lot of dodging
+[10:04 --> 10:09] going on, but they had also been granted a degree of autonomy.
+[10:09 --> 10:13] They were allowed to keep their own records, they ran off their own calendar, and perhaps
+[10:13 --> 10:19] most importantly, they coined their own money at a mint in Alexandria.
+[10:19 --> 10:25] All of this too was cancelled by Diocletian as he implemented his nice, clean, rational
+[10:25 --> 10:32] order, free of exemptions, exceptions, preferential treatment, and special deals.
+[10:32 --> 10:36] Maybe the empire could afford such things in good times, but the good times were long
+[10:36 --> 10:38] gone.
+[10:38 --> 10:43] It was time for everyone to pitch in equally.
+[10:43 --> 10:49] For the senatorial aristocracy in Italy, the blows to their status were now coming fast
+[10:49 --> 10:51] and furious.
+[10:51 --> 10:56] Their power as a body had of course been stripped away by Augustus a long, long time ago, but
+[10:56 --> 11:01] the pleasant fictions of the Principate had allowed senators to maintain some dignity
+[11:01 --> 11:03] over the following centuries.
+[11:03 --> 11:09] They ran provinces, they ratified decisions, and as individuals they joined in the administrations
+[11:09 --> 11:12] of just about every emperor.
+[11:12 --> 11:17] But now that too was all over.
+[11:17 --> 11:22] Diocletian's vision of an autocratic, centrally planned, and centrally governed empire was
+[11:22 --> 11:28] absolute, and he had no intention of letting a few wealthy Italians who used to be somebody,
+[11:28 --> 11:33] we swear, get in his way.
+[11:33 --> 11:37] His first and most obvious move towards eradicating the Senate from imperial affairs, as we've
+[11:37 --> 11:42] already seen, was to simply never go to Rome.
+[11:42 --> 11:48] Power is usually established by proximity to power, and the Senate was now, physically,
+[11:48 --> 11:51] nowhere near power.
+[11:51 --> 11:53] But Diocletian went further than that.
+[11:53 --> 11:58] Previous emperors had allowed the Senate to continue running the old senatorial provinces
+[11:58 --> 12:03] of the Augustan constitutional settlements, the most important of these being the provinces
+[12:03 --> 12:06] of Africa and Asia.
+[12:06 --> 12:11] They never wielded anything like final authority, but senators were appointed governors of these
+[12:11 --> 12:17] provinces and the Senate as a body still deliberated what to do with them, with the full understanding
+[12:17 --> 12:24] that any time the emperor wanted to, he could step in and do or undo whatever he wanted.
+[12:24 --> 12:28] But still, they had a little tiny chip in the game.
+[12:28 --> 12:34] When Diocletian reorganized the empire, though, that chip was taken away, as he obliterated
+[12:34 --> 12:38] the old senatorial-imperial provincial distinction.
+[12:38 --> 12:44] Plus, almost to a man, Diocletian's new provincial authorities were drawn from the equestrian
+[12:44 --> 12:46] class.
+[12:46 --> 12:52] He wanted smart, capable, career-minded men who owed their allegiance fully and completely
+[12:52 --> 12:57] to the emperor to be the ones out in the field running the show.
+[12:57 --> 13:02] The old aristocracy in Rome never quite gave up their sense of self-importance when they
+[13:02 --> 13:08] gave up their power, and Diocletian did not trust them to fall into line without hesitation
+[13:08 --> 13:11] or reservation.
+[13:11 --> 13:14] The only notice he took of their feelings is that when he divided up Italy along with
+[13:14 --> 13:20] the rest of the empire, he did allow senators to govern the individual Italian districts,
+[13:20 --> 13:25] though they were overseen by an equestrian vicar.
+[13:25 --> 13:29] From this point on, we see a shift in Roman politics.
+[13:29 --> 13:34] Robbed of any role to play in the empire they had created, the senators in Rome fell back
+[13:34 --> 13:38] into a merely local brand of politics.
+[13:38 --> 13:43] No longer was the pinnacle of the senator's career the consulship, the governorship, or
+[13:43 --> 13:44] the emperorship.
+[13:44 --> 13:50] It was instead the city prefecture, the mayor of Rome.
+[13:50 --> 13:54] Oh, how the mighty have fallen.
+[13:54 --> 13:59] This was all undertaken, I think, not so much because Diocletian despised the senate, as
+[13:59 --> 14:05] his attitude is sometimes reduced to, but instead because he disliked the untidiness
+[14:05 --> 14:10] of the old Augustine pseudo-partnership with them.
+[14:10 --> 14:14] Diocletian was, with every fiber of his being, an autocrat.
+[14:14 --> 14:19] He was not the type of man like, say, Trajan had been, who encouraged his subordinates
+[14:19 --> 14:23] to figure it out for themselves.
+[14:23 --> 14:27] Trajan wanted to control every single little detail of imperial administration, and then
+[14:27 --> 14:33] systematize that control so that it became permanent and unbreakable.
+[14:33 --> 14:39] To this end, he created the largest centralized bureaucracy staffed by career civil servants
+[14:39 --> 14:46] the western world had ever seen, and then let it run the empire.
+[14:46 --> 14:52] In a later denunciation of Diocletian's policies, the bitterly hostile Christian writer Lactantius
+[14:52 --> 14:59] who, as we'll soon see, had some very good reasons for being bitterly hostile, describes
+[14:59 --> 15:04] the enlargement of the imperial bureaucracy as creating a situation where the number of
+[15:04 --> 15:12] men being paid by the state was greater than the number of taxpayers paying into the state.
+[15:12 --> 15:17] This is, of course, a gross exaggeration, but there is no denying that Diocletian effectively
+[15:17 --> 15:21] doubled the number of civil servants over the course of his reign.
+[15:21 --> 15:27] But that doubling was from around 15,000 to maybe 30,000 in an empire with a total
+[15:27 --> 15:30] population of 20 to 50 million.
+[15:30 --> 15:34] So no, there were not more bureaucrats than taxpayers.
+[15:34 --> 15:40] But yes, there were a lot more salarymen running around today than there were yesterday, and
+[15:40 --> 15:45] that did have a negative impact on the economy.
+[15:45 --> 15:50] The other thing to keep in mind, though, is that the new bureaucracy was not necessarily
+[15:50 --> 15:55] adding redundant layers to the administration of the empire.
+[15:55 --> 16:01] During the crisis years, a local civic government had essentially ceased all operations.
+[16:01 --> 16:06] All those town and city councils that had previously administered daily life had shuttered
+[16:06 --> 16:10] their doors, and someone had to step into the void.
+[16:10 --> 16:16] So enter the imperial bureaucrat.
+[16:16 --> 16:22] The new bureaucracy was the flip side of that separation of civilian and military operations
+[16:22 --> 16:24] we talked about last week.
+[16:24 --> 16:30] Just as generals had gradually taken over the provincial governorships, the daily minutiae
+[16:30 --> 16:35] of governance was taken over by career soldiers on their staffs as well.
+[16:35 --> 16:40] Diocletian wanted to get the soldiers back to doing what they did best and bring in trained
+[16:41 --> 16:46] to do the work the military had by necessity taken over.
+[16:46 --> 16:51] But as he considered how the new administrative system was going to function, Diocletian decided
+[16:51 --> 16:57] that the one thing he liked about the military being in charge was the clear chains of command,
+[16:57 --> 17:03] the clear hierarchy of authority, and the clear specialization of function.
+[17:03 --> 17:06] So when he kicked the soldiers back to the frontiers, he essentially kept the structure
+[17:06 --> 17:14] of the military in place for his new bureaucracy, even as he staffed it with civilians.
+[17:14 --> 17:18] Bureaucrats were grouped into cohorts, just like in the legions, made answerable to senior
+[17:18 --> 17:24] officials who were in turn grouped together and made answerable to another senior official,
+[17:24 --> 17:28] all the way up to the Praetorian prefect and the emperor.
+[17:28 --> 17:33] To make sure that no one missed the point, Diocletian even made the official uniform
+[17:33 --> 17:41] of his civil service a military cloak rather than a civilian toga.
+[17:41 --> 17:45] Most of these officials served out in the provinces collecting taxes, maintaining the
+[17:45 --> 17:50] public infrastructure, assessing property values, and so on and so on.
+[17:50 --> 17:55] But everyone was angling for a promotion to where the action and money really was, working
+[17:55 --> 18:01] directly for one of the emperors in one of the imperial capitals.
+[18:01 --> 18:07] Where once a few informal advisors had helped the emperor shape policy and make decisions,
+[18:07 --> 18:12] there was now a staff of literally thousands, carefully regimented into different departments,
+[18:12 --> 18:20] all scurrying to and fro, issuing memoranda, making recommendations, and implementing policy.
+[18:20 --> 18:25] These departments became known as Scrinia, named after the boxes the officials used to
+[18:25 --> 18:30] hold all of their paperwork in while traveling with the emperor.
+[18:30 --> 18:37] And there was a Scrinia for everything, foreign affairs, protocol, correspondence in Latin,
+[18:37 --> 18:44] correspondence in Greek, petitions, favors, law, finance, on and on.
+[18:44 --> 18:51] Each Scrinia had a department head, the equivalent of a cabinet minister or a cabinet secretary,
+[18:51 --> 18:57] who when grouped together became known as the consistory, the permanent body of advisors
+[18:57 --> 18:59] who surrounded the emperor.
+[18:59 --> 19:03] The most important of all these officials, and the one who was really in charge of running
+[19:03 --> 19:10] the show on a day-to-day basis, was the Praetorian prefect, who in terms of power, both de facto
+[19:10 --> 19:15] and du jour, was second only to the emperor.
+[19:15 --> 19:21] The office of Praetorian prefect had, over the years, evolved well beyond simply being
+[19:21 --> 19:24] the captain of the imperial bodyguard.
+[19:24 --> 19:29] Lucius Sejanus had been the first to assume administrative and political functions, and
+[19:29 --> 19:34] for the next century and a half, the trajectory of the office had been consistently away from
+[19:34 --> 19:40] its old military functions and towards an exclusively political one.
+[19:40 --> 19:45] When Septimius Severus disbanded and then reformed the Praetorians, though, the prefects once
+[19:45 --> 19:48] again wielded real military authority.
+[19:48 --> 19:54] But when Diocletian took power, the Praetorians were reformed once more, this time reduced
+[19:54 --> 19:59] to simply serving as the local city garrison of Rome, which, as you'll recall, put them
+[19:59 --> 20:03] nowhere near the emperor or power.
+[20:03 --> 20:09] But the office of Praetorian prefect was maintained, for, I guess, sentimental reasons, and Diocletian
+[20:09 --> 20:15] placed the prefect squarely at the top of his new bureaucracy.
+[20:15 --> 20:21] In effect, the prefect became a vice-emperor, and it was his job to make sure that the vast
+[20:21 --> 20:27] new bureaucracy, including the hundreds of staffers that he personally employed, ran
+[20:27 --> 20:30] as smoothly as it could.
+[20:30 --> 20:35] But even more than that, his job was to share in the emperor's workload.
+[20:35 --> 20:39] For most agenda items, the signature of the prefect was just as good as the signature
+[20:39 --> 20:44] of the emperor, which meant that twice as much could now be done in the same amount
+[20:44 --> 20:46] of time.
+[20:46 --> 20:51] In the later part of his reign, Diocletian even went so far as to issue an edict stating
+[20:51 --> 20:57] that judicial decisions issued by the prefect were no longer appealable to the emperor.
+[20:57 --> 21:01] You could appeal to the emperor, or you could appeal to the prefect, but you couldn't do
+[21:01 --> 21:03] both.
+[21:03 --> 21:10] The prefect was, in short, a really, really powerful guy, and not at all someone you wanted
+[21:10 --> 21:14] to mess with.
+[21:14 --> 21:17] So those are the basics of the bureaucracy.
+[21:17 --> 21:22] Regional agents out in the field were answerable to the officials who ran the regional offices,
+[21:22 --> 21:26] who were answerable to their superiors in the cabinet ministries, who were answerable
+[21:26 --> 21:31] to the department heads, who were answerable to the praetorian prefect, who was answerable
+[21:31 --> 21:33] to the emperor.
+[21:33 --> 21:39] Throw in the parallel and sometimes intertwined tracks that introduced provincial governors
+[21:39 --> 21:45] and vicars of the diocese, and what you get is a hugely expanded, centrally run civil
+[21:45 --> 21:50] service that now governed the whole empire with its own code of ethics, standards, and
+[21:50 --> 21:53] loyalties.
+[21:53 --> 21:59] The famously ritualized and labyrinth administrations that came to define the Byzantine Empire,
+[21:59 --> 22:05] and indeed gave rise to the adjective Byzantine to describe something so multi-layered, overly
+[22:05 --> 22:10] complicated and self-perpetuating that it confounds the mind, found its first form back
+[22:11 --> 22:16] in the years of the tetrarchy, as Diocletian sought to bring back adequate governance to
+[22:16 --> 22:21] the empire.
+[22:21 --> 22:25] The one thing we haven't really talked about, though, is perhaps Diocletian's most famous
+[22:25 --> 22:32] reform of all, the nature of the imperial office itself.
+[22:32 --> 22:36] I mentioned something about it when I was discussing Diocletian's desire to rest his
+[22:36 --> 22:41] legitimacy on divine authority rather than the approval of the legions or the consent
+[22:41 --> 22:47] of the senate, but I didn't really talk about how it worked in practice, how Diocletian
+[22:47 --> 22:54] on a daily basis transformed the principate into the dominant.
+[22:54 --> 23:00] At its most basic level, the transformation took place on a physical level, and it was
+[23:00 --> 23:05] from these physical changes that Diocletian expected the psychology of his subjects to
+[23:05 --> 23:08] shift.
+[23:08 --> 23:14] First and foremost, access to the emperor was severely restricted.
+[23:14 --> 23:20] He was kept secluded behind doors and officials and guards and more doors and more officials
+[23:20 --> 23:25] and more guards and then long hallways and more doors, until by the time you actually
+[23:25 --> 23:31] got to the emperor, it was like you were setting foot in some holy inner sanctum.
+[23:31 --> 23:37] The principate had been predicated on a calculated intimacy, with emperors going out of their
+[23:37 --> 23:42] way to show that they were just one of the guys, whether inviting senators over for dinner
+[23:42 --> 23:45] or sharing in the hardships of the soldiers.
+[23:45 --> 23:51] Now it was the exact opposite, with calculated aloofness creating the impression that the
+[23:51 --> 23:56] emperor was a near mythical figure.
+[23:56 --> 24:01] Gibbon remarked that Augustus's model sought to conceal the real power of the emperors,
+[24:01 --> 24:04] while Diocletians sought to display it.
+[24:04 --> 24:09] And by keeping the emperor hidden from view, the people's imaginations, with regards to
+[24:09 --> 24:18] the extent of his almost supernatural powers, began to run freely.
+[24:18 --> 24:21] Beyond this, there were dozens of subtle shifts.
+[24:21 --> 24:27] When the consistory met, all the ministers stood while the emperor remained seated.
+[24:27 --> 24:32] You'll recall that Julius Caesar's fate was practically sealed when he failed to rise
+[24:32 --> 24:38] to meet a delegation from the senate, so this was actually a pretty big deal.
+[24:38 --> 24:43] Upon meeting with the emperor, it was expected that you kiss his robe as a sign of submission,
+[24:43 --> 24:48] something that would have been absolutely offensive to the Romans of old.
+[24:48 --> 24:53] But even more offensive might have been the reappearance of that universal symbol of royal
+[24:53 --> 25:02] authority, the diadem, which he took to wearing along with rich and bejeweled royal robes.
+[25:02 --> 25:06] The point of all this, as I mentioned before, was not so that Diocletian could indulge his
+[25:06 --> 25:12] vanity or his megalomania, but so that he could impress upon his subjects that the emperor
+[25:12 --> 25:15] was indeed above and beyond them.
+[25:15 --> 25:21] He literally shimmered in the light, never rising from his throne as supplicants cautiously
+[25:21 --> 25:24] approached to kiss his robes.
+[25:24 --> 25:29] The empire needed a strong authority figure to reassert order over an empire that had
+[25:29 --> 25:37] nearly come crashing down, and Diocletian aimed to give it to them in spades.
+[25:37 --> 25:41] The emperor was no longer Princeps, the first citizen.
+[25:41 --> 25:51] He was Dominus, the lord of the empire, and there would be no going back.
+[25:51 --> 25:56] Taken together, Diocletian's reordering of the governmental apparatus ushered in a whole
+[25:56 --> 26:01] new era for the Roman Empire, and did nothing less than set the stage for the Byzantine
+[26:01 --> 26:06] Empire that would carry on Rome's legacy into the Middle Ages.
+[26:06 --> 26:10] All pretense of public government had now been cast aside.
+[26:10 --> 26:15] All claims of regional autonomy had now been cast aside.
+[26:15 --> 26:19] And any hint that the emperor might not be some sort of demigod ruling from a divine
+[26:19 --> 26:23] palace in the sky had definitely been cast aside.
+[26:23 --> 26:30] Perhaps, most importantly, by abandoning Rome as the capital and reorganizing Italy as just
+[26:30 --> 26:37] another province, the Roman Empire was finally cut adrift from its Roman heritage.
+[26:37 --> 26:42] Which is, incidentally, how the East was able to keep right on going even after Rome itself
+[26:42 --> 26:46] had fallen into barbarism.
+[26:46 --> 26:52] The empire was now, more than ever, a single unit, commanded from the center, and functioning
+[26:52 --> 26:58] for the betterment of the whole without regard to tradition, feelings, or even private interest.
+[26:58 --> 27:02] No more was it first citizen and fellow citizens.
+[27:02 --> 27:12] It was now ruler and ruled, plain, simple, and laid bare for all to see.
+[27:13 --> 27:18] Next week, we will see how much this new dynamic of ruler and ruled came to alter the daily
+[27:18 --> 27:24] lives of the citizens, as Diocletian will seek to control not just the apparatus that
+[27:24 --> 27:29] govern them, but the economy that they swam in.
+[27:29 --> 27:34] And it was here that he finally met his match, because if there was one field Diocletian
+[27:34 --> 27:37] failed to master, it was economics.

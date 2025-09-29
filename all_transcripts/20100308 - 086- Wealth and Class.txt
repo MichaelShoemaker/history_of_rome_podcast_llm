@@ -1,0 +1,327 @@
+# 20100308 - 086- Wealth and Class
+# Detected language: en
+# Duration: 1648.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you now know, Audible is the internet's leading provider of audio entertainment with
+[00:08 --> 00:10] over 60,000 titles to choose from.
+[00:10 --> 00:15] When you're done with this episode, go to audiblepodcast.com forward slash Roam.
+[00:15 --> 00:20] That again is audiblepodcast.com forward slash Roam.
+[00:20 --> 00:23] By going to that address, you will qualify for a free book download when you sign up
+[00:23 --> 00:26] for one of their 14-day trial memberships.
+[00:26 --> 00:30] There is no obligation to continue with the membership and you can cancel any time and
+[00:30 --> 00:32] keep the free book that you downloaded.
+[00:32 --> 00:36] You can also keep going with one of their monthly subscription options and get great
+[00:36 --> 00:39] deals on all future audiobook purchases.
+[00:39 --> 00:43] This week I'm going to recommend The Meditations by Marcus Aurelius because we're right on
+[00:43 --> 00:47] the cusp of getting to everyone's favorite philosopher emperor and it wouldn't hurt
+[00:47 --> 00:52] to get it straight from the horse's mouth before I start mucking around with it.
+[00:52 --> 00:56] Just remember to go to audiblepodcast.com forward slash Roam so that they know who sent
+[00:56 --> 01:02] you.
+[01:02 --> 01:11] Hello and welcome to The History of Rome, episode 86, Wealth and Class.
+[01:11 --> 01:15] Things have changed considerably since the last time we surveyed the broad outlines of
+[01:15 --> 01:22] Roman life, episode 28, taking stock for those of you keeping score at home.
+[01:22 --> 01:26] Back then, the Romans had just emerged into a world in which they had conquered Greece
+[01:26 --> 01:29] and annihilated the last vestiges of Carthage.
+[01:29 --> 01:34] As you'll recall, this total victory over all meaningful rivals for power was a turning
+[01:34 --> 01:38] point in the transition from republic to empire.
+[01:38 --> 01:43] Bereft of any unifying external threat, ambitious politicians began to describe their domestic
+[01:43 --> 01:49] political enemies in the same us versus them, life or death terms that they had once reserved
+[01:49 --> 01:53] for foreign enemies like the Samnites or the Carthaginians.
+[01:53 --> 01:57] At first, this manifested merely as a more violent extension of the old class struggle
+[01:57 --> 02:03] between Patrician and Pleb, as with the careers of the Grokai brothers, but soon the once
+[02:03 --> 02:08] solidly unified aristocracy began to turn on itself and Marius and Sulla, then Caesar
+[02:08 --> 02:14] and Octavian, tore the old republic asunder and created in its place a new imperial order,
+[02:14 --> 02:19] a semi-divine military dictatorship that ruled the Mediterranean from its seat on the Palatine
+[02:19 --> 02:22] Hill.
+[02:22 --> 02:27] We now find ourselves then on the opposite side of that evolutionary curve.
+[02:27 --> 02:31] Back in episode 28, we were setting the stage for the fall of the republic.
+[02:31 --> 02:37] Today we are observing the result of that all-important social and political transformation.
+[02:37 --> 02:42] By the middle of the second century, the republic was not just a thing of the past.
+[02:42 --> 02:44] It was a thing barely remembered.
+[02:44 --> 02:48] And more than that, it was a thing no longer even actively pined for.
+[02:48 --> 02:52] The Romans, in a word, had changed.
+[02:52 --> 02:57] The political power they undisputedly wielded, the wealth that poured into their public treasuries,
+[02:57 --> 03:02] the new ideas, religions and philosophies that had been ingested from Greece in the
+[03:02 --> 03:08] Near East, had all conspired to fundamentally alter the Roman character.
+[03:08 --> 03:13] Whether it was even in its own time an unattainable ideal is a question for another time, but
+[03:13 --> 03:19] the Romans of the republic had supposedly been all about simple homes, strong families,
+[03:19 --> 03:24] steadfast piety, and above all, an impassive devotion to the public good.
+[03:24 --> 03:29] The Romans of the empire, though, as pointed out even by contemporary critics like Juvenal,
+[03:29 --> 03:35] had become a society of self-indulgent sloths whose lives revolved around ostentatious displays
+[03:35 --> 03:38] of wealth, petty gossip, and the next round of games.
+[03:38 --> 03:41] At least, that was true of the upper classes.
+[03:41 --> 03:45] The lower and middle classes, who had once been freeholding farmers, the very root of
+[03:45 --> 03:51] republican virtue, were now either oppressed tenants on sprawling aristocratic estates
+[03:51 --> 03:55] or else unemployed and crammed into Rome, living what could barely be called lives on
+[03:55 --> 03:58] the public dole.
+[03:58 --> 04:01] And this is all to say nothing of the legions.
+[04:01 --> 04:06] Once comprised entirely of citizen farmer soldiers, the Roman legions had not only lost
+[04:06 --> 04:11] their amateur status, they were now not even Roman legions anymore.
+[04:11 --> 04:15] Aside from a few officers, the standing army that defended the frontiers of the empire
+[04:15 --> 04:20] was, by the second century, made up entirely of provincials.
+[04:20 --> 04:25] Lured into service because soldiering was basically the only real means of upward social
+[04:25 --> 04:31] mobility left in most corners of the empire, the men who served in the army lived and retired
+[04:31 --> 04:34] and died in the provinces within which they served.
+[04:34 --> 04:39] By this point, the only thing dividing legionary from auxiliary was training, equipment, and
+[04:39 --> 04:41] pay.
+[04:41 --> 04:45] The only Italians who even contemplated service in the legions were the poorest of the poor
+[04:45 --> 04:50] looking for a way out of their wretched poverty and ambitious aristocrats who were looking
+[04:50 --> 04:55] to pad their resumes with a year or two of military experience before settling into their
+[04:55 --> 04:57] comfortable public careers.
+[04:57 --> 05:02] But even here, the number of Italian nobles who went down that road was dwindling by the
+[05:02 --> 05:03] day.
+[05:03 --> 05:09] Most of the ambitious aristocrats left these days were themselves provincials, albeit rich
+[05:09 --> 05:13] provincials, who were, like Trajan or Hadrian, looking to gain entrance into the imperial
+[05:13 --> 05:15] power structure.
+[05:15 --> 05:20] The Roman Romans were, for the most part, content to let others do the heavy lifting
+[05:20 --> 05:24] for them while they frittered away their aimless lives and sent the wealth of an empire their
+[05:24 --> 05:29] forefathers had won for them down the drain of their vomitoriums.
+[05:29 --> 05:30] Am I getting carried away?
+[05:30 --> 05:33] Okay, I'm getting carried away a little bit.
+[05:33 --> 05:38] But only in that vomitoriums, as we popularly conceive of them, didn't really exist in ancient
+[05:38 --> 05:40] Rome.
+[05:40 --> 05:45] To set the stage then for the next evolutionary step of the empire, from Augustus' Principate
+[05:45 --> 05:50] to Diocletian's Dominant, I'm going to spend the next couple of episodes exploring how
+[05:50 --> 05:55] the empire, its citizens, subjects, culture, and economy were constituted during the age
+[05:55 --> 05:56] of the Antonines.
+[05:56 --> 06:01] Hopefully, then, we'll all have a much richer understanding of how and why imperial Rome
+[06:01 --> 06:07] stagnated, calcified, and then almost broke apart completely less than a century later.
+[06:07 --> 06:14] Plus, all of this stuff is just intrinsically interesting.
+[06:14 --> 06:18] As was the case throughout Roman history, the most important thing to understand about
+[06:19 --> 06:26] that it was defined by gross inequality, inequality on a scale that would make Ayn Rand blush.
+[06:26 --> 06:30] To put it mathematically, the Roman economic classes were divided on a logarithmic rather
+[06:30 --> 06:33] than an arithmetic scale.
+[06:33 --> 06:37] To describe it accurately, you basically start with a vast horde of poor citizens and go
+[06:37 --> 06:39] up from there.
+[06:39 --> 06:44] Ten times richer than the poor was a group ten times smaller that could be defined as
+[06:44 --> 06:49] lower middle class, though the only obvious benefit of their higher annual income was
+[06:49 --> 06:54] that they did not qualify for any state welfare and thus wound up struggling just as mightily
+[06:54 --> 06:57] as the poor to stay afloat.
+[06:57 --> 07:02] Ten times richer than this lower middle class was a much smaller group who we might consider
+[07:02 --> 07:07] upper middle class, wealthy enough to live a comfortable life and qualify for equestrian
+[07:07 --> 07:13] status, but nonetheless politically and economically dwarfed by the exponentially larger treasuries
+[07:13 --> 07:16] of the senatorial class.
+[07:16 --> 07:20] The minimum annual wealth requirement for admission into the senatorial order was one
+[07:20 --> 07:26] million cisterces, orders of magnitude from the 20,000 cisterces it took to simply exist
+[07:26 --> 07:31] on a daily basis, but at first glance not much more than the 400,000 it took to qualify
+[07:31 --> 07:34] as an equestrian.
+[07:34 --> 07:39] But at second glance there was, as Pliny the Younger pointed out, a vast gulf amongst the
+[07:39 --> 07:41] senators themselves.
+[07:41 --> 07:46] Pliny reckoned himself worth somewhere around 20 million cisterces and he explicitly denied
+[07:46 --> 07:48] that he was a quote, rich man.
+[07:48 --> 07:52] The richest of the rich, the men who would actually describe themselves as such, were
+[07:52 --> 07:57] a handful of senators worth a hundred million cisterces or more.
+[07:57 --> 08:02] In the hands of these men lay the real power of Rome.
+[08:02 --> 08:08] To put this all another way, it has been calculated that during the reign of Trajan only 150,000
+[08:08 --> 08:14] of the 1.2 million people living in Rome lived free and independent of public charity, and
+[08:14 --> 08:20] of those only a few dozen could hope to wield any economic or political influence.
+[08:20 --> 08:25] The rest were trapped between the teeming masses and super elite.
+[08:25 --> 08:31] On the one hand comfortable in their bourgeois lifestyles, on the other politically impotent.
+[08:31 --> 08:36] But of course above them all was the emperor, whose fortune dwarfed the richest of the rich,
+[08:36 --> 08:41] a fact delighted in by the middle class, whose feelings of impotence were somewhat mitigated
+[08:41 --> 08:46] by the fact that even the super rich themselves controlled what amounted to an imperial rounding
+[08:46 --> 08:48] heir.
+[08:48 --> 08:52] By the second century, the combined weight of imperial holdings and personally inherited
+[08:52 --> 08:59] fortunes allowed an emperor to act with the impunity that defined his position.
+[08:59 --> 09:01] Some of this fortune was ruthlessly obtained.
+[09:01 --> 09:06] Nero, for example, confiscated the six largest estates in the province of Africa, making
+[09:06 --> 09:11] him and his successors the de facto landlords of practically the whole of North Africa.
+[09:11 --> 09:18] Some, extracted in hard driven business arrangements, for example, imperial leases to mine in Spain,
+[09:18 --> 09:23] were obtained with the proviso that half the output went into the imperial treasury.
+[09:23 --> 09:28] And some was simply obtained personally by the emperor and withheld from the state books,
+[09:28 --> 09:34] as with Trajan's Dacian treasure trove and Augustus's personal claim on Egypt.
+[09:34 --> 09:40] This incalculable imperial fortune was, as they say, the real power behind the throne.
+[09:40 --> 09:44] We often speak of the emperor's authority resting mostly on the backs of the legions
+[09:44 --> 09:49] he controlled, but of course, their loyalty was secured only by an increasingly generous
+[09:49 --> 09:53] series of pay increases, donatives, and bonuses.
+[09:53 --> 09:58] In the end, it was the privy purse, more than the sword and shield, that secured the emperor's
+[09:58 --> 10:00] power.
+[10:00 --> 10:05] So when it comes to drawing a graph of the social and economic classes in Antonine Rome,
+[10:05 --> 10:10] the line runs barely above zero most of the way, before sharply spiking up through the
+[10:10 --> 10:15] equestrians and senators on its way to the emperor, whose singular position approached
+[10:15 --> 10:19] infinity.
+[10:19 --> 10:23] Running alongside the economic class structure of free citizens were the slaves who served
+[10:23 --> 10:25] them all.
+[10:25 --> 10:29] Slavery had always been, and would always be, the bedrock upon which Roman economic
+[10:30 --> 10:33] life was built, and the age of the Antonines was no different.
+[10:33 --> 10:39] Though, as I said last week, the Romans had been trending towards more humane policies,
+[10:39 --> 10:43] slavery was never going to be a picnic for anyone.
+[10:43 --> 10:48] A few educated slaves attached to very wealthy houses lived comfortable lives and wielded
+[10:48 --> 10:53] very real power and influence, but the vast majority of those in bondage worked the massive
+[10:54 --> 11:00] owned by the aristocracy, or were sent to the mines, a virtual death sentence.
+[11:00 --> 11:05] In between these two extremes, slaves served families and businessmen of every social and
+[11:05 --> 11:12] economic class as cooks, maids, nurses, barbers, secretaries, messengers, accountants, stable
+[11:13 --> 11:17] hands, really any job beneath the dignity of a free citizen, which turned out to be
+[11:17 --> 11:20] most of them.
+[11:20 --> 11:25] It is very difficult to estimate how many slaves lived in the empire at any given time,
+[11:25 --> 11:30] but working with the same population figure of 1.2 million or so for Rome, about 400,000
+[11:30 --> 11:36] of those were probably slaves, making the ratio of free to slave something like 2 to
+[11:36 --> 11:42] 1, which, as you can imagine, left the Romans in constant fear of a great slave revolt,
+[11:42 --> 11:48] a distressingly plausible scenario that led to more than one sleepless night.
+[11:48 --> 11:54] Two slaves were created in one of three ways. By far the largest segment were prisoners
+[11:54 --> 11:59] of war. Men, women, and children caught up in the nets of the legions following their
+[11:59 --> 12:04] latest conquest. When I've said in the past that after this or that battle, the Romans
+[12:04 --> 12:09] went plundering and carried off anything that wasn't nailed down, that included the people
+[12:09 --> 12:15] themselves. Slave trading was a lucrative business, and a soldier could often hope to
+[12:15 --> 12:19] turn a better profit selling off a family he had held at sword point than he could their
+[12:19 --> 12:24] shiny valuables. And when I said that there were civilian camp followers who traveled
+[12:24 --> 12:29] along with the legions on campaign, slave traders were right there front and center,
+[12:29 --> 12:35] ready to take the captives off the soldiers' hands in exchange for cash.
+[12:35 --> 12:39] The second method of enslavement came from a law dating back to Romulus himself that
+[12:39 --> 12:45] allowed a father to sell his children into slavery. Obviously by the days of the empire
+[12:45 --> 12:51] this was a practice long out of fashion, but it was there and in desperate times did still
+[12:51 --> 12:58] happen. The last method was to be born of a female slave. Though this happened more
+[12:58 --> 13:02] often than the sale of free children, slave populations were not known to be prolific
+[13:02 --> 13:08] breeders, both by the circumstances of their captivity, which often precluded romance,
+[13:08 --> 13:12] but also because if a man and woman could find the time and opportunity to engage in
+[13:12 --> 13:18] romance damning their unborn children to slavery was a moral hurdle that they were often unable
+[13:18 --> 13:23] to clear. Better to wait it out and see if one or the both of them could attain their
+[13:23 --> 13:29] freedom before bringing children into the world. This meant that slave stocks in the
+[13:29 --> 13:36] age of the Antonines while immense were dwindling. While the third Jewish war helped, Trajan was
+[13:36 --> 13:41] really the last emperor to pump up the supply and he was a generation in the grave when
+[13:41 --> 13:46] Antonines took over. Hence it would seem laws designed to protect the well-being of the
+[13:46 --> 13:54] existing slave population so necessary to how the economy functioned. Throughout Roman
+[13:54 --> 13:59] history slaves were seen not just as useful tools, but also as living status symbols for
+[13:59 --> 14:05] their masters. This is why amongst the wealthiest families at least the division of labor amongst
+[14:05 --> 14:11] slaves was taken to absurd extremes. One slave was designated to help a master with
+[14:11 --> 14:17] his daily dressing, another assigned to handle formal occasions, another for military uniforms,
+[14:17 --> 14:23] a fourth for dress military uniforms, one slave to deliver dinner plates, another to
+[14:23 --> 14:28] take them away, one slave to open the door to guests, another to escort them inside,
+[14:28 --> 14:34] a third to sit them down. The point was not that all of these tasks couldn't be performed
+[14:34 --> 14:40] by a single slave, but rather look at how many slaves I have. In a culture that never
+[14:40 --> 14:45] really went in for fancy furniture or dishes or art and even the largest homes in the city
+[14:45 --> 14:50] were of modest size due to space constraints, the abundance of slaves was the one visible
+[14:50 --> 14:57] way to show off wealth. This absurd and ego-driven labor redundancy was mocked endlessly, but
+[14:58 --> 15:02] wealthy families were nonetheless forced to worry about a dangerous slave gap opening
+[15:02 --> 15:08] up that might render them socially inferior to their neighbor. At the lower end of the
+[15:08 --> 15:13] social spectrum the labor redundancy was not as evident, but still a middle-class man would
+[15:13 --> 15:18] be embarrassed to show himself in public without at least a handful of slaves surrounding him,
+[15:18 --> 15:23] and Juvenal remarked that if a defendant showed up for trial and his lawyer arrived with fewer
+[15:23 --> 15:27] than eight slaves in tow, he could be pretty well assured that he was going to lose the
+[15:28 --> 15:34] basically the modern equivalent of a polyester-clad shyster arriving to take on an Armani-clad
+[15:34 --> 15:41] corporate lawyer. The slaves owned and paraded around by their masters were treated with
+[15:41 --> 15:46] varying degrees of respect and gentleness, but by the second century treatment generally
+[15:46 --> 15:51] skewed towards that of a well-liked pet in the city and a respected pack animal in the
+[15:51 --> 15:56] country. Masters who kicked and beat their slaves or did not take care of them when they
+[15:56 --> 16:03] were sick were as much reviled as a rotten pet owner is today. The greatest love a master
+[16:03 --> 16:08] could show for his slave, though, was not to give him or her a soft bed and good food.
+[16:08 --> 16:15] It was to set them free. Manumission, as the freeing of slaves was called, became by the
+[16:15 --> 16:22] second century a practice much in vogue. Unlike modern slavery, where freed slaves were a
+[16:22 --> 16:28] microscopic exception to the rule of lifetime bondage, Roman slaves could reasonably hope
+[16:28 --> 16:34] that if they served their masters well that at some point they would be set free. Beyond
+[16:34 --> 16:38] the spontaneous freedom that was often declared by masters on special circumstances or as
+[16:38 --> 16:43] the patriarch near death, many slaves were allowed to earn and save money during their
+[16:43 --> 16:49] time in service with the aim of eventually purchasing their freedom. During Augustus's
+[16:49 --> 16:54] time, the freeing of slaves started to become a badge of honor among the upper classes,
+[16:54 --> 16:58] leading to a generosity arms race that needed to be closed by the emperor before every slave
+[16:58 --> 17:05] in the empire was freed. So Augustus set limits both on the minimum age a slave could be free,
+[17:05 --> 17:12] 30, and how many slaves a master could free at one time, 100 per 500 slaves. But the freeing
+[17:13 --> 17:18] of slaves remained common practice, leading to the rise of a new class of citizen who
+[17:18 --> 17:24] I have mentioned often on during the show, the freedman. The freedman enjoyed limited
+[17:24 --> 17:30] rights within the empire and was never mistaken for a full citizen, but for the most part,
+[17:30 --> 17:35] aside from the casual sneers directed their way for their servile origins, freedmen could
+[17:35 --> 17:41] reasonably hope to become fully functional and often prominent members of society. When
+[17:41 --> 17:45] the freedman was released from his formal bondage though, it did not free him from obligation
+[17:45 --> 17:52] to his former master. The old rules of client and patron still defined Roman daily life,
+[17:52 --> 17:57] which we'll get to a bit later. And a freedman naturally became the faithful client of his
+[17:57 --> 18:04] old master, further adding to that master's prestige. During the republic, freedmen were
+[18:04 --> 18:09] restricted in what they could be and do once they were free. But by the reign of Claudius,
+[18:09 --> 18:14] most of those restrictions had been lifted, and Claudius himself set a precedent by stocking
+[18:14 --> 18:19] the imperial bureaucracy with educated ex-slaves who had the capacity to perform the mundane
+[18:19 --> 18:25] tasks of empire without the haughty disdain for clerical grunt work shown by free citizens.
+[18:25 --> 18:30] But once free Romans realized how much power such clerical grunt work afforded these lowly
+[18:30 --> 18:36] ex-slaves, they began to agitate for reform, and Domitian seized the opportunity to staff
+[18:36 --> 18:41] his bureaucracy with men of equestrian status, not only to turn out the freedman who had
+[18:41 --> 18:46] run the show previously and become experts at political graft, but also to command the
+[18:46 --> 18:51] loyalty of the equestrians who had been marginalized by the wealth of the senate on the one hand
+[18:51 --> 18:57] and the outsized influence of the freedman on the other. The Antonine emperors continued
+[18:57 --> 19:03] to follow Domitian's precedent favoring equestrians over freedmen when it came to staffing. But
+[19:03 --> 19:07] despite this political setback, freedmen as a whole could still expect to compete on an
+[19:07 --> 19:13] equal footing economically with the freeborn and establish comfortable lives for themselves,
+[19:13 --> 19:18] and as I alluded earlier, a freedman's children were born free citizens rendering any future
+[19:18 --> 19:25] prejudice moot. The economic activity that Romans and freedmen
+[19:25 --> 19:30] and provincials and slaves collectively engaged and competed in naturally varied from place
+[19:30 --> 19:37] to place, but it mostly divided into two main realms, city work and country work.
+[19:38 --> 19:44] To take the latter first, country work meant farming. By the second century, the existence
+[19:44 --> 19:49] of the freeholding small farmer was largely a thing of the past, though, and peasants
+[19:49 --> 19:55] mostly wound up living as tenant farmers on large aristocratic estates. But of course,
+[19:55 --> 20:00] the massive influx of slave labor pushed many of the free families out of the country and
+[20:00 --> 20:05] into the city. An economic problem we'll deal with in a second that would plague the empire
+[20:05 --> 20:10] until its final days. The farms of the classical world, like farms
+[20:10 --> 20:15] of today, were said to either produce the food that fed the empire or the cash crops
+[20:15 --> 20:21] that made it wealthy. The basic staple crops were wheat, millet and barley, and together
+[20:21 --> 20:27] they formed the foundation of the grain and cereal-based Roman diet. The basic cash crops
+[20:27 --> 20:33] were olives and grapes, used mostly for oil and wine respectively.
+[20:33 --> 20:38] These latter two were not only sold domestically, but were also practically the only valuable
+[20:38 --> 20:43] exports the empire could muster to counteract the effects of what many considered a dangerously
+[20:43 --> 20:49] unbalanced trade deficit with the rest of the world. When we get into a more detailed
+[20:49 --> 20:54] description of the provinces, we'll refine a bit what came from where and why. So for
+[20:54 --> 20:59] now, I'm just going to leave it that though the political foundations of Rome was no longer
+[20:59 --> 21:04] the noble citizen farmer, the vast majority of families living in the empire were still
+[21:04 --> 21:10] engaged in agricultural work of some kind or another. Just like peasants of all ages,
+[21:10 --> 21:14] they lived within sight of where they had been born and died within sight of the plot
+[21:14 --> 21:20] of land they worked their whole lives. Visiting one of the empire's major urban centers, let
+[21:20 --> 21:27] alone Rome itself, was a ludicrous fantasy. But as ludicrous a thought as it was for most,
+[21:28 --> 21:34] the cities of the empire still teemed with the energy of millions. The various occupations
+[21:34 --> 21:40] of urban Romans were as varied as they were in any city today. Importers, wholesalers,
+[21:40 --> 21:47] retailers, bankers, cooks, innkeepers, masons, druggists, potters, tanners, jewelers, teachers,
+[21:48 --> 21:55] and actors all lived side by side and wheeled and deal daily to get ahead, hedge against
+[21:55 --> 22:01] the future, jump at any opportunity, or make up for a loss. But of course, these gainfully
+[22:01 --> 22:06] employed citizens, ranging from the hand-to-mouth lower middle class to the relatively wealthy
+[22:06 --> 22:12] equestrian merchants, were far outnumbered by the mass of often unemployed wretches who
+[22:12 --> 22:18] lived on public assistance. The emperors tried to keep these poor masses quiet and peaceful
+[22:18 --> 22:23] with free grain and free games, which the poor gobbled up readily. But they also tried
+[22:23 --> 22:28] to provide honest work to keep them occupied, one of the major rationales behind the building
+[22:28 --> 22:35] explosions that transformed Rome between the reigns of Domitian and Hadrian. Despite the
+[22:36 --> 22:41] public assistance, life was hard at the bottom of the ladder. The grain dole, important as
+[22:41 --> 22:46] it was, couldn't sustain a poor family, as it was only calculated to feed free men,
+[22:46 --> 22:52] not their wives and children. The lower middle class didn't even receive this minimal subsidy
+[22:52 --> 22:57] and were thus left to fend for themselves, their meager scrapings somehow making them
+[22:57 --> 23:03] too rich for public compassion. Even members of the better-off equestrian class often found
+[23:03 --> 23:09] themselves running a persistent household budget deficit just to stay afloat. These
+[23:10 --> 23:15] gaping financial holes had to be filled by someone, and so it was left to the patron,
+[23:15 --> 23:20] he of the ancient patron-client model of social kinship that had defined Roman society for
+[23:20 --> 23:27] centuries to do the filling. That relationship had once been an overt quid pro quo of political
+[23:28 --> 23:33] support in exchange for favors and support in times of need, much like the machine politics
+[23:33 --> 23:39] of 19th century America. But following the collapse of the republic and with it the need
+[23:39 --> 23:45] for voters, it had evolved into a sort of second-track form of public assistance. Every
+[23:45 --> 23:50] morning clients would come knocking at the door of their patrons. The patrons would welcome
+[23:50 --> 23:56] them in and turn over a few coins to honor the respect the clients paid them. In time,
+[23:56 --> 24:02] the once informal surprise gifts became formalized and expected, and the annual income of just
+[24:02 --> 24:09] about everyone in the city began to ride heavily on patronage. Clients were further able to
+[24:09 --> 24:13] cultivate more than one patron at a time, and the most active among them would bounce
+[24:13 --> 24:18] from house to house each morning, pocketing a few coins here and there until they had
+[24:18 --> 24:22] amassed a tidy sum that would keep them going for the rest of the day, until they woke up
+[24:22 --> 24:29] the next morning and repeated the ritual all over again. If this was considered poor form,
+[24:29 --> 24:32] it was only in passing, as everyone seemed to be doing everything they could to stay
+[24:33 --> 24:40] in an economic climate that was unpredictable and harsh even in the best of times. Besides,
+[24:40 --> 24:44] the only people who had any money were the super rich anyway, and so when they gave,
+[24:44 --> 24:51] you had to grab. Though wealth and class in Antonine Rome were not permanent states, and
+[24:51 --> 24:57] no one, not even slaves, couldn't at least hope for a better life. In practice, there
+[24:57 --> 25:02] was very little in the way of upward mobility. The rich had gotten massively richer, and
+[25:02 --> 25:07] they tended to keep their wealth and the family. Every generation a few clever merchants
+[25:07 --> 25:12] would rise, and a few bumbling heirs would fall. But for the most part, the rich stayed
+[25:12 --> 25:17] rich, the poor stayed poor, and everyone else just kind of floated along in the middle,
+[25:17 --> 25:22] wondering how long they could avoid the poorhouse themselves. While the so-called five good
+[25:22 --> 25:28] emperors are to be commended for revising and extending the elementary system, and perpetuating
+[25:28 --> 25:33] the grain doles, and stepping in to personally underwrite emergency relief when disaster
+[25:33 --> 25:38] struck, when you really think about it, they were actually downright miserly. They personally
+[25:38 --> 25:43] controlled something like half of the empire's GDP, and all they had for the poverty-stricken
+[25:43 --> 25:49] masses was an inadequate supply of grain, some construction jobs, and the promise that
+[25:49 --> 25:54] if their tenement building caught fire, that the emperor would cover their burial expenses.
+[25:54 --> 26:00] You don't have to be a fire-breathing Marxist to find problems with that, or to think twice
+[26:00 --> 26:04] about the moral underpinnings of a society that was quite content to live with a Gini
+[26:04 --> 26:09] coefficient approaching one.
+[26:09 --> 26:13] Next week, though, we'll get into what all of these people did when they weren't simply
+[26:13 --> 26:18] trying to survive. How they educated their young, what they did for fun, how they worshiped
+[26:19 --> 26:25] their gods, and what gods or god they worshiped. This last bit is of critical importance because
+[26:25 --> 26:31] the age of the Antonines was a transitional period when the old state-sponsored polytheism
+[26:31 --> 26:37] of Jupiter and Juno and Minerva and Apollo were in decline, and the new oriental mystery
+[26:37 --> 26:43] religions were on the rise. The old religions were lately seen as little more than a series
+[26:43 --> 26:49] of empty rituals, while the new eastern religions promised adherents a deeper and more meaningful
+[26:49 --> 26:55] understanding of the universe and man's place within it. It was during these years that
+[26:55 --> 27:00] the cult of the Jewish carpenter really began its exponential growth phase that would eventually
+[27:00 --> 27:03] lead to its involvement of the entire Mediterranean world.
+[27:13 --> 27:20] .

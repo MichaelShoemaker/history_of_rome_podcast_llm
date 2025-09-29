@@ -1,0 +1,320 @@
+# 20100301 - 081- The Greekling
+# Detected language: en
+# Duration: 1409.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:09] As you know, Audible is the internet's leading provider of audio entertainment with over
+[00:09 --> 00:11] 60,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:16 --> 00:20] That again is audiblepodcast.com forward slash Rome.
+[00:20 --> 00:24] By going to that address, you will qualify for a free book download when you sign up
+[00:24 --> 00:26] for a 14-day trial membership.
+[00:26 --> 00:30] There is no obligation to continue the service, and you can cancel any time and keep the free
+[00:30 --> 00:32] book that you downloaded.
+[00:32 --> 00:36] You can also keep going with one of the monthly subscriptions options and get great deals
+[00:36 --> 00:39] on all future audiobook purchases.
+[00:39 --> 00:44] This week, I'm going to recommend picking up The Spartacus War by Barry Strauss, a new
+[00:44 --> 00:50] take on the old slave revolt that made Pompey famous and made Crassus mad at Pompey.
+[00:50 --> 00:55] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent
+[00:55 --> 00:57] you.
+[00:57 --> 01:09] Hello, and welcome to The History of Rome, episode 81, The Greekling.
+[01:09 --> 01:13] The Roman Empire had just enjoyed 20 years of wise and beneficial stewardship when the
+[01:13 --> 01:18] tragic but inevitable news arrived that the Emperor Trajan was dead.
+[01:18 --> 01:23] Even his contemporaries realized that they were living under the best Emperor since Augustus,
+[01:23 --> 01:27] and fears about what came next filtered through every level of society.
+[01:27 --> 01:32] With Trajan being so great and all, it's pretty reasonable to assume that whoever succeeds
+[01:32 --> 01:34] him is going to be worse.
+[01:34 --> 01:37] Maybe not much worse, but it's going to be a step backwards.
+[01:37 --> 01:39] You can't get better than Optimus.
+[01:39 --> 01:42] It's a logical impossibility.
+[01:42 --> 01:45] And who knows, maybe his successor will be a lot worse.
+[01:45 --> 01:47] It's happened before.
+[01:48 --> 01:50] One of the things that struck everyone's fears was the fact that Trajan had paid almost
+[01:50 --> 01:55] no attention to the issue of succession publicly, which also meant that, hooray, another round
+[01:55 --> 02:00] of civil wars just might be how we determine who the eventual ruler, who will inevitably
+[02:00 --> 02:02] be worse than Trajan, will be.
+[02:02 --> 02:04] Sweet.
+[02:04 --> 02:09] The anxiety that surrounded Trajan's day-to-day health was palpable, and when he began to
+[02:09 --> 02:15] seriously deteriorate in 117, his closest advisors began to take seriously the consequences
+[02:15 --> 02:16] of his death.
+[02:16 --> 02:21] Would it be possible to find a name and heir who would be acceptable to all the various
+[02:21 --> 02:26] aristocratic factions and who wouldn't bollocks up the whole thing once he got into power?
+[02:26 --> 02:30] Obviously, no one we find is going to be as good as Trajan, so who can we dig up who will
+[02:30 --> 02:33] be the least bad choice?
+[02:33 --> 02:38] Names were bandied about, but Trajan's influential wife, Pompeia Plotina, worked behind the scenes
+[02:38 --> 02:42] to ensure that everyone understood that the only man who could reasonably succeed the
+[02:42 --> 02:48] dead emperor was her former ward, Publius Aelius Hadrianus.
+[02:48 --> 02:52] Trajan himself seems to have been wishy-washy about Hadrian and had been unwilling to commit
+[02:52 --> 02:58] himself to the young man, even though he was Trajan's only living male relative.
+[02:58 --> 03:03] Hadrian had enjoyed a good career and had many doors open for him by virtue of his relation
+[03:03 --> 03:09] to Trajan, but he had never received the special exceptions that signaled eventual inheritance.
+[03:09 --> 03:14] While Trajan may not have been fully sold on his cocky, promiscuous, philhellene nephew,
+[03:14 --> 03:19] his wife certainly was, and when the emperor died without leaving clear succession instructions,
+[03:19 --> 03:24] his opinion, to put it bluntly, no longer mattered.
+[03:24 --> 03:28] The official rumor is that when Trajan died, Pompeia quickly hushed up the death and may
+[03:28 --> 03:33] have gone so far as to hire an actor to lay in the vacated deathbed pretending to be the
+[03:33 --> 03:38] emperor for the purposes of issuing the final recommendation that Hadrian ought to succeed
+[03:38 --> 03:39] him.
+[03:39 --> 03:44] While the veracity of this story is hard to pin down, the letters arriving in the senate
+[03:44 --> 03:49] announcing the last wishes of Trajan and the adoption of Hadrian were all signed by Pompeia,
+[03:49 --> 03:54] a singular occurrence in the whole of Trajan's reign, leading most to suspect that the empress
+[03:54 --> 03:56] authored the orders herself.
+[03:56 --> 04:02] Pompeia, though, was not acting out of the pure self-interest that had driven, say, Agrippina.
+[04:02 --> 04:06] Sure, she knew that her own position would be secure if Hadrian became emperor, but more
+[04:06 --> 04:11] important than that was assuring that the transfer of power was seamless and left no
+[04:11 --> 04:13] openings for civil war.
+[04:13 --> 04:18] Her husband may have been fantasizing about following Alexander the Great one last time
+[04:18 --> 04:23] and leaving the empire to the strongest, but Pompeia was not about to let the Roman world
+[04:23 --> 04:27] be sucked back into the abyss of self-destruction.
+[04:27 --> 04:32] News of the emperor's death was kept tightly under wraps until Hadrian's position was secured,
+[04:32 --> 04:36] and when word finally did make it back to the capital, it arrived at the same time as
+[04:36 --> 04:41] news that the legions in the east had gone ahead and declared Hadrian emperor.
+[04:41 --> 04:45] The senate and any possible pretenders to the throne were thus forced to deal not with
+[04:45 --> 04:49] a power vacuum, but a fait accompli.
+[04:49 --> 04:50] Hadrian is already the new emperor.
+[04:50 --> 04:53] Deal with it.
+[04:53 --> 04:58] Even without his future success coloring our view of his being named heir, Hadrian was
+[04:58 --> 05:01] as good a candidate for power as anyone else out there.
+[05:01 --> 05:05] He was forty-one years old, well beyond the reach of the youthful excesses that had ruined
+[05:05 --> 05:11] Caligula and Nero, had ample military experience at the highest level, had governed provinces,
+[05:11 --> 05:16] and was, of course, the sole living male relative of the deceased emperor.
+[05:16 --> 05:20] He was not by any means the only man who eyed the death of Trajan with ambition, but there
+[05:20 --> 05:24] was never any doubt after Trajan's initial ascension that his younger cousin and former
+[05:24 --> 05:28] ward would be on the short list of candidates to succeed him.
+[05:28 --> 05:33] In other words, when the Roman world found out that Trajan was dead and Hadrian had succeeded
+[05:33 --> 05:39] There was a feeling that, well, yeah, that makes sense.
+[05:39 --> 05:46] Publius Aelius Hadrianus was born on January 24, 76 AD, into a Spanish-Italian family of
+[05:46 --> 05:48] senatorial rank.
+[05:48 --> 05:52] There is some disagreement about whether he was born in his hometown of Italica, near
+[05:52 --> 05:56] modern-day Seville, or whether he was actually born in Rome while his parents were in the
+[05:56 --> 06:01] capital on business, but the latter smells a lot like post-imperial revisionism, so I
+[06:01 --> 06:06] tend to go with the former, even if there is no real proof of it one way or the other.
+[06:06 --> 06:11] Italica was a Roman city in Spain that had been founded by Scipio Africanus to house
+[06:11 --> 06:15] his injured veterans after he had completed his clean sweep of the Iberian peninsula and
+[06:15 --> 06:19] needed to get going on his invasion of North Africa.
+[06:19 --> 06:24] Hadrian's family, like Trajan's, had migrated from Italy not long after the colony's foundation
+[06:24 --> 06:30] and both quickly became members of a new Spanish-Italian aristocracy, an aristocracy fueled by the
+[06:30 --> 06:34] lucrative Spanish olive-oil trade.
+[06:34 --> 06:38] Hadrian's father was a well-regarded senator, like his neighbor and cousin Marcus Opius
+[06:38 --> 06:42] Trajanus, the future emperor Trajan.
+[06:42 --> 06:46] The elder Hadrian served with distinction across the empire, eventually rising to the
+[06:46 --> 06:53] rank of praetor, before he died unexpectedly in 86 AD while still in his mid-forties.
+[06:53 --> 06:57] Hadrian was only ten at the time, and as the only male in line, he was thrust into the
+[06:57 --> 07:01] role of paterfamilias at an incredibly young age.
+[07:01 --> 07:05] But since he was still a minor and everyone fretted about boys who grow up without strong
+[07:05 --> 07:10] male guidance, Hadrian's education was entrusted to his cousin Trajan, who was fast rising
+[07:10 --> 07:15] in Roman politics, and another Spanish-Italian noble named Publius Aetianus, who will play
+[07:15 --> 07:21] a key, if infamous, role in Hadrian's early administration.
+[07:21 --> 07:25] Young Hadrian was educated in classic Roman fashion and the zeal the boys showed for all
+[07:25 --> 07:31] things Greek, literature, philosophy, art, whatever, earned him the nickname Graccholus,
+[07:31 --> 07:34] which meant little Greek or Greekling.
+[07:34 --> 07:39] It was a mildly disparaging nickname, as the typical Roman aristocrat studied Greek culture
+[07:39 --> 07:45] yes, but kept the sensuous and corrupting passions of the East at arm's length.
+[07:45 --> 07:49] Hadrian, though, embraced all things Greek, and for the rest of his life idolized and
+[07:49 --> 07:54] sought to emulate his heroes Homer and Xenophon and Plato.
+[07:54 --> 07:59] The villa complex he would build for himself after becoming emperor was nothing less than
+[07:59 --> 08:07] a massive homage to the Greeks in its architecture, landscaping, and underlying philosophic principles.
+[08:07 --> 08:12] When Hadrian was fourteen, Trajan brought him to Rome to personally supervise the last
+[08:12 --> 08:17] stages of the boys' education and oversee his transition to manhood.
+[08:17 --> 08:21] Trajan was just completing the consulship he had been awarded by demission for his rapid
+[08:21 --> 08:26] response to Saturninus' revolt, and the teenage Hadrian found himself planted right smack
+[08:26 --> 08:30] dab in the middle of Roman power politics.
+[08:30 --> 08:34] At this point, there would have been little reason for Hadrian to dream that he might
+[08:34 --> 08:39] himself don the purple one day, but his close relationship to Trajan meant that he was definitely
+[08:39 --> 08:44] being prepared for an important role in the imperial system somewhere, so he best pay
+[08:44 --> 08:46] attention.
+[08:46 --> 08:50] Living in Rome during the last years of demission's reign, not that anyone knew that they were
+[08:50 --> 08:54] the last years of demission's reign, gave Hadrian a close-up view of what to do and
+[08:54 --> 09:00] what not to do with power, and his later conduct hints that he learned his lessons well, even
+[09:00 --> 09:05] if there were a few growing pains at first.
+[09:05 --> 09:10] Through the influence of Trajan, Hadrian received three consecutive military tribunships in
+[09:10 --> 09:14] Pannonia, Moesia, and Upper Germany successively.
+[09:14 --> 09:19] It was unusual for a young aristocrat to serve even two consecutive tours, as most simply
+[09:19 --> 09:23] did their year's service and went back to the comfort of their estates.
+[09:23 --> 09:27] But Trajan was obviously intent on instilling Hadrian with all the martial virtues that
+[09:27 --> 09:30] he himself so prized.
+[09:30 --> 09:34] For his part, Hadrian seems to have been an excellent and well-liked soldier.
+[09:34 --> 09:36] He enjoyed camp life.
+[09:36 --> 09:41] The camaraderie, the attention to detail, the rigorous exercise all appealed to him,
+[09:41 --> 09:45] and for the rest of his life, he was able to come and go from legionary camps with ease,
+[09:45 --> 09:50] speaking the language of his soldiers and willingly sharing in their hardships.
+[09:50 --> 09:55] Though he is remembered today as the quintessential pacifist emperor, Hadrian always loved military
+[09:55 --> 10:01] life, and his troops, in turn, always loved him.
+[10:01 --> 10:05] It was while he was serving his second tribunship in Moesia that Hadrian learned that his elder
+[10:05 --> 10:10] cousin had been adopted by Nerva, and it was while he was serving on his third tour in
+[10:10 --> 10:14] Upper Germany a few months later that he learned that the old emperor was dead and Trajan now
+[10:14 --> 10:17] ruled in his own right.
+[10:17 --> 10:21] Tradition has it, as I mentioned, that it was Hadrian himself who rode to Trajan's command
+[10:21 --> 10:26] post on the lower Rhine and delivered news of Nerva's death.
+[10:26 --> 10:30] Just like that, in the span of about four months, Hadrian went from a young provincial
+[10:30 --> 10:35] noble looking to get started on a career to the sole living male relative of the emperor
+[10:35 --> 10:37] of the Roman Empire.
+[10:37 --> 10:41] Needless to say, whatever ambitions he had had for himself were about to be ratcheted
+[10:41 --> 10:45] up about a thousand percent.
+[10:45 --> 10:51] But if Hadrian expected to be treated like Gaius and Lucius, or more recently Titus Flavius,
+[10:51 --> 10:54] he was sadly mistaken.
+[10:54 --> 10:57] Trajan showed absolutely no sign that he planned to share any of his imperial power with his
+[10:57 --> 11:00] young cousin.
+[11:00 --> 11:04] Hadrian's career would obviously receive a healthy leg up, but so did a lot of other
+[11:04 --> 11:06] people's careers.
+[11:06 --> 11:10] Everyone connected to Spanish Rome benefited from having one of their own on the throne,
+[11:10 --> 11:14] but there is no indication that Trajan was any more or less disposed towards his former
+[11:14 --> 11:16] war than anyone else.
+[11:16 --> 11:21] Indeed, if we dig a little, we find that it's possible Trajan was skeptical that the brash
+[11:21 --> 11:26] bordering on flamboyant Greekling was fit for high office of any kind, and that it was
+[11:26 --> 11:33] the constant lobbying of Pompey who kept the future emperor's career moving steadily upward.
+[11:33 --> 11:37] Perhaps at Pompey's urging, Hadrian was assigned to act as the new emperor's official emissary
+[11:38 --> 11:41] soon after Trajan's ascension.
+[11:41 --> 11:45] He was tasked with reading aloud the emperor's letters home, a job that apparently caused
+[11:45 --> 11:51] Hadrian some embarrassment as his rough accent, a mix of Spanish and military pronunciations,
+[11:51 --> 11:55] was ridiculed by the cultured Italian elite.
+[11:55 --> 12:00] But if he was bummed about not immediately being named Caesar and instead being turned
+[12:00 --> 12:04] into a glorified secretary, Hadrian could not help but believe he was still going to
+[12:04 --> 12:10] succeed Trajan one day, as the emperor arranged for the daughter of his favorite niece, Vibhya
+[12:10 --> 12:17] Sabina, to marry him in 100 AD, further strengthening the familial ties between the two men.
+[12:17 --> 12:21] The marriage would prove to be politically useful, but personally unhappy, as neither
+[12:21 --> 12:24] seems to have liked the other very much.
+[12:24 --> 12:28] For one thing, Hadrian appears to have had far more affection for his mother-in-law than
+[12:28 --> 12:33] his wife, which forever rankled young Sabina, and of course, it did not help any that Hadrian
+[12:33 --> 12:37] was gay, a fact we'll explore in more detail next week.
+[12:37 --> 12:42] Obviously, the marriage produced no children.
+[12:42 --> 12:46] Hadrian's career continued its vague course upwards, and we know that he accompanied Trajan
+[12:46 --> 12:51] on both legs of the Dacian Wars, but we have no record of what, if anything, the young
+[12:51 --> 12:55] officer accomplished in his first tours of real combat duty.
+[12:55 --> 13:00] He was awarded a praetorship in 106 AD, after the final victory over Decebalus, and was
+[13:00 --> 13:04] given command of a legion in Germany that same year.
+[13:04 --> 13:09] The next year, he was assigned a pro praetorship in Pannonia, and once again commanded a legion,
+[13:09 --> 13:14] but in both cases, he was still subordinate to the sitting provincial governor.
+[13:14 --> 13:19] In 108, he was granted a consulship, but it was a less prestigious Suffet consulship,
+[13:19 --> 13:23] a minor slight that escaped no one's attention.
+[13:23 --> 13:26] Trajan was obviously of two minds about Hadrian.
+[13:26 --> 13:31] On the one hand, he was moving his cousin up in the world, but on the other, he wasn't
+[13:31 --> 13:38] coming close to granting him heir status, presumptive, apparent, or otherwise.
+[13:38 --> 13:41] What Hadrian made of all this is anyone's guess.
+[13:41 --> 13:45] I would suppose that he was somewhere in between two extremes.
+[13:45 --> 13:48] He doesn't seem to have been vocally cranky that he was being denied what he felt was
+[13:48 --> 13:53] rightfully his, but neither does he seem to have been relieved that he wasn't going to
+[13:53 --> 13:56] wind up on the hot seat himself one day.
+[13:56 --> 14:01] He was ambitious, and he was capable, and likely coveted the imperial throne, but he
+[14:01 --> 14:06] wasn't marching around with an immature sense of entitlement either.
+[14:06 --> 14:10] He sort of disappears from the public record for a few years following his consulship,
+[14:10 --> 14:15] eventually turning up in Athens in 112, where he was an eager tourist and student.
+[14:15 --> 14:19] He immersed himself in the cultural life of the city enough that he was given Athenian
+[14:19 --> 14:26] citizenship and elected an archon, one of the senior civic magistrates of the city.
+[14:26 --> 14:31] After his tour of Greece, Hadrian followed Trajan east in 114, and, at least for the
+[14:31 --> 14:36] early part of the new campaign, once again found himself assigned tasks beneath the purview
+[14:36 --> 14:38] of historians.
+[14:38 --> 14:43] He was likely attached to Trajan's staff, as Cassius Dio mentions that he shared in
+[14:43 --> 14:47] the quote, day-to-day activities of the emperor.
+[14:47 --> 14:51] While we don't know exactly what he got up to, we know that he had a front row seat for
+[14:51 --> 14:55] the initial conquest and the local revolts that followed.
+[14:55 --> 14:59] The speed with which he abandoned Trajan's conquered territories tells us that through
+[14:59 --> 15:06] this period, the reliably loyal Hadrian was likely critical of Trajan's policies in private.
+[15:06 --> 15:10] But his doubts don't seem to have affected his relationship with the emperor, and in
+[15:10 --> 15:16] 117, Hadrian was finally given an independent command, and not just any command, but the
+[15:16 --> 15:21] governorship of Syria, one of the most important posts in the empire.
+[15:21 --> 15:25] Trajan had recently reassigned the previous governor to Dacia, where a revolt was underway,
+[15:25 --> 15:30] and for the first time, he decided to hand his cousin some real power.
+[15:30 --> 15:35] Clearly, whatever doubts he had had about the Greekling had been satisfied, as the governorship
+[15:35 --> 15:39] of Syria was no token prize.
+[15:39 --> 15:42] For Hadrian, the promotion could not have come at a better time.
+[15:42 --> 15:47] No one could have known it at the time, but Trajan was entering his final year in office,
+[15:47 --> 15:51] and the issue of succession was about to rear its ugly, and thus far still utterly
+[15:51 --> 15:53] unaddressed, head.
+[15:53 --> 15:58] It was by a lucky stroke of fate, then, that rather than being just another staff officer,
+[15:58 --> 16:02] one likely assigned for no other reason than that he was related to the emperor, Hadrian
+[16:02 --> 16:07] found himself instead serving as the governor of Syria when Trajan died.
+[16:07 --> 16:12] Not only was it a prestigious and strategically critical post, but most importantly, it put
+[16:12 --> 16:15] him at the head of his very own army.
+[16:15 --> 16:19] It was one thing to buck for power from the shady corners of the imperial entourage, it
+[16:19 --> 16:25] was quite another to do so from the head of the eastern legions.
+[16:25 --> 16:29] I don't think I need to rehash the circumstances of Trajan's death again, so I'll just leave
+[16:29 --> 16:36] it that Hadrian was an Antioch in August of 117 AD, when he heard that Trajan was dead.
+[16:36 --> 16:40] Through the string-pulling of Pompeii, Hadrian found out slightly before everyone else, and
+[16:40 --> 16:43] he was forced to sit on the news.
+[16:43 --> 16:47] He also was forced to sit on the news that it was going to be announced that Trajan had
+[16:47 --> 16:52] named him heir, news that cannot have been easy to just sit on.
+[16:52 --> 16:56] There were more than a few of Trajan's lieutenants, though, who could easily picture themselves
+[16:56 --> 17:02] in the purple, so it was going to be important to play the transfer of power just right.
+[17:02 --> 17:07] For the most part, at least in the initial stages, Hadrian hit a pitch-perfect note.
+[17:07 --> 17:12] He marched out to the head of his Syrian legions and formally announced the news of Trajan's
+[17:12 --> 17:17] death, at which point the troops spontaneously hailed him as emperor, just as they had likely
+[17:17 --> 17:19] been instructed to do.
+[17:19 --> 17:23] He then drafted a note to the Senate, apologizing for the haste with which his soldiers had
+[17:23 --> 17:25] embraced him.
+[17:25 --> 17:29] He was sorry events had moved so quickly that the Senate had been cut out of the process.
+[17:29 --> 17:35] He promised to continue Nerva and Trajan's policy of leaving senators more or less sacrosanct,
+[17:35 --> 17:39] and promised that once he was sure the borders were secure, that he would return to Rome
+[17:39 --> 17:44] and consult with the venerable conscript fathers.
+[17:44 --> 17:48] Back in Rome, all of this hit the Senate at the same time.
+[17:48 --> 17:53] Trajan was dead, he had named Hadrian heir, the eastern legions had gone ahead and hailed
+[17:53 --> 17:57] Hadrian as emperor, and he had accepted.
+[17:57 --> 17:58] What could they do about it?
+[17:58 --> 18:03] So they ratified the quote unquote last witches of Trajan and confirmed Hadrian as the new
+[18:03 --> 18:08] emperor, keeping on him all the titles and honors of his predecessor.
+[18:08 --> 18:12] Hadrian accepted most of the accolades, but pointedly refused the title Father of the
+[18:12 --> 18:19] People, an honorific he felt should be earned, not just handed out willy-nilly.
+[18:19 --> 18:24] The first thing the new emperor did was travel to Cilicia to oversee the funeral and cremation
+[18:24 --> 18:25] of Trajan.
+[18:25 --> 18:30] Obviously, he could not have done otherwise, but beyond the purely ceremonial optics, the
+[18:30 --> 18:35] trip allowed Hadrian an early opportunity to meet face to face with Trajan's inner
+[18:35 --> 18:41] circle and confirm their behind the scenes support for his new administration.
+[18:41 --> 18:45] Though Hadrian maintained a confident public front, there was still much to fear in the
+[18:45 --> 18:49] political back rooms in the legionary tents of the empire.
+[18:49 --> 18:53] He seems to have secured the support of the Trajan loyalists, but there were a handful
+[18:53 --> 18:57] of powerful rivals who would need to be dealt with quickly to ensure that his reign was
+[18:57 --> 19:01] more Augustus and less Galba.
+[19:01 --> 19:06] At first, his narrow purge would only put proverbial heads on the chopping block, but
+[19:06 --> 19:13] in a few months real heads would roll, causing Hadrian all manner of political havoc.
+[19:13 --> 19:16] Initially though, Hadrian refused to do anything violent.
+[19:16 --> 19:21] His old guardian Atianus had risen to the rank of Praetorian Prefect and wrote to Hadrian
+[19:21 --> 19:26] soon after the latter's ascension that a few senators were plotting a coup.
+[19:26 --> 19:31] The Prefect counseled immediate executions, but Hadrian disagreed.
+[19:31 --> 19:35] This was no time to go around lopping off heads, maybe later if there was proof of
+[19:35 --> 19:43] their continued sedition, but for now the official policy was wait and see.
+[19:43 --> 19:46] But though he was not in the mood to stain his new administration with blood, at least
+[19:46 --> 19:51] not yet, Hadrian was well aware of what the score was.
+[19:51 --> 19:56] Men who could not be counted on or who were suspected of their own imperial ambitions
+[19:57 --> 20:01] from their positions and replaced with men loyal to Hadrian.
+[20:01 --> 20:05] One of the first and most famous to go was Lucius Quietus, the North African general
+[20:05 --> 20:09] Trajan had left in command of the legions in Mesopotamia.
+[20:09 --> 20:14] An aggressive Trajanite, Quietus not only had motivation to unseat the new emperor,
+[20:14 --> 20:18] but also the means to do something about it.
+[20:18 --> 20:23] What Hadrian needed to deny his rival for power was the opportunity to act.
+[20:23 --> 20:29] So he unceremoniously terminated Quietus' command and ordered him to head back west.
+[20:29 --> 20:33] This command change was then followed by the famous order that very possibly would have
+[20:33 --> 20:38] spurned Quietus into open revolt had he still been in charge, and an order that would set
+[20:38 --> 20:41] the tone for Hadrian's entire reign.
+[20:41 --> 20:46] Just days after becoming emperor, Hadrian ordered the legions to begin withdrawing from
+[20:46 --> 20:51] all the territories in the east Trajan had just conquered.
+[20:51 --> 20:55] The order would come as a shock to the political classes, and had he not already established
+[20:55 --> 20:59] himself as a favorite son of the legions, it is likely they would have rioted when he
+[20:59 --> 21:04] more or less declared they were going to abandon the territory they had all just won with their
+[21:04 --> 21:06] blood and sweat.
+[21:06 --> 21:11] I say more or less because Hadrian never made any formal announcement of his intentions,
+[21:11 --> 21:17] likely recognizing that an openly stated policy of withdrawal would have been political suicide.
+[21:17 --> 21:22] Instead, he just began recalling the expeditionary forces back to their former barracks on the
+[21:22 --> 21:25] west side of the Euphrates.
+[21:25 --> 21:29] It is not a decision Hadrian entered into lightly, and the speed with which he implemented
+[21:29 --> 21:34] his new policy and the tenacity with which he stuck to it in the face of domestic political
+[21:34 --> 21:39] attacks demonstrates that he had been thinking about it for a very long time.
+[21:39 --> 21:44] Indeed, as we will see, the idea of withdrawing behind the traditional defensible Augustan
+[21:44 --> 21:49] borders of the Empire was at the very core of Hadrian's being.
+[21:49 --> 21:56] The abandonment of Mesopotamia was no tactical retreat, it was a strategic realignment.
+[21:56 --> 22:01] That didn't make the bitter pill of reducing the territory of the Empire go down any easier,
+[22:01 --> 22:05] but the new emperor was adamant about his vision for the future, and it is a testament
+[22:05 --> 22:13] to his political skill that he was able to make such a hugely unpopular decision stick.
+[22:13 --> 22:18] Next week, we will see that Hadrian's vision for an eternally defensible empire was not
+[22:18 --> 22:20] limited to the Euphrates.
+[22:20 --> 22:25] All across the Empire, he would build defensive fortifications to mark the permanent boundary
+[22:25 --> 22:28] of the civilized world.
+[22:28 --> 22:32] But if in so doing he earned himself a reputation as a pacifist, then we need to rethink the
+[22:32 --> 22:34] meaning of that word.
+[22:34 --> 22:39] Whatever else it is, building huge stone walls that restrict the movement of previously unmolested
+[22:39 --> 22:43] locals is not a passive move.
+[22:43 --> 22:48] I think Hadrian is best described as running a highly aggressive defense.
+[22:48 --> 22:53] His goal was not to just sit back and man the walls, it was to project Roman power across
+[22:53 --> 22:58] the Mediterranean and control not just the civilized interior, but the own ruling tribes
+[22:58 --> 23:00] beyond the frontier.
+[23:00 --> 23:05] Not with military occupation, but with overwhelming economic and political dominance.

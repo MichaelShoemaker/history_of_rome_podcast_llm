@@ -1,0 +1,327 @@
+# 20110116 - 122- Jupiter and Hercules
+# Detected language: en
+# Duration: 1550.05 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:16] Hello, and welcome to The History of Rome, episode 122, Jupiter and Hercules.
+[00:16 --> 00:21] I think it's fair to say that for the last 50 odd years, the Roman Empire had been flying
+[00:21 --> 00:23] by the seat of its pants.
+[00:23 --> 00:28] Emperors would appear on the scene, run around madly trying to deal with whatever that week's
+[00:28 --> 00:33] crisis was, and then pass the baton off to the next man, who would run around madly trying
+[00:33 --> 00:38] to deal with the next week's crisis before passing the baton off to the next man, and
+[00:38 --> 00:41] so on and so on.
+[00:41 --> 00:46] Improvisation was the order of the day, and if anyone even had a long-term strategy, they
+[00:46 --> 00:52] usually had neither the time nor the resources to put it into action.
+[00:52 --> 00:55] Most of the emperors who ruled during the third century had no idea that they would
+[00:55 --> 01:01] even be emperor a year before they found themselves draped in the purple, sometimes
+[01:01 --> 01:03] not even the day before.
+[01:03 --> 01:07] So it's not like these men were bringing with them carefully laid out plans when they took
+[01:07 --> 01:10] over power.
+[01:10 --> 01:13] But by all accounts, Diocletian was different.
+[01:13 --> 01:14] He had been thinking about it.
+[01:14 --> 01:19] He had thought long and hard about the problems facing the empire, and what he would do if
+[01:19 --> 01:22] he had the chance to solve them.
+[01:22 --> 01:27] This is not to say that Diocletian was immune from the twists and turns of fate, and he
+[01:27 --> 01:32] was forced to improvise with the best of them, but he at least had some broad notions about
+[01:32 --> 01:36] the direction the empire needed to go in, and he did his level best to keep the empire
+[01:36 --> 01:39] going that way.
+[01:39 --> 01:47] And after defeating Carinus in 285 AD, he wasted no time getting going.
+[01:47 --> 01:53] Right away, Diocletian set the tone for the kind of administration he planned to lead.
+[01:53 --> 01:59] Elites across the empire always viewed transitions of power as incredibly dangerous periods of
+[01:59 --> 02:00] time.
+[02:00 --> 02:05] Who knew what kind of purges the new emperor would initiate as he set about consolidating
+[02:05 --> 02:07] his power.
+[02:07 --> 02:13] But right from the get-go, Diocletian made it clear that clemency would be his watchword.
+[02:13 --> 02:18] Not only were there no executions or banishments for Carinus' allies, Diocletian actually kept
+[02:18 --> 02:22] on most of the previous regime's magistrates.
+[02:22 --> 02:27] But just as the relief was taking hold, the elites in Rome couldn't help but miss the
+[02:27 --> 02:30] other big signal Diocletian sent them.
+[02:30 --> 02:36] He would not be coming to the capital anytime soon.
+[02:36 --> 02:41] Diocletian had no interest in acknowledging even the symbolic power of the Senate, and
+[02:41 --> 02:46] though the frontiers were mostly quiet and he could have made the trip easily, one of
+[02:46 --> 02:50] the things he had been thinking a lot about was that Rome needed to be removed from the
+[02:50 --> 02:53] political equation.
+[02:53 --> 02:59] The snubbing of the ancient capital was deliberate and permanent and part of Diocletian's long-term
+[02:59 --> 03:04] project to rest imperial legitimacy on something other than the consent of the long-irrelevant
+[03:04 --> 03:08] Senate.
+[03:08 --> 03:13] The other big idea that Diocletian had firmly in the front of his mind when he came to power
+[03:13 --> 03:20] was that the job of emperor was now, without a doubt, too big a job for one man.
+[03:20 --> 03:26] At its core, the problem lay in the tension between external and internal threats.
+[03:26 --> 03:31] In order to ensure his place on the throne, an emperor has to keep with him at all times
+[03:31 --> 03:34] the largest and strongest army around.
+[03:34 --> 03:41] That way, ambitious generals elsewhere would not be able to muster any serious threats.
+[03:41 --> 03:46] But that meant that any significant external invasion had to be met personally by the emperor
+[03:46 --> 03:51] since he was the only one with an army big enough to face it down.
+[03:51 --> 03:56] That meant a lot of running around for the emperor and a lot of borderland left unguarded
+[03:56 --> 03:59] as he ran from here to there.
+[03:59 --> 04:05] It also meant that these invasions were not being met in anything even resembling a timely
+[04:05 --> 04:07] manner.
+[04:07 --> 04:11] Diocletian had thought about this seemingly intractable problem and finally came to the
+[04:11 --> 04:16] conclusion that there just had to be two emperors.
+[04:16 --> 04:21] Now this was not a novel idea, but previous examples of it had arisen out of dynastic
+[04:21 --> 04:26] concerns, going back to the partnership of Augustus and Agrippa that was initiated most
+[04:26 --> 04:33] of all because Augustus had almost died without there being a capable heir in place.
+[04:33 --> 04:38] Fathers and sons would rule together or brothers would rule together to cement a family dynasty,
+[04:38 --> 04:43] but never before had the idea of co-rulers been premised on the simple notion that more
+[04:43 --> 04:46] than one emperor was actually needed.
+[04:46 --> 04:54] And these days, Diocletian recognized that more than one ruler was needed.
+[04:54 --> 04:56] The basic logic of this solution was simple.
+[04:56 --> 05:01] Two emperors operating over different spheres would each be able to respond to problems
+[05:01 --> 05:06] in their territories far quicker and more efficiently than any one emperor would ever
+[05:06 --> 05:09] be able to do.
+[05:09 --> 05:14] It would also, by splitting the load of administrative paperwork, create a far more efficient bureaucracy
+[05:14 --> 05:18] to deal with all the minutiae of governance.
+[05:18 --> 05:23] Some questions can only be answered by emperors, and with two emperors, twice as much can be
+[05:23 --> 05:26] answered twice as fast.
+[05:26 --> 05:33] Finally, and this is where the whole thing could unravel, Diocletian bet that by investing
+[05:33 --> 05:39] a colleague with imperial authority, that command of the huge array of armed forces
+[05:39 --> 05:43] that would come with that promotion, a huge array of armed forces that were needed to
+[05:43 --> 05:48] keep the empire safe, that that would not go to said colleague's head.
+[05:48 --> 05:53] They would already have all the dignity and power of an emperor, so no reason to rise
+[05:53 --> 05:59] up in revolt after winning some victory out on the frontiers, right?
+[05:59 --> 06:05] The question then became, who in the world could be trusted with such a promotion?
+[06:05 --> 06:09] Diocletian needed another imperial army out in the field, and he needed someone capable
+[06:09 --> 06:14] of leading it, and since he had no son of his own, he needed someone from outside his
+[06:14 --> 06:19] family whose loyalty he could absolutely count on.
+[06:20 --> 06:24] Maximian.
+[06:24 --> 06:30] The man who would become known as Marcus Aurelius Valerius Maximianus was born around 250 AD
+[06:30 --> 06:34] near Sirmium into a family of shopkeepers.
+[06:34 --> 06:39] He was five or six years younger than Diocletian, which meant that they were just close enough
+[06:39 --> 06:43] in age to have essentially risen through the ranks together, but just far enough apart
+[06:43 --> 06:49] in age for Diocletian to always be the senior partner.
+[06:49 --> 06:54] As with most of the Illyrian generals, the bulk of Maximian's early career is obscure,
+[06:54 --> 06:59] but it is almost certain that he was leading troops during Keras' eastern campaign, and
+[06:59 --> 07:03] highly likely that he was on hand for the drama of Neumerian's death and the decision
+[07:03 --> 07:07] to elevate Diocletian.
+[07:07 --> 07:12] Depending on how far in advance Diocletian had been making his plans, it is entirely
+[07:12 --> 07:17] possible that he had been cultivating a friendship with Maximian for years, with the idea of
+[07:17 --> 07:21] appointing his junior colleague to share the purple with him if he ever got the chance
+[07:21 --> 07:24] to become emperor.
+[07:24 --> 07:30] Maximian was a good general, a stern disciplinarian, and a competent administrator.
+[07:30 --> 07:35] All of these traits recommended him to Diocletian, but perhaps more important than what Maximian
+[07:35 --> 07:40] brought with him to the table was what he didn't.
+[07:40 --> 07:45] Diocletian had no native political talents to speak of.
+[07:45 --> 07:49] Elevating another man with a political mind might cause the new imperial partnership to
+[07:49 --> 07:56] devolve into mutual scheming, backbiting, and then, inevitably, civil war.
+[07:56 --> 08:01] But by choosing a blunt soldier who had no time for political machinations, Diocletian
+[08:01 --> 08:09] could be assured that he would have a partner in power, not a rival for power.
+[08:09 --> 08:14] The rapidity with which Maximian was promoted following Diocletian's elevation means that
+[08:14 --> 08:17] most likely all of this had been pre-arranged.
+[08:17 --> 08:22] Whether it had been arranged years in advance, or whether it was the final care it used to
+[08:22 --> 08:27] secure Maximian's support following Neumerian's death is unknown.
+[08:27 --> 08:32] But we do know that immediately after the death of Carinus in July of 285 that the imperial
+[08:32 --> 08:38] entourage traveled to Milan, where, in a psalm ceremony, Maximian was elevated to the rank
+[08:38 --> 08:42] of Caesar, and formally adopted by Diocletian.
+[08:42 --> 08:48] The empire now had two capable men of imperial rank to watch over its domains.
+[08:48 --> 08:52] And it was a good thing that it did, because there was no time to sit around basking in
+[08:52 --> 08:55] the glow of newfound imperial luxury.
+[08:55 --> 09:01] There were things to be done.
+[09:01 --> 09:04] Diocletian had already determined that he was going to leave the new Caesar Maximian
+[09:04 --> 09:09] to handle the west, and in particular the troubled province of Gaul, while he himself
+[09:09 --> 09:14] traveled east so he could secure the Danube frontier and be ready for any fallout from
+[09:14 --> 09:18] Carus's previous invasion of Persia.
+[09:18 --> 09:23] Making his capital in the city of Nicomedia in Asia Minor, essentially for the same strategic
+[09:23 --> 09:29] reasons Constantine chose to build his capital in Byzantium, Diocletian settled a brief war
+[09:29 --> 09:34] with the Sarmatians before taking a tour of the eastern provinces to ensure that the
+[09:34 --> 09:39] new administration would not have to deal with any problems from seditious-minded locals.
+[09:39 --> 09:44] It had, after all, been only a decade since the eastern Mediterranean had nearly become
+[09:44 --> 09:48] its own political entity.
+[09:48 --> 09:54] For all of 286, Diocletian put his stamp on the east, and back in Nicomedia in 287, he
+[09:54 --> 10:00] received the good news that far from looking for revenge, the Sassanid king Bahram II was
+[10:00 --> 10:03] looking for peace.
+[10:03 --> 10:07] The Persian king sent an embassy to Diocletian with gifts and promises of a stable border
+[10:07 --> 10:10] between the two great empires.
+[10:10 --> 10:15] Delighted that he might be able to solve the Persian question diplomatically, Diocletian
+[10:15 --> 10:21] jumped at the overtures, and after some haggling, the two sides agreed to swap some territory
+[10:21 --> 10:27] in order to rationalize the border, and then pledged mutual friendship and eternal peace.
+[10:27 --> 10:32] It didn't turn out to be exactly eternal peace, but at that moment, with so much else
+[10:32 --> 10:39] to deal with, the promise of even a temporary peace on the eastern front was music to Diocletian's
+[10:41 --> 10:42] ears.
+[10:42 --> 10:47] Unfortunately, the reason there was so much else to deal with was because despite getting
+[10:47 --> 10:54] off to a good start, Maximian had run into some serious difficulties in the west.
+[10:54 --> 11:00] As I just mentioned, Diocletian was not omnipotent, and he was forced to improvise his plans on
+[11:00 --> 11:02] the fly.
+[11:02 --> 11:08] The first test of his ability to make it up as he went along came early in 286, when frantic
+[11:08 --> 11:13] reports came pouring in that a general named Corocius had broken free of Maximian's control
+[11:13 --> 11:17] and had proclaimed himself Augustus of Britain and northern Gaul.
+[11:17 --> 11:21] Well, hell.
+[11:21 --> 11:27] To go back a bit, after being named Caesar, Maximian had traveled north to Gaul, where
+[11:27 --> 11:30] he set up a capital in Mainz.
+[11:30 --> 11:35] His first major test came against a collection of peasants and ex-soldiers called, and I
+[11:35 --> 11:40] know I'm going to butcher this pronunciation, the Bugatti.
+[11:40 --> 11:43] We have very little understanding of the group, and no one really knows whether they
+[11:43 --> 11:49] were a real revolutionary force or whether they were just opportunistic brigands, but
+[11:49 --> 11:54] they had been running rampant throughout central Gaul for years and had to be stopped.
+[11:54 --> 12:00] Maximian, with the authority and resources of an emperor, was able to easily divide and
+[12:00 --> 12:02] conquer the gangs.
+[12:02 --> 12:07] But with Roman attention focused on the interior, tribes of Alamani and Burgundians took advantage
+[12:07 --> 12:12] of the situation and began raiding into the empire.
+[12:12 --> 12:17] Compounding this threat along the upper Rhine was the new threat of Frankish and Saxon pirates
+[12:17 --> 12:20] who were based around the lower Rhine.
+[12:20 --> 12:25] As Maximian dealt with the Alamani and the Burgundians, he delegated the piracy issue
+[12:25 --> 12:31] to a highly capable general named Corocius, who was not only a native of northern Gaul,
+[12:31 --> 12:35] but also an experienced naval captain.
+[12:35 --> 12:38] At first, everything went great.
+[12:38 --> 12:43] Maximian pushed back the Germans in the south, while Corocius ran circles around the overmatched
+[12:43 --> 12:45] pirates in the north.
+[12:45 --> 12:50] But then troubling reports began to filter down to Maximian.
+[12:50 --> 12:54] Rather than returning the captured loot to its rightful owners, or at the very least
+[12:54 --> 12:59] collecting it in some public treasury, he was siphoning it off into his own private
+[12:59 --> 13:00] stashes.
+[13:00 --> 13:05] And worse than that, it was being reported that Corocius was waiting for the pirates
+[13:05 --> 13:10] to finish plundering before he made any move to intercept them, so as to maximize his own
+[13:10 --> 13:11] profit.
+[13:11 --> 13:18] Now, a little pocket lining is one thing, but this breach of faith, actually standing
+[13:18 --> 13:25] by and allowing pirates to plunder and burn, was something else entirely.
+[13:25 --> 13:29] Maximian may have been a rough soldier, but a sense of honor pervaded his commitment to
+[13:29 --> 13:30] the empire.
+[13:30 --> 13:35] The legions were there to defend, not to exploit.
+[13:35 --> 13:40] Corocius, whatever his merits, had gone too far.
+[13:40 --> 13:45] And this is where his lack of political savvy doomed Maximian.
+[13:45 --> 13:50] Rather than laying some careful trap for his wayward admiral, rather than coaxing him out
+[13:50 --> 13:55] of his stronghold with flattery and promises of friendship, Maximian simply demanded Corocius
+[13:55 --> 14:00] report at once to account for himself.
+[14:00 --> 14:04] Really nervous about what might happen if he complied, Corocius hesitated, which caused
+[14:04 --> 14:10] Maximian to declare him a public enemy and order his execution.
+[14:10 --> 14:17] This of course immediately negated any possibility of a peaceful end to the situation.
+[14:17 --> 14:22] Corocius had at his disposal the entire Roman fleet, as well as the massive pile of loot
+[14:22 --> 14:25] he had spent the last few months accumulating.
+[14:25 --> 14:33] If Maximian wanted him, he could try to come get him, but good luck with that.
+[14:33 --> 14:37] Corocius withdrew to Britain, where with the help of his ill-gotten gains, he secured the
+[14:37 --> 14:41] loyalty of the legions stationed there.
+[14:41 --> 14:45] At the same time, everyone suddenly became aware of the backchannel talks Corocius had
+[14:45 --> 14:49] been engaged in with the Franks this whole time.
+[14:49 --> 14:54] When the split with Maximian became official, the Franks seized most of the Gallic coast,
+[14:54 --> 14:58] and in particular the port of Boulogne.
+[14:58 --> 15:05] With the help of his new German allies, Corocius now controlled an impregnable little kingdom.
+[15:05 --> 15:10] Even if Maximian were able to drive off the Franks, the Caesar had no fleet and no way
+[15:10 --> 15:15] of even reaching Britain, let alone fighting for it.
+[15:15 --> 15:20] And even then, getting bogged down in the north threatened the peace everywhere else.
+[15:20 --> 15:28] Reluctantly, Maximian allowed Corocius to hold his little kingdom.
+[15:28 --> 15:32] This sudden rebellion forced Diocletian's hand.
+[15:32 --> 15:37] Up to this point, the relationship between Diocletian and Maximian had been one of Augustus
+[15:37 --> 15:40] and Caesar, father and son.
+[15:40 --> 15:47] But with Corocius declaring himself Augustus, Diocletian had to match the bet on the table.
+[15:47 --> 15:53] It wouldn't do from a public relation standpoint to have an Augustus, self-proclaimed or otherwise,
+[15:53 --> 15:56] being met by a mere Caesar.
+[15:56 --> 15:59] The optics of it were all wrong.
+[15:59 --> 16:05] So in April 286, he further elevated Maximian to the rank of Augustus, and henceforth their
+[16:05 --> 16:11] relationship was one of brothers rather than that of father and son.
+[16:11 --> 16:16] Though he had botched the handling of Corocius, Diocletian still had faith in Maximian, and
+[16:17 --> 16:20] Maximian, for now, continued to prove his worth.
+[16:20 --> 16:26] He may have been politically inept, but as a soldier he was second to none.
+[16:26 --> 16:31] Refusing to launch a rash campaign to retake Britain, Maximian kept his focus on southern
+[16:31 --> 16:37] and central Gaul, campaigning on both sides of the river to completely pacify the region
+[16:37 --> 16:40] before allowing himself to turn to the north.
+[16:40 --> 16:43] Not that preparations weren't underway.
+[16:43 --> 16:48] A fleet was even then being constructed for the eventual invasion of Britain, but Maximian
+[16:48 --> 16:53] wanted to make damn sure that his back was covered before he went north.
+[16:53 --> 17:00] Plus, Corocius's rebellion had led him naturally into alliance with the German tribes.
+[17:00 --> 17:05] By launching a scorched earth campaign in Germany, Maximian hoped to devastate all of
+[17:05 --> 17:10] Corocius's allies, leaving the treasonous general isolated on his island without mainland
+[17:10 --> 17:14] support.
+[17:14 --> 17:19] All through 286 and 287, while Diocletian was settling things diplomatically in the
+[17:19 --> 17:25] east, Maximian was settling things with the sword in the west.
+[17:25 --> 17:29] In the spring of 288, however, Diocletian felt confident enough in the stability of
+[17:29 --> 17:36] the eastern provinces that he decided to come to Gaul himself and aid his brother emperor.
+[17:36 --> 17:40] The breakaway of Corocius was, without a doubt, the single most important thing going on in
+[17:40 --> 17:42] the empire at that moment.
+[17:42 --> 17:48] The prestige of the new administration was on the line, and Diocletian wanted to make
+[17:48 --> 17:52] sure that nothing was left to chance.
+[17:52 --> 17:57] The senior Augustus had his sights set on completely redefining the imperial order,
+[17:57 --> 18:02] with the express aim of denying future ambitious generals access to the kind of legitimacy
+[18:02 --> 18:07] they would need to usurp the throne, and, as you can imagine, the existence of a usurper
+[18:07 --> 18:15] in Britain was seriously upsetting Diocletian's plans.
+[18:15 --> 18:21] To explain what I mean by denying access to legitimacy, we have to go back in time a bit.
+[18:21 --> 18:27] When he was reorganizing the state, Augustus used the Senate's long-standing and unrivaled
+[18:27 --> 18:32] authority to convey legitimacy onto his new regime.
+[18:32 --> 18:37] After two and a half centuries, though, the Augustan system had finally cracked, and legitimacy
+[18:37 --> 18:42] was now conferred not by the Senate, but by the troops in the field.
+[18:42 --> 18:46] You could say that this had always been the case, but it was never so nakedly apparent
+[18:46 --> 18:51] to the soldiers themselves as it was during the crisis years.
+[18:51 --> 18:56] They used their new power with reckless abandon, and emperors were made and unmade at the drop
+[18:56 --> 18:58] of a hat.
+[18:58 --> 19:03] Diocletian had thought about how to wrest this power away from the soldiers, and he
+[19:03 --> 19:06] thought that he had hit upon a solution.
+[19:06 --> 19:12] Rather than looking down to the legions, or over to the Senate for their legitimacy, emperors
+[19:12 --> 19:16] should henceforth look up to the heavens.
+[19:16 --> 19:21] This was a hugely important step in the history of political theory in the West, as it was
+[19:21 --> 19:28] here in the late 280s AD that Diocletian laid the foundation for 1,500 years of divinely
+[19:28 --> 19:34] appointed kings ruling over Europe.
+[19:34 --> 19:37] The fascinating thing about all of this is that this foundation was laid because of the
+[19:37 --> 19:41] specific circumstances facing Diocletian.
+[19:41 --> 19:46] He needed to restore discipline to the troops, and restore a sense of awe-inspiring majesty
+[19:46 --> 19:52] to the office of emperor in order to restore stability to the empire.
+[19:52 --> 19:56] In his biography of Diocletian, Stephen Williams makes the point that though their policies
+[19:56 --> 20:04] were miles apart, that at heart Augustus and Diocletian were really the same kind of man.
+[20:04 --> 20:08] Both were acutely aware that they needed to find a way to restore order after years of
+[20:08 --> 20:11] chaos.
+[20:11 --> 20:14] Had their roles been reversed, they would not at all have been out of character for
+[20:14 --> 20:20] Diocletian to have used the institutions of the republic to stabilize a new autocracy,
+[20:20 --> 20:25] nor would have been out of character for Augustus to argue for divine right following the crisis
+[20:25 --> 20:28] of the third century.
+[20:28 --> 20:30] Neither man was an ideologue.
+[20:30 --> 20:34] They were pragmatists, more than willing to follow whichever course they thought would
+[20:34 --> 20:37] best achieve their ends.
+[20:37 --> 20:43] So it was not megalomania that led Diocletian to begin telling everyone that he was appointed
+[20:43 --> 20:50] by Jupiter, and nothing less than Jupiter's agent on earth, just as it was not humility
+[20:50 --> 20:54] that led Augustus to tell everyone that he was merely the first citizen.
+[20:54 --> 21:00] It was rather, in both cases, a carefully thought out piece of pageantry that each believed
+[21:00 --> 21:04] would halt the entropy that had afflicted their empire.
+[21:04 --> 21:09] It was in this way that the formal slide, and here is another one of those arbitrary
+[21:09 --> 21:15] labels we use to keep history straight in our heads, from principate to dominant, from
+[21:15 --> 21:23] the emperor styled as first citizen to the emperor styled as your lord and master.
+[21:23 --> 21:29] It was as he was finishing up his negotiations with the Persians in 287 that Diocletian first
+[21:29 --> 21:33] began to claim the divine authority that would become the foundation of his regime and the
+[21:33 --> 21:37] foundation of all future regimes.
+[21:37 --> 21:43] He took for himself the title Jovius and gave to Maximian the title Herculius, references
+[21:43 --> 21:50] to the respective patron deities Diocletian had chosen for them, Jupiter and Hercules.
+[21:50 --> 21:56] The former the head of the gods, the master architect, the supreme authority.
+[21:56 --> 22:02] The latter the great hero, the indefatigable defender of mankind.
+[22:02 --> 22:07] And this is where the supreme political artistry of Diocletian becomes apparent, the ever ready
+[22:07 --> 22:10] tool of Jupiter.
+[22:10 --> 22:15] As Diocletian was setting up his new imperial paradigm, he made sure that it cemented the
+[22:15 --> 22:20] relationship he wished to have with his brother Emperor Maximian.
+[22:20 --> 22:23] Diocletian would be Jupiter, the architect of policy.
+[22:23 --> 22:29] Maximian would be Hercules, the hands that carried out those policies.
+[22:29 --> 22:32] It was a relationship that suited both men just fine.
+[22:32 --> 22:38] Maximian was no politician and Diocletian was no general.
+[22:38 --> 22:44] Down the road though, these new divinely inspired dynasties would run into problems.
+[22:44 --> 22:46] What if the new Jovius lacked vision?
+[22:46 --> 22:50] What if the new Hercules didn't want to take orders?
+[22:50 --> 22:52] But these were questions for another day.
+[22:52 --> 22:58] For now, Jupiter and Hercules would rule the united empire in harmony.
+[22:58 --> 23:02] Well, dang it, not fully united anymore.
+[23:02 --> 23:07] Hercules had gone and blundered away the island of Britain.
+[23:07 --> 23:13] Next week, Jupiter will travel to the west to help his faithful hero regain his footing.
+[23:13 --> 23:16] But it won't do much good.
+[23:16 --> 23:21] After running a joint campaign to put the final crackdown on any German troublemakers,
+[23:21 --> 23:26] Diocletian would leave the recovery of Britain in the hands of Maximian, but good old Hercules
+[23:26 --> 23:31] would botch the job again and wind up leaving Corocius' position even stronger than it
+[23:31 --> 23:34] had been before.
+[23:34 --> 23:39] The upshot of the botched retaking of Britain was Diocletian's realization that two emperors
+[23:39 --> 23:43] were perhaps not enough.
+[23:43 --> 23:46] The British question wasn't going anywhere.
+[23:46 --> 23:50] But the empire couldn't afford to have Maximian forever bogged down on the Gallic coast.
+[23:50 --> 23:53] He was needed elsewhere.
+[23:53 --> 23:57] So next week, we will see another doubling of imperial authority.
+[23:57 --> 24:02] And for the first time in its long history, Rome would have four emperors working in concert
+[24:02 --> 24:03] with each other.
+[24:03 --> 24:10] A system that we have come to know as the Tetrarchy.
+[24:10 --> 24:14] Before we go this week, I want to mention two things for those of you out there who
+[24:14 --> 24:18] just can't get enough Mike Duncan in your lives.
+[24:18 --> 24:24] First, I did an interview last week with Andrew Johnston on his Podcast Squared show.
+[24:24 --> 24:30] So if you want to listen to me ramble on about various topics and say um and sort of a lot,
+[24:30 --> 24:36] you can download Podcast Squared on iTunes or at the Lifestyle Pod Network.
+[24:36 --> 24:39] The URL for the direct download is a mouthful.
+[24:39 --> 24:43] So I'll just post a link at thehistoryofrome.typepad.com.
+[24:43 --> 24:51] Second, in the more funsie category, I will be a guest on listener Matthew Johnson's local Austin
+[24:51 --> 24:57] radio show remix on Wednesday, January 19 at 2 p.m. Central Time.
+[24:57 --> 25:02] What I get to do is bring in a mixtape of music and then talk with him about the relationship
+[25:02 --> 25:05] between work and writing and music.
+[25:05 --> 25:08] So it should be lots of fun.
+[25:08 --> 25:12] If you want to listen to the music that I listen to while writing the show, you can
+[25:12 --> 25:19] stream co-op radio online at www.koop.org.
+[25:19 --> 25:24] That too will get a link at thehistoryofrome.typepad.com.
+[25:24 --> 25:27] So January 19 at 2 p.m.
+[25:27 --> 25:27] See you then.

@@ -1,0 +1,286 @@
+# 20100823 - 106- Barbarian at the Gate
+# Detected language: en
+# Duration: 1783.56 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you know, Audible is the internet's
+[00:05 --> 00:10] leading provider of audio entertainment with over 60,000 titles to choose from. When you're
+[00:10 --> 00:17] done with this episode, go to audiblepodcast.com forward slash room. That again, audiblepodcast.com
+[00:17 --> 00:22] forward slash room. By going to that address, you qualify for a free book download when
+[00:22 --> 00:27] you sign up for a 14-day trial membership. There is no obligation to continue the service
+[00:27 --> 00:31] and you can cancel anytime and keep the free book. You can also keep going with one of
+[00:31 --> 00:37] their monthly subscription options and get great deals on all your future audiobook purchases.
+[00:37 --> 00:42] This week, I'm going to recommend How the Irish Saved Civilization by Thomas Cahill,
+[00:42 --> 00:47] which tells the important story of how many of the ancient texts that this very podcast
+[00:47 --> 00:53] is based on managed to survive intact through the darkest period of the dark ages. Just
+[00:53 --> 00:57] remember to go to audiblepodcast.com forward slash room so they know who sent you.
+[00:57 --> 01:10] Hello, and welcome to the History of Rome, episode 106, Barbarian at the Gate.
+[01:10 --> 01:18] The first eight years of Alexander Severus' reign proved to be a relatively quiet and prosperous
+[01:19 --> 01:25] empire. The period was not totally without problems, as evidenced by the periodic mutinies
+[01:25 --> 01:30] in the army, but compared to what had come before and what was going to come after, the
+[01:30 --> 01:36] mid to late 220s AD was pretty much heaven on earth. Taxes were low, the frontiers were quiet,
+[01:36 --> 01:43] and the imperial regime was stable. That period of relative calm, however, is about to come to an
+[01:43 --> 01:52] abrupt end. In 230 AD, the new Sassanid king Artashir, who we introduced last week, made the
+[01:52 --> 01:58] bold decision to begin attacking the Roman Empire. He was an aggressive and ambitious leader, and it
+[01:58 --> 02:04] is reported that his ultimate objective may have been to completely dislodge the Romans from the
+[02:04 --> 02:10] east, which was an aggressive and ambitious goal to say the least. He amassed an army on the banks
+[02:10 --> 02:15] of the Tigris River, which at the time had been serving as the de facto Roman Parthian border,
+[02:15 --> 02:22] and began raiding the Roman positions in Mesopotamia. At the very least, Artashir planned
+[02:22 --> 02:27] to reclaim this critical region, which had again fallen under Roman control during the reign of
+[02:27 --> 02:34] Caracalla. Artashir's raids sent alarm bells ringing across the empire, as observers of
+[02:34 --> 02:39] eastern politics knew that Artashir and the Sassanids were a dangerous new power looking
+[02:39 --> 02:45] to make their mark on the world. Despite calls for him to immediately order a counterattack,
+[02:45 --> 02:51] Alexander responded, not unreasonably, by sending envoys to Artashir to figure out what was going
+[02:51 --> 02:58] on. He was castigated for this timid response by many in the legions, who accused Alexander
+[02:58 --> 03:04] of being a decadent coward afraid of fighting. But Alexander wanted to be sure this wasn't all
+[03:04 --> 03:10] some misunderstanding before he started a war. Trying to end conflicts with words rather than
+[03:10 --> 03:15] swords is not a terrible policy. As the off-sided Winston Churchill quote goes,
+[03:15 --> 03:22] to jaw-jaw is always better than to war-war. But in the coming years, Alexander would continue
+[03:22 --> 03:27] to do things that confirmed the perception that he was unwilling to fight even a justifiable war,
+[03:27 --> 03:35] and this would be his undoing. The envoys met with Artashir and reminded the king of all applicable
+[03:35 --> 03:40] treaties and territorial claims, and then informed the Sassanids in no uncertain terms
+[03:40 --> 03:46] that they were encroaching on Roman land and thus risking war. They went on to say that the emperor
+[03:46 --> 03:51] was more than happy to forget the whole thing, as Artashir was new to the job and maybe didn't
+[03:51 --> 03:57] realize what he was doing, but he had to stop his activities right now and stay on the east bank
+[03:57 --> 04:03] of the Tigris. Artashir thanked them for their message and told them that he knew exactly what
+[04:03 --> 04:08] he was doing, that he was going to keep doing what he was doing, and what are the Romans going to do
+[04:08 --> 04:14] about it if they're so tough. The envoys hastily sent word to Alexander that the Sassanid king had
+[04:14 --> 04:21] refused to yield, and so Alexander, out of political and moral necessity, mustered an army and prepared
+[04:21 --> 04:29] to march east. Unlike Lucius Verus, who had taken his sweet time traveling to Antioch the
+[04:29 --> 04:36] last time the eastern provinces had been under attack, Alexander marched quickly. On his way
+[04:36 --> 04:40] through Illyria, he drafted a chunk of the Danube legions into his expeditionary force,
+[04:40 --> 04:47] and with an impressive army at his back, he arrived in Antioch in 231, ready to begin drilling for the
+[04:47 --> 04:56] expected campaign. As his army prepared for war, Alexander once again tried for peace. With the
+[04:56 --> 05:01] eastern legions strongly reinforced and the emperor himself present on the scene, Alexander
+[05:01 --> 05:07] hoped Artashir would see the error of his ways and back down from the confrontation. But again,
+[05:07 --> 05:12] though it was probably a prudent overture, the legions were disgusted with Alexander for
+[05:12 --> 05:19] continuing to jaw-jaw when he should be making war-war. They accused the emperor of being too
+[05:19 --> 05:25] addicted to the comforts of Rome to defend the empire honorably. I'm willing to give Alexander
+[05:25 --> 05:31] the benefit of the doubt as to his motivations, but given his later conduct, it's not exactly
+[05:31 --> 05:36] implausible that the young emperor really was just trying to get out of having to endure the
+[05:36 --> 05:44] hardships of a military campaign. While he waited for Artashir's reply, the emperor and his lieutenants
+[05:44 --> 05:51] struggled to hold the assembled legions together. Discontentment with Alexander's leadership had
+[05:51 --> 05:56] become second nature to the soldiers, who were annoyed not just with the constant peace offerings,
+[05:56 --> 06:02] but also with the fact that Julia Mamia was right there with her son, in his tent, controlling him,
+[06:02 --> 06:09] and by extension, them. Not only was it bothersome that they were being led by a woman, or a boy
+[06:09 --> 06:15] being controlled by a woman, which is somehow just a little bit worse, but Julia in particular
+[06:15 --> 06:22] was not a beloved figure in the army. As I hinted at last week, Julia's conduct eventually became
+[06:22 --> 06:27] a liability for Alexander, and it was during the eastern campaign that this became apparent.
+[06:27 --> 06:35] The big problem was that Julia Mamia loved money. Not the things money could buy, but the money
+[06:35 --> 06:42] itself. She loved money in the way that Ebenezer Scrooge loved money. She loved to acquire it,
+[06:42 --> 06:49] and she hated to spend it. So while Alexander's regime is often praised for its modesty, and that
+[06:49 --> 06:54] they didn't spend exorbitant amounts on food and clothes and parties, they often slipped too far the
+[06:54 --> 07:02] other way and were accused of excessive miserliness, especially by the legions. They had watched their
+[07:02 --> 07:07] pay cut, and their donatives cancelled, and every little comfort they had accumulated over the year
+[07:07 --> 07:13] stripped away, and all the while they had watched Julia Mamia carefully collect and then sit on tax
+[07:13 --> 07:19] revenue. The emperor wasn't too broke to pay the legions what they thought they deserved. He was
+[07:19 --> 07:26] just too stingy. But everyone knew that it wasn't the emperor who was stingy, it was his mother. That
+[07:26 --> 07:31] lady in the tent over there, she's the one who keeps our rations standard and our camps rough,
+[07:31 --> 07:36] and she's the same lady who's telling her son to make peace with the Sassanids rather than punish
+[07:36 --> 07:43] them for their transgressions. No, it is fair to say that the legions didn't like Julia one bit.
+[07:43 --> 07:52] So Alexander's eastern army was plagued by mutiny. The soldiers coming out of Egypt seem
+[07:52 --> 07:58] particularly insubordinate, but the men of the Danube legions were right behind them. They were
+[07:58 --> 08:04] unused to the Syrian climate, and disease broke out almost as soon as they arrived. Far from home,
+[08:04 --> 08:11] they began dropping like flies. Supposedly they were there to fight a war, but instead the emperor
+[08:11 --> 08:16] was futzing around trying to call the whole thing off, which meant that maybe they had been
+[08:16 --> 08:22] dragged out to this godforsaken desert for no reason, and now they were maybe dying for no reason.
+[08:22 --> 08:29] This, as you can imagine, was not a recipe for happy soldiers. So it was perhaps lucky for
+[08:29 --> 08:35] Alexander that Artashire again rebuffed his advances. In reply to Alexander's latest peace
+[08:35 --> 08:40] offering, the Sassanid king demanded that the Romans completely withdraw from their eastern
+[08:40 --> 08:46] provinces and cede all territory east of the Hellespont to the Sassanids. So yeah,
+[08:46 --> 08:55] I guess the time had come for war-war. In 232, Alexander and his generals divided up the legions
+[08:55 --> 09:01] and set into motion their plan for a three-pronged invasion of Parthian territory. Wait,
+[09:01 --> 09:07] are we still calling it Parthia? Who is this that we're even fighting these days? One arm
+[09:07 --> 09:13] was to head north and take the route through Armenia to Medea. The second arm would circle
+[09:13 --> 09:18] around the south and then plunge north well east of where Artashire would be expecting an
+[09:18 --> 09:24] invasion force to appear. The main army, led by the emperor himself, would march through the middle
+[09:24 --> 09:31] directly at the heart of the enemy. The point of all this was to divide Artashire's attention with
+[09:31 --> 09:37] attacks on multiple fronts so that he would split his forces and all three of the Roman arms would
+[09:37 --> 09:44] enjoy a numerical advantage. It was a great strategy in theory. In practice, it didn't work
+[09:44 --> 09:50] out quite as planned, especially since Alexander never led the key attack on the middle of Sassanid
+[09:50 --> 09:58] territory, leaving his two wings exposed to Artashire's forces. The whole operation got off
+[09:58 --> 10:03] to a shaky start anyway, though, as the northern trek through the Armenian mountains turned out
+[10:03 --> 10:09] to be far more difficult than the Romans were anticipating. But after an arduous journey,
+[10:09 --> 10:14] they emerged from the mountains more or less intact and immediately besieged the key cities
+[10:14 --> 10:21] of Medea. This assault had the intended effect on Artashire, who was compelled to peel off a
+[10:21 --> 10:26] significant portion of his troops to deal with this crisis in the north. In the south, things
+[10:26 --> 10:32] went much better for the invading legions, at least at first, and just as planned, they marched
+[10:32 --> 10:37] north from the confluence of the Tigris and Euphrates rivers. And, much to Artashire's surprise,
+[10:37 --> 10:43] the Sassanid king suddenly had to deal with a Roman army deep in his own territory. Leaving
+[10:43 --> 10:48] behind what he hoped would be enough men in Medea, Artashire rushed east with the rest of
+[10:48 --> 10:54] his troops to deal with the new front the Romans had opened up. So far, everything was working out
+[10:54 --> 11:00] exactly as the Romans had hoped. The Sassanid forces were divided and strategically scrambled.
+[11:00 --> 11:05] All that was left was for Alexander to lead the main Roman army across the Tigris,
+[11:05 --> 11:12] and the Sassanids would be overwhelmed. But this last crucial step was not taken. It seems that
+[11:12 --> 11:17] Alexander had come to believe that things were going so well that his part of the plan was now
+[11:17 --> 11:23] unnecessary. The soldiers under his command, eager to get in the fight, were appalled and now convinced
+[11:23 --> 11:29] beyond any doubt that their leader was either a coward or a weakling dominated by a cowardly
+[11:29 --> 11:38] mother. This decision not to invade would have disastrous consequences. The force marching up
+[11:38 --> 11:43] from the south believed that the emperor had already invaded, and thus that their west flank
+[11:43 --> 11:50] was totally protected. But without Alexander's army getting in the way, Artashire was able to
+[11:50 --> 11:55] take a straight line to the unsuspecting legions and then hit them with a force far in excess of
+[11:55 --> 12:01] anything they had prepared for. Believing themselves safe on the left, the legions had
+[12:01 --> 12:06] been sloppy in their defenses, and so when Artashire appeared on the horizon with a huge
+[12:06 --> 12:13] Sassanid army behind him, they were taken totally by surprise. Surprise is such a coveted element
+[12:13 --> 12:19] of war because it so often leads directly to total victory, and in this case, the point was
+[12:19 --> 12:26] proved decisively. After an improvised attempt to defend themselves failed, the surprise legions
+[12:26 --> 12:35] were overrun and cut down to the last man. Back in Roman territory, news of the disaster was met
+[12:35 --> 12:41] with grief and fury by Alexander's army. There was absolutely no reason why their comrades should
+[12:41 --> 12:47] have been hung out to dry like that. Here they were, the largest of the three divisions, sitting
+[12:47 --> 12:52] on the sidelines twiddling their thumbs while out there men were dying for a lack of support.
+[12:52 --> 12:59] The damage done to Alexander's reputation was incalculable. But what was done was done,
+[12:59 --> 13:05] and the emperor, realizing that the initial invasion plan was now busted, ordered the northern
+[13:05 --> 13:12] arm back to Antioch where the Romans would regroup and reassess their position. But this
+[13:12 --> 13:17] order only exacerbated the Roman problems as the march back through Armenia during the winter of
+[13:17 --> 13:25] 232-233 was even harder than the march in had been. Men died of disease and exposure and hunger,
+[13:25 --> 13:30] and the army that finally arrived back in Antioch was a broken shell of what it had once been.
+[13:30 --> 13:39] Alexander was spared the painful process of trying to figure out how to salvage victory
+[13:39 --> 13:44] from the humiliation of defeat when scouts arrived with the unexpected news that Artashir
+[13:44 --> 13:51] had decided to disband his exhausted army. Like the old armies of the Roman Republic,
+[13:51 --> 13:58] the Sasanid army was an unprofessional force of temporary draftees. Artashir's running them this
+[13:58 --> 14:03] way and that over the course of the last few years had led to his own internal problems,
+[14:03 --> 14:10] as men complained that their farms and businesses were falling into disrepair back home. Rather
+[14:10 --> 14:15] than risk a full mutiny that would destroy his so recently won legitimacy, Artashir released
+[14:15 --> 14:21] them all from service. Besides, it wouldn't hurt to take a few years off to recuperate from this
+[14:21 --> 14:28] initial encounter with Rome. Artashir was playing for the long game and was simultaneously emboldened
+[14:28 --> 14:34] and chastened by this first war. The next time he took on the Romans, he would be stronger and
+[14:34 --> 14:43] smarter. The sudden disbanding of the Sasanids was a godsend for Alexander, and it allowed him
+[14:43 --> 14:49] to extract himself from the East with his dignity somewhat intact, because at the very least he
+[14:49 --> 14:56] would be able to argue that the Romans, despite their setbacks, had actually won the war. But
+[14:56 --> 15:01] though this line worked on the Senate and the general population, the army wasn't having it
+[15:01 --> 15:07] for a second. They knew what had really happened and they were really ticked off about it.
+[15:07 --> 15:12] Compounding their anger was a message from the West that Germanic tribes had taken the
+[15:12 --> 15:18] opportunity provided by Alexander's redeployment of the Danube legions to cross the frontier and
+[15:18 --> 15:23] raid Roman settlements. When the men of the Danube legions found out what had happened,
+[15:23 --> 15:29] they absolutely redlined. They had been dragged from their homes out to this stupid desert,
+[15:29 --> 15:35] ravaged by disease and hunger and thirst, all in the name of fighting some war that they never
+[15:35 --> 15:41] even got into because Alexander had kept them sitting on the sidelines. Those who had gotten
+[15:41 --> 15:46] to fight had been pointlessly marched through Armenia and back until they were almost all dead.
+[15:46 --> 15:52] And now on top of everything else, the very fact of their absence had led their families back home
+[15:52 --> 15:58] to be slaughtered by marauding Germans. Pissed off does not even begin to describe the mood of
+[15:58 --> 16:06] the Danube legions. Both to head off a full-blown insurrection and because it was the right thing
+[16:06 --> 16:12] to do, Alexander quickly picked up the army he had stationed in Antioch and, leaving behind a
+[16:12 --> 16:17] few garrisons to keep an eye on the Sassanids, marched the rest west to drive back the Germans
+[16:17 --> 16:24] and exact a little revenge. As he marched through Moesia and Pannonia, he redeposited some of the
+[16:24 --> 16:29] various Danube troops back in their home camps and allowed them to clean up the mess that had
+[16:29 --> 16:34] been made in their absence. The rest of the army kept marching with Alexander all the way to the
+[16:34 --> 16:40] upper Rhine where the German incursions had been heaviest. But once situated in Germany,
+[16:40 --> 16:46] Alexander quickly reminded everyone that at the end of the day he really, really did not want to
+[16:46 --> 16:53] lead an army in battle. After crossing the Great River on a pontoon bridge and a showy display of
+[16:53 --> 16:58] force, the emperor sent word to the various German chiefs offering terms of peace which
+[16:58 --> 17:07] included payments of cash and other considerations and exchanged recession of hostilities. This was
+[17:07 --> 17:13] the last straw. The legions Alexander had brought with him from the east described to their western
+[17:13 --> 17:19] comrades what had happened in Syria and they all agreed that history was repeating itself. The
+[17:19 --> 17:24] Germans had plundered Roman territory and Alexander's response was to offer them more
+[17:24 --> 17:31] treasure. This growing anger didn't even yet take into account the fact that with their reduced pay,
+[17:31 --> 17:36] the men were clamoring for an invasion of Germania so they could do some plundering of their own.
+[17:36 --> 17:43] Over the winter of 234-235, the rank and file mumbled and grumbled to each other and the
+[17:43 --> 17:50] possibility of rebellion went from secret desire to open conspiracy. The only thing standing between
+[17:50 --> 17:57] Alexander and assassination was that the men had no leader willing to head their revolt. In February
+[17:57 --> 18:04] 235 though, that all changed and a general named Maximinus Thrax was about to become the first
+[18:04 --> 18:13] barbarian emperor of Rome. The career of Maximinus is fascinating for all kinds of reasons,
+[18:13 --> 18:18] not the least of which because he is the one character who really stood out to me the first
+[18:18 --> 18:24] time I read any part of The Decline and Fall back when I was a kid. The rest of Given was
+[18:24 --> 18:29] just indecipherable gobbledygook that I couldn't make heads or tails out of but when he started
+[18:29 --> 18:35] talking about this gigantic barbarian who as a teenager easily bested the strongest men in the
+[18:35 --> 18:42] legions and then rose up the ranks to become emperor, well that I understood. What I didn't
+[18:42 --> 18:47] understand at the time was what a momentous event his claim to the throne represented in the broader
+[18:47 --> 18:57] sweep of Roman history. Maximinus Thrax had been born in the early 170s AD and tradition holds that
+[18:57 --> 19:02] he was the son of a peasant family in Thrace, hence the Thrax which roughly makes his name
+[19:02 --> 19:10] Maximinus the Thracian. But it is also possible that he was born and raised in Moesia. As with
+[19:10 --> 19:17] the exact location of his birth, his heritage is similarly a matter of some debate. The Historia
+[19:17 --> 19:23] Augusta now beginning to slip into unreliability claimed that he was born of a Gothic father and
+[19:23 --> 19:29] a Sarmatian mother. But most other Roman writers describe him as being Thraeco-Roman, that is,
+[19:29 --> 19:35] a fully settled and Romanized Thracian rather than a barbarian in the sense that his parents
+[19:35 --> 19:42] came from communities beyond the frontier. He was first noticed during the reign of Septimius
+[19:42 --> 19:48] Severus when the emperor was returning from one of his eastern campaigns, probably the first one
+[19:48 --> 19:55] following his victory over Niger in 194. Legend has it that after halting the day's march, the
+[19:55 --> 20:00] legions decided to engage in some friendly sport with the locals. Young Maximinus showed up and
+[20:00 --> 20:07] proceeded to toss every soldier the legions threw at him. Severus was impressed, but he was even
+[20:07 --> 20:12] more impressed the next day when the young man jogged alongside his horse until the emperor
+[20:12 --> 20:17] agreed to let him join the legions. And the emperor was even more more impressed when after
+[20:17 --> 20:24] jogging for God knows how many miles, Maximinus still bested the dozen or so soldiers Severus
+[20:24 --> 20:32] ordered him to wrestle as a final test. Maximinus made an excellent soldier. He was, after all,
+[20:32 --> 20:38] a head taller than just about every other man in the army. He is described as being eight Roman
+[20:38 --> 20:44] feet tall, which is basically eight modern feet tall. And while I find that very hard to believe,
+[20:44 --> 20:49] I'm willing to believe that he was significantly larger than his contemporaries, not unlike
+[20:49 --> 20:56] Charlemagne, who is also described as being a gigantic eight feet tall. But despite his
+[20:56 --> 21:01] excellence as an infantryman, he was never slated for higher command and for a long time looked
+[21:01 --> 21:08] destined for the standard 25 years service and a gold watch. But over time he did rise up the ranks,
+[21:08 --> 21:14] and when Alexander Severus took over, his governing council recommended the Thracian for
+[21:14 --> 21:20] a slot running the training of new recruits in Pannonia. In this post, Maximinus thrived.
+[21:20 --> 21:28] He was stern and demanding, but he also reveled in leading by example. Whatever he expected his
+[21:28 --> 21:34] men to do, he did himself first. He never sat back and ordered his men around. He always got
+[21:34 --> 21:40] down in the mud with them and shared in the hard, dirty, and exhausting work of learning how to be
+[21:40 --> 21:47] a Roman soldier. This teaching style endeared him to each successive wave of recruits, and pretty
+[21:47 --> 21:53] soon a majority of the men serving along the Danube had been personally trained by Maximinus
+[21:53 --> 21:58] Thrax. And so a majority of the men serving along the Danube loved him to death and would
+[21:58 --> 22:06] have followed him to hell and back. When the Germans began overrunning the border in 234,
+[22:06 --> 22:11] Maximinus was put in charge of a legion, and he was already working hard to counter the
+[22:11 --> 22:17] German menace when Alexander arrived on the scene a few months later. We don't really know what his
+[22:17 --> 22:24] level of involvement was with the growing mutiny prior to February 235, but we can say for pretty
+[22:24 --> 22:31] certain that Maximinus had no love for Alexander. Though the young emperor was the man who had
+[22:31 --> 22:37] finally given Maximinus a real shot at power, the Thracian had long ago developed a hatred for the
+[22:37 --> 22:43] Roman aristocracy, and soft, refined Alexander was the undisputed leader of the Roman aristocracy.
+[22:43 --> 22:50] The rich old men of Rome had never let Maximinus forget his humble origins,
+[22:50 --> 22:55] nor had their slaves failed to treat him as something beneath even their own lowly station.
+[22:55 --> 23:02] He found the capital to be nothing but a snake pit of backstabbing weaklings who pretended that
+[23:02 --> 23:09] they were better than everyone else. By 235, Maximinus was dedicated to his soldiers, and they
+[23:09 --> 23:16] were dedicated to him. The rest of the empire, politicians, civilians, whatever, were simply in
+[23:16 --> 23:22] the way. So when Alexander once again tried to make peace before Rome had made its point,
+[23:22 --> 23:29] this time offering money to boot, it is easy to believe that Maximinus did not exactly clamp
+[23:29 --> 23:37] down on seditious activity in his camp. But still, however he felt, we still don't know
+[23:37 --> 23:43] whether his troops' decision to declare him emperor in February 235 was orchestrated in
+[23:43 --> 23:49] advance or actually came as a surprise. Whatever the prearrangements had been,
+[23:49 --> 23:54] when Maximinus rose to address his troops one wintery morning, the men spontaneously
+[23:54 --> 24:01] hailed him emperor and demanded that he agreed to the job. After the requisite amount of protest,
+[24:01 --> 24:09] Maximinus reluctantly agreed, and the rebellion against Alexander Severus was on. After doubling
+[24:09 --> 24:13] everyone's rations and promising a large donative if the rebellion was successful,
+[24:13 --> 24:19] Maximinus ordered his troops to begin marching on Alexander's camp just a few miles down the road.
+[24:19 --> 24:26] Messengers from Maximinus' army arrived in advance of the main force, and after announcing
+[24:26 --> 24:33] the rebellion, attempted to convince Alexander's soldiers to join up. There are a few versions of
+[24:33 --> 24:39] what happened next, with one stating that Alexander spoke to his men, promised them all kinds of
+[24:39 --> 24:44] bonuses that they stuck with him, and actually had gotten them mustered in the field before any
+[24:44 --> 24:49] defections took place. While another version has the emperor left totally in the dark about
+[24:49 --> 24:55] everything, and not learning of the plot until Maximinus' executioners pushed their way into
+[24:55 --> 25:03] his tent. Whichever way it went, as soon as Maximinus arrived, Alexander's soldiers defected en masse
+[25:03 --> 25:10] and swore their loyalty to the Thracian. Not one to beat around the bush, Maximinus ordered a tribune
+[25:10 --> 25:17] to lead a few centurions into Alexander's camp to find and kill the emperor. The assassins found
+[25:17 --> 25:23] the young emperor in his tent, with his mother and a few loyal advisors by his side, and after
+[25:23 --> 25:30] very little struggle, the Severans all lay bloody on the floor. Alexander was 26 years old, and had
+[25:30 --> 25:39] done his very best over the 13 years he ruled the empire. The death of Alexander and the rise
+[25:39 --> 25:47] of Maximinus represented a major turning point for the empire. Over the last 137 years, beginning
+[25:47 --> 25:53] with Trajan and ending with Alexander, the average reign of an emperor was just over 12 years, and
+[25:53 --> 26:00] that includes the short reigns of Pertinax and Didius Julianus. For the next 50 years, beginning
+[26:00 --> 26:05] with the elevation of Maximinus and ending with the elevation of Diocletian, that average will
+[26:05 --> 26:10] plunge to something like one emperor for every two years, depending on how you do the math.
+[26:10 --> 26:16] And that doesn't include the fact that for a while there, the empire was split in three,
+[26:16 --> 26:21] as major breakaway kingdoms in the east and west threatened to destroy the unity of the
+[26:21 --> 26:28] Roman Empire forever. No one could have guessed it at the time, but the assassination of Alexander
+[26:28 --> 26:33] Severus marked the beginning of a period where the very survival of Rome was very much in doubt.
+[26:33 --> 26:41] Foreign invasion, domestic strife, plague, and famine would all conspire to bring the Roman
+[26:41 --> 26:46] Empire to the brink of extinction, a possibility they had not faced since Hannibal had come
+[26:46 --> 26:55] marching out of the Alps four centuries earlier. Finally, remember when I said last week that I
+[26:55 --> 26:59] would be making an official announcement about the History of Rome Tour pretty soon? Well,
+[26:59 --> 27:06] here it is. The History of Rome Tour is set for May 2011, and I couldn't be more excited.
+[27:06 --> 27:12] We have designed a 10-day trip that takes us from Rome to Istanbul and hits as many
+[27:12 --> 27:17] highlights as we could possibly cram in along the way. We'll spend a few days in and around
+[27:17 --> 27:23] Rome before snaking down through Capua to Pompeii to Tarentum and Brindisi and then
+[27:23 --> 27:30] over to the city the Romans called Constantinople. The itinerary is too packed for me to just
+[27:30 --> 27:35] rattle off everything right now, so for the full details, I'll direct you to the website that we
+[27:35 --> 27:45] have set up, HistoryofRomeTour.com. That again, HistoryofRomeTour.com. We have guides and
+[27:45 --> 27:50] lecturers and experts lined up to walk us through every one of our stops, answer our questions,
+[27:50 --> 27:56] and generally make sure that we don't miss a single thing while we're there. The package
+[27:56 --> 28:02] also includes hotels, transportation, breakfasts, some group dinners, admission to all the museums
+[28:02 --> 28:08] and historical sites, and even the transatlantic airfare, if you live in the US and need that sort
+[28:08 --> 28:16] of thing. And of course, Mr. and Mrs. The History of Rome will both be along for the ride. Space is
+[28:16 --> 28:21] limited, and we're going to have to run this on a first-come, first-serve basis, but I will tell you
+[28:21 --> 28:26] that we've discussed what happens if more people want to go on the trip than we have space for,
+[28:26 --> 28:32] and after agreeing that that would be a great problem to have, the answer came back a resounding,
+[28:32 --> 28:40] we'll do multiple trips. So all the info is at HistoryofRomeTour.com, the itinerary, the costs,
+[28:40 --> 28:46] and an FAQ page that will start populating as soon as we figure out what questions people are
+[28:46 --> 28:54] frequently asking. I'll also post a permanent link at thehistoryofrome.typepad.com. One other
+[28:54 --> 28:58] thing I'll mention is that I'm going to be plugging an announcement of the trip onto the
+[28:58 --> 29:04] back episodes so that people who aren't all the way caught up will know what's going on. This
+[29:04 --> 29:09] shouldn't alter any episodes that you've already downloaded, but I just wanted you all to know what
+[29:09 --> 29:16] I'm up to. The History of Rome Tour, May 2011. Sign up right now.

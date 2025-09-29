@@ -1,0 +1,274 @@
+# 20100726 - 102- The Common Enemy of Mankind
+# Detected language: en
+# Duration: 1428.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:05 --> 00:09] internet's leading provider of audio entertainment with over 60,000 titles to
+[00:09 --> 00:13] choose from. When you're done with this episode, go to audiblepodcast.com
+[00:13 --> 00:20] forward slash Roam. That again is audiblepodcast.com forward slash Roam. By
+[00:20 --> 00:23] going there, you will qualify for a free book download when you sign up for a 14
+[00:23 --> 00:27] day trial membership. There is no obligation to continue the service and
+[00:27 --> 00:31] cancel anytime and keep the free book. You can also keep going with one of their
+[00:31 --> 00:35] monthly subscription options and get great deals on all future audiobook
+[00:35 --> 00:39] purchases. This week, I'm going to recommend a book that came out a few
+[00:39 --> 00:44] years ago called Caesar's Legion, the epic saga of Julius Caesar's elite 10th
+[00:44 --> 00:49] Legion and the armies of Rome by Stephen Dando Collins. I think the title pretty
+[00:49 --> 00:55] much says it all. Just remember to go to audiblepodcast.com forward slash Roam so
+[00:55 --> 01:08] they know who sent you. Hello and welcome to the history of Rome, episode 102, the
+[01:08 --> 01:15] common enemy of mankind. Last week, we left off with the imperial family
+[01:15 --> 01:20] packing for their camping trip to Britain. You'll recall that in 208, Septimius
+[01:20 --> 01:25] Severus had seized on a relatively minor military uprising as an excuse to get
+[01:25 --> 01:30] himself and his sons out of Rome for a bit. Getting away from the capital would,
+[01:30 --> 01:35] for Severus, mean getting away from the banality and pettiness of government,
+[01:35 --> 01:39] while for his sons, it would mean getting away from the temptations that they had
+[01:39 --> 01:45] been all too recklessly indulging in. They were the coheirs to the throne and
+[01:45 --> 01:50] yet, so far, at 19 and 20, they knew far more about chariot racing and what the
+[01:50 --> 01:55] best kind of hangover cures were than they did about, say, running a multi-ethnic
+[01:55 --> 02:01] empire with mortal enemies surrounding it on all sides. Like many a stern father
+[02:01 --> 02:05] who had had to struggle for every dollar and honor that he had ever won, Severus
+[02:05 --> 02:09] was afraid that his sons were turning out soft and unserious and he knew just
+[02:09 --> 02:15] how to cure that. A good old-fashioned military campaign. Up at dawn, Spartan
+[02:15 --> 02:19] meals, lots of marching, sleeping in tents with the ever-present threat of
+[02:19 --> 02:23] violent death hanging over your head. Yes, sir, that was just what the doctor
+[02:23 --> 02:30] ordered. They arrived in country in 209 after having raised a new legion to help
+[02:30 --> 02:34] them wage what Severus hoped would be a strenuous but not necessarily difficult
+[02:34 --> 02:40] war. After all, the emperor was, at this point, looking to add one more great
+[02:40 --> 02:45] victory to his resume before dying, so in picking to go out fighting in Britannia,
+[02:45 --> 02:48] it is probable that Severus thought the deck would be pretty much stacked in the
+[02:48 --> 02:54] Roman favor. And to further that point, there was no doubt in anyone's mind that
+[02:54 --> 02:59] this would be Severus' last campaign. He was suffering from the effects of old
+[02:59 --> 03:04] age and, in particular, an onset of gout that required him to be transported in
+[03:04 --> 03:08] a litter everywhere. His doctors cannot have been pleased that their patient was
+[03:08 --> 03:13] planning to go marching around Britain, but Severus, ready after a long and
+[03:13 --> 03:17] trying life for the sweet release of death, was no doubt looking to die with
+[03:17 --> 03:24] his boots on. The particular natives in question who had gotten restless were a
+[03:24 --> 03:29] confederation of Caledonians living beyond Hadrian's Wall up in modern-day
+[03:29 --> 03:33] Scotland. They had been stirring up trouble for some time, but ever since
+[03:33 --> 03:37] Albinus had dragged the British legions away from their post, they had grown
+[03:37 --> 03:42] bolder still. Now, Severus had not neglected to set things back in place
+[03:42 --> 03:47] following his victory at Lugdunum. But still, Hadrian's Wall was crumbling and
+[03:47 --> 03:53] now manned mostly by new recruits. Severus and his sons arrived on the scene
+[03:53 --> 03:58] with backup, including a newly raised legion, a bunch of Gallic auxiliaries, and
+[03:58 --> 04:03] an offshore fleet to keep the Caledonians cut off from outside trade. And in mid-209,
+[04:03 --> 04:08] the Romans advanced north of Hadrian's Wall for the first time in a long time.
+[04:08 --> 04:13] They marched around doing their level best to draw the Caledonian army into
+[04:13 --> 04:17] battle, but there was just one problem with this strategy. The Caledonians
+[04:17 --> 04:24] refused to fight. Well, it's not that they refused to fight, it's just that they
+[04:24 --> 04:27] refused to fight in a big old battle that would look spiffy on another
+[04:27 --> 04:32] Severan triumphal arch. Instead, the Caledonian forces scattered to the hills
+[04:32 --> 04:37] and embarked on a classic guerrilla campaign. They sprang up out of nowhere
+[04:37 --> 04:42] and disappeared just as quickly, picking off isolated Roman companies, harassing
+[04:42 --> 04:46] supply lines, interfering with communications, and generally making life
+[04:46 --> 04:52] miserable for the legions. Severus was looking for one last shot at glory, and
+[04:52 --> 04:56] what he got instead was a two-year war of attrition against an enemy he could
+[04:56 --> 05:01] never stop from poking him in the head whenever his back was turned. And raged
+[05:01 --> 05:06] at his own frustrated impotence, the emperor responded to all of this by
+[05:06 --> 05:11] ordering genocide. The legions marched back and forth across the country,
+[05:11 --> 05:16] destroying whatever villages they came across and killing every man, woman, and
+[05:16 --> 05:21] child they could find. Severus was mostly hoping his campaign would provoke the
+[05:21 --> 05:25] regular Caledonian forces enough that they would come out of hiding and battle
+[05:25 --> 05:29] him in the open. But if that didn't work, well then eventually the Caledonian race
+[05:29 --> 05:33] would be exterminated and where the Romans made desert, they could once again
+[05:33 --> 05:40] call it a peace. But Severus would never get the chance to finish the job. While
+[05:40 --> 05:44] planning the next phase of his extermination campaign, the emperor's real
+[05:44 --> 05:48] wish was finally granted, and he died after a brief illness in February 211 AD.
+[05:48 --> 05:55] Septimius Severus was 65 years old, and we say that he ruled the empire for just
+[05:55 --> 05:59] about 18 years, even though his claim to the throne had been hotly disputed there
+[05:59 --> 06:07] at the beginning. The final campaign in Caledonia had been a disaster. The Romans
+[06:07 --> 06:11] had lost something on the order of 50,000 men, and the Caledonians, while somewhat
+[06:11 --> 06:17] chastened, had by no means been brought to heel. The only lasting benefit of the
+[06:17 --> 06:21] war to the empire was that along the way Hadrian's Wall had been reconstructed, a
+[06:21 --> 06:25] project that led later Romans to call the wall the Severan Wall, rather than
+[06:25 --> 06:30] Hadrian's Wall as we know it today. But really, Severus could have just ordered
+[06:30 --> 06:33] that done without having to waste all the blood and treasure his war in the
+[06:33 --> 06:38] highlands had just cost the empire. But speaking of that, I guess there was one
+[06:38 --> 06:43] other benefit to the failed campaign. At this point, the Romans stopped trying to
+[06:43 --> 06:50] conquer Scotland, which was probably a prudent move. As for Severus's other
+[06:50 --> 06:54] suspected motive for starting the war in the first place, so that his sons could
+[06:54 --> 06:58] have some sense beaten into them. Well, that didn't work at all. Their friends
+[06:58 --> 07:02] back home were relieved to find Caracalla and Geta emerged from the war,
+[07:02 --> 07:07] no worse for the wear. They were just as licentious, lazy, and shallow as they had
+[07:07 --> 07:14] been before they left. Despite going out on such a low note, the reign of Septimius
+[07:14 --> 07:19] Severus has generally been viewed favorably by history. There is no getting
+[07:19 --> 07:22] around the fact that his militarization of the government would come back to
+[07:22 --> 07:27] haunt the empire, especially the effect his wage increases and lavish donatives
+[07:27 --> 07:32] had on the discipline of the troops. But he also took over an empire that had been
+[07:32 --> 07:37] run into the ground fiscally, politically, and morally by Commodus, and he did a
+[07:37 --> 07:42] pretty good job stabilizing it. Aside from Plotianus, his administration was
+[07:42 --> 07:47] free of corruption, ran efficiently, and always tried to keep the overall health
+[07:47 --> 07:52] of the empire as its primary object. In almost every way, Severus left Rome
+[07:52 --> 07:57] better than he found it. And though that's not necessarily saying much, after
+[07:57 --> 08:03] all, it's hard to do worse than Commodus, it is saying something. Severus ruled
+[08:03 --> 08:08] with an iron hand, but he was not a bloodthirsty tyrant. He left that to his
+[08:08 --> 08:16] sons, who soon enough just became the one son. The feud between Caracalla and
+[08:16 --> 08:22] Geta, not unexpectedly, hit a rolling boil the minute Severus died. Fear of
+[08:22 --> 08:25] their father was just about the last thing keeping the boys in check, and
+[08:25 --> 08:29] without the old man around anymore, it was just a matter of time before the
+[08:29 --> 08:35] sons of Severus became the son of Severus, if you catch my drift. The dead
+[08:35 --> 08:40] emperor's body was still warm when Caracalla made the opening move. He tried
+[08:40 --> 08:44] to induce the legions to ignore Geta's claim to the throne, and instead hail him
+[08:44 --> 08:49] as sole emperor. But, knowing that his younger brother, he was always going to
+[08:49 --> 08:54] be in the weaker position politically, Geta had for years cultivated the favor
+[08:54 --> 08:59] of the troops. Caracalla had always been a bit harsh and standoffish, so in
+[08:59 --> 09:04] contrast, Geta had styled himself as easygoing, generous, and a friend to the
+[09:04 --> 09:10] common soldier. His work paid off and Caracalla's initial power grab was
+[09:10 --> 09:15] rebuffed. If Severus wanted both boys to rule, then by God, the legions were going
+[09:15 --> 09:20] to honor the dead emperor's final order. Geta joined a steaming mad Caracalla at
+[09:20 --> 09:27] the head of the legions, and together they were proclaimed Augustus. Things only
+[09:27 --> 09:32] went downhill from there. With no desire to continue their father's feudal
+[09:32 --> 09:37] campaign in the north, the new emperors canceled the war and headed back to Rome.
+[09:37 --> 09:42] While en route, they did not sleep under the same roof, nor did they ever eat at
+[09:42 --> 09:46] the same table. Colleagues in name only, in every other way, they were bitter
+[09:46 --> 09:51] rivals. Back in Rome, they took up residence in the Imperial Palace and
+[09:51 --> 09:57] built a physical monument to their mutual enmity. After taking up residence
+[09:57 --> 10:01] in opposite wings of the palace, they divided their two halves with hastily
+[10:01 --> 10:06] constructed barricades manned on each side by armed guards. The two brothers
+[10:06 --> 10:11] never met in private, and when they were forced to appear together in public, they
+[10:11 --> 10:16] were joined by a host of armed guards. There was absolutely no missing the point
+[10:16 --> 10:23] that each brother expected the other to try to kill him. After a few months of
+[10:23 --> 10:27] this, it became clear to everyone that the mutual paranoia was simply not
+[10:27 --> 10:32] sustainable. The Empire needed a functioning government, but its two leaders
+[10:32 --> 10:37] were so worried about each other that they had time for little else. Finally,
+[10:37 --> 10:42] someone proposed a novel solution, that they simply divide up the Empire the
+[10:42 --> 10:46] same way that they had divided up the palace. Ghetto would head east and set up
+[10:46 --> 10:51] court in Antioch or Alexandria, while Caracalla remained in Rome and governed
+[10:51 --> 10:57] the west. As a practical expedient, it seemed like a great idea, but many old
+[10:57 --> 11:02] hands in the Senate feared the next logical step in the process would be to
+[11:02 --> 11:06] break up the Empire not just administratively, but literally. And a
+[11:06 --> 11:12] single unified Empire was the whole point. It was what made Rome glorious and
+[11:12 --> 11:17] what made it civilization and everything else barbarism. To tear it asunder would
+[11:17 --> 11:21] be to destroy what every previous generation of Romans had worked so hard
+[11:21 --> 11:27] to establish in the first place. Plus, there was the added suspicion that such
+[11:27 --> 11:31] a tearing asunder would not come peacefully. In other words, that this
+[11:31 --> 11:36] great idea was nothing more than a recipe for brutal civil war between East
+[11:36 --> 11:42] and West. Chief among the opponents to this plan was the co-emperor's own
+[11:42 --> 11:47] mother, Julia Domna. She was horrified and not a little bit furious that her
+[11:47 --> 11:52] two sons would be so immature and petty that they were basically contemplating
+[11:52 --> 11:56] wrecking the Empire rather than face the horror of having to serve alongside one
+[11:56 --> 12:04] another. So in December of 211, she aimed to broker a peace between them. Of all
+[12:04 --> 12:09] the crimes Caracalla committed in his six-odd years on the throne, I think that
+[12:09 --> 12:13] this first one was by far the most heinous. It's not just that he killed
+[12:14 --> 12:18] which, yeah, he's about to. It's the fact that he did it right in front of their
+[12:18 --> 12:23] mother in her apartment while at a meeting she had arranged to try to get
+[12:23 --> 12:27] them to work through their differences peacefully. I just cannot imagine how big
+[12:27 --> 12:31] of a bastard you'd have to be to use that occasion to kill your brother in
+[12:31 --> 12:37] front of your own mother. Caracalla and Guetta agreed to the private meeting
+[12:37 --> 12:43] with their mother, agreed to come alone, and agreed to come unarmed. They were in
+[12:43 --> 12:47] the middle of hashing things out when an armed gang of Caracalla's men burst
+[12:47 --> 12:51] through the door and made straight for Guetta. Julia tried to stand between the
+[12:51 --> 12:56] attackers and her youngest son but was pushed aside and in the process her hand
+[12:56 --> 13:02] was wounded. The assassins, because that's what they were, then stabbed Guetta to
+[13:02 --> 13:07] death at the clear urging of Caracalla. Julia, bleeding from her own hand and
+[13:07 --> 13:12] covered in her son's blood, thus had to face the further horror that her other
+[13:12 --> 13:18] son was the one who was behind it all. Caracalla assassinating Guetta was simply
+[13:18 --> 13:23] the logical conclusion to an irreconcilable feud and probably if
+[13:23 --> 13:27] Caracalla hadn't have gotten to Guetta, Guetta would eventually have gotten to
+[13:27 --> 13:32] Caracalla. But how he did it and where he did it and who was around when he did it
+[13:32 --> 13:41] breaks every law of decency that I can think of. So I say boo to Caracalla. Boo.
+[13:42 --> 13:47] But now Caracalla had a bit of a problem. As I said, Guetta was always more
+[13:47 --> 13:50] popular with the troops and in particular the men of the Praetorian
+[13:50 --> 13:56] Guard liked him a heck of a lot more than his dour older brother. So just as
+[13:56 --> 14:00] soon as he was sure Guetta was dead he ran down to the Praetorian camp and the
+[14:00 --> 14:06] only thing he could think of to win their support. He lied his head off. He
+[14:06 --> 14:10] told the assembled guard that both he and his brother had been the target of
+[14:10 --> 14:15] an attack and while he had managed to escape that poor Guetta was dead.
+[14:15 --> 14:19] Caracalla threw himself at the mercy of the Praetorians and begged them to
+[14:19 --> 14:24] protect him from those dirty villains who had murdered his beloved brother. The
+[14:24 --> 14:28] guard was distraught over the news that Guetta was dead and perhaps swallowing
+[14:28 --> 14:35] their own suspicions agreed to keep the remaining son of Severus safe. With the
+[14:35 --> 14:39] Praetorians having bought his story, Caracalla then set out to do everything
+[14:39 --> 14:45] he could to make them doubt whether he had been telling them the truth. Rather
+[14:45 --> 14:50] than simply letting his hatred of Guetta die when Guetta died, Caracalla became
+[14:50 --> 14:55] obsessed with erasing his brother from the history books. Coins that bore his
+[14:55 --> 15:00] brother's likeness were rounded up and recast. Any statue or painting or mosaic
+[15:00 --> 15:05] of Guetta was destroyed and Caracalla even went so far as to deface the
+[15:05 --> 15:09] reliefs on the arch of Severus, literally scratching out Guetta's face from any
+[15:09 --> 15:15] scene in which he appeared. But this of course was not enough. Guetta had been
+[15:15 --> 15:20] popular across the social spectrum and many in his inner circle would suspect
+[15:20 --> 15:25] Caracalla of treachery and be looking for revenge. So Guetta's friends and
+[15:25 --> 15:29] associates, the families of Guetta's friends and associates, and the friends
+[15:29 --> 15:34] and associates of Guetta's friends and associates all became caught up in one
+[15:34 --> 15:40] of the largest bloody purges in Roman history. Caracalla's purge, in both
+[15:40 --> 15:46] breadth and depth, far exceeded anything anyone had ever contemplated. Thousands
+[15:46 --> 15:50] and thousands and thousands of people died, most of them having been guilty of
+[15:50 --> 15:54] nothing more than being within six degrees of separation from his hated
+[15:54 --> 16:01] brother. Things went on like that for about a year, about after he had
+[16:01 --> 16:05] sufficiently earned himself the fear and loathing of just about every citizen of
+[16:05 --> 16:11] Rome, Caracalla decided to take his show on the road. As Gibbon poetically noted,
+[16:11 --> 16:16] previous tyrants like Tiberius and Nero and Commodus had tended to stay put in
+[16:16 --> 16:21] and around Rome, which limited the scope of their depravity to the capital itself.
+[16:21 --> 16:27] But when Caracalla decided to tour the Empire, he made himself the common enemy
+[16:27 --> 16:34] of mankind. In 213, he traveled to the Rhine to put down a brief uprising of
+[16:34 --> 16:38] Germans, and after easily winning a series of skirmishes, he took the lofty
+[16:38 --> 16:44] title Germanicus Maximus. Caracalla's penchant for assuming such lofty titles
+[16:44 --> 16:48] would eventually rival that of Lucius Verus, and along the way, Caracalla
+[16:48 --> 16:54] would add Parthicus and Alamannicus to his list of names. One of the sons of
+[16:54 --> 16:58] Pertinax would actually find himself executed around this time after punning
+[16:58 --> 17:02] on one of the Roman names for the Goths, suggesting that Caracalla should award
+[17:02 --> 17:10] himself the title of Geticus as well. The Emperor was not amused. Caracalla
+[17:10 --> 17:15] returned to Rome briefly and then headed east to inspect the provinces. Along the
+[17:15 --> 17:20] way, it is reported that he demanded the cities and towns he passed through erect
+[17:20 --> 17:25] great buildings or theaters or baths in his honor, and at their expense. And then,
+[17:25 --> 17:30] after crippling the municipal budgets, he would either bypass them completely or
+[17:30 --> 17:35] he would order the structure toppled for not being up to his standards. At every
+[17:35 --> 17:40] stop, he would suck up all the available money and food and drink, and then throw
+[17:40 --> 17:46] lavish parties that no one was invited to. One of his more charming habits was
+[17:46 --> 17:50] to refuse to eat seafood unless he was far enough inland that importing fish
+[17:50 --> 17:55] became very expensive. Then, he'd demand the locals bring him oysters for dinner
+[17:55 --> 18:02] or else. By 215, Caracalla had cut a swath of destruction all the way across
+[18:02 --> 18:08] the empire and had lately taken up residence in Alexandria. Now, over the
+[18:08 --> 18:12] course of the last few years, what had once been a secret had become an open
+[18:12 --> 18:17] secret and had once been an open secret was now a more or less acknowledged fact.
+[18:17 --> 18:23] After his terrifying purge of anyone connected to Guetta, most people sort of
+[18:23 --> 18:26] took it for granted that Caracalla had been behind Guetta's murder after all.
+[18:26 --> 18:33] Caracalla had steadfastly denied these charges, but as time went by, his story
+[18:33 --> 18:39] morphed into, well, yeah, I did it, but it was in self-defense. Basically, Guetta had
+[18:39 --> 18:44] tried to kill me, but I killed him first instead. No one believed a word of it,
+[18:44 --> 18:49] and Caracalla was now as much mocked for his shifting alibi as he was feared for
+[18:49 --> 18:56] his cruelty. Then, the always independent-minded citizens of Alexandria decided to greet the
+[18:56 --> 19:01] arrival of the emperor with a little play satirizing the crime that had made Caracalla
+[19:01 --> 19:08] the sole emperor, a performance which sent him into an insane rage. In his fury,
+[19:08 --> 19:13] and basically to prove that his cruelty far outweighed his usefulness as a punchline,
+[19:13 --> 19:19] he ordered a general slaughter of the citizens. It is reported that before it was over,
+[19:19 --> 19:25] something along the order of 20,000 people lay dead in the streets. Caracalla justified
+[19:25 --> 19:29] this massacre to the Senate, and by simply noting that he felt it was the whole city
+[19:29 --> 19:35] of Alexandria who was guilty, not just those who had performed the offensive show. He did
+[19:35 --> 19:43] not elaborate on how that could possibly be true. Caracalla would do all this, be that evil,
+[19:43 --> 19:49] basically, because he had taken to heart his father's dying advice. Well, two-thirds of his
+[19:49 --> 19:53] father's advice anyway. He had pretty well ignored the whole be harmonious with your brother thing,
+[19:53 --> 20:02] but enrich the soldiers, scorn all other men? That Caracalla took almost too literally. He'd
+[20:02 --> 20:07] increased the pay of the soldiers beyond even what his father had so recently raised it to,
+[20:07 --> 20:13] and took every opportunity he could think of to deliver to his troops lavish surprise bonuses.
+[20:13 --> 20:19] Whether or not they loved or even liked the emperor was now beside the point. There was no way they
+[20:19 --> 20:25] were going to revolt against him. The man was a living slot machine who paid out after every
+[20:25 --> 20:31] poll. No matter how vicious the emperor was, that would be the scorn all other men bit,
+[20:31 --> 20:38] the army was with him. In time, though, the troops went from pleasantly accepting the bonuses
+[20:38 --> 20:45] to impatiently expecting them. While Caracalla was alive, they got what they expected. But once
+[20:45 --> 20:52] he was gone, the precedent set would prove to be devastating to his successors. The Empire simply
+[20:52 --> 20:57] couldn't afford to pay the legions what Caracalla had taught them to expect. The coming crisis of
+[20:57 --> 21:03] the third century will in part anchor itself on this poisoned root planted by Caracalla.
+[21:03 --> 21:12] Having tortured his own people enough for the time being, in 216 the emperor apparently decided
+[21:12 --> 21:18] to look beyond the frontiers of the Empire for fresh victims. In a particularly galling incident
+[21:18 --> 21:24] reported by Herodian, Caracalla appears to have accepted a peace offering from the Parthian king,
+[21:24 --> 21:30] and then went even further by agreeing to marry the king's daughter in order to secure a lasting
+[21:30 --> 21:36] friendship between the two great empires. Caracalla and his entourage then crossed the Euphrates and
+[21:36 --> 21:42] marched overland to an agreed-to meeting place where the couple would be wed. The Parthians had
+[21:42 --> 21:47] no reason to suspect treachery and arrived ready to celebrate a marriage that would have profound
+[21:47 --> 21:54] and hopefully happy political implications. But Caracalla had never had any intention of
+[21:54 --> 21:59] marrying the foreign princess, and when the two families got together, Caracalla ordered his men
+[21:59 --> 22:05] to slaughter the Parthian wedding party and burn the city to the ground. The Parthian king managed
+[22:05 --> 22:11] to escape with his life, but everyone else was killed in the surprise attack. Caracalla then
+[22:11 --> 22:16] marched back across Mesopotamia, looting and burning the countryside on his way back to Syria.
+[22:16 --> 22:21] Then he fired off a dispatch to the Senate, announcing that the entire Parthian empire
+[22:21 --> 22:27] now bowed at his feet. This was a bit of an overstatement to begin with, but beyond that,
+[22:27 --> 22:33] Caracalla neglected the whole part about his own murderous duplicity. Oh yeah,
+[22:33 --> 22:36] they should feel free to call him Parthicus from now on though.
+[22:36 --> 22:46] Next week, a life of chilling sadism will finally catch up to Caracalla. He was simply
+[22:46 --> 22:50] too dangerous to too many people to not have one of them finally decide to knock him off.
+[22:50 --> 22:57] In the end, it will prove to be one of his Praetorian prefects, a man named Marcus Opelius
+[22:57 --> 23:03] Macrinus, who will turn to murder after finding himself in the rather uncomfortable position of
+[23:03 --> 23:10] having a soothsayer prophesize that he is destined to wear the purple one day. Since prophecies like
+[23:10 --> 23:15] that were liable to get a man killed, Macrinus will quickly decide to beat Caracalla to the
+[23:15 --> 23:21] punch. And the funny thing about it is that in trying to steer clear of the deadly implications
+[23:21 --> 23:24] of this prophecy, Macrinus would make it all come true.

@@ -1,0 +1,323 @@
+# 20100830 - 107- The Year of the Six Emperors
+# Detected language: en
+# Duration: 1484.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:15] Hello, and welcome to the History of Rome, Episode 107, The Year of the Six Emperors.
+[00:15 --> 00:20] As I've mentioned a few times now, the death of Alexander Severus marked the end not just
+[00:20 --> 00:26] of the Severan dynasty, but also a whole epoch of Roman history.
+[00:26 --> 00:31] The political, economic and social bonds of the empire had been degrading for some time,
+[00:31 --> 00:36] and when Alexander died, they seemed to snap completely.
+[00:36 --> 00:41] For the next fifty years, the loyalty of the armies would turn on a dime, powerful imperial
+[00:41 --> 00:48] usurpers would pop up with alarming frequency, barbarian hordes would maraud across the provinces,
+[00:48 --> 00:52] and the civilian population would be trapped in the middle.
+[00:52 --> 00:57] Hordes not ravaged by war would be ravaged by the disease, the famine, and the economic
+[00:57 --> 01:04] depression that would accompany the crisis years of 235 to 284 AD.
+[01:04 --> 01:09] During this period, everything that had represented the power, the prestige, the very legitimacy
+[01:09 --> 01:12] of the Roman Empire was called into question.
+[01:12 --> 01:18] No precedents were too ancient to violate, no assumptions were too deep to challenge,
+[01:18 --> 01:22] no nightmares were too scary to come true.
+[01:22 --> 01:26] To put it bluntly, Rome probably should have fallen right then.
+[01:26 --> 01:30] We should be talking about how the assassination of Alexander Severus marked the end of the
+[01:30 --> 01:36] Roman Empire, that the weight of internal division, external invasion, and economic
+[01:36 --> 01:39] catastrophe was simply too much to bear.
+[01:39 --> 01:41] There would have been no shame in it.
+[01:41 --> 01:47] The empire had dominated the Mediterranean world for the last four hundred years at least.
+[01:47 --> 01:52] Was this not a fair time to finally slip away?
+[01:52 --> 01:54] But that's not what happened.
+[01:54 --> 01:58] Instead of marking the end, the crisis of the third century simply marked a change,
+[01:58 --> 02:03] like the Second Punic War or the collapse of the Republic before it.
+[02:03 --> 02:07] Just as with those periods, the Rome that came out of the crisis was different than
+[02:07 --> 02:11] the Rome that had gone in, but it was still Rome.
+[02:11 --> 02:16] And just as with those earlier upheavals, it was hard for Romans at the time to recognize
+[02:16 --> 02:19] what a whirlwind they had entered.
+[02:19 --> 02:24] When you heard that Saguntum was under siege, or that an alliance had been formed between
+[02:24 --> 02:29] Crassus, Pompey, and Caesar, you didn't immediately think, well, it looks like we're
+[02:29 --> 02:33] entering a tumultuous period of political, economic, and social reformation.
+[02:33 --> 02:38] No, you probably thought, well, that's kind of an interesting development, and went about
+[02:38 --> 02:40] your day.
+[02:40 --> 02:45] This too was true of the Romans in 235, when they heard that Maximinus Thrax had overthrown
+[02:45 --> 02:47] Alexander.
+[02:47 --> 02:52] It was an interesting development, and probably not a good one, but things will probably go
+[02:52 --> 02:56] on like normal, right?
+[02:56 --> 02:59] Wrong.
+[02:59 --> 03:03] Setting the precedent for the next fifty years of military turmoil, the very first thing
+[03:03 --> 03:09] Maximinus did after becoming emperor was double the pay of his soldiers.
+[03:09 --> 03:12] It was an expedient design to ensure their loyalty, but it was a decision that would
+[03:12 --> 03:17] come back to haunt Maximinus, as he was forced to send out a network of agents across the
+[03:17 --> 03:22] empire to drum up the necessary revenue so he could afford the raise.
+[03:22 --> 03:26] And if there is one thing that will get you hated very quickly, it's sending violent
+[03:26 --> 03:32] tax collectors into people's homes to strip out anything that looks shiny.
+[03:32 --> 03:37] The second thing he did was immediately relaunch the campaign against the Germans that Alexander
+[03:37 --> 03:41] had been so reluctant to get going.
+[03:41 --> 03:45] It goes without saying, then, that the very first people negatively impacted by the elevation
+[03:45 --> 03:49] of Maximinus were the Germans.
+[03:49 --> 03:54] In the spring of 235, the provinces had not yet been taxed to death, and the senate had
+[03:54 --> 03:59] not yet had their ranks thinned by Maximinus's dangerous paranoia, so the fact that Rome
+[03:59 --> 04:04] had a new emperor was, for most people, not yet a life-altering event.
+[04:04 --> 04:09] But the Germans, well, they had gone to bed for the winter, believing that they were about
+[04:09 --> 04:13] to be paid a great deal of money so that the boy Emperor Alexander would not have to
+[04:13 --> 04:18] fight them, and when they woke up in the spring, they found out that a giant Thracian general
+[04:18 --> 04:23] had taken control of the legions, and rather than offering them immense wealth, he was
+[04:23 --> 04:26] offering them only grim death.
+[04:26 --> 04:31] That had to have been a bit jarring.
+[04:31 --> 04:35] Maximinus led the legions across the Rhine on a punitive campaign that served two useful
+[04:35 --> 04:36] purposes.
+[04:37 --> 04:41] First, it would remind the Germans that there were still consequences for raiding Roman
+[04:41 --> 04:46] territory, and second, it would provide the plundering opportunity his men had been clamoring
+[04:46 --> 04:49] for.
+[04:49 --> 04:52] Maximinus knew that the senate wasn't going to be happy about his coup, and that was all
+[04:52 --> 04:57] right with him, as long as the armies of Rome were with him.
+[04:57 --> 05:00] Giving the men a chance to work out some of their aggressive energy in the pursuit of
+[05:00 --> 05:07] treasure would bind them even closer to Maximinus than they had been before.
+[05:07 --> 05:12] But though the rank and file were with him to a man, Maximinus still had to worry about
+[05:12 --> 05:19] his officer corps, many of whom were either Alexander loyalists or aristocratic malcontents.
+[05:19 --> 05:22] And Maximinus was right about one thing.
+[05:22 --> 05:29] The senate really didn't approve of the ascension that they had just been forced to approve.
+[05:29 --> 05:34] Powerless to deny Maximinus the prize he had seized, they dutifully ratified his election.
+[05:34 --> 05:39] But I think it's fair to say that no one in the senate, even the enemies of the severance,
+[05:39 --> 05:46] wanted to see this hulking brute of a peasant emperor lording over their noble empire.
+[05:46 --> 05:50] So over the course of the campaign in Germany, Maximinus had to thwart at least two murderous
+[05:50 --> 05:58] conspiracies, one of which was organized by elements in the senate itself.
+[05:58 --> 06:03] Naturally enough, these attempts made Maximinus a bit paranoid, and coupled with his long
+[06:03 --> 06:08] simmering hatred for the upper classes, he found himself quickly on the road to purge
+[06:08 --> 06:09] city.
+[06:09 --> 06:15] From his camps in Germany, he started marking down suspects, senators, equites, and military
+[06:15 --> 06:20] officers who he felt were either too severant not to attempt some kind of revenge for his
+[06:20 --> 06:25] murder of Alexander, or too senatorial not to attempt to put the barbarian emperor back
+[06:25 --> 06:27] in his place.
+[06:27 --> 06:32] And one by one, they were fired, exiled, or killed.
+[06:32 --> 06:37] Whatever their ultimate fate, in all cases they were reduced to poverty and their wealth
+[06:37 --> 06:41] transferred into the open purses of his soldiers.
+[06:41 --> 06:47] Interestingly, one of the provincial governors who Maximinus passed over as being neither
+[06:47 --> 06:53] too severant nor too senatorial was the old pro-consul of Africa, Marcus Antonius Gordianus
+[06:53 --> 06:56] Sempronianus.
+[06:56 --> 07:02] Meaning because in a few short years, the man we call Gordian I would find himself leading
+[07:02 --> 07:09] the rebellion that would eventually topple Maximinus' regime.
+[07:09 --> 07:13] But the drawing up of prescription lists was only a hobby for Maximinus, and it was always
+[07:13 --> 07:20] done after he was done doing what he did best, leading soldiers in battle.
+[07:20 --> 07:25] He spent all of 235 in the field against the Germans, and eventually won a hotly contested
+[07:25 --> 07:30] battle in the mire of a swamp that brought the German resistance to its knees.
+[07:30 --> 07:36] It was enough of a victory that Maximinus donned the lofty title Germanicus Maximus,
+[07:36 --> 07:40] and to help celebrate his triumph, he gave his young son the title Caesar and named him
+[07:40 --> 07:43] heir to the empire.
+[07:43 --> 07:48] With campaign season coming to an end, Maximinus headed back to what had become his adopted
+[07:48 --> 07:52] home province of Pannonia and set up winter quarters.
+[07:52 --> 07:58] In his three years as emperor, Maximinus never would set foot in Rome, preferring instead
+[07:58 --> 08:03] to rule from the frontiers, and unlike Macrinus, who technically holds the distinction of being
+[08:03 --> 08:09] the first emperor never to appear in Rome, Maximinus did not snub the capital because
+[08:09 --> 08:14] he was unavoidably detained, but rather because he openly disdained the capital and everything
+[08:14 --> 08:17] it stood for.
+[08:17 --> 08:22] The next few years pass with some obscurity in the historical record.
+[08:22 --> 08:27] We know that Maximinus stayed on the frontiers, focused on defending the empire's northern
+[08:27 --> 08:32] border while directing an extensive network of tax agents to canvas the provinces and
+[08:32 --> 08:39] squeeze as much from the citizens of the empire as they possibly could by hook, crook, or
+[08:39 --> 08:40] extortion.
+[08:40 --> 08:44] Maximinus took the money they scrounged up and delivered it to his grateful troops, who
+[08:44 --> 08:48] were glad to see that they once again had an emperor who had his priorities straight,
+[08:48 --> 08:53] enrich the soldiers, and scorn all other men.
+[08:53 --> 08:58] In Rome itself, and really in all the major urban centers of power, the leading men of
+[08:58 --> 09:03] the empire were watched like hawks for any sign of seditious activity.
+[09:03 --> 09:08] If that sign appeared, well, that was when people disappeared.
+[09:08 --> 09:14] Needless to say, Maximinus Thrax was not the most popular emperor of all time.
+[09:14 --> 09:19] The general population hated him for his oppressive tax policies, and the elites hated him for
+[09:19 --> 09:23] constantly picking off their friends and colleagues.
+[09:23 --> 09:27] All that this growing powder keg needed was a spark, and the whole thing would blow up
+[09:27 --> 09:32] in Maximinus' face.
+[09:32 --> 09:38] In March of 238, the powder keg was finally lit in the province of Africa.
+[09:38 --> 09:43] The local population, rich landowners, middle class businessmen, and poor laborers alike
+[09:43 --> 09:48] had all finally had enough of Maximinus' extortion.
+[09:48 --> 09:52] When they weren't being bullied and threatened by imperial tax collectors, they were forced
+[09:52 --> 09:58] to endure the summary judgments of a court system that had been thoroughly corrupted.
+[09:58 --> 10:03] Basically, the naked theft perpetrated by imperial agents was being declared legal and
+[10:03 --> 10:09] proper by judges paid to always decide in favor of the regime.
+[10:09 --> 10:14] After a particularly galling judgment was issued, a few victimized landowners decided
+[10:14 --> 10:17] to pursue their grievances by other means.
+[10:17 --> 10:22] They returned to their estates, armed their workers, and came marching back to the city
+[10:22 --> 10:27] where they located and killed the official who had ruled against them.
+[10:27 --> 10:32] The uprising was cheered by everyone not an imperial employee, and pretty soon the whole
+[10:32 --> 10:35] province was in revolt.
+[10:35 --> 10:40] Meanwhile, sitting in the provincial capital of Carthage, probably enjoying a nice cup
+[10:40 --> 10:45] of tea and wondering what book he was going to read next, was Gordian I, the 79-year-old
+[10:45 --> 10:48] proconsul of Africa.
+[10:48 --> 10:53] He had been passed over by Maximinus' paranoid eye for good reason, and was as unlikely an
+[10:53 --> 10:59] imperial usurper as the Romans ever produced.
+[10:59 --> 11:04] He had been born way back in 159 to an equestrian family, and had been made a senator during
+[11:04 --> 11:07] the reign of Septimius Severus.
+[11:07 --> 11:10] He was, for his times, a unique figure.
+[11:10 --> 11:15] Disinterested in war and politics, he devoted much of his time to intellectual pursuits,
+[11:15 --> 11:20] and had written volumes on every subject under the sun.
+[11:20 --> 11:24] His lone public achievement of note came when he served as a Edo, and he earned the love
+[11:24 --> 11:29] of the people for throwing a particularly awesome series of games.
+[11:29 --> 11:33] Though he had, over the course of his career, commanded a legion now and then, and had even
+[11:33 --> 11:39] served as governor of Britannia, Gordian was a bookworm and a scholar, not a soldier or
+[11:39 --> 11:42] a politician.
+[11:42 --> 11:46] Which is why when the people of Africa showed up at his doorstep demanding that he become
+[11:46 --> 11:51] emperor and lead them all to victory against the hated Maximinus, he was likely wondering
+[11:51 --> 11:55] when he was going to wake up from this strange dream.
+[11:55 --> 12:00] But it was no dream, and despite his protests that, among other things, he was way too old
+[12:00 --> 12:05] to be leading a rebellion, the people persisted and began to make menacing noises that he
+[12:05 --> 12:09] better lead their rebellion or else.
+[12:09 --> 12:14] So Gordian accepted, on the condition that they also elevate his son, who, for convenience,
+[12:14 --> 12:18] will call Gordian the Younger, to be his co-emperor.
+[12:18 --> 12:23] Whatever vigorous action this rebellion was going to require would be much better handled
+[12:23 --> 12:28] by a 46-year-old Gordian than a 79-year-old Gordian.
+[12:28 --> 12:33] So on March 22, 238 AD, the second and third emperors of the year of the six emperors were
+[12:33 --> 12:39] proclaimed and the revolution was on.
+[12:39 --> 12:44] About a week and a half later, a word reached Rome of what had happened in Africa.
+[12:44 --> 12:48] The senators quietly conferred with one another about the news and agreed to meet in a close
+[12:48 --> 12:55] session at the Temple of Castor to decide what to do about this most interesting development.
+[12:55 --> 13:00] Themselves as fed up as the people of Africa, they decided after an intense meeting to ratify
+[13:00 --> 13:04] the elevation of the two Gordians.
+[13:04 --> 13:08] They emerged from the temple and announced to a cheering crowd that the Senate of Rome
+[13:08 --> 13:13] now officially recognized the two Gordians as the lawful sovereigns of the empire and
+[13:13 --> 13:18] that both were to henceforth enjoy the title Augustus.
+[13:18 --> 13:23] Understanding the effect their declaration would have on Maximinus, who they also declared
+[13:23 --> 13:28] was now a public enemy, the Senate also announced that an executive council of twenty eminent
+[13:28 --> 13:33] senators had been created to prepare for the defense of Italy, which was sure to be invaded
+[13:33 --> 13:37] the minute Maximinus learned what they had done.
+[13:37 --> 13:41] Further committing themselves to the rebellion, the Senate dispatched messengers to all the
+[13:41 --> 13:47] provinces of the empire, encouraging the local magistrates to join in the uprising, and then
+[13:47 --> 13:51] sealing their pact in blood, they tracked down the highest ranking official in Rome
+[13:51 --> 13:57] loyal to Maximinus, his praetorian prefect, and had him assassinated.
+[13:57 --> 14:02] But though the standard raised by the Gordians was being flocked to, the Gordians themselves
+[14:02 --> 14:07] were about to become the first victims of the imperial backlash.
+[14:07 --> 14:12] There was only one Roman legion stationed west of Africa, and that one legion was not
+[14:12 --> 14:15] controlled by the Gordians.
+[14:15 --> 14:19] Neighboring the province of Africa was the small imperial province of Numidia, which
+[14:19 --> 14:24] had been peeled off from Africa proper during the reign of Septimius Severus, and that was
+[14:24 --> 14:28] where the sole African legion was based.
+[14:28 --> 14:33] Numidia was controlled by a general who was either loyal to Maximinus, a personal enemy
+[14:33 --> 14:39] of the Gordians, or possibly both, and when he heard that Africa was in revolt, he immediately
+[14:39 --> 14:43] marched his legion to Carthage to put down the rabble.
+[14:43 --> 14:48] The Gordians knew all about that one legion in Numidia, and after being invested with
+[14:48 --> 14:52] the purple, Gordian the Younger set about raising a militia to help defend Carthage
+[14:52 --> 14:55] from attack.
+[14:55 --> 14:59] But a hastily raised militia of civilians was never going to be able to withstand a
+[14:59 --> 15:03] true legion composed of professional soldiers.
+[15:03 --> 15:08] The Africans had all the passion and dedication and heart in the world, but in the end, all
+[15:08 --> 15:13] of that bounced harmlessly off the shields of the Numidian legion.
+[15:13 --> 15:18] On April 12, the legion arrived in Carthage, and Gordian the Younger rode out at the head
+[15:18 --> 15:20] of his amateur army to meet them.
+[15:20 --> 15:22] The engagement was quick and decisive.
+[15:22 --> 15:29] The militia was broken apart easily, and Gordian himself was killed in the fighting.
+[15:29 --> 15:33] Inside the city, the elder Gordian heard what had happened to his son, and, resigned to
+[15:33 --> 15:38] his fate, chose to commit suicide rather than fall into the hands of the Maximinians.
+[15:39 --> 15:48] It was an ironic end for a man who had spent most of his life avoiding both war and politics.
+[15:48 --> 15:52] After the requisite week and a half waiting period, the senators in Rome heard what had
+[15:52 --> 15:58] happened to their champions in Africa, and the color drained from their collective faces.
+[15:58 --> 16:01] Maybe they had been too quick to embrace the rebellion.
+[16:01 --> 16:05] In the heady rush to overthrow Maximinians, they had not stopped to fully think through
+[16:05 --> 16:09] the consequences of their action.
+[16:09 --> 16:13] They once again met in closed session, this time in the Temple of Concord, to discuss
+[16:13 --> 16:15] their situation.
+[16:15 --> 16:20] Nothing stood between Maximinians's dainty allegiance in Rome, except for some hastily
+[16:20 --> 16:25] raised militia commanded by, what, a few rich old senators?
+[16:25 --> 16:30] Wasn't this exactly the situation the Gordians had just faced, but on a much larger scale?
+[16:30 --> 16:33] And look how that had turned out for them.
+[16:33 --> 16:38] Death on the battlefield or suicide in the parlor seemed to be the only choices left
+[16:38 --> 16:40] to them now.
+[16:40 --> 16:45] So maybe we should send our apologies to Maximinians for the misunderstanding, offer our supplication,
+[16:45 --> 16:48] and beg forgiveness.
+[16:48 --> 16:52] But before they got too far down this road, a senator rose and reminded them of something
+[16:52 --> 16:56] that they all knew, but were afraid to say.
+[16:56 --> 16:58] Their fates were sealed.
+[16:58 --> 17:00] There would be no mercy for Maximinians.
+[17:00 --> 17:04] They were all dead men.
+[17:04 --> 17:09] Then following one of those rousing, let us hang together for surely we will hang separately
+[17:09 --> 17:13] speeches, the Senate agreed that the only honorable thing left to do was carry on with
+[17:13 --> 17:15] the rebellion.
+[17:15 --> 17:20] So they chose from their ranks of the twenty senators on the executive council, two men
+[17:20 --> 17:26] who they agreed would be their new sovereigns, Marcus Claudius Pupienus Maximus and Decimus
+[17:26 --> 17:35] Helius Calvinus Balbinus, the fourth and fifth emperors of the year of the six emperors.
+[17:35 --> 17:39] The two men were chosen due to their seniority, but also due to the particular skill set each
+[17:39 --> 17:42] brought to the office.
+[17:42 --> 17:47] Pupienus was a lifelong soldier who had made his fame and fortune serving in the legions.
+[17:47 --> 17:52] He had been appointed to two consulships, had once been prefect of Rome, and by the
+[17:52 --> 17:56] time of the rebellion, he was one of the most prominent men in the capital.
+[17:56 --> 18:03] Balbinus, on the other hand, had made his name as a man of letters, an orator and poet
+[18:03 --> 18:05] and lawyer of great renown.
+[18:05 --> 18:09] He had also served two consulships and was admired by the other senators not just for
+[18:09 --> 18:16] his brilliance, but for the fact that his loyalty was to the Senate, not to the legions.
+[18:16 --> 18:20] It was determined that Pupienus would immediately make for Ravenna, where he would spearhead
+[18:20 --> 18:25] the military defense of Italy, while Balbinus would remain in Rome and take care of the
+[18:25 --> 18:29] daily administration of the capital.
+[18:29 --> 18:34] It was a neat division of labor, but seemed the perfect answer to the empire's woes,
+[18:34 --> 18:39] but in reality, the partnership would not last the year.
+[18:39 --> 18:44] The Senate once again emerged from their sequestered session and announced the elevation of Pupienus
+[18:44 --> 18:47] and Balbinus to the citizens of Rome.
+[18:47 --> 18:53] Unlike their declaration ratifying the elevation of the Gordians, however, this latest announcement
+[18:53 --> 18:59] was not met by thunderous applause, but rather by boos, jeers, and the occasional flying
+[18:59 --> 19:01] object.
+[19:01 --> 19:05] The people had been enthusiastic about the ascension of the Gordians because the Gordians
+[19:05 --> 19:08] had always been popular with the general population.
+[19:08 --> 19:13] People still raved about the games the elder Gordian had thrown.
+[19:13 --> 19:14] But now they were being offered what?
+[19:14 --> 19:19] a couple of old patrician senators who had never done a thing for them and were likely
+[19:19 --> 19:22] never to do a thing for them?
+[19:22 --> 19:27] The citizens of Rome felt that their interests had just been tossed overboard by the Senate,
+[19:27 --> 19:30] and so they made their displeasure known.
+[19:30 --> 19:31] Loudly.
+[19:31 --> 19:36] They cried out that the only way this new senatorial regime would have any legitimacy
+[19:36 --> 19:42] at all was if they also elevated another Gordian to the purple.
+[19:42 --> 19:47] The only other Gordian available was a thirteen-year-old boy, who was the grandson of Gordian the
+[19:47 --> 19:52] elder and the nephew of Gordian the younger, which I suppose means we could call him Gordian
+[19:52 --> 19:58] the youngest, but instead we call him Gordian the third.
+[19:58 --> 20:03] Afraid that unrest in Rome would undermine the war effort, the Senate saw little reason
+[20:03 --> 20:09] to deny the people's request, and young Gordian was named Caesar and junior colleague of Pupienus
+[20:09 --> 20:10] and Balbinus.
+[20:10 --> 20:15] He was the sixth of the six emperors of the year of the six emperors, and by the end of
+[20:15 --> 20:21] the year he would be the only one left standing.
+[20:21 --> 20:26] Once the senatorial regime was accepted by the people, Pupienus headed to Ravenna to
+[20:26 --> 20:29] coordinate the defense of Italy.
+[20:29 --> 20:33] He had very little time to prepare, as it was assumed that the Danube legions would
+[20:33 --> 20:39] come pouring out of the Alps any day now, and had Maximinus broke camp the minute he
+[20:39 --> 20:43] heard about Gordian's initial revolt, he probably could have marched unchallenged
+[20:43 --> 20:46] all the way to Rome.
+[20:46 --> 20:49] But Maximinus did not immediately break camp.
+[20:49 --> 20:52] He was, after all, a soldier.
+[20:52 --> 20:57] A soldier trained practically from birth to believe that the defense of the frontiers
+[20:57 --> 21:00] was his only purpose in life.
+[21:00 --> 21:05] So rather than immediately pack up the Danube legions and march on Italy, Maximinus spent
+[21:05 --> 21:11] a few crucial days arranging troop deployments so that he would not leave any space for opportunistic
+[21:11 --> 21:14] Germans to squeeze through.
+[21:14 --> 21:19] This moment of fidelity to the integrity of the empire was likely one of the key factors
+[21:19 --> 21:25] in Maximinus ultimately losing both the throne and his life, as it gave the Italian cities
+[21:25 --> 21:29] crucial time to prepare for his invasion.
+[21:29 --> 21:34] But once the border was arranged to his liking, Maximinus packed up the bulk of his men and
+[21:34 --> 21:37] marched on Italy.
+[21:37 --> 21:42] The few days delay had done nothing to dampen his temper, and it was a furious, vengeance-driven
+[21:42 --> 21:47] emperor who led his troops through the Alps and into the Po Valley.
+[21:47 --> 21:51] He was going to cut a swath right through Italy on the way to Rome, and when he got
+[21:51 --> 21:56] to Rome he was going to kill every senator he could find.
+[21:56 --> 22:00] The insolence of that pathetic body was just too much to bear.
+[22:00 --> 22:04] It was time to exterminate the whole disgusting lot of them.
+[22:04 --> 22:07] But Maximinus wouldn't make it to Rome.
+[22:07 --> 22:09] He wouldn't even make it out of the Po Valley.
+[22:09 --> 22:14] Not alive, anyway.
+[22:14 --> 22:19] Next time, Maximinus and his troops will indeed come pouring out of the Alps, but rather than
+[22:19 --> 22:24] cutting a swath through Italy, they would be stopped short by the stern resistance of
+[22:24 --> 22:28] the citizens of Aquileia.
+[22:28 --> 22:33] Maximinus had always assumed that the Italians were a weak lot, made soft by years of peace,
+[22:33 --> 22:40] but he was about to discover that the old Roman obstinacy was alive and well.
+[22:40 --> 22:46] Rather than simply roll over, Aquileia chose to fight, something Maximinus had not really
+[22:46 --> 22:48] anticipated.
+[22:48 --> 22:53] Unable to break the siege, the frustrated anger of the Thracian emperor would eventually
+[22:53 --> 22:58] be released on his own men, and when they had taken enough of his lashings, they would
+[22:58 --> 23:04] return the favor by taking their own frustrated anger out on him.
+[23:04 --> 23:09] The siege of Aquileia would finally end not with the city sacked, but with Maximinus's
+[23:09 --> 23:15] head posted on a spike in front of the city gates.
+[23:15 --> 23:20] I say next time because I'm taking Labor Day weekend off, but we'll be back in two weeks
+[23:20 --> 23:25] for the death of Maximinus, the short and turbulent reign of the senatorial co-emperors,
+[23:25 --> 23:31] and the surprising emergence of young Gordian III as the sole emperor of the Roman Empire,
+[23:31 --> 23:38] a possibility I'm sure was not really on his radar when the year began.
+[23:38 --> 23:43] I'll close this week with a brief note on the History of Rome tour, which is fast becoming
+[23:43 --> 23:45] the History of Rome tours.
+[23:45 --> 23:50] The response has been fantastic to say the least, and we are working double time to schedule
+[23:50 --> 23:55] additional trips so that everyone who wants to go can go.
+[23:55 --> 24:00] I don't have any firm details just yet on when those might be, but hopefully we'll
+[24:00 --> 24:03] have it all in place here pretty quick.
+[24:03 --> 24:07] And of course, beyond this initial itinerary we've created, we've been kicking around
+[24:07 --> 24:13] some other ideas for future tours that I think you're going to find very, very cool.
+[24:13 --> 24:18] So even if this first go-around wasn't going to work for you, I want you to know that maybe
+[24:18 --> 24:20] we'll have something soon for you, too.

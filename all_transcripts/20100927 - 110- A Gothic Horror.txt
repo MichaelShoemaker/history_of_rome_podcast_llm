@@ -1,0 +1,274 @@
+# 20100927 - 110- A Gothic Horror
+# Detected language: en
+# Duration: 1516.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. Audible is the Internet's leading
+[00:05 --> 00:10] provider of audio entertainment with over 60,000 titles to choose from. When you're
+[00:10 --> 00:17] done with this episode, go to audiblepodcast.com forward slash Roam. That again, audiblepodcast.com
+[00:17 --> 00:22] forward slash Roam. By going to that address, you will qualify for a free book download
+[00:22 --> 00:27] when you sign up for a 14-day trial membership. There is no obligation to continue the service
+[00:27 --> 00:32] and you can cancel anytime and keep the free book that you downloaded. You can also keep
+[00:32 --> 00:36] going with one of the monthly subscription options and get great deals on all future
+[00:36 --> 00:41] audiobook purchases. Since we're getting into the period where barbarian migrations
+[00:41 --> 00:46] will play more and more of a role in our story, I'm going to recommend this week The Invasion
+[00:46 --> 00:51] of Europe by the Barbarians by J.B. Berry, which is based on a series of lectures by
+[00:51 --> 00:56] the Cambridge Historian and should give us a great deal of background as we move forward.
+[00:56 --> 01:01] Just remember to go to audiblepodcast.com forward slash Roam so they know who sent you.
+[01:01 --> 01:18] Hello and welcome to The History of Rome, episode 110, A Gothic Horror. We left off
+[01:18 --> 01:24] last time in 248 AD when a short-lived rebellion in Moesia prompted Philip the Arab to send
+[01:24 --> 01:31] the respected Senator Gaius Decius to the Danube to get the situation back under control.
+[01:31 --> 01:36] Sending out Decius was supposed to help secure the future of Philip's rule, but instead it
+[01:36 --> 01:43] was the catalyst for his demise. Decius arrived in the north and began making the rounds,
+[01:43 --> 01:48] inspecting this and telling someone to tuck in that, and all the while believed that he
+[01:48 --> 01:54] really was going to spend the next year or so restoring discipline to the Danube legions.
+[01:54 --> 02:00] But the Danube legions had other ideas. They had flinched from their first rebellion, possibly
+[02:00 --> 02:06] because Peccatianus was too much of a nobody to be taken seriously as emperor, but Decius,
+[02:06 --> 02:12] well you could really picture him draped in the purple. So, with their grievances still
+[02:12 --> 02:17] unaddressed, they decided to make another play at revolution, this time with Decius
+[02:17 --> 02:25] as their leader. In the spring of 249, the troops surprised their new commander one morning
+[02:25 --> 02:31] by hailing him as emperor. They demanded that he lead them to Italy, where together they
+[02:31 --> 02:37] would unseat Philip and force the Senate to recognize Decius as the new master of Rome.
+[02:37 --> 02:42] Philip's dishonorable peace with the Parthians, coupled with his unwillingness to confront
+[02:42 --> 02:47] the Goths, had caused them to lose all respect for the man, and they strongly hinted that
+[02:47 --> 02:52] come hell or high water they were going to replace Philip with someone. If Decius wanted
+[02:52 --> 02:57] the job, they were willing to give it to him. If not, then, as Philip's loyal agent, they
+[02:57 --> 03:04] were going to kill him. Reluctantly, Decius agreed to lead them.
+[03:04 --> 03:08] His noble reluctance is always noted in the histories, but it's worth remembering that
+[03:08 --> 03:15] he was not so reluctant that he refused what they were offering.
+[03:15 --> 03:20] Leaving behind the troops necessary to garrison the frontier, Decius led, or followed as some
+[03:20 --> 03:24] of the histories imply, the rest of the men on a march to Italy, where they planned to
+[03:24 --> 03:30] confront Philip and force him to abdicate. Word reached Rome soon after that the troops
+[03:30 --> 03:36] were on the move, and Philip scrambled to assemble a defense force. There was no such
+[03:36 --> 03:41] thing as a nice, quiet abdication at this point in Roman history, and Philip knew that
+[03:41 --> 03:45] if he wanted to keep his head, he was going to have to keep his throne, and if he wanted
+[03:45 --> 03:50] to keep his throne, he was going to have to fight for it.
+[03:50 --> 03:55] The preparations were no doubt fraught with desperation. Philip knew full well he wouldn't
+[03:55 --> 04:00] be able to raise enough troops to match the size of Decius' force, but the year of the
+[04:00 --> 04:05] six emperors had proved that Italy could ward off an angry legionary force given the right
+[04:05 --> 04:09] amount of luck and determination, so it's not like Philip necessarily believed he was
+[04:09 --> 04:16] preparing for some suicidal last stand. But luck and determination were not on Philip's
+[04:16 --> 04:23] side. Decius was no Maximinus Thrax, and Philip was no hardy Brotherhood of Senators valiantly
+[04:23 --> 04:28] defending the honor of Italy from an evil tyrant. So, the story played out differently
+[04:28 --> 04:32] this time.
+[04:32 --> 04:38] In the summer of 249, Decius and Philip faced off near Verona in northern Italy. Despite
+[04:39 --> 04:43] frequent letters swearing fealty to the emperor, Decius was unable to calm the temper of his
+[04:43 --> 04:50] men, and however he felt in his heart, that all took a backseat when it came time to act.
+[04:50 --> 04:56] The two sides joined in a short battle, and Philip's army was easily routed. It is unclear
+[04:56 --> 05:00] whether he and his son were killed during the fighting itself or a few days after their
+[05:00 --> 05:06] defeat, but within a week of the battle, Philip was dead, and Decius was on his way to Rome
+[05:06 --> 05:13] to have the Senate ratify his ascension to the throne. Philip the Arab was 44 years old,
+[05:13 --> 05:18] and had ruled the empire for five years.
+[05:18 --> 05:23] As I said, Decius was no Maximinus Thrax, and the Senate was more than happy to raise
+[05:23 --> 05:29] one of their own to the purple. In addition to the title Augustus, they also gave Decius
+[05:29 --> 05:35] the honorific Traeonus, a hopeful nod that the new emperor would prove to be as wise
+[05:35 --> 05:40] and as capable as the great Trajan had been.
+[05:40 --> 05:44] Decius sent the legions who had carried him to power back to the Danube while he himself
+[05:44 --> 05:50] stayed in Rome to consolidate power and take stock of the empire he now led. The Moesian
+[05:50 --> 05:55] legions received a healthy donative for their day's work, temporarily stilling their desire
+[05:55 --> 06:00] for a war with the Goths. Eventually though, they would get their war, and soon come to
+[06:00 --> 06:06] realize that maybe they shouldn't have been quite so eager to take on the northern barbarians.
+[06:06 --> 06:10] This moment of realization probably came right around the time they were all being hacked
+[06:10 --> 06:16] to death in a muddy, bloody swamp.
+[06:16 --> 06:20] When Decius was done taking stock of the empire, he declared that he did not much like what
+[06:20 --> 06:27] he saw. The Sassanids had been dishonorably paid off in the east, the Goths menaced the
+[06:28 --> 06:33] and Rome itself was a cesspool of vice and corruption. The Roman Empire had lost its
+[06:33 --> 06:39] way and the new emperor was determined to get it back on the right track.
+[06:39 --> 06:45] The main problem, Decius decided, was not shifting demographics or economic fluctuations
+[06:45 --> 06:52] or the threat of foreign invasion, but rather the loss of public virtue. That virtue, which
+[06:53 --> 06:58] had helped Rome win the favor of the Goths, had been abandoned, and so the Goths had abandoned
+[06:58 --> 07:00] Rome.
+[07:00 --> 07:05] To help the empire get back on the good side of those supernatural forces that obviously
+[07:05 --> 07:11] determined the course of earthly affairs, Decius dreamed up two major initiatives. First,
+[07:11 --> 07:16] he was going to demand that every citizen in the empire offer sacrifices to convince
+[07:16 --> 07:22] the Goths that Rome had not forsaken them, and second, he was going to revive the long
+[07:22 --> 07:27] abandoned office of censor so that someone would be in place to regulate and legislate
+[07:27 --> 07:31] public morality.
+[07:31 --> 07:35] Taken together, Decius figured that this would be enough to please the Goths and prevent
+[07:35 --> 07:40] them from keeping any more misery on the Romans. It seems, though, that given what's about
+[07:40 --> 07:47] to happen, the Goths were not at all impressed by these offerings.
+[07:47 --> 07:53] Decius started in January of 250 by issuing his famous edict that every citizen of the
+[07:53 --> 08:00] empire must offer a sacrifice to the Goths on behalf of the emperor. The edict seems
+[08:00 --> 08:05] innocuously pious enough, but it was well known that a certain minority of citizens
+[08:05 --> 08:10] were going to have a big problem with this seemingly simple request, and it is completely
+[08:10 --> 08:15] plausible that Decius's idea of getting back on the good side of the Goths had nothing
+[08:15 --> 08:21] to do with sacrifices at all, but instead had everything to do with the complete suppression
+[08:21 --> 08:25] of Christianity.
+[08:25 --> 08:29] The mechanics of the edict were simple. A magistrate would announce that everyone in
+[08:29 --> 08:34] his municipality had, say, thirty days to offer the proper sacrifices, and then you
+[08:34 --> 08:40] would be issued a ticket after having performed said sacrifices. The officials would then
+[08:40 --> 08:44] come around after the thirty days were up and make sure everyone had their ticket, and
+[08:44 --> 08:51] if you didn't have it, well, that was treason, and treason meant torture and death.
+[08:52 --> 08:57] Across the empire, Christians heard about the edict, immediately recognized it as being
+[08:57 --> 09:01] totally incompatible with their belief system, and tried to figure out what exactly they
+[09:01 --> 09:08] were going to do. Some broke right away, made the necessary sacrifices, and either left
+[09:08 --> 09:14] Christianity behind forever, or asked for forgiveness after the fact. But most refused,
+[09:14 --> 09:20] and hoped that the Roman authorities would not pursue any heavy-handed reprisals. What
+[09:20 --> 09:24] was the big deal if a few Christians didn't take part in these pagan rituals? They paid
+[09:24 --> 09:29] their taxes and kept out of trouble, and for the last few years that had been more than
+[09:29 --> 09:33] enough to keep them flying below the imperial radar.
+[09:33 --> 09:38] But Decius had no intention of pursuing a policy of toleration, and when the first batch
+[09:38 --> 09:43] of Christians let time expire without making a sacrifice, Decius recommended to the local
+[09:43 --> 09:50] authorities that they go ahead with the torture and the executions. Like a wave spreading
+[09:50 --> 09:54] across the empire, defiant Christians were rounded up and killed as the deadline for
+[09:54 --> 10:01] sacrificing came and went in each new province.
+[10:01 --> 10:06] Over the course of 250, thousands of Christians, both prominent and obscure, were executed,
+[10:06 --> 10:11] including Pope Fabian, who set the tone for the faithful by accepting martyrdom at the
+[10:11 --> 10:18] end of January 250, not long after the edict was first issued. Perhaps revealing what this
+[10:18 --> 10:23] was all really about, Decius then prevented the Christians from electing a new bishop
+[10:23 --> 10:27] of Rome, and the office remained vacant until the emperor left the capital to go fight the
+[10:27 --> 10:31] Goths 18 months later.
+[10:31 --> 10:36] Not to get too far off into ecclesiastic history, but when a new pope finally was elected
+[10:36 --> 10:41] again, it set off a minor schism within the church over the question of how exactly to
+[10:41 --> 10:47] treat those Christians who had made the sacrifices and now wanted to return to the church. Did
+[10:47 --> 10:52] they need to be rebaptized, or was sincere repentance enough?
+[10:52 --> 10:57] This was a heavy question that caused a great deal of angry debate, so while not succeeding
+[10:57 --> 11:03] in eliminating Christianity, Decius did do much to sow some serious discord within the
+[11:03 --> 11:05] church.
+[11:05 --> 11:12] While the persecution of Christians raged across the empire, Decius made a play to further
+[11:12 --> 11:17] reintroduce the Romans to the virtuous ways of their forefathers by reviving the office
+[11:17 --> 11:24] of censor. But rather than claiming the title for himself as previous emperors had done,
+[11:24 --> 11:30] Decius picked a man he thought worthy of the job, and offered Publius Lichenius Valerianus
+[11:30 --> 11:37] the opportunity to lead Rome's moral revival. But Valerian, as we know him today, thought
+[11:37 --> 11:42] long and hard about the offer, and in the end risked the wrath of the emperor by declining
+[11:42 --> 11:45] to take the job.
+[11:45 --> 11:50] Not only was the task shaping up to be an impossible one, hey, you see that water over
+[11:51 --> 11:57] make it run uphill, okay? But the censorship was, when you read the fine print, an incredibly
+[11:57 --> 12:03] powerful office. To don the title of censor would be to don a title that would make Valerian
+[12:03 --> 12:10] practically the equal of Decius, and that was a very dangerous place to be. He could
+[12:10 --> 12:15] see that in time that kind of power would probably make Decius violently paranoid, even
+[12:15 --> 12:20] if it had been his idea to begin with.
+[12:20 --> 12:25] Valerian was a smart guy, the job was impossible, and the position was just too dangerous. No
+[12:25 --> 12:32] good could come of it, so he declined. He told Decius that the office was too august
+[12:32 --> 12:38] to be held by anyone but the Augustus himself, and asked instead for a regular old military
+[12:38 --> 12:45] posting in Germany. Decius granted the request and let Valerian slip away with his head intact.
+[12:45 --> 12:51] We do not know whether the emperor planned to let the matter drop completely, or whether
+[12:51 --> 12:55] he was dead set on bringing the censor back to Rome, because shortly after Valerian's
+[12:55 --> 13:02] refusal, the Goths once again invaded the empire, bringing an end to Decius's experiments
+[13:02 --> 13:06] with public virtue.
+[13:06 --> 13:12] In late 250, a Gothic king named Knieve, that's the pronunciation I'm going with, led an
+[13:12 --> 13:18] army across the Danube and began running amok in Thrace and Moesia. Though we call this
+[13:18 --> 13:25] army the Goths, they were actually a far more cosmopolitan force than the name suggests.
+[13:26 --> 13:30] Knieve raised a standard that Germans and Sarmatians and even a healthy number of Roman
+[13:30 --> 13:36] deserters flocked to, so while we call them the Goths, remember that a number of different
+[13:36 --> 13:41] nationalities all fought for Knieve, not just the Goths themselves, though they were the
+[13:41 --> 13:44] thick trunk of the invading army.
+[13:44 --> 13:50] Knieve's forces overran the border defenses easily, which was what prompted so many Roman
+[13:50 --> 13:56] soldiers to desert, and after extracting a large payment from Marcianopolis not to sack
+[13:56 --> 14:03] their city, the Goths were soon laying siege to the city of Nicopolis. Provincial leaders
+[14:03 --> 14:09] begged Decius to personally lead a relief army to evict these most unwelcome guests,
+[14:09 --> 14:14] and Decius, recognizing how dire the situation was, immediately began preparations for the
+[14:14 --> 14:17] march north.
+[14:17 --> 14:23] In early 251, he was on his way along with his 24-year-old son Herennius, who Decius
+[14:23 --> 14:30] had induced the Senate to make his co-Augustus shortly before their departure. This new father
+[14:30 --> 14:36] and son team was supposed to destroy the Goths and then go on to found a great new dynasty,
+[14:36 --> 14:40] but instead what happened is that they both died and went down in history as the first
+[14:40 --> 14:44] emperors to fall in battle against a foreign enemy.
+[14:44 --> 14:49] The Persians will tell you that honor really belongs to Gordian III, but let's not concern
+[14:49 --> 14:53] ourselves with that for now.
+[14:53 --> 14:58] The Goths had not taken Nicopolis by the time Decius and his reinforcements arrived, so
+[14:58 --> 15:05] Knieve abandoned the siege and headed off for greener pastures. But for the Romans,
+[15:05 --> 15:09] this was not about simply coming to the aid of Nicopolis, it was about throwing the Goths
+[15:09 --> 15:17] out of the empire entirely. So Decius and his army pursued Knieve across the countryside.
+[15:17 --> 15:22] No slouch when it came to strategy and tactics, the Gothic kings saw the Romans coming hot
+[15:22 --> 15:26] on his heels and decided to use their headlong charge against them.
+[15:26 --> 15:31] Decius was pushing his troops hard on the assumption that Knieve was running as fast
+[15:31 --> 15:36] as he could, but what the Gothic king was actually doing was turning his army around
+[15:36 --> 15:42] and pointing them straight back at the unsuspecting legions. Believing the Goths to be nowhere
+[15:42 --> 15:47] near them, the Romans set up camp for the night, and though guards were of course posted,
+[15:47 --> 15:52] no one was expecting to be doing any fighting for at least a couple of days. But then, out
+[15:52 --> 15:57] of nowhere, the full Gothic army appeared over a hill and came barreling at the Roman
+[15:57 --> 16:03] position. Caught completely off guard, Decius tried to keep his men in line, but the shock
+[16:03 --> 16:08] of the attack scattered the legions, and the subsequent retreat involved a lot more running
+[16:08 --> 16:14] than the emperor probably would have liked. Satisfied that he had spooked the Romans off
+[16:14 --> 16:20] the chase, Knieve then headed off to the nearby city of Philopopolis, which he planned to
+[16:20 --> 16:25] sack before the Romans were able to regroup. The Goths were, after all, here to plunder
+[16:25 --> 16:31] the wealth of the empire, not engage the legions in unproductive battles. But by not
+[16:31 --> 16:36] following up on his surprise attack, Knieve allowed Decius time to reform his embarrassed
+[16:36 --> 16:42] army. The emperor rebuilt their confidence by leading them against a series of much smaller
+[16:42 --> 16:47] German forces who were attempting to join Knieve's invincible army, and pretty soon
+[16:47 --> 16:53] they were feeling okay about themselves again. Knieve's invincible army, though, was only
+[16:53 --> 16:59] invincible when fighting in head-to-head battles. When it came to laying siege to cities, they
+[16:59 --> 17:04] lacked the kind of sophisticated equipment necessary to do the job right, and the siege
+[17:04 --> 17:09] of Philopopolis, like the siege of Nicopolis, took longer than it was supposed to, and while
+[17:09 --> 17:14] the Romans regained their strength, Knieve saw the strength of his own army slowly slipping
+[17:14 --> 17:21] away. But eventually, the citizens of Philopopolis could hold out no longer, and they were forced
+[17:21 --> 17:28] to surrender their city. In the subsequent sack, it is reported that 100,000 men, women,
+[17:28 --> 17:35] and children were killed. Knieve emboldened, then grabbed Titus Julius Priscus, the governor
+[17:35 --> 17:40] of Thrace, who may or may not have been in on the whole thing, and been the one who betrayed
+[17:40 --> 17:45] Philopopolis to the Goths, and proclaimed Priscus emperor of the Roman Empire under
+[17:45 --> 17:52] the generous protection of the Gothic king. This attempt to seize the empire in one fell
+[17:52 --> 17:56] swoop was short-lived, though. Not only did Priscus die shortly after becoming emperor
+[17:56 --> 18:02] – cause of death unknown – but Theseus and his reinvigorated army arrived on the
+[18:02 --> 18:08] scene and slowly began to surround the Gothic position. Aware that the siege had depleted
+[18:08 --> 18:14] his forces dangerously, Knieve decided it was time for the Goths to make their getaway.
+[18:14 --> 18:22] They piled their carts high with accumulated treasure and made a run for the northern border.
+[18:22 --> 18:26] Confident both in his numerical superiority, and just the superiority of the legions in
+[18:26 --> 18:32] general, Theseus chased down the fleeing Goths and made every effort to fight them as soon
+[18:32 --> 18:37] as possible. A decisive battle would prove to the Goths that messing with Rome got you
+[18:37 --> 18:43] nowhere, and would prove to the Romans themselves that the dominance of the legions was still
+[18:43 --> 18:49] a matter of fact, not a matter of imagined reputation. But boy did he wind up proving
+[18:49 --> 18:55] just the opposite. The mistake Theseus made was that he was so
+[18:55 --> 19:00] eager to engage the Goths that he basically seeded the decision of where the battle would
+[19:00 --> 19:06] take place to Knieve. The Gothic king chose a spot just south of the Danube near the town
+[19:06 --> 19:12] of Abertus and arranged his men in three lines, strategically positioning the third line just
+[19:12 --> 19:17] behind some marshy swampland so that the front Gothic ranks kept the site screened
+[19:17 --> 19:23] from the Romans. I won't say that the battle was already decided before the first spear
+[19:23 --> 19:30] was tossed, but allowing Knieve to pick the time and place of the battle was a fatal blunder.
+[19:30 --> 19:36] Remember kids, if there is one thing the history of warfare has proven again and again, it's
+[19:37 --> 19:43] like real estate, the name of the game is location, location, location. Don't let your
+[19:43 --> 19:49] enemy pick the battle site. Chances are the spot he will pick is a spot that complements
+[19:49 --> 19:55] his strengths and negates yours. If he offers battle someplace you're not sure of, avoid
+[19:55 --> 20:01] the temptation to fight it out, and instead focus on drawing him into a spot of your choosing.
+[20:02 --> 20:11] I can promise you, you will like the results a whole lot better. Just ask Theseus.
+[20:11 --> 20:15] According to legend, the battle of Abertus started ominously for the Romans, as Heranius
+[20:15 --> 20:22] was struck by an arrow and killed in the opening minutes of the fight. Theseus, however, used
+[20:22 --> 20:28] the shocking death of his son as a way to rally his men. Crying out, let no one mourn,
+[20:28 --> 20:34] the death of one soldier is no great loss to the Republic. This stirring scene is of
+[20:34 --> 20:38] course apocryphal, but I figured I'd pass it along since that was the way the Romans
+[20:38 --> 20:45] told the story to each other. Regardless, the moment was soon forgotten as the legions
+[20:45 --> 20:53] plunged into the damp hell that awaited them in front of that third gothic line. The legions
+[20:53 --> 20:58] pushed the Goths back, and pushed the Goths back, and pushed the Goths back, leaving
+[20:58 --> 21:04] the Romans with the impression that the battle was now going great. The first gothic line
+[21:04 --> 21:08] broke and then the second gave way, and the Romans pursued the fleeing barbarians with
+[21:08 --> 21:15] reckless abandon, sure that victory was just within their grasp. But the legions pursued
+[21:15 --> 21:22] the fleeing Goths right into the marshlands and right into Canoeva's trap. Bogged down
+[21:22 --> 21:28] in the marsh, the Romans were surrounded by the last gothic line. Fierce combat followed,
+[21:28 --> 21:32] but the terrain was too much for the Romans to overcome, and the battle turned into a
+[21:32 --> 21:38] slaughter. Theseus himself disappeared in the fighting, and his body was never recovered
+[21:38 --> 21:47] from the swamp. He was fifty years old, and had ruled the empire for two years.
+[21:47 --> 21:52] The governor of Upper Moesia, a general named Trebonianus Gallus, was left in command of
+[21:52 --> 21:59] the remnants of the Roman army, and soon after the battle, he negotiated a peace with Canoeva.
+[21:59 --> 22:03] The Goths would be allowed to leave Roman territory unmolested, with all the treasure
+[22:03 --> 22:07] they had accumulated, which, yeah, it's not like the Romans could have stopped Canoeva
+[22:07 --> 22:12] from doing anything he wanted anyway. But the Roman general also worked out a deal that
+[22:12 --> 22:17] would pay Canoeva an annual tribute in exchange for the gothic king agreeing to stay out of
+[22:17 --> 22:24] Roman territory. This last bit became the source of a later rumor that Gallus had actually
+[22:24 --> 22:29] conspired with Canoeva before the battle to ensure a Roman defeat. But given all the other
+[22:29 --> 22:34] circumstances of the battle and his later conduct, there is no reason to believe that
+[22:34 --> 22:42] Gallus had anything at all to do with the defeat at Abrittus.
+[22:42 --> 22:46] The battle of Abrittus was one of the most shocking setbacks in Roman history. Though
+[22:46 --> 22:52] not quite as existentially terrifying as Canoeva, the results of the battle still came as a
+[22:52 --> 22:59] mortal shock to the folks back home. The emperor was dead? His army destroyed? Who or what
+[22:59 --> 23:01] is going to protect us now?
+[23:01 --> 23:07] Theseus had set out to prove that the Romans were still the biggest kid on the block, and
+[23:07 --> 23:12] had wound up proving exactly the opposite. And this new gothic terror filled the Romans
+[23:12 --> 23:17] with the dread they had not really felt since the days of Hannibal. How are we going to
+[23:17 --> 23:23] survive if our supposedly invincible legions are so easily destroyed?
+[23:23 --> 23:27] There was no ready answer, and the citizens of the empire began to live with a fear in
+[23:27 --> 23:33] their hearts that they had never experienced before. Really, at that moment, it did not
+[23:33 --> 23:38] seem like the end was that far off.
+[23:38 --> 23:43] I want to end this week with a quick note on the tours. The first trip, as I already
+[23:43 --> 23:49] mentioned is sold out, but we do have some space available on trips 2 and 3, which will
+[23:49 --> 23:57] run from May 17 to May 26, and from May 28 to June 7 respectively. It will be exactly
+[23:57 --> 24:02] the same itinerary, just over a different span of days, so if the first set of dates
+[24:02 --> 24:06] didn't work out for you, or you thought you had already missed your chance to go,
+[24:06 --> 24:10] then by all means, come along on one of the other trips.
+[24:10 --> 24:16] I should also note that we have removed the transatlantic airfare from the tour package.
+[24:16 --> 24:20] Once we started to get a feel for what would work out best for everyone, especially since
+[24:20 --> 24:25] so many international travelers will be along, it became obvious that the airfare to Rome
+[24:25 --> 24:30] and from Istanbul was more of a hindrance than a help to most people, so we made the
+[24:30 --> 24:36] decision to drop that part of the package. We will by all means help everyone make the
+[24:36 --> 24:42] proper arrangements, but just know that the price you see no longer includes those tickets.
+[24:42 --> 24:49] So, TheHistoryOfRomeTour.com. Act now, because, as they say, good seats are still available,
+[24:50 --> 24:51] but won't be forever.

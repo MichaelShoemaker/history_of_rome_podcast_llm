@@ -1,0 +1,406 @@
+# 20100228 - 053- Reigning Supreme
+# Detected language: en
+# Duration: 1432.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 53, Reigning Supreme.
+[00:13 --> 00:18] Octavian had transformed himself into Caesar Augustus by skillfully using the mechanisms
+[00:18 --> 00:22] and rhetoric of the Republic to carve out an infallible little niche for himself.
+[00:23 --> 00:28] Where Julius Caesar had made bold and inflammatory declarations about how obsolete Republican
+[00:28 --> 00:33] institutions were, Augustus was careful to never admit publicly what he was really up
+[00:33 --> 00:33] to.
+[00:34 --> 00:36] This was all about restoring the Republic, he would say.
+[00:36 --> 00:38] This is not about some personal power grab.
+[00:39 --> 00:42] It was all charade, of course, but there was much to be gained by keeping the
+[00:42 --> 00:43] charade going.
+[00:44 --> 00:47] For example, not being stabbed to death on the floor of the Senate.
+[00:48 --> 00:52] But before we get going on the next few years of Augustan rule, I have to start
+[00:52 --> 00:55] this week by correcting what I said about the Pantheon last week.
+[00:56 --> 01:01] I'm not sure how exactly I managed to swing and miss so badly on my facts, but I did,
+[01:01 --> 01:02] so let's set things right.
+[01:03 --> 01:08] The Pantheon was indeed first built by Agrippa in 28 BC, and subsequently gutted
+[01:08 --> 01:10] by a fire in 80 AD.
+[01:11 --> 01:15] But when it was rebuilt in 126 AD, the construction was overseen by the Emperor
+[01:15 --> 01:20] Hadrian, not the Emperor Trajan, who had, of course, died in 117.
+[01:20 --> 01:25] And the blueprints were not set to Agrippa's original specifications, but rather new
+[01:25 --> 01:29] plans were drawn up, that some have attributed to Hadrian himself, who was a big
+[01:29 --> 01:34] fan of architecture, but most likely simply came from his staff architects, who were
+[01:34 --> 01:38] engaged in multiple urban renewal projects initiated by the Emperor.
+[01:39 --> 01:43] The dome, which is the Pantheon's most famous attribute, was a product of
+[01:43 --> 01:44] Hadrian's later Pantheon.
+[01:45 --> 01:48] Agrippa's original version did not feature this most famous architectural
+[01:48 --> 01:49] achievement.
+[01:50 --> 01:53] I completely misread and misinterpreted the source material when I was taking
+[01:53 --> 01:57] notes for last week's episode, and as a result, completely face planted for
+[01:57 --> 01:59] about 40 seconds there.
+[01:59 --> 02:02] Ugly business that I hope we can all put behind us.
+[02:02 --> 02:08] Okay, so by 23 BC, Augustus had worked out about 90% of the legalities for
+[02:08 --> 02:10] his long reign over the Roman Empire.
+[02:11 --> 02:14] There were still a few loose ends that needed to be cleared up over the
+[02:14 --> 02:15] next decade, though.
+[02:15 --> 02:19] Lepidus, for example, was still alive and serving as Pontifex Maximus, so
+[02:19 --> 02:23] Augustus was as of yet unable to assimilate that all-important religious
+[02:23 --> 02:25] position into his pile of honors.
+[02:26 --> 02:30] Plus, as much as his new proconsular imperium granted him preeminence in
+[02:30 --> 02:35] the provinces, Italy itself had always been treated differently under Roman
+[02:35 --> 02:40] law, so technically Augustus had no right to command of the 5400 or so
+[02:40 --> 02:43] praetorian guardsmen he had stationed in and around Rome.
+[02:44 --> 02:48] But other than those few outliers, Augustus was past the stage in his career
+[02:48 --> 02:49] where he was consolidating his power.
+[02:50 --> 02:53] Now, it was simply time to reign supreme.
+[02:54 --> 02:59] Ironically, one of the first early crises of his de facto dictatorship did
+[02:59 --> 03:02] not lead to pressure for him to abdicate the throne and revive the
+[03:02 --> 03:06] republic, but rather, it led to pressure from the masses for him to
+[03:06 --> 03:10] set aside this de facto business and formally become dictator for life.
+[03:11 --> 03:15] The people had never been happy with the sloppy and corrupt oligarchy that
+[03:15 --> 03:19] had ruled them for centuries and saw no reason to mince words with the
+[03:19 --> 03:21] Senate now that Augustus was in charge.
+[03:21 --> 03:25] So, when a grain shortage rocked the city after Italian farms were
+[03:25 --> 03:29] crippled by plague, the common citizens rioted and called for
+[03:29 --> 03:30] Augustus to be named dictator.
+[03:31 --> 03:33] They had no faith that the Senate would be able to solve their
+[03:33 --> 03:36] problems, only the princeps could see them through the trouble.
+[03:37 --> 03:40] But Augustus, knowing that publicly embracing absolute power would
+[03:40 --> 03:43] alienate the Senate, refused the honor.
+[03:43 --> 03:46] After telling the people that the abolition of the office of
+[03:46 --> 03:49] dictator, decreed by Mark Antony in the wake of Julius Caesar's
+[03:49 --> 03:53] assassination, was still in effect and that he would rather be
+[03:53 --> 03:56] stabbed in the throat than assume that office, they were forced to relent.
+[03:57 --> 04:00] The incident highlights the counterintuitive notion that when it
+[04:00 --> 04:04] came to Augustus' relationship with common Romans, their problem
+[04:04 --> 04:06] with him was not that he had seized too much power, but that
+[04:06 --> 04:08] he had not seized enough.
+[04:10 --> 04:13] In the years after the constitutional settlement of 23 BC,
+[04:14 --> 04:17] Augustus focused his attention first on foreign affairs.
+[04:18 --> 04:21] He switched places with his co-regent Marcus Agrippa, sending
+[04:21 --> 04:24] his old friend into Spain to keep an eye on things in the
+[04:24 --> 04:27] West while the princeps himself traveled to the East.
+[04:28 --> 04:31] His foremost concern was Roman relations with the Parthian
+[04:31 --> 04:31] Empire.
+[04:32 --> 04:35] Reviewing the disastrous campaigns of Crassus and Antony,
+[04:35 --> 04:39] Augustus determined that there was no productive angle in
+[04:39 --> 04:42] continuing to view Parthia as a territory ripe for imperial
+[04:42 --> 04:42] expansion.
+[04:43 --> 04:46] It was time to come to terms with the Parthians and
+[04:46 --> 04:49] embrace a new policy of mutual coexistence.
+[04:50 --> 04:52] But by no means had Augustus forgotten the legionary
+[04:52 --> 04:55] standards still displayed as trophies in the Parthian
+[04:55 --> 04:55] court.
+[04:56 --> 04:59] Any deal would have to begin with the return of Rome's
+[04:59 --> 05:00] lost honor.
+[05:01 --> 05:03] But it was not enough to simply say give us back the
+[05:03 --> 05:05] standards and we'll leave you alone.
+[05:06 --> 05:09] After easily repelling two massive Roman invasions, the
+[05:09 --> 05:11] Parthians felt pretty good about their position.
+[05:11 --> 05:14] Plus, there was now a pro-Parthian monarch on the
+[05:14 --> 05:15] throne in Armenia.
+[05:15 --> 05:18] Unless the Romans somehow managed to regain control of
+[05:18 --> 05:20] Armenia, the Parthians really had nothing to
+[05:20 --> 05:21] worry about.
+[05:21 --> 05:24] So Augustus set about reestablishing control of
+[05:24 --> 05:25] Armenia.
+[05:26 --> 05:29] To lead the campaign into that all-important buffer
+[05:29 --> 05:33] state set for 20 BC, Augustus chose his 22-year-old
+[05:33 --> 05:34] steps on Tiberius.
+[05:35 --> 05:37] It was time for the young man to get his feet wet and
+[05:37 --> 05:40] introduce the world to an important new cog in
+[05:40 --> 05:42] Augustus' dynastic machine.
+[05:43 --> 05:45] But while Tiberius would ultimately prove to be a
+[05:45 --> 05:48] highly effective military commander, he didn't have
+[05:48 --> 05:50] much of a chance to prove it in Armenia this time
+[05:50 --> 05:50] around.
+[05:51 --> 05:53] While the legions marched to the border, a native
+[05:53 --> 05:56] revolt erupted that deposed the sitting monarch.
+[05:57 --> 05:59] All that was left for Tiberius to do was crown
+[05:59 --> 06:00] the hand-picked Roman successor.
+[06:02 --> 06:05] With Armenia back under Roman influence, and
+[06:05 --> 06:07] Augustus ordering the legions stationed in Syria
+[06:07 --> 06:10] out on all sorts of showy maneuvers, the Roman
+[06:10 --> 06:12] signals coming into Parthia were clear.
+[06:12 --> 06:14] You better watch out, because you don't know
+[06:14 --> 06:15] what we're going to do next.
+[06:16 --> 06:18] Augustus parlayed these shows of force into a
+[06:18 --> 06:20] sit-down with the king of Parthia.
+[06:21 --> 06:23] Now the princeps had no interest in actually
+[06:23 --> 06:26] entangling Rome in a war with Parthia, but as
+[06:26 --> 06:28] long as they didn't know that, he bargained
+[06:28 --> 06:29] from a position of strength.
+[06:30 --> 06:32] Not willing to risk that Rome was bluffing, the
+[06:32 --> 06:35] king of Parthia relented to Augustus' diplomatic
+[06:35 --> 06:37] overtures and agreed to return the legionary
+[06:37 --> 06:40] standards, along with Roman prisoners taken
+[06:40 --> 06:42] over the years, in exchange for a lasting
+[06:42 --> 06:42] peace.
+[06:44 --> 06:45] The loss of the standards had eaten at
+[06:45 --> 06:48] Rome's heart for more than 30 years, and when
+[06:48 --> 06:50] they were finally brought back to Rome, the
+[06:50 --> 06:52] people celebrated as if a great military victory
+[06:52 --> 06:53] had just been won.
+[06:54 --> 06:56] For the rest of his life, Augustus considered
+[06:56 --> 06:58] the diplomatic return of the legionary eagles,
+[06:58 --> 07:01] one of the great highlights of his career.
+[07:03 --> 07:05] With the eastern frontier now secure, Augustus
+[07:05 --> 07:07] returned to Rome and set his sights on
+[07:07 --> 07:08] domestic concerns.
+[07:09 --> 07:11] As I've mentioned a few times, Augustus was
+[07:11 --> 07:13] not interested in power simply for the
+[07:13 --> 07:15] comfort and prestige that it would afford him.
+[07:16 --> 07:18] Rather, he had big plans for reforming the
+[07:18 --> 07:18] empire.
+[07:19 --> 07:21] And he didn't confine his vision to public
+[07:21 --> 07:24] concerns, like how the Senate operated or how
+[07:24 --> 07:25] the provinces were administered.
+[07:26 --> 07:28] He was also interested in promoting what he
+[07:28 --> 07:31] considered to be healthful private relations as
+[07:31 --> 07:31] well.
+[07:32 --> 07:34] So, heads up, Caesar Augustus is coming to a
+[07:34 --> 07:35] bedroom near you.
+[07:37 --> 07:39] But before he started ruffling everyone's
+[07:39 --> 07:41] feathers by, say, outlawing adultery,
+[07:41 --> 07:43] Augustus needed to make sure that he was
+[07:43 --> 07:45] well-protected from physical abuse.
+[07:46 --> 07:49] So, in 19 BC, he had the Senate officially
+[07:49 --> 07:51] acknowledge that when they had granted him
+[07:51 --> 07:53] at large proconsular authority, they had by
+[07:53 --> 07:55] no means meant to exclude Italy from the
+[07:55 --> 07:58] list of territories over which Augustus held
+[07:58 --> 07:58] his empire.
+[07:59 --> 08:01] This gave him the legal cover he needed to
+[08:01 --> 08:03] command the praetorian guardsmen he had
+[08:03 --> 08:04] stationed around the city.
+[08:05 --> 08:07] I will have much more to say about the
+[08:07 --> 08:09] praetorians as we move forward, as they will
+[08:09 --> 08:11] soon establish themselves as the
+[08:11 --> 08:13] gravitational center of imperial politics.
+[08:13 --> 08:16] But for now, let me just note that where
+[08:16 --> 08:18] once it had been illegal to command troops
+[08:18 --> 08:20] on the home peninsula, it was now the
+[08:20 --> 08:22] prerogative of the emperor to do so.
+[08:24 --> 08:26] With his physical person protected, Augustus
+[08:26 --> 08:29] said about his great project of meddling in
+[08:29 --> 08:30] everyone's affairs.
+[08:31 --> 08:32] His first target was the Senate.
+[08:33 --> 08:35] Having been thwarted in his last attempt at
+[08:35 --> 08:38] reforming the ancient body, the princeps
+[08:38 --> 08:39] tried a different tact.
+[08:39 --> 08:41] His main problem was not that the Senate
+[08:41 --> 08:44] existed or that it wielded too much power.
+[08:44 --> 08:47] No, his problem was that it was way too big.
+[08:48 --> 08:50] Augustus had every intention of delegating
+[08:50 --> 08:52] assignments to the Senate, but with over
+[08:52 --> 08:54] a thousand members, it was simply too large
+[08:54 --> 08:56] to work as an effective administrative body.
+[08:57 --> 08:59] If he was ever going to achieve his larger
+[08:59 --> 09:01] goal of improving governance of the
+[09:01 --> 09:03] empire, he needed to get the Senate down to
+[09:03 --> 09:05] a more manageable size.
+[09:06 --> 09:08] Membership of the Senate was, among other
+[09:08 --> 09:10] things, predicated on wealth requirements.
+[09:11 --> 09:12] So rather than going through the roles and
+[09:12 --> 09:15] purging specific members, which had failed
+[09:15 --> 09:17] miserably the last time he tried it,
+[09:17 --> 09:19] Augustus simply jacked up the minimum
+[09:19 --> 09:21] income required for admittance.
+[09:21 --> 09:23] He was trying to get the total number down to
+[09:23 --> 09:26] a manageable 300, but his attempts again
+[09:26 --> 09:27] proved futile.
+[09:28 --> 09:30] After much complaining, fraud, and special
+[09:30 --> 09:32] exemptions, the Senate wound up changing
+[09:32 --> 09:34] very little in composition.
+[09:35 --> 09:37] So Augustus tried a third strategy, which
+[09:37 --> 09:39] proved to be a fairly workable one in practice.
+[09:41 --> 09:43] He formed a working group of 30 members
+[09:43 --> 09:45] representing the quaestors, praetors,
+[09:45 --> 09:47] and consuls for the year, along with
+[09:47 --> 09:49] a rotating group of notable senators.
+[09:50 --> 09:52] Legislation and proposals would be hashed
+[09:52 --> 09:54] out in the working group, and then their
+[09:54 --> 09:56] recommendations would guide the rest of the Senate.
+[09:57 --> 09:59] That Augustus himself was the only permanent
+[09:59 --> 10:01] member of the committee meant that his hand
+[10:01 --> 10:03] guided the Senate's guiding hand.
+[10:04 --> 10:06] It was not a perfect solution, but it kept
+[10:06 --> 10:08] his reforms from getting bogged down in the
+[10:08 --> 10:10] morass of open debate.
+[10:12 --> 10:14] Augustus then turned his attention to matters
+[10:14 --> 10:15] of imperial administration.
+[10:16 --> 10:18] One of the glaring weaknesses of the
+[10:18 --> 10:20] previous Republican administration was that
+[10:20 --> 10:23] there was no static bureaucracy in place.
+[10:24 --> 10:25] Former consuls and praetors were assigned
+[10:25 --> 10:27] to run a province for a year, and then they
+[10:27 --> 10:29] were replaced by some other incoming official.
+[10:31 --> 10:33] As I noted in the episode on Julius Caesar's
+[10:33 --> 10:35] first consulship, it was a system that
+[10:35 --> 10:37] led to rank corruption and abuse.
+[10:39 --> 10:41] The Lex Julia had gone a long way towards
+[10:41 --> 10:42] reigning in the worst of the offenders,
+[10:43 --> 10:45] but it was still a grossly inefficient system.
+[10:46 --> 10:49] So in addition to passing supplementary
+[10:49 --> 10:51] anti-bribery laws, Augustus began building
+[10:51 --> 10:54] a permanent civil service, the ranks of
+[10:54 --> 10:57] which would be filled by slaves and freedmen.
+[10:57 --> 10:59] At all levels of government, out in the
+[10:59 --> 11:02] provinces, in the heart of Rome itself,
+[11:02 --> 11:04] up and down the line, competent slaves
+[11:04 --> 11:06] and ex-slaves began forming permanent
+[11:06 --> 11:08] support staffs for their ever-changing
+[11:08 --> 11:10] political appointee bosses.
+[11:11 --> 11:13] This new system was a great success.
+[11:13 --> 11:15] It not only kept the political appointees
+[11:15 --> 11:18] happy, they were given cushy jobs with
+[11:18 --> 11:20] nice salaries and little real responsibility,
+[11:21 --> 11:22] but it also introduced a degree of
+[11:22 --> 11:24] professionalism to state administration
+[11:24 --> 11:26] that had never before existed.
+[11:27 --> 11:29] Had Augustus not instituted these reforms,
+[11:30 --> 11:31] it is unlikely that the empire
+[11:31 --> 11:33] would have lasted for as long as it did.
+[11:36 --> 11:38] Augustus was also aware that one of
+[11:38 --> 11:39] the great challenges facing any
+[11:39 --> 11:42] large-scale empire was timely communication.
+[11:43 --> 11:44] The decision makers in Rome couldn't
+[11:44 --> 11:46] be expected to respond effectively
+[11:46 --> 11:49] to developing situations abroad when
+[11:49 --> 11:50] it took months for word of said
+[11:50 --> 11:52] developing situation to reach them.
+[11:53 --> 11:55] Augustus pushed for other wealthy Romans
+[11:55 --> 11:57] to join him in improving the
+[11:57 --> 11:59] communications infrastructure of the empire.
+[12:00 --> 12:03] In the days before fiber optics and cable lines,
+[12:03 --> 12:05] this basically meant better roads
+[12:05 --> 12:07] and more horse relay stations.
+[12:08 --> 12:09] Augustus encouraged other wealthy Romans
+[12:09 --> 12:11] to join him in improving the system,
+[12:12 --> 12:13] but either because he was loathe to
+[12:13 --> 12:15] wield his power like a bludgeon,
+[12:15 --> 12:16] or because he wasn't quite as powerful
+[12:16 --> 12:17] as he liked to make out,
+[12:18 --> 12:20] when other potential patrons dragged their feet,
+[12:21 --> 12:22] he let them off the hook
+[12:22 --> 12:23] and footed the bill himself.
+[12:24 --> 12:26] It is hard to overstate how wealthy
+[12:26 --> 12:28] Augustus was at this point,
+[12:28 --> 12:30] or how important that wealth was.
+[12:31 --> 12:33] Right alongside his command of the legions,
+[12:33 --> 12:35] the personal fortune he controlled
+[12:35 --> 12:37] was the foundation of his rule.
+[12:38 --> 12:39] Having built on the massive inheritance
+[12:39 --> 12:41] he received from Julius Caesar
+[12:41 --> 12:43] by first annexing Egypt
+[12:43 --> 12:45] and then taking control of the imperial provinces,
+[12:46 --> 12:47] Augustus was now by far
+[12:47 --> 12:49] the richest man in the empire.
+[12:50 --> 12:51] His wealth allowed him to do things
+[12:51 --> 12:54] like personally underwrite infrastructure projects
+[12:54 --> 12:56] that otherwise would not have gotten off the ground,
+[12:56 --> 12:58] say an improved communications network,
+[12:59 --> 13:01] which greatly enhanced his prestige with the people.
+[13:02 --> 13:04] This new road is not brought to you
+[13:04 --> 13:06] by the slow moving self-absorbed Senate,
+[13:06 --> 13:08] but rather by Augustus,
+[13:08 --> 13:10] the man who gets things done.
+[13:10 --> 13:11] Who would you rather support?
+[13:12 --> 13:14] The guy who's funding aqueduct expansion
+[13:14 --> 13:15] or the do nothings in the Senate
+[13:15 --> 13:17] who were well, doing nothing.
+[13:18 --> 13:21] Augustus invested lavishly and wisely in his empire
+[13:21 --> 13:23] and the people loved him for it.
+[13:23 --> 13:25] Money may not buy you happiness,
+[13:25 --> 13:26] but it will buy you control
+[13:26 --> 13:28] of a multinational Mediterranean empire.
+[13:30 --> 13:33] In 18 BC, Augustus embarked on perhaps
+[13:33 --> 13:35] his most controversial reform programs.
+[13:36 --> 13:37] A conservative at heart,
+[13:38 --> 13:40] the princeps was appalled by what he saw
+[13:40 --> 13:41] as the decline of Roman morality.
+[13:42 --> 13:44] He joined with other social critics
+[13:44 --> 13:47] who abhorred the indulgent excesses of modern Rome.
+[13:48 --> 13:51] Gone were the days of rigorous discipline and austerity,
+[13:51 --> 13:54] replaced by an atmosphere of sensuous permissiveness
+[13:54 --> 13:55] and conspicuous luxury.
+[13:57 --> 13:59] The strict Roman ethic that had conquered the world
+[13:59 --> 14:00] was pushed aside.
+[14:01 --> 14:03] Now, men and women simply wanted to enjoy
+[14:03 --> 14:04] the fruits of the empire
+[14:04 --> 14:06] that their forefathers had won for them.
+[14:07 --> 14:08] In the eyes of Augustus,
+[14:08 --> 14:10] Rome was in danger of losing what it had won
+[14:10 --> 14:12] if something was not done
+[14:12 --> 14:14] to bring back traditional virtue.
+[14:16 --> 14:18] Augustus believed that the heart of the problem
+[14:18 --> 14:20] was the breakdown in the family structure.
+[14:21 --> 14:22] He believed, not without reason,
+[14:23 --> 14:25] that Rome had been built on the back of strong families.
+[14:26 --> 14:28] The paterfamilias who rears a brood
+[14:28 --> 14:31] of swarthy Roman children who, if they were boys,
+[14:31 --> 14:33] grew to fill the ranks of the legions
+[14:33 --> 14:34] and if they're girls,
+[14:34 --> 14:36] grew up to make more Roman boys.
+[14:37 --> 14:39] That was how they'd come back from the disaster
+[14:39 --> 14:40] after Cannae.
+[14:40 --> 14:42] 50,000 dead in a single day?
+[14:42 --> 14:45] Tragic, yes, but there's more where that came from.
+[14:46 --> 14:48] So when Augustus took the census
+[14:48 --> 14:50] and realized that birth rates were on the decline,
+[14:50 --> 14:52] he began to worry about the next Cannae.
+[14:53 --> 14:54] Would Rome ever be able to recover
+[14:54 --> 14:56] if there were not any true Romans left?
+[14:57 --> 14:59] He began investigating the problem
+[14:59 --> 15:01] and soon came to realize that the issue
+[15:01 --> 15:03] was not that there was some epidemic of infertility
+[15:03 --> 15:04] or infant mortality.
+[15:05 --> 15:07] Rather, men and women were simply choosing
+[15:07 --> 15:08] not to have children.
+[15:09 --> 15:11] Children were a pain, so why waste time with them?
+[15:12 --> 15:14] It seems that everyone was pursuing
+[15:14 --> 15:15] their own immediate pleasures
+[15:15 --> 15:17] at the expense of the next generation
+[15:18 --> 15:20] and possibly at the expense of the whole empire.
+[15:21 --> 15:25] So Augustus created incentives to encourage large families.
+[15:25 --> 15:28] Having one child meant that a man could stand
+[15:28 --> 15:30] for office a year before he was technically eligible.
+[15:31 --> 15:33] A man who sired three sons could expect
+[15:33 --> 15:34] multiple legal privileges
+[15:34 --> 15:36] for his contributions to the state.
+[15:37 --> 15:39] It goes without saying that Fred McMurray
+[15:39 --> 15:41] would have been a very well-respected man
+[15:41 --> 15:42] in Augustan Rome.
+[15:44 --> 15:45] But beyond concerns about children,
+[15:46 --> 15:47] Augustus was also distressed
+[15:47 --> 15:49] by what he saw as the degradation of marriage.
+[15:50 --> 15:52] In the past, a man and a woman married
+[15:52 --> 15:54] and were faithful to one another.
+[15:55 --> 15:57] Now, though, adultery ran so rampant
+[15:57 --> 15:59] that no one even batted an eye about it anymore.
+[16:00 --> 16:02] In fact, many men failing to see the point
+[16:02 --> 16:04] of even maintaining pretenses
+[16:04 --> 16:06] simply avoided getting married altogether.
+[16:08 --> 16:11] To Augustus, this persistent embrace of immorality
+[16:11 --> 16:13] was dangerously eroding Roman virtue.
+[16:14 --> 16:17] All that self-indulgence was simply not compatible
+[16:17 --> 16:19] with the self-sacrifice that the state required.
+[16:21 --> 16:23] A man and a woman get married and they remain faithful.
+[16:24 --> 16:25] That was how it was supposed to go.
+[16:26 --> 16:28] So Augustus implemented penalties
+[16:28 --> 16:30] that hit unmarried men and women hard.
+[16:30 --> 16:33] The goal was to make single life so unbearable
+[16:33 --> 16:35] that married life seemed like a reprieve.
+[16:37 --> 16:39] Once he had everyone locked up in a formal marriage,
+[16:39 --> 16:41] he went ahead and outlawed adultery.
+[16:42 --> 16:44] No longer simply a matter of personal honor,
+[16:44 --> 16:47] cheating on a spouse became an offense against the state.
+[16:48 --> 16:51] In certain cases, the penalty for a woman caught cheating
+[16:51 --> 16:52] was actually death.
+[16:53 --> 16:53] Harsh?
+[16:54 --> 16:54] Yes.
+[16:55 --> 16:55] Did it work?
+[16:56 --> 16:57] Well, no, not really.
+[16:58 --> 17:01] It was hard for anyone to take the law too seriously
+[17:01 --> 17:03] when it was Augustus who was wagging his finger.
+[17:04 --> 17:06] The princeps had a well-earned reputation
+[17:06 --> 17:09] for straying from his wife with slaves,
+[17:09 --> 17:11] with young women, with married women,
+[17:12 --> 17:13] with anyone who caught his eye, really.
+[17:14 --> 17:17] The massive hypocrisy of the draconian adultery law
+[17:17 --> 17:18] was not lost on anyone

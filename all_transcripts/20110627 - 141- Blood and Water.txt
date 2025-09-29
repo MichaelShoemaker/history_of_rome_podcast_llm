@@ -1,0 +1,181 @@
+# 20110627 - 141- Blood and Water
+# Detected language: en
+# Duration: 1644.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:10] This week's episode is brought to you by Audible. As you know, Audible is the internet's leading provider of audio entertainment with over 80,000 titles to choose from.
+[00:10 --> 00:20] When you're done with this episode, go to audiblepodcast.com forward slash rome. That again audiblepodcast.com forward slash rome.
+[00:20 --> 00:26] By going to that address, you qualify for a free book download when you sign up for a 14 day trial membership.
+[00:26 --> 00:31] There is no obligation to continue the service and you can cancel anytime and keep the free book.
+[00:31 --> 00:38] Or, you can keep going with one of the monthly subscription options and get great deals on all future audiobook purchases.
+[00:38 --> 00:46] This week I am going to go with a recommendation from listener Michael Stokes and seconded by a few others.
+[00:46 --> 00:50] The Diddius Falco Mystery Series by Lindsay Davis.
+[00:50 --> 01:00] Set during the reign of Vespasian, the books follow Proto Detective Falco as he gets to the bottom of one crime after another from his base on the Aventine Hill.
+[01:00 --> 01:06] There are at least 10 books from the series on Audible, but the first is The Silver Pigs.
+[01:06 --> 01:12] Just remember to go to audiblepodcast.com forward slash rome so that they know who sent you.
+[01:12 --> 01:26] Hello, and welcome to the History of Rome, episode 141, Blood and Water.
+[01:26 --> 01:40] When Constantine died in 337 AD, he left the empire saddled with an unwieldy five-way power sharing system that it appears he just sort of hoped would somehow find a way to work.
+[01:40 --> 01:44] Well, by 340, it had found a way to work.
+[01:44 --> 01:49] It found a way to work by killing off three-fifths of its members.
+[01:49 --> 02:01] With the number of living Augusti now down to a manageable two, Constantius II and Constans were able to share control of the Roman Empire for a decade without butting heads with each other too much.
+[02:01 --> 02:07] That did not mean they were mutually supportive best friends by any stretch of the imagination.
+[02:07 --> 02:19] But it did mean that they mostly respected the legitimacy of the other, and as each had more than enough to deal with in their own half of the empire, it meant that they were not constantly at each other's throats.
+[02:19 --> 02:25] In other words, the saber rattling was kept to a minimum, and civil war was avoided.
+[02:25 --> 02:34] Indeed, when Constantius finally did march west to fight a civil war, it was not to take his brother out, but to avenge his death.
+[02:35 --> 02:51] Of course, this was not vengeance in the you-killed-my-brother-prepared-to-die sense, so much as the allowing an illegal usurpation would set an unacceptable precedent sense, but still, the death of his brother did spur Constantius to some kind of action.
+[02:51 --> 02:58] Which is about as nice a thing as you can say about these guys at this point in history.
+[02:59 --> 03:07] But before we can get into all that, we need to zip through the 340s AD, which are something of a lost decade source-wise.
+[03:07 --> 03:21] We know a few things, but until Ammianus Marcellinus comes along and starts to fill in the gaps, we are unfortunately left with a rather broad brush to help us paint the years of Constantius and Constans' joint rule.
+[03:21 --> 03:26] But like I said, we do know a few things.
+[03:26 --> 03:34] Both of the emperors began their newly established joint rule by doing what emperors usually do when they want to cement their legitimacy.
+[03:34 --> 03:37] They made war on the enemies of Rome.
+[03:37 --> 03:47] In the west, Constans spent most of 341 and 342 battling uncooperative Franks, and appears to have been mostly successful on those campaigns.
+[03:47 --> 04:03] In early 343, he abruptly abandoned the Rhine and headed north to Britannia, where he made a rare winter crossing over to the island, leading scholars to surmise that some sort of revolt had broken out that required immediate imperial attention.
+[04:03 --> 04:12] The revolt cannot have been too big a concern though, because by the spring Constans was back in Trier keeping an eye on the Rhine.
+[04:12 --> 04:22] During this same period, Constans operated almost exclusively out of Antioch, and spent most of his time fighting the Sassanid king Shapur II.
+[04:22 --> 04:40] As I mentioned last week, this new war between Rome and Persia had technically been initiated by Shapur following the death of Constantine in 337, but we should not forget that it was likely the now dead emperors' threatening rhetoric that laid the groundwork for this latest round of hostilities.
+[04:40 --> 04:58] The two great empires fought mostly in Mesopotamia, and their armies were apparently well matched, because over the course of what would eventually be 13 uninterrupted years of war, Constantius and Shapur fought at least nine major battles, and none of them were conclusive.
+[04:58 --> 05:03] Though I should mention that none of them are particularly well documented either.
+[05:04 --> 05:10] Despite all the ambiguity though, there is one great accomplishment that Constantius can point to.
+[05:10 --> 05:22] On three separate occasions over the course of the long war, Shapur laid siege to the key fortress city of Nispis, and on all three occasions he was repelled and forced to withdraw.
+[05:22 --> 05:34] But as notable an accomplishment as this was though, it sort of leaves us asking the question of what this whole war was about, if preventing the fall of a city turns out to be the big upshot of it all.
+[05:34 --> 05:46] To put it another way, for 13 years, blood and treasure was expended in massive quantities on both sides, and in the end, nothing changed, nothing was resolved, and no one benefited.
+[05:46 --> 05:48] Good work everyone.
+[05:49 --> 06:03] Beyond the standard imperial war making, the two emperors were also kept busy through the 340s by what was fast becoming one of the defining features of imperial rule, Christian church politics.
+[06:03 --> 06:11] Constantius, as I mentioned last week, sympathized with the Arians, and promoted their candidates for bishoprics whenever he could.
+[06:11 --> 06:25] This theological leaning was on display, for example, when the emperor pushed for the Arian Eusebius of Nicomedia, who had been the one to baptize Constantine the Great by the way, to take over as the bishop of Constantinople in 338.
+[06:25 --> 06:31] But it was perhaps nowhere more on display than in his dealings with Athanasius.
+[06:31 --> 06:43] I didn't get into this last week, but about five minutes after the anti-Arian bishop was returned home to Alexandria by Constantine II, Constantius found cause to return him to exile.
+[06:43 --> 06:52] There was basically no way the emperor was going to let a man with that much power and that much charisma roam free in his territory stirring up trouble.
+[06:52 --> 06:56] So, it was back to the west for Athanasius.
+[06:57 --> 07:07] This would have probably been all well and good from an imperial point of view, except for the fact that Constance had developed into something of a pro-Nicene partisan.
+[07:07 --> 07:18] As with Constantine II, Constance's religious affinities probably had as much to do with the general pro-Nicene orthodoxy of the western church as anything else.
+[07:18 --> 07:30] But on two separate occasions in the early 340s, Constance met with Athanasius and found him to be a man of admirable virtue who was getting the short end of it from his brother.
+[07:30 --> 07:40] Constance assumed came to the decision that Athanasius was the lawful bishop of Alexandria and that he ought to be allowed to return home and serve as such.
+[07:41 --> 07:49] But as Constance was hardening his pro-Nicene position, Constantius was hardening his pro-Aryan position.
+[07:49 --> 08:05] In 341, while the emperor was in Antioch, a bishop Eusebius died and before Constantius could react one way or the other, the clergy in Constantinople elevated the anti-Aryan Paul of Constantinople to the bishopric of the capital city.
+[08:06 --> 08:10] When Constantius found out what had happened, he was livid.
+[08:10 --> 08:19] Not just because he hadn't been consulted, but because he had already deposed and exiled Paul once before in order to clear the way for Eusebius.
+[08:19 --> 08:29] Fuming over the appointment, Constantius ordered his master of the horse to go to Constantinople and personally oversee the re-banishment of Paul.
+[08:29 --> 08:36] But when the commander arrived, he found the people of Constantinople ready to defend Paul's right to the office.
+[08:36 --> 08:43] So much so that in the heat of the moment they barricaded him inside his house and then set it on fire.
+[08:43 --> 08:50] The master of the horse, one of the most senior military officials in the empire, was killed in the blaze.
+[08:50 --> 08:56] And then, to top things off, his body was dragged through the streets in triumph.
+[08:56 --> 09:00] I wonder what Constantius is going to think about all this.
+[09:00 --> 09:09] Constantius, surprisingly, took the news of his top lieutenant's murder in stride and decided to allow the people to have their bishop.
+[09:09 --> 09:11] Just kidding.
+[09:11 --> 09:23] When word of what happened reached Antioch, Constantius flew into a rage, saddled up his horse, and double-timed to Constantinople where he planned to separate as many heads from as many bodies as he could find.
+[09:23 --> 09:35] When he arrived in the capital, though, he was greeted by a population that seemed so genuinely remorseful, who supplicated themselves so completely that Constantius's anger was tempered.
+[09:35 --> 09:43] Instead of massacring the whole lot of them then, the emperor settled on cutting their free grain allotment by 50%.
+[09:43 --> 09:48] It goes without saying that Paul was once again exiled from the city.
+[09:49 --> 09:56] Satisfied that things had been set right, the emperor returned to Antioch to continue the war against Persia.
+[09:56 --> 09:59] But that would not be the end of it.
+[09:59 --> 10:14] Constantius's willingness to exile Antiarian bishops from his provinces eventually came to affect relations with his brother, and in time lead to the closest brush with civil war the two emperors faced during their decade in office together.
+[10:14 --> 10:23] The various eastern exiles, including Athanasius and Paul, took up residence in Rome, where they were sheltered and defended by the bishop Julius.
+[10:23 --> 10:33] Pretty soon, Constance was being hit up from all sides to do something about Constantius's mistreatment of all these good and decent men of God.
+[10:34 --> 10:43] So in 343, Constance called for an ecumenical council to meet in Sardica to rehabilitate Athanasius and his fellow expatriates.
+[10:43 --> 10:49] But when the outnumbered eastern bishops determined that the whole thing was rigged against them, they walked out en masse.
+[10:49 --> 11:00] And as a result, the council of Sardica not only failed in its stated goal to reunite the church, but it also failed to even make the list of official ecumenical councils.
+[11:03 --> 11:16] By 346, tensions between east and west came to a head, and after getting the brush off time and again, Constance finally decided that the only way to get his older brother's attention was to threaten war.
+[11:16 --> 11:25] Allow Athanasius and his compatriots return to the east, or I am going to invade your territory and force you to do it.
+[11:25 --> 11:37] This threat did indeed get Constantius's attention, and set off a flurry of diplomatic correspondence between Antioch and Sirmium, where Constance had taken up provocative residence.
+[11:37 --> 11:51] Died down by his protracted war with the Sassanids, Constantius could not afford to waste political or military capital on theological arguments, and though the thought of allowing Athanasius to return to Alexandria rankled him,
+[11:51 --> 11:56] Constantius basically backed down, and gave in to his brother's demand.
+[11:56 --> 12:06] When Athanasius returned to Alexandria, he was greeted by the population like a conquering hero, and immediately reclaimed the bishopric of the city.
+[12:06 --> 12:20] For the next four years, an uneasy truce would stand between emperor and bishop, until the death of Constans in 350 removed Constantius's impediment to action, and Athanasius was banished once again.
+[12:20 --> 12:32] But despite the return of so many controversial bishops to their home provinces, the late 340s were pretty much the same as the early 340s as far as the eastern empire was concerned.
+[12:32 --> 12:41] Constantius waged war against Shapur, and Shapur waged war against Constantius. Exactly the same thing that had been going on for the last decade.
+[12:41 --> 12:46] But in the west, Constance began to slip up.
+[12:46 --> 12:55] Though he had begun his reign with a great deal of promise, of late he had begun to fall into the same trap that had ensnared previous young rulers.
+[12:55 --> 13:02] Surrounded by sycophants, the twenty-something Augustus of the west was losing touch with reality.
+[13:02 --> 13:14] The common complaint was that he was giving himself over too much to hunting and banqueting and other extracurricular activities, while neglecting the real business of ruling half the empire.
+[13:14 --> 13:22] Compounding this problem were charges that he was treating his court and his subjects with unnecessary cruelty.
+[13:22 --> 13:32] Now, this didn't have to become a problem so large that it would eventually destroy him, but Constance forgot the most basic rule of imperial rule.
+[13:32 --> 13:35] Make sure the army is taken care of.
+[13:35 --> 13:41] He was not taking care of the army, and so the army took care of him.
+[13:41 --> 13:50] If anyone is surprised by what's about to happen, just go and listen to the back episodes again, because it's not like these things haven't happened before.
+[13:50 --> 14:06] Constance's main problem is that he had become enamored with an elite archery corps who acted as his personal bodyguard, and while he'd lavish gifts and attention on them, he neglected the officers and soldiers out on the frontiers.
+[14:06 --> 14:13] They, of course, began to talk amongst themselves about how annoying it was that these pretty boy archers were getting all the love.
+[14:13 --> 14:28] After a few years of enduring what they felt was supreme disrespect, this talking amongst themselves became more of a clamor, and the leading officers of the Rhine legions began to think seriously about finding a replacement emperor.
+[14:29 --> 14:43] By 349, a conspiracy had solidified around Magnentius, a popular general who was serving as the commander of the official imperial guard units, as opposed to Constance's unofficial archery guard.
+[14:43 --> 14:56] According to the legend, Magnentius and some of his fellow officers were gathered for dinner in January of 350 at Augusta Dunham, modern Autun in France, when Magnentius excused himself from the table.
+[14:56 --> 15:08] Upon the general's return, the other officers noticed that he was draped in a purple cloak. They cheered and hailed him as emperor, and just like that, the West was in revolt.
+[15:10 --> 15:22] Constance, enjoying himself at some unspecified spot near Augusta Dunham, heard of the revolt and began making plans to resist, until he discovered just how out of touch he had become.
+[15:22 --> 15:29] Apart from his personal guard and a few members of the court, absolutely no one lined up to defend him.
+[15:29 --> 15:40] I don't know how popular he thought he was, or even if he cared how popular he was, but it had to have come as a surprise to find out just how unpopular he was.
+[15:40 --> 15:48] The legions up and down the Rhine immediately joined Magnentius's banner. Constance was all alone.
+[15:49 --> 15:59] Fearing capture if he tried to pass directly through the Alps, the fugitive emperor made instead for Spain, where he planned to hop a ship to Italy and, hopefully, regroup.
+[15:59 --> 16:06] But Magnentius's agents caught up with him in the foothills of the Pyrenees, and Constance was executed.
+[16:06 --> 16:13] He was somewhere between 27 and 30 years old, and had been in Augustus for almost 13 years.
+[16:14 --> 16:23] The usurpation of Magnentius and the murder of Constance kicked off a frenzy of activity across the empire.
+[16:23 --> 16:35] In the Far East, Constancias received word that his brother had been killed, and immediately he began working on a plan to extract himself from his war with Persia, so he could personally go put the revolt down.
+[16:35 --> 16:42] Magnentius was trying to head all this off by asking Constancias to just go ahead and recognize him.
+[16:42 --> 16:55] After all, the empire needed a strong hand in the West, the Eastern legions were bogged down with a war, so why not just do the sensible thing and let me, a strong and popular general, run things for you out here?
+[16:55 --> 17:04] But Constancias wasn't having it. You don't get to overthrow a member of the family and just get away with it.
+[17:04 --> 17:15] Magnentius was right about one thing though, the Eastern legions were bogged down in a war, so as much as he wanted to, Constancias couldn't immediately pick up and march west.
+[17:16 --> 17:35] As the emperor worked up a plan to put the war with Persia on hold however, his sister Constantina, the widow of Hannibalianus, apparently took matters into her own hands, and wrote to a general closely allied with the Constantinian family named Vatronio, asking him to take matters into his own hands.
+[17:35 --> 17:44] As one of the senior commanders of the Danube region, Vatronio was well positioned with a large army to oppose the rising power of Magnentius.
+[17:44 --> 17:52] Spurred on by the emperor's sister, Vatronio declared himself Augustus in March of 350.
+[17:53 --> 18:08] Now, Constancias cannot have been too happy about this declaration, but he recognized his own weak position and the need for a powerful ally, and Vatronio, backed by Constantia, was promising to be a powerful ally.
+[18:08 --> 18:16] So the Eastern Augustus went ahead and accepted the general's self-elevation as legitimate, for now.
+[18:17 --> 18:24] The rise of Vatronio had the intended effect, and finally put a stop to Magnentius' unchecked expansion.
+[18:24 --> 18:38] Since being declared Augustus in January, the general had gotten all the provinces in Gaul, Britannia, Hispania, and Italy lined up behind him, and he was looking to press on into Constancias' Illyrian territory.
+[18:38 --> 18:44] If he could nail down Illyria, then it was just a hop-skip over to Constantinople.
+[18:44 --> 18:54] Whether he was actually looking to capture the capital is anyone's guess, but at the very least, the threat would have made his bargaining position that much stronger.
+[18:54 --> 19:04] But with Vatronio now standing firm against him with the Danube legions at his back, Magnentius was forced to settle for what he had already acquired.
+[19:04 --> 19:15] There would be no directly threatening Constantinople. Magnentius would have to figure out a different way to convince Constantius to legitimize him.
+[19:15 --> 19:27] Through the rest of the spring, a stalemate ensued, with Magnentius commanding the west, Vatronio holding down the center, and Constantius desperately trying to get out of Syria.
+[19:27 --> 19:33] Into this mix, a fourth player emerged onto the stage in June of 350.
+[19:33 --> 19:41] Nepatianus, the lost nephew of Constantine, suddenly appeared at the gates of Rome, backed by a small army of gladiators.
+[19:41 --> 19:52] Since the Eternal City was by this point a strategic backwater, Magnentius had not garrisoned the city, and his supporters there had to rely on a citizen militia for protection.
+[19:52 --> 20:03] This citizen militia was no match for Nepatianus' gladiators, and the forgotten prince was basically able to stride right through the gates and declare himself master of Rome.
+[20:03 --> 20:19] For the next 28 days, it looked like Magnentius might be in real trouble. Not only had he stopped acquiring new territory, but he was already losing territory, and to a random Constantinian cousin and a couple of gladiators no less.
+[20:19 --> 20:28] But fortunately for Magnentius, the seizure of Rome only occurred because the general had put the Eternal City pretty far down on his list of priorities.
+[20:28 --> 20:33] I mean, come on, since when has Rome been the key to anything?
+[20:33 --> 20:43] So Nepatianus held Rome for exactly the amount of time it took for Magnentius to find out what happened, organize an appropriate response force, and then send it back down the peninsula.
+[20:43 --> 20:56] Now that he had Magnentius' attention, Nepatianus didn't stand a chance. The professional soldiers of the legions easily bested his gladiators, and Nepatianus himself died in the fighting.
+[20:56 --> 21:11] This small blip aside, the stalemate between Magnentius, Petronio, and Constantius continued for most of the rest of the year, until finally the eastern Augustus hit upon some luck in his dealing with the Persians.
+[21:11 --> 21:25] It seems that right around this same time, Shapur began having problems of his own. With the bulk of the Sassanid army locked down fighting Rome, unruly Scythians had begun raiding his northern frontier.
+[21:25 --> 21:35] So just as Constantius was looking for a way out of the war to go deal with Magnentius, Shapur was looking for a way out so he could go deal with the Scythians.
+[21:36 --> 21:47] As the winter of 350 approached, the two rival leaders agreed to a temporary ceasefire that would allow them each to pull back from Mesopotamia and go handle business on other fronts.
+[21:47 --> 21:57] The truce would wind up holding for the next eight years, until, after finally pacifying his northern borders, Shapur decided to take another crack at Rome.
+[21:57 --> 22:09] For those of you who are reading ahead, that next round of fighting will be the one that eventually kills Julian the Apostate and leads to Jovian's infamous peace agreement of 363.
+[22:12 --> 22:18] Truce in hand, Constantius was now ready to march west and crush Magnentius.
+[22:18 --> 22:26] But as much as he trusted the Persian king to abide by the agreement, he did not really trust the Persian king to abide by the agreement.
+[22:27 --> 22:35] The emperor, already inclined towards paranoia, was worried that the minute he turned his back, Shapur would jump him from behind.
+[22:35 --> 22:46] Fearing that the lack of a strong imperial presence would incline the Persian toward just this sort of trick, Constantius decided that he needed a stand-in emperor.
+[22:46 --> 22:53] Someone who would keep the Persians from breaking the peace, provide the backbone the legions needed to maintain their vigil,
+[22:53 --> 22:58] and, perhaps most importantly, protect Constantius' interests in the east.
+[23:00 --> 23:11] But with most of his male relatives having been killed off at one point or another, the list of acceptable candidates, read, blood-related candidates, was now down to two.
+[23:11 --> 23:20] The boys who had survived the massacre of the princes, now 25-year-old Constantius Gallus and his younger brother, 18-year-old Julian.
+[23:21 --> 23:29] Constantius, of course, chose to elevate Gallus, who was not only older, but he didn't have his head shoved in a book all the time.
+[23:29 --> 23:38] In a ceremony in Antioch, Constantius formally invested Gallus with the title Caesar and gave him authority over the eastern provinces.
+[23:38 --> 23:49] To seal the deal, Gallus was wed to Constantina, the outspoken sister of Constantius, who was also the one to so recently prod Vittronio into action.
+[23:49 --> 23:53] That she was Gallus' own cousin was neither here nor there.
+[23:56 --> 24:07] Peace with the Sassanids established and a loyal Caesar holding down the fort in Antioch, Constantius could finally, finally march west and exact the full measure of his revenge on Magnentius.
+[24:09 --> 24:18] As I said before, it's not necessarily that Constantius was broken up about Constans' death or even that he thought Magnentius would make a bad ruler.
+[24:18 --> 24:25] It was just that in a world where his own claim to the throne rested entirely on the fact that he was the blood son of Constantine,
+[24:25 --> 24:34] well, allowing someone from outside the family into the imperial circle kind of undercut the entire rationale for his own rule.
+[24:34 --> 24:42] The days of the Tetrarchy with its idealized vision of merit-based advancement were dead, dead, dead.
+[24:43 --> 24:48] The empire was back to classic kinship rules where blood runs thicker than water.
+[24:50 --> 24:57] Next week, Constantius will make sure that everyone gets the message that kinship rules are back in effect.
+[24:57 --> 25:03] And we will watch as the reign of Magnentius very quickly turns into the short reign of Magnentius.
+[25:04 --> 25:08] But having reasserted the supremacy of the Constantinian family,
+[25:08 --> 25:13] Constantius II will soon enough prove that while blood may run thicker than water,
+[25:13 --> 25:19] that did not mean that at the end of the day, Constantius cared about anyone's blood but his own.
+[25:20 --> 25:30] Which is to say that we will also get to watch next week as the reign of Constantius Gallus very quickly turns into the short reign of Constantius Gallus.
+[25:34 --> 25:41] Before we go this week, you know how last week I opened by saying that the tours were an absolutely fantastic time
+[25:41 --> 25:44] and that we hope to be doing them again very soon?
+[25:44 --> 25:51] Well, I couldn't be more excited to announce that very soon means October 2011.
+[25:52 --> 26:01] Version 2.0 of the official History of Rome Roman History Tour is ready to launch and will begin on October 21, 2011.
+[26:01 --> 26:04] So if the first round of tours didn't work out for you,
+[26:04 --> 26:11] then by all means go to HistoryofRomeTour.com and send us an email that says I'm in.
+[26:12 --> 26:19] As before, additional tours can be scheduled to accommodate demand if we have that wonderful problem again,
+[26:19 --> 26:23] but the October 21st trip is locked in and ready to go.
+[26:24 --> 26:27] Space is limited, so sign up today.
+[26:28 --> 26:33] For those of you who just slapped their heads realizing that there was no way they can make October work,
+[26:33 --> 26:35] well, you're in luck.
+[26:35 --> 26:45] Because we are also going to go ahead and throw open reservations for a third round of tours that will begin on February 24, 2012.
+[26:45 --> 26:52] Between the October 2011 dates and the February 2012 dates, you can make this work, right?
+[26:52 --> 26:55] Let's go hang out in Rome and look at cool stuff together.
+[26:55 --> 27:00] I promise you, it is an absolutely fantastic time.

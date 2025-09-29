@@ -1,0 +1,307 @@
+# 20110501 - 136- Let This Be Our Final Battle
+# Detected language: en
+# Duration: 1418.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:16] Hello, and welcome to the History of Rome, episode 136, Let This Be Our Final Battle.
+[00:16 --> 00:21] Last week, we left off in March of 317 AD, with Constantine and Lichinus renewing their
+[00:21 --> 00:24] imperial alliance.
+[00:24 --> 00:27] For Constantine, the settlement was something of a disappointment.
+[00:28 --> 00:33] After all, he had beaten Lichinus twice in battle, but two sunsets and some clever maneuvering
+[00:33 --> 00:39] on the part of the eastern Augustus had conspired to deny Constantine outright victory.
+[00:39 --> 00:45] For Lichinus, though, the settlement was a huge relief, a classic case of snatching victory
+[00:45 --> 00:47] from the jaws of defeat.
+[00:47 --> 00:50] Well, stalemate from the jaws of defeat, anyway.
+[00:50 --> 00:54] But you know, when you head into the endgame with nothing but a king and two pawns, stalemate
+[00:54 --> 00:58] and victory look pretty much the same.
+[00:58 --> 01:03] Lichinus' position was far weaker after the settlement than before it.
+[01:03 --> 01:07] But he was still Augustus, he still ruled the eastern empire, minus what he had been
+[01:07 --> 01:15] forced to cede to Constantine, and perhaps most important of all, he still had his head.
+[01:15 --> 01:20] As I mentioned last time, following the settlement, Lichinus returned to Nicomedia, while Constantine
+[01:20 --> 01:23] set up shop in Sirmium.
+[01:23 --> 01:27] Constantine wanted to establish his authority over the newly-ceded Middle Empire, yes, but
+[01:27 --> 01:32] he also wanted to make sure that he was right on top of Lichinus, in case the eastern Augustus
+[01:32 --> 01:33] ever slipped up.
+[01:33 --> 01:37] So he made his headquarters along the Danube River.
+[01:37 --> 01:41] This meant, though, that the always-volatile Rhine frontier, where Constantine had spent
+[01:41 --> 01:46] the majority of his reign thus far, was no longer under close imperial watch.
+[01:46 --> 01:52] This, as you can imagine, made the local Gallic citizenry nervous and hostile German tribesman
+[01:52 --> 01:53] giddy.
+[01:53 --> 01:58] But both the fear and the giddiness turned out to be misplaced, because everyone was
+[01:58 --> 02:03] about to discover that the always-volatile Rhine frontier was actually still under close
+[02:03 --> 02:06] imperial watch.
+[02:06 --> 02:11] Now probably in his late teens, the newly-anointed Caesar Crispus was dispatched by his father
+[02:11 --> 02:17] to govern the western provinces following the settlement of 317.
+[02:17 --> 02:21] Crispus would set up his capital in Trier, and for the next five years would run the
+[02:21 --> 02:26] government and defend the frontier better than anyone could have reasonably expected.
+[02:26 --> 02:33] He defeated German tribes in battle in 318, 320, and 322, and in the process demonstrated
+[02:33 --> 02:41] to everyone that he was every bit his father's son, a brilliant commander and a savvy politician.
+[02:41 --> 02:45] When father and son visited Rome together in 320, it is reported that the ovation for
+[02:45 --> 02:49] Crispus was louder than the ovation for Constantine.
+[02:49 --> 02:53] And while I hope it wasn't something as petty as jealousy that ultimately led to Crispus's
+[02:53 --> 02:57] tragic demise, it is definitely a possibility.
+[02:57 --> 03:01] Also a possibility is the fact that Fausta would bear two more sons for Constantine during
+[03:01 --> 03:08] these years, Constantius II in 317 and Constans in 323.
+[03:08 --> 03:14] Can the wicked stepmother trope really be too far behind?
+[03:14 --> 03:18] During the interregnum between the First and Second Civil Wars, Constantine and Lichinis
+[03:18 --> 03:24] continued to drift apart not just personally, but politically as well.
+[03:24 --> 03:28] Up until this point, the two emperors had been rivals, yes, but they had more or less
+[03:28 --> 03:31] pursued the same policies.
+[03:31 --> 03:36] Round about 320, though, this began to change, and once again Christianity was at the center
+[03:36 --> 03:39] of imperial division.
+[03:39 --> 03:44] Just as Constantine was stepping up his support for the church, Lichinis was dialing his back,
+[03:44 --> 03:50] until finally he abandoned the Edict of Milan and renewed the persecution of Christians
+[03:50 --> 03:52] in the east.
+[03:52 --> 03:58] His persecution had none of the bloody overtones of the Great Persecution, but in the early
+[03:58 --> 04:03] 320s, Lichinis began to target church property for confiscation and target church leaders
+[04:03 --> 04:06] for harassment.
+[04:06 --> 04:11] Back in 314, his political enemies had been the militant anti-Christians, and so Lichinis
+[04:12 --> 04:15] had ruthlessly enforced the terms of the Edict.
+[04:15 --> 04:22] But now that his rival was no longer Maximinis, and instead a very pro-Christian Constantine,
+[04:22 --> 04:26] the eastern Christians, who had once been Lichinis' allies, were now suspected of
+[04:26 --> 04:30] being dangerous fifth columnists.
+[04:30 --> 04:35] Lichinis knew a political threat when he saw it, so he abandoned the Edict, and when after
+[04:35 --> 04:43] a group of people, he probably rightfully suspected of harboring cross loyalties.
+[04:43 --> 04:48] But how hard Lichinis pressed the renewed persecution is difficult to determine.
+[04:48 --> 04:52] Because Constantine would specifically cite Lichinis' treatment of the Christians as
+[04:52 --> 04:58] one of his main reasons for going back to war, separating truth from propaganda is a
+[04:58 --> 05:00] tough assignment.
+[05:00 --> 05:05] What is a less tough assignment is determining the nature of Constantine's treatment of
+[05:05 --> 05:10] the Christians in his domain, because with each passing day, it was becoming more and
+[05:10 --> 05:16] more apparent which religion was the western Augustus' favorite religion.
+[05:16 --> 05:22] As late as 315, when his triumphal arch in Rome was erected, Constantine was still pretty
+[05:22 --> 05:25] vague about his religious beliefs.
+[05:25 --> 05:31] The arch only refers to the fact that Constantine was quote, inspired by the divine, without
+[05:31 --> 05:33] naming any names.
+[05:33 --> 05:37] Even more interesting is the fact that nowhere in the depiction of the Battle of the Milvian
+[05:37 --> 05:43] Bridge, a depiction which explicitly contains carvings of Constantine's various military
+[05:43 --> 05:49] standards, does the Lebarum, or the Cairo, or any other kind of cross appear.
+[05:49 --> 05:53] Which is pretty surprising, given the story we've all been told about how Constantine
+[05:53 --> 05:58] was ordered to conquer in this sign.
+[05:58 --> 06:03] But the omission of the Cairo from the arch, curious as it is, also appears to be the
+[06:03 --> 06:07] last gasp of Constantine the dissembler.
+[06:07 --> 06:13] From here on out, we move pretty decisively over to Constantine the Christian.
+[06:13 --> 06:19] The man who would one day become, literally, a saint.
+[06:19 --> 06:24] In the period between his victory over Maxentius and his coming victory over Lyceanus, Constantine's
+[06:24 --> 06:28] patronage of Christianity became wider and deeper.
+[06:28 --> 06:31] He sponsored the building or rebuilding of churches.
+[06:31 --> 06:34] He exempted clergymen from tax obligations.
+[06:34 --> 06:39] And signaling the esteem with which he held the church leadership, when they traveled,
+[06:39 --> 06:43] he allowed them to use the imperial post, an honor that was reserved only for the most
+[06:43 --> 06:46] important imperial agents.
+[06:46 --> 06:51] And beyond that, when the bishops of the western empire were convening for the Council Varl,
+[06:51 --> 06:56] a council which in and of itself points to Constantine's special interest in the church,
+[06:56 --> 07:00] he paid for all necessary travel expenses.
+[07:00 --> 07:05] The emperor still maintained his patronage of pagan philosophers and orators, and was
+[07:05 --> 07:08] happy to let them sing his praises on their own terms.
+[07:08 --> 07:15] But clearly, this was a man becoming less and less shy about openly promoting Christianity.
+[07:15 --> 07:21] And as I said before, when he declared war on Lyceanus in 324, the defense of eastern
+[07:21 --> 07:27] Christians would form the backbone of his rationale.
+[07:27 --> 07:31] Not that I found any direct link between the two events, but it is interesting to note
+[07:31 --> 07:37] that not long after Lyceanius started harassing Christians again, Constantine accidentally
+[07:37 --> 07:43] stumbled into the eastern Augustus' territory at the head of a very large army.
+[07:43 --> 07:47] The official story is that Constantine had been north of the Danube chasing some hostile
+[07:47 --> 07:54] Sarmatians, and that they decided to flee southeast and cross the river into Thrace.
+[07:54 --> 07:59] Constantine couldn't very well let them just get away, so he followed imaginary boundaries
+[07:59 --> 08:01] between the emperors be damned.
+[08:01 --> 08:08] Lyceanius, of course, took deep offense to Constantine's presence and protested, naturally
+[08:08 --> 08:13] suspecting that the whole thing was a contrived attempt to suck him back into war.
+[08:13 --> 08:18] If Constantine was looking to provoke something, though, Lyceanius refused to take the bait,
+[08:18 --> 08:23] and the eastern Augustus stopped short of threatening military action.
+[08:23 --> 08:27] But Constantine was undeterred, and after a few more years passed he tried the same
+[08:27 --> 08:32] trick again, at which point Lyceanius would be unable to ignore Constantine's aggressive
+[08:32 --> 08:37] disregard for the terms of their settlement.
+[08:37 --> 08:42] In the spring of 324, Constantine was once again north of the Danube, either campaigning
+[08:42 --> 08:47] against the Goths or the Sarmatians, depending on your source, and once again they just happened
+[08:47 --> 08:51] to flee southeast into Lyceanius' territory.
+[08:51 --> 08:56] Once again Constantine pursued, and once again Lyceanius got a message saying that
+[08:56 --> 09:01] his brother emperor was camped out in Thrace at the head of a very large army.
+[09:01 --> 09:06] This time Lyceanius was livid, and basically told Constantine to get out of his territory
+[09:06 --> 09:07] or else.
+[09:07 --> 09:12] This heavy-handed threat was all Constantine needed.
+[09:12 --> 09:16] Protesting that he was just doing his best to defend the frontier, Constantine announced
+[09:16 --> 09:19] that this was the last straw.
+[09:19 --> 09:25] He had stood by and watched as the despised tyrant Lyceanius, and resurrected the evil
+[09:25 --> 09:30] persecution of the Christians, ignored his imperial responsibilities, and was generally
+[09:30 --> 09:34] living the life of a debauched villain.
+[09:34 --> 09:39] Citing in particular Lyceanius' advanced age and unpopular vices, Constantine declared
+[09:39 --> 09:44] that it was his moral duty to rid the empire of this imperial cancer.
+[09:44 --> 09:50] As spring turned to summer, Constantine finally got the war everyone suspected he had been
+[09:50 --> 09:55] trying to start for years.
+[09:55 --> 09:59] Both emperors immediately mustered the largest armies they could put together, as it was
+[09:59 --> 10:04] understood on both sides that there would be no settlement this time around.
+[10:04 --> 10:09] The troop numbers, while obviously exaggerated, speak to the seriousness with which both
+[10:09 --> 10:12] men took the coming confrontation.
+[10:12 --> 10:20] Lyceanius allegedly gathered 165,000 men, while Constantine led 130,000 of his own.
+[10:20 --> 10:25] It appears that both men could afford to concentrate such massive forces without weakening the
+[10:25 --> 10:30] frontiers because their armies were in large part made up of mercenary forces who would
+[10:30 --> 10:34] otherwise be the ones the border legions were fending off.
+[10:34 --> 10:39] Franks for Constantine, and Goths for Lyceanius.
+[10:39 --> 10:43] In essence, the whole Roman world, friend and foe alike, stopped what they were doing
+[10:43 --> 10:46] and focused on the coming civil war.
+[10:46 --> 10:51] In addition to the ground forces, each emperor also assembled a navy.
+[10:51 --> 10:56] Lyceanius' was there to protect the crucial Hellespont and Bosphorus crossings.
+[10:56 --> 11:00] Constantine's was there to seize them.
+[11:00 --> 11:05] In July of 324, the two sides were ready to have it out.
+[11:05 --> 11:09] Constantine took up a strong position at Adrianople on the east side of the Hebrus River, now
+[11:09 --> 11:13] the Maritza River in Bulgaria.
+[11:13 --> 11:16] Constantine advanced to meet him and took up his own strong position on the west side
+[11:16 --> 11:18] of the river.
+[11:18 --> 11:22] For days, neither commander was willing to make a move.
+[11:22 --> 11:27] After all, crossing a river directly in front of enemy forces puts you at a considerable
+[11:27 --> 11:29] tactical disadvantage.
+[11:29 --> 11:34] But Constantine finally got sick of the staring contest and devised a plan so cunning you
+[11:34 --> 11:38] could pin a tail on it and call it a weasel.
+[11:38 --> 11:43] His scouts had identified a good possible crossing point a little ways upstream, so
+[11:43 --> 11:47] Constantine ordered a division of his men to make a very big show of building a bridge
+[11:47 --> 11:50] a little ways downstream.
+[11:50 --> 11:53] Lyceanius fell for the ruse hook line and sinker, and focused all his attention on the
+[11:53 --> 11:56] decoy construction project.
+[11:56 --> 12:01] Constantine then personally led an expeditionary force into cavalry and archers across the
+[12:01 --> 12:03] river at the upstream crossing.
+[12:03 --> 12:08] They took Lyceanius's army completely by surprise and caused so much chaos in the enemy
+[12:08 --> 12:14] ranks that the rest of Constantine's army was able to cross the river unopposed.
+[12:14 --> 12:18] Once the two forces were on the same side of the Hebrus, the battle of Adrianople could
+[12:18 --> 12:22] really get going in earnest.
+[12:22 --> 12:27] Though they had been taken by surprise, Lyceanius's army was not just going to roll over, and
+[12:27 --> 12:31] once the initial shock wore off, they rallied effectively, and just like every other battle
+[12:31 --> 12:38] between Constantine and Lyceanius, the fight turned into an evenly matched slugfest.
+[12:38 --> 12:43] At some point in the battle, one of Constantine's flanks was even being pushed back, but according
+[12:43 --> 12:48] to legend, he dispatched the labar room to that corner of the battle, and thanks to its
+[12:48 --> 12:53] magical properties, Lyceanius's advance was halted.
+[12:53 --> 12:58] Once again, the battle lasted until sundown without a decisive conclusion, and once again
+[12:58 --> 13:03] Lyceanius, who had lost something like 30,000 men in the fighting, withdrew under the cover
+[13:03 --> 13:05] of darkness.
+[13:05 --> 13:10] When morning came though, Constantine was not able to immediately pursue his rival because
+[13:10 --> 13:14] it appears that he had been wounded in the previous day's fighting, though the injury
+[13:14 --> 13:20] was not serious enough to keep him out of action for long.
+[13:20 --> 13:24] In contrast to his line of retreat following the battle of Martia, this time Lyceanius
+[13:24 --> 13:29] headed directly to Byzantium without stopping.
+[13:29 --> 13:33] Constantine was not going to fall for the same trick twice, so better to just play it
+[13:33 --> 13:35] safe.
+[13:35 --> 13:39] Once he got to Byzantium, Lyceanius followed the same pattern he established following
+[13:39 --> 13:45] his initial defeat at the battle of Cybali, and he appointed a man named Sextus Martinianus
+[13:45 --> 13:47] to the rank of Caesar.
+[13:47 --> 13:53] It wasn't exactly the same as appointing Valens Augustus, but it had the same effect.
+[13:53 --> 13:57] A key subordinate's loyalty was secured, and his army had another leader of imperial
+[13:57 --> 14:02] standing to help share responsibility for the war.
+[14:02 --> 14:06] After designating some of his troops to act as Byzantium's defense force, Lyceanius
+[14:06 --> 14:11] began ferrying the rest of his men across the Bosphorus with all haste, putting Martinianus
+[14:11 --> 14:15] in charge of the army on the far side.
+[14:15 --> 14:19] Lyceanius was confident that the navy he had posted in the Prapontis would prevent Constantine's
+[14:20 --> 14:26] navy from ever entering the Hellespont, but he was not taking any chances.
+[14:26 --> 14:30] If Constantine's navy were somehow able to seize control of the narrow straits separating
+[14:30 --> 14:35] Europe from Asia, the eastern Augustus knew he would be in big trouble.
+[14:35 --> 14:40] Better to just cross over to Bithynia now and not worry about getting trapped in Byzantium.
+[14:40 --> 14:45] And it was a good thing he didn't take chances, because the coming battle of the Hellespont
+[14:45 --> 14:51] was not going to go well for Lyceanius' navy at all.
+[14:51 --> 14:56] While he was gathering his army in the early summer of 324, Constantine had recalled Crispus
+[14:56 --> 15:00] from the Rhine frontier and ordered him down to the Greek port of Piraeus to take command
+[15:00 --> 15:03] of the navy assembled there.
+[15:03 --> 15:07] It was a good-sized fleet, eighty ships in all, but nowhere near the number Lyceanius
+[15:07 --> 15:10] had at his disposal.
+[15:10 --> 15:14] But Crispus, undeterred, sailed out towards the Hellespont anyway.
+[15:14 --> 15:21] His orders were to seize all the waterways between the Aegean and the Black Sea.
+[15:21 --> 15:24] When Lyceanius received word that Crispus was on the way, he ordered two hundred of
+[15:24 --> 15:28] his ships down to blockade the straits of the Hellespont.
+[15:28 --> 15:33] The idea, of course, was that this force would overwhelm Crispus' smaller fleet.
+[15:33 --> 15:37] But in the narrow waters of the Hellespont, the larger numbers actually worked against
+[15:37 --> 15:39] Lyceanius' admiral.
+[15:39 --> 15:44] Crispus was able to deftly maneuver around the larger and more constrained enemy fleet,
+[15:44 --> 15:52] and he inflicted serious damage before Lyceanius' navy was able to withdraw north to regroup.
+[15:52 --> 15:57] In the aftermath of the first naval battle, Crispus was reinforced, possibly by ships
+[15:57 --> 15:59] sailing around from Ravenna.
+[15:59 --> 16:03] And when he sailed further into the Hellespont to confront Lyceanius' navy, he now had
+[16:03 --> 16:07] something like two hundred ships at his disposal.
+[16:07 --> 16:12] Lyceanius, desperate to prevent the sea lanes from falling into enemy hands, ordered his
+[16:12 --> 16:18] full force of around three hundred and fifty ships to go down and sink the son of Constantine.
+[16:18 --> 16:23] This time, the two navies met near modern Gallipoli, and by all appearances, it looked
+[16:23 --> 16:27] like the stage was set for a great naval battle.
+[16:27 --> 16:31] But just prior to the engagement, a storm kicked up that hit Lyceanius' fleet particularly
+[16:31 --> 16:32] hard.
+[16:32 --> 16:37] The ships that were not run aground were badly damaged, and the crews were so battered that
+[16:37 --> 16:42] when Crispus advanced, the battle turned out to be little more than a mop-up operation.
+[16:42 --> 16:49] It is reported that only four of Lyceanius' ships escaped undamaged or uncaptured.
+[16:49 --> 16:55] The sea now belonged to Constantine.
+[16:55 --> 16:59] When Lyceanius found out what had happened, he ordered all the troops in the now indefensible
+[16:59 --> 17:05] Byzantium to abandon the city and get their butts across the Bosphorus on the double.
+[17:05 --> 17:09] With Martinianus guarding the coast, Lyceanius mustered the rest of his remaining troops
+[17:09 --> 17:12] and tried to figure out what he was going to do next.
+[17:12 --> 17:19] Constantine, meanwhile, could smell blood in the water and pressed his advantage hard.
+[17:19 --> 17:23] Using light transports to ferry his men across the Bosphorus, he was able to elude Martinianus
+[17:23 --> 17:27] and had the bulk of his army across before the new Caesar was able to do anything about
+[17:27 --> 17:28] it.
+[17:28 --> 17:33] Lyceanius then ordered Martinianus to abandon the coast and rendezvous with the rest of
+[17:33 --> 17:34] the army.
+[17:34 --> 17:41] Combined, they would make a stand at Chrysopolis, a fortified city a few miles north.
+[17:41 --> 17:45] But Constantine had guessed their plans, and with all the momentum going with him, he raced
+[17:45 --> 17:49] north and beat Lyceanius to the punch.
+[17:49 --> 17:54] In September of 324, the Eastern Augustus arrived at Chrysopolis, and he found Constantine
+[17:54 --> 17:56] waiting for him.
+[17:56 --> 18:00] Here now would be their final battle.
+[18:00 --> 18:06] One has it that at this point, Constantine had gotten so far inside Lyceanius's head
+[18:06 --> 18:13] that the Eastern Augustus had become convinced that the Lebarum really did have magical properties.
+[18:13 --> 18:17] He ordered his men to avoid attacking whatever part of Constantine's army carried the standard,
+[18:17 --> 18:24] and then, went even further, ordering his men to not even look at the magical talisman.
+[18:24 --> 18:30] One gets the feeling that Lyceanius was, at this point, already beaten.
+[18:30 --> 18:35] With that being said, the Battle of Chrysopolis was not at all a foregone conclusion.
+[18:35 --> 18:41] Both emperors were still excellent generals, commanding huge, veteran forces.
+[18:41 --> 18:46] But as happened every time Constantine and Lyceanius met in the field of battle, eventually
+[18:46 --> 18:50] the tide turned against the Eastern Augustus.
+[18:50 --> 18:55] Constantine had not even bothered with clever tactics, and instead went straight for the
+[18:55 --> 19:01] jugular, ordering a full frontal assault that decisively broke Lyceanius's line.
+[19:01 --> 19:06] But Lyceanius, and oh man, are you as sick of hearing this as I am of saying it, once
+[19:06 --> 19:13] again managed to slip away, this time with a force of about 30,000 men.
+[19:13 --> 19:17] He drove headlong for Nicomedia and holed up inside the city, but when Constantine arrived
+[19:17 --> 19:24] shortly thereafter, it appears that the fight had finally gone out of the Eastern Augustus.
+[19:24 --> 19:28] Between Constantias, a go-between, the two emperors came to terms.
+[19:28 --> 19:33] Lyceanius and Martinianus were to surrender peacefully, and Constantine, giving in to
+[19:33 --> 19:38] his sisters' begging, agreed to let them live.
+[19:38 --> 19:42] But that was the only concession he was going to make.
+[19:42 --> 19:47] The empire was now Constantine's and Constantine's alone.
+[19:47 --> 19:53] For the first time in more than 40 years, Rome was ruled by a single man.
+[19:53 --> 19:57] The nasty little epilogue to this story, which I'll deal with now so we can get it out of
+[19:57 --> 20:04] the way, is that despite the solemn oath that he swore, it does not look like Constantine
+[20:04 --> 20:08] had any interest in letting his defeated rivals live.
+[20:08 --> 20:14] Initially, it appeared that everything was above board, as Lyceanius was taken to Thessalonica
+[20:14 --> 20:18] and Martinianus to Cappadocia, where they were both supposed to live out the rest of
+[20:18 --> 20:21] their days under something like house arrest.
+[20:21 --> 20:26] But after about a year, Constantine would decide that no one would really care anymore
+[20:26 --> 20:31] what happened to his beaten rivals, and so he ordered the execution of both.
+[20:31 --> 20:34] At least, that's what everyone assumed he did.
+[20:34 --> 20:39] They died under suspicious circumstances, and rumors later swirled that Lyceanius had
+[20:39 --> 20:44] been involving himself in a plot to overthrow Constantine, which, frankly, sounds an awful
+[20:44 --> 20:50] lot like the accusation that Maximian was involved in a plot to overthrow Constantine.
+[20:50 --> 20:53] And so most modern scholars believe that Constantine simply could not afford to let
+[20:53 --> 21:00] them live, and so, oath or no oath, he did not let them live.
+[21:00 --> 21:05] Lyceanius was about 60 years old and had managed to survive as emperor for a very turbulent
+[21:05 --> 21:09] 16 years.
+[21:09 --> 21:12] Constantine also appears at this point to have ordered the execution of his nephew Lyceanius
+[21:12 --> 21:15] the Younger, now maybe 13 years old.
+[21:15 --> 21:20] We can't have rival dynasties lying around now, can we?
+[21:20 --> 21:25] Constantine's sister Constantia was of course horrified, but it was just business.
+[21:25 --> 21:29] Nothing personal.
+[21:29 --> 21:34] When Lyceanius died, the era of the Tetrarchy died with him.
+[21:34 --> 21:38] Diocletian had done his best to establish a system that would end once and for all the
+[21:38 --> 21:42] persistent civil wars that had wracked the empire in the third century, and instead he
+[21:43 --> 21:48] inadvertently had drawn up what amounted to a giant civil war tournament bracket.
+[21:48 --> 21:54] In the championship game, Constantine finally had emerged victorious.
+[21:54 --> 21:58] Next time, we will get into the ramifications of his victory.
+[21:58 --> 22:06] What would Constantine do now that he was the undisputed ruler of the empire?
+[22:06 --> 22:10] It is a question that will have to wait two weeks though, because as many of you know,
+[22:10 --> 22:15] the History of Rome tours begin next Friday, and thus I will have no time to work on new
+[22:15 --> 22:17] episodes for a while.
+[22:17 --> 22:21] But fear not, knowing full well that I would be taking this time off, I have been working
+[22:21 --> 22:26] double time lately, and have managed to get the next three episodes written and recorded
+[22:26 --> 22:29] and ready to go.
+[22:29 --> 22:32] So in the interest of not just cutting you off for the next six weeks, my plan is to
+[22:32 --> 22:36] remotely post an episode every other week while I'm gone.
+[22:36 --> 22:43] So that means that there will be a new release on May 15, May 29, and June 12, after which
+[22:43 --> 22:45] we will resume a normal schedule.
+[22:45 --> 22:50] I'll say upfront that it's my intention to release the episodes on those dates, but
+[22:50 --> 22:55] given that I have no real idea what my internet situation will be like on any given day, the
+[22:55 --> 22:59] actual posting time might fluctuate a bit.
+[22:59 --> 23:04] But rest assured, the episodes are done, ready for your listening pleasure, and I will get
+[23:04 --> 23:06] them to you in a timely manner.
+[23:06 --> 23:11] So alive and in-person me will see you in about six weeks.
+[23:11 --> 23:14] Please be nice to pre-recorded me until I get back.

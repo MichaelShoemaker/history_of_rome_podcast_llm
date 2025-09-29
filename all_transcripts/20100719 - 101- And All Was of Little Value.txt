@@ -1,0 +1,280 @@
+# 20100719 - 101- And All Was of Little Value
+# Detected language: en
+# Duration: 1517.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:10] This week's episode is brought to you by Audible. As you know, Audible is the internet's leading provider of audio entertainment with over 60,000 titles to choose from.
+[00:10 --> 00:19] When you're done with this episode, go to audiblepodcast.com forward slash Roam. That again, audiblepodcast.com forward slash Roam.
+[00:19 --> 00:25] By going to that address, you qualify for a free book download when you sign up for a 14-day trial membership.
+[00:25 --> 00:30] There is no obligation to continue the service and you can cancel anytime and keep the free book.
+[00:30 --> 00:37] You can also keep going with one of the monthly subscription options and get great deals on all future audiobook purchases.
+[00:37 --> 00:49] This week, I'm going to recommend Pompeii, The Life of a Roman Town by Mary Beard, an analysis of the myths and realities surrounding one of the most famous disaster sites in the world.
+[00:49 --> 00:59] Just remember to go to audiblepodcast.com forward slash Roam so that they know who sent you.
+[00:59 --> 01:10] Hello and welcome to The History of Rome, episode 101. And all was of little value.
+[01:10 --> 01:17] We date the reign of Septimius Severus from the moment he was hailed emperor by the Pannonian legions in April 192.
+[01:17 --> 01:23] But it wasn't until February 197 that he could really relax comfortably on his throne.
+[01:23 --> 01:35] During the intervening five years, he had been forced to sit perched on the edge of his seat as he parried the thrusts of first Didius Julianus, then Paschinius Niger, and finally Claudius Albinus.
+[01:35 --> 01:42] But following the defeat of Albinus at Lugdunum, the empire ran out of men willing to get in Severus's way.
+[01:42 --> 01:46] Rome was now his and his alone.
+[01:46 --> 01:56] But where other men might have been able to enjoy what they had won, Severus soon discovered that it was the chase, far more than the object itself, that had excited his passions.
+[01:56 --> 02:11] Though he would rule the empire for another fourteen more or less successful years, the morning of the final battle with Albinus was probably the last time Septimius Severus found himself really excited to greet the new day.
+[02:11 --> 02:21] Upon his return to Rome following the brief but decisive campaign against Albinus in Gaul, the now undisputed emperor set about transforming the imperial order.
+[02:21 --> 02:33] As I've said previously, Severus and his descendants had no use for the romantic fictions of the Augustan Principate, and what remained of the Republican charade survived their reign only out of inertia.
+[02:34 --> 02:44] The Senate still gathered, and consuls were still named, but the leading men of Rome were reminded of their powerlessness, with a bluntness not felt since the days of demission.
+[02:44 --> 02:51] Naturally, this led most of them to dislike Severus a great deal, but the emperor could not have cared less.
+[02:51 --> 02:54] Rich and vain old men were not his concern.
+[02:54 --> 02:58] He was in office by virtue of the fact that the armies were with him.
+[02:58 --> 03:00] He knew that, and they knew that.
+[03:00 --> 03:09] So when he needed to use flattery to achieve his ends, it was the army that he flattered, and when he needed to use money to achieve his ends, it was the army that he paid.
+[03:09 --> 03:12] Everyone else was irrelevant.
+[03:12 --> 03:20] But even with his single-minded focus on keeping the army happy, the common citizens of the empire generally supported Severus.
+[03:21 --> 03:37] The reign of Commodus, with all its mad corruption, was still fresh in everyone's mind, and so, simply by virtue of the fact that he ran a pretty sane and relatively honest ship, Severus earned the people's respect, even if in the end he never quite earned the people's love.
+[03:38 --> 03:57] Of all the long-term stamps Severus put on the empire, nearly all relate in some way to the place of the legions in the political order, and it was his reign that provided the crucial bridge between the enlightened despotism of the previous century and the raw military dictatorships of the next century.
+[03:57 --> 04:11] As we've already seen, he reorganized the Praetorians into a force of some 50,000 crack troops, and in so doing altered their mandate from being the emperor's personal bodyguard to being the emperor's personal army.
+[04:11 --> 04:22] Refusing to forget about the regular soldiers who would not be chosen to serve in the expanded Praetorians, Severus then nearly doubled the annual pay of all the men left out on the frontiers.
+[04:22 --> 04:35] In this, Severus found himself once again paralleling Domitian, who, you'll recall, used a similar wage increase to guarantee that an officer's call to revolt would always fall on deaf ears.
+[04:35 --> 04:46] The long-term effects of the raise, though, would be to further cleave the interests of civilian and soldier, as it became more and more of a burden for the former to pay what the latter expected.
+[04:46 --> 04:53] And not only were the troops being paid more, but by the end of Severus' reign, there were more of them to pay.
+[04:53 --> 05:02] Before his death, Severus had ballooned the active service up to 33 full legions, with increases in local auxiliaries to match.
+[05:02 --> 05:12] Rome had not seen this many active-duty soldiers since the days of Octavian and Antony, and they all swore their allegiance to Severus and Severus alone.
+[05:12 --> 05:17] Well, not only Severus, also his sons Caracalla and Geta.
+[05:17 --> 05:24] And also the man Severus put in charge of his newly reformed Praetorian guard, Gaius Fulvius Platianus.
+[05:24 --> 05:32] For a while, they swore allegiance to him, too, a development that everyone in the Severian inner circle came to view with alarm.
+[05:32 --> 05:35] Everyone, except the emperor, that is.
+[05:36 --> 05:42] Platianus was Severus' maternal cousin, and the two men had been close friends for years.
+[05:42 --> 05:48] When Albinus was vanquished, Severus finally had a free hand to conduct the affairs of state his way,
+[05:48 --> 05:54] and one of his first unfettered acts was to appoint Platianus' Praetorian prefect in 197.
+[05:54 --> 06:01] This promotion effectively elevated Platianus to the position of Severus' second-in-command.
+[06:02 --> 06:08] Caracalla and Geta, while officially Severus' heirs, were still only nine and eight respectively,
+[06:08 --> 06:11] and in no way ready for official responsibility,
+[06:11 --> 06:18] so it fell to Platianus to help Severus run the show, and from the get-go, his influence was felt.
+[06:19 --> 06:23] In contrast to the period following the defeat of Niger,
+[06:23 --> 06:29] where Severus took great pains to avoid executing the Syrian governor's supporters in the Senate,
+[06:29 --> 06:35] he was convinced to follow up his final victory over Albinus with a spate of political executions.
+[06:36 --> 06:42] With Platianus' help, Severus drew up a list of friends, non-entities, and enemies,
+[06:42 --> 06:47] with the aim of promoting the first, ignoring the second, and liquidating the last.
+[06:48 --> 06:54] Though they did spare many, Severus and Platianus executed some twenty to thirty members of the Senate
+[06:54 --> 06:57] who had openly supported the governor of Britannia.
+[06:57 --> 07:03] Thrown onto this list for good measure was also Pertinax's father-in-law, Solpicianus,
+[07:03 --> 07:08] the only man left alive in the empire who had ever publicly aimed at becoming emperor.
+[07:08 --> 07:11] We can't have that lying around now, can we?
+[07:12 --> 07:18] The purge whetted Platianus' appetite as he personally took control of the estates of all the dead senators.
+[07:18 --> 07:24] Suddenly, he had power and wealth beyond his wildest dreams, and naturally, he wanted more.
+[07:25 --> 07:30] Over the next few years, the governing relationship between Severus and Platianus
+[07:30 --> 07:34] grew to reflect the former's disdain for the tedium of imperial governance
+[07:34 --> 07:38] and the latter's insatiable lust for more and more power.
+[07:39 --> 07:44] Severus began to defer to his prefect on practically any matter of domestic importance,
+[07:44 --> 07:50] and Platianus was only too happy to take responsibility for the everyday maintenance of the empire.
+[07:50 --> 07:53] From his perch atop the newly enlarged Praetorian legions,
+[07:53 --> 07:57] Platianus became the de facto dictator of Rome.
+[07:57 --> 08:01] If you wanted something done, you had to go through Platianus,
+[08:01 --> 08:05] and if you ran afoul of the prefect, there was no appeal.
+[08:05 --> 08:11] Severus, in his own words, loved and trusted the man more than any other in the empire.
+[08:12 --> 08:16] Platianus exploited this trust to the hilt, settling personal scores,
+[08:16 --> 08:19] confiscating whatever property he took a fancy to,
+[08:19 --> 08:24] and generally using the imperial bureaucracy as a means of personal enrichment.
+[08:26 --> 08:29] With Platianus captaining the ship of state for him,
+[08:29 --> 08:35] Severus was free to indulge in pastimes that interested him far more than running the government,
+[08:35 --> 08:38] namely, war and conquest.
+[08:38 --> 08:42] So far, apart from his brief campaign in Parthia,
+[08:42 --> 08:47] all Severus's great victories as emperor had come against his fellow Romans,
+[08:47 --> 08:51] a legacy no general was eager to leave behind.
+[08:51 --> 08:57] So Severus decided he needed to do something to bolster his historical credibility.
+[08:57 --> 09:02] Having already achieved a string of easy victories in the east following his triumph over Niger,
+[09:02 --> 09:08] the emperor decided that Parthia would once again be a great place to pat his resume.
+[09:08 --> 09:11] His official Causus Belli for war came in 198,
+[09:11 --> 09:15] after the Parthians moved some forces to their western frontier
+[09:15 --> 09:20] as a delayed response to his previous invasion of their territory in 195.
+[09:21 --> 09:23] Citing the threat to Roman interests,
+[09:23 --> 09:28] the emperor headed to Syria to oversee an offensive into Mesopotamia.
+[09:30 --> 09:32] As was Severus's style,
+[09:32 --> 09:36] actual leadership of the initial campaign was handed over to the emperor
+[09:36 --> 09:42] to a highly capable subordinate, in this case, a general named Letus.
+[09:42 --> 09:45] And in case you're wondering, the answer is no,
+[09:45 --> 09:52] I don't know if this Letus was related to the conniving Praetorian prefect so recently executed by Severus.
+[09:52 --> 09:56] This Letus had served Severus throughout the civil wars,
+[09:56 --> 10:01] and is credited in some histories with being the man who turned the tide at the Battle of Lugdunum,
+[10:02 --> 10:08] after Severus had been swept up in the nearly disastrous retreat of his left wing.
+[10:08 --> 10:11] He had been posted in the east following the battle,
+[10:11 --> 10:17] and in the intervening year had been skirmishing with the Parthians in and around the Euphrates River.
+[10:17 --> 10:21] When Severus arrived, Letus was more than ready to be let off his leash,
+[10:21 --> 10:27] and a fleet was ordered built to ferry the Syrian legions down the Euphrates River.
+[10:27 --> 10:31] Following the footsteps of Trajan and Avidius Cassius,
+[10:31 --> 10:38] the Romans sailed down the Euphrates, sacking Babylon, Celesia, and Ctesiphon along the way.
+[10:38 --> 10:42] As usual, the Parthians were no match for the sudden Roman invasion,
+[10:42 --> 10:46] and as before, the victories came easy.
+[10:46 --> 10:52] The next year, Letus and Severus led the legions across the river into the heart of Mesopotamia.
+[10:52 --> 10:58] They met little resistance until they came to the strategically important city of Hatra.
+[10:58 --> 11:03] Unlike the more westernly Parthian cities, which were often quickly abandoned by the Parthian king,
+[11:03 --> 11:06] and then reoccupied later when the coast was clear,
+[11:06 --> 11:12] Hatra was actually, militarily speaking, a key Parthian asset.
+[11:12 --> 11:18] Centrally located, it served as a launching pad to points all throughout old Persia.
+[11:18 --> 11:22] Losing Ctesiphon, even if it was technically the capital, was one thing.
+[11:22 --> 11:31] Losing Hatra was quite another, and as a result, the Romans met obstinate resistance to their siege.
+[11:31 --> 11:35] The legions were forced to retire before the arrival of winter,
+[11:35 --> 11:40] having little to show for their efforts but dead bodies and destroyed equipment.
+[11:40 --> 11:43] Over the winter, there was a shakeup in the high command,
+[11:43 --> 11:46] as Severus grew increasingly paranoid about Letus,
+[11:46 --> 11:50] who was brilliant, charismatic, and beloved by the troops.
+[11:50 --> 11:55] It was rumored that his legions would not march unless Letus gave the signal,
+[11:55 --> 12:00] a rumor that, whatever its validity, really rubbed Severus the wrong way.
+[12:00 --> 12:06] And when you rub a Roman emperor the wrong way, the consequences are often dire.
+[12:06 --> 12:10] Along with another officer thrown in for some minor slight,
+[12:10 --> 12:13] Letus was accused of some imagined crime or another,
+[12:13 --> 12:19] seized by imperial agents and executed by Severus in late 199.
+[12:19 --> 12:26] With his able commander gone, the next year, Severus personally led the legions back across Mesopotamia to Hatra,
+[12:26 --> 12:30] planning to sack the city or die trying.
+[12:30 --> 12:33] In the end, he did neither.
+[12:33 --> 12:37] Hatra once again held out against the Roman attack.
+[12:37 --> 12:41] After most of his siege engines were destroyed and most of his men lay dead or wounded,
+[12:41 --> 12:47] Severus withdrew back across the Euphrates with the winner of 200 approaching.
+[12:47 --> 12:53] Weary of banging his head against the walls of Hatra, Severus did what any good leader would do.
+[12:53 --> 12:57] He declared victory and left.
+[12:57 --> 13:04] Severus celebrated this victory by erecting the now famous arch of Septimius Severus in 202,
+[13:04 --> 13:08] famous in part because it's still standing in Rome,
+[13:08 --> 13:13] depicting his triumphs in the east and generally glorifying the Severan family.
+[13:13 --> 13:18] The arch is indeed impressive and architecturally it stands up well to the arch of Titus
+[13:18 --> 13:21] and the columns of Trajan and Marcus Aurelius,
+[13:21 --> 13:27] but the underlying campaign itself doesn't hold a candle to the victories of his predecessors.
+[13:27 --> 13:35] The arch of Severus is a glorious mountain erected atop an inglorious molehill.
+[13:35 --> 13:38] While Severus was off playing the part of conqueror,
+[13:38 --> 13:42] Plotianus was back in Rome playing the part of emperor.
+[13:42 --> 13:45] He considered himself well above the law,
+[13:45 --> 13:50] confiscating whatever he liked, exiling or killing whatever he didn't.
+[13:50 --> 13:58] Pretty soon, even Severus' allies began to grow concerned about the unchecked hubris of good Plotianus.
+[13:58 --> 14:01] But throughout this period, any attempt to convince the emperor
+[14:01 --> 14:07] that his prefect was turning into something of a monster was met with a dismissive hand.
+[14:07 --> 14:13] The basic problem was that Severus trusted Plotianus more than any of the men who denounced him.
+[14:13 --> 14:17] So he always believed the prefect side of any story.
+[14:17 --> 14:20] But despite his best efforts to remain in denial,
+[14:20 --> 14:27] it seems that eventually the steady drip of complaints began to have their effect on the mind of the emperor.
+[14:27 --> 14:33] And when he returned from the east, he began to notice things that reinforced his nascent suspicions.
+[14:33 --> 14:39] When coins were minted, Plotianus now included himself on the list of acceptable likenesses.
+[14:39 --> 14:42] When the Praetorians took their oath of fidelity,
+[14:42 --> 14:48] a promise of personal loyalty to Plotianus had been inserted into the ceremony.
+[14:48 --> 14:51] When statues of the imperial family were commissioned,
+[14:51 --> 14:55] Plotianus made sure that statues of himself were carved as well.
+[14:55 --> 15:03] And sometimes he went so far as to order that his be made slightly larger than those of Severus and his sons.
+[15:03 --> 15:07] All of these little pieces began to fit together in Severus' head,
+[15:07 --> 15:15] and a picture started to emerge that looked an awful lot like the man his other advisors had been warning him about for years.
+[15:15 --> 15:20] Cassius Dio finally tells a brief story of a highly embarrassing moment for the emperor
+[15:20 --> 15:24] when Severus ordered a bailiff to call a particular case to trial.
+[15:24 --> 15:30] But the bailiff, the practical man that he was, that is, he took seriously his own self-preservation,
+[15:30 --> 15:36] replied that he wasn't going to bring any case to trial without Plotianus' permission.
+[15:36 --> 15:42] The parallel to Letus' men maybe refusing to march without their generals' okay was obvious.
+[15:42 --> 15:48] And while Severus no doubt played the incident off well, the question now hung out there in the open.
+[15:48 --> 15:52] Who was really in charge around here?
+[15:52 --> 16:00] But still, the emperor persisted in his denial through 202 when he married Caracalla to Plotianus' daughter Platina,
+[16:00 --> 16:05] and through 203 when he made Plotianus consul.
+[16:05 --> 16:09] But in late 204, the wheels finally came off the bus.
+[16:09 --> 16:17] Because the thing is, while Severus loved and trusted Plotianus, the rest of the Severan family hated his guts.
+[16:17 --> 16:21] Severus' wife Julia Domna and Plotianus despised each other
+[16:21 --> 16:27] and each took every private opportunity offered to disparage the other to the emperor.
+[16:27 --> 16:32] Caracalla, meanwhile, suspected Plotianus of plotting to undermine his rightful inheritance
+[16:32 --> 16:37] and took his rage out on Platina, who he hated by extension.
+[16:37 --> 16:43] Only 14 at the time of the marriage Caracalla was already showing his sociopathic tendencies
+[16:43 --> 16:48] and made it quite clear that when his father died and he became sole emperor,
+[16:48 --> 16:54] that he was going to kill his new wife and father-in-law as his first order of business.
+[16:54 --> 17:01] Now it seems possible, even probable, that Plotianus was indeed looking to ace Caracalla out of his inheritance.
+[17:01 --> 17:07] But if Caracalla was looking to guarantee that Plotianus was looking to ace him out of his inheritance,
+[17:07 --> 17:12] well, violent death threats are just about the way to go.
+[17:12 --> 17:16] So I think it's safe to say that whatever Plotianus' intentions had been,
+[17:16 --> 17:20] he was now definitely plotting to keep Caracalla off the throne.
+[17:20 --> 17:25] After all, his life depended on it.
+[17:26 --> 17:30] Rumors then reached Caracalla of Plotianus' intensified scheming
+[17:30 --> 17:34] and the young prince took it as confirmation that he had been right all along
+[17:34 --> 17:41] and decided that he needed to act sooner rather than later to deal with the troublesome prefect.
+[17:41 --> 17:45] What he settled on was a frame-up job that was so comically transparent
+[17:45 --> 17:48] it is shocking that Severus even believed it.
+[17:48 --> 17:53] Doubly shocking in that whatever doubts had been growing quietly in his mind,
+[17:53 --> 18:00] Severus had for years proven himself to be constitutionally incapable of distrusting Plotianus.
+[18:00 --> 18:07] Why did Severus decide that now was finally the time to give up on his once-beloved colleague?
+[18:07 --> 18:11] The answer seems to lie in a conversation between the emperor and his brother,
+[18:11 --> 18:16] Publius Septimius Geta, while Publius lay on his deathbed.
+[18:16 --> 18:24] Free of any fear of reprisal, Severus' brother laid out in stark detail the crimes and ambitions of Plotianus
+[18:24 --> 18:29] and this time, with the denunciation coming from an even more trusted source than Plotianus,
+[18:29 --> 18:33] Severus finally changed his mind.
+[18:33 --> 18:37] So when Caracalla contrived to flame Plotianus for attempted assassination,
+[18:37 --> 18:45] Severus was ready this time to believe the charges, even if they were complete fabrication.
+[18:45 --> 18:50] In January 205, Caracalla went to a few centurions in the Praetorian camp
+[18:50 --> 18:54] and convinced them to interrupt an imperial banquet with forged proof
+[18:54 --> 19:00] that Plotianus had ordered them and eight of their associates to assassinate Severus.
+[19:00 --> 19:04] Cassius Dio relates the absurdity of the plot by saying,
+[19:04 --> 19:09] Plotianus would never have dared to impose such a bidding upon ten centurions at once,
+[19:09 --> 19:15] certainly not in Rome, certainly not in the palace, nor on that day, nor at that hour,
+[19:15 --> 19:18] much less would he have written it.
+[19:18 --> 19:22] But Severus, already stewing over his brother's words,
+[19:22 --> 19:26] was in a mood to believe the worst of his former favorite.
+[19:26 --> 19:31] Plotianus was called to the palace and confronted by the emperor.
+[19:31 --> 19:36] In the midst of the prefect's denials, Caracalla, perhaps fearing the denials
+[19:36 --> 19:40] would be all too believable, since they were, after all, true,
+[19:40 --> 19:43] rushed forward and struck Plotianus in the face.
+[19:43 --> 19:48] He then drew his sword, but was prevented from killing the prefect by Severus,
+[19:48 --> 19:53] who ordered that the deed be done instead by a nameless subordinate.
+[19:53 --> 19:57] Plotianus then, like so many hubris-ridden praetorian prefects before him,
+[19:57 --> 20:02] was unceremoniously executed and his body thrown into the streets.
+[20:04 --> 20:09] As a nod to their once happy partnership, Severus eventually ordered the body retrieved and buried,
+[20:09 --> 20:12] but the dead prefect's property was confiscated,
+[20:12 --> 20:17] and his family, including Plotina, were exiled to Sicily.
+[20:18 --> 20:21] When he finally became sole emperor in late 211,
+[20:21 --> 20:25] Caracalla made good on the promise he had made and ordered all of them,
+[20:25 --> 20:29] especially his hated ex-wife, strangled to death.
+[20:30 --> 20:36] Following the death of Plotianus, the succession issue became in one sense more clear,
+[20:36 --> 20:39] and in another more cloudy.
+[20:39 --> 20:44] The likelihood that anyone would be able to stand between the sons of Severus and their birthright
+[20:44 --> 20:47] was now almost nonexistent.
+[20:47 --> 20:50] That much was the clear part.
+[20:50 --> 20:55] What clouded the picture was the bit about the sons of Severus, plural.
+[20:56 --> 21:01] In the mind of their father, the joint rule of his sons would be the best possible state of affairs,
+[21:01 --> 21:04] so that's how he wrote up his will.
+[21:04 --> 21:08] But it seems hard to understand how he came to this conclusion.
+[21:08 --> 21:12] Apparently in his mind, allowing the boys to become co-Augusti
+[21:12 --> 21:16] would eliminate the odds of a bloody dynastic struggle flaring up,
+[21:16 --> 21:19] but in this, he had it completely backwards.
+[21:20 --> 21:23] Everyone knew that Caracalla and Geta hated each other.
+[21:23 --> 21:27] There was simply no way they would be able to share power peacefully.
+[21:27 --> 21:32] They were oil and water. If Caracalla said up, Geta said down.
+[21:32 --> 21:35] If Caracalla said go, Geta said stop.
+[21:35 --> 21:40] If Caracalla rooted for one charioteer, Geta rooted for another.
+[21:40 --> 21:45] The only way to elicit an identical answer to a question would be to ask them,
+[21:45 --> 21:50] Is your brother worthless? Because both would answer a scornful yes.
+[21:51 --> 21:58] Far from avoiding a dynastic struggle, Severus' plan of joint inheritance guaranteed it.
+[21:59 --> 22:05] Whatever fraternal bond the boys had shared was finally shattered by the execution of Platianus,
+[22:05 --> 22:09] the hatred of whom had been about the last thing they shared in common.
+[22:10 --> 22:14] The death of the prefect is also blamed for a, how do you say,
+[22:14 --> 22:17] loosening of morals on the part of the boys.
+[22:18 --> 22:22] When he was still wielding his very real and very threatening powers,
+[22:22 --> 22:26] Platianus acted as a psychological check on the sons of Severus,
+[22:26 --> 22:30] keeping them directly fearful on the one hand of the prefect,
+[22:30 --> 22:34] but also indirectly fearful of losing favor with their father,
+[22:34 --> 22:38] who could always turn to Platianus if he caught wise to the fact
+[22:38 --> 22:43] that his boys had far more in common with Commodus than they did with Augustus.
+[22:44 --> 22:49] But with Platianus gone, it was time for the teenagers to let it all hang out.
+[22:49 --> 22:52] Who else was their father going to turn to?
+[22:53 --> 22:58] Disdaining any real responsibilities, both boys became obsessed with chariot racing,
+[22:58 --> 23:03] drinking, gambling, and everything else that happens in the wee hours of the morning.
+[23:03 --> 23:06] The ironic thing is that when you got right down to it,
+[23:06 --> 23:09] they were pretty much the same terrible person,
+[23:09 --> 23:13] even if hinting at this fact was liable to get you killed.
+[23:15 --> 23:20] Severus watched all this with alarm and began to despair for his heirs.
+[23:20 --> 23:23] He also began to despair for himself.
+[23:23 --> 23:27] Platianus, however personally unscrupulous he may have been,
+[23:27 --> 23:31] had always shielded Severus from the mundane details of empire.
+[23:31 --> 23:33] But now that the prefect was dead,
+[23:33 --> 23:37] Severus found himself snowed under by a staggering amount of paperwork.
+[23:37 --> 23:41] So it was with great relief that he greeted news from Britannia in 208
+[23:41 --> 23:45] to the effect that the natives there were getting restless.
+[23:45 --> 23:49] Here was a chance to kill two birds with one stone.
+[23:49 --> 23:54] The distraction of a good old legionary campaign would do wonders for his own mental health,
+[23:54 --> 24:00] and hopefully the rigors of military life might whip his wayward sons into shape.
+[24:00 --> 24:04] So he dug Caracalla and Geta out of wherever they were sleeping it off,
+[24:04 --> 24:09] and happily informed them that they were all going on a father-son camping trip to Britain.
+[24:09 --> 24:15] The boys, now 19 and 20, were appalled at the idea of fighting a war in the frozen north,
+[24:15 --> 24:21] but their father could be a very persuasive man, so off they went.
+[24:22 --> 24:27] Next week, we'll follow the Severans on their family bonding trip to Britain,
+[24:27 --> 24:33] where, among other things, they will attempt to exterminate an entire race of people.
+[24:33 --> 24:39] Their genocidal aims will be halted only by the death of Septimius Severus in early 211,
+[24:39 --> 24:44] whose passing, further, gave control of the empire to Caracalla and Geta,
+[24:44 --> 24:47] who will go down in history as a pair of comeduses.
+[24:47 --> 24:52] To match the one comedus, Severus had once upon a time criticized Marcus
+[24:52 --> 24:55] for not smothering with a pillow.

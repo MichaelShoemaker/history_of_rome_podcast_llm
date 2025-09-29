@@ -1,0 +1,254 @@
+# 20100227 - 015b- The Second Samnite War
+# Detected language: en
+# Duration: 881.08 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:07] Hello, and welcome to the history of Rome.
+[00:08 --> 00:13] The Romans licked their wounds, or perhaps more accurately, nursed their egos after
+[00:13 --> 00:16] the defeat at Codine Forks in 321 BC.
+[00:17 --> 00:22] Five years passed with the Romans engaging their neighbors in minor skirmishes, but
+[00:22 --> 00:25] avoiding another major confrontation with the Samnites.
+[00:25 --> 00:29] Whether this was because of an official peace treaty, or out of Roman fear, is
+[00:29 --> 00:33] still unclear, but whatever the cause, there was a break in the fighting.
+[00:34 --> 00:39] All that changed in 316 BC, however, when the Romans, confident once again,
+[00:39 --> 00:42] marched out and attempted again to conquer the Samnites.
+[00:43 --> 00:45] This second stage of the war started out no better for
+[00:45 --> 00:48] the Romans than the first had ended, though.
+[00:48 --> 00:51] But they soon gained the upper hand, and after ten years of hard fighting,
+[00:51 --> 00:55] the Romans would force the Samnites to submit in 304 BC.
+[00:57 --> 01:00] In the race to victory, the Romans stumbled out of the gates.
+[01:00 --> 01:04] In 315 BC, they met the Samnites near Laudelais and
+[01:04 --> 01:06] were defeated in convincing fashion.
+[01:07 --> 01:09] Details of the battle are sketchy, but
+[01:09 --> 01:12] it appears certain that the dictator commanding the Roman legion was
+[01:12 --> 01:13] killed in the fighting.
+[01:14 --> 01:17] Rome's power was now on the verge of completely unraveling.
+[01:17 --> 01:21] They had lost a major battle at Codine without a fight, and
+[01:21 --> 01:24] now, on their big comeback tour, when they actually took the field against
+[01:24 --> 01:26] the Samnites, they were soundly beaten.
+[01:27 --> 01:28] Things were not looking good for the Romans.
+[01:29 --> 01:33] Campania, the territory over which Rome and Samnium had originally clashed,
+[01:34 --> 01:37] was perilously close to abandoning their treaty with Rome, so
+[01:37 --> 01:40] recently entered into and giving themselves over to the Samnites.
+[01:41 --> 01:44] Tarentum, a major Greek city in the south, had already declared for
+[01:44 --> 01:49] the Samnites, and now negotiations had begun to bring the Etruscans into the fray.
+[01:49 --> 01:53] However, the Etruscans bought high on Samnite power, and
+[01:53 --> 01:56] when they did enter the war, found themselves overmatched by a newly
+[01:56 --> 01:57] resurgent Rome.
+[01:58 --> 02:02] It was during these years that the Romans began to radically alter the
+[02:02 --> 02:05] legion's organization and tactics, switching from the clunky phalanx
+[02:05 --> 02:08] into the maneuverable three-line manable system.
+[02:09 --> 02:12] Once the structural deficiencies of their army were ironed out,
+[02:13 --> 02:16] Rome's advantage in wealth and manpower left little doubt as to
+[02:16 --> 02:17] the final outcome of the war.
+[02:19 --> 02:23] One of the ways that wealth manifested itself as an aid to the war effort
+[02:23 --> 02:26] was in an infrastructure project that survives today,
+[02:26 --> 02:31] a living monument to Roman engineering genius, the Via Appia, or Appian Way.
+[02:32 --> 02:35] During the first Samnite war, though they emerged victorious,
+[02:36 --> 02:39] the Romans struggled constantly to move troops and supplies south into
+[02:39 --> 02:43] Campania and Samnium in anything resembling quick time.
+[02:43 --> 02:48] Wet, marshy land separated the two points, literally bogging down efforts.
+[02:48 --> 02:51] Roads through the foothills above were too hazardous, and
+[02:51 --> 02:55] the only other route was a long, arduous trip along the coast.
+[02:56 --> 02:59] The Romans needed a way to get into Campania quickly, and
+[02:59 --> 03:03] began to entertain the idea of building a straight road linking Rome and
+[03:03 --> 03:05] Capua, the capital city of Campania.
+[03:06 --> 03:10] The proposals never got off the ground, as resources were tied up first
+[03:10 --> 03:12] with the Latin War, then again with the Samnites.
+[03:12 --> 03:16] But in 312 BC, a man came forward with the vision and
+[03:16 --> 03:18] will to accomplish the goal.
+[03:19 --> 03:22] Appius Claudius, whose name was attached to the road for his efforts,
+[03:22 --> 03:26] was a member in good standing of one of the more controversial families in Rome,
+[03:26 --> 03:27] the Claudei.
+[03:28 --> 03:32] Implacable foes of the Publians, the Claudei never lacked for enemies.
+[03:33 --> 03:36] Indeed, it had been another Appius Claudius who had headed the Decemvri
+[03:36 --> 03:40] in its efforts to consolidate power after compiling the 12 tables of
+[03:40 --> 03:42] Locke around 450 BC.
+[03:43 --> 03:47] But the Appius Claudius of whom we speak today outdid them all in
+[03:47 --> 03:49] pomposity and pretensions to infallibility.
+[03:50 --> 03:53] He remains himself one of the more interesting and
+[03:53 --> 03:56] infamous figures in Roman history, both the driving force behind some of
+[03:56 --> 04:00] the most ambitious public works projects in history, and a man who
+[04:00 --> 04:04] seemed coolly untroubled by his own thrashing of constitutional and
+[04:04 --> 04:06] religious precedents.
+[04:07 --> 04:11] Claudius was elected censor, an office of enormous importance, in
+[04:11 --> 04:14] 312 BC, along with a colleague.
+[04:15 --> 04:18] One of the critical functions of the censors at this point was to
+[04:18 --> 04:21] declare who was eligible for the Senate and who was eligible to vote.
+[04:23 --> 04:26] Claudius, rather than simply following the previous year's roles,
+[04:26 --> 04:30] as was the custom, decided to drastically alter the composition of
+[04:30 --> 04:33] the Senate and the electorate, expelling members he considered his
+[04:33 --> 04:36] enemies, and enrolling men who promised him loyalty.
+[04:37 --> 04:41] Aghast, his colleague resigned, knowing that if he did so,
+[04:41 --> 04:45] Claudius would be stopped because any time one censor died or
+[04:45 --> 04:48] resigned, the others stepped down so two fresh censors could stand in
+[04:48 --> 04:49] their place.
+[04:50 --> 04:54] But Claudius refused to step down, sparking a minor constitutional crisis.
+[04:55 --> 04:58] The manipulated Senate, however, made of senators who owed their
+[04:58 --> 05:01] office to Claudius, predictably remained silent.
+[05:02 --> 05:05] Despite calls for his head, Claudius remained in office.
+[05:06 --> 05:10] He then further infuriated public opinion by taking certain sacred
+[05:10 --> 05:13] rights away from a family he disapproved of and passing them into
+[05:13 --> 05:15] the hands of public slaves.
+[05:16 --> 05:20] For this offense, Claudius was allegedly struck blind by the gods,
+[05:21 --> 05:24] though accounts of his eyesight loss do not crop up until later in
+[05:24 --> 05:28] the annals, and then seemed to only describe his final days as old
+[05:28 --> 05:32] blind Claudius, declaring Rome's determined opposition to Pyrrhus' invasion.
+[05:34 --> 05:38] In any event, blind or not, Claudius set to work on his pet projects,
+[05:38 --> 05:42] two of which stood foremost in his mind, the road to Capua,
+[05:43 --> 05:46] which would bear his name, and a series of aqueducts that would guarantee
+[05:46 --> 05:50] a fresh water supply for Rome, which would also bear his name.
+[05:51 --> 05:54] The Romans had finally accepted Claudius as single censor and
+[05:54 --> 05:57] even applauded his lead in the public works.
+[05:57 --> 06:02] But he set off a fresh firestorm when his term of office expired after 18 months.
+[06:02 --> 06:06] He shocked everyone by declaring that he would not be stepping down.
+[06:06 --> 06:08] Rome was aghast at this sacrilege.
+[06:09 --> 06:11] He had sworn an oath to step down and
+[06:11 --> 06:14] now flouted it with all the hubris of a Greek tragic hero.
+[06:15 --> 06:19] In the end, Claudius would remain censor for five unprecedented years,
+[06:20 --> 06:24] generally upsetting constitutional purists, but endearing himself to the people
+[06:24 --> 06:28] with his liberal dispensations from the treasury, the obvious benefits of his
+[06:28 --> 06:32] projects, and his policies of enfranchisement, for
+[06:32 --> 06:35] he extended the vote to landless citizens who otherwise had no voice at all.
+[06:36 --> 06:39] He proved sufficiently popular that when he stepped down,
+[06:40 --> 06:42] he immediately won election as consul.
+[06:43 --> 06:47] In later years, the scandals of Appius Claudius were largely forgotten, and
+[06:47 --> 06:50] he was remembered first and foremost as the man who gave the Romans their most
+[06:50 --> 06:53] important road and their most important network of aqueducts.
+[06:55 --> 06:58] The Appian Way, after it had served its immediate military purpose,
+[06:59 --> 07:02] would evolve into the main artery of travel and trade for the Romans,
+[07:02 --> 07:06] eventually stretching over 500 miles southeast across the peninsula.
+[07:08 --> 07:12] Equipped with their new road, made of stone, bowed to prevent water collection,
+[07:13 --> 07:16] and supported by retaining walls, the Romans were now able to keep their
+[07:16 --> 07:20] troops in Samnium, far better supplied than before, and
+[07:20 --> 07:22] the war began to slowly turn against the Samnites.
+[07:24 --> 07:26] The Roman strategy was straightforward,
+[07:27 --> 07:29] though it took years to see it through to the end.
+[07:29 --> 07:32] The Samnites, unlike their neighbors in the lowlands,
+[07:32 --> 07:35] did not concentrate in large cities, and as a result,
+[07:36 --> 07:39] there was no one place the Romans could target to bring a swift conclusion to
+[07:39 --> 07:40] hostilities.
+[07:41 --> 07:45] They had to proceed piecemeal, cutting off Samnite communities from each other
+[07:45 --> 07:49] by holding the mountain passes and building fortresses along navigable rivers.
+[07:50 --> 07:55] Once an area was secure, the Romans could move on, at all times doing
+[07:55 --> 07:59] their best to cut off supply routes and access to summer or winter pasture land,
+[08:00 --> 08:02] and so disrupt the entire Samnite way of life.
+[08:03 --> 08:07] In this way, the Romans slowly hemmed in the Samnites and annexed more and
+[08:07 --> 08:10] more of their territory, sending in colonists and
+[08:10 --> 08:13] taking possession of Samnium bit by little bit.
+[08:14 --> 08:18] The Samnites, however, were not the only enemy the Romans now faced.
+[08:18 --> 08:21] The Etruscans, mustering what solidarity they could,
+[08:21 --> 08:26] rose up in arms in 311 BC and opened a whole new theater of operations.
+[08:28 --> 08:32] Each year, the Romans designated one of their consuls to handle operations in
+[08:32 --> 08:34] Samnium, while the other went north to Atruria.
+[08:35 --> 08:38] It speaks volumes of the manpower and wealth available to Rome,
+[08:39 --> 08:42] that they were able to run wars on two completely separate fronts and
+[08:42 --> 08:44] emerge victorious from both.
+[08:46 --> 08:49] The Romans were in the driver's seat for most of the decade,
+[08:49 --> 08:53] with the Senate truly gripped by panic only once, in 310 BC.
+[08:53 --> 08:56] And even then, it was a panic from a lack of information,
+[08:56 --> 08:58] rather than from any true danger.
+[08:59 --> 09:04] In the north, the consul in charge, former insubordinate master of horse,
+[09:04 --> 09:07] Quintus Fabius, went off the radar for a while.
+[09:08 --> 09:11] He had defeated an Etruscan army, and the survivors had fled into
+[09:11 --> 09:14] the Comenian forest, a dense, roadless,
+[09:14 --> 09:17] wooded area which was off limits to the superstitious Romans.
+[09:18 --> 09:23] But Fabius decided reports about rodents of unusual side lurking in the forest
+[09:23 --> 09:27] were overblown and took his army in, pursuing the fleeing Etruscan army.
+[09:29 --> 09:32] He was out of contact for some time, which would have been a cause for
+[09:32 --> 09:37] concern, but not alarm, had not his colleague in Samnium been wounded
+[09:37 --> 09:38] in battle at the same time.
+[09:39 --> 09:43] The Senate, back in Rome, received word that one consul was injured,
+[09:43 --> 09:47] who knew how badly, and the other had led his army into the nightmare
+[09:47 --> 09:50] woods of the Comenian forest, and began to panic.
+[09:51 --> 09:54] In point of fact though, the consul in Samnium recovered from his
+[09:54 --> 09:58] minor injuries quickly, and Quintus Fabius was actually in the process
+[09:58 --> 10:02] of securing an alliance with the people who dwelled inside the Comenian.
+[10:02 --> 10:04] But the Senate knew none of this.
+[10:05 --> 10:09] Papyrus Cursor, the man who had ordered the execution of young Fabius,
+[10:09 --> 10:14] was appointed dictator by the panicky Senate and led an army of fresh recruits
+[10:14 --> 10:17] into Atruria to track down the lost legions.
+[10:17 --> 10:20] When he arrived, Fabius had already emerged from the woods,
+[10:21 --> 10:22] new allies in tow.
+[10:22 --> 10:25] He was surprised and horrified to find that his command had been given
+[10:25 --> 10:29] to Papyrus, whom he understandably bore some resentment
+[10:29 --> 10:31] over the drama a few years earlier.
+[10:31 --> 10:35] But he submitted to the Senate's will and allowed Papyrus to take command.
+[10:36 --> 10:40] Together they led their combined army against the regrouped Etruscans
+[10:40 --> 10:41] near Lake Vadimo.
+[10:42 --> 10:45] The resulting battle was the only clash with the Etruscans
+[10:45 --> 10:46] that was ever in doubt.
+[10:47 --> 10:50] All three Roman lines became involved, and the tide did not turn
+[10:50 --> 10:51] until late in the day.
+[10:52 --> 10:55] The Etruscans, however, eventually broke and fled.
+[10:55 --> 10:58] They never again caused the Romans serious trouble, surrendering
+[10:58 --> 11:02] in 308 BC, leaving the Samnites to carry on alone.
+[11:03 --> 11:05] The Samnites were now in desperate straits.
+[11:06 --> 11:08] They were having difficulty with their supply lines.
+[11:08 --> 11:10] Their armies could not link up with one another.
+[11:11 --> 11:14] They were constantly outnumbered, and their communities were beginning
+[11:14 --> 11:18] to suffer terribly under what was, in essence, a massive siege,
+[11:18 --> 11:20] not of a city, but of an entire territory.
+[11:22 --> 11:25] The Samnites held on as long as they could, but finally,
+[11:25 --> 11:29] reluctantly, sued for peace in 304 BC, bringing an end
+[11:29 --> 11:30] to the Second Samnite War.
+[11:31 --> 11:33] They had lost a great deal of their territory,
+[11:34 --> 11:37] and the Romans had founded 13 colonies in and around Samnium.
+[11:38 --> 11:40] In the north, the Romans had pushed deep
+[11:40 --> 11:44] into Etruscan territory, and either controlled by arms
+[11:44 --> 11:47] or alliance, most of what had once been the most powerful
+[11:47 --> 11:48] confederation in Italy.
+[11:49 --> 11:51] Roman garrisons settled in across the peninsula,
+[11:52 --> 11:54] leaving only the Greek-controlled south untouched
+[11:54 --> 11:55] by Roman power.
+[11:57 --> 11:59] The Second Samnite War had been an incredibly
+[11:59 --> 12:01] transformative period of time.
+[12:02 --> 12:04] Italy had gone from being a land of fractured
+[12:04 --> 12:07] and competing sovereigns, to a land under the control
+[12:07 --> 12:08] of a single dominant power.
+[12:10 --> 12:13] Roman citizenship was extended in its various gradient forms
+[12:13 --> 12:17] to tribes across the peninsula, who recognized more and more
+[12:17 --> 12:19] that their future prosperity would be determined
+[12:19 --> 12:21] by their relationship with Rome.
+[12:22 --> 12:24] And though the Romans were, of course, resisted,
+[12:24 --> 12:27] and at this point, their domination was by no means
+[12:27 --> 12:30] complete, as many as fought simply acquiesced
+[12:30 --> 12:32] and welcomed the Romans with open arms.
+[12:33 --> 12:36] As I noted previously, the Romans treated those
+[12:36 --> 12:38] who submitted without a fight with amazing generosity,
+[12:39 --> 12:41] giving them full access to Roman prosperity.
+[12:42 --> 12:45] Though they gave up their sovereignty and were required
+[12:45 --> 12:47] to submit soldiers for the legions,
+[12:47 --> 12:49] they received their fair share of the spoils
+[12:49 --> 12:52] and were allowed, as was standard Roman practice,
+[12:52 --> 12:55] a great deal of latitude in their own local rule.
+[12:56 --> 12:59] The Romans themselves also changed.
+[12:59 --> 13:02] Obviously, the makeup of the legions was now radically
+[13:02 --> 13:04] different than it had been, with its strategy, tactics,
+[13:05 --> 13:06] and organization completely overhauled.
+[13:07 --> 13:10] But the completion of the Appian Way and the aqueducts,
+[13:10 --> 13:13] so impressive in their scope and so well conceived
+[13:13 --> 13:15] in their construction, that it signaled a change
+[13:15 --> 13:17] in the Romans as a whole, as they began
+[13:17 --> 13:20] to outpace their contemporaries in terms
+[13:20 --> 13:21] of their level of civilization.
+[13:22 --> 13:25] Rome, in short, was becoming the Rome we think of
+[13:25 --> 13:30] and remember today, the Rome that keeps us fascinated 1,500
+[13:30 --> 13:32] years after the fall of their empire.
+[13:34 --> 13:36] The Samnites, however, were not done yet.
+[13:37 --> 13:39] After 10 years of peace, they realized that any treaty
+[13:39 --> 13:41] with Rome meant effectively an end
+[13:41 --> 13:43] to their independence forever.
+[13:44 --> 13:46] Rome was moving inexorably in the direction
+[13:46 --> 13:49] of imperial master, not simply powerful neighbor.
+[13:49 --> 13:53] In a last desperate play for general Italian independence,
+[13:54 --> 13:56] the Samnites organized and led a coalition
+[13:56 --> 13:58] that included the Etruscans, the Umbrians,
+[13:59 --> 14:01] and even the Gauls against Roman power.
+[14:02 --> 14:05] Next week, we will cover the resulting conflict,
+[14:05 --> 14:06] known as the Third Samnite War,
+[14:07 --> 14:09] though the name is a bit of a misnomer.
+[14:09 --> 14:12] It was not simply Rome against the Samnites,
+[14:12 --> 14:14] but Rome against everyone.
+[14:15 --> 14:16] And in this war against everyone,
+[14:16 --> 14:20] Rome would win and everyone else would lose.

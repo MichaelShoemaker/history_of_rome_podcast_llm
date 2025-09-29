@@ -1,0 +1,358 @@
+# 20110228 - 128- The Great Persecution
+# Detected language: en
+# Duration: 1691.56 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:16] Hello, and welcome to the History of Rome, Episode 128, The Great Persecution.
+[00:16 --> 00:21] As we've seen over the course of the past few episodes, the first 15 years of Diocletian's
+[00:21 --> 00:25] reign represented a sea change for the Roman Empire.
+[00:25 --> 00:30] Some of the reforms he initiated were embraced as long overdue, while others were fought
+[00:30 --> 00:32] tooth and nail every step of the way.
+[00:32 --> 00:38] For example, the uprisings in Egypt triggered by the crackdown on tax evaders.
+[00:38 --> 00:42] Some of his reforms did not outlast his reign, while others became the entrenched status
+[00:42 --> 00:48] quo for a thousand years or more, while others, like the price edict, never even got off the
+[00:48 --> 00:50] ground.
+[00:50 --> 00:54] But all in all, there is no question that Diocletian had taken an empire that was adrift
+[00:54 --> 00:57] and placed it back on solid ground.
+[00:57 --> 01:02] And impressively, he had done all this with a minimum of ill-advised screw-ups.
+[01:02 --> 01:08] That is, Diocletian sometimes pursued policies that were disruptive, and sometimes he pursued
+[01:08 --> 01:13] policies that wound up producing no tangible benefits, but he almost never pursued policies
+[01:13 --> 01:15] that were both at the same time.
+[01:15 --> 01:20] I think it's fair to say that this week we will see him pursue a policy that was both
+[01:20 --> 01:22] in spades.
+[01:22 --> 01:27] And ironically, for all that Diocletian did right, it was this thing he did wrong that
+[01:27 --> 01:33] wound up changing the world more than anything else.
+[01:33 --> 01:39] The trouble started in 299 AD, not long after Galerius returned to Antioch in triumph, having
+[01:39 --> 01:42] just defeated the Sassanids.
+[01:42 --> 01:45] Diocletian and Galerius were together in the imperial residence, and decided to have some
+[01:45 --> 01:51] divinations taken to find out what the future looked like from a metaphysical point of view.
+[01:51 --> 01:56] But every time the priest reached in to inspect the entrails of a sacrificial animal, he announced
+[01:56 --> 01:58] that something had gone wrong.
+[01:58 --> 02:02] Something was preventing him from getting a proper reading.
+[02:02 --> 02:06] After enduring attempt after attempt, it was finally brought to Diocletian's attention
+[02:06 --> 02:11] that certain members of the household's staff were Christian, and that they had been seen
+[02:11 --> 02:17] making the sign of the cross to ward off evil demons, aka the gods Diocletian was trying
+[02:17 --> 02:19] to contact.
+[02:19 --> 02:25] In other words, these Christians were intentionally sabotaging the emperor's divinations.
+[02:25 --> 02:30] Diocletian was furious, and immediately ordered all members of his household to make a sacrifice
+[02:30 --> 02:33] to the gods, and if they refused, they were to be fired.
+[02:33 --> 02:39] Then, egged on by Galerius and a few other staunchly anti-Christian advisors, he extended
+[02:39 --> 02:42] his order to the army.
+[02:42 --> 02:46] Every officer and soldier in the legions was to make a sacrifice.
+[02:46 --> 02:51] The battle meant immediate discharge.
+[02:51 --> 02:56] Diocletian was at heart a deeply conservative man who was trying to restore the glory of
+[02:56 --> 02:58] the Roman Empire.
+[02:58 --> 03:03] His desire to connect imperial authority to Jupiter and the other Olympian gods was, for
+[03:03 --> 03:07] him, not necessarily just cynical propaganda.
+[03:07 --> 03:12] He very much wanted to get Rome back on the side of the gods who had made the empire great,
+[03:12 --> 03:17] and he spent lavishly on temples and sacrifices and memorials throughout the provinces to
+[03:17 --> 03:19] help make that happen.
+[03:19 --> 03:26] Now, following the reasoning of Decius, Diocletian began to suspect that the continued existence
+[03:26 --> 03:32] of the anti-social, impious, and sacrilegious Christians was doing serious damage to the
+[03:32 --> 03:35] relationship between Rome and her gods.
+[03:35 --> 03:40] So, he began to suspect that it was time for them to go.
+[03:40 --> 03:46] But he was also at heart a deeply pragmatic man, and wide-scale religious purges can
+[03:46 --> 03:50] rarely be filed under P for pragmatic.
+[03:50 --> 03:55] So with his religious conservatism coming into conflict with his political pragmatism,
+[03:55 --> 04:01] Diocletian turned to his advisors for, well, advice.
+[04:01 --> 04:06] With Galerius taking the lead, they came back to him with the nearly unanimous conclusion
+[04:06 --> 04:11] that in this case, his religious instincts must take precedence.
+[04:11 --> 04:18] Christianity needed to be stamped out once and for all.
+[04:18 --> 04:22] We have, up until this point, only dealt with the Christians in passing, usually as they
+[04:22 --> 04:27] intersected with imperial affairs, like when Nero blamed them for the great fire, or when
+[04:27 --> 04:31] Pliny asked Trajan what to do about them.
+[04:31 --> 04:36] But since Christianity is about to become one of the core defining elements of the Roman
+[04:36 --> 04:41] Empire, I think I should probably take this moment to give a brief thumbnail sketch of
+[04:41 --> 04:46] the first 300 years of the Church so we can get a feel for what it is exactly Diocletian
+[04:46 --> 04:51] is about to try to stamp out, and what it is exactly that in just a few years will become
+[04:51 --> 04:56] the most powerful non-imperial institution in the Empire.
+[04:56 --> 05:01] Now, by way of disclaimer, I'd like to say that I am not a Church historian, and am not
+[05:01 --> 05:06] going to delve deeply into the myriad little controversies about, say, who wrote what
+[05:06 --> 05:10] Gospels, when, why, and how.
+[05:10 --> 05:15] I just want to give a general overview of how Christianity developed, where it developed,
+[05:15 --> 05:20] and what it developed into over the course of its first three centuries.
+[05:20 --> 05:25] I am afraid that at times my vocabulary will be imprecise, but I hope that no one will
+[05:25 --> 05:31] find too much to argue with in the broad strokes.
+[05:31 --> 05:35] So as I'm sure you are no doubt aware, it is said that around 30 A.D., a Jewish holy
+[05:35 --> 05:42] man from Nazareth named Jesus was put to death by Pontius Pilate, the Roman governor of Judea.
+[05:42 --> 05:47] Over the course of his brief career as a preacher, three years being the longest estimate I've
+[05:47 --> 05:52] seen, Jesus had won over a small band of adherents known as the disciples, and had earned fame
+[05:52 --> 05:57] throughout Galilee for his non-traditional interpretations of Jewish scripture and his
+[05:57 --> 06:00] potential for miracle working.
+[06:00 --> 06:05] He eventually ran afoul of the Jewish religious authorities, and when he arrived in Jerusalem
+[06:05 --> 06:09] for Passover, the exact year is unknown, he was arrested by Roman authorities either
+[06:09 --> 06:12] on sacrilegious or revolutionary grounds.
+[06:12 --> 06:17] He was found guilty of whatever crime he was charged with and crucified a few days later,
+[06:17 --> 06:24] which most people no doubt figured was the end of the ministry of Jesus.
+[06:24 --> 06:28] But the disciples of Jesus were not ready to abandon their leader's message.
+[06:28 --> 06:33] They continued to meet and worship as he had instructed them to do, and continued to
+[06:33 --> 06:37] convert their fellow Jews to their way of life.
+[06:37 --> 06:42] The early church was focused on Jesus' role as the prophesied Jewish messiah, and that
+[06:42 --> 06:47] per his teachings, he would soon return from the dead to oversee an apocalypse that would
+[06:47 --> 06:51] pave the way for the establishment of the kingdom of God on earth.
+[06:51 --> 06:55] The early Christians expected this second coming at any moment, and lived their lives
+[06:55 --> 06:57] accordingly.
+[06:57 --> 07:01] But as the years passed and Jesus did not return, the imminency of the second coming
+[07:01 --> 07:07] was emphasized less, and other, more immediate concerns began to demand the attention of
+[07:07 --> 07:12] the Christian leadership.
+[07:12 --> 07:17] The first major concern for the growing church was the question of the Gentiles, that is,
+[07:17 --> 07:18] non-Israelites.
+[07:18 --> 07:23] Initially, Christianity was an exclusively Jewish sect.
+[07:23 --> 07:25] Every Christian was a practicing Jew.
+[07:25 --> 07:29] They just happened to believe in a few extra things that were not believed by mainstream
+[07:29 --> 07:31] Judaism.
+[07:31 --> 07:35] But as the first generation of disciples went out into the wider Greco-Roman world, they
+[07:35 --> 07:39] often found willing non-Jewish adherents.
+[07:39 --> 07:42] So are they allowed to be Christian, or what?
+[07:42 --> 07:46] Some Christian leaders said yes, and others said no.
+[07:46 --> 07:50] As you probably already know, though, the drive to allow for Gentile conversion was
+[07:50 --> 07:55] driven by St. Paul, and his point of view eventually won out.
+[07:55 --> 08:00] Traditionally, the first Gentile Christian was a centurion named Cornelius, who was baptized
+[08:00 --> 08:06] by St. Peter himself, though that is one of those myriad little controversies that I am
+[08:06 --> 08:09] not going to wade into.
+[08:09 --> 08:14] The question of whether Christianity should retain its strictly Jewish character was answered
+[08:14 --> 08:20] early in the negative, but that question was merely the opening salvo in a long-running
+[08:20 --> 08:24] Christian debate about the nature of their religion.
+[08:24 --> 08:29] That is, whether the Church ought to be composed of a select few who were pure in their faith
+[08:29 --> 08:35] and utterly devoted in life, or whether it should make a play at becoming the universal
+[08:35 --> 08:40] religion of the world, which would inevitably involve clearing away most of the barriers
+[08:40 --> 08:44] to entry into the Church.
+[08:44 --> 08:47] At the very beginning, it was understood that you had to be circumcised in order to be a
+[08:47 --> 08:53] true Christian, but that barrier was quickly dropped to allow for Gentile adherence.
+[08:53 --> 08:55] What other barriers should be dropped?
+[08:55 --> 08:58] What barriers could not be dropped?
+[08:58 --> 09:03] Though that initial question was resolved, the tension between big-tent and small-tent
+[09:03 --> 09:08] Christians would never go away, and every generation some new controversy would flare
+[09:08 --> 09:15] up that pitted purists against expansionists.
+[09:15 --> 09:20] The second century saw the passing away of the original disciples and gospel writers
+[09:20 --> 09:24] and the rise of an independent Christianity with its own hierarchy of command, separate
+[09:24 --> 09:29] from all other religions in the empire.
+[09:29 --> 09:34] Up until the Great Jewish Revolt, Jerusalem had naturally acted as the de facto capital
+[09:34 --> 09:38] of Christianity, since it was, after all, a Jewish sect.
+[09:38 --> 09:43] But after Jerusalem fell in 70 AD, the Church began to separate itself permanently from
+[09:43 --> 09:48] Judaism, culminating most visibly in the Christian refusal to join in the Third Jewish
+[09:48 --> 09:51] War of the 130s AD.
+[09:51 --> 09:55] The Romans themselves by that point had already determined the two religions were separate,
+[09:55 --> 10:01] and a tax edict issued by Nerva explicitly denies to Christians the special exemptions
+[10:01 --> 10:03] enjoyed by the Jews.
+[10:03 --> 10:08] See, the Romans liked people to get on board with the Roman way of doing things, and the
+[10:08 --> 10:12] Jews had always given them trouble on that front.
+[10:12 --> 10:17] But the Romans were also deeply impressed with the sheer ancientness of Judaism, and
+[10:17 --> 10:23] so, more or less, let the Jews conform to Roman rule in their own way.
+[10:23 --> 10:29] But the Christians were recognized as a newfangled thing, owed no such deference.
+[10:29 --> 10:34] Jesus' Church, which had once been just a little sect of Judaism, was now, for better
+[10:34 --> 10:40] or for worse, its own independent thing.
+[10:40 --> 10:44] The other major consequence of the sack of Jerusalem is that the Christian movement also
+[10:44 --> 10:48] became far more decentralized.
+[10:48 --> 10:52] With Jerusalem out of the picture, the local leadership of each of the Christian centers
+[10:52 --> 10:57] now took command of their parishes and ran them as they saw fit.
+[10:57 --> 11:02] Ironically though, just as the Church as a whole was becoming less centralized, the chain
+[11:02 --> 11:07] of command at the local level was becoming more centralized.
+[11:07 --> 11:11] Over the years, the Christians developed a system whereby each city had its own chain
+[11:11 --> 11:17] of authority, with deacons at the lowest rung doing the daily work of tending to the sick
+[11:17 --> 11:22] and poor, the next run of presbyters, who would become today's priests, acting as
+[11:22 --> 11:27] a sort of governing council, and at the top the bishop, who was the supreme religious
+[11:27 --> 11:33] authority in his district, which usually meant that he issued clarifications on the differences
+[11:33 --> 11:37] between a true and a false teaching.
+[11:37 --> 11:43] Usually the bishops of the largest cities, Rome, Antioch, and Alexandria, came to exert
+[11:43 --> 11:49] an extra bit of authority over their surrounding territories, and the bishop of Rome in particular
+[11:49 --> 11:53] claimed a higher authority even than that, both because he sat in the capital of the
+[11:53 --> 11:59] empire and because his seat had been founded by St. Peter himself.
+[11:59 --> 12:05] But if you'd like to enjoy an entertaining conniption fit, just ask the bishop of Alexandria
+[12:05 --> 12:11] what he thinks about the primacy of Peter.
+[12:11 --> 12:16] Since the main role of the bishop was to establish the difference between what was a true and
+[12:16 --> 12:21] what was a false teaching, we must ask the question then, what happened when the bishops
+[12:21 --> 12:24] disagreed with each other?
+[12:24 --> 12:30] And that, my friends, is the $10,000 question of early Christian history.
+[12:30 --> 12:34] The church was not some sort of hive mind, and the various bishops disagreed with each
+[12:34 --> 12:40] other frequently, passionately, and sometimes violently about almost everything under the
+[12:40 --> 12:42] sun.
+[12:42 --> 12:45] And these were serious disagreements.
+[12:45 --> 12:49] This was not, I think what that guy over there is teaching is true, and you think what that
+[12:49 --> 12:51] guy over there is teaching is false.
+[12:51 --> 12:57] It was rather, I think what I am teaching is true, and I think that what you are teaching
+[12:57 --> 12:59] is false.
+[12:59 --> 13:05] Excommunications and counter-excommunications began to proliferate, and sometimes succession
+[13:05 --> 13:10] to a major bishopric began to look like succession to the imperial throne, with supporters of
+[13:10 --> 13:15] the new bishop purging supporters of the old bishop, stripping them of their priesthoods
+[13:15 --> 13:20] and kicking them out of the church, only to have the whole drama play out in reverse a
+[13:20 --> 13:22] few years later.
+[13:22 --> 13:27] It is truly a wonder that Christianity managed to maintain any sort of cohesion at all during
+[13:27 --> 13:29] this period.
+[13:29 --> 13:34] But enough of the bishops had enough of an interest in preventing a major schism that
+[13:34 --> 13:39] they would meet in councils, summits really, and hash out their differences, force each
+[13:39 --> 13:44] other to compromise, and try to put these controversies to rest.
+[13:44 --> 13:48] But just as one issue was put to bed, another would pop up, threatening a split all over
+[13:48 --> 13:50] again.
+[13:50 --> 13:54] And we haven't even gotten to the really big controversies of the third and fourth centuries
+[13:54 --> 13:57] yet.
+[13:57 --> 14:02] The third century was as tumultuous for the Christians as it was for everyone else.
+[14:02 --> 14:07] Though Christianity had always been an outlaw religion, and had found itself the victim
+[14:07 --> 14:13] of periodic local persecutions, in Rome under Nero, in Gaul during the reign of Marcus Aurelius,
+[14:13 --> 14:18] and so on, imperial policy rarely took notice of them.
+[14:18 --> 14:22] Trajan's advice to Pliny that he ought to ignore the Christians unless they did something
+[14:22 --> 14:26] really wrong seemed to be standard operating procedure.
+[14:26 --> 14:32] But as the empire fell into chaos, the Christians for the first time felt the sting of coordinated
+[14:32 --> 14:35] imperial attack.
+[14:35 --> 14:40] Maximinus Thrax ordered the first major attack on Christianity, though he limited the scope
+[14:40 --> 14:43] of his persecutions to the bishops.
+[14:43 --> 14:47] Fifteen years later, attempting to get Rome back on the right side of the gods, Decius
+[14:47 --> 14:52] broadened the scope of persecution to include all Christians, which not only resulted in
+[14:52 --> 14:58] confiscations and executions across the empire, but also a major split within the church between
+[14:58 --> 15:04] leaders who advocated compliance and those, particularly in North Africa, who advocated
+[15:04 --> 15:06] resistance.
+[15:06 --> 15:10] The latter would eventually be shouted down and declared heretical when the Decem persecutions
+[15:10 --> 15:12] was over.
+[15:12 --> 15:18] But this episode foreshadowed the later, larger fight with the Donatists, who advocated similar
+[15:18 --> 15:23] resistance to Diocletian's persecutions, or more accurately, resistance to those who
+[15:23 --> 15:26] acquiesced to them.
+[15:26 --> 15:30] But just as it seemed like things were going from bad to worse for the Christians, the
+[15:30 --> 15:37] empire was falling apart, and the emperors were now specifically targeting them for harassment,
+[15:37 --> 15:43] and he suddenly enjoyed an unprecedented run of growth and acceptance.
+[15:43 --> 15:48] Gallienus canceled the Decem persecution on the grounds that it was unnecessary and unjust,
+[15:48 --> 15:53] and the Illyrian emperors had way more important things on their minds.
+[15:53 --> 16:00] So from 260 until about 300, the stigma attached to Christianity was muted.
+[16:00 --> 16:05] So much so that the religion that had once been derided as a religion of women and slaves
+[16:06 --> 16:10] now counted amongst its number wealthy and influential men.
+[16:10 --> 16:15] Slaves were now joined by their masters, wives were now joined by their husbands, common
+[16:15 --> 16:20] soldiers by their officers, the poor by the rich.
+[16:20 --> 16:24] Churches ceased to be little hovels hidden away deep in the maze of an inner city, and
+[16:24 --> 16:27] were now being built right out in the open.
+[16:27 --> 16:35] By 300 AD, in fact, a church sat on a hill in Nicomedia overlooking the imperial palace.
+[16:35 --> 16:39] Christians were still in the minority by a substantial margin across the empire, but
+[16:39 --> 16:45] they were estimated by this point to account for about 10% of the population, which was
+[16:45 --> 16:49] nothing to sneeze at.
+[16:49 --> 16:53] Over the course of the past three centuries, the little sect of heretical Jews led by a
+[16:53 --> 16:59] messianic holy man from Nazareth had grown to be the largest monotheistic religion in
+[16:59 --> 17:03] the empire, and a social force with real teeth.
+[17:03 --> 17:10] Which is, perhaps, what troubled Diocletian's advisors the most.
+[17:10 --> 17:15] Of all the myriad differences between Christians and Pagans, perhaps no single difference loomed
+[17:15 --> 17:21] larger in the minds of imperial authorities than just how structured Christianity was.
+[17:21 --> 17:26] Yes, the church functioned politically more as a loose oligarchy of bishops than as some
+[17:26 --> 17:33] unified autocracy, but still, no pagan cult could come close to matching the empire-wide
+[17:33 --> 17:38] network of institutionalized authority that Christianity boasted.
+[17:38 --> 17:44] It was nothing less than a parallel command structure to the state, and if you listened
+[17:44 --> 17:48] to Christian rhetoric for any length of time, you would find that most of them believed
+[17:48 --> 17:54] that their command structure actually superseded the state's, render unto Caesar what is Caesar's,
+[17:54 --> 17:56] notwithstanding.
+[17:56 --> 18:01] The fact that roughly 10% of the population was now Christian and adhered to that command
+[18:01 --> 18:05] structure scared the hell out of many in the government.
+[18:05 --> 18:11] Plus, that 90-10 split is a bit misleading, because Christianity was still clustered in
+[18:11 --> 18:16] the cities at this point, so their minority share seemed that much larger to government
+[18:16 --> 18:22] officials living in those same cities.
+[18:23 --> 18:27] With genuine fears of organized revolution, there was also the fact that the church was
+[18:27 --> 18:32] beginning to raise funds in unprecedented sums, as wealthy patrons began to render unto
+[18:32 --> 18:37] God whatever they weren't rendering unto Caesar.
+[18:37 --> 18:42] So when we ask the question, why were Diocletian's advisors so keen on taking the Christians
+[18:42 --> 18:48] out, the answer essentially boils down to protection of the status quo.
+[18:48 --> 18:52] They were amongst the greatest beneficiaries of it, and the Christians were amongst the
+[18:52 --> 18:54] greatest threats to it.
+[18:54 --> 19:00] So this is all mostly a case of entrenched power making a pre-emptive strike against
+[19:00 --> 19:05] a potential rival.
+[19:05 --> 19:10] But following the initial purge of the imperial household and the army, tempers cooled some.
+[19:10 --> 19:15] The purge of the army was in fact unevenly enforced at best.
+[19:15 --> 19:21] And it wasn't until the winter of 302-303 that things really got rolling again.
+[19:21 --> 19:25] Not that Diocletian hadn't been gearing up for the fight in the meantime.
+[19:25 --> 19:31] In 301 he had visited Egypt and encountered problems with the Manichaeans, a religion
+[19:31 --> 19:36] similar to Christianity both in substance and organization, which had become a hotbed
+[19:36 --> 19:40] for resistance to imperial authority.
+[19:40 --> 19:43] Diocletian was additionally troubled by the Manichaeans because their religion originated
+[19:43 --> 19:49] in Persia, and members still had close ties to their brethren in the east, meaning that
+[19:49 --> 19:54] they looked to Diocletian a lot like a Sassanid-aligned fifth column.
+[19:54 --> 19:57] So the Manichaeans were ruthlessly suppressed.
+[19:57 --> 20:03] Executions, exiles, confiscations, and destruction of scripture.
+[20:03 --> 20:12] In effect, a dry run for the great persecution of Christians that was coming down the chute.
+[20:12 --> 20:17] Diocletian and Galerius were in Nicomedia over the winter of 302-303 when things finally
+[20:17 --> 20:19] got going.
+[20:19 --> 20:24] The emperors had attempted to get a pronouncement on something or other from an oracle of Apollo,
+[20:24 --> 20:29] but the oracle instead announced that the quote, impious on earth, were preventing him
+[20:29 --> 20:32] from connecting with the gods.
+[20:32 --> 20:38] Diocletian huddled with his council to determine what this meant, and they were of one mind.
+[20:38 --> 20:43] It meant that the gods were angry at Rome for tolerating the Christians.
+[20:43 --> 20:48] I should mention at this point that it is widely believed that by now Galerius was taking
+[20:48 --> 20:54] more of a lead in imperial policy, and as a fierce anti-Christian, that he was actually
+[20:54 --> 20:58] the driving force behind all of this.
+[20:58 --> 21:04] At its most all-encompassing, the blame Galerius for everything theory contends that the junior
+[21:04 --> 21:09] emperor arranged for the botched divination and the non-responsive oracle in order to
+[21:09 --> 21:13] push Diocletian into a hard-line stance.
+[21:13 --> 21:17] He will also be blamed for the fires that will break out following the publication of
+[21:17 --> 21:22] the first anti-Christian edict, which we'll get to in a second.
+[21:22 --> 21:27] However, though Galerius proved himself to be a sadist when it came to the Christians,
+[21:27 --> 21:32] it is really hard to say in the run-up to the persecution what events he pre-arranged
+[21:32 --> 21:38] and what events he simply took advantage of.
+[21:38 --> 21:47] On February 23rd, 303 AD, almost exactly 1708 years ago, Diocletian finally let the hard-liners
+[21:47 --> 21:48] off the leash.
+[21:48 --> 21:53] He ordered the Church of Nicomedia, the one that could be seen from his imperial palace,
+[21:53 --> 21:55] razed to the ground.
+[21:55 --> 22:00] All of the scripture housed there was burned, and all of its valuables were carted off.
+[22:00 --> 22:05] The next day, imperial authorities posted an edict, not only ordering every citizen
+[22:05 --> 22:10] in the empire to make a proper pagan sacrifice, but further ordering that every church in
+[22:10 --> 22:16] the empire was to be destroyed, all Christian scripture was to be burned, and known Christians
+[22:16 --> 22:21] be henceforth forbidden from assembling in one place.
+[22:21 --> 22:26] The public outcry was immediate, and the first victim of the persecution was a Christian
+[22:26 --> 22:31] man who literally tore the posted edict down off the wall.
+[22:31 --> 22:35] Within a week, fires began breaking out in the imperial palace.
+[22:35 --> 22:41] According to some sources, these were little Reichstag fires set by Galerius, and Diocletian's
+[22:41 --> 22:43] opinion hardened further.
+[22:43 --> 22:46] Now the Christian threat was not just theoretical.
+[22:46 --> 22:54] They were disobeying imperial orders, and engaging in nothing less than treason.
+[22:54 --> 22:58] In the aftermath of this initial uprising, Christians were rounded up and tortured for
+[22:58 --> 23:03] information about their brethren, and Galerius seems to have had a particular penchant for
+[23:03 --> 23:09] burning victims alive once he was done extracting information from them.
+[23:09 --> 23:14] Then, when the first edict was determined to be insufficiently oppressive, a further
+[23:14 --> 23:20] law was passed in the summer of 303, ordering that church officials, all those deacons and
+[23:20 --> 23:24] presbyters and bishops, be rounded up and jailed.
+[23:24 --> 23:29] This of course caused the prisons to overflow, and regular criminals had to be released to
+[23:29 --> 23:33] allow for the influx of Christians.
+[23:33 --> 23:38] It was around this time that the backlash began.
+[23:38 --> 23:42] Hardline anti-Christians, for the most part, only lived in the uppermost rungs of the imperial
+[23:42 --> 23:44] government.
+[23:44 --> 23:49] Down on the lower levels, soldiers and guards and wardens had a hard time fathoming why
+[23:49 --> 23:54] they were being made to suffer under the crushing weight of thousands of harmless old men who
+[23:54 --> 23:57] had broken no real laws.
+[23:57 --> 24:02] In many cases, these men just outright lied to their superiors, telling them sacrifices
+[24:02 --> 24:08] had been dutifully made just so they could clear out the holding cells.
+[24:08 --> 24:12] This dynamic played out all over the empire, as the rigor with which the persecution was
+[24:12 --> 24:18] pursued became defined by local officials, who, more often than not, wanted no part of
+[24:18 --> 24:22] jailing and killing Christians.
+[24:22 --> 24:27] In the West especially, the great persecution never really gained traction.
+[24:27 --> 24:31] Constantius in particular seems to have set the tone for his territories, and after a
+[24:31 --> 24:37] few perfunctory photo ops, he essentially let the whole matter drop, which of course
+[24:37 --> 24:42] made him something of a hero within the church, allowing his son to easily play the part of
+[24:42 --> 24:47] Christian champion down the road.
+[24:47 --> 24:52] In the East though, under the watchful eye of Galerius, Christians in Syria and Egypt
+[24:52 --> 24:59] and Asia Minor were rounded up, tortured, and, more often than not, burned alive.
+[24:59 --> 25:04] The backlash in the eastern provinces then did not take the form of intentionally blind
+[25:04 --> 25:10] state officials, but instead ordinary citizens who were horrified at what the government
+[25:10 --> 25:12] was doing.
+[25:12 --> 25:17] The victims were their family, their friends, and their neighbors, and even if they were
+[25:17 --> 25:23] none of these things, the Christians were by this time widely viewed as a harmless cult
+[25:23 --> 25:29] comprised of law-abiding, tax-paying citizens, whose most visible public activity was, what,
+[25:29 --> 25:33] tending to the poor and the sick?
+[25:33 --> 25:37] On top of that, there was a whole growing community of Romans, like for example the
+[25:37 --> 25:43] Emperor Aurelian, who had drifted over to monotheism, even if it was a particularly
+[25:43 --> 25:45] pagan brand of it.
+[25:45 --> 25:50] They often identified the god of the Christians with their own god, and even if the Christians
+[25:50 --> 25:56] did not necessarily reciprocate, monotheists who watched fellow monotheists dragged off
+[25:56 --> 25:59] in chains were incensed.
+[25:59 --> 26:05] Across the East, citizens hid Christians, lied to protect Christians, helped Christians
+[26:05 --> 26:13] escape to the West, and in every way tried to thwart the Imperial agents.
+[26:13 --> 26:18] The persecution's initial burst of energy lasted into 304 and would continue on the
+[26:18 --> 26:24] books until 311, but it would eventually be dropped by Galerius just prior to his death,
+[26:24 --> 26:29] after he finally came to understand that the whole operation had done far more to undermine
+[26:29 --> 26:32] Imperial authority than bolster it.
+[26:32 --> 26:37] What happened between 304 and 311 to change Galerius' mind, you ask?
+[26:37 --> 26:43] How about the rise of Constantine the Great, whose career was in part fueled by citizens,
+[26:43 --> 26:49] Christian or otherwise, who viewed the persecution as an unthinkable crime against humanity?
+[26:49 --> 26:54] And that is why it appears Diocletian made a huge mistake in aligning himself with the
+[26:54 --> 26:56] hardliners.
+[26:56 --> 27:01] The persecution disrupted the peace he had spent the last twenty years establishing.
+[27:01 --> 27:05] It undermined the legitimacy of the Tetrarchy, paving the way for Constantine to eventually
+[27:05 --> 27:12] blow it up, and in return for all that, the persecution had produced for Diocletian no
+[27:12 --> 27:14] tangible benefits.
+[27:14 --> 27:21] It was a bad policy and a bloody policy, and stands as a giant stain on Diocletian's
+[27:21 --> 27:27] otherwise sterling record.
+[27:27 --> 27:33] Next week we will get into the only upside for Diocletian, namely that in 305 he would
+[27:33 --> 27:39] wash his hands of the whole thing, and in an unprecedented move, announce that he planned
+[27:39 --> 27:45] to voluntarily abdicate the throne so he could retire to his villa and, I'm dead serious
+[27:45 --> 28:03] about this, raise cabbages.

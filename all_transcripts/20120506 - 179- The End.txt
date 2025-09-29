@@ -1,0 +1,401 @@
+# 20120506 - 179- The End
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:03] This week's episode is brought to you by Audible.
+[00:04 --> 00:09] As you know, Audible is the internet's leading provider of audio entertainment with over
+[00:09 --> 00:11] a hundred thousand titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:17 --> 00:21] That again, audiblepodcast.com forward slash Rome.
+[00:22 --> 00:25] By going to that address, you qualify for a free book download when you sign up for
+[00:25 --> 00:27] a 30 day trial membership.
+[00:27 --> 00:32] There is no obligation to continue the service, and you can cancel anytime and keep the free
+[00:32 --> 00:33] book download.
+[00:34 --> 00:38] You can also keep going with one of the monthly subscription options, and get great deals
+[00:38 --> 00:40] on all future audiobook purchases.
+[00:41 --> 00:44] This week, I am not going to recommend anything.
+[00:45 --> 00:49] I am just going to note again that there are over a hundred thousand titles to choose from,
+[00:50 --> 00:55] so go browse the catalog, find something you like, download it, and listen to it.
+[00:55 --> 01:02] Audible is a good service with a great selection, and I would encourage you all to take advantage of it.
+[01:02 --> 01:09] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:14 --> 01:23] Hello, and welcome to the final episode of The History of Rome, episode 179, The End.
+[01:27 --> 01:30] About five years ago, I got it into my head to start a podcast.
+[01:31 --> 01:36] After hearing 12 Byzantine rulers and loving it, I tried to find a podcast on Roman history,
+[01:37 --> 01:40] because surely there must be one, but I came up empty.
+[01:41 --> 01:45] I was in the middle of reading The War with Hannibal by Livy, and thought that man, there
+[01:45 --> 01:50] is a lot of really cool stories buried in here that never see the light of day, because
+[01:50 --> 01:53] my god, this reading is so dry.
+[01:53 --> 01:58] So, I started to think that maybe I should start a podcast about Roman history.
+[01:59 --> 02:03] I went and snagged my copy of The Early History of Rome by Livy, and used it to outline the
+[02:03 --> 02:09] first dozen or so episodes, The Seven Kings, The Twelve Tables, The Sack of Rome.
+[02:09 --> 02:11] Then I googled how to podcast.
+[02:12 --> 02:15] Then I fought bitterly with technology for about a week.
+[02:15 --> 02:21] Then I got it all straightened out, and on July 27, 2007 I published the first episode
+[02:21 --> 02:24] of the cleverly titled History of Rome.
+[02:25 --> 02:29] Then I settled into a nice routine of publishing every Sunday night.
+[02:31 --> 02:36] We went through the early quasi-mythical period of half-remembered legend, because Brennus
+[02:36 --> 02:39] and the Gauls burned Rome to the ground in 390 BC.
+[02:40 --> 02:44] We went from the kings through the establishment of the republic, the conflict of the orders,
+[02:45 --> 02:50] Roman expansion out into Italy, wars with the Etruscans and Latins and the Samnites,
+[02:50 --> 02:54] and history started to become less mythical and more concrete.
+[02:55 --> 02:59] Finally, we got into the bits that I really wanted to get into from the beginning, the
+[02:59 --> 03:05] Punic Wars, Hannibal, Scipio, the great struggle that left Rome the strongest power in the
+[03:05 --> 03:06] Mediterranean world.
+[03:07 --> 03:12] Then we started running into problems with hosting, because amazingly too many people
+[03:12 --> 03:16] were listening to the show, and it was crashing Archive.org.
+[03:16 --> 03:21] Then we ran into problems with episode limits on the blogging service I was using, but we
+[03:21 --> 03:27] kept going and made it into the 100s BC and the conquest of Greece, the civil unrest let
+[03:27 --> 03:31] loose by the Grokai brothers, the rise of Marius, and the rise of Soa.
+[03:32 --> 03:36] Then, for those of you who have been around that long, you'll remember that the show
+[03:36 --> 03:40] went on hiatus for seven months because I completely burned out.
+[03:40 --> 03:45] For those of you who discovered the show later, just know that the whole thing almost died
+[03:45 --> 03:48] at episode 33, Marius and Soa.
+[03:50 --> 03:52] But it only almost died.
+[03:52 --> 03:56] I bought a new laptop and decided that I would hate myself forever if I didn't finish the
+[03:56 --> 03:57] job.
+[03:58 --> 04:03] I had planned to do about 75 episodes, and I was all ready to the breakdown of the Republic,
+[04:03 --> 04:08] so I didn't want to be the guy who swam two thirds of the English Channel, got tired,
+[04:08 --> 04:09] and swam back.
+[04:10 --> 04:16] So then we went through the civil wars of Marius and Soa, the rise of Crassus and Pompey,
+[04:16 --> 04:18] and then finally to the rise of Julius Caesar.
+[04:19 --> 04:24] It was at about episode 40 that I realized I was in big trouble.
+[04:24 --> 04:28] An entire episode was dedicated to a single year.
+[04:29 --> 04:34] But there was too much information, too much that we needed to understand, so progress
+[04:34 --> 04:36] ground to a complete halt.
+[04:37 --> 04:41] The fall of the Republic set the pace for the whole rest of the series.
+[04:41 --> 04:48] It took about 50 episodes to cover the 700 years from 753 to 60 BC, and it would take
+[04:48 --> 04:53] 140 more episodes to cover the remaining 500 years.
+[04:54 --> 04:55] But I didn't care.
+[04:55 --> 05:01] I was blissing out and loving every minute that I got to spend toiling away on my never-ending
+[05:01 --> 05:01] project.
+[05:02 --> 05:07] When the Julio-Claudian dynasty fell, I got married, and we moved from Portland, Oregon
+[05:07 --> 05:08] to Austin, Texas.
+[05:09 --> 05:13] With the new headquarters established, we plowed through the Flavians and the Antonines
+[05:13 --> 05:17] and started running into bad trouble like the Marcomani Wars and Commodus.
+[05:18 --> 05:20] Then the Severans came along.
+[05:20 --> 05:23] Everything became a lot more militant and a lot more sinister.
+[05:24 --> 05:29] And then in the middle of the third century, the Roman Empire really should have ended.
+[05:29 --> 05:31] And in many ways, it did.
+[05:32 --> 05:37] That crisis period has since become one of my favorite periods in Roman history, mostly
+[05:37 --> 05:39] because no one ever talks about it.
+[05:40 --> 05:42] No one ever goes into detail about it.
+[05:42 --> 05:47] It's always, well, the Severan dynasty fell apart, and things were really super crazy
+[05:47 --> 05:48] for 50 years.
+[05:48 --> 05:51] Okay, on to Diocletian and Constantine.
+[05:52 --> 05:55] But the crisis of the third century is fascinating.
+[05:55 --> 05:56] It is utterly fascinating.
+[05:57 --> 06:02] It took us 16 episodes to get through that 50-year period alone.
+[06:02 --> 06:05] I think it was totally worth it.
+[06:06 --> 06:10] When we emerged from the crisis years, it was on to Diocletian and the Tetrarchy, and
+[06:10 --> 06:13] then the rise of Constantine and Christianity.
+[06:14 --> 06:18] Constantinople was founded while I was in Italy, enjoying the first of three Roman history
+[06:18 --> 06:22] tours, which was just an awesome, awesome time.
+[06:24 --> 06:25] HistoryofRomeTour.com.
+[06:25 --> 06:30] Yes, even though the show is ending, we want to keep doing them, but I will get to that.
+[06:31 --> 06:37] When I got back, we rolled into the breakdown of the Constantinian dynasty, Julian the Apostate,
+[06:37 --> 06:39] then on to Valentinian and Valens.
+[06:40 --> 06:43] Then we found out that Mrs. History of Rome was pregnant.
+[06:44 --> 06:47] Then it was on to the Battle of Adrianople and the rise of Theodosius.
+[06:47 --> 06:50] Things started to get really bad now.
+[06:51 --> 06:53] The barbarians were coming, but they were not going away.
+[06:54 --> 06:57] The empire split into east and west, but not really.
+[06:58 --> 07:01] The legions became almost entirely mercenary.
+[07:01 --> 07:05] Germanic generals were pulling the strings, but that wasn't a bad thing at all because
+[07:05 --> 07:09] the emperors were just terrible buffoons at this point.
+[07:09 --> 07:15] Stillico gave way to Aetius just as I went back to school, because yes, I've been attending
+[07:15 --> 07:19] UT for the last four months and still putting out the show every week because I have no
+[07:19 --> 07:20] life.
+[07:21 --> 07:26] Then Gaul was overrun and Spain was overrun and North Africa was seized by the vandals
+[07:26 --> 07:30] until the hunt arrived just as I was heading off for the fourth History of Rome tour, which
+[07:30 --> 07:32] was another awesome, awesome time.
+[07:33 --> 07:35] Aetius gave way to Ricomar.
+[07:35 --> 07:37] The west began circling the drain.
+[07:38 --> 07:40] The final shadow emperors came and went.
+[07:41 --> 07:44] Romulus Augustilis was crowned and then he was exiled.
+[07:44 --> 07:47] Our baby boy is due any day now.
+[07:47 --> 07:48] I am ready.
+[07:49 --> 07:50] This is the History of Rome.
+[07:50 --> 07:53] I can promise you it is really ready.
+[07:54 --> 07:57] And so the History of Rome is over.
+[07:58 --> 08:07] Five years of work, 675,000 words, 189 episodes, 74 hours of content.
+[08:07 --> 08:10] Good Lord, what a hell of a damn thing.
+[08:13 --> 08:19] Since we are at the end, it is worth taking a moment to wonder why this is the end.
+[08:20 --> 08:22] I mean of the Roman Empire, not of the podcast.
+[08:24 --> 08:29] Now as I already discussed, there are lots of arbitrary lines in the sand we can draw
+[08:29 --> 08:37] to say before this Rome, after this, no more Rome, and I'm stopping at 476 out of a vague
+[08:37 --> 08:38] sense of historical convention.
+[08:39 --> 08:44] I don't really want to get into the debate about the superiority of this arbitrary line
+[08:44 --> 08:50] versus that arbitrary line, especially since one of the strongest arguments out there is
+[08:50 --> 08:54] that no one should talk about the fall of the Roman Empire until the Turks start blasting
+[08:54 --> 09:01] a hole in the side of the Theodosian walls in 1453, and that is just too, too far in
+[09:01 --> 09:03] the future for me to deal with.
+[09:04 --> 09:10] And besides, by that time, the descendants of Rome ruled a Greek-speaking Orthodox Christian
+[09:10 --> 09:17] believing empire, which is, really, a wholly different cultural construction than the Latin-speaking
+[09:17 --> 09:19] pagans we began our journey with.
+[09:20 --> 09:22] So something clearly had changed.
+[09:22 --> 09:24] Something had broken down.
+[09:26 --> 09:31] Is the political, economic, and cultural makeup of Italy, for example, different in 800 AD
+[09:31 --> 09:34] than it was during the age of the Antonines?
+[09:34 --> 09:36] Clearly, yes.
+[09:37 --> 09:42] Was that makeup different in 600 AD than it was during the age of Constantine?
+[09:42 --> 09:46] I would say they were getting closer, but still, yes.
+[09:47 --> 09:49] What about 500 and 400?
+[09:50 --> 09:55] Well, much less so, but a few important things had changed.
+[09:56 --> 10:01] Strong emperors had been replaced by puppet emperors who had been replaced by no emperors.
+[10:01 --> 10:06] Tight borders had given way to porous borders, had given way to no borders.
+[10:07 --> 10:11] So something pretty important happened in the 5th and 6th centuries, and though it was
+[10:11 --> 10:16] a gradual transition, that does not mean we can't still talk about the fall of the Roman
+[10:16 --> 10:17] Empire.
+[10:18 --> 10:20] The Roman Empire fell at some point.
+[10:20 --> 10:23] That much, at least, I think we can all agree on.
+[10:26 --> 10:29] So the question is, why did Rome fall when it did?
+[10:30 --> 10:33] Or more precisely, why did the western half of the empire fall?
+[10:35 --> 10:41] Well, I have joked that there are 256 different reasons why the western empire fell, and though
+[10:41 --> 10:45] I am obviously exaggerating, it is not that much of an exaggeration.
+[10:46 --> 10:51] The decline and fall of something as monumentally complex as the Roman Empire is not going to
+[10:51 --> 10:55] be able to be explained away by one or two simple causes.
+[10:57 --> 11:02] Now, everyone has a pet theory, something they want to highlight over everything else,
+[11:02 --> 11:07] and lord knows I've got my own suspicions, but the basic fact is that all of these theories
+[11:07 --> 11:13] are likely correct to some degree, and each played off each other in a synergistic orgy
+[11:13 --> 11:14] of destruction.
+[11:16 --> 11:22] In his nice little summation, the fall of the Roman Empire, for example, Michael Grant
+[11:22 --> 11:26] offers 14 interacting tensions that led to the fall of the west.
+[11:27 --> 11:32] And just to give you a sense of the scope and flavor of what we're talking about,
+[11:32 --> 11:33] here they are.
+[11:33 --> 11:40] The generals against the state, the people against the army, the poor against the state,
+[11:40 --> 11:46] the rich against the state, the middle class against the state, the people against the
+[11:46 --> 11:54] bureaucrats, the people against the emperor, ally against ally, race against race, dropouts
+[11:54 --> 12:02] against society, the state against free belief, complacency against self-help, the other world
+[12:02 --> 12:04] against this world.
+[12:06 --> 12:13] Now, I tend to break all of this down into six broad categories, which I'd like to
+[12:13 --> 12:15] run through briefly with you now.
+[12:15 --> 12:23] Political factors, economic factors, military factors, social factors, religious factors,
+[12:23 --> 12:25] and environmental factors.
+[12:26 --> 12:31] Though we are not going to land on a definitive answer for why the western empire fell, it
+[12:32 --> 12:36] would still be fun to walk through each of these to give you an idea of what Rome was
+[12:36 --> 12:40] really up against in the late 400s.
+[12:42 --> 12:43] First, there are the political factors.
+[12:45 --> 12:52] By 476 AD, the governing apparatus of the western empire had become a brittle farce.
+[12:53 --> 12:58] The centralized regimentation introduced by Diocletian, which had perhaps given the empire
+[12:58 --> 13:02] a new lease on life during the 300s, was now killing it.
+[13:03 --> 13:08] The quality of the emperors, as you may have noticed, declined precipitously after the
+[13:08 --> 13:14] death of Theodosius, so the very center of this strict regimentation had become rotten.
+[13:15 --> 13:20] The emperors had all the theoretical power in the world, but that power was being wielded
+[13:20 --> 13:25] by cloistered fools, totally disconnected from the empire they allegedly ran.
+[13:26 --> 13:31] Plus, given that the communication networks of the day were falling apart along with everything
+[13:31 --> 13:38] else, even a great emperor couldn't hope to achieve what his propaganda and his edicts
+[13:38 --> 13:39] promised that he could.
+[13:41 --> 13:48] Local autonomy had thus become simultaneously dead and more important than ever, a contradictory
+[13:48 --> 13:52] circle that had become more difficult to square with each passing day.
+[13:53 --> 13:56] The bureaucracy was hopelessly corrupt.
+[13:57 --> 14:02] The best educated declined to enter state service because it was rightly viewed as a
+[14:02 --> 14:04] corrupt and dangerous occupation.
+[14:06 --> 14:10] The political apparatus, in other words, was broke and getting broker.
+[14:12 --> 14:13] Then there are the economic factors.
+[14:14 --> 14:20] We have already discussed at length the debilitating inflation that plagued the western empire
+[14:20 --> 14:21] in its final years.
+[14:22 --> 14:27] This inflation essentially destroyed the middle class and left the west divided between a
+[14:27 --> 14:31] few super wealthy landowners and the uncountable poor masses.
+[14:33 --> 14:38] Adding to the dilemma was a system of imperial taxation which ground those poor masses even
+[14:38 --> 14:40] deeper into the dirt.
+[14:41 --> 14:47] The super wealthy were able to defer tax payments until one of those moments of debt cancellation
+[14:48 --> 14:51] or else they were able to use their influence to win tax exemptions.
+[14:52 --> 14:58] This left the poor classes, who had no such influence, to shoulder the burdens of state,
+[14:59 --> 15:02] burdens that far outweighed their ability to pay.
+[15:03 --> 15:08] So increasingly they turned to the wealthy patrons for relief, essentially becoming indentured
+[15:08 --> 15:14] servants in exchange for the wealthy estate owner covering their tax bills, which laid
+[15:14 --> 15:18] the groundwork for the feudal system that would rule Europe for the next thousand years.
+[15:19 --> 15:25] This broken economic system also completely severed the bonds of patriotic loyalty that
+[15:25 --> 15:29] had once upon a time kept the political system functioning.
+[15:30 --> 15:34] The poor saw the state as a predator to be avoided at all cost.
+[15:35 --> 15:40] The rich saw it as a petty annoyance to be ignored at all cost.
+[15:40 --> 15:46] By the late 400s, the western economy was disintegrating and the central government
+[15:46 --> 15:48] was starved of funds.
+[15:50 --> 15:52] And then of course there are the military factors.
+[15:53 --> 15:59] The legions had been the backbone of the empire for a millennium, but by the 400s the legions
+[15:59 --> 16:03] as we had once known them were essentially dead.
+[16:04 --> 16:09] Service in the army was seen by the free citizens as slavery by another name.
+[16:10 --> 16:14] Hard, dirty, and dangerous work that offered few rewards.
+[16:15 --> 16:20] The rich and poor alike conspired to hide potential conscripts from the state forces
+[16:20 --> 16:24] so that they could stay and work the largest states that were fast becoming the backbone
+[16:24 --> 16:27] of the new political and economic order.
+[16:28 --> 16:32] As a consequence, the imperial authorities turned increasingly to Germanic mercenaries
+[16:32 --> 16:36] who were all too happy to do the Romans fighting for them.
+[16:37 --> 16:43] But of course after Adrianople, these forces ceased even fighting under Roman officers
+[16:43 --> 16:48] and instead joined as whole national armies fighting under their own kings.
+[16:50 --> 16:55] Though the emperors had little choice and these barbarian forces fought hard for Rome,
+[16:56 --> 17:01] there is no getting around the fact that the objectives of Rome and the objectives of the
+[17:01 --> 17:06] barbarian mercenaries were never going to line up completely because each viewed the
+[17:06 --> 17:08] other as an other.
+[17:10 --> 17:14] In effect, the empire was no longer able to raise a national army.
+[17:14 --> 17:16] It could only pay for protection.
+[17:17 --> 17:22] And this, I can assure you, is an unsustainable model of self-defense.
+[17:26 --> 17:32] Which brings us to the social factors and my own personal hobby horse when it comes
+[17:32 --> 17:34] to explaining the decline of the Western Empire.
+[17:35 --> 17:40] The failure of the Western Empire to integrate their new Germanic inhabitants.
+[17:43 --> 17:48] One of the great geniuses of Rome had always been its ability to instantly incorporate
+[17:48 --> 17:54] new ideas and new peoples and new technologies into their empire without being weighed down
+[17:54 --> 17:55] by prejudice.
+[17:56 --> 18:00] It's what allowed them to own and operate one of the most ethnically diverse empires
+[18:00 --> 18:03] in history for hundreds and hundreds of years.
+[18:05 --> 18:10] When the Roman system began to fail in the third century, for example, it was not senators
+[18:10 --> 18:12] on the Palatine Hill who led the rebirth of Rome.
+[18:12 --> 18:19] It was a group of Illyrian officers, mostly peasant-born Illyrian officers at that.
+[18:21 --> 18:28] Were it not for Claudius Gothicus, Aurelian, Probus, Diocletian, the emperor would have
+[18:28 --> 18:28] collapsed.
+[18:29 --> 18:31] Of that, I am quite sure.
+[18:32 --> 18:37] But as Rome reached a new crisis point, the ruling aristocracy suddenly became obsessed
+[18:37 --> 18:39] with racial prejudices.
+[18:40 --> 18:48] The most capable men of the age, Stilicho, Alaric, Aetius, Gansaric, Theodoric, were
+[18:48 --> 18:54] all kept at arms distance from access to real imperial power by an Italian aristocracy that
+[18:54 --> 18:58] suddenly began asserting the necessity of ethnic separation.
+[18:59 --> 19:04] The quote-unquote barbarians of the fifth century were flatly denied the respect of
+[19:04 --> 19:05] Rome.
+[19:05 --> 19:09] Their nations were settled in Roman territory as separate nations.
+[19:10 --> 19:15] Their leaders kept out of the imperial structure and forced to live either as antagonists like
+[19:15 --> 19:22] Gansaric or Alaric, or as protagonists like Stilicho and Aetius, who were treated as second-class
+[19:22 --> 19:22] leaders.
+[19:23 --> 19:28] And if they weren't second-class leaders, then why aren't we talking about Emperor
+[19:28 --> 19:30] Stilicho and Emperor Aetius?
+[19:31 --> 19:36] Mostly, it's because the Senators of the West refused to consider the possibility of
+[19:36 --> 19:37] a German-born Emperor.
+[19:39 --> 19:45] In another parallel universe, the leadership of the West allows for the full social, moral,
+[19:45 --> 19:49] and political integration of the Germanic people into their empire in the fifth century,
+[19:50 --> 19:55] setting the stage for the rise of the German Emperors, who, like the Illyrian Emperors
+[19:55 --> 19:58] before them, revived the Roman name.
+[20:02 --> 20:05] These social forces were exacerbated by the religious factors.
+[20:07 --> 20:12] I will tread lightly on this subject and want to begin by saying that I do not accept Gibbon's
+[20:12 --> 20:17] argument that Christianity led to the decline and fall of the Roman Empire.
+[20:18 --> 20:24] But that said, the introduction of Christianity into the Roman bloodstream did lead to constant
+[20:24 --> 20:28] religious feuding that had been previously unknown to the Romans.
+[20:30 --> 20:34] Religious tolerance had always been one of the hallmarks of Roman rule and Roman unity.
+[20:35 --> 20:41] But by the 400s, there had been a transition to increasing religious intolerance.
+[20:42 --> 20:47] Christianity vs. Paganism, Nicene vs. Arian, Orthodoxy vs. Heresy.
+[20:49 --> 20:53] How many able administrators were caught up in the cycles of religious purges and counter
+[20:53 --> 21:01] how much time, energy, and resources were spent trying to bend the empire to one particular
+[21:01 --> 21:06] version of Christianity and then bend it back when another version rose to prominence.
+[21:07 --> 21:13] It would be impossible to calculate, but I can't help but think that everyone would
+[21:13 --> 21:18] have been better served if they had just left religion alone and focused their collective
+[21:18 --> 21:21] attention on the daily challenges of operating the empire instead.
+[21:22 --> 21:27] I am not prepared to say that religion was the main reason Rome fell, or even one of
+[21:27 --> 21:34] the most important reasons, but at a moment when the empire needed unity, religious intolerance
+[21:34 --> 21:37] acted as a disuniting force.
+[21:40 --> 21:43] Finally, there are the environmental factors.
+[21:44 --> 21:49] We are only just now beginning to pay attention to these sorts of conditional elements, but
+[21:49 --> 21:55] there is some evidence that between 250 and 550 AD, the climate of Europe began to fluctuate
+[21:55 --> 21:56] wildly.
+[21:57 --> 22:01] And this was not just a matter of gradual shifting, where the land that had once been
+[22:01 --> 22:08] good was now bad, but that from season to season there were crazy variations, undermining
+[22:08 --> 22:13] the kind of predictability an agricultural society requires to remain stable.
+[22:14 --> 22:20] We certainly see in later years far more sudden famines than we saw previously, and far less
+[22:20 --> 22:23] ability to absorb those famines when they came.
+[22:24 --> 22:30] You throw into this mix other underlying environmental factors like plague, and you get increasing
+[22:30 --> 22:34] depopulation, leading to abandoned land, and more famine.
+[22:36 --> 22:41] I think as we move forward, we will begin to understand more and more the role that
+[22:41 --> 22:47] climate shifts have played in the rise and fall of civilizations over the course of world
+[22:47 --> 22:47] history.
+[22:48 --> 22:50] Or maybe we won't.
+[22:51 --> 22:55] At the very least, it will be an interesting topic to keep an eye on.
+[22:58 --> 23:02] All of this of course raises one obvious question.
+[23:03 --> 23:06] If this is all true, then why didn't the East fall?
+[23:08 --> 23:14] There are again no easy answers here, but there are a few broad things to keep in mind.
+[23:15 --> 23:17] First there is the question of geography.
+[23:19 --> 23:24] The West had an incredibly long Rhine frontier, and an incredibly long Danube frontier to
+[23:24 --> 23:25] contend with.
+[23:26 --> 23:31] And once any portion of those frontiers was breached, our barbarian horde could pretty
+[23:31 --> 23:33] much go wherever it wanted within the empire.
+[23:34 --> 23:37] Gaul, Spain, Italy, wherever.
+[23:38 --> 23:41] And after the invasion of 405, this is exactly what happened.
+[23:43 --> 23:49] In the East, however, once the Huns or Goths or whoever went over the river, they were
+[23:49 --> 23:51] confined to Thrace and Macedonia.
+[23:52 --> 23:57] Any attempt to cross the Hellespont, and they'd run smack into Constantinople and its impenetrable
+[23:57 --> 23:58] walls.
+[23:59 --> 24:05] Thus, the far eastern provinces of Syria and Egypt, the economic lifeblood of the Eastern
+[24:05 --> 24:08] Empire, were shielded from any such attack.
+[24:09 --> 24:15] On their eastern flank, the East dealt only with the Sassanids, a stable and civilized
+[24:15 --> 24:19] empire that was interested in maintaining peaceful coexistence.
+[24:20 --> 24:25] This allowed them to avoid the kinds of territorial sheddings that the West was forced to endure
+[24:25 --> 24:31] throughout the 400s, at least until the Arabs show up.
+[24:32 --> 24:37] Second, there is the question of relative wealth, both of the imperial government itself
+[24:37 --> 24:39] and the East as a whole.
+[24:40 --> 24:46] The military shocks that hit the West in the 400s rapidly depleted its economic output,
+[24:47 --> 24:51] and as barbarian nations set up autonomous zones and wealthy nobles withdrew to their
+[24:51 --> 24:58] states, the central government was cut off more and more from the little wealth was available.
+[24:59 --> 25:06] This simply did not happen in the East, and one can never discount the vital trade link
+[25:06 --> 25:12] to India and China that the Eastern Empire enjoyed, a trade link that was largely severed
+[25:12 --> 25:14] for the West by the time the Axe finally fell.
+[25:16 --> 25:22] In terms of its ability to support itself then, the court at Constantinople was much,
+[25:22 --> 25:26] much richer than the court of Ravenna.
+[25:28 --> 25:31] Finally, there is the question of the imperial apparatus itself.
+[25:33 --> 25:39] Just as the West's middle class was being killed by a combination of inflation and over-taxation,
+[25:39 --> 25:45] the Eastern middle class was thriving as it found itself running the now famous Byzantine
+[25:45 --> 25:45] bureaucracy.
+[25:47 --> 25:52] Whereas in the West the super elite had withdrawn its support and resources from the government,
+[25:52 --> 25:59] in the East this really did not happen, leaving imperial service as a lucrative and honorable
+[25:59 --> 26:00] career choice.
+[26:01 --> 26:06] In the West, you get the feeling that what was left of the bureaucracy was staffed by
+[26:06 --> 26:12] sadistic gangsters, creating a vicious cycle of disloyalty, greed, and hatred between the
+[26:12 --> 26:14] people and the government.
+[26:15 --> 26:21] Though no one ever likes a tax collector, the Eastern bureaucracy just seemed to function
+[26:21 --> 26:27] a whole lot better, likely because it was staffed by better paid and more talented men.
+[26:31 --> 26:38] In the end, this is all so much food for thought, and it will remain impossible to conclusively
+[26:38 --> 26:43] pinpoint the exact set of reasons why the Western Empire fell apart when it did and
+[26:43 --> 26:45] why the Eastern Empire did not.
+[26:47 --> 26:52] Every author you read will have his or own take, and every generation will produce new
+[26:52 --> 26:57] evidence that discredits old theories, and then future generations will come along and
+[26:57 --> 27:02] discredit the even newer theories, and at some point someone will find new evidence
+[27:02 --> 27:03] that supports the old theories.
+[27:05 --> 27:11] History is being constantly rewritten, and frankly that is the one thing that will remain
+[27:11 --> 27:12] constant.
+[27:16 --> 27:20] Which brings me back to the present and a few thoughts on the future.
+[27:21 --> 27:28] First of all, just let me again express my deep, deep appreciation to everyone who has
+[27:28 --> 27:30] listened to the history of Rome over the years.
+[27:31 --> 27:35] I always tend to think of it as you guys letting me do this thing week in and week out.
+[27:36 --> 27:42] No audience, and I would have quit being able to justify spending so much time reading and
+[27:42 --> 27:46] writing and thinking about Roman history a long time ago.
+[27:46 --> 27:53] But you hung around in fairly large numbers, and so I got to keep doing it week after week
+[27:53 --> 27:53] after week.
+[27:54 --> 27:56] Thank you very, very much.
+[27:57 --> 28:02] It has been an honor and a privilege to be your guide through the endlessly fascinating
+[28:02 --> 28:03] history of Rome.
+[28:05 --> 28:10] If you've enjoyed this trip as much as I've enjoyed putting it together, and think it
+[28:10 --> 28:17] I will note that there is a handy donation button at thehistoryofroam.typed.com.
+[28:17 --> 28:21] It will let you quantify your appreciation in dollars and cents.
+[28:23 --> 28:27] Those of you who have already donated are kind of blowing my mind with your generosity,
+[28:27 --> 28:29] and thank you very, very much.
+[28:30 --> 28:35] There is no suggested donation, give whatever you feel is right or don't.
+[28:35 --> 28:38] The history of Rome is free for all, no strings attached.
+[28:39 --> 28:44] But if every single person who heard this episode went and donated $10, well, let's
+[28:44 --> 28:48] just say that it would go a long way towards relieving the financial stresses of having
+[28:48 --> 28:52] a newborn right at the moment when you're walking away from a project that provides
+[28:52 --> 28:54] a goodly chunk of your monthly income.
+[28:58 --> 29:02] Obviously, I am going to spend the next few months focused on the fact that holy crap
+[29:02 --> 29:07] we're having a baby, but you will be happy to hear, at least I think you'll be happy
+[29:07 --> 29:13] If you're not happy to hear this, then why in the world did you just spend 74 hours listening
+[29:13 --> 29:15] to me blabber at you about Roman history?
+[29:16 --> 29:22] But my plan is to return to podcasting in the not too distant future.
+[29:22 --> 29:27] I even know what the next show is going to be about, and I have to tell you that I'm
+[29:27 --> 29:29] really, really excited about it.
+[29:30 --> 29:35] I'm not going to tell you what it is yet, because I haven't ironed out all the details
+[29:35 --> 29:41] in my head, but I think it's going to be really cool, and I think you'll really dig it.
+[29:41 --> 29:46] The only things I'll leak is that it's not going to be ancient history, and it's not
+[29:46 --> 29:48] going to be American history.
+[29:49 --> 29:51] It's going to be something else.
+[29:52 --> 29:56] So what you should all do is keep your subscription to the history of Rome going.
+[29:57 --> 30:02] And if you're not subscribed, go ahead and get subscribed, because I'll use this feed
+[30:02 --> 30:04] to update you about future details.
+[30:05 --> 30:10] And we'll maybe just run the new show through that feed too, rather than trying to force
+[30:10 --> 30:11] everyone to jump subscriptions.
+[30:12 --> 30:13] I don't know.
+[30:13 --> 30:13] We'll see.
+[30:14 --> 30:16] Like I say, I haven't ironed out all the details yet.
+[30:18 --> 30:23] I will also keep you updated with information about any future history of Rome tour, which
+[30:23 --> 30:27] like I say, are really fun, and we really want to keep doing them.
+[30:31 --> 30:35] So, there will be no next week, because there is no next week.
+[30:36 --> 30:42] Next time, we'll be some time down the road, and we'll be talking about something completely
+[30:42 --> 30:42] different.
+[30:43 --> 30:47] I wish you all the best of luck out there, and look forward to blathering in your ears
+[30:47 --> 30:50] about history again some time soon.
+[30:52 --> 30:52] Goodbye.
+[30:53 --> 30:55] This has been the history of Rome.

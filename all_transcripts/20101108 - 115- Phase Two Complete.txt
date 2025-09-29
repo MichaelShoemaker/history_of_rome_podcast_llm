@@ -1,0 +1,257 @@
+# 20101108 - 115- Phase Two Complete
+# Detected language: en
+# Duration: 1572.08 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the internet's leading
+[00:06 --> 00:11] provider of audio entertainment with over 60,000 titles to choose from. When you're done with this
+[00:11 --> 00:18] episode, go to audiblepodcast.com forward slash rome. That again is audiblepodcast.com forward
+[00:18 --> 00:24] slash rome. By going to that address, you qualify for a free book download when you sign up for a
+[00:24 --> 00:29] 14-day trial membership. There is no obligation to continue the service and you can cancel any
+[00:29 --> 00:34] time and keep the free book download. You can also keep going with one of the monthly subscription
+[00:34 --> 00:41] options and get great deals on all of your future audiobook purchases. This week, I am going to
+[00:41 --> 00:46] recommend volume one of Simon Shama's History of Britain based on the television series which,
+[00:46 --> 00:51] when I watched it about a decade ago, no doubt planted a little seed in the back of my mind
+[00:51 --> 00:56] that maybe I'd like to write a comprehensive history of something someday. I loved the
+[00:56 --> 01:03] history of Britain. Just remember to go to audiblepodcast.com forward slash rome so that
+[01:03 --> 01:17] they know who sent you. Hello and welcome to the History of Rome, episode 115, phase two complete.
+[01:21 --> 01:26] As the 260s drew to a close, the political order of the Roman Empire had begun to settle
+[01:26 --> 01:32] a bit. Posthumous was in charge of the west, administering the provinces in Gaul and Hispania
+[01:32 --> 01:37] and Britain. While out in the east, Oedonothus had carved out a sphere of influence for himself
+[01:37 --> 01:43] that kept the citizens of Syria, Palestine, and Asia Minor free from worries about another
+[01:43 --> 01:50] Sassanid invasion. Probably steaming about the loss of influence on the outer rims of his empire,
+[01:50 --> 01:55] Gallienus nonetheless dedicated himself to the governance of the Middle Empire,
+[01:55 --> 02:00] and in addition to fending off the Goths, he tried to strengthen the internal economy
+[02:00 --> 02:03] and even promote some of the long-neglected arts and sciences.
+[02:05 --> 02:12] After so much chaos and uncertainty and violence, a new equilibrium had been achieved. It was not a
+[02:12 --> 02:18] perfect equilibrium. After all, none of the external menaces to the empire had been vanquished,
+[02:18 --> 02:24] they had just been temporarily stalled, and the empire itself, well, there were now three of them,
+[02:24 --> 02:30] weren't there? Not that it mattered. The new equilibrium is about to be shattered.
+[02:33 --> 02:39] It was out in the east that the balance first began to slip. Oedonothus, like a latter-day
+[02:39 --> 02:45] Alexander or Caesar, had come out of nowhere with a personality so strong and a skill set so superior
+[02:45 --> 02:50] to his contemporaries that it was almost like he was playing on a different level than everyone else.
+[02:51 --> 02:55] It is not hyperbole to say that following the capture of Valerian in 260,
+[02:55 --> 03:02] the eastern empire stood on the brink of permanent occupation. Maybe the still immense resources of
+[03:02 --> 03:07] the Roman Empire would have fended off the Cessonids, but those resources had been halved
+[03:07 --> 03:12] by the breakaway of the western provinces and the rest were being spent on the defense of the Danube.
+[03:14 --> 03:19] There seemed to be nothing standing in the Persians' way. Sure, Macriana symbolizes
+[03:19 --> 03:24] that they had run a fairly successful guerrilla defense, but was there anything anyone could put
+[03:24 --> 03:31] in the field to actually beat Sharpor in battle? The answer, as it turned out, was yes, and the
+[03:31 --> 03:37] answer was Oedonothus. Right when it seemed like the end was nigh, the Palmyrene prince had swept
+[03:37 --> 03:42] in and not only delivered a decisive victory against the Cessonid army, but he held them at
+[03:42 --> 03:47] bay for the next seven years, just when moments before it seemed that there was nothing that could
+[03:48 --> 03:57] even trip Sharpor up, let alone keep him home. Oedonothus was, during the 260s, the indispensable
+[03:57 --> 04:04] man in the eastern empire. Without him, all would be lost. But of course, you know what
+[04:04 --> 04:11] de Gaulle said about indispensable men. The backdrop for the final chapter of the life
+[04:11 --> 04:18] of Oedonothus was the 267 invasion of the Roman Empire by the Goths. In successive waves,
+[04:18 --> 04:23] they began pouring south by land and by sea, and no one seemed able to stop them.
+[04:24 --> 04:30] Thus far, Oedonothus had naturally focused his attention on the east, as the Cessonids were his
+[04:30 --> 04:37] main concern. But seaborne Goths were now harrying the Black Sea coast of Asia Minor and threatening
+[04:37 --> 04:41] the lands beyond the Taurus Mountains, which Oedonothus considered part of his mandate.
+[04:42 --> 04:47] So, for the first time, he began making preparations to leave the eastern front
+[04:47 --> 04:52] and head north to face the Goths. But he never would get to face them.
+[04:54 --> 05:00] The indispensable man of the east did not die in battle or succumb to plague or go out in a
+[05:00 --> 05:07] blaze of glory. Instead, it seems that he fell victim to an assassin who was inspired mostly
+[05:07 --> 05:14] by a personal humiliation. The story that's most commonly related is that while off on a hunt with
+[05:14 --> 05:21] his royal entourage, Oedonothus's nephew breached some bit of protocol. Maybe he took the first shot
+[05:21 --> 05:25] at something, or maybe he refused to allow some prize target to be taken by his uncle.
+[05:26 --> 05:32] Whatever he did, he was subsequently either chastised in too harsh of terms publicly,
+[05:32 --> 05:36] or possibly put in some kind of timeout when the party returned home.
+[05:37 --> 05:43] Whatever his offense and whatever his punishment, it all led the nephew to burn with resentment,
+[05:43 --> 05:49] and at a family celebration a short time later, the nephew, probably by way of poison, killed
+[05:49 --> 05:56] Oedonothus and his eldest son. The nephew's role in the sudden and shocking death of the Lord of
+[05:56 --> 06:02] Palmyra was soon discovered, and he was put to death by Oedonothus's now widow, Zenobia.
+[06:05 --> 06:09] A variation of the story has it that Zenobia herself was behind the murder so that her son,
+[06:09 --> 06:15] Vebalethus, would have a clear path to power. In this telling, the older son who died along
+[06:15 --> 06:21] with Oedonothus was from Oedonothus's previous marriage and was thus standing between Vebalethus
+[06:21 --> 06:27] and the throne. Given the fact that this follows the familiar wicked stepmother trope that the
+[06:27 --> 06:34] Romans so loved, modern historians typically discount this version. Another version has it
+[06:34 --> 06:40] that Gallienus instigated the murder because he feared the growing power of Palmyra. But this too
+[06:40 --> 06:46] is usually dismissed for a number of different reasons, the main one being that the death of
+[06:46 --> 06:51] the protector of the east opened up Gallienus's flank to the Sassanids right at the moment when
+[06:51 --> 06:57] he was preparing to go fight a major campaign against the Goths. Maybe if the murder had
+[06:57 --> 07:02] occurred when there was less imminent danger to the empire, we could indulge in that particular
+[07:02 --> 07:08] conspiracy theory, but really, Gallienus killing Oedonothus at that moment would have been the
+[07:08 --> 07:17] height of folly. In the immediate aftermath of Oedonothus's death, there was a great deal
+[07:17 --> 07:23] of confusion about who was now in charge. Oedonothus's authority had been a personally
+[07:23 --> 07:30] held grant from Gallienus, so did power now devolve back to the Roman governors or did
+[07:30 --> 07:37] Oedonothus's son inherit his father's titles? With everyone just kind of looking at everyone else,
+[07:37 --> 07:42] Zenobia stepped forward and simply acted as if her husband's death meant that of course
+[07:42 --> 07:48] Vebalethus would inherit all the power ceded to the family by Gallienus. But of course,
+[07:48 --> 07:54] since Vebalethus was still a young child, Zenobia herself would have to act as regent,
+[07:54 --> 07:58] which means that unless you have a mind to stop me, I am now in charge around here.
+[08:00 --> 08:05] With shrewd political sensibilities and the backing of one of her husband's top generals,
+[08:05 --> 08:11] an experienced soldier named Zabdus, Zenobia was able to assume all the powers Oedonothus had
+[08:11 --> 08:19] claimed before any other rival could even muster a counterclaim. Tied up on the Danube with the
+[08:19 --> 08:24] Gothic invasion, Gallienus couldn't spare the time or attention it would take to weigh in on
+[08:24 --> 08:30] the subject. He did send a trusted lieutenant east to make sure that the queen understood who
+[08:30 --> 08:36] was really in charge, but, signaling who she thought was really in charge, the emissary was
+[08:36 --> 08:41] treated with less dignity than a man of his rank would have expected, and he soon packed up and
+[08:41 --> 08:50] left in an angry huff over Zenobia's calculated haughtiness. This snubbing of Gallienus's men
+[08:50 --> 08:56] would eventually reveal itself to be the first step in Zenobia's long-term plan to establish a
+[08:56 --> 09:02] hold on what was slowly turning from the Eastern Roman Empire into the new independent Palmyrene
+[09:02 --> 09:09] Empire. As I just mentioned, though, Gallienus was too caught up with his own problems to deal
+[09:09 --> 09:15] with Zenobia's power play. Those problems were the same problems that Oedonothus had been
+[09:15 --> 09:20] gearing up to face when he died, the massive Gothic invasion of 267.
+[09:20 --> 09:28] After watching some of their brothers achieve great success using a small fleet to pillage the
+[09:28 --> 09:34] Black Sea coast, a collection of Gothic tribes decided that what had worked on a small scale
+[09:34 --> 09:41] would work even better on a large scale. So they built or commandeered some 500 ships,
+[09:41 --> 09:47] and in early 267, they set sail south from the estuary of the Neister River without much more
+[09:47 --> 09:54] of a plan than to see what came along and then take it. They made their way down the west coast
+[09:54 --> 10:00] of the Black Sea and decided that they hadn't quite had their fill yet, so they passed into
+[10:00 --> 10:06] the Bosphorus with an eye on taking Byzantium. When the city proved to be a tougher nut to crack
+[10:06 --> 10:11] than they had hoped, though according to some sources they did indeed crack the nut eventually,
+[10:12 --> 10:17] they continued south through the Sea of Marmara and then made an attempt on the city of Scyzicus.
+[10:20 --> 10:25] Gallienus and the Romans were not sitting around idly as this Gothic fleet sacked the
+[10:25 --> 10:30] coastal cities of the empire, and the Imperial Navy based in Ravenna was launched on a mission
+[10:30 --> 10:37] to sink the invading barbarians. The Roman navy caught the Goths as they were occupied with
+[10:37 --> 10:42] Scyzicus, and the Goths, not being the best sailors in the world, were scattered by the much
+[10:42 --> 10:48] more competent Roman sailors. Though the naval battle in the Sea of Marmara was a decisive Roman
+[10:48 --> 10:54] victory, a sizable collection of Gothic ships managed to escape through the Hellespont intact.
+[10:54 --> 11:00] So, despite their best efforts, the Romans still found themselves scrambling after a Gothic army
+[11:00 --> 11:07] now loose in the Aegean Sea. As they sailed into the heart of Greece, the remaining Goths
+[11:07 --> 11:12] split into two groups, with one heading due south towards Crete and then Rhodes,
+[11:12 --> 11:14] while the other made for the mainland.
+[11:17 --> 11:23] It had been a good long time since the Greeks had had to deal with any kind of foreign threat,
+[11:23 --> 11:28] and the citizens of Athens and Sparta and the other old Greek city-states were shocked to
+[11:28 --> 11:34] find themselves scrambling to build walls around their cities in an attempt to fend off the Goths.
+[11:35 --> 11:41] The defense of Athens was led by a man named Dexippus, who, in the tradition of Xenephan
+[11:41 --> 11:45] and Thucydides, was a historian as well as a soldier and a statesman.
+[11:47 --> 11:52] Though only fragments of his work remain today, back when they were all still whole,
+[11:52 --> 11:56] late antiquity scholars relied heavily on the Greek historian's writings,
+[11:56 --> 12:02] which means that we owe him a debt of gratitude for helping shed at least some light on the
+[12:02 --> 12:08] convoluted third century. When the Goths came knocking, though, helping some beleaguered
+[12:08 --> 12:12] future scholars was probably the last thing on Dexippus's mind.
+[12:16 --> 12:20] The Goths had appeared so suddenly that there was very little the Athenians could do to prevent
+[12:20 --> 12:25] the barbarians from overrunning their city, and Dexippus's fame as a soldier was earned
+[12:25 --> 12:32] not by preventing the Goths from sacking Athens, but instead by managing to revive the spirits of
+[12:32 --> 12:36] his neighbors and lead them in a decisive counter-attack that finally drove the plundering
+[12:36 --> 12:43] Goths off. When they were done with Athens, the barbarians had headed south to the Peloponnese,
+[12:43 --> 12:48] where they sacked, among others, the city of Sparta. But as they headed back north,
+[12:48 --> 12:54] they were met by an army of irregulars raised by Dexippus, who put the surprised Goths into a
+[12:54 --> 13:00] hasty flight and drove them north right into the waiting embrace of Gallienus's approaching army.
+[13:02 --> 13:06] When he returned home, Dexippus found Athens was now a smoldering ruin,
+[13:07 --> 13:13] but, according to the famous anecdote, he also found that the great library had been left untouched.
+[13:16 --> 13:21] One of the Gothic chiefs had seen his men preparing to burn it down and put a stop to their plan,
+[13:21 --> 13:25] telling them that it was better to leave the Greeks preoccupied with their books,
+[13:25 --> 13:28] so that they did not resume their previous warlike ways.
+[13:32 --> 13:35] When the Imperial Navy had sailed off to confront the Gothic fleet,
+[13:35 --> 13:40] Gallienus organized an army comprised of his mobile cavalry, the Praetorian cohorts,
+[13:40 --> 13:47] and units from the Danube legions. While the Goths sacked Greece, Gallienus was speeding in from the
+[13:47 --> 13:53] west. He might not have been able to save the Greeks, but he could certainly smack down the
+[13:53 --> 13:58] marauding barbarians when they inevitably made their way back north to their homelands on the
+[13:58 --> 14:04] far side of the Danube. Now, I'm sure you're as sick of hearing this as I am of saying it,
+[14:04 --> 14:09] but guess what? There's some confusion in the record about what happened next.
+[14:11 --> 14:15] The accepted version is that Gallienus intercepted the group who had been driven
+[14:15 --> 14:20] off by Dexippus and defeated them in a battle near the city of Nessus in Thrace.
+[14:21 --> 14:26] The problem is that Claudius Gothicus would win a very similar battle the next year,
+[14:26 --> 14:31] near the very similar sounding city of Nessus, leading some to suppose that something might
+[14:31 --> 14:38] have gotten mixed up over the years. Maybe Claudius was given credit for Gallienus' victory,
+[14:38 --> 14:42] both because Constantine wanted to promote Claudius' memory and because everyone else
+[14:42 --> 14:48] wanted to damn Gallienus', or maybe Claudius' victory was the real one and someone transposed
+[14:48 --> 14:53] a year leading us to think that it occurred during Gallienus' reign, or maybe there were
+[14:53 --> 14:59] two battles with Gallienus and Claudius each winning a key victory. That's the version I'm
+[14:59 --> 15:04] going to go with because it poses the fewest problems in trying to reconcile all the disparate
+[15:04 --> 15:10] facts and theories about what really happened. So in the history of Rome, both emperors will
+[15:10 --> 15:18] get their cookie. Gallienus' victory was by no means a complete one, though, and the Goths
+[15:18 --> 15:24] were allowed to head home unmolested as long as they gave up what they had taken and promised
+[15:24 --> 15:29] to take no more on their way back north. The emperor would not have long to bask in the
+[15:29 --> 15:34] glow of his semi-victory, though, nor would he have the chance to follow up with the other
+[15:34 --> 15:41] Gothic hordes still loose within his empire. Unlike every other time Gallienus had marched
+[15:41 --> 15:46] out to battle, this time he did not follow the lead of his top general, Aureolus.
+[15:48 --> 15:53] Instead, he left Aureolus in charge of the garrison at Milan with instructions to keep
+[15:53 --> 15:57] an eye on both Posthumus and the Alamani and make sure that neither took advantage of the
+[15:57 --> 16:04] emperor's absence. As soon as Gallienus left Italy, though, the only one who took advantage
+[16:04 --> 16:10] of his absence was Aureolus. For whatever reason, the emperor's favorite general
+[16:10 --> 16:13] decided that now was the perfect time to revolt.
+[16:16 --> 16:22] The motivations behind Aureolus' revolt are not at all clear, but broadly speaking,
+[16:22 --> 16:28] there are two schools of thought. Either Aureolus had always been trying to throw in his lot with
+[16:28 --> 16:34] Posthumus, see his suspicious failure to defeat the Gallic emperor previously, or this was an
+[16:34 --> 16:39] entirely new idea, brought on possibly by the fact that he had been relieved of his command as the
+[16:39 --> 16:45] captain of the imperial cavalry and left behind to mind the shop while everyone else went off to
+[16:45 --> 16:51] fight the Goths. The man who took command of the cavalry, incidentally, was the man who was about
+[16:51 --> 16:55] to succeed Gallienus, Marcus Aurelius Valerius Claudius.
+[16:58 --> 17:03] When word came in 268 that his former right-hand man was now in revolt, Gallienus was forced to
+[17:03 --> 17:08] stop what he was doing, peel off most of the troops he had just raised to fight the Goths,
+[17:08 --> 17:15] and head them back to Italy. His eastern flank was already badly exposed by the death of Oedonothus,
+[17:15 --> 17:20] and now Aureolus was exposing his western flank to a possible invasion by Posthumus.
+[17:22 --> 17:27] Luckily for Gallienus, Posthumus appears to have never indulged in ambitions beyond what he had
+[17:27 --> 17:34] already achieved. Despite Aureolus begging for aid and even going so far as to use the mint in
+[17:34 --> 17:41] Milan to issue coins in Posthumus's name, the Gallic emperor never lifted a finger to help Aureolus.
+[17:42 --> 17:47] There was just no profit in it. If he threw in with the usurping general,
+[17:47 --> 17:53] he risked everything that he had built, but if he did nothing, well, he risked nothing. And so he did
+[17:53 --> 18:02] nothing. When the imperial army returned to Italy, Aureolus and what troops he had at his disposal
+[18:02 --> 18:07] rode out to meet them, but they were easily routed and forced to flee back behind the walls of Milan.
+[18:08 --> 18:13] Gallienus settled in to lay siege to the city that he had just helped put on the map,
+[18:13 --> 18:19] and while he waited for Milan to fall, his officers began to talk amongst themselves.
+[18:19 --> 18:24] Though I did say last week that much of the supposed dissatisfaction with Gallienus
+[18:24 --> 18:29] can be traced back to the biases of the senatorial class, that does not mean that there was no
+[18:29 --> 18:37] dissatisfaction at all. It appears that a cabal of officers, many originating in Illyria, had begun
+[18:37 --> 18:44] to grow disenchanted with Gallienus's leadership. Just because defending the borders from invasion
+[18:44 --> 18:49] while simultaneously bringing Posthumus and the Palmyrenes to heel seemed really hard,
+[18:49 --> 18:54] well, that did not mean that it was impossible, and many of the career soldiers in the upper ranks
+[18:54 --> 18:59] believed that if they had a chance, that they could do a better job than Gallienus.
+[19:01 --> 19:06] Now this is, of course, a common belief among, well, anyone who isn't actually in charge,
+[19:06 --> 19:13] but in this case, it may have been true. Aurelian, who was dealt almost exactly the same hand as
+[19:13 --> 19:18] Gallienus, was able to do in just four years what Gallienus had been unable to do in eight.
+[19:21 --> 19:26] So eventually, all this insubordinate talk became serious, and a plot was hatched.
+[19:28 --> 19:33] We will probably never know exactly how Gallienus was assassinated, nor who exactly was assassinated,
+[19:33 --> 19:40] nor who exactly was in on the plot, but the most dramatic account has it that the murder was the
+[19:40 --> 19:48] result of a clever ruse. Late in the evening, one of the conspirators burst into Gallienus's tent
+[19:48 --> 19:54] to tell the emperor that Aureolus was leading his men out of Milan on a night raid. Not even
+[19:54 --> 19:59] pausing to don his armor, Gallienus rushed out of his tent and mounted his horse to go assess
+[19:59 --> 20:05] the situation for himself, but as soon as he was caught alone and exposed outside the camp,
+[20:05 --> 20:12] he was cut down by the waiting assassins. It is, of course, debatable whether this particularly
+[20:12 --> 20:18] fantastic story is true, but there is no doubt that a conspiracy of top officers got together
+[20:18 --> 20:27] and killed Gallienus, maybe by the sword and maybe by poison in 268 AD. Later revisions to history
+[20:27 --> 20:32] have Gallienus recommending Claudius as his successor, though it seems highly unlikely
+[20:32 --> 20:37] that Gallienus really spent his dying breaths making noble suggestions about the best man to
+[20:37 --> 20:44] succeed him. Gallienus was 50 years old and had been emperor first with his father and then by
+[20:44 --> 20:55] himself for a remarkable 15 years. When Gallienus died, the officers did indeed rally around Claudius,
+[20:55 --> 20:59] the captain of the cavalry, which may help explain the later stories about
+[20:59 --> 21:06] wink wink Gallienus recommending Claudius for the job, and then the senate fell quickly into line.
+[21:07 --> 21:12] If Aureolus thought the death of his former master would mean that he could extract himself
+[21:12 --> 21:19] peacefully from Milan though, well, he was in for a bit of a surprise. Far from granting Aureolus
+[21:19 --> 21:24] amnesty, Claudius made it clear that everyone inside the city walls was as good as dead
+[21:24 --> 21:32] if Aureolus' head wasn't brought to him immediately. So inside Milan, a similar conspiracy
+[21:32 --> 21:37] of officers dispatched with their chief, and then they came out to make peace with the new emperor,
+[21:37 --> 21:44] who, once Aureolus was dealt with, was feeling pretty magnanimous. He went so far as to order
+[21:44 --> 21:50] that Gallienus' family should not be harmed in any way, but the order didn't make it to Rome
+[21:50 --> 21:56] in time to stop the revenge-minded senate from executing Gallienus' brother and Gallienus' son.
+[22:00 --> 22:08] Up in Gaul, Apostumus watched all of this with a mixture of satisfaction and concern. He had to
+[22:08 --> 22:12] have been pleased with himself for avoiding getting tangled up in the fight between Aureolus
+[22:12 --> 22:18] and Gallienus, which had now led to the assassination of both men. But a new leader
+[22:18 --> 22:24] in Rome meant new policies, and Apostumus had to have known Claudius if not personally,
+[22:24 --> 22:31] then at least by reputation. And if Claudius' dissatisfaction with Gallienus in any way stemmed
+[22:31 --> 22:37] from the emperor's inability to reclaim the Gallic provinces, well, that didn't bode well for
+[22:37 --> 22:44] Apostumus at all. Fortunately, he would never have to face Rome's final attempt to recapture the west.
+[22:45 --> 22:51] Unfortunately, it's because he wound up, in the end, sharing the fate of Gallienus and Aureolus
+[22:51 --> 22:52] and Oedonothus.
+[22:56 --> 23:02] Apostumus' rule had been mostly unopposed, but brief revolts or mutinies had flared up here and
+[23:02 --> 23:10] there in keeping with the times. In either 268 or early 269, one of his officers along the Rhine
+[23:11 --> 23:16] decided to make a bid for the throne and had himself declared emperor at his home base in
+[23:16 --> 23:23] Mainz. Apostumus quickly raised an army and marched in to put the usurper down, and in short order,
+[23:23 --> 23:30] the revolt was squashed. The problem for Apostumus was that now his soldiers wanted to sack Mainz,
+[23:30 --> 23:36] to punish the city for its disloyalty, yes, but mostly to carry off the wealth of the city
+[23:36 --> 23:43] for themselves. But Apostumus was the emperor of everyone, and it really wouldn't do to let his
+[23:43 --> 23:49] army just go and sack one of the key urban centers of his domain, so he ordered the city left untouched.
+[23:50 --> 23:55] This ticked off his men something fierce, and in a fit of rage, they cornered
+[23:55 --> 24:01] Apostumus and killed him. The rash murder left the Gallic empire without a leader,
+[24:01 --> 24:07] and after some confusion, one of Apostumus's officers, a man named Marcus Aurelius Marius,
+[24:07 --> 24:13] finally stepped forward and attempted to seize power. But he only lasted a few days before
+[24:13 --> 24:18] being brushed aside and killed by a man named Victorianus, who came from an extremely wealthy
+[24:18 --> 24:24] family and whose mother apparently opened up the family bank accounts to buy her son the throne.
+[24:24 --> 24:34] The near simultaneous deaths of Oedonothus, Gallienus, and Apostumus brought to a close
+[24:34 --> 24:40] the second phase of the crisis of the third century. At the beginning of phase three,
+[24:40 --> 24:45] their successors will duke it out to see whose vision of the future will reign supreme.
+[24:47 --> 24:52] In the east, Zenobia dreamed of creating a permanent, independent Palmyrene empire.
+[24:53 --> 24:56] In the west, Victorianus dreamed of simply trying to hold together what
+[24:56 --> 25:03] Apostumus had built, and in the middle, Claudius and his soon-to-be successor Aurelian dreamed
+[25:03 --> 25:10] of reunification. All three would have to deal with persistent threats to their frontiers,
+[25:10 --> 25:14] from the Sassanids and from the Goths and from the Franks and from the Alamani,
+[25:15 --> 25:19] all of whom dreamed their own dreams of what the fate of the Roman empire ought to be.
+[25:22 --> 25:27] I hate to do this so soon after taking a week off, but there will be no episode next week,
+[25:27 --> 25:31] as the history of Rome is heading down south to San Antonio to cheer on Mrs.
+[25:31 --> 25:38] the history of Rome as she runs her half marathon. But we will, of course, be back in two weeks,
+[25:38 --> 25:43] for the short reign of Claudius and then the totally impressive reign of Aurelian,
+[25:43 --> 25:48] who has fast become one of the history of Rome's most favorite emperors.

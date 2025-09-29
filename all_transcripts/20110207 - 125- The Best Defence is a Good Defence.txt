@@ -1,0 +1,305 @@
+# 20110207 - 125- The Best Defence is a Good Defence
+# Detected language: en
+# Duration: 1592.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:05 --> 00:09] internet's leading provider of audio entertainment with over 80,000 titles to
+[00:09 --> 00:14] choose from. When you're done with this episode go to audiblepodcast.com
+[00:14 --> 00:21] forward slash Rome. That again audiblepodcast.com forward slash Rome. By
+[00:21 --> 00:24] going to that address you qualify for a free book download when you sign up for
+[00:24 --> 00:29] a 14-day trial membership. There is no obligation to continue the service and
+[00:29 --> 00:33] you can cancel anytime and keep the free book. Or you can keep going with one of
+[00:33 --> 00:37] the monthly subscription options and get great deals on all your future audiobook
+[00:37 --> 00:42] purchases. This week I'm going to recommend a new book that I haven't had
+[00:42 --> 00:46] a chance to read yet since it just came out, but it was a finalist for a National
+[00:46 --> 00:53] Book Award so you have to figure it's pretty good. The Poison King, The Life and
+[00:53 --> 00:59] Legend of Mithridates, Rome's Deadliest Enemy by Adrian Mayer. A biography of the
+[00:59 --> 01:03] man who vexed Romans from Sulla to Pompey and just kept popping back up
+[01:03 --> 01:08] every time they thought he was finished. Just remember to go to audiblepodcast.com
+[01:08 --> 01:13] forward slash Rome so they know who sent you.
+[01:16 --> 01:25] Hello and welcome to the history of Rome. Episode 125, The Best Defense is a Good
+[01:25 --> 01:32] Defense. Over the centuries the Roman legions had been transformed and then
+[01:32 --> 01:37] re-transformed anytime the old way of getting things done stopped getting
+[01:37 --> 01:42] things done. The Romans loved their traditions but they never for a second
+[01:42 --> 01:46] allowed sentimentality to get in the way of always having the best strategic and
+[01:46 --> 01:52] tactical military operation in the world. For years Rome was just another city
+[01:52 --> 01:57] state fielding small armies composed of farmer soldiers who fought using the
+[01:57 --> 02:02] traditional Greek phalanx. When the phalanx proved unworkable in the hills
+[02:02 --> 02:06] of Samnium the Romans adapted the legions into the famous three-line
+[02:06 --> 02:11] maniple system that they then used to conquer most of the Mediterranean. Then
+[02:11 --> 02:16] Marius came along and revolutionized not just how the Romans fought but who was
+[02:16 --> 02:20] doing the fighting, ushering out the age of the temporary conscript army and
+[02:20 --> 02:27] ushering in the age of the professional standing army. This of course wound up
+[02:27 --> 02:31] having the unintended side effect of also revolutionizing who these new
+[02:31 --> 02:35] standing armies fought because for practically the whole of the next
+[02:35 --> 02:39] century the enemy the Roman legions fought more than any other was other
+[02:39 --> 02:45] Roman legions. Following the triumph of Augustus the mission of the legions
+[02:45 --> 02:50] changed again. No longer was their primary objective to conquer foreign
+[02:50 --> 02:54] lands but instead it became to protect the lands that had already been
+[02:54 --> 02:59] conquered. Legionary garrisons were posted on the frontiers to monitor the
+[02:59 --> 03:04] borders and that is where they basically stayed for the next three centuries.
+[03:04 --> 03:08] Domitian and Hadrian cemented this mission in the late first century and
+[03:08 --> 03:13] early second century AD by literally building walls to demarcate the empire
+[03:13 --> 03:19] from the barbarian lands beyond. You'll recall from earlier though that these
+[03:19 --> 03:23] walls were not designed to act as insurmountable fortifications but rather
+[03:23 --> 03:28] were erected to control the flow of traffic and serve as a stable line from
+[03:28 --> 03:32] which the legions could mount forward operations and smother potential
+[03:32 --> 03:37] threats before they actually reach the empire. The utility of these lines though
+[03:37 --> 03:41] was premised on the notion that the Romans would always have superiority of
+[03:41 --> 03:47] numbers in the local theaters of operation. As long as the tribes along
+[03:47 --> 03:52] the Danube or the Rhine or up in Britain were divided from one another one random
+[03:52 --> 03:56] chief getting it in his head to cause trouble was no big deal. Send in a legion
+[03:56 --> 04:02] smack him around be home by dinner. But by the late second century this
+[04:02 --> 04:07] assumption of numerical superiority became a dangerous fallacy. The tribes
+[04:07 --> 04:12] were beginning to join forces something Marcus Aurelius learned full well during
+[04:12 --> 04:19] the Marcomannic Wars. As the second century gave way to the third century
+[04:19 --> 04:23] this evolution of the Germanic tribes from disparate groups into larger
+[04:23 --> 04:28] confederations only sped up and for most of the next century as we saw ad nauseam
+[04:28 --> 04:34] in the last 15 episodes or so the local legions stopped being a match for the
+[04:34 --> 04:39] invasion forces that now vastly outnumbered them. The legions and the
+[04:39 --> 04:44] provinces they protected were overrun and only through immense effort and more
+[04:44 --> 04:47] than a little luck was the Empire eventually able to turn the invaders
+[04:47 --> 04:53] back. For almost the entirety of the third century this shift in the balance
+[04:53 --> 04:58] of power forced the Romans to play catch-up always one two or even three
+[04:58 --> 05:04] steps behind their enemies. A combination of improvised new strategies think
+[05:04 --> 05:10] Gallienus's mobile cavalry and sheer force of will think Aurelian allowed
+[05:10 --> 05:16] Rome to emerge intact into the late third century but it was clear that one
+[05:16 --> 05:20] of these days they were going to have to completely reassess their military
+[05:20 --> 05:27] posture. With the ascension of Diocletian that day finally came. Not only did the
+[05:27 --> 05:31] new Emperor possess the intellectual heft to conceive of something more than
+[05:31 --> 05:37] just another run of ad hoc responses but when he came to power in the mid 280s AD
+[05:37 --> 05:41] the Empire had gotten just enough breathing space that it was open to
+[05:41 --> 05:47] change. In the north the tribes of the Rhine and the Danube and especially the
+[05:47 --> 05:51] Goths who had been such a destructive force had been beaten back by
+[05:51 --> 05:56] Diocletian's predecessors and in the east the Sassanids were temporarily weak
+[05:56 --> 06:02] and divided following the death of Sharpor. The time to act was now and
+[06:02 --> 06:12] Diocletian did not miss his opportunity. So what did he do? Broadly speaking there
+[06:12 --> 06:18] are four things I want to talk about today. First Diocletian's administrative
+[06:18 --> 06:22] redistricting that created a ring of small militarized provinces around the
+[06:22 --> 06:28] edge of the Empire. Second the final separation of military and civilian
+[06:28 --> 06:34] career paths. Third the division of the army into two distinct forces the
+[06:34 --> 06:40] legions proper and a new static frontier militia. And finally how these reforms
+[06:40 --> 06:45] interacted to create a web of varying depth surrounding the Empire that would
+[06:45 --> 06:51] ensnare and then destroy an invading enemy. This is the so-called defense in
+[06:51 --> 06:56] depth theory proposed by Edward Lutwick and we will talk both about the model he
+[06:56 --> 07:02] proposed as well as the critiques other scholars have levied against it. Now
+[07:02 --> 07:07] before we go on I should note that all the usual caveats about a lack of good
+[07:07 --> 07:12] sources for all this stuff still applies and that as historians and scholars have
+[07:12 --> 07:16] cobbled together a picture of Diocletian's military that they have been
+[07:16 --> 07:20] forced to rely on historians writing decades and even centuries after the
+[07:20 --> 07:25] fact. It is in short difficult to separate out things that were
+[07:25 --> 07:29] specifically initiated by Diocletian from things that were merely attributed
+[07:29 --> 07:34] to him. Difficult to separate out things that were centrally planned from things
+[07:34 --> 07:39] that were initiated on the local level. And finally difficult to weed out
+[07:39 --> 07:43] descriptions of his armies that are a hundred percent free of anachronisms.
+[07:43 --> 07:50] That being said the composition and posture of the legions did change
+[07:50 --> 07:54] during the period of the Tetrarchy and the items I just outlined represent a
+[07:54 --> 08:02] fairly conservative estimation of the changes Diocletian undertook.
+[08:02 --> 08:08] Back in episode 89, Provincial Matters, we took a 45 minute long tour of the
+[08:08 --> 08:12] Empire that touched on each and every province in existence at the height of
+[08:12 --> 08:20] Rome's fame and fortune. That tour is now officially obsolete. In the mid-tourney
+[08:20 --> 08:25] of 290s AD, most likely right as the Tetrarchy was being formed, Diocletian
+[08:25 --> 08:31] initiated a redistricting of the Empire on a massive scale. At its most basic
+[08:31 --> 08:36] level, Diocletian waved his imperial wand and doubled the number of provinces
+[08:36 --> 08:41] overnight. We will deal more with the administrative implications of his
+[08:41 --> 08:46] redistricting next week, though no we will not be going on a tour of the now
+[08:46 --> 08:51] hundred-odd Roman provinces. And for now, I want to focus solely on the military
+[08:51 --> 08:57] implications of the new boundary lines. Diocletian undertook the redrawing of
+[08:57 --> 09:02] the provincial lines for two main military reasons. First and foremost, by
+[09:02 --> 09:07] fracturing the size of the provinces, Diocletian hoped to cut down on the
+[09:07 --> 09:12] amount of power a single commander would wield. No more governor of Britain
+[09:12 --> 09:17] controlling three legions by himself, or the governor of Lower Germany personally
+[09:17 --> 09:22] commanding three or four of his own. Smaller provinces meant a local commander
+[09:22 --> 09:27] would usually have at his disposal what amounted to a single legion. This
+[09:27 --> 09:34] hopefully meant less threat of revolt. The second reason the provinces were
+[09:34 --> 09:38] fractured is that Diocletian wanted to divide up the dangerous and perpetually
+[09:38 --> 09:43] besieged outer rim of the Empire from the softer and more prosperous inner
+[09:43 --> 09:49] territories. The former would become essentially military districts, while the
+[09:49 --> 09:53] latter would be allowed to go back to being simply provinces, or more
+[09:53 --> 09:59] accurately, undistracted economic engines for the Empire. In essence,
+[09:59 --> 10:03] Diocletian wanted the ministers in charge of the outer provinces to focus on
+[10:03 --> 10:09] defense, and the ministers of the inner provinces to focus on the economy. These
+[10:09 --> 10:14] two factors had to work in tandem for the Empire to thrive, and the Emperor no
+[10:14 --> 10:18] longer wanted economic concerns to go unaddressed because the governor was off
+[10:18 --> 10:22] fighting the Alamani, and he didn't want the frontier lines to be neglected
+[10:22 --> 10:26] because the governor of Pannonia was stuck dealing with a grain distribution
+[10:26 --> 10:34] issue. Related to the division of the Empire into what amounted to military
+[10:34 --> 10:39] and civilian districts was the final severing of military and civilian career
+[10:39 --> 10:45] paths. This was not a novel idea by any means, but Diocletian brought it to its
+[10:45 --> 10:51] logical conclusion. Since the reign of Gallienus, the Senate had been denied
+[10:51 --> 10:56] military postings, which meant, in practice, that key provincial governorships were
+[10:56 --> 11:01] now handed over to military men rather than rich aristocrats, as had been the
+[11:01 --> 11:08] previous custom. But this was not enough for Diocletian. In his mind, it was just
+[11:08 --> 11:12] as bad for career soldiers to be running administrative offices as it was for
+[11:12 --> 11:18] untrained senators to be leading armies. It was an inefficient misallocation of
+[11:18 --> 11:24] talent, and he aimed to put a stop to it. So, flying in the face of the whole of
+[11:24 --> 11:29] Roman history, Diocletian decreed that the political governor of a province and
+[11:29 --> 11:36] its chief military officer would no longer be the same man. He did this for
+[11:36 --> 11:41] the same basic reason he divided up the provinces. First, the checks and balances
+[11:41 --> 11:45] created by the separation of military and political power would undercut
+[11:45 --> 11:50] potential rebellion. And second, it would allow each leader to focus on his
+[11:50 --> 11:54] appointed tasks without being suddenly called off to deal with a foreign
+[11:54 --> 12:00] invasion or a new tax law. Of course, political and military power could never
+[12:00 --> 12:05] be divorced from one another at the highest level. But from here on out, on
+[12:05 --> 12:10] the provincial level, a general, now called a Dux, the precursor of the
+[12:10 --> 12:15] medieval duke, was not in charge of tax collection, and the governor was not in
+[12:15 --> 12:21] charge of any troops. Together with the creation of the militarized Outer Rim
+[12:21 --> 12:26] provinces, the split of defense concerns from political or economic concerns
+[12:26 --> 12:31] meant that the army would no longer be distracted in any way from their
+[12:31 --> 12:39] all-important task of keeping the empire safe from attack. The question then is,
+[12:39 --> 12:44] what did Diocletian's army look like, and how did it differ from the army he
+[12:44 --> 12:50] inherited? Well, we've already seen that right off the bat he was troubled by the
+[12:50 --> 12:55] concentration of force around the emperor and how that left huge swaths of
+[12:55 --> 13:00] the empire open to attack. That was the main catalyst behind his initial
+[13:00 --> 13:04] decision to elevate Maximian, and it played a huge part in his further
+[13:04 --> 13:10] decision to create the Tetrarchy. A sole emperor running around trying to plug
+[13:10 --> 13:15] every leak in the empire was as dangerous as it was impractical. No
+[13:15 --> 13:21] matter how fast it could move, it would never be fast enough. So right away we
+[13:21 --> 13:25] see the army's return to something resembling their pre-crisis years
+[13:25 --> 13:30] deployments. Only now each section of the empire was not commanded by a potential
+[13:30 --> 13:36] usurper, but a fully initiated member of the imperial brotherhood. But wait a
+[13:36 --> 13:40] second, didn't that old system completely break down in the face of
+[13:40 --> 13:46] immense new pressures? Why, yes it did. But we should not forget that a big
+[13:46 --> 13:50] reason why it broke down was that usurpers kept leaving the frontiers
+[13:50 --> 13:55] undefended as they made their bids for power back in Italy. The establishment
+[13:55 --> 14:00] of the Tetrarchy was supposed to negate that possibility, and at least while
+[14:00 --> 14:07] Diocletian reigned, that's exactly how it worked. But of course usurpers
+[14:07 --> 14:13] abandoning their post was not the whole story, and Diocletian knew it. The other
+[14:13 --> 14:18] big problem was that the old legionary deployments neither spread the Roman
+[14:18 --> 14:22] forces out enough to effectively monitor the frontier, nor concentrated enough
+[14:22 --> 14:28] force in one area for them to overwhelm their new larger opponents. In other
+[14:28 --> 14:35] words, the 4,800 to 6,000 man Roman legion, which had been in existence for 800
+[14:35 --> 14:41] odd years, was now becoming obsolete. Previous emperors had of course realized
+[14:41 --> 14:46] this already. Gallienus's creation of the mobile cavalry is an obvious result of
+[14:46 --> 14:51] this understanding. But Diocletian's reformed legionary formations would
+[14:51 --> 14:58] actually flow from a different tradition. For years, cohorts of soldiers usually
+[14:58 --> 15:03] labeled vexillations would be peeled off from their parent legion and deployed
+[15:03 --> 15:08] elsewhere to shore up some undermanned area or lend a hand in some difficult
+[15:08 --> 15:13] situation. Sometimes the vexillations would return home when their specific
+[15:13 --> 15:18] task was complete, but often they simply never returned to their parent legion at
+[15:18 --> 15:25] all. In many theaters these vexillations, usually numbering between 500 and a
+[15:25 --> 15:31] thousand men, began to be regarded as the de facto unit of deployment. Smaller
+[15:31 --> 15:35] and faster than a standard legion, they could be bunched together when a
+[15:35 --> 15:39] concentration of forces was needed and kept spread apart when the danger had
+[15:39 --> 15:45] passed and frontier-wide surveillance was needed. Diocletian knew all about how
+[15:45 --> 15:50] these vexillation units functioned and how much flexibility they gave commanders,
+[15:50 --> 15:57] and when he took power he aimed to make their status official. That did not mean
+[15:57 --> 16:02] that the old legions were simply scrapped, and indeed most of the existing
+[16:02 --> 16:07] legions kept right on functioning as they always had. But it did mean that when
+[16:07 --> 16:12] Diocletian created new legions, as the circumstances of his times demanded that
+[16:12 --> 16:18] he do, they were not the traditional size. Diocletian's legions were instead a
+[16:18 --> 16:24] complement of just 1,000 men, which helps explain how he was able to add 30
+[16:24 --> 16:28] new legions to the rolls over the course of his reign, which would be a staggering
+[16:28 --> 16:34] number if you fail to account for their reduced size. These new legions were
+[16:34 --> 16:38] stationed across the empire at strategic points, far enough apart that they could
+[16:38 --> 16:43] watch a wide swath of territory while simultaneously being close enough to one
+[16:43 --> 16:47] another that if a major invasion broke across the frontier they could quickly
+[16:47 --> 16:52] join together and fend off the attack. We'll get into a deeper discussion of
+[16:52 --> 16:58] that in a minute. The other real innovation that Diocletian introduced
+[16:58 --> 17:03] into the army is a little bit trickier to nail down, because it involves the
+[17:03 --> 17:09] possible insertion of anachronisms into the historical record. The traditional
+[17:09 --> 17:13] account is that it is at this point that the legions were joined on the
+[17:14 --> 17:19] by a less well-trained, less well-paid quasi-militia called, and I hope I'm
+[17:19 --> 17:25] pronouncing this right, the Limitani. These troops drawn from the local
+[17:25 --> 17:30] population would be part-time soldiers and part-time farmers, and thus in
+[17:30 --> 17:35] addition to helping defend the empire, they would also help keep the heavily
+[17:35 --> 17:41] garrisoned frontier provinces at least somewhat self-sufficient. Their mission
+[17:41 --> 17:46] was twofold. First, to police the frontier lines and defend against small-time
+[17:46 --> 17:51] brigands, and second, to act as a warning bell for the rest of the army if
+[17:51 --> 17:57] something bigger was on the way. No one expected the Limitani to stop anything
+[17:57 --> 18:01] of substance coming across the border, but they were expected to raise the
+[18:01 --> 18:07] alarm and hold key fortifications until help arrived. The problem with all of
+[18:07 --> 18:11] this is that though Diocletian usually gets credit for introducing the
+[18:11 --> 18:16] Limitani into the system, these militiamen really aren't fully documented
+[18:16 --> 18:21] until Constantine's reign, leading some to suspect that later historians
+[18:21 --> 18:25] mislabeled Diocletian's frontier deployments using a vocabulary that had
+[18:25 --> 18:31] not been invented yet. We have a good idea that small detachments were posted
+[18:31 --> 18:35] along the frontiers, but the debate over whether these troops represented the
+[18:35 --> 18:40] same type of Limitani forces that Constantine used is still a matter of much
+[18:40 --> 18:48] debate. What is a matter of less debate is how much all of this increased the
+[18:48 --> 18:53] overall size of the army. Again, we are working from sources that are further
+[18:53 --> 18:58] removed from Diocletian's own time as we'd like, but the consensus seems to be
+[18:58 --> 19:04] that all told, Diocletian took an army roughly 350,000 strong and cranked it up
+[19:04 --> 19:12] to about 500,000 by the time he retired. He pulled this off by ordering his agents
+[19:12 --> 19:16] to engage in some pretty heavy-handed recruitment efforts, which is to say they
+[19:16 --> 19:21] didn't linger too long on persuasion before moving right on into conscription.
+[19:21 --> 19:27] And of course, if you're wondering what the effect this vast increase the size of
+[19:27 --> 19:30] the military had on the overall economy, as the Romans were essentially
+[19:30 --> 19:36] transferring 150,000 young men from productive farm labor to non-productive
+[19:36 --> 19:42] soldiering, well, the answer is that the economy took a pretty substantial hit. A
+[19:42 --> 19:46] hit we'll get into in more detail in two weeks when we look at Diocletian's
+[19:46 --> 19:54] economic policies. The other matter that is still hotly debated today is how all
+[19:54 --> 20:00] of this fit together. Back in 1976, Edward Lutwick advanced a fairly
+[20:00 --> 20:06] comprehensive theory of what he called defense in depth. What he argued is that
+[20:06 --> 20:10] Diocletian essentially gave up trying to defend a static line in the sand and
+[20:10 --> 20:17] opted instead to weave a web of defense that an enemy could enter at will, but
+[20:17 --> 20:23] then only make it so far into before becoming permanently entangled. The key
+[20:23 --> 20:27] to this defense in depth strategy was something that we've talked about
+[20:27 --> 20:31] earlier but that I haven't mentioned so far today because it wasn't really one
+[20:31 --> 20:37] of Diocletian's overt reforms. Namely, the intense effort the Romans undertook to
+[20:37 --> 20:43] build strong defensive walls around every city, town, and granary in sight.
+[20:43 --> 20:48] These fortified positions became key hinge points for the new defensive
+[20:48 --> 20:52] strategy and the reason why the whole system was able to function as
+[20:52 --> 21:00] conceived. The way it worked was this. Out on the front line, the Limitani forces
+[21:00 --> 21:04] would keep an eye on things from a series of small forts connected by a
+[21:04 --> 21:09] military road. A little bit behind them would be stationed fewer but larger
+[21:09 --> 21:13] contingents of cavalry and a little bit behind them would be one or two main
+[21:13 --> 21:19] legionary garrisons. A large invasion force would then be able to easily blow
+[21:19 --> 21:24] past the Limitani, but that was okay because they could take refuge in their
+[21:24 --> 21:31] well-supplied easily defended forts. Then the invasion force had two options. If
+[21:31 --> 21:35] the invading army chose to use the Roman roads for easy travel, they would pretty
+[21:35 --> 21:39] soon hit one of the larger fortified camps and be forced to choose between
+[21:39 --> 21:44] besieging it, which would cost them time and resources, or they could bypass it,
+[21:44 --> 21:49] leaving themselves open to attack from the rear. If, on the other hand, they
+[21:49 --> 21:53] abandoned the road completely to avoid either of these scenarios, their pace
+[21:53 --> 21:57] would then be slowed considerably, usually preventing them from making it
+[21:57 --> 22:03] very much further before they were met by the Roman response. In any event, the
+[22:03 --> 22:07] enemy would find no easy access to provisions since the Romans would have
+[22:07 --> 22:10] all of those locked up behind the walls of their forts and quickly either
+[22:10 --> 22:15] retreat out of frustration or stick around long enough for every Roman
+[22:15 --> 22:21] soldier in the region to collapse on them simultaneously from all sides. Thus,
+[22:21 --> 22:28] would the invaders be repelled quickly and efficiently? Now, is this really the
+[22:28 --> 22:34] way things worked? The answer is we have no idea. Some archaeological evidence,
+[22:34 --> 22:39] particularly in the East, seems to support Ludwig's theory, while the rest
+[22:39 --> 22:44] seems either inconclusive or downright hostile to the notion of a centrally
+[22:44 --> 22:49] planned defensive web surrounding the Empire. Plus, it has been argued
+[22:49 --> 22:54] persuasively that whatever else you can say about the Romans, you can never say
+[22:54 --> 23:00] that they just wanted to sit back and wait for attack. True, during the crisis
+[23:00 --> 23:04] years, they were constantly sprinting from this invasion to that, but except
+[23:04 --> 23:08] for that period, the Romans always, always wanted to take the fight into
+[23:08 --> 23:13] enemy territory, and it would have been anathema to their most basic ideologies
+[23:13 --> 23:19] of warfare to design a system that was premised on a defensive posture. We have
+[23:19 --> 23:23] ourselves just gone through campaigns on the far side of the Rhine by Diocletian
+[23:23 --> 23:28] and Maximian, and on the far side of the Tigris by Galerius, both undertaken to
+[23:28 --> 23:33] prevent possible invasion into the Empire. In neither of those cases were
+[23:33 --> 23:37] the emperors willing to just sit back and catch the enemy in a web.
+[23:37 --> 23:45] Debate still rages about what exactly Diocletian's overall strategy was, and
+[23:45 --> 23:49] indeed whether or not he even had an overall strategy, or whether this was all
+[23:49 --> 23:55] just randomly hashed out at the local level. But during his reign, we do seem
+[23:55 --> 24:00] to see wider and deeper force deployment patterns, an increase in the total number
+[24:00 --> 24:04] of troops, and a concerted effort to create a militarized ring around the
+[24:04 --> 24:09] Empire, all of which suggests that he did have some kind of long-term defensive
+[24:09 --> 24:15] strategy in mind for the Empire. Unfortunately, as was so much of
+[24:15 --> 24:20] Diocletian's work, the coming civil wars of the Tetrarchy, civil wars Diocletian
+[24:20 --> 24:25] had tried so hard to prevent, would wind up overwhelming many of his reforms
+[24:25 --> 24:29] to the military structure, as Rome once again fell back into the familiar
+[24:29 --> 24:36] pattern of waging eternal war on itself. What we can say for sure, though, is that
+[24:36 --> 24:40] Diocletian helped the Empire transition its military from its classical
+[24:40 --> 24:45] configuration into the force that would be familiar to students of late antiquity,
+[24:45 --> 24:50] a force that in time set the stage for the armies that would be familiar to
+[24:50 --> 24:55] students of the Middle Ages. Rome is already practically running its
+[24:55 --> 25:04] military out of castles, so can King Arthur really be that far behind?
+[25:04 --> 25:08] Next week, we will get into one of the other ways that Diocletian set the stage for
+[25:08 --> 25:12] the next thousand years of history by discussing his reorganization of the
+[25:12 --> 25:17] imperial governmental apparatus. I'll talk more about his reordering of the
+[25:17 --> 25:22] provinces and some of the non-military aspects of the shift, as well as
+[25:22 --> 25:27] introduce a new term that we should all be familiar with today, the Diocese,
+[25:27 --> 25:32] those overarching administrative zones that were taken over by the clergy as
+[25:32 --> 25:37] the Empire in the West was falling apart and whose borders in many cases have
+[25:37 --> 25:43] remained unchanged down to the present day. One last thing I'll mention before
+[25:43 --> 25:48] we go is that as of today, there are still seven spots available for the
+[25:48 --> 25:55] final tour we have scheduled, which runs from May 28 to June 7, 2011. So if you
+[25:55 --> 25:58] thought you had missed out or maybe you've been sitting on the fence about
+[25:58 --> 26:05] coming, by all means drop by historyofrometour.com, check it out, and sign
+[26:05 --> 26:10] up. It's going to be really, really fun.

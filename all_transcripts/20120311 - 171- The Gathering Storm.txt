@@ -1,0 +1,198 @@
+# 20120311 - 171- The Gathering Storm
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:08] This week's episode is brought to you by audible as you know audible is the internet's leading provider of audio entertainment
+[00:08 --> 00:11] With over a hundred thousand titles to choose from
+[00:11 --> 00:19] When you're done with this episode go to audible podcast comm forward slash Rome that again audible podcast
+[00:19 --> 00:21] comm forward slash Rome
+[00:22 --> 00:29] By going to that address you qualify for a pre-book download when you sign up for a hey, this is new so pay attention
+[00:29 --> 00:31] 30-day trial membership
+[00:32 --> 00:37] There is no obligation to continue the service and you can cancel anytime and keep the free book download
+[00:37 --> 00:45] You can also keep going with one of the monthly subscription options and get great deals on all future audiobook purchases
+[00:46 --> 00:52] This week I'm going to go with a recommendation from listener Andrew and a book that I myself enjoyed immensely
+[00:53 --> 00:55] assassination vacation by Sarah Vowell
+[00:56 --> 01:00] Part travelogue part obscure presidential history
+[01:00 --> 01:05] Sarah Vowell road trips to the sites of various presidential assassinations
+[01:05 --> 01:09] Her distinct voice is distinct so be aware
+[01:09 --> 01:15] But it does feature an all-star cast of cameo voices at no extra charge
+[01:16 --> 01:23] Just remember to go to audible podcast comm forward slash Rome so that they know who sent you
+[01:28 --> 01:36] Hello and welcome to the history of Rome episode 171 the Gathering Storm
+[01:39 --> 01:43] Oh my goodness the history of Rome tour is so much fun
+[01:43 --> 01:51] We don't have firm dates for the next round, but history of Rome tour comm check it out
+[01:51 --> 01:53] It is so much fun
+[01:53 --> 01:58] Also as you may have noticed a combination of jetlag and conflicting responsibilities
+[01:59 --> 02:06] Have conspired to leave this episode a bit shorter than usual, but we will be back in full effect next week. I promise
+[02:08 --> 02:10] Okay, where were we ah
+[02:10 --> 02:16] Yes, it's 447 ad and Attila the Hun is loose in the central empire
+[02:16 --> 02:24] The Theodosian walls have managed to hold him off, but unfortunately almost nothing else was able to say the same thing
+[02:25 --> 02:29] forts garrisons cities armies all overrun
+[02:30 --> 02:33] ransacked and left dazed and traumatized
+[02:34 --> 02:39] But consistent with the standard Hun policy of the last 15 years
+[02:39 --> 02:46] Attila was not actually interested in annexing Roman territory or in trying to conquer the Empire per se
+[02:46 --> 02:47] as
+[02:47 --> 02:51] You'll recall the whole trigger for this lightning campaign had been
+[02:51 --> 02:58] Constantinople's experiment with not paying the indemnity that they had agreed to an experiment Attila hoped
+[02:58 --> 03:01] Constantinople now recognized to be a complete failure
+[03:03 --> 03:06] Also consistent with standard Hun policy
+[03:06 --> 03:11] Attila took the opportunity to jack up the going rate for keeping the Huns out of the field from
+[03:11 --> 03:16] 1400 to 2100 pounds of gold per year and
+[03:16 --> 03:21] Oh, yeah, we're gonna need that six thousand pounds of gold. You already owe us up front
+[03:23 --> 03:30] Left with no other choice and probably just happy that there was a choice besides the Huns kicked the crap out of us indefinitely
+[03:31 --> 03:33] Theodosius the second agreed to the terms
+[03:36 --> 03:38] Now I haven't really talked about this yet
+[03:38 --> 03:47] But the Huns indemnity policy goes a long way towards establishing them as something more advanced than your average snatch-and-grab barbarians
+[03:48 --> 03:52] They were not at all interested in killing the goose that laid their golden egg
+[03:52 --> 03:58] Sure, sometimes you had to go down and kick the goose around a bit if it tries to stop laying golden eggs
+[03:58 --> 04:01] But you don't kill it. You let it live
+[04:02 --> 04:10] The Huns were farsighted enough to recognize that just blasting the Romans out of the water wouldn't be any good for anyone
+[04:10 --> 04:15] They had this nice advanced economy that had long established trade networks
+[04:15 --> 04:20] Crisscrossing the Mediterranean and that reached as far afield as India and China
+[04:20 --> 04:23] Why mess that up?
+[04:23 --> 04:27] So as much as they could afford to they didn't mess it up
+[04:27 --> 04:32] They pushed it around some sure but it was imperative to leave the Roman economic structure intact
+[04:32 --> 04:38] So that every year it could deposit 2100 pounds of gold on their doorstep
+[04:40 --> 04:47] So as much as the Huns have been portrayed as mindless barbarian demons rampaging mindlessly across late antiquity
+[04:47 --> 04:50] They strike me as pretty savvy operators
+[04:53 --> 05:01] Meanwhile, off in the west just as Theodosius and the Eastern Empire were agreeing to pay whatever the Huns wanted
+[05:01 --> 05:08] Flavius Aetius was in the process of imposing his own terms on another branch of wayward Franks
+[05:08 --> 05:11] Though the peripheral provinces of the west were slipping away
+[05:11 --> 05:18] The central imperial authority was determined to hold on to the core provinces in Italy, Gaul, and Spain
+[05:19 --> 05:29] So in 448 Aetius was in northwest Gaul once again this time battling and defeating an independent minded Frankish king named Clodio
+[05:30 --> 05:35] This battle with the Franks is in and of itself not particularly important
+[05:35 --> 05:44] But for those of you interested in long discredited conspiracy theories that get plagiarized by hack writers and turned into inexplicable best sellers
+[05:45 --> 05:53] You'll be happy to know that Clodio is on the short list of candidates for the title founder of the Merovingian dynasty
+[05:54 --> 06:02] According to official legend it was Clodio's successor and possible son Merovech who founded the dynasty and gave it its name
+[06:03 --> 06:08] But since Merovech is a semi-mythical figure whose actual existence is disputed
+[06:09 --> 06:13] Some scholars point to Clodio as the real founder of the dynasty
+[06:14 --> 06:19] Which means that he like married the descendants of Jesus and Mary Magdalene or something
+[06:19 --> 06:24] I don't really know. It's been a long time since I read holy blood holy grail
+[06:25 --> 06:33] Anyway Aetius defeated Clodio and dragged one of the Frankish king's sons down to Milan to act as a hostage and keep the nascent
+[06:33 --> 06:39] Merovingians in check or maybe to keep the power of Jesus's bloodline for himself
+[06:40 --> 06:41] or something
+[06:43 --> 06:49] The other reason the battle against Clodio is important is that it marks the first appearance of two men
+[06:49 --> 06:52] Who will shortly move to the forefront of our story?
+[06:53 --> 06:56] Both of whom likely fought under Aetius in the battle
+[06:57 --> 06:59] Julius Valerius Majorianus
+[06:59 --> 07:05] Who would through a series of twists and turns become emperor of the western empire in late 457?
+[07:07 --> 07:12] And Flavius Riccimer the German general who would follow in the footsteps of Stillico and Aetius
+[07:12 --> 07:19] Place his old friend Majorian on the throne at the beginning of a 16-year run as de facto ruler of the western empire
+[07:23 --> 07:29] Majorian born in the 420s was the grandson of one of Theodosius the first top generals
+[07:29 --> 07:34] And was just at the point of his career where people were beginning to take notice
+[07:34 --> 07:40] At the battle against Clodio he rode at the head of a cavalry detachment that seized control of a critical bridge
+[07:40 --> 07:43] Helping to secure victory early in the fight
+[07:44 --> 07:46] He was young enough
+[07:46 --> 07:50] Capable enough and prominent enough that Valentini and the third
+[07:50 --> 07:55] Seriously considered marrying his youngest daughter Placidia to Majorian in the early 450s
+[07:57 --> 08:00] But Aetius determined that his own son should marry Placidia
+[08:01 --> 08:05] Undermined his subordinate in court and then expelled Majorian from the army
+[08:06 --> 08:11] Majorian would remain in exile until Aetius's death in 454
+[08:11 --> 08:19] Whereupon he and Riccimer would come crashing back into the picture in the chaotic aftermath of Aetius's assassination
+[08:23 --> 08:28] Riccimer on the other hand was much older probably born around 405
+[08:28 --> 08:33] He was a noble goth related to the royal family by way of his mother
+[08:33 --> 08:40] Who was either the late king Wallia's daughter or sister depending on which source you read
+[08:41 --> 08:48] His date of birth means that he was likely born in Illyria during the period of tension then partnership and then tension again
+[08:48 --> 08:51] between Alaric and Stilicho
+[08:51 --> 08:58] It also means that as he grew up he was present for every step of the great and terrible god
+[08:58 --> 08:59] Migration
+[08:59 --> 09:02] into Italy out of Italy
+[09:02 --> 09:06] Down to Sac-Rome up to Gaul to defeat Jovenis
+[09:06 --> 09:07] trapped in Spain
+[09:07 --> 09:09] allowed to settle in Aquitaine
+[09:09 --> 09:11] the works
+[09:12 --> 09:14] Though he was just a boy
+[09:14 --> 09:21] Riccimer witnessed firsthand what it meant to be a major player in the cunning and dangerous world of war and politics
+[09:21 --> 09:24] And he appears to have learned his lessons well
+[09:25 --> 09:31] When it came time for him to make his own bid for power in the mid 450s he neither flinched nor slipped
+[09:33 --> 09:37] We will have much much more to say about Riccimer as we move forward
+[09:37 --> 09:44] The man legendary Cambridge historian JB Berry called the first German king of Italy
+[09:44 --> 09:48] the link between Stilicho and Odoacer
+[09:52 --> 09:58] 449 AD the year after Theodosius's settlement with Attila and Aetius's victory over Clodio
+[09:58 --> 10:01] Was the calm before the storm?
+[10:03 --> 10:07] However the storm that would break in 450-451
+[10:07 --> 10:11] Was not the one that an objective observer likely would have predicted
+[10:12 --> 10:17] Thus far Attila's attention had been focused entirely on the eastern empire
+[10:17 --> 10:22] Neither he nor his predecessors had shown much interest in moving west
+[10:22 --> 10:27] And you would think that any temptation Attila might have had to go poke that golden goose
+[10:27 --> 10:29] Would have been tempered by two facts
+[10:30 --> 10:36] First that at this point the western empire was neither as rich nor as stable as the eastern empire
+[10:36 --> 10:39] It was clearly the inferior imperial twin
+[10:39 --> 10:45] And second he was on excellent terms with Aetius the ruler of that inferior twin
+[10:47 --> 10:51] Far from viewing the western empire as a potential adversary
+[10:51 --> 10:55] Attila almost certainly considered the western empire to be a stable ally
+[10:56 --> 11:02] And absolutely nothing about Aetius's conduct indicated the Hun king should think any different
+[11:03 --> 11:08] So you take those two basic points and you add them to the fact
+[11:08 --> 11:16] That in mid 449 the imperial chamberlain of the eastern empire made a ham-fisted attempt to assassinate Attila
+[11:16 --> 11:18] With like exploding cigars or something
+[11:19 --> 11:25] You would think that the crisis that began in 450 would have been a second invasion of the east by Attila
+[11:26 --> 11:28] But it wasn't wasn't
+[11:31 --> 11:33] Attila's decision to invade the west
+[11:33 --> 11:36] Rather than put another boot to the throat of the east
+[11:36 --> 11:39] Is quadruply hard to wrap your head around
+[11:39 --> 11:45] Because of a massively destabilizing horseback ride that took place in july of 450
+[11:47 --> 11:54] While out on a ride Theodosius the second fell from his horse broke his neck and died
+[11:55 --> 12:00] He was 49 years old and had ruled the east for a kind of astounding 42 years
+[12:02 --> 12:06] Just as suddenly as you please the eastern empire had no emperor
+[12:07 --> 12:14] Which is exactly the sort of thing you'd think a ticked off and opportunistic minded Attila might want to take advantage of
+[12:15 --> 12:17] But he never did
+[12:20 --> 12:23] Theodosius the second had just one living daughter
+[12:23 --> 12:28] Lysenia eudoxia and she had gone west to milan after marrying valentinian the third
+[12:30 --> 12:34] Thus far valentinia eudoxia had two children of their own
+[12:34 --> 12:39] Both girls 11 year old eudoxia and seven to nine year old placidia
+[12:40 --> 12:45] This meant that the next ruler of the eastern empire was going to have to be chosen
+[12:45 --> 12:53] A moment always fraught with extreme danger and a moment the east had not dealt with in almost 60 years
+[12:54 --> 13:01] This particular moment was even more dangerous because while neither of Theodosius his granddaughters were married
+[13:01 --> 13:05] Eudoxia had been betrothed in the mid 440s to
+[13:05 --> 13:07] wait for it
+[13:07 --> 13:11] Hunaric the son of the vandal king ganseric
+[13:13 --> 13:18] This engagement had been a political arrangement to help ease tensions between the vandals and romans
+[13:18 --> 13:24] But right now it suddenly meant that hunaric might be in line for the throne of constantinople
+[13:25 --> 13:28] Luckily the wedding had not taken place yet
+[13:30 --> 13:36] Eudoxia's younger sister placidia was too young for anyone to have settled on a future husband for her yet
+[13:36 --> 13:42] Although as I just mentioned athias was likely angling from the start for his own son to get the nod
+[13:45 --> 13:52] So where did that leave the eastern empire who was going to step up and how were they going to be legitimized?
+[13:54 --> 13:59] The answer finally came from the late theodosius his powerful sister ilia pulcheria
+[14:00 --> 14:04] Though she was no longer the all-powerful figure. She had been early in her brother's reign
+[14:04 --> 14:12] Pulcheria had lost none of her brains or backbone and she had remained an influential force in eastern politics
+[14:13 --> 14:22] When theodosius died pulcheria immediately stepped into the power vacuum and began issuing orders as the official sovereign of the empire
+[14:22 --> 14:27] Sort of the same way she had stepped in as a 15 year old girl back in 412
+[14:27 --> 14:31] And declared herself regent over her younger brother theodosius
+[14:32 --> 14:33] For
+[14:33 --> 14:38] About a month the single and loving it pulcheria acted as ruler of the east
+[14:38 --> 14:43] Until the senate in constantinople finally broke under the weight of their own incredulity
+[14:44 --> 14:50] Things cannot go on like this the augusta has to find a husband
+[14:50 --> 14:54] We'll ratify whoever you choose and make him emperor
+[14:54 --> 14:59] But seriously, please we cannot handle the embarrassment of being ruled by a woman
+[15:00 --> 15:07] I'm, sorry. We wish it didn't have to be like this, but we're a patriarchal society full of unrepentant misogynists
+[15:07 --> 15:10] So, please please find a husband
+[15:12 --> 15:16] So pulcheria plucked someone close at hand who wouldn't cause her too much trouble
+[15:17 --> 15:19] captain of the household guard
+[15:19 --> 15:21] Flavius marcianus
+[15:23 --> 15:29] Marcian had been born in Illyria around 392 and had risen up the ranks through the
+[15:29 --> 15:34] bureaucratic wing of the imperial governing apparatus rather than the military wing
+[15:34 --> 15:42] But that did not mean he was completely inexperienced with the art of war or disdained by the eastern generals
+[15:43 --> 15:50] Indeed his main sponsor for pulcheria's hand in marriage was the general aspar who had led the campaign in north africa
+[15:50 --> 15:55] That had led to the first settlement between the vandals and rome back in 435
+[15:57 --> 16:04] According to legend marcian had been on that campaign and had actually been captured by the vandals
+[16:05 --> 16:12] Brought before ganseric the vandal king had a premonition that marcian would one day rule the eastern empire
+[16:13 --> 16:19] And so the king released the young officer on the promise that he would never again make war on the vandals
+[16:19 --> 16:26] A story that i'm sure is 100 accurate and not at all contrived after the fact propaganda
+[16:27 --> 16:33] Another story that i'm sure is 100 accurate and not at all contrived after the fact propaganda
+[16:33 --> 16:39] Is the one about a dying theodosius with his last breath naming marcian to be his heir
+[16:40 --> 16:45] Uh-huh, and if you believe that i've got a bridge to sell you in brooklyn
+[16:45 --> 16:45] Marcian
+[16:48 --> 16:54] Marcian was crowned in august of 450 and making sure that no one missed the point
+[16:54 --> 16:58] Elia pulcheria was the one who placed the diadem on marcian's head
+[16:59 --> 17:01] Point taken your highness
+[17:04 --> 17:06] So we're going to leave it there for this week
+[17:06 --> 17:10] But next week another arranged imperial marriage
+[17:10 --> 17:17] This one between valentine and the third sister hun noria and a bland and upstanding roman senator named
+[17:17 --> 17:19] bossus herculanus
+[17:19 --> 17:24] Would suddenly lead to one of the greatest crises in the history of the roman empire
+[17:24 --> 17:27] the hun invasion of the west
+[17:28 --> 17:29] How are these two events linked?
+[17:30 --> 17:36] Well, if an imperial princess who doesn't want to marry a bland and upstanding roman senator
+[17:36 --> 17:40] Sends you a plea for help and includes in the package a ring
+[17:40 --> 17:43] Aren't you going to take that as a marriage proposal?
+[18:06 --> 18:06] You

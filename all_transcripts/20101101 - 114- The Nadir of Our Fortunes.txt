@@ -1,0 +1,269 @@
+# 20101101 - 114- The Nadir of Our Fortunes
+# Detected language: en
+# Duration: 1690.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:17] Hello and welcome to the history of Rome episode 114 the nadir of our fortunes last time we
+[00:17 --> 00:23] left Rome in a state of disrepair the east had been invaded by the Sassanids the Danube
+[00:23 --> 00:28] had been invaded by the Goths Italy had been invaded by the Alamanni and the West had been
+[00:29 --> 00:35] the Franks unable to handle all of these foreign threats at once and still reeling from the
+[00:35 --> 00:41] capture of his father Gallienus watched helplessly as the legions across the empire elevated their
+[00:41 --> 00:48] own local commanders to the purple breaking the empire into pieces the son of Valerian would
+[00:48 --> 00:54] never again rule a united empire though he would spend the rest of his life vainly pursuing the
+[00:54 --> 01:01] dream of reunification though we know that the east eventually fell into the hands of
+[01:01 --> 01:07] Odinothus and his wife Zenobia when all the trouble began in 260 it actually looked like
+[01:07 --> 01:14] ex-treasury official Macrianus would be the man calling the shots in Antioch you'll recall from
+[01:14 --> 01:20] last time that Macrianus and the general Ballista had organized a resistance to the Sassanid invasion
+[01:20 --> 01:24] following Valerian's capture and when the Persians were finally pushed out the eastern
+[01:24 --> 01:31] legions naturally looked to the man with the money to continue leading them Ballista seems
+[01:31 --> 01:37] to have been content to support Macrianus rather than compete with him and so Macrianus became the
+[01:37 --> 01:43] dominant Roman official east of the Hellespont but for some reason possibly because he was a
+[01:43 --> 01:49] cripple though I'm not entirely sure that that's accurate Macrianus did not himself assume the
+[01:49 --> 01:54] imperial dignities instead he induced the legions to elevate to the purple his two grown sons
+[01:54 --> 02:02] quietus and Macrianus the younger the two men were dutifully hailed as Augustus following in
+[02:02 --> 02:07] the footsteps of the Rhine legions and the Danube legions who would elevated posthumous and regale
+[02:07 --> 02:15] honest respectively but unlike these other two competing Augusti the Macriani family had no
+[02:15 --> 02:22] intention of staying put in the east and simply keeping an eye on the Sassanids Macrianus did not
+[02:22 --> 02:28] want to just defend Syria he wanted to formally oust Gallienus and capture the whole empire for
+[02:28 --> 02:35] himself in pursuit of this goal he and his son Macrianus the younger packed up 30,000 troops
+[02:35 --> 02:43] and marched them west to confront Gallienus now those numbers are likely exaggerated but still
+[02:43 --> 02:49] after the catastrophic losses suffered at Edessa the removal of any soldiers at all had to have
+[02:49 --> 02:55] dangerously weakened the frontier defenses I would like to say that the fact that the Macriani are
+[02:55 --> 03:00] about to get stomped into the ground by Gallienus is somehow divine retribution for leaving the
+[03:00 --> 03:06] east so undermanned but regale honest did right by the Danube defending the empire rather than
+[03:06 --> 03:13] trying to capture it and he died too so unfortunately it seems that blind fate rather
+[03:13 --> 03:22] than karmic justice was doing the yeoman's work throughout the 260s AD Macrianus had left his son
+[03:22 --> 03:30] quietus in charge at Antioch while he and Macrianus the younger marched on Italy in 261 they only made
+[03:30 --> 03:34] it as far as the Balkans though where they were met and defeated in battle by an army led by
+[03:34 --> 03:41] Gallienus's top general Orioles both Macriani were killed in the battle but perhaps more
+[03:41 --> 03:47] importantly the battle cost the lives of way more troops than the empire could afford to lose
+[03:49 --> 03:55] things in the east probably would have spiraled out of control had not Odin office and Palmyra
+[03:55 --> 03:57] picked up the slack Macrianus had left behind
+[03:58 --> 04:05] leading a motley army composed of various eastern auxiliaries his own Palmyrene heavy cavalry and
+[04:05 --> 04:10] probably what was left of Valerian's legionary forces Odin office patrolled the border with
+[04:10 --> 04:15] vigor and kept sharpers imagination from drifting back to visions of conquest
+[04:16 --> 04:21] of critical importance to his own future career Odin office did not throw his lot in with the
+[04:21 --> 04:26] not throw his lot in with the Macriani and chose instead to remain loyal to the government of Rome
+[04:28 --> 04:32] that did not mean that he went out of his way to defend the honor of gallienus when the Syrian
+[04:32 --> 04:38] legions declared Macrianus the younger and quietus their new Augusti but it did mean that when word
+[04:38 --> 04:43] came back that gallienus had successfully fended off their challenge that Odin office took the
+[04:43 --> 04:51] opportunity to display his fidelity to the true emperor the army he led far outshone anything left
+[04:51 --> 04:56] in the hands of quietus and ballista and after camping his imposing forces outside Antioch
+[04:56 --> 05:04] Odin office ordered that quietus be captured and executed no one knows what happened to ballista
+[05:04 --> 05:08] as he simply disappears from the historical record without a trace around this same time
+[05:09 --> 05:15] but the presumption is that he too was killed by either Odin office or some other officer loyal to
+[05:15 --> 05:24] Rome the rise and fall of the Macriani left the east by default in the hands of Odin office
+[05:25 --> 05:31] he held roman citizenship and had obviously been a loyal ally but he was seen by practically
+[05:31 --> 05:36] everyone as an outsider after all he did hail from a city beyond the frontier
+[05:37 --> 05:42] but for the moment at least the citizens of the east had very little time to indulge in prejudices
+[05:43 --> 05:49] Odin office was there leading an army in defense of the empire who cared where he came from
+[05:50 --> 05:54] gallienus himself certainly did not seem to care much about Odin office's origins
+[05:54 --> 05:58] or at this point what his ultimate intentions may be
+[06:00 --> 06:05] unable to spare any resources to reinforce the east let alone reassert his full control over it
+[06:06 --> 06:12] gallienus was for the time being willing to cede odin office dominion over the east as long as the
+[06:12 --> 06:18] palmyrene prince remained loyal to gallienus and focused his attention on the sassanids
+[06:18 --> 06:21] rather than on accruing more territory for himself within the empire
+[06:23 --> 06:30] these terms were amenable to odin office and from 262 until his death in 267 or 268
+[06:30 --> 06:34] the palmyrene prince was the de facto ruler of the eastern empire
+[06:36 --> 06:40] he was given the title imperator in the old military sense of the term rather than the
+[06:40 --> 06:46] more recent political meaning but as was the long-standing custom the victories of the
+[06:46 --> 06:52] palmyrene were technically credited to gallienus a subtle piece of propaganda which helped maintain
+[06:52 --> 06:58] the appearance of subordination on the part of odin office perhaps betraying his long-term goals
+[06:58 --> 07:05] though shortly after rising to power odin office began styling himself as the king of kings just
+[07:05 --> 07:07] as would a traditional eastern monarch
+[07:11 --> 07:15] in most ways the rise of odin office had very little effect on how the east functioned
+[07:16 --> 07:21] it appears that the legionary garrisons were kept mostly intact and that the commanders were for the
+[07:21 --> 07:27] most part left in place the various municipal governments kept running just as they always had
+[07:27 --> 07:34] and the lives of the citizens changed not at all this is all to say that odin office ruled with a
+[07:34 --> 07:42] very light hand there were no dramatic purges and no mass firings the only time he really exercised
+[07:42 --> 07:48] his power was when he acted as the arbitrator of last resort settling legal disputes or making the
+[07:48 --> 07:55] final decision on some infrastructure project other than that he did indeed keep his attention
+[07:55 --> 08:02] focused squarely on the task of defending the provinces from attack indeed the one major
+[08:02 --> 08:07] difference between life before odin office and life after odin office was the existence of this
+[08:07 --> 08:13] huge independent army roving around the deserts weaving in and out of sassanid territory attacking
+[08:13 --> 08:20] when necessary and defending when necessary this army was both the reason why syria was not captured
+[08:20 --> 08:27] by sharpor and the reason why gallienus stayed on the west side of the hellespon it was an efficient
+[08:27 --> 08:34] disciplined and highly mobile force over the course of the 260s odin office did not just
+[08:34 --> 08:40] keep the sassanids at bay but he also pushed east and reasserted roman dominion over territory
+[08:40 --> 08:46] that sharpor had annexed during the course of the past decade there is a reason odin office
+[08:46 --> 08:51] receives near universal praise in the ancient histories and it's because he seemed to be some
+[08:51 --> 08:57] quasi-divine savior sent by the gods to rescue the eastern empire at its darkest hour
+[09:01 --> 09:05] with the eastern question more or less settled and the middle provinces back under his control
+[09:05 --> 09:11] following the death of regalianus the west now loomed as the last big finger
+[09:11 --> 09:18] pointing gallienus and rome in the eye where odin office had diplomatically parlayed his position
+[09:18 --> 09:25] into one that bore the imperial seal of approval posthumous ruled in direct competition to gallienus
+[09:26 --> 09:31] where the eastern provinces still recognized the overall legitimacy of the roman emperor
+[09:31 --> 09:37] and critically the mints and antioch still coined in gallienus's name the west had gone over to
+[09:37 --> 09:43] posthumous completely the gallic mints coined for posthumous and celebrated his role as the
+[09:43 --> 09:48] protector of the west this was an affront that gallienus could not tolerate
+[09:51 --> 09:56] there is as was so much else to do with this period some controversy over the date or dates
+[09:56 --> 10:02] of gallienus's attempt to reconquer the western provinces some claim that there were two attempts
+[10:02 --> 10:08] one in 261 in the immediate aftermath of posthumous's revolt and another more concerted
+[10:08 --> 10:15] effort in 266 others claim that there was just one attempt and that it occurred sometime between
+[10:15 --> 10:24] 263 and 265 despite the confusion of the dating though the outcome remains the same gallienus was
+[10:24 --> 10:29] able to establish a permanent beachhead on the far side of the alps but he was unable to decisively
+[10:29 --> 10:38] defeat posthumous and reunite the empire as usual the man leading the attack for gallienus was orio
+[10:38 --> 10:44] the captain of the cavalry starting from their headquarters in milan the imperial army marched
+[10:44 --> 10:50] up through the alps and crossed over into gall on their way to the capital of gallia belgica
+[10:50 --> 10:57] which also served as the capital of posthumous's gallic empire posthumous had been made aware of
+[10:57 --> 11:03] the invasion by spies in gallienus's camp and was ready when the army led by oriolis finally appeared
+[11:03 --> 11:09] in the battles that followed though there is one clear fact that the ancient sources point out
+[11:09 --> 11:17] again and again posthumous was beaten by oriolis but that for whatever reason oriolis did not press
+[11:17 --> 11:24] his advantage capture his enemy or crush his enemy's army though there could have been any
+[11:24 --> 11:30] number of good reasons for his failure to deal a killing stroke like that maybe his victories were
+[11:30 --> 11:35] not as complete as we have been led to believe the consensus among the romans was that oriolis
+[11:35 --> 11:42] had made a secret pact with posthumous in this telling oriolis was already planning to eventually
+[11:42 --> 11:47] revolt against his master and was looking for posthumous's support when it came time to make
+[11:47 --> 11:56] his bid if there was a deal it wasn't a very good one for oriolis when in 267 he finally did make
+[11:56 --> 12:02] his bid for the throne his calls to posthumous went unanswered but we're getting ahead of ourselves
+[12:04 --> 12:09] gallienus probably would have kept right on going despite these missed opportunities
+[12:09 --> 12:13] had he not been shot with an arrow and forced to withdraw to seek medical attention
+[12:14 --> 12:19] this brought on what gallienus thought would be only a temporary halt to his campaign
+[12:19 --> 12:23] but in fact it would bring an end to his attempts to reconquer the west
+[12:24 --> 12:29] as i just mentioned some scholars think there were two invasions the first ending with oriolis's
+[12:29 --> 12:36] failure to capture posthumous and the second ending with gallienus's injury but most seem to think
+[12:36 --> 12:43] that it was all wrapped up in a single short war the campaign was not a total failure though
+[12:43 --> 12:49] when gallienus temporarily seized hostilities he had won back firm control of the gallic territory
+[12:50 --> 12:54] of the gallic territory abutting the alps meaning that the emperor
+[12:54 --> 12:58] controlled both ends of the key mountain passes in and out of italy
+[12:59 --> 13:05] just as gallienus would never recapture the west posthumous would never again have access to the
+[13:05 --> 13:13] alps this is the map that both men would bequeath to their successors and eventually be the map from
+[13:13 --> 13:18] which aurelian launched his own successful campaign to reunify the empire in 274
+[13:20 --> 13:25] while gallienus had lost control of the east and the west he was still in control of the middle
+[13:25 --> 13:30] of the empire and was not so consumed with foreign wars and internal squabbles
+[13:30 --> 13:37] that he failed to make his mark on the development of rome well actually maybe it was because of all
+[13:37 --> 13:42] the foreign wars and internal squabbles that gallienus wound up leaving his mark on rome
+[13:43 --> 13:49] the ancient sources uniformly dismiss gallienus's reign as the absolute low point of the empire's
+[13:49 --> 13:54] history he is often portrayed as indifferent to the fact that two-thirds of the empire had slipped
+[13:54 --> 13:59] away from him and that he was far more interested in pursuing the perks and pleasures that came with
+[13:59 --> 14:05] being emperor than he was with fighting for what was rome's highlighting the general content with
+[14:06 --> 14:13] gallienus's rule is the myth of the so-called 30 tyrants that is the long list of men who rose up
+[14:13 --> 14:21] in revolt against gallienus during his reign odin office and posthumous and macrianus and regalianus
+[14:21 --> 14:28] are all on the list as is the prefect of egypt emilionis who revolted in 262 and the commander
+[14:28 --> 14:31] of the garrison at vasantium who revolted around the same time
+[14:31 --> 14:36] even gibbon is quick to point out that the 30 tyrants is a transparent piece of rhetoric
+[14:36 --> 14:41] referencing the old 30 tyrants of athens the post-war government installed by sparta at the
+[14:41 --> 14:47] end of the peloponnesian war and the list of usurpers offered by the historia augusta has been
+[14:47 --> 14:52] thoroughly debunked with most of the men listed having never assumed imperial dignity or having
+[14:52 --> 14:58] never existed at all the list of usurpers offered by the historia augusta has been thoroughly
+[14:58 --> 15:04] or having never existed at all despite the exaggerations though there is no doubt
+[15:04 --> 15:09] that the sheer number of men challenging gallienus's rule during the 260s however many
+[15:09 --> 15:15] there actually were points to near uniform disenchantment with his administration
+[15:16 --> 15:23] or does it as we've mentioned elsewhere the histories relied upon to establish narrative
+[15:23 --> 15:29] continuity for all our archaeological evidence were written by men of senatorial rank for men
+[15:29 --> 15:36] of senatorial rank and the biases of that class dominate the portrayals of the various emperors
+[15:37 --> 15:44] the senate had no love whatsoever for gallienus as he famously delivered a major blow to their
+[15:44 --> 15:52] power and prestige during the reign of gallienus the senate was once and for all excluded from
+[15:52 --> 15:58] having anything to do with military affairs now it is interesting to note two things about
+[15:58 --> 16:04] this development one despite claims to the contrary it does not seem that gallienus issued
+[16:04 --> 16:10] some dramatic decree banning senators from serving the army and two that nothing he did
+[16:10 --> 16:15] was in any way a radical departure from the policies followed by marcus aurelius during
+[16:15 --> 16:22] the marcomannic wars gallienus's problem as had been marcus's problem it was that the situation
+[16:22 --> 16:29] was so critical that there was very little margin for error bringing in some rich inexperienced
+[16:29 --> 16:34] aristocrat to run a legion in the middle of a war zone simply because that was the way things had
+[16:34 --> 16:41] always been done was a really good way to get that legion wiped out marcus had responded by
+[16:41 --> 16:47] elevating capable experienced soldiers like pertinax pompeianus pescinius niager and
+[16:47 --> 16:54] maximianus none of whom were of senatorial rank rather than turning to self-entitled senators
+[16:55 --> 17:00] gallienus too followed this policy and the men he turned to to lead his armies
+[17:00 --> 17:06] were all career military men who would in time go on to return the empire to something resembling
+[17:06 --> 17:12] its former glory including claudius gothicus aurelian and a young probis
+[17:14 --> 17:18] none of these men were of senatorial rank or aristocrats in any sense of the word
+[17:19 --> 17:24] but they knew soldiering and gallienus trusted them and that was all that mattered and in the
+[17:24 --> 17:32] long run it was probably better for rome as gallienus shut out inexperienced senators from
+[17:32 --> 17:38] military postings young ambitious aristocrats were unable to gain even basic military experience
+[17:38 --> 17:43] creating a feedback loop which led gallienus and his successors to completely ignore the
+[17:43 --> 17:51] senatorial class from now on when looking to fill out the officer corps gallienus also introduced
+[17:51 --> 17:55] a subtle shift in the way that provinces were governed that further calcified the division
+[17:55 --> 18:02] between civilian and military leadership the rank of legate that is the leader of a single
+[18:02 --> 18:09] legion was rebranded as the legatus equitis and now made unavailable as an office to a senator
+[18:09 --> 18:16] reserved instead for career military men of equestrian rank senators were still duly appointed
+[18:16 --> 18:21] as governors of the provinces but the legions of the provinces were put in the hands of men who knew
+[18:21 --> 18:27] what they were doing in provinces where there was only a single legion a situation that
+[18:27 --> 18:33] traditionally led the governor to double as that legions legate well those were transformed into
+[18:33 --> 18:38] equestrian prefectures a model invented by augustus when he was trying to figure out how to maintain
+[18:38 --> 18:43] personal control over egypt without having to worry about senatorial interference
+[18:43 --> 18:52] all of these are friends to their dignity whether they were justified or not really rubbed the senate
+[18:52 --> 18:57] the wrong way and when the empire successfully emerged into the fourth century the history of
+[18:57 --> 19:03] the third century began to be reworked by conservative members of the senatorial class
+[19:03 --> 19:09] into a series of morality plays that had a clear cast of heroes and villains with emperors like
+[19:09 --> 19:16] claudius tacitus and even amelianus painted as paradigms of republican virtue while galleys
+[19:16 --> 19:22] gallienus and aurelian were painted as cruel lazy or ineffectual depending on the man
+[19:24 --> 19:31] the historia augusta for example expends a great deal of ink praising posthumous who was after all
+[19:31 --> 19:37] nothing less than a traitor to rome in order to contrast him with the terrible no good gallienus
+[19:38 --> 19:44] odin office as i've already mentioned received similar glowing treatment this is not to take
+[19:44 --> 19:50] away from the accomplishments of posthumous and odin office but it is interesting to note how much
+[19:50 --> 19:55] praise is heaped on the two men who did the most to divide the empire because of the senate's
+[19:55 --> 20:03] lingering hatred for gallienus despite this friction with the upper classes gallienus did
+[20:03 --> 20:08] manage to stay in power for 15 years so he had to be doing something right
+[20:10 --> 20:15] after the tumultuous years following the capture of his father one of the main lessons the emperor
+[20:15 --> 20:21] took away was that if he was going to maintain his tenuous hold on the middle empire and perhaps one
+[20:21 --> 20:26] day went back to east and the west he was going to have to do a better job making sure that the
+[20:26 --> 20:32] army still under his command remained loyal to him and did not jump to their local generals every
+[20:32 --> 20:40] time someone said boo now it was not exactly a mystery how you kept soldiers in the third
+[20:40 --> 20:46] century loyal to you and gallienus was no dummy thus one of his lasting legacies
+[20:46 --> 20:50] it was the founding of multiple mints across the empire
+[20:52 --> 20:57] up until this point besides the main mint in rome there were only a few major coining centers in
+[20:57 --> 21:04] the provinces making transporting soldier pay and promise bonuses both time consuming and dangerous
+[21:06 --> 21:12] so gallienus founded at least four new mints near all the major military headquarters in northern
+[21:12 --> 21:19] italy and along the danube which kept the soldiers paid in full and on time and left them as you can
+[21:19 --> 21:26] imagine extremely well disposed towards their emperor the downside of this increase in mints
+[21:26 --> 21:31] though was that it sped up a process that the romans did not understand at all but that we
+[21:31 --> 21:40] today are well acquainted with and very watchful of inflation now like most of you i learned about
+[21:40 --> 21:46] inflation from the classic duck tales episode do-re-mi when huey dewey and louis got their
+[21:46 --> 21:51] hands on a duplicating ray and used it to duplicate some money so they could have enough to go buy a
+[21:51 --> 21:57] new bike but of course the duplicating ray had a glitch anything that gets duplicated will
+[21:57 --> 22:04] spontaneously duplicate itself after a brief period of time pretty soon duckberg was swimming
+[22:04 --> 22:09] in duplicated cash lollipops cost a wheelbarrow full of coins and the price of the new bike that
+[22:09 --> 22:15] had started all this had increased a hundredfold uncle scrooge was of course wiped out as the
+[22:15 --> 22:21] coins he had so carefully hoarded in his money bin were now all worthless not a pretty sight
+[22:23 --> 22:29] so first of all don't tell me that silly anthropomorphic cartoons have no educational value
+[22:30 --> 22:35] and second that this is exactly what happened to the roman empire as revenue failed to meet
+[22:35 --> 22:43] expenditures during the third century the imperial reaction was to simply produce more money so that
+[22:43 --> 22:49] they could pay off all their debts leading to spiraling prices savings being wiped out
+[22:49 --> 22:53] and a reversion eventually back to primitive barter and payments in kind
+[22:56 --> 23:01] adding to these economic woes that in the 260s were still looming on the horizon
+[23:02 --> 23:07] was the fact that with the imperial minds running dry and no new sources of silver and gold anywhere
+[23:07 --> 23:13] to be found the emperors were forced to debase the coinage to keep up with the increased rate
+[23:13 --> 23:20] of production debasement was of course nothing new but the process had thus far been pretty
+[23:20 --> 23:28] gradual and the market had been given time to adjust in the 200 years from augustus to septimius
+[23:28 --> 23:34] severus the standard denarius had declined its silver content from 98 percent to just about 50
+[23:36 --> 23:42] in the 50 years since the death of severus though the silver content plummeted to just 1.5
+[23:43 --> 23:51] 1.5 this was a silver ratio so low that the denarius literally no longer resembled itself
+[23:54 --> 23:59] the various emperors had done all this in secret of course because while they may not have understood
+[23:59 --> 24:04] inflation they certainly understood the dangerous ramifications of making their coins intrinsically
+[24:04 --> 24:11] less valuable but it did not take long for people to catch on despite multiple imperial
+[24:11 --> 24:16] declarations stating that all coins should be accepted at face value savvy merchants of the
+[24:16 --> 24:22] third century began adjusting their prices by the weight of their customers coins rather than simply
+[24:22 --> 24:30] counting the number of them but as i just said it took a little while for the effects of all
+[24:30 --> 24:36] these monetary shenanigans to be felt and gallienus mostly benefited from his printing of more money
+[24:36 --> 24:43] despite the fact that it was bad money as i mentioned a few times previously coins in the
+[24:43 --> 24:49] roman empire were a primary vehicle of imperial propaganda and with each new batch of coins
+[24:49 --> 24:54] flooding out into the provinces the citizens of the empire became awash not just in cash
+[24:55 --> 25:01] but with the persistent drumbeat message that everything was fine everyone was getting along
+[25:01 --> 25:05] the empire was safe the armies were happy and the emperor was on the case
+[25:07 --> 25:12] there were of course outward signs that all this was perhaps not as true as the emperor would like
+[25:12 --> 25:18] it to be but one rule of mass media is that if you repeat something enough times a lot of people
+[25:18 --> 25:24] are going to start believing it gallienus repeated himself a lot and with no opposing
+[25:24 --> 25:29] media outlets contradicting him many citizens simply shrugged their shoulders and believed him
+[25:29 --> 25:41] the 260s ad are often represented as the nadir of roman fortunes the empire was divided from itself
+[25:41 --> 25:47] and men were rising up in revolt almost daily against an ineffectual emperor who seemed content
+[25:47 --> 25:56] to let it all burn but this is an oversimplification an exaggeration and bluntly untrue
+[25:57 --> 26:03] gallienus liked a mission before him has been absolutely vilified but when we look back with
+[26:03 --> 26:09] a more sober eye on the period we find that he was not at all ineffectual that he vigorously
+[26:09 --> 26:14] and actively defended the empire from foreign invasion and attempted to put the broken pieces
+[26:14 --> 26:21] of roman society back together he did indeed preside over a divided empire but with everything
+[26:21 --> 26:26] rome was facing the temporary division probably wound up profiting the empire in the end
+[26:28 --> 26:33] what did not profit the empire was gallienus's monetary policies which came back to haunt rome
+[26:33 --> 26:40] in a big way but even in this it's not like gallienus invented debasement or the overcoining of money
+[26:42 --> 26:48] the son of valerian was certainly not the best emperor indeed he was about to be shown by a
+[26:48 --> 26:52] relian what a really good emperor can do when he puts his mind to something
+[26:52 --> 26:55] but he certainly wasn't one of the worst either
+[26:58 --> 27:05] next week we will get to the fall of this not great but not terrible emperor either by coincidence or
+[27:05 --> 27:11] fate the death of gallienus was matched almost simultaneously by the death of posthumous in the
+[27:11 --> 27:18] west and odinothus in the east within the span of a single year of three men who had dominated
+[27:18 --> 27:24] the lives of romans everywhere were dead leaving power vacuums in all three corners of the empire
+[27:26 --> 27:30] while the west would fall into the hands of unworthy successors the east would be claimed
+[27:30 --> 27:36] by the wife of odinothus the palmyrene queen xenobia who would in time prove to be her
+[27:36 --> 27:43] husband's equal in every way and had she not run up against a relian it is very possible
+[27:43 --> 27:53] that she would have emerged as his better in every way
+[28:06 --> 28:07] you

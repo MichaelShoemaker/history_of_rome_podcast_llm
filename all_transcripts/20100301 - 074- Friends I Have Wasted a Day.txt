@@ -1,0 +1,187 @@
+# 20100301 - 074- Friends I Have Wasted a Day
+# Detected language: en
+# Duration: 1444.08 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:11] As you now know, Audible is the internet's leading provider of audio entertainment with over 60,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash rome.
+[00:16 --> 00:21] That again is audiblepodcast.com forward slash rome.
+[00:21 --> 00:27] By going to that address, you qualify for a free book download when you sign up for the 14-day trial membership.
+[00:27 --> 00:33] There is no obligation to continue the service, and you can cancel anytime and keep the free book that you downloaded.
+[00:33 --> 00:40] You can also keep going with one of the monthly subscription options and get great deals on all future audiobook purchases.
+[00:40 --> 00:45] This week, I am going to recommend picking up The Jewish Wars by Josephus,
+[00:45 --> 00:51] the Jewish historian who attached himself to the Flavians after being captured in battle during the Great Jewish Revolt.
+[00:51 --> 00:55] Though he is clearly biased in favor of Vespasian and the other Flavians,
+[00:55 --> 00:59] his history forms the basis for much of our understanding of the period.
+[00:59 --> 01:05] Just remember to go to audiblepodcast.com forward slash rome so that they know who sent you.
+[01:09 --> 01:13] Hello, and welcome to the history of Rome.
+[01:13 --> 01:19] Episode 74. Friends, I have wasted a day.
+[01:19 --> 01:23] Titus Flavius Vespasianus, the eldest son of Vespasian,
+[01:23 --> 01:30] ascended to the throne in June 79 A.D. following the sad but not entirely unexpected death of his father.
+[01:30 --> 01:35] The Roman world had settled down considerably under Vespasian's moderate influence,
+[01:35 --> 01:39] and though there may have been a few scattered anxieties concerning the transfer of power,
+[01:39 --> 01:44] after all, it had been 25 years since power had last been transferred peacefully,
+[01:44 --> 01:51] no one arose to challenge Titus, who was, in every way, the legal and logical heir to the throne.
+[01:51 --> 01:57] In fact, most people were not worried at all about whether the transition from Vespasian to Titus would be peaceful,
+[01:57 --> 02:05] but rather whether Titus would follow in his father's mild footsteps, or whether he would become a tyrant drunk with power.
+[02:05 --> 02:10] Because though he is remembered today for continuing the pragmatic moderation of his father,
+[02:10 --> 02:14] and possibly even besting him in the Department of Generosity,
+[02:14 --> 02:18] when the almost 40-year-old Titus was hailed as Augustus,
+[02:18 --> 02:25] there were very real fears that, despite his age, he would prove himself to be another Nero.
+[02:25 --> 02:28] But before we get too deep into the biography of Titus,
+[02:28 --> 02:36] I want to double back and hit on something I left hanging last week when I was describing the relative piece of Vespasian's reign.
+[02:36 --> 02:41] Though the revolts in Judea and Gaul were put down soon after Vespasian took office,
+[02:41 --> 02:49] the one theater of war that remained active through most of his reign and into those of his sons was up in Britannia.
+[02:49 --> 02:54] We know this, as I said last week, because the commander who led most of the campaigns in the north
+[02:54 --> 02:59] had the good sense to marry his daughter to a world-class historian.
+[02:59 --> 03:05] As a result, we probably know more about what Gnaeus Julius Agricola was up to during the reign of Vespasian
+[03:05 --> 03:10] than we know about what the emperor himself was up to.
+[03:10 --> 03:17] Agricola was born on the southern coast of Gaul in 40 AD into a family of senatorial rank on both sides.
+[03:17 --> 03:23] He did not get to know his father very well, however, as the elder Agricola was executed by Caligula
+[03:23 --> 03:27] for refusing to prosecute someone who had raised the mad emperor's ire.
+[03:27 --> 03:32] The younger Agricola escaped Caligula's wrath, and when he turned 18,
+[03:32 --> 03:39] he began his public career by getting shipped off in 58 AD to the island that would define his life.
+[03:39 --> 03:46] Agricola arrived in Britannia just in time to serve as a military tribune on the general staff during Boudicca's revolt.
+[03:46 --> 03:51] When the uprising was put down, Agricola was transferred to the province of Asia,
+[03:51 --> 03:58] and it was while in the east that his wife gave birth to Julia Agricola, future wife of our old friend Tacitus.
+[03:58 --> 04:05] Back in Rome, after his term expired in 66, he managed to escape the year of the four emperors with his head intact,
+[04:05 --> 04:12] but was crushed to learn that Otho's marauding naval force had killed his mother while they sacked the Gallic coast.
+[04:12 --> 04:18] Probably blaming both Otho and Vitellius alike for causing the war that had killed his mother,
+[04:18 --> 04:23] Agricola eagerly joined the Flavians the first chance he got.
+[04:23 --> 04:30] Thus Pacian recognized Agricola's promise, and after taking office, assigned him to lead a legion in Britannia,
+[04:30 --> 04:34] a province the young man was already well acquainted with.
+[04:34 --> 04:40] The imperial administration on the island had been plunged into a state of disarray by the recent civil wars,
+[04:40 --> 04:44] with the various legionary commanders being pulled different directions,
+[04:44 --> 04:52] while all the while remaining too far away to do anything about or keep up with the rapid fire changeover of power down in Rome.
+[04:52 --> 04:57] A dissident faction of Brigantes, the largest pro-Roman tribe on the island,
+[04:57 --> 05:02] decided to take advantage of the situation and overthrew their collaborating queen,
+[05:02 --> 05:08] who, just to bring things back around, was the same queen who had once upon a time handed Caraticus to the Romans
+[05:08 --> 05:12] when the resistance leader came looking for sanctuary in 51.
+[05:12 --> 05:17] Suddenly, the Romans' greatest ally became their greatest threat,
+[05:17 --> 05:23] and when he took over, Vespasian appointed a vigorous governor to get the situation back in hand,
+[05:23 --> 05:28] and the governor in turn appointed Agricola to spearhead the repassification.
+[05:28 --> 05:36] From 71 to 75, Agricola crisscrossed Brigantes' territory, attempting to bring it back to heel.
+[05:36 --> 05:43] He was successful, but not definitively, and the region would continue to plague the empire for years to come.
+[05:43 --> 05:47] Eventually, the emperor Hadrian would build the wall that bears his name,
+[05:47 --> 05:53] in part to separate the Brigantes from supply lines and allies in Scotland.
+[05:54 --> 06:00] After receiving a promotion to a governorship in Gaul in 75 and then serving in Rome as a consul,
+[06:00 --> 06:06] Agricola returned to Britannia for a third time in 78, this time as the provincial governor,
+[06:06 --> 06:10] a post he would hold for an unusually long seven years.
+[06:10 --> 06:16] The new governor's first task was to retaliate against one of the eternally difficult Welsh tribes,
+[06:16 --> 06:22] who had annihilated a Roman cavalry garrison and were now openly flouting Roman rule.
+[06:22 --> 06:29] Agricola swept in and easily crushed the offending tribe and restored firm Roman control of the region in the process.
+[06:29 --> 06:34] The whole province had been suffering from a string of disinterested Roman administrators,
+[06:34 --> 06:40] who were likely no more happy about being stuck in Britain than the locals were about being stuck with them,
+[06:40 --> 06:48] but Agricola was determined to remind everyone, Romans and British alike, that the empire was here to stay.
+[06:48 --> 06:54] He quickly gained a reputation as a strict administrator of both unruly locals and unruly legionaries,
+[06:54 --> 07:01] but no one could deny that he was always honest in his dealings with both his soldiers and the tribes they watched over.
+[07:01 --> 07:05] In an effort to further entrench Roman civilization on the island,
+[07:05 --> 07:11] Agricola instituted programs to educate the sons of the local nobility in proper classical fashion,
+[07:11 --> 07:16] exposing them to ideas far beyond what their parents could possibly understand,
+[07:16 --> 07:24] and hopefully turning the next generation of leaders into true Roman citizens rather than leaving them as uncouth provincials.
+[07:24 --> 07:32] He also tried to replace the messily organic town centers with the straight-lined rationality of Roman city planning.
+[07:32 --> 07:39] His theory was that if the British locals thought like Romans and lived like Romans, pretty soon they would be Romans.
+[07:39 --> 07:42] That was the idea, anyway.
+[07:42 --> 07:49] Agricola's vision of a fully Romanized Britain never did come to fruition, but it was not for a lack of trying.
+[07:49 --> 07:58] In a few short years, Agricola would find himself leading an army north into Scotland in an attempt to bring the whole island under imperial control.
+[07:58 --> 08:06] Though he would defeat a combined force of some 30,000 Caledonians in 84 AD and possibly march all the way to the north coast,
+[08:06 --> 08:12] the Romans never would gain a foothold in the highlands, and Hadrian would eventually give up the ghost for good,
+[08:12 --> 08:19] building his wall to separate civilization from the trackless wilds of the north.
+[08:19 --> 08:24] But now I'm getting ahead of myself rather than trying to play catch-up.
+[08:24 --> 08:34] While Agricola was still in Britain, Vespasian died, and his son Titus, who had likely served alongside Agricola during Boudica's revolt, ascended to the throne.
+[08:34 --> 08:41] Both men were about the same age, just shy of their 40th birthdays, and if Titus lived as long as his 70-year-old father,
+[08:41 --> 08:46] that meant that the empire had just bought itself 30 years of stability.
+[08:46 --> 08:53] But the merciless fates would conspire to rob Rome of their enormously popular new emperor in just two years,
+[08:53 --> 08:58] and leave them instead with Titus's far less popular brother Domitian.
+[08:58 --> 09:07] Domitian would reign for 15 possibly misunderstood years before being deposed in 96 AD, permanently ending the Flavian dynasty,
+[09:07 --> 09:11] which most figured would have barely gotten going by that point.
+[09:11 --> 09:17] But rather than opening another round of destructive chaos as the fall of the Julioquodians had done,
+[09:17 --> 09:22] the fall of the Flavians ushered in the Golden Age of Imperial Rome.
+[09:22 --> 09:31] The so-called Five Good Emperors, who ruled from 96 AD until Marcus Aurelius foolishly handed power to his son Joaquin Phoenix in 180,
+[09:31 --> 09:36] wisely governed Rome to the height of its power, prestige, and glory.
+[09:36 --> 09:47] But I'm getting ahead of myself again, so without further ado, on to the short, happy reign of Titus Flavius Vespasianus.
+[09:47 --> 09:53] Titus was born in 39 AD, and was raised in Rome in the shadow of the imperial court.
+[09:53 --> 10:05] He was a friend and schoolmate of Claudius's brother Britannicus, and Suetonius goes so far as to report that Titus was by his friend's side when Britannicus drank Nero's poison in 55 AD.
+[10:05 --> 10:11] Young Titus showed enormous promise, and excelled at both oratory and sports.
+[10:12 --> 10:23] He began his public career as soon as he could, and in 57 AD was elected military tribune, the first step up that curses honorum, and was assigned to a post in Germania.
+[10:23 --> 10:30] Two years later, he was transferred to his father's old stomping ground in Britannia to aid in the suppression of Boudicca's revolt,
+[10:30 --> 10:37] where, as I said, he likely served alongside Agricola, though whether the two actually knew each other at this point is debatable.
+[10:37 --> 10:44] In 63, he returned to Rome and married for the first time, but his wife died in 65 after bearing him a daughter.
+[10:44 --> 10:55] He remarried in 65, but the family of his second wife was deeply involved in the Pisonian conspiracy against Nero, and Titus prudently sued for divorce.
+[10:55 --> 11:04] Curiously for a man of his time, Titus never again remarried, though he was not without romantic company, as we will soon see.
+[11:05 --> 11:15] When Vespasian was assigned by Nero to suppress the Jewish revolt in late 66 AD, he took his 27-year-old son with him to serve on staff.
+[11:15 --> 11:22] The young man distinguished himself not only as a strategist and tactician, but also as a diplomat.
+[11:23 --> 11:34] As we now know, the governor of Syria, Mucianus, was a key early supporter of Vespasian's bid for the throne, but initially the two men had gotten off on the wrong foot.
+[11:34 --> 11:43] Vespasian took his orders to mean that he had overall command of the East and could do whatever came into his head as long as it meant winning the war in Judea,
+[11:43 --> 11:50] even if it meant encroaching into what Mucianus felt was his ultimate authority in Syria.
+[11:50 --> 12:03] Vespasian sent Titus to Antioch to soothe Mucianus's ruffled frethers, and the young commander was so successful that Mucianus not only dropped his complaints, but became a staunch Flavian supporter.
+[12:03 --> 12:14] This was no doubt at the forefront of Vespasian's mind when he sent Titus to meet with Galba after the latter's non-response to Vespasian's friendly overtures in 68 AD.
+[12:14 --> 12:21] Who knows, Titus might make such an impression on the new emperor that Galba will be inclined to adopt him as heir.
+[12:21 --> 12:30] But as we noted, Titus had only made it as far as Greece before Galba was assassinated, and he quickly returned to the safety of the East.
+[12:30 --> 12:45] When Vespasian decided to follow the advice of his new BFF, Mucianus, and accept the title of emperor in mid-69, he handed responsibility for the Jewish revolt to Titus, who, as we saw last week, brought it to a swift conclusion.
+[12:45 --> 12:55] With the main action over, Titus followed his father back to Rome, and when he arrived, was awarded a full triumph for his smashing victory in Jerusalem.
+[12:56 --> 13:04] Vespasian decided to keep Titus close by his side in Rome, and involve him in every aspect of imperial administration.
+[13:04 --> 13:16] It was a foregone conclusion that Titus would be emperor himself one day and needed the experience, but Vespasian also needed someone he could trust implicitly right there by his side.
+[13:16 --> 13:26] Though history records Vespasian's reign as one relatively free from internal dissent, there was no guarantee at the beginning that this was going to be the case.
+[13:26 --> 13:42] Titus was not only given the title Caesar, along with his younger brother Domitian, but he also shared in his father's tribunition power, served as imperial secretary, and perhaps most important of all, was made prefect of the Praetorian Guard.
+[13:43 --> 13:52] If there was one lesson to be learned from the previous year's unrest, it was that the emperor must watch the guard as vigilantly as they watched him.
+[13:52 --> 13:59] With Titus serving as prefect, Vespasian could be sure to remain one step ahead of any palace coup.
+[14:01 --> 14:10] The problem for Titus, and the reason there were some misgivings about his ascension, is that all of this cast him in the role of enforcer of imperial will.
+[14:11 --> 14:19] He was the bad cop to Vespasian's good cop, and Titus quickly gained a reputation for uncompromising ruthlessness.
+[14:19 --> 14:32] When he did ferret out a plot here or a conspiracy there, he did not hesitate to execute or exile the scheming parties involved, as was the case with Cicena near the end of Vespasian's reign.
+[14:33 --> 14:43] The lack of due process that accompanied the execution of suspected enemies of the state led many to naturally fear what Titus would do once he ruled in his own right.
+[14:44 --> 14:50] His alleged cruel streak was then coupled with a growing reputation as a cavorting hedonist.
+[14:50 --> 15:00] He isn't even married, the scandalized chattering classes fretted, and a caricature soon emerged of Titus as the reincarnation of Nero.
+[15:01 --> 15:13] Adding to his image problem was the fact that while he had been posted in the east, he had begun a relationship with the Jewish queen Berenice, who had been driven out of Judea when the revolt began in 66.
+[15:13 --> 15:22] The two remained romantically attached for years, and in 75 she traveled to Rome to live with the man who was her husband in all but legal title.
+[15:22 --> 15:29] This was too much for the Romans, however, whose feelings about temptuous eastern queens has been well documented.
+[15:30 --> 15:36] Finally bowing to public pressure, Titus ended his relationship and sent Berenice back to the east.
+[15:36 --> 15:47] After he became emperor, she attempted to return to his side in Rome, but he ordered her away again, unwilling to risk the political fallout that was sure to accompany her arrival.
+[15:48 --> 16:01] But though he was not trusted by the nobility and was not particularly popular with the masses, when he succeeded his father in 79, Titus quickly proved all worries about his character totally baseless.
+[16:01 --> 16:11] He had played the bad cop because that is what his father required, and his reputation as a Dionysian prince was revealed to have been a gross exaggeration.
+[16:12 --> 16:23] He was every bit as self-confident as his father had been, leading to the same sort of rational, not insane policies that were fast becoming the hallmark of the Flavian dynasty.
+[16:23 --> 16:38] In a move 180 degrees removed from the doubters' assumptions about him, Titus took the step of formally abolishing the treason courts, which had been disdained by his father but were still officially on the books as a legal possibility.
+[16:38 --> 16:47] He even went so far as to punish potential informants who came by the palace looking to peddle juicy gossip in exchange for favors.
+[16:47 --> 16:58] Rather than hedonistic cruelty, Titus displayed the exact opposite at every turn, and was lauded by contemporaries and historians alike for his generous spirit.
+[16:58 --> 17:05] According to the legend, he famously remarked one evening after realizing he had done no one any favors that day,
+[17:09 --> 17:15] Of course, his sterling historical reputation is aided by the brevity of his term in office.
+[17:15 --> 17:30] Cassius Dio, writing a hundred years after his death, made the point of contrasting Titus with Augustus, stating that while Augustus never would have been so loved had he lived a shorter life, Titus never would have been so loved had he lived a longer one.
+[17:30 --> 17:41] Titus is also helped by the fact that his actions supposedly contrast sharply with those of his monstrous brother Domitian, who was universally derided by the ancient historians.
+[17:41 --> 17:56] As we'll see next week, Domitian probably wasn't as bad as he is made out to be, but the senatorial historians certainly had an axe to grind with him, and building Titus up into some super wonderful dreamboat was probably a part of that process.
+[17:56 --> 18:07] This is not to diminish Titus too much, just to say that when it comes to judging him, we have a pretty small sample size to work with, and a pretty biased panel of judges.
+[18:07 --> 18:25] An early test of his character came in either August or October 79 AD, depending on who you talk to, when Mount Vesuvius, situated off the Bay of Naples, suddenly erupted, burying the surrounding countryside in sixty feet of ash and volcanic rock.
+[18:25 --> 18:35] Famously, the resort town of Pompeii was utterly destroyed, but we should not forget that numerous Campanian cities perished at the same time.
+[18:35 --> 18:48] It is estimated that somewhere between 10 and 25,000 people lost their lives, including Pliny the Elder, the great naturalist who died attempting a rescue operation in the aftermath of the initial blast.
+[18:48 --> 18:57] Though the disaster was of course a great tragedy, today we remember Pompeii primarily for the archaeological ruins that were left behind.
+[18:58 --> 19:10] The volcanic fallout turned the resort town into a near perfect time capsule, and a great deal of our understanding about daily life in first century Rome comes from the preserved remains.
+[19:10 --> 19:16] Pompeii remains high on my list of places to visit before I die.
+[19:16 --> 19:33] Titus, however, did not dwell on what a marvelous archaeological site had just been created, and was quick to appoint two ex-consuls to lead a relief effort, and donated huge sums out of the imperial treasury to aid with first the cleanup and then the reconstruction of the devastated area.
+[19:33 --> 19:45] He was able to visit the ruined site of Pompeii twice before he died, and it was on that second visit that another disaster struck that again proved Titus' generosity of spirit.
+[19:45 --> 20:02] In the spring of ADAD, a huge fire broke out that, while it did not match the great fire in sheer destructive force, did serious damage to the capital and fell the number of important buildings, including the original pantheon that had been built by Marcus Agrippa.
+[20:02 --> 20:10] Titus rushed back to the city and once again set the full weight of the imperial treasury to the task of helping the victims.
+[20:11 --> 20:23] His response to these crises endeared him to the Romans at all levels of society, as natural disasters of this sort do not distinguish between social classes and everyone needed the emperor's help.
+[20:23 --> 20:38] His popularity then soared when he was able to complete the Colosseum and adjacent Flavian Baths by that summer, inaugurating the grand stadium with a hundred days of games, gladiatorial matches, exotic animal hunts, and chariot races.
+[20:38 --> 20:47] Exhausted from dealing with their burned out city, the population was eager for a distraction from their problems, and Titus obliged them splendidly.
+[20:47 --> 20:57] On the last day of the inaugural games, Titus formally dedicated the so-called Flavian Amphitheater in what would prove to be his final official act as emperor.
+[20:58 --> 21:08] In September of 81 AD, just a short distance from Rome, the travelling emperor was forced to put in an away station after coming down with an infection.
+[21:08 --> 21:17] On September 13th, just two years into a rain that most figured would last for a generation, Titus succumbed to his ailment.
+[21:17 --> 21:23] His last words were the enigmatic, I have made but one mistake.
+[21:23 --> 21:36] Much has been made about what the dying emperor could have meant, with suggestions including his impious entrance into the Holy of Holies during the Sack of Jerusalem, beginning his improper relationship with Queen Berenice,
+[21:36 --> 21:50] abruptly ending said relationship with Queen Berenice, conducting a secret affair with Demission's wife, or a favorite of later historians, not killing Demission, when the latter was discovered supposedly plotting against his brother.
+[21:50 --> 21:59] We'll never know for sure what Titus was referring to, because, well, he died right after uttering his delightfully self-confident epitaph.
+[21:59 --> 22:04] But just for fun, sometimes I like to imagine it as something ridiculously trivial.
+[22:04 --> 22:09] Like maybe he was remembering the time he forgot to bring wine to a dinner party.
+[22:09 --> 22:19] And so, while everyone is looking around for some huge revelation in his cryptic rose budding, Titus was actually just talking about the time he got caught in the rain without an umbrella.
+[22:19 --> 22:22] But I digress.
+[22:22 --> 22:31] The unmarried Titus had no male heirs to pass the throne to, and his relative youth had made worrying about succession seem somewhat morbid.
+[22:31 --> 22:34] So the throne fell to his younger brother Demission.
+[22:34 --> 22:43] Demission had been living for years with a massive inferiority complex that he suffered as a result of being the practically forgotten son of Vespasian.
+[22:44 --> 22:55] And he was eager to hold power in his own right, mourning his elder brother only briefly, before hurrying to the Praetorian camp to seal the emperorship that had just fallen in his lap.
+[22:55 --> 23:11] Though he held the title of Caesar since the fall of Vitellius, Demission had been relegated by his father to a merely ceremonial place within the government, and Vespasian virtually ignored his younger son, putting all his time and energy into Titus.
+[23:11 --> 23:19] Though Titus had promised to include Demission in his own administration, he died before he could properly follow through on his promise.
+[23:19 --> 23:33] So in one fell swoop, Rome lost a mature emperor with extensive military, diplomatic, and administrative experience, and gained in his place an immature emperor with no experience and a chip on his shoulder.
+[23:33 --> 23:40] Demission was not unintelligent, and as untested pampered princes go, he was not that bad.
+[23:40 --> 23:43] At least, he was interested in the hard work of empire.
+[23:43 --> 23:52] But he also jealously guarded his power, and dispensed with the façade of democracy that previous emperors had been so careful to maintain.
+[23:52 --> 24:00] Is it any wonder, then, that the men who wrote the history of the empire, all men of senatorial rank, had done their best?

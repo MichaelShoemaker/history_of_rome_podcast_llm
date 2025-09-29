@@ -1,0 +1,311 @@
+# 20100301 - 077- What Time is It_
+# Detected language: en
+# Duration: 1390.05 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:13] Hello, and welcome to the History of Rome, episode 77, What Time Is It?
+[00:13 --> 00:17] Domitian's autocratic reign was approaching the decade mark when it finally ran into some
+[00:17 --> 00:19] serious blowback.
+[00:19 --> 00:24] There had been mumblings and grumblings from day one, but thus far, his loyal bureaucracy
+[00:24 --> 00:30] and his loyal troops had forestalled any major attempts at revolution or coup.
+[00:30 --> 00:36] But on January 1, 89 AD, exactly 20 years after Vitellius' revolt along the Rhine,
+[00:36 --> 00:41] two legions stationed in upper Germany, led by their provincial governor Lucius Antonius
+[00:41 --> 00:47] Saturninus, refused to renew their oath to demission, and the Roman world once again
+[00:47 --> 00:50] stood on the brink of civil war.
+[00:50 --> 00:55] No one had forgotten the horror of 69 AD, and from the outside, Saturninus' revolt
+[00:55 --> 00:59] looked eerily similar to the Vitalian rebellion.
+[00:59 --> 01:02] Hadn't Kysena led two legions on the upper Rhine in revolt?
+[01:02 --> 01:06] And hadn't that spark been carried down the river until the whole of the Rhine legions
+[01:06 --> 01:08] stood opposed to the legal emperor in Rome?
+[01:08 --> 01:14] And hadn't that led to self-destruction on a scale not seen since the days of Octavian
+[01:14 --> 01:15] and Antony?
+[01:15 --> 01:20] Yes he had, yes it had, and yes it did.
+[01:20 --> 01:24] But this time, things would turn out differently, partly due to the widespread loyalty demission
+[01:24 --> 01:29] had earned from the legions, in contrast to the bitter hatred they had directed at Galba,
+[01:29 --> 01:33] but also partly due to a heaping shovel full of luck.
+[01:33 --> 01:38] Had there not been an early thaw, who knows what would have happened?
+[01:38 --> 01:43] Unfortunately, we're never going to know the full story behind Saturninus' rebellion,
+[01:43 --> 01:47] but it seems that the governor had been planning his revolt for some time, and had probably
+[01:47 --> 01:51] made contact with like-minded senators back in Rome.
+[01:51 --> 01:56] We're never going to know, because once the uprising was put down by Lapius Maximus, the
+[01:56 --> 02:00] governor of lower Germany who was first on the scene, the victorious governor burned
+[02:00 --> 02:05] all of Saturninus' correspondence before demission arrived.
+[02:05 --> 02:10] It is likely that the letters implicated all of Saturninus' fellow travelers, and Maximus,
+[02:10 --> 02:14] having done his duty and put down the revolt, had no wish for the aftermath to turn into
+[02:14 --> 02:17] a bloodbath.
+[02:17 --> 02:21] All that we really know is that Saturninus had made some kind of deal with the Chatti,
+[02:21 --> 02:26] the same Chatti demission had used as his triumphal prop six years earlier, and the
+[02:26 --> 02:31] two legions under Saturninus' direct command were supposed to be reinforced by a strong
+[02:31 --> 02:36] Germanic army to help them make their stand against demission.
+[02:36 --> 02:41] The emperor responded quickly to the crisis, ordering Maximus to take all action necessary
+[02:41 --> 02:45] to quell the revolt, while he himself led a contingent of Praetorians north to deal with
+[02:45 --> 02:47] the situation.
+[02:47 --> 02:53] To help ensure victory, demission also ordered a legion from Spain to march in on the double.
+[02:53 --> 02:58] The legion arrived well after the danger had passed, but the unblinking loyalty of the
+[02:58 --> 03:03] legion's commander, a one Mr. Marcus Ulpius Traeanus, earned the commander the gratitude
+[03:03 --> 03:08] of demission, who put the man history knows as Trajan on the fast track to his own date
+[03:08 --> 03:10] with imperial destiny.
+[03:11 --> 03:16] Saturninus' army was on the Roman side of the Rhine, perhaps stuck on perpetual watchtower
+[03:16 --> 03:21] duty, which may have helped spurn the restless governor, and his plan was for the Chatti to
+[03:21 --> 03:26] cross the frozen Rhine before the rest of the Roman world had a chance to react.
+[03:26 --> 03:30] But the luck of the Flavians returned with a vengeance, and in the middle of January
+[03:30 --> 03:35] an unheard of early thaw turned the stable and thoroughly frozen Rhine river back into
+[03:35 --> 03:37] a rushing torrent.
+[03:37 --> 03:42] The Chatti were trapped on the far side, and Saturninus was suddenly left to face the full
+[03:42 --> 03:46] brunt of imperial reprisal, with only two legions at his back.
+[03:46 --> 03:54] Just 24 days after the revolt began, Saturninus and his legions surrendered to Maximus.
+[03:54 --> 03:59] As I said, Maximus took the treasonous governor of Upper Germany into custody, and then proceeded
+[03:59 --> 04:02] to burn the paper trail that had led to the uprising.
+[04:02 --> 04:08] Who knows what friends, relatives, associates, or otherwise Maximus was protecting, but he
+[04:08 --> 04:11] certainly did history no favor by destroying all the evidence.
+[04:11 --> 04:18] The revolt, then, is left as a known, but not very well understood, crisis.
+[04:18 --> 04:22] Saturninus and his officers were executed, and the two rebellious legions were sent to
+[04:22 --> 04:24] the front along the Danube.
+[04:24 --> 04:29] Maximus was awarded the governorship of Syria, and Trajan was elevated to a consulship in
+[04:30 --> 04:35] followed by key appointments to governorships in Moesia and along the Rhine.
+[04:35 --> 04:39] I think we all know where his star is headed.
+[04:39 --> 04:44] The year after the revolt, Domitian decided to serve a term as consul himself, and as
+[04:44 --> 04:50] his colleague, he made the surprising choice of an influential, but quietly so man named
+[04:50 --> 04:52] Marcus Coxius Nerva.
+[04:52 --> 04:58] Obviously, serving as the consular colleague of an emperor was incredibly prestigious and
+[04:58 --> 05:03] not lightly awarded, so scholars have been left to wonder what Nerva did to earn such
+[05:03 --> 05:05] an honor.
+[05:05 --> 05:09] Some have speculated that he may have had a hand in uncovering Saturninus' plot, buying
+[05:09 --> 05:12] the emperor valuable reaction time.
+[05:12 --> 05:16] After all, Nerva had been instrumental in uncovering the Pisonian conspiracy against
+[05:16 --> 05:21] Nero the generation before, so maybe the old hand had once again put his ear to the ground
+[05:21 --> 05:25] and delivered the imperial house from ruin.
+[05:25 --> 05:30] This probably relies too much on his role in uncovering the earlier conspiracy in its
+[05:30 --> 05:35] attempt to say that the consulship was a reward for uncovering the latter conspiracy, and
+[05:35 --> 05:40] really, we may need to look no further than Nerva's uncanny ability to survive regime
+[05:40 --> 05:44] change to explain what he was doing at so prominent a position.
+[05:44 --> 05:49] It takes a man of rare political skill to survive such turbulent times unharmed.
+[05:49 --> 05:53] Is it really so remarkable that he would one day find himself the consular colleague of
+[05:53 --> 05:59] an emperor, or that one day he would simply find himself emperor?
+[05:59 --> 06:05] Marcus Nerva was born November 8, 30 A.D., into an Italian family that had risen to prominence
+[06:05 --> 06:08] as the Principate was taking shape.
+[06:08 --> 06:13] His family was not elite Roman nobility, but more and more such distinctions were becoming
+[06:13 --> 06:14] irrelevant.
+[06:14 --> 06:19] Vespasian's family was not from Rome proper either, and soon enough the empire would see
+[06:19 --> 06:24] its first provincial emperor in the aforementioned Trajan.
+[06:24 --> 06:28] Nerva's grandfather had been a friend of Tiberius and accompanied the emperor to Comprie, while
+[06:28 --> 06:33] his father had risen to the rank of consul under Caligula.
+[06:33 --> 06:37] Nerva himself eschewed the conventional curses honorum and seems to have had no interest
+[06:37 --> 06:42] in a military career, content instead to wield behind the scenes political influence as an
+[06:42 --> 06:47] advisor to the emperor of his own day, Nero.
+[06:47 --> 06:51] In this capacity he earned Nero's eternal gratitude for the central role he played in
+[06:51 --> 06:57] uncovering the Pisonian conspiracy, and the emperor rewarded him with unprecedented triumphal
+[06:57 --> 07:03] regalia, an honor usually reserved for military victories.
+[07:03 --> 07:07] While skillfully navigating his way around Nero's imperial court, Nerva at some point
+[07:07 --> 07:12] ran into Vespasian and the two struck up a friendship.
+[07:12 --> 07:18] When Nero committed suicide, I think any reasonable bookmaker would have put Nerva down as a staunch
+[07:18 --> 07:19] Othonian.
+[07:19 --> 07:24] Not only was his sister married to Otho's brother, but most of Nero's court wound up
+[07:24 --> 07:28] in Otho's corner anyway during the civil wars, and Nerva was certainly a member of
+[07:28 --> 07:30] Nero's court.
+[07:30 --> 07:35] But Nerva ignored these obvious loyalties and decided early to back Vespasian should
+[07:35 --> 07:39] the latter heed the calls to enter the ring.
+[07:39 --> 07:43] His friendship and support allowed Nerva to become one of the few members of Nero's inner
+[07:43 --> 07:48] circle to transition to the inner circle of the Flavians, which he did so in fine style
+[07:48 --> 07:53] by being named a consul ordinarii in 71 AD.
+[07:53 --> 07:57] And that's the prestigious one, remember, that Vespasian usually reserved for members
+[07:57 --> 07:59] of his own family.
+[07:59 --> 08:04] Nerva spent the next two decades attached at the hip to the Flavian court, acting as
+[08:04 --> 08:08] a historically undocumented but still powerful member of the regime.
+[08:08 --> 08:14] Indeed, after his consulship in 71, he doesn't really pop up again until 90 AD, when he is
+[08:14 --> 08:18] suddenly awarded the honor of serving as Domitian's colleague in the consulship.
+[08:18 --> 08:24] We'll probably never know what role, if any, Nerva played in uncovering Saturninus' rebellion
+[08:24 --> 08:28] or whether it had anything to do with the consular appointment.
+[08:28 --> 08:32] It could be that after the failed uprising, Domitian wanted to reassert firm control over
+[08:32 --> 08:38] the empire and took as his partner the only man he could trust without reservation.
+[08:38 --> 08:43] A man who had served as an advisor and mentor since Domitian's lonely days in Rome after
+[08:43 --> 08:49] being left behind when his father and brother went to fight the Jewish war.
+[08:49 --> 08:53] After the rebellion, Domitian more than ever needed to surround himself with men he could
+[08:53 --> 08:55] trust.
+[08:55 --> 09:00] After all, Maximus had taken it upon himself to burn all the evidence in Saturninus' tent
+[09:00 --> 09:03] before the emperor and his agents could look at it.
+[09:03 --> 09:08] Who knows what names would have popped up as additional conspirators or fellow travelers
+[09:08 --> 09:12] or officially neutral but secret nod-winkers.
+[09:12 --> 09:17] As is so often the case after failed assassinations or coups or rebellions, Domitian couldn't
+[09:17 --> 09:21] help but grow more paranoid and suspicious.
+[09:21 --> 09:24] Which members of that senatorial delegation are plotting to kill me?
+[09:24 --> 09:29] Which of my provincial governors are secretly building anti-imperial alliances?
+[09:29 --> 09:34] How many of my slaves would stab me to death to earn their freedom?
+[09:34 --> 09:40] Distrustful by nature, Domitian's paranoia accelerated through the 90s AD.
+[09:40 --> 09:43] He was not blind to what was happening to him though, nor was he blind to the public's
+[09:43 --> 09:49] perception that their emperor was jumping at more shadows lately and with harsher consequences.
+[09:49 --> 09:54] The problem, as Domitian saw it, was not that he was paranoid for no reason, but that he
+[09:54 --> 09:59] had every rational right to be paranoid because conspiracies did exist against his life that
+[09:59 --> 10:01] needed to be uncovered.
+[10:01 --> 10:07] Suetonius reports that Domitian lamented angrily that no one believes in murderous secret plots
+[10:07 --> 10:11] against the emperor unless the emperor turns up dead.
+[10:11 --> 10:14] Domitian was caught in a trap and he knew it.
+[10:14 --> 10:19] Stay vigilant and be accused of paranoid tyranny or lighten up and die.
+[10:19 --> 10:24] A prudent survivor, Domitian decided he could live with the former if it meant that he would
+[10:24 --> 10:27] live.
+[10:27 --> 10:31] After the events of 89 AD then, there was a sharp uptick in treason trials, the old
+[10:31 --> 10:37] imperial weapon of last resort that had been abandoned by his father and officially outlawed
+[10:37 --> 10:39] by his brother.
+[10:39 --> 10:43] It would be neat and clean to say that the revolt caused Domitian to revive the practice,
+[10:43 --> 10:47] but over the course of his reign he had already killed a handful of senators for treasonous
+[10:47 --> 10:53] activities and his decidedly reactionary take on free speech had dramatically increased
+[10:53 --> 10:57] the scope of what would be considered treasonous activities.
+[10:57 --> 11:03] This is why we can only say that the 90s AD saw Domitian's paranoia increase rather than
+[11:03 --> 11:07] say that the 90s AD is when it began.
+[11:07 --> 11:11] In the last five years of his reign though, Domitian killed about 20 men of senatorial
+[11:11 --> 11:16] rank and confiscated the property of dozens more.
+[11:16 --> 11:20] Banishments and executions came with disturbing regularity and it was during this time that
+[11:20 --> 11:26] Domitian's reputation as a bloodthirsty tyrant was really cemented.
+[11:26 --> 11:30] To a man the senate feared and loathed him.
+[11:30 --> 11:34] Some were afraid of being falsely accused or being deliberately set up by personal enemies
+[11:34 --> 11:38] while others were afraid that their very real attempts to overthrow the emperor were going
+[11:38 --> 11:41] to be discovered.
+[11:41 --> 11:45] Domitian meanwhile was stuck trying to sort through rumors, innuendo and vague shreds
+[11:45 --> 11:50] of evidence convinced that every day might be his last if he didn't get to them before
+[11:50 --> 11:52] they got to him.
+[11:52 --> 11:59] It was simply put a bad time all around for everyone.
+[11:59 --> 12:04] In 96 AD Domitian finally struck too close to home and his own court officials turned
+[12:04 --> 12:11] against him determining that none of them were safe as long as Domitian remained alive.
+[12:11 --> 12:16] Supposedly this last plot was hatched after Domitian executed one of Nero's old freedmen
+[12:16 --> 12:21] who had once upon a time helped Nero escape the palace and then helped the outlaw emperor
+[12:21 --> 12:24] commit suicide.
+[12:24 --> 12:28] Citing the crime of not doing enough to protect his former master, Domitian had the freedman
+[12:28 --> 12:33] killed even though the man had been serving as an imperial secretary for years.
+[12:33 --> 12:39] The convoluted rationale and cross loyalties in the story cast doubt on how much of this
+[12:39 --> 12:41] version of events is true.
+[12:41 --> 12:45] Whether or not the man actually returned to imperial service for example or really whether
+[12:45 --> 12:47] Domitian had him killed at all.
+[12:47 --> 12:52] But his alleged death is cited by Suetonius as the catalyst for Domitian's chamberlain
+[12:52 --> 12:58] Parthenius to organize an assassination in 96 AD.
+[12:58 --> 13:03] Most of who knew what remains pure speculation but the three men we know for sure that were
+[13:03 --> 13:09] in on the plot were Parthenius himself, his freedman Maximus, and an attendant to one
+[13:09 --> 13:13] of Domitian's nieces named Stephanus.
+[13:13 --> 13:17] Maximus was to be the inside man in the palace making sure that the right doors were locked
+[13:17 --> 13:22] and the right doors were unlocked and making sure that on the day of the deed the sword
+[13:22 --> 13:26] Domitian kept under his bed would be removed.
+[13:26 --> 13:30] Stephanus was to be the actual assassination and in preparation for his attack he faked
+[13:30 --> 13:36] an arm injury so everyone would get used to seeing him around with his arm in a sling.
+[13:36 --> 13:40] With his presence in the palace never suspicious as he was in the direct employ of the imperial
+[13:40 --> 13:46] family and his injured arm now old news to the Praetorians watching over the emperor,
+[13:46 --> 13:52] Stephanus was able to then hide a dagger in the bandages and come and go as he pleased.
+[13:52 --> 13:58] The legend then goes that Domitian had long been particularly agitated around noontime
+[13:58 --> 14:02] as an astrologer had once told him that that was the time of day that he was destined to
+[14:02 --> 14:04] die.
+[14:04 --> 14:08] So he was in the habit of constantly asking what time it was until the hour of his demise
+[14:08 --> 14:13] passed so he could relax and go about his business without the fear of death hanging
+[14:13 --> 14:15] over his head.
+[14:15 --> 14:20] But on September 18 one of his servants who was in on the plot lied to the emperor and
+[14:20 --> 14:26] told him it was well past noon when it was in fact just reaching that hour.
+[14:26 --> 14:30] Intent that he was going to live at least one more day Domitian let down his guard and
+[14:30 --> 14:35] retired to his personal quarters to sign some paperwork.
+[14:35 --> 14:39] When Stephanus arrived and demanded an audience with the emperor claiming that he had uncovered
+[14:39 --> 14:44] a plot against the emperor's life, Domitian let the boy in to hear what he had to say.
+[14:44 --> 14:49] Unaware that the plot Stephanus was about to reveal was, you know, the one he was planning
+[14:49 --> 14:52] to execute right then and there.
+[14:52 --> 14:56] Once he was close enough to the emperor, Stephanus pulled the dagger out of his sling
+[14:56 --> 14:59] and stabbed Domitian in the groin.
+[14:59 --> 15:04] But Domitian was not going to be an easy kill and having survived the initial attack he
+[15:04 --> 15:08] managed to fend Stephanus off for several minutes before further accomplices rushed
+[15:08 --> 15:11] in and overwhelmed the wounded emperor.
+[15:11 --> 15:16] Suetonius reports that at least four other men helped Stephanus inflict seven fatal
+[15:16 --> 15:22] stab wounds on Domitian, who finally collapsed on the floor, dead at the age of 45.
+[15:22 --> 15:27] The conspirators then hauled the body off and had it cremated without ceremony.
+[15:27 --> 15:32] The only concession the dead emperor was afforded was that his ashes were eventually deposited
+[15:32 --> 15:38] in the Flavian temple rather than simply being scattered to the four winds.
+[15:38 --> 15:43] He had ruled the empire for fifteen dictatorial but more or less successful years and would
+[15:43 --> 15:47] be remembered as a monster.
+[15:47 --> 15:52] Questions have long abounded about who else was in on the final plan to kill Domitian.
+[15:52 --> 15:58] Cassius Dio implicates his wife Domitila and others have accused the Praetorians of purposeful
+[15:58 --> 16:02] apathy if not outright complicity.
+[16:02 --> 16:07] Further, the Senate's sudden announcement the next day that Nerva, man of the political
+[16:07 --> 16:12] shadows, was their unanimous choice to serve as the next emperor has raised more than a
+[16:12 --> 16:17] few ancient and modern eyebrows about his involvement in the plot.
+[16:17 --> 16:23] I think we can safely say that in their conduct both before and after the assassination that
+[16:23 --> 16:28] Domitila and the rank-and-file Praetorians probably knew nothing of the plot.
+[16:28 --> 16:34] However, one of the Praetorian prefects, Titus Petronius Secundus, was probably aware of
+[16:34 --> 16:38] what was unfolding and did nothing to prevent it.
+[16:38 --> 16:42] But it also seemed that he did nothing to bring any of the guardsmen under his command
+[16:42 --> 16:45] into his confidence.
+[16:45 --> 16:50] Nerva's involvement is far cloudier as he shied away from the public eye.
+[16:50 --> 16:55] He was well connected enough to have eyes and ears everywhere, so it seems reasonable
+[16:55 --> 16:57] that he may have known something.
+[16:57 --> 17:01] And the speed with which he was confirmed as heir to the throne suggests that someone
+[17:01 --> 17:06] may have approached him directly about whether he would be willing to dawn the purple.
+[17:06 --> 17:11] But his years of loyalty not just to the Flavians, but to the imperial house in general, seemed
+[17:11 --> 17:14] to belie such suspicions.
+[17:14 --> 17:18] But then again, he did let all the conspirators go without so much as a slap on the wrist,
+[17:18 --> 17:21] so who knows?
+[17:21 --> 17:27] With Nerva in place, the Senate then let fifteen years of simmering anger explode in a series
+[17:27 --> 17:31] of edicts officially damning Domitian's memory.
+[17:31 --> 17:35] His name was taken off all the public monuments and buildings he had constructed over the
+[17:35 --> 17:41] years, and statues or reliefs that bore his likeness were re-carved to look like Nerva.
+[17:41 --> 17:46] The goal was to pretend as if Domitian never happened, just as Augustus had once tried
+[17:46 --> 17:50] to pretend that Mark Antony had never happened.
+[17:50 --> 17:55] But the law banishing Domitian from the collective memory worked no better than it had for Augustus,
+[17:55 --> 18:01] and even in Rome itself, it was difficult to keep everyone on the same revisionist page.
+[18:02 --> 18:07] Without in the province, it was an utter impossibility, and in the legions, it was downright dangerous
+[18:07 --> 18:09] to even suggest it.
+[18:09 --> 18:13] The rank and file still loved Domitian, and they screamed for blood when his murder was
+[18:13 --> 18:15] announced.
+[18:15 --> 18:19] When the assassins were let go, they howled for vengeance, and for the entirety of his
+[18:19 --> 18:24] brief reign, Nerva would have difficulty exerting any kind of real influence on the troops for
+[18:24 --> 18:27] having allowed such a betrayal.
+[18:27 --> 18:32] Next week, things will get so bad for Nerva that the Praetorians will actually besiege
+[18:32 --> 18:37] the palace and take him hostage, demanding, among other things, the literal heads of Domitian's
+[18:37 --> 18:41] assassins.
+[18:41 --> 18:46] As I've said a few times, Domitian wanted to usher in nothing less than an Augustan
+[18:46 --> 18:51] renaissance, and during his time in office, he certainly matched the breadth and depth
+[18:51 --> 18:54] of the first emperor's interests.
+[18:54 --> 18:59] Just as with Augustus, Domitian did not limit himself to war and politics.
+[18:59 --> 19:04] To both of them, the influence of the princeps rightly extended into all aspects of Roman
+[19:04 --> 19:11] life, the economy, culture, the arts, morality, and sexuality.
+[19:11 --> 19:15] Domitian attempted to follow the blueprint laid down by Augustus.
+[19:15 --> 19:18] After all, it had worked out great the first time around.
+[19:18 --> 19:24] But unfortunately, he never did have the personal gravitas to pull it off.
+[19:24 --> 19:28] Millions of all stripes had scoffed when Augustus tried to implement his conservative
+[19:28 --> 19:29] morality laws.
+[19:29 --> 19:35] The reception when Domitian tried to revive them was a healthy belly laugh.
+[19:35 --> 19:39] When Augustus put his foot down after the disaster in the Tudiburg and declared an end
+[19:39 --> 19:44] to Roman expansion and a reorganization of the legions into a defensive force, his commanders
+[19:44 --> 19:45] obeyed.
+[19:45 --> 19:50] Augustus's military credentials were, after all, impeccable.
+[19:50 --> 19:54] But when the more or less civilian Domitian hewed the identical line, he was accused of
+[19:54 --> 19:58] cowardice, dereliction of duty, and worse.
+[19:58 --> 20:03] He had done nothing to earn the respect of his officers, and generals openly vented their
+[20:03 --> 20:04] frustrations.
+[20:04 --> 20:10] Even though, had the order come from Augustus, they would have hopped too without question.
+[20:10 --> 20:15] Augustus was able to do much because he was Augustus, and Domitian's difficulties stand
+[20:15 --> 20:20] as living proof of the first emperor's unique talents.
+[20:20 --> 20:24] Domitian forever battled on, but his Augustan renaissance was doomed to failure, as long
+[20:24 --> 20:30] as Augustus himself was not around to make it work.
+[20:30 --> 20:34] Next week, we'll begin the smooth transition from the Flavian dynasty to the so-called
+[20:34 --> 20:40] Nervan Antonine dynasty, which will control Rome until the assassination of Commodus nearly
+[20:40 --> 20:43] a century hence.
+[20:43 --> 20:49] This new dynasty will be populated by the men Gibbon famously dubbed the Five Good Emperors,
+[20:49 --> 20:54] and during their time on the throne, the empire will reach its peak culturally, economically,
+[20:54 --> 20:57] and geographically.
+[20:57 --> 21:01] In addition to their own unique talents, the Five Good Emperors are collectively remembered
+[21:01 --> 21:05] for the wisdom they showed in picking their successors.
+[21:05 --> 21:10] Rather than relying on their own possibly deficient biological sons, they chose to adopt
+[21:10 --> 21:14] men of merit who would rule the empire as well as they had.
+[21:14 --> 21:19] The example they set in this regard is often lauded as basically the pinnacle of enlightened
+[21:19 --> 21:24] politics and noble sacrifice in the name of civic virtue.
+[21:24 --> 21:29] The only problem with this is that until Marcus Aurelius, none of the emperors of the Nervan
+[21:29 --> 21:35] Antonine dynasty actually had biological sons to pass power onto.
+[21:35 --> 21:40] Nerva had to adopt Trajan, who had to adopt Hadrian, who had to adopt Antonius Pius, who
+[21:40 --> 21:46] had to adopt Marcus Aurelius and Lucius Verus, because between them there was not a biological
+[21:46 --> 21:48] son to be found.
+[21:48 --> 21:53] So while it was a remarkable run of capable men, and they all deserve credit for their
+[21:53 --> 21:57] eventual choices and heirs, we should not pretend that they were purposely refusing
+[21:57 --> 22:01] to hand power to their biological heirs.
+[22:01 --> 22:06] The first chance one of them had to pass the throne onto a son took it, and that decision
+[22:06 --> 22:11] is where Gibbon finally landed in his search for the beginning of the end of the Roman
+[22:11 --> 22:14] Empire.
+[22:14 --> 22:18] The last thing I'll mention before I go is that I recently recorded a short interview
+[22:18 --> 22:23] about the history of Rome for BBC5 Radio's Pods and Blogs series that should be airing
+[22:23 --> 22:25] this Tuesday night.
+[22:25 --> 22:31] If you're interested, I've posted a link to the interview at thehistoryofrome.typepad.com,
+[22:31 --> 22:36] but you can also get the episode on iTunes by searching for Pods and Blogs.
+[22:36 --> 22:40] I will note, however, that I haven't actually heard the final cut of the interview, so if
+[22:40 --> 22:44] it turns out that I sound like a damn fool, then I'm going to erase the link and deny
+[22:44 --> 22:46] the whole thing ever happened.

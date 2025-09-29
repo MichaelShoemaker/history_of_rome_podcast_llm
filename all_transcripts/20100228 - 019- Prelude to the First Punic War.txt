@@ -1,0 +1,287 @@
+# 20100228 - 019- Prelude to the First Punic War
+# Detected language: en
+# Duration: 964.57 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, episode 19, Prelude to the First Punic War.
+[00:13 --> 00:17] When we last left the Romans, they had driven King Pyrrhus back to Greece and secured
+[00:17 --> 00:19] complete control of the Italian peninsula.
+[00:20 --> 00:25] As you may recall, Pyrrhus, exhausted from his battles with the Romans, had briefly
+[00:25 --> 00:29] moved his army to Sicily, where he attempted to establish a kingdom for himself.
+[00:31 --> 00:35] He found allies among the Greek colonies on the eastern half of the island, but found
+[00:35 --> 00:39] enemies amongst the Carthaginians who had settled the western half.
+[00:40 --> 00:44] Pyrrhus had been successful in Sicily, but was never able to completely dislodge
+[00:44 --> 00:46] the Carthaginians from the island.
+[00:47 --> 00:52] He had every intention of widening his war by invading Africa, but a near revolt
+[00:52 --> 00:56] by his Sicilian Greek allies caused him to instead abandon Sicily altogether.
+[00:58 --> 01:03] As he sailed away, Pyrrhus made a prescient comment, the veracity of which is dubious,
+[01:03 --> 01:07] like every other direct quote from the ancient world, but is worth relaying.
+[01:08 --> 01:13] The Greek king, a veteran of the post-Alexandrian dynastic struggles of the eastern Mediterranean,
+[01:14 --> 01:17] knew an inevitable great power confrontation when he saw one.
+[01:18 --> 01:23] Sicily lay equidistant between Rome and Carthage, and was too rich not to be coveted by both.
+[01:24 --> 01:27] So, while watching the island recede in the distance, he said,
+[01:28 --> 01:32] What a field we are leaving for the Romans and Carthaginians to exercise their arms.
+[01:34 --> 01:38] Ten years after sailing from Italy for good, Pyrrhus's prediction bore out,
+[01:38 --> 01:42] and the two great powers, Rome and Carthage, were at war in Sicily.
+[01:43 --> 01:49] But before we get too far into this, we should address the question of who the Carthaginians were,
+[01:49 --> 01:52] and why we call their long struggle with Rome the Punic Wars,
+[01:53 --> 01:57] and not something easier to remember, like, I don't know, the Carthaginian Wars,
+[01:57 --> 02:02] like we do with the Samnite Wars, and the Latin War, and the Macedonian Wars,
+[02:02 --> 02:04] which you can tell just by looking at the name,
+[02:04 --> 02:08] were fought against the Samnites, and the Latins, and the Macedonians.
+[02:09 --> 02:13] To start with the obvious, the Carthaginians come from Carthage,
+[02:13 --> 02:17] a city on the north coast of Africa near modern-day Tunis.
+[02:18 --> 02:22] They were primarily a trade-based empire, and by the time the Punic Wars rolled around,
+[02:22 --> 02:25] they were the leading economic power in the western Mediterranean.
+[02:26 --> 02:30] Carthage was founded around 800 BC by Phoenician settlers.
+[02:31 --> 02:35] The word Punic is a derivative of the Latin word for Phoenician,
+[02:35 --> 02:38] and it's what the Romans themselves called the Carthaginians.
+[02:38 --> 02:42] So today, we learn about the Punic Wars rather than the Carthaginian Wars.
+[02:44 --> 02:47] The Phoenicians were the strongest maritime power of their day,
+[02:47 --> 02:51] and are remembered most of all for providing one of the first written alphabets in history.
+[02:52 --> 02:54] They spread their influence across the Mediterranean
+[02:54 --> 02:57] by establishing a series of autonomous colonies
+[02:57 --> 03:00] from modern Lebanon to the Straits of Gibraltar.
+[03:01 --> 03:04] Any sense of political solidarity between the new cities quickly vanished,
+[03:05 --> 03:10] but economically they formed the backbone of a new trans-Mediterranean trade network
+[03:10 --> 03:11] that persists even to this day.
+[03:12 --> 03:16] In the western Mediterranean, Carthage soon became the richest city,
+[03:16 --> 03:19] owing to its favorable geographic position
+[03:19 --> 03:23] located along the narrow strait between Africa and Sicily.
+[03:24 --> 03:27] Essentially, to get from here to there in the Mediterranean,
+[03:27 --> 03:29] you had to sail right by Carthage,
+[03:29 --> 03:33] so it quickly became a hub of commercial activity and rich as a result.
+[03:35 --> 03:38] Politically, the Carthaginian government was a mixed oligarchy.
+[03:39 --> 03:42] There was a people's assembly, but it was mostly ceremonial
+[03:42 --> 03:45] and rarely called upon to make important decisions.
+[03:46 --> 03:48] The real power lay in the Senate,
+[03:48 --> 03:51] a body made up of the richest families in Carthage.
+[03:51 --> 03:56] And the real, real power lay with a council of a hundred within the Senate
+[03:56 --> 03:59] made up of the richest and most distinguished senators.
+[04:00 --> 04:03] The Senate elected the chief executive of Carthage, the Suffet,
+[04:04 --> 04:07] who served annually with minimal constraints on power.
+[04:07 --> 04:11] The only aspect of Carthaginian life the Suffet did not control was,
+[04:11 --> 04:16] interestingly, the army, which was left to a professional core of generals.
+[04:16 --> 04:19] This is obviously a marked contrast to the Romans
+[04:19 --> 04:22] who elected their executives primarily to lead their armies
+[04:22 --> 04:25] with every other function serving almost as an afterthought.
+[04:27 --> 04:31] The other major contrast between the Romans and Carthaginians politically
+[04:31 --> 04:35] was that the Carthaginians did not suffer the kind of class conflict
+[04:35 --> 04:37] that forever plagued Rome.
+[04:38 --> 04:42] Access to the aristocracy and therefore power was based entirely on wealth.
+[04:43 --> 04:47] This makes sense given the primarily commercial focus of their empire.
+[04:48 --> 04:50] If you were poor and made yourself rich,
+[04:50 --> 04:52] you were invited into the Senate.
+[04:52 --> 04:56] And if you were rich and lost all your money, you were kicked out.
+[04:56 --> 04:58] It was pretty much that simple.
+[04:59 --> 05:01] It is for this reason that the People's Assembly in Carthage
+[05:01 --> 05:05] did not have nearly the clout that its corollary in Rome did.
+[05:05 --> 05:09] There was no lingering discrimination of new wealth by old families.
+[05:09 --> 05:13] So there was no real sense of disenfranchisement by men with money
+[05:13 --> 05:16] who would have otherwise driven democratic political reform.
+[05:17 --> 05:20] The way to get ahead in Carthage was to make money.
+[05:20 --> 05:24] Nobody cared if you made it last week or ten generations back.
+[05:24 --> 05:25] And if you didn't have money,
+[05:26 --> 05:28] there wasn't a whole lot you could do to change the system.
+[05:30 --> 05:33] All of this contrasted with the political history of Rome
+[05:33 --> 05:36] and it left the two empires with very different world views.
+[05:37 --> 05:40] But this contrast was nothing compared to their views
+[05:40 --> 05:41] on the role of the armed forces.
+[05:42 --> 05:47] The Roman legions were made of Roman citizens and led by Roman citizens.
+[05:48 --> 05:50] Military service was obligatory in Rome
+[05:50 --> 05:54] and the most important contribution to civil society a citizen could make.
+[05:55 --> 05:57] Carthage, however, had no such tradition.
+[05:58 --> 06:00] Led primarily by businessmen and not warriors,
+[06:01 --> 06:03] the Carthaginians contracted out the work
+[06:03 --> 06:06] and hired mercenaries to fight their wars for them.
+[06:07 --> 06:10] There was a small contingent of professional Carthaginian soldiers
+[06:10 --> 06:14] but the actual fighting was done by Numidian cavalry,
+[06:15 --> 06:17] Spanish infantry and Balearic slingers,
+[06:18 --> 06:20] all paid for out of the great Carthaginian treasury.
+[06:22 --> 06:24] There are more than a few who argue that the distinction
+[06:24 --> 06:28] between the citizen army of Rome and the mercenary army of Carthage
+[06:28 --> 06:30] was the deciding factor in the wars
+[06:30 --> 06:32] between these two otherwise equal powers.
+[06:33 --> 06:35] This is probably an oversimplification
+[06:35 --> 06:38] but the distinction should be kept in mind as we go forward.
+[06:40 --> 06:43] Now, historians hate to talk about inevitabilities
+[06:43 --> 06:47] and consider it an insult when anyone starts talking about how this
+[06:47 --> 06:49] or that historical event was destined to occur
+[06:49 --> 06:51] and the Punic Wars are no different.
+[06:53 --> 06:56] It is easy to say in passing that the conflict between Rome and Carthage
+[06:56 --> 07:00] was inevitable and simply move on but things are never so easy.
+[07:01 --> 07:04] There are many, many steps on the path to war
+[07:04 --> 07:09] and if either Rome or Carthage had acted differently at any one of those steps
+[07:09 --> 07:13] they may have indeed avoided the armed conflict that embroiled them for so long.
+[07:14 --> 07:19] But in the end, come on, let's face it, a war between them was inevitable.
+[07:20 --> 07:22] They were two economic and political powerhouses
+[07:22 --> 07:25] whose territorial boundaries bordered one another.
+[07:25 --> 07:27] What did you think was going to happen?
+[07:29 --> 07:31] When Pyrrhus was driven from Italy
+[07:31 --> 07:34] and the Romans finally held the peninsula free and clear
+[07:34 --> 07:37] the countdown was on for a war between Rome and Carthage.
+[07:37 --> 07:40] The only thing missing was a catalyst.
+[07:40 --> 07:43] That minor event in that insignificant place
+[07:43 --> 07:46] that has been starting great power wars for millennia
+[07:46 --> 07:48] from the revolt in Epidominus
+[07:48 --> 07:51] to the assassination of Archduke Ferdinand in Sarajevo.
+[07:53 --> 07:54] In the case of the Punic Wars
+[07:54 --> 07:58] it was the situation in the small Sicilian city of Massana
+[07:58 --> 08:00] present-day Messina that sealed the deal.
+[08:02 --> 08:07] The backstory to that situation is that a group of mercenaries from Campania
+[08:07 --> 08:10] called the Mamertines had been hired by Agathocles,
+[08:10 --> 08:14] the king of Syracuse, to fight his war with the Carthaginians
+[08:14 --> 08:18] for control of Sicily between 315 and 305 BC.
+[08:19 --> 08:22] A stalemate peace had been reached by 300
+[08:22 --> 08:26] that divided the island between Greek and Carthaginian interests
+[08:26 --> 08:28] with Massana ceded to Carthage.
+[08:29 --> 08:32] When Agathocles died in 289 BC
+[08:32 --> 08:35] his Italian mercenaries were left unpaid and unemployed.
+[08:35 --> 08:37] Never a good combination.
+[08:38 --> 08:40] The mercenaries took a shine to Massana
+[08:40 --> 08:43] and decided to seize control of the city for themselves
+[08:43 --> 08:45] and see if anyone would stop them.
+[08:46 --> 08:48] Massana lay on the east coast of the island
+[08:48 --> 08:51] and the Carthaginian garrison was not large or easily supplied.
+[08:52 --> 08:54] So when the Mamertines overran the city
+[08:54 --> 08:57] the Carthaginians could only watch helplessly.
+[08:58 --> 09:01] The Mamertines held the city for a decade or so
+[09:01 --> 09:02] living fat off the land
+[09:02 --> 09:05] but knowing they were in a precarious situation
+[09:05 --> 09:08] joined in the call for Pyrrhus to come to the island
+[09:08 --> 09:12] and drive the Carthaginians out once and for all in 278 BC.
+[09:13 --> 09:16] When the Greek king's rule began to reek of tyranny
+[09:16 --> 09:18] the Mamertines then joined in the subsequent call
+[09:18 --> 09:21] for Pyrrhus to please go back where he came from.
+[09:22 --> 09:24] Over the course of the next decade
+[09:24 --> 09:27] the major shift in Sicilian power politics
+[09:27 --> 09:29] was the rise of Hyro in Syracuse
+[09:29 --> 09:31] and his ambition to control the whole island.
+[09:32 --> 09:34] In the department of strange bedfellows
+[09:34 --> 09:37] the rise of Hyro threatened both the Mamertines
+[09:37 --> 09:38] and the Carthaginians.
+[09:38 --> 09:42] So in 265 BC the Mamertines
+[09:42 --> 09:44] formerly requested a Carthaginian garrison
+[09:44 --> 09:46] for their city to help them fight off Hyro
+[09:46 --> 09:48] and the request was granted.
+[09:49 --> 09:50] But the Mamertines,
+[09:50 --> 09:53] apparently the most fickle ruling class in history,
+[09:53 --> 09:56] immediately regretted inviting the Carthaginians in
+[09:56 --> 09:58] and cast about for someone
+[09:58 --> 10:00] to help them drive out their new allies.
+[10:00 --> 10:03] There was no one in Sicily who could help them
+[10:03 --> 10:05] so the Mamertines looked back to their homeland
+[10:05 --> 10:09] and requested aid from the greatest power of all, Rome.
+[10:11 --> 10:13] The Romans were divided on how to react.
+[10:13 --> 10:15] There were moral as well as practical reasons
+[10:15 --> 10:17] to deny the request.
+[10:18 --> 10:20] Arguments for and against the idea were raised
+[10:21 --> 10:23] with support for aid coming from backers
+[10:23 --> 10:24] of the Claudii family
+[10:24 --> 10:28] who coincidentally held land and power in the south
+[10:28 --> 10:30] and arguments against the idea
+[10:30 --> 10:32] coming from supporters of the Fabii family
+[10:32 --> 10:35] who argued Rome should expand north
+[10:35 --> 10:37] where they, again coincidentally,
+[10:37 --> 10:39] held the majority of the land and power.
+[10:40 --> 10:42] This did not detract from the arguments themselves.
+[10:43 --> 10:44] It is just interesting to note
+[10:44 --> 10:46] who embraced what argument and why.
+[10:48 --> 10:49] The Fabii were quick to point out
+[10:49 --> 10:52] two important reasons for denying aid,
+[10:52 --> 10:54] one moral and one practical.
+[10:55 --> 10:56] Morally they reminded the Senate
+[10:56 --> 10:58] the recent seizure of Regium
+[10:58 --> 11:01] by legionaries just a few years before.
+[11:02 --> 11:03] In the aftermath of the Pyrrhic Wars,
+[11:04 --> 11:05] a group of Roman soldiers
+[11:05 --> 11:07] had taken control of the Greek city
+[11:07 --> 11:09] which lay in the extreme toe of Italy
+[11:09 --> 11:11] and declared themselves autonomous oligarchs.
+[11:12 --> 11:15] The Romans had taken a dim view of this at the time
+[11:15 --> 11:18] and in 270 BC retook Regium,
+[11:18 --> 11:19] marching the rebels back to Rome
+[11:19 --> 11:22] and beheading them in full view of the public.
+[11:23 --> 11:26] The Fabii argued that for Rome to now come to the aid
+[11:26 --> 11:29] of a group who so closely mirrored the group from Regium
+[11:29 --> 11:32] would show the Romans to be abject hypocrites.
+[11:33 --> 11:36] The second point, as succinct as it was practical,
+[11:36 --> 11:37] went like this.
+[11:38 --> 11:41] Helping the Mamertines meant fighting the Carthaginians
+[11:41 --> 11:42] and fighting the Carthaginians
+[11:42 --> 11:44] was a really, really bad idea.
+[11:46 --> 11:49] The Claudii, however, argued that the Carthaginians
+[11:49 --> 11:51] were already pressing at Rome's doorstep,
+[11:51 --> 11:54] having taken up positions in Sicily and Sardinia
+[11:54 --> 11:56] and Corsica, the large islands
+[11:56 --> 11:58] laying off the Italian coast.
+[11:59 --> 12:01] If Rome did not do something soon
+[12:01 --> 12:02] to head off the Carthaginians,
+[12:03 --> 12:05] Rome would find itself and its Italian empire
+[12:05 --> 12:08] surrounded by the more powerful Carthaginians.
+[12:09 --> 12:11] The time to act was now
+[12:11 --> 12:13] before Carthage solidified its position.
+[12:14 --> 12:17] The immediate strategic importance of controlling Massana
+[12:17 --> 12:20] and thus the straits between Italy and Sicily
+[12:20 --> 12:23] was obvious, but the larger strategic imperative
+[12:23 --> 12:25] of checking Carthaginian encroachment
+[12:25 --> 12:27] was just as important.
+[12:28 --> 12:30] Plus, they said, the Carthaginians
+[12:30 --> 12:32] were so bogged down trying to pacify Spain
+[12:32 --> 12:34] that they probably would not even react
+[12:34 --> 12:36] to a Roman foray into Sicily.
+[12:37 --> 12:40] On this last count, they were completely mistaken,
+[12:40 --> 12:42] but in the end, the Claudii,
+[12:42 --> 12:44] filling the Senate with visions of an easy victory
+[12:44 --> 12:48] and irresistible Roman expansion, carried the day.
+[12:49 --> 12:52] The Senate ordered one of the consuls for the year,
+[12:52 --> 12:55] Appius Claudius, yes, another Appius Claudius,
+[12:56 --> 12:58] to raise two legions and sail for Sicily.
+[12:59 --> 13:02] But Claudius, recognizing that time was of the essence,
+[13:03 --> 13:04] dispatched one of his cousins
+[13:04 --> 13:06] to immediately secure passage for a smaller force
+[13:06 --> 13:09] on Greek ships chartered from Tarentum.
+[13:10 --> 13:13] This smaller force could set out at once for Massana
+[13:13 --> 13:16] and, with a little luck, secure the city
+[13:16 --> 13:18] before the Carthaginians knew what had occurred.
+[13:19 --> 13:21] Once Massana was in Roman hands,
+[13:21 --> 13:24] the consul Claudius would follow with the two full legions
+[13:24 --> 13:26] and relieve the expeditionary force.
+[13:27 --> 13:30] This advanced Roman brigade landed in Sicily without a hitch
+[13:30 --> 13:33] and marched to the Mamertines' aid.
+[13:34 --> 13:36] Upon hearing the news that the Roman army was at the gates,
+[13:37 --> 13:39] the commander of the Carthaginian garrison
+[13:39 --> 13:42] immediately began to make preparations for a fight,
+[13:42 --> 13:45] but seeing the Mamertines welcome the Romans with open arms,
+[13:46 --> 13:49] realized he was in it in a bad way and withdrew from the city.
+[13:50 --> 13:54] The conquest of Massana had thus been a bloodless affair,
+[13:54 --> 13:56] but the ease of victory for the Romans
+[13:56 --> 13:59] was almost certainly a result of Carthaginian restraint
+[13:59 --> 14:01] rather than any weakness of arms.
+[14:02 --> 14:06] The east coast of Sicily was the last outpost of Carthaginian control
+[14:06 --> 14:10] and there was no standing orders in place to cover a sudden Roman invasion.
+[14:11 --> 14:15] The prudent naval commander, seeing the Romans cross the strait,
+[14:15 --> 14:19] likely decided it was best to leave the small Roman force alone
+[14:19 --> 14:23] and wait for instructions from home rather than spark a full-scale war
+[14:23 --> 14:24] by immediately attacking.
+[14:25 --> 14:30] The Carthaginian senate was apoplectic when they heard the news of the Roman invasion
+[14:30 --> 14:33] and recalled the leader of the Massana garrison
+[14:33 --> 14:37] and crucified him, literally, for his failure to defend the city.
+[14:38 --> 14:41] Carthage reacted with far more vigor than the Romans had estimated
+[14:41 --> 14:45] and the Carthaginians immediately directed their armies to Massana
+[14:45 --> 14:47] with orders to nip this Roman menace in the bud.
+[14:48 --> 14:52] Just as Appius Claudius arrived in Sicily with his two legions,
+[14:52 --> 14:56] the Carthaginian armies reached Massana and, just like that,
+[14:56 --> 15:00] the First Punic War was on, whether either side really wanted it or not.
+[15:03 --> 15:06] Next week, we will get into the guts of the First Punic War,
+[15:06 --> 15:10] or as it might just as easily be called, the War for Sicily,
+[15:10 --> 15:13] as all the action takes place on and around the island.
+[15:14 --> 15:16] There would be triumphs for both sides,
+[15:16 --> 15:20] but as much as the Second Punic War was defined by great generalship,
+[15:20 --> 15:23] the First Punic War is actually defined by bumbling,
+[15:24 --> 15:27] incompetence, and missed opportunities by the leadership of both armies.
+[15:28 --> 15:31] The Romans would eventually win this sloppily played game,
+[15:32 --> 15:35] but their victory would do nothing more than guarantee that another,
+[15:35 --> 15:37] a far bloodier conflict,
+[15:37 --> 15:40] would be fought as soon as the two, now-moral enemies,
+[15:40 --> 15:41] caught their breath.

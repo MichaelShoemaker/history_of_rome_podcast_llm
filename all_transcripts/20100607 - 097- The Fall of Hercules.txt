@@ -1,0 +1,312 @@
+# 20100607 - 097- The Fall of Hercules
+# Detected language: en
+# Duration: 1743.57 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you now know, Audible is the internet's leading provider of audio entertainment with
+[00:08 --> 00:10] over 60,000 titles to choose from.
+[00:10 --> 00:15] When you're done with this episode, go to audiblepodcast.com forward slash Roam.
+[00:15 --> 00:20] That again is audiblepodcast.com forward slash Roam.
+[00:20 --> 00:23] By going to that address, you will qualify for a free book download when you sign up
+[00:23 --> 00:25] for a 14-day trial membership.
+[00:25 --> 00:29] There is no obligation to continue the service and you can cancel any time and keep the free
+[00:29 --> 00:31] book.
+[00:31 --> 00:34] You can also keep going with one of the monthly subscription options and get great deals on
+[00:34 --> 00:37] all future audiobook purchases.
+[00:37 --> 00:43] This week, I am going to go back to the very beginning and recommend The Histories by Herodotus.
+[00:43 --> 00:48] Herodotus is widely acknowledged as the father of history and though he was not exactly rigorous
+[00:48 --> 00:53] about his separation of fact and fantasy, he was the first writer in the western world
+[00:53 --> 00:57] to really lay down a full, compelling history of the past.
+[00:57 --> 01:00] And for that alone, we are all in his debt.
+[01:00 --> 01:11] Just remember to go to audiblepodcast.com forward slash Roam so they know who sent you.
+[01:11 --> 01:19] Hello and welcome to The History of Rome, episode 97, The Fall of Hercules.
+[01:19 --> 01:25] Okay, so last time, Maximus was totally framed by Joaquin Phoenix and even though he was
+[01:25 --> 01:30] able to escape his own execution and make it back to his estates in Spain, the fugitive
+[01:30 --> 01:35] general was eventually captured by slave traders, but not before learning that Joaquin Phoenix
+[01:35 --> 01:38] had murdered his entire family.
+[01:38 --> 01:44] This week, now a gladiator, Maximus must fight or die in the arena and maybe, hopefully,
+[01:44 --> 01:46] one day have his revenge.
+[01:46 --> 01:49] Okay, not really.
+[01:49 --> 01:50] There was no Maximus.
+[01:50 --> 01:55] The non-existent Maximus did not kill Commodus in single combat and that certainly did not
+[01:55 --> 01:58] lead to a great restoration of the Republic.
+[01:58 --> 02:00] Good movie, though.
+[02:00 --> 02:05] And funny enough, the bit about Commodus fighting as a gladiator was no joke, and if anything,
+[02:05 --> 02:11] the movie actually downplayed the emperor's obsession.
+[02:11 --> 02:15] Following the purges that surrounded the fall of Perennis, the imperial chamberlain Cleander
+[02:15 --> 02:20] rose to power and along with a circle of corrupt and decadent allies, Cleander ran the empire
+[02:20 --> 02:26] for his own benefit from 185 to 190 AD.
+[02:26 --> 02:31] During those years, Commodus withdrew even further from the real world and when not drinking
+[02:31 --> 02:35] or dabbling in his harem or sitting in the baths, he spent the majority of his free time
+[02:35 --> 02:38] training to be a gladiator.
+[02:38 --> 02:43] The emperor's obsession with gladiatorial combat dated back to his childhood and was
+[02:43 --> 02:48] the centerpiece of that reputation I talked about earlier, the one Marcus hoped Commodus
+[02:48 --> 02:49] would eventually outgrow.
+[02:50 --> 02:55] But rather than outgrow it, Commodus let it grow with him.
+[02:55 --> 02:59] Disinterested in the real work of soldiering, Commodus was fascinated with the staged fights
+[02:59 --> 03:06] of the arena and from very early on aspired to join the pantheon of gladiatorial gods.
+[03:06 --> 03:12] Now an emperor and with no one to stop him, he let this ambition off its leash.
+[03:12 --> 03:18] Now in the Roman social hierarchy, an emperor was at the very tippy top of the pyramid and
+[03:18 --> 03:23] a gladiator was in the sub-sub basement down with the prostitutes and the actors.
+[03:23 --> 03:30] A free citizen fighting in the arena was unseemly, an equite fighting was scandalous, a senator
+[03:30 --> 03:36] fighting was a barely conceivable horror, an emperor fighting as a gladiator, well that
+[03:36 --> 03:42] would be the equivalent of the president turning up one morning in a cracked den.
+[03:42 --> 03:46] Commodus cared not a whit about the social taboos though, he wanted to stand over 10,000
+[03:46 --> 03:52] dead opponents and bask in the adoration of the crowd, nothing else mattered.
+[03:52 --> 03:58] At first he confined himself to private contests but as he grew more confident in his abilities
+[03:58 --> 04:02] the emperor started naming himself the headline attraction for the all too frequent games
+[04:02 --> 04:05] thrown during his reign.
+[04:05 --> 04:11] Now Commodus was no slouch here, he was young and athletic and seems to have taken his training
+[04:11 --> 04:12] seriously.
+[04:12 --> 04:17] He was an excellent shot and handy with every kind of weapon imaginable.
+[04:17 --> 04:22] But there is no getting around the fact that he never did fight a fair fight.
+[04:22 --> 04:26] Obviously you can't have the emperor going out there and getting killed by some random
+[04:26 --> 04:31] slave, so Commodus typically fought pre-wounded opponents or more commonly opponents who had
+[04:31 --> 04:37] been given a lead sword to match up against the emperor's sharpened steel.
+[04:37 --> 04:41] These widely known secrets of the emperor's success made all his boasting about what a
+[04:42 --> 04:47] great warrior he was ring a bit hollow and far from elevating his reputation it made
+[04:47 --> 04:52] him the object of persistent if private mockery.
+[04:52 --> 04:57] Adding a malevolent edge to his somewhat ridiculous displays of alleged gladiatorial prowess was
+[04:57 --> 05:03] the fact that Commodus took particular delight in killing anything that seemed freakish.
+[05:03 --> 05:08] He would bring in midgets so he could pretend to be a mighty giant, he would bring in amputees
+[05:08 --> 05:13] and watch them hobble around feebly as he toyed with them and at times he would put
+[05:13 --> 05:20] his surgical skills to the test and slowly dismember victims while avoiding major arteries.
+[05:20 --> 05:25] His most famous routine though was the hunt and in addition to the old reoccurring line
+[05:25 --> 05:31] about having slain a hundred lions in a single day he was fond of bringing in exotic oddities,
+[05:31 --> 05:38] ostriches, giraffes, elephants and the like and felling them with a few well-placed arrows.
+[05:39 --> 05:43] For a long time the masses got a kick out of the ludicrous novelty of watching the emperor
+[05:43 --> 05:50] do horrible things to handicapped opponents but the novelty eventually wore off.
+[05:50 --> 05:54] For members of the senate meanwhile, at least the non-Commodus appointed members of the
+[05:54 --> 05:59] senate anyway, there never was any novelty to begin with. The whole spectacle was an
+[05:59 --> 06:06] affront to the dignity of the emperor, the senators themselves and the empire at large.
+[06:06 --> 06:10] It was suspected that if given a chance his friends and colleagues in the senate would
+[06:10 --> 06:16] find other places to be on game day so he made attendance at his performances mandatory.
+[06:16 --> 06:20] That is, one of the quickest ways to find yourself on the emperor's hit list was to
+[06:20 --> 06:26] call in sick to the coliseum. And when you found yourself on the emperor's hit list
+[06:26 --> 06:31] it wasn't like he just didn't invite you to dinner or something. No, that meant that
+[06:31 --> 06:37] charges of treason, property confiscation and execution were right around the corner.
+[06:37 --> 06:43] So the senators went and watched the emperor club cripples to death. Really, the whole
+[06:43 --> 06:48] thing was just cruel, pathetic and sad.
+[06:48 --> 06:55] Meanwhile the empire continued to plunge unchecked towards a system-wide failure. The legions
+[06:55 --> 06:59] upon whom Commodus was in part resting the legitimacy of his reign were beginning to
+[06:59 --> 07:04] slip away from him. At first their ire was directed to the emperor's favorites like
+[07:04 --> 07:09] Perennis, but as their dissatisfaction mounted Commodus began to become an object of their
+[07:09 --> 07:16] anger as well. Commodus had dispatched Pertinax to Britain which had been a recent hotbed
+[07:16 --> 07:22] of insubordination with instructions to get the situation there back in hand. Pertinax
+[07:22 --> 07:27] was an old soldier who had earned his name and reputation putting out Rome's fires across
+[07:27 --> 07:32] the empire and when he got to Britain it did not take long for him to be embraced by
+[07:32 --> 07:39] the heretofore rebellious troops. But at this point in the history of the empire being embraced
+[07:39 --> 07:44] by the troops was a dangerous proposition. So when the British legions got together and
+[07:44 --> 07:51] decided to hail Pertinax their new emperor, Pertinax outright refused. Deeply unsettled
+[07:51 --> 07:57] by the position he found himself in he wrote to Commodus requesting immediate reassignment.
+[07:57 --> 08:01] Now you would think the fact that the British legions kept trying to declare new emperors
+[08:01 --> 08:06] would have led to some sort of imperial action, but apparently Commodus and at this point
+[08:06 --> 08:13] Cleander vastly underestimated the severity of the situation. Soon enough though they
+[08:13 --> 08:21] would no longer be able to ignore it. In 186 a charismatic army deserter in Gaul named
+[08:21 --> 08:26] Maternus began to round up a motley crew of followers consisting of fellow deserters,
+[08:26 --> 08:32] ex-soldiers and brigands. At first they were concerned mostly with raiding the countryside
+[08:32 --> 08:38] for their own enrichment, but eventually after more and more men flocked to his banner Maternus
+[08:38 --> 08:44] began to think of himself as the second coming of Spartacus. His force grew to the point
+[08:44 --> 08:50] that raids on towns turned into sieges of small cities. He led his men back and forth
+[08:50 --> 08:57] across the Pyrenees causing havoc in the under-Garrison portions of Spain and Gaul before finally
+[08:57 --> 09:03] the powers that be realized that there was a renegade army running loose within the empire.
+[09:03 --> 09:08] The response to this brief uprising, sometimes called the Deserters War, was spearheaded
+[09:08 --> 09:14] by Pasquenius Niger who was finally able to confront Maternus' force and defeat it in
+[09:14 --> 09:22] open battle. But, undeterred, in March of 187 Maternus regrouped with a corps of supporters
+[09:22 --> 09:28] and headed south into Italy. The plan now was to infiltrate Rome during an upcoming
+[09:28 --> 09:34] festival, get close to the emperor and assassinate him. The plot was not as outlandish as it
+[09:34 --> 09:40] sounds. The festival involved citizens of every class putting on costumes and partying
+[09:40 --> 09:46] in the streets. Maternus managed to secure some Praetorian guard uniforms and figured
+[09:46 --> 09:50] that with everyone, including the guard, getting good and drunk in an atmosphere of shifting
+[09:50 --> 09:57] identities that he might just be able to bluff his way into the imperial entourage. But before
+[09:57 --> 10:01] the conspiracy got off the ground, Maternus was betrayed by one of his followers over
+[10:01 --> 10:09] some personal slight and the assassins were all rounded up and executed. The already paranoid
+[10:09 --> 10:14] commonist was driven further round the bend by the revelation that his life had been saved
+[10:14 --> 10:19] not by the fact that his bodyguards were so super great at their jobs, but because the
+[10:19 --> 10:26] conspiracy had been betrayed by a disgruntled ex-member. Further compounding his agitation
+[10:26 --> 10:31] was a note passed along by Pertinax that one of Commodus' brothers-in-law and a few other
+[10:31 --> 10:37] senators were gathering support for their own assassination attempt. It seems that Pertinax
+[10:37 --> 10:41] thought the chances of the conspirators dim and so decided to make double sure that he
+[10:41 --> 10:46] wasn't implicated in the plot and alerted the emperor after he himself was invited to
+[10:46 --> 10:54] join. From this point on, Commodus was rendered practically inert. He never left the safe
+[10:54 --> 11:00] confines of the palace or, if he wasn't in Rome, the safety of his country villas. The
+[11:00 --> 11:05] only public appearances he made for the rest of his reign were when he performed as a gladiator,
+[11:05 --> 11:13] seemingly the only time that he actually felt safe and comfortable. But though Commodus was
+[11:13 --> 11:19] a publicly invisible emperor, he was still a force to be reckoned with in private, and not
+[11:19 --> 11:25] in a good way at all. With Pertinax as his colleague, Commodus had taken a shine to debasing
+[11:25 --> 11:30] the senate, making erratic bureaucratic appointments, and doing whatever he could to
+[11:30 --> 11:36] personally humiliate individual members of the aristocracy. But now, with Cleander as his partner
+[11:36 --> 11:43] in crime, everything was ratcheted up a couple of notches. Cleander made a fortune selling
+[11:43 --> 11:49] offices, membership in the senate, and plum overseas appointments, while Commodus encouraged
+[11:49 --> 11:54] his freedmen to harass senators, confiscate their property, and, when the mood struck him,
+[11:54 --> 12:01] murder them. Further compounding the mockery they were making of the government was the fact
+[12:01 --> 12:06] that the two men actually spent very little time thinking about the government, and chose
+[12:06 --> 12:13] instead to focus on exploring the vast and wide depths of sexual depravity. I won't go into
+[12:13 --> 12:18] the details because, hey, this is a family podcast, but suffice it to say that there was
+[12:18 --> 12:22] some pretty brutal stuff going on at the palace, and not at all behind closed doors.
+[12:22 --> 12:32] In mid-187, Cleander took the lead in a new round of purges, this one aimed at anyone connected to
+[12:32 --> 12:39] the conspiracy Pertinax had decided to expose. Luckily for Cleander, the families involved were
+[12:39 --> 12:46] also personal enemies, who represented the last real organized threat to his power. So, off with
+[12:46 --> 12:53] all their heads. This latest round of political murders is further notable for sweeping up the
+[12:53 --> 12:59] Empress Crispina along with everyone else. It doesn't look like she was in any way involved in
+[12:59 --> 13:04] the plot, but rather that she simply fell victim to the whims of a probably sociopathic emperor
+[13:04 --> 13:11] who had grown tired of his wife. Bad enough that she was exiled and then killed, but her crime,
+[13:11 --> 13:17] the one so heinous that she was exiled and killed for it, was simply being caught up engaging in
+[13:17 --> 13:23] an extramarital affair. You know, the kind her husband had engaged in every single day of their
+[13:23 --> 13:33] marriage. Stay classy, Commodus. In 188, Cleander further solidified his grip on power by creating
+[13:33 --> 13:38] a new office that superseded the two Praetorian prefects, effectively putting him in charge of
+[13:38 --> 13:45] the Emperor's secret police. Up to this point, Cleander had controlled the guard much as Perennis
+[13:45 --> 13:51] had, by constantly hiring and firing the prefects so none of them could create enduring loyalty
+[13:51 --> 13:56] within the ranks. But having finally set the record by allowing one poor appointee to remain
+[13:56 --> 14:01] in office a mere six hours, Cleander finally decided that this was maybe getting a little
+[14:01 --> 14:06] ridiculous, that there needed to be some kind of institutional stability. What if the guard
+[14:06 --> 14:14] actually needed to do something? So he invented a new office, assumed it, and then ran the Praetorians
+[14:14 --> 14:22] himself. At this point, it seemed like things would go on like this forever. Cleander had a
+[14:22 --> 14:27] stranglehold on Rome, the enemies of the new imperial order were all dead or exiled, and
+[14:27 --> 14:32] Commodus cared only about chariot racing, sitting in the baths, and gladiatorial combat.
+[14:32 --> 14:38] The Empire was slowly being driven into the ground, but anyone in a position to actually
+[14:38 --> 14:43] do anything about it were the ones already behind the wheel and doing said driving.
+[14:43 --> 14:50] But as so often happens in these sorts of bloodily tyrannical quasi-police states,
+[14:50 --> 14:55] one minute you're up, and the next minute you're being airbrushed out of that photo of you and
+[14:55 --> 15:03] Stalin enjoying a nice glass of vodka together. For Cleander, the end came in 190, a year in which
+[15:03 --> 15:08] he and Commodus conspired to appoint twenty-five different men consul, a record that would stand
+[15:08 --> 15:14] unchallenged for the rest of the life of the Empire. Remember when consulships were a sacred
+[15:14 --> 15:20] office that marked the prestigious climax of a long and distinguished career? Yeah, no one else
+[15:20 --> 15:27] does either. Included in that infamously long roll call of consuls for 190, though, was a man
+[15:27 --> 15:32] who was about to reach the new climax point for the Roman politician, Septimius Severus.
+[15:35 --> 15:39] In one of those classic it's the economy stupid moments,
+[15:39 --> 15:43] Cleander's fall from power was precipitated by a grain shortage in Rome.
+[15:45 --> 15:49] Without a major crisis getting in his way, Cleander was able to more or less come and
+[15:49 --> 15:55] go as he pleased, but as soon as the grain stopped flowing and someone needed to be scapegoated,
+[15:55 --> 16:00] well, that someone was naturally the man who had just spent five years lording over everyone
+[16:00 --> 16:07] how much power he had. The few active enemies of the imperial chamberlain left alive seized
+[16:07 --> 16:12] the opportunity the food shortages presented and organized a very public display against the
+[16:12 --> 16:17] emperor's favorite at the one place the emperor was bound to hear about it, in the Circus Maximus.
+[16:20 --> 16:26] In April of 190 AD at a set of chariot races, a group of children were given anti-Cleander
+[16:26 --> 16:31] banners and were snuck down onto the field where they began shouting anti-Cleander chants.
+[16:32 --> 16:37] The hope was that if children were used that the Praetorians wouldn't be able to just march out
+[16:37 --> 16:43] and club them all to death, and the trick seems to have worked. The crowd eventually joined in the
+[16:43 --> 16:48] chanting and before too long they had worked themselves into a frenzy and marched out of the
+[16:48 --> 16:55] Circus Maximus towards the villa Cleander was staying at. Facing down a crowd of nearly 150,000,
+[16:56 --> 17:00] Cleander ordered the Praetorian guard to move in and beat the mob into submission.
+[17:02 --> 17:07] But when he called for backup from the urban cohorts, who were at this point led by newly
+[17:07 --> 17:13] appointed urban prefect Pertinax, Pertinax not only ignored the call, but he ordered his own troops
+[17:13 --> 17:16] into the crowd to help them drive off the Praetorians.
+[17:19 --> 17:25] Cleander fled to the imperial villa Commodus was relaxing at, but as with Parenus, the emperor was
+[17:25 --> 17:30] more than willing to throw his favorite under the bus if that seemed like the safest course of action
+[17:30 --> 17:37] for Commodus. So rather than face the wrath of the mob himself, Cleander was handed over to the crowd
+[17:37 --> 17:40] who promptly killed him and dragged his body through the streets.
+[17:40 --> 17:45] The fall of Cleander was accompanied by yet another round of purges and anyone with a close
+[17:45 --> 17:50] connection to the dead Chamberlain found themselves added to the emperor's prescription lists rather
+[17:50 --> 17:57] than being asked to help draw them up. These are the times when you start to understand the appeal
+[17:57 --> 18:03] of a philosophy like Epicureanism with its emphasis on leaving politics to those cruel enough and dumb
+[18:04 --> 18:12] enough to get caught up in it. During the reign of Commodus, you were either up and orchestrating
+[18:12 --> 18:18] the murder of your enemies, or you were down and being murdered by your enemies. Those leaders who
+[18:18 --> 18:22] survived to see the other side were either like Pertinax and willing to follow the winds wherever
+[18:22 --> 18:29] they blew, personal honor be damned, or like Septimius Severus, who kept his head down,
+[18:29 --> 18:34] but in witnessing the petty bloody back and forth in Rome, developed an entirely cynical
+[18:34 --> 18:39] philosophy of government that would help transform the empire into the unstable
+[18:39 --> 18:43] banana republic style military dictatorships of the third century.
+[18:46 --> 18:49] But before we get to the founding of the new Severan dynasty,
+[18:49 --> 18:54] we still have to cover the last ignoble phase of the Nervan Antonine dynasty.
+[18:54 --> 18:58] The unbroken line of high-quality emperors that stretched back nearly a century and produced some
+[18:58 --> 19:05] of the most recognizable names in Roman imperial history, Trajan, Hadrian, Marcus Aurelius,
+[19:05 --> 19:12] was about to be broken. Just as Nero had wrecked the Julio-Claudians and Domitian had wrecked the
+[19:12 --> 19:19] Flavians, Commodus was about to wreck the Antonines. In defense of the first two,
+[19:19 --> 19:24] the legitimacy of the Julio-Claudians was already a shaky proposition by the time Nero arrived,
+[19:24 --> 19:29] and Domitian was toppled not for being a terrible emperor, but for being an unusually arrogant one.
+[19:30 --> 19:35] Commodus, on the other hand, took an entirely healthy dynasty, spun a hard right, and just
+[19:35 --> 19:42] drove it into a brick wall. He was arrogant like Domitian, but instead of offsetting this by
+[19:42 --> 19:47] establishing an effective autocracy, he oversaw a slight change in the order in which he was
+[19:47 --> 20:04] in charge. Commodus saved the best for last, though, and during his last two years in office,
+[20:04 --> 20:10] he really kicked the crazy up a notch. Basically, if Commodus had had his way,
+[20:11 --> 20:15] this podcast would not be called The History of Rome, it would be called The History of
+[20:15 --> 20:21] Commodiana, and I wouldn't be talking about how the Romans kicked off this or that campaign season
+[20:21 --> 20:26] in the month of April, but instead talking about how the Commodians kicked off this or
+[20:26 --> 20:32] that new campaign season in the month of Commodus. And also, did you know that Commodus was the
+[20:32 --> 20:37] reincarnation of Hercules? Not just that he liked to associate himself with Hercules, mind you,
+[20:37 --> 20:43] but that he was literally the reincarnation of Hercules? Yes, good times were ahead.
+[20:45 --> 20:51] The crazy really got rolling right after Cleander and his allies were liquidated.
+[20:52 --> 20:57] Rather than elevate some new favorite to power, the now 29-year-old Commodus
+[20:57 --> 21:03] decided that it was time to rule in his own right. He still surrounded himself with corrupt
+[21:03 --> 21:09] sycophants, most notably his mistress Marcia, new chamberlain Eclectus, and new praetorian prefect
+[21:09 --> 21:16] Quintus Letus. But unlike in his past dealings with Sataris, Parenus, and Cleander, Commodus did
+[21:16 --> 21:22] not delegate his imperial responsibilities. But then again, neither did he really embrace them either.
+[21:24 --> 21:27] Instead, the governance of the empire was just sort of set adrift.
+[21:29 --> 21:33] Commodus spent nearly every day fighting as a gladiator or enjoying the races,
+[21:34 --> 21:38] and his only real concern was making sure that he had enough money to pay for it all.
+[21:38 --> 21:41] Usually by confiscating property or levying new taxes.
+[21:42 --> 21:46] But of course, he never did have enough money to pay for it all,
+[21:46 --> 21:49] and he would leave the imperial treasury deep, deep in the red.
+[21:52 --> 21:57] By 191, Commodus was beginning to lose touch even with the masses,
+[21:57 --> 22:00] who had always supported an emperor as obsessed with the games as they were.
+[22:02 --> 22:07] They began to look sideways at his obsession with Hercules and took as mighty impious the
+[22:07 --> 22:10] claim that he was actually the reincarnation of the old Greek hero.
+[22:12 --> 22:17] When Commodus began erecting statues across the city featuring himself dressed as Hercules,
+[22:17 --> 22:21] and began carrying around a great big club which he called the Club of Hercules,
+[22:22 --> 22:26] the people joined in the aristocracy's concern over the sanity of their emperor.
+[22:29 --> 22:35] Delusions of lineage aside, Commodus' association with Hercules did introduce a new theme to the
+[22:35 --> 22:39] political order that in time would become a staple of imperial propaganda.
+[22:41 --> 22:44] As we all know, Hercules was the son of Jupiter.
+[22:45 --> 22:49] This meant that if Commodus was literally an incarnation of Hercules,
+[22:49 --> 22:53] that his true father was not Marcus Aurelius, but Jupiter himself.
+[22:55 --> 23:00] Commodus further implied that this meant that he did not rule by virtue of the senate's consent
+[23:00 --> 23:04] or the will of the masses, or because he had the backing of the legions,
+[23:04 --> 23:08] but because it was the will of his father, Jupiter, greatest and best.
+[23:10 --> 23:15] Commodus was, in other words, a divine monarch, and he himself was a living god.
+[23:16 --> 23:21] It would take a little while for this new conception of where imperial sovereignty lay
+[23:21 --> 23:26] to catch on, but Diocletian would eventually make the business about being a divine monarch
+[23:26 --> 23:29] a cornerstone of his empire-wide reforms.
+[23:30 --> 23:35] Now, of course, unlike Commodus, Diocletian probably did not actually believe that he was divine,
+[23:35 --> 23:40] and that he was simply grasping for anything that would help restore the dignity of the imperial
+[23:40 --> 23:46] throne so he could reassert some control over the legions. But still, that was where political
+[23:46 --> 23:52] theory was headed, and Commodus, at least in this one respect, was an innovator ahead of his time.
+[23:52 --> 23:57] But if he was a divinely appointed ruler, then it did not take long for Jupiter to realize his
+[23:57 --> 24:04] mistake. In 191, a fire broke out in Rome that raged for days, and among other things,
+[24:04 --> 24:10] burned the temple of the Vestas to the ground. Commodus seemed unconcerned about the damage,
+[24:10 --> 24:15] but rather seemed thrilled at the prospect of getting to refound Rome in his own image.
+[24:16 --> 24:22] So, in early 192, he fully embraced his own outsized megalomania, and declared that henceforth
+[24:22 --> 24:29] Rome would no longer be called Rome, but instead the Colonia Ania Commodiana. In other words,
+[24:29 --> 24:35] the city of Commodus. He further decreed that the legions would now be called the Commodiani,
+[24:35 --> 24:41] and the Senate would be called Commodus' Fortunate Senate, a city that would be called
+[24:41 --> 24:47] and the Senate would be called Commodus' Fortunate Senate, a sort of darkly comic rebranding.
+[24:49 --> 24:56] Having already changed his full name to Lucius Aurelius Aurelius, Commodus Augustus, Hercules
+[24:56 --> 25:04] Romanus ex Superatorius Amazonius Invictus Felix Pius, he then changed the names of the months,
+[25:04 --> 25:07] so that each lined up with one of his twelve corresponding names.
+[25:07 --> 25:14] All of this began to worry even his inner circle, who tried to dissuade the Emperor
+[25:14 --> 25:19] from indulging himself too much in these fantasies, for fear that he would alienate
+[25:19 --> 25:25] the whole population with his strange declarations. But all that they got in response was a suspicious
+[25:25 --> 25:30] snarl, leaving them all with the justified true belief that they were about to be purged
+[25:30 --> 25:33] for having the temerity to question the Son of God.
+[25:33 --> 25:43] In late 192, Eclectus, Marcia, and Letus got together and agreed that the Emperor had to
+[25:43 --> 25:47] be done away with, or they would all lose their heads, either at the hands of the Emperor,
+[25:47 --> 25:51] or at the hands of the mob who seemed to be prepping for a mass uprising.
+[25:53 --> 25:58] But having seen multiple attempts on the Emperor's life fail, they laid their plans carefully.
+[25:58 --> 26:05] Being so close to the Emperor, they knew they would have the means, motive, and opportunity
+[26:05 --> 26:10] to do the job, but what they didn't yet have was someone willing to replace commoners on the throne.
+[26:12 --> 26:17] Killing the Emperor was one thing, ensuring that the assassination would not cause a civil war
+[26:17 --> 26:23] was quite another. So they had to find someone who would be palatable to all three interested
+[26:23 --> 26:28] parties in the outcome. The Senate, the Army, and the masses.
+[26:29 --> 26:33] In the end, they figured there was only one man for the job, and that was Pertinax.
+[26:35 --> 26:39] I'm not entirely sure why they thought Pertinax would do anything but just rat them out,
+[26:40 --> 26:45] but the conspirators approached the old general, and this time, he concurred that Commodus's time
+[26:45 --> 26:52] was up. Pertinax agreed to wait in the wings and take no direct part in the killing, but when the
+[26:52 --> 26:57] deed was done, he pledged that when asked, he would reluctantly agree to don the purple.
+[27:00 --> 27:04] Even with their plans carefully laid, things got off to a bad start.
+[27:05 --> 27:11] On New Year's Eve, 192, Marsha attempted to poison her lover, but Commodus caught
+[27:11 --> 27:14] wise to the poison and forced himself to vomit it all back up.
+[27:16 --> 27:21] Not sure who was behind the attempt, Commodus retired to his private bath
+[27:21 --> 27:27] so he could be alone with his paranoia. Quickly switching to plan B, the conspirators
+[27:27 --> 27:32] sent Commodus's wrestling partner Narcissus into the bath with instructions to strangle the emperor.
+[27:34 --> 27:40] Just as with the assassination of Domitian, Commodus did not go quietly, but eventually,
+[27:40 --> 27:43] Narcissus got the upper hand and Commodus lay dead on the floor.
+[27:45 --> 27:50] He was 31 years old and had ruled the empire very, very badly for 12 years.
+[27:51 --> 27:59] Next week, the empire will wake up with a massive hangover and try to take stock of the damage that
+[27:59 --> 28:05] had been done over the previous decade by Commodus and his friends. But before they could even find
+[28:05 --> 28:11] the aspirin, the people of Rome will be forced to endure a political situation spinning violently
+[28:11 --> 28:18] out of control. Pertinax will not last 100 days in power. The reign of his successor,
+[28:18 --> 28:25] Didius Julianus, will be even shorter. Then three men representing different regions of the empire
+[28:25 --> 28:32] will all vie for the throne on the battlefield. Rather than emerging into the safety of a Commodus
+[28:32 --> 28:37] free world, the empire will instead find itself sucked into something far more treacherous,
+[28:37 --> 28:48] a year with five emperors.

@@ -1,0 +1,367 @@
+# 20100301 - 082- Hadrian's Walls
+# Detected language: en
+# Duration: 1670.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to the History of Rome, episode 82, Hadrian's Walls.
+[00:14 --> 00:18] When Hadrian ascended to the throne in 117 AD, the Roman Empire was actually in a more
+[00:18 --> 00:22] precarious position than is often remembered.
+[00:22 --> 00:26] Though Trajan had taken the Empire to its greatest territorial extent and been a shining
+[00:27 --> 00:33] of enlightened despotism, rips in the Imperial fabric had begun to show up across the Mediterranean.
+[00:33 --> 00:38] We have already seen that the conquest of Mesopotamia was a name only, as the entire
+[00:38 --> 00:44] region was either preparing for, or already engaged in, uprisings against the Roman occupation.
+[00:44 --> 00:49] A revolt in Dacia necessitated the transfer of the capable governor of Syria to the troubled
+[00:49 --> 00:54] new province, a transfer, recall, that opened the spot for Hadrian up.
+[00:54 --> 00:59] And shortly thereafter, tribal elements in northern Britain began to violently strike
+[00:59 --> 01:01] at their Imperial masters.
+[01:01 --> 01:05] But more destructive than any of these frontier revolts was an uprising that I have only
+[01:05 --> 01:09] mentioned in passing thus far that deserves far more attention.
+[01:09 --> 01:14] For the shocking violence that defined it, yes, but also for the reactionary attitude
+[01:14 --> 01:18] it couldn't have helped but imprint on the new emperor.
+[01:18 --> 01:22] A reactionary attitude that would come back to haunt Hadrian later in his reign.
+[01:22 --> 01:26] I am talking, of course, about the Second Jewish War.
+[01:26 --> 01:30] I mentioned the revolt in passing while talking about Trajan's troubled supply lines during
+[01:30 --> 01:35] the last phase of his Middle Eastern campaign, but really, issues with Trajan's supply lines
+[01:35 --> 01:37] is the real passing issue.
+[01:37 --> 01:42] The revolt itself is the thing, and as it engulfed the southwest Mediterranean, the
+[01:42 --> 01:47] loss of life was shocking, even by ancient standards.
+[01:47 --> 01:52] After the Flavians methodically conquered Judea during the First Jewish War, many of the Jews
+[01:52 --> 01:56] who were not killed or sold into slavery fled their decimated homeland for greener
+[01:56 --> 01:59] pastures elsewhere in the empire.
+[01:59 --> 02:03] But their refusal to forsake their traditions and assimilate into the local Greco-Roman
+[02:03 --> 02:09] societies they arrived in led to fear, anger, and resentment on both sides.
+[02:09 --> 02:13] Locals couldn't understand why the Jews were being so stubborn and tried to force them
+[02:13 --> 02:18] to change their ways, while the newly arrived Jews felt nothing but hostility and oppression
+[02:18 --> 02:20] from their new neighbors.
+[02:20 --> 02:26] In 115, a man named Lucuus, a Jewish leader from Cyrene, the province neighboring Egypt
+[02:26 --> 02:31] to the west, finally decided he had had enough, announced that as the new king of the Jews,
+[02:31 --> 02:35] he was declaring war on his Hellenized neighbors.
+[02:35 --> 02:39] Though there is a great deal of anti-Semitic hyperbole in the ancient histories, it seems
+[02:39 --> 02:45] clear that Lucuus led the Jews of Cyrene on a campaign of cultural cleansing.
+[02:45 --> 02:49] Greek and Roman temples were destroyed, civic buildings were sacked, and all non-Jewish
+[02:49 --> 02:54] inhabitants, military and civilian alike, were killed on site.
+[02:54 --> 02:58] The revolt soon spread to the neighboring province of Egypt, north to the island of
+[02:58 --> 03:04] Cyprus, and eventually into the newly conquered Mesopotamia, where local Jews attacked Trajan's
+[03:04 --> 03:07] rearguard garrisons.
+[03:07 --> 03:11] At the height of the anarchy, Lucuus was able to seize control of Alexandria, and the city
+[03:11 --> 03:14] was partially burned to the ground.
+[03:14 --> 03:20] North, on the closed island of Cyprus, reports have it that upwards of 200,000 Greco-Roman
+[03:20 --> 03:23] residents were slaughtered by the Jews.
+[03:23 --> 03:27] At first, Trajan was sure his local governors would be able to deal with the problem without
+[03:27 --> 03:29] the need for further imperial support.
+[03:29 --> 03:34] But after the prefect of Egypt withdrew from Alexandria, Trajan became convinced that this
+[03:34 --> 03:38] was a much bigger deal than he wanted it to be.
+[03:38 --> 03:43] He dispatched a trusty lieutenant named Marcus Turbo with enough troops to retake Alexandria,
+[03:43 --> 03:47] and ordered a full legion onto the usually unoccupied island of Cyprus to put down the
+[03:47 --> 03:50] marauding Jews.
+[03:50 --> 03:55] While Cyprus was easily repassified, the fighting in Egypt was much tougher, and Turbo was only
+[03:55 --> 04:00] able to declare victory in late 117, after Trajan was dead.
+[04:00 --> 04:04] Lucuus, and what was left of his army, fled to the Judean city of Lydda, where they were
+[04:05 --> 04:10] besieged by the commander of Trajan's Eastern Invasion Force, Lucius Quietus.
+[04:10 --> 04:15] Eventually, this last stronghold fell as a result of famine and disease, and Lucuus,
+[04:15 --> 04:22] the other Jewish commanders, and an untold number of civilians were executed by the Romans.
+[04:22 --> 04:27] For his success, Quietus was summarily dismissed as too great a threat to Hadrian's new and
+[04:27 --> 04:32] thus far still shaky hold on power.
+[04:32 --> 04:36] Yet this second Jewish war was still ongoing as the transfer of power from Trajan to Hadrian
+[04:36 --> 04:41] took place, played mightily into the new emperor's decision to abandon the east and consolidate
+[04:41 --> 04:45] Roman control over what was already theirs.
+[04:45 --> 04:51] Of course, in Hadrian's mind, this included Judea, Jewish uprising or no Jewish uprising,
+[04:51 --> 04:55] and after the revolt was over, a legion was moved back into the province to ensure its
+[04:55 --> 04:59] true pacification.
+[04:59 --> 05:03] Hadrian may have already been formulating his long-term and ill-fated plan for what
+[05:03 --> 05:07] to do about the troublesome Jewish province, but for now, it was enough that the violence
+[05:07 --> 05:09] was stopped.
+[05:09 --> 05:14] As for Cyrene, where the revolt began, the ancient sources report that the province was
+[05:14 --> 05:19] so depopulated that Hadrian was forced to actively engage in a recolonization project
+[05:19 --> 05:21] later in his reign.
+[05:21 --> 05:28] The island of Cyprus simply banned outright any further Jewish settlement.
+[05:28 --> 05:33] With the endgame of the Jewish revolt serving as a backdrop, and remember that Hadrian was
+[05:33 --> 05:38] living in Antioch at the time, just up the road, Hadrian made his fateful decision to
+[05:38 --> 05:44] pull out of the east and allow the Parthian king Trajan had deposed to return to the throne.
+[05:44 --> 05:48] There is a lot of talk about how much the withdrawal struck at the heart of the Roman
+[05:48 --> 05:53] notion that their empire would expand forever, but I think much closer to their hearts was
+[05:53 --> 05:59] the worship of an obscure god named Terminus, who was the patron of boundaries and who,
+[05:59 --> 06:03] it was said, Jupiter himself could not move.
+[06:03 --> 06:07] Deep in the center of the Roman identity was not simply the notion that they would expand
+[06:07 --> 06:12] forever, but that what was taken once could never be lost.
+[06:12 --> 06:17] Once Terminus had set a new boundary, Jupiter himself could not move it.
+[06:17 --> 06:23] And yet here was Hadrian, a mere mortal, retreating from Terminus's new line, moving him backwards.
+[06:24 --> 06:30] I think this is really what offended the Senate, who were mightily offended by Hadrian's decision.
+[06:30 --> 06:35] But Hadrian, as I said, would stand firm, and the eastern pullout was just the opening
+[06:35 --> 06:41] shot in his war on future military adventurism.
+[06:41 --> 06:45] In October of 117, Hadrian decided that things in the east were settled enough that he could
+[06:45 --> 06:48] begin the journey back to Rome.
+[06:48 --> 06:53] He marched up along the Danube and inspected the imperial defenses, appointing a new governor
+[06:53 --> 06:58] of Lower Moesia named Ovidius Negrinus, and took another shot at Terminus by ordering
+[06:58 --> 07:04] the legions to withdraw from the territory they had seized on the far side of the Danube.
+[07:04 --> 07:09] Like with Mesopotamia, Hadrian determined the land was too difficult to hold for too little
+[07:09 --> 07:10] benefit.
+[07:10 --> 07:16] And as with Mesopotamia, the decision was met with ridicule in the Senate.
+[07:16 --> 07:20] Hadrian was digging himself into quite a political hole, and he would need to do some serious
+[07:20 --> 07:23] damage control when he returned to Rome.
+[07:23 --> 07:27] But before he made it back to Italy, that political hole would become something of a
+[07:27 --> 07:33] bottomless pit, either through Hadrian's own misguided paranoia, or because of the misguided
+[07:33 --> 07:36] paranoia of a few overzealous allies.
+[07:36 --> 07:38] Or maybe it wasn't misguided at all.
+[07:38 --> 07:41] Maybe it was all totally justified.
+[07:41 --> 07:46] Whatever it was, and whoever was behind it, the political murders of four ex-consuls in
+[07:46 --> 07:51] early 118 would be a black mark that Hadrian would spend the rest of his life trying to
+[07:51 --> 07:58] spin, justify, deny, ignore, and just plain forget.
+[07:58 --> 08:02] The affair was eventually laid at the feet of Hadrian's old guardian and the current
+[08:02 --> 08:08] Praetorian prefect, Atianus, who, as I mentioned last week, was, from the word go, urging Hadrian
+[08:08 --> 08:11] to engage in some kind of purge.
+[08:12 --> 08:17] Atianus supposedly uncovered information that the four high-ranking senators were engaged
+[08:17 --> 08:22] in a plot to murder or overthrow Hadrian, and either at Hadrian's direct order or on
+[08:22 --> 08:28] his own initiative had the men seized and executed without trial.
+[08:28 --> 08:33] The first two victims were Cornelius Palma, former governor of Syria, and Publius Kelsus,
+[08:33 --> 08:39] who had already been kicked out of Trajan's inner circle for suspicion of treason.
+[08:39 --> 08:44] Both of these men, Atianus had already advised Hadrian to kill, though the first time around,
+[08:44 --> 08:48] as I said last week, Hadrian advised less drastic measures.
+[08:48 --> 08:53] The second two victims, though, seemed to come out of nowhere, and their deaths shocked
+[08:53 --> 08:57] the Roman elite, who became convinced that regardless of Hadrian's stated desire to
+[08:57 --> 09:02] leave the Senate in peace, that they were dealing with a megalomaniacal psychopathic
+[09:02 --> 09:03] egotist.
+[09:03 --> 09:09] In other words, nothing less than the second coming of demission.
+[09:09 --> 09:14] The continuity is confused about who did what to who when, but at the end of the day Lucius
+[09:14 --> 09:21] Quietus on his way home to Mauritania and Avidius Negrinus, the recently appointed but quickly
+[09:21 --> 09:25] dismissed governor of lower Moesia, were both dead.
+[09:25 --> 09:29] Even more offensive than the murders themselves was the fact that Hadrian, or at the very
+[09:29 --> 09:35] least Atianus, had compelled the Senate to act as an accomplice.
+[09:35 --> 09:39] Just as had been demission's practice, the Senate was forced to sign the death warrants
+[09:39 --> 09:43] themselves, officially confirming that the threat against the new emperor was real and
+[09:43 --> 09:46] the executions justified.
+[09:46 --> 09:51] No one in the Senate believed a word of the trumped up charges, and the murderous coercion
+[09:51 --> 09:54] enraged them to a man.
+[09:54 --> 10:00] When Hadrian finally arrived in Rome in July of 118, he was greeted by a more or less joyful
+[10:00 --> 10:06] citizen body, but was scorned by a super duper pissed off Senate.
+[10:06 --> 10:10] Hadrian's wisdom, though, was not limited to law and justice and the arts and all the
+[10:10 --> 10:13] other things he is remembered for.
+[10:13 --> 10:18] It also included that keen sense of self-awareness that is an oft overlooked quality of really
+[10:18 --> 10:21] effective leaders.
+[10:21 --> 10:25] In essence, Hadrian knew that he had stepped in it big time, and that he needed to do
+[10:25 --> 10:29] everything in his power to repair the damage the murders had caused.
+[10:29 --> 10:33] The ambitious new emperor had an impressive list of things he wanted to accomplish during
+[10:33 --> 10:38] his years in power, and he knew nothing was going to get done if he was forever undercut
+[10:38 --> 10:44] by a sulking Senate, or, perhaps more likely, he was afraid that they would finally put
+[10:44 --> 10:47] together a real conspiracy and kill him outright.
+[10:47 --> 10:49] It had happened before.
+[10:49 --> 10:52] So Hadrian went out of his way to make amends.
+[10:52 --> 10:57] He pleaded innocence in the affair and claimed his subordinates had acted without his knowledge.
+[10:57 --> 11:03] He removed Atianus' prefect and swore up and down that he would prove good to his word
+[11:03 --> 11:07] that the Senate would remain sacrosanct.
+[11:07 --> 11:11] In the weeks that followed, he made sure to make himself seen publicly and invited anyone
+[11:11 --> 11:15] who so desired to come visit him at the Imperial Palace.
+[11:15 --> 11:20] If they believed he would prove to be a reclusive, autocratic demission, then he would show them
+[11:20 --> 11:25] with his actions that he was an available, genial Augustus.
+[11:25 --> 11:29] In all his words and deeds, Hadrian sought to continue the principate and studiously
+[11:29 --> 11:36] avoided anything that would remind anyone of demission's autocratic dominance.
+[11:36 --> 11:40] In a final nod to the disaffected Senate, he declared that henceforth any proceeds
+[11:40 --> 11:46] from legal penalties, fines and confiscations and such, would go directly to the State Treasury,
+[11:46 --> 11:48] not the Imperial accounts.
+[11:48 --> 11:53] Hadrian hoped everyone would understand that under his regime, the fundraising possibilities
+[11:53 --> 12:00] of prescriptions and treason trials, that old Imperial bogeyman, would be null and void.
+[12:00 --> 12:03] Though for a variety of reasons, he would never fully win over the Senate.
+[12:03 --> 12:07] In time, they at least came to believe that another reign of terror was no longer right
+[12:07 --> 12:09] around the corner.
+[12:09 --> 12:16] He may have been a lot of things, some good and some bad, but he was not another demission.
+[12:16 --> 12:21] With the Senate attended to as best as they could be, after all, time was the only salve
+[12:21 --> 12:26] that would truly heal their wounds, Hadrian moved on to securing the support of the people
+[12:26 --> 12:28] at large.
+[12:28 --> 12:33] He wanted to make a big splash, both to celebrate his ascension, but also to get the masses
+[12:34 --> 12:40] him, so he could leverage his popularity with them against the suspicious Senate.
+[12:40 --> 12:45] A big splash then may actually be a bit of an understatement, and I have to believe that
+[12:45 --> 12:49] most citizens thought it some kind of joke when they heard that the Emperor planned to
+[12:49 --> 12:55] cancel all outstanding debts on any state loan taken out in the past 15 years.
+[12:55 --> 13:00] But it was no joke, and to prove his point, he had the Praetorians march the loan records
+[13:00 --> 13:04] out into Trajan's Forum and burn them all in a great pyre.
+[13:04 --> 13:10] A coin commemorates the event that, yeah, made Hadrian an instant hit with the people.
+[13:10 --> 13:14] He then announced that he intended to revise and extend the elementary system begun by
+[13:14 --> 13:20] Nerva and perpetuated by Trajan, and further, the number of financial burdens that had previously
+[13:20 --> 13:26] been borne by the local municipalities would now be funded directly from the Imperial Treasury.
+[13:27 --> 13:30] Finally, Hadrian gave the people what they really wanted.
+[13:30 --> 13:34] Games, games, and more games.
+[13:34 --> 13:39] Gladiatorial shows and chariot races were a given, but Hadrian's early games, especially
+[13:39 --> 13:45] the ones celebrating his 43rd birthday in January 119, marked Hadrian as an unequaled
+[13:45 --> 13:48] patron of wild animal hunts in the arena.
+[13:48 --> 13:53] The Emperor, somewhat in the face of aristocratic good taste, was an avid hunter and did his
+[13:53 --> 13:58] best to bring the thrill of felling a great beast to his subjects, who ate up all his
+[13:58 --> 14:03] bread and circuses with relish.
+[14:03 --> 14:08] With any dissent in Italy more or less pacified and his regime now fully legitimized, Hadrian
+[14:08 --> 14:11] turned his attention to the provinces.
+[14:11 --> 14:16] But unlike previous emperors, who were content to rule the Empire by way of correspondence,
+[14:16 --> 14:20] Hadrian believed that the only way he could make a proper decision about anything was
+[14:20 --> 14:23] to be there for himself.
+[14:23 --> 14:28] Unlike Trajan, who was disposed to let his subordinates figure it out for themselves,
+[14:28 --> 14:32] Hadrian was a micromanager of the highest order, who had no intention of letting any
+[14:32 --> 14:37] decision of import pass his desk without comment.
+[14:37 --> 14:41] If you combine the need to micromanage with an active personality determined to assess
+[14:41 --> 14:46] all situations for himself, what you get is an Emperor who has no intention of lounging
+[14:46 --> 14:48] around Rome all day.
+[14:48 --> 14:53] What you get is an Emperor who will spend more time on the road and visit more provinces
+[14:53 --> 14:58] than any other Emperor before or since.
+[14:58 --> 15:02] By my calculations, Hadrian spent roughly half of his twenty-one year reign on one of
+[15:02 --> 15:07] his extended tours of the Empire, and even when he was home in Italy, he resided at his
+[15:07 --> 15:11] villa in Tivoli rather than in Rome itself.
+[15:11 --> 15:16] The total number of hours he spent inside the city cannot be accurately calculated,
+[15:16 --> 15:21] but having spent his formative years in Spain, his early career stationed in the Provincial
+[15:21 --> 15:26] Legions and the majority of his reign on the road or at his Italian villa, I think it is
+[15:26 --> 15:30] safe to say that Rome saw less of Hadrian over the course of his life than any of his
+[15:30 --> 15:32] predecessors.
+[15:32 --> 15:37] As we move forward, this will become a growing trend as more militant Provincials will don
+[15:37 --> 15:42] the purple and never even deign to return to the alleged capital of the Empire.
+[15:42 --> 15:47] The trend will reach its full expression with the rise of Diocletian who despised the city
+[15:47 --> 15:52] and Constantine who would abandon it forever.
+[15:52 --> 15:57] Hadrian set out on his first grand tour in 121, intent on inspecting the Western Empire
+[15:57 --> 15:59] for himself.
+[15:59 --> 16:04] He had seen much of the East while attached to Trajan's staff, but had been away from
+[16:04 --> 16:08] the West for the better part of fifteen years and wanted to make sure the frontiers were
+[16:08 --> 16:11] secure and the people prosperous.
+[16:11 --> 16:16] He headed north to inspect the Rhine legions, who had for so many years been the cream of
+[16:16 --> 16:21] the Roman armed forces, but since imperial focus had shifted East, had become somewhat
+[16:21 --> 16:25] of a lax force of time-servers.
+[16:25 --> 16:30] Hadrian arrived in the camps and set about restoring discipline and a sense of purpose.
+[16:30 --> 16:35] But he was not all Martinet and coupled with severity were reforms designed to increase
+[16:35 --> 16:40] the general happiness of his men, including a long overdue change to the laws restricting
+[16:40 --> 16:43] while still in the service.
+[16:43 --> 16:46] He spent the rest of the year in the tents with his Rhine legions, joining them on their
+[16:46 --> 16:51] marches, often walking right alongside them and never ever being carried in an opulent
+[16:51 --> 16:53] litter.
+[16:53 --> 16:58] While in Italy, Hadrian used the ornaments of power skillfully to subtly cow the Senate.
+[16:58 --> 17:03] But out in the provinces, he eschewed the trappings of power in favor of simple clothes
+[17:03 --> 17:07] and unpretentious lodgings.
+[17:07 --> 17:12] When he left the Rhine in 122, he left his men more disciplined and more focused than
+[17:12 --> 17:17] they had been in years, which was a good thing because Hadrian had no intention of ever actually
+[17:17 --> 17:19] using them in battle.
+[17:19 --> 17:23] He left them instead happily toiling away on an extended upgrade to Domitian's lime
+[17:23 --> 17:28] Easter manicus, which Hadrian hoped would give them a sense of purpose and more importantly
+[17:28 --> 17:34] exhaust them physically so that idle hands would not become the devil's playground.
+[17:34 --> 17:39] The emperors' next stop was Britannia, that foggy island on the edge of the world that
+[17:39 --> 17:44] as a minor province had hosted a surprising number of major imperial figures, including
+[17:44 --> 17:50] Julius Caesar, Claudius, Vespasian, Titus, and now Hadrian.
+[17:50 --> 17:55] Hadrian's purpose in Britain was the same as his stop along the Rhine.
+[17:55 --> 18:00] Inspect the frontier defenses and ensure the discipline and reliability of the legions
+[18:00 --> 18:02] stationed there.
+[18:02 --> 18:07] The island had seen a local revolt accompanying Trajan's death in 117 and Hadrian was looking
+[18:07 --> 18:12] for a permanent solution to the periodic British uprising.
+[18:12 --> 18:18] The emperor's solution became the defining artifact of his reign.
+[18:18 --> 18:22] This was certainly not Hadrian's intention given the myriad other splendid works of art
+[18:22 --> 18:28] and architecture he devoted his full time and attention to, but the 70 mile long wall
+[18:28 --> 18:34] built from the Solway Firth to the North Sea has stood the test of time and its stone ruins
+[18:34 --> 18:39] seem to tell the whole story of Hadrian's reign in one dull gray package.
+[18:39 --> 18:45] His peace and defense policy, his provincial travels, his love of architecture, his savvy
+[18:45 --> 18:49] economic and political instincts, it's all there in the wall that cuts a line across
+[18:49 --> 18:52] northern Britain.
+[18:52 --> 18:57] At its heart though, the wall was not meant to be a simple defensive frontier and we shouldn't
+[18:57 --> 19:02] accept the this side civilization, that side barbarism that summaries of historical summaries
+[19:02 --> 19:06] often reduce it to.
+[19:06 --> 19:09] I think part of the key to understanding the true purpose of the wall is the fact that
+[19:09 --> 19:13] it bisected Brigante's territory.
+[19:13 --> 19:18] That strongest and typically allied with Roman interests northern British tribe had caused
+[19:18 --> 19:23] trouble before, had possibly been involved in the 117 difficulties and no doubt was forever
+[19:23 --> 19:28] seen as a sleeping menace by the Roman authorities.
+[19:28 --> 19:33] By slicing their territory in two and forcing all north-south traffic to pass through Roman
+[19:33 --> 19:38] checkpoints, the imperial authorities were able to effectively divide and monitor the
+[19:38 --> 19:41] Brigante's.
+[19:41 --> 19:45] The wall was also a tax collection point, a place where Roman civilization was able
+[19:45 --> 19:50] to take root in the form of the garrison towns that naturally grew around the legionary
+[19:50 --> 19:55] barracks and of course it was an awe-inspiring projection of Roman power.
+[19:55 --> 20:00] It is interesting to remember that what we see today is just the leftover remains and
+[20:00 --> 20:07] that when it was originally built Hadrian's wall was whitewashed a spotless ivory color.
+[20:07 --> 20:12] In the dark climate of the north, the wall was a glowing white line that reminded everyone
+[20:12 --> 20:16] who the true masters of the world were.
+[20:16 --> 20:20] Although the wall is of course a historical treasure, I can't help but laugh when I think
+[20:20 --> 20:26] of what Hadrian's reaction would be upon learning that for all his Philholenism, patronage
+[20:26 --> 20:30] of the arts and sciences, and the myriad great temples he left in his wake, that a simple
+[20:30 --> 20:38] stone wall in far-off Britain would be his defining legacy.
+[20:38 --> 20:42] Leaving the British legions toiling away on a wall just as he had left the Rhine legions
+[20:42 --> 20:47] toiling away on their wall, Hadrian headed south through Gaul and into his old home country
+[20:47 --> 20:53] of Spain where he spent the winter of 122-123 likely hunting and enjoying the rustic pleasures
+[20:53 --> 20:56] of the Iberian peninsula.
+[20:56 --> 21:01] When spring came, he headed across the Straits of Gibraltar into Mauritania where a Moorish
+[21:01 --> 21:04] rebellion had broken out.
+[21:04 --> 21:07] The brief rebellion seems to have come to nothing, but it would be enough to prompt
+[21:07 --> 21:12] Hadrian on a subsequent trip to Africa to order that a defensive line be built facing
+[21:12 --> 21:17] into the Atlas Mountains where the nomadic raiders were based.
+[21:17 --> 21:22] As with his wall in Britain, the North African wall was designed as much to manipulate and
+[21:22 --> 21:25] monitor traffic flow as anything else.
+[21:25 --> 21:29] The nomads needed to periodically cross the Roman frontier on their way to freshwater
+[21:29 --> 21:33] and pasture lands, and Hadrian wanted to make sure that they were inspected and counted
+[21:33 --> 21:37] as they came and went.
+[21:37 --> 21:41] As with the rest of his stay in Africa are sketchy, but the imperial entourage seems
+[21:41 --> 21:46] to have headed east to the depopulated province of Cyrene where they then either set sail
+[21:46 --> 21:51] for Syria directly or where they simply pass through on their way to Alexandria where they
+[21:51 --> 21:53] then set sail from.
+[21:53 --> 22:00] Either way, in June 123 Hadrian pops up in Antioch where he intended to deal with a resurgent
+[22:00 --> 22:04] Parthian empire.
+[22:04 --> 22:08] With their ill-defined political structure, the Parthians were forever wracked by internal
+[22:08 --> 22:13] squabbles over who should be king, but during the brief periods where one claim it united
+[22:13 --> 22:18] the fractured eastern kingdoms, Rome had to be on guard against possible encroachment,
+[22:18 --> 22:23] and that was exactly what Hadrian was in Syria to do.
+[22:23 --> 22:27] But following the example of Augustus rather than Trajan, Hadrian planned to solve all
+[22:27 --> 22:31] the disputes between the two great empires diplomatically.
+[22:31 --> 22:36] Though the ancient sources are once again maddeningly vague, Hadrian appears to have
+[22:36 --> 22:40] met in personal conference with the Parthian king along the Euphrates and the two hammered
+[22:40 --> 22:45] out a deal that confirmed the river as the border between them.
+[22:45 --> 22:49] The details of what concessions were made along the way were not recorded, but whatever
+[22:49 --> 22:54] the cost, Hadrian no doubt saw it as a cheaper alternative to the blood and treasure war
+[22:54 --> 22:58] in the east would naturally drain.
+[22:58 --> 23:02] The settlement once again sent the hawkish senate into a tizzy who couldn't understand
+[23:02 --> 23:08] why the emperor was bothering to deal with a kingdom the legions had so recently steamrolled.
+[23:08 --> 23:12] But Hadrian had a vision of peace and stability, and he was not going to abandon it just to
+[23:12 --> 23:19] satisfy the egos of a bunch of rich old aristocrats back in Rome.
+[23:19 --> 23:24] Having come to terms with the Parthians, Hadrian headed back to the west through Asia Minor.
+[23:24 --> 23:30] About 124 he played the part of tourist, judge, and director of public works, and every stop
+[23:30 --> 23:36] along the way, and indeed practically every city he would ever visit during his 21 years
+[23:36 --> 23:42] in office, was left with an improved aqueduct system, an expanded street, or a new theater,
+[23:42 --> 23:47] or some other civic improvement Hadrian had devised or approved of.
+[23:47 --> 23:52] His last stop in Asia Minor before he landed in Athens in the autumn of 124 was the province
+[23:52 --> 23:57] of Bithynia Pontus on the southern coast of the Black Sea.
+[23:57 --> 24:02] The stopover is important because it was while passing through the city of Claudiopolis that
+[24:02 --> 24:07] Hadrian possibly first met Antinous, the young Bithynian who would come to mean so much to
+[24:07 --> 24:09] the emperor.
+[24:09 --> 24:14] No record exists of when the two first met, but the journey through Antinous' home province
+[24:14 --> 24:16] is as likely a time as any.
+[24:16 --> 24:20] I thought I would get into the Hadrian-Antinous relationship this week, but I'm going to put
+[24:20 --> 24:25] it off until next week, as I would very much like to get Hadrian back to Italy before we
+[24:25 --> 24:27] close out this week's episode.
+[24:27 --> 24:31] So I'm just going to leave it that this is the time Hadrian may have first laid eyes
+[24:31 --> 24:34] on the boy.
+[24:34 --> 24:38] Hadrian then crossed the Aegean and settled into Athens for the winter.
+[24:38 --> 24:42] He was driven to make it back to the city before the famous rites of the Eleusinian
+[24:42 --> 24:47] mysteries took place in the autumn, a mystical experience the emperor very much wanted to
+[24:47 --> 24:49] take part in.
+[24:49 --> 24:53] He arrived in time and became an initiate in the elaborate Greek mystery religion just
+[24:53 --> 24:56] as had Augustus before him.
+[24:56 --> 25:00] He spent the winter in Greece, laying out plans to transform Athens from decaying backwater
+[25:00 --> 25:07] into refurbished cultural capital, a plan the Greeks looked upon as a mixed blessing.
+[25:07 --> 25:11] Ever proud of their historical independence, they appreciated the emperor's interests,
+[25:11 --> 25:16] but were a bit annoyed at the extent to which Hadrian was planning to put his own stamp
+[25:16 --> 25:19] on the ancient city.
+[25:19 --> 25:23] Hadrian may have loved all things Greek, but the Greeks did not necessarily love all things
+[25:23 --> 25:26] Hadrian.
+[25:26 --> 25:32] By 125, Hadrian had been out of Italy for four years, and though if he had had his druthers,
+[25:32 --> 25:37] he probably would have just settled permanently in Athens, the city he truly loved.
+[25:37 --> 25:41] He knew that he had to return to Rome at some point, or the Senate would ratchet up their
+[25:41 --> 25:46] feelings of neglect into feelings of rebellion.
+[25:46 --> 25:47] But it would not be all bad.
+[25:47 --> 25:51] Before leaving, Hadrian had left detailed instructions for the construction of a new
+[25:51 --> 25:56] imperial villa complex in Tivoli, about 20 miles from Rome, that would be a little slice
+[25:56 --> 25:59] of Greece in the heart of Italy.
+[25:59 --> 26:04] His onsite managers had reported that the villa, while not totally finished, was at
+[26:04 --> 26:09] least habitable, and the emperor could look forward to residing in his new home upon his
+[26:09 --> 26:11] return.
+[26:11 --> 26:17] In 125, Hadrian sailed from Greece, and after passing through Sicily to inspect the bread
+[26:17 --> 26:23] basket of the empire, the emperor finally made his triumphant return to the capital.
+[26:23 --> 26:27] Though he had no love for the city itself, his return meant that he could tour all of
+[26:27 --> 26:31] the new construction he had ordered before he left.
+[26:31 --> 26:34] Knowing that he was going to be gone for years, Hadrian wanted to make sure the citizens of
+[26:34 --> 26:39] Rome did not feel that the emperor had forgotten them, and the capital was already feeling
+[26:39 --> 26:45] the effects of Hadrian's new architectural vision, including the recently completed reconstruction
+[26:45 --> 26:50] of Agrippa's burned out pantheon.
+[26:50 --> 26:55] Next week, we'll set out once again with Hadrian as the restless emperor tours the
+[26:55 --> 27:00] Italian peninsula, returns to North Africa, and then heads back to the Eastern Empire,
+[27:00 --> 27:03] where his heart truly resided.
+[27:03 --> 27:08] Along the way, he would pass through the destroyed ruins of Jerusalem, where he would make a
+[27:08 --> 27:14] fateful decision to rebrand the city and the wider territory of Judea as a truly Greco-Roman
+[27:14 --> 27:20] province, a decision that would have serious consequences as yet another brutal Jewish
+[27:20 --> 27:26] revolt would break out, disrupting the uninterrupted peace Hadrian had worked so hard to maintain.

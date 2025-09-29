@@ -1,0 +1,480 @@
+# 20100228 - 023d- The War With Hannibal
+# Detected language: en
+# Duration: 1346.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, episode 23D, The War with Hannibal.
+[00:12 --> 00:17] Last week, we detoured out of Italy to cover the Second Punic War and its two foreign
+[00:17 --> 00:19] theaters, Spain and Sicily.
+[00:20 --> 00:24] This week, we will return to Hannibal's march through Rome's backyard and attempt
+[00:24 --> 00:31] years of complicated allegiance switching, threats, revenge, and posturing into a single
+[00:31 --> 00:31] podcast.
+[00:32 --> 00:37] Well, actually, half a podcast, because we must also return to Spain with young Scipio
+[00:37 --> 00:41] Africanus to pick up the ball where his father and uncle had left it.
+[00:42 --> 00:46] By the end of today, Scipio's ascendancy will intersect with Hannibal's slow decline,
+[00:47 --> 00:51] and the stage will be set for the final act of the Second Punic War, played out
+[00:51 --> 00:54] not in Italy as Hannibal planned, but in North Africa.
+[00:55 --> 00:59] But before we get to our two main focuses today, we need to detour into the third
+[00:59 --> 01:01] major foreign theater of the war.
+[01:02 --> 01:06] Though critically important to the war effort, the struggle with the Macedonians
+[01:06 --> 01:10] in the East has thus far received little attention, because for the most part it
+[01:10 --> 01:15] featured Greek allies fighting on behalf of Rome rather than the Romans themselves,
+[01:15 --> 01:19] and also because the war in the East served mostly to keep Philip V out of the war,
+[01:19 --> 01:22] rather than unfolding as an integral part of that war.
+[01:23 --> 01:28] Though inextricably linked to the war with Hannibal, the First Macedonian War was,
+[01:28 --> 01:30] in many ways, a completely separate animal.
+[01:31 --> 01:36] It is important not so much in the context of the Second Punic War, but as a stage
+[01:36 --> 01:40] setter for the next 50 years of Roman history, which will revolve around the Roman conquest
+[01:40 --> 01:41] of Greece.
+[01:44 --> 01:49] Not long after Cannae, Hannibal and Philip V of Macedon signed a formal treaty
+[01:49 --> 01:52] with one another and pledged mutual support against each other's enemies.
+[01:53 --> 01:58] Philip was the young leader of a newly resurgent Macedon who had visions of
+[01:58 --> 02:03] reuniting Greece under Macedonian rule as his namesake Philip II, father of
+[02:03 --> 02:03] Alexander, had done.
+[02:05 --> 02:09] Rome, which had played no part in Philip II's calculations, now loomed
+[02:09 --> 02:11] large in Philip V's.
+[02:11 --> 02:15] The Romans were already entrenched in Illyria, and despite their claims of
+[02:15 --> 02:18] temporary occupation, they showed no signs of leaving.
+[02:19 --> 02:24] After the disaster at Cannae, Hannibal made formal overtures to the Macedonian
+[02:24 --> 02:26] king, and Philip accepted at once.
+[02:27 --> 02:31] The deal would leave Philip in control of Rome's eastern territory when Hannibal
+[02:31 --> 02:35] inevitably won the war, and provide Philip a steady Carthaginian supply line
+[02:35 --> 02:38] for his planned move against the rest of Greece.
+[02:39 --> 02:43] It also cemented a mutual sphere of influence that allayed both sides' fears
+[02:43 --> 02:46] of territorial encroachment.
+[02:47 --> 02:51] Deal in hand, Philip's envoys returned to Macedon, but on the way across the
+[02:51 --> 02:54] Adriatic, they were captured by the Roman navy.
+[02:55 --> 02:59] Immediately recognizing the danger of Hannibal's eastern alliance, Rome was
+[02:59 --> 03:02] forced to turn its already divided attention to one more front.
+[03:04 --> 03:08] But without troops to spare, they sent a scant force of about 2,000 with
+[03:08 --> 03:12] orders to not simply engage Philip, but instead to drum up Greek support for
+[03:12 --> 03:16] Rome, and attempt to get the Greeks to fight Philip for them.
+[03:17 --> 03:19] This turned out to be easier than they thought.
+[03:20 --> 03:23] The Greeks were not happy in the slightest about Philip's ambitions, and
+[03:23 --> 03:27] despite their own prejudice against the barbaric Italians, they recognized
+[03:27 --> 03:31] the Romans for what they were, a force that could help blunt Macedon's
+[03:31 --> 03:31] influence.
+[03:33 --> 03:37] Specifically, Rome found a receptive audience in the Aetolan League, a
+[03:37 --> 03:40] confederation of cities that stood between Macedon and Greece proper.
+[03:41 --> 03:44] Knowing they would be among the first swallowed by Philip's territorial
+[03:44 --> 03:49] ambition, the Aetolians embraced Rome as their road both to continued
+[03:49 --> 03:53] independence and also possible dominance in a post-war Greece, and
+[03:53 --> 03:56] agreed to help counter Philip any way they could.
+[03:58 --> 04:01] The Macedonian king had his eye on driving the Romans out of their
+[04:01 --> 04:05] coastal garrisons in Illyria so he could establish a port from which to
+[04:05 --> 04:06] launch attacks into Italy.
+[04:07 --> 04:11] The Aetolians agreed to launch incursions into Macedon every time
+[04:11 --> 04:12] Philip tried to turn west.
+[04:13 --> 04:17] So, whenever Philip left for Illyria, the Aetolians would begin
+[04:17 --> 04:18] making trouble.
+[04:19 --> 04:23] The Ten Year War of Skirmishes is today, in the context of Roman
+[04:23 --> 04:28] history, called the First Macedonian War, but that makes more of it
+[04:28 --> 04:29] than it really was.
+[04:29 --> 04:32] It was the second Macedonian War that really marked the first time
+[04:32 --> 04:35] the Romans moved east and fought the Greeks directly.
+[04:36 --> 04:39] Though it was not a direct engagement between the Romans and
+[04:39 --> 04:43] Macedonians, and won the Romans no territory, the battle in the
+[04:43 --> 04:47] east between the Macedonians and the Roman allied Greeks served
+[04:47 --> 04:48] the function it was meant to.
+[04:48 --> 04:50] It kept Philip out of the war with Hannibal.
+[04:51 --> 04:55] And this being the final upshot of all that fighting, we will
+[04:55 --> 04:57] leave it at that and return to the greater war at hand.
+[05:00 --> 05:03] One of the most important consequences of Hannibal's victory
+[05:03 --> 05:07] at Cannae was the decision by the nobility of Capua, the
+[05:07 --> 05:10] second most important city in Italy, to defect to the
+[05:10 --> 05:11] Carthaginian side.
+[05:12 --> 05:15] Hannibal expected this defection to be followed by the
+[05:15 --> 05:17] rest of Italy, but it was not meant to be.
+[05:18 --> 05:21] Capua's alliance with the Carthaginians did not sway the
+[05:21 --> 05:24] rest of Italy as Hannibal, and no doubt the Capuans
+[05:24 --> 05:26] themselves, hoped that it would.
+[05:26 --> 05:29] Rather than putting them in the vanguard of history,
+[05:29 --> 05:32] Capua actually found themselves immediately isolated and
+[05:32 --> 05:35] recognizing that they may have bought high on
+[05:35 --> 05:36] Hannibal's stock.
+[05:37 --> 05:40] Certainly, Capua's experience for the rest of the war was
+[05:40 --> 05:42] not a happy tale of preparing to rule Italy with
+[05:42 --> 05:46] Carthaginian backing, but instead a sad tale of enduring
+[05:46 --> 05:50] a Roman siege, finally begging for forgiveness, and
+[05:50 --> 05:52] ultimately a whole lot of beheadings.
+[05:53 --> 05:56] But for now, it was all still sunshine and roses for
+[05:56 --> 05:56] Hannibal.
+[05:57 --> 06:00] With Capua in his back pocket and Syracuse recently
+[06:00 --> 06:04] into the Carthaginian fold, Hannibal marched south to
+[06:04 --> 06:05] Magna Graecia with high hopes.
+[06:07 --> 06:11] The apex of Carthaginian momentum came in 212 BC when
+[06:11 --> 06:14] Hannibal won control of the rich Greek port city of
+[06:14 --> 06:14] Tarentum.
+[06:15 --> 06:18] The pro-Roman party in the city was ousted by a group
+[06:18 --> 06:21] of young nobles who handed the city over to the
+[06:21 --> 06:21] Carthaginians.
+[06:22 --> 06:25] The moment fortune turned against Hannibal was there at
+[06:25 --> 06:29] Tarentum when, as he marched into the city, the
+[06:29 --> 06:31] Roman garrison stationed there fought its way into
+[06:31 --> 06:33] the citadel and held it.
+[06:34 --> 06:37] The citadel at Tarentum was situated on the coast and
+[06:37 --> 06:39] could be supplied independently of the rest of
+[06:39 --> 06:40] the city.
+[06:41 --> 06:43] Hannibal was never able to dislodge the garrison,
+[06:43 --> 06:46] and so was denied a safe Italian port through which
+[06:46 --> 06:48] he could resupply his invasion force.
+[06:49 --> 06:51] This would prove critical down the road as the
+[06:51 --> 06:54] Carthaginian senate was loath to send supply ships
+[06:54 --> 06:57] and men to reinforce Hannibal when there was no
+[06:57 --> 06:58] guarantee they would even reach him.
+[06:59 --> 07:03] Up until Tarentum, almost nothing had gone against
+[07:03 --> 07:03] Hannibal.
+[07:03 --> 07:06] This was the first time things hadn't gone exactly
+[07:06 --> 07:07] according to plan.
+[07:09 --> 07:11] Annoyed by this thorn in his side, Hannibal's
+[07:11 --> 07:14] attention was forced back north to Capua, where his
+[07:14 --> 07:16] new ally was under siege by Roman forces.
+[07:17 --> 07:20] After Cannae, the Roman grand strategy abandoned
+[07:20 --> 07:23] any hope of taking on Hannibal directly.
+[07:23 --> 07:26] They had by now touched that hot stove enough to
+[07:26 --> 07:27] recognize that it burned.
+[07:28 --> 07:30] So rather than sending an army south to confront
+[07:30 --> 07:34] Hannibal, they laid siege to Capua and attempted
+[07:34 --> 07:36] to flip them back to the Roman side instead.
+[07:37 --> 07:39] If any of you out there have ever played the
+[07:39 --> 07:42] ancient Chinese board game Go, you are probably
+[07:42 --> 07:44] familiar with the proverb, when in doubt,
+[07:44 --> 07:48] tanuki, which translates roughly, when in doubt,
+[07:48 --> 07:49] ignore your opponent.
+[07:51 --> 07:53] Good advice, and the Romans were wise to take
+[07:53 --> 07:53] it.
+[07:53 --> 07:57] By attacking Capua, the Romans forced Hannibal into
+[07:57 --> 07:59] a position where he was reacting to Roman moves
+[07:59 --> 08:02] rather than the Romans reacting to his.
+[08:03 --> 08:06] Rome, for the first time in the war, held the
+[08:06 --> 08:07] initiative.
+[08:08 --> 08:10] Hannibal attempted to respond in kind to the
+[08:10 --> 08:13] Romans by embracing the concept of tanuki
+[08:13 --> 08:16] himself, and rather than making for Capua, he
+[08:16 --> 08:18] drove instead for the one city he had studiously
+[08:18 --> 08:20] avoided, Rome itself.
+[08:21 --> 08:25] In 211 BC, Hannibal marched within two miles of
+[08:25 --> 08:27] the city, the closest he would ever get to Rome,
+[08:28 --> 08:30] and waited for the Romans to fly into a panic,
+[08:30 --> 08:32] lift the siege at Capua, and come running
+[08:32 --> 08:33] home.
+[08:34 --> 08:36] But the Romans did not bite at the obvious
+[08:36 --> 08:36] gambit.
+[08:37 --> 08:39] They knew Hannibal's army was not nearly
+[08:39 --> 08:42] strong enough to take Rome by force, and so
+[08:42 --> 08:44] they only broke off a portion of their siege
+[08:44 --> 08:45] army to reinforce the city.
+[08:46 --> 08:49] Capua remained under arms and growing more
+[08:49 --> 08:50] desperate by the day.
+[08:51 --> 08:53] His bluff called, Hannibal was forced to
+[08:53 --> 08:54] withdraw.
+[08:55 --> 08:57] The pro-Carthaginian leadership of Capua,
+[08:58 --> 09:00] abandoned now by Hannibal, was overthrown by
+[09:00 --> 09:02] pro-Roman forces, and the city surrendered.
+[09:04 --> 09:06] The penalties for treason were harsh, and the
+[09:06 --> 09:08] aforementioned beheadings commenced with
+[09:08 --> 09:08] bloody abandon.
+[09:09 --> 09:11] Though in typical Roman fashion, their fury
+[09:11 --> 09:14] was directed at the leadership, not the
+[09:14 --> 09:16] city as a whole, and the sanctions imposed on
+[09:16 --> 09:18] Capua were light compared to the stress
+[09:18 --> 09:20] their defection had put on the Roman war
+[09:20 --> 09:21] effort.
+[09:23 --> 09:26] One of the main reasons I began the history of
+[09:26 --> 09:28] Rome in the first place was to distill the
+[09:28 --> 09:31] often mind-numbing minutiae of the ancient
+[09:31 --> 09:33] historians into digestible chunks.
+[09:34 --> 09:37] Specifically, the middle years of the second
+[09:37 --> 09:39] Punic War is a period that cries for
+[09:39 --> 09:40] summarization.
+[09:41 --> 09:44] Livy fills hundreds of pages detailing every
+[09:44 --> 09:46] lost city, every betrayal, every
+[09:46 --> 09:49] conversation with every political faction, and
+[09:49 --> 09:50] every minor skirmish.
+[09:51 --> 09:53] The information is out there for those of you
+[09:53 --> 09:55] who would like more detail, but I now offer
+[09:55 --> 09:58] with great relish a paragraph I have been
+[09:58 --> 10:00] kicking around in my head for the better part
+[10:00 --> 10:00] of a year.
+[10:02 --> 10:04] The experience of Capua and Tarantum was
+[10:04 --> 10:07] repeated ad nauseam over the next few years.
+[10:07 --> 10:10] Hannibal would take a city and then move on.
+[10:10 --> 10:12] The Romans would follow behind and return it
+[10:12 --> 10:13] to the Roman fold.
+[10:14 --> 10:16] Hannibal would then be forced to either
+[10:16 --> 10:18] backtrack and re-fight for land he had already
+[10:18 --> 10:21] taken, or give up what he had gotten and hope
+[10:21 --> 10:23] for better luck the next time around.
+[10:24 --> 10:25] The two armies occasionally came into
+[10:25 --> 10:26] direct contact.
+[10:27 --> 10:29] Sometimes Hannibal would win, sometimes the
+[10:29 --> 10:30] Romans would.
+[10:30 --> 10:32] But victory no longer took the form of
+[10:32 --> 10:34] annihilated armies, but rather strategic
+[10:34 --> 10:37] withdrawals and prudent retreats.
+[10:37 --> 10:39] In this way, five years passed.
+[10:40 --> 10:41] Beautiful.
+[10:42 --> 10:45] That said, I now want to shift gears and move
+[10:45 --> 10:48] out of Italy and back to Spain, where, after
+[10:48 --> 10:50] the defeat of the Scipione army, it looked
+[10:50 --> 10:52] for all the world as if the Romans would
+[10:52 --> 10:53] never regain their footing.
+[10:54 --> 10:56] Certainly, no Roman general was eager to
+[10:56 --> 10:58] take up the difficult task in Spain.
+[10:59 --> 11:01] All that remained in Iberia was the bare
+[11:01 --> 11:04] remnants of the defeated legions, a horde
+[11:04 --> 11:06] of Carthaginians and hostile Spanish tribes.
+[11:08 --> 11:09] Officially, Rome had no intention of
+[11:09 --> 11:11] giving up in Spain, but practically
+[11:11 --> 11:14] speaking, they were about to do just that.
+[11:15 --> 11:17] Into this leadership vacuum stepped a young
+[11:17 --> 11:21] man, Scipio Africanus, who was destined to
+[11:21 --> 11:23] become a towering figure in Roman history.
+[11:24 --> 11:27] In the lineage of truly great, great Romans,
+[11:27 --> 11:30] the short list begins with Romulus, passes
+[11:30 --> 11:32] to Camillus, and then passes to Scipio,
+[11:32 --> 11:34] perhaps the greatest of them all.
+[11:36 --> 11:38] It was not until Julius Caesar, 250 years
+[11:38 --> 11:40] later, that Rome would again see a man
+[11:40 --> 11:43] with the stature of Scipio Africanus.
+[11:44 --> 11:46] Now, of course, he was not called Scipio
+[11:46 --> 11:47] Africanus at this point.
+[11:48 --> 11:51] He was still simply Publius Scipio, son of
+[11:51 --> 11:52] Publius Scipio the Elder.
+[11:53 --> 11:55] He would not earn the cognum Africanus until
+[11:55 --> 11:58] after he returned from Zama, having won the
+[11:58 --> 11:59] Second Punic War for Rome.
+[12:01 --> 12:02] But that was still a ways in the future.
+[12:03 --> 12:06] At this point, he was an untested youth of
+[12:06 --> 12:09] barely 25, who impetuously stepped forward
+[12:09 --> 12:11] into the Senate and offered to take up the
+[12:11 --> 12:14] command in Spain, if nobody else would.
+[12:15 --> 12:16] The Senate was not crazy about the idea,
+[12:17 --> 12:19] but under the circumstances, they figured
+[12:19 --> 12:20] they had nothing to lose.
+[12:20 --> 12:22] It was essentially take a chance on Scipio
+[12:22 --> 12:24] or admit defeat in Spain.
+[12:25 --> 12:26] So to Scipio went the command.
+[12:28 --> 12:30] Now, it was not just his youth that worried
+[12:30 --> 12:32] the old Roman guard, but the personality
+[12:32 --> 12:33] of Scipio in particular.
+[12:34 --> 12:37] Old war horses like Fabius did not like the
+[12:37 --> 12:39] look of young Scipio one bit.
+[12:40 --> 12:43] For one thing, he had horror of horrors,
+[12:43 --> 12:44] long hair like a woman.
+[12:45 --> 12:47] For another thing, he had a distressing habit
+[12:47 --> 12:50] of talking as if he personally spoke to the
+[12:50 --> 12:52] gods and was acting on their behalf.
+[12:53 --> 12:55] In later years, he would often return from
+[12:55 --> 12:57] long strolls and announce battle plans as
+[12:57 --> 12:59] if they had been given to him by Mars himself.
+[13:01 --> 13:03] Finally, and most troublesome of all to
+[13:03 --> 13:06] keepers of tradition, tradition Scipio seemed
+[13:06 --> 13:09] to delight in flouting, he was enormously charismatic.
+[13:11 --> 13:13] Scipio represented a changing of the guard
+[13:13 --> 13:16] and despite his success, or perhaps because of it,
+[13:16 --> 13:19] he was looked upon with real fear by his elders.
+[13:20 --> 13:22] He was an incredibly magnetic cross between
+[13:22 --> 13:25] Jim Morrison, Alexander the Great, and Jesus.
+[13:26 --> 13:28] For those looking to keep things exactly as they are,
+[13:29 --> 13:31] a figure like that leads to many a sleepless night.
+[13:33 --> 13:36] But Scipio's flouting of tradition was
+[13:36 --> 13:37] the key to his success.
+[13:39 --> 13:41] He and old Fabius agreed on one thing, however.
+[13:42 --> 13:44] The Roman legions, presently constituted,
+[13:45 --> 13:46] were no match for the Carthaginians.
+[13:47 --> 13:49] But where Fabius read this to mean the
+[13:49 --> 13:51] Carthaginians should not be fought directly,
+[13:52 --> 13:53] Scipio read it to mean that the Romans
+[13:53 --> 13:55] had to fundamentally alter their tactics.
+[13:57 --> 13:59] Hannibal beat the Romans over and over again
+[13:59 --> 14:00] with cunning and imagination.
+[14:01 --> 14:03] So where the Romans had previously shown
+[14:03 --> 14:05] nothing but uninspired plotting,
+[14:06 --> 14:07] Scipio hoped to give the Carthaginians
+[14:07 --> 14:10] a taste of their own medicine and outthink his opponents
+[14:10 --> 14:12] rather than simply try and outfight them.
+[14:14 --> 14:17] He arrived in Spain with 10,000 men in 210 BC
+[14:17 --> 14:21] with vague instructions to regain lost Roman territory.
+[14:22 --> 14:24] But Scipio had no intention of simply
+[14:24 --> 14:25] fighting a defensive war.
+[14:26 --> 14:28] His long-term goal was to end the war completely
+[14:28 --> 14:30] and saw Spain as his proving ground.
+[14:31 --> 14:34] If he succeeded here, the Senate might offer him
+[14:34 --> 14:37] overall command of the legions and allow him
+[14:37 --> 14:39] to pursue his real dream of invading
+[14:39 --> 14:41] North Africa and conquering Carthage.
+[14:42 --> 14:43] There was no way he could convince
+[14:43 --> 14:45] the conservative Senate today,
+[14:45 --> 14:48] but if he drove the Carthaginians out of Spain,
+[14:48 --> 14:50] he just might gain their ear.
+[14:52 --> 14:53] After spending his first year in Spain
+[14:53 --> 14:55] getting a feel for the land and the locals,
+[14:56 --> 14:58] he embarked on an audacious assault
+[14:58 --> 15:00] of the largest, strongest, and richest
+[15:00 --> 15:03] of the Carthaginian strongholds, New Carthage.
+[15:05 --> 15:08] The three Carthaginian armies still out in the field
+[15:08 --> 15:10] had no idea the new Roman commander
+[15:10 --> 15:12] would attempt such a suicidal move.
+[15:13 --> 15:14] But the element of surprise
+[15:14 --> 15:17] was the element Scipio coveted most,
+[15:17 --> 15:20] and so he did the last thing anybody would expect of him
+[15:20 --> 15:23] and ordered his army to march on New Carthage.
+[15:24 --> 15:25] Not even his subordinate commanders
+[15:25 --> 15:27] knew their true destination.
+[15:28 --> 15:30] The only other Roman who was in on the plan
+[15:30 --> 15:32] was a close Scipio confidant named Lelius
+[15:32 --> 15:34] who commanded the Roman navy in the area.
+[15:35 --> 15:37] He was ordered to make for New Carthage
+[15:37 --> 15:39] and simultaneously attack from sea
+[15:39 --> 15:41] as Scipio engaged from the land.
+[15:42 --> 15:44] The small garrison at New Carthage
+[15:44 --> 15:47] was shocked when the Roman navy appeared on the horizon
+[15:47 --> 15:48] and was doubly shocked
+[15:48 --> 15:51] when a Roman army came marching over the hill.
+[15:51 --> 15:54] The nearest Carthaginian army was days away,
+[15:54 --> 15:56] more than enough time, Scipio felt,
+[15:56 --> 15:58] to take the city and fortify it
+[15:58 --> 16:00] before reinforcements could arrive.
+[16:02 --> 16:04] He attempted a direct assault on the first day
+[16:04 --> 16:05] but was repelled.
+[16:06 --> 16:09] That night he received a critical piece of intelligence.
+[16:10 --> 16:13] A local pointed out that at certain times during the day
+[16:13 --> 16:16] the lagoon that bordered one of the walls of the city
+[16:16 --> 16:17] drained out with the tides
+[16:17 --> 16:19] and became shallow enough to ford.
+[16:20 --> 16:21] The next morning,
+[16:22 --> 16:24] Scipio ordered a full assault on the front gate
+[16:24 --> 16:25] and the defenders of the city
+[16:25 --> 16:28] concentrated all their attention on that spot.
+[16:29 --> 16:32] Scipio himself led a small contingent
+[16:32 --> 16:34] through the shallow and unwatched lagoon
+[16:34 --> 16:35] and scaled the walls.
+[16:36 --> 16:38] They easily overpowered what resistance they found
+[16:38 --> 16:41] and when the Romans suddenly appeared
+[16:41 --> 16:43] behind the troops defending the wall,
+[16:43 --> 16:45] the Carthaginians panicked and broke for the citadel,
+[16:46 --> 16:47] allowing Scipio to open the gate
+[16:47 --> 16:49] and let the rest of his army in.
+[16:50 --> 16:51] It was only a matter of time
+[16:51 --> 16:53] before the unprovisioned force in the citadel
+[16:53 --> 16:55] was forced to surrender.
+[16:56 --> 16:57] In about 36 hours,
+[16:57 --> 17:00] Scipio had captured the Carthaginian capital.
+[17:02 --> 17:05] In a savvy move designed to gain Spanish support,
+[17:05 --> 17:07] Scipio released the members
+[17:07 --> 17:09] of the various local ruling families
+[17:09 --> 17:11] who had been held by the Carthaginians as hostages.
+[17:13 --> 17:14] By this one act alone,
+[17:14 --> 17:16] Scipio did more for the Roman position in Spain
+[17:16 --> 17:19] than all the battles in the world ever could.
+[17:20 --> 17:23] The Carthaginians were immediately on the defensive
+[17:23 --> 17:26] and found their Spanish allies deserting in droves.
+[17:26 --> 17:28] But Scipio, as I said,
+[17:28 --> 17:30] had no intention of staying put
+[17:30 --> 17:32] and fighting a defensive war.
+[17:33 --> 17:34] Leaving a garrison behind
+[17:34 --> 17:36] to protect the newly conquered city,
+[17:36 --> 17:38] he marched out with the rest of his army
+[17:38 --> 17:40] in search of Hasdrubal,
+[17:40 --> 17:41] Hannibal's brother
+[17:41 --> 17:44] and the architect of the Scipio's family dishonor.
+[17:46 --> 17:49] In 208 BC, Scipio caught up to Hasdrubal
+[17:49 --> 17:50] and fought a running battle
+[17:50 --> 17:53] against the Carthaginians in the middle of Spain.
+[17:54 --> 17:56] Hasdrubal, however, managed to slip away
+[17:56 --> 17:58] and lead his army northwest to the Atlantic coast.
+[17:59 --> 18:01] Hannibal's brother had decided
+[18:01 --> 18:04] fighting young Scipio in Spain would be counterproductive
+[18:04 --> 18:07] and made the decision to leave Spain for Italy.
+[18:08 --> 18:10] The best way to regain the upper hand in Spain,
+[18:10 --> 18:12] he figured, was to deal the Romans
+[18:12 --> 18:14] another crushing blow in Italy.
+[18:15 --> 18:17] But that was the plan hatched
+[18:17 --> 18:18] between the two Baraka brothers.
+[18:19 --> 18:21] The Carthaginian Senate, on the other hand,
+[18:21 --> 18:24] was not ready to cede Spain to Scipio quite so easily
+[18:24 --> 18:26] and sent 50,000 reinforcements
+[18:26 --> 18:29] to defeat the young, dynamic Roman general.
+[18:30 --> 18:34] In 206 BC, the two sides met near Olympia.
+[18:35 --> 18:36] The battle that followed would be,
+[18:37 --> 18:39] tactically at least, Scipio's finest hour.
+[18:40 --> 18:43] Outnumbering the Romans by a sizable margin,
+[18:43 --> 18:45] the Carthaginians were confident
+[18:45 --> 18:47] they could beat the so far undefeated Scipio.
+[18:48 --> 18:49] But the Roman general,
+[18:49 --> 18:51] taking a page from Hannibal's playbook,
+[18:52 --> 18:53] employed a clever trick
+[18:53 --> 18:56] that turned a long shot win into an easy victory.
+[18:58 --> 19:01] Each morning, the two sides would line up for battle
+[19:01 --> 19:02] and wait for the other to make a move.
+[19:03 --> 19:05] And each day, neither would budge
+[19:05 --> 19:07] and the day would pass without a battle.
+[19:08 --> 19:10] When Scipio deployed his troops,
+[19:11 --> 19:13] he concentrated the core of the legions in the center
+[19:13 --> 19:16] and placed his Spanish allies on the wings.
+[19:17 --> 19:20] The opposing Carthaginian general got used to this formation
+[19:20 --> 19:22] and placed his strongest troops in the center
+[19:22 --> 19:25] and his own weaker Spanish mercenaries on the wings.
+[19:27 --> 19:29] On the morning Scipio had decided to fight, however,
+[19:29 --> 19:31] he switched things up.
+[19:32 --> 19:34] But first, he took revenge on the Carthaginians
+[19:34 --> 19:36] for the Roman defeat at Trebia,
+[19:37 --> 19:39] a battle Scipio was very likely at.
+[19:40 --> 19:43] He ordered out his cavalry early in the morning
+[19:43 --> 19:44] to attack the Carthaginian camp.
+[19:45 --> 19:47] In a reverse of the previous battle,
+[19:48 --> 19:49] this time it was the Carthaginians
+[19:49 --> 19:50] who were roused from their beds
+[19:50 --> 19:53] and forced to charge out without a good breakfast.
+[19:54 --> 19:56] They formed for battle in the usual line,
+[19:56 --> 19:59] but the Romans, as I said, switched things up.
+[20:00 --> 20:02] Scipio put the Spanish in the center
+[20:02 --> 20:04] and deployed the legions on the wings.
+[20:05 --> 20:07] When the Carthaginian general did not notice the switch,
+[20:08 --> 20:10] Scipio knew victory was his for the taking.
+[20:11 --> 20:13] He waited most of the day
+[20:13 --> 20:16] while the Carthaginians suffered, hungry and tired,
+[20:16 --> 20:19] under the hot afternoon sun and then ordered the attack.
+[20:20 --> 20:22] The Roman wings led the charge,
+[20:22 --> 20:25] easily destroying the overmatched opposing Spanish wings.
+[20:26 --> 20:27] The Libyans and Carthaginians
+[20:27 --> 20:29] at the center of the other army
+[20:29 --> 20:31] suddenly found themselves flanked on both sides
+[20:31 --> 20:32] by the Romans.
+[20:33 --> 20:36] In the confusion, they didn't even charge forward
+[20:36 --> 20:37] to attack the Roman center
+[20:37 --> 20:39] made up of the weak Spanish mercenaries
+[20:39 --> 20:42] where they may have won an escape route.
+[20:42 --> 20:45] Instead, they stayed put and were caught in a pincer.
+[20:46 --> 20:48] The only thing that saved them
+[20:48 --> 20:49] was that the weather turned ugly
+[20:49 --> 20:52] and rain turned the field into a mud clogged morass.
+[20:54 --> 20:56] The Carthaginians were able to escape,
+[20:56 --> 20:57] but their will was broken.
+[20:58 --> 21:00] Hannibal pursued the fleeing army
+[21:00 --> 21:02] and destroyed them a few weeks later.
+[21:04 --> 21:05] When Scipio entered Spain,
+[21:06 --> 21:09] the Carthaginians controlled practically the entire country,
+[21:09 --> 21:12] but now the Romans were the undisputed masters.
+[21:13 --> 21:15] Carthaginian influence in Spain was over
+[21:15 --> 21:17] and in a few years hence,
+[21:17 --> 21:19] the great war itself would be over as well.
+[21:21 --> 21:23] Scipio now had all the clout he needed
+[21:23 --> 21:25] to take his master plan to the Senate.
+[21:26 --> 21:27] There would be fierce resistance
+[21:27 --> 21:29] for his idea of an African invasion,
+[21:30 --> 21:32] but Scipio's charisma and track record
+[21:32 --> 21:34] would carry the day.
+[21:36 --> 21:39] Next week, we will follow Hasdrubal
+[21:39 --> 21:42] in his desperate effort to link up with his brother in Italy
+[21:42 --> 21:44] and form an army large enough to attack Rome.
+[21:45 --> 21:47] I don't think I'll be giving anything away
+[21:47 --> 21:49] by revealing Hasdrubal was stopped
+[21:49 --> 21:52] in the last pivotal battle of the war fought in Italy.
+[21:53 --> 21:55] Without hope of reinforcement,
+[21:55 --> 21:58] Hannibal's decade-long invasion would run out of steam
+[21:58 --> 22:01] and he would be recalled when the Romans decided
+[22:01 --> 22:03] to take another chance on Scipio
+[22:03 --> 22:04] and authorize his plan to attack Rome.
+[22:04 --> 22:05] His invasion of Africa.

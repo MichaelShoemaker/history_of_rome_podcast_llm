@@ -1,0 +1,337 @@
+# 20100301 - 076- Mock Triumphs
+# Detected language: en
+# Duration: 1430.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:09] As you are now aware, Audible is the internet's leading provider of audio entertainment with
+[00:09 --> 00:11] over 60,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash roam.
+[00:16 --> 00:21] That again, audiblepodcast.com forward slash roam.
+[00:21 --> 00:25] By going to that address, you will qualify for a free book download when you sign up
+[00:25 --> 00:27] for a 14-day trial membership.
+[00:27 --> 00:31] There is no obligation to continue the service and you can cancel any time and keep the free
+[00:31 --> 00:33] book that you downloaded.
+[00:33 --> 00:37] You can also keep going with one of the monthly subscription options and get great deals on
+[00:37 --> 00:40] all future audiobook purchases.
+[00:40 --> 00:45] This week, I am going to recommend Hannibal, One Man Against Rome by Harold Lamb.
+[00:45 --> 00:49] Though we have long since left the Second Punic War in the dust, can you ever really
+[00:49 --> 00:52] get tired of learning about Hannibal, the Great and Terrible?
+[00:52 --> 00:54] I didn't think so.
+[00:54 --> 00:59] Just remember to go to audiblepodcast.com forward slash roam so that they know who sent
+[00:59 --> 01:05] you.
+[01:05 --> 01:14] Hello and welcome to The History of Rome, episode 76, Mock Triumphs.
+[01:14 --> 01:19] Last time, we traced Domitian's rise to power from forgotten afterthought to emperor of
+[01:19 --> 01:21] the Roman Empire.
+[01:21 --> 01:25] Unlike his brother, Domitian's rise had no planned arc.
+[01:25 --> 01:30] There was no gentle addition of responsibility, no subtle raising of the volume.
+[01:30 --> 01:35] When it came to Domitian, one minute there was silence, the next the amp was cranked
+[01:35 --> 01:36] to ten.
+[01:36 --> 01:41] Imperial non-entity to master of the world in just the blink of an eye.
+[01:41 --> 01:46] His sudden inheritance of the throne shocked everyone as the citizens of the empire were
+[01:46 --> 01:51] just getting settled in to the nice long reign of Titus and there was fear all around that
+[01:51 --> 01:55] the thirty year old Domitian would not be up to the task.
+[01:55 --> 01:59] But this fear was generally unfounded and Domitian would prove both intellectually and
+[01:59 --> 02:03] politically that he had what it took to be emperor.
+[02:03 --> 02:08] Even though his blunt dismissal of the senate eventually led to assassination, for fifteen
+[02:08 --> 02:13] years Domitian ruled effectively in the manner he saw fit and efficiently got done what he
+[02:13 --> 02:15] thought needed to be done.
+[02:15 --> 02:21] The reign of Domitian is not to be sneezed at or ignored or ridiculed, though neither
+[02:21 --> 02:25] is it to be embraced as the second coming of Augustus as Domitian would have liked us
+[02:25 --> 02:30] to believe, and in many ways he set the stage for the coming century of brilliance for the
+[02:30 --> 02:31] empire.
+[02:31 --> 02:36] Suetonius once commented that the depravity of the last Flavian practically negated the
+[02:36 --> 02:40] good of the first two, but this is propaganda.
+[02:40 --> 02:45] Domitian was harsher and colder than his brother and father, but he was as astute and
+[02:45 --> 02:50] capable a man as they, and in the end the whole of the Flavian dynasty should be remembered
+[02:50 --> 02:55] for their successful stewardship of the empire.
+[02:55 --> 03:00] Domitian opened his reign, as I said last time, with a flurry of pious construction
+[03:00 --> 03:05] projects, completing the temple of Jupiter and unveiling a temple for his now divine
+[03:05 --> 03:08] relatives Titus and Vespasian.
+[03:08 --> 03:11] But he did not plan to stop at a few temples.
+[03:11 --> 03:16] The city of Rome had been ravaged by war and natural disaster, most recently suffering
+[03:16 --> 03:21] from the great fire of ADAD, and Domitian saw an opportunity to kick off his planned
+[03:21 --> 03:24] Augustan renaissance in style.
+[03:24 --> 03:30] The first emperor had famously inherited a city of brick and left it a city of marble.
+[03:30 --> 03:35] Domitian was inheriting a city of ashes, and he planned to leave it a city of, well, buildings
+[03:35 --> 03:36] and stuff.
+[03:36 --> 03:39] Something functional, anyway.
+[03:39 --> 03:43] That didn't turn out nearly as poetic as I hoped when I started that sentence.
+[03:43 --> 03:47] Over the course of the next few years, he would direct the completion of some fifty
+[03:47 --> 03:52] new buildings, restoring the architectural dignity of Rome, which had been in steep decline
+[03:52 --> 03:55] since the reign of Nero.
+[03:55 --> 03:59] Among his many projects was the Arch of Titus, which was completed soon after his brother's
+[03:59 --> 04:01] death.
+[04:01 --> 04:06] The great arch, which still stands today and is a can't-miss on any trip to Rome, ostensibly
+[04:06 --> 04:12] commemorates Titus's victory in Judea, but mostly, its job was to remind everyone of
+[04:12 --> 04:17] the divine, almost mythological status of the Flavians.
+[04:17 --> 04:20] Whether or not the Romans saw it as anything more than outsized self-aggrandizement is
+[04:20 --> 04:25] an open question, but the grand permanence of the structure certainly convinced later
+[04:25 --> 04:31] ambitious men that a massive arch was a pretty sweet way to celebrate one's own eternal
+[04:31 --> 04:33] awesomeness.
+[04:33 --> 04:37] Napoleon certainly had the Arch of Titus in mind when he ordered the Arc de Triomphe built
+[04:37 --> 04:42] after his own great victory at Austerlitz in 1806.
+[04:42 --> 04:46] All of these public building projects helped stimulate an economy that had been drifting
+[04:46 --> 04:52] aimlessly for years, but of course they were not going to pay for themselves.
+[04:52 --> 04:58] So having undercut the Roman elite politically, Domitian next targeted them economically and
+[04:58 --> 05:04] let his newly reformed and ruthlessly efficient bureaucracy loose on their bank accounts.
+[05:04 --> 05:08] He strengthened and extended imperial taxes, and in the years to come would eventually
+[05:08 --> 05:14] resort to outright confiscation to help pay for his projects, and of course the various
+[05:14 --> 05:19] military campaigns he initiated, which we'll get to in a bit.
+[05:19 --> 05:23] If he were another man, Domitian would have paid for everything without resorting to excessive
+[05:23 --> 05:25] taxation.
+[05:25 --> 05:29] Emperors in the past had simply borrowed what they needed without regard for how they were
+[05:29 --> 05:31] going to pay it back.
+[05:31 --> 05:36] Besides, if the creditors did come calling, an emperor could simply devalue the coins
+[05:36 --> 05:41] he minted until he had enough nominal chunks of worthless metal to pay the specific amounts
+[05:41 --> 05:44] that everyone demanded.
+[05:44 --> 05:48] Domitian had no interest in inflating his way into solvency though, and taking the opposite
+[05:48 --> 05:53] tack, he actually returned the silver ratio in a denarii back to the Augustan level of
+[05:53 --> 05:56] 12%.
+[05:56 --> 06:00] Roman currency was the standard in the Mediterranean at the time, and Domitian felt that it reflected
+[06:00 --> 06:05] badly on the emperor to have the coins he minted regarded as worthless jokes.
+[06:05 --> 06:10] But of course, with less circulating currency to work with, Domitian was forced to demand
+[06:10 --> 06:12] more from his subjects.
+[06:12 --> 06:17] The Roman economy on balance benefited from Domitian's fiscal policies, but they certainly
+[06:17 --> 06:21] did not help his popularity any.
+[06:21 --> 06:26] Reducing his popularity even less than his tax policies was his hopeless quest to return
+[06:26 --> 06:31] the Romans to their traditional conservative family values.
+[06:31 --> 06:36] Legislating sex and morals had been hard enough for Augustus a century earlier, but Domitian's
+[06:36 --> 06:41] attempt to revive these least successful policies of the first emperor turned out to be an even
+[06:41 --> 06:43] more terrible idea.
+[06:43 --> 06:47] But Domitian seemed dead set on reviving all things Augustan, even if it meant bringing
+[06:47 --> 06:51] back the much-derided Lex Julia.
+[06:51 --> 06:57] In 85 AD, Domitian named himself censor in perpetuity, which gave him authority to legislate
+[06:57 --> 06:59] public morality.
+[06:59 --> 07:04] Adultery once again became a banishable offense, and consorting with the Vestal Virgins became
+[07:04 --> 07:06] a capital crime.
+[07:06 --> 07:11] An equestrian found himself stricken from the juror pool for remarrying an ex-wife,
+[07:11 --> 07:15] and a senator was expelled from the body for acting on stage, which was even worse than
+[07:15 --> 07:19] prostitution so far as Domitian was concerned.
+[07:19 --> 07:23] All of this turned out to be little more than spitting into a hurricane, and Domitian
+[07:23 --> 07:27] earned himself nothing but scorn for his trouble.
+[07:27 --> 07:31] The old ways were dead, threatening to execute people for cheating on their wives was not
+[07:31 --> 07:34] going to change that.
+[07:34 --> 07:39] But Domitian forged on, and his efforts at re-establishing some semblance of public morality
+[07:39 --> 07:42] was not a total fool's errand.
+[07:42 --> 07:47] The emperor also used his authority as censor to punish officials for bribery and corruption,
+[07:47 --> 07:52] through real offenses with real consequences that had been overlooked for years even by
+[07:52 --> 07:54] his own father.
+[07:54 --> 07:59] There was, as they say, a new sheriff in town, and even though he kicked up a lot of dust
+[07:59 --> 08:03] and made a lot of enemies over ultimately irrelevant sexual stuff, the government was
+[08:03 --> 08:09] never again as clean or honest in its dealings.
+[08:09 --> 08:13] The funny thing about all of this is that Domitian kept stepping on the same toes over
+[08:13 --> 08:15] and over again.
+[08:15 --> 08:19] It seems like any time he had the opportunity to stick it to the nobility, he jumped at
+[08:19 --> 08:20] the chance.
+[08:20 --> 08:25] I'm not sure what the senate did to elicit such contempt from the emperor, I speculated
+[08:25 --> 08:31] about some stuff last time, but he really really had it in for them.
+[08:31 --> 08:35] So much so that it doesn't even seem like a matter of stepping on a few toes, more like
+[08:35 --> 08:40] Domitian was walking right up to them and stomping down on their feet repeatedly.
+[08:40 --> 08:45] He cut them out of the political process, gouged them financially, policed their bedrooms,
+[08:45 --> 08:48] and shut down their lucrative kickbacks.
+[08:48 --> 08:53] In the end, I'm not sure why Domitian hated the senate so much, but I have no doubts about
+[08:53 --> 08:56] why they hated him so much.
+[08:56 --> 08:59] He even declared a limit to the amount of arable Italian land that could be used for
+[08:59 --> 09:01] vineyards.
+[09:01 --> 09:05] So to top everything off, Domitian was also cutting down the booze supply.
+[09:05 --> 09:11] Is it any wonder then that he was finally stabbed to death?
+[09:11 --> 09:16] Beyond the aristocracy who uniformly hated him, Domitian was alternatively feared and
+[09:16 --> 09:21] liked and disdained and respected depending on who you talked to.
+[09:21 --> 09:28] But there was one segment of the population who really loved the man, rank and file soldiers.
+[09:28 --> 09:31] The officers couldn't stand Domitian of course, for all the reasons I've mentioned and all
+[09:31 --> 09:34] the reasons I'll get to shortly.
+[09:34 --> 09:36] But the common legionary loved him.
+[09:36 --> 09:38] Why the great discrepancy?
+[09:38 --> 09:44] Because shortly after taking office, Domitian issued a blanket pay raise for his soldiers.
+[09:44 --> 09:46] And it wasn't some cost of living increase either.
+[09:46 --> 09:52] No, the common soldiers saw their paychecks increase by fully one third, a mind-blowing
+[09:52 --> 09:58] sum that earned Domitian their undying devotion for the rest of his reign.
+[09:58 --> 10:02] The elites could clamor for his head as much as they wanted, but after the pay raise they
+[10:02 --> 10:06] were going to have a hell of a time convincing their soldiers to revolt.
+[10:06 --> 10:07] You want me to fight who?
+[10:07 --> 10:10] The guy who just gave me a 33% bump?
+[10:10 --> 10:13] No, I think I'm good thanks.
+[10:13 --> 10:17] The raise caused Domitian to backtrack on his fiscal policy sum and he was forced to
+[10:17 --> 10:22] slightly devalue his coins after having so recently revalued them.
+[10:22 --> 10:26] But the compromise was a sound one and Domitian never really had to worry about the whole
+[10:26 --> 10:29] army rising up against him.
+[10:29 --> 10:34] There was a brief revolt of two legions in 89 AD, which we'll get to next week.
+[10:34 --> 10:39] But it was an isolated case and was quickly crushed by the intensely loyal armies that
+[10:39 --> 10:43] surrounded the malcontents.
+[10:43 --> 10:47] The pay raise for the soldiers did not come out of nowhere though.
+[10:47 --> 10:52] It was part and parcel of the triumphal celebration following Domitian's smashing victory against
+[10:52 --> 10:56] the Chatti in 83 AD.
+[10:56 --> 11:00] The fierce Germanic tribe had suddenly risen up in revolt against Rome.
+[11:00 --> 11:04] Right around the time Domitian decided that it was high time he cemented his reputation
+[11:04 --> 11:08] as a great leader with an impressive military victory.
+[11:08 --> 11:12] It was actually pretty convenient how it all worked out.
+[11:12 --> 11:15] Domitian just happened to be in Chatti territory conducting a census with a new legion he
+[11:15 --> 11:21] had recently formed when, for no reason, and in stark contrast to years of peaceful coexistence,
+[11:21 --> 11:26] the dastardly Chatti attacked, forcing Domitian to defend the honor of the house of Caesar
+[11:26 --> 11:30] and the majesty of Rome, etc., etc., etc.
+[11:30 --> 11:31] Convenient.
+[11:31 --> 11:35] Yes, that's one word for it.
+[11:35 --> 11:39] Domitian marched around for a year building roads and fortifications in Chatti territory,
+[11:39 --> 11:44] decided that with winter coming it was high time he declared victory and left, so he declared
+[11:44 --> 11:46] victory and left.
+[11:46 --> 11:51] He returned to Rome to celebrate the triumph he had been craving all his life.
+[11:51 --> 11:55] No one who knew anything about anything believed Domitian had actually done anything to earn
+[11:55 --> 11:57] the triumph he threw for himself.
+[11:57 --> 12:01] He had what, skirmished with some random tribe and built some roads, and now was calling
+[12:01 --> 12:03] himself Germanicus?
+[12:03 --> 12:06] But the people loved it.
+[12:06 --> 12:10] Triumphs mean games and banquets and generous handouts.
+[12:10 --> 12:13] So they cheered their conquering emperor as he marched into the city at the head of his
+[12:13 --> 12:15] great parade.
+[12:15 --> 12:19] Domitian cheerfully basked in the glow of his adoring subjects.
+[12:19 --> 12:24] Never again would he be relegated to the back with the other family members.
+[12:24 --> 12:27] This was Domitian's time now.
+[12:27 --> 12:32] Meanwhile, Tacitus, representing the views of the aristocracy, dismissed the whole display
+[12:32 --> 12:36] as a mock triumph.
+[12:36 --> 12:41] Real or mock, Domitian capped his celebration by announcing a pay raise for his brave soldiers.
+[12:41 --> 12:45] That at least was real enough.
+[12:45 --> 12:50] One possible side consequence of Domitian's mock triumph was that agricola, and yes, thank
+[12:50 --> 12:56] you for the pronunciation correction, it is agricola, not agricola, which yeah, I agree,
+[12:56 --> 13:00] sounds like some kind of terrible hippie soda, so I'm sorry about that.
+[13:00 --> 13:06] Anyway, agricola was possibly recalled from his post in Britannia because his real military
+[13:06 --> 13:12] success on the island cast Domitian's victory in a pretty pathetic light.
+[13:12 --> 13:16] Not long after Domitian's parade, messengers delivered the news that agricola had defeated
+[13:16 --> 13:21] the combined Caledonian army of some 30,000 troops and stood poised to capture the entire
+[13:21 --> 13:22] island.
+[13:22 --> 13:28] There is no consensus about whether agricola was recalled out of jealousy or whether it
+[13:28 --> 13:33] was more like a reward for seven years' cold, hard service in the north, but one way or
+[13:33 --> 13:40] the other, agricola was back in Rome in 85 AD and effectively retired from public life.
+[13:40 --> 13:44] This had been one of the more successful careers of the first century, and he very
+[13:44 --> 13:47] nearly captured the whole of Britannia for the Romans.
+[13:47 --> 13:52] His work would be left permanently incomplete though, as the legions he had led were soon
+[13:52 --> 13:56] transferred to the Danube to help fight the growing Dacian menace, which unlike the Chatti
+[13:56 --> 14:01] menace was all too real.
+[14:01 --> 14:05] The Dacians lived in the Carpathian mountains on the far side of the Danube and had been
+[14:05 --> 14:07] stirring up trouble for years.
+[14:07 --> 14:12] For the first time in his life, Domitian was about to deal with a real existential threat
+[14:12 --> 14:14] to the empire.
+[14:14 --> 14:18] His response to the crisis offered a window into how the emperor really felt about war,
+[14:18 --> 14:21] defense and imperial security.
+[14:21 --> 14:25] Whether he handled the situation properly is a matter of ongoing debate, but there is
+[14:25 --> 14:31] no doubt that the hawkish aristocracy, already chafing under Domitian your lord and god,
+[14:31 --> 14:36] were appalled by his handling of the Dacian situation.
+[14:36 --> 14:42] The thing about Domitian is that he took Augustus's injunction about further conquest seriously
+[14:42 --> 14:47] and really believed that the primary function of the legions was now frontier defense.
+[14:47 --> 14:52] He didn't want to invade Germania, he didn't want to conquer Dacia, he didn't want anything
+[14:52 --> 14:54] to do with Scotland.
+[14:54 --> 14:58] He considered these efforts to be expensive boondoggles that would stretch the legions
+[14:58 --> 15:04] too thin, cost blood and treasure Rome couldn't afford, and ultimately leave the empire weaker
+[15:04 --> 15:07] and more vulnerable for the trouble.
+[15:07 --> 15:12] When it came to military affairs, the great legacy of Domitian was not some new territory
+[15:12 --> 15:17] added to the empire or some great foreign enemy destroyed, but rather the expansion
+[15:17 --> 15:23] and strengthening of the Lymes Germanicus, the frontier fortification network along the
+[15:23 --> 15:29] Rhine and Danube rivers that kept the northern empire safe from invasion.
+[15:29 --> 15:34] Already stretching to nearly 350 miles, the fortification network grew to include 60 permanent
+[15:34 --> 15:39] forts and some 900 watchtowers.
+[15:39 --> 15:44] Domitian would neither begin the project nor complete it, but he was committed to it wholeheartedly
+[15:44 --> 15:48] and poured money and manpower into the effort.
+[15:48 --> 15:54] The key line the Lymes Germanicus cut was between the upper Rhine and the upper Danube.
+[15:54 --> 15:59] While the two great rivers offered a natural defense on their own against un-pacified tribes,
+[15:59 --> 16:03] the stretch of land between the headwaters of each was a dangerous weak point for the
+[16:03 --> 16:08] empire, and Domitian aimed to close that gap once and for all.
+[16:08 --> 16:12] Though his work would finally be completed by Hadrian, the time and effort Domitian expended
+[16:12 --> 16:17] was critical and helped pave the way for a century and a half of security along the northern
+[16:17 --> 16:20] border.
+[16:20 --> 16:25] But while Domitian's efforts were critical, they were also criticized.
+[16:25 --> 16:29] High ranking military officials and their civilian counterparts believed Domitian far
+[16:29 --> 16:32] too passive in his military strategy.
+[16:32 --> 16:37] If the empire was to be safe, it needed to defeat its enemies, not build a wall to keep
+[16:37 --> 16:38] them out.
+[16:38 --> 16:41] The fight needed to be taken to the source.
+[16:41 --> 16:44] It was no good to simply sit back until it was too late.
+[16:44 --> 16:50] What good was a watchtower if it only alerted Rome to an invasion force too strong to repel?
+[16:50 --> 16:55] Nascent alliances between barbarian tribes needed to be nipped in the bud before they
+[16:55 --> 16:58] grew into something truly dangerous.
+[16:58 --> 17:02] Soldiers were trained to fight, not sit on walls staring into space.
+[17:02 --> 17:04] It was unnatural.
+[17:04 --> 17:09] The contrast in style came to a head in Dacia where each side could reasonably claim the
+[17:09 --> 17:15] actions of the other detrimental to imperial security.
+[17:15 --> 17:18] Ever since the year of the four emperors, the tribes beyond the northern frontiers of
+[17:18 --> 17:22] the Danube had grown more and more bold.
+[17:22 --> 17:27] The Roman world seemed too preoccupied to care about their raids into imperial territory,
+[17:27 --> 17:32] and with each passing year the tribes, including the formidable Dacians, acted with increasing
+[17:32 --> 17:34] impunity.
+[17:34 --> 17:40] They finally crossed the line and got Rome's attention in either 84 or 85 AD when a Dacian
+[17:40 --> 17:44] army invaded Moesia and killed the imperial governor.
+[17:44 --> 17:48] Hot on the heels of his great victory over the Chatti, Domitian personally led a forced
+[17:48 --> 17:53] to Moesia to deal with the unacceptable affront to Rome's honor.
+[17:53 --> 17:59] Further signaling how seriously and how personally Domitian was taking the situation, his army
+[17:59 --> 18:04] included members of the Praetorian Guard and was led by his Praetorian prefect, Cornelius
+[18:04 --> 18:05] Fuscus.
+[18:05 --> 18:09] The Roman reinforcements were able to easily drive off the Dacians who were not about to
+[18:09 --> 18:14] tangle with an imperial army guided by the emperor himself.
+[18:14 --> 18:19] By the winter of 85 the Dacians were cleared out of Roman territory and Domitian returned
+[18:19 --> 18:22] to Rome to celebrate his second triumph.
+[18:22 --> 18:27] Though there was still not much to celebrate, this triumph at least had a ring of truth
+[18:27 --> 18:31] to it and Domitian was quite pleased with himself for how well his military career was
+[18:31 --> 18:33] shaping up.
+[18:33 --> 18:38] But this second triumph proved to be even more of a mockery than the first.
+[18:38 --> 18:44] The Dacians were not defeated by a long shot and when Cornelius Fuscus, on his own initiative,
+[18:44 --> 18:47] crossed the Danube to mop up the remaining combatants.
+[18:47 --> 18:54] He led his legions to one of their worst defeats since the catastrophe in the Tudiburg forest.
+[18:54 --> 19:01] In 86 AD, Fuscus led elements of four legions plus auxiliaries into Dacian territory expecting
+[19:01 --> 19:05] little resistance from the splintered and feuding local tribes.
+[19:05 --> 19:09] Except that the Dacians weren't splintered and feuding at all.
+[19:09 --> 19:14] They had been united by a king who was to become known to the Romans as Decebalus, which
+[19:14 --> 19:18] translates roughly as he with the strength of ten men.
+[19:18 --> 19:23] Decebalus saw the Romans coming from a mile away and set an ambush at the narrow pass
+[19:23 --> 19:25] of Tappi.
+[19:25 --> 19:28] Fuscus blundered right into the trap.
+[19:28 --> 19:33] He watched in horror as the entire fifth legion was cornered and massacred and then watched
+[19:33 --> 19:38] in humiliation as the legionary standard of the Praetorian guard was captured and hauled
+[19:38 --> 19:41] off by the enemy.
+[19:41 --> 19:46] Luckily for Fuscus he did not have to live with the humiliation for long as he himself
+[19:46 --> 19:50] was soon killed in the fighting.
+[19:50 --> 19:55] Back in Rome, the triumphed mission had celebrated now seemed like a cruel joke.
+[19:55 --> 20:00] He quickly returned to Moesia to oversee the reinforcement of the province.
+[20:00 --> 20:04] He divided the territory into two administrative districts and transferred three legions to
+[20:04 --> 20:08] boost the defenses along the Danube.
+[20:08 --> 20:12] Though he was convinced now more than ever that the legions worked best as a defensive
+[20:12 --> 20:17] force rather than conquering adventurers, the mission understood that the annihilation
+[20:17 --> 20:22] of a legion and the capture of a standard, the Praetorian guard standard no less, could
+[20:22 --> 20:25] not go unanswered.
+[20:25 --> 20:30] In both 87 and 88 the Romans crossed the Danube to campaign against Decebalus, though this
+[20:30 --> 20:36] time they marched with far greater care than had been shown by Fuscus.
+[20:36 --> 20:41] In 88 the Dacians and Romans once again found themselves facing off at Tappi, though this
+[20:41 --> 20:48] time the Romans did not stumble blindly into any traps and Decebalus was soundly beaten.
+[20:48 --> 20:52] All would seem to be well for Domitian and the Romans, their honor was restored and the
+[20:52 --> 20:58] enemy beaten, but unfortunately for Domitian, events elsewhere conspired to turn his victory
+[20:58 --> 21:01] into a bleeding sore.
+[21:01 --> 21:07] On January 1, 89 AD, Lucius Antonius Saturnius, the governor of Upper Germania, had had enough
+[21:07 --> 21:12] of Domitian and led his two legions in revolt.
+[21:12 --> 21:16] With this sudden crisis on the Rhine, Domitian was forced to conclude a hasty treaty with
+[21:16 --> 21:21] Decebalus that formally recognized Dacia as a client kingdom of Rome.
+[21:21 --> 21:27] To ensure that there would be no trouble after he left, Domitian accepted a controversial
+[21:27 --> 21:33] provision that sent money and artisans to Decebalus in exchange for peace.
+[21:33 --> 21:38] The money and men would be used by the Dacian king to bolster his own defenses and properly
+[21:38 --> 21:41] equip his growing army.
+[21:41 --> 21:46] Domitian's treaty had the effect of transforming Roman tax dollars into Dacian swords and putting
+[21:46 --> 21:52] Romans to work, building walls that later Romans would die trying to climb.
+[21:53 --> 21:57] The officer corps was already grumbling about Domitian's cowardly obsession with roads and
+[21:57 --> 22:04] watchtowers, but for him to pay off an enemy like that was borderline dereliction of duty.
+[22:04 --> 22:05] And they had a point.
+[22:05 --> 22:10] When Trajan decided to eventually crush Decebalus once and for all, he found the task far more
+[22:10 --> 22:15] arduous than it should have been because of all the enemy fortifications built with Roman
+[22:15 --> 22:16] money.
+[22:16 --> 22:21] For the record, Decebalus did control lucrative gold mines that bought and paid for most of
+[22:21 --> 22:26] his army, lucrative gold mines that had far more to do with Trajan's decision to invade
+[22:26 --> 22:30] than abstract notions of defending Roman honor, by the way.
+[22:30 --> 22:35] But still, the optics of Domitian's treaty were terrible, and the deal with Decebalus
+[22:35 --> 22:40] soon became a political wound that refused to heal.
+[22:40 --> 22:44] Next week, we'll start with the revolt of Saturnius, which would prove to be a turning
+[22:44 --> 22:47] point in Domitian's reign.
+[22:47 --> 22:52] Prior to the uprising, Domitian was harsh but fair in his use of imperial power.
+[22:52 --> 22:58] But afterwards, the emperor would become far more paranoid and far more cruel.
+[22:58 --> 23:03] Though in the end he would execute for treason no more men than the lovable, huggable Uncle
+[23:03 --> 23:09] Claudius, the last years of Domitian's reign would nonetheless go down in history as a
+[23:09 --> 23:10] reign of terror.
+[23:10 --> 23:15] Eventually, a conspiracy of court officials would determine that they had better kill
+[23:15 --> 23:18] the emperor before he killed them.
+[23:18 --> 23:24] And on September 1896 AD, Domitian finally met the violent end that he had always suspected
+[23:24 --> 23:25] would be his to meet.

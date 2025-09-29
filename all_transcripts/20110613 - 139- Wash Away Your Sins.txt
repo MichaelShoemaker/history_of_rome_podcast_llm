@@ -1,0 +1,231 @@
+# 20110613 - 139- Wash Away Your Sins
+# Detected language: en
+# Duration: 1402.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:06 --> 00:10] internet's leading provider of audio entertainment with over 80,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash rome.
+[00:16 --> 00:23] That again audiblepodcast.com forward slash rome. By going to that address, you qualify for a free
+[00:23 --> 00:28] book download when you sign up for a 14-day trial membership. There is no obligation to continue the
+[00:28 --> 00:33] service and you can cancel anytime and keep the free book download. You can also keep going with
+[00:33 --> 00:38] one of the monthly subscription options and get great deals on all your future audiobook purchases.
+[00:39 --> 00:43] This week, I am going to go with an entry from the annals of Greek history,
+[00:43 --> 00:47] The March of the Ten Thousand by Zenefen, recommended by listener Claude.
+[00:48 --> 00:53] It is the harrowing tale of 10,000 Greek mercenaries trying to fight their way back home
+[00:53 --> 00:58] after being left stranded in the middle of Persia after finding themselves on the losing side
+[00:58 --> 01:05] of a dynastic war. Written by one of the 10,000 leaders, it is one of the few historical accounts
+[01:05 --> 01:10] we have from the ancient world actually written by an active participant in the events he is
+[01:10 --> 01:17] describing. Just remember to go to audiblepodcast.com forward slash rome so that they know who sent you.
+[01:17 --> 01:30] Hello, and welcome to the History of Rome, episode 139, Wash Away Your Sins.
+[01:33 --> 01:38] Last time, we talked about what Constantine got up to when he wasn't busy trying to convert the
+[01:38 --> 01:44] empire to Christianity. You'll recall that for the most part he was up to refining the administrative
+[01:44 --> 01:52] apparatus Doucletian had created, transforming Byzantium into Constantinople, and killing his
+[01:52 --> 01:59] wife and son. This week, we will bring the long and remarkable career of the first Christian emperor
+[01:59 --> 02:05] to a close. But before we do, I want to spend some time discussing the external posture of the empire
+[02:05 --> 02:13] during Constantine's reign. Last time, we focused mostly on domestic concerns, taxes and monetary
+[02:13 --> 02:19] policy and so on. So this week, I want to take a look at foreign affairs. What was Constantine's
+[02:19 --> 02:24] relationship with the tribes beyond the northern frontiers? What was his relationship with the
+[02:24 --> 02:30] great Sassanid empire beyond the eastern frontiers? And of course, what was his relationship with the
+[02:30 --> 02:36] army that defended those frontiers? Once we get done talking about all that, we're going to turn
+[02:36 --> 02:42] our attention to the thorny issue of succession, and then finally to the baptism and death of
+[02:42 --> 02:49] Constantine the Great. As we've discussed previously, during the later Roman empire,
+[02:49 --> 02:55] the hard line separating the civilized Romans from the barbarian tribes began to blur.
+[02:57 --> 03:02] Imperial policy had always hinted at the possible benefits of bringing the Germans into the Roman
+[03:02 --> 03:08] fold. And round about the reign of Aurelian, that hint became a blunt statement, as willing tribesmen,
+[03:08 --> 03:15] suitably pacified, started to be deposited in Gaul or Pannonia or Moesia to help fill the empty
+[03:15 --> 03:20] quarters and provide a buffer between the soft inner empire and the hard northern wilds.
+[03:22 --> 03:27] These same tribesmen were then recruited into the army, and by virtue of the fact that the legions
+[03:27 --> 03:31] were a far more merit-based institution in the late empire than it was in the early empire,
+[03:32 --> 03:38] they began to climb up the chain of command. This so-called Germanization of the army
+[03:38 --> 03:44] is a very important development in the history of the empire, a development which we will come back
+[03:44 --> 03:51] to again and again as the west slips into terminal decline. Because any discussion of why the western
+[03:51 --> 03:57] empire fell would be incomplete without a good hard look at the Roman failure to successfully
+[03:57 --> 04:02] integrate the Germans the way they had successfully integrated practically every other foreign people
+[04:02 --> 04:05] they had run up against in the whole long history of the empire.
+[04:08 --> 04:13] By virtue of the circumstances of his times and the circumstances of his own political situation,
+[04:13 --> 04:19] Constantine wound up becoming an acolyte of Germanization. His father, as you'll recall,
+[04:19 --> 04:25] had gotten his imperial start fighting wars with and making peace with the tribes along the Rhine
+[04:25 --> 04:32] River. So when Constantine succeeded him, the son inherited the political and military legacies of
+[04:32 --> 04:38] the father. Constantius had embraced the policy of German settlement within the borders,
+[04:38 --> 04:44] and in particular he had a strong relationship with the Franks on the lower Rhine. Indeed,
+[04:44 --> 04:49] one of the great successes of his career was defeating a portion of the Franks who were
+[04:49 --> 04:56] aligned with Cerocious and then flipping them over to his side. When Constantius died 10 years later
+[04:56 --> 05:01] and Constantine made his bid for power, he was backed at a critical moment by the Frankish
+[05:01 --> 05:08] clients his father had cultivated. From that moment on, Constantine had a close relationship
+[05:08 --> 05:13] with the Germans in general and the Franks in particular. They formed the most formidable
+[05:13 --> 05:19] parts of the armies he used to conquer the empire, and his own personal bodyguard was made up
+[05:19 --> 05:25] exclusively of German cavalry. This is of course not to say that the Germans were one monolithic
+[05:25 --> 05:30] thing and that Constantine was friendly with them all, nor that they were all friendly with him.
+[05:31 --> 05:35] One look at the innumerable campaigns fought along the Rhine during the length of Constantine's
+[05:35 --> 05:41] career is enough to dispense with that notion. But that said, the incorporation of Germanic
+[05:41 --> 05:47] elements into the empire's military apparatus was now on the steady rise, and Constantine was a big
+[05:47 --> 05:54] reason why. Besides his willingness to fight using German soldiers, there was one other
+[05:54 --> 06:00] change Constantine made to the military structure that wound up having long-term consequences for
+[06:00 --> 06:06] the empire. You'll recall that back in episode 125, the best defense is a good defense,
+[06:07 --> 06:12] I mentioned the difficulty in trying to figure which of the period's military reforms were
+[06:12 --> 06:18] actually initiated by Diocletian due to the presence of possible anachronisms in the historical
+[06:18 --> 06:24] record. Specifically, I was talking about the creation of the Limitani, the frontier militias
+[06:24 --> 06:29] who would act as a first line of defense until the legions proper could arrive on the scene.
+[06:30 --> 06:35] Well, we can stop worrying about anachronisms now, because in the reign of Constantine,
+[06:35 --> 06:41] the existence of the Limitani is definitely attested to, and those who are loath to attribute
+[06:41 --> 06:46] the creation of it to Diocletian are hesitant to do so because they believe it was actually
+[06:46 --> 06:52] Constantine who initiated the change, and that he did so as a way to make up for the fact that he
+[06:52 --> 06:57] was now deploying the empire's legionary forces much further behind the frontier lines.
+[06:57 --> 07:02] He is said to have done this in order to create large mobile field armies that would be able to
+[07:02 --> 07:07] easily reach an invasion point along the border and then overwhelm any hostile forces they found.
+[07:08 --> 07:13] But these days, there is a large contingent of historians who suspect that Constantine
+[07:13 --> 07:18] concentrated his forces and garrisoned them in interior cities for domestic political reasons.
+[07:19 --> 07:25] More than any commander since perhaps Octavian, Constantine's career was dominated by civil war,
+[07:25 --> 07:30] and it is not unreasonable to assume that his military posture was heavily influenced by that
+[07:30 --> 07:39] experience. To help him run the vast new army he now had sole control of, an army numbering
+[07:39 --> 07:46] somewhere between 400 and 600,000 men, Constantine created two new ranks, the Master of the Infantry
+[07:46 --> 07:53] and, resurrecting the long-ago abandoned title of a dictator second in command, the Master of the
+[07:54 --> 07:59] Horse. As the title suggests, one was supposed to be in control of the empire's foot soldiers,
+[07:59 --> 08:05] and the other in charge of the empire's cavalry, thus allowing for large-scale coordination
+[08:05 --> 08:11] without investing either man with sole control over all the forces in a region. But in practice,
+[08:11 --> 08:16] both of these high-ranking officers wound up commanding elements of the other's administrative
+[08:16 --> 08:22] sphere. Plus, in time, both of these ranks would become subservient to the empire's
+[08:22 --> 08:28] subservient to an overall master of the military, who acted as the commander-in-chief of the whole
+[08:28 --> 08:33] army, which kind of defeats the whole purpose of the foot-horse distinction.
+[08:35 --> 08:40] In and of themselves, these new positions are not that interesting, as they simply filled the void
+[08:40 --> 08:45] left by the Praetorian prefects once their military powers were stripped away. But the
+[08:45 --> 08:50] role the men who held these offices would play in the final century and a half of the western empire
+[08:50 --> 08:57] is fascinating indeed. Essentially, denied the right to hold political power in their own right,
+[08:57 --> 09:02] the powerful German officers who served as masters of the military in the fifth century
+[09:02 --> 09:07] would become the power behind a series of puppet emperors. And eventually, the imperial office
+[09:07 --> 09:14] itself would be weakened to the point that when it was abolished by Odoacer in 476, it went not
+[09:14 --> 09:19] with a bang, but a whimper. But we'll get to all of that soon enough.
+[09:21 --> 09:26] Constantine's reforms to the military worked out pretty well for the emperor at the time.
+[09:27 --> 09:31] But eventually, they became the source of some of the harshest criticisms of his reign.
+[09:32 --> 09:39] By pulling the stronger, faster, and better-trained troops off the frontiers, the feeling was that he
+[09:39 --> 09:45] was fatally weakening the borderlands and leaving them far more vulnerable than they needed to be.
+[09:46 --> 09:52] Plus, by dropping huge garrisons in the cities of the interior, those cities were suddenly dealing
+[09:52 --> 09:59] with the burden of feeding and housing all of these troops. Far from the front lines, the soldiers
+[09:59 --> 10:05] grew soft and the citizens became embittered. Morale suffered all around and that old disconnect
+[10:05 --> 10:10] between the armed forces and the civilian population was revived with a vengeance.
+[10:11 --> 10:16] Finally, though there are many ways to look at the issue, Constantine's willingness to
+[10:16 --> 10:21] populate the legions with soldiers of German descent and augment his armies with German auxiliary
+[10:21 --> 10:26] forces was seen as a crucial development in the story of how the Western Empire fell.
+[10:27 --> 10:32] Because, the theory goes, once the Germans wormed their way into the military,
+[10:32 --> 10:36] the ultimate destruction of the empire became a matter not of if, but of when.
+[10:39 --> 10:45] But like I say, the reforms worked pretty well at the time, and for the 12 years he was sole emperor,
+[10:45 --> 10:51] the legions won every single campaign they initiated, and they initiated a lot, mostly
+[10:51 --> 10:56] against the Franks and the Alamani on the Rhine, and the Sarmatians and Goths along the Danube.
+[10:57 --> 11:02] In fact, after being pushed back by the barbarians during the crisis of the 3rd century,
+[11:03 --> 11:08] the Romans finally, consistently, found themselves having the upper hand
+[11:08 --> 11:13] in their dealings with the northern menace. Things went so well that Constantine actually
+[11:13 --> 11:18] felt comfortable building a permanent bridge across the Rhine and repairing the bridge
+[11:18 --> 11:23] that Trajan had once built and Aurelian had torn down that crossed the Danube.
+[11:23 --> 11:29] There was even a brief period in the early 330s when the Romans re-occupied Lower Dacia.
+[11:31 --> 11:35] Aware that his execution of Crispus had left him without an experienced heir,
+[11:35 --> 11:40] Constantine began handing all of these wars off to his younger sons to season them up a bit.
+[11:42 --> 11:45] None of them were quite old enough to hold down a command of their own,
+[11:45 --> 11:50] but they were put in nominal charge and told to stick close to the capable generals actually
+[11:51 --> 11:55] running things and learn everything they could as fast as they could.
+[11:57 --> 12:03] In 330, Constantine II earned the title Alamanicus and in 332, at the age of 15,
+[12:03 --> 12:05] he fought in a successful war against the Goths.
+[12:06 --> 12:11] Constantius II, meanwhile, was sent to acquaint himself with the eastern provinces,
+[12:11 --> 12:15] and had there actually been a war with Persia, which we'll get to in a second,
+[12:16 --> 12:19] he certainly would have found himself right smack dab in the middle of it.
+[12:20 --> 12:25] Constantine's youngest son Constans was still just a child during the latter part of his father's
+[12:25 --> 12:31] reign, but he was made Caesar in 333 and likely would have followed his older brothers had the
+[12:31 --> 12:40] emperor lived. The implications of all this began to become clear. Constantine was not favoring one
+[12:40 --> 12:45] son over any of the others, and it appeared that the emperor expected all three of them to succeed
+[12:45 --> 12:50] him to power in the spirit, if not the form, of the Tetrarchy.
+[12:53 --> 12:58] If Constantine's redeployment of the empire's military forces raises eyebrows amongst scholars,
+[12:59 --> 13:02] then his succession plan makes them bang their heads against the wall.
+[13:03 --> 13:09] I don't think in all my research I have read a single good thing about how Constantine chose
+[13:09 --> 13:16] to leave the imperial house when he died. Had Crispus lived, it is probable that Constantine
+[13:16 --> 13:20] would have passed the throne directly to his eldest son, who was both a proven leader and
+[13:20 --> 13:28] eminently capable. But after, you know, murdering him, Constantine was left with a pile of sons and
+[13:28 --> 13:34] nephews, all of whom were young, all of whom were relatively inexperienced, and none of whom
+[13:34 --> 13:41] really stood out against the others. So Constantine decided to just leave the empire
+[13:41 --> 13:47] to the whole lot of them, and let them figure it out for themselves. Constantine II was to receive
+[13:47 --> 13:55] the western provinces, Constantius II the eastern provinces, Constans, Italy, and Pannonia. One step
+[13:55 --> 14:01] nephew, a man named Dalmatius, was to receive Thrace, Macedonia, and Achaea, and another,
+[14:01 --> 14:07] Hannibalianus, was to have some sort of vague authority over the far eastern borderlands.
+[14:08 --> 14:13] Had the sons of Constantine been paragons of virtue and filled with fraternal love,
+[14:13 --> 14:19] the arrangement might have worked. But unfortunately, they had all grown up in the
+[14:19 --> 14:24] shadow of their father, a man who had spent his entire life ruthlessly dispatching members of
+[14:24 --> 14:29] his own family in order to demolish a carefully arranged power-sharing agreement.
+[14:29 --> 14:36] Over the years, he had killed his father-in-law, three brothers-in-law, one nephew, his son, and his
+[14:36 --> 14:44] wife, all in the name of securing and maintaining sole control of the Roman Empire. His sons learned
+[14:44 --> 14:50] this lesson well, and if Constantine thought that they were not going to follow in his footsteps,
+[14:50 --> 14:57] then he was blind, or he was crazy, or both. More than a few people have accused him of
+[14:57 --> 15:02] simply being so egomaniacal that he just didn't care what happened after he died.
+[15:04 --> 15:08] We'll get into it more next week, but suffice it to say that Constantine had raised a basket
+[15:08 --> 15:14] full of vipers, and it took them about seven seconds to turn on each other once the old man was gone.
+[15:17 --> 15:22] Which brings us to one of Constantine's last and most controversial initiatives.
+[15:22 --> 15:30] At some point between 334 and 336 AD, the emperor got it into his head that he was going to provoke
+[15:30 --> 15:36] a war with Persia. Why he thought this would be a good idea, especially since the legions were bogged
+[15:36 --> 15:42] down on both the Rhine and Danube frontiers, remains a mystery, but there you have it.
+[15:44 --> 15:48] The groundwork for the war had been laid at some point after he defeated Lycaeus,
+[15:48 --> 15:54] when the emperor sent a strongly worded letter to the Sassanid king, informing him that Constantine
+[15:54 --> 16:00] considered the Christians in Sassanid territory to be his clients, and that he would have no qualms
+[16:00 --> 16:07] about taking any necessary steps to ensure their safety. The Sassanid king did not miss the fact
+[16:07 --> 16:12] that this was pretty much exactly the same line of thinking that Constantine had just used
+[16:12 --> 16:19] to pick a war with Lycaeus. Tensions were kept to a low simmer until the mid-330s,
+[16:19 --> 16:26] when Constantine decided to confer upon his step-nephew Hannibalianus the title King of
+[16:26 --> 16:31] Kings of the Pontic people, which was basically the equivalent of the Sassanid king appointing
+[16:31 --> 16:37] someone emperor of the Roman people. In other words, pretty provocative stuff.
+[16:37 --> 16:43] So the Persians got a little paranoid, especially about the Christian king of Armenia,
+[16:43 --> 16:50] who they now saw as a part of a larger plan to encircle and conquer them. So, probably in 336,
+[16:50 --> 16:56] the Sassanid king invaded Armenia and deposed the Christian king, which could not have played more
+[16:56 --> 17:01] into Constantine's hands, and the old emperor began to gear up for one last great campaign.
+[17:01 --> 17:11] But he would never make it out of Bithynia. Not long after Easter 337, the emperor fell ill,
+[17:11 --> 17:16] and left Constantinople to recover at the hot baths near the city of Helenopolis,
+[17:16 --> 17:21] named for the emperor's mother. After a short visit to the Turkish coast,
+[17:21 --> 17:25] Constantine realized that he was not going to recover, and he tried to make it back to
+[17:25 --> 17:31] Constantinople so he could die in the city he had created. But he was only able to make it as far as
+[17:31 --> 17:38] the suburbs of Nicomedia. Knowing that the end was near, Constantine summoned the bishop of
+[17:38 --> 17:45] Nicomedia to formally baptize him. People often express surprise and wonder at the fact that the
+[17:45 --> 17:52] first Christian emperor was not baptized until moments before his death. And a cynical reading
+[17:52 --> 17:59] often results. Usually that reading goes something like this. The emperor never was a true Christian,
+[17:59 --> 18:05] and even now was just hedging his bets. But there is another reading that I often find
+[18:05 --> 18:13] more compelling. Constantine was a true believer who was really, really afraid of the Lord our God.
+[18:14 --> 18:19] It was not uncommon at the time to believe that baptism washed away all your accumulated sins,
+[18:19 --> 18:25] and basically left you with a blank moral slate. If you truly believe then that too much sin would
+[18:25 --> 18:30] hurt your ability to make it into heaven, it is only logical to wait until the last possible
+[18:30 --> 18:38] moment to get baptized. That way, you would go in clean as a newborn babe. It was a dangerous game,
+[18:38 --> 18:44] because hey, what if you get run over by an ox cart? But it was a game that Constantine evidently
+[18:44 --> 18:50] played and won, because in the few days between his baptism and his death, he didn't murder a single
+[18:50 --> 18:57] one of his family members. So, pure as a fresh mountain stream, on May 22, 337 AD,
+[18:58 --> 19:05] Constantine the Great died. He was 65 years old and had been an emperor for almost 31 years.
+[19:08 --> 19:14] Constantine was a strong political leader, indisputably the greatest general of his age,
+[19:14 --> 19:19] and a visionary who transformed the religious and cultural life of the empire
+[19:19 --> 19:25] like no emperor before him. Before he rose to power, Christianity was a religion being
+[19:25 --> 19:30] hunted down like a criminal, and when he died, Rome was so far down the road to conversion
+[19:30 --> 19:36] that Julian the Apostate's attempt to turn back the tide simply confirmed how much Constantine
+[19:36 --> 19:44] had entrenched his new religion. Beyond that epoch-shifting feat, he also built a new capital
+[19:44 --> 19:49] on the Bosphorus that quite literally became the most important city in the world for a thousand
+[19:49 --> 19:57] years. But these great, truly great achievements were offset by a darker set of legacies.
+[19:59 --> 20:04] And when the critiques of Constantine's military reforms are coupled with his handling of the
+[20:04 --> 20:09] Sassanids and his handling of the succession issue, what we are left with is a great emperor
+[20:09 --> 20:15] with a mixed record. Because one of the major questions we must ask when assessing an imperial
+[20:15 --> 20:21] career is did he leave the empire stronger and safer than he found it? In Constantine's case,
+[20:21 --> 20:26] it is not uncommon to hear scholars and historians say, well, no, he did not.
+[20:28 --> 20:33] His new gold standard served to stabilize the economy, yes, but only for the upper classes.
+[20:34 --> 20:39] The rest of the citizen body was left scrambling to keep up in a world of runaway inflation.
+[20:40 --> 20:45] Mostly they could not keep up, and the roots of medieval feudalism with its serfs and its lords
+[20:45 --> 20:52] is not too difficult to detect. His inexplicable desire to start up a war with the Sassanids
+[20:52 --> 20:56] would leave his heirs tied to an unnecessary conflict with the Persians for years that would
+[20:56 --> 21:04] cost men and resources and at least one emperor that Rome really couldn't spare. And, of course,
+[21:04 --> 21:10] his ill-conceived dynastic plans all but guaranteed a return to the dark days of civil war.
+[21:12 --> 21:17] Constantine the Great was a great emperor and easily one of the most important figures in
+[21:17 --> 21:23] all of world history. But despite the key role he played in the evolution of the West,
+[21:24 --> 21:29] we should not forget that he was also a flawed man who was fully capable of making bad choices
+[21:29 --> 21:36] that his heirs paid for in blood and treasure. Some would even go so far as to trace the fall
+[21:36 --> 21:42] of the Western Empire right to his doorstep. Gibbon's whole thesis, for example, was that
+[21:42 --> 21:49] Christianity was a malignant cancer that eventually killed the empire. I wouldn't go that far because
+[21:49 --> 21:55] nothing Constantine did guaranteed a catastrophe of that magnitude, and some of the things he did,
+[21:55 --> 22:00] like furthering the Germanization of the army, only turned out to be bad ideas in retrospect
+[22:00 --> 22:04] because of how his successors handled the issue, not because they were inherently bad ideas.
+[22:06 --> 22:12] Constantine was a complicated man who lived in and utterly dominated complicated times.
+[22:13 --> 22:20] Whatever your view of the man, noble Christian saint or reckless theocratic tyrant, he changed
+[22:20 --> 22:26] the course of world history. And for that reason alone, we will never ever stop talking about him.
+[22:29 --> 22:37] Next week, we will stop talking about Constantine. Instead, alive and in person me will be back to
+[22:37 --> 22:43] discuss the bloody struggle that erupted between his sons and nephews the minute the emperor was
+[22:43 --> 22:49] dead. It would take 13 years of strife, backstabbing, and discord before the empire
+[22:49 --> 22:56] was once again united under a single man, the craftiest and ruthless of all Constantine's heirs,
+[22:56 --> 22:59] Constantius II.

@@ -1,0 +1,326 @@
+# 20110404 - 132- In This Sign
+# Detected language: en
+# Duration: 1606.56 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:13] Hello, and welcome to The History of Rome, episode 132, In This Sign.
+[00:13 --> 00:19] So, as I'm sure you can guess by the title, we have arrived at one of the seminal events
+[00:19 --> 00:24] in Roman history, the moment Constantine decided that he was going to go out a conqueror and
+[00:24 --> 00:26] for Jesus.
+[00:26 --> 00:32] This, of course, is a massive oversimplification of a convoluted series of events, but still,
+[00:32 --> 00:35] it gets to the heart of the matter.
+[00:35 --> 00:39] Constantine is about to begin the long process of seizing control of the empire, and he will
+[00:39 --> 00:44] attribute his success in this endeavor to the Christian God.
+[00:44 --> 00:47] At least, we're pretty sure he attributed it to the Christian God.
+[00:47 --> 00:53] He attributed it to God, anyway, and he will use Christian symbols to give him power, or
+[00:53 --> 00:56] at least, he appears to have used Christian symbols.
+[00:56 --> 01:02] Some of them might not have become Christian symbols until after Constantine adopted them,
+[01:02 --> 01:06] but at least we know that Christ himself will come to Constantine in a dream and tell him
+[01:06 --> 01:09] to conquer in this sign.
+[01:09 --> 01:14] Or was that an earlier vision he had had after staring at the sun for too long, and was that
+[01:14 --> 01:21] sign a cross, a Cairo, a storogram, and maybe it was all made up after the fact?
+[01:21 --> 01:25] I am confused.
+[01:25 --> 01:29] Constantine was a complicated man living in complicated times.
+[01:29 --> 01:36] Did you really think his relationship with Christianity was going to be simple?
+[01:36 --> 01:40] But before we get into all that, there is one last little bit of business we should
+[01:40 --> 01:41] dispense with.
+[01:41 --> 01:46] Conceptually, it should have probably come at the end of last week's episode, but there
+[01:46 --> 01:50] wasn't really time to get into it all, so here we are.
+[01:50 --> 01:55] Because before we can get into the age of Constantine, we need to finally close the
+[01:55 --> 01:57] door on the age of Diocletian.
+[01:57 --> 02:03] And that means killing off everyone's favorite senior, senior Augustus.
+[02:03 --> 02:08] In December of 311, now six years removed from power, and what must have felt like a
+[02:08 --> 02:14] lifetime removed from his dream of a perpetually stable tetrarchy, Diocletian finally died
+[02:14 --> 02:18] in his palace on the eastern Adriatic coast.
+[02:18 --> 02:23] Despite his happy talk about how much fun retired life was, you get the feeling that
+[02:23 --> 02:27] by the end Diocletian was more than ready to die.
+[02:27 --> 02:32] His last few months were spent in impotent agony as he found himself unable to ensure
+[02:32 --> 02:37] the safety of his wife and daughter, who had wound up de facto prisoners in the court
+[02:37 --> 02:41] of Maximinus Dio following the death of Galerius in May.
+[02:41 --> 02:47] Maximinus wanted to marry the widow of Galerius, but she had refused and was now at the angry
+[02:47 --> 02:52] mercy of the emperor she had just scorned.
+[02:52 --> 02:56] Diocletian tried to intervene on her behalf, but was completely ignored.
+[02:56 --> 03:01] Like his now dead friend Maximian, Diocletian was discovering that the world had moved on
+[03:01 --> 03:03] without him.
+[03:03 --> 03:07] I don't think it is out of line to wonder whether the dejected ex-emperor, unable to
+[03:07 --> 03:15] endure any more disappointments, simply committed suicide, again like his old friend Maximian.
+[03:15 --> 03:20] However it happened, he was sixty-six years old and had once been the senior Augustus
+[03:20 --> 03:24] for twenty years.
+[03:24 --> 03:27] The legacy of Diocletian is hard to figure.
+[03:27 --> 03:31] In terms of the quality of his administration, he ranks right up there with the best of the
+[03:31 --> 03:36] best, Augustus, Vespasian, the five good emperors.
+[03:36 --> 03:41] And in terms of his impact on the evolution of the empire, his only equal at this point
+[03:41 --> 03:45] seems to be the divine Augustus himself.
+[03:45 --> 03:49] Throw in the fact that he inherited a pile of smoldering rubble and turned it into a
+[03:49 --> 03:56] working empire again, and he is easily one of the two or three best emperors of all time.
+[03:56 --> 04:01] But there is no getting around the fact that he appears to have been exhausted at the end.
+[04:01 --> 04:06] Exhausted to the point that he made some very poor decisions that had disastrous consequences
+[04:06 --> 04:08] for the empire.
+[04:08 --> 04:13] The great persecution was ill-advised to say the least, and his replacement candidates
+[04:13 --> 04:19] for the Tetrarchy, first Maximinus Dio and Severus, and then Lichinus, all threw the
+[04:19 --> 04:25] balance of power so out of whack that civil war became all but inevitable.
+[04:25 --> 04:30] It would be easy to blame all of this on Galerius, and a lot of it does appear to have been Galerius's
+[04:30 --> 04:31] fault.
+[04:31 --> 04:36] But Diocletian's inability to have more foresight when it came to picking the men who would
+[04:36 --> 04:40] succeed him is a great big black mark on his record.
+[04:40 --> 04:47] It stains his legacy, just as comatose stains Marcus Aurelius's, and Caracalla stains Septimius
+[04:47 --> 04:49] Severus's.
+[04:49 --> 04:54] In Diocletian's defense, it might be the case that no matter who he elevated into the
+[04:54 --> 04:57] Tetrarchy, that civil war would have ensued.
+[04:57 --> 05:01] Four men with equal armies ruling separate corners of the empire.
+[05:01 --> 05:05] Eventually, that turns on itself, right?
+[05:05 --> 05:09] But that opens up the question of whether the whole system was flawed from the start.
+[05:09 --> 05:12] And you can't blame that on Galerius.
+[05:12 --> 05:17] That was Diocletian, all by himself.
+[05:17 --> 05:22] I think at the end of the day, Diocletian was a victim of his own success.
+[05:22 --> 05:29] He was so good, so personally magnetic, wielding such, dare I say, divine gravitas, that it
+[05:29 --> 05:34] would have been almost impossible to make accurate assumptions about what would happen
+[05:34 --> 05:36] when he was removed from the equation.
+[05:36 --> 05:39] The Tetrarchy had worked great for twenty years.
+[05:39 --> 05:44] And the problems it had been designed to solve were, for that period, solved.
+[05:44 --> 05:47] So why couldn't things go on like that forever?
+[05:47 --> 05:53] Oh yeah, because Diocletian is the only one good enough, smart enough, and doggone it
+[05:53 --> 05:56] liked enough to hold it all together.
+[05:56 --> 06:02] Diocletian's lasting failure, then, is that no one else lived up to his standards.
+[06:02 --> 06:06] Something else he shares in common with the Divine Augustus, and something I think we ought
+[06:06 --> 06:09] not hold against him too much.
+[06:09 --> 06:14] He was a great emperor, who ruled effectively through very difficult times, and he should
+[06:14 --> 06:19] be remembered as such.
+[06:19 --> 06:25] But his time has now passed, and for the rest of this episode, I want to focus on the epoch-shifting
+[06:25 --> 06:30] transformation of the man who was destined to shut the door on the age of Diocletian
+[06:30 --> 06:35] and usher in his own age, the age of Constantine.
+[06:35 --> 06:41] Thus far, Constantine has played a careful game, satisfied with incremental political
+[06:41 --> 06:47] advances while avoiding any overreaching, high-risk plays.
+[06:47 --> 06:51] Since he succeeded his father back in 306, he appears to have been focused mostly on
+[06:51 --> 06:56] securing his own legitimacy, establishing a rock-solid power base in Britain, Gaul,
+[06:56 --> 07:03] and Spain, and avoiding open confrontation with any of his brother emperors.
+[07:03 --> 07:08] But we are about to see a very different side of Constantine, that of a daring and
+[07:08 --> 07:15] audacious general who is convinced that God has made him invincible.
+[07:15 --> 07:21] Now I don't think Constantine's shift from caution to aggression represents any sort
+[07:21 --> 07:27] of shift in his personality, but instead represents a shift in the circumstances.
+[07:27 --> 07:33] As long as Diocletian and Maximian and Galerius were around, Constantine was content to lay
+[07:33 --> 07:38] low and bide his time, but once that elder generation had been cleared out, there was
+[07:38 --> 07:43] nothing left to check Constantine's ambitions.
+[07:43 --> 07:48] After Diocletian died, Constantine appears to have looked into his own heart, then sized
+[07:48 --> 07:52] up the competition, and then decided that the time had come for caution to give way
+[07:52 --> 07:59] to daring, because, after all, fortune favors the bold.
+[07:59 --> 08:04] What I mean to say, then, is that I don't think Constantine's ends ever changed.
+[08:04 --> 08:08] I think he wanted the whole empire to be his from the very beginning, but he can and did
+[08:08 --> 08:13] tinker around with the means he used to achieve that end all the time.
+[08:13 --> 08:17] He used a Fabianesque strategy for the first few years, because that seemed to be what
+[08:17 --> 08:23] the times called for, but when those times changed, he was more than ready to follow
+[08:23 --> 08:28] the aggressive lead of a Scipio Africanus.
+[08:28 --> 08:32] But as much as his military posture is about to change from prudent holding pattern to
+[08:32 --> 08:38] reckless dive bombing, it was Constantine's political posture that marked the most important
+[08:38 --> 08:40] change of all.
+[08:40 --> 08:47] And by political posture, I of course mean religious posture.
+[08:47 --> 08:53] As a young man, it appears that Constantine had no problem with the Jupiter Hercules religious
+[08:53 --> 08:58] ideology of the Tetrarchy, nor with the pagan polytheism of the wider Roman Empire.
+[08:58 --> 09:05] He counted, for example, first Mars and then Apollo as his patron deities.
+[09:05 --> 09:10] But as he grew older, and perhaps as a result of finally joining up with his father, Constantine
+[09:10 --> 09:14] seems to have drifted into a vague monotheism.
+[09:14 --> 09:20] He was still respectful of the old pantheon and continued to make all the necessary sacrifices,
+[09:20 --> 09:27] but specifically he was now moving in the direction of Aurelian's old cult of Sol Invictus.
+[09:27 --> 09:33] When he became Caesar in 306, the propaganda emanating from Constantine's court continued
+[09:33 --> 09:40] this march towards an almost exclusive solar monotheism.
+[09:40 --> 09:46] This religious evolution seems to have rested on two main pillars, intertwined and not at
+[09:46 --> 09:49] all mutually exclusive.
+[09:49 --> 09:56] One pillar was Constantine's pious, dare I say superstitious, desire to identify the
+[09:56 --> 09:59] correct God and then worship it.
+[09:59 --> 10:06] The other pillar was Constantine's crass desire to identify the surest path to absolute power
+[10:06 --> 10:09] and then exploit it.
+[10:09 --> 10:14] There's been a great deal of ink spilled over the question of whether Constantine was really
+[10:14 --> 10:19] a Christian or whether he was just cynically exploiting the religion to his own advantage,
+[10:19 --> 10:23] and I've got to say, I think it's a bit of both.
+[10:23 --> 10:29] Throughout his life, Constantine was something of a seeker, but rather than seeking in the
+[10:29 --> 10:35] hippie sense of trying to find universal truth or everlasting peace or whatever, Constantine
+[10:35 --> 10:41] was seeking power, tangible, worldly power.
+[10:41 --> 10:46] And I think he genuinely believed that not only did God play a role in how events on
+[10:46 --> 10:52] earth unfolded, but that getting on the right side of the right God was the ticket to the
+[10:52 --> 10:55] top.
+[10:55 --> 11:01] In other words, Constantine was not some cynical atheist like Cicero who thought religion merely
+[11:01 --> 11:03] a necessary fiction.
+[11:03 --> 11:07] Necessary yes, but a fiction nonetheless.
+[11:07 --> 11:12] Constantine was a true believer.
+[11:12 --> 11:16] But that being said, Constantine was also well aware that if he was going to topple
+[11:16 --> 11:20] the tetrarchy and rule in his own right, that he was going to have to cobble together some
+[11:20 --> 11:23] kind of independent coalition.
+[11:23 --> 11:28] That is, gather together all those people who were unhappy with the existing order and
+[11:28 --> 11:31] get them working for him.
+[11:31 --> 11:36] And one of the largest and fastest growing groups who was unhappy with the existing order
+[11:36 --> 11:42] were the religious monotheists, and in particular, the Christians who were mighty peeved about
+[11:42 --> 11:46] the great persecution.
+[11:46 --> 11:52] Constantine then was only too happy to promote his own personal monotheism, signal his sympathy
+[11:52 --> 11:57] for the Christians, and tell anyone who would listen that he was only doing what God was
+[11:57 --> 12:00] bidding.
+[12:00 --> 12:06] So I'm not going to worry too much about how sincere Constantine was in his beliefs,
+[12:06 --> 12:11] because I reckon when it comes to analyzing the underlying ideologies of his reign, that
+[12:11 --> 12:16] we should probably just look to the spot where his religious zeal intersects with his political
+[12:16 --> 12:22] savvy and just leave it at that.
+[12:22 --> 12:28] Which of course brings us to one of the most important pieces of that underlying ideology.
+[12:28 --> 12:33] Namely, that in the lead up to his war with Maxentius, that Constantine experienced visions
+[12:33 --> 12:41] and dreams that promised him victory as long as he gave himself over to the Christian God.
+[12:41 --> 12:46] That's what Constantine said later anyway, after he had become sole ruler of the empire,
+[12:46 --> 12:51] and wanted to establish a nice smooth origin story for himself.
+[12:51 --> 12:57] Unfortunately for us though, Constantine's origin story is anything but smooth.
+[12:57 --> 13:02] Even something as simple as which sign Constantine used to conquer by is going to take a bit
+[13:02 --> 13:11] of untangling, but hey, that's why we're all here.
+[13:11 --> 13:15] If you were asked the man or woman in the street to tell you the story of Constantine's
+[13:15 --> 13:20] conversion to Christianity, conversion in the loose sense here rather than the technical
+[13:20 --> 13:24] sense, they would probably stare at you blankly.
+[13:24 --> 13:29] But once you found someone who had any idea what you were talking about, they would probably
+[13:29 --> 13:32] tell you a story that goes something like this.
+[13:32 --> 13:38] On the day before some great battle, Constantine saw a vision of the cross in the sky and was
+[13:38 --> 13:43] told by Christ to conquer using this sign.
+[13:43 --> 13:47] Then he painted the cross on the shields of all his men and proceeded to win the battle
+[13:47 --> 13:55] handily, establishing Christianity as the official religion of the Roman Empire forever.
+[13:55 --> 14:00] Now this is not the worst case of mashed up history you'll ever hear, but it is definitely
+[14:00 --> 14:03] a case of mashed up history.
+[14:03 --> 14:08] And of course, I tack that last bit on just to remind everyone that as much as Christianity
+[14:08 --> 14:13] was favored and promoted by Constantine, it did not actually become the official religion
+[14:13 --> 14:21] of the Roman Empire until the reign of Theodosius, some 50 years after Constantine's death.
+[14:21 --> 14:26] This commonly told version of the story is derived from two main sources, both of which
+[14:26 --> 14:32] provide some of the details, but neither of which tell the story exactly the same way
+[14:32 --> 14:38] nor do they tell the story the same way that people usually tell it today.
+[14:39 --> 14:44] First, we have Lactantius, a contemporary Christian writer who briefly mentions that
+[14:44 --> 14:50] on the night before the Battle of the Milvian Bridge that, quote, Constantine was directed
+[14:50 --> 14:55] in a dream to cause the heavenly sign to be delineated on the shields of his soldiers
+[14:55 --> 14:58] and so to proceed to battle.
+[14:58 --> 15:04] He did as he had been commanded, and he marked on their shields the letter X with a perpendicular
+[15:04 --> 15:10] line drawn through it and turned round thus at the top being the cipher of Christ.
+[15:10 --> 15:16] Having this sign, his troops stood to arms.
+[15:16 --> 15:22] Now one thing we should note right away is that the sign by which Constantine conquered
+[15:22 --> 15:26] was not the simple cross that we are all familiar with today.
+[15:26 --> 15:33] Instead, he is describing the chi-ro, a symbol comprised of the Greek letters chi and ro,
+[15:33 --> 15:36] the first two letters of Christ's name.
+[15:36 --> 15:45] And to help keep this stuff straight, a picture of the chi-ro is helpfully posted at thehistoryofroam.typepad.com.
+[15:45 --> 15:49] Now what's interesting about this is that though the chi-ro would eventually become associated
+[15:49 --> 15:54] exclusively with Christianity, this appears to be the first time it was ever used as a
+[15:54 --> 15:56] Christian symbol.
+[15:56 --> 16:01] Before Constantine, it was used mostly by scholars to mark passages they wanted to return
+[16:02 --> 16:07] because chi and ro were also the first letters of a Greek word for good.
+[16:07 --> 16:13] So it was already a sort of well-known good luck symbol in the ancient world before Constantine
+[16:13 --> 16:19] was allegedly commanded to paint it on the shield of his soldiers, which I think hints
+[16:19 --> 16:25] at how much Constantine's political savvy was also coming into play.
+[16:25 --> 16:30] The dual meaning of chi-ro meant that Christians could see what they wanted to see, and pagans
+[16:30 --> 16:35] could see what they wanted to see without stepping on each other's toes.
+[16:35 --> 16:43] And this was very helpful when it came to building a broad coalition of forces.
+[16:43 --> 16:47] The other version of the story we have comes from Eusebius, who would later drift in and
+[16:47 --> 16:52] out of Constantine's court, and in addition to many other scholarly works, including a
+[16:52 --> 16:58] very famous history of the early church, he would write the emperor's first official biography.
+[16:58 --> 17:03] In that biography, Eusebius relays a version of events that he swears came straight from
+[17:03 --> 17:06] Constantine himself.
+[17:06 --> 17:11] At some point prior to the battle, the future emperor was marching along with his men when
+[17:11 --> 17:17] he suddenly saw a vision above the sun, a cross of light with the Greek words, in this
+[17:17 --> 17:21] sign conquer, written alongside.
+[17:21 --> 17:26] By the time Constantine was relaying the story to Eusebius, the emperor added the further
+[17:26 --> 17:31] embellishment that he was not the only one to see it, and then in fact his whole army
+[17:31 --> 17:33] shared in the vision.
+[17:33 --> 17:38] Eusebius then continues with his version of the Lactantius story, that on the night before
+[17:38 --> 17:44] the battle, Constantine was visited by Christ himself, who told Constantine to use the chi-ro
+[17:44 --> 17:47] as a symbol of power against his enemies.
+[17:47 --> 17:53] This prompted Constantine to create the labarum, a military standard that featured the chi-ro
+[17:53 --> 18:02] atop a more traditional cross, of which there is also a picture at thehistoryofrealm.typad.com.
+[18:02 --> 18:06] So what are we to make of all this?
+[18:06 --> 18:11] Just to dispense with, modern scholars put almost no stock in the vision in the Sky Story,
+[18:11 --> 18:16] and certainly no stock in the bit about the whole army sharing the vision.
+[18:16 --> 18:22] Instead, they mark it down as a later bit of useful fiction, probably designed to continue
+[18:22 --> 18:29] the conflation between the old god Solon Victus and Constantine's new powerful Christian God.
+[18:29 --> 18:33] The dream on the night before the battle, on the other hand, is at least plausible.
+[18:33 --> 18:36] Men do dream powerful dreams, after all.
+[18:36 --> 18:43] But what Constantine did with the information, Jesus or whoever had given him, is still unknown.
+[18:43 --> 18:48] Did he really paint a chi-ro on the shields of all 40,000 of his men?
+[18:48 --> 18:52] This seems a bit cumbersome for the morning of a great battle.
+[18:52 --> 18:55] So maybe he just painted the shields of his bodyguard?
+[18:55 --> 19:00] Or maybe the shield painting never happened at all, and his army simply took the field
+[19:00 --> 19:04] behind a hastily cobbled together labarum.
+[19:04 --> 19:09] Or maybe the whole business about the chi-ro is an anachronism.
+[19:09 --> 19:14] Though the labarum would, by Eusebius's time, be one of Constantine's most powerful symbols,
+[19:14 --> 19:19] there is no actual proof that it was employed as early as 312.
+[19:19 --> 19:25] And the fact that it appears nowhere on Constantine's triumphal arch does seem a bit odd, given
+[19:25 --> 19:29] the central place in the narrative it later enjoyed.
+[19:29 --> 19:34] Nor for that matter, is there any proof that at this point Constantine was openly advertising
+[19:34 --> 19:39] a direct connection with the Christian God, which you'd think would be pretty unequivocal
+[19:39 --> 19:43] at this point.
+[19:43 --> 19:47] So I think what we're dealing with here is a case where Constantine wanted to leave himself
+[19:47 --> 19:53] room to maneuver as events unfolded, but then wanted to cement one particular version
+[19:53 --> 19:58] of the story, a very Christian version of the story, once it was all over.
+[19:58 --> 20:03] That's why it's difficult to make hard judgments about how and when he became a Christian,
+[20:03 --> 20:10] and how sincere he was, and how much he attributed his success to the Christian God at the time.
+[20:10 --> 20:14] We know that down the road, he definitely stated that he had been serving the Christian
+[20:14 --> 20:17] God all along.
+[20:17 --> 20:22] But at the time, Constantine used vague enough symbols and vague enough language that his
+[20:22 --> 20:25] meaning could be interpreted multiple ways.
+[20:25 --> 20:32] I am sure that Constantine's religious dissimilation was good politics at the time, but it sure
+[20:32 --> 20:37] makes it hard to untangle what really happened and why.
+[20:37 --> 20:43] Okay, now that that's all out of the way, we need to turn our attention back to worldly
+[20:43 --> 20:49] events in order to fully set the stage for Constantine's showdown with Maxentius, which
+[20:49 --> 20:53] I thought we were going to get to this week, but because of time constraints, we won't
+[20:53 --> 21:00] get to the actual Battle of the Milvian Bridge until next week.
+[21:00 --> 21:04] Counter-intuitively, the first thing we need to cover is the political situation in the
+[21:04 --> 21:06] East.
+[21:06 --> 21:12] Following Galerius' death in May 311, Maximinus Dio wasted no time ensuring that his days
+[21:12 --> 21:15] of being passed over were over.
+[21:15 --> 21:20] He was likely in Antioch when word came that Galerius was dead, and right away Maximinus
+[21:20 --> 21:26] marched west, intent on grabbing the whole of Asia Minor before anyone else could react.
+[21:26 --> 21:32] The anyone else he had to worry about was Lichinus, who, since his elevation to Augustus
+[21:32 --> 21:37] in 308, had been based in Pannonia.
+[21:37 --> 21:41] Lichinus did indeed pack up and head east, but in the footrace to the Hellespont, he
+[21:41 --> 21:44] was beaten by Maximinus.
+[21:44 --> 21:49] The two emperors then met on a boat on that sliver of water separating Europe from Asia,
+[21:49 --> 21:55] and agreed to use the Hellespont as the dividing line between their respective spheres of influence.
+[21:55 --> 22:00] Maximinus would control the whole of the East, while Lichinus would control Greece, Pannonia,
+[22:00 --> 22:03] and the Danube frontier.
+[22:03 --> 22:08] For about 12 seconds then, Maximinus and Lichinus were in alliance.
+[22:08 --> 22:15] At about this same time back in Italy, Maxentius decided that with Galerius out of the picture,
+[22:15 --> 22:21] it was time to once again assert his right to power, only this time even more aggressively
+[22:21 --> 22:23] than before.
+[22:23 --> 22:28] To this end, he decided that if he controlled the whole Western Empire, that Lichinus and
+[22:28 --> 22:36] Maximinus would be forced to recognize him, which meant bumping off Constantine.
+[22:36 --> 22:41] Embracing that whole dutiful son angle, Maxentius used Constantine's mistreatment of his father
+[22:41 --> 22:47] and his father's legacy as a causes bellae, and declared war on his brother-in-law in
+[22:47 --> 22:48] mid-311.
+[22:48 --> 22:54] That, at least, is the version of history Constantine promoted immediately following
+[22:54 --> 22:57] his victory over Maxentius.
+[22:57 --> 23:02] Whether or not this version is true, however, is an open question, and it certainly doesn't
+[23:02 --> 23:06] help that later in life, Constantine would change his story and promote a different
+[23:06 --> 23:12] version of events that has him initiating the war as a noble, and divinely inspired
+[23:12 --> 23:19] of course, mission to free Rome from the evil pagan tyrant Maxentius.
+[23:19 --> 23:25] So it is tough to say for sure who fired the first shot and why, but whoever did what win,
+[23:25 --> 23:31] in the spring of 312, Constantine and Maxentius would be at war.
+[23:31 --> 23:36] In preparation for the conflict, either because he had just declared war, or because Maxentius
+[23:36 --> 23:44] had just declared war on him, Constantine reached out to Lycinius to secure an alliance.
+[23:44 --> 23:48] This alliance, which would isolate Italy and ensure Constantine would not be jumped from
+[23:48 --> 23:53] behind while he dealt with Maxentius, was cemented by the engagement of Constantine's
+[23:53 --> 24:00] sister to Lycinius, a marriage that would eventually take place in early 313 AD.
+[24:00 --> 24:04] When Maxiministias and Maxentius received word that Lycinius and Constantine were now
+[24:04 --> 24:09] in cahoots, it did not take long for either man to recognize how much this shifted the
+[24:09 --> 24:12] balance of power away from them.
+[24:12 --> 24:18] So Maxiministias, now technically the longest serving of the emperors, sent envoys to Maxentius
+[24:18 --> 24:23] in Rome, promising political recognition and full legitimacy in exchange for a military
+[24:23 --> 24:26] alliance.
+[24:26 --> 24:30] Since this is what Maxentius had wanted all along, he readily agreed to the pact, and
+[24:30 --> 24:33] so the battle lines were drawn.
+[24:33 --> 24:41] Constantine and Lycinius versus Maxentius and Maxiministias.
+[24:41 --> 24:46] Over the course of the winter 311-312, a winter I should remind you that saw Diocletian finally
+[24:46 --> 24:53] die, Constantine and his advisors mulled over what to do next.
+[24:53 --> 24:57] For most of Constantine's inner circle, there were two paths to victory.
+[24:57 --> 25:03] One, remain in Gaul and wait for Maxentius to come to them, which will leave him outnumbered,
+[25:03 --> 25:08] fighting in enemy territory, ill supplied, and constantly worrying about the political
+[25:08 --> 25:10] situation back in Italy.
+[25:10 --> 25:17] Or, two, remain in Gaul and hope Maxentius stays in Italy, where, besieged from all sides
+[25:17 --> 25:22] and forced to raise ever more taxes and levy ever more troops to stay in power, his regime
+[25:22 --> 25:28] will eventually be toppled from within by angry Italians, who Constantine's advisors
+[25:28 --> 25:33] had it on very good authority had grown disenchanted with the men.
+[25:33 --> 25:40] Either way, the smart play, the safe play, and the winning play was to remain in Gaul.
+[25:40 --> 25:44] Which is why Constantine announced his intention to invade Italy.
+[25:44 --> 25:48] Wait, what?
+[25:48 --> 25:51] Next week, yes, you heard me right.
+[25:51 --> 25:54] Constantine will invade Italy.
+[25:54 --> 25:58] Whether he just thought it was good strategy, or whether he really thought God was on his
+[25:58 --> 26:04] side and would protect him, Constantine would set off in the spring of 312 on an audacious
+[26:04 --> 26:06] march on Rome.
+[26:06 --> 26:11] He had no good reason to think he would fare any better than Severus or Galerius, who had
+[26:11 --> 26:13] both found Rome impenetrable.
+[26:13 --> 26:18] But when he arrived at the Eternal City, he would find himself the benefactor of what
+[26:18 --> 26:22] could be described, if you were so inclined, as a miracle.

@@ -1,0 +1,247 @@
+# 20100301 - 079- The Dacian Wars
+# Detected language: en
+# Duration: 1375.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:07] This week's episode is brought to you by audible as you are now aware audible is the internet's leading provider of audio
+[00:07 --> 00:13] Entertainment with over 60,000 titles to choose from when you're done with this episode go to audible podcast calm
+[00:14 --> 00:18] Rome that again is audible podcast calm forward slash Rome
+[00:19 --> 00:24] By going there you will qualify for a free book download when you sign up for a 14-day trial membership
+[00:25 --> 00:29] There is no obligation to continue the service and you can cancel anytime and keep the free book that you got
+[00:30 --> 00:36] You can also keep going with one of the monthly subscription packages and get great deals on all future audiobook purchases
+[00:37 --> 00:45] This week I'm going to recommend Rome at war farms families and death in the Middle Republic a new addition to the library that
+[00:45 --> 00:48] I have not yet read but is on my list of new books to pick up
+[00:49 --> 00:54] Just remember to go to audible podcast calm forward slash Rome so that they know who sent you
+[00:54 --> 01:01] Hello and welcome to the history of Rome episode 79 the Dacian Wars
+[01:04 --> 01:10] When Nerva died in January of 98 AD a news of his death generated as much relief as it did sadness
+[01:11 --> 01:19] We know from last time that Nerva was no egomaniac old despotic monster whose death was eagerly anticipated by a friend and foe alike
+[01:19 --> 01:23] But neither was he seen as the best man for a very difficult job
+[01:24 --> 01:30] The best man everyone agreed was Trajan and from the minute. He had been adopted the death watch began on Nerva
+[01:31 --> 01:37] The sooner the old emperor died the sooner imperial authority would be back in the hands of a man who would know how to use it properly
+[01:38 --> 01:42] So when Nerva slipped his mortal coil just months after naming Trajan heir
+[01:43 --> 01:47] Everyone agreed how nice it was that the old man was the best man for a very difficult job
+[01:47 --> 01:51] Everyone agreed how nice it was that the old man had not dragged things out
+[01:51 --> 01:56] Rome would again be ruled by a proper emperor not a political fixture in over his head
+[01:58 --> 02:02] The crazy thing about Trajan is that in his almost 20 years in office
+[02:02 --> 02:06] He actually managed to exceed the high expectations everyone had for him
+[02:06 --> 02:12] And after his death every subsequent emperor would ascend to the throne blessed by the ceremonial prayer
+[02:12 --> 02:16] May he be luckier than Augustus and better than Trajan
+[02:17 --> 02:26] There was no drama surrounding the succession as he had already been entrusted with most of the important powers that collectively made up official imperial authority
+[02:26 --> 02:29] In the few months between his adoption and Nerva's death
+[02:29 --> 02:34] The two men resembled colleagues far more than they resemble present ruler and future heir
+[02:35 --> 02:42] As I mentioned last time there is even some speculation that Nerva was planning to abdicate the throne as soon as Trajan was settled into his new position
+[02:43 --> 02:45] But died before he had the chance to
+[02:45 --> 02:48] Some wanted Trajan to take over completely right away
+[02:48 --> 02:53] But the general declined to even return to Rome during the brief time he and Nerva shared power
+[02:54 --> 02:58] Perhaps it was just that he was too busy monitoring the situation on the Rhine
+[02:58 --> 03:04] But it could also be that he understood all too well that he would utterly overshadow Nerva should he return to the capital
+[03:05 --> 03:10] And out of professional courtesy he stayed away to let Nerva serve out his term with honor
+[03:11 --> 03:13] I would believe either explanation
+[03:13 --> 03:20] But his well-documented political humility and respect for the pride of proud men makes the latter an enticing conclusion
+[03:21 --> 03:26] But then again, he would be emperor in his own right for more than a year before he finally did make his way to Rome
+[03:27 --> 03:33] So it could be that he really was just too busy ensuring the security of the northern border to come back to the capital for some
+[03:33 --> 03:35] speeches and religious ceremonies
+[03:36 --> 03:41] Careful attention to the real responsibilities of office as opposed to the lavish trappings of power
+[03:41 --> 03:47] Was another of Trajan's character traits that endear him to everyone ancient medieval and modern alike
+[03:50 --> 03:57] Like I said Trajan spent most of his first year in office traveling the empire's frontier first along the Rhine and then the Danube
+[03:58 --> 04:02] Mostly satisfied with the defensive fortifications the mission had put in place
+[04:02 --> 04:08] Trajan eventually arrived in Moesia the province opposite the kingdom of Dacia where he paused
+[04:08 --> 04:12] Studied and concluded that war north of the Danube was inevitable
+[04:14 --> 04:15] As a career military man
+[04:15 --> 04:20] He was well aware of the fury among his peers that the peace treaty to mission had signed with Dickebolus
+[04:21 --> 04:25] And now the new emperor was witnessing firsthand the fruits of that poison tree
+[04:26 --> 04:33] The money and material to mission had sent to Dickebolus was supposed to be used to bolster the Dacian border facing away from Rome
+[04:33 --> 04:39] To help the new client king fulfill his responsibility as a buffer against the uncivilized tribes beyond the frontier
+[04:40 --> 04:47] But Trajan's scouts reported back to him that Dickebolus had actually built a substantial fortification network facing south
+[04:47 --> 04:49] towards the roman provinces
+[04:49 --> 04:53] The implication of this fortification network was all too clear
+[04:53 --> 05:01] Dickebolus was clearly anticipating future hostilities with Rome. The only question was when the next war would break out
+[05:03 --> 05:05] But Trajan was a patient man
+[05:05 --> 05:10] While he immediately apprehended that he was at some point going to invade Dacia
+[05:10 --> 05:13] He knew that he couldn't just go flying off half-cocked
+[05:14 --> 05:19] While the situation in Dacia was going to come to a head eventually it did not look ready to explode just yet
+[05:20 --> 05:25] Undertaking an invasion on the scale he envisioned was going to take careful planning
+[05:25 --> 05:29] But most of all it was going to take a solidified political position at home
+[05:30 --> 05:34] He was popular now the new car smell still lingering in the air
+[05:35 --> 05:37] But Trajan understood how quickly novelty can wear off
+[05:38 --> 05:44] Without the support of the people and the senate back home. It was pure folly to go off conquering abroad
+[05:45 --> 05:51] So bidding and until next time to the daisian kingdom he made his way back to rome in 99 ad
+[05:53 --> 05:58] His arrival in the capital was as magnificent as any triumphal procession
+[05:59 --> 06:06] His return to rome had been anticipated since nirva had named him heir and the whole population of the city turned out to cheer their new emperor
+[06:07 --> 06:13] Setting the tone for his reign Trajan did not ride in on a splendid chariot or atop a great steed
+[06:14 --> 06:19] Instead he entered the city on foot and walked down the streets greeting his adoring subjects
+[06:20 --> 06:22] He continued in this vein as he met with the senate
+[06:23 --> 06:31] Adopting a deferential tone and vowing to continue nervous policy that left men of senatorial rank free from the fear of imperial persecution
+[06:33 --> 06:39] The senate had been unhappy that they had had no say in the adoption of trajan and even more unhappy that he was a mere
+[06:39 --> 06:40] Spanish provincial
+[06:40 --> 06:44] But the new emperor's demeanor disarmed even his most pessimistic critics
+[06:45 --> 06:52] In both word and deed trajan signaled that he was returning to the old augustine model of the emperor's princeps
+[06:52 --> 06:54] merely the first among equals
+[06:55 --> 06:58] This went a long way towards assuaging the doubts of the aristocracy
+[06:59 --> 07:05] Who quickly came to view trajan as not only a man they could work with but also a man who would work with them
+[07:05 --> 07:06] Him
+[07:06 --> 07:10] Indeed trajan wound up as a sort of ironic flip side to demission
+[07:11 --> 07:16] Demission had sought to emulate all of augustus's ends while ignoring the first emperor's means
+[07:16 --> 07:23] Trajan meanwhile emulated augustus's means while as we will soon see pursuing his own very different ends
+[07:26 --> 07:29] Trajan spent the next two years in rome solidifying his position
+[07:30 --> 07:37] Always with one eye on dacia, but otherwise focused on ensuring political and economic peace across the empire he now commanded
+[07:38 --> 07:46] To gain the support of the senate he freed more of demission's old political prisoners and returned more confiscated property to the aristocratic victims
+[07:46 --> 07:48] of the last flavians regime
+[07:49 --> 07:55] To gain the support of the people he announced his intention to continue and extend nervous elementary system
+[07:55 --> 08:02] And then ensure that his stepfather would receive proper deification from the senate for the good work he had done in service to the empire
+[08:03 --> 08:07] He then set about systematically reducing the size and scope of the imperial court
+[08:09 --> 08:14] Demission had built an executive branch that commanded and controlled the goings-on of the whole empire
+[08:15 --> 08:18] Trajan had no interest in acting as an omniscient central authority
+[08:19 --> 08:26] And let it be known that in the future he would rely on the sound judgment of his provincial governors to decide for themselves how to handle their territories
+[08:27 --> 08:30] He would issue orders on the most important or dangerous issues
+[08:31 --> 08:38] But other than that requests for instructions were usually returned with a note telling the governor politely to figure it out for himself
+[08:39 --> 08:45] Trajan's bottom line was that you know the people and specific circumstances of your province best
+[08:45 --> 08:48] And I have no intention of micromanaging you from rome
+[08:49 --> 08:56] Of course trajan had no intention of micromanaging from rome because he planned to be busy with other more important things
+[08:57 --> 08:59] Like for example the conquest of dasia
+[09:01 --> 09:04] The whole time he was busy solidifying his political position
+[09:04 --> 09:10] He was simultaneously focused on redeploying the legions to ensure the success of his planned campaign
+[09:11 --> 09:13] In addition to raising two new legions
+[09:14 --> 09:18] He reorganized who was stationed where to ensure that when he marched across the danube
+[09:19 --> 09:23] Border security would not suffer because of the troops he had pulled away from their previous posts
+[09:25 --> 09:31] He also put his men to work expanding and strengthening the road network south of the danube to ensure the stability of his supply lines
+[09:33 --> 09:38] There's an old maxim that amateurs think about strategy while professionals think about logistics
+[09:39 --> 09:42] If this is true, then trajan was a consummate professional
+[09:43 --> 09:47] His wars in dasia would become legendary not for the battle plans
+[09:47 --> 09:52] He drew up but for the engineering feats he employed to make the campaigns possible
+[09:53 --> 10:00] Not since caesar had built his bridges across the rine had the ancient world seen military engineering the likes of which trajan demanded
+[10:01 --> 10:08] Leading the emperor's corps of engineers was a key lieutenant who would eventually go down as one of the greatest architects in history
+[10:08 --> 10:10] apollodorus of damascus
+[10:11 --> 10:18] The greek-born native of syria at some point came to the attention of trajan and when the latter became emperor
+[10:19 --> 10:23] He brought apollodorus in as his chief architect builder and sculptor
+[10:24 --> 10:31] Over the course of his reign if trajan needed something built a bridge a road a triumphal arch a new form for rome
+[10:31 --> 10:40] Another triumphal arch he always turned to apollodorus who fulfilled his emperor's requests with what would eventually become world famous vision and skill
+[10:41 --> 10:47] The stone bridge he would soon build across the danube would not only be the first permanent bridge across that great river
+[10:47 --> 10:52] But also stand as the longest bridge ever built by humans for over a thousand years
+[10:54 --> 10:59] But before he could display his skills he needed the opportunity to use them and in 101
+[10:59 --> 11:04] Trajan was ready to create the opportunity they both needed to achieve everlasting fame
+[11:04 --> 11:06] him
+[11:07 --> 11:13] Satisfied that the empire was in good working order and the legions were in place to prosecute and support his invasion of dasia
+[11:13 --> 11:16] Trajan went to the senate and asked for their permission to invade
+[11:18 --> 11:25] He didn't need to do this obviously but he thought it prudent and beneficial to let the senate give their seal of approval to his plans
+[11:26 --> 11:31] Gratified by the deference they had been shown thus far and the respect they were being shown now
+[11:31 --> 11:36] The senate overwhelmingly supported trajan and gave him their firm blessing to go out a conqueror
+[11:39 --> 11:44] The emperor traveled to moesia to take personal command of the four legions strong invasion force
+[11:44 --> 11:52] And in march 101 crossing a temporary but still impressive bridge apollodorus had built across the danube. He led his legions into dasia
+[11:54 --> 11:59] Fully cognizant of the trap cornelius fuscus had blundered into by advancing too quickly
+[12:00 --> 12:05] Trajan took his time moving north fully scouting and securing each territory before moving in
+[12:06 --> 12:12] Decebalus had been waiting for years for the romans to invade and was eager to test out his new defensive network
+[12:13 --> 12:19] If he could repel trajan his renown would grow and he would be able to possibly cobble together a kingdom
+[12:19 --> 12:23] Strong enough to stand against the romans not just temporarily but forever
+[12:23 --> 12:30] Trajan though was an altogether different animal from the mediocre general's demission had sent previously
+[12:30 --> 12:37] And rather than eternal renown decebalus would go down in history as just another barbarian king bested by the might of rome
+[12:40 --> 12:45] The first phase of the war though went well for the dasians in that it resulted in something of a stalemate
+[12:46 --> 12:50] Once again a battle was fought at the fortress guarding the pass at tappi
+[12:50 --> 12:55] A hard-fought affair that saw trajan endure losses far in excess of anything he was expecting
+[12:56 --> 13:02] The romans technically won the battle but only because the dasians withdrew from the field after a sudden storm kicked up
+[13:03 --> 13:05] Rather than because they were beaten militarily
+[13:06 --> 13:09] Somewhat shocked to the cost of his pyrrhic victory
+[13:09 --> 13:14] Trajan came down out of the mountains before winter began and withdrew to the roman side of the danube to regroup
+[13:15 --> 13:17] This was going to be harder than he thought
+[13:18 --> 13:23] Still doable but his men needed to rest and recuperate before they could be expected to finish the job
+[13:25 --> 13:30] Over the winter of 101 102 though the romans were unexpectedly called back into action
+[13:31 --> 13:33] Believing that he had the romans on the run
+[13:34 --> 13:42] Decebalus decided to go on the offensive and he led his army across the frozen danube to raid moesia and further demoralize the battered legions
+[13:43 --> 13:46] But decebalus's offensive got off to a rocky start
+[13:46 --> 13:52] When cracks in the ice swallowed a portion of his army before they had a chance to inflict any damage on the romans at all
+[13:53 --> 13:59] Now themselves demoralized the dasians were easily driven home by the quickly mobilized roman response
+[14:01 --> 14:08] In the spring of 102 trajan was determined to press all the way to the dasian capital and remind decebalus that he was no equal
+[14:08 --> 14:10] of the roman empire
+[14:10 --> 14:16] But after the previous winter's folly and the pretty obvious reality that trajan meant serious business
+[14:16 --> 14:21] Decebalus decided to take the wind out of trajan's invasion by offering his surrender
+[14:22 --> 14:25] This year's fighting had only seen a few brief skirmishes
+[14:25 --> 14:32] But these were bloody and difficult affairs and trajan decided it may be in everyone's best interest for the romans to accept
+[14:32 --> 14:35] Decebalus's surrender and renegotiate the terms of the peace
+[14:35 --> 14:36] Decebalus
+[14:36 --> 14:40] After all it was not the fact that dasia remained independent that was the problem
+[14:41 --> 14:46] It was the fact that decebalus had remained hostile after officially accepting an alliance with rome
+[14:48 --> 14:51] So trajan imposed far harsher terms than demission had outlined
+[14:51 --> 14:57] Ordering decebalus to cede a portion of his kingdom to rome tear down the walls of his various fortresses
+[14:57 --> 15:01] And dismantle the defensive war machines that line the mountain passes
+[15:02 --> 15:09] Decebalus made a great show of accepting the terms and it seemed at least for the moment that the dasian question had been answered
+[15:10 --> 15:15] It was enough of an answer for trajan anyway that the emperor returned to rome and celebrated a triumph
+[15:18 --> 15:20] But after his experience with demission
+[15:20 --> 15:27] Decebalus viewed surrendering to the romans as little more than a way to buy time and possibly scam money and material out of the empire
+[15:27 --> 15:32] The romans had left him alone to siphon funds for a decade before they caught wise to him before
+[15:32 --> 15:37] And the dasian king saw no reason why this latest surrender should be any different
+[15:38 --> 15:45] So he once again pledged to fortify the borders of dasia facing away from the romans if trajan directed appropriate funds his way
+[15:46 --> 15:49] Perhaps convinced that the chastised king had learned his lesson
+[15:50 --> 15:54] Trajan sent along money and men to help cement the renewed alliance between rome and dasia
+[15:55 --> 15:58] But the emperor was not totally oblivious to the duplicity of decebalus
+[15:59 --> 16:01] And in the years after his first campaign in dasia
+[16:01 --> 16:07] He had apple adoros build a permanent bridge across the danube in case the romans needed to reinvade
+[16:08 --> 16:13] Over 1,100 meters long 15 meters wide and 19 meters tall
+[16:14 --> 16:19] Trajan's bridge as it would come to be known was one of the most impressive engineering marvels of the ancient world
+[16:19 --> 16:21] Engineering marvels of the ancient world
+[16:22 --> 16:28] Guarded on both sides by fortified guard houses and perched atop 20 stone columns sunk into the riverbed
+[16:29 --> 16:33] The bridge would stand as a monument to roman power for almost 200 years
+[16:33 --> 16:40] Until the emperor aurelian demolished it as he attempted to re-solidify the empire during the dark days of the third century
+[16:42 --> 16:46] Trajan no doubt hoped the bridge would help deter some of decebalus's hostility
+[16:46 --> 16:51] In a you know, we can come at you whenever we want so why don't you just chill out sort of way
+[16:52 --> 16:58] But the dasian king proved as obstinate as ever and in 105 trajan once again was preparing for war
+[17:00 --> 17:07] This time the problem was that decebalus was inciting local tribes to invade roman territory and promising to support their efforts to undermine
+[17:07 --> 17:09] the roman south of the danube
+[17:10 --> 17:15] Fed up completely with the unrepentant king trajan readied the legions for a second invasion
+[17:16 --> 17:22] This time he was not aiming for anything less than the complete destruction of decebalus and the annexation of dasia
+[17:23 --> 17:25] into the empire as a conquered province
+[17:27 --> 17:32] In the spring of 106 trajan ordered three columns into dasia to overwhelm the kingdom
+[17:34 --> 17:38] The bulk of each of the three columns drove from different directions straight at the dasian capital
+[17:39 --> 17:43] But small detachments were fanned out across the country to secure key points
+[17:43 --> 17:48] And generally smother any resistance that might pop up in the eventually occupied country
+[17:49 --> 17:56] Trajan led one of the columns to the capital himself and once everyone arrived he ordered a full frontal assault on the city
+[17:58 --> 18:02] However, even though decebalus was facing down the romans with a skeleton defense force
+[18:02 --> 18:06] The dasians held off the assault and the romans were forced to break off the attack
+[18:08 --> 18:11] Seeing the brute force would not work trajan turned to cunning
+[18:11 --> 18:13] Trajan
+[18:13 --> 18:17] Noticing that the capital received all of its clean water from a network of aqueduct pipes
+[18:17 --> 18:21] He sent his men around to destroy them all and cut the dasians off from their water
+[18:23 --> 18:28] As soon as the water stopped flowing it was only a matter of time before the dasians surrendered and soon enough
+[18:28 --> 18:31] They raised the white flag and allowed the romans to enter the gates
+[18:33 --> 18:40] Decebalus and his family fled before his capital surrendered but were soon tracked by a roman cavalry unit and pinned down
+[18:40 --> 18:48] Knowing what happened to captured enemies of rome especially captured leaders decebalus committed suicide rather than fall into roman hands
+[18:49 --> 18:54] His head was delivered to trajan and the emperor sent it back to rome to be put on display
+[18:55 --> 19:03] He then ordered the dasian capital demolished and a new capital a roman provincial capital built some 40 kilometers away
+[19:03 --> 19:09] Decia was formally annexed by the romans and it became the last major province added to the empire
+[19:10 --> 19:15] Trajan would of course add much more territory to the empire before his death in 117 ad
+[19:16 --> 19:20] But hadrian would immediately abandon his predecessor's eastern conquest
+[19:21 --> 19:27] Decia though would remain the empire until aurelian abandoned the territory in the 270s ad
+[19:27 --> 19:29] The
+[19:29 --> 19:33] Conquest of decia was not just a military feather in trajan's cap
+[19:34 --> 19:37] It would also prove to be a huge boon to the roman economy
+[19:37 --> 19:40] Decia contained some of the best gold mines in the ancient world
+[19:41 --> 19:48] And for years the romans would be able to rely on the steady stream of precious metal coming in from decia to fund all of their dreams
+[19:50 --> 19:55] Trajan received a down payment on future riches when a dasian general betrayed the location of decebalus's
+[19:55 --> 19:57] well-stocked treasure house
+[19:58 --> 20:04] When the emperor returned to rome he carted back with him riches not seen since the day pompi returned from the east
+[20:04 --> 20:11] Some 170 years before and in a stroke the financial problems nerva had wrestled with were slayed
+[20:12 --> 20:17] There was now more than enough money not only to pay for all previously incurred expenses and promises
+[20:17 --> 20:20] But also to fund a whole host of new projects
+[20:20 --> 20:25] And with the help of apple adoros trajan would see that the money was put to good use
+[20:26 --> 20:33] The most famous product of the dasian treasure trove was the new forum complex apple adoros designed and built
+[20:33 --> 20:37] To help alleviate the burden of rome's overcrowded public spaces
+[20:38 --> 20:43] Built just north the main forum the massive new space which would become known as trajan's forum
+[20:44 --> 20:48] Required the leveling of parts of the quarinial and capitoline hills
+[20:48 --> 20:53] A huge undertaking in its own right that had been on the imperial to-do list since the days of augustus
+[20:54 --> 21:02] Trajan's new forum would be formally inaugurated in 112 ad greatly enhancing the day-to-day economic life of rome
+[21:03 --> 21:10] The next year apple adoros would complete the most famous part of the most famous product of the dasian treasure trove
+[21:10 --> 21:17] And in 113 trajan's column the triumphal sculpture commemorating trajan's victory was unveiled
+[21:17 --> 21:19] World
+[21:19 --> 21:26] Rising over 100 feet off the ground the freestanding column is wrapped 23 times by 600 feet of free sculpture
+[21:27 --> 21:29] Telling the story of trajan's campaigns
+[21:30 --> 21:34] The column stands today in rome and in addition to simply being a marvel to behold
+[21:35 --> 21:39] It also serves as a living record of trajan's activities in dasia
+[21:40 --> 21:46] Indeed much of what we know about these wars and much of what you have just heard is directly sourced to the column
+[21:47 --> 21:54] With all the attendant caveats about the danger of relying too much on imperial propaganda, which the column most assuredly was
+[21:56 --> 22:02] Had he simply stopped there dasia conquered and the infrastructure of the empire receiving a much-needed upgrade
+[22:03 --> 22:07] Trajan would already be going down as one of the most successful emperors in history
+[22:07 --> 22:09] But he was not done yet
+[22:10 --> 22:17] Next week trajan will turn his attention to the east and really flip augustus's injunction against further expansion on its head
+[22:19 --> 22:21] Though in the end his conquests would prove fleeting
+[22:22 --> 22:29] Trajan's campaigns in the east would give the romans one last glorious adventure to cheer on before they settled in to their nice
+[22:29 --> 22:31] long slow decline
+[22:39 --> 22:42] You

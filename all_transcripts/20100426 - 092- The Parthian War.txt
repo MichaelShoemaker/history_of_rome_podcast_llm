@@ -1,0 +1,339 @@
+# 20100426 - 092- The Parthian War
+# Detected language: en
+# Duration: 1476.08 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you now know, Audible is the Internet's leading provider of audio entertainment with
+[00:08 --> 00:12] probably more than 60,000 titles to choose from.
+[00:12 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:16 --> 00:20] That again is audiblepodcast.com forward slash Rome.
+[00:20 --> 00:23] By going to that address, you will qualify for a free book download when you sign up
+[00:23 --> 00:26] for a 14-day trial membership.
+[00:26 --> 00:29] There is no obligation to continue the service and you can cancel anytime and keep the free
+[00:29 --> 00:31] book download.
+[00:31 --> 00:34] You can also keep going with one of the monthly subscription options and get great deals on
+[00:34 --> 00:37] all future audiobook purchases.
+[00:37 --> 00:42] This week, I noticed that Cleopatra and Antony, Power, Love, and Politics in the Ancient World
+[00:42 --> 00:45] by Diana Preston has been added to the library.
+[00:45 --> 00:49] I haven't listened to it myself, but hey, who doesn't like reading about Antony and
+[00:49 --> 00:51] Cleopatra?
+[00:51 --> 00:55] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:00 --> 01:10] Hello, and welcome to the History of Rome, episode 92, The Parthian War.
+[01:10 --> 01:14] When Marcus and Lucius became co-emperors in 161, the borders of the Roman Empire had
+[01:14 --> 01:17] been quiet for more than 40 years.
+[01:17 --> 01:21] Sure, there were periodic raids from the nomadic tribes living beyond the frontier, but for
+[01:21 --> 01:26] the most part, Rome had not dealt with a major foreign threat in decades.
+[01:26 --> 01:29] That was about to change.
+[01:29 --> 01:33] Just minutes after taking office, the new emperors found themselves facing war with
+[01:33 --> 01:37] Parthia in the east, and after dispatching that threat, they were forced to immediately
+[01:37 --> 01:41] turn north and fight like mad to protect the Danube provinces.
+[01:41 --> 01:46] Ironically, the two emperors who between them had served not a single day in the legions
+[01:46 --> 01:50] spent the majority of their reigns out on the front lines, leading Rome's army in a
+[01:50 --> 01:54] running battle to ward off foreign encroachment.
+[01:54 --> 01:58] Today, I want to focus on the initial threat posed by a newly resurgent Parthian empire
+[01:58 --> 02:03] in the east, while next time, we'll get into Marcus' long war on the Danube against
+[02:03 --> 02:08] a forever-shifting coalition of German tribes.
+[02:08 --> 02:15] In the years after Trajan's invasion of Mesopotamia in 115, the Parthians had been divided internally,
+[02:15 --> 02:20] and had neither the time, the resources, nor the ambition to make trouble for Rome.
+[02:20 --> 02:26] But in the late 140s, a Parthian claimant to the throne named Volgausis IV succeeded
+[02:26 --> 02:31] in reuniting what had become two distinct eastern and western halves of his empire.
+[02:31 --> 02:38] Riding high from this domestic victory, Volgausis began casting his ambition into deeper waters.
+[02:38 --> 02:43] In the early 150s, he reasserted control over Charyx, the Persian Gulf city I mentioned
+[02:43 --> 02:48] last week that had been enjoying independence since the withdrawal of the Romans in 118.
+[02:48 --> 02:53] Taking back the small kingdom without difficulty, or a peep from Roman diplomats, emboldened
+[02:53 --> 02:57] Volgausis to tread still further afar.
+[02:57 --> 03:04] This is how Armenia once again became the cause of conflict between the two great empires.
+[03:04 --> 03:09] In the mid-to-late 150s, Volgausis began making noise that he was unhappy with the political
+[03:09 --> 03:14] status quo along the border, which of course gave fit to the patron saint of the status
+[03:14 --> 03:16] quo, Antoninus Pius.
+[03:16 --> 03:22] It is reported that as he lay dying, Antoninus' final thoughts were consumed by the treachery
+[03:22 --> 03:26] of various foreign kings who he felt had wronged him over the years, and that he railed
+[03:26 --> 03:31] against Volgausis in particular for making deceitful trouble where no deceitful trouble
+[03:31 --> 03:34] ought to be made.
+[03:34 --> 03:39] What in particular the dying emperor was referring to is unknown, but the swift invasion of Armenia
+[03:39 --> 03:43] the Parthian king led following Antoninus' death leaves little doubt that the emperor
+[03:43 --> 03:46] was not just ranting deliriously.
+[03:46 --> 03:52] Volgausis was clearly aiming to reshape the border between Rome and Parthia.
+[03:52 --> 03:57] Whether he always intended a military confrontation is unknown, but as I said at the close of
+[03:57 --> 04:02] last week's episode, the rise of two men without a gladius to their name seems to have tipped
+[04:02 --> 04:08] the scales in favor of taking by force what could not be peacefully agreed to.
+[04:08 --> 04:13] Up to this point, Volgausis' life and career had been one of continuous success, and there
+[04:13 --> 04:17] was no reason for him to think that this new campaign would be any different.
+[04:17 --> 04:21] And at the outset of the war, events seemed to give the Parthian king still less to pause
+[04:21 --> 04:23] over.
+[04:23 --> 04:29] Rome blundered its way from defeat to defeat, its leaders weak and its legions soft.
+[04:29 --> 04:33] Probably unsure of what his prodding would provoke, Volgausis had to have been thrilled
+[04:33 --> 04:36] at the anemic Roman response.
+[04:36 --> 04:40] Crazy as it sounds, as the rate things were going, it was not entirely out of the question
+[04:40 --> 04:47] that the Parthians might just be able to snatch the entire eastern Mediterranean coast.
+[04:47 --> 04:52] In the summer of 161, Volgausis led an army into Armenia, deposed the Roman-approved king,
+[04:52 --> 04:56] and appointed one of his own countrymen monarch.
+[04:56 --> 04:59] The legions in the east did not need to wait for instructions from the emperor to begin
+[04:59 --> 05:02] making preparations for war.
+[05:02 --> 05:07] The governor of Cappadocia, in this case Marcus Sedatius Severianus, was the Roman official
+[05:07 --> 05:13] tasked with keeping watch over Armenia, and, you'll recall from our tour of the empire,
+[05:13 --> 05:17] he had two legions stationed on the Armenian border at his disposal to help him neutralize
+[05:17 --> 05:20] any threat.
+[05:20 --> 05:24] Overall strategic command of the eastern legions, though, fell to the governor of Syria, in
+[05:24 --> 05:28] this case Lucius Etidius Cornelianus.
+[05:28 --> 05:33] Both men had been at their respective posts for years, and were kept on by Marcus following
+[05:33 --> 05:37] the death of Antoninus to ensure the stability of the east would not be disrupted while he
+[05:37 --> 05:40] and Lucius settled into power.
+[05:40 --> 05:48] But whatever their experience and qualifications, both men proved unequal to the task at hand.
+[05:48 --> 05:54] Severianus, on the front lines in Cappadocia, witnessed the southern Parthian invasion and
+[05:54 --> 05:58] immediately huddled with his advisers to plan the initial Roman response.
+[05:59 --> 06:03] Unfortunately, the Cappadocian governor had lately come under the influence of an infamous
+[06:03 --> 06:07] mystical charlatan named Alexander.
+[06:07 --> 06:10] Not that this was a totally crazy thing to have happen.
+[06:10 --> 06:15] Alexander had by this point fashioned himself into a rich and famous oracle who spoke divine
+[06:15 --> 06:20] prophecies on behalf of a python named Glycon, who Alexander claimed was a new fertility
+[06:20 --> 06:22] god.
+[06:22 --> 06:27] By the 160s, Alexander was not only the father-in-law of a Roman senator, but his cult had grown
+[06:27 --> 06:32] to rival that of the Epicureans and the Christians, and he counted a number of aristocratic Romans
+[06:32 --> 06:34] as his friend.
+[06:34 --> 06:38] So the fact that the governor of Cappadocia consulted Alexander about the situation in
+[06:38 --> 06:42] Armenia was not a huge breach of sanity.
+[06:42 --> 06:44] Lots of people believed in Alexander.
+[06:44 --> 06:47] Severianus was just one of them.
+[06:47 --> 06:51] Alexander told Severianus that if the Romans counterattacked right away, that the governor
+[06:51 --> 06:56] would score an easy victory and come away with riches and fame to match those of the
+[06:56 --> 06:59] greatest Roman generals.
+[06:59 --> 07:03] Understandably excited by this response, Severianus led a legion across the border practically
+[07:03 --> 07:05] the next day.
+[07:05 --> 07:11] But sadly for the Romans in general, and Severianus in particular, Alexander was more profit with
+[07:11 --> 07:16] an F than profit with a pH, and just three days after entering Armenia, the legion under
+[07:16 --> 07:22] Severianus was cornered in the mountains by a much larger Armenian force and wiped out.
+[07:22 --> 07:28] Severianus, after a long and distinguished career, committed suicide.
+[07:28 --> 07:32] The situation in Syria compounded this initial embarrassment.
+[07:32 --> 07:37] Cornelianus, who had been proconsul of Syria for almost five years and was presumably a
+[07:37 --> 07:42] competent administrator in general, led a disorganized attack against Parthian forces
+[07:42 --> 07:47] massed along the eastern border and was soundly defeated.
+[07:47 --> 07:52] With one of the Cappadocian legions destroyed and the Syrian legions now nursing both physical
+[07:52 --> 07:57] and psychological wounds, the Parthians looked poised to deal the empire its first major
+[07:57 --> 08:01] territorial loss since practically the founding of Rome.
+[08:01 --> 08:05] Unlike the fine and dandy closing to their first day in power, the close of Marcus and
+[08:05 --> 08:10] Lucius's first year in power was an altogether different story.
+[08:10 --> 08:15] During the winter of 161-162, there had to be a very palpable feeling of doubt about
+[08:15 --> 08:18] the future of the empire.
+[08:18 --> 08:22] Would lifelong civilians like Marcus and Lucius be able to respond effectively to this
+[08:22 --> 08:24] major military crisis?
+[08:24 --> 08:27] What if the Parthians decided to invade Syria?
+[08:27 --> 08:32] And inexperienced emperors aside, would the supposedly seasoned professionals in the army
+[08:32 --> 08:35] be able to respond effectively?
+[08:35 --> 08:37] Because so far, clearly, they had not.
+[08:37 --> 08:41] So what did that mean?
+[08:41 --> 08:45] But one thing Rome always had going for it was a deep talent pool from which to draw
+[08:45 --> 08:50] its leaders and a large enough population that refilling a depleted legion was just
+[08:50 --> 08:51] an imperial edict away.
+[08:51 --> 08:56] Well, at least for the moment, we'll get into the rotten effects of the Antonine Plague
+[08:56 --> 08:58] here in a second.
+[08:58 --> 09:03] Marcus ordered the capable governor of Britain, Marcus Statius Priscus, into Cappadocia and
+[09:03 --> 09:08] to help the new governor reassert dominion over Armenia, let Priscus pick up legionary
+[09:08 --> 09:13] detachments from Rhine and Danube along the way so that when he arrived in Cappadocia,
+[09:13 --> 09:16] he had the manpower to complete his mission.
+[09:16 --> 09:21] Marcus also shifted three full legions from the Rhine to the Danube to Syria, which, while
+[09:21 --> 09:25] necessary to fight the present hot war with Parthia, would not go unnoticed by the German
+[09:25 --> 09:29] tribes to the north.
+[09:29 --> 09:33] Marcus initially sent his cousin Marcus Aeneas Libo to Syria to take over for the discredited
+[09:33 --> 09:38] Cornelianus, but when he began to receive reports that sedition was breaking out in
+[09:38 --> 09:43] the legions and a full-on popular revolt was possibly in the making, Marcus decided that
+[09:43 --> 09:46] a far more drastic measure was needed.
+[09:46 --> 09:50] What the East needed was an emperor to take responsibility for the war and clamp down
+[09:50 --> 09:53] on any whiff of insubordination.
+[09:53 --> 09:58] Since he considered his own firm presence in Rome indispensable, Marcus determined that
+[09:58 --> 10:02] the war in the East would have to be handed over to Lucius.
+[10:02 --> 10:06] There are suspicions, though, that Marcus sent Lucius East not just so that imperial
+[10:06 --> 10:11] authority was present on the scene, but also to get his party-hearty brother out of Rome
+[10:11 --> 10:16] and into the field where maybe some serious life and death responsibility would grow him
+[10:16 --> 10:17] up a bit.
+[10:17 --> 10:23] Lucius, though, was in no hurry to grow up, and in 162, the 31-year-old set out for Syria
+[10:23 --> 10:28] to take command of what was easily the biggest existential crisis to hit the empire since
+[10:28 --> 10:31] the Third Jewish Revolt.
+[10:31 --> 10:35] He would finally arrive in Antioch as a 32-year-old, having spent nearly a full year meandering
+[10:35 --> 10:40] his way through Greece and the southern Anatolian coast.
+[10:40 --> 10:44] The slow imperial procession stopped at every tourist trap and resort town along the way
+[10:44 --> 10:49] so that the emperor could fully enjoy what he had apparently understood to be an extended
+[10:49 --> 10:51] holiday.
+[10:51 --> 10:56] When he finally arrived in Syria, he set himself up in Antioch in luxurious fashion, took a
+[10:56 --> 11:03] mistress, and got down to the serious business of the day—gambling and drinking.
+[11:03 --> 11:07] Though he communicated little with Marcus, he made sure to have nearly daily dispatches
+[11:07 --> 11:12] sent from Rome to appraise him of how the greens were faring in the Circus Maximus.
+[11:12 --> 11:16] Though the details are likely exaggerated, there is no doubt that Lucius was taking the
+[11:16 --> 11:21] whole thing perhaps a little less seriously than he should have.
+[11:21 --> 11:25] That being said, if there was one upside to Lucius's character, it was that he was a
+[11:25 --> 11:27] champion delegator.
+[11:27 --> 11:31] The co-emperor basically handed the actual prosecution of the war over to a few highly
+[11:31 --> 11:38] capable subordinates and watched them rack up victory after victory in his name.
+[11:38 --> 11:43] Up in Cappadocia, the new governor Priscus had been busily preparing for a campaign of
+[11:43 --> 11:48] vengeance, and when the spring of 163 arrived, he was ready for action.
+[11:48 --> 11:52] He invaded Armenia with two legions on routes planned well in advance to avoid the kind
+[11:52 --> 11:56] of traps Severianus had blundered into.
+[11:56 --> 12:00] This far more sober approach to work wonders, and it turned out that the Parthian menace
+[12:00 --> 12:04] was not so great and terrible after all.
+[12:04 --> 12:08] Experiencing no major setbacks, Priscus took the Armenian capital after a short siege,
+[12:08 --> 12:13] evicted the pretender to the throne, and drove off what was left of the Parthian occupation
+[12:13 --> 12:15] force.
+[12:15 --> 12:20] For the key role he played sitting in Antioch and, um, overseeing things, Lucius took for
+[12:20 --> 12:25] himself the grandiose title Arminicus.
+[12:25 --> 12:30] Later in 163, the Parthians countered by invading and capturing the Roman allied kingdom of
+[12:30 --> 12:35] Osroini, which lay on the southern Armenian border.
+[12:35 --> 12:40] The Romans and Parthians then spent the whole of the next year posturing.
+[12:40 --> 12:44] Lucius apparently offered peace terms following the victory in Armenia, which Volagosis, perhaps
+[12:44 --> 12:48] a bit rashly, brushed aside.
+[12:48 --> 12:51] The terms were said to have been generous, and there was some heavy criticism lobbed
+[12:51 --> 12:55] at Lucius by conservative members of the Senate for offering anything to the Parthians but
+[12:55 --> 12:58] their total destruction.
+[12:58 --> 13:03] The year's relative inactivity, though, did provide the imperial clan an opportunity to
+[13:03 --> 13:07] further cement their internal alliances.
+[13:07 --> 13:13] When Marcus demanded that Lucius be made emperor in 161, he also arranged for his adopted brother
+[13:13 --> 13:16] to marry his second daughter, Lucilla.
+[13:16 --> 13:21] She was only eleven at the time, so the wedding had to be postponed a few years, but when
+[13:21 --> 13:26] 164 proved to be a quiet one, arrangements were made for Lucius to meet up with the imperial
+[13:26 --> 13:30] entourage at Ephesus, where the marriage would take place.
+[13:30 --> 13:35] Lucilla, not particularly happy about any of this, then accompanied Lucius back to Antioch,
+[13:35 --> 13:39] where she gave birth to their first child shortly thereafter.
+[13:39 --> 13:45] When 165 opened, though, the time for posturing was over, and the Romans launched a two-pronged
+[13:45 --> 13:48] assault into Parthian-held territory.
+[13:48 --> 13:53] The northern thrust into Osroini was led by Martyus Verus, while the southern thrust was
+[13:53 --> 13:58] led by Avidius Cassius, a man who we will have cause to deal with a little further down
+[13:58 --> 14:01] the road.
+[14:01 --> 14:05] Just as happened in Armenia, the Parthians were driven out of Osroini.
+[14:05 --> 14:10] The Parthian army fled back to a fortified city inside their own territory, but the Romans
+[14:10 --> 14:13] besieged the city and took it.
+[14:13 --> 14:17] The Parthian general went AWOL, and what was left of the army was smashed up against the
+[14:17 --> 14:20] Tigris River by the legions and destroyed.
+[14:20 --> 14:25] Avidius Cassius, meanwhile, marched down along the southern Tigris and captured Ctesiphon,
+[14:25 --> 14:26] the Parthian capital.
+[14:26 --> 14:32] Ctesiphon's Greek-speaking sister city, Seleucia, surrendered to the Romans at once and threw
+[14:32 --> 14:37] their gates open to the legions, but for whatever reason, Cassius let his men sack the city
+[14:37 --> 14:44] anyway, leaving an unusually cruel black mark on what had been an otherwise sterling record.
+[14:44 --> 14:50] With the victories in both the north and south piling up, Lucius decided from his military
+[14:50 --> 14:55] headquarters that it was time to award himself the title Parthicus Maximus to celebrate the
+[14:55 --> 15:00] great triumphs he had so skillfully overseen.
+[15:00 --> 15:05] In 166, Cassius crossed the Tigris and took control of Medea, leading Lucius to add yet
+[15:05 --> 15:12] another title, Mediacus, to his already somewhat embarrassingly bloated list of names.
+[15:12 --> 15:16] But whoever was taking credit for what, the string of defeats finally convinced Folgosses
+[15:16 --> 15:20] that perhaps it was better that he settle for what he had in Parthia and not worry so
+[15:20 --> 15:25] much about trying to take what the Romans did not want to give him.
+[15:25 --> 15:29] He sued for peace and wound up ceding the Romans control over a chunk of Mesopotamia
+[15:29 --> 15:32] in exchange for a ceasefire.
+[15:32 --> 15:37] Worse than the loss of a chunk of desert, though, Folgosses' aggression had cost him
+[15:37 --> 15:41] even nominal influence over Armenia.
+[15:41 --> 15:44] Thinking he was adding the kingdom to his empire, he wound up convincing the Romans
+[15:44 --> 15:49] that the power-sharing agreement was broken, and Marcus ordered the kingdom reorganized
+[15:49 --> 15:52] as a proper Roman province.
+[15:52 --> 15:56] Rather than a comfortable buffer zone then, Folgosses brought even more legions right
+[15:56 --> 16:00] to his doorstep.
+[16:00 --> 16:03] For the Romans, the whole thing seemed like a nifty little war.
+[16:03 --> 16:08] There had been some early setbacks, but Marcus and Lucius proved that they were not totally
+[16:08 --> 16:09] in over their heads.
+[16:09 --> 16:13] The legions proved that they were still a fighting force to be reckoned with, and the
+[16:13 --> 16:17] empire as a whole would prove that it was still capable of churning out talented field
+[16:17 --> 16:18] commanders.
+[16:18 --> 16:24] And, hey look, we even added a bit of territory to the empire.
+[16:24 --> 16:28] But these short-term benefits eventually gave way to some real long-term issues that would
+[16:28 --> 16:34] mar the whole rest of Marcus and Lucius' reign.
+[16:34 --> 16:38] To deal with the issue that we'll set up in the next episode, the reassignment of legions
+[16:38 --> 16:45] from the Rhine and Danube frontiers to the east left those frontiers badly undermanned.
+[16:45 --> 16:49] Governors were ordered to avoid conflict at all costs, but soon enough, the German tribes
+[16:49 --> 16:53] began to realize that the Romans may have left the lights on, but there wasn't really
+[16:53 --> 16:56] anyone tending the fire.
+[16:56 --> 17:00] It would prove to be a minor point in the long run, as those legions were easily transferred
+[17:00 --> 17:06] back to their northern posts, but in the mid-160s, the disparate Germans began to coalesce into
+[17:06 --> 17:12] far more unified confederacies, and the thought of easy Roman loot definitely played a part
+[17:12 --> 17:16] in the consolidation process.
+[17:16 --> 17:21] Easy Roman loot was a viable prize because the Romans were all east fighting the Parthians.
+[17:21 --> 17:25] Had there been no war with Parthia, the various tribes may have ignored these initial calls
+[17:25 --> 17:29] for everyone to join forces and invade the empire because they would have seen the Roman
+[17:29 --> 17:32] defenses as insurmountable.
+[17:32 --> 17:37] But now, the Roman defenses aren't so insurmountable, are they?
+[17:37 --> 17:41] But the second great cost of the Parthian War was what the legions brought back from
+[17:41 --> 17:46] the east, namely the Antonine Plague.
+[17:46 --> 17:50] Likely first contracted by Cassius' troops as they occupied Ctesiphon, the plague would
+[17:50 --> 17:56] wreak havoc in first the legions and then the public at large, putting the empire in
+[17:56 --> 18:00] an almost permanent state of crisis for the next decade.
+[18:00 --> 18:04] Modern scholars believe, based on contemporary descriptions, that the Romans were up against
+[18:04 --> 18:09] a smallpox epidemic that, before it had run its course, wound up killing something like
+[18:09 --> 18:13] five million people in just a few years.
+[18:13 --> 18:18] Not only did this deal a crushing blow to the larger economy, but with the plague contracted
+[18:18 --> 18:23] by the legions first, it spread through the various camps like wildfire and before long
+[18:23 --> 18:26] was ravaging the armies of the Rhine and the Danube.
+[18:27 --> 18:31] For the entirety of his running war with the Germans, Marcus would have to contend not
+[18:31 --> 18:36] only with a visible enemy trying to kill him from without, but also with an invisible enemy
+[18:36 --> 18:39] killing his legions from within.
+[18:39 --> 18:44] More than one campaign was cut short or not begun at all because of the chronic manpower
+[18:44 --> 18:46] shortages brought about by the plague.
+[18:46 --> 18:51] And of course, it was the plague that likely killed Lucius in 169 and definitely killed
+[18:51 --> 18:53] Marcus a decade later.
+[18:53 --> 18:58] In short, the role that the Antonine Plague played in the evolution of the Roman Empire
+[18:58 --> 19:02] could not be understated.
+[19:02 --> 19:03] But that was all for the future.
+[19:03 --> 19:07] For now, the Romans were riding high.
+[19:07 --> 19:12] Lucius Verus returned to Rome Lucius Aurelius Verus Augustus Arminicus Parthicus Maximus
+[19:12 --> 19:18] Medeicus and upon his arrival in the city, he celebrated, with Marcus somewhat reluctantly
+[19:18 --> 19:21] by his side, a full-blown triumph.
+[19:21 --> 19:26] For the next two years, the emperors would once again share Rome, with Marcus plotting
+[19:26 --> 19:31] his way stoically through the day's routine while Lucius enjoyed the riotous life of a
+[19:31 --> 19:36] wealthy libertine, his experience in the East apparently not having matured him one bit.
+[19:36 --> 19:42] However, though the lifestyle of his brother rankled Marcus to no end, Lucius was not an
+[19:42 --> 19:47] utterly disinterested hedonist, and in between parties did perform his duties as emperor
+[19:47 --> 19:50] with intelligence and efficiency.
+[19:50 --> 19:55] And this is the part that separates him from a Nero or a Caligula, because though Lucius
+[19:55 --> 20:00] surrounded himself with actors and gladiators and all the other dregs of society, he was
+[20:00 --> 20:05] not crazy enough to promote his social favorites to positions of authority.
+[20:05 --> 20:10] The real work was always left to serious men, and for that alone, Lucius does not make the
+[20:10 --> 20:15] list of the worst emperors of all time.
+[20:15 --> 20:17] The good times though did not last.
+[20:17 --> 20:21] Coinciding with the victory in the East, the northern border of the empire was suddenly
+[20:21 --> 20:25] beset with attacks on multiple fronts.
+[20:25 --> 20:31] There were a number of different factors that combined in the late 160s to produce the unprecedented
+[20:31 --> 20:35] pressure that was being felt on the Danube frontier, including the southern migration
+[20:35 --> 20:40] of the Goths in the far north, which pushed everyone else south, an increased level of
+[20:40 --> 20:45] political cooperation between the German tribes, which seemed to break the spell of divide
+[20:45 --> 20:49] and conquer that the Romans had always been able to weave so successfully.
+[20:49 --> 20:53] And of course, as I've already mentioned, the shift of legionary strength to the east,
+[20:53 --> 20:57] which left the borders more porous than they had ever been before.
+[20:57 --> 21:03] It all added up to an emboldened German population, perhaps even a desperate population, if you
+[21:03 --> 21:07] believe that the migrating Goths were pushing the southern tribes to seek settlement within
+[21:07 --> 21:10] the empire or face death.
+[21:10 --> 21:16] It was more willing than ever to go and have it out with Rome on the battlefield.
+[21:16 --> 21:22] In 166 or early 167, a confederation of tribes invaded Pannonia, but they were repulsed by
+[21:22 --> 21:27] a collection of local auxiliaries led by the governor Marcus Bassus.
+[21:27 --> 21:32] Bassus was concerned enough by the situation and his own limited military resources that
+[21:32 --> 21:37] he called a conference of the major tribes that was formally mediated by the Marcomannic
+[21:37 --> 21:43] king Ballemer, who was, at least in theory, a trustworthy client of Rome, but in practice
+[21:43 --> 21:47] was about to prove one of their greatest adversaries.
+[21:47 --> 21:51] The conference ended with renewed pledges from everyone to respect the borders.
+[21:51 --> 21:56] But just a few months later, a combined army invaded lower Moesia and managed to kill the
+[21:56 --> 22:00] governor of the province during the subsequent fighting.
+[22:00 --> 22:05] Back in Rome, Marcus and Lucius watched these events unfold with an alarm magnified by the
+[22:05 --> 22:10] fact that the city and the legionary camps of the empire were being crippled by the Antonine
+[22:10 --> 22:12] Plague.
+[22:12 --> 22:15] They could barely keep the existing legions staffed.
+[22:15 --> 22:20] Raising new forces was, for the moment, unfeasible.
+[22:20 --> 22:25] But in 168, they were able to muster two new legions and safely think about traveling north
+[22:25 --> 22:29] to inspect the borders for themselves.
+[22:29 --> 22:33] The co-emperors set up a headquarters in the northern Italian city of Aquileia and from
+[22:33 --> 22:38] there headed up to the Danube to get first-hand reports from the soldiers who had suddenly
+[22:38 --> 22:41] found themselves in a war zone.
+[22:41 --> 22:44] It was while the emperors were returning to Aquileia from the front during the winter
+[22:44 --> 22:50] of 168-169 that Lucius came down with a severe sickness.
+[22:50 --> 22:55] At the time, it was diagnosed as food poisoning, but many think he came down with the same
+[22:55 --> 22:58] plague that was ravaging the empire.
+[22:58 --> 23:04] Whatever the cause, after a few days lingering in bed, Lucius died in early 169.
+[23:04 --> 23:10] In some respects, it was surprising that Lucius, still in his thirties, would so suddenly die.
+[23:10 --> 23:14] But given his family medical history, the fact that Lucius lasted as long as he did
+[23:14 --> 23:17] is perhaps the greater surprise.
+[23:17 --> 23:21] Remember that his father Lucius Caesar was so often bedridden that people thought it
+[23:21 --> 23:27] insane that Hadrian would even choose him to be heir.
+[23:27 --> 23:31] Though the situation on the Danube was of pressing concern, Marcus nonetheless accompanied
+[23:31 --> 23:35] the body of his brother back to Rome, where an elaborate funeral was staged, complete
+[23:35 --> 23:43] with a set of memorial games, the kind that Marcus so despised and Lucius so loved.
+[23:43 --> 23:47] Since I am, even as we speak, entertaining an influential diplomat from the People's
+[23:47 --> 23:51] Republic of Portland, I am taking next week off.
+[23:51 --> 23:56] But in two weeks, we'll accompany Marcus as he heads back north alone, now the sole
+[23:56 --> 23:58] ruler of the Roman Empire.
+[23:58 --> 24:04] For the next decade, the frozen front line along the Danube will be Marcus' home, where
+[24:04 --> 24:09] the philosopher emperor, more at home with books than swords, will prove that whatever
+[24:09 --> 24:12] he'd rather be doing, he always did what needed to be done.

@@ -1,0 +1,363 @@
+# 20100301 - 085- Antoninus the Dutiful
+# Detected language: en
+# Duration: 1691.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you are now aware, Audible is the internet's leading provider of audio entertainment with
+[00:08 --> 00:11] over 60,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:16 --> 00:20] That again is audiblepodcast.com forward slash Rome.
+[00:20 --> 00:24] By going to that address, you will qualify for a free book download when you sign up
+[00:24 --> 00:27] for a 14-day free trial membership.
+[00:27 --> 00:30] There is no obligation to continue the service and you can cancel any time and keep the free
+[00:30 --> 00:32] book.
+[00:32 --> 00:36] You can also keep going with one of the monthly subscription options and get great deals on
+[00:36 --> 00:38] all future audiobook purchases.
+[00:38 --> 00:43] This week, I am going to recommend Polybius' Rome and the Mediterranean, which is one of
+[00:43 --> 00:48] the primary sources I used for all the episodes on the Punic Wars.
+[00:48 --> 00:53] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent
+[00:54 --> 01:08] Hello, and welcome to The History of Rome, episode 85, Antoninus the Dutiful.
+[01:08 --> 01:13] When Hadrian died in 138, there was no succession issue whatsoever.
+[01:13 --> 01:19] Unlike Trajan's neo-Alexandrian silence on the subject and the subsequent doubt and violence
+[01:19 --> 01:24] that surrounded Hadrian's rise to power, when Antoninus alias Caesar returned to Rome
+[01:24 --> 01:29] with the body of the now dead emperor, he was welcomed with open arms by the Senate,
+[01:29 --> 01:33] the people, and the army, especially the Senate.
+[01:33 --> 01:37] They never had been happy with Hadrian, and from the very beginning, he had been a boogeyman
+[01:37 --> 01:42] in their collective consciousness with his every act, statement, or decree twisted up
+[01:42 --> 01:47] in their minds to prove that he was actually a dangerous psychopath.
+[01:47 --> 01:51] So his death was greeted with barely contained glee, glee enhanced exponentially by the
+[01:51 --> 01:55] fact that one of their own was taking over.
+[01:55 --> 01:59] Antoninus had, after all, been an amiable senator in good standing for more than twenty
+[01:59 --> 02:04] years before being tapped by Hadrian to become his heir.
+[02:04 --> 02:08] At least from the aristocratic point of view then, 138 was a banner year.
+[02:08 --> 02:14] The monster was dead, and a senator-senator now sat on the throne.
+[02:14 --> 02:18] Every previous emperor had made their name in the legions, or because they were the blood
+[02:18 --> 02:22] relative of one of those men who had made their name in the legions.
+[02:22 --> 02:28] The only real exception was Nerva, and he had been an executive agent all the way.
+[02:28 --> 02:32] Antoninus was unique then, as having made his career as a senator first and foremost,
+[02:32 --> 02:36] and the years he would spend on the throne would prove to be the most internally harmonious
+[02:36 --> 02:39] in the history of the empire.
+[02:39 --> 02:44] For the first time in a long time, the aristocracy was fused and of one mind.
+[02:44 --> 02:49] The emperor and the senate, thinking and acting almost as one.
+[02:49 --> 02:53] And unlike previous periods of senatorial ascendancy, which usually led to unrest among
+[02:53 --> 02:59] the general population due to the arrogance of the oligarchs, Antoninus never forgot that
+[02:59 --> 03:03] he was everyone's emperor, and made sure his subjects, all of them, were well taken
+[03:03 --> 03:04] care of.
+[03:04 --> 03:09] There is a reason traditional Roman historiography has the middle of the second century mark
+[03:09 --> 03:15] down as the golden age of the Antonines, the zenith of an empire at the height of its power,
+[03:15 --> 03:20] at peace at home and abroad, happy, productive, and safe.
+[03:20 --> 03:24] But is this vivid image of a golden age an overblown myth?
+[03:24 --> 03:28] As with most golden age fantasies, probably a bit.
+[03:28 --> 03:32] One of the major problems we have in dealing with the age of Antoninus is the complete
+[03:32 --> 03:36] lack of primary sources that deal with the period.
+[03:36 --> 03:40] We have some fragments from Cassius Dio, who was born right around the time of Antoninus's
+[03:40 --> 03:47] death, and a complete, but somewhat suspect biography in the Historia Augusta.
+[03:47 --> 03:52] The same was basically true for Trajan and Hadrian's reigns, but with one major difference.
+[03:52 --> 03:56] Those guys actually, you know, did things.
+[03:56 --> 04:00] The architectural monuments they built, the wars they waged, the cities they founded,
+[04:00 --> 04:05] all now serve as a record of their lives set in stone, and historians can piece together
+[04:05 --> 04:10] a much richer accounting of their reigns than they can of Antoninus, who eschewed practically
+[04:10 --> 04:12] all of those things.
+[04:12 --> 04:16] But in choosing not to partake in the glory hunting and monument building that defined
+[04:16 --> 04:22] his predecessors, Antoninus may have ironically done more for his reputation than had he emulated
+[04:22 --> 04:23] them.
+[04:23 --> 04:27] Because the relative lack of a record means that when we think about the man, we couple
+[04:27 --> 04:32] a few glowing summaries of his reign with the fact that there were no major wars or
+[04:32 --> 04:37] revolts or scandals, or really anything that makes historical headlines, and emerged with
+[04:37 --> 04:42] a portrait of an emperor who ruled over, well, a golden age.
+[04:42 --> 04:47] In addition to some medium-sized crises obscured over the years, which we'll get to in a bit,
+[04:47 --> 04:52] the shine on Antoninus's golden age is dulled somewhat by what Rome endured following his
+[04:52 --> 04:54] death.
+[04:54 --> 04:59] That is to say that the one major sustained criticism of his time in office is that Antoninus
+[04:59 --> 05:05] kicked a lot of cans down the road, and left it to his successors to use nine stitches,
+[05:05 --> 05:10] where a single stitch sewed years earlier would have sufficed.
+[05:10 --> 05:14] That is not to say that he was a bad ruler, just that the warm glowing glow that surrounds
+[05:14 --> 05:18] his reputation needs to be turned down just a bit.
+[05:18 --> 05:23] His conservative resistance to change wins him justifiable plaudits for ensuring a stable
+[05:23 --> 05:28] and peaceful empire while he reigned, but at the same time, it left Rome unprepared to
+[05:28 --> 05:32] deal with a fast-changing world after he died.
+[05:32 --> 05:37] Rome's great genius had always been founded on an ability to adapt quickly to circumstance,
+[05:37 --> 05:43] and under Antoninus, that genius atrophied.
+[05:43 --> 05:47] One of the first things we should note about Antoninus's reign is that it was definitely
+[05:47 --> 05:50] not supposed to last as long as it did.
+[05:50 --> 05:55] Fifty-one years old at the time of his ascension, ten years older than Hadrian had been at the
+[05:55 --> 06:00] ascension, a reign of around a decade would have been right in line with average life
+[06:00 --> 06:05] expectancies and probably what Hadrian had in mind when he plucked Antoninus's name
+[06:05 --> 06:07] out of the hat.
+[06:07 --> 06:12] As I said last time, the plan was probably to season Marcus Aurelius enough so that he
+[06:12 --> 06:16] would not don the purple too young, which would have left him easy prey for manipulative
+[06:16 --> 06:22] advisers, while simultaneously not denying the obviously talented boy's ascension for
+[06:22 --> 06:24] too long.
+[06:24 --> 06:30] But Antoninus lived and lived and lived well into his seventies.
+[06:30 --> 06:35] Young Prince Marcus, who was supposed to become young Emperor Marcus, was forced to wait in
+[06:35 --> 06:41] the wings for twenty-three years, becoming instead just another middle-aged emperor.
+[06:41 --> 06:44] Not that there was anything wrong with that, just that if Hadrian was planning to leave
+[06:44 --> 06:49] Rome in the hands of some splendid youth, Antoninus's simple taste and prudent aversion
+[06:49 --> 06:54] to risk killed that plan dead.
+[06:54 --> 06:58] The second thing we should note about the beginning of Antoninus's reign is just how
+[06:58 --> 07:04] quickly he gained the title Pius, which would come to be his defining cognomen.
+[07:04 --> 07:08] There are two competing theories about where the name comes from, but both have to do with
+[07:08 --> 07:12] his actions immediately following the death of Hadrian.
+[07:12 --> 07:17] The most common version is that when his adoptive father died, Antoninus personally escorted
+[07:17 --> 07:22] the body back to Rome and then asked the Senate to deify the dead Emperor.
+[07:22 --> 07:26] While they certainly did not hate Hadrian as much as they had demission, and so there
+[07:26 --> 07:31] was no clamor to damn his memory, the Senate had no intention of declaring the nonetheless
+[07:31 --> 07:34] despised Hadrian a god.
+[07:34 --> 07:40] The Senate was incredulous at the request, and doubly so because it was coming from Antoninus,
+[07:40 --> 07:43] who they considered one of their own.
+[07:43 --> 07:47] Surely he of all people would understand why they were refusing the request.
+[07:47 --> 07:50] But Antoninus surprisingly persisted.
+[07:50 --> 07:55] He told them that to refuse to deify Hadrian would stand as a repudiation of his entire
+[07:55 --> 08:00] reign and thus every decision he had made along the way, up to and including his choice
+[08:00 --> 08:01] of heir.
+[08:01 --> 08:06] To repudiate Hadrian, Antoninus said, is to repudiate me.
+[08:06 --> 08:11] Which is fine, I will gladly lay aside the burden of empire and leave it to you or the
+[08:11 --> 08:15] army or whoever to decide who ought to rule.
+[08:15 --> 08:18] This calculated threat did the trick.
+[08:18 --> 08:22] Power vacuums were feared at least as much as tyrants were hated, and by forcing the
+[08:22 --> 08:28] Senate to face the former they abandoned their condemnation of the latter.
+[08:28 --> 08:32] Hadrian was duly deified with all honors, and Antoninus' steadfast loyalty to his
+[08:32 --> 08:37] adoptive father in the face of perhaps even his own doubts was lauded throughout the empire
+[08:37 --> 08:43] as a supreme example of a son's duty to his father, hence the name Pius, which in Latin
+[08:43 --> 08:46] translates as dutiful.
+[08:46 --> 08:50] He did not stop the deification process either.
+[08:50 --> 08:56] Antoninus piously, dutifully, completed Hadrian's as of yet unfinished mausoleum and in 139
+[08:56 --> 09:02] dedicated the new tomb and placed Hadrian's ashes within.
+[09:02 --> 09:06] The other version of the story is that when Antoninus ascended to the throne, he canceled
+[09:06 --> 09:11] death warrants and confiscation orders and prison sentences issued by Hadrian during
+[09:11 --> 09:14] his last heartless days.
+[09:14 --> 09:19] The grateful senators, many of whom were caught up in this mini reign of terror, affixed their
+[09:19 --> 09:24] brother Antoninus with the title Pius to recognize the good work he had done sparing them from
+[09:24 --> 09:27] their unjust fates.
+[09:27 --> 09:32] Whichever version is true, Antoninus alias Caesar quickly became Antoninus Pius, the
+[09:32 --> 09:35] name by which we know him today.
+[09:35 --> 09:40] The two stories are of course not mutually exclusive, and the whole package of Antoninus'
+[09:40 --> 09:45] loyalty to Hadrian and the clemency he showed towards his adoptive father's enemies could
+[09:45 --> 09:52] have both worked to reinforce the image of Antoninus as a just and moral ruler.
+[09:52 --> 09:57] Once he had done his duty to Hadrian though, he quietly stepped out of his adoptive father's
+[09:57 --> 10:03] shadow and became his own man, in many ways the polar opposite of the emperor he had honored.
+[10:03 --> 10:08] Where Hadrian attained distinction for his traveling, for his urgent need to be everywhere
+[10:09 --> 10:15] and see for himself the empire he ruled, Antoninus is best known for not having gone anywhere.
+[10:15 --> 10:21] In his 23 years in power, he never once left Italy, a remarkable feat when you think about
+[10:21 --> 10:22] it.
+[10:22 --> 10:26] Even if they accomplished little with their presence, most emperors at least liked to
+[10:26 --> 10:31] visit various hot spots for the photo opportunities they presented.
+[10:31 --> 10:35] An exception was Vespasian, who stayed put in Rome for the most part during his decade
+[10:35 --> 10:40] on the throne, but he had already been all over and had earned, as it were, his retirement
+[10:40 --> 10:41] in the capital.
+[10:41 --> 10:47] Antoninus, on the other hand, except for a brief stint as a procurator in Asia, had been
+[10:47 --> 10:52] an Italian homebody and after donning the purple, saw no reason to change his ways,
+[10:52 --> 10:57] and perhaps felt an even greater need to stay in the capital to reinforce Rome and Italy's
+[10:57 --> 11:02] preeminence after Hadrian's more equalitarian views on the distinction between province
+[11:02 --> 11:08] and home peninsula had battered Italy's prestige.
+[11:08 --> 11:12] The Italian-centric approach to governance extended beyond the basic fact that the emperor
+[11:12 --> 11:15] lived and ruled from the capital.
+[11:15 --> 11:20] As I mentioned during the episodes on Hadrian and Trajan, the Roman Empire was fast losing
+[11:20 --> 11:22] its Roman character.
+[11:22 --> 11:27] Both of the previous two emperors were provincials, and Hadrian especially had promoted elites
+[11:27 --> 11:33] from the provinces into the senate and admitted them into his own circle of advisors.
+[11:33 --> 11:37] At first, one might think Antoninus would continue this movement, as his own family
+[11:37 --> 11:43] originated in Gaul, but the new emperor instead backed the old Roman elite, and when it came
+[11:43 --> 11:48] time to appoint proconsuls and generals and members of his governing council, he relied
+[11:48 --> 11:51] heavily on men of Italian origin.
+[11:51 --> 11:56] With the future of the empire clearly out in the provinces, the age of Antoninus then
+[11:56 --> 12:02] stands as the last time the emperor that had been founded and won and held by Italians
+[12:02 --> 12:07] was really actively run by them as well.
+[12:07 --> 12:11] Antoninus was also Hadrian's opposite in administrative outlook.
+[12:11 --> 12:17] Where Hadrian was driven by a compulsion to improve, to reform, to rejigger, Antoninus
+[12:17 --> 12:22] was driven by a compulsion to protect, to entrench, and to maintain.
+[12:22 --> 12:28] In Antoninus's opinion, the imperial governmental apparatus he inherited worked just fine.
+[12:28 --> 12:33] It needed to be maintained, sure, kept free of corruption and inefficiency and all that,
+[12:33 --> 12:35] but there was no reason to reinvent the wheel.
+[12:35 --> 12:40] The only real innovation introduced during Antoninus's reign was in fact an extension
+[12:40 --> 12:43] of this conservatism.
+[12:43 --> 12:48] When he took office, he kept on most of Hadrian's staff and extended bureaucracy, itself something
+[12:48 --> 12:55] of a novel concept, one that sharply contrasted Hadrian's purge of so-called Trajan men.
+[12:55 --> 13:00] But the real shift was the extension of proconsulships, procuratorships, legionary commands, and
+[13:00 --> 13:04] all that to terms of five years or more.
+[13:04 --> 13:09] The Roman aversion to extended terms of office was a prejudice that traced back to the founding
+[13:09 --> 13:15] of the republic, and while extraordinary extensions did occur, Caesar and Gaul, for example, these
+[13:15 --> 13:18] were most definitely the exception rather than the rule.
+[13:18 --> 13:24] Antoninus, though, was temperamentally partial to continuity and saw the constant office
+[13:24 --> 13:29] rotations as a bug rather than a feature of imperial administration.
+[13:29 --> 13:34] A procurator would spend a year in some province, and just as he was getting to know the particular
+[13:34 --> 13:39] challenges of the territory, he would be replaced by someone else who knew nothing about anything.
+[13:39 --> 13:44] It was silly, and on the frontier provinces, it was dangerous.
+[13:44 --> 13:50] So for example, under Antoninus, Quintus Lolius Urbicus served as governor of Britain for
+[13:50 --> 13:56] five years, while Papilius Charis Pado served as governor of Upper Germany for nine years,
+[13:56 --> 13:59] between 152 and 161.
+[13:59 --> 14:05] His praetorian prefect Marcus Gavius Maximus served an unprecedented twenty years, from
+[14:05 --> 14:13] 138 to 158, despite persistent calls for his removal for a laundry list of sins.
+[14:13 --> 14:18] His emphasis on continuity over novelty was also evident in Antoninus' attitude towards
+[14:18 --> 14:20] public works.
+[14:20 --> 14:25] Dating back to the reign of Domitian and culminating with Hadrian's empire-wide architectural
+[14:25 --> 14:31] orgy, Antoninus' predecessors had used extensive building projects to modernize the empire,
+[14:31 --> 14:35] create jobs, and leave everlasting monuments to their own greatness.
+[14:35 --> 14:40] Antoninus, on the other hand, more or less abandoned new construction and focused instead
+[14:40 --> 14:43] on maintaining what was already existent.
+[14:43 --> 14:49] Because not only was he temperamentally disinclined to initiate change, but he was also temperamentally
+[14:49 --> 14:55] disinclined to drain the imperial treasury in a quest to build a better temple.
+[14:55 --> 14:59] It is a fitting monument to Antoninus, then, that the one place we do see his name inscribed
+[14:59 --> 15:04] over and over again are on the mile markers of the Roman highway system.
+[15:04 --> 15:10] Good, properly marked and maintained roads, worthy expenditures, a mighty column or a
+[15:10 --> 15:13] new amphitheater, not so much.
+[15:13 --> 15:18] This is not to say that building simply ceased across the empire, only that the emperor was
+[15:18 --> 15:21] no longer footing the bill.
+[15:21 --> 15:25] Local elites were leaned on heavily to defray the costs of the projects they petitioned
+[15:25 --> 15:27] the emperor to pay for.
+[15:27 --> 15:31] If they wanted new baths so badly, surely they could find the necessary cash buried
+[15:31 --> 15:36] somewhere on the grounds of their extravagant estates.
+[15:36 --> 15:40] But if he was a bit of a miser with public funds, Antoninus was generous with his own
+[15:40 --> 15:43] personal fortune.
+[15:43 --> 15:47] An incredibly wealthy man when he ascended to the throne, Antoninus was careful to separate
+[15:47 --> 15:53] the imperial treasury he inherited from the personal fortune he had already accrued.
+[15:53 --> 15:58] The former he watched over like a hawk and curtailed as much as he could lavish expenditures.
+[15:58 --> 16:03] But the latter he dispersed generously for a variety of worthy causes.
+[16:03 --> 16:08] So unlike say Tiberius, whose reputation as a miser with the imperial accounts was not
+[16:08 --> 16:14] offset by personal generosity, Antoninus' reputation never suffered for his public tight
+[16:14 --> 16:16] fistedness.
+[16:16 --> 16:21] During a particularly bad famine, he personally paid for and delivered the olive oil and grains
+[16:21 --> 16:25] that people could no longer afford due to shortages.
+[16:25 --> 16:30] When earthquakes struck or fires broke out, as they frequently did throughout the empire,
+[16:30 --> 16:36] Antoninus would underwrite the emergency response and rebuilding efforts out of his own pocket.
+[16:36 --> 16:41] He understood that the coin of the princeps had two sides, Heads, executive administrator
+[16:41 --> 16:47] of a transnational empire who must be careful to protect the fiscal integrity of the state,
+[16:47 --> 16:55] and Tails, a private first citizen who must lead generously by example.
+[16:55 --> 17:01] When it came to foreign policy though, Antoninus was every bit Hadrian's disciple.
+[17:01 --> 17:06] Critics have described it dismissively as a policy of peace at any price.
+[17:06 --> 17:11] But Antoninus definitely followed Hadrian in believing it to be more accurately characterized
+[17:11 --> 17:15] as peace at a lower price.
+[17:15 --> 17:19] Legionary activity did not cease during Antoninus' reign, as we'll see in a moment, but it was
+[17:19 --> 17:24] only deployed in situations where it was literally unavoidable.
+[17:24 --> 17:29] War is an expensive undertaking in both money and manpower, and usually costs ten times
+[17:29 --> 17:33] as much as you thought it would going in, to say nothing of the fact that it usually
+[17:33 --> 17:38] took twice as long as you thought it would to win the damn thing.
+[17:38 --> 17:42] Keeping a potentially unruly tribe or neighboring kingdom as a client on the other hand was
+[17:42 --> 17:49] often not just a cheaper alternative to fighting, but also a more predictable accounting strategy.
+[17:49 --> 17:54] This is where Antoninus takes the most lumps for kicking the can down the road though,
+[17:54 --> 18:00] as though this policy of pseudo-bribery worked, Antoninus was loath to extend it any further.
+[18:00 --> 18:05] He inherited Hadrian's long list of client kings and auxiliary tribes, and continued
+[18:05 --> 18:10] the financial exchanges that ensured their loyalty, but he was hesitant to add new members
+[18:10 --> 18:12] to the roles.
+[18:12 --> 18:17] He was approached often by emissaries from various foreign tribes or nations asking for
+[18:17 --> 18:24] admittance into the empire proper or status as clients or recognition as friends of Rome.
+[18:24 --> 18:28] But Antoninus turned them all down on the grounds that the empire was at its maximum
+[18:28 --> 18:35] defensible extent, and besides, he simply couldn't afford to take on any new clients.
+[18:35 --> 18:40] This worked fine during his own reign, but eventually, jealousy from those on the outs
+[18:40 --> 18:45] and suspicions from those on the ins that Rome had become an extortable paper tiger
+[18:45 --> 18:50] led to an explosion of violence in the north and war with Parthia in the east during the
+[18:50 --> 18:55] reign of Marcus Aurelius.
+[18:55 --> 18:59] As I just mentioned though, it was not as if Rome was literally at peace in all places
+[18:59 --> 19:03] during the peace-at-any-price age of Antoninus.
+[19:03 --> 19:08] In Britain, a significant uprising among the Brigantes, whose territory Hadrian had bisected
+[19:08 --> 19:14] with his famous wall, was put down by the aforementioned Lolaeus Urbicus after two years
+[19:14 --> 19:18] of intense fighting that led the Romans to push their frontier a hundred miles north
+[19:18 --> 19:24] and establish a second wall known as the Antonine Wall around the spot where Agricola had once
+[19:24 --> 19:27] defeated the Caledonians.
+[19:27 --> 19:32] There was also on-again, off-again fighting in Africa where Moorish nomads became emboldened
+[19:32 --> 19:37] and began to descend out of the Atlas Mountains to harass the province of Mauritania.
+[19:37 --> 19:41] The problem with the Moors would only get worse during the reign of Marcus Aurelius,
+[19:41 --> 19:46] and Antoninus' failure to nip the problem in the bud with more vigorous action was seen
+[19:46 --> 19:51] as one of the time bombs he unnecessarily handed off to his successors.
+[19:51 --> 19:56] In the east, there were uprisings in Egypt and the newly renamed province of Palestine
+[19:56 --> 20:02] that both required a military response, and along the Danube, a revolt in 158 necessitated
+[20:02 --> 20:07] the division of the province into two districts to effectively divide and conquer the unruly
+[20:07 --> 20:09] natives.
+[20:09 --> 20:14] However, despite the fact that Roman military activity never ceased, even during this golden
+[20:14 --> 20:20] age of peace, there were no great wars of any magnitude and Antoninus' diplomacy and
+[20:20 --> 20:26] bribery did the trick to keep Rome out of large-scale conflicts.
+[20:26 --> 20:31] In his most famous diplomatic coup, a single letter sent to the Parthian king advising
+[20:31 --> 20:35] that encroachment on Roman territory would not be taken lightly was enough to dissuade
+[20:35 --> 20:40] Parthian expansion plans.
+[20:40 --> 20:44] Probably the one major difference between Hadrian and Antoninus though, when it came
+[20:44 --> 20:48] to their peace policy at least, was that Hadrian was fanatical about drilling and keeping the
+[20:48 --> 20:52] legions constantly active and alert.
+[20:52 --> 20:56] This state of persistent readiness left them more than ready to deal with any unavoidable
+[20:56 --> 20:58] conflict that might arise.
+[20:58 --> 21:04] Antoninus, on the other hand, who had no military experience and never once so much as ventured
+[21:04 --> 21:09] into a legionary camp, allowed a sense of complacency to set in that would leave Marcus
+[21:09 --> 21:14] Aurelius in a bit of a bind when both the Parthian Empire in the east and Germanic tribes
+[21:14 --> 21:23] in the north exploded into Roman territory shortly after Antoninus' death.
+[21:23 --> 21:28] As I mentioned, for all of these crises, the frontier battles and the foreign diplomacy,
+[21:28 --> 21:31] Antoninus himself never left Rome.
+[21:31 --> 21:35] He ruled entirely by way of correspondence.
+[21:35 --> 21:40] But if we begin to form a picture of Antoninus as a sort of absentee emperor, we should correct
+[21:40 --> 21:42] that image immediately.
+[21:42 --> 21:47] He was active in all aspects of administration and was thoroughly engaged in the welfare
+[21:47 --> 21:49] of the empire he ruled.
+[21:49 --> 21:54] Cutting a middle road between Trajan's figure it out for yourself and Hadrian's I'll be
+[21:54 --> 21:58] there in a few days to tell you what to do, Antoninus and his aides poured through the
+[21:58 --> 22:04] incoming dispatches and did their best to advise, define, approve and disapprove the
+[22:04 --> 22:10] myriad requests for instructions, aid and funding that came in.
+[22:10 --> 22:16] But not content to passively react, Antoninus, especially as it related to financial matters,
+[22:16 --> 22:21] constantly studied the books and demanded explanations from his various provincial officials
+[22:21 --> 22:24] to justify their decisions and their appropriation.
+[22:24 --> 22:30] Disrupt officials, when discovered, were dealt with swiftly and harshly.
+[22:30 --> 22:34] Antoninus had no time for dishonesty or selfish misappropriation.
+[22:34 --> 22:41] Governance was a sacred trust that he took very seriously.
+[22:41 --> 22:45] Antoninus's concern for the welfare of his subjects, evidenced by his generous response
+[22:45 --> 22:50] to disasters and his intense focus on maintaining just and honest governance, extended even
+[22:50 --> 22:56] to a usually invisible segment of the population, slaves.
+[22:56 --> 23:00] Antoninus continued the trend of allowing more rights to the living engines of the Roman
+[23:00 --> 23:01] economy.
+[23:01 --> 23:06] I plan to deal more with slavery next week, but suffice it to say, following the slave
+[23:06 --> 23:12] revolts of the late republic that culminated with Spartacus's war, the Roman elite began
+[23:12 --> 23:16] to think differently about the servants who surrounded them.
+[23:16 --> 23:20] The belief that slaves were so much inanimate property that could be used and abused at
+[23:20 --> 23:24] will gave way to a more humane attitude.
+[23:24 --> 23:30] During Antoninus's reign, this trend reached its logical conclusion with the emperor codifying
+[23:30 --> 23:36] the idea that just as a slave had a duty to his master, a master had a duty to his slave.
+[23:36 --> 23:41] In some cases, a cruel master could be ordered to sell his slaves, and in all cases, the
+[23:41 --> 23:45] murder of a slave was now considered homicide.
+[23:45 --> 23:51] But again, this was the logical extension of a hundreds year long trend, and Antoninus
+[23:51 --> 23:55] should not be considered some human rights radical.
+[23:55 --> 24:00] If slavery was going to survive as an institution, as the emperor felt that it justly should,
+[24:00 --> 24:04] these rights needed to be extended to prevent mass uprisings.
+[24:04 --> 24:12] Cruel masters were a national security threat more than they were a moral affront.
+[24:12 --> 24:17] Again as a whole, the picture we get of Antoninus is a man who wants tomorrow to be like today,
+[24:17 --> 24:20] and today to be like yesterday.
+[24:20 --> 24:26] He was conservative in his approach to practically every aspect of his public and personal life,
+[24:26 --> 24:31] believing his primary function to be the maintenance of what was already good rather than the invention
+[24:31 --> 24:34] of something better.
+[24:34 --> 24:38] I'm going to stop there for this week because while there are a few more things to say about
+[24:38 --> 24:44] Antoninus, specifically about his relationship with Marcus Aurelius and Lucius Severus, the
+[24:44 --> 24:49] men who would succeed him, there is not a ton more material to cover.
+[24:49 --> 24:54] This however does present us with a nice opportunity to briefly pause our story and focus a bit
+[24:54 --> 24:58] on everyday life in the age of the Antonines.
+[24:58 --> 25:03] It's been a while since I've docked the SS narrative, but with second century Rome existing
+[25:03 --> 25:08] politically, culturally, and economically at the height of its power, it seems like
+[25:08 --> 25:12] a perfect time to put into port for a week or two and take a look around.
+[25:12 --> 25:18] Plus, Jerome Carcapino's classic daily life in ancient Rome focuses specifically on this
+[25:18 --> 25:23] period of the empire, so it seems only natural that we should pause during Antoninus' reign
+[25:23 --> 25:26] to think about the bigger picture.
+[25:26 --> 25:32] So next week, we'll start digging into social issues and religious trends and economic activities
+[25:32 --> 25:36] and all the little things that define the lives and livelihoods of the millions and
+[25:36 --> 25:43] millions of people who lived under the Pax Romana of the five good emperors.
+[25:43 --> 25:47] The last thing I'll mention is that as a few of you have noticed, we are fast approaching
+[25:47 --> 25:50] the hundredth episode of the history of Rome.
+[25:50 --> 25:55] I know we are only on episode 85, but with the two part and five part shows, this is
+[25:55 --> 26:01] actually the 95th posted episode, and I can assure you that this is the metric I use when
+[26:01 --> 26:05] defining which will be the, quote, hundredth episode.
+[26:05 --> 26:09] To celebrate, I thought it would be fun to throw the show open to questions from the
+[26:09 --> 26:10] floor.
+[26:10 --> 26:18] So, if you're interested, go to either thehistoryofrome.typepad.com or the show's official unofficial discussion
+[26:18 --> 26:25] group, Forum Galorum, at forumgalorum.freeforums.org and submit your questions to the hundredth
+[26:25 --> 26:28] episode threads we've got set up.
+[26:28 --> 26:33] The questions can be about anything, Roman things, podcast things, baseball things, personal
+[26:34 --> 26:38] things to a point, anything really, so don't feel too constrained.
+[26:38 --> 26:43] Basically, if you've ever wondered about something, just go ahead and throw it out there.
+[26:43 --> 26:47] I probably won't be able to answer everyone, but I'll do my best to pick out representative
+[26:47 --> 26:53] questions that mostly cover what most people are mostly wondering about.
+[26:53 --> 26:58] The only question you can't ask is where are the early episodes, because as I'm pleased
+[26:58 --> 27:01] to point out, they are now all available on iTunes.
+[27:01 --> 27:06] I'm still ironing out the bugs, so the ordering is a bit off, and it looks like iTunes is
+[27:06 --> 27:11] doubling up downloading episodes that you already have, which is really annoying, but
+[27:11 --> 27:16] going forward, all should be well and everything should stay put.
+[27:16 --> 27:20] For those of you who are newcomers, those early episodes can be a bit rough, both in
+[27:20 --> 27:24] terms of production and style, so please don't judge them too harshly.
+[27:24 --> 27:29] I was, after all, making it up as I went along.
+[27:29 --> 27:33] The really, really last thing I'll mention is that the Forum Galorum is also now hosting
+[27:33 --> 27:39] a weekly History of Rome chat that launched last week and will occur regularly at noon
+[27:39 --> 27:41] U.S. Central Time on Saturdays.
+[27:41 --> 27:47] I should be there next weekend and periodically after that schedule permitting, so see you there.

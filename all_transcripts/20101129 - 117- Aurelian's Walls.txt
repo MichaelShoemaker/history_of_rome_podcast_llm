@@ -1,0 +1,330 @@
+# 20101129 - 117- Aurelian's Walls
+# Detected language: en
+# Duration: 1588.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:16] Hello, and welcome to The History of Rome, episode 117, Aurelian to Alls.
+[00:16 --> 00:20] During the big time question blowout that was the hundredth episode of The History of
+[00:20 --> 00:28] Rome, I listed my top five emperors as being Augustus, Diocletian, Trajan, Constantine,
+[00:28 --> 00:30] and Hadrian.
+[00:30 --> 00:35] This is a pretty conventional list, and apart from ordering and maybe subbing in Marcus
+[00:35 --> 00:40] Aurelius for someone, it's not going to cause much controversy.
+[00:40 --> 00:45] But one assumption that I made when putting the list together was that we were talking
+[00:45 --> 00:49] about career value rather than peak value.
+[00:49 --> 00:53] An obvious similarity between all the guys in my top five is that they each ruled for
+[00:53 --> 00:56] a long, long time.
+[00:56 --> 01:00] Trajan put in the shortest service time of the five, and he still ruled for more than
+[01:00 --> 01:02] 19 years.
+[01:02 --> 01:06] You can make a big impact when you have 20 or more years to work with, and so it should
+[01:06 --> 01:12] come as no surprise that my greatest emperors are also some of the longest serving emperors.
+[01:12 --> 01:18] But that's true as long as we're talking about greatest in terms of career value.
+[01:18 --> 01:24] See, when we sit around and debate who was the greatest pitcher of all time, or who was
+[01:24 --> 01:29] the greatest goalie of all time, or who was the greatest golfer of all time, we always
+[01:29 --> 01:32] need to make sure that everyone is on the same page.
+[01:32 --> 01:36] Are we talking about career value, or are we talking about peak value?
+[01:36 --> 01:41] That is, are we talking about the guy who did the most, scored the most, blocked the
+[01:41 --> 01:48] most, won the most of all time, or the guy who at his peak, in his prime, was simply
+[01:48 --> 01:50] the best of the best?
+[01:50 --> 01:55] Maybe his career was cut short by injury, or he hit a wall when he turned 30 or whatever,
+[01:55 --> 02:02] but for a while he was unhittable, undefendable, and unstoppable.
+[02:02 --> 02:07] Being the baseball fan that I am, I know the patron saint of peak value as Dodger pitcher
+[02:07 --> 02:09] Sandy Koufax.
+[02:09 --> 02:14] You will not see his name on the list of most strikeouts all time, or most wins all time,
+[02:14 --> 02:20] or most innings of all time, but he put together five of the most dominant seasons that anyone
+[02:20 --> 02:23] has ever seen in the history of baseball.
+[02:23 --> 02:31] From 1962 to 1966, Sandy Koufax was the left hand of God, and his single season statistics
+[02:31 --> 02:35] during this period are absolutely mind boggling.
+[02:35 --> 02:38] I'm going to stop now so I don't spend the rest of the episode gushing about Sandy
+[02:38 --> 02:46] Koufax, and really, this is just a very roundabout way of saying that Lucius Domitius Aurelianus
+[02:46 --> 02:51] may not have been around long enough to accumulate the kind of all time stats you need to crack
+[02:51 --> 02:59] into the top of the emperor's career value list, but from 270 to 275, oh man, he was
+[02:59 --> 03:02] peak value defined.
+[03:02 --> 03:07] If you sometimes have trouble remembering which emperor was which during the third century,
+[03:07 --> 03:12] and what happened during whose reign, just remember that Aurelian is the Sandy Koufax
+[03:12 --> 03:14] of Roman emperors.
+[03:14 --> 03:20] The rest, hopefully, should fall into place.
+[03:20 --> 03:24] Aurelian was in Thrace serving as the captain of the mobile cavalry and doing advanced work
+[03:24 --> 03:29] for the coming campaign against the Vandals when Claudius died of the Cyprian Plague in
+[03:29 --> 03:31] 270 AD.
+[03:31 --> 03:36] It did not take long for the officers of the imperial army to track down the dead emperor's
+[03:36 --> 03:43] second in command and offer him supreme authority over the legions and, by extension, the empire.
+[03:43 --> 03:49] Back in Italy, though, a word of Claudius' death immediately fired up the ambitions of
+[03:49 --> 03:54] a man by the name of Marcus Aurelius Claudius Quintillus, the younger brother of the dead
+[03:54 --> 03:57] emperor.
+[03:57 --> 04:01] Despite their frequent protest to the contrary, the Romans were as much enamored with blood
+[04:01 --> 04:07] ties as anyone else, and as he took over the role of Pater Familius from his brother, Quintillus
+[04:07 --> 04:11] had an eye on taking over the role of emperor as well.
+[04:12 --> 04:17] Now, everyone in their mother knew that the Danube legions were going to turn to Aurelian,
+[04:17 --> 04:22] and there were many in the aristocracy who feared the ascension of old sword in hand,
+[04:22 --> 04:27] the no-nonsense soldier who would likely have little room at his table for the senate, who,
+[04:27 --> 04:31] let's face it, were chock full of nonsense.
+[04:31 --> 04:35] So they decided to back Quintillus' bid for the throne.
+[04:35 --> 04:39] And though the Danube legions were far and away the best of the legions, Quintillus,
+[04:39 --> 04:44] by virtue of his relation to Claudius, had been put in charge of the significant Italian
+[04:44 --> 04:49] garrisons, which included the Praetorian Guard, so it's not like his bid was backed by nothing
+[04:49 --> 04:52] but the senate's hot air.
+[04:52 --> 04:56] Unfortunately for Quintillus, though, the Danube legions really were the best of the
+[04:56 --> 05:02] best, and they made his Italian army look like it was, well, made of little more than
+[05:02 --> 05:06] hot air.
+[05:06 --> 05:10] Quintillus then accepted the acclamation of the legions, and upon becoming emperor, well,
+[05:10 --> 05:15] one claimant anyway, his first move was to turn the armies around and march them back
+[05:15 --> 05:20] to Italy to establish his authority over the home province.
+[05:20 --> 05:24] It was not an auspicious beginning to his reign, as he fell into the same trap that
+[05:24 --> 05:30] so many other third century emperors had fallen into, leading the legions away from the frontier
+[05:30 --> 05:34] to consolidate power right at the moment when they were needed on the borders to consolidate
+[05:34 --> 05:37] victory.
+[05:37 --> 05:42] Claudius had put his foot into the backsides of both the Alamani and the Goths, and a concentrated
+[05:42 --> 05:47] push against the remaining northern tribes might re-establish Roman power for a generation
+[05:47 --> 05:49] or more.
+[05:49 --> 05:55] With Claudius dead, though, that all now appeared to be in jeopardy.
+[05:55 --> 06:00] But Aurelian managed to smash his way out of the trap, rather than falling by the wayside
+[06:00 --> 06:04] like Decius and Emelianus and Gallus before him.
+[06:04 --> 06:08] The northern tribes would take advantage of his withdrawal back to Italy, but they would
+[06:08 --> 06:13] come to regret it.
+[06:13 --> 06:17] Quintillus gathered his troops at Aquileia in preparation for the assumed invasion of
+[06:17 --> 06:23] Aurelian, but as they met and readied themselves, it became obvious quickly that this was starting
+[06:23 --> 06:27] to look an awful lot like a suicide mission.
+[06:27 --> 06:32] Eventually, the Danube legions, under the command of Aurelian, are going to come pouring
+[06:32 --> 06:34] down out of the Alpine passes.
+[06:34 --> 06:36] And then what are we going to do?
+[06:36 --> 06:37] Defeat them in battle?
+[06:37 --> 06:41] I don't think so.
+[06:41 --> 06:45] Accounts differ as to the fate of Quintillus, that is, whether he was killed by his own
+[06:45 --> 06:51] troops or committed suicide, but they don't differ in having him dead as a doornail when
+[06:51 --> 06:54] Aurelian arrived in Italy.
+[06:54 --> 06:59] The troops Quintillus had gathered, needless to say, swore allegiance to Aurelian the first
+[06:59 --> 07:03] chance they got.
+[07:03 --> 07:07] As with everything else to do with the third century, the chronology of Aurelian's reign
+[07:07 --> 07:13] is very confused, and though we know the things that he did, we cannot hope to know exactly
+[07:13 --> 07:17] the order in which he did them.
+[07:17 --> 07:21] Right off the bat, though, it seems that he headed back to the Balkans because the Vandals
+[07:21 --> 07:26] had taken his withdrawal of the legions as an open invitation to attack.
+[07:26 --> 07:31] The Vandals already posed enough of a threat that they were next up on Claudius' hit list
+[07:31 --> 07:36] when he died, and the disappearance of the Imperial army only inflamed their passions.
+[07:36 --> 07:40] And before you could say the emperor is dead, long live the emperor, the Vandals were running
+[07:40 --> 07:43] amok in Pannonia.
+[07:43 --> 07:47] So after making sure Quintillus was dead and the troops in Italy were with him, Aurelian
+[07:47 --> 07:53] immediately charged back to the Balkans to push back the invading tribes.
+[07:54 --> 07:58] Aurelian's strategy for dealing with the Vandals was to order that anything that could
+[07:58 --> 08:04] be consumed by men and horse be drawn inside the towns and cities of the provinces to leave
+[08:04 --> 08:08] the invading Vandals without anything to eat.
+[08:08 --> 08:13] Once the lack of provisions began to drag the Vandals down, Aurelian swept in and crushed
+[08:13 --> 08:15] them in a quick battle.
+[08:15 --> 08:20] When the fighting was done, Aurelian allowed the remaining Vandals to return home, but
+[08:20 --> 08:27] with the stipulation that they hand over 2,000 cavalrymen to serve in the Roman army.
+[08:27 --> 08:32] With internal recruitment often coming up dry as a result of 20 years of famine, plague,
+[08:32 --> 08:37] and warfare, Aurelian knew that fresh recruits for his army were going to have to come from
+[08:37 --> 08:42] somewhere if he planned to reunify the empire, and the German tribes began to look like an
+[08:42 --> 08:45] excellent source of soldiers.
+[08:45 --> 08:49] The Vandal horsemen would not be the last, or even the largest, levy Aurelian would lay
+[08:49 --> 08:55] on defeated northern tribes, and it was during his reign that the so-called Germanization
+[08:55 --> 09:01] of the legions, already underway in the form of temporary auxiliaries and sometime mercenaries,
+[09:01 --> 09:04] would really begin in earnest.
+[09:04 --> 09:09] On an ad hoc basis, the empire had always been able to get tribes from beyond the frontiers
+[09:09 --> 09:15] to fight for them, going back as far as Julius Caesar, but the process was about to become
+[09:15 --> 09:22] far more systematized and far more permanent.
+[09:22 --> 09:27] While he was overseeing the Vandal retreat though, a word came that the Alamani, or likely
+[09:27 --> 09:33] just the Jathungi, one of their component tribes, was headed into Italy, the third time
+[09:33 --> 09:38] now in just over 10 years that barbarians had set foot on the once perfectly safe peninsula
+[09:38 --> 09:41] of Italy.
+[09:41 --> 09:45] Leaving behind enough troops to remind the Vandals of their oath, Aurelian headed back
+[09:45 --> 09:50] to Italy, a trip that was becoming a nearly annual pilgrimage for the men of the Danube
+[09:50 --> 09:52] legions.
+[09:52 --> 09:56] When they reached the peninsula, Aurelian found that the Jathungi had overrun the Poe
+[09:56 --> 10:04] Valley, sacked a number of towns, and were presently occupying the key city of Placentia.
+[10:04 --> 10:08] Aurelian made straight for the city, but in his haste to meet the enemy, he never gave
+[10:08 --> 10:13] his men time to rest, and when they finally arrived at Placentia, the legionaries were
+[10:13 --> 10:14] exhausted.
+[10:14 --> 10:18] Well, actually, that's not true.
+[10:18 --> 10:21] They never even reached the city.
+[10:21 --> 10:25] The Jathungi had set an ambush for the Romans, and right at sunset, the weary legions were
+[10:25 --> 10:30] ready to make camp and go to bed, but the Germans sprang out of the woods and put Aurelian
+[10:30 --> 10:35] and his army to a humiliating flight.
+[10:35 --> 10:40] Scattered and disoriented, it took some time to piece the legions back together, and in
+[10:40 --> 10:46] the meantime, the Jathungi pointed themselves south, aiming directly for Rome, which understandably
+[10:46 --> 10:52] put the Roman Romans into a panic.
+[10:52 --> 10:57] The ambush at Placentia, though, was by no means a decisive victory for the Jathungi,
+[10:57 --> 11:03] and the embarrassment it caused Aurelian only ratcheted up his motivation to stop them.
+[11:03 --> 11:08] He regrouped his forces and gave chase, this time keeping a close eye on the Jathungi's
+[11:08 --> 11:13] movements and waiting for the right moment to strike.
+[11:13 --> 11:18] He found his moment on the banks of the Mataurus River, where he broadside of the Germans and
+[11:18 --> 11:24] ran them into the water, which swept a good number of them down to a watery grave.
+[11:24 --> 11:28] The battered Jathungi sent word to the emperor that they would like to parlay for peace and
+[11:28 --> 11:30] safe passage home.
+[11:30 --> 11:37] But their attitude was not sufficiently deferential for Aurelian, and he rejected their entreaties.
+[11:37 --> 11:41] Without a guarantee of safe passage, the Germans were forced to head north, with Aurelian's
+[11:41 --> 11:46] army shadowing their movements and waiting again for the perfect opportunity to smash
+[11:46 --> 11:49] them up for good.
+[11:49 --> 11:54] This time, the opportunity came at Pava, where Aurelian forced the fleeing Jathungi into
+[11:54 --> 11:58] a pitched battle that they had no hope of winning.
+[11:58 --> 12:02] After being defeated, the remaining Germans surrendered their captured booty and begged
+[12:02 --> 12:07] for mercy, which this time Aurelian allowed, if they gave their fighting men over to the
+[12:07 --> 12:08] legions.
+[12:08 --> 12:14] If they wanted to live, they'd have to fight for the empire, not against it.
+[12:14 --> 12:21] Some reports have this new influx of soldiers coming in at anywhere between 20,000 and 40,000
+[12:21 --> 12:22] men.
+[12:22 --> 12:27] This was not small potatoes to an imperial army badly weakened by the previous generation's
+[12:27 --> 12:31] strife.
+[12:31 --> 12:36] With the frontiers finally quieted down a bit and Italy free of invaders, Aurelian was
+[12:36 --> 12:42] finally able to make his triumphal entry into Rome in early 271, almost a year into his
+[12:42 --> 12:45] reign.
+[12:45 --> 12:49] Sporting the new title Germanicus Maximus for his recent victories, it is likely that
+[12:49 --> 12:54] Aurelian was expecting, if not enthusiastic greetings from the citizens of Rome, then
+[12:54 --> 12:58] at least a warm embrace.
+[12:58 --> 13:02] But Aurelian's entry into the city seems to have actually sparked riots and street
+[13:02 --> 13:10] fighting not seen since the days of the Flavian capture of Rome some 200 years before.
+[13:10 --> 13:13] The causes for this mass uprising were threefold.
+[13:13 --> 13:17] First, there was the lingering effects of the panic caused by Aurelian's defeat at
+[13:17 --> 13:22] Placentia, which had everyone's nerves good and frayed.
+[13:22 --> 13:28] Second, was the disruption of the grain supply, which likely had been caused by Zenobius captured
+[13:28 --> 13:29] Egypt.
+[13:29 --> 13:35] And third, we have the massive fraud being undertaken daily at the main imperial mint
+[13:35 --> 13:41] in Rome, which is the reason the riots got started in the first place.
+[13:41 --> 13:46] As I mentioned a few episodes back, debasement of the coinage was a major problem for the
+[13:46 --> 13:53] Roman economy, and the damage done by official imperial policy was being hugely exacerbated
+[13:53 --> 13:57] by the conduct of the workers at the mint when it came time to actually produce the
+[13:57 --> 14:00] debased coins.
+[14:00 --> 14:04] Even the nominal amount of silver that was supposed to be going into the coins was having
+[14:04 --> 14:10] a hard time finding its way into circulation, and instead kept getting routed into the pockets
+[14:10 --> 14:16] of the workers and administrators of the mint, and of course the pockets of any official
+[14:16 --> 14:20] tasked with overseeing the process.
+[14:20 --> 14:25] Aurelian had already signaled that he planned to revalue the coins back up to a respectable
+[14:25 --> 14:31] level, respectable for the times being 5% silver in the denarius, and the mint workers
+[14:31 --> 14:35] were justifiably worried that when Aurelian found out that their additional graft was
+[14:35 --> 14:41] making things even worse than he thought, that he would be, well, displeased.
+[14:41 --> 14:47] And given Aurelian's fearsome reputation, displeased meant that heads were likely to
+[14:47 --> 14:51] roll, literally.
+[14:51 --> 14:56] So when Aurelian arrived in Rome, the mint workers took to the streets and began demonstrating
+[14:56 --> 14:59] against the new regime.
+[14:59 --> 15:04] Soon enough they had ginned up their narrowly selfish cause into a general strike and full-blown
+[15:04 --> 15:10] street riots broke out, egged on by senators and equites who had backed Quintillus and
+[15:10 --> 15:15] who hoped to drive Aurelian out of power before he had a chance to do any damage to
+[15:15 --> 15:18] their interests.
+[15:18 --> 15:22] Angry at the sedition and unwavering in his commitment to putting down the mob, Aurelian
+[15:22 --> 15:28] called in regular troops to back up the urban cohorts who were clashing daily with the enraged
+[15:28 --> 15:30] citizenry.
+[15:30 --> 15:36] Thousands were dying on both sides, but pretty soon order was restored as the overmatched
+[15:36 --> 15:40] civilians were driven back into their homes.
+[15:40 --> 15:46] When the full story of how the mint riots got started came out, the citizens of Rome
+[15:46 --> 15:50] found Aurelian had passed well beyond displeased.
+[15:50 --> 15:56] A quick and ruthless purge followed that took the lives not just of the mint administrators,
+[15:56 --> 16:00] but also the senators and equites who had supported first their fraud and then their
+[16:00 --> 16:04] riots.
+[16:04 --> 16:09] When Aurelian's harsh justice was done being metered out, the emperor then took the unprecedented
+[16:09 --> 16:14] step of simply closing the Rome mint down for good.
+[16:14 --> 16:19] Though this extraordinary measure was undertaken specifically because Aurelian did not feel
+[16:19 --> 16:24] that he could now trust Rome to implement his reformist monetary policies, it had the
+[16:24 --> 16:29] effect of being one of the final nails in the coffin of Rome's political and economic
+[16:29 --> 16:31] relevance.
+[16:31 --> 16:36] A decade later, Diocletian would be able to come to power and avoid visiting the Eternal
+[16:36 --> 16:44] City for 19 years without any serious repercussions.
+[16:44 --> 16:50] But though Rome's practical power was waning, its power as a symbolic force was still immense.
+[16:50 --> 16:53] Even Diocletian could not deny that.
+[16:53 --> 16:58] And the recent string of Italian invasions had gotten Aurelian and his fellow officers
+[16:58 --> 17:04] thinking about how best to protect the living embodiment of the empire.
+[17:04 --> 17:08] For more than 200 years, the defensive strategy that had been invented by Augustus and brought
+[17:08 --> 17:13] to a full realization by Hadrian had worked just fine.
+[17:13 --> 17:19] Post-legionary garrisons on the frontiers, build walls to control cross-border movement,
+[17:19 --> 17:24] and focus militarily and politically on keeping the Rhine and Danube tribes divided from one
+[17:24 --> 17:26] another.
+[17:26 --> 17:31] For generation after generation, the strategy had worked out as well as anyone could have
+[17:32 --> 17:37] And with the frontier garrisons easily absorbing whatever foreign encroachments came along,
+[17:37 --> 17:41] there was little reason to worry about maintaining the local defenses of the towns and cities
+[17:41 --> 17:44] in the interior.
+[17:44 --> 17:47] But times had changed.
+[17:47 --> 17:51] Squeezed between Rome on one side and rising eastern powers like the Huns on the other
+[17:51 --> 17:57] – and we'll get to them soon enough – the German tribes were now well down the road
+[17:57 --> 18:03] towards regional unification, which rendered the old divide-and-conquer technique obsolete.
+[18:03 --> 18:08] It also meant that the various legionary garrisons now faced enemy numbers far in excess
+[18:08 --> 18:14] of anything that they had had to face before or were equipped to handle.
+[18:14 --> 18:20] It used to be that a legion or three could stop up any leak with ease, but now torrents
+[18:20 --> 18:25] of Germans in the hundreds of thousands were blowing past the completely outnumbered garrisons
+[18:25 --> 18:29] with impunity.
+[18:29 --> 18:33] Compounding this problem was the fact that, for domestic political reasons, emperors could
+[18:33 --> 18:38] no longer afford to place the kind of troop numbers necessary to combat these supersized
+[18:38 --> 18:43] invasion forces under the command of some random general.
+[18:43 --> 18:48] If a general had enough troops to face down the Alamani or the Goths, then he had enough
+[18:48 --> 18:52] troops to steal the throne.
+[18:52 --> 18:56] Gallienus had recognized this problem and made sure that he was always at the head of
+[18:56 --> 19:01] the most massive army the empire could put together, complete with its totally dominant
+[19:01 --> 19:04] mobile cavalry.
+[19:04 --> 19:10] But that meant that wherever this great imperial army wasn't, well, that is where the Germans
+[19:10 --> 19:12] would be.
+[19:12 --> 19:18] For Gallienus and then Claudius and now Aurelian, this meant an awful lot of rushing around
+[19:18 --> 19:22] trying to expel invaders after they had already invaded.
+[19:22 --> 19:27] In terms of grand strategy, it meant that the Romans had completely lost the initiative,
+[19:27 --> 19:34] which, yeah, was bad, but on a purely practical level, it really meant that the great cities
+[19:34 --> 19:41] of the empire, including Rome, were now completely vulnerable to attack.
+[19:41 --> 19:46] That the imperial army would maybe be able to arrive next month and try to reclaim the
+[19:46 --> 19:51] captured goods from some raid and punish the raiders usually came as cold comfort to
+[19:51 --> 19:55] the citizens of the raided city.
+[19:55 --> 20:00] If the outer walls of the empire, those built by Domitian and Hadrian, were no longer enough
+[20:00 --> 20:06] to keep foreign invasion at bay, then the empire needed new walls, walls that would
+[20:06 --> 20:12] allow communities to stave off defeat until the imperial army could arrive and drive the
+[20:12 --> 20:14] invaders off.
+[20:14 --> 20:19] What the empire needed was city walls.
+[20:19 --> 20:24] On their own initiative, many cities near the frontiers had already upgraded their defensive
+[20:24 --> 20:30] walls, but Aurelian now put the imperial stamp of approval on the idea of permanently fortified
+[20:30 --> 20:37] cities by ordering a massive wall circuit built around Rome itself.
+[20:37 --> 20:43] As Rome's power had grown, so too had the city grown, and the old Servian walls, built
+[20:43 --> 20:49] in the aftermath of the Galaxac way back in the fourth century BC, had ceased to function
+[20:49 --> 20:52] as any sort of real defensive barrier.
+[20:52 --> 20:58] The majority of the city now lay beyond its scope, and for essentially the entire imperial
+[20:58 --> 21:04] period Rome was an unwalled city, and one so far from the front lines that no one gave
+[21:04 --> 21:06] it another thought.
+[21:06 --> 21:11] Now they were thinking about it all the time.
+[21:11 --> 21:17] During his brief stay in Rome in 271, Aurelian wasted no time sketching out plans for a new
+[21:17 --> 21:23] fortification circuit that would include areas like, say, the Campus Martius, which once
+[21:23 --> 21:28] upon a time had been an empty field, but was now a bustling urban area that housed some
+[21:28 --> 21:35] of Rome's most important civic buildings, including the Pantheon and Pompey's Theater.
+[21:35 --> 21:40] The new wall circuit, eventually dubbed the Aurelian Walls for obvious reasons, would
+[21:40 --> 21:48] grow to be 19 kilometers long, and eventually enclose an area of 13.7 square kilometers.
+[21:48 --> 21:55] As originally built, the walls were 3.5 meters thick and 8 meters high, though in the 400s
+[21:55 --> 22:02] AD, when the going really got rough, the height was doubled to 16 meters.
+[22:02 --> 22:06] Every hundred Roman feet there was a 26 meter tall guard tower, so that eventually there
+[22:06 --> 22:12] were over 350 of these fortified towers looming over the city.
+[22:12 --> 22:18] In the end, there were 18 heavily defended main gates that limited access to the city,
+[22:18 --> 22:23] and five postern gates, which were essentially secret doors that allowed defenders to sneak
+[22:23 --> 22:28] in and out of the city without the enemy noticing.
+[22:28 --> 22:33] Because Aurelian's overriding concern was that the walls be completed as fast as possible,
+[22:33 --> 22:38] his engineers were ordered to incorporate as many existing buildings as possible into
+[22:38 --> 22:43] the design so as little new construction as possible would be needed.
+[22:43 --> 22:49] Normally, a project so overtly military as the Aurelian Walls would have been built by
+[22:49 --> 22:55] soldiers, but given the circumstances, Aurelian could not spare a single legionary and he
+[22:55 --> 23:01] had to rely on civilian conscripts to do almost all the work, leading to irregularities in
+[23:01 --> 23:06] both the quality of the work and the aesthetic design of the different sections, as different
+[23:06 --> 23:11] crews worked double time to complete their designated zones.
+[23:11 --> 23:16] The whole circuit took just five years to complete, but even the record time Rome went
+[23:16 --> 23:23] from being naive and open to jaded and shut tight was too long for Aurelian, who died
+[23:23 --> 23:26] just before the last gaps were bridged.
+[23:26 --> 23:32] It was left to his successor Probus to formally dedicate the completed fortifications.
+[23:32 --> 23:40] I have posted some pictures at thehistoryofrome.titepad.com to give you an idea of the size and scope
+[23:40 --> 23:45] of these impressive new defense systems.
+[23:45 --> 23:52] The Aurelian Walls were solid proof that Rome was undergoing a permanent transformation.
+[23:52 --> 23:58] For centuries the Empire had been a bubble, with everyone living inside the bubble nonchalantly
+[23:58 --> 24:02] coming and going without a care in the world.
+[24:02 --> 24:08] Now that bubble was burst, and at any moment a barbarian horde could come pouring in over
+[24:08 --> 24:10] the horizon.
+[24:10 --> 24:15] The ever resilient Romans though had no intention of ceding their lives and territory simply
+[24:15 --> 24:20] because the old defensive lines were broken, and in place of the one huge bubble that they
+[24:20 --> 24:27] had lived in for so long, they built hundreds of tiny bubbles that dotted the provinces.
+[24:27 --> 24:32] When Aurelian built his walls around Rome, it was a signal to every other urban center
+[24:32 --> 24:35] to do the same.
+[24:35 --> 24:40] So now, though the barbarians were still able to cross the borders of the Empire with ease,
+[24:40 --> 24:45] they would no longer find easy pickings on the other side when they did so.
+[24:45 --> 24:50] As the frontiers of the Empire were reduced to mere theory, the Romans drew back the
+[24:50 --> 24:54] practical lines of defense right to their city limits.
+[24:54 --> 25:00] It was a strategic retreat that allowed Rome to regain the initiative.
+[25:00 --> 25:06] It said to the barbarians, okay, you're here, but now what are you going to do?
+[25:06 --> 25:12] We've hidden everything of value behind these walls and you completely stink at siege warfare.
+[25:12 --> 25:17] Your move.
+[25:17 --> 25:21] Next week, Aurelian will make his next move.
+[25:21 --> 25:26] Confident that he had set the center of the Empire on a path to true security, he cast
+[25:26 --> 25:30] his sights on the great prize that had been dancing just out of Rome's reach for the
+[25:30 --> 25:35] last decade, the reunification of her Empire.
+[25:35 --> 25:42] Zenobia's capture of Egypt was absolutely unacceptable, and despite the official partnership
+[25:42 --> 25:47] that existed between Rome and Palmyra, there was no doubt that the two powers were now
+[25:47 --> 25:49] headed towards war.
+[25:49 --> 25:55] Aurelian planned to not just initiate the final conflict, but to win it outright.
+[25:55 --> 26:01] Palmyra would be laid low, and the East would be brought back into the Empire.
+[26:01 --> 26:04] Of this, Aurelian had absolutely no doubt.

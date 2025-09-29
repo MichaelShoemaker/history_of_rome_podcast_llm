@@ -1,0 +1,362 @@
+# 20100301 - 083- May His Bones Be Crushed
+# Detected language: en
+# Duration: 1591.56 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:09] As I have made you fully aware, Audible is the internet's leading provider of audio entertainment
+[00:09 --> 00:12] with over 60,000 titles to choose from.
+[00:12 --> 00:17] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:17 --> 00:22] That again is audiblepodcast.com forward slash Rome.
+[00:22 --> 00:25] By going to that address, you will qualify for a free book download when you sign up
+[00:25 --> 00:28] for a 14-day trial membership.
+[00:28 --> 00:32] There is no obligation to continue the service and you can cancel any time and keep the free
+[00:32 --> 00:34] book that you downloaded.
+[00:34 --> 00:38] You can also keep going with one of the monthly subscription options and get great deals on
+[00:38 --> 00:41] all future audiobook purchases.
+[00:41 --> 00:45] This week I'm going to switch things up a little bit and recommend the book I'm listening
+[00:45 --> 00:49] to right now, even though it has absolutely nothing to do with Rome.
+[00:49 --> 00:53] I'll probably do this from time to time as I get to exhausting the ancient Roman histories
+[00:53 --> 00:55] in the Audible catalog.
+[00:55 --> 01:00] So anyway, even though I'm way beyond the hype and times, Team of Rivals, the political
+[01:00 --> 01:05] genius of Abraham Lincoln by Doris Kearns Goodwin, is a pretty awesome book and one
+[01:05 --> 01:07] I'm sure you'll thoroughly enjoy.
+[01:07 --> 01:12] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent
+[01:12 --> 01:14] you.
+[01:14 --> 01:23] Hello and welcome to the history of Rome.
+[01:23 --> 01:28] May his bones be crushed.
+[01:28 --> 01:32] In 125, Hadrian returned to Rome for the first time in four years.
+[01:32 --> 01:38] In that time, he had completed one full counterclockwise circuit of the empire, up through Gaul to
+[01:38 --> 01:43] Britain, then down through Spain into Africa, east across North Africa, up into Syria, then
+[01:43 --> 01:49] west across Asia Minor to Greece, and then, after a brief final stop in Sicily, back to
+[01:49 --> 01:51] the Italian peninsula.
+[01:51 --> 01:56] His return to the capital was greeted with a mixture of enthusiasm by some, annoyance
+[01:56 --> 01:59] by others, and indifference by the rest.
+[01:59 --> 02:04] In the seven plus years Hadrian had already logged on the throne, he had earned a reputation
+[02:04 --> 02:10] as an ever-active polymath executive whose interest extended to every corner of the empire.
+[02:10 --> 02:15] While the provincials loved the personal attention Hadrian lavished upon them, the Roman Romans,
+[02:15 --> 02:19] the ones who actually lived in Rome, were less enthused by the emperor's corresponding
+[02:19 --> 02:21] inattention.
+[02:21 --> 02:25] Hadrian had kept the bread and circuses flowing, and continued the building boom that had rolled
+[02:25 --> 02:30] on uninterrupted since the reign of Domitian, but there was a growing feeling that in most
+[02:30 --> 02:33] respects Hadrian was not really one of them.
+[02:33 --> 02:38] In the final analysis, the emperor turned out to be a Grecofile Spaniard who loved all
+[02:38 --> 02:44] the things a proper Roman was supposed to hate, hunting, astrology, poetry.
+[02:44 --> 02:49] He was also an unapologetic and open homosexual, and of course there was his trivial but somehow
+[02:49 --> 02:54] earth-shattering decision to abandon the austere, clean-shaven face that had defined the look
+[02:54 --> 03:00] of the Roman aristocracy for centuries in favor of a full beard.
+[03:00 --> 03:04] Hadrian was an emperor, yes, but whether he was a Roman emperor was something of an open
+[03:04 --> 03:06] question.
+[03:06 --> 03:12] For his part, Hadrian did not trouble himself too much with the social taboos he was upending,
+[03:12 --> 03:16] and for the most part his iconoclasm seems to have happened by accident.
+[03:16 --> 03:21] That is to say, he wasn't deliberately setting himself against existing tradition.
+[03:21 --> 03:26] He was instead simply supremely confident in who he was and what he was doing.
+[03:26 --> 03:30] There are a couple of explanations for his beard, for example, from it being an extension
+[03:30 --> 03:35] of his Phil-Hellenism, to it being an easy way to connect with rank-and-file soldiers
+[03:35 --> 03:40] who often wore beards, to a simple desire to cover a pockmarked and warty face.
+[03:40 --> 03:44] But nowhere does anyone report that he wore a beard just to tick off the conservative
+[03:44 --> 03:46] elites back in Rome.
+[03:46 --> 03:51] On a larger scale, his promotion of Greece at the expense of Italy was not undertaken
+[03:51 --> 03:56] because he wanted to spit on Italian exceptionalism, but because he knew that the long-term interests
+[03:56 --> 04:02] of the empire begged for all of the provinces to become united on a more equal footing.
+[04:02 --> 04:06] As I said when I was introducing Trajan, it was fast becoming counterproductive to view
+[04:06 --> 04:11] the empire as a collection of provinces ruled by Rome rather than a single cosmopolitan
+[04:11 --> 04:15] pan-Mediterranean political unit.
+[04:15 --> 04:18] While the vast majority of subjects within the empire eyed this change of focus with
+[04:18 --> 04:24] relish, it all went over like a lead balloon in Italy, where every man, woman, and child
+[04:24 --> 04:28] had been raised from birth to believe that they were, in fact, exceptional in every single
+[04:28 --> 04:33] way, and ruled the world by divine right.
+[04:33 --> 04:38] Hadrian lived in his villa at Tivoli from 125 to the beginning of 127, conducting the
+[04:38 --> 04:43] business of empire from the newly constructed compound rather than from the imperial palace
+[04:43 --> 04:48] on the Palatine or, God forbid, the halls of the Senate.
+[04:48 --> 04:50] The world no longer revolved around Rome.
+[04:50 --> 04:54] It revolved around Hadrian, just as Hadrian wanted.
+[04:54 --> 04:58] In 127, he got restless again and decided to go on a quick tour of the one province
+[04:58 --> 05:02] he had thus far neglected, Italy itself.
+[05:02 --> 05:06] So he spent the rest of the year traveling around the peninsula doing what he did best,
+[05:06 --> 05:10] adjudicating legal disputes and ordering architectural improvements in every municipality
+[05:10 --> 05:13] he passed through.
+[05:13 --> 05:17] It was during this tour that Hadrian decided to implement one of the few reforms that would
+[05:17 --> 05:20] not survive his death.
+[05:20 --> 05:25] Future emperors would follow Hadrian's precedence consciously or unconsciously for years, right
+[05:25 --> 05:30] down to the bearded face, but the emperor's reform of Italian political administration
+[05:30 --> 05:34] would be repealed practically hours after he died.
+[05:34 --> 05:39] Since the days of Augustus, Italy had been divided into 17 administrative districts,
+[05:39 --> 05:44] but the local towns and cities were mostly left to their own devices.
+[05:44 --> 05:49] Hadrian decided to divide the peninsula into four zones, each run by an imperial procurator
+[05:49 --> 05:52] who would answer directly to the emperor.
+[05:52 --> 05:57] It may seem an innocuous shift, but the Italians resented the hell out of the fact that Hadrian
+[05:57 --> 06:01] was effectively turning Italy into just another province.
+[06:01 --> 06:06] So like I say, the reorganization of the peninsula would be repealed immediately once
+[06:06 --> 06:12] Hadrian wasn't around to defend this universally unpopular idea.
+[06:12 --> 06:16] Italian exceptionalism would die one day, but not yet.
+[06:16 --> 06:22] 127 also marked Hadrian's 10th year in office, which he celebrated with appropriate games
+[06:22 --> 06:24] and banquets.
+[06:24 --> 06:28] The auspicious occasion was marked with darkness though, as the emperor seems to have either
+[06:28 --> 06:33] fallen ill or suffered from a serious accident that laid him up for months right around the
+[06:33 --> 06:36] time of his decennial celebrations.
+[06:36 --> 06:40] But the emperor was not going to be held down for long, and in the spring of 128 he was
+[06:40 --> 06:44] healthy enough to make a return trip to North Africa, which he had been forced to speed
+[06:44 --> 06:50] through on his way to the summit with the Parthians in 123.
+[06:50 --> 06:54] Before he left though, he finally accepted the one honorific he had thus far refused,
+[06:54 --> 07:01] having decided he had finally done enough good to be hailed father of the people.
+[07:01 --> 07:05] On this latest trip to Africa, he was able to focus more intently on the particulars
+[07:05 --> 07:09] of the North African provinces, though the visit basically followed the standard Hadrianic
+[07:09 --> 07:11] template.
+[07:11 --> 07:16] Inspect the troops, order defensive fortifications built, improve municipal infrastructure and
+[07:16 --> 07:19] settle legal disputes.
+[07:19 --> 07:23] Hadrian's standout accomplishment during his time in Africa happened just as he was
+[07:23 --> 07:24] arriving.
+[07:24 --> 07:29] Taked by drought, the arrival of the emperor had been accompanied by sudden rainstorms,
+[07:29 --> 07:35] prompting coins to be issued praising Hadrian the rainmaker.
+[07:35 --> 07:39] Before the fall came, Hadrian skipped back to Italy on his way to Greece, where he planned
+[07:39 --> 07:44] to take part in the Eleusian mysteries for a second time, this time as a full initiate.
+[07:44 --> 07:49] The cult tickled all of the emperor's sweet spots, from its classical Greek character,
+[07:49 --> 07:54] to its overt mysticism, to its ability to bring together the Hellenized world in one
+[07:54 --> 07:57] unifying ceremony.
+[07:57 --> 08:02] This last point stuck in the emperor's head, and on this, his third long term stay in Greece,
+[08:02 --> 08:07] he initiated a plan to bring the Greeks together as a single political force.
+[08:07 --> 08:12] The Greeks had, of course, always been the cultural engine of the empire, but their long
+[08:12 --> 08:16] history of city-state independence and its attendant intra-Greek squabbling had always
+[08:16 --> 08:19] left them weak politically.
+[08:19 --> 08:25] So, hot on the heels of his decision to downgrade Italy to just another province status, Hadrian
+[08:25 --> 08:29] pushed the Greeks to join together in a new Pan-Hellenian league, designed to raise them
+[08:29 --> 08:33] from eastern backwater to major player.
+[08:33 --> 08:38] He personally lobbied the magistrates of Athens and Sparta, the two most important and most
+[08:38 --> 08:43] antagonistic cities, to join in the new league that would unite Greece and bring them power
+[08:43 --> 08:48] within the empire that they had thus far never dreamed possible.
+[08:48 --> 08:52] Intrigued by Hadrian's promise of increased influence, the Greeks began to work on the
+[08:52 --> 08:56] details of who would be allowed to join the league, where meetings would be held, for
+[08:56 --> 09:00] how long, and what the extent of its powers would be, and all the other minutiae that
+[09:00 --> 09:05] accompany these sorts of high-minded diplomatic assemblies.
+[09:05 --> 09:09] Just to be clear, though, the practical power the new Pan-Hellenian league would wield would
+[09:09 --> 09:15] be none, as Hadrian had no intention of relinquishing any imperial prerogatives.
+[09:15 --> 09:19] Hadrian hoped a unified community of Greeks would nonetheless contribute to the future
+[09:19 --> 09:21] stability of the empire.
+[09:21 --> 09:25] Despite his hopes, though, the league collapsed after his death.
+[09:25 --> 09:29] Without the emperor's active attention, the Greeks fell back to their old ways and did
+[09:29 --> 09:36] what Greeks do best, squabbling with each other until the league was left an irrelevant shell.
+[09:36 --> 09:41] In 129, the emperor sailed from Athens to Anatolia, and from there he traveled down
+[09:41 --> 09:45] into the eastern provinces, where he called together, presumably in Antioch, though I
+[09:45 --> 09:50] haven't been able to confirm that little detail, the collection of client kings who served
+[09:50 --> 09:55] as the buffer between the empire proper and the barbarian lands beyond the frontier of
+[09:55 --> 09:57] civilization.
+[09:57 --> 10:01] For the hawkish senate, the summit was a complete embarrassment, as it shoved in their faces
+[10:01 --> 10:06] once again Hadrian's policy of purchasing peace rather than fighting for it, as had
+[10:06 --> 10:09] always been the Roman way.
+[10:09 --> 10:14] Client kings were client kings because they were paid by the emperor to stay client kings.
+[10:14 --> 10:19] The crass financial nature of the relationship offended the senate, but Hadrian paid them
+[10:19 --> 10:24] no mind, boasting about the fact that he had won more by doing nothing than others had
+[10:24 --> 10:27] by waging war.
+[10:27 --> 10:32] Hadrian then traveled south to Egypt in 130, but along the way he stopped off at the ruins
+[10:32 --> 10:37] of Jerusalem to take care of some unfinished business.
+[10:37 --> 10:40] The province had been heavily depopulated during the various Jewish revolts.
+[10:40 --> 10:44] Its great cities had been destroyed, the Temple of Solomon had burned to the ground, and the
+[10:44 --> 10:49] political authority of the Jewish high priests a thing of the past.
+[10:49 --> 10:54] Hadrian decided to bring the troubled region back to life by annihilating the last vestiges
+[10:54 --> 10:59] of Judaism and rebranding the old province as a Hellenistic colony of the Greco-Roman
+[10:59 --> 11:01] world.
+[11:01 --> 11:07] He ordered the devastated Jerusalem rebuilt, renaming the city Aelia Capitolina, the Aelia
+[11:07 --> 11:11] part coming from Hadrian's own name, and the Capitolina part signaling that the city
+[11:11 --> 11:14] was dedicated in the name of Jupiter.
+[11:14 --> 11:19] Hadrian then ordered a temple be built on the site of the old Jewish temple, and a front
+[11:19 --> 11:23] that on its own may have been enough to spark another revolt, but coupled with the emperor's
+[11:23 --> 11:28] new ban on circumcision, was simply the straw that broke the camel's back.
+[11:28 --> 11:33] In just two years time, revolt in Judea would once again be headline news, and no fewer
+[11:33 --> 11:41] than twelve legions would be needed to prosecute and win the third Jewish war.
+[11:41 --> 11:44] Hadrian was blithely unaware of the train wreck he was setting in motion though, and
+[11:44 --> 11:48] no doubt pleased with how nice and Greek he had left the region.
+[11:48 --> 11:52] He traveled south to Egypt, where he planned to indulge in every tourist trap the ancient
+[11:52 --> 11:54] kingdom had to offer.
+[11:54 --> 11:58] It is the emperor's trip up the Nile that finally brings us to the relationship that
+[11:58 --> 12:03] had dominated Hadrian's personal life the past five years, his long standing affair
+[12:03 --> 12:07] with the teenage boy Antinous.
+[12:07 --> 12:12] Now homosexuality as a psychological identity was still two thousand years or so from being
+[12:12 --> 12:17] created, and in the classical world, gender roles and sex were not nearly as defined as
+[12:17 --> 12:22] they are today, so it is hard to come right out and say that Hadrian was gay or that that
+[12:22 --> 12:24] made him unique among Roman emperors.
+[12:24 --> 12:29] Gibbon, for example, famously commented that Claudius was the only emperor whose taste
+[12:29 --> 12:33] in love was quote, entirely correct.
+[12:33 --> 12:37] In the ancient world, the line of appropriateness came down to whether one was the dominant
+[12:37 --> 12:42] or passive partner, the former being all well and good, while the latter was seen as a mark
+[12:42 --> 12:48] of great shame, and as with the case of Julius Caesar and Octavian both, the source of frequent
+[12:48 --> 12:50] political jabs.
+[12:50 --> 12:55] That all being said, though, there were certain mores concerning homosexual interactions that
+[12:55 --> 13:00] it seems Hadrian, as in everything else he did with his life, flouted with impunity.
+[13:00 --> 13:05] His choice of partners, his complete abandonment of women, and above all, his willingness to
+[13:05 --> 13:13] do everything out in the open, bothered the permissive, but subtly so, Roman aristocracy.
+[13:13 --> 13:17] And this brings us to Antinous, the boy from Bithynia.
+[13:17 --> 13:21] How the emperor and the young man met is a matter of historical speculation, but however
+[13:21 --> 13:27] he became attached to the imperial entourage, be it at Hadrian's specific request or through
+[13:27 --> 13:31] some more general order by the emperor to bring all the most beautiful youth to his
+[13:31 --> 13:37] court, by 125, the 48-year-old Hadrian and the 14-year-old Antinous were likely living
+[13:37 --> 13:41] together openly in Hadrian's Italian villa.
+[13:41 --> 13:47] The age difference is shocking to modern sensibilities, but in a world where teenage girls were routinely
+[13:47 --> 13:52] married to middle-aged men, the gap was not a serious impediment to their relationship.
+[13:52 --> 13:58] Plus, one of those unstated mores regarding homosexual behavior was that a young man could
+[13:58 --> 14:03] indulge in a sort of exploratory bisexual period that was often guided by an older man
+[14:03 --> 14:05] during his teen years.
+[14:05 --> 14:09] So while the relationship between Hadrian and Antinous was something of a scandal, those
+[14:09 --> 14:14] exploratory years were supposed to be handled with all due discretion by the older partner.
+[14:14 --> 14:19] The emperor himself felt no significant pressure to end the relationship.
+[14:19 --> 14:23] Besides, by all accounts, this was no fling for Hadrian.
+[14:23 --> 14:27] He appears to have been genuinely in love.
+[14:27 --> 14:31] Antinous had been born in 111 in Bithynia and was, by all accounts, a beautiful young
+[14:31 --> 14:33] man.
+[14:33 --> 14:38] It is supposed that sometime around 124, Antinous was enrolled in the imperial page program
+[14:38 --> 14:44] that trained young men for service as valets, secretaries, couriers, and whatever else the
+[14:44 --> 14:46] emperor required.
+[14:46 --> 14:49] It is also supposed that it was around the time Hadrian returned from his first tour
+[14:49 --> 14:55] of the empire in 125 that Antinous officially joined the imperial entourage.
+[14:55 --> 15:00] Moving into the emperor's villa, Antinous quickly became the emperor's constant companion
+[15:00 --> 15:06] and for the next five years, wherever Hadrian went, so went Antinous.
+[15:06 --> 15:09] For all the happiness they shared, though, the couple was headed for a tragedy that we
+[15:09 --> 15:13] are still at a loss to explain today.
+[15:13 --> 15:18] In 130, as I said, the imperial court moved south into Egypt where Hadrian intended to
+[15:18 --> 15:22] bask in the glow of the most ancient kingdom of the known world.
+[15:22 --> 15:27] They took in the pyramids and the Sphinx and visited the tomb of Alexander the Great.
+[15:27 --> 15:31] Then they boarded a grand flotilla that headed up the Nile to the ancient Egyptian capital
+[15:31 --> 15:35] of Memphis and beyond.
+[15:35 --> 15:40] In October of 130, the flotilla stopped off at Hermopolis to visit an old temple dedicated
+[15:40 --> 15:45] by Ramses II, and it was while in port there that the drowned body of Antinous washed up
+[15:45 --> 15:47] on the banks.
+[15:47 --> 15:51] Hadrian was crushed.
+[15:51 --> 15:55] Like I said, no one knows for sure what happened, and I am certainly not going to push some
+[15:55 --> 15:58] version or another with certainty.
+[15:58 --> 16:01] Most of the ancient sources report that it was simply an accident while Antinous was
+[16:01 --> 16:03] off on a swim.
+[16:03 --> 16:08] But others suppose that Antinous committed suicide either because he knew that the aged
+[16:08 --> 16:12] emperor would soon grow tired of him, or perhaps worse yet, that the emperor would
+[16:12 --> 16:17] not grow tired of him, and Antinous would be trapped in a shameful pseudo-marriage he
+[16:17 --> 16:19] could not control.
+[16:19 --> 16:24] Still others state that Antinous was sacrificed according to the mystical advice of Egyptian
+[16:24 --> 16:30] holy men who told the emperor he could achieve long life if another died in his place.
+[16:30 --> 16:35] In this last telling, some have it that Antinous willingly gave himself up, some that Hadrian's
+[16:35 --> 16:40] agents killed the boy in his name but without his knowledge, and others that Hadrian ordered
+[16:40 --> 16:44] up the murder himself.
+[16:44 --> 16:45] What are we to make of this jumble?
+[16:45 --> 16:50] Honestly, I don't think anyone knows, but the emperor's reaction to the news seems to
+[16:50 --> 16:57] belie that he was anywhere near growing tired of the boy, or that he ordered Antinous killed.
+[16:57 --> 17:01] Because while in mourning, Hadrian founded a city in Antinous's honor at the site where
+[17:01 --> 17:02] he died.
+[17:03 --> 17:08] Further, the various astrologers and mystics the emperor often kept hanging around assured
+[17:08 --> 17:13] the emperor that the new star in the sky he had detected was indeed Antinous, and Hadrian
+[17:13 --> 17:17] declared that the boy had attained true godhood and a new cult would be created to worship
+[17:17 --> 17:18] him.
+[17:18 --> 17:23] In fact, as it stands, Antinous is one of the most well-known faces of the ancient world
+[17:23 --> 17:29] due to the proliferation of statues and monuments Hadrian erected in his honor across the empire.
+[17:30 --> 17:35] Eventually, Hadrian's sadness was overtaken by pressing business, but the cult of Antinous
+[17:35 --> 17:41] spread across the east as local municipalities of every size quickly recognized that an easy
+[17:41 --> 17:45] way to curry favor with the emperor was to direct a few dollars to the worship of his
+[17:45 --> 17:47] dead lover.
+[17:47 --> 17:51] For a while, the cult of the now idealized vision of youthful beauty that Antinous came
+[17:51 --> 17:59] to represent competed head to head with the emerging cult of Jesus Christ for adherence.
+[17:59 --> 18:03] Back in Rome, the news of Antinous' death was accompanied by the news that Hadrian
+[18:03 --> 18:06] had ordered the boy deified.
+[18:06 --> 18:10] The Senate was taken aback by what they considered to be a double insult.
+[18:10 --> 18:15] First, there was the fact that a non-imperial family member was being deified.
+[18:15 --> 18:21] Mothers, sisters, fathers, sons, they were all welcome in the cult of the Caesars, but
+[18:21 --> 18:26] a 19-year-old boy with no legal or familial connection to the emperor, who was by all
+[18:26 --> 18:30] accounts simply Hadrian's lover?
+[18:30 --> 18:34] People knew Caligula had really gone round the bend when he threatened to make his horse
+[18:34 --> 18:35] a consul.
+[18:35 --> 18:38] Was this really so different?
+[18:38 --> 18:42] Perhaps the more pressing concern for the Senate, though, was that Hadrian, in his grief,
+[18:42 --> 18:45] had bypassed them completely.
+[18:45 --> 18:49] Emperors who wanted to stand the good side of the aristocracy asked the Senate's permission
+[18:49 --> 18:51] to deify dead relatives.
+[18:51 --> 18:54] It was just good manners.
+[18:54 --> 18:58] The last emperor to simply declare someone's divinity was Domitian, very early on in his
+[18:58 --> 19:00] reign.
+[19:00 --> 19:05] Not that he really cared much right at that moment, but by deifying Antinous, Hadrian
+[19:05 --> 19:10] suddenly found himself being compared not to Augustus and Trajan, but to Caligula and
+[19:10 --> 19:12] Domitian.
+[19:12 --> 19:17] So like I said, Hadrian never would get the aristocracy on his side, and when it came
+[19:17 --> 19:23] time for Antoninus to deify Hadrian after the emperor's death in 137, well, that became
+[19:23 --> 19:25] something of a protracted struggle.
+[19:25 --> 19:30] Antoninus finally threatened to resign, forcing the Senate to deify his adoptive father or
+[19:30 --> 19:35] face the prospect of civil war.
+[19:35 --> 19:39] After laying the foundations of the new city of Antinuopolis, Hadrian made his way back
+[19:39 --> 19:45] down the Nile to Alexandria and from there seems to have headed for Greece.
+[19:45 --> 19:49] We don't know whether he returned to Italy at all in the meantime, but Hadrian was definitely
+[19:49 --> 19:55] in Athens in 132 when news came that a violent revolt had broken out in Judea.
+[19:55 --> 20:00] The reason why a rebellion broke out at that precise moment is still unknown, but in general,
+[20:00 --> 20:04] the Jews had been in a state of apoplexy since Hadrian had wandered through their homeland,
+[20:04 --> 20:10] all but outlawed their religion, and then rebuilt Jerusalem as some pagan colony.
+[20:10 --> 20:16] So the fact that an uprising began at all was one of those when, not ifs.
+[20:16 --> 20:20] One thing we do know is that the revolt was not spontaneous.
+[20:20 --> 20:24] It was a carefully planned affair that had probably been in the making from the moment
+[20:24 --> 20:28] Hadrian departed Judea for Egypt.
+[20:28 --> 20:32] In addition to the network of caves and tunnels the Jewish fighters constructed to offer safe
+[20:32 --> 20:37] harbor in what was sure to be a guerrilla campaign, the Jewish leadership also hit upon
+[20:37 --> 20:42] a neat trick to help them secretly stockpile weapons.
+[20:42 --> 20:47] Having Hadrian's exceedingly high standards for military equipment, local Jewish craftsmen
+[20:47 --> 20:51] sent in deliberately shoddy weapons to the local Roman garrisons.
+[20:51 --> 20:55] When the equipment was predictably returned as substandard, it was picked out of the rubbish
+[20:55 --> 20:59] bin and reworked for use by the Jewish rebels.
+[20:59 --> 21:04] When the revolt finally did break out, Roman commanders were shocked at how well the Jews
+[21:04 --> 21:06] were armed.
+[21:06 --> 21:12] In 132, prepared as they were ever going to be, the Jewish leader Simon Bar-Kakba announced
+[21:12 --> 21:16] that he was the messiah Jewish prophecy had long promised and that he was going to drive
+[21:16 --> 21:21] the pagans out of Judea and restore the independent kingdom of Israel.
+[21:21 --> 21:26] At first, the lunatic ravings of yet another Jewish messiah struck the local Roman administrator
+[21:26 --> 21:33] Tinius Rufus as beneath his time and attention, but it soon became clear that Simon was leading
+[21:33 --> 21:37] a well-armed and politically unified insurrection force.
+[21:37 --> 21:42] The two legions at Rufus' disposal sustained heavy damage from the quick and mobile Jewish
+[21:42 --> 21:47] guerrillas, and reinforcements had to be sent in from Syria and Egypt.
+[21:47 --> 21:51] But the ineffectiveness of the new arrivals only bolstered Jewish confidence and the legion
+[21:51 --> 21:57] from Egypt appears to have been completely wiped out sometime in 133.
+[21:57 --> 22:02] By this point, the whole province was in revolt and the regular Jewish fighters found plenty
+[22:02 --> 22:07] of housing and supplies from non-combatant sympathizers across the country.
+[22:07 --> 22:11] Simon then declared independence for the new state of Israel, and with the Romans reeling
+[22:11 --> 22:15] from the unexpected force of the rebellion, the Jewish leadership found themselves in
+[22:15 --> 22:19] effective control of much of the province.
+[22:19 --> 22:26] Coins and edicts were issued, marking 132 as year one of a new Jewish state.
+[22:26 --> 22:30] But Hadrian was not going to stand by and watch a Roman province simply shrug off their
+[22:30 --> 22:32] imperial masters.
+[22:32 --> 22:37] He may have been a skeptic of the efficacy of war when it came to external threats, but
+[22:37 --> 22:40] internal threats were something else entirely.
+[22:40 --> 22:45] He ordered his best general, Sextus Julius Severus, to leave his post in Britain and
+[22:45 --> 22:49] make with all haste for Judea, and pick up as many troops as he felt necessary along
+[22:49 --> 22:52] the way.
+[22:52 --> 23:00] Hadrian and Severus' plan was simple, methodically use overwhelming force to crush the insurrection.
+[23:00 --> 23:04] It took plenty of time, money, and men to slowly grind out victory in Judea, but in
+[23:04 --> 23:08] 135 victory did come.
+[23:08 --> 23:13] It is reported that no fewer than 12 legions took part in the action that saw the Romans
+[23:13 --> 23:18] destroy 50 fortified towns and almost a thousand separate villages.
+[23:18 --> 23:22] In addition to the heavy Roman casualties, almost 600,000 Jews were killed during the
+[23:22 --> 23:25] retaking of Judea.
+[23:25 --> 23:30] Severus finally strangled off Simon in the last holdouts in 135, and the legions declared
+[23:30 --> 23:33] victory.
+[23:33 --> 23:38] The devastation and depopulation that accompanied this last Jewish war, a war many scholars
+[23:38 --> 23:43] mark as the true beginning of the diaspora, reminds one of Tacitus' famous line, which
+[23:43 --> 23:48] the historian attributed to a British chieftain, that the Romans make a desert and they call
+[23:48 --> 23:52] it peace.
+[23:52 --> 23:56] Surveying this desert, Hadrian decided to double down on his plan to eradicate the Jews
+[23:56 --> 24:01] and leave in their place a Hellenized population of Greco-Romans.
+[24:01 --> 24:06] Hadrian's post-war policy then was nothing less than cultural genocide.
+[24:06 --> 24:11] He banned the Jews from entering Jerusalem, still called Aelia capitalina, continued his
+[24:11 --> 24:17] ban on circumcision, outlawed the Hebrew calendar, and prohibited the use of Torah law.
+[24:17 --> 24:23] The sacred scroll was carried up to the Temple Mount and burned, and for years afterward Jewish
+[24:23 --> 24:28] scholars were executed for perpetuating their outlawed religion.
+[24:28 --> 24:32] As a final reminder that in Hadrian's eyes, Judaism was dead, the emperor renamed the
+[24:32 --> 24:39] province Syria-Palestinia after the Philistines, the ancient enemy of the Jews.
+[24:39 --> 24:43] It is hard to understate the effect all of this had on the future of Judaism.
+[24:43 --> 24:50] From 135 on, Judea was no longer the cultural, political, or religious center of Jewish life,
+[24:50 --> 24:54] and would not be again until well into the modern era.
+[24:54 --> 24:58] The Jewish community scattered across the Roman Empire were forced to look to an enclave
+[24:58 --> 25:03] of Babylonian Jews for guidance, safe as those leaders were within the more tolerant borders
+[25:03 --> 25:05] of the Parthian Empire.
+[25:05 --> 25:09] As I just mentioned, some scholars marked the true beginning of the diaspora at Hadrian's
+[25:09 --> 25:15] genocidal victory of 135, rather than by the tame by comparison victory of the Flavians
+[25:15 --> 25:17] in 70.
+[25:17 --> 25:21] For having ordered the death and enslavement of their race, and the eradication of their
+[25:21 --> 25:26] religion, Hadrian is uniquely despised within Jewish histories, who always follow the emperor's
+[25:26 --> 25:32] name with the epitaph, may his bones be crushed.
+[25:32 --> 25:38] Next week, Hadrian will return to Italy, where he will spend the last years of his life decaying
+[25:38 --> 25:41] into a bitter, agonized mess.
+[25:41 --> 25:45] Just as his ascension to power had been marked by political murder, so too would his release
+[25:45 --> 25:47] of it.
+[25:47 --> 25:52] These violent bookends to the emperor's career were all the proof the Senate needed to become
+[25:52 --> 25:58] convinced that despite all of his avowed pacifism, generosity, wisdom, and benevolence, that
+[25:58 --> 26:03] Hadrian was at his core a paranoid psychotic who would kill them all if given half a chance.

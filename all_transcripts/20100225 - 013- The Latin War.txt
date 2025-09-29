@@ -1,0 +1,302 @@
+# 20100225 - 013- The Latin War
+# Detected language: en
+# Duration: 852.19 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:06] Hello, and welcome to the History of Rome.
+[00:08 --> 00:11] The outcome of the First Samnite War had been inconclusive.
+[00:12 --> 00:16] Yes, the Romans had gotten the better of it in battle, but nothing resembling a definitive
+[00:16 --> 00:17] conclusion was reached.
+[00:18 --> 00:22] The Samnites seemed content to consolidate their gains and not press the issue, and
+[00:22 --> 00:25] the Romans were disinclined to take the fight to the next level.
+[00:26 --> 00:29] They had done right by their allies and driven the Samnites out of Campania.
+[00:30 --> 00:35] They had no interest for now in invading Samnium and trying to conquer a strong-willed, capable,
+[00:36 --> 00:37] and well-supplied army.
+[00:37 --> 00:42] Plus, the winds of discontent were blowing in from Latium, and the Romans knew full
+[00:42 --> 00:45] well that if they got entangled with the Samnites, the Latin communities would
+[00:45 --> 00:48] be in a strong position to leverage concessions from the Romans.
+[00:49 --> 00:52] So a treaty of peace was concluded between the Romans and Samnites.
+[00:53 --> 00:57] The Latins saw this as a tacit admission of weakness and, seeking a more personally
+[00:57 --> 01:01] beneficial arrangement with the Romans, decided to strike while the iron was hot.
+[01:02 --> 01:07] But before any sort of conflict with the Latins were joined, a further step was
+[01:07 --> 01:11] taken in the Poblian, thanks to John for correcting my pronunciation, quest
+[01:11 --> 01:12] for a greater share in power.
+[01:13 --> 01:18] In 342 BC, not long after the mutiny of the garrison soldiers in Campania, the
+[01:19 --> 01:22] The Pliebs pushed through another set of reforms that solidified their power.
+[01:23 --> 01:26] The package included the important provision that one of the consuls for
+[01:26 --> 01:30] each year not just could be a Plieb, but had to be a Plieb.
+[01:31 --> 01:35] But more importantly, it set the well-known and off-sided requirement that
+[01:35 --> 01:38] ten years must pass before a man could hold the same office twice.
+[01:39 --> 01:43] The move was designed, obviously, to prevent one man from gaining too much
+[01:43 --> 01:47] power, but at times the cure was worse than the disease, especially, for
+[01:47 --> 01:51] For example, during the Second Punic War, when it became nearly impossible to run
+[01:51 --> 01:53] the war when the leadership kept changing.
+[01:54 --> 01:58] So though the ten-year requirement was followed and disregarded according to
+[01:58 --> 02:02] circumstance, it did set a cultural precedent strong enough that when,
+[02:02 --> 02:07] between 104 and 100 BC, Gaius Marius was elected consul five times in a row,
+[02:08 --> 02:11] it was a scandal that engendered enough ill will that the social fabric
+[02:11 --> 02:13] of the state began to unravel.
+[02:14 --> 02:17] But that is for a much later date, probably sometime early next year at
+[02:17 --> 02:18] the pace we're going.
+[02:19 --> 02:22] When the Romans withdrew from fighting the Samnites,
+[02:22 --> 02:25] the Companions and Latins both wanted to carry on with the fight.
+[02:26 --> 02:29] As I mentioned last week, the Samnites implored the Romans to put a stop to
+[02:29 --> 02:33] the aggression, but the Romans refused to order the Latins to do anything one
+[02:33 --> 02:34] way or the other.
+[02:35 --> 02:38] The Latins immediately took this to mean that if Rome did not feel strong
+[02:38 --> 02:42] enough to enforce its will, politics being the zero-sum game that it is,
+[02:43 --> 02:46] then that meant the Latins must be stronger than their supposed masters.
+[02:47 --> 02:49] They resolved to use this to their advantage.
+[02:51 --> 02:54] A delegation representing the Latin League was sent to Rome to demand
+[02:54 --> 02:55] a political reordering.
+[02:56 --> 03:00] Up to this point, the Latins had enjoyed varying degrees of Roman citizenship,
+[03:00 --> 03:04] usually trade and intermarriage rights, stopping short of full suffrage.
+[03:05 --> 03:08] The delegation asked of the Romans not just full suffrage, but
+[03:08 --> 03:12] also audaciously demanded that one of the two yearly consuls come from
+[03:12 --> 03:13] the Latin communities.
+[03:14 --> 03:18] The Romans were shocked and practically laughed the delegation out of the Senate.
+[03:19 --> 03:22] No Roman was going to submit himself to the rule of a mere Latin.
+[03:23 --> 03:26] The plebes had just guaranteed their own consulship and
+[03:26 --> 03:29] weren't about to give it up, while the patricians had just given up one of
+[03:29 --> 03:32] their consulships and weren't about to let go of the other.
+[03:33 --> 03:36] On the question of a Latin consul, the two classes were united.
+[03:37 --> 03:41] The Senate's, and I'm paraphrasing here, answer to the Latin delegation
+[03:41 --> 03:44] was, no, no, there will be no political reordering.
+[03:45 --> 03:47] We like things just the way they are, thank you very much.
+[03:48 --> 03:52] Do you not remember that we wiped the floor with you at Lake Regilis, and
+[03:52 --> 03:53] that's why things are the way they are?
+[03:54 --> 03:58] If you really want what you're asking for, then come take it, if you can't.
+[03:59 --> 04:02] The Senate then immediately voted for war to teach the impertinent
+[04:02 --> 04:03] Latins a lesson.
+[04:04 --> 04:08] Legions were raised and sent out to meet the Latin force that had been
+[04:08 --> 04:11] passing in anticipation of the Senate's rejection of Latin demands.
+[04:12 --> 04:16] The consuls for that year were Titus Manlius Torquatus and
+[04:16 --> 04:20] our old friend and hero of the First Samnite War, Publius Decius,
+[04:20 --> 04:21] he of the grass crown.
+[04:22 --> 04:27] On a brief tangent, the Romans dated the past by reference to the consuls
+[04:27 --> 04:30] for a given year, rather than by an arbitrary numbering system.
+[04:31 --> 04:34] So that, for example, last week's battles with the Samnites
+[04:34 --> 04:37] were said to have taken place in the consulship of Corvus and
+[04:37 --> 04:43] Cossus, rather than in, say, 167, dating from the founding of the republic,
+[04:43 --> 04:46] or 409, dating from the founding of the city.
+[04:46 --> 04:50] It seems a bit unwieldy to us, but the Romans liked it just fine.
+[04:51 --> 04:54] Down the road, the system of reference would lead to the Roman joke
+[04:54 --> 04:58] that events occurring in the year of Julius Caesar's consulship, 59 BC,
+[04:59 --> 05:01] took place not in the consulship of Caesar and
+[05:02 --> 05:04] but in the consulship of Julius and Caesar.
+[05:05 --> 05:05] Get it?
+[05:06 --> 05:08] The Romans could be a laugh riot when the mood struck.
+[05:09 --> 05:12] Anyway, in the consulship of Decius and Manlius,
+[05:12 --> 05:16] 340 BC by our reckoning, war with the Latins began.
+[05:17 --> 05:19] In the beginning, the outcome was very much in doubt.
+[05:20 --> 05:23] It had been years since the Romans had fought an enemy that so
+[05:23 --> 05:24] evenly matched them.
+[05:24 --> 05:26] It was almost like facing a mirror.
+[05:27 --> 05:30] The Romans and Latin forces were nearly identical in size.
+[05:30 --> 05:33] They used all the same tactics, spoke the same language,
+[05:33 --> 05:36] prayed to the same gods, and in most cases,
+[05:36 --> 05:37] knew each other personally.
+[05:38 --> 05:40] There would not be any surprises or innovative tactics,
+[05:41 --> 05:44] just a standard straight ahead infantry battle and victory
+[05:44 --> 05:46] to the strongest or luckiest.
+[05:47 --> 05:49] Both sides knew it, and new heavy casualties
+[05:49 --> 05:52] loomed as force pitted itself against force.
+[05:54 --> 05:55] Two legends emerged from the war,
+[05:56 --> 05:58] one revealing how the Romans were able to win
+[05:58 --> 06:00] a fight that seemed destined to produce a draw,
+[06:01 --> 06:04] the second hammering home the idea that obeying consular
+[06:04 --> 06:06] authority is paramount and the only way
+[06:06 --> 06:09] to maintain the critical discipline required for Rome
+[06:09 --> 06:10] to defeat its enemies.
+[06:12 --> 06:14] The first legend states that after the legions had built
+[06:14 --> 06:16] their camp near the Latin force
+[06:16 --> 06:17] and settled in for the night,
+[06:18 --> 06:19] both consuls had the same dream.
+[06:20 --> 06:23] In it, an apparition revealed that in the coming battle,
+[06:23 --> 06:26] the victorious side would sacrifice its commander,
+[06:26 --> 06:29] while the losing side would sacrifice its whole army.
+[06:30 --> 06:32] When they awoke, the two conferred and realized
+[06:32 --> 06:33] that they had had the same dream.
+[06:34 --> 06:37] They made a pact that each would lead one flank
+[06:37 --> 06:40] of the army, and whichever side began to fail first,
+[06:40 --> 06:43] that consul would charge into the enemy and seek death
+[06:43 --> 06:46] so the gods would grant their whole army victory.
+[06:47 --> 06:50] The second legend states that the consul Manlius
+[06:50 --> 06:52] had given orders to his troops that no one should
+[06:52 --> 06:55] engage the Latins until he had given the okay.
+[06:55 --> 06:58] He wanted the battle to start at the time and place
+[06:58 --> 07:00] of his choosing and didn't want reckless brawling
+[07:00 --> 07:03] to spark a battle he wasn't prepared for.
+[07:04 --> 07:06] Manlius's son Titus, however, disobeyed the order
+[07:06 --> 07:09] while leading a cavalry detachment on patrol.
+[07:10 --> 07:12] They encountered a group of Latins and Titus
+[07:12 --> 07:14] was challenged to single combat by one of them.
+[07:15 --> 07:17] Titus demurred, understanding his orders,
+[07:17 --> 07:19] but the Latins called him a coward
+[07:19 --> 07:21] and all sorts of other nasty names.
+[07:22 --> 07:24] His hackles raised, Titus accepted
+[07:24 --> 07:26] and proceeded to kill his challenger.
+[07:26 --> 07:29] Returning to camp with the spoils taken from his dead enemy,
+[07:29 --> 07:32] Titus was greeted by cheers, but the festive atmosphere
+[07:32 --> 07:35] died under the withering stare of his father
+[07:35 --> 07:36] who ordered his son arrested.
+[07:38 --> 07:40] Manlius gave a brief speech in which he defended
+[07:40 --> 07:41] what he was about to do.
+[07:42 --> 07:44] His family, he said, would be torn apart
+[07:44 --> 07:46] by the punishment he was about to hand down,
+[07:47 --> 07:49] but that was far better than having the entire state
+[07:49 --> 07:52] torn apart by disobedience to consular authority.
+[07:53 --> 07:56] Then, without compassion and to the horror of his men,
+[07:57 --> 08:00] Manlius ordered his own son flogged and beheaded.
+[08:01 --> 08:03] Titus was given a hero's burial
+[08:03 --> 08:05] and the army, from that point on,
+[08:05 --> 08:07] hated their commander, but it was,
+[08:07 --> 08:09] to Manlius's credit, a far more disciplined
+[08:09 --> 08:11] and professional army that was doing the hating
+[08:11 --> 08:12] than before.
+[08:14 --> 08:16] There is nothing new about either of these legends
+[08:16 --> 08:18] and they are both retreads of previous stories.
+[08:19 --> 08:21] Those of you who know Greek history
+[08:21 --> 08:23] will recognize the familiar elements
+[08:23 --> 08:26] of King Leonidas's vision that Sparta must either lose
+[08:26 --> 08:29] a king or its freedom to the Persians,
+[08:29 --> 08:31] which led him to make his suicidal last stand
+[08:31 --> 08:33] at Thermopylae to save his city.
+[08:34 --> 08:36] And those of you who have followed this podcast
+[08:36 --> 08:38] will know that Manlius's decision to execute
+[08:38 --> 08:41] his own son follows closely the story
+[08:41 --> 08:43] of the consul Brutus and his treasonous sons
+[08:43 --> 08:44] from the early days of the Republic.
+[08:46 --> 08:48] Roman analysts were enamored with the idea
+[08:48 --> 08:50] that Romans of the past displayed a dedication
+[08:50 --> 08:52] to the state that had fallen out of fashion
+[08:52 --> 08:54] and needed to be rekindled.
+[08:54 --> 08:56] To the later Romans, just as it is today
+[08:56 --> 08:58] and in most other times and places,
+[08:58 --> 09:01] the past became bathed in the golden light
+[09:01 --> 09:03] of simple nobility and selfless virtue,
+[09:03 --> 09:05] whether or not any such thing was true.
+[09:07 --> 09:10] Legends aside, there was a battle
+[09:10 --> 09:13] and it did take place near the base of Mount Vesuvius.
+[09:13 --> 09:15] Yes, that Mount Vesuvius.
+[09:15 --> 09:17] The Latins and Romans lined up for battle
+[09:17 --> 09:19] and the fight was joined,
+[09:19 --> 09:20] with Decius leading the left flank
+[09:20 --> 09:22] and Manlius leading the right.
+[09:23 --> 09:25] The fighting was intense and evenly matched,
+[09:25 --> 09:27] but soon the Roman left began to buckle
+[09:27 --> 09:29] under the weight of the Latin advance.
+[09:30 --> 09:32] Supposedly, Decius, knowing what he must do,
+[09:33 --> 09:35] donned a ceremonial purple-tinged toga
+[09:35 --> 09:37] and veiled his face.
+[09:37 --> 09:40] Then, fully armed, he mounted his horse
+[09:40 --> 09:41] and charged into the opposing line.
+[09:43 --> 09:44] The Latins were at first terrified
+[09:44 --> 09:47] at the appearance of this mad masked horseman,
+[09:47 --> 09:50] and Decius killed not an insignificant number
+[09:50 --> 09:54] before he was finally taken down by a shower of spears.
+[09:55 --> 09:57] Manlius, watching his colleague fall,
+[09:57 --> 09:59] knew that victory was within his grasp.
+[10:00 --> 10:02] He held back a reserve of veteran soldiers
+[10:02 --> 10:04] and when the Latins were worn down,
+[10:05 --> 10:07] Manlius sent in the fresh troops and the Latins broke.
+[10:08 --> 10:10] Returning to Rome, it is said that Manlius
+[10:10 --> 10:12] was greeted with acclaim by the older men,
+[10:13 --> 10:14] but shunned by the young,
+[10:14 --> 10:16] who hated him for executing Titus,
+[10:16 --> 10:18] a well-liked young noble.
+[10:19 --> 10:21] And whether it was Decius's sacrifice
+[10:21 --> 10:24] or Manlius's tactics, the Latins were beaten.
+[10:26 --> 10:27] Over the course of the next year and a half,
+[10:28 --> 10:30] the Romans pursued a policy of laying siege
+[10:30 --> 10:32] to each of the Latin cities one by one,
+[10:32 --> 10:34] dividing them so none could offer aid
+[10:34 --> 10:35] to any of the others.
+[10:36 --> 10:37] It was during this stage of the war
+[10:37 --> 10:40] that the Samnites provided auxiliary forces
+[10:40 --> 10:41] to the Roman effort,
+[10:41 --> 10:44] joining the two enemies briefly under the same banner.
+[10:44 --> 10:46] It was in both of their interests
+[10:46 --> 10:47] to put down the rising Latins
+[10:47 --> 10:49] before the Roman Samnite battle
+[10:49 --> 10:51] for Italian supremacy really got going.
+[10:52 --> 10:55] No sense in having some third-party wild card in the mix.
+[10:55 --> 10:56] They both agreed on that.
+[10:58 --> 10:59] Some of the Latin cities surrendered
+[10:59 --> 11:01] at the sight of the Roman army.
+[11:01 --> 11:03] Some resisted a little and then gave up
+[11:03 --> 11:05] and some fought to the bitter end.
+[11:05 --> 11:08] When it was over, Rome had subdued the entirety of Latium.
+[11:09 --> 11:12] At this point, the Latin League was abolished once and for all
+[11:12 --> 11:15] and any independent Latin identity was destroyed forever.
+[11:16 --> 11:18] In the aftermath, the Senate gathered
+[11:18 --> 11:20] and decided the fate of each Latin tribe
+[11:20 --> 11:22] on a case-by-case basis.
+[11:23 --> 11:26] Those who gave up quickly or never joined the rebellion
+[11:26 --> 11:27] were given full Roman citizenship.
+[11:28 --> 11:30] Those who resisted some
+[11:30 --> 11:32] were allowed to keep intermarriage and trade rights,
+[11:32 --> 11:33] but denied the vote,
+[11:34 --> 11:35] while those who led the revolt
+[11:35 --> 11:37] were turned off their land
+[11:37 --> 11:39] and their holdings were colonized by Roman citizens.
+[11:41 --> 11:42] This treatment of the Latins
+[11:42 --> 11:44] was typical of Roman official policy.
+[11:45 --> 11:47] Anyone who was predisposed to friendship
+[11:47 --> 11:49] and did not resist Roman rule
+[11:49 --> 11:51] was welcomed openly into the empire
+[11:51 --> 11:53] and given an array of rights and privileges,
+[11:54 --> 11:56] while those predisposed to hostility and resistance
+[11:56 --> 11:57] were simply wiped off the map.
+[11:58 --> 12:01] Most nations and tribes fell into the former camp
+[12:01 --> 12:03] and found themselves well treated
+[12:03 --> 12:04] by their new Roman overlords.
+[12:05 --> 12:07] It was this policy of generosity
+[12:07 --> 12:08] that secured the longevity
+[12:08 --> 12:10] of the ethnically diverse empire,
+[12:11 --> 12:13] that and the ruthless extermination
+[12:13 --> 12:15] of those tribes and nations who fell into the latter camp.
+[12:17 --> 12:18] The stage is now set
+[12:18 --> 12:20] for one of the most important wars in Roman history,
+[12:21 --> 12:23] the Second or Great Samnite War.
+[12:23 --> 12:25] It is comparable in historical importance
+[12:25 --> 12:27] to the Second Punic War,
+[12:27 --> 12:29] which saw the Romans defeat Carthage
+[12:29 --> 12:30] and the Macedonian Wars,
+[12:30 --> 12:32] which brought Greece under Roman control.
+[12:33 --> 12:35] In the Second Samnite War,
+[12:35 --> 12:37] the Romans, for the first time,
+[12:37 --> 12:39] set themselves on a course of conscious expansion
+[12:39 --> 12:42] with an eye on winning a far-reaching empire.
+[12:43 --> 12:44] It was a decades-long fight
+[12:44 --> 12:47] and the Romans nearly lost a number of times,
+[12:47 --> 12:48] but when it was over,
+[12:48 --> 12:51] Rome found itself in control of all Italy.
+[12:52 --> 12:54] But before we get into all that,
+[12:54 --> 12:56] I wanna pause and give a fuller account
+[12:56 --> 12:57] of the Roman legion,
+[12:57 --> 12:59] how it fought, how it operated,
+[12:59 --> 13:00] and how it was commanded.
+[13:01 --> 13:03] The Samnite Wars marked a period of transition
+[13:03 --> 13:04] for the army,
+[13:04 --> 13:06] and this is a good time to take a look
+[13:06 --> 13:08] at how the Romans had fought in the past
+[13:08 --> 13:10] and how they would fight in the future.
+[13:11 --> 13:14] The strategy and tactics and formation of the legion
+[13:14 --> 13:16] would remain in place for the next 200-odd years
+[13:16 --> 13:19] until Marius came along and reorganized it yet again.
+[13:20 --> 13:22] And I want you to have a good picture in your mind
+[13:22 --> 13:24] of what things looked like as we move forward
+[13:24 --> 13:26] because it will allow you to visualize
+[13:26 --> 13:28] the battles of the upcoming Punic Wars better
+[13:28 --> 13:30] and later to fully understand
+[13:30 --> 13:32] why the Romans were able
+[13:32 --> 13:34] to so decisively defeat the Greeks.
+[13:35 --> 13:37] So next week we will learn about the phalanx,
+[13:37 --> 13:39] its strengths and weaknesses,
+[13:39 --> 13:40] and why the Romans scrapped it
+[13:40 --> 13:42] in favor of the maniple system,
+[13:42 --> 13:45] how many men a centurion really led,
+[13:45 --> 13:47] hint the answer is not 100,
+[13:48 --> 13:50] and what the word legion actually means.
+[14:10 --> 14:12] I hope you enjoyed this video.

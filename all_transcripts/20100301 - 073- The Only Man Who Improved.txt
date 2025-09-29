@@ -1,0 +1,337 @@
+# 20100301 - 073- The Only Man Who Improved
+# Detected language: en
+# Duration: 1566.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:13] Hello, and welcome to the History of Rome, Episode 73, The Only Man Who Improved.
+[00:13 --> 00:18] At the beginning of his histories, Tacitus claims that the year 69 AD was very nearly
+[00:18 --> 00:21] the last of Rome's existence.
+[00:21 --> 00:26] While this can be easily set aside as dramatic exaggeration, there is no doubt that the last
+[00:26 --> 00:29] 18 months had taken their toll on the empire.
+[00:29 --> 00:33] The lands had been lost, property had been destroyed, and the rule of law had been thrown
+[00:33 --> 00:35] out the window.
+[00:35 --> 00:39] It would take more than a year of civil war to destroy the empire, but if things had gone
+[00:39 --> 00:44] on like they had been going since the suicide of Nero, the Romans very well could have been
+[00:44 --> 00:47] facing the end of their civilization.
+[00:47 --> 00:52] Luckily for the Romans, by the time the Senate recognized Vespasian as emperor in the last
+[00:52 --> 00:57] days of December 69 AD, the civil wars had already swept up all the legions from Spain
+[00:57 --> 01:01] to Syria, and deposited them in Italy to fight it out.
+[01:01 --> 01:05] Anyone who was in a position to make a bid for the throne had already tried, so there
+[01:05 --> 01:10] was no one left to perpetuate the cycle of ascension and deposition once Vespasian's
+[01:10 --> 01:13] forces had overthrown Vitellius.
+[01:13 --> 01:18] So things did not go on as they had, and Roman civilization survived, battered, but far from
+[01:18 --> 01:21] beaten.
+[01:21 --> 01:25] An important thing to take away from this reality is to understand that there was nothing
+[01:25 --> 01:30] special or divine or cosmic about Vespasian's rise.
+[01:30 --> 01:36] Unlike Marius or Sulla or Julius Caesar or Augustus, he did not really possess the phenomenal
+[01:36 --> 01:42] charisma or military brilliance that had allowed those men to outshine their rivals and remake
+[01:42 --> 01:43] their own world.
+[01:43 --> 01:48] He simply got into an exhausting tug of war later than the others had, and was thus able
+[01:48 --> 01:51] to outlast the last of them.
+[01:51 --> 01:56] This is not to say that he wasn't charismatic or intelligent, just that his fortuitous placement
+[01:56 --> 02:00] in the east at the beginning of the year had as much to do with his success as his own
+[02:00 --> 02:02] personality.
+[02:02 --> 02:07] But though he rode a wave of circumstance to power, essentially being in the right place
+[02:07 --> 02:12] at the right time, Rome's luck would mirror that of their new ruler.
+[02:12 --> 02:15] Vespasian turned out to be a pretty good emperor.
+[02:15 --> 02:20] In fact, his unremarkable biography up to that point prompted Tacitus to report that
+[02:20 --> 02:27] Vespasian was the only emperor in history to improve himself upon taking office.
+[02:27 --> 02:31] The first few weeks of his reign, however, did nothing to presage the moderate administration
+[02:31 --> 02:34] that he would be remembered for.
+[02:34 --> 02:39] Antonius's army had taken Rome by force, and unchecked by any higher power, the troops
+[02:39 --> 02:42] continued to run amok in the streets.
+[02:42 --> 02:46] The Praetorian Guard and the urban cohorts, who usually took the lead in maintaining law
+[02:47 --> 02:51] were all either captured out on the frontiers or dead in the field.
+[02:51 --> 02:55] So there was no one to stand up to Antonius's army, as they treated Rome as if it was a
+[02:55 --> 02:58] captured enemy city.
+[02:58 --> 03:03] On top of everything, career criminals and citizens with old scores to settle masqueraded
+[03:03 --> 03:08] as Flavian soldiers and joined in the anarchic pillaging.
+[03:08 --> 03:13] Tacitus exaggerates when he says that 50,000 people were killed in those first bloody weeks,
+[03:13 --> 03:19] but there is no denying that the death toll would have been high.
+[03:19 --> 03:25] Things began to settle down when Mucianus arrived in the first week of January 70 AD.
+[03:25 --> 03:28] Antonius had been acting this whole time on his own initiative, and though the Flavian
+[03:28 --> 03:32] high command had been smart enough to get out of the way of the man who was winning
+[03:32 --> 03:38] the war for them, that did not mean that Antonius represented Vespasian in any official or political
+[03:38 --> 03:39] sense.
+[03:40 --> 03:44] Mucianus, however, carried with him the seal of the new emperor, and was fully empowered
+[03:44 --> 03:46] to act in Vespasian's name.
+[03:46 --> 03:51] When he arrived with his armies, it was as if Vespasian himself had arrived, and Mucianus
+[03:51 --> 03:56] had both the ability and the ego to act the part.
+[03:56 --> 04:01] The first thing that needed to happen, obviously, was to get all the troops out of Rome.
+[04:01 --> 04:07] The city had been occupied for months by squatting legionaries, and the resulting chaos, death
+[04:07 --> 04:11] and property damage, had to be dealt with.
+[04:11 --> 04:16] Antonius's legions were either ordered back from whence they came, or, in a few cases,
+[04:16 --> 04:20] reassigned to the Rhine to help bolster the now-weak and garrison there.
+[04:20 --> 04:26] With order restored, Mucianus set about consolidating Vespasian's political position.
+[04:26 --> 04:31] Or, I suppose I should really say, Mucianus set about consolidating Mucianus's political
+[04:31 --> 04:35] position, and then he took care of Vespasian's business.
+[04:36 --> 04:41] He rewarded Antonius's service by offering him Galbazold proconsular position in Spain,
+[04:41 --> 04:45] quickly removing one of the two key rivals for power he needed to neutralize before he
+[04:45 --> 04:48] felt secure in his position.
+[04:48 --> 04:52] The other key rival was eighteen-year-old Domitian, the youngest son of Vespasian, who
+[04:52 --> 04:56] had spent the year of the four emperors in Rome.
+[04:56 --> 05:00] Immediately following Vitellius's death, Flavian supporters had brought the boy out
+[05:00 --> 05:05] of hiding, declared him Caesar, and paraded him around as their natural leader.
+[05:05 --> 05:09] When Mucianus arrived in the city, though, he placed a mission under his personal protection
+[05:09 --> 05:14] and promised to keep the boy safe until his father arrived to collect him.
+[05:14 --> 05:20] In other words, don't anybody get confused, I'm in charge here, not the boy.
+[05:20 --> 05:24] Then he set to work, settling Vespasian's scores.
+[05:24 --> 05:30] In all of this, the new emperor was blessed by remaining physically absent from the city.
+[05:30 --> 05:34] He could thus plausibly disavow, first the carnage wrought by Antonius's army, and
+[05:34 --> 05:37] then the purge overseen by Mucianus.
+[05:37 --> 05:42] It had taken a lot of blood to put Vespasian on the throne, but none of it actually wound
+[05:42 --> 05:44] up on his hands.
+[05:44 --> 05:50] When he finally arrived in Rome in mid to late seventy, he was greeted warmly by a population
+[05:50 --> 05:55] who praised him for all that was good, while refusing to blame him for all that was bad.
+[05:55 --> 05:59] All in all, a nice place to be.
+[05:59 --> 06:04] Now I just said that there was nothing really remarkable about Vespasian, and that he certainly
+[06:04 --> 06:09] wasn't on the level of Julius Caesar, or Augustus in terms of overall ability.
+[06:09 --> 06:14] But if there was one realm that he did excel at, it was propaganda, and the management
+[06:14 --> 06:16] of public perception.
+[06:16 --> 06:21] In this, he was every bit as savvy as the greatest of his predecessors.
+[06:21 --> 06:26] He was acutely aware of the need to legitimize his reign, and restore public respect for
+[06:26 --> 06:30] imperial authority, which was practically non-existent now after the musical chairs
+[06:30 --> 06:33] of the previous year.
+[06:33 --> 06:38] He encouraged the spread of eastern prophecies that had supposedly foretold his rise to
+[06:38 --> 06:43] power, and did nothing to dispel rumors that he had miraculously returned sight to a blind
+[06:43 --> 06:48] man and restored the withered legs of a cripple.
+[06:48 --> 06:51] Vespasian knew that he was just a man, but it was important for the people to believe
+[06:51 --> 06:55] that he was perhaps something a bit more.
+[06:55 --> 07:00] Beyond this subtle mysticism, the iconography of the coins minted during his reign, one
+[07:00 --> 07:05] of the key vehicles for massaging reality in ancient Rome, harped relentlessly on two
+[07:05 --> 07:10] themes, peace and victory.
+[07:10 --> 07:13] Vespasian is the one who brings you peace.
+[07:13 --> 07:17] Vespasian is the one who will defeat the enemies of peace.
+[07:17 --> 07:22] These powerfully simple ideas formed the bedrock of the new Flavian administration, and helped
+[07:22 --> 07:27] put the dark days of civil war in the rearview mirror.
+[07:27 --> 07:32] But Vespasian added one further wrinkle to his propaganda campaign, and it was this final
+[07:32 --> 07:36] wrinkle that really endeared him to the people.
+[07:36 --> 07:41] Though he encouraged the belief that he could heal the sick, or was an irresistible force
+[07:41 --> 07:48] destined to rule the empire, when he actually talked to the man, he was refreshingly self-deprecating.
+[07:48 --> 07:53] He knew he was not descended from some ancient line of nobility, he knew that he was an unrefined
+[07:53 --> 07:58] rustic, and he knew that he was too old to pretend to be otherwise.
+[07:58 --> 08:02] When some of his supporters presented him with a family tree that traced his ancestors
+[08:02 --> 08:07] back to one of the comrades of Hercules, Vespasian simply burst out laughing and sent them on
+[08:07 --> 08:09] their way.
+[08:09 --> 08:14] He liked to tell off-color jokes, eat simple foods, and even caused a minor scandal when
+[08:14 --> 08:18] it got out that he took his own boots off in the evening.
+[08:18 --> 08:23] Needless to say, after the sometimes waning but usually waxing megalomania of the Julio
+[08:23 --> 08:29] Claudians, Vespasian's down-home charm was a welcome change of pace.
+[08:29 --> 08:34] Of course, we know all of this because as part of his propaganda campaign, Vespasian
+[08:34 --> 08:38] also made sure to patronize the heck out of the arts and letters.
+[08:38 --> 08:42] He put teachers on the public payroll for the first time, and commissioned histories
+[08:42 --> 08:48] to be written to ensure that the Flavian version of history would become the only version taught.
+[08:48 --> 08:53] So who knows where fact and fiction diverge, but we do know that Vespasian was the first
+[08:53 --> 08:58] emperor since Augustus to die of natural causes, so it is not unreasonable to think that he
+[08:58 --> 09:02] was well regarded in his own time.
+[09:02 --> 09:06] Ironically though, as much as he sponsored scholars to write glowing histories of his
+[09:06 --> 09:11] rise to power and what he did when he got there, precious little has actually survived
+[09:11 --> 09:14] about Vespasian's time as emperor.
+[09:14 --> 09:20] He was in office from December 69 AD until his death in June of 79, and all we have to
+[09:20 --> 09:23] draw on to describe that decade are scattered anecdotes.
+[09:23 --> 09:29] What we do know is that his reign seems to have been focused on physically rebuilding
+[09:29 --> 09:34] the empire and setting the government back on firm financial footing.
+[09:34 --> 09:39] To take the latter point first, Vespasian inherited an empty treasury and a shattered
+[09:39 --> 09:43] tax code and aimed to do something about it.
+[09:43 --> 09:47] Some had been grappling with the hangover from Nero's excesses when it had gone intact
+[09:47 --> 09:51] on a year's worth of civil war to the tab.
+[09:51 --> 09:57] Upon taking office, Vespasian estimated that he would need, quote, 40,000 million sesterces
+[09:57 --> 10:00] to get the empire back on its feet.
+[10:00 --> 10:05] Because it is nearly impossible to accurately convert ancient denominations to modern equivalents,
+[10:05 --> 10:10] we're just going to have to leave that as Vespasian was about to go hunting for an astronomical
+[10:10 --> 10:13] sum of money.
+[10:13 --> 10:18] He doubled the tax burden in the provinces, which, yeah, I think everyone saw that coming,
+[10:18 --> 10:23] but he also engaged in some pretty unseemly business practices that stood as the only
+[10:23 --> 10:26] real blemish on his record.
+[10:26 --> 10:30] For example, the emperor didn't think twice about accepting bribes to decide court cases
+[10:30 --> 10:36] this way or that, and he openly encouraged office seekers to deposit into the imperial
+[10:36 --> 10:42] treasury an amount that they felt quantified their desire for a given post.
+[10:42 --> 10:46] Vespasian was also fond of using his agents to corner the market on various scarce goods
+[10:46 --> 10:51] and then jacking up the price once a monopoly had been achieved.
+[10:51 --> 10:56] And in perhaps his most diabolical scheme, the emperor would let loose corrupt tax collectors
+[10:56 --> 11:00] and look the other way as they extorted the population to their own financial advantage.
+[11:00 --> 11:06] Then, when the collector had gotten rich enough, Vespasian would suddenly discover their fraud
+[11:06 --> 11:11] and swoop in to prunish the criminal and seize the ill-gotten assets.
+[11:11 --> 11:15] The pattern repeated itself enough that the people began to refer to these men as Vespasian
+[11:15 --> 11:21] sponges who would soak up all the gold before being wrung out by the emperor.
+[11:21 --> 11:27] He also dreamed up new taxes that hit the usually exempt citizens of Italy.
+[11:27 --> 11:31] Perhaps the most famous of these was his so-called toilet tax.
+[11:31 --> 11:36] In ancient Rome, urine was deposited in huge cesspools and then resold by the collectors
+[11:36 --> 11:40] for a variety of industrial applications.
+[11:40 --> 11:45] Vespasian imposed a tax on the purchase of said urine, which ignited an outcry that eventually
+[11:45 --> 11:49] wound its way back to Vespasian by way of his son Titus.
+[11:49 --> 11:54] Arguing to his father that there was something a bit off about using sewer money, Vespasian
+[11:54 --> 11:59] smelled the coins Titus had brought along and famously declared that money does not
+[11:59 --> 12:01] stink.
+[12:01 --> 12:07] Which more or less summed up Vespasian's whole attitude towards revenue generation.
+[12:07 --> 12:12] But though no one liked how he got the money, Vespasian's reputation did not suffer too
+[12:12 --> 12:17] much as he always plowed the profits right back into the empire.
+[12:17 --> 12:21] Though his infrastructure projects could be seen as an extension of his public relations
+[12:21 --> 12:26] campaign, there is no denying that both within Rome and out in the provinces, good work was
+[12:26 --> 12:31] being done to improve the material lives of the citizens.
+[12:31 --> 12:35] Between the neglect of Nero and the civil wars that followed his death, the eternal
+[12:35 --> 12:41] city itself was beginning to look like a crumbling shadow of its former self.
+[12:41 --> 12:45] Vespasian encouraged the rebuilding of damaged buildings, allowed new owners to take control
+[12:45 --> 12:50] of forgotten vacant lots, while he himself took the lead in repairing the burned out
+[12:50 --> 12:56] Capitoline Hill and finishing construction on the abandoned temple of Claudius.
+[12:56 --> 13:02] His crowning achievement though was his plan for the remains of Nero's Golden Palace.
+[13:02 --> 13:07] The sprawling complex that had eaten away the heart of the city was dismantled and in
+[13:07 --> 13:12] its place Vespasian ordered the construction of a massive amphitheater.
+[13:12 --> 13:17] Rising from the drained bed of Nero's old private lake, what became known as simply
+[13:17 --> 13:22] the Colosseum took shape over the next decade and though he would not live to see the completion
+[13:22 --> 13:27] of what the Romans called the Flavian Amphitheater, when the stadium was dedicated by his son
+[13:27 --> 13:32] Titus in ADAD, it quickly became one of the most famous architectural achievements in
+[13:32 --> 13:35] history.
+[13:35 --> 13:38] But he did not simply focus on Rome itself.
+[13:38 --> 13:43] Vespasian was quick to send money and resources whenever some region or another was hit with
+[13:43 --> 13:48] a natural disaster, so that rather than being left to fend for themselves, the victims of
+[13:48 --> 13:53] floods, fires and earthquakes found a friend in the Emperor.
+[13:53 --> 13:59] After years of enduring a reclusive and disinterested Tiberius, a megalomaniacal Caligula and admittedly
+[13:59 --> 14:06] decent Claudius, but then a cruelly self-absorbed Nero, Vespasian's actions were nothing short
+[14:06 --> 14:10] of a political and fiscal revolution.
+[14:10 --> 14:15] For Vespasian it was an easy call, using the imperial treasury for the material benefit
+[14:15 --> 14:20] of the Empire conformed with his compassionate nature, but it also conformed with his pragmatic
+[14:20 --> 14:25] nature, because usually a small investment was all that was required to keep the people
+[14:25 --> 14:29] happy and paying their taxes.
+[14:29 --> 14:34] Vespasian's pragmatic compassion extended up and down the social classes and earned
+[14:34 --> 14:38] him praise from commoner and noble alike.
+[14:38 --> 14:42] After the chaotic splintering of the upper classes during the civil wars, the ranks of
+[14:42 --> 14:47] the senatorial and equestrian orders was a confused mess.
+[14:47 --> 14:53] So Vespasian reorganized the ranks to reflect a post-year of the four emperors' reality,
+[14:53 --> 14:58] but rather than solidifying his rule by executing his enemies and packing the Senate with corrupt
+[14:58 --> 15:04] supporters, he seems to have followed a program of leaving virtuous men in place and removing
+[15:04 --> 15:08] the worst of the worst, whoever they had supported during the wars.
+[15:09 --> 15:13] He even took it a step further by extending financial aid to otherwise worthy senators
+[15:13 --> 15:18] who had fallen beneath the asset requirements for office.
+[15:18 --> 15:22] Having stabilized the upper classes, he then took a hands-off approach to their debates
+[15:22 --> 15:29] and encouraged men to say their piece honestly without fear of imperial reprisal.
+[15:29 --> 15:33] Vespasian never introduced anything resembling the treason trial so loved by the hypersensitive
+[15:33 --> 15:39] of Julio Claudians, commenting once about a particularly vocal Helvidius Priscus that
+[15:39 --> 15:42] he would not kill a dog simply for barking.
+[15:42 --> 15:47] Of course, the irrepressible Priscus had to keep pushing to see just how far he could
+[15:47 --> 15:53] go, and in 75 Vespasian was forced to banish him from Rome.
+[15:53 --> 15:58] Eventually the dissident stoic would be executed by Titus, but he was a particularly troubling
+[15:58 --> 16:03] pain in the rear end, and definitely the exception rather than the rule.
+[16:03 --> 16:10] Vespasian's decade in office is usually understood to have been one of peace at home and abroad.
+[16:10 --> 16:14] Certainly the coin-team minted drove home the idea that all was well and the empire
+[16:14 --> 16:21] was at peace, but in reality, in the beginning anyway, Vespasian could not escape the entropy
+[16:21 --> 16:25] that always pulls at the edges of empire.
+[16:25 --> 16:31] In Judea, the revolt Vespasian had been assigned to put down did not stop simply because he
+[16:31 --> 16:33] had turned his attention westward.
+[16:33 --> 16:38] In fact, with the Roman world in crisis, Jewish leaders redoubled their efforts, believing
+[16:38 --> 16:43] that now was the perfect time to drive off the distracted legions.
+[16:43 --> 16:48] But unfortunately for the Jews, Rome was more than able to walk and chew gum at the same
+[16:48 --> 16:50] time.
+[16:50 --> 16:54] Vespasian assigned his more than capable son Titus to take over operations in Judea, and
+[16:54 --> 17:02] in 70 AD, just months after his father became emperor, Titus began the final siege of Jerusalem.
+[17:02 --> 17:07] Surrounding the city with his four legions, Titus cut off supplies going into the city
+[17:07 --> 17:10] and then opened negotiations for a peaceful surrender.
+[17:10 --> 17:13] But the scene inside of Jerusalem was ugly.
+[17:13 --> 17:18] The Jewish leadership was fractured, and infighting between the moderate and extreme elements
+[17:18 --> 17:24] led to a toxic atmosphere of mutual assassination and terrorist attacks.
+[17:24 --> 17:28] At one point, the food stores were torched by hardline anti-Romans who believed the loss
+[17:28 --> 17:33] of their security blanket would force the moderates to fight to the death.
+[17:33 --> 17:39] By May, Titus was done talking and crashed through one of the outer walls.
+[17:39 --> 17:43] Intense street fighting followed, with the Jews left alive following behind the secondary
+[17:43 --> 17:45] walls near the Temple Mount.
+[17:45 --> 17:50] But the Romans finally overcame these last defenders, and by September, the entire city
+[17:50 --> 17:52] was in their hands.
+[17:52 --> 17:57] History records that at this point, the Roman soldiers, enraged at the ordeal the Jews had
+[17:57 --> 18:02] just put them through, plundered the city mercilessly, and set fire to the rest, including
+[18:02 --> 18:07] against Titus's explicit orders, the great Temple itself.
+[18:07 --> 18:12] Josephus, who was present with Titus at the time, reports that over the course of the
+[18:12 --> 18:18] siege, over a million people died, and another hundred thousand were taken prisoner.
+[18:18 --> 18:21] The great Jewish revolt was broken.
+[18:22 --> 18:27] However, a few pockets of resistance still existed, and after Titus was recalled to Rome
+[18:27 --> 18:32] to serve as his father's colleague, a deputy was put in charge of mop-up duties.
+[18:32 --> 18:38] The most famous of these pockets was of course the fortress at Masada, garrisoned by 960
+[18:38 --> 18:41] Sicarii fighters.
+[18:41 --> 18:47] The fortress, situated atop a high mesa, was nearly impregnable, and it took a full year's
+[18:47 --> 18:51] worth of rampart building for the Romans to even reach the walls.
+[18:51 --> 18:57] On April 16, 73 AD though, the Romans finally broke down the gate with a battering ram,
+[18:57 --> 19:02] and to their surprise, found the entire population of Masada dead from an apparent mass murder
+[19:02 --> 19:07] suicide pact to avoid capture and slavery.
+[19:07 --> 19:11] The siege of Masada quickly entered into the Jewish collective consciousness, and has held
+[19:11 --> 19:14] a prominent place there ever since.
+[19:14 --> 19:20] Today, beyond its popularity as a tourist destination, the Israeli Defense Force holds
+[19:20 --> 19:24] its basic training graduation at the ruins of the fortress, where their newly inducted
+[19:24 --> 19:30] soldiers swear to never allow Masada to fall again.
+[19:30 --> 19:35] On the other side of the empire, Vespasian inherited a short-lived, but arguably more
+[19:35 --> 19:38] serious revolt in Gaul.
+[19:38 --> 19:42] When Vitellius decided to use the soldiers under his command to invade Italy, he left
+[19:42 --> 19:47] the Rhine River severely undermanned, and local tribal leaders were not about to miss
+[19:47 --> 19:51] their opportunity to break away from Roman rule.
+[19:51 --> 19:56] Specifically, a hereditary prince of the Batavians named Julius Cavillus, who had been made a
+[19:56 --> 20:02] citizen of Rome previously as a reward for 25 years service in the legion, decided that
+[20:02 --> 20:05] he had had enough of the Romans.
+[20:05 --> 20:10] The Batavians had long enjoyed exemption from taxation in exchange for providing a disproportionate
+[20:10 --> 20:15] share of the auxiliary troops stationed along the Rhine, but as Vitellius ascended to the
+[20:15 --> 20:20] throne, his agents pressed the Batavians to contribute even more troops to help reinforce
+[20:20 --> 20:22] the Rhine.
+[20:22 --> 20:26] This was the last straw for the Batavians, who were already ticked off of the empire
+[20:26 --> 20:30] for a number of other recent slights, and in the guise of helping Vespasian win the
+[20:30 --> 20:35] throne, Julius Cavillus led his people in revolt.
+[20:35 --> 20:40] He helped pin down the two legions left on the lower Rhine, and thus did indeed help
+[20:40 --> 20:45] Vespasian's war effort, but when the Flavians emerged victorious and Cavillus refused to
+[20:45 --> 20:53] lift his siege, it became apparent that the Batavians were fighting for themselves alone.
+[20:53 --> 20:58] Elsewhere in Gaul, a Belgian leader who claimed to be the great-grandson of Julius Caesar
+[20:58 --> 21:02] led his own revolt and managed to convince the two legions garrising the area to come
+[21:02 --> 21:05] over to his side.
+[21:05 --> 21:10] With the whole region up in arms and expecting little relief, the commanders of the two legions
+[21:10 --> 21:15] besieged by Cavillus surrendered in early 70 AD, but contrary to the promise of safe
+[21:15 --> 21:20] passage they had received, the two disarmed legions were massacred.
+[21:20 --> 21:26] Obviously, Rome could not stand for such an atrocity, and the shocked Vespasian, who had
+[21:26 --> 21:31] already promised the Batavians independence as a reward for their help against Vitellius,
+[21:32 --> 21:35] north to crush the rebellion.
+[21:35 --> 21:39] Cavillus planned to keep fighting, but when word came that Jerusalem had fallen, he knew
+[21:39 --> 21:42] that the handwriting was on the wall.
+[21:42 --> 21:47] The Batavian leader had been counting on the continued Roman preoccupation in the east
+[21:47 --> 21:52] to help him avoid the full brunt of the empire's attention, but now that he knew that he and
+[21:52 --> 21:56] his countrymen were the only things blipping on Vespasian's radar, it was time to give
+[21:56 --> 21:58] up.
+[21:58 --> 22:03] The Batavians surrendered and agreed to return to the terms of their original treaty, along
+[22:03 --> 22:08] with a whole host of new restrictions and obligations.
+[22:08 --> 22:13] Beyond the unrest of his first years in office, the empire was relatively quiet throughout
+[22:13 --> 22:15] Vespasian's reign.
+[22:15 --> 22:20] The only major action thereafter took place in Britain, which we will cover more extensively
+[22:20 --> 22:26] next week as it spanned the reigns of Vespasian, Titus, and Domitian.
+[22:26 --> 22:30] We are blessed to have a full accounting of the campaigns in Britannia, as Cassus married
+[22:30 --> 22:35] the daughter of the principal Roman commander Julius Agricola and chose his father-in-law
+[22:35 --> 22:40] as the subject of his first major historical work, known as the Agricola.
+[22:40 --> 22:48] Vespasian, as I said, was the first emperor in quite some time to die of natural causes,
+[22:48 --> 22:52] which is a testament to the esteem with which he was held.
+[22:52 --> 22:57] It is not to say that various attacks weren't made on his life, just that none were able
+[22:57 --> 22:59] to get close enough to be dangerous.
+[22:59 --> 23:05] The Praetorians remained loyal, and top commanders refused to get caught up with plots to overthrow
+[23:05 --> 23:07] a popular ruler.
+[23:07 --> 23:11] I will mention, though, as an epilogue to the year of the four emperors, that one of
+[23:11 --> 23:17] the men who did attempt to assassinate Vespasian was none other than Chicena, who was apparently
+[23:17 --> 23:21] hardwired to betray whatever master he served.
+[23:22 --> 23:26] Despite earning Vespasian's favor during the war, by 79, Chicena was up to his old tricks
+[23:26 --> 23:28] again.
+[23:28 --> 23:32] For unknown reasons, he conspired to kill the emperor, but the plot was discovered and
+[23:32 --> 23:38] the habitual turncoat was finally executed by Titus.
+[23:38 --> 23:44] Vespasian survived all of this easily, but by June of 79, his health began to slip.
+[23:44 --> 23:50] At 69 years old, he was not a young man anymore and knew that his time was at hand.
+[23:50 --> 23:55] He had brought Titus in to share the burden of empire years before, and was confident
+[23:55 --> 24:00] he was handing power over to a capable man who could rule for many years, at least long
+[24:00 --> 24:05] enough for him to sire his own son and keep power away from Vespasian's other son,
+[24:05 --> 24:09] Domitian, a young man of dubious character.
+[24:09 --> 24:16] On June 23, 79 AD, Vespasian lay on his deathbed, but rather than simply fading away, he demanded
+[24:16 --> 24:22] that he be helped out of bed, declaring that an emperor should at least die on his feet.
+[24:22 --> 24:27] According to the legend, his last words, spoken while enduring the painful throes of death,
+[24:27 --> 24:33] were, Dear me, I must be becoming a god.
+[24:33 --> 24:40] Vespasian died at the age of 69, after ruling Rome for nine and a half years.
+[24:40 --> 24:44] Vespasian's reign is generally seen as a successful one, and I see no reason to contradict
+[24:44 --> 24:46] the consensus.
+[24:46 --> 24:51] His naturally mild temperament, pragmatic policies, and skillful use of propaganda allowed
+[24:51 --> 24:56] normalcy to return to an empire shaken by civil war.
+[24:56 --> 25:01] In almost every way, he left Rome better than he had found it, and as Tacitus said, he
+[25:01 --> 25:06] was probably the only man who improved his own character upon taking office.
+[25:06 --> 25:12] This rustic and obscure general had gone far higher than he had any right to expect, and
+[25:12 --> 25:15] he had clearly risen to the occasion.
+[25:15 --> 25:20] Not only that, but Titus had risen to the occasion along with his father, and despite
+[25:20 --> 25:25] some initial misgivings about their new emperor, the people of Rome quickly embraced Titus
+[25:25 --> 25:31] and began to hail the new Flavian dynasty as the answer to all their problems.
+[25:31 --> 25:36] Unfortunately, Titus would last only a scant two years on office before succumbing to disease,
+[25:36 --> 25:41] and soon enough, the Romans would be introduced to the dark half of the Flavian coin.

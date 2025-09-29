@@ -1,0 +1,282 @@
+# 20100301 - 071- Otho and Vitellius
+# Detected language: en
+# Duration: 1484.07 seconds
+# Model: medium, Device: cpu
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you are now fully aware, Audible is the
+[00:06 --> 00:11] internet's leading provider of audio entertainment with over 60,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash rome.
+[00:16 --> 00:21] That again is audiblepodcast.com forward slash rome. By going to that address, you
+[00:21 --> 00:25] will qualify for a free book download when you sign up for a 14-day trial membership.
+[00:25 --> 00:30] There is no obligation to continue the service and you can cancel anytime and keep the free book.
+[00:31 --> 00:35] You can also keep going with one of the monthly subscription options and get great deals on all
+[00:35 --> 00:41] future audiobook purchases. This week, I'm going to recommend picking up Rubicon by Tom Holland,
+[00:41 --> 00:46] which is a great read about the last days of the Republic and a great help to me
+[00:46 --> 00:51] during the Julius Caesar episodes. Just remember to go to audiblepodcast.com forward slash
+[00:51 --> 00:53] rome so that they know who sent you.
+[00:59 --> 01:05] Hello and welcome to the history of Rome. Episode 71, Otho and Vitellius.
+[01:07 --> 01:13] On January 15, 69 AD, Otho assassinated Galba and fulfilled the prophecy that had been
+[01:13 --> 01:17] driving the young aristocrat for the past few months, that Galba would soon be dead
+[01:17 --> 01:22] and Otho would succeed him. Of course, Otho had been working under the assumption that
+[01:22 --> 01:26] the prophecy meant Galba would adopt him and he would ascend to the throne legitimately.
+[01:27 --> 01:32] But having been passed over for adoption, Otho fulfilled the prophecy by other means,
+[01:32 --> 01:38] violent illegitimate means. Otho, however, was not the only one who had an eye on the
+[01:38 --> 01:43] throne, nor the only one who was willing to go to violent illegitimate lengths to seize it.
+[01:44 --> 01:49] In the weeks leading up to his death, Galba had been receiving reports that the legions on the
+[01:49 --> 01:56] Rhine, ostensibly led by Vitellius, were in full revolt. In public, Galba downplayed the danger
+[01:56 --> 02:00] and brushed aside worries that something was seriously amiss in the north, but when Otho
+[02:00 --> 02:05] finally claimed his prize and became the supreme ruler of the Roman Empire, he discovered
+[02:05 --> 02:11] that it was not a unified state he inherited. Not only was the revolt along the Rhine much
+[02:11 --> 02:16] serious than anyone thought, it would prove to be the only issue Otho would deal with as emperor.
+[02:17 --> 02:21] Whatever plans he had and whatever dreams he dreamed, for the rest of his short life,
+[02:22 --> 02:26] Otho would be consumed with beating back the insurrection in the north and ultimately
+[02:26 --> 02:32] wind up dying in the attempt. Otho had apparently been so focused on asking the
+[02:32 --> 02:36] prophets when he would be emperor that he forgot to ask them for how long he would be
+[02:36 --> 02:41] because the answer would have been not very long and maybe then he would have thought twice
+[02:41 --> 02:47] about the whole project. The funny thing is that the revolt that would eventually take Otho down
+[02:47 --> 02:53] had nothing to do with Otho himself. It was actually a revolt against Galba, but when word
+[02:53 --> 02:58] came north that Galba was dead, well everyone was so revved up already that the treasonous
+[02:58 --> 03:04] event horizon was now in the rearview mirror. Nothing less than total capitulation on Otho's
+[03:04 --> 03:07] would have averted their planned invasion of Italy.
+[03:09 --> 03:14] Along the Rhine, the rebellious pot started boiling in the wake of Vindex's revolt.
+[03:15 --> 03:19] As you know, Virginius Rufus, leading the legions on the upper Rhine, put down the revolt
+[03:19 --> 03:25] and then refused his troops' offer to declare him emperor. The Rhine legions went back to
+[03:25 --> 03:30] their camps and continued their nominal support of Nero at the behest of their obviously popular
+[03:30 --> 03:37] commander. However, when Galba came to power, things began to get ugly. For one thing, Galba
+[03:37 --> 03:41] had obviously been on the side of Vindex, even if he had never come to the latter's aid.
+[03:41 --> 03:46] So when he marched through Gaul on his way from Spain to Italy, Galba went out of his
+[03:46 --> 03:50] way to praise and reward the local tribes that had risen up along with Vindex.
+[03:51 --> 03:55] This support came at the expense of the tribes that had fought with the Rhine legions
+[03:55 --> 04:00] against the insurrection. Galba then compounded this slight by ignoring the Rhine soldiers
+[04:00 --> 04:05] themselves when it came to doling out honors and rewards. He did not punish any of them,
+[04:06 --> 04:09] but it was clear that Galba was stiffing them on his way into office.
+[04:10 --> 04:14] When the local auxiliaries and camped legionnaires got together and compared notes,
+[04:15 --> 04:19] they discovered that for the high crime of doing their duty, they had all been given the
+[04:20 --> 04:25] This, coupled with Galba's lingering reputation in the region from his tour there during Caligula's
+[04:25 --> 04:30] reign, meant that it was only with great difficulty that the commanders were able to
+[04:30 --> 04:36] convince the men to accept Galba as their legitimate emperor. But they never did accept
+[04:36 --> 04:41] Galba in their hearts. Virginia's was replaced by someone Galba could trust, a decision that
+[04:41 --> 04:47] only exacerbated the situation. Fontius Capito, the commander of the lower Rhine, was soon
+[04:47 --> 04:52] implicated in a plot to overthrow Galba and was killed by the two officers who discovered
+[04:52 --> 04:58] his treachery. The assassination of Capito is what led Galba to appoint the totally harmless
+[04:58 --> 05:03] and utterly inexperienced Vitellius as a replacement, presumably to prevent this
+[05:03 --> 05:08] sort of thing from happening again. But the thing about the Capito affair is that there is
+[05:08 --> 05:14] a great deal of plausible speculation that Capito was not fomenting revolution, that instead
+[05:14 --> 05:18] he had refused to go along with the plot of the two officers who eventually killed him.
+[05:19 --> 05:24] Because one of those officers, Fabius Valens, had a great deal to do with convincing the
+[05:24 --> 05:29] supposedly harmless Vitellius that he could be emperor and to lead the Rhine armies in revolt.
+[05:32 --> 05:37] The other major influence on Vitellius was Aulus Caesina, who had served in Spain and
+[05:37 --> 05:42] was an early supporter of Galba. As a reward, he was able to skip a few places up the
+[05:42 --> 05:47] Rhine and was appointed legate of one of the legions on the upper Rhine. But the young,
+[05:48 --> 05:54] charismatic and well-liked Caesina was also ambitious and greedy. Not long after taking
+[05:54 --> 05:59] up his new post, he was accused of embezzling funds and had every reason to fear that old
+[05:59 --> 06:05] stick-in-the-mud Galba would soon strip him of his command or worse. As eager and opportunist
+[06:05 --> 06:10] as the world has ever known, Caesina determined that the only way he was escaping his
+[06:10 --> 06:14] predicament in one piece was to stoke the resentment of the men under his command and
+[06:14 --> 06:19] hopefully convince them that as the cream of the Roman legions, which everyone agreed they were,
+[06:20 --> 06:23] they deserved an emperor who showed them the proper respect.
+[06:25 --> 06:29] Caesina's motivation then in leading a revolution is clear. He was facing possible
+[06:29 --> 06:35] execution if Galba remained emperor. Valens' motivation, though, is far less clear,
+[06:35 --> 06:40] and he seems to simply be an unscrupulous commander nearing the end of an undistinguished
+[06:40 --> 06:44] career who felt that he had been treated badly by the new emperor and saw a chance to
+[06:44 --> 06:50] pole vault his way into power and relevancy. Perhaps it was simply a love of intrigue for
+[06:50 --> 06:56] intrigue's sake. However it happened, when the new year came around, both men were ready to
+[06:56 --> 07:04] throw off Galba's so recently saddled yoke. On the 1st of January, the provincial legions
+[07:04 --> 07:08] renewed their solemn oaths to protect and defend the empire for the greater
+[07:08 --> 07:14] glory of the empire in whose name, yada yada yada. This is supposed to be a mere formality,
+[07:14 --> 07:19] but at the prodding of Caesina, two legions on the upper Rhine refused to re-up their
+[07:19 --> 07:24] commitment. Despite the efforts of the few officers present who remained loyal to the
+[07:24 --> 07:28] emperor, the mutinous soldiers toppled statues of Galba brought in for the ceremony.
+[07:29 --> 07:33] Rather than swearing an oath to the emperor, the men swore allegiance to the senate and the
+[07:33 --> 07:39] people of Rome and declared their intention to overthrow the usurper Galba for the sake of,
+[07:39 --> 07:45] you know, liberty and stuff. With this initial spark struck, things happened fast.
+[07:46 --> 07:51] Situated in what is today Cologne, the Vitellius learned of the mutiny, but rather
+[07:51 --> 07:55] than immediately making preparations to put the clamp down on it as would have been
+[07:55 --> 08:00] expected, he instead sent around word to his commanders that either they were going
+[08:00 --> 08:04] have to march north and fight their comrades or join in the mutiny themselves and declare
+[08:04 --> 08:10] their own emperor to take Galba's place. Valens, who had no doubt spent the last few
+[08:10 --> 08:15] months whispering in Vitellius' ear, was the first commander to arrive in Cologne with his
+[08:15 --> 08:21] decision. He hailed Vitellius as imperator. Vitellius accepted the salute and just like
+[08:21 --> 08:27] that, the revolt was off to the races. By the second or third of January, all the legions
+[08:27 --> 08:31] on the Rhine, probably the most formidable fighting force in the empire, had committed
+[08:31 --> 08:37] themselves to war with Galba. Except that they never would get their war with Galba.
+[08:38 --> 08:43] Two weeks after Vitellius had been declared imperator by his men, word came that Galba had
+[08:43 --> 08:48] been assassinated and that Otha was the new emperor. But by this point, events along the
+[08:48 --> 08:54] Rhine had gone way beyond simple revenge. The commanders had the brass ring in their
+[08:54 --> 08:59] sights and their men saw no downside in moving forward until the whole empire was theirs
+[08:59 --> 09:04] to gorge themselves on. Life in a legionary camp along the Rhine river was no picnic.
+[09:05 --> 09:08] So when they learned that the man who had gotten them all fired up in the first
+[09:08 --> 09:13] place was dead, well unless Otha planned to step aside in favor of Vitellius when
+[09:13 --> 09:17] they all arrived in Rome, the new emperor was in the same place as the old emperor.
+[09:17 --> 09:19] Namely, in their way.
+[09:21 --> 09:26] Back in Rome, Otha arrived at the palace following his coup and began running through
+[09:26 --> 09:31] Galba's personal correspondence. Mostly boring stuff, taxes, petitions, favors,
+[09:32 --> 09:38] and hello, what's this? The Rhine legions are in full revolt? Have declared Vitellius
+[09:38 --> 09:43] emperor and are readying to march on Rome? Well, I think I know what I'm doing today.
+[09:44 --> 09:48] Otha first attempted to reason with Vitellius and the two engaged in an
+[09:48 --> 09:53] acrimonious correspondence that had both promising money, influence, and property
+[09:53 --> 09:57] in exchange for the other abandoning his illegitimate claim to the throne.
+[09:58 --> 10:03] Neither backed down and the negotiations, if they could even be described as such, went nowhere.
+[10:05 --> 10:10] Otha had the support of the Praetorian guard and the senate in Rome and assurances from
+[10:10 --> 10:14] governors across the central and eastern empire that they backed him. But unfortunately,
+[10:14 --> 10:19] all of this amounted to very little when it came to countering an invasion from the north.
+[10:21 --> 10:26] At his immediate disposal, Otha had the Praetorian cohorts, the remains of the legion
+[10:26 --> 10:30] Galba had decimated, and a collection of parade-ready soldiers used mostly for show.
+[10:32 --> 10:36] While he corresponded with Vitellius, Otha conscripted around 2,000 gladiators and
+[10:36 --> 10:44] gathered up an undefined number of cavalry, but nothing he had on hand would be able to
+[10:45 --> 10:50] Otha's only hope lay in the Balkans, and he ordered the legions stationed there to pack
+[10:50 --> 10:56] up their winter camps and head forthwith to northern Italy. Otha was hoping to join with
+[10:56 --> 11:00] them and then march through the Alps to face down Vitellius before the latter could reach
+[11:00 --> 11:05] Italy, but by the middle of February his intelligence reported that the Vitellian
+[11:05 --> 11:11] forces were already on the march. While Vitellius stayed behind to oversee the now dangerously
+[11:11 --> 11:17] under-Garrison border with Germania, Valens and Kaisina each led separate columns south.
+[11:17 --> 11:23] Valens was to come in from the west and Kaisina the east. Quickly, Otha abandoned the idea of
+[11:23 --> 11:27] marching through the Alps and determined that he would need to make his stand at the Po River.
+[11:28 --> 11:34] He ordered the forces at his disposal, maybe 10,000 troops, to march north to the Po Valley
+[11:34 --> 11:38] and delay the advancing battalions long enough for the Balkan reinforcements to arrive.
+[11:39 --> 11:44] At the same time, Otha sent a maritime force up the western coast of Italy to Gaul.
+[11:45 --> 11:50] The idea seems to have been for this navy to attack the local coastal communities aligned
+[11:50 --> 11:55] with Vitellius, hopefully forcing Valens, leading the larger of the two columns, to halt
+[11:55 --> 12:00] his march and come to their aid. If this was in fact the plan, there is some debate
+[12:00 --> 12:05] about what exactly this maritime expedition was actually up to. They were moderately
+[12:05 --> 12:10] successful. They raised enough hell that Valens broke off at attachment from his column
+[12:10 --> 12:15] to defend the communities and a brief battle was fought, the first of what was now officially
+[12:15 --> 12:21] a civil war near a place known as the Forum Julii. The Othonian forces won the initial
+[12:21 --> 12:25] encounter but were driven back after a counterattack. The two sides then hunkered
+[12:25 --> 12:30] down in a mutual stalemate. This opening encounter of the war was inconclusive
+[12:30 --> 12:36] but ultimately irrelevant as it slowed Valens down little and occurred outside of what
+[12:36 --> 12:43] would prove to be the main eastern theater of the war. On that front, helped by a mild winter
+[12:43 --> 12:49] and a smaller force, Cicena was making much faster progress south. Though Cicena and
+[12:49 --> 12:54] Valens were technically on the same side, the two detested each other and were engaged
+[12:54 --> 13:00] in a fierce if unspoken competition to reach Italy first, defeat Otho first, and enter Rome
+[13:00 --> 13:06] first. The official plan was for them to cross the Alps at the same time and meet
+[13:06 --> 13:11] up on the other side but Cicena paid no attention to this and plowed ahead regardless
+[13:11 --> 13:16] of where Valens might be at. He emerged into northern Italy in March and went to work
+[13:16 --> 13:21] securing everything north of the Po River. A detachment of Otho's advance force already
+[13:21 --> 13:27] occupied the important city of Placentia on the southern banks of the Po, so Cicena took up
+[13:27 --> 13:32] residence in Cremona on the northern bank. Prudence dictated that Cicena hold Cremona
+[13:32 --> 13:38] and wait for Valens, but believing that his veterans would make short work of Otho's
+[13:38 --> 13:44] outnumbered and soft parade units, Cicena decided to immediately take Placentia by force.
+[13:45 --> 13:49] But in two days of intense fighting, Otho's forces successfully repelled the assault,
+[13:49 --> 13:56] forcing Cicena to abandon the attempt. The rest of the advanced Othonian army had been
+[13:56 --> 14:02] camped at Verona, awaiting the imminent arrival of the Balkan legions. Indeed, an advance
+[14:02 --> 14:07] force of about 2,000 had already arrived. But when they heard of the assault on Placentia,
+[14:07 --> 14:12] they rushed to relieve their comrades. But before they could arrive, Cicena had
+[14:12 --> 14:17] already been beaten off, so they set up camp at Bedriacum, about 30 miles east of Cremona
+[14:17 --> 14:23] on the north side of the river. Humiliated by his defeat at Placentia and hoping to regain
+[14:23 --> 14:28] the upper hand before Valens arrived, Cicena schemed up an ambush he hoped would help him
+[14:28 --> 14:34] do just that. Leading a small detachment of infantry and cavalry down the road between
+[14:34 --> 14:39] Cremona and Bedriacum, he hid the infantry in the trees alongside the road, and then
+[14:39 --> 14:44] sent out the cavalry to engage in one of the oldest military tricks in the book.
+[14:44 --> 14:50] Attack the enemy's camp, pretend to be driven off, and lead the pursuing force into a trap.
+[14:51 --> 14:56] Cicena expected this to be a morale booster more than anything else, but things quickly
+[14:56 --> 15:01] got out of hand. The Othonian forces had already learned of Cicena's plan by way of
+[15:01 --> 15:06] Vitellian deserters, so when Cicena's cavalry arrived, the Othonians marched out
+[15:06 --> 15:11] in full force, now somewhere north of 13,000 troops, to overwhelm the trap.
+[15:12 --> 15:17] Though Cicena was tricked into attacking what he soon discovered to be the entire opposing
+[15:17 --> 15:22] army, delays and hassles trying to properly form up the mostly rookie Othonian troops
+[15:22 --> 15:27] allowed Cicena to call in reinforcements and extract himself from the debacle.
+[15:28 --> 15:33] By the time of the failed ambush, Valens had arrived on the Italian side of the Alps,
+[15:33 --> 15:38] though he was still a good 50 miles from the action. When word came of the events at
+[15:39 --> 15:45] Cicena's failed ambush, his army double-timed it to meet up with their comrades. The force
+[15:45 --> 15:51] marched though, interestingly, was not actually Valens' idea. His troops, believing Valens to
+[15:51 --> 15:56] be dragging his feet and slowing the column down on purpose, literally marched off without
+[15:56 --> 16:06] him, forcing him to hurry to catch up. At this point, discipline in all of the
+[16:06 --> 16:11] mutiny in the Othonian camp at Bedriacum, triggered by the men's belief that their
+[16:11 --> 16:16] commanders were insufficiently committed to the war, was headed off only when Otho sent
+[16:16 --> 16:20] his own brother, whose commitment could not be questioned, to take on overall command.
+[16:21 --> 16:26] During the ambush, a mutiny had broken out among Cicena's troops back in Cremona,
+[16:26 --> 16:30] because they believed that their commanders were refusing to send them out in full
+[16:30 --> 16:34] force to relieve their comrades, because they wanted to hang Cicena out to dry.
+[16:35 --> 16:39] Valens, meanwhile, endured one mutiny on his march that required him to slip out of
+[16:39 --> 16:45] the camp in slave's clothes, and then obviously a second one when his army disobeyed his
+[16:45 --> 16:50] orders and marched to Cicena's defense. Much is made of the notion that throughout
+[16:50 --> 16:54] the year of the four emperors, the common soldiers were running amok,
+[16:54 --> 16:59] and their commanders were simply trying to keep up. Much of this is probably overblown,
+[16:59 --> 17:04] but there is no denying that for this period of the war between Vitellius and Otho,
+[17:04 --> 17:08] the soldiers clearly did not trust their commanders, and for a while the cart
+[17:08 --> 17:11] really did seem to be leading the horse.
+[17:13 --> 17:17] In the middle of March, Otho himself finally left Rome at the head of another
+[17:17 --> 17:23] six to nine thousand troops. The emperor settled with his accompanying forces in
+[17:23 --> 17:27] the town of Brixelim, about fifteen miles from Bedriacum, where he too waited for
+[17:28 --> 17:34] Balkan reinforcements. Soon enough, the first of these legions arrived, but by the time
+[17:34 --> 17:39] they showed up, Cicena's assault on Placentia had failed, and his ambush exposed as a
+[17:39 --> 17:44] non-starter. The Othonian army was eager to finish off what they saw as a
+[17:44 --> 17:49] fatally demoralized army. Was there really any need to wait for the rest of the
+[17:49 --> 17:53] Balkan troops? Even the arrival of Valens was not enough to put them off.
+[17:54 --> 17:58] With the casualties Cicena had suffered trying to take Placentia, and the arrival
+[17:58 --> 18:03] of Otho's force and the new Balkan legion, the two sides were now of
+[18:03 --> 18:08] approximately equal strength. By the middle of April, the ball was clearly in Otho's court
+[18:08 --> 18:13] about what the next move would be. The Vitellians, meanwhile, were holed up in
+[18:13 --> 18:18] Cremona, hoping that the inexperienced Otho, his five feuding generals, and their
+[18:18 --> 18:22] inexperienced legions, would make a crucial mistake that they could exploit.
+[18:23 --> 18:28] Otho traveled to Bedriacum to hold the Council of War, where the generals debated
+[18:28 --> 18:31] whether to attack now or wait for a more opportune moment.
+[18:32 --> 18:36] It seems, though, that the decision to attack at once had already been made,
+[18:36 --> 18:40] and that despite their valid arguments that it would be best to perhaps wait for the
+[18:40 --> 18:46] rest of the Balkan legions, those in favor of delay were seen as being overly timid
+[18:46 --> 18:51] and possibly working to undermine the Othonian effort. Delay, it was argued,
+[18:51 --> 18:56] meant losing the initiative and allowing Vitellius to send his own reinforcements.
+[18:57 --> 19:03] The only real open question was whether Otho would lead his army personally or return to the
+[19:03 --> 19:08] safety of Brixellum. It was finally decided that the emperor would follow precedent and
+[19:08 --> 19:13] remove himself from the field. If things went badly and he was out of harm's way,
+[19:13 --> 19:17] he would still be a rallying point and able to direct a counter-attack.
+[19:17 --> 19:20] But if things went badly and he was in the thick of the battle,
+[19:21 --> 19:24] well, the death of Otho meant the death of the whole operation,
+[19:24 --> 19:27] as he had no heir and had not yet named a successor.
+[19:30 --> 19:34] The decision to fight itself was not the fatal mistake that Vitellians had been waiting
+[19:34 --> 19:40] for, but the way Otho's generals executed the decision most certainly was.
+[19:41 --> 19:46] Bedriacum was only about 30 miles from Cremona, but it took the Othonians two full days to
+[19:46 --> 19:52] reach the city. The delay gave Otho fits, as he sent dispatch after dispatch,
+[19:52 --> 19:55] demanding to know why in the hell they had not attacked yet.
+[19:56 --> 20:01] To make matters worse, on that second day, the Othonian generals, particularly Otho's
+[20:01 --> 20:06] brother, were not prepared for battle at all. Convinced that the Vitellians would
+[20:06 --> 20:11] remain sequestered in Cremona, he tried to lead the Othonian army around the city
+[20:11 --> 20:17] five miles past Cremona, where they would make camp and then finally, on day three,
+[20:17 --> 20:23] goad the Vitellians into attack. But when Valens and Kaisina saw the Othonians sort
+[20:23 --> 20:28] of rambling towards them with all their baggage and carts and equipment weighing them down,
+[20:28 --> 20:33] they figured that now was the perfect opportunity to attack. So they did just that.
+[20:35 --> 20:40] Totally unprepared, the Othonians lined up in confused order when the full Vitellian
+[20:40 --> 20:44] army suddenly appeared on the horizon. Both sides were able to set themselves,
+[20:45 --> 20:48] and initially the battle was little more than a series of skirmishes.
+[20:49 --> 20:53] But then the two lines crashed into each other, and the armies got down to business.
+[20:54 --> 20:58] Though everyone comments that the untried Othonians fought far better than anyone
+[20:58 --> 21:03] could have expected. First their left flank and then their right were overrun.
+[21:04 --> 21:07] The Othonians broke and fled back to the safety of their camp at Bedriacum.
+[21:08 --> 21:12] The survivors spent the night trying to figure out what to do next.
+[21:12 --> 21:17] The Praetorians present wanted to keep fighting, but everybody else was ready to surrender.
+[21:18 --> 21:22] A delegation was sent to meet with Kaisina and Valens to work out the terms.
+[21:24 --> 21:28] Othon received news of the defeat from survivors staggering into Bricselum that
+[21:28 --> 21:35] same evening. Though he still had reinforcements on the way, their loyalty was nominal at best.
+[21:35 --> 21:38] So despite the protests of the Praetorians surrounding him,
+[21:39 --> 21:43] Othon determined straight away that he had taken his one shot and missed.
+[21:43 --> 21:48] He could not in good conscience prolong a war that would only see more Roman blood spilled.
+[21:50 --> 21:54] He dispersed what money he had, encouraged his supporters to flee from the oncoming
+[21:54 --> 21:59] Vitellian wrath, and then went to bed, his mind firmly made up.
+[22:00 --> 22:03] If right now he was seen as a villain for having seized the throne violently,
+[22:03 --> 22:09] and then engaging in a war against his fellow countrymen, let future generations see him as
+[22:09 --> 22:15] a nobleman who died to stop the slaughter. On the morning of April 16th, he woke up early
+[22:15 --> 22:20] and stabbed himself in the heart. He was 36 years old and had ruled Rome,
+[22:21 --> 22:24] well, some of it anyway, for almost exactly three months.
+[22:25 --> 22:30] Though his suicide did indeed endear him to future generations who came to see Othon's
+[22:30 --> 22:34] noble death as one of the most virtuous in the whole long history of the empire,
+[22:35 --> 22:37] it would only stop the bloodshed for a short while.
+[22:39 --> 22:43] For many Romans, while Othon may have been a murderous usurper,
+[22:44 --> 22:49] Vitellius was a crass and unworthy man who would use the armies entrusted to him to engage
+[22:49 --> 22:54] in full-blown civil war without soliciting the Senate or the people's approval.
+[22:55 --> 22:59] Vitellius may have been popular with his troops and supported by a few provincial
+[22:59 --> 23:03] governors in the West, but the rest of the empire was a different story.
+[23:05 --> 23:10] The backers of Othon were not simply ready to resign themselves to Vitellius. Rather,
+[23:10 --> 23:15] they cast about looking for a leader to rally behind, someone strong enough to dislodge the
+[23:15 --> 23:20] Rhine legions from their newly won place at the top of the food chain. Naturally,
+[23:21 --> 23:26] their eyes turned to the East. Too far away to really take part in
+[23:26 --> 23:31] the events of the past year, the Eastern legions, led by Titus Flavius Vespasianus,
+[23:32 --> 23:38] read about the unfolding chaos with this may. When Vitellius of all people wound up on the
+[23:38 --> 23:43] throne, Vespasian decided to heed the calls coming in from his fellow Eastern governors
+[23:43 --> 23:49] to bid for the throne himself. After all, had he not heard the prophecy that the future
+[23:49 --> 23:55] rulers of the world would emerge from Judea? Embroiled in the great Jewish revolt in
+[23:56 --> 23:59] Judea, Vespasian had not only heard the prophecy, but he had come to believe it.
+[24:01 --> 24:05] Just a month and a half after his so-called decisive victory at Bedriacum,
+[24:05 --> 24:10] Vitellius discovered that practically the entire Eastern Empire, including the crucial
+[24:10 --> 24:16] province of Egypt, had declared for Vespasian. Despite Othon's best efforts,
+[24:16 --> 24:21] the chaos and bloodshed of the year of the four emperors was far from over.

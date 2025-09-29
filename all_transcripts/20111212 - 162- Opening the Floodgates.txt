@@ -1,0 +1,290 @@
+# 20111212 - 162- Opening the Floodgates
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:05 --> 00:09] internet's leading provider of audio entertainment with over a hundred
+[00:09 --> 00:13] thousand titles to choose from. When you're done with this episode, go to
+[00:13 --> 00:19] audiblepodcast.com forward slash Rome. That again audiblepodcast.com forward
+[00:19 --> 00:24] slash Rome. By going to that address, you qualify for a free book download when you
+[00:24 --> 00:28] sign up for a 14-day trial membership. There is no obligation to continue the
+[00:28 --> 00:33] service, and you can cancel anytime and keep the free book download. You can
+[00:33 --> 00:36] also keep going with one of the monthly subscription options and get great deals
+[00:36 --> 00:41] on all future audiobook purchases. This week, I am going to go with a
+[00:41 --> 00:46] recommendation from listener Nick Dunleavy, Winston Churchill's The Second
+[00:46 --> 00:51] World War, the groundbreaking history of the war as told by one of its
+[00:51 --> 00:56] principles. I haven't read it myself, but just knowing that it exists makes me
+[00:57 --> 01:02] The history of Rome has very rarely been able to rely on firsthand accounts from
+[01:02 --> 01:05] people actually in the tent when decisions were made that when you get
+[01:05 --> 01:11] to something like Caesar's commentaries, you sit up and take notice. Churchill's
+[01:11 --> 01:15] history should probably be read with the same skeptical eye that we read Caesar,
+[01:15 --> 01:20] but it should definitely be read or listened to anyway. Just remember to go
+[01:20 --> 01:25] audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:30 --> 01:38] Hello, and welcome to The History of Rome, episode 162, Opening the Floodgates.
+[01:42 --> 01:47] On New Year's Eve, 406 AD, a massive horde of barbarians crashed across the
+[01:48 --> 01:53] Upper Rhine and began spilling into the interior of the Roman Empire. The mixed
+[01:53 --> 01:59] group included Vandals, Alans, Burgundians, and Alamani, and their combined
+[01:59 --> 02:04] strength overwhelmed the local Roman defenses. Well, local Roman defenses
+[02:04 --> 02:09] isn't entirely accurate. For the most part, the legions proper had been pulled
+[02:09 --> 02:14] south, either to bolster the defenses of the Upper Rhine or to augment Stilico's
+[02:14 --> 02:19] Italian army as he faced off against Radegaisus' invading Goths. The northern
+[02:19 --> 02:24] section of the frontier was thus protected only by the allied Franks. The
+[02:24 --> 02:28] Franks fought hard to stop the invasion. After all, the Lower Rhine was now as
+[02:28 --> 02:33] much their territory as it was the Romans, but they were simply unable to
+[02:33 --> 02:38] hold the line. So the hordes poured in, and when they did, they triggered a
+[02:38 --> 02:42] series of upheavals that completely remade the political map of the Western
+[02:42 --> 02:49] Empire. Stilico, as I mentioned at the end of last week, got this news while he
+[02:49 --> 02:53] was in the middle of rattling his saber at Constantinople and demanding the
+[02:53 --> 02:58] return of Illyria to the Western sphere of influence. Sitting at the head of an
+[02:58 --> 03:02] army that had been reinforced by troops from the Rhine and some 12,000 Gothic
+[03:02 --> 03:07] warriors from Radegaisus' group, Stilico was feeling pretty confident about his
+[03:07 --> 03:13] military position and wanted to press home his advantage. Now, there are some
+[03:13 --> 03:17] good long-term reasons for Stilico being so obsessed with the return of Illyria.
+[03:18 --> 03:22] For starters, it was the gateway to Italy, and with Constantinople showing
+[03:22 --> 03:26] little interest in using its resources to defend the eastern ends of the Alpine
+[03:26 --> 03:31] passes, the leaders of the Western court needed to take matters into their own
+[03:31 --> 03:36] hands. Beyond that was the fact that Illyria was a prime recruiting ground
+[03:36 --> 03:41] for soldiers. Stilico had taken a lot of flack from the Senate for his reliance
+[03:41 --> 03:46] on barbarian mercenaries, but at the same time they had consistently resisted all
+[03:46 --> 03:51] efforts to draft young men from their estates into service. So Illyria promised
+[03:51 --> 03:57] to be a nice answer to the conundrum. But though these were noble and legitimate
+[03:57 --> 04:02] reasons for Stilico's eastern focus, there was no escaping the fact that the
+[04:02 --> 04:06] decision to use his newly enlarged army as a political tool to menace Constantinople
+[04:06 --> 04:11] necessarily meant leaving the northern Rhine frontier dangerously under
+[04:13 --> 04:17] garrisoned. Though the particulars are different, this all reminds me a great
+[04:17 --> 04:22] deal of the empire roundabout 260 when Gallienus chose to prioritize the Dany
+[04:22 --> 04:28] frontier over the Rhine frontier. Rather than playing the role of posthumous and
+[04:28 --> 04:33] adopting a purely western-centric political and military posture, Stilico
+[04:33 --> 04:37] instead decided to play the role of Gallienus, turn his attention east, and
+[04:37 --> 04:44] essentially leave Gaul to its fate. The Romans had defeated Radegeisus in August
+[04:44 --> 04:49] of 406, which left Stilico plenty of time to send the Rhine legions back north,
+[04:49 --> 04:55] possibly even reinforced by the new gothic recruits before winter set in. But
+[04:55 --> 05:01] he was so intent on the east that he kept his forces united in Italy. Gaul was
+[05:01 --> 05:05] overwhelmed by invading barbarians permanently, I might add, just six months
+[05:05 --> 05:12] later. Then again, Italy had been invaded twice in the last five years, so Stilico's
+[05:12 --> 05:17] decision to focus on his eastern flank rather than his northern flank is somewhat
+[05:17 --> 05:23] understandable. But in choosing to follow Gallienus's lead, Stilico all but
+[05:23 --> 05:27] guaranteed that someone would step in to play the role of posthumous. And as soon
+[05:27 --> 05:33] the barbarians crossed into Gaul, that someone stepped up. Right on cue, Flavius
+[05:33 --> 05:37] Claudius Constantius, the senior commander on the island of Britain and
+[05:37 --> 05:42] the man history will come to know as Constantine III, was hailed as Augustus
+[05:42 --> 05:48] by his troops in early 407. So now the West was not just under attack, it was in
+[05:48 --> 05:57] revolt. Super. Constantine III was in no way related to his namesake.
+[05:57 --> 06:03] Nor was he related in any way to any existing noble family. He was a common
+[06:03 --> 06:07] soldier who had risen up through the ranks and he attained his senior command
+[06:07 --> 06:14] by way of a military coup. The Roman occupation of Britain was gasping its
+[06:14 --> 06:19] last in the early 400s and one of the symptoms of its fatal affliction was a
+[06:19 --> 06:24] breakdown in the solidarity of the occupying forces themselves. In 406 a
+[06:25 --> 06:30] series of coups and counter coups threw up and then threw out senior generals at
+[06:30 --> 06:36] a frightening clip. When the invasion of Gaul began, a man named Gratian, about
+[06:36 --> 06:41] whom we know nothing, happened to be in charge. As the reports came in describing
+[06:41 --> 06:46] the barbarian flood, Gratian hesitated over whether to respond, irking the
+[06:46 --> 06:51] patriotic Roman element of the British army who wanted to immediately cross
+[06:51 --> 06:56] over to Gaul and help turn back the hordes. Ambitious and capable, Constantine
+[06:56 --> 07:01] exploited Gratian's inaction, promised that if he were in charge they would have
+[07:01 --> 07:05] sailed for Gaul yesterday and then successfully ousted Gratian from power.
+[07:06 --> 07:11] Good to his word, after being hailed as Augustus, Constantine gathered up all the
+[07:11 --> 07:16] mobile Roman forces on the island, put them on ships, and sailed them for Gaul.
+[07:17 --> 07:23] To which the people of Britain said, wait, what now? All the Roman mobile forces?
+[07:23 --> 07:30] Can't you just... But it was too late. The Romano-British citizens could only watch
+[07:30 --> 07:38] them go. Okay, but, um, what about us? Hello? Are you leaving for good or what?
+[07:39 --> 07:45] Hello? As soon as he arrived in northern Gaul, Constantine set about winning the
+[07:45 --> 07:51] loyalty of every Roman garrison in the area. Glad just to have someone around who
+[07:51 --> 07:55] seemed interested in doing something about the barbarians, the local troops
+[07:55 --> 08:00] were easily won over, and pretty soon Constantine had a decent-sized force
+[08:00 --> 08:05] behind him. But though his army was growing, it was still in no shape to head
+[08:05 --> 08:09] off into battle just yet, and so the invading barbarians were free to roam
+[08:09 --> 08:15] northern Gaul unimpeded. They sacked city after city, including the fairly
+[08:15 --> 08:20] important city of Mainz, before turning their attention to Trier itself.
+[08:21 --> 08:25] But the old capital of Gaul was too heavily fortified, and after a bitter but
+[08:25 --> 08:30] unsuccessful siege, the barbarians peeled off in search of easier targets.
+[08:31 --> 08:36] Constantine, meanwhile, identified an isolated group of Saxons as a good place
+[08:36 --> 08:41] to start his campaign and attack them as soon as his army was ready to fight.
+[08:42 --> 08:45] Though the battle itself couldn't have been more than a glorified skirmish,
+[08:46 --> 08:50] when Constantine defeated the Saxons, it was a huge propaganda boon to his cause.
+[08:51 --> 08:56] To the citizens of Gaul, and eventually Spain, Constantine became a man worthy
+[08:56 --> 09:01] of their loyalty and their taxes, unlike those imperial do-nothings down in
+[09:08 --> 09:13] Stilico's response to the invasion of Gaul was clearly not all that it should have been.
+[09:14 --> 09:18] But in his defense, I would like to note that he was up against one of the all-time
+[09:18 --> 09:23] great obstacles to adequate responses, lack of information.
+[09:25 --> 09:29] With winter raging and the local Gallic ministry now headquartered down in Lyon,
+[09:29 --> 09:35] dispatches from the northern front were few, and the descriptions they contained were vague.
+[09:36 --> 09:39] Oh, by the way, some barbarians have crossed over the Rhine,
+[09:39 --> 09:41] and you should probably send reinforcements.
+[09:42 --> 09:46] But a hostile tribe crossing the Rhine was a regular event these days,
+[09:46 --> 09:49] and everyone always wanted reinforcements.
+[09:51 --> 09:55] Given his immediate reaction to the crisis, and then his later reaction when spring came
+[09:55 --> 10:01] and much more detailed reports came in, it is difficult to conclude that Stilico thought
+[10:01 --> 10:05] something huge was underway in Gaul, and simply chose to ignore it.
+[10:05 --> 10:10] Because, though he had spent the winter positioning his army for a potential war with
+[10:10 --> 10:15] Constantinople, even after reports of the invasion had come down, as soon as spring came
+[10:15 --> 10:21] and Stilico discovered how bad things really were, he wheeled them around and pointed them toward Gaul.
+[10:24 --> 10:30] Unfortunately for everyone, Stilico's only immediate response to the crisis was to send
+[10:30 --> 10:35] a group of allied vandals who had been settled in Pannonia, up in Togol, to reinforce the local
+[10:35 --> 10:42] defenses. You can imagine the reaction of the leaders of Trier when this new horde of vandals
+[10:42 --> 10:47] showed up on their doorstep, claiming that Stilico had sent them, and let us in because
+[10:47 --> 10:54] I wouldn't believe that line in a million years, not after I had just spent a week fighting tooth
+[10:54 --> 11:00] and nail against some other horde of vandals, so these reinforcements were predictably denied
+[11:00 --> 11:06] access to the city. But without supplies of their own, the allied vandals did the only
+[11:06 --> 11:13] thing they could think of to survive. They joined in the plundering. Stilico's reinforcements
+[11:13 --> 11:18] thus wound up reinforcing only the enemy. Whoops.
+[11:21 --> 11:26] Come the spring of 407, the lines of communication thawed out and the full extent of the chaos became
+[11:26 --> 11:31] apparent to the court of Ravenna. But if you thought hordes of barbarians running amok,
+[11:31 --> 11:35] and a Roman general who claimed an imperial title trying to turn them back was chaotic,
+[11:36 --> 11:42] well, just wait, because the lines between those two are about to become super blurry.
+[11:43 --> 11:49] See, what we have here is not one monolithic barbarian horde, so much as dozens of smaller
+[11:49 --> 11:56] groups, all with independent motives swirling around in independent directions. In the middle
+[11:56 --> 12:02] of the swirl was Constantine and his regular Roman forces. He was aware that he had no hope
+[12:02 --> 12:08] of restoring order to Gaul solely by way of the sword, so Constantine opened negotiations with
+[12:08 --> 12:14] various barbarian kings and chieftains. For their part, these barbarian leaders recognized
+[12:14 --> 12:18] that they would not have the upper hand forever, and that it might be better to deal with the
+[12:18 --> 12:24] Romans than fight them. After all, who wanted to be sent back east to face off against the Huns?
+[12:25 --> 12:30] So when Constantine's envoys came round saying that their general had assumed imperial title
+[12:30 --> 12:36] and was in a position to make a deal, they listened. Not all of them listened, but enough
+[12:36 --> 12:41] of them did that pretty soon Constantine's ranks were swelled by the very barbarians he had come
+[12:41 --> 12:49] down to fight. Having successfully co-opted swathes of the barbarians, Constantine was then further
+[12:49 --> 12:55] bolstered by the defection of most of the Spanish nobility to his cause. The self-proclaimed Augustus
+[12:55 --> 13:00] was, after all, the only thing standing between the remaining loose barbarians and Hispania.
+[13:03 --> 13:10] Down in Ravenna, then, Estilico was left to sort through a very complicated mess. Over here you have
+[13:10 --> 13:17] barbarian intruders. Okay, they need to be fought off. Over there you have Constantine fighting them
+[13:17 --> 13:24] off, but only after illegally donning the purple, and we can't have that. But over here you have
+[13:24 --> 13:29] barbarians who have joined with Constantine and his Roman forces. Are they allies because they're
+[13:29 --> 13:34] fighting the unrepentant barbarian invaders, or are they enemies because they're fighting for an
+[13:34 --> 13:42] imperial usurper? In what order do you prioritize your response to all this? Estilico surveyed the
+[13:42 --> 13:48] mess and ordered his priorities, and in the process sowed as many of the seeds of his own downfall
+[13:48 --> 13:57] as his enemies would ever need to take him down. Estilico decided that the first priority would be
+[13:57 --> 14:04] Constantine. There is absolutely no way you can tolerate self-proclaimed emperors, so all of
+[14:04 --> 14:09] Estilico's subsequent preparations were aimed at battle with the usurper rather than battle with
+[14:09 --> 14:16] the still loose barbarians. There was a practical element to the decision, as Constantine had moved
+[14:16 --> 14:22] south and taken control of Lyon. The majority of the loose barbarians were still running amok in
+[14:22 --> 14:28] northern Gaul, so Estilico was going to have to go through Constantine to get to them anyway.
+[14:29 --> 14:36] Might as well settle family business along the way. But the senatorial aristocracy of Italy and
+[14:36 --> 14:43] southern Gaul was mortified at Estilico's decision. The empire has been overrun by no good smelly
+[14:43 --> 14:48] barbarians, and you're going to use our precious military resources to attack the one guy who's
+[14:48 --> 14:54] been doing something about the invasion? This did not sit well at all.
+[14:57 --> 15:02] But that would not be the half of it. As Estilico was remustering his army at the city of Pavia,
+[15:03 --> 15:08] just on the Italian side of the Alps, he sent word to Alaric that there would be no war with
+[15:08 --> 15:12] Constantinople that year, and that as such, the Gothic king's services would not be required.
+[15:13 --> 15:20] But the thing is that just a few months before, Estilico had ordered Alaric to move south and
+[15:20 --> 15:26] occupy Epirus, a clear violation of a number of agreements between Ravenna, Constantinople,
+[15:26 --> 15:32] and the Goths, and it was a move clearly designed to set up Estilico's crossing of the Adriatic.
+[15:32 --> 15:38] But now, it was just an extremely provocative maneuver that was just sort of hanging out there.
+[15:40 --> 15:45] So, having footed the bill for, well, let's call it what it was, the invasion of Epirus,
+[15:46 --> 15:50] Alaric was less than enthused to hear that there would be no further campaign,
+[15:50 --> 15:55] because that meant there would be no further capture of booty to offset his expenditures.
+[15:56 --> 16:01] Plus, now he faced potential reprisals from the east for his unprovoked aggression.
+[16:03 --> 16:08] So, Alaric sent a note back to Estilico demanding four thousand pounds of gold
+[16:08 --> 16:14] to cover Gothic expenses. Now, it was Estilico's turn to be less than enthused,
+[16:14 --> 16:20] but Alaric had him over a barrel. The Italian army couldn't march on Gaul with hostile Goths
+[16:20 --> 16:26] threatening their rear, a fact that both sides could plainly see. So, Estilico recommended to
+[16:26 --> 16:32] the Senate that Alaric be paid. He was able to force the measure through and the Senate
+[16:32 --> 16:38] approved the funds, but no one was very happy that a Vandal general was making them hand over
+[16:38 --> 16:43] gold to a Gothic king so that said Vandal general could go off and fight a Roman army
+[16:43 --> 16:47] currently engaged in operations against hostile barbarians.
+[16:50 --> 16:55] With his rear secured, Estilico was finally able to launch a counterattack,
+[16:55 --> 17:01] but by then the campaign season had drawn to a close, so everything was put on hold until
+[17:01 --> 17:08] early spring 408. As soon as the passes thawed out though, the Italian army was marching north,
+[17:08 --> 17:15] led by Sarus, the Goth general who had defected to Rome following the Battle of Verona in 402.
+[17:16 --> 17:23] Estilico, his political power eroding, stayed behind in Ravenna to ensure that his enemies did
+[17:23 --> 17:30] not get ahold of the easily manipulated Emperor Honorius. Sarus met an advance guard of Constantine's
+[17:30 --> 17:36] army almost the minute he crossed over the Alps, but after a fierce fight, Constantine's men were
+[17:36 --> 17:42] broken and driven off. Sarus followed this victory by pushing hard to the city of Valentia,
+[17:42 --> 17:48] where Constantine himself had taken up residence. Sarus besieged the city, but before he could
+[17:48 --> 17:54] capture the self-proclaimed Augustus and bring a swift end to this rebellion, reinforcements that
+[17:54 --> 17:59] Constantine had recruited from the lower Rhine suddenly appeared and drove Sarus off.
+[18:01 --> 18:07] The timing of this relief army was excellent, but their arrival was more a matter of coincidence
+[18:07 --> 18:13] than anything else. Assembled to put down a nascent counterrevolution brewing in Spain,
+[18:13 --> 18:19] the troops just so happened to already be on the way south when Sarus began the siege of Valentia,
+[18:20 --> 18:24] and so Constantine wound up saved and Sarus wound up driven off.
+[18:27 --> 18:32] Now outnumbered locally, Sarus deemed it prudent to withdraw back to Italy and regroup,
+[18:33 --> 18:39] but as his army approached the Alps, he discovered just how low the prestige of the Italian imperial
+[18:39 --> 18:46] regime had been laid. An armed and organized band of locals, part freedom fighters and part brigands,
+[18:46 --> 18:49] had occupied the passes after Sarus passed through the first time,
+[18:50 --> 18:53] and they were now demanding that the Romans pay a ransom for passage.
+[18:55 --> 19:00] Although Sarus probably could have forced the issue, the rebels were entrenched and it would
+[19:00 --> 19:06] have cost time and resources that the Gothic general didn't have time to spare, so he paid
+[19:06 --> 19:13] ransom and carried on. The optics of a Roman imperial army paying a toll to pass through
+[19:13 --> 19:17] their own backyard was terrible, and lost on exactly no one.
+[19:20 --> 19:24] In May of 408, Estilico was preparing the troops for another invasion,
+[19:25 --> 19:30] this one to coincide with a Theodosian family led uprising in Spain, that's the nascent counter
+[19:30 --> 19:37] revolt I just mentioned. When a bombshell dropped in from the east, the emperor Arcadius was dead.
+[19:38 --> 19:44] He was 30 or 31 years old and had been emperor of the east for 13 years.
+[19:45 --> 19:50] I'm going to circle back around and cover the last few years worth of events in Constantinople
+[19:50 --> 19:56] next week, and for now I'm just going to focus on the implications of Arcadius's death for the west,
+[19:57 --> 20:00] specifically the implications for Estilico.
+[20:02 --> 20:06] The vandal general had never gotten over his desire to control both halves of the empire,
+[20:07 --> 20:12] and Arcadius's death opened up what would probably be his last best chance to unite
+[20:12 --> 20:19] east and west under his personal control. The logical heir to the throne was Arcadius's
+[20:19 --> 20:25] seven-year-old son Theodosius II, but with Honorius now the senior Augustus in the empire,
+[20:25 --> 20:30] Estilico argued that the west ought to have some say in how the regime change played out.
+[20:32 --> 20:35] The last thing Estilico needed was his enemies in Constantinople,
+[20:36 --> 20:41] of which there were legion at this point, dominating some new child emperor.
+[20:44 --> 20:49] Honorius was keen to travel himself to Constantinople and oversee the transition of power,
+[20:49 --> 20:54] but Estilico was worried that Honorius too would fall under the sway of the eastern ministers
+[20:54 --> 20:59] should he be allowed to leave Italy, and so, citing a number of convenient reasons
+[20:59 --> 21:04] that the trip would cost too much, that it would leave Italy open to invasion from Constantine,
+[21:06 --> 21:12] Estilico convinced Honorius to stay in Ravenna. Instead, he, Estilico, would go and represent
+[21:12 --> 21:19] Honorius's interests. Now this course of action was not without its own dangers. After all,
+[21:20 --> 21:24] his enemies back in Italy, of which there were also legion at this point,
+[21:25 --> 21:29] could worm their way into Honorius's ear and turn the emperor against him.
+[21:30 --> 21:35] But the opportunity to put his stamp on the imperial court of Constantinople proved too
+[21:35 --> 21:40] alluring, and in the summer of 408, Estilico made preparations to leave.
+[21:42 --> 21:48] When Honorius and Estilico parted ways in August, a devious minister and archfoe of Estilico's
+[21:48 --> 21:53] Olympias swooped in and started spinning a treacherous tale to the emperor.
+[21:55 --> 21:59] Estilico, he said, was not going to Constantinople to ensure that Honorius's
+[21:59 --> 22:04] interests would be protected. He was going to push aside young Theodosius II,
+[22:05 --> 22:08] and install his own son, Eucharius, on the eastern throne.
+[22:10 --> 22:18] This was not necessarily an implausible accusation. After all, Eucharius, by way of
+[22:18 --> 22:21] the emperor, was the son of Estilico, and acknowledged grandson of Theodosius the Great.
+[22:23 --> 22:28] No one these days believes that this was actually what Estilico was up to,
+[22:28 --> 22:35] but at the time, it was an easily believable rumor. Malleable Honorius listened intently to
+[22:35 --> 22:43] these accusations, and decided to buy into them hook, line, and sinker. Before Estilico was even
+[22:43 --> 22:49] out of Italy, his enemies in the west had already turned the emperor against him.
+[22:52 --> 22:59] In August 408, Honorius and his court, San Estilico, traveled to Pavia to inspect the troops.
+[23:00 --> 23:06] Upon their arrival, Olympias set to work spinning more treacherous tales of Estilico's treachery
+[23:06 --> 23:12] to the rank-and-file soldiers. Added to the rumor that Estilico was neglecting his responsibilities
+[23:12 --> 23:17] because he was busy trying to take over the eastern empire, was the more immediately offensive
+[23:17 --> 23:22] rumor that Estilico planned to put Alaric in charge of the war against Constantine,
+[23:23 --> 23:29] which was too much for the Roman troops to bear. When everyone was good and riled up,
+[23:30 --> 23:36] Olympias gave the signal, and a full-blown mutiny broke out. Honorius fled to the safety
+[23:36 --> 23:41] of his imperial residence, but most of the high-ranking officers in the army, all allies of
+[23:41 --> 23:51] Estilico, were tracked down and killed by the mob. Estilico was in Bologna when the mutiny broke
+[23:51 --> 23:57] out, and he immediately recognized what had happened. Olympias had turned the regular Roman
+[23:57 --> 24:03] forces against him, which meant that Olympias was now almost certainly in control of Honorius.
+[24:04 --> 24:10] At that moment, Estilico only had auxiliary forces available to him, a Hunnic bodyguard
+[24:10 --> 24:16] and the Goths who had come over after the Battle of Verona. If he contemplated using
+[24:16 --> 24:22] them to reassert his power, he didn't contemplate it for long. Using barbarians to attack regular
+[24:22 --> 24:29] Roman forces, who were under Honorius's personal banner no less, wasn't going to win him any friends.
+[24:31 --> 24:35] When it became clear that Estilico was hesitating and that this might be the end for the Vandal
+[24:36 --> 24:41] the Gothic general, Sarus, withdrew with his forces to see how events played out,
+[24:42 --> 24:46] a move that likely saved his own life and position in the post-Estilico purges.
+[24:49 --> 24:55] Now thoroughly isolated, Estilico traveled to Ravenna to await the return of the imperial court.
+[24:56 --> 25:00] If he was able to meet with Honorius, he might be able to talk sense to the boy,
+[25:01 --> 25:07] but if he could not, and this really was his time, he was apparently determined not to make
+[25:07 --> 25:14] a messy play for his life. The empire was weak enough. Another civil war wasn't in anyone's
+[25:14 --> 25:20] interest. Estilico took refuge in a church, but pretty soon imperial soldiers came knocking.
+[25:22 --> 25:28] They had a letter stating that Estilico was to be taken into custody. After being promised that
+[25:28 --> 25:33] refugee was not going to be harmed, the priest stepped aside and Estilico was led away.
+[25:35 --> 25:39] But as soon as the company passed the threshold of the church, the captain of the guard pulled
+[25:39 --> 25:44] out another letter, this one stating that for crimes against the state, Estilico was to be
+[25:44 --> 25:52] executed at once. The few retainers left with the Vandal general tried to protest, but their master
+[25:52 --> 26:01] waved them off. He knew that his time had come. On August 22nd, 408, Estilico was beheaded.
+[26:02 --> 26:08] He was 49 years old and had more or less been the ruler of the Western Empire for the last 13 years.
+[26:12 --> 26:16] Estilico was among the last truly capable leaders of the Western Empire,
+[26:17 --> 26:21] and though his policies were at times controversial, they should all be seen as the
+[26:21 --> 26:26] work of a man trying to hold together a disintegrating empire with limited resources
+[26:26 --> 26:34] and enemies in every direction. Aside from his obsession with controlling the Eastern court,
+[26:34 --> 26:40] Estilico scrupulously maintained a pragmatic approach to war and politics, and he succeeded
+[26:40 --> 26:45] for more than a decade while his counterparts in the East rose and fell with the seasons.
+[26:47 --> 26:52] He was not a perfect leader, and I don't think his actions were always as noble and idealistic
+[26:52 --> 26:57] as some have made them out to be, but if you're going to have a guy utterly dominating a weak
+[26:57 --> 27:04] emperor the way that Estilico utterly dominated Honorius, oh man, you could do so much worse.
+[27:07 --> 27:14] Next week, we will see just how much worse you can do. Because the minute Estilico's head was
+[27:14 --> 27:19] separated from his body, it became clear to everyone just how many balls the vandal general
+[27:19 --> 27:26] had been personally juggling. Anti-barbarian racism that Estilico had kept in check is about
+[27:26 --> 27:32] to rise to the surface, which will drive all those carefully cultivated auxiliary forces
+[27:32 --> 27:38] into the waiting arms of Alaric. Petty personal squabbles will then lead to a breakdown of
+[27:38 --> 27:42] between Ravenna and the Goths, which will lead to another invasion,
+[27:43 --> 27:48] which will then lead to the first sacking of Rome in 800 years.
+[28:08 --> 28:09] you

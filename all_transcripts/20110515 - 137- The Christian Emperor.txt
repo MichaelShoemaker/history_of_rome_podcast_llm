@@ -1,0 +1,248 @@
+# 20110515 - 137- The Christian Emperor
+# Detected language: en
+# Duration: 1387.08 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:05 --> 00:09] Internet's leading provider of audio entertainment with over 80,000 titles to
+[00:09 --> 00:14] choose from. When you're done with this episode go to audiblepodcast.com
+[00:14 --> 00:20] forward slash Rome. That again audiblepodcast.com forward slash Rome. By
+[00:20 --> 00:23] going to that address you qualify for a free book download when you sign up for
+[00:23 --> 00:27] a 14-day trial membership. There is no obligation to continue the service and
+[00:27 --> 00:32] you can cancel anytime and keep the free book download. You can also keep going
+[00:32 --> 00:35] with one of the monthly subscription options and get great deals on all
+[00:35 --> 00:41] future audiobook purchases. This week I'm going to go with a recommendation from
+[00:41 --> 00:46] listener Sandy that may not seem like it has much to do with Roman history but I
+[00:46 --> 00:52] swear there is a connection. Isaac Asimov's classic foundation trilogy. If
+[00:52 --> 00:58] you like science fiction it is required reading. Period. End of story. But what's
+[00:58 --> 01:03] the connection to Roman history? Well Asimov was on his way to meet with
+[01:03 --> 01:08] legendary editor John W. Campbell to pitch a new story idea but young Isaac
+[01:08 --> 01:14] had a problem. He did not yet have a new story idea. He was however in the middle
+[01:14 --> 01:18] of reading Gibbon's Decline and Fall of the Roman Empire so when he got to the
+[01:18 --> 01:23] meeting he basically started making up a story about the fall of the Galactic
+[01:23 --> 01:28] Empire because it was the first thing that popped into his head. Campbell of
+[01:28 --> 01:33] course loved the idea and the rest is psychohistory. Gibbon. The gift that just
+[01:33 --> 01:40] keeps on giving. Just remember to go to audiblepodcast.com forward slash Rome so
+[01:40 --> 01:43] that they know who sent you.
+[01:46 --> 01:58] Hello and welcome to the history of Rome. Episode 137 the Christian Emperor. In
+[01:58 --> 02:02] the autumn of 324 AD the Roman Empire awoke to discover that for the first
+[02:02 --> 02:09] time in 40 years the Empire was ruled by a single man. Only the oldest members of
+[02:09 --> 02:14] the citizen body even had a memory of what that was like. The rest of the
+[02:14 --> 02:18] population had grown up in the shadow of Diocletian's Tetrarchy with its
+[02:18 --> 02:24] multiple emperors, multiple capitals, and multiple sometimes conflicting policies.
+[02:24 --> 02:30] Now everything, every issue, every decision, every order was going to be
+[02:30 --> 02:35] funneled through a single man. Far from shying away from what was for this
+[02:35 --> 02:41] generation at least, an unprecedented load of responsibilities, Constantine
+[02:41 --> 02:46] relished the opportunity he now had to reshape the Empire in his own image. Like
+[02:46 --> 02:50] the greatest of the great Roman leaders who had preceded him, Julius Caesar,
+[02:50 --> 02:57] Augustus, Hadrian, Diocletian, Constantine came to power full of ideas, full of
+[02:57 --> 03:02] confidence, and full of energy. But more important than all of that, Constantine
+[03:02 --> 03:06] came to power with the fervent belief that he was the instrument of the
+[03:06 --> 03:12] Christian God, and it was now his duty to convert Rome to the one true religion.
+[03:12 --> 03:16] Though the Empire would not officially become Christian until the reign of
+[03:16 --> 03:21] Theodosius, it was right here in the months after the fall of Lycaeus that
+[03:21 --> 03:30] Constantine made that later switch just a matter of filing some paperwork. The now
+[03:30 --> 03:35] sole Emperor's first order of business following his victory over Lycaeus was
+[03:35 --> 03:40] to parse through his defeated rivals innumerable laws, edicts, and commands to
+[03:40 --> 03:46] decide which ones would stand and which ones would be tossed out. Constantine and
+[03:46 --> 03:50] his ministers plowed through everything Lycaeus had done since taking over the
+[03:50 --> 03:55] East in 313 and did their best to cancel laws they considered unjust and let
+[03:55 --> 04:01] stand rulings they thought wise. This was mostly done on a case-by-case basis,
+[04:01 --> 04:05] but there was one big area where Constantine uniformly rejected
+[04:05 --> 04:11] Lycaeus's policy, the status of Christianity. Just so he would not be
+[04:11 --> 04:15] misunderstood, Constantine wrote an open letter to the people of the eastern
+[04:15 --> 04:20] provinces announcing what his policy towards the Christians was going to be.
+[04:20 --> 04:24] With no one around to challenge him, Constantine could finally stop mincing
+[04:24 --> 04:29] words, and he announced that not only was Christianity the one true religion,
+[04:29 --> 04:34] but that as an institution the Church was going to have the full backing of
+[04:34 --> 04:40] the Imperial government. Right away it became clear that the Emperor was not
+[04:40 --> 04:45] kidding around. When Constantine and Lycaeus were first
+[04:45 --> 04:49] enforcing the Edict of Milan and making sure that Church property was returned
+[04:49 --> 04:53] to its rightful owners, it became standard procedure to compensate families
+[04:53 --> 04:58] who would come into possession of the seized land or goods. This was a
+[04:58 --> 05:02] practical measure designed to keep everyone happy. The Christians got their
+[05:02 --> 05:06] stuff back, and men who had bought the property got a refund. A decent deal all
+[05:06 --> 05:12] around. But in his letter to the East, Constantine simply announced that, as he
+[05:12 --> 05:17] was a benevolent man, he would generously pardon any man who he found to be in
+[05:17 --> 05:25] possession of Church property. Pardon. Not compensate. Pardon. As if purchasing
+[05:25 --> 05:30] some bit of land legally at auction could now be considered a crime. He's
+[05:30 --> 05:36] kidding about this, right? The revolution only went on from there. In a stark
+[05:36 --> 05:41] rejection of nearly three centuries of Imperial policy, Constantine gave the
+[05:41 --> 05:44] Christians pride of place, and it was suddenly the pagans who found themselves
+[05:45 --> 05:49] merely tolerated. Pagans who found themselves barred from holding public
+[05:49 --> 05:55] office, and pagans who found their religious practices banned outright. That
+[05:55 --> 06:01] last bit was the most radical shift of all. Constantine, at the stroke of a pen,
+[06:01 --> 06:06] turned his back on God knows how many millennia of tradition, and henceforth
+[06:06 --> 06:12] forbade divination and sacrifice to the gods. I don't think I have to tell you
+[06:12 --> 06:18] how big of a deal that was. It is worth noting here, however, that Constantine,
+[06:18 --> 06:23] despite this radical shift in religious policy, was still a practical man. For the
+[06:23 --> 06:28] moment, all of this only applied to the East. Though I have no doubt that if he
+[06:28 --> 06:32] thought he could have done it, he would have buried the old Roman pantheon right
+[06:32 --> 06:37] then and there. But I think the Emperor knew that there were only so many fronts
+[06:37 --> 06:41] upon which he could fight a war, and stirring up a hornet's nest in the very
+[06:41 --> 06:45] conservative Senate of Rome right at that moment, probably would have done
+[06:45 --> 06:51] more harm than good. So rather than banning the old Roman cults, the Emperor
+[06:51 --> 06:55] simply quit funding them, choosing instead to underwrite an empire-wide
+[06:55 --> 07:00] campaign of church building. As the temples of the Eternal City fell into
+[07:00 --> 07:06] disrepair, magnificent churches sprang up all over the place. Eventually, this
+[07:06 --> 07:11] building program produced the original St. Peter's, constructed on the supposed
+[07:11 --> 07:17] site where Peter was crucified in Rome. When the Letter to the Eastern Provinces
+[07:17 --> 07:22] was published, the negative reaction was immediate, but Constantine refused to
+[07:22 --> 07:27] back down. He wrote a scathing rebuke of the false and demonic practices of his
+[07:27 --> 07:33] pagan subjects, and how Christianity, being the only true religion, must become
+[07:33 --> 07:39] the universal religion of the Empire. In attempting to convert a majority pagan
+[07:39 --> 07:44] population to the minority Christian position, it may seem as if Constantine
+[07:44 --> 07:48] was fighting an impossible battle. But more than anything else in the Roman
+[07:48 --> 07:54] world, victory in battle was still the great legitimizer. Were his victories not
+[07:54 --> 07:59] proof enough that the Old Gods were a lie, and that the Christian God was the
+[07:59 --> 08:05] only true God? Constantine's unbroken run of battlefield success was a major
+[08:05 --> 08:10] argument in his favor. And now that he defined the rules of the game, the
+[08:10 --> 08:15] citizens of the Empire slowly began to fall into line. Ambitious men who wanted
+[08:15 --> 08:20] to climb the ladder began converting to Christianity. Soldiers who wanted special
+[08:20 --> 08:24] privileges began converting to Christianity. And average citizens who just
+[08:24 --> 08:31] didn't want to run afoul of Imperial agents began converting to Christianity.
+[08:31 --> 08:36] Through sheer force of will, Constantine was converting the Roman Empire to
+[08:36 --> 08:37] Christianity.
+[08:40 --> 08:44] But of course, right at this moment, just as Constantine was preparing to supplant
+[08:44 --> 08:49] the traditional cults with the one true religion, the adherents of that one true
+[08:49 --> 08:53] religion were locked in a mortal death struggle with themselves that threatened
+[08:53 --> 08:56] to undermine everything Constantine was trying to accomplish.
+[08:56 --> 09:03] Two weeks ago we introduced the Donatist heresy, which, much to Constantine's
+[09:03 --> 09:08] chagrin, was still fracturing the church in North Africa. This week, we will
+[09:08 --> 09:13] introduce a heresy that will make the fight over Donatism look like some gentle
+[09:13 --> 09:17] ribbing between friends. A heresy that will divide the church not just for a
+[09:17 --> 09:22] generation, but for hundreds of years to come. The Arian heresy.
+[09:22 --> 09:30] The Arian heresy takes its name from an influential Egyptian priest named Arius,
+[09:30 --> 09:36] who was born sometime in the 250s AD. At some point, though no one is really sure
+[09:36 --> 09:41] when, Arius began preaching a very particular interpretation of how God the
+[09:41 --> 09:46] Father and Christ the Son were related. An interpretation that some of his
+[09:46 --> 09:51] brothers in the clergy took serious offense to. As with the Donatist heresy,
+[09:51 --> 09:56] I'm not going to delve too deeply into the issue because it pretty quickly gets
+[09:56 --> 10:01] pretty esoteric, but the gist of the controversy was this. Arius taught that
+[10:01 --> 10:06] since Christ was the begotten Son of God, that there must have been a time when
+[10:06 --> 10:12] Christ was not. Therefore, though both were divine, the Son was inferior to the
+[10:12 --> 10:18] Father. This line of reasoning contrasted sharply with the beliefs of many in the
+[10:18 --> 10:22] church who believed that Father and Son were actually two aspects of the same
+[10:22 --> 10:27] divine whole, that they were co-substantial, literally of the same substance,
+[10:27 --> 10:34] with neither one preceding or exceeding the other. Alexander, the conveniently
+[10:34 --> 10:39] named Bishop of Alexandria, was initially hesitant to make a big deal out of Arius's
+[10:39 --> 10:44] beliefs, but it soon became clear that this seemingly minor point of
+[10:44 --> 10:50] philosophic disagreement was dividing the church in two. Bishop Alexander was
+[10:50 --> 10:55] himself a co-substantialist, so when he finally waded into the controversy,
+[10:55 --> 11:02] it was to condemn Arianism as heretical. But the bud was too far grown to simply
+[11:02 --> 11:07] be nipped that easily. Arius's teachings had already spread across the east,
+[11:07 --> 11:11] and wherever it took root, local Christian communities became divided,
+[11:11 --> 11:16] as the two sides fought for control of regional bishoprics, local churches,
+[11:16 --> 11:22] and individual parishioners. This rupture in the unity of the church, just as
+[11:22 --> 11:25] Constantine was looking to make it the de facto state religion of the empire,
+[11:26 --> 11:33] really, really annoyed the emperor. But as with the Donatus, he was hesitant to
+[11:33 --> 11:38] get too involved in the dispute himself. It was an argument over a trivial point of
+[11:38 --> 11:42] philosophy. Surely the matter could be settled without the emperor needing to
+[11:42 --> 11:49] get involved. Instead, Constantine dispatched the bishop Oseus to Egypt to end the
+[11:49 --> 11:55] controversy once and for all. Oseus was an influential clergyman who had been at
+[11:55 --> 12:00] Constantine's court since before the Milvian Bridge. To help give him an extra bit of
+[12:00 --> 12:05] authority, the bishop carried with him a letter from Constantine that did not take
+[12:05 --> 12:10] a particular stance, but did admonish both sides for making such a big deal out of such
+[12:10 --> 12:18] a little issue. At least the Donatus controversy dealt with real issues like betrayal and
+[12:18 --> 12:25] forgiveness, but this Arian controversy, it was all abstract theology. Plus, even in
+[12:25 --> 12:31] terms of abstract theology, the two sides agreed on like 99 points out of 100. It was
+[12:31 --> 12:37] just this one little tiny insignificant matter that they disagreed. How in the world could the
+[12:37 --> 12:44] clergy possibly have allowed it to explode into such a divisive issue? But when Oseus got to
+[12:44 --> 12:51] Alexandria, he failed to broker a deal. He failed in part because the two sides were dug in too deep,
+[12:51 --> 12:57] but he also failed in part because he did not really want to do what Constantine had sent him
+[12:57 --> 13:03] to do. The emperor wanted everyone to kiss and make up, and in Constantine's eyes, that meant
+[13:03 --> 13:10] that any compromise was on the table so long as everyone agreed to it. But it appears that Oseus
+[13:10 --> 13:16] was himself a staunch co-substantialist, who was not looking to compromise with the Arians so much
+[13:16 --> 13:23] as stamp them out for good. But Oseus failed in his own mission as well, and after riots broke
+[13:23 --> 13:29] out in Antioch over the election of a new bishop, Oseus decided to convene a council of eastern
+[13:29 --> 13:36] bishops in the Anatolian city of Ankyra to help bring an end to the argument. His idea was that
+[13:36 --> 13:40] if the Christian establishment condemned the Arians with one voice, that they would finally
+[13:40 --> 13:46] give up the fight. The council would be billed as an open dialogue that would help the bishop forge
+[13:46 --> 13:52] a compromise that all could agree to, but Oseus had no intention of letting them not forge the
+[13:52 --> 13:58] correct compromise, if you know what I mean. When he reported back to Constantine, though,
+[13:58 --> 14:02] the emperor decided that if a wider council was going to be called to settle the matter,
+[14:02 --> 14:08] that it may as well be a wider council. In fact, let's make it the widest council of all.
+[14:09 --> 14:15] Let's make it a global council, an ecumenical council, the very first of its kind.
+[14:17 --> 14:21] Constantine ordered the site of the council be moved to the port city of Nicaea,
+[14:21 --> 14:27] and then invited all the western bishops to attend as well. The new location would not only
+[14:27 --> 14:32] make it easier for the bishops of the west to attend, but it would also be close enough to
+[14:32 --> 14:37] Nicomedia that Constantine himself could pop down and maybe see what he could do to establish the
+[14:37 --> 14:44] unity that he so craved. Plus, it went without saying that the weather in Nicaea would be much,
+[14:44 --> 14:51] much better. Though all 1800 or so bishops in the empire were invited to the council,
+[14:51 --> 14:56] only around 300 were able to attend the opening of what would in time be called the Council of
+[14:56 --> 15:03] Nicaea in May of 325. Though it doesn't seem like a great turnout, with each bishop being
+[15:03 --> 15:09] allowed to bring along a few priests and deacons to act as aides, the final list of attendees
+[15:09 --> 15:16] numbered in the thousands. And those aides were not just there to go fetch coffee and take notes
+[15:16 --> 15:21] for a sleepy bishop. Aside from the emperor, probably the two most important attendees at
+[15:21 --> 15:28] the council were Arius himself, who was a priest, not a bishop, and a young deacon named Anathasius,
+[15:28 --> 15:36] who was in the entourage of Bishop Alexander of Alexandria. A hardline anti-Ariian, Anathasius
+[15:36 --> 15:43] made sure the powerful Alexander didn't go all wishy-washy on him. Shortly after the council,
+[15:43 --> 15:48] the charismatic theologian would succeed Alexander to the bishopric of Alexandria,
+[15:48 --> 15:51] and become a hugely polarizing force within the church.
+[15:52 --> 15:57] Constantine, as you can imagine, was not the president of Anathasius' fan club.
+[16:01 --> 16:06] Though the catalyst for the council was the Arian controversy, with so many bishops convening in one
+[16:06 --> 16:11] place, the church leadership at the prodding of Constantine took the opportunity to rule on a
+[16:11 --> 16:16] whole host of internal disagreements, including when Easter ought to be properly celebrated,
+[16:17 --> 16:21] what the final status of those who had lapsed during the persecutions ought to be,
+[16:21 --> 16:27] and what to do about the Malaysians, a sect in the east who were seconding the rigorous stance
+[16:27 --> 16:34] of the Donatus. What Constantine wanted was for the council of Nicaea to settle all schisms
+[16:34 --> 16:40] within the church. As I've noted previously, the emperor was not so much interested in which side
+[16:40 --> 16:47] was right, or which interpretation was best, so long as in the end everyone agreed. What record
+[16:47 --> 16:53] we have of Constantine's role in the deliberations of the council show him repeatedly acting the part
+[16:53 --> 16:59] of peacemaker, reminding the bishops over and over again that their agreements far outnumbered
+[16:59 --> 17:04] their disagreements, and that the continued unity of Christianity was of paramount importance.
+[17:04 --> 17:12] I don't really want to get bogged down in everything the council dealt with, but I do want to
+[17:12 --> 17:16] settle the Arian question, as it was the main reason everyone was there to begin with.
+[17:17 --> 17:22] The majority of the bishops in attendance, like the emperor himself, had no strong position on
+[17:22 --> 17:28] the issue, and were open to any formulation of the father and son's relationship that would resolve
+[17:28 --> 17:35] the crisis. The opponents of Arianism, led by Oceus and Alexander, exploited this fact to the
+[17:35 --> 17:42] hilt. They had agreed beforehand to frame the debate using particular wording that described
+[17:42 --> 17:48] the father and the son as being of the same substance, which they knew would be unacceptable
+[17:48 --> 17:54] to Arius and his followers. The debate that unfolded over the course of the next month was
+[17:54 --> 18:00] a bitter one, and at one point Arius was even struck in the face by a rival clergyman.
+[18:01 --> 18:07] Dismayed at the degree of vitriol on display, a group of bishops put forward a compromise creed
+[18:07 --> 18:12] that described the father and son as being of similar substance, but it was rejected
+[18:12 --> 18:20] by the hardliners in both camps. More as a result of backroom politicking than persuasive public
+[18:20 --> 18:27] oratory, the anti-Arians started to flip the delegates one by one until eventually the same
+[18:27 --> 18:33] substance formulation was accepted by a majority of the council. Once the majority had turned
+[18:33 --> 18:39] against them, the moderate Arians began to feel the heat, and with the threat of excommunication
+[18:39 --> 18:46] and exile hanging over their heads, they too signed on to the same substance creed. In the end,
+[18:46 --> 18:50] only two of the staunchest Arian bishops refused to sign.
+[18:51 --> 18:57] The so-called Nicene Creed was adopted by the council as orthodoxy in June of 325.
+[18:58 --> 19:04] It stated that Jesus Christ was God from God, Light from Light, True God from True God,
+[19:05 --> 19:11] begotten, not made, of the same substance as the father, by whom all things were made.
+[19:11 --> 19:18] The opposition to this formulation was now considered heretical. Arius, just as Osius
+[19:18 --> 19:23] and his allies had predicted, refused to accept the creed's language and was exiled by Constantine
+[19:23 --> 19:31] to Illyria, far away from his power base in Egypt. Though the matter appeared to be settled for good,
+[19:31 --> 19:38] neither Arius nor the Arians were done just yet. The council then moved on to its remaining
+[19:38 --> 19:43] business, and made decisions on how to calculate the date of Easter, what to do about the
+[19:43 --> 19:49] Malaysians, they were to be treated leniently, and what ought to be the church's final position
+[19:49 --> 19:54] on Traudatorius. They were to be accepted back without the need for rebaptism.
+[19:56 --> 20:00] By the end of the meeting in June of 325, the assembled bishops ruled on at least twenty,
+[20:00 --> 20:06] though possibly more, points of canon law. These included the recognition that the bishops of Rome,
+[20:06 --> 20:11] Alexandria, and Antioch had a sort of super authority over and above normal bishops,
+[20:12 --> 20:20] a prohibition on clergy engaging in usury, and a law against self-castration, which, yeah, yikes.
+[20:21 --> 20:26] All in all, the council of Nicaea did exactly what Constantine wanted,
+[20:26 --> 20:30] while simultaneously failing to do what Constantine wanted.
+[20:30 --> 20:36] The collection of bishops had come together and successfully determined where to draw the line
+[20:36 --> 20:44] between orthodoxy and heresy on a host of issues. It had given the Christians a new sense of global
+[20:44 --> 20:50] unity by moving the church away from the patchwork series of beliefs that varied from time to time
+[20:50 --> 20:56] and from place to place. But if he was hoping the establishment of this new orthodoxy was going to
+[20:56 --> 21:01] actually end the arguments between the Christians—that men declared heretical were
+[21:01 --> 21:06] just going to lay down their beliefs and give up the fight—then Constantine was in for a rude
+[21:06 --> 21:14] awakening. Far from putting these matters to bed, the council of Nicaea simply wound up codifying
+[21:14 --> 21:22] the position of one side of the argument. Constantine just did not grasp that the
+[21:22 --> 21:28] religion he had adopted had never actually been unified. It had appeared to be one monolithic
+[21:28 --> 21:32] force when it was set against the dominant Greco-Roman culture, but once you actually got
+[21:32 --> 21:39] into it, it turned out that Christian belief was almost as varied as pagan belief. The council
+[21:39 --> 21:44] of Nicaea was not going to stop Arius from preaching what he believed to be true. It was
+[21:44 --> 21:50] not just a matter of life and death for him, but a matter of eternal salvation. The Donatists,
+[21:50 --> 21:55] the Malaysians, and all the other minor heresies would eventually be stamped out,
+[21:56 --> 22:01] but the proclamation of a bunch of bishops meeting on the coast of the Aegean Sea was not going to
+[22:01 --> 22:07] do the job on its own. But as the council wrapped up, Constantine had a pretty good feeling about
+[22:07 --> 22:15] things, and believed that his vision of one emperor ruling one empire and one church serving
+[22:15 --> 22:23] one god was close at hand. Next time, we will delve into more worldly matters,
+[22:23 --> 22:28] and discuss what Constantine was up to when he wasn't promoting and defending Christianity.
+[22:29 --> 22:34] There were, after all, still wars to be fought and a government to run, so it's not like Constantine
+[22:34 --> 22:38] could just hole up in church councils all the time and debate the finer points of theology.
+[22:38 --> 22:43] Plus, there was a certain city that needed building.

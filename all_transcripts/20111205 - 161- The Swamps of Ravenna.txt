@@ -1,0 +1,292 @@
+# 20111205 - 161- The Swamps of Ravenna
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:04 --> 00:12] Hello, and welcome to The History of Rome, episode 161, The Swamps of Ravenna.
+[00:16 --> 00:20] It wouldn't be fair to come down too hard on the successors of Theodosius for their
+[00:20 --> 00:25] failure to maintain even a semblance of cooperation between the eastern and western halves of
+[00:25 --> 00:25] the empire.
+[00:26 --> 00:31] After all, as two civil wars fully attested, it's not like Theodosius' reign had been
+[00:31 --> 00:33] a shiny beacon of collegiality.
+[00:34 --> 00:39] But still, as the year 400 dawned, it was clear that the leaders of the empire were
+[00:39 --> 00:43] simply not up to the task of maintaining imperial unity.
+[00:44 --> 00:49] In survey history books, the year 395 is often labeled as the year when the two halves of
+[00:49 --> 00:55] the empire became legally separate entities, when they split into being constitutionally
+[00:55 --> 00:57] independent political apparatuses.
+[00:57 --> 01:02] And though that is technically inaccurate, as a matter of understanding the transformations
+[01:02 --> 01:07] of late antiquity, I would say that sure, that is more or less correct.
+[01:08 --> 01:14] From here on out, the east and west will act as rivals and enemies, at least as often as
+[01:14 --> 01:15] they act as friends and allies.
+[01:17 --> 01:22] Officially, of course, there never was a legal divorce, and right up until the bitter end,
+[01:22 --> 01:24] everyone paid lip service to a unified Rome.
+[01:25 --> 01:31] But unofficially, off the record, yeah, they've been living in separate houses for years.
+[01:33 --> 01:39] As the year 400 dawned, though, that unofficial official separation was still in its infancy,
+[01:39 --> 01:44] and there really was a reasonable hope that the growing rift might be bridged.
+[01:44 --> 01:49] And so, Stilicho, dominant statesman and general of the west, focused a huge amount of time
+[01:49 --> 01:54] and effort trying to build that bridge, the keystone being himself, naturally.
+[01:55 --> 02:00] But in the end, he wound up spending so much time and effort on the project that he neglected
+[02:00 --> 02:03] like half the provinces that it was his sworn duty to protect.
+[02:04 --> 02:09] And this neglect eventually had catastrophic consequences, not just for Stilicho's own
+[02:09 --> 02:12] life and career, but for the western empire as a whole.
+[02:13 --> 02:18] For the moment, however, Stilicho was about as strong politically as any non-emperor
+[02:18 --> 02:19] had ever been.
+[02:20 --> 02:24] He had successfully parried the dangerous thrusts of Alaric and his Goths, and then
+[02:24 --> 02:29] quickly restored order in North Africa after Gildo revolted and cut off the grain supply.
+[02:32 --> 02:37] Meanwhile, his rivals in the east had been having a hell of a time staying in power,
+[02:37 --> 02:43] as ministers and generals picked each other off one by one in a series of palace coups.
+[02:43 --> 02:49] For a brief moment in 400, the ethnically Goth general Guinus was ascendant, but after
+[02:49 --> 02:54] he returned to Constantinople with an army mostly composed of his own countrymen, he
+[02:54 --> 02:58] discovered that the citizens of the capital were not too psyched about these barbarians
+[02:58 --> 02:59] occupying their city.
+[03:00 --> 03:05] After a series of escalating incidents, in midsummer, Constantinople broke out into a
+[03:05 --> 03:11] full-scale riot, forcing Guinus to pull his men out of the city and flee, leaving behind
+[03:11 --> 03:15] some 7,000 Goths who were cornered by the mob and ripped to pieces.
+[03:17 --> 03:21] Over the course of these riots, the imperial palace itself was, if not totally burned to
+[03:21 --> 03:24] the ground, at least heavily damaged by fire.
+[03:27 --> 03:31] Guinus fled north to the Danube, and after crossing the river, he sought out the most
+[03:31 --> 03:36] powerful of the Hunnic kings, a man named Olden, and attempted to forge an alliance.
+[03:37 --> 03:43] But Olden, who was in the process of methodically consolidating his domination over the lands
+[03:43 --> 03:48] north of the Danube, took the opportunity to make a showing of friendly good faith to
+[03:48 --> 03:53] the Romans, and he sent Guinus' head in a gift-wrapped box back to Constantinople.
+[03:55 --> 04:00] With the East in a semi-sort of disarray, and the Empress Eudoxia now standing as the
+[04:00 --> 04:05] only real political leader of consequence, Stilicho was about ready to start re-pushing
+[04:05 --> 04:11] his claim to regency over Arcadius, but he was sidetracked by a barbarian invasion,
+[04:11 --> 04:15] and then really sidetracked when Alaric and his Goths invaded Italy.
+[04:19 --> 04:25] As we've already seen, the Hunnic migration into the Danube region led to massive population
+[04:25 --> 04:28] shifts among the existing barbarian populations.
+[04:29 --> 04:33] This process got started, of course, when Fritigern and his Goths came knocking back
+[04:33 --> 04:37] in the 370s, but that was just the opening round.
+[04:38 --> 04:44] In 401, a combined force of Vandals and Alans, fleeing from Olden's aforementioned attempts
+[04:44 --> 04:49] to subjugate them, reached the borders of the Roman Empire in the provinces of Radia
+[04:49 --> 04:53] and Noricum, and deciding that they stood a much better chance fighting Romans than
+[04:53 --> 04:57] fighting Huns, just kept right on moving west.
+[04:58 --> 05:02] Stilicho marched up from Italy at once, and through his usual brand of deaf maneuvering,
+[05:02 --> 05:07] was able to turn this horde back, but his deployment of the Italian army north of the
+[05:07 --> 05:12] Alps meant that the home province was now wide open to any threat that might happen
+[05:12 --> 05:12] along.
+[05:14 --> 05:15] Cue Alaric.
+[05:18 --> 05:23] As soon as Stilicho advanced out of Italy, Alaric saw a golden opportunity to gain some
+[05:23 --> 05:25] much-needed political and military security.
+[05:27 --> 05:32] His elevation to an official position within the Roman army had never been popular, nor
+[05:32 --> 05:36] were the subsidies that fed his people, who were now settled in Illyria.
+[05:37 --> 05:43] When his patron Eutropius was toppled, Alaric knew that his position was now shaky at best.
+[05:44 --> 05:48] When the people of Constantinople successfully drove Gainas and his Goths out of the capital,
+[05:49 --> 05:51] Alaric could see the writing on the wall.
+[05:52 --> 05:57] Pretty soon the supplies would stop coming in, he would be stripped of his command, and
+[05:57 --> 06:01] then very possibly toppled from power by his own angry countrymen.
+[06:03 --> 06:09] So in late 401, Alaric decided to go on the offensive, move west, and try his luck at
+[06:09 --> 06:10] extracting concessions from Milan.
+[06:12 --> 06:16] It was a risky bet, because by crossing the Alps, Alaric was breaking his contract with
+[06:16 --> 06:20] Constantinople, so this was an all-or-nothing sort of play.
+[06:20 --> 06:24] He was preemptively burning his political bridges to the east.
+[06:25 --> 06:29] But while a risky bet, it was not necessarily a bad bet.
+[06:30 --> 06:34] With the bulk of the western army engaged along the upper Rhine, Alaric was able to
+[06:34 --> 06:39] enter Italy completely unchallenged, and then pretty much do whatever he wanted.
+[06:42 --> 06:46] The Gothic king initially got bogged down besieging the key fortress city of Aquileia,
+[06:47 --> 06:52] but he quickly and wisely gave that up, and decided to turn his attention to lower-hanging
+[06:52 --> 06:52] fruit.
+[06:53 --> 06:58] For the rest of the winter, the Goths ran amok throughout northern Italy, while the
+[06:58 --> 07:01] Roman authorities could only look on helplessly.
+[07:02 --> 07:07] Honorius and his houseguard at Milan could do nothing about Alaric, and Stilico, his
+[07:07 --> 07:12] campaign against the Vandals at Al, pretty much wrapped up, was trapped on the wrong
+[07:12 --> 07:14] side of the snowed-in Alpine passes.
+[07:16 --> 07:21] As the spring of 402 approached, Alaric still had not gotten the concessions he wanted,
+[07:21 --> 07:26] and so he decided it was time to play his last card before things were complicated by
+[07:26 --> 07:27] Stilico's return.
+[07:28 --> 07:31] He marched on Milan and laid siege to the capital city.
+[07:33 --> 07:39] Now he never really had a hope in hell of taking Milan, but he wanted to spook the young
+[07:39 --> 07:44] emperor Honorius into authorizing subsidies to the Goths that would make up for the subsidies
+[07:44 --> 07:48] from Constantinople Alaric had given up by crossing the Alps.
+[07:49 --> 07:54] Honorius was indeed spooked and almost fled to Gaul, but he was convinced to sit tight
+[07:54 --> 07:57] and wait for Stilico to come back and save the day.
+[07:58 --> 08:01] The emperor did not have to wait long.
+[08:03 --> 08:08] The minute the passes thawed out in March of 402, Stilico was riding back into Italy
+[08:08 --> 08:14] at top speed to save the day, helpfully backed by an even stronger army than he had left
+[08:14 --> 08:15] with.
+[08:16 --> 08:20] Knowing that he would immediately be engaging the Goths upon his return to Italy, Stilico
+[08:20 --> 08:25] had ensured that part of the settlements of the previous year included barbarian troops
+[08:25 --> 08:28] promising to enroll as auxiliaries in the Roman army.
+[08:30 --> 08:34] When this even stronger Roman army entered Italy, the disappointed Alaric was forced
+[08:34 --> 08:38] to withdraw from Milan, having gained no concessions from the western court.
+[08:40 --> 08:45] Alaric and Stilico then picked up where they had left off and proceeded to dance around
+[08:45 --> 08:47] each other in the countryside southwest of the capital.
+[08:49 --> 08:54] But unlike their two previous encounters, this time they would actually meet in battle.
+[08:56 --> 09:03] On Easter Sunday, Stilico attacked the Goths near Palentia, a little east of modern Torino.
+[09:04 --> 09:10] The timing of the attack was a bit scandalous, as it was understood by all sides that Easter
+[09:10 --> 09:13] was a holy day, and not a day for fighting.
+[09:14 --> 09:17] But Stilico did not want to squander an opportunity.
+[09:19 --> 09:24] However, being a devout Christian himself, Stilico was wary of leading the attack personally,
+[09:25 --> 09:30] so he put an ethnically Alon and religiously pagan general in charge of the assault.
+[09:31 --> 09:36] The pagan barbarian general, as you can imagine, had no qualms about attacking on Easter Sunday,
+[09:37 --> 09:41] and the regular soldiers under his command, flush with the victory of the previous year,
+[09:41 --> 09:46] seemed eager to continue stomping the enemies of Rome, Easter Sunday or no.
+[09:48 --> 09:52] The Goths were taken by surprise, and after some fierce fighting, they were forced to
+[09:52 --> 09:57] make a run for it up into the mountains, losing control of their baggage train along the way.
+[09:58 --> 10:02] Stilico opened negotiations with the freed Alaric, and in exchange for the Gothic king
+[10:02 --> 10:07] withdrawing from Italy for good, the Goths appeared to have been granted some limited
+[10:07 --> 10:14] subsidies, and Alaric was allowed to maintain an official Roman command, this one bestowed
+[10:14 --> 10:16] by Milan rather than Constantinople.
+[10:18 --> 10:24] In the early summer of 402, Alaric then led his people on a slow march east back toward
+[10:24 --> 10:24] Illyria.
+[10:26 --> 10:30] And not to get off on too far of a tangent, but I have seen it noted a few places that
+[10:30 --> 10:36] this all took place in June of 403, a full year after the Battle of Palentia.
+[10:36 --> 10:40] But in other places, that it all took place in June of 402.
+[10:41 --> 10:47] Since the 402 date makes way, way more sense, that's the chronology I'm going with, because
+[10:47 --> 10:51] otherwise we'd have to explain why Alaric and his defeated army just sort of sat around
+[10:51 --> 10:53] in the mountains for 14 months.
+[10:54 --> 11:01] On his way back east though, Alaric inexplicably decided to halt his march and make camp near Verona.
+[11:02 --> 11:07] There are a few different theories about why Alaric stopped, but all of them are purely
+[11:07 --> 11:08] speculative.
+[11:08 --> 11:12] He wanted to regain his honor by defeating Stilicho in a rematch battle.
+[11:13 --> 11:16] He wanted to try to cut a better deal with the western court.
+[11:16 --> 11:21] He knew that having broken his pact with Constantinople, that there was a very good chance he was
+[11:21 --> 11:24] going to be attacked by the eastern legions when he showed his face there again.
+[11:25 --> 11:29] Maybe it was a bit of all of these things, and maybe it was something else entirely.
+[11:30 --> 11:35] Whatever the reason, Stilicho apparently decided that enough was enough.
+[11:35 --> 11:38] It was time to crush Alaric once and for all.
+[11:39 --> 11:44] Potential asset or no, the gothic king was proving to be way more trouble than he was worth.
+[11:46 --> 11:52] We have almost no details about the subsequent battle of Verona, except that it turned out
+[11:52 --> 11:57] to be probably the worst defeat in Alaric's long and illustrious career.
+[11:58 --> 12:03] Stilicho's victory was so complete that a significant element of the gothic high command
+[12:03 --> 12:06] defected to the roman side in the aftermath of the battle.
+[12:07 --> 12:12] The most important of these defections was of course that of Sarus, a bitter rival of
+[12:12 --> 12:18] Alaric's, who would become a key ally of Stilicho's and then play a major role in the events surrounding
+[12:18 --> 12:20] the sack of Rome in 410.
+[12:22 --> 12:26] But noticeably absent from the victory was Alaric's head on a pike.
+[12:27 --> 12:33] The wily barbarian king had taken flight when the battle became clearly lost and was now
+[12:33 --> 12:35] racing headlong for the Alps.
+[12:36 --> 12:39] Those in his army who did not defect raced after him.
+[12:40 --> 12:46] The chattering classes could not help but notice that once again Stilicho had let Alaric
+[12:46 --> 12:47] escape with his life.
+[12:51 --> 12:56] Probably the most important legacy of the brief gothic invasion of Italy was Stilicho's
+[12:56 --> 13:02] decision to move the seat of western imperial power from Milan to Ravenna.
+[13:02 --> 13:08] Though Alaric had never truly threatened Milan, his advance on the capital had proven that
+[13:08 --> 13:10] the city was vulnerable to attack.
+[13:10 --> 13:15] What would happen the next time an enemy decided to invade Italy while the western legions
+[13:15 --> 13:16] were occupied elsewhere?
+[13:17 --> 13:20] Given the times, this was not a hypothetical question.
+[13:20 --> 13:22] It was a very real strategic dilemma.
+[13:24 --> 13:28] Milan may have been heavily fortified, but it was still easily approachable.
+[13:29 --> 13:34] Ravenna, on the other hand, was surrounded by a ring of dense marshlands that rendered
+[13:34 --> 13:37] any overland approach a logistical nightmare.
+[13:39 --> 13:44] Hidden away behind these swamps, the western emperors would now be safe from the inevitable
+[13:44 --> 13:48] enemy invasions that Stilicho could see looming on the horizon.
+[13:52 --> 13:57] The move to Ravenna is a depressing reminder of how far the empire has fallen.
+[13:58 --> 14:03] When Rome was at its height, no one thought twice about the capital being located in,
+[14:03 --> 14:08] well, Rome, which was stuck inconveniently down some random peninsula.
+[14:09 --> 14:16] No threat was so great, no enemy so dangerous, that the extra time and energy it took to
+[14:16 --> 14:19] run the empire from Rome really factored into anyone's thinking.
+[14:21 --> 14:25] With the arrival of the crisis of the third century, though, that extra time and energy
+[14:25 --> 14:31] began to loom large, and the imperial court was moved to Milan, which put the emperors
+[14:31 --> 14:36] on the front line and allowed them to move quickly from crisis point to crisis point.
+[14:37 --> 14:43] The move to Milan was an admission that the Golden Age was dead and gone, but at least
+[14:43 --> 14:47] it was an aggressive response to an extremely difficult situation.
+[14:48 --> 14:53] The move to Ravenna, however, was an admission that the empire was becoming helpless.
+[14:54 --> 14:59] Its emperors no longer commanded the world from a recliner on the Palatine Hill,
+[14:59 --> 15:06] nor did they sit perched atop the walls of Milan, armor donned, ready to spring into action.
+[15:07 --> 15:13] No, instead they now cowered behind a ring of marshes, play-acting as if they really
+[15:13 --> 15:14] still were the kings of the world.
+[15:15 --> 15:20] It made sense strategically for Stilicho to tuck Honorius away in a safe little pocket,
+[15:20 --> 15:27] given the limited resources at his disposal, but still, oh, how the mighty have fallen.
+[15:31 --> 15:36] At around this same time, it appears that Stilicho made another key decision, that while
+[15:36 --> 15:41] making perfect sense given the geopolitical realities he was facing, would have profound
+[15:41 --> 15:43] consequences for the empire.
+[15:44 --> 15:49] Since the foundation of the Tetrarchy, the Roman capital of the Gallic frontier had always
+[15:49 --> 15:55] been Trier, located along the lower Rhine, but at some point in the early 5th century,
+[15:55 --> 16:01] the capital was shifted some 500 kilometers south to the city of Lyon.
+[16:02 --> 16:07] This shortened the supply and communication lines between the imperial court and its Gallic
+[16:07 --> 16:13] satellite, which was necessary given the insecurity of the Rhine frontier, but it was also a clear
+[16:13 --> 16:17] signal that Rome was repositioning itself for a tighter defense of the Inner Empire
+[16:17 --> 16:20] at the expense of its northern territories.
+[16:21 --> 16:27] The citizens of Britain and the lower Rhine were now basically on their own, and it would
+[16:27 --> 16:32] not take them long to wake up to the fact that they were still paying taxes to an empire
+[16:32 --> 16:34] that had given up trying to protect them.
+[16:37 --> 16:41] The main beneficiaries of this withdrawal turned out to be the Franks.
+[16:42 --> 16:50] Going back to the days of Constantine, the Franks had slowly but steadily migrated and
+[16:51 --> 16:53] along the lower Rhine.
+[16:53 --> 16:58] Their territory straddled both sides of the river, and as the emperors of Rome dealt with
+[16:58 --> 17:03] difficulties elsewhere, it became convenient to sign treaties with the Frankish kings,
+[17:04 --> 17:09] granting them de facto independence in exchange for a promise to defend the frontier from
+[17:09 --> 17:10] other barbarian groups.
+[17:12 --> 17:16] When the Roman authorities began to withdraw from the north, the local landed nobility
+[17:16 --> 17:21] was understandably worried about what this meant for them, and so they too turned to
+[17:21 --> 17:26] the Franks, cutting deals with them to protect the nobility's property in exchange for food
+[17:26 --> 17:27] and cash.
+[17:28 --> 17:34] This alliance between the increasingly non-Roman-aligned nobility of northern Gaul and the increasingly
+[17:34 --> 17:40] disinterested in ever becoming Romanized Franks would form the backbone of the Frankish kingdom
+[17:40 --> 17:44] that would one day rename Gaul and give us Charlemagne.
+[17:45 --> 17:51] But that is still an upheaval or two away, so let's get back to what happened next.
+[17:54 --> 18:00] In late 405, perhaps a bit sooner than Stilco would have hoped, one of those inevitable
+[18:00 --> 18:04] invasions of Italy inevitably came crashing down into Italy.
+[18:06 --> 18:14] The man behind the invasion was a new player on the board, but he was driven by what should
+[18:14 --> 18:17] be the expansion of the Huns.
+[18:17 --> 18:23] Said new player was a Gothic king named Radagaisus, who ruled the pagan Goths who still
+[18:23 --> 18:25] lived on the north side of the Danube River.
+[18:26 --> 18:31] He had managed to hold his own against the Huns thus far, but Olden's push to subjugate
+[18:31 --> 18:38] all local nations to the Huns finally became intolerable, and Radagaisus led his people
+[18:38 --> 18:42] across the Danube into Roman territory and then into Italy itself.
+[18:44 --> 18:49] Exaggerated sources sometimes claim the total number of Goths under Radagaisus' leadership
+[18:49 --> 18:55] was some 400,000 men, women, and children, but modern estimates figure it was more like
+[18:55 --> 18:59] 100,000 with about 20,000 men in fighting shape.
+[19:01 --> 19:07] Radagaisus' lightning invasion just before the onset of winter took Stilco off guard,
+[19:07 --> 19:12] and he was forced to sit tight for months until the spring allowed necessary reinforcements
+[19:12 --> 19:14] to arrive from Gaul.
+[19:15 --> 19:20] In the meantime, Radagaisus divided his followers into three groups and set them to plundering.
+[19:22 --> 19:26] Now this was a reasonable idea given that having all those mouths to feed in the same
+[19:26 --> 19:32] place at the same time was a liability, but come the spring of 406 when Stilco was reinforced,
+[19:32 --> 19:39] having the Gothic forces divided turned out to be the biggest liability of all.
+[19:39 --> 19:44] Backed by troops from the Rhine frontier as well as Hun forces sent with the compliments
+[19:44 --> 19:48] of Olden, who not only wanted to continue courting the friendship of the Romans, but
+[19:48 --> 19:55] also wanted to send a message that you couldn't run from the Huns, Stilco moved directly against
+[19:55 --> 19:58] the division of the Goths led by Radagaisus himself.
+[20:01 --> 20:06] The Gothic king was engaged in a nearly successful siege of Florence when Stilco arrived on the
+[20:06 --> 20:07] scene.
+[20:08 --> 20:13] The Goths, taken by surprise, were dispersed and unprepared, and so the Romans were able
+[20:13 --> 20:15] to easily scatter them.
+[20:15 --> 20:20] So easily, in fact, that it is reported that not a drop of Roman blood was spilled.
+[20:21 --> 20:26] Radagaisus and his people fled up into the Apennines where, though safe from further
+[20:26 --> 20:30] attack, they were trapped and cut off from their compatriots.
+[20:31 --> 20:36] Pretty soon the Goths were in dire straits, and Radagaisus, either selfishly trying to
+[20:36 --> 20:41] escape or selflessly trying to make contact with the other two groups, was captured trying
+[20:41 --> 20:43] to make a run for it.
+[20:43 --> 20:48] He was brought before Stilco, who had the Goth king executed without delay.
+[20:49 --> 20:52] The rest of the trapped Goths simply gave up.
+[20:54 --> 20:58] When the news that Radagaisus was dead and his warriors captured reached the other two
+[20:58 --> 21:03] groups, they too simply gave up the fight and surrendered to Roman forces.
+[21:04 --> 21:09] About 12,000 of the best Gothic fighters were promptly enrolled into the Roman army, while
+[21:09 --> 21:14] the rest were sold into slavery, collapsing the slave market in the process.
+[21:15 --> 21:20] Anyone left over headed back from whence they had come, most likely dreading the reception
+[21:20 --> 21:24] Olden had planned for them.
+[21:25 --> 21:30] Though circumstances never seemed to allow Stilco to immediately deal with these invasions
+[21:30 --> 21:36] into Italy, no one could deny that when he finally was able to act, he brought a swift
+[21:36 --> 21:37] conclusion to the crisis.
+[21:39 --> 21:45] In August of 406 then, Stilco was at the high watermark of his career, twice now the Savior
+[21:45 --> 21:51] of Italy, and he took the political capital he had earned and decided to spend it on his
+[21:51 --> 21:56] long-standing pet project of unifying the East and West under his personal control.
+[21:57 --> 22:01] The claims to regency over Arcadius were now a bit absurd.
+[22:01 --> 22:06] After all, the emperor was now in his late twenties, but that did not stop Stilco from
+[22:06 --> 22:09] pressing for territorial concessions from Constantinople.
+[22:09 --> 22:16] Specifically, he demanded the return of the eastern half of Illyria, which, as you'll
+[22:16 --> 22:21] recall, had been ceded over to the East to create a unified theater of command for Theodosius
+[22:21 --> 22:24] right after the Battle of Adrianople.
+[22:25 --> 22:29] Stilco thought it right and proper that it be returned to the purview of the Western
+[22:29 --> 22:31] Augustus, immediately.
+[22:33 --> 22:37] His saber-rattling on the issue included a threat to go to war to protect Honorius's
+[22:37 --> 22:43] name to the territory, and possibly messages sent to Alaric pressing the Gothic king to
+[22:43 --> 22:46] once again go out of plundering in Thrace.
+[22:49 --> 22:53] But all this saber-rattling was brought to a dramatic halt on New Year's Eve 406.
+[22:54 --> 22:58] Remember those Vandals and Alans who had been stopped in 401?
+[22:59 --> 23:04] Well, they were back on the move, this time joined by Burgundians and Alamani.
+[23:05 --> 23:10] On the last day of 406, they crashed through the line that had been weakened when Stilco
+[23:10 --> 23:12] brought down troops to deal with Radagaisus.
+[23:13 --> 23:16] Unpassified barbarians were now spilling across the border.
+[23:20 --> 23:24] Next week, we will deal with the deep consequences of this invasion.
+[23:25 --> 23:29] For starters, no, they never will be turned back.
+[23:29 --> 23:34] These Vandals are the same Vandals who will eventually wind their way down into North
+[23:34 --> 23:37] Africa and set up an independent kingdom for themselves.
+[23:38 --> 23:43] But more immediately, the invasion will lead to the complete political breakdown of the
+[23:43 --> 23:44] Northwestern Empire.
+[23:45 --> 23:51] Revolts and counter-revolts will lead to havoc far beyond the presence of a few barbarians,
+[23:51 --> 23:56] most dramatically demonstrated by the Roman withdrawal from Britain in 410.
+[23:56 --> 24:02] The end times are upon us, and the walls are crumbling down.

@@ -1,0 +1,333 @@
+# 20100322 - 088- A Day in the Life
+# Detected language: en
+# Duration: 1476.08 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you now know, Audible is the internet's leading provider of audio entertainment with
+[00:08 --> 00:11] over 60,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash rome.
+[00:16 --> 00:20] That again is audiblepodcast.com forward slash rome.
+[00:20 --> 00:24] By going to that address, you will qualify for a free book download when you sign up
+[00:24 --> 00:26] for a 14 day trial membership.
+[00:26 --> 00:30] There is no obligation to continue the service and you can cancel any time and keep the free
+[00:30 --> 00:32] book that you got.
+[00:32 --> 00:36] You can also keep going with one of the monthly subscription options and get great deals on
+[00:36 --> 00:38] all future audiobook purchases.
+[00:38 --> 00:43] This week, I'm going to recommend A Distant Mirror by Barbara Tuckman, which has nothing
+[00:43 --> 00:48] whatsoever to do with Roman history, but is a fascinating account of the 13th century,
+[00:48 --> 00:54] a century as utterly catastrophic as our own dearly departed friend, the 20th.
+[00:54 --> 01:04] Just remember to go to audiblepodcast.com forward slash rome so they know who sent you.
+[01:04 --> 01:13] Hello and welcome to The History of Rome, episode 88, A Day in the Life.
+[01:13 --> 01:16] When the sun rose, so too did the Romans.
+[01:16 --> 01:19] For the country population, this was only natural.
+[01:19 --> 01:22] After all, they had to get out in the fields and get working.
+[01:22 --> 01:27] But even in the cities, a Roman daily life revolved around daylight.
+[01:27 --> 01:32] Across the empire, whether farmer or lawyer, slave or emperor, the first crack of light
+[01:32 --> 01:35] was your cue to get up and get going.
+[01:35 --> 01:40] The Romans made a number of civilizational leaps that helped bridge the gap between prehistory
+[01:40 --> 01:41] and the modern world.
+[01:41 --> 01:46] But one conspicuous absence was any sort of public streetlight network in their cities.
+[01:46 --> 01:51] This meant that whatever you need to get done today has to be done while the sun is still
+[01:51 --> 01:52] up.
+[01:52 --> 01:56] If darkness fell, you'd better be safely back home, or you're going to be in for a
+[01:56 --> 01:57] long night.
+[01:57 --> 02:02] So there was no time to waste, and the Romans wasted no time.
+[02:02 --> 02:07] There was no such thing as a morning shower, a leisurely breakfast, or even a cup of coffee.
+[02:07 --> 02:12] The Romans slept in their underclothes, woke up, slipped on their overclothes, grabbed
+[02:12 --> 02:16] a glass of water, and maybe a few nuts or a piece of bread for breakfast, and were out
+[02:16 --> 02:19] the door literally minutes later.
+[02:19 --> 02:25] Baspasian liked to brag that he could go from sleep to ready for work in thirty seconds.
+[02:25 --> 02:30] But just because all Romans got started at dawn did not mean that they were all natural
+[02:30 --> 02:35] larks, as poor old Marcus Aurelius testified in a quote near and dear to my own owlish
+[02:35 --> 02:36] heart.
+[02:36 --> 02:42] Obviously, pained to be forever awakened at such a hideous hour as dawn, the Stoic emperor
+[02:42 --> 02:46] chronicled his recurring internal debates as he fought each morning to do the right
+[02:46 --> 02:48] thing.
+[02:48 --> 02:53] At dawn, when you have trouble getting out of bed, tell yourself, as a human being, I
+[02:53 --> 02:55] have to go to work.
+[02:55 --> 03:00] Why am I complaining if I'm going to do what I was born to do, the things I was brought
+[03:00 --> 03:02] into this world to do?
+[03:02 --> 03:07] Is this really what I was created for, to snuggle under blankets and stay warm?
+[03:07 --> 03:09] But you say, it's nicer here.
+[03:09 --> 03:13] I see, so you were born to feel nice, is that it?
+[03:13 --> 03:15] Not to do things and experience them?
+[03:15 --> 03:18] But we have to sleep sometime, you say.
+[03:18 --> 03:19] And I agree.
+[03:19 --> 03:23] But nature set a limit on that, just as it did with eating and drinking.
+[03:23 --> 03:25] And you're over the limit.
+[03:25 --> 03:26] You've had more than enough of that.
+[03:26 --> 03:31] And when it comes to working, you're still below quota.
+[03:31 --> 03:35] This is usually the point where I personally would roll over and go back to sleep.
+[03:35 --> 03:40] But then again, I sometimes think I would have made a pretty lousy Roman.
+[03:40 --> 03:44] Once out of bed, the Roman farmer went off and did what farmers do.
+[03:44 --> 03:50] They worked all day in the fields, came home, ate some dinner, and went to bed.
+[03:50 --> 03:53] Since that's not a particularly interesting routine, I'm going to spend the rest of the
+[03:53 --> 03:57] episode focused on the lives of the folks in the city.
+[03:57 --> 04:02] Just remember as we go along though that 90% of the Empire's population simply spent all
+[04:02 --> 04:05] day slaving away in the fields.
+[04:05 --> 04:10] When you get right down to it, for most Romans, that's what Roman daily life was.
+[04:10 --> 04:12] But again, boring.
+[04:12 --> 04:16] So off to the city we go.
+[04:16 --> 04:20] Just as they did not linger in bed, Roman men did not linger at home either, and most
+[04:20 --> 04:24] were hitting the streets as soon as they physically could.
+[04:24 --> 04:29] Roman women during the age of the Antonines usually spent most of their days indoors,
+[04:29 --> 04:33] so after they woke up, they either fussed with their hair if they were wealthy, or began
+[04:33 --> 04:39] the household chores if they were too impoverished to have slaves do it for them.
+[04:39 --> 04:44] So recall from two weeks ago that the annual income of the average Roman was subsidized
+[04:44 --> 04:49] by the morning calls they paid to their patrons, and so naturally that was the first thing
+[04:49 --> 04:52] the men did after waking up.
+[04:52 --> 04:56] The only men who remained at home during these crucial early hours were those high enough
+[04:56 --> 05:02] on the socioeconomic pyramid to be receiving visits rather than making them.
+[05:02 --> 05:07] If you were rich enough, you rolled out of bed, welcomed in the waiting mass of clients,
+[05:07 --> 05:11] and began dispensing the daily allotment of cash and prizes.
+[05:11 --> 05:15] Clients were received in order of prominence, with equites cutting ahead of the lower class
+[05:15 --> 05:19] schleppes and senators cutting ahead of them.
+[05:19 --> 05:23] The trick then was to get there early, so you could be received before the richie riches
+[05:23 --> 05:27] started showing up and forcing you to wait in the wings.
+[05:27 --> 05:31] That way you could pay your respects, get your cash, and then get along with the rest
+[05:31 --> 05:36] of your day, or have time to hit up a few more patrons.
+[05:36 --> 05:40] For those of you wondering what the patron got out of all this, after all, votes were
+[05:40 --> 05:45] no longer a valuable pro quo, so why even bother?
+[05:45 --> 05:49] The answer is that for the super wealthy, even more prestigious than being surrounded
+[05:49 --> 05:54] by a ton of slaves was being surrounded by a ton of free citizens who called you their
+[05:54 --> 05:55] patron.
+[05:55 --> 06:00] If a large entourage of slaves was the fancy car of the Roman world, a large entourage
+[06:00 --> 06:05] of clients was the private jet.
+[06:05 --> 06:10] If you had a job, after you paid your respects to your patron, you hustled off to work.
+[06:10 --> 06:15] If you didn't, you called on a few more patrons and then generally loafed around the city,
+[06:15 --> 06:19] playing the part of spectator at legal proceedings or chariot races, depending on whether it
+[06:19 --> 06:22] was a work day or a holiday.
+[06:22 --> 06:27] The Romans didn't observe the same regular work week that we've grown accustomed to,
+[06:27 --> 06:29] five days on, two off.
+[06:29 --> 06:34] But by no means did that mean that they worked every day, or even, God forbid, five days
+[06:34 --> 06:36] in a row.
+[06:36 --> 06:40] The Romans loved their days off even more than we do, and each month was packed with
+[06:40 --> 06:44] holidays of various shapes and sizes and purposes.
+[06:44 --> 06:50] The old Republican calendar listed about 90 days of public holiday throughout the year,
+[06:50 --> 06:55] but by the reign of Claudius, that number had grown to at least 150, and that number
+[06:55 --> 07:01] did not include the steady stream of spontaneous holidays, festivals, and games that emperors
+[07:01 --> 07:05] were forever declaring to shore up support for their regime.
+[07:05 --> 07:10] In all, Jerome Carcapino reckoned that by the second century, Romans, at least in the
+[07:10 --> 07:15] capital, enjoyed roughly one holiday for each day of work.
+[07:15 --> 07:20] And that is something I think we can all get behind.
+[07:20 --> 07:26] When it was, sigh, a work day, everyone was settled in fully by mid-morning.
+[07:26 --> 07:30] Retail shops were open in the commercial spaces that existed on the ground floor of almost
+[07:30 --> 07:32] every tenement building in the city.
+[07:32 --> 07:38] Restaurants, taverns, and inns served food and drink to passer-byers.
+[07:38 --> 07:42] Barbers worked on the men's daily shave that everyone was socially obligated to undergo
+[07:42 --> 07:47] until Hadrian finally put a stop to that unpleasant madness.
+[07:47 --> 07:51] Trade guilds managed the imports and exports of their city from offices adjacent to the
+[07:51 --> 07:52] Forum.
+[07:52 --> 07:58] Manufacturers, brickmakers, potters, and the like toiled in their various districts, and
+[07:58 --> 08:04] everywhere in between, manual laborers built, moved, picked up, and set down the ever-changing
+[08:04 --> 08:06] landscape of the city.
+[08:06 --> 08:10] The streets were crammed with people, and chaos reigned.
+[08:10 --> 08:15] Everyone was trying to get somewhere, and everyone else was trying to sell something,
+[08:15 --> 08:20] or beg for something, or announce something to those walking and riding by.
+[08:20 --> 08:25] The porticos of every building were jammed with makeshift businesses of every sort and
+[08:25 --> 08:29] run by businessmen of every nationality.
+[08:29 --> 08:33] Adding to the general craziness were the children of the Empire, suffering through the lessons
+[08:33 --> 08:38] of their teachers who usually taught in these same porticos.
+[08:38 --> 08:42] Adding to the chaos was the fact that these crowded streets had been laid out haphazardly
+[08:42 --> 08:45] and without an ounce of foresight.
+[08:45 --> 08:49] The city had grown organically over the centuries, and an accurate street map, if such a thing
+[08:49 --> 08:54] was even possible, would have just looked like a jumble of random lines.
+[08:54 --> 08:59] Some roads crossed themselves, others were far too narrow for the arterial traffic they
+[08:59 --> 09:04] now bore, while others led to nowhere at all.
+[09:04 --> 09:09] In setting up colony cities, the Romans always planned the streets using a grid system centered
+[09:09 --> 09:12] on a well-calculated axis.
+[09:12 --> 09:20] But the mother city was beyond hope, the dark shame of the obsessively Type A Romans.
+[09:20 --> 09:25] The hustle of economic life that energized every inch of every street reached its peak
+[09:25 --> 09:27] in the Forum.
+[09:27 --> 09:32] Most cities and towns in the Empire were built around a forum, the large open area that served
+[09:32 --> 09:36] as the center of political and economic life.
+[09:36 --> 09:41] This was where the ruling councils would meet, the main religious temple stood, and the primary
+[09:41 --> 09:46] business of any extended metropolitan area was conducted.
+[09:46 --> 09:53] By the second century, Rome itself had long outgrown the Forum, and various rulers, Julius
+[09:53 --> 09:59] Caesar, Augustus, the Flavians, and most recently Trajan, all built additional forums near the
+[09:59 --> 10:05] original to accommodate the increase in both population and economic activity.
+[10:05 --> 10:10] It was in these forums, too, that the famously litigious Romans sued the bejesus out of each
+[10:10 --> 10:13] other.
+[10:13 --> 10:19] Every day, in various public buildings around the various forums, judges, jurors, lawyers,
+[10:19 --> 10:25] defendants, plaintiffs, and spectators all crowded together to parse through the ugly
+[10:25 --> 10:29] business of suing and being sued.
+[10:29 --> 10:35] Where your case was heard and by whom it was heard depended on the facts of the case.
+[10:35 --> 10:39] Romans sued each other over everything, and just like today, there were attorneys who
+[10:39 --> 10:46] specialized in contract law and family law and estate law, commercial law, criminal law,
+[10:46 --> 10:51] employment law, international law, and of course, there was the Roman equivalent of
+[10:51 --> 10:56] the ambulance chaser who drummed up business by being first on the scene anytime they heard
+[10:56 --> 11:01] of anything bad happening to anyone, anywhere.
+[11:01 --> 11:05] Cases were submitted and trials began each morning and were supposed to last until around
+[11:06 --> 11:13] but continuances, appeals, and recesses would often push things well into the late afternoon.
+[11:13 --> 11:19] Civil cases were usually presented to a body of jurors overseen by one of the year's praetors.
+[11:19 --> 11:23] Membership in the jury pool was a mark of distinction, and the pool usually consisted
+[11:23 --> 11:26] of young men with political ambition.
+[11:26 --> 11:31] Appeals in either civil or criminal matters could be made to the supreme judicial body,
+[11:31 --> 11:35] which in the second century meant the emperor, who would then be forced to come and sit in
+[11:35 --> 11:40] session to sort it all out all over again.
+[11:40 --> 11:44] Roman law probably deserves its own dedicated show, and hopefully I'll get around to writing
+[11:44 --> 11:46] it one of these days.
+[11:46 --> 11:51] The procedural intrigues alone are worth the price of admission, but today I want to focus
+[11:51 --> 11:56] on the trials as an aspect of everyday life rather than on the particulars of how the
+[11:56 --> 12:00] Romans kept each other honest.
+[12:00 --> 12:04] For the general public, the courtroom battles were a source of daily amusement when there
+[12:04 --> 12:07] were no games to attend.
+[12:07 --> 12:11] Just as in the arena, there were favorite advocates and orators who would be followed
+[12:11 --> 12:16] around by fans who would cheer noisily for their hero's well-turned phrase and hiss the
+[12:16 --> 12:18] opposing counsel.
+[12:18 --> 12:23] Sometimes, these fan clubs would be kept on retainer by theatrically inclined attorneys
+[12:23 --> 12:29] looking to stack the deck in their client's favor by packing the house with noisy supporters.
+[12:29 --> 12:33] The courtroom sessions would begin in the morning and were supposed to be wrapped up
+[12:33 --> 12:38] by noon, but like I say, things never ended on time.
+[12:38 --> 12:42] By the time court adjourned at the end of the day, everyone was exhausted.
+[12:42 --> 12:48] The judges from being forced to sit and listen to windbag advocates zealously and overzealously
+[12:48 --> 12:54] represent their clients, the attorneys from having to perform set orations, the clients
+[12:54 --> 12:59] from sitting and waiting and sweating out their fate, and everyone else from being crammed
+[12:59 --> 13:03] into two close quarters for too long.
+[13:03 --> 13:07] When the last case came and went, everyone quickly hurried to their favorite public bath
+[13:07 --> 13:15] of choice where the average Roman spent the better part of his late afternoon.
+[13:15 --> 13:18] It wasn't just the courts that shut down in the afternoon.
+[13:18 --> 13:22] Across the city, and this is true both for Rome itself and the hundreds of municipalities
+[13:22 --> 13:28] across the empire who followed the capital's lead, the workday drew to a close in the early
+[13:28 --> 13:32] afternoon when the heat became unbearable.
+[13:32 --> 13:36] Siestas were a common way to break up the day as work gave way to recreation, but after
+[13:36 --> 13:42] catching a quick nap and maybe a light lunch of cold meat and bread, Romans of all stripes
+[13:42 --> 13:44] headed down to the baths.
+[13:44 --> 13:50] If the forum was the focal point of political and economic life, the baths were the center
+[13:50 --> 13:53] of social life.
+[13:53 --> 13:58] The public bath was a luxury that had grown in fits and starts over the course of the
+[13:58 --> 14:03] republic, but by the age of the Antonines it had developed into an indispensable part
+[14:03 --> 14:05] of daily life.
+[14:05 --> 14:10] During the middle republic, baths began to appear in the private residences of the rich
+[14:10 --> 14:16] as the virtuously dirty Roman citizen farmer gave way to the clean and cultured leader
+[14:16 --> 14:19] of the world's ruling class.
+[14:19 --> 14:24] Eventually, wealthy patrons began to construct bathhouses in their neighborhoods of residence
+[14:24 --> 14:27] for the general public to use.
+[14:27 --> 14:32] During his year as aidile in 33 BC, Agrippa took account of the public baths in Rome and
+[14:32 --> 14:36] came up with 170 scattered across the city.
+[14:36 --> 14:42] By the time his term was over, there were at least 171 as Agrippa built one himself
+[14:42 --> 14:46] that he generously announced would be free to the public forever.
+[14:46 --> 14:51] Over the course of the next century, the popularity of the baths would explode and by the reign
+[14:52 --> 14:58] plenty of the younger would reckon that there were more than a thousand in Rome alone.
+[14:58 --> 15:01] At first, the bathhouse was a simple unit.
+[15:01 --> 15:06] Usually there would be some changing rooms, a cold pool, and a hot pool, heated from an
+[15:06 --> 15:10] underground furnace and pipe system run by slaves.
+[15:10 --> 15:16] But as time passed, the bathhouse became a full-blown recreational complex.
+[15:16 --> 15:22] In addition to the litany of hot baths, cold baths, warm baths, private baths, air baths,
+[15:22 --> 15:28] steam baths, and any other kind of bath you can dream up, there were also sport rooms
+[15:28 --> 15:32] where you could wrestle, work out, or play one of the myriad ball games the Romans had
+[15:32 --> 15:35] come to love.
+[15:35 --> 15:40] If rigorous activity wasn't your thing, there were gardens, promenades, sitting rooms, and
+[15:40 --> 15:42] even libraries.
+[15:42 --> 15:48] All pleasantly landscaped and providing ample shade from the heat or cover from the rain.
+[15:48 --> 15:54] In the promenade dropping around the complex, retail shops sprang up, with legitimate vendors
+[15:54 --> 15:59] selling food, drink, clothes, and jewelry, while their black market cousins dealt in
+[15:59 --> 16:02] less savory wares.
+[16:02 --> 16:05] Depending on which emperor's reign we're talking about, the baths would be open in
+[16:05 --> 16:10] the early or late afternoon, and at some point, an hour or two would be set aside so that
+[16:10 --> 16:14] women could have the baths to themselves.
+[16:14 --> 16:18] That didn't mean that there wasn't mixed bathing, just that, if she wanted to, a Roman
+[16:18 --> 16:21] woman could bathe in peace.
+[16:21 --> 16:24] The bath would then stay open until around nightfall.
+[16:24 --> 16:30] Some citizens came and went quickly, staying just long enough to get clean, but others
+[16:30 --> 16:34] began to see the baths as the whole point of life.
+[16:34 --> 16:39] These loafers would line up and wait for the doors to open, and then stay until they were
+[16:39 --> 16:41] kicked out at closing time.
+[16:41 --> 16:46] Everyone in between these two extremes would enjoy a leisurely bath, maybe work out a bit,
+[16:46 --> 16:52] or stroll through the gardens before returning to the hustle and bustle of the city.
+[16:52 --> 16:57] You get the very real sense that for most Romans, the bath was their sole refuge from
+[16:57 --> 17:03] the pressures of an otherwise hot, dirty, and noisy city.
+[17:03 --> 17:08] After the bath, everyone would retire to their residences to get ready for the one formal
+[17:08 --> 17:12] meal that the Romans actually enjoyed, dinner.
+[17:12 --> 17:19] As we've seen, breakfast and lunch were catch-as-catch-can meals of cold meat, bread, nuts, fruit, and
+[17:20 --> 17:21] water.
+[17:21 --> 17:26] Anything that could be eaten on the run or while preparing to be on the run.
+[17:26 --> 17:28] Dinner though, was a different story.
+[17:28 --> 17:34] The family would actually sit down together to eat hot dishes served on real, actual plates.
+[17:34 --> 17:37] Though sit down is the wrong word.
+[17:37 --> 17:43] They would actually recline on couches, propped up on one elbow while they ate, because anything
+[17:43 --> 17:46] less would be uncivilized.
+[17:46 --> 17:51] A curious historical footnote on the subject concerns Cato the Younger, who, just before
+[17:51 --> 17:56] the Battle of Pharsalus, declared that he would eat sitting down in a chair until the
+[17:56 --> 17:59] tyrant Julius Caesar was dead.
+[17:59 --> 18:04] After Caesar won, Cato apparently followed through on this threat and never reclined
+[18:04 --> 18:05] while eating again.
+[18:05 --> 18:10] A small, but daily protest against the fall of the Republic.
+[18:10 --> 18:15] But getting back to the topic at hand, on most nights, dinner was a meal shared not
+[18:15 --> 18:19] just with the family, but also with close friends.
+[18:19 --> 18:23] The Romans, in other words, were big on dinner parties.
+[18:23 --> 18:29] Usually good taste and size constraints kept the total numbers between 6 and 9, but the
+[18:29 --> 18:34] wealthy in vain liked to throw parties for 30 guests or more, with multiple tables and
+[18:34 --> 18:37] dozens of courses.
+[18:37 --> 18:41] Getting invited to dinner was serious business in Rome, and the satirists of the Imperium
+[18:41 --> 18:46] had a field day with the antics of freeloaders forever angling to get themselves invited
+[18:46 --> 18:52] to dine, and jealous potential hosts fighting over the most prestigious guests.
+[18:52 --> 18:57] But leaving the mockery aside, everyone invited everyone else to dinner every night and then
+[18:57 --> 19:00] returned the favor the next night.
+[19:00 --> 19:04] Coming out to eat meant going over to a friend or colleague's house for dinner, as the fancy
+[19:04 --> 19:08] restaurant had not yet been invented.
+[19:08 --> 19:14] The meal itself could range from a modest 3 or 4 courses to preposterous dozens with
+[19:14 --> 19:18] intermissions in between the main eating bouts.
+[19:18 --> 19:23] The Romans should not be mistaken for great culinarians, but by the second century they
+[19:23 --> 19:28] at least had the whole empire from which to draw their ingredients, and even if preparation
+[19:28 --> 19:35] sometimes left a great deal to be desired, the smorgasbord of dishes was still impressive.
+[19:35 --> 19:40] Fish from the Mediterranean and wild game from the forest was standard fare, but boar,
+[19:40 --> 19:45] goose liver, oysters and lamb all made appearances on the menu.
+[19:45 --> 19:52] These main dishes were served with asparagus, apples, olives, grapes, beans, pumpkins, eggs,
+[19:52 --> 19:57] figs, cabbage, and dozens of other exotic fruits and vegetables from across the empire
+[19:57 --> 20:01] and beyond.
+[20:01 --> 20:05] The drink of choice in all houses was wine.
+[20:05 --> 20:09] Often heated in the winter and chilled in the summer, aristocratic Romans took their
+[20:09 --> 20:14] wine selection as seriously as they do today, and often paid top dollar for the best years
+[20:14 --> 20:17] and vintages.
+[20:17 --> 20:23] Everyone else, meanwhile, drank whatever bottom shelf jug of viscous alcohol they could afford.
+[20:23 --> 20:29] To underscore how important wine was to daily life, I should point out that those free grain
+[20:29 --> 20:35] allotments I've been talking about also included free allotments of wine, because apparently
+[20:35 --> 20:40] starving to death and remaining sober for a whole night were roughly equivalent catastrophes
+[20:40 --> 20:43] in the mind of the average Roman.
+[20:43 --> 20:48] Due to the limits of their distilling technology, what the Romans purchased was actually more
+[20:48 --> 20:53] of a wine concentrate than it was the table ready wine that we know today.
+[20:53 --> 20:58] The concentrate would be mixed with water before serving, usually half and half, but
+[20:58 --> 21:03] sometimes as high as one part wine for five parts water.
+[21:03 --> 21:09] Only the most debauched hedonist actually drank the wine straight.
+[21:09 --> 21:14] The average dinner began around four in the afternoon, depending on the time of year,
+[21:14 --> 21:17] and lasted until just before sundown.
+[21:17 --> 21:22] Appetizers and main courses and desserts came in the order that we're accustomed to, and
+[21:22 --> 21:28] the evenings were usually interspersed with informal musical or poetic performance.
+[21:28 --> 21:33] But unless you and your companions were crazy brave, everyone said their goodbyes as the
+[21:33 --> 21:35] sun began to set.
+[21:35 --> 21:40] This was to ensure that guests had a chance to make it home before being engulfed by a
+[21:40 --> 21:48] terror more frightening than Hannibal leading an army of barbarian Gauls, the city at night.
+[21:48 --> 21:51] As I said, Rome had no streetlights.
+[21:51 --> 21:57] Guests who were out after dark had to make do with personal torches to light their way.
+[21:57 --> 22:01] So being out after dark was a dangerous proposition for three reasons.
+[22:01 --> 22:07] One, Rome was a maze that was easy to get lost in during the day and almost impossible
+[22:07 --> 22:09] to navigate at night.
+[22:09 --> 22:13] One wrong turn and you were spending the night in the street.
+[22:13 --> 22:20] Two, night was when the most unsavory of unsavory characters emerged from Rome's ample underbelly.
+[22:20 --> 22:27] That wrong turn may not just make you late, it may also get you mugged, beaten, or killed.
+[22:27 --> 22:32] And three, in an attempt to decongest street traffic during the day, Julius Caesar had
+[22:32 --> 22:37] decreed that all commercial shipments be delivered only at night.
+[22:37 --> 22:41] The precedent stuck for the remaining life of the empire, which meant that the poorly
+[22:41 --> 22:48] lit streets of Rome were preposterously crammed with carts making deliveries.
+[22:48 --> 22:52] One wrong step or one reckless driver and that was it.
+[22:52 --> 22:58] All of this added up to the universal understanding that Rome after dark was no place anyone wanted
+[22:58 --> 23:00] to be.
+[23:00 --> 23:04] Best to be at home with the doors locked and the windows shuttered by the time the sun
+[23:04 --> 23:05] went down.
+[23:05 --> 23:11] Besides, you had to be up at dawn the next morning anyway.
+[23:11 --> 23:14] So that's a bit of a slice of daily life.
+[23:14 --> 23:20] Up at dawn, work into the afternoon, take a bath, have some dinner, and go to bed.
+[23:20 --> 23:26] Obviously, we could add several layers of complexity to this story and I hope to eventually
+[23:26 --> 23:31] add a few of those complexing layers and deal with things like sanitation, clothes, the
+[23:31 --> 23:36] theater, and of course, the races and gladiatorial shows.
+[23:36 --> 23:39] But for now, I think we're off to a pretty good start.
+[23:40 --> 23:44] Unfortunately, I'm going to have to take next week off, but we'll be back for sure in two
+[23:44 --> 23:48] weeks to go on a tour of the provinces.
+[23:48 --> 23:51] Then the hundredth episode, then it's back to business.
+[23:51 --> 23:57] Marcus Aurelius and Lucius Verus, the wars that erupted the east and along the Danube,
+[23:57 --> 24:00] at least one really major plague.
+[24:00 --> 24:06] Then the handoff to Commodus and his assassination, the rise of Septimus Severus, and then the
+[24:06 --> 24:12] total political, economic, and social breakdown that accompanied the fall of his dynasty forty
+[24:12 --> 24:13] years later.

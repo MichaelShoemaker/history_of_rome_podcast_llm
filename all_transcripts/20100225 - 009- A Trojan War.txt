@@ -1,0 +1,305 @@
+# 20100225 - 009- A Trojan War
+# Detected language: en
+# Duration: 832.08 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:07] Hello, and welcome to the History of Rome.
+[00:08 --> 00:13] Last time, we left Rome on an upbeat, Fidenae recovered, and their position in the region
+[00:13 --> 00:14] stabilized.
+[00:15 --> 00:19] The Volscians were still a persistent menace to the south, but by this time they were
+[00:19 --> 00:21] clearly on the decline militarily.
+[00:21 --> 00:25] In another few decades, Rome would finally put an end to the Volscian threat and
+[00:25 --> 00:27] conquer them once and for all.
+[00:27 --> 00:31] But for now, periodic clashes continued to be a mainstay of legion activity.
+[00:33 --> 00:37] The main threat to Rome though lay north with the city-state of Via, long an economic,
+[00:37 --> 00:39] political and military rival.
+[00:40 --> 00:44] When not clashing with Via directly, the Etruscan city had bankrolled Rome's enemies
+[00:44 --> 00:45] and fought by proxy.
+[00:46 --> 00:50] After years of avoiding conflict because they were stretched too thin, the Romans
+[00:50 --> 00:54] finally felt secure enough to challenge their northern rival openly and committed
+[00:54 --> 00:58] themselves to a war that would determine who controlled central Italy.
+[00:59 --> 01:04] As I mentioned earlier, Via was the southernmost member of the Etruscan League, a loose confederation
+[01:04 --> 01:08] of 12 city-states that controlled Italy from the Tiber north to the Po Valley.
+[01:09 --> 01:14] Other members of the League included Tarquini, birthplace of Tarquinius Priscus, the
+[01:14 --> 01:18] fifth king of Rome, and Clausium, home of Lars Porcena who either did or did
+[01:18 --> 01:19] not conquer Rome.
+[01:20 --> 01:23] Had there been any solidarity between the cities, it is doubtful Rome would
+[01:23 --> 01:28] have emerged triumphant from its war with Via, but the League served an economic and
+[01:28 --> 01:31] cultural function rather than a political and military one.
+[01:32 --> 01:36] This failure to unite would ultimately spell the end for the Etruscans, who, in addition
+[01:36 --> 01:40] to pressure from Rome in the south, suddenly faced the threat of migrating Gauls who
+[01:40 --> 01:44] were passing through the Alps into the Po Valley and squeezing the Etruscans
+[01:44 --> 01:45] out of land in the north.
+[01:46 --> 01:49] The third prong of the assault that would mark the end of Etruscan power was the
+[01:49 --> 01:55] of Syracuse, the powerful Greek city in Sicily, who bottled up the Carthaginians,
+[01:55 --> 01:59] long an Etruscan economic and military ally, preventing any outside aid from
+[01:59 --> 02:01] reaching the besieged Etruscan cities.
+[02:02 --> 02:06] Syracuse had just put itself on the map by defeating an Athenian invasion force
+[02:06 --> 02:11] in 413 BC and now ambitiously sought to control all mainland Italy.
+[02:12 --> 02:17] But getting back to the topic at hand, the war between Rome and Via was inevitable.
+[02:17 --> 02:22] Via lay a mere 12 miles north of Rome, far too close for the two powers to coexist
+[02:22 --> 02:23] peacefully forever.
+[02:24 --> 02:27] Eventually, economic necessity drove them both to the conclusion that the other
+[02:27 --> 02:29] had to be eliminated.
+[02:29 --> 02:32] The region was simply not big enough for the both of them.
+[02:32 --> 02:36] There are three basic points of economic conflict that could not be
+[02:36 --> 02:37] resolved peacefully.
+[02:38 --> 02:41] The first was control of the lucrative salt beds at the mouth of the Tiber.
+[02:42 --> 02:45] Almost all the inland communities relied on the Tiber beds as their source
+[02:45 --> 02:49] of salt, and whoever controlled the source controlled a reliable cash cow.
+[02:50 --> 02:54] But the beds lay mostly on the north bank of the river, and so were controlled
+[02:54 --> 02:54] by Via.
+[02:55 --> 02:59] The Romans looked on with envy and for years sought to dislodge the
+[02:59 --> 03:01] Vietes, but were never in a position to do so.
+[03:02 --> 03:04] Now it seemed the time was ripe to make their move.
+[03:05 --> 03:08] The Romans wanted to control the beds, but Via was not going to give them
+[03:08 --> 03:09] up without a fight.
+[03:10 --> 03:14] The salt trade was so important because of the economic conditions at the time.
+[03:14 --> 03:18] Economic conditions that made the world too small for both powers.
+[03:19 --> 03:23] After the Etruscans had lost their foothold south of Rome to the Volscians,
+[03:23 --> 03:26] their direct connection to trade with Magna Graecia was severed.
+[03:26 --> 03:30] The archaeological record shows that the flood of trade Via had once
+[03:30 --> 03:33] enjoyed as the gateway to Etruria, now slowed to a trickle.
+[03:34 --> 03:36] Their overland trade routes closed.
+[03:36 --> 03:39] The Vietes were forced to rely on seafaring traders, most importantly
+[03:39 --> 03:41] their Carthaginian allies.
+[03:41 --> 03:45] But after the rise of Syracuse, those Carthaginian traders began to be
+[03:45 --> 03:48] squeezed out and Via's economy suffered as a result.
+[03:49 --> 03:53] In better days, northbound trade was ample enough to be split between
+[03:53 --> 03:56] Via and Rome, but now the limited supply was not enough to supply
+[03:56 --> 03:58] two economic centers.
+[03:58 --> 04:01] One had to be eliminated or both would die.
+[04:02 --> 04:04] Finally, there was the basic issue of territory.
+[04:05 --> 04:08] Rome's population was expanding, but its territory was not.
+[04:09 --> 04:12] Via controlled huge tracts of fertile land that all levels of
+[04:12 --> 04:14] Roman society coveted.
+[04:14 --> 04:17] The richest Patrician and the poorest plebeian both saw the land
+[04:17 --> 04:21] north of the Tiber as the answer to their overpopulation crisis.
+[04:21 --> 04:25] The Patricians wanted the land to relocate the landless plebes who
+[04:25 --> 04:29] were agitating with escalating fervor to redistribute patrician
+[04:29 --> 04:32] land in a more equitable manner, and the plebes just wanted land,
+[04:32 --> 04:33] whatever the source.
+[04:34 --> 04:37] The need to control the salt markets, the need to control the sparse
+[04:37 --> 04:41] overland trade with Magna Graecia, and the need to control the land
+[04:41 --> 04:44] north of the Tiber finally drove the Romans to action, and around
+[04:44 --> 04:48] 400 BC, it was decided to take Via out once and for all.
+[04:49 --> 04:52] The Veites, equally in a bind, were more than willing to take up
+[04:52 --> 04:54] the fight, and the final conflict was joined.
+[04:56 --> 04:59] The war with Via was unlike any the Romans had undertaken thus
+[04:59 --> 05:02] far, and the battle would change the nature and character of the
+[05:02 --> 05:02] Romans forever.
+[05:03 --> 05:08] Livy dates the conflict as taking place between 402 and 392 BC, and
+[05:08 --> 05:12] the archaeological record tends to back up this chronology, though
+[05:12 --> 05:12] not completely.
+[05:13 --> 05:16] The traditional length given for the war is 10 years, but most
+[05:16 --> 05:19] historians agree that this number was lifted from the mythical
+[05:19 --> 05:22] Trojan War, and that the actual conflict more likely lasted six
+[05:22 --> 05:23] or seven years.
+[05:25 --> 05:27] Battles in the field were intermittent and inconclusive,
+[05:27 --> 05:31] leading the Romans to change tactics and besiege Via itself
+[05:31 --> 05:33] rather than try and beat its army in the field.
+[05:34 --> 05:37] This forced the Romans to do something they had never before
+[05:37 --> 05:40] even contemplated, keeping an army in the field year round.
+[05:41 --> 05:44] Traditionally, the campaign season lasted between April and
+[05:44 --> 05:47] October, with soldiers returning home for the winter.
+[05:47 --> 05:50] It was completely unprecedented to keep an army enrolled past
+[05:50 --> 05:53] October, but after the decision was made to lay siege
+[05:53 --> 05:55] to Via, this is exactly what happened.
+[05:56 --> 05:58] The soldiers suffered this outrage only because the
+[05:59 --> 06:01] Senate introduced an innovation that would mark a turning point
+[06:01 --> 06:03] in Roman history, soldier pay.
+[06:04 --> 06:07] It was not a great sum, nor was it a permanent policy, but
+[06:07 --> 06:10] it set a precedent and marked the first step on the long
+[06:10 --> 06:13] road toward the establishment of a fully professional army, a
+[06:13 --> 06:16] road that led directly to the death of the Republic.
+[06:17 --> 06:19] For now, though, it was an expedient to keep an army in
+[06:19 --> 06:22] the field at a time when the soldiers had to return home
+[06:22 --> 06:23] to look after their farms.
+[06:23 --> 06:26] The pay alleviated the economic burden the soldiers
+[06:26 --> 06:27] faced and kept them fighting.
+[06:29 --> 06:31] The siege soon turned into a prolonged siege.
+[06:32 --> 06:34] The Romans wanted nothing more than a quick, decisive
+[06:34 --> 06:37] victory, but Via was situated in a nearly
+[06:37 --> 06:38] impregnable position.
+[06:38 --> 06:41] Bounded on three sides by cliffs, only a narrow strip
+[06:41 --> 06:44] of land north of the city offered a level entrance.
+[06:45 --> 06:47] The Romans managed to gain control of that strip and cut
+[06:47 --> 06:50] Via off from the rest of the world, but they were
+[06:50 --> 06:51] never able to do much more than that.
+[06:53 --> 06:55] The Viats were able to concentrate their total
+[06:55 --> 06:58] defensive capabilities on that one accessible point, and
+[06:58 --> 07:00] so the Romans were unable to make any headway.
+[07:01 --> 07:04] Though not far from home, again, Via was only 12 miles
+[07:04 --> 07:07] from Rome, the soldiers were forced to remain in camp
+[07:07 --> 07:10] through the winter and began to grumble with the
+[07:10 --> 07:11] injustice of remaining in arms.
+[07:12 --> 07:14] The tribunes railed against the policy, claiming
+[07:14 --> 07:17] that the siege was a patrician policy dedicated
+[07:17 --> 07:20] more to getting influential plebes out of the city than
+[07:20 --> 07:21] actually winning the war.
+[07:22 --> 07:23] Look at Via, they said.
+[07:23 --> 07:25] What army could possibly take it by force?
+[07:25 --> 07:26] It was absurd.
+[07:27 --> 07:29] Soldiers were kept on year after year, their farms
+[07:29 --> 07:32] falling into disrepair, and their families falling
+[07:32 --> 07:34] into poverty, despite whatever pay was coming
+[07:34 --> 07:37] from the treasury, all in the name of a siege that
+[07:37 --> 07:39] showed no promise of being brought to a successful
+[07:39 --> 07:40] conclusion.
+[07:41 --> 07:43] A great many were sympathetic to this view, and the will
+[07:43 --> 07:45] of the army began to waver.
+[07:46 --> 07:49] Into this depressed state came one of the great heroes
+[07:49 --> 07:52] of Roman history, Marcus Varius Camillus.
+[07:53 --> 07:55] Of patrician descent, Camillus had been elected
+[07:55 --> 07:58] military trivian three times over the course of the
+[07:58 --> 08:01] war, distinguishing himself on the battlefield
+[08:01 --> 08:03] and running a notoriously disciplined ship.
+[08:04 --> 08:06] The Senate and the people were both increasingly
+[08:06 --> 08:09] dissatisfied with the military leadership, who
+[08:09 --> 08:11] seemed more willing to fight amongst themselves
+[08:11 --> 08:13] than unite behind a winning strategy.
+[08:13 --> 08:16] So, sick of the inconclusive bickering,
+[08:16 --> 08:18] they turned to Camillus, whose record spoke for
+[08:18 --> 08:20] himself, and elected him to the first of his
+[08:20 --> 08:23] unprecedented five dictatorships.
+[08:23 --> 08:26] Later crises would keep the Romans coming back
+[08:26 --> 08:28] to him again and again, and it was the reputation
+[08:28 --> 08:31] he established for himself at Viet that kept
+[08:31 --> 08:32] them coming back.
+[08:32 --> 08:34] What looked like a never-ending siege would be
+[08:34 --> 08:37] brought to completion within his six-month
+[08:37 --> 08:37] term of office.
+[08:39 --> 08:41] Camillus knew as well as anyone that a direct
+[08:41 --> 08:44] assault on the city was doomed to failure, so
+[08:44 --> 08:46] he set his mind on devising some other way
+[08:46 --> 08:47] to gain access.
+[08:47 --> 08:50] It did not take long for him to notice the
+[08:50 --> 08:52] Viet's extensive sewer system and how easy
+[08:52 --> 08:54] it would be to breach the city from underneath.
+[08:55 --> 08:57] He set his army digging in shifts around
+[08:57 --> 08:59] the clock, making a tunnel from the Roman camp
+[08:59 --> 09:01] to one of the drainage pipes that ran
+[09:01 --> 09:02] under the city.
+[09:03 --> 09:05] He periodically ordered attacks on the walls
+[09:05 --> 09:07] to keep the Viet's busy, and they never
+[09:07 --> 09:08] caught on to the plan.
+[09:09 --> 09:11] It was now only a matter of time before the
+[09:11 --> 09:12] legions would come pouring in.
+[09:14 --> 09:15] Finally, the Romans reached the underground
+[09:15 --> 09:18] sewer system and followed it to the middle
+[09:18 --> 09:18] of the city.
+[09:19 --> 09:21] A raiding party was sent above, emerging
+[09:21 --> 09:23] from a temple and making straight away
+[09:23 --> 09:23] for the gates.
+[09:24 --> 09:26] Camillus ordered the bulk of his army
+[09:26 --> 09:28] in a frontal attack, which must have seemed
+[09:28 --> 09:30] like madness to the Viet's until the company
+[09:30 --> 09:32] of Romans appeared in their midst and
+[09:32 --> 09:33] opened the gates from within.
+[09:34 --> 09:36] The Romans did indeed come pouring in,
+[09:36 --> 09:37] and it was the end for Viet.
+[09:38 --> 09:40] Camillus and the Romans were not interested
+[09:40 --> 09:42] in terms of surrender or indemnities.
+[09:42 --> 09:44] They wanted to destroy Viet completely.
+[09:45 --> 09:46] The men were slaughtered and the women
+[09:46 --> 09:48] and children sold into slavery.
+[09:49 --> 09:51] The city was sacked and pillaged with all
+[09:51 --> 09:52] its movable wealth, finding a new home
+[09:52 --> 09:54] in the ruck sack of some legionnaire.
+[09:55 --> 09:57] Prior to final victory, Camillus had made
+[09:57 --> 09:59] a fateful promise that one-tenth of the
+[09:59 --> 10:01] spoils of war would be dedicated to Apollo,
+[10:01 --> 10:03] but in the commotion of victory,
+[10:03 --> 10:05] his promise was forgotten and everything
+[10:05 --> 10:07] was piled into the baggage train undivided.
+[10:08 --> 10:10] The great Etruscan city of Viet had fallen,
+[10:10 --> 10:11] never to rise again.
+[10:13 --> 10:15] Upon returning to Rome, the victorious
+[10:15 --> 10:17] Camillus was awarded a well-earned triumph,
+[10:18 --> 10:19] though the procession would mark the
+[10:19 --> 10:21] beginning of his famous undoing and would
+[10:21 --> 10:23] soon find him exiled from the city
+[10:23 --> 10:25] he had just led to victory.
+[10:26 --> 10:27] Riding at the head of his army,
+[10:27 --> 10:29] Camillus was pulled on his chariot
+[10:29 --> 10:31] by four white horses, traditionally an honor
+[10:31 --> 10:33] reserved only for kings.
+[10:33 --> 10:35] The inhabitants of the city whispered
+[10:35 --> 10:37] to one another that Camillus fancied
+[10:37 --> 10:39] himself a monarch and began to look at him
+[10:39 --> 10:41] not as a conquering hero, but as a
+[10:41 --> 10:42] potential tyrant.
+[10:43 --> 10:45] His fate was sealed when, after the
+[10:45 --> 10:47] soldiers had returned home with their booty,
+[10:47 --> 10:49] Camillus began to worry about his
+[10:49 --> 10:50] unfulfilled promise to Apollo.
+[10:51 --> 10:54] Finally, he issued an order that all soldiers
+[10:54 --> 10:56] had to produce one-tenth of their treasure
+[10:56 --> 10:58] and hand it over to the state in order
+[10:58 --> 10:59] to appease the gods.
+[10:59 --> 11:02] The citizens were outraged, but complied
+[11:02 --> 11:03] out of their well-engrained sense
+[11:03 --> 11:04] of religious obligation.
+[11:05 --> 11:07] They were further incensed when Camillus
+[11:07 --> 11:08] and the Senate announced that one-tenth
+[11:08 --> 11:10] of Viet's land would also be set aside
+[11:10 --> 11:11] for Apollo.
+[11:12 --> 11:14] The land starved masses could not believe
+[11:14 --> 11:15] their ears, and it was really only
+[11:15 --> 11:17] a matter of time before they lashed out
+[11:17 --> 11:18] at their erstwhile hero.
+[11:19 --> 11:21] A year or two passed and a tribune
+[11:21 --> 11:22] finally brought charges against Camillus
+[11:22 --> 11:25] for mishandling the wealth taken from Viet.
+[11:25 --> 11:28] Rather than face a hostile and humiliating trial,
+[11:28 --> 11:30] Camillus decided to leave the ungrateful
+[11:30 --> 11:33] Romans to their fate and went into voluntary exile.
+[11:34 --> 11:35] Legend has it that as he left,
+[11:35 --> 11:37] he offered a prayer that if he was
+[11:37 --> 11:39] innocent, that the gods should cause
+[11:39 --> 11:41] his former countrymen to regret his departure.
+[11:42 --> 11:44] A pure fabrication, but to the Romans,
+[11:44 --> 11:46] the sight of a massive barbarian invasion
+[11:46 --> 11:49] did indeed make them soon regret the absence
+[11:49 --> 11:50] of their best military commander.
+[11:52 --> 11:54] The victory over Viet marked a turning point
+[11:54 --> 11:57] for Roman history as well as Italian history as a whole.
+[11:58 --> 12:00] Viet was one of the richest cities of Atruria,
+[12:00 --> 12:02] and its sack marked the beginning of the end
+[12:02 --> 12:04] of Etruscan dominance in northern Italy.
+[12:05 --> 12:07] In the north, Gauls from central Europe
+[12:07 --> 12:10] began to cross en masse into the Po Valley,
+[12:10 --> 12:12] sweeping through Etruscan defenses
+[12:12 --> 12:13] and settling in Etruscan lands.
+[12:14 --> 12:16] The Etruscans thus found themselves squeezed
+[12:16 --> 12:19] between the Gallic migration and the Roman expansion.
+[12:20 --> 12:23] As I said earlier, military and political solidarity
+[12:23 --> 12:25] might have helped them beat off the attacks,
+[12:25 --> 12:28] but the independent-minded Etruscans kept to themselves
+[12:28 --> 12:30] and so saw their cities fall one by one.
+[12:31 --> 12:33] It would not be a quick decline.
+[12:33 --> 12:35] Indeed, we will find them continuing
+[12:35 --> 12:37] to fight Rome throughout the Samnite Wars,
+[12:37 --> 12:40] but they would never again have the power or prestige
+[12:40 --> 12:41] they had so recently enjoyed.
+[12:42 --> 12:45] In the end, they would all fall under Rome's yoke
+[12:45 --> 12:46] and find themselves servants
+[12:46 --> 12:48] where they had once been masters.
+[12:49 --> 12:51] Although the push from the Gauls
+[12:51 --> 12:52] helped precipitate Etruscan decline,
+[12:53 --> 12:55] it also prevented the end from coming too quickly.
+[12:56 --> 12:58] The Romans, flush with victory,
+[12:58 --> 13:00] may well have continued to push north
+[13:00 --> 13:03] and defeat all the Etruscan cities one by one.
+[13:03 --> 13:06] However, a force of Gauls moved south through Etruria
+[13:06 --> 13:08] all the way to the gates of Rome,
+[13:08 --> 13:10] where they would decisively beat the Romans,
+[13:10 --> 13:11] handing them a defeat
+[13:11 --> 13:13] that would leave the city burned to the ground
+[13:13 --> 13:15] and its citizens debating not which Etruscan city
+[13:15 --> 13:16] they should attack next,
+[13:17 --> 13:19] but whether or not to abandon their ruined city completely.
+[13:21 --> 13:23] Next week, we will cover the sack of Rome
+[13:23 --> 13:25] and the return of Camillus,
+[13:25 --> 13:28] an event that would close a historical epoch,
+[13:28 --> 13:30] marking the end of the beginning for Rome.

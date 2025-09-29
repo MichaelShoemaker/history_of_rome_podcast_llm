@@ -1,0 +1,543 @@
+# 20100228 - 051- Actium
+# Detected language: en
+# Duration: 1466.07 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 51, Actium.
+[00:12 --> 00:17] After the partnership between Antony and Octavian broke down following the dissolution of the
+[00:17 --> 00:22] Second Triumvirate in 32 BC, there was no longer room in the Empire for both men.
+[00:23 --> 00:26] Everyone had long suspected that war would break out between the two Triumvirates
+[00:26 --> 00:29] Eventually, now that war had arrived.
+[00:30 --> 00:33] Once again, Romans were first to choose sides in a civil war.
+[00:34 --> 00:38] I honestly feel sorry for the exhausted generations of this final century of the Republic.
+[00:39 --> 00:43] These men and women, who were born just before Sulla's first march on Rome in 88
+[00:43 --> 00:48] BC, who grew up in the vicious prescription regimes of the two feuding generals Sulla
+[00:48 --> 00:53] and Marius, came of age at the time of the Catiline Conspiracy, and then grew
+[00:53 --> 00:57] into full adulthood with Julius Caesar's civil wars raging all around them.
+[00:57 --> 01:02] As they moved into their 50s and 60s, ready to take on the role of elder statesmen
+[01:02 --> 01:05] or presiding matrons, they were caught up in the Triumvirate wars against Brutus
+[01:05 --> 01:08] and Cassius and then Sextus Pompey.
+[01:08 --> 01:13] And now, Octavian and Antony were drawing yet another bloody line in the sand.
+[01:13 --> 01:17] Every step of the way, these poor souls had been forced to choose sides.
+[01:17 --> 01:21] Choosing the right side usually meant little more than the opportunity to sacrifice
+[01:21 --> 01:24] something valuable to the victor, be it land or treasure.
+[01:25 --> 01:28] While choosing the wrong side usually meant exile and death.
+[01:29 --> 01:33] While it was true that many were staunch partisans of one side or another,
+[01:33 --> 01:36] most were just average men and women trying to live their lives for whom
+[01:36 --> 01:38] these conflicts were never black and white.
+[01:39 --> 01:42] On this side was their son, on that side their brother.
+[01:42 --> 01:46] Their father had been killed by this man, but their daughter's life was now
+[01:46 --> 01:47] inextricably linked to his success.
+[01:48 --> 01:50] It was never easy.
+[01:50 --> 01:54] Every choice, every year came with more heartache and suffering.
+[01:54 --> 01:58] The history of their nation was riddled with tales of patriotic solidarity
+[01:58 --> 02:02] in the face of a barbarian invasion or a long war against the Samnites
+[02:02 --> 02:03] or Carthaginians.
+[02:04 --> 02:08] But to this generation, it all must have seemed like some sort of cruel fantasy.
+[02:09 --> 02:12] Romans did not come together to help one another out in times of trouble.
+[02:13 --> 02:16] No, that was when they turned on each other and tried to squeeze partisan
+[02:16 --> 02:18] advantage out of the situation.
+[02:19 --> 02:23] Edward Gibbon famously said that being a citizen of Rome in the second century AD
+[02:23 --> 02:26] was perhaps the greatest time and place to live in all of human history.
+[02:27 --> 02:30] No such luck for these poor sods stuck in the last century BC.
+[02:31 --> 02:36] For them, it was all war, upheaval, and trying to figure out the least bad path
+[02:36 --> 02:38] through a dangerous and unpredictable time.
+[02:41 --> 02:44] But the hardship endured by the millions of citizens who were just trying
+[02:44 --> 02:48] to get along counted for little in the personal struggle between Octavian
+[02:48 --> 02:50] and Antony, who saw only each other.
+[02:51 --> 02:55] In late 32 BC, Antony and his recently announced co-general Cleopatra
+[02:55 --> 02:58] had sailed with their fleet for the Ambracean Gulf,
+[02:58 --> 03:01] intent on forcing Octavian out of the picture once and for all.
+[03:02 --> 03:05] But Octavian, who had provoked Antony into action,
+[03:05 --> 03:07] had no intention of going down easily.
+[03:08 --> 03:11] Antony and Cleopatra were an abomination, little more than eastern
+[03:11 --> 03:15] monarchs who were no more Roman than Pyrrhus or Antiochus or Mithridates.
+[03:16 --> 03:19] Also, they stood in the way of the one ambition he had pursued
+[03:19 --> 03:22] with single-minded purpose for the last decade,
+[03:22 --> 03:24] sole mastery of the Roman Empire.
+[03:25 --> 03:28] Beyond the small port town of Actium, the two rivals
+[03:28 --> 03:31] were about to meet for what would prove in retrospect
+[03:31 --> 03:33] to be their final showdown.
+[03:34 --> 03:36] When the spring of 31 BC rolled around,
+[03:37 --> 03:40] Antony recognized that he was boxed in at the Ambracean Gulf.
+[03:41 --> 03:43] Before I go any further, I would like to tell everyone
+[03:43 --> 03:47] that in A History of Rome First, I've actually got maps to go along with this episode.
+[03:48 --> 03:52] So if you go to thehistoryofrome.typepad.com,
+[03:52 --> 03:54] you can download them and follow along visually.
+[03:55 --> 03:56] If you are driving while listening to this, however,
+[03:56 --> 03:59] you are not allowed to look at the maps. Safety first.
+[04:00 --> 04:04] My intention is to try to slowly go back and add maps to the back episodes
+[04:04 --> 04:07] and then keep them coming when necessary for future episodes.
+[04:08 --> 04:11] So enjoy them. I spent a lot of time drawing little tiny triangles,
+[04:11 --> 04:13] and I hope you find the maps helpful.
+[04:14 --> 04:16] That said, where was I? Ah, yes.
+[04:17 --> 04:19] Antony had stowed his fleet in the Ambracean Gulf
+[04:19 --> 04:22] and had inadvertently allowed Octavian to park a ground force
+[04:22 --> 04:25] north of his position, while Agrippa simultaneously
+[04:25 --> 04:28] blockaded the narrow strait leading out of the Gulf.
+[04:28 --> 04:30] See it there on the map? Sweet.
+[04:32 --> 04:34] At first, Octavian sought a quick battle.
+[04:34 --> 04:37] He deployed his fleet and dared Antony to come out and fight.
+[04:38 --> 04:41] But short on the manpower he needed to both man the oars of his ships
+[04:41 --> 04:45] and fight at the same time, Antony declined the invitation.
+[04:45 --> 04:47] So Octavian settled into siege mode.
+[04:48 --> 04:52] The Caesarian forces had access to supplies and fresh water,
+[04:52 --> 04:55] while Antony was cut off from his supply bases in Egypt
+[04:55 --> 04:58] after Agrippa had captured Mithone the month before.
+[04:59 --> 05:02] Spring gave way to summer, and with the summer came heat,
+[05:02 --> 05:03] exhaustion, and disease.
+[05:04 --> 05:07] Dysentery and malaria swept through the Antonian camp,
+[05:07 --> 05:09] killing scores of men daily.
+[05:10 --> 05:12] Now it was Antony who decided to offer battle
+[05:12 --> 05:14] before he lost all his men to plagues.
+[05:15 --> 05:17] He hopped over the narrow strait
+[05:17 --> 05:19] and set up a forward camp just south of Octavian,
+[05:19 --> 05:22] and from there tried to pick a ground fight.
+[05:22 --> 05:25] He sent his infantry the long way around the Ambracean Gulf
+[05:25 --> 05:28] to make a play at capturing Octavian's water source,
+[05:28 --> 05:30] but the attempt was repulsed.
+[05:30 --> 05:31] In the midst of the battle,
+[05:32 --> 05:35] one of the eastern client kings providing needed auxiliaries
+[05:35 --> 05:36] to Antony deserted.
+[05:37 --> 05:39] It was a sign of things to come.
+[05:39 --> 05:41] Over the course of the next few months,
+[05:41 --> 05:43] Antony's Roman allies would begin taking
+[05:43 --> 05:47] any opportunity they could to slip over to Octavian's camp
+[05:47 --> 05:51] while foreign allies simply took opportunities to head home.
+[05:52 --> 05:54] By August, things in the Antonian camp
+[05:54 --> 05:56] had gone from bad to worse.
+[05:57 --> 05:59] Antony was no longer losing peripheral senators
+[05:59 --> 06:00] to defection.
+[06:00 --> 06:02] Now he was losing key members of his senior staff,
+[06:03 --> 06:05] many of whom cited the presence of Cleopatra
+[06:05 --> 06:09] in the camp issuing orders as an inexcusable affront.
+[06:10 --> 06:12] Mostly though, they just saw the handwriting on the wall
+[06:12 --> 06:14] and wanted to get out while the getting was good.
+[06:16 --> 06:18] In mid-August, Antony tried to break out.
+[06:19 --> 06:21] He sent what warships he could staff out
+[06:21 --> 06:23] of the strait on a particularly foggy day
+[06:23 --> 06:26] and tried to surprise Octavian's blockade
+[06:26 --> 06:28] into scattering long enough to make escape possible
+[06:28 --> 06:29] for the rest of the fleet.
+[06:30 --> 06:33] But the attempt failed when Agrippa coincidentally
+[06:33 --> 06:34] arrived with reinforcements just
+[06:34 --> 06:36] as the attack was about to get underway.
+[06:37 --> 06:39] Antony's ships were pushed back.
+[06:40 --> 06:42] Finally, at the end of August,
+[06:42 --> 06:44] Antony withdrew back to his original camp
+[06:44 --> 06:46] and made plans for a head-on collision with Octavian.
+[06:48 --> 06:49] A ground escape was deemed too risky.
+[06:50 --> 06:51] Not only would he have to fight his way
+[06:51 --> 06:54] through Octavian's infantry, but even if he succeeded,
+[06:55 --> 06:57] he would be faced with a months-long march
+[06:57 --> 06:58] around the Mediterranean back to Egypt.
+[07:00 --> 07:02] If, on the other hand, he loaded as much as he could
+[07:02 --> 07:04] onto as many ships as he could find oarsmen for,
+[07:05 --> 07:07] there was a real chance that he, Cleopatra,
+[07:08 --> 07:10] and most importantly, their floating war chest,
+[07:10 --> 07:12] could make it back to Alexandria
+[07:12 --> 07:14] and the 14 legions still mobilized there.
+[07:15 --> 07:17] It was a terribly risky plan,
+[07:17 --> 07:19] especially after it became apparent
+[07:19 --> 07:21] that he would be sending just 230 ships
+[07:21 --> 07:24] against the more than 400 under the command of Agrippa,
+[07:25 --> 07:26] but there was no choice.
+[07:27 --> 07:29] He set fire to the ships he could not man
+[07:29 --> 07:31] so they didn't fall into Octavian's hands.
+[07:31 --> 07:34] The clouds of smoke were the signal to everyone
+[07:34 --> 07:36] that a battle was about to begin.
+[07:38 --> 07:41] On the morning of September 2nd, 31 BC,
+[07:41 --> 07:44] Antony slowly led his flotilla out of the Gulf,
+[07:44 --> 07:47] through the narrow strait, and out into open waters.
+[07:47 --> 07:50] Agrippa and Octavian were waiting for him,
+[07:50 --> 07:52] with Agrippa, brutally seated over all command
+[07:52 --> 07:54] of the battle, manning the left flank
+[07:54 --> 07:56] and Octavian on the right.
+[07:56 --> 07:58] Antony hoped to draw his enemies
+[07:58 --> 08:00] into the confined quarters just beyond the entrance
+[08:00 --> 08:03] to the Gulf so their numerical superiority would be muted,
+[08:04 --> 08:07] but Agrippa had already decided this was a likely tactic
+[08:07 --> 08:08] and declined to move in.
+[08:09 --> 08:11] The morning passed with the two fleets bobbing
+[08:11 --> 08:14] in the water, waiting for someone to make a move.
+[08:15 --> 08:17] Finally, Antony was forced to acknowledge
+[08:17 --> 08:18] that Agrippa wasn't taking the bait.
+[08:19 --> 08:20] He ordered his ships forward
+[08:20 --> 08:22] and the battle of Actium began.
+[08:24 --> 08:27] On the Caesarian left, Agrippa worked the ships
+[08:27 --> 08:30] under his command around so that they swung over
+[08:30 --> 08:31] and came at Antony from the north.
+[08:32 --> 08:34] To counter, Antony shifted his own line
+[08:34 --> 08:37] so that what had begun as a north-south line
+[08:37 --> 08:39] was now an east-west line.
+[08:39 --> 08:41] This all had the effect of leaving the center
+[08:41 --> 08:43] of the Caesarian line open.
+[08:43 --> 08:46] With Octavian fully engaged in the southern theater
+[08:46 --> 08:48] and unable to close the gap left open
+[08:48 --> 08:49] by Agrippa's enveloping move,
+[08:50 --> 08:51] Cleopatra saw her opportunity.
+[08:52 --> 08:55] She had been held back from the main line with 60 ships
+[08:55 --> 08:58] and had thus far taken no part in the actual battle.
+[08:59 --> 09:02] This was by design, as her flagship was the key
+[09:02 --> 09:03] to the whole escape,
+[09:03 --> 09:05] because on it was the Antonian treasury.
+[09:06 --> 09:08] Even if every ship but hers was captured,
+[09:09 --> 09:09] there was still hope.
+[09:11 --> 09:13] With the afternoon winds blowing out to sea
+[09:13 --> 09:14] and the middle of the battle open,
+[09:15 --> 09:17] Cleopatra hoisted her sails and fled the scene.
+[09:19 --> 09:20] Seeing the queen lighting out,
+[09:20 --> 09:22] Antony quickly transferred himself
+[09:22 --> 09:25] off of his lumbering flagship onto a quicker vessel
+[09:25 --> 09:26] and followed her.
+[09:27 --> 09:28] He could only hope that the rest of his fleet
+[09:28 --> 09:30] would disengage and follow.
+[09:30 --> 09:32] If they couldn't, at least they had bought their general
+[09:32 --> 09:35] and his fortune time to get away.
+[09:36 --> 09:38] For the most part, they couldn't get away.
+[09:39 --> 09:40] Outnumbered and hemmed in,
+[09:40 --> 09:42] the ships that weren't sunk
+[09:42 --> 09:43] were forced to retreat back into the Gulf.
+[09:45 --> 09:46] After an evening spent out at sea
+[09:46 --> 09:48] and making sure no one slipped away,
+[09:48 --> 09:49] Octavian surveyed the scene
+[09:49 --> 09:52] when dawn finally arrived the next morning.
+[09:53 --> 09:54] Cleopatra had obviously gotten away,
+[09:54 --> 09:57] but he had no idea what had become of Antony.
+[09:58 --> 10:00] 40 or so of the Antonian ships had been sunk,
+[10:00 --> 10:03] and the 130 left were now cowering in the Gulf.
+[10:04 --> 10:06] All in all, it was a clear victory.
+[10:07 --> 10:09] Mitigated by the escape of Cleopatra, obviously,
+[10:10 --> 10:12] but Octavian had succeeded in dealing Antony
+[10:12 --> 10:15] wherever he was, a fairly crippling blow.
+[10:16 --> 10:19] The next week was spent mopping up after the battle.
+[10:20 --> 10:23] The 130 trapped ships surrendered without much convincing,
+[10:23 --> 10:26] but there was still a sizable Antonian infantry
+[10:26 --> 10:28] in the area that needed to be defanged.
+[10:29 --> 10:31] Unable to fit everyone onto the 230 ships,
+[10:32 --> 10:33] Antony had left some 50,000 men
+[10:33 --> 10:35] under the command of the intensely loyal
+[10:35 --> 10:38] Publius-Canadius Crassus on shore.
+[10:38 --> 10:41] Crassus had orders to march them back to Macedonia
+[10:41 --> 10:43] in the event that Antony was able to make good
+[10:43 --> 10:46] his escape and from there attempt the overland march
+[10:46 --> 10:49] to Egypt, but the soldiers had other ideas.
+[10:50 --> 10:53] At first, they waited for Antony to reappear,
+[10:53 --> 10:54] not understanding that the whole point
+[10:54 --> 10:56] had been for him to get out of dodge,
+[10:56 --> 10:59] not fight a battle to decide the war right then and there.
+[10:59 --> 11:01] When it became clear that Antony was dead
+[11:01 --> 11:04] or had fled, the attitudes of the troops
+[11:04 --> 11:05] changed dramatically.
+[11:06 --> 11:09] Over the head, or I guess maybe under the head
+[11:09 --> 11:12] of Crassus, the soldiers offered to surrender
+[11:12 --> 11:14] to Octavian if they were treated as if they had been
+[11:14 --> 11:16] on the winning side the whole time.
+[11:17 --> 11:19] Octavian jumped at the chance to nullify
+[11:19 --> 11:20] the sizable threat they posed
+[11:20 --> 11:23] and maybe demonstrate some of the famous clemency
+[11:23 --> 11:25] that had won his uncle so much acclaim.
+[11:26 --> 11:27] He was fast coming to the realization
+[11:27 --> 11:29] that maybe power was finally in his grasp.
+[11:30 --> 11:32] He needed to start thinking like a statesman
+[11:32 --> 11:34] if he was going to be the master of all Romans.
+[11:36 --> 11:38] He accepted the terms and agreed to demobilize
+[11:38 --> 11:40] the legions with all the honors and spoils
+[11:40 --> 11:42] that were due his own men.
+[11:43 --> 11:46] Disgusted, Crassus and a few senior officers
+[11:46 --> 11:48] packed their bags and slipped away back to Alexandria
+[11:48 --> 11:51] where they hoped to find plans to reverse
+[11:51 --> 11:53] the setback at Actium well in the works.
+[11:55 --> 11:57] Octavian himself was in no great hurry
+[11:57 --> 12:00] to chase after Antony, who, it was now known,
+[12:00 --> 12:01] had made his way out of the battle
+[12:01 --> 12:03] and followed Cleopatra back to Egypt.
+[12:04 --> 12:06] He settled in for the winter on the island of Samos
+[12:06 --> 12:09] in the eastern Aegean and made preparations
+[12:09 --> 12:10] for the invasion of Egypt.
+[12:10 --> 12:12] He would undertake when spring arrived.
+[12:13 --> 12:16] Meanwhile, he sent home thousands of Italian veterans
+[12:16 --> 12:18] who had completed their service time.
+[12:18 --> 12:21] Unfortunately though, the spoils and land
+[12:21 --> 12:23] they had dreamed would be theirs when they got home
+[12:23 --> 12:24] were nowhere to be found.
+[12:25 --> 12:27] Once again, the bank had been broken.
+[12:28 --> 12:30] The veterans began to agitate violently
+[12:30 --> 12:32] against this injustice and a grimpo was sent back
+[12:32 --> 12:35] to pacify them, but even the great general
+[12:35 --> 12:37] who had the respect and admiration
+[12:37 --> 12:38] of all the mutinous ex-soldiers
+[12:38 --> 12:40] could do nothing to settle them down.
+[12:42 --> 12:44] Octavian was forced to return to Italy himself
+[12:44 --> 12:45] to deal with the situation.
+[12:46 --> 12:47] When he arrived in Brundisium,
+[12:48 --> 12:49] it seemed like the entire population of Rome
+[12:49 --> 12:51] was there to greet him.
+[12:51 --> 12:53] In a sign of the times, rather than greeting
+[12:53 --> 12:55] the returning Octavian at the gates of Rome,
+[12:55 --> 12:57] as would have been the custom,
+[12:57 --> 13:00] the entire senate traveled down to the southern port
+[13:00 --> 13:02] to greet him as his ship docked.
+[13:02 --> 13:03] It was clear who Rome thought
+[13:03 --> 13:05] would be their eventual master.
+[13:06 --> 13:08] Octavian issued IOUs to his angry troops.
+[13:09 --> 13:12] It was all he could do and promised to settle everything
+[13:12 --> 13:13] when Antony was disposed of for good.
+[13:14 --> 13:15] They accepted his word.
+[13:16 --> 13:17] There was really nothing else they could do.
+[13:19 --> 13:21] But not everyone in Rome was so quick
+[13:21 --> 13:22] to embrace Octavian.
+[13:23 --> 13:25] The young Marcus Lepidus, son of the former triumvir,
+[13:26 --> 13:28] decided to hatch this decade's liberator plot.
+[13:29 --> 13:31] He began the process of acquiring support,
+[13:31 --> 13:33] just as Brutus and Cassius had done,
+[13:33 --> 13:36] and started making plans to assassinate Octavian
+[13:36 --> 13:38] as soon as he came back to Rome.
+[13:39 --> 13:42] But Macenus left once again in control of the city,
+[13:42 --> 13:43] caught wind of the plot,
+[13:43 --> 13:46] and swiftly extracted the names of everyone involved.
+[13:47 --> 13:49] There would be no repeat of the Ides of March
+[13:49 --> 13:49] on his watch.
+[13:50 --> 13:53] Lepidus and anyone foolish enough to join him
+[13:53 --> 13:54] were executed without delay.
+[13:57 --> 13:59] Confident that things in Italy were well in hand,
+[13:59 --> 14:01] the spring of 30 BC arrived
+[14:01 --> 14:03] with Octavian focused on Egypt.
+[14:04 --> 14:06] Envoys of all kinds, some from Antony,
+[14:06 --> 14:07] some from Cleopatra,
+[14:08 --> 14:10] some from independent factions within Alexandria,
+[14:11 --> 14:12] had been seeking him out all winter
+[14:12 --> 14:14] to try to avert the invasion.
+[14:15 --> 14:17] But Octavian had made up his mind.
+[14:17 --> 14:20] He didn't want to just destroy Antony and Cleopatra.
+[14:20 --> 14:23] He wanted to seize Egypt and hold it for himself.
+[14:24 --> 14:26] No negotiations, no bribes, no settlements.
+[14:27 --> 14:30] Straight up annexation and under his personal control.
+[14:31 --> 14:33] The only way to make sure that that happened
+[14:33 --> 14:35] was to take the country by force.
+[14:37 --> 14:37] Over the winter,
+[14:38 --> 14:40] things between Antony and Cleopatra had deteriorated.
+[14:41 --> 14:42] They still had money and troops,
+[14:43 --> 14:44] but they were trapped in Egypt
+[14:44 --> 14:46] without any hope of escape or further aid
+[14:46 --> 14:48] from any of the client kingdoms of the east,
+[14:48 --> 14:50] all of whom were now under Octavian's influence.
+[14:51 --> 14:53] Antony refused to bow to the inevitable
+[14:53 --> 14:56] and continued making plans for the defense of Alexandria.
+[14:57 --> 14:58] But it was clear that Cleopatra began
+[14:58 --> 15:00] to pull away from him,
+[15:00 --> 15:02] perhaps thinking about life past Antony.
+[15:03 --> 15:06] If she was thinking she could perhaps latch onto Octavian
+[15:06 --> 15:08] the way she had latched on first to Julius Caesar
+[15:08 --> 15:11] and then Mark Antony, she was deluding herself.
+[15:11 --> 15:13] But their survival instinct is strong
+[15:13 --> 15:15] and cornered like rats.
+[15:15 --> 15:18] Both Antony and Cleopatra entertained pleasant fantasies
+[15:18 --> 15:21] where they somehow made it out of this alive and in power.
+[15:23 --> 15:26] But as we know, they did not make it out alive or in power.
+[15:27 --> 15:30] When the spring came, the first piece of bad news arrived.
+[15:31 --> 15:34] Four legions stationed west of Alexandria had defected
+[15:34 --> 15:37] and were now marching towards the city on Octavian's orders.
+[15:38 --> 15:40] Octavian, meanwhile, was leading his own forces
+[15:40 --> 15:42] through Syria and would soon be coming at Egypt
+[15:42 --> 15:43] from the east.
+[15:44 --> 15:46] If there was one thing Octavian truly loved,
+[15:46 --> 15:47] it was a pincer move,
+[15:48 --> 15:49] and the invasion of Egypt
+[15:49 --> 15:51] was just another fine example of it.
+[15:52 --> 15:54] Antony made his way out to the defected legions
+[15:54 --> 15:56] and tried to win them back to his side,
+[15:56 --> 15:59] but they forced him to retreat empty-handed.
+[16:00 --> 16:02] Octavian encountered little resistance
+[16:02 --> 16:03] from the Egyptian troops
+[16:03 --> 16:05] who were supposed to be guarding the frontier
+[16:05 --> 16:08] and was soon knocking at Alexandria's door.
+[16:08 --> 16:10] Realizing that everything was falling apart around him
+[16:10 --> 16:12] and that this was likely the end,
+[16:12 --> 16:14] Antony planned one last great battle,
+[16:15 --> 16:18] that, win or lose, he did not plan to return from.
+[16:19 --> 16:22] But even his attempt to die gloriously was a disaster.
+[16:24 --> 16:26] On August the 1st, he sent out the Egyptian navy
+[16:26 --> 16:27] to meet Octavian's fleet,
+[16:27 --> 16:30] which had been pacing their commander's advance.
+[16:31 --> 16:32] Antony himself stood at the head
+[16:32 --> 16:35] of a combined army of infantry and cavalry on land.
+[16:36 --> 16:38] When the navy engaged Octavian's fleet,
+[16:38 --> 16:40] Antony was going to launch a ground assault.
+[16:41 --> 16:43] But as soon as the ships were within earshot
+[16:43 --> 16:45] of one another, Antony's maritime forces
+[16:45 --> 16:47] announced their total surrender.
+[16:48 --> 16:50] Seeing the ships raise the white flag,
+[16:50 --> 16:51] Antony's cavalry deserted,
+[16:52 --> 16:54] followed quickly by scores of infantry.
+[16:54 --> 16:57] Soon, his entire army was running for their lives,
+[16:57 --> 16:59] leaving Antony, who had spent all this time
+[16:59 --> 17:01] planning a fine soldier's death,
+[17:02 --> 17:04] alone on the battlefield and humiliated.
+[17:05 --> 17:07] He marched back to the palace in a rage
+[17:07 --> 17:09] and demanded to see Cleopatra,
+[17:09 --> 17:11] who he suspected of engineering
+[17:11 --> 17:13] the surrenders and desertions.
+[17:13 --> 17:15] Cleopatra, afraid of what the furious
+[17:15 --> 17:18] and probably suicidal Antony was going to do to her,
+[17:19 --> 17:20] sent an attendant to tell him
+[17:20 --> 17:21] that she was already dead.
+[17:22 --> 17:25] For Antony, this was the final breaking point.
+[17:25 --> 17:26] He returned to his room,
+[17:26 --> 17:29] stabbed himself in the stomach, and died.
+[17:30 --> 17:31] But not quite yet.
+[17:32 --> 17:35] The self-inflicted wound, though incredibly painful,
+[17:35 --> 17:36] was not immediately fatal.
+[17:37 --> 17:39] As he lay in agony dying,
+[17:39 --> 17:41] Cleopatra heard what he had done
+[17:41 --> 17:42] and decided to send for him.
+[17:43 --> 17:45] I'm not really sure this was the nicest thing
+[17:45 --> 17:46] in the world to do,
+[17:46 --> 17:48] seeing as how his suicide had been precipitated
+[17:48 --> 17:50] by the belief that she was already dead.
+[17:51 --> 17:53] But regardless, attendants dragged the dying Antony
+[17:53 --> 17:55] to Cleopatra's hiding place,
+[17:55 --> 17:57] a half-built mausoleum she had been constructing
+[17:57 --> 17:59] for herself over the years.
+[18:00 --> 18:02] When she saw Antony, she began to wail.
+[18:03 --> 18:05] Antony tried unsuccessfully to comfort her,
+[18:05 --> 18:07] and then, according to legend,
+[18:07 --> 18:10] called for one last cup of wine to drink before dying.
+[18:11 --> 18:14] The final goblet of Dionysian elixir quaffed.
+[18:14 --> 18:15] Antony died.
+[18:17 --> 18:19] Though posterity tends to record Actium
+[18:19 --> 18:22] as the final climax in the drama of The Second Triumvirate,
+[18:22 --> 18:24] it was not really until Octavian captured Egypt
+[18:24 --> 18:26] that the deal was really sealed.
+[18:27 --> 18:30] Rome and the Western Empire were already under his command,
+[18:30 --> 18:33] but now his only real rival for power was dead,
+[18:33 --> 18:35] and he controlled the richest kingdom in the East.
+[18:36 --> 18:39] Now, his star was not just ascendant, it had ascended.
+[18:40 --> 18:41] He stood atop the Roman Empire,
+[18:42 --> 18:43] alone and unchallenged.
+[18:44 --> 18:45] He relished his victory,
+[18:45 --> 18:47] and touring the magnificent city of Alexandria
+[18:47 --> 18:49] began to plan for the future.
+[18:50 --> 18:51] Power won is only meaningful
+[18:51 --> 18:53] if it is put to productive use.
+[18:54 --> 18:56] Unlike the Dionysian Antony,
+[18:56 --> 18:58] the Apollonian Octavian was not aiming for power
+[18:58 --> 19:00] so he could live a life of decadent leisure.
+[19:01 --> 19:04] He was aiming for power so he could remake the Roman world,
+[19:05 --> 19:06] and remake it he would.
+[19:08 --> 19:10] There were still loose ends to clear up, of course.
+[19:11 --> 19:14] Cleopatra was still holed up in her mausoleum hiding place,
+[19:14 --> 19:16] which would now become a de facto prison.
+[19:17 --> 19:19] Octavian used familiar gobetweens
+[19:19 --> 19:20] to coax the queen out of her hole,
+[19:20 --> 19:22] and when she finally presented herself,
+[19:22 --> 19:24] the toll of the last year was evident.
+[19:25 --> 19:28] No longer the splendid, bejeweled Eastern queen
+[19:28 --> 19:30] who had seduced the most powerful men in Rome.
+[19:30 --> 19:33] She was now unadorned, haggard, and pathetic.
+[19:34 --> 19:37] When she met Octavian, she at first tried to deny
+[19:37 --> 19:38] that she had played any meaningful role
+[19:38 --> 19:41] in Antony's career, and that it had been him,
+[19:41 --> 19:42] all him.
+[19:42 --> 19:44] I am just a woman, she argued.
+[19:44 --> 19:45] What influence could a woman have
+[19:45 --> 19:47] over a strong Roman man?
+[19:48 --> 19:49] Octavian practically choked
+[19:49 --> 19:51] when he heard her revised history on the fly.
+[19:52 --> 19:55] But it was clear that Octavian wasn't buying the whole
+[19:55 --> 19:56] I am an innocent bystander routine.
+[19:57 --> 20:00] Cleopatra switched, and simply began begging for her life.
+[20:01 --> 20:03] This, Octavian thought, is more like it.
+[20:04 --> 20:06] According to the official records,
+[20:06 --> 20:08] Octavian did indeed decide to spare the queen's life,
+[20:09 --> 20:11] but mostly so that he could parade her through Rome
+[20:11 --> 20:13] in the triumph he planned to celebrate
+[20:13 --> 20:14] as soon as he got home.
+[20:15 --> 20:17] But to Cleopatra, this day of execution
+[20:17 --> 20:20] turned out to be even more intolerable than death itself.
+[20:22 --> 20:23] She had hoped to somehow finagle Octavian
+[20:23 --> 20:25] into letting her live in Egypt
+[20:25 --> 20:27] and remain a client monarch,
+[20:27 --> 20:28] loyal once again to the house of Caesar.
+[20:30 --> 20:31] It was fast becoming apparent, though,
+[20:31 --> 20:34] that her future held nothing but embarrassment,
+[20:34 --> 20:37] humiliation, and probably obscure imprisonment
+[20:37 --> 20:39] in some far corner of the empire.
+[20:40 --> 20:42] To an Egyptian pharaohist accustomed to being
+[20:42 --> 20:44] at the center of politics, religion, and war,
+[20:45 --> 20:46] the fate Octavian had cooked up for her
+[20:46 --> 20:48] was literally a fate worse than death.
+[20:50 --> 20:51] According to the familiar legend,
+[20:52 --> 20:54] she had an attendant smuggle an asp into her room
+[20:54 --> 20:57] by concealing the snake in a basket of figs.
+[20:57 --> 21:00] Cleopatra then poked at the snake until it lashed out,
+[21:00 --> 21:03] sank its poisonous fangs into her, and killed her.
+[21:04 --> 21:07] No one really knows how true the story actually is,
+[21:07 --> 21:10] but it has gained widespread acceptance anyway.
+[21:10 --> 21:12] However it happened, Cleopatra died,
+[21:12 --> 21:15] and it was likely, though not proven conclusively,
+[21:15 --> 21:17] to be a suicide.
+[21:19 --> 21:22] Octavian took his time enjoying the sights in Alexandria.
+[21:23 --> 21:26] Of particular interest was the city's most famous relic,
+[21:26 --> 21:29] and he ordered the priests to open the Sargophagus
+[21:29 --> 21:32] and display the mummified remains of Alexander the Great.
+[21:33 --> 21:36] The Macedonian general had long been the benchmark
+[21:36 --> 21:38] by which all future politicians and generals
+[21:38 --> 21:39] judged themselves.
+[21:40 --> 21:42] He had attained the throne at just 19,
+[21:42 --> 21:43] and then conquered his way to India
+[21:43 --> 21:45] before his 30th birthday.
+[21:46 --> 21:49] The career of Alexander, as meteoric and arch as can be
+[21:49 --> 21:53] imagined, is typically a universal humbler of great men.
+[21:54 --> 21:56] Even a 39-year-old Julius Caesar had famously
+[21:56 --> 21:58] despaired at a shrine to the great general,
+[21:59 --> 22:00] lamenting the fact that he had done nothing
+[22:00 --> 22:01] with his life.
+[22:02 --> 22:05] But I have to think that 33-year-old Octavian,
+[22:05 --> 22:08] viewing the mummified remains of 33-year-old Alexander,
+[22:09 --> 22:10] had to believe that he stacked up pretty well
+[22:10 --> 22:13] in comparison, probably one of the few times
+[22:13 --> 22:15] in all of history that that can actually be said.
+[22:17 --> 22:18] Meditating on the career of Alexander
+[22:18 --> 22:20] is supposed to force you to realize
+[22:20 --> 22:22] that you'll never be the greatest man
+[22:22 --> 22:23] in the history of the world,
+[22:23 --> 22:24] no matter how hard you try.
+[22:25 --> 22:27] Because no matter what, Alexander will always
+[22:27 --> 22:29] have done more than you, faster than you,
+[22:30 --> 22:30] better than you.
+[22:31 --> 22:34] But Octavian, I don't think that was
+[22:34 --> 22:35] Octavian's takeaway at all.
+[22:36 --> 22:38] He was now the sole ruler of the Mediterranean,
+[22:39 --> 22:41] heading an empire that was richer and more stable
+[22:41 --> 22:43] than anything Alexander had put together.
+[22:43 --> 22:46] And he was, like I said, still only 33 years old.
+[22:47 --> 22:49] Rather than walking away from the shrine
+[22:49 --> 22:51] to Alexander humbled, I think Octavian
+[22:51 --> 22:53] probably walked away feeling pretty good about himself.
+[22:54 --> 22:56] The transformation from mere Octavian
+[22:56 --> 23:00] to the divine Augustus was no doubt well underway.
+[23:01 --> 23:04] Next week, Octavian will return to Rome
+[23:04 --> 23:07] to formally undergo that transformation into Augustus.
+[23:07 --> 23:11] It was time for the ruthless, power-hungry young Caesar
+[23:11 --> 23:14] to become the absolute ruler of the Roman Empire.
+[23:15 --> 23:18] It would not be a quick transition or a simple one.
+[23:19 --> 23:20] Everything continued to be couched
+[23:20 --> 23:21] in the language of the Republic,
+[23:22 --> 23:23] and it was only over the course of years
+[23:23 --> 23:26] and then decades that the semantic facade
+[23:26 --> 23:28] began to wear off, and it was revealed
+[23:28 --> 23:29] who was really in control,
+[23:29 --> 23:31] and who had really been in control the whole time.
+[23:32 --> 23:34] There is no clear line to draw to say
+[23:34 --> 23:36] that this is where the Republic ends
+[23:36 --> 23:38] and this is where the Imperium begins,
+[23:39 --> 23:41] especially because no one in the Julio-Claudian dynasty,
+[23:41 --> 23:43] who would rule Rome for the next 100 years,
+[23:44 --> 23:45] was ever willing to come out
+[23:45 --> 23:46] and admit publicly what had happened.
+[23:47 --> 23:50] But make no mistake, the Republic was now dead.
+[23:51 --> 23:53] And along with all his improvements and reforms
+[23:53 --> 23:55] and great works on behalf of the empire,
+[23:56 --> 23:58] Augustus Caesar pursued policy
+[23:58 --> 24:00] to make sure that it stayed dead.

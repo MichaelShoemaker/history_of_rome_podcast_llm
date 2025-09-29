@@ -1,0 +1,341 @@
+# 20100802 - 103- The Equestrian
+# Detected language: en
+# Duration: 1585.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:13] Hello, and welcome to The History of Rome, Episode 103, The Equestrian.
+[00:13 --> 00:19] Caracalla had donned the purple in early 211 A.D. at the age of 23, and from that moment
+[00:19 --> 00:25] on he dedicated himself to the task of being a brutal, unforgiving, and moody tyrant towards
+[00:25 --> 00:27] everyone except his soldiers.
+[00:27 --> 00:31] He was as bad as they come, and I think the only reason we don't put him down as the
+[00:31 --> 00:37] worst emperor of all time is that, for one, he wasn't emperor for that long, and two,
+[00:37 --> 00:41] most of the really terrible things he did were merely exaggerated extensions of what
+[00:41 --> 00:43] his father had already done.
+[00:43 --> 00:47] He didn't have the time or the imagination to take a healthy empire and really wreck
+[00:47 --> 00:52] it the way that, say, Commodus had done, which is what it takes if you want to be considered
+[00:52 --> 00:54] the worst of the worst.
+[00:54 --> 00:59] I don't see Caracalla's reign then representing a turning point in the history of Rome, but
+[00:59 --> 01:02] I do see it as representing a breaking point.
+[01:02 --> 01:08] His time on the throne became a sort of malevolent high watermark that future emperors alternatively
+[01:08 --> 01:14] tried to dial back from, or ratchet back up to, depending on their dispositions.
+[01:14 --> 01:19] Caracalla, in his enrichment of the soldiers and his scorning of all other men, inadvertently
+[01:19 --> 01:24] set a standard that everyone would point to down the road as either a cautionary tale
+[01:24 --> 01:27] or as a shining beacon of light.
+[01:27 --> 01:30] Things can never again be like they were under Caracalla.
+[01:30 --> 01:34] Things must go back to the way they were under Caracalla.
+[01:34 --> 01:41] The former argued by the old men of the Senate, the latter by the hard men of the army.
+[01:41 --> 01:44] This running argument was a major current in the tension that would define the coming
+[01:44 --> 01:46] crisis years.
+[01:46 --> 01:49] When put succinctly, the argument sounds like this.
+[01:49 --> 01:54] Is the army the tool of the state, or is the state the tool of the army?
+[01:54 --> 01:59] Caracalla, for his part, probably was not acting from any deeply thought out political
+[01:59 --> 02:04] philosophy, nor probably did he care a whit that future generations would fight over his
+[02:04 --> 02:05] legacy.
+[02:05 --> 02:09] He just wanted to enrich the soldiers and scorn all other men.
+[02:09 --> 02:14] Like I say, no imagination at all.
+[02:14 --> 02:19] But before we get to the business of bringing a violent and ignoble end to a man who deserved
+[02:19 --> 02:23] just that, we should swing back and briefly touch on three things.
+[02:23 --> 02:29] The first trivial, the second architecturally interesting, and the last fairly momentous.
+[02:29 --> 02:34] First, I can't believe I didn't mention this before, but, yeah, how did Caracalla
+[02:34 --> 02:37] get his name?
+[02:37 --> 02:41] As I said in episode 100, he was known as Lucius Septimius Bossianus until his father
+[02:41 --> 02:48] became emperor, at which point his name was changed to Marcus Aurelius Antoninus Caesar.
+[02:48 --> 02:53] His contemporaries, including the historians Cassius Dio and Herodian, generally shorthanded
+[02:53 --> 02:56] this to simply Antoninus.
+[02:56 --> 03:02] The name Caracalla, not really used in his lifetime, and really not used in his presence,
+[03:02 --> 03:06] was a nickname that referred to a particular type of Gallic cloak that the emperor habitually
+[03:06 --> 03:08] wore.
+[03:08 --> 03:13] As the years passed, it became easier to label him with that distinctive cognomen rather
+[03:13 --> 03:18] than Antoninus, which was a name practically every emperor adopted so as to associate their
+[03:18 --> 03:22] reign with that now clearly past golden age.
+[03:22 --> 03:27] The same sort of thing happened with Caligula, who was referred to in his own time simply
+[03:27 --> 03:31] as the Emperor Gaius.
+[03:31 --> 03:37] The second thing, the architecturally interesting thing, are the Baths of Caracalla, which the
+[03:37 --> 03:42] emperor ordered built in 212 and which were completed in 216.
+[03:42 --> 03:48] This massive, massive complex in the southeast of Rome was one of the last great construction
+[03:48 --> 03:51] projects of Roman antiquity.
+[03:51 --> 03:56] Before too long, Constantine will drag the imperial capital to Byzantium and Rome itself
+[03:56 --> 03:58] will fall on hard times.
+[03:58 --> 04:03] Even in Italy, the dominant imperial cities will become Milan and Ravenna, depending on
+[04:03 --> 04:08] the decade, leading to a general disinclination in spending money to gussy up a city past
+[04:08 --> 04:11] its prime.
+[04:11 --> 04:16] The complex, which sprawled over 33 acres, was by far the greatest and most ambitious
+[04:16 --> 04:22] bathhouse in Bathouse Crazy Rome, and more than any of its predecessors was a full recreational
+[04:22 --> 04:24] facility.
+[04:24 --> 04:30] Sports rooms, baths of all kinds, grottos, libraries, gardens, the works.
+[04:30 --> 04:35] The thing was, and its ruins still are, quite a sight to behold.
+[04:35 --> 04:41] It cost a pretty penny and no doubt displaced a lot of residents and businesses, but I think
+[04:41 --> 04:46] we can be pretty sure that that wasn't of any interest at all to Caracalla.
+[04:46 --> 04:50] One of the other last great building projects in ancient Rome, the Baths of Diocletian in
+[04:50 --> 04:55] the northeast of the city, copied profusely from the design of Caracalla's baths, which
+[04:55 --> 04:58] at that point had been operating for 50 years.
+[04:58 --> 05:06] Both baths continued to operate well after the nominal fall of the western empire.
+[05:06 --> 05:11] The last thing, the momentous thing, was that in 212, shortly after becoming emperor in
+[05:11 --> 05:18] his own right, Caracalla extended citizenship to every free man in the empire.
+[05:18 --> 05:22] Slaves were still slaves and women were still women, but by the stroke of a pen, or maybe
+[05:22 --> 05:27] the hammering of a chisel, every free man within the borders of the empire became a
+[05:27 --> 05:30] citizen of Rome.
+[05:30 --> 05:34] What had once been a valued prize, a prize so valuable that wars had been fought over
+[05:34 --> 05:40] who could have it and who couldn't, was now as common as the beggar in the street.
+[05:40 --> 05:46] But before you start getting the wrong idea, no, Caracalla did not issue his edict of universal
+[05:46 --> 05:52] citizenship because he was feeling the moral tug of equal justice or something like that.
+[05:52 --> 05:57] No, as Gibbon says, by the time Caracalla issued the order, Roman citizenship was far
+[05:57 --> 06:00] more a burden than it was a privilege.
+[06:00 --> 06:04] Universal citizenship increased the tax base.
+[06:04 --> 06:05] Period.
+[06:05 --> 06:06] End of story.
+[06:06 --> 06:10] But even though it was now more of a burden than it was a privilege, that did not mean
+[06:10 --> 06:13] that citizenship did not still come with privileges.
+[06:13 --> 06:19] However, base and immediate his motivations had been, Caracalla's edict was a landmark
+[06:19 --> 06:24] moment in the history of Rome and the history of western civilization.
+[06:24 --> 06:30] In an instant, one of the greatest legal distinctions of all time was blown to pieces.
+[06:30 --> 06:32] They were all Romans now.
+[06:32 --> 06:38] Well, except for the women and the slaves, but they don't count.
+[06:38 --> 06:43] When Caracalla left Rome in 213 AD to travel the empire and become the common enemy of
+[06:43 --> 06:49] mankind, it was the last time the people of Rome would ever see him.
+[06:49 --> 06:55] He was still in the east in 217, taking a victory lap after his triumph over the Parthians,
+[06:55 --> 07:00] and he met that violent and ignoble end I was just talking about.
+[07:00 --> 07:06] As I mentioned in passing last week, Caracalla posed too great a danger to too many men to
+[07:06 --> 07:11] not have one of them get desperate enough to attempt assassination.
+[07:11 --> 07:16] Not that I am in any way advocating a determinist reading of history, but the life and times
+[07:16 --> 07:23] of Caracalla just scream when he'll get assassinated, not if he'll get assassinated.
+[07:23 --> 07:28] The win finally came when an oracle in North Africa started blabbing to anyone who would
+[07:28 --> 07:34] listen that Marcus Opelius Macrinus, one of Caracalla's praetorian prefects, was destined
+[07:34 --> 07:37] to wear the purple.
+[07:37 --> 07:41] Everyone knew that prophecies like that were extremely dangerous, even during the reign
+[07:41 --> 07:46] of a relatively mild prince, but to have it floating around during the reign of a violent
+[07:46 --> 07:52] paranoid like Caracalla, well, that was basically a death sentence.
+[07:52 --> 07:56] The prophet in question was rounded up and brought to Rome for questioning, and the praetorians
+[07:56 --> 07:58] tried everything to get him to recant.
+[07:58 --> 08:04] Threats, bribery, torture, but the oracle stuck to his story.
+[08:04 --> 08:08] Eventually the praetorian officers in charge of the investigation were obliged to send
+[08:08 --> 08:16] a report off to the emperor who was traveling around Syria with the imperial court in tow.
+[08:16 --> 08:21] At this point, the invisible hand of destiny, also known by its more common name, the lucky
+[08:21 --> 08:27] break, stepped in, giving Macrinus a chance to save his own skin.
+[08:27 --> 08:31] The report in question arrived with a bundle of other business, and Caracalla, never much
+[08:31 --> 08:37] for mundane governance, handed the entire untouched bundle to the good prefect Macrinus,
+[08:37 --> 08:42] with instructions for him to take care of the trivial matters and brief him if, by some
+[08:42 --> 08:47] miracle, there was actually something interesting in there.
+[08:47 --> 08:50] Macrinus retired to his quarters and began working through the dispatches.
+[08:50 --> 08:56] And he came across a particular report from the praetorians back in Rome.
+[08:56 --> 09:01] I can only imagine that Macrinus muttered a fair share of curses under his breath as
+[09:01 --> 09:05] he read what the oracle refused to unsay.
+[09:05 --> 09:10] At a minimum, those few brief sentences were going to cost Macrinus his long and successful
+[09:10 --> 09:11] career.
+[09:11 --> 09:17] More likely, though, they were going to cost him his life.
+[09:17 --> 09:23] Macrinus had been born in modern Algeria around 165 AD, and, like Septimius Severus,
+[09:23 --> 09:25] was the son of an equite.
+[09:25 --> 09:31] But unlike Severus, he did not have influential uncles in Rome, and so he was never recommended
+[09:31 --> 09:33] for senatorial status.
+[09:33 --> 09:38] As a result of his status, he never held any of the traditional posts up-and-coming Roman
+[09:38 --> 09:44] politicians usually hold, and never held any position of authority in the legions.
+[09:44 --> 09:48] But he nonetheless distinguished himself as an able administrator and routinely secured
+[09:48 --> 09:55] important posts within the imperial bureaucracy during the reign of Septimius Severus.
+[09:55 --> 09:59] As you probably noticed, there were essentially two paths to public prominence in the Roman
+[09:59 --> 10:01] Empire.
+[10:01 --> 10:04] One was to be a great soldier, which Macrinus was not.
+[10:04 --> 10:10] The other was to be a great lawyer, which Macrinus, over the years, established that
+[10:10 --> 10:13] he most assuredly was.
+[10:13 --> 10:17] It was on the strength of his prowess as a jurist, then, rather than on the strength
+[10:17 --> 10:22] of his prowess as a fighter, that Caracalla named him praetorian prefect shortly after
+[10:22 --> 10:24] becoming emperor.
+[10:24 --> 10:29] The appointment of a civilian to what was essentially a military post was not uncommon
+[10:29 --> 10:35] at all, and, in fact, emperors, the good ones, anyway, liked to represent both paths to prominence
+[10:35 --> 10:38] in their choice of prefects.
+[10:38 --> 10:42] One old military hand to keep the troops in line, and one capable bureaucrat to handle
+[10:43 --> 10:50] all the administrative work that had accrued around the guard over the years.
+[10:50 --> 10:54] Whether or not Macrinus was aiming this whole time to become emperor himself one day is
+[10:54 --> 10:59] unknown, but I would have to say that it's pretty doubtful.
+[10:59 --> 11:05] Over the years, prefects had aspired to be emperor in all but name, but their equestrian
+[11:05 --> 11:10] status, the very thing that qualified them to be prefect, disqualified them from being
+[11:10 --> 11:11] emperor.
+[11:12 --> 11:16] So Janus had made probably the most concerted effort to get around this by marrying into
+[11:16 --> 11:22] the Julio-Claudian family, but most other ambitious prefects simply considered that
+[11:22 --> 11:28] final step a bridge too far and were content to wield power behind the throne.
+[11:28 --> 11:34] The empire had seen Italian emperors and then Spanish emperors and then even African emperors.
+[11:34 --> 11:38] Emperors who were the sons of emperors, emperors who were the sons of equites, and even an
+[11:38 --> 11:43] emperor who was the son of a freedman, but all those men by the time they donned the
+[11:43 --> 11:48] purple were listed on the senatorial rolls.
+[11:48 --> 11:52] Which is why it was patently absurd that this loose cannon oracle was predicting the reign
+[11:52 --> 11:56] of an equite named Marcus Opelius Macrinus.
+[11:56 --> 12:02] But no one could get the silly nutcase to shut up, so absurd or not, Macrinus had to
+[12:02 --> 12:07] take the implications of the prophecy seriously.
+[12:07 --> 12:12] With no way of keeping the information from Caracalla forever, and Cassius Dio reports
+[12:12 --> 12:17] that the emperor had perhaps already heard rumors about the prophecy, Macrinus' kill
+[12:17 --> 12:25] or be-killed instincts took over and he initiated a conspiracy to assassinate Caracalla.
+[12:25 --> 12:30] He was likely not too worried about negative blowback for the regicide he was contemplating.
+[12:30 --> 12:33] It's not like Caracalla was a beloved figure, even in the army.
+[12:33 --> 12:36] They only liked him because he continued to pay them.
+[12:36 --> 12:43] So the main concern was simply where, when, and by whom the deed would be done.
+[12:43 --> 12:48] We don't know exactly how the murder exactly happened, despite the rich detail we find
+[12:48 --> 12:53] in the histories describing it, because those reports conflict with each other and were
+[12:53 --> 12:58] most likely third-hand accounts of third-hand accounts anyway.
+[12:58 --> 13:03] The most commonly told version, probably because it was endorsed by Gibbon, is that in April
+[13:03 --> 13:09] of 217, Caracalla's entourage was on its way to a temple near the eastern frontier,
+[13:09 --> 13:14] and specifically very near the site of the disastrous Battle of Cary, when the emperor
+[13:14 --> 13:18] called for a pit stop.
+[13:18 --> 13:22] Macrinus had already convinced a disgruntled soldier, most likely disgruntled at being
+[13:22 --> 13:27] passed over for promotion, to be his assassin, and with the emperor all alone by the side
+[13:27 --> 13:32] of the road taking care of business, Macrinus signaled for the disgruntled soldier to approach
+[13:32 --> 13:36] the emperor on some invented pretense.
+[13:36 --> 13:41] As the head of the imperial bodyguard, the other praetorians took their cues from Macrinus,
+[13:41 --> 13:46] and when the prefect seemed unconcerned about this single soldier approaching the emperor,
+[13:46 --> 13:49] they too relaxed their vigil.
+[13:49 --> 13:54] The soldier came up alongside the emperor, and without warning, pulled out a dagger and
+[13:54 --> 13:57] began stabbing Caracalla to death.
+[13:57 --> 14:01] The assassin was instantly dropped by an archer in the bodyguard, but the damage had been
+[14:01 --> 14:02] done.
+[14:02 --> 14:07] Caracalla's bloody corpse lay motionless in the dust.
+[14:07 --> 14:14] He was 29 years old, and had ruled the empire for just over six years.
+[14:14 --> 14:19] Just like practically every other time an emperor was assassinated, the death of Caracalla
+[14:19 --> 14:24] opened up a power vacuum that needed to be filled, and filled fast, or everything was
+[14:24 --> 14:27] going to go to hell.
+[14:27 --> 14:31] Without having the time to work things out in advance, with a ready, willing, and able
+[14:31 --> 14:37] nerva or pertinax, Macrinus had gone ahead and killed Caracalla without a shadow emperor
+[14:37 --> 14:42] waiting in the wings, which usually means big trouble.
+[14:42 --> 14:46] Word quickly spread of the emperor's death, and the legions, especially the legions in
+[14:46 --> 14:51] the east where most of the imperial court currently resided, suddenly found themselves
+[14:51 --> 14:54] once again in the business of kingmaking.
+[14:54 --> 14:59] The senate, who were supposed to have the final authority in these matters, found itself
+[14:59 --> 15:05] too far away from the action, and too weak anyhow, to get a wording edgewise.
+[15:05 --> 15:10] For three days, candidates were nominated and rejected by the legions for various reasons,
+[15:10 --> 15:16] until, with fearful desperation beginning to creep into everyone's hearts, the praetorians
+[15:16 --> 15:21] decided that it was time for them to put their weight behind one of their own.
+[15:21 --> 15:27] The senior prefect, a man named Adventus, begged off the job, but Macrinus, perhaps
+[15:27 --> 15:32] swayed by the prophecy that had got them all into this mess in the first place, accepted
+[15:32 --> 15:36] the drive to make one of the praetorian leaders emperor.
+[15:36 --> 15:41] He had put on a pretty good show of surprise and grief following the murder of Caracalla,
+[15:41 --> 15:45] and so no one suspected that he was in fact the man behind the man who had killed the
+[15:45 --> 15:48] emperor.
+[15:48 --> 15:53] With the praetorians united, the rest of the legions resigned themselves to Macrinus, and
+[15:53 --> 15:58] in what would have been an unthinkable reality just a few days before, Rome found itself
+[15:58 --> 16:04] with its first ever emperor of equestrian rank.
+[16:04 --> 16:09] Back in Rome, the senate too resigned itself to emperor Macrinus.
+[16:09 --> 16:13] They were so happy to be rid of Caracalla that they probably would have supported inanimate
+[16:13 --> 16:20] carbon rod for the job, but beyond just being not Caracalla, Macrinus did bring to the table
+[16:20 --> 16:23] some nice attributes.
+[16:23 --> 16:27] He was an accomplished lawyer, and as prefect, he had always been fair and judicious with
+[16:27 --> 16:33] the senate, so the overall feeling was that basically the empire could do a lot worse.
+[16:33 --> 16:37] I mean, it just had, right?
+[16:37 --> 16:41] In time, they would come to regret their decision, not really for anything Macrinus did while
+[16:41 --> 16:46] in office, though they did nail him for a few things that he did while in office, but
+[16:46 --> 16:51] because it dawned on them one day that they had set a terrible precedent in allowing someone
+[16:52 --> 16:56] the senatorial club to take the job.
+[16:56 --> 17:02] But at the beginning, it was all, yay, Caracalla is dead, long live Macrinus.
+[17:02 --> 17:07] The brief reign of the equestrian emperor is notable for one other small bit of trivia.
+[17:07 --> 17:13] He would be the first emperor never to set foot in Rome while in office.
+[17:13 --> 17:18] When the rapid succession of barracks emperors comes marching down the road pretty soon,
+[17:18 --> 17:20] this will become more and more the norm.
+[17:20 --> 17:24] But up until this point, every emperor had spent at least part of their reign in the
+[17:24 --> 17:26] capital.
+[17:26 --> 17:37] But only in office from April 217 until June 218, Macrinus would simply never get the chance.
+[17:37 --> 17:43] The new emperor sowed the seeds of his own destruction right from the very beginning.
+[17:43 --> 17:48] He had been ruthless enough to kill Caracalla, but he was unable to extend that ruthlessness
+[17:48 --> 17:51] to the rest of the Severan family.
+[17:51 --> 17:57] In an attempt to appear liberal and generous and guilt-free, he refused to purge the imperial
+[17:57 --> 18:03] family and at first even allowed them to remain in Rome with their standing more or less unaffected
+[18:03 --> 18:09] by the fact that they were no longer technically the imperial family anymore.
+[18:09 --> 18:14] Taking up residence in Antioch, Macrinus thus allowed a group of people suddenly booted
+[18:15 --> 18:19] Free reign in Rome to connive their way back in.
+[18:19 --> 18:24] It's not that the Severans had any great love for Caracalla or any reason at this point
+[18:24 --> 18:30] to suspect Macrinus of having killed him, but as emperor, Caracalla had been the linchpin
+[18:30 --> 18:36] that held them all fast to power, and now that he was dead, they were suddenly adrift.
+[18:36 --> 18:40] It should come as no surprise then that they conspired like mad to pin themselves back
+[18:40 --> 18:43] down.
+[18:43 --> 18:47] After he started receiving reports that the Severans were in fact plotting against him,
+[18:47 --> 18:51] Macrinus finally ordered them exiled from the capital, back to their maternal home city
+[18:51 --> 18:53] of Ammisa.
+[18:53 --> 18:58] But really, not to sound cruel, if he wanted to stay emperor, he should have killed them
+[18:58 --> 18:59] all.
+[18:59 --> 19:05] They had no less plan for him, and he should have known that.
+[19:05 --> 19:13] Julia Domna, for her part, did what Macrinus could not do, and, facing exile from the capital,
+[19:13 --> 19:15] decided that enough was enough.
+[19:15 --> 19:20] She went on a hunger strike and died shortly thereafter.
+[19:20 --> 19:23] Life had taken a harsh turn for the empress following the death of her husband, and this
+[19:23 --> 19:28] last insult to her dignity was too much to bear.
+[19:28 --> 19:32] Probably a good thing that she died too, as it spared her from witnessing the further
+[19:32 --> 19:35] depravities of her extended family.
+[19:35 --> 19:42] Said depravities mostly arose at the instigation of Julia's sister, Julia Misa, who, by virtue
+[19:42 --> 19:48] of her relation to the Augusta, had lived a rich and untroubled life, but, much to her
+[19:48 --> 19:53] chagrin, she had never tasted the real power her sister had once wielded.
+[19:53 --> 20:00] Julia Misa wanted that power, and had no compunctions about how she was going to get it.
+[20:00 --> 20:04] She had already been eyeing the fortunes of her two grandsons, who were the only males
+[20:04 --> 20:09] in the extended Severan family, and as such, stood as very likely candidate to succeed
+[20:09 --> 20:13] the childless Caracalla, should he remain childless.
+[20:13 --> 20:20] With Caracalla dead, those two boys now stood as the only real heirs to the house of Severus,
+[20:20 --> 20:25] the legitimate imperial house of Severus, that had been betrayed and exiled by that
+[20:25 --> 20:28] treacherous equite Macrinus.
+[20:28 --> 20:32] That these boys would become a rallying point for discontentment could have been seen from
+[20:32 --> 20:36] a mile away.
+[20:36 --> 20:41] The two boys in question were the only sons of Julia Misa's two daughters, and together
+[20:41 --> 20:46] they all packed up and headed back to Misa in 217.
+[20:46 --> 20:53] The elder boy was named Varius Avidius Bossianus, and at this point he was fourteen years old.
+[20:53 --> 20:59] His younger cousin, named Marcus Julius Ghesius Bossianus Alexianus, was himself only nine
+[20:59 --> 21:02] at the time of Caracalla's death.
+[21:02 --> 21:07] The fact that they hadn't reached manhood yet is probably what saved them both, as even
+[21:07 --> 21:12] at this point in history, the Romans looked sideways at murdering children.
+[21:12 --> 21:16] But really, Macrinus not killing them both when he had the chance turned out to be a
+[21:16 --> 21:19] blunder of the First Order.
+[21:19 --> 21:23] Because soon enough, Macrinus will be dead, and history will come to know those two young
+[21:23 --> 21:34] harmless pups as his imperial successors, who we know as Elagabalus and Alexander Severus.
+[21:34 --> 21:38] Before we get to that, we should get back to Macrinus, and his attempt to stabilize
+[21:38 --> 21:43] the empire, his own claim to the throne, and the fortunes of what he hoped would be a new
+[21:43 --> 21:46] dynasty all at the same time.
+[21:46 --> 21:51] In case you're wondering, things will not go smoothly.
+[21:51 --> 21:56] Caracalla had, as you can imagine, left the empire in pretty dismal shape.
+[21:56 --> 22:01] His persistent draining of the treasury to heap rewards upon the legions had created
+[22:01 --> 22:03] a two-fold problem for his successor.
+[22:03 --> 22:09] One, there was very little money left in the imperial treasury, and two, the army expected
+[22:09 --> 22:14] to keep receiving the same kind of lavish donatives they had received under the late
+[22:14 --> 22:16] emperor.
+[22:16 --> 22:22] When Macrinus got into power and recognized the fiscal mess the empire was in, he immediately
+[22:22 --> 22:27] tried to scale back the soldiers' pay to a reasonable level, which immediately ticked
+[22:27 --> 22:29] them off something fierce.
+[22:29 --> 22:34] It didn't help that he had promised them the moon when they agreed to support him, but
+[22:34 --> 22:39] I can forgive Macrinus a little on that front, because, come on, campaign promises aren't
+[22:39 --> 22:42] worth the paper they're printed on.
+[22:42 --> 22:47] The other pretty massive problem Caracalla had left for Macrinus was his utterly disastrous
+[22:47 --> 22:50] forays into foreign affairs.
+[22:50 --> 22:55] Locals in Dacia were upset about hostages Caracalla had taken, the people of Armenia
+[22:55 --> 23:00] were angry about Caracalla's imprisonment of their popular king, and the Parthians,
+[23:00 --> 23:06] well, the Parthians were understandably annoyed at that whole fake wedding real massacre
+[23:06 --> 23:11] thing we talked about last week.
+[23:11 --> 23:15] In trying to set all of this right, Macrinus took the angle of least resistance, and in
+[23:15 --> 23:22] so doing earned himself the scorn of both the senate and the legions for appearing weak.
+[23:22 --> 23:27] He returned the hostages to Dacia, appointed the son of the man Caracalla had imprisoned
+[23:27 --> 23:34] to take over the throne of Armenia, and in Parthia, well, Parthia was a bit more difficult.
+[23:34 --> 23:40] They had come barging west with a pretty good sized army, on a mission of vengeance, and
+[23:40 --> 23:45] the lifelong jurors was forced to don armor to go out and meet them.
+[23:45 --> 23:50] The legions were by this time pretty cocky about their ability to handle the Parthians,
+[23:50 --> 23:55] who were about to completely fall apart and be reformed as the much more powerful Sassanid
+[23:55 --> 23:56] Empire.
+[23:56 --> 24:02] So they were dismayed to find that after one inconclusive battle, Macrinus was suing for
+[24:02 --> 24:03] peace.
+[24:03 --> 24:07] They were doubly dismayed when they discovered that it was the Romans who would be paying
+[24:07 --> 24:12] the Parthians to prevent further hostilities, and it was a huge sum of money that they were
+[24:12 --> 24:14] going to be paying them.
+[24:14 --> 24:19] And hey, aren't you the same guy who said you were too broke to pay us?
+[24:19 --> 24:23] So now not only are you proving to be kind of a cheapskate, but it turns out that you're
+[24:23 --> 24:25] a coward to boot, and a liar.
+[24:25 --> 24:30] You are not who we signed up for, sir.
+[24:30 --> 24:34] The sinking of his standing with the legions was soon matched by the sinking of his standing
+[24:34 --> 24:36] with the senate.
+[24:36 --> 24:41] Macrinus, who had once seemed at least an acceptable alternative to Caracalla, was now
+[24:41 --> 24:44] proving to be nothing of the sort.
+[24:44 --> 24:50] It did not help that Julia Misa, who still wielded considerable informal influence, had
+[24:50 --> 24:55] instigated a pretty vicious whisper campaign against the now she probably guessed had killed
+[24:55 --> 24:57] her nephew.
+[24:57 --> 25:00] Julia played the moment perfectly.
+[25:00 --> 25:04] Just when Macrinus' reputation was bottoming out and everyone was wondering how they were
+[25:04 --> 25:09] going to ditch this loser, Julia offered them a solution.
+[25:09 --> 25:14] She announced that her eldest grandson, fourteen-year-old Varius Avidius Bossianus, was actually the
+[25:14 --> 25:20] biological son of Caracalla and the true heir to the imperial throne.
+[25:20 --> 25:26] When intelligent men did the math, they perhaps did not necessarily buy wholly the theory
+[25:26 --> 25:31] that at the tender age of fourteen Caracalla had fathered a child with his maternal cousin,
+[25:31 --> 25:36] But hey, stranger things have happened, and Macrinus seems pretty much like a non-starter,
+[25:36 --> 25:39] so you say the boy is the true heir to the throne?
+[25:39 --> 25:43] Well, let's go with that.
+[25:43 --> 25:46] Next week, they'll go with that.
+[25:46 --> 25:51] But what that turned out to be was about a hundred times worse than Macrinus.
+[25:51 --> 25:56] And almost immediately after the teenager history calls Elagabalus won the throne, even
+[25:56 --> 26:01] the legion that had been the first to support him was ready to revolt against him.

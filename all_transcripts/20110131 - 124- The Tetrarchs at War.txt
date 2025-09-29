@@ -1,0 +1,329 @@
+# 20110131 - 124- The Tetrarchs at War
+# Detected language: en
+# Duration: 1543.58 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to the History of Rome, episode 124, The Tetrarchs at War.
+[00:14 --> 00:20] We left off last week with our two newly appointed junior emperors, Constantius and Galerius,
+[00:20 --> 00:24] ready to begin the wars they had been assigned by their senior colleagues.
+[00:24 --> 00:29] In the north, Constantius was making final preparations for his invasion of Britain,
+[00:29 --> 00:35] while in the east, Galerius outlined his strategy for punitive expedition against the Sassanids,
+[00:35 --> 00:39] who had recently broken their treaty with Rome by invading Armenia.
+[00:39 --> 00:44] For the moment, it looked like Constantius had drawn the short straw, forced to fight
+[00:44 --> 00:49] fellow Romans in an attempt to retake a nearly impregnable island that had thus far proved
+[00:49 --> 00:51] to be an impossible nut to crack.
+[00:51 --> 00:56] Galerius, on the other hand, got to fight Persians, and in addition to the riches and
+[00:57 --> 01:02] that usually came with campaigns in the east, Galerius also stood to be the man who finally
+[01:02 --> 01:07] avenged the long un-avenged capture of Valerian.
+[01:07 --> 01:11] Constantius' assignment was hard and unglamorous.
+[01:11 --> 01:17] Galerius' was, well, not easy, but certainly not as hard, and it was most likely going
+[01:17 --> 01:20] to prove ten times as glamorous.
+[01:20 --> 01:25] But despite the relative difficulties of their respective wars, it would shortly be Constantius
+[01:25 --> 01:30] who was bathed in glory for reconquering the province of Britannia, and Galerius who was
+[01:30 --> 01:38] forced to walk a mile in front of Diocletian's litter as penance for the defeats he had suffered.
+[01:38 --> 01:43] To deal with the western front first, we must follow Constantius from Milan up to Trier,
+[01:43 --> 01:47] where he established a capital for his coming campaigns.
+[01:47 --> 01:52] As I mentioned last week, Constantius was probably involved at the highest level in
+[01:52 --> 01:59] the previous attempt to retake Britain, and so was acutely aware of what had gone wrong.
+[01:59 --> 02:02] Two big mistakes appear to have stuck out to him.
+[02:02 --> 02:07] First, despite the understanding that they needed to pacify the Germans before proceeding,
+[02:07 --> 02:11] they had not taken this to its logical conclusion.
+[02:11 --> 02:15] That is, they knocked out all the periphery tribes and established a launching pad from
+[02:15 --> 02:21] the Rhine Delta, but they had done nothing to directly attack Cerocious' Frankish allies
+[02:21 --> 02:23] in northern Gaul.
+[02:23 --> 02:27] As long as Cerocious controlled both sides of the English channel, not only would his
+[02:27 --> 02:32] supply and trade lines remain open, and those trade lines were a part of the key to his
+[02:32 --> 02:37] legitimacy, but he would also be able to concentrate his defense forces on the eastern approach
+[02:37 --> 02:43] to Britain, since that would be the only direction an invasion fleet would be able to come from.
+[02:43 --> 02:48] So Constantius resolved to make his first objective, dislodging the Franks from the
+[02:48 --> 02:50] Gallic coast.
+[02:50 --> 02:54] Once they were out of the way, he would be able to deal with the second big mistake.
+[02:54 --> 03:00] Namely, that a single invasion force approaching from a direction the enemy expected was no
+[03:00 --> 03:03] way to break through a naval blockade.
+[03:03 --> 03:08] You have to at least be a little sneaky about these things, and so Constantius resolved
+[03:08 --> 03:15] to be a little more sneaky when it came time to put his own ships in the water.
+[03:15 --> 03:20] Taken together, these two corrections wound up winning the war for Constantius.
+[03:20 --> 03:23] The first, fatally undermined Cerocious' regime.
+[03:23 --> 03:29] The second, completely paralyzed his successor.
+[03:29 --> 03:35] Right away, that is in late 293 AD, just months after being made Caesar, Constantius launched
+[03:35 --> 03:41] the first of his attacks in pursuit of objective one, neutralize the Franks.
+[03:41 --> 03:46] The key port on the Gallic coast controlled by the Franks was Boulogne, and so, not beating
+[03:46 --> 03:52] around the bush, Constantius laid siege to the city in the autumn of 293.
+[03:52 --> 03:56] The Frankish leaders felt pretty good about their ability to hold out.
+[03:56 --> 04:00] Constantius was in no position to threaten their access to the sea, and the approach
+[04:00 --> 04:04] by land was thin and heavily fortified.
+[04:04 --> 04:09] But Constantius was not here to mess around, and even though no one, probably not even
+[04:09 --> 04:15] his own men, expected it, the Caesar went right for the jugular and began to threaten
+[04:15 --> 04:19] the Franks' access to the sea.
+[04:19 --> 04:24] It's a little hard to describe, but in essence, Constantius had his men build a dam across
+[04:24 --> 04:28] the harbor, cutting off any possible sea traffic.
+[04:28 --> 04:33] Though he had no navy to speak of, Constantius was thus able to cut off the Frankish ships
+[04:33 --> 04:37] from their main port of call, and leave the defenders of Boulogne stranded without the
+[04:37 --> 04:40] possibility of relief.
+[04:40 --> 04:45] It did not take long for them to recognize that their situation was hopeless, and capitulate
+[04:45 --> 04:48] to Constantius' legions.
+[04:48 --> 04:53] The capture of Boulogne, while in and of itself a good thing, actually turned out to be a
+[04:53 --> 04:57] bigger boon to Constantius' chances of winning back Britain than even he could have predicted
+[04:57 --> 05:00] at the outset.
+[05:00 --> 05:04] Because the loss of access to the mainland caused by the fall of Boulogne dealt a major
+[05:04 --> 05:12] blow to Cerocious' legitimacy, and left him vulnerable to a murderous palace coup.
+[05:12 --> 05:16] I haven't been able to find a good answer to the question of what the conspirators thought
+[05:16 --> 05:22] they were going to accomplish by assassinating Cerocious, but in the winter of 293, a cabal
+[05:22 --> 05:27] led by the British finance minister, Electus, killed the man who had been there Augustus
+[05:27 --> 05:30] these last seven years.
+[05:30 --> 05:35] With Cerocious out of the way, Boulogne remained lost, and the little British empire was now
+[05:35 --> 05:38] deprived of its most able general.
+[05:38 --> 05:42] So yeah, I'm not sure what they were hoping to accomplish.
+[05:42 --> 05:47] Sometimes, I guess, power is its own reward.
+[05:47 --> 05:53] Electus declared himself Augustus, and the noose was pulled a bit tighter.
+[05:53 --> 05:58] But the now practically inevitable execution of the British regime did not follow right
+[05:58 --> 05:59] away.
+[05:59 --> 06:04] The problem seems to have been that in the aftermath of Maximian's defeat, there was
+[06:04 --> 06:08] no concerted effort to rebuild the navy that had just been annihilated.
+[06:08 --> 06:12] So in the aftermath of his own victory at Boulogne some four years later, Constantius
+[06:12 --> 06:15] still had no navy.
+[06:15 --> 06:20] As with the reason for Cerocious's assassination, I haven't been able to find a good explanation
+[06:20 --> 06:26] for why a fleet was not being rebuilt, especially since everyone knew there was going to be
+[06:26 --> 06:28] a second invasion attempt.
+[06:28 --> 06:34] But if I had to speculate, I would say that no one really knew when or under what circumstances
+[06:34 --> 06:39] the next invasion would take place, so why waste time and resources constructing a fleet
+[06:39 --> 06:45] that might sit idle for years, and in the interim be sitting ducks for Frankish attacks
+[06:45 --> 06:50] that might see the new ships destroyed before they even had a chance to launch?
+[06:50 --> 06:52] But I'm just guessing.
+[06:52 --> 06:57] All we really know is that following the capture of Boulogne and the assassination of Cerocious,
+[06:57 --> 07:02] two years would pass before Constantius set sail to retake the island.
+[07:02 --> 07:07] In the meantime, he seems to have followed the same basic policy as Maximian and Diocletian,
+[07:07 --> 07:12] and campaigned extensively against the Alamani in order to ensure that the mainland would
+[07:12 --> 07:16] be pacified when he headed across the water.
+[07:16 --> 07:21] And of course, he continued to campaign against the Franks until they had been brought completely
+[07:21 --> 07:27] to heel, culminating with the placement of a new pro-Roman king at the head of their
+[07:27 --> 07:30] confederation.
+[07:30 --> 07:33] By 295, though, things were all set.
+[07:33 --> 07:38] Maximian moved up from Milan to watch the Rhine frontier, and Constantius readied his
+[07:38 --> 07:40] fleets to sail.
+[07:40 --> 07:41] What's that?
+[07:41 --> 07:43] Fleets, you say?
+[07:43 --> 07:44] That's right.
+[07:44 --> 07:49] Taking advantage of his control of the Gallic coast, Constantius divided up his forces in
+[07:49 --> 07:54] two, launching them from two different ports with two different landing spots in mind,
+[07:54 --> 08:00] so as to divide the enemy and keep them guessing as to where the invasion was headed.
+[08:00 --> 08:04] Constantius himself launched from Boulogne on his way to Dover, while his Praetorian
+[08:04 --> 08:09] prefect Asclepiodotus launched from the mouth of the Seine River on his way to the Isle
+[08:09 --> 08:12] of Wight.
+[08:12 --> 08:17] Just as with Maximian's invasion, supposedly, the short trip to Britain was complicated
+[08:17 --> 08:19] by bad weather.
+[08:19 --> 08:24] But with two fleets on the water instead of just one, the operation was able to keep moving
+[08:24 --> 08:29] forward, rather than coming to a complete standstill when Constantius' ships were
+[08:29 --> 08:31] stalled out in the storm.
+[08:31 --> 08:36] Asclepiodotus' fleet was able to navigate the rough seas and make a landing somewhere
+[08:36 --> 08:38] near Southampton.
+[08:38 --> 08:44] Once ashore, the prefect burned his ships, not just to prevent their capture, but also
+[08:44 --> 08:48] to remind his men that there would be no retreat.
+[08:48 --> 08:53] Victory or death, that is what the gods had in store for them.
+[08:54 --> 08:59] Now, Alectus, the self-proclaimed Augustus of Britain, who had been running the island
+[08:59 --> 09:05] for the last two years, was not a tenth of the soldier Corocius had been.
+[09:05 --> 09:09] Believing Constantius was coming from the southeast, since that is where the previous invasion
+[09:09 --> 09:14] had come from, Alectus had massed his forces down in Kent to meet what he thought would
+[09:14 --> 09:17] be a single invading army.
+[09:17 --> 09:23] When reports suddenly began arriving detailing an invasion force marching north from Southampton,
+[09:23 --> 09:28] Alectus panicked and pulled his forces up to block the road to London.
+[09:28 --> 09:33] But in his haste to get the army moving, they became disorganized and spread out, with the
+[09:33 --> 09:38] British legions proper divided from the Frankish mercenaries the British regime had been employing
+[09:38 --> 09:42] since Corocius first established his independence.
+[09:42 --> 09:46] So the defense force Alectus planted on the road to meet the advancing Romans was not
+[09:46 --> 09:52] at full strength, nor well organized, nor well led.
+[09:52 --> 09:59] Asclepiodotus did not have to work very hard to smash them to pieces, and Alectus himself
+[09:59 --> 10:02] died in the fighting.
+[10:02 --> 10:08] When the weather cleared up, Constantius landed his forces and began his own march on London.
+[10:08 --> 10:13] With the news of Alectus' defeat already circulating throughout the island, the arrival
+[10:13 --> 10:17] of Constantius suddenly had a whole new vibe.
+[10:17 --> 10:22] The Frankish mercenaries who had not fought and died were now viewed as a far greater
+[10:22 --> 10:27] threat than Constantius and his legions.
+[10:27 --> 10:32] The citizens of Britain were shutting up their homes and cities not because they feared Constantius,
+[10:32 --> 10:38] but because they feared what the Franks would do now that they were off the leash.
+[10:38 --> 10:43] And their fear was well placed, as it appears that the Franks took Alectus' defeat as
+[10:43 --> 10:49] their cue to sack as much of the countryside as they could.
+[10:49 --> 10:53] Constantius caught up with them before they reached London, though, and in a quick battle
+[10:53 --> 10:57] annihilated the marauding Franks.
+[10:57 --> 11:01] When Constantius set sail, he had every reason to believe that the battle for London would
+[11:01 --> 11:03] be a hard-fought affair.
+[11:03 --> 11:08] But now, as he approached the capital, he found himself greeted not as an enemy, but
+[11:08 --> 11:11] as a beloved hero.
+[11:11 --> 11:15] This great and mighty Caesar had delivered Britain from the destructive wrath of the
+[11:15 --> 11:16] Franks.
+[11:16 --> 11:21] Just like that, the province of Britannia was reabsorbed, more than willingly at this
+[11:21 --> 11:24] point, into the empire.
+[11:24 --> 11:29] To celebrate this victory, Constantius began issuing coins with his own face, bearing the
+[11:29 --> 11:36] legend Restorer of Eternal Light.
+[11:36 --> 11:40] Just as Constantius was celebrating his victory in the west, Galerius was beginning his campaign
+[11:41 --> 11:43] in the east.
+[11:43 --> 11:47] After spending most of the last two years in Egypt, the Caesar had been brought north
+[11:47 --> 11:54] to Antioch to confer with Diocletian and figure out what to do about the resurgent Sassanids.
+[11:54 --> 11:59] Diocletian had been watching with alarm as the new Persian king, Narcissus, adopted an
+[11:59 --> 12:03] increasingly hostile posture towards Rome.
+[12:03 --> 12:08] At first, this new posture manifested itself in relatively harmless displays of strength
+[12:08 --> 12:12] by the Persians along their western frontier.
+[12:12 --> 12:17] But lately, Narcissus had been making troubling alliances with the tribes and petty kingdoms
+[12:17 --> 12:18] of the borderland.
+[12:18 --> 12:26] Then, in either 295 or 296, the Persian king moved out of the theatrical and into the martial
+[12:26 --> 12:34] by invading Armenia, defeating and deposing the pro-Roman king Tiridates in the process.
+[12:34 --> 12:39] From Armenia, Narcissus moved his forces south through Ossorini and stood poised now on the
+[12:39 --> 12:43] Syrian border.
+[12:43 --> 12:47] Diocletian knew that Narcissus was self-consciously styling himself as the new Sharpor and it
+[12:47 --> 12:52] was entirely likely that the Persian king was getting ready to invade Syria and sack
+[12:52 --> 12:56] Antioch just as Sharpor had done.
+[12:56 --> 13:01] Diocletian was unwilling to wait for the other shoe to drop and so in mid-296, Galerius marched
+[13:01 --> 13:06] out at the head of an army to confront the Persians before they decided to cross into
+[13:06 --> 13:10] Roman territory.
+[13:10 --> 13:16] The two armies met near Cary, a site of Crassus' great defeat some three centuries before,
+[13:16 --> 13:21] and after wasting precious little time on diplomatic niceties, the Romans and Sassanids
+[13:21 --> 13:24] threw themselves at one another.
+[13:24 --> 13:28] The result was an unmitigated disaster for Rome.
+[13:28 --> 13:34] Galerius ran his heavy cavalry and archery detachments in perfect tandem and this Persian
+[13:34 --> 13:38] 1-2 punch caught the Romans completely flat-footed.
+[13:38 --> 13:43] After suffering extensive losses, Galerius was able to extract what was left of his army
+[13:43 --> 13:48] and lead them on a limping march back to Antioch.
+[13:48 --> 13:54] Legend has it that upon his arrival, Galerius was met outside the city by a furious Diocletian,
+[13:54 --> 13:59] who made the defeated Caesar walk a mile on foot in front of Diocletian's imperial
+[13:59 --> 14:03] litter as punishment for his failure.
+[14:03 --> 14:08] It is likely that this episode is a colorful invention, but there is no doubt that in the
+[14:08 --> 14:16] aftermath of the defeat, Diocletian made Galerius take full responsibility for the episode.
+[14:16 --> 14:20] Such was the cost of maintaining the Tetrarchy's stability.
+[14:20 --> 14:25] Losses would be shared by all four men equally, but defeats would be the responsibility of
+[14:25 --> 14:30] the losing general alone.
+[14:30 --> 14:37] That being said, in all likelihood, Diocletian's public shaming of Galerius is a later invention.
+[14:37 --> 14:43] For one thing, no contemporary source mentions the incident, but perhaps more importantly,
+[14:43 --> 14:47] it would not at all have been in keeping with Diocletian's character.
+[14:47 --> 14:53] The senior Augustus was careful to cultivate a public image of the Imperial College as
+[14:53 --> 14:58] one of unwavering mutual support and unity of purpose, as was so demonstrated in the
+[14:58 --> 15:02] aftermath of Maximian's failed British invasion.
+[15:02 --> 15:07] To humiliate Galerius out in the open like that would not just have poked holes in that
+[15:07 --> 15:12] public image, but it likely would have done real damage to the actual unity Diocletian
+[15:12 --> 15:15] was trying to maintain behind the scenes.
+[15:15 --> 15:20] Eradicating the conditions that led to the rampant civil wars of the crisis years was
+[15:20 --> 15:25] one of Diocletian's biggest concerns, and I highly doubt that he would have so carelessly
+[15:25 --> 15:31] undermined all of his efforts by slapping his junior colleague around in public.
+[15:31 --> 15:37] Honor was a huge part of what made these men tick, and humiliating Galerius so brazenly
+[15:37 --> 15:42] might have ticked the Caesar off to the point that he would have viewed overthrowing Diocletian
+[15:42 --> 15:45] as a reasonable response.
+[15:45 --> 15:50] So while I have no trouble believing that Diocletian balled Galerius out in private,
+[15:50 --> 15:55] in public I can't imagine he would have done anything to risk Imperial unity, especially
+[15:55 --> 16:01] for something as petty as making a guy walk in front of your horse for a little while.
+[16:01 --> 16:04] But it was not all bad for the Romans.
+[16:04 --> 16:08] Despite the fact that he had been bested in the field, Galerius had obviously put up enough
+[16:08 --> 16:14] of a fight that the Persian king, whatever his intentions had been before, did not immediately
+[16:14 --> 16:18] follow up his victory with an invasion of Syria.
+[16:18 --> 16:23] And it's a good thing that he didn't, because just a few months after the defeat of Galerius,
+[16:23 --> 16:28] word came up from Egypt that yet another revolt had broken out.
+[16:28 --> 16:32] The origins of this latest unrest will be dealt with more fully a few episodes down
+[16:32 --> 16:39] the road when I dive into Diocletian's economic reforms, so just know for now that Diocletian's
+[16:39 --> 16:44] crackdown on tax evasion did not at all go over well with the perpetually tax evading
+[16:44 --> 16:47] Egyptians.
+[16:47 --> 16:52] Leaving Galerius in Syria to oversee the rebuilding of the frontier defenses, Diocletian decided
+[16:52 --> 16:59] to personally see to the problem of Egypt.
+[16:59 --> 17:04] In 297, what had begun as a series of local uprisings had coalesced into a province-wide
+[17:04 --> 17:11] movement that even had its own self-proclaimed Augustus, a man named Lucius Domitius Domitianus,
+[17:11 --> 17:17] who was attempting to reassert all the special privileges Egypt and in particular Alexandria
+[17:17 --> 17:22] had always enjoyed and that Diocletian was now trying to take away.
+[17:22 --> 17:28] Diocletian, though, had a vision for the future of the empire, and special treatment for special
+[17:28 --> 17:32] people was not at all a part of that vision.
+[17:32 --> 17:37] Just ask the citizens of Italy, who at that same time were having all of their longhill
+[17:37 --> 17:40] privileges revoked one by one.
+[17:40 --> 17:41] Pay taxes?
+[17:41 --> 17:44] You've got to be joking.
+[17:44 --> 17:48] But like I say, we'll get into all that later.
+[17:48 --> 17:53] So Diocletian came down to Egypt, and despite stiff resistance from the natives, he thoroughly
+[17:53 --> 17:57] smacked down the rebellion with an iron hand.
+[17:57 --> 18:01] The emperor had no intention of allowing Egypt to become the bleeding ulcer that Britain
+[18:01 --> 18:08] had been for so long, and mercy towards the rebels was in short supply.
+[18:08 --> 18:13] There is even a charming little story about how, when he finally took Alexandria after
+[18:13 --> 18:18] a surprisingly difficult nine-month siege, the enraged Diocletian announced that he was
+[18:18 --> 18:24] going to slaughter everyone in the city until the blood ran up to his horse's knee.
+[18:24 --> 18:30] Then, as if on cue, the tired horse decided at that very moment to kneel down, knees,
+[18:30 --> 18:34] of course, now touching the ground.
+[18:34 --> 18:38] Diocletian took the hint the gods sent him and ordered a stop to the massacre he was
+[18:38 --> 18:41] intending to unleash on the Alexandrians.
+[18:41 --> 18:46] This little story is even more charming because in gratitude the Alexandrians allegedly built
+[18:46 --> 18:53] a statue in honor of Diocletian's horse once the emperor had moved on.
+[18:53 --> 18:58] By the end of 297, though, the revolt was nipped in the bud, Domitianus was dead, and
+[18:58 --> 19:05] the emperor could turn his attention back to the Persian problem.
+[19:05 --> 19:10] Back up in Antioch, Galerius had spent the year successfully rebuilding the Syrian legions,
+[19:10 --> 19:15] and when Diocletian arrived, the senior Augustus was pleased to discover that his junior colleague
+[19:15 --> 19:19] was ready to go back on the offensive.
+[19:19 --> 19:24] And it was the offensive they would have to go back on because, despite his initially
+[19:24 --> 19:29] bold moves, King Narcissus had learned that the Romans were not the pushover he had perhaps
+[19:29 --> 19:33] led himself to believe they were.
+[19:33 --> 19:37] He didn't give up his position in Armenia or Mesopotamia, but he also didn't press
+[19:37 --> 19:40] on any further.
+[19:40 --> 19:44] When it became obvious that the Persian king was not going to invade and press his luck
+[19:44 --> 19:50] inside Roman territory, the emperors decided to take the fight to him again.
+[19:50 --> 19:56] As we've seen over and over again, the Romans never took a defeat as the last word
+[19:56 --> 20:04] in anything, and it was in fact almost axiomatic that the last word had to be a Roman victory.
+[20:04 --> 20:09] If the Romans lost, it was only a setback on the road to final victory.
+[20:09 --> 20:13] It could not possibly mean an end to hostilities, because the only time the Romans allowed an
+[20:13 --> 20:17] end to hostilities was when the Romans won.
+[20:17 --> 20:21] They were simply a maddening opponent that way.
+[20:21 --> 20:26] So in 298 AD, Galerius marched out at the head of an army to track down Narcissus and
+[20:26 --> 20:31] bring an end to hostilities.
+[20:31 --> 20:35] This time, the Caesar played it a bit smarter.
+[20:35 --> 20:38] Rather than heading straight for the Persian army, which was then encamped on the plains
+[20:38 --> 20:44] of Mesopotamia, he decided to take the road in through the mountains of Armenia and force
+[20:44 --> 20:49] Narcissus to fight on ground that Galerius hoped would neutralize the Persian heavy cavalry
+[20:49 --> 20:52] advantage.
+[20:52 --> 20:56] Narcissus took the bait, and this time when the two armies met, the legions routed the
+[20:56 --> 21:01] Sassanids, though the battle was not at all decisive.
+[21:01 --> 21:06] Narcissus retreated and Galerius pursued, hoping to catch the Persians before they reestablished
+[21:06 --> 21:09] themselves on better ground.
+[21:09 --> 21:14] Luckily, the Persian withdrawal was haphazard, and with the help of local guides, Galerius
+[21:14 --> 21:19] was able to close the distance between the two armies and launch an attack on the utterly
+[21:19 --> 21:23] surprised Sassanids when they were still in their camp one night.
+[21:23 --> 21:26] This time, the battle was decisive.
+[21:26 --> 21:31] Not only was the Sassanid army cut to pieces, but Narcissus was forced to flee for his life
+[21:31 --> 21:37] without being able to stop and collect his wives, his harem, or his royal treasury, all
+[21:37 --> 21:42] of which fell into the hand of the triumphant Galerius.
+[21:42 --> 21:47] The Sassanid military was now broken, the king was now running for his life, and valuable
+[21:47 --> 21:50] hostages had now been seized.
+[21:50 --> 21:53] Now hostilities could end.
+[21:53 --> 21:57] Well, not quite yet.
+[21:57 --> 22:02] Galerius took a victory lap down through Mesopotamia in order to sack the Persian capital of Ctesiphon,
+[22:02 --> 22:06] which at this point was practically a rite of passage for Roman generals serving in the
+[22:06 --> 22:07] east.
+[22:07 --> 22:12] Unchecked, Galerius probably would have marched all the way to India, but he was stopped by
+[22:12 --> 22:17] Diocletian, who was able to see the bigger picture.
+[22:17 --> 22:21] Diocletian had no desire to rule over Persia.
+[22:21 --> 22:26] He just wanted peace with the Sassanids on the best possible terms, and with the king's
+[22:26 --> 22:31] wives and harem being treated with the utmost respect by their Roman captors, Diocletian
+[22:31 --> 22:36] was now in a position to leverage an even better deal than he had worked out with Bahram
+[22:36 --> 22:38] in 287.
+[22:38 --> 22:41] And leverage a better deal he did.
+[22:41 --> 22:47] A summit was arranged between the Roman emperors and Persian ambassadors at Nispis in 299,
+[22:47 --> 22:51] where Diocletian laid out his terms.
+[22:51 --> 22:57] After an amusing but likely fictitious exchange that saw the Persian envoys attempt to lecture
+[22:57 --> 23:03] the Romans on the importance of being magnanimous in defeat, and Galerius then practically blowing
+[23:03 --> 23:07] a blood vessel, demanding to know where the Persians got off lecturing the Romans about
+[23:07 --> 23:15] magnanimity when the stuffed corpse of Valerian was still being held as a Sassanid trophy.
+[23:15 --> 23:20] After this, the Persian envoys agreed to all the Roman terms.
+[23:20 --> 23:25] Not only was Armenia brought back into the Roman fold, but for the first time the kingdoms
+[23:25 --> 23:29] of the Caucasus Mountains were made Roman clients, and cities on the east side of the
+[23:29 --> 23:33] Tigris were ceded to Roman control.
+[23:33 --> 23:38] In every way Diocletian got the better of the Persians in the peace of Nispis, and the
+[23:38 --> 23:45] capture of the Persian royal family was understood to balance the scales for the capture of Valerian.
+[23:45 --> 23:52] All of which was nice, but what was even nicer was that the peace brokered in 299 would last
+[23:52 --> 24:00] for the next 40 years, and that was a victory for everyone.
+[24:00 --> 24:07] So it was that at the close of the third century, a century defined by the empire's near collapse,
+[24:07 --> 24:09] Rome was as strong as ever.
+[24:09 --> 24:15] 15 years of political stability overseen by one of the best leaders the empire had ever
+[24:15 --> 24:16] seen.
+[24:16 --> 24:23] Internal revolts squelched, external threats neutralized, and a socio-economic order redesigned
+[24:23 --> 24:27] to match with the realities of this new age.
+[24:27 --> 24:31] Rome would never again be allowed the kind of freedom of movement it had enjoyed during
+[24:31 --> 24:37] its various golden ages, and it would indeed be a constant daily struggle just to maintain
+[24:37 --> 24:40] what Diocletian had established.
+[24:40 --> 24:44] But something had been established.
+[24:44 --> 24:50] In the next few weeks, we are going to investigate what exactly had been established, starting
+[24:50 --> 24:55] next time with an analysis of Rome's new military posture.
+[24:55 --> 25:00] After that, we'll deal with Diocletian's economic reforms, including his famous edict
+[25:00 --> 25:06] on prices, and then cover his reorganization of the governmental apparatus.
+[25:06 --> 25:12] Taken together, Diocletian transformed just about every aspect of Roman life.
+[25:12 --> 25:17] But again, as I mentioned before, he was not trying to create a new world order.
+[25:17 --> 25:20] He was trying to save the old world order.

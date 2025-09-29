@@ -1,0 +1,306 @@
+# 20110418 - 134- And Then There Were Two
+# Detected language: en
+# Duration: 1432.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to The History of Rome, episode 134, and then there were two.
+[00:14 --> 00:19] When Constantine defeated Maxentius in the autumn of 312 AD, the question of who would
+[00:19 --> 00:23] rule the Western Empire was settled for a generation, and it would not be until after
+[00:23 --> 00:29] the death of Constantine in 337 that it would be raised again.
+[00:29 --> 00:34] But in the East, the picture was still cloudy, and it would take another decade of on-again-off-again
+[00:34 --> 00:37] civil war to clear things up.
+[00:37 --> 00:41] As it stood on the morning after Constantine's triumph, there were two men vying for power
+[00:41 --> 00:45] in the East, Maximinus Dio and Lichinus.
+[00:45 --> 00:49] The two rival Augusti hated each other.
+[00:49 --> 00:55] Maximinus thought Lichinus an unworthy usurper, and Lichinus thought Maximinus a British tyrant.
+[00:55 --> 00:59] It would not take long for the tense peace the two men had agreed to at the Hellespont
+[00:59 --> 01:05] in 311 AD to devolve into open war.
+[01:05 --> 01:10] Following the summit at the Hellespont, Maximinus Dio took up residence in Nicomedia, which
+[01:10 --> 01:16] had become the de facto capital for whoever was the senior Eastern Augustus, which Maximinus
+[01:16 --> 01:20] most assuredly considered himself to be.
+[01:20 --> 01:24] He immediately set himself to the task of consolidating his power base by issuing edicts
+[01:24 --> 01:29] lessening the tax burden for the citizens of Asia Minor.
+[01:29 --> 01:34] He already had a firm grip on the Far East, but the provinces of Anatolia were new territory
+[01:34 --> 01:38] for Maximinus, and he wanted to make sure everyone's first impression of him was a
+[01:38 --> 01:40] good one.
+[01:40 --> 01:42] And indeed it was.
+[01:42 --> 01:44] Everyone likes a tax break.
+[01:44 --> 01:49] But this initial generosity was followed up by the return of a policy that just about
+[01:49 --> 01:52] everyone had been glad to see retired once and for all.
+[01:52 --> 01:56] THE GREAT PERSECUTION
+[01:56 --> 02:01] Maximinus was one of those few people in the Empire who had been dismayed when Galerius
+[02:01 --> 02:06] pulled the plug on the persecution, as he was in that hardcore minority of advisors
+[02:06 --> 02:10] who had always wanted to push the persecution harder and further.
+[02:10 --> 02:15] Now that he ruled in his own right, Maximinus had no intention of letting the wish of some
+[02:15 --> 02:19] dead emperor get in his way, and just months after Galerius had cancelled it, the Great
+[02:19 --> 02:24] Persecution was fired right back up.
+[02:24 --> 02:29] But despite the fact that he was now the unquestioned ruler of the East, Maximinus still had trouble
+[02:29 --> 02:33] getting the persecution back up and running to his liking.
+[02:33 --> 02:37] And rather than tales of mass murders and large-scale destruction of property, we instead
+[02:37 --> 02:42] see more isolated incidents in Maximinus' persecution.
+[02:42 --> 02:47] For example, the Bishop of Alexandria will be executed in November of 311, and after
+[02:47 --> 02:52] being tried by the emperor personally, a church scholar named Lucian of Antioch will
+[02:52 --> 02:58] be killed after he refused to renounce his faith in January of 312.
+[02:58 --> 03:03] For the rest of his life, Maximinus maintained his bitter hatred of the Christians, and
+[03:03 --> 03:09] had he beaten Lycaeus, a pre-battle vow he made to Jupiter that we'll get to in a moment,
+[03:09 --> 03:13] likely would have resulted in something close to genocide.
+[03:13 --> 03:17] But happily for the Christians of the Empire, the rest of Maximinus' life was taken up
+[03:18 --> 03:22] with more pressing matters, and he never was able to devote himself exclusively to their
+[03:22 --> 03:27] persecution as he no doubt would have loved to do.
+[03:27 --> 03:33] One of those pressing matters came to his attention over the winter of 311-312, namely
+[03:33 --> 03:38] that an alliance had likely been forged between Lycaeus and Constantine.
+[03:38 --> 03:43] As we discussed two weeks ago, this alliance spelled trouble for Maximinus Dio and Maxentius
+[03:43 --> 03:44] both.
+[03:44 --> 03:49] So Maximinus sent envoys promising to use his power as senior Augustus, self-proclaimed
+[03:49 --> 03:57] power of course, to recognize Maxentius' legitimacy in exchange for military support.
+[03:57 --> 04:01] The move towards friendship with Maxentius was necessary given the circumstances, but
+[04:01 --> 04:05] ultimately, in the grand scheme of things, it turned out to be little more than a footnote
+[04:05 --> 04:10] in the history books, because in less than a year, Maxentius would be dead and Constantine
+[04:10 --> 04:14] would rule the West.
+[04:14 --> 04:19] This would have been bad enough for Maximinus, but his problems were exacerbated by another
+[04:19 --> 04:20] pressing matter.
+[04:20 --> 04:24] The Sassanids were getting shifty again.
+[04:24 --> 04:28] Forced to head east to deal with the Persians, when Maximinus learned of Constantine's victory,
+[04:28 --> 04:31] he was bogged down in the Syrian desert.
+[04:31 --> 04:36] So right at the moment when he found out that his enemies were triumphant, Maximinus was
+[04:36 --> 04:44] as far away from being able to do anything about it as he could have possibly been.
+[04:44 --> 04:48] With Maximinus busy fighting the Sassanids, Constantine and Lichinus felt like they had
+[04:48 --> 04:55] more than enough time over the winter of 312-313 to meet in person, cement their alliance,
+[04:55 --> 05:00] and make a plan for how they were going to deal with their brother in the East.
+[05:00 --> 05:06] The main upshot of their meeting was the publication of one of the more famous edicts ever issued.
+[05:07 --> 05:13] Constantine left Rome in January 313 and headed up to the more convenient imperial headquarters
+[05:13 --> 05:14] of Milan.
+[05:14 --> 05:18] When Lichinus finally showed up in March, the first order of business was tying the
+[05:18 --> 05:24] families of the two Augusti together, and the marriage between Lichinus and Constantine's
+[05:24 --> 05:28] sister Constantia was finally officiated.
+[05:28 --> 05:32] Now that they were one big happy family, the two Augusti got down to the business of figuring
+[05:32 --> 05:35] out what their alliance really meant.
+[05:35 --> 05:41] In the main, at least for now, it meant joining forces to dispense with the hated Maximinus
+[05:41 --> 05:42] dia.
+[05:42 --> 05:48] They decided, or more likely Constantine decided, that the best way to simultaneously provoke
+[05:48 --> 05:54] Maximinus militarily while isolating him politically would be to hammer him for his hard-line
+[05:54 --> 05:57] anti-Christian policies.
+[05:57 --> 06:01] To this end, they issued a joint resolution concerning the status of Christians in the
+[06:01 --> 06:07] empire that has become known as the Edict of Milan.
+[06:07 --> 06:13] The Edict is famous because it essentially legalized Christianity in the Roman Empire.
+[06:13 --> 06:18] Over the centuries, the Christians had been alternatively tolerated or persecuted, but
+[06:18 --> 06:23] their religion had never been, strictly speaking, legal.
+[06:23 --> 06:28] When Galerius attempted to end the persecution, his deathbed edict basically just said, well,
+[06:28 --> 06:34] I give up, let's stop persecuting them, but it went no further than that.
+[06:34 --> 06:39] The Edict of Milan, on the other hand, firmly established not only the Christian right to
+[06:39 --> 06:45] worship, but it also directed provincial authorities to restore all confiscated wealth and property
+[06:45 --> 06:47] to the victims of the persecution.
+[06:47 --> 06:53] So, the same officials who had so recently been kicking down doors and wrecking lives
+[06:53 --> 06:58] were now ordered to go back hat in hand and return to the Christians everything that had
+[06:58 --> 07:01] never been seized.
+[07:01 --> 07:05] Even in the tolerant West, this was a clear break with precedent.
+[07:05 --> 07:10] Usually in these situations, Christians felt lucky to just not be harassed anymore.
+[07:10 --> 07:14] But to have everything that had been stolen restored to them by the authorities at the
+[07:14 --> 07:16] direction of the emperor?
+[07:16 --> 07:20] Well, that was new.
+[07:20 --> 07:25] As momentous an event as it was, though, and it was a momentous event, when the Edict of
+[07:25 --> 07:32] Milan was issued in March of 312, it was initially more theory than practice, especially in the
+[07:32 --> 07:39] East, where Maximinus' ideology of persecution continued to reign, which moral imperatives
+[07:39 --> 07:43] aside was kind of the point.
+[07:43 --> 07:47] Though I have no doubt that Constantine wrote the Edict in part for moral reasons, he was
+[07:47 --> 07:51] also acting for political reasons.
+[07:51 --> 07:56] By issuing an Edict that struck directly at one of Maximinus' core principles, Constantine
+[07:56 --> 08:00] and Lichinus were painting Maximinus into a corner.
+[08:00 --> 08:05] Either he could comply with the Edict, signaling at least tacitly that he was indeed still
+[08:05 --> 08:11] the junior member of the Tetrarchy and could be pushed around, or he could refuse to comply,
+[08:11 --> 08:16] which would give his Western brothers a convenient justification for war.
+[08:16 --> 08:20] There is little doubt that Constantine and Lichinus fully expected the latter.
+[08:20 --> 08:26] And indeed, Maximinus would give them what they wanted, but probably sooner than they
+[08:26 --> 08:28] would have hoped.
+[08:28 --> 08:35] Maximinus, you see, was already spitting mad before he even heard of the Edict's promulgation,
+[08:35 --> 08:40] because of the contents of a very polite letter Constantine had sent him following the battle
+[08:40 --> 08:42] of the Milvian Bridge.
+[08:42 --> 08:46] What was in this very polite letter that got him so hot?
+[08:46 --> 08:51] Well, first, Maximinus was informed that the Senate had gone ahead and declared Constantine
+[08:51 --> 08:56] the senior Augustus, a declaration Constantine hoped wouldn't cause any rupture in their
+[08:56 --> 09:00] friendship because I look forward to working with you blah blah blah.
+[09:00 --> 09:04] That alone was probably enough to start a war.
+[09:04 --> 09:08] If there was one thing Maximinus was super sensitive about, it was his standing within
+[09:08 --> 09:15] the Imperial College, and here was his prestige being undermined yet again.
+[09:15 --> 09:20] But the letter went on, and requested Maximinus' cooperation with a few changes Constantine
+[09:20 --> 09:24] wanted to make as to how the Empire was governed.
+[09:24 --> 09:29] And here, probably, is where the war was really sparked.
+[09:29 --> 09:33] Constantine essentially sent Maximinus a rough draft of the Edict of Milan and demanded that
+[09:33 --> 09:37] Christians in the East be allowed to worship freely, and that their confiscated property
+[09:37 --> 09:39] be returned to them.
+[09:39 --> 09:48] This, naturally, redlined Maximinus, as Constantine no doubt expected that it would.
+[09:48 --> 09:53] Probably around March of 313, just as Constantine and Lichenius were meeting in Milan, Maximinus
+[09:53 --> 10:00] wrapped up his operation in the East and then raced west at full speed to prepare for war.
+[10:00 --> 10:04] The march is described as a brutal one, with Maximinus pushing his man and pack animals
+[10:04 --> 10:10] to the limit, because he was determined to secure control of all of his territory before
+[10:10 --> 10:13] his adversaries could make their move.
+[10:13 --> 10:17] This meant marching them at an absurd pace.
+[10:17 --> 10:22] The hard drive west paid off though, and Maximinus did indeed reach the Bosphorus before his
+[10:22 --> 10:25] rivals were really ready for him to be there.
+[10:25 --> 10:31] Not only that, but along the way Maximinus had accrued an army of about 70,000 men, enough
+[10:31 --> 10:35] to do battle against the strongest of armies.
+[10:35 --> 10:39] So they can make all the private demands they want, and issue all the public edicts they
+[10:39 --> 10:44] want, but let's see them make me comply with any of it.
+[10:44 --> 10:50] Upon his arrival in Nicomedia, Maximinus recognized that he had perhaps caught his enemies flat-footed,
+[10:50 --> 10:55] so he took the initiative to cross the Bosphorus and lay siege to the port of Byzantium, which
+[10:55 --> 10:59] was garrisoned by a detachment of Lichenius's army.
+[10:59 --> 11:04] Though the city's location made it easy to defend, something Constantine had probably
+[11:04 --> 11:10] already taken note of, the soldiers manning the walls were vastly outnumbered by Maximinus's
+[11:10 --> 11:14] army, and they surrendered after about a week and a half.
+[11:14 --> 11:21] Maximinus then moved on to the city of Heraclea, which also fell after a brief siege.
+[11:21 --> 11:26] While Maximinus was engaged in these siege operations, his adversaries were scrambling
+[11:26 --> 11:28] to respond.
+[11:28 --> 11:33] In all likelihood, both Constantine and Lichenius thought that there would be plenty of time
+[11:33 --> 11:36] to prepare for Maximinus's return from the east.
+[11:36 --> 11:41] Plenty of time, anyway, to rearrange the Danube troop deployments so that Lichenius could
+[11:41 --> 11:46] have the men he needed to fight the war, and this would be Lichenius's war, without leaving
+[11:46 --> 11:51] some huge gaping hole in the border defenses.
+[11:51 --> 11:55] But that idea was premised on the notion that Maximinus was still out on the eastern edge
+[11:55 --> 11:57] of Syria.
+[11:57 --> 12:02] When Lichenius received word that Maximinus was on the march, and not just on the march,
+[12:02 --> 12:08] but on the double-time march, it is probable that he hadn't even left Milan yet.
+[12:08 --> 12:13] With Maximinus barreling west, Lichenius dashed back across the Alps and began at once to
+[12:13 --> 12:18] gather an army, but he was hamstrung by his conflicting priorities.
+[12:18 --> 12:22] He wanted to crush Maximinus, yes, but it would have been madness to just call up huge
+[12:22 --> 12:28] swaths of the border troops, which would leave the Danube undefended.
+[12:28 --> 12:32] By the time Maximinus crossed over the Bosphorus and besieged Byzantium then, Lichenius stood
+[12:32 --> 12:39] at the head of an army just 30,000 strong, the best he could do on short notice.
+[12:39 --> 12:44] When Maximinus moved on to Heraclea, Lichenius moved on to Adrianople.
+[12:44 --> 12:49] He was outnumbered almost two to one, but the war he himself had just sought to provoke
+[12:49 --> 12:55] had come to his doorstep, and there was nothing he could do about it now.
+[12:55 --> 13:02] In late April 313 AD, Lichenius advanced southeast, and Maximinus advanced northwest, and the
+[13:02 --> 13:07] two armies met on the plains beside a town that I have no hope at all of pronouncing
+[13:07 --> 13:10] correctly, Zerallum.
+[13:10 --> 13:14] Beyond the fact that it is about to host a key battle of the Tetrarchies running civil
+[13:15 --> 13:21] Zerallum is also famous for being a likely candidate as the spot where Aurelian was assassinated
+[13:21 --> 13:23] some 38 years earlier.
+[13:23 --> 13:29] And oh by the way, has it only been 38 years since the death of Aurelian?
+[13:29 --> 13:33] Like the Battle of the Milvian Bridge, the battle between Lichenius and Maximinus at
+[13:33 --> 13:39] Zerallum would be cast as a battle between paganism and monotheism, and prior to the
+[13:39 --> 13:45] battle, both generals allegedly made this pretty explicit.
+[13:45 --> 13:49] Maximinus vowed to Jupiter that if he won the battle that he would wipe Christianity
+[13:49 --> 13:54] off the face of the earth for good, while Lichenius distributed to his troops a prayer
+[13:54 --> 14:00] to the quote, great holy God, that was to be recited by his men as soon as they were
+[14:00 --> 14:02] lined up for battle.
+[14:02 --> 14:07] The prayer was supposed to have been dictated to Lichenius in a dream by God, but T.D. Barnes,
+[14:07 --> 14:12] a noted scholar on the era whose excellent book Constantine and Eusebius has been helping
+[14:12 --> 14:17] me out quite a bit lately, surmises that if the story is true, then the prayer was likely
+[14:17 --> 14:23] written not by God, but by Constantine.
+[14:23 --> 14:27] Now the two emperors knew full well that they were about to fight a great battle.
+[14:27 --> 14:31] The only question was when said battle was going to take place.
+[14:31 --> 14:36] When it came to deciding this question, there was the typical jockeying for the most opportune
+[14:36 --> 14:41] moment on the most auspicious day, and it appears that Lichenius was waiting for May
+[14:41 --> 14:43] the 1st to attack.
+[14:43 --> 14:45] Why May the 1st?
+[14:45 --> 14:50] Because that would be the eighth anniversary of Maximinus' elevation to the purple, and
+[14:50 --> 14:56] Lichenius was apparently looking to duplicate Constantine's feat of taking Maxentius down
+[14:56 --> 14:58] on his anniversary.
+[14:58 --> 15:03] When Maximinus, by whatever means, heard why Lichenius was stalling, he decided to attack
+[15:03 --> 15:09] on April the 30th, because he said his eighth anniversary was better suited for holding
+[15:09 --> 15:13] a triumph than for fighting a bloody battle.
+[15:13 --> 15:22] Maximinus got his way, and the Battle of Zuralum took place on April the 30th, 313 AD.
+[15:22 --> 15:26] Now one of the interesting things about the war between Lichenius and Maximinus is that
+[15:26 --> 15:32] throughout all of this, Maximinus was actually trying to avoid battle.
+[15:32 --> 15:36] Not because he didn't think he could win, after all, he had a 2 to 1 advantage in the
+[15:36 --> 15:40] manpower department, but because he wanted to win a different way.
+[15:40 --> 15:46] See, as much as Maximinus is painted as a villain, and given his ruthless treatment
+[15:46 --> 15:51] of the Christians, I think it's hard not to agree that the shoe fits, Maximinus himself
+[15:51 --> 15:54] thought that he was right.
+[15:54 --> 16:00] Thought that in a world gone mad, he was the only one left defending the old Roman way.
+[16:00 --> 16:05] He thought that Christianity was a genuine threat to the empire, and that it dangerously
+[16:05 --> 16:10] disrupted the all-important connection between Rome and her patron deities.
+[16:10 --> 16:15] To not eradicate the Christians then was criminally negligent behavior.
+[16:15 --> 16:20] And here were his two brother emperors, not only defending their rights, but actively
+[16:20 --> 16:21] promoting them.
+[16:21 --> 16:23] It was crazy.
+[16:23 --> 16:28] So what Maximinus was hoping for was that the men under Lichenius's banner would come
+[16:28 --> 16:29] to their senses.
+[16:29 --> 16:33] That they would see that they were hugely outnumbered, see that they were fighting for
+[16:33 --> 16:37] the wrong side, and defect to his banner.
+[16:37 --> 16:42] Defect en masse to the only man who was still defending the honor of Jupiter, greatest and
+[16:42 --> 16:45] best.
+[16:45 --> 16:48] Constantine was not the only one playing at politics.
+[16:48 --> 16:53] Maximinus wanted a bloodless victory, premised on the notion that he was the good guy.
+[16:53 --> 16:58] Not Lichenius, and certainly not Constantine, who had blatantly turned their backs on all
+[16:58 --> 17:03] that was decent and pious in the world.
+[17:03 --> 17:09] Unable in the end to avoid battle, Maximinus appears even with armor donned and sword drawn,
+[17:09 --> 17:15] to have stuck to this desire for defection rather than bloodshed, giving him his victory.
+[17:15 --> 17:21] As Lichenius took the initiative and attacked, rather than just sit back and be overwhelmed,
+[17:21 --> 17:26] Maximinus maintained an almost strictly defensive posture, hoping that Lichenius's men would
+[17:26 --> 17:32] see that their cause was hopeless, and that the great holy god was a ridiculous sham.
+[17:32 --> 17:35] But he was sorely disappointed.
+[17:35 --> 17:40] The men under Lichenius's command did not give up, and they did not defect.
+[17:40 --> 17:44] And by waiting for something that was never going to happen, Maximinus didn't order his
+[17:44 --> 17:48] men to really fight back until it was too late.
+[17:48 --> 17:52] Lichenius's army was already all over them, and pretty soon it became apparent that they
+[17:52 --> 17:55] were going to win this battle.
+[17:55 --> 18:00] That being so, Maximinus decided to at least prevent them from winning the war.
+[18:00 --> 18:05] He ditched his imperial robes for slave clothes and fled to the east.
+[18:05 --> 18:10] About half his army made good their escape, while the other half was rounded up by Lichenius's
+[18:10 --> 18:15] men, and most of them, as is often the case in Roman civil wars, were immediately enrolled
+[18:15 --> 18:21] into the ranks of the army they had just been fighting moments before.
+[18:21 --> 18:26] The defeated Maximinus fled back to Nicomedia, but he knew he had no chance to hold the city
+[18:26 --> 18:31] with Lichenius right on his heels, so he simply grabbed his family and a few close advisors
+[18:31 --> 18:33] and continued on east.
+[18:33 --> 18:39] Lichenius, predictably, then took Nicomedia without a fight a few days later.
+[18:39 --> 18:44] But though things looked bad for Maximinus, he was not licked yet.
+[18:44 --> 18:49] As he made his way southeast across Anatolia, he gathered up the remnants of the army that
+[18:49 --> 18:53] had been beaten at Saralum, and appears to have called in reinforcements from the troops
+[18:53 --> 18:55] stationed in Syria.
+[18:55 --> 19:00] Surveying the landscape, Maximinus then came to the same conclusion that so many generals
+[19:00 --> 19:05] before him and so many generals after him would come to, that the best place to make
+[19:05 --> 19:09] a stand would be at the Cilician gates.
+[19:09 --> 19:15] He fortified the pass and waited for Lichenius's pursuing army.
+[19:15 --> 19:19] Lichenius himself, though, would not be there in person to finish the job, having decided
+[19:19 --> 19:23] to remain in Nicomedia and keep a close eye on the capital.
+[19:23 --> 19:31] Instead, he entrusted his army to subordinates and sent them off to hunt down Maximinus.
+[19:31 --> 19:35] It did not take long for them to find the fugitive Augustus and the subsequent battle
+[19:35 --> 19:40] at the Cilician gates, though smaller than the previous engagement at Saralum, turned
+[19:40 --> 19:44] out to be the more decisive engagement.
+[19:44 --> 19:50] Lichenius's army broke through the fortifications, and Maximinus was again forced to take flight.
+[19:50 --> 19:56] He made for the city of Tarsus, but this time he had no ready access to reinforcements.
+[19:56 --> 20:01] Trapped behind the city walls and protected by only a token garrison, Maximinus's time
+[20:01 --> 20:04] appeared to be at hand.
+[20:04 --> 20:09] Shortly after being treed by Lichenius's army, word came over the wall that Maximinus
+[20:09 --> 20:12] Daya was dead.
+[20:12 --> 20:17] Whether it was suicide or some fluke disease we will never know, but Maximinus was in his
+[20:17 --> 20:23] early forties and had been first Caesar, then self-proclaimed Augustus, then full Augustus
+[20:23 --> 20:26] for just over eight years.
+[20:26 --> 20:34] Lichenius, now a master of the Eastern Empire, remained in Nicomedia for about a month before
+[20:34 --> 20:39] heading off in the direction of Antioch on a tour of his new provinces.
+[20:39 --> 20:43] Once he got to Syria, Lichenius quickly let everyone know that there was a new sheriff
+[20:43 --> 20:45] in town.
+[20:45 --> 20:51] He not only ordered the edict of Milan strictly enforced, but also went after known persecutors
+[20:51 --> 20:54] with a ruthless gusto.
+[20:54 --> 20:58] Antichristians who had for the last decade wielded their sadistic power unchecked were
+[20:58 --> 21:03] suddenly rounded up and either exiled or executed depending on the severity of their
+[21:03 --> 21:06] crimes.
+[21:06 --> 21:11] This purge obviously had a political purpose as the staunchest opponents of the Christians
+[21:11 --> 21:17] were also the staunchest supporters of Maximinus, but it was also a visible signal to everyone
+[21:17 --> 21:22] that a new day was dawning.
+[21:22 --> 21:27] In addition to this one part religious, one part political purge, Lichenius also engaged
+[21:27 --> 21:33] in a 100% political purge of any potential dynastic rivals.
+[21:33 --> 21:37] It goes without saying that Maximinus' memory was damned and his family was rounded up and
+[21:37 --> 21:43] executed, but Lichenius also tracked down the son of Severus, who had been serving with
+[21:43 --> 21:46] Maximinus and had him killed as well.
+[21:46 --> 21:51] He also intended to dispose of Diocletian's wife and daughter, who were being held back
+[21:51 --> 21:56] in Nicomedia, but they managed to escape before the execution order came through.
+[21:56 --> 22:00] It would take 15 months of searching before the two women were finally tracked down and
+[22:00 --> 22:04] beheaded in a public execution.
+[22:04 --> 22:09] Killing women and children was not a nice thing to do, but clearly Lichenius had read
+[22:09 --> 22:14] his Machiavelli.
+[22:14 --> 22:20] Later in 313, Lichenius and Constantine formalized their power sharing agreement, with Constantine
+[22:20 --> 22:27] taking the west and Lichenius the east, their territories divided roughly by the Adriatic.
+[22:27 --> 22:34] It would not take long before relations between the two men began to deteriorate.
+[22:34 --> 22:39] As I said last week, practically everything Constantine ever did points to him wanting
+[22:39 --> 22:42] from the get-go to be sole emperor.
+[22:42 --> 22:48] One emperor ruling one empire, serving one god.
+[22:48 --> 22:53] Now that Maxentius and Maximinus Dio were disposed of, Lichenius was no longer a helpful
+[22:53 --> 23:01] partner in Constantine's quest for power, but was instead an obstacle in the way.
+[23:01 --> 23:06] Next week, the brothers-in-law will waste no time getting on each other's nerves, and
+[23:06 --> 23:13] Constantine will waste no time digging up a pretext for war.
+[23:13 --> 23:18] But before we go this week, I want to pass along a quick birthday message to devout listener
+[23:18 --> 23:21] Derek, who just turned 30 yesterday.
+[23:21 --> 23:23] Derek, happy birthday.
+[23:23 --> 23:28] Now stop listening to this podcast, and go take care of your lovely wife and newborn
+[23:28 --> 23:28] daughter.

@@ -1,0 +1,294 @@
+# 20100913 - 108- Gordian's Knot
+# Detected language: en
+# Duration: 1572.08 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you now know, Audible is the
+[00:06 --> 00:10] Internet's leading provider of audio entertainment with over 60,000 titles to
+[00:10 --> 00:15] choose from. When you're done with this episode, go to audiblepodcast.com forward
+[00:15 --> 00:21] slash Roam. That again audiblepodcast.com forward slash Roam. By going to that
+[00:21 --> 00:24] address, you qualify for a free book download when you sign up for a 14-day
+[00:24 --> 00:28] trial membership. There is no obligation to continue the service and you can
+[00:28 --> 00:33] cancel anytime and keep the free book. You can also keep going with one of the
+[00:33 --> 00:37] monthly subscription options and get great deals on all future audiobook
+[00:37 --> 00:42] purchases. This week I'm going to recommend another book by Stephen Dando
+[00:42 --> 00:48] Collins, The Great Fire of Rome, The Fall of Emperor Nero and His City, an account
+[00:48 --> 00:54] of the famous fire of 64 AD and the events that surrounded it. Just remember
+[00:54 --> 00:58] to go to audiblepodcast.com forward slash Roam so that they know who sent you.
+[00:58 --> 01:15] Hello and welcome to the History of Rome, episode 108, Gordian's Knot. Last week we
+[01:15 --> 01:20] let the upstart senatorial regime of Pupienus and Balbenus preparing for a
+[01:20 --> 01:25] showdown with Maximinus Thrax and his veteran Danube legions. While Balbenus
+[01:25 --> 01:29] kept an eye on Rome, Pupienus had ridden north through Ravenna to lead the
+[01:29 --> 01:34] defense of Italy. But when the final showdown came, neither of the senatorial
+[01:34 --> 01:40] emperors were there to witness Maximinus's fall. Neither was 13-year-old
+[01:40 --> 01:47] Gordian III, who was destined to outlast them all. When they emerged from the
+[01:47 --> 01:52] Julian Alps into Italy, Maximinus and his legions found the Po Valley deserted.
+[01:52 --> 01:57] Fearing the wrath of the Thracian general, the local inhabitants had fled to
+[01:57 --> 02:01] the various walled cities of northern Italy where they hoped to at least ride
+[02:01 --> 02:06] out the storm. Luckily for the frightened Italians, the storm didn't make it very
+[02:06 --> 02:13] far before dissipating. The first major city in Maximinus's path was Aquileia
+[02:13 --> 02:17] and when he arrived in April 238, he demanded the Aquileans throw open the
+[02:17 --> 02:23] gates for their lawful sovereign. But the citizens refused and, led by two of the
+[02:23 --> 02:27] senators who had been appointed in the opening days of the revolt to serve on
+[02:27 --> 02:33] the emergency defense committee, prepared to make a stand. Enraged by this
+[02:33 --> 02:37] disobedience, Maximinus set siege to the city and planned to make an example of
+[02:37 --> 02:42] it to the rest of Italy. But Aquileia was well fortified and managed to
+[02:42 --> 02:48] repulse Maximinus's initial attacks. This, as you can imagine, sent the emperor into
+[02:48 --> 02:53] an even deeper rage. It was right around this point that the stern discipline of
+[02:53 --> 02:57] Maximinus, which had always been one of the main reasons his men respected him,
+[02:57 --> 03:03] began to become instead one of the main reasons why they hated him. He flew off
+[03:03 --> 03:08] the handle at the slightest provocation, issued punishments far in excess of
+[03:08 --> 03:14] crimes, and generally put everyone on edge. Blinded by the fury of all this
+[03:14 --> 03:23] defiance, Maximinus quickly drove his men from love to hate. Further degrading the
+[03:23 --> 03:27] morale of the troops was the paucity of supplies they were able to scrounge up
+[03:27 --> 03:31] in the countryside. Most everything edible had been carted behind the walls
+[03:32 --> 03:36] of the city. So it was the besiegers, as much as the besieged, who found themselves
+[03:36 --> 03:43] afflicted by hunger, thirst, and exhaustion. Encamped miserably outside of a
+[03:43 --> 03:48] city that refused to yield, Maximinus's army began to question the judgment of
+[03:48 --> 03:52] their emperor, especially as he was rampaging around the camps, ordering
+[03:52 --> 03:57] executions for the slightest infraction. Once they began to question
+[03:57 --> 04:02] Maximinus's judgment, they began to question their own loyalty to him. After
+[04:02 --> 04:07] all, what were they doing, besieging a city they had been sworn to protect? How
+[04:07 --> 04:13] did that make sense? In the ranks of the Praetorian Guard, these doubts took on a
+[04:13 --> 04:18] murderous tone. Maybe if they took out Maximinus, they would be pardoned for
+[04:18 --> 04:24] their involvement in his regime, and allowed to just go back to work. At the
+[04:24 --> 04:29] end of April 238, a group of officers agreed to do what was necessary. They
+[04:29 --> 04:35] surprised Maximinus in his tent, and killed both the emperor and his son. Then
+[04:35 --> 04:39] they posted the head of their dead leader on a spike, and stuck it in front
+[04:39 --> 04:45] of the gates of Aquileia, signaling to the city that the siege was over.
+[04:45 --> 04:50] Maximinus Thrax was 65 years old, and had ruled the empire for just over three
+[04:50 --> 04:54] years. Though he had provided for a vigorous defense of the frontier, his
+[04:54 --> 04:59] single-minded support for the legions, at the expense of every other aspect of
+[04:59 --> 05:03] Roman society, got the ball really rolling on the crisis of the third
+[05:03 --> 05:09] century. When the inhabitants of Aquileia saw the disembodied head of
+[05:09 --> 05:14] Maximinus sitting atop a spike, they immediately raised a cheer, and opened
+[05:14 --> 05:19] the gates of their city to the weary legions camped outside. Soldiers and
+[05:19 --> 05:24] citizens mixed freely, and provided comfort to one another, agreeing that it
+[05:24 --> 05:29] was only the madness of the barbarian emperor that had made them enemies. It
+[05:29 --> 05:32] was a really touching scene that would have been even more touching, had it had
+[05:32 --> 05:38] any lasting impact at all. Had this actually been a defining moment, where the
+[05:38 --> 05:41] soldiers realized that their job was the protection of the empire, not the
+[05:41 --> 05:47] acquisition of immense wealth at the expense of the empire. But this touching
+[05:47 --> 05:51] moment of contrition was made possible only by the fact that the soldiers had
+[05:51 --> 05:57] lost. Had Aquileia's defenses been just a little less staunch, or had there been
+[05:57 --> 06:02] just a little more food to eat, the soldiers of Maximinus's army would have
+[06:02 --> 06:08] been more than happy to go on and sack Rome itself. But the going got tough, so
+[06:08 --> 06:13] they abandoned their general, and begged for mercy. This is a cycle that will
+[06:13 --> 06:17] play out again and again in the years to come. When the legions are up, they
+[06:17 --> 06:21] will demand gold and obedience. When they are down, they will demand
+[06:21 --> 06:26] forgiveness and charity. Sometimes, it will take a little while for a
+[06:26 --> 06:30] particular set of legions to follow through on the full cycle, from arrogance
+[06:30 --> 06:36] to contrition, and back to arrogance again. But sometimes, they flip back just
+[06:36 --> 06:40] as soon as they were out of immediate danger. The men of Maximinus's
+[06:40 --> 06:44] Praetorian Guard, for example, who had organized his assassination, for the good
+[06:44 --> 06:50] of the Empire, were just months from assassinating his successors. For the
+[06:50 --> 06:57] good of the Empire? From his headquarters in Ravenna, Pupienus ordered the Danube
+[06:57 --> 07:01] legions back to their camps in the north, and when it seemed like everything was
+[07:01 --> 07:07] hunky-dory again, he returned to Rome. The last few months had been a whirlwind,
+[07:07 --> 07:12] but it seemed like the upshot of it all would be that he and Balbenus, appointed
+[07:12 --> 07:18] in haste at a moment of crisis, would now be rulers of the Roman Empire. Who
+[07:18 --> 07:22] knows? With their reign setting a new precedent, the Senate might find itself
+[07:22 --> 07:27] recovering some of its old power. The armies were humbled, and the Praetorians
+[07:27 --> 07:35] were in their corner. A new day was dawning. But it would prove to be a false
+[07:35 --> 07:42] dawn. Back in Rome, the scene was ugly and getting uglier. Balbenus had taken
+[07:42 --> 07:45] charge of the capital following his elevation to the purple, and though he was
+[07:45 --> 07:51] a master jurist and poet and orator, he turned out to be in over his head as an
+[07:51 --> 07:58] administrator. The political upheavals of 238 had caused numerous disruptions to
+[07:58 --> 08:02] the services that most Romans took for granted, and Balbenus had been unable to
+[08:02 --> 08:08] sort it all out and get things running smoothly again. Adding to his heartburn
+[08:08 --> 08:13] was the fact that rabble-rousing demagogues were using the uncertainty to
+[08:13 --> 08:17] argue that the people ought to recover some of their old power as well. After
+[08:17 --> 08:22] all, would defeating Maximinus really deliver them from tyranny if the Senate
+[08:22 --> 08:29] and the Senate alone reap the political benefits? Riots broke out and
+[08:29 --> 08:34] street fighting became distressingly common. Pubienus returned home to find
+[08:34 --> 08:40] Rome even more chaotic than it had been when he left, and immediately he blamed
+[08:40 --> 08:45] his colleague for the mess. The new ascendancy of the Senate might have stood
+[08:45 --> 08:50] a chance had the men they put in power gotten along, but it quickly became
+[08:50 --> 08:56] apparent that Pubienus and Balbenus had neither love nor respect for one another.
+[08:56 --> 09:01] Pubienus saw Balbenus as a soft aristocrat who knew nothing about the
+[09:01 --> 09:06] realities of the world, and Balbenus saw Pubienus as little more than an
+[09:06 --> 09:12] uneducated soldier who, well, knew nothing about the realities of the world either.
+[09:12 --> 09:16] When the immediate crisis passed, whatever unified front the two emperors
+[09:16 --> 09:24] presented was shattered. Adding to the general chaos, in June a hugely
+[09:24 --> 09:29] destructive fire broke out in Rome. Now fires in Rome were nothing new, nor were
+[09:29 --> 09:34] they anything you could just snap your fingers and put out, but the population
+[09:34 --> 09:38] took the opportunity to rail against the new emperors and their ineffectual
+[09:38 --> 09:43] response anyway. The new emperors then decided that the best way to react to
+[09:43 --> 09:48] all this railing was to simply blame each other for everything. By July of
+[09:48 --> 09:54] 238, Pubienus and Balbenus had divided up the Imperial Palace like Caracalla and
+[09:54 --> 09:58] Geta before them, and were barely on speaking terms. In case you were
+[09:58 --> 10:07] wondering, no, this does not end well. The new senatorial regime would finally
+[10:07 --> 10:11] come toppling down at the hands of that old Imperial boogeyman, the Praetorian
+[10:11 --> 10:17] Guard. Since a few of their members had so helpfully assassinated Maximinus just
+[10:17 --> 10:22] a few months before, the Praetorians had been kept largely intact after power was
+[10:22 --> 10:27] transferred from Maximinus to Pubienus and Balbenus, which turned out to be a
+[10:27 --> 10:32] huge mistake. When everything shook out, the same officers who had so willingly
+[10:32 --> 10:37] carried out Maximinus's commands were still in charge, and despite their recent
+[10:37 --> 10:43] regicide, they were still gripped more or less by the same worldview. Namely, that
+[10:43 --> 10:46] the Praetorian Guard was at the center of the universe, and everyone else
+[10:46 --> 10:52] revolved around them. But the Senate and the new emperors didn't see it that way,
+[10:52 --> 10:57] and not only did they not see it that way, but they actively tried to prove the
+[10:57 --> 11:03] Praetorians wrong. So rather than being rewarded for delivering the Empire from
+[11:03 --> 11:07] tyranny, the Guard found themselves cut out of the loop, their bonus demands
+[11:07 --> 11:13] ignored, and their egos generally trampled on. It didn't take long for the
+[11:13 --> 11:18] Guard to decide that it was high time they reminded everyone who was really at
+[11:18 --> 11:26] the center of the universe. On July 29, one of the prefects led a group of
+[11:26 --> 11:29] murderous soldiers to the palace, where they planned to reassert the authority
+[11:29 --> 11:36] of the Praetorian Guard. Luckily for the assassins, the co-emperors, holed up in
+[11:36 --> 11:40] their respective wings of the Imperial residence, each assumed that the attack
+[11:40 --> 11:45] had been instigated by the other. They were so busy with their own rivalry that
+[11:45 --> 11:51] it never occurred to them that some third party might target them both. United
+[11:51 --> 11:55] they might have stood a chance, but divided they both fell to the quick
+[11:55 --> 12:02] assault. Within the hour, both Pupienus and Balvinus lay dead. Both were in their
+[12:02 --> 12:10] mid-60s and had ruled the Empire for just about four months. The sudden murder
+[12:10 --> 12:14] of the two emperors came as a complete shock to the Senate, the people, and the
+[12:14 --> 12:19] armies of Rome. But it came as the greatest shock of all to young Gordian
+[12:19 --> 12:25] III, safely ensconced in his own house in the city. The Praetorians had not
+[12:25 --> 12:29] rushed into their assassination plot without thinking things through, and
+[12:29 --> 12:34] Gordian's position as Caesar and heir seemed like the perfect cover for their
+[12:34 --> 12:40] crime. As I mentioned last week, the boy was in place because the people had
+[12:40 --> 12:44] demanded his inclusion in the new regime. So all the Praetorians had to do
+[12:44 --> 12:48] was leave the kid untouched and everything would just work itself out
+[12:48 --> 12:53] naturally. Young Gordian was already in the people's favor, so the guard wouldn't
+[12:53 --> 12:58] have to worry about a popular backlash. And since the new emperor was also only
+[12:58 --> 13:02] 13 years old, they wouldn't have to worry about him having too much of a mind of
+[13:02 --> 13:08] his own either. In Gordian, they saw the potential for a popular puppet who they
+[13:08 --> 13:14] could make dance whatever dance they saw fit. As soon as Poupianus and Balbanus
+[13:14 --> 13:18] were dead, the guard made a great show of acknowledging Gordian III as their
+[13:18 --> 13:26] sovereign. The people cheered, the Senate groaned, and life went on. Like the
+[13:26 --> 13:31] recently deceased Alexander Severus, young Gordian III found himself declared
+[13:31 --> 13:36] emperor before he had the education or the experience necessary to rule
+[13:36 --> 13:42] properly. It was thus left to his mother, Antonia Gordiana, who was the daughter of
+[13:42 --> 13:47] Gordian I and the sister of Gordian II, to navigate her son through the
+[13:47 --> 13:53] snake pit of Roman politics. As wily a politician as Julia Mamia had been,
+[13:53 --> 13:58] Gordiana somehow managed to play the Praetorians and the Senate off each
+[13:58 --> 14:03] other. And while the former wielded considerable influence, they found
+[14:03 --> 14:07] themselves still answering to a cadre of senators who formed the de facto
+[14:07 --> 14:11] governing council that controlled the empire during the first few years of
+[14:11 --> 14:17] Gordian's reign. The Praetorians had not become the puppet masters they dreamed
+[14:17 --> 14:21] of being, but neither were their sensitive egos trampled to the point
+[14:21 --> 14:27] that they really wanted to do something about it. Plus, the murders of Poupianus
+[14:27 --> 14:32] and Balbanus had been made possible in part by the existence of the popular
+[14:32 --> 14:37] Gordian waiting in the wings. If they killed Gordian, well, that wouldn't
+[14:37 --> 14:43] trigger thankful applause so much as it would trigger vengeful riots. Thus, an
+[14:43 --> 14:48] uneasy peace took hold in the city. The people were happy with their young
+[14:48 --> 14:53] prince, the Praetorians were temporarily held at bay, and the Senate kept a watch
+[14:53 --> 14:59] on daily administration. But everyone had an eye on everyone else, and they were
+[14:59 --> 15:05] all waiting for the other shoe to drop. But when the other shoe finally dropped,
+[15:05 --> 15:13] it wasn't to shatter the peace, but rather to cement it. In 240, a brief revolt
+[15:13 --> 15:19] broke out in the province of Africa, led by an aristocrat named Sabinianus. He
+[15:19 --> 15:23] sought to use the same revolutionary spirit that had animated his countrymen
+[15:23 --> 15:28] two years before to his own advantage. But Sabinianus tried to simply declare
+[15:28 --> 15:33] revolution, rather than riding some pre-existing momentum, and his revolt
+[15:33 --> 15:39] quickly petered out. Though Gordian's regime was never in any danger, it was a
+[15:39 --> 15:43] reminder to those closest to the young emperor that another rebellion could
+[15:43 --> 15:49] break out at any time. But rather than being led by some nut with delusions of
+[15:49 --> 15:53] grandeur, it could be led by some provincial general whose delusions of
+[15:53 --> 15:58] grandeur were not delusions at all. Or it could be led by a Praetorian prefect,
+[15:58 --> 16:04] it's not like these things haven't happened before. So Gordiana and her
+[16:04 --> 16:07] associates looked around for a way to marry the disparate factions of the
+[16:07 --> 16:12] empire together, so that their purposes would be united. And they hit upon a
+[16:12 --> 16:21] brilliant solution, a literal marriage to bring them all together. In 241, Gordian
+[16:21 --> 16:26] appointed a new Praetorian prefect named Gaius Pherius Sabinius Aquila
+[16:26 --> 16:31] Timisithius, and shortly thereafter married his new prefect's daughter,
+[16:31 --> 16:37] Tranquilina. The combined weight of the promotion and the marriage instantly
+[16:37 --> 16:41] made Timisithius the most powerful man in the empire, and for the rest of his
+[16:41 --> 16:46] life he would be the de facto emperor of Rome, which was just fine with
+[16:46 --> 16:53] practically everyone. Timisithius had been born around 190 BC into an
+[16:53 --> 16:57] equestrian family, and had begun his public career in earnest during the reign
+[16:57 --> 17:03] of Elagabalus. Through the emperorships of Elagabalus, Alexander Severus and
+[17:03 --> 17:09] Maximinus Thrax, Timisithius had served in posts, both civilian and military, and
+[17:09 --> 17:14] all across the empire he had established a reputation for being honest, efficient,
+[17:14 --> 17:20] and capable. When Gordian ascended to the throne, Gordiana brought Timisithius
+[17:20 --> 17:25] into her son's inner circle, and obviously he impressed them enough that
+[17:25 --> 17:31] they basically gave him the keys to the empire a few years later. The appointment
+[17:31 --> 17:36] was a master stroke. Timisithius was loyal to the emperor, respected by the
+[17:36 --> 17:41] Senate and the provincial legions, and most important of all, served officially
+[17:41 --> 17:48] as prefect of the Praetorian Guard. Everyone felt that in Timisithius they
+[17:48 --> 17:53] could trust. As an unexpected bonus, the marriage between Gordian and
+[17:53 --> 17:58] Tranquilina proved to be a happy one, and as 241 AD came to a close, the reign of
+[17:58 --> 18:04] Gordian III looked like it was shaping up to be a long and prosperous one.
+[18:05 --> 18:10] But just as the empire was uniting internally, it was suddenly presented
+[18:10 --> 18:14] with an external threat that would help undo all the goodwill that had just
+[18:14 --> 18:21] begun to coalesce. Since the ceasefire with Alexander Severus in 233, the
+[18:21 --> 18:26] Sassanid king Artashire had mostly pulled back from his western dominions
+[18:26 --> 18:32] and focused his attention on solidifying control over the east. But in the late
+[18:32 --> 18:38] 230s, he renewed his ambition to push the Romans back across the Hellespont. But
+[18:38 --> 18:43] by this point, Artashire was an old man, and he knew that he would not live to
+[18:43 --> 18:49] see his dreams fulfilled. So around 240, he elevated his 25-year-old son to serve
+[18:49 --> 18:55] as co-regent. Two years later, Artashire would be dead, and the ambitions of the
+[18:55 --> 19:00] Sassanids would pass fully to Sharpor, who in time would become one of the most
+[19:00 --> 19:07] notorious of all the enemies of Rome. He would lead the Sassanids with a martial
+[19:07 --> 19:12] vigor that would turn the eastern empire into a perpetual war zone and cause the
+[19:12 --> 19:18] distracted and divided Romans to become even more distracted and divided. The
+[19:18 --> 19:22] culmination of his war with Rome, of course, came in 260 when he will deal the
+[19:22 --> 19:29] Romans a humiliating blow by capturing the Emperor Valerian alive. But that is
+[19:29 --> 19:36] for a later episode. In the early 240s, the ambition of father-son still focused
+[19:36 --> 19:43] on the limited objective of winning back control of Mesopotamia. In 240 and 241,
+[19:43 --> 19:48] they led their forces in a series of invasions that saw the Sassanids win back
+[19:48 --> 19:54] control of Kerry, Nisbys, and Hattra, all three of which had been lost to the Romans,
+[19:54 --> 19:59] while the Parthians had been distracted by the fall of their empire. From these
+[19:59 --> 20:04] fortified positions, the Sassanids then began to press across the frontier into
+[20:04 --> 20:10] Syria, which caused all sorts of alarm bells to ring out across the empire. Back
+[20:10 --> 20:15] in Rome, the news sparked immediate preparations for war, and in 242,
+[20:15 --> 20:22] Timosthenes marched east to personally lead the Roman response. Though the
+[20:22 --> 20:26] Sassanids had enjoyed an unchecked string of successes, their victories were the
+[20:26 --> 20:33] result more of Roman complacency than superiority of arms. When Timosthenes
+[20:33 --> 20:38] arrived in Syria, complacent Rome transformed into aggressive Rome, and I
+[20:38 --> 20:45] think we all know what happens when that happens. At some point in 242, Artashire
+[20:45 --> 20:50] died, leaving Sharapur to deal with the Roman counterattack by himself. It would
+[20:50 --> 20:58] be an experience he would not soon forget. In 243, Timosthenes led his army out to
+[20:58 --> 21:03] meet the Sassanids on the plain of Racina, and the professional legions
+[21:03 --> 21:10] triumphed over the amateur Sassanid forces. Cary and Nisbys were retaken, but
+[21:10 --> 21:14] in their conquest of Hatra, the Sassanids had destroyed the city, so there was
+[21:14 --> 21:20] nothing left but rubble to reclaim. Sharapur was driven back to lick his
+[21:20 --> 21:25] wounds, but Timosthenes was not planning on granting the Sassanid king much of a
+[21:25 --> 21:30] respite. The de facto emperor of the Roman Empire wanted to prove to the
+[21:30 --> 21:34] Sassanids once and for all that poking at Rome was just about the dumbest thing
+[21:34 --> 21:41] they could ever possibly do. But, ever loyal to Gordian, he requested the true
+[21:41 --> 21:46] emperor of Rome come east to oversee the subsequent campaigns and share in the
+[21:46 --> 21:52] glory Timosthenes had planned for the empire. And by the fall of 243, Gordian
+[21:52 --> 21:56] was situated in Syria with a front-row seat for the coming humiliation of the
+[21:56 --> 22:04] Sassanids. But the humiliation would never come. While in camp, plotting out
+[22:04 --> 22:08] what his next moves would be, Timosthenes was overcome by an unknown
+[22:08 --> 22:13] illness and died shortly thereafter. The political balance that had been
+[22:13 --> 22:18] established when he simultaneously became Praetorian prefect and father-in-law of
+[22:18 --> 22:27] the emperor died with him. Without his best advisor to rely on, Gordian decided
+[22:27 --> 22:31] to pull up short and declare that driving the Sassanids out of Mesopotamia
+[22:31 --> 22:37] was victory enough for now. In reality, he had more pressing concerns, like
+[22:37 --> 22:41] whether he could find someone to serve as Praetorian prefect who would prove
+[22:41 --> 22:48] as capable and as loyal as Timosthenes. After some soul-searching and more than
+[22:48 --> 22:53] a little behind-the-scenes nudging, 18-year-old Gordian finally decided to
+[22:53 --> 22:59] appoint Marcus Julius Philippus to fill the vacant prefecture. This would prove
+[22:59 --> 23:05] to be the worst decision Gordian III ever made. That Philip the Arab would
+[23:05 --> 23:12] soon be emperor of Rome should give you some indication as to why. Philip had
+[23:12 --> 23:17] been born about 50 miles south of Damascus in 204 into a prominent family
+[23:17 --> 23:23] of emigrated Arabs, hence the Arab part of Philip the Arab. And then we know very
+[23:23 --> 23:28] little about his early life. It later became rumored that he spent his life as
+[23:28 --> 23:34] something of a brigand. It seems unlikely given the status of his family, but the
+[23:34 --> 23:38] story of his unsavory beginnings fill out a part of the legend of Philip the
+[23:38 --> 23:44] Arab, and so I offer it to you with all the relevant qualifiers. What is
+[23:44 --> 23:47] interesting about Philip is that he was not the driving force behind his own
+[23:47 --> 23:54] ambitions. Rather, it was his brother, Gaius Julius Priscus, who dreamed of
+[23:54 --> 24:00] empire. After serving in a number of important posts, including a second-in-
+[24:00 --> 24:05] command spot in Egypt, Gaius got himself appointed to the Praetorian Guard after
+[24:05 --> 24:09] the Ascension of Gordian, and shortly thereafter got his brother a spot in the
+[24:09 --> 24:15] Guard as well. The charismatic and ambitious Gaius soon won the ear of Young
+[24:15 --> 24:21] Gordian, and when Timosthenes died in 243, Gaius pushed to have his brother Philip
+[24:21 --> 24:27] declared prefect in his place. I haven't seen any particularly definitive answer
+[24:28 --> 24:32] as to why Gaius chose to have his brother elevated instead of taking the job
+[24:32 --> 24:37] himself, and it may be that Gaius was simply one of those ambitious men who
+[24:37 --> 24:40] preferred to rule from the shadows rather than wielding power right out in
+[24:40 --> 24:46] the open where it is most dangerous. Whatever the reason, Philip was declared
+[24:46 --> 24:51] prefect, and the Arab brothers found themselves filling the power vacuum left
+[24:51 --> 24:57] by Timosthenes. Whether they were already planning what would come next is
+[24:57 --> 25:02] another open question, but what is not an open question is that less than a year
+[25:02 --> 25:08] later Gordian will be dead, Philip will be emperor, and Gaius will become his
+[25:08 --> 25:16] de facto colleague. Next week we'll deal with the murder of Gordian III and the
+[25:16 --> 25:22] elevation of Philip the Arab to the throne. Next week will also mark a pretty
+[25:22 --> 25:26] heavy milestone in the history of Rome because four years after his ascension
+[25:26 --> 25:33] Philip will find himself ruling Rome on the occasion of her 1000th birthday.
+[25:33 --> 25:41] Founded as we all know in 753 BC, the year 248 AD marked year 1000 on the Roman
+[25:41 --> 25:46] calendar, and to celebrate Philip would throw a party that would go down as one
+[25:46 --> 25:50] of the greatest the Empire had ever seen.
+[25:56 --> 25:59] you

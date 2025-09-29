@@ -1,0 +1,175 @@
+# 20110925 - 152- The Storm Before the Storm
+# Detected language: en
+# Duration: 1535.56 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:03] This week's episode is brought to you by audible as
+[00:04 --> 00:11] You know audible is the internet's leading provider of audio entertainment with over a hundred thousand titles to choose from
+[00:11 --> 00:20] When you're done with this episode go to audible podcast comm forward slash Rome that again audible podcast comm
+[00:20 --> 00:22] forward slash Rome
+[00:22 --> 00:28] By going to that address you qualify for a free book download when you sign up for a 14-day trial membership
+[00:28 --> 00:33] There is no obligation to continue the service and you can cancel any time and keep the free book
+[00:34 --> 00:40] You can also keep going with one of the monthly subscription options and get great deals on all future audiobook purchases
+[00:41 --> 00:48] This week I am going to put out another call for book recommendations since I've pretty much gone through the previous pile
+[00:49 --> 00:55] use the comment thread for this episode at the history of Rome dot type pad comm to drop off your picks and
+[00:56 --> 00:59] Just remember these need to be audiobooks to qualify
+[01:00 --> 01:05] The last thing the guys at audible need is for me to be using this time pointing you towards stuff
+[01:05 --> 01:11] Not in their catalogue, which as I'm sure you just noticed is now over a hundred thousand titles large
+[01:12 --> 01:19] So by all means go to audible podcast comm forward slash Rome so that they know who sent you
+[01:19 --> 01:23] Hello and welcome to the history of Rome
+[01:24 --> 01:28] Episode 152 the storm before the storm
+[01:31 --> 01:37] Last time we left off with the very serious and not at all hilarious death of Valentinian
+[01:38 --> 01:44] As I mentioned at the end of the episode the Emperor wound up picking a fairly rotten time to check out
+[01:45 --> 01:49] Because the Empire was about to deal with a crisis that would balloon to such immense proportions
+[01:49 --> 01:54] That it is often pointed to as the moment when everything really started to go downhill
+[01:56 --> 02:02] Could Valentinian have made a difference in how things turned out maybe help cut catastrophe off at the pass
+[02:04 --> 02:09] My gut tells me that yes a Valentinian Valens Imperial team
+[02:09 --> 02:19] My gut tells me that yes a Valentinian Valens Imperial team does a better job managing the Goths than a Valens Gratian Imperial team
+[02:20 --> 02:26] But then again given how terrible Valentinian was at diplomacy. Maybe I've got it completely backwards
+[02:27 --> 02:29] Not that it matters
+[02:29 --> 02:34] Valentinian is now dead his brother and son are just going to have to do the best they can without him
+[02:34 --> 02:42] Speaking of Valentinian's son you'll recall from a few episodes back that an eight-year-old Gratian had been elevated to the rank of full Augustus
+[02:42 --> 02:46] After his father nearly succumbed to a serious illness in 368
+[02:48 --> 02:56] Shortly thereafter Valentinian had gone on campaign against the Alamani and taken Gratian with him to give the boy his first taste of military life
+[02:56 --> 03:03] Unfortunately for all parties involved Gratian appears to have not at all been suited for soldiering
+[03:03 --> 03:07] I'm not sure how exactly you can come to that conclusion about an eight-year-old boy
+[03:07 --> 03:16] But by all accounts Gratian seemed much more inclined towards relaxed cultural pursuits rather than vigorous martial pursuits
+[03:16 --> 03:23] The boy's reaction to the campaign was convincing enough to Valentinian anyway that he kept his son away from legionary camps in the future
+[03:23 --> 03:30] Possibly out of fear that the troops would notice the boy's shortcomings and refused to accept him as heir when the time came
+[03:30 --> 03:38] Despite his efforts to stifle military skepticism though Valentinian's fears would be partly realized when the end of the campaign came
+[03:39 --> 03:46] Despite his efforts to stifle military skepticism though Valentinian's fears would be partly realized when the emperor died
+[03:46 --> 03:51] Though the end result was not nearly as bad as it could have been
+[03:54 --> 03:59] When Valentinian marched over to Illyria to deal with the wayward Quadi in 375
+[03:59 --> 04:05] He left the now 16-year-old Gratian behind in Trier to maintain an imperial presence along the Rhine
+[04:06 --> 04:12] Still in his early 50s there was no reason to believe that the emperor was going to suddenly drop dead
+[04:12 --> 04:19] So when he did suddenly drop dead Gratian turned out to be an awfully long way from the central imperial court
+[04:19 --> 04:30] This distance left an opening that was skillfully exploited by Valentinian's stunned but quick-thinking commander of the imperial bodyguard, Maributis
+[04:31 --> 04:35] Not at all confident in Gratian's ability to defend the empire properly
+[04:35 --> 04:41] Maributis and his fellow generals contrived to push their own authority at Gratian's expense
+[04:42 --> 04:47] But they couldn't just declare themselves masters of the empire without sparking a civil war
+[04:47 --> 04:53] So they went and snagged Valentinian's youngest son, the 4-year-old Valentinian II
+[04:53 --> 04:57] And proclaimed the toddler Augustus before the assembled troops in Illyria
+[04:57 --> 05:04] Ostensibly, this proclamation was to head off agitation from within the rank and file to name their own successor
+[05:04 --> 05:12] But most modern scholars tend toward the belief that the elevation of the youngest Valentinian was a naked power grab by the senior generals
+[05:12 --> 05:18] Obviously, it would be more than a decade before Valentinian II could think for himself
+[05:18 --> 05:25] So who would run things until he grew up? Why, his noble and dedicated servants on the general staff, of course
+[05:25 --> 05:33] This unilateral elevation hung in the air for a moment as everyone waited to see how Gratian would react
+[05:33 --> 05:42] When he heard the news, however, the 16-year-old simply bowed to what he figured was the inevitable result of his own low standing with the army
+[05:42 --> 05:50] To protect what was left of his dignity and to avoid open conflict, Gratian accepted his brother as co-ruler
+[05:51 --> 05:59] Nominally putting the toddler in charge of Italy, Illyria, and Africa with the general staff in charge of day-to-day operations
+[05:59 --> 06:05] So as 375 wound down, the empire now had three Augusti
+[06:05 --> 06:09] Valens, who was often Antioch preparing for war against the Persians
+[06:09 --> 06:13] Gratian, who was in Trier keeping an eye on the Alamani
+[06:13 --> 06:21] And Valentinian II, who settled into Milan to play with his toys and enjoy the blissful ignorance of childhood for a few more years
+[06:25 --> 06:31] While the new imperial arrangement was settling itself, though, storm clouds were brewing up in the north
+[06:31 --> 06:41] These storm clouds had actually been brewing since about 370, but it wasn't until five years later that the dark shadow finally crossed over into Roman territory
+[06:41 --> 06:46] The name of this dark shadow? The Huns
+[06:46 --> 06:53] Now, it would still be a few more years yet before the Romans were battered directly by the Hunnic storm
+[06:53 --> 06:58] But the tidal wave of Goths that was about to break on top of Thrace and Moesia?
+[06:58 --> 07:04] Well, that was caused directly by the Hun earthquake that had just hit up in the north
+[07:04 --> 07:10] Yeah, that's right. The Huns were both a storm and an earthquake
+[07:10 --> 07:17] Which should give you some idea as to just how crazy a geopolitical revolution they were about to set off
+[07:17 --> 07:22] But in reality, they were neither a storm nor an earthquake
+[07:22 --> 07:30] They were simply a fierce nomadic warrior tribe from the central Eurasian steppe with really awesome compound bows
+[07:34 --> 07:38] As with the Goths, the origin of the Huns has been lost to time
+[07:38 --> 07:47] And as with the Saxons, the exact definition of what makes a Hun a Hun at this point in history is kind of difficult to pin down
+[07:47 --> 07:57] For years, scholars followed the lead of an 18th century French scholar who believed the Huns were a latter-day incarnation of the Xiongnu
+[07:57 --> 08:09] Powerful nomads from around Mongolia who battled constantly with the Han Chinese from 200 BC until about 50 AD when they broke apart following a civil war
+[08:09 --> 08:21] According to this theory, a portion of the Xiongnu refused to be integrated into the Han Empire and migrated west, eventually becoming the Huns that we know and love today
+[08:21 --> 08:30] These days, this theory is treated skeptically, though there is evidence both for and against a link with the Xiongnu
+[08:30 --> 08:39] The more modern theory is that the Huns were simply a conglomeration of a few different nomadic groups who had been pushed west in the 300s AD
+[08:39 --> 08:53] By the rise of yet another powerful nomadic conglomeration known as the Rurans, who in the early 400s would become the first group to identify their leader with the now world-famous honorific Khan
+[08:53 --> 09:02] As they moved west, the Huns, whoever they were, followed the simple nomadic warrior life
+[09:02 --> 09:11] Extract tribute from any settled group you encounter to help offset the rather meager wealth generated by your herd and trade-based economy
+[09:11 --> 09:22] As the Huns proved to be highly effective warriors, they had no trouble dominating any and all nations they encountered as they slowly drifted west
+[09:22 --> 09:39] As with the Mongols, who would prove to be their military and spiritual heirs, Hun warriors were primarily horse-mounted archers, who used a particularly sturdy compound bow to blast out of the water and then completely overrun any army they faced
+[09:39 --> 09:54] According to Peter Heather, the key technical difference between the Hun compound bow and earlier compound bows is that an asymmetric design allowed the Hun bow to be larger and thus generate more force
+[09:54 --> 10:05] Taller at the top than at the bottom, this longer Hun bow could be used effectively on horseback without constantly bumping into the horse itself
+[10:06 --> 10:26] This small alteration allowed the bow to generate more power and thus penetrate armor from a greater distance, switching the military balance of power north of the Danube away from slow-moving spear-wielding heavy cavalry back to faster bow-and-arrow-wielding light cavalry
+[10:26 --> 10:36] Around 370, the Huns and their golden bow arrived at the coast of the Black Sea and began knocking over dominoes
+[10:36 --> 10:46] The first to fall were the Alans, who, after being defeated, joined in the Hunnic confederation, because, you know, if you can't beat them, join them
+[10:47 --> 10:57] In 375, probably right around the time Valentinian was arriving in Illyria, the Huns made first contact with the Goths
+[10:57 --> 11:11] The first Goths that the Huns made contact with were the branch known as the Grutungi, if I am at all pronouncing that correctly, who lived further away from the Roman frontier, east of the Dniester River
+[11:12 --> 11:20] After blowing through the Grutungi, the Huns would then face the Terevingi branch of the Goths, who lived nearer the Roman border
+[11:20 --> 11:29] For those keeping score at home, Othinaric and Fritigern, who we met last time, were both chieftains of the Terevingi branch
+[11:29 --> 11:42] In time, after all the chaos that is about to ensue washes out, these two branches will reorganize themselves into what we today call the Visigoths and the Ostrogoths
+[11:42 --> 11:54] The names can be confusing, but literally all Visigoth and Ostrogoth means is Western Goth and Eastern Goth, with the Dniester River serving as a rough dividing line between the two
+[11:55 --> 12:08] Of course, just to confuse things a little bit more, I should note that the Visigoth-Ostrogoth distinction was mostly a later literary convention that was not necessarily recognized by the Goths themselves at the time
+[12:10 --> 12:23] When the Grutungi refugees streamed into Terevingi territory, Othinaric, still the most powerful king in the region, knew it would only be a matter of time before his people too faced this Hun army
+[12:24 --> 12:35] Looking to seize the initiative, Othinaric sent out an army across the Dniester to engage the Huns before they crossed the river and hopefully compel these invaders to stop short
+[12:35 --> 12:43] But the Huns noticed the approaching Gothic army and simply did an end run around them, crossing the Dniester unopposed
+[12:44 --> 12:53] Othinaric recognized that he wouldn't be able to stand against the Huns for long, so he did what he had done when Valens came looking for him and fled up into the Carpathian mountains
+[12:54 --> 13:03] But his failure to stop the invaders had undermined his authority, and only a small portion of Othinaric's people followed him up into the mountains to continue the resistance
+[13:04 --> 13:16] The rest either stayed put and resigned themselves to vassalhood, or chose to follow Fritigern, who seized on Othinaric's political stumble as an opportunity to take control of the Western Goths
+[13:18 --> 13:25] He believed the wisest course of action would be to flee south and hide behind the protective wall of the Roman legions
+[13:26 --> 13:42] And so it was that in the spring of 376, a great unwashed mass of Gothic refugees, Grutungai and Tarvingai alike, stood on the north bank of the Danube River, desperately hoping to be allowed admission into the empire before they were crushed by the Huns
+[13:43 --> 13:50] A mixed Gothic embassy then traveled to Antioch to beg for mercy before the emperor himself
+[13:50 --> 13:57] Now at this point, I would like to stop and remind everyone of something
+[13:58 --> 14:12] In shorthand accounts of the later Roman Empire, it is common for the story to go, Valens made a huge mistake letting this massive horde of Goths into Roman territory, and, you know, what did he think was going to happen?
+[14:13 --> 14:18] Adrianople was thus the direct result of that fundamental blunder
+[14:18 --> 14:26] However, this shorthand version implies that admission of barbarians into the empire was somehow unprecedented
+[14:27 --> 14:36] That the soon to break out Gothic war is what would inevitably happen if you were ever so stupid as to allow a big group of barbarians into the empire like that
+[14:37 --> 14:44] But as we all know by now, the settlement of barbarians within Roman territory was totally precedented
+[14:44 --> 14:55] It had been an occasionally used expedient going all the way back to the reign of Tiberius, and for the last century it had been a fundamental pillar of imperial border policy
+[14:56 --> 15:06] When we look to assign blame then for what's about to happen, we need to look at how the admission of the Goths was managed, rather than the fact that it happened at all
+[15:07 --> 15:14] The main thing to keep in mind is that there was a way this sort of thing was done
+[15:15 --> 15:26] In general, there were two types of barbarian groups settling in the empire, those that had been beaten in battle, and those who were applying for admission because they thought it might offer them a better life
+[15:27 --> 15:32] In either case, entrance was predicated on a few rules
+[15:32 --> 15:36] First, the barbarians were to be disarmed
+[15:37 --> 15:44] Second, they were to be dispersed into smaller settlements rather than be allowed to stay as one mass group
+[15:45 --> 15:51] Third, they were to recognize Roman authority and abandon official allegiance to their old kings
+[15:51 --> 16:02] Fourth, when members of these settled tribes were inevitably drafted into the Roman army, they were to fight with Roman supplied weapons and fight under Roman officers
+[16:03 --> 16:16] All of these rules aimed at the same goal, gaining economic and military strength from the influx of new bodies, while breaking the existing tribal power structure
+[16:16 --> 16:22] Finally, there was one really big never-to-be-forgotten rule
+[16:23 --> 16:31] When the barbarians first cross over into Roman territory, they must be met by an overwhelming display of force
+[16:32 --> 16:41] Initial relocation must be overseen by a numerically superior legionary force, otherwise you risk the whole thing blowing up in your face
+[16:42 --> 16:53] When the Goths crossed over the Danube in 376, exactly none of these rules were followed, and so the whole thing blew up in the Roman's face
+[16:56 --> 17:05] The last thing to note is that when we consider Valens' response to the Gothic ambassadors, it does appear that he was well aware of these basic rules of settlement
+[17:05 --> 17:16] The emperor knew that between his gearing up for war against Persia, his lending of some troops to Valentinian to fight the Alamani, and a minor revolt that had broken out in Cilicia
+[17:17 --> 17:29] that the Danube frontier was undermanned and ill-equipped to handle a massive influx of Goths, which is why he never granted permission for anything like the mass migration that wound up breaking out
+[17:30 --> 17:40] The plan was probably to allow a limited number of Goths in, make their admission contingent upon providing conscripts for the Roman army, and then deal with the rest
+[17:41 --> 17:46] granting admission or not on a case-by-case basis from a much stronger military position
+[17:47 --> 17:56] The later admitted Goths would then be forced to provide conscripts for the Roman army as well, who could then be transferred to the eastern front to help fight the Persians
+[17:56 --> 18:01] All in all, it was shaping up to be a pretty decent deal for everyone
+[18:02 --> 18:06] The question then was which Goths do we let in first?
+[18:07 --> 18:09] The answer to that question was easy
+[18:10 --> 18:19] Fritigern had provided assistance to Valens during the campaign against Athenaric a few years before, making the Gothic leader a favorite of the emperors
+[18:20 --> 18:29] On top of that, Fritigern and his followers appeared to have recently converted to Valens' preferred Aryan form of Christianity
+[18:30 --> 18:34] Combined, these two facts led to Valens' official ruling
+[18:35 --> 18:44] Fritigern's tervingai would be allowed in, while the rest of the Goths, particularly the Guthungai, must stay on the north bank of the Danube
+[18:44 --> 18:53] When the embassy returned with the emperor's decision, there was panic among the still-to-be-barred Goths
+[18:54 --> 19:00] The Huns could be coming over the hill any minute. If we stay here, we're dead
+[19:01 --> 19:09] Fritigern's people, on the other hand, were overjoyed at the news and immediately began to cross over the river under the watchful eye of the Roman authorities
+[19:10 --> 19:13] And then things started to get out of hand
+[19:14 --> 19:20] If you've ever been to a free concert in the park that's reached capacity, you may know what's coming next
+[19:21 --> 19:31] The flimsy fences and volunteer security forces don't stand a chance against the hordes of fans being denied access to their favorite band
+[19:32 --> 19:42] The denied Goths jealously watched their anointed cousins joyfully crossing the river and figured, well, hell, there's more of us than there are Roman guards
+[19:43 --> 19:50] And if we stay here, we're just going to die anyway, so let's join the migration and dare the Romans to do something about it
+[19:51 --> 20:00] Of course, the Romans couldn't do anything about it, and pretty soon what had briefly been a controlled trickle was now an uncontrolled flood
+[20:01 --> 20:07] The Roman soldiers pulled back and formed a defensive perimeter to contain the damage, but there was no stopping the Goths now
+[20:08 --> 20:10] They were coming in, all of them
+[20:12 --> 20:22] Once the Goths were all across, the situation quickly deteriorated as the overmatched Roman forces were unable to impose any of the standard rules of settlement
+[20:22 --> 20:30] The Goths were not disarmed. They were not forced to submit to Roman authority. They were not broken up into small groups
+[20:31 --> 20:39] They were just a big horde of armed barbarians who still recognized their own leaders and who were still mighty distrustful of the Romans
+[20:40 --> 20:49] Seeing as how the Romans had made it very clear that most of the Goths currently sitting on the south bank of the Danube had not at all been welcome in the first place
+[20:50 --> 20:58] So what we have here is a big pile of, like, leaves, cardboard boxes, and dried sticks
+[20:59 --> 21:07] There's nothing that says this pile has to erupt into a bonfire, but it's a pretty dangerous combination that ought to be treated accordingly
+[21:08 --> 21:20] Instead of caution, however, the local Roman authorities, particularly a commander named Lupicinus, poured gasoline all over the pile and then started chucking lit firecrackers at it
+[21:22 --> 21:34] The big problem was that instead of trying to figure out how to manage this incredibly volatile situation, Lupicinus and his officers spent their time figuring out how to exploit it
+[21:35 --> 21:47] One of the things they quickly figured out was that the Goths were seriously undersupplied, which meant that there were many, many mouths to feed and not nearly enough food to feed them all
+[21:48 --> 22:01] Contained for now in what amounted to a massive refugee camp, the Goths were forced to rely on Roman provisions to survive, and from the top down, the Roman authorities began to prey on Gothic hunger
+[22:02 --> 22:15] Price gouging on food became common, and once the Goths ran out of valuables to trade, the Romans magnanimously allowed them to sell their children into slavery in exchange for bags of moldy grain
+[22:17 --> 22:28] Now, the Goths were a desperate people, but they were still a proud people, and rage over the daily humiliations they were being forced to endure began to swell
+[22:28 --> 22:38] Agitation began to grow, anger began to rise, and violence began to look like a fairly reasonable response
+[22:40 --> 22:53] Ready, willing, and able to make a bad situation worse, Lupicinus responded to the increasing Gothic frustration by inviting their leaders to a banquet to talk over the problems at his regional headquarters in Marcionopolis
+[22:54 --> 23:07] It won't come as a surprise when you hear that in the middle of this banquet, most of the chiefs were arrested, with some being held hostage to blackmail the rest of the Goths into submission, while the rest were summarily executed
+[23:08 --> 23:24] When the Goths found out what had happened to their leaders, they exploded. They stormed out of their camps and massed at the gate of Marcionopolis, demanding justice. And by justice, I mean Lupicinus' head
+[23:25 --> 23:41] Fritigern, who was one of the Gothic leaders now being held prisoner, saw an opportunity to escape bondage by telling Lupicinus that the only way things were going to calm down is if Fritigern himself was allowed to go out to meet his people
+[23:42 --> 24:00] Lupicinus agreed to this plan, counting on Fritigern's typically pro-Roman worldview to see disaster averted. But it appears that after all the lies, all the exploitation, and now the surprise arrests, that Lupicinus had made an enemy out of a friend
+[24:01 --> 24:15] Fritigern did hold up his end of the bargain, and that he quelled the immediate unrest outside of Marcionopolis, but only because he told his people that they didn't have the means to besiege the city, so it would be pointless to even try
+[24:16 --> 24:27] Did that mean that they should go back to selling their children into slavery in the refugee camp? Of course not. Fritigern simply directed them towards a far more attainable goal
+[24:27 --> 24:32] Overpowering the local Roman garrison, and then ravaging the living hell out of Thrace
+[24:36 --> 24:42] Next week, and I promise this time it will be next week, all chickens will come home to roost
+[24:43 --> 24:55] The Danube legions, completely outnumbered, will break in the face of the Gothic army, leaving the barbarian horde free to run amok in the Middle Empire for two full years before an adequate response could be mustered
+[24:57 --> 25:11] But, as we will also see next week, that adequate response turned out to be not adequate at all, and wind up leaving the Emperor Valens and two thirds of his Eastern Roman army dead in the field
+[25:27 --> 25:29] .

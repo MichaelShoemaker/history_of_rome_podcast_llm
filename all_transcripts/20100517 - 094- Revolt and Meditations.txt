@@ -1,0 +1,328 @@
+# 20100517 - 094- Revolt and Meditations
+# Detected language: en
+# Duration: 1546.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:14] Hello, and welcome to the History of Rome, Episode 94, Revolt and Meditations.
+[00:14 --> 00:20] As winter turned to spring in 175 AD, Marcus Aurelius was at the height of his power and
+[00:20 --> 00:21] prestige.
+[00:21 --> 00:25] When he became emperor fourteen years earlier, there were very reasonable doubts about his
+[00:25 --> 00:28] ability to handle major crises.
+[00:28 --> 00:33] Having never set foot outside of Italy or inside a legionary camp, there is no begrudging
+[00:33 --> 00:39] those who saw the fragile, intellectual Marcus ascend to the throne in 161 and figured a
+[00:39 --> 00:43] stiff breeze would blow his whole regime right over.
+[00:43 --> 00:49] But since then, the empire had been drowned, starved, plagued, and sucked into two major
+[00:49 --> 00:54] wars, one in the east against Parthia and one in the north against a forever shifting
+[00:54 --> 00:57] host of German tribes.
+[00:57 --> 01:01] Not only had frail Marcus not been blown over by this gale-force wind, but he had risen
+[01:01 --> 01:06] to meet each and every challenge with the perfect mix of steady confidence and genuine
+[01:06 --> 01:08] ability.
+[01:08 --> 01:14] With such a capable leader leading so capably, it is no wonder that in 175, just after Marcus
+[01:14 --> 01:19] was putting the finishing touches on his brilliant northern campaigns, the eastern empire rose
+[01:19 --> 01:21] up in revolt.
+[01:21 --> 01:23] Wait, what?
+[01:23 --> 01:25] Let's go over that again.
+[01:25 --> 01:31] Good Emperor, Triumphant General, Effective Administrator, Revolt.
+[01:31 --> 01:33] Something doesn't add up.
+[01:33 --> 01:38] To escape from this apparent political non-sequitur, we need to take a look at the empire's situation
+[01:38 --> 01:45] as the spring of 175 dawn from another perspective, and then also remember that when the revolt
+[01:45 --> 01:52] in question finally breaks out, it was probably the result of a simple miscommunication.
+[01:52 --> 01:57] You see, not everyone was super jazzed about Marcus's adventures along the Danube.
+[01:57 --> 02:02] I didn't do much soldier counting last week, but during the first phase of the Marcomannic
+[02:02 --> 02:08] Wars, Marcus had lost something like 10% of the 100-140,000 men he had assembled to fight
+[02:08 --> 02:09] the Germans.
+[02:09 --> 02:14] True, only a fraction of that number were actually battle casualties with the rest succumbing
+[02:14 --> 02:18] to plague, but that only reinforced the point.
+[02:18 --> 02:21] The empire was being ravaged by smallpox.
+[02:21 --> 02:24] The provinces were slowly depopulating.
+[02:24 --> 02:28] There was not enough hands to work the fields, and what grain was being harvested was being
+[02:28 --> 02:31] sent to the front to feed the troops.
+[02:31 --> 02:35] Was now really the best time to be putting our foot down with the Germans?
+[02:35 --> 02:39] Was this really the best use of the empire's resources?
+[02:39 --> 02:46] These questions were answered, at least in the East, with a resounding no.
+[02:46 --> 02:51] Whether their outlook was overly parochial is a question for another time, so for now,
+[02:51 --> 02:56] let us simply note that, seeing only sacrifice without benefit, the citizens of the East
+[02:56 --> 03:01] were becoming progressively more hostile towards Marcus Aurelius and his pointless war in the
+[03:01 --> 03:03] frozen North.
+[03:03 --> 03:09] In 172, protesting the excessive tax burden, an insurrection broke out in Egypt that was
+[03:09 --> 03:14] efficiently put down by none other than Novidius Cassius, who, in just a little while, will
+[03:14 --> 03:21] find himself harnessing that same angry energy in his own bid for power.
+[03:21 --> 03:26] Back in Rome, the Senate was generally supportive of Marcus' policies, but there was a growing
+[03:26 --> 03:30] faction of senators who secretly opposed the imperial regime.
+[03:30 --> 03:35] Of these dissenting nobles, there were roughly two overlapping camps.
+[03:35 --> 03:39] One was clustered around the extended family of Lucius Verus, who felt they were being
+[03:39 --> 03:43] shut out from their rightful seat at the table now that Lucius was dead.
+[03:43 --> 03:49] After all, wasn't it Lucius' father who, wise Hadrian, had elevated first, and now
+[03:49 --> 03:54] were not getting any of the good appointments, any of the plum jobs?
+[03:54 --> 03:58] Much as the early years of the Principate had been defined by the struggle between the
+[03:58 --> 04:04] Julio and Claudian wings of the imperial family, so too was there now an undercurrent of tension
+[04:04 --> 04:09] between Lucius' Chaonei and Marcus' Aenei families.
+[04:09 --> 04:15] The other camp was a collection of senators who saw an empire in crisis, and Marcus'
+[04:15 --> 04:20] obsession with waging war along the Danube only making things worse.
+[04:20 --> 04:26] Like the citizens of the East, they too pointed to the plagues and the famines and the depopulation,
+[04:26 --> 04:30] but unlike the Eastern parochial grievances, these senators saw the big picture and did
+[04:30 --> 04:35] not like what they saw.
+[04:35 --> 04:40] In 171, in a sign of things to come, Morish raiders attacked the practically un-Garrisoned
+[04:40 --> 04:45] Iberian peninsula and sent the Spanish provinces spinning into chaos.
+[04:45 --> 04:51] Rich, fertile, and peaceful, an attack on Hispania was an attack on the very heart of
+[04:51 --> 04:56] the empire, and though Marcus sent one of his better generals to oversee the expulsion
+[04:56 --> 05:00] of the North African invaders, the emperor himself seemed to look upon the crisis as
+[05:00 --> 05:05] being of minor import compared to his work in Germania.
+[05:05 --> 05:10] A number of senators profoundly disagreed with this ordering of priorities, and not
+[05:10 --> 05:16] just because they owned extensive property on the peninsula, but also because they looked
+[05:16 --> 05:21] at Marcus expending 140,000 men in defense of some frozen patch of dank forest while
+[05:21 --> 05:28] Spain burned and couldn't help but wonder what unearthly emperor was thinking.
+[05:28 --> 05:32] But it was not just the trouble in Spain that gave them pause, it was also the fact
+[05:32 --> 05:37] that the natives of Britannia took Marcus' almost single-minded focus on the German question
+[05:37 --> 05:43] as a sign that they ought to, once again, attempt to expel the Romans from their island.
+[05:43 --> 05:48] So the East was being worked to death, the West was dealing with uprisings and invasions
+[05:48 --> 05:53] on multiple fronts, and all the while the Antonine Plague continued to take its toll.
+[05:53 --> 05:55] And where was the emperor?
+[05:55 --> 06:00] Finding uncivilized rabble in the North by day, and composing esoteric philosophy in
+[06:00 --> 06:02] his tent by night.
+[06:02 --> 06:07] Enter Ovidius Cassius.
+[06:07 --> 06:13] Now as I've mentioned once or twice, Ovidius Cassius probably did not mean to lead a revolt.
+[06:13 --> 06:18] The hero of the Parthian War had been on friendly terms with the imperial family for years,
+[06:18 --> 06:23] and in particular maintained a correspondence with the Empress Faustina.
+[06:23 --> 06:29] During the winter of 174-175, it seems that Marcus' health had deteriorated to the point
+[06:29 --> 06:36] that Faustina was openly expressing concern to Cassius about the delicate issue of succession.
+[06:36 --> 06:42] Commodus, both her and Marcus' first choice to be heir, was not yet a man, and if Marcus
+[06:42 --> 06:46] died, the empire could be sucked into a civil war.
+[06:46 --> 06:50] The details of all this are sketchy, as the correspondence between the two was burned
+[06:50 --> 06:56] after Cassius' death, but it seems like Faustina may have offered her hand in marriage to Cassius
+[06:56 --> 07:01] in exchange for Cassius protecting Commodus' eventual claim to the throne.
+[07:01 --> 07:07] It also seems that Cassius may have missed the if Marcus died part of the sentence and,
+[07:07 --> 07:12] perhaps spurred on by other rumors, took the note to read that the emperor was dead and
+[07:12 --> 07:17] Faustina was urging him to claim the throne.
+[07:17 --> 07:22] In the spring of 175, then, Cassius allowed himself to be proclaimed Imperator by the
+[07:22 --> 07:29] Syrian legions, an oath that was quickly seconded by the Egyptian and Palestinian garrisons.
+[07:29 --> 07:33] But the tide of sedition stopped short in Cappadocia, where Martyus Verus, Cassius'
+[07:33 --> 07:37] old comrade from the Parthian Wars, refused to sign on.
+[07:37 --> 07:44] Instead, he dispatched a message to Marcus warning him that the East was in revolt.
+[07:44 --> 07:48] As I said at the end of last week, the emperor was forced to drop what he was doing, make
+[07:48 --> 07:53] peace with the Ezekias before they learned that Rome was divided, and then head east
+[07:53 --> 07:55] to confront the rebellion.
+[07:55 --> 08:00] Coming to terms with the surprise nomads, he packed up the imperial entourage, along
+[08:00 --> 08:05] with Faustina and Commodus, both of whom were living in the camp with him at the time, and
+[08:05 --> 08:08] made with all haste for Syria.
+[08:08 --> 08:12] To the delight of conspiracy theorists who believed that Faustina and Cassius were not
+[08:12 --> 08:17] the victims of some innocent miscommunication, and were instead actively plotting behind
+[08:17 --> 08:23] Marcus' back, Faustina became sick while the caravan passed through Cappadocia, and,
+[08:23 --> 08:28] succumbing to the illness, suddenly died in mid-175.
+[08:28 --> 08:32] As with all imperial deaths, it was suspected that Marcus had done her in for conspiring
+[08:32 --> 08:38] against him, or that she had committed suicide knowing that all the sordid details of her
+[08:38 --> 08:40] plot were about to come out.
+[08:40 --> 08:44] But no one has ever been able to show that her relationship with Marcus involved anything
+[08:44 --> 08:49] but unwavering support, or that her death was anything more than a sad tragedy for the
+[08:49 --> 08:55] emperor, yet another sad tragedy in a life full of them.
+[08:55 --> 08:59] Cassius' revolt lasted three months and six days.
+[08:59 --> 09:05] Though he was eventually alerted to the fact that the emperor was, you know, alive, Cassius
+[09:05 --> 09:10] persist, probably reckoning that the die was already cast.
+[09:10 --> 09:15] In any event, he knew that there was untapped discontent among the nobility that might just
+[09:15 --> 09:20] rally enough of them to his cause that he could salvage the situation.
+[09:20 --> 09:26] But the private haters in the Senate, unorganized and likely unknown even to each other, were
+[09:26 --> 09:30] not going to stick their necks out for the Syrian general, and before Marcus could stop
+[09:30 --> 09:34] them, the Senate declared Cassius an enemy of the state.
+[09:34 --> 09:38] Had he been able to, the emperor would have killed the resolution, as he was looking forward
+[09:38 --> 09:44] to generously pardoning his old friend Cassius for the mistake he had made.
+[09:44 --> 09:49] But the declaration was made, and soon after, one of Cassius' own centurions patriotically
+[09:49 --> 09:53] assassinated the rogue general and sent his head to Marcus.
+[09:53 --> 09:59] The emperor, robbed of his chance to demonstrate his magnanimity, refused to view the remains,
+[09:59 --> 10:03] and ordered the head buried with honors.
+[10:03 --> 10:08] Though the revolt fizzled out as quickly as it had arisen, Marcus continued his march
+[10:08 --> 10:09] east.
+[10:09 --> 10:12] Cassius' rebellion had not emerged from nothing.
+[10:12 --> 10:18] Clearly, the eastern provinces were feeling put out and put upon, so the emperor wisely
+[10:18 --> 10:22] decided to dole out a little imperial TLC.
+[10:22 --> 10:27] But along with the carrots he planned to sprinkle across the east, Marcus also broke out one
+[10:27 --> 10:28] big stick.
+[10:28 --> 10:33] He made a point of bypassing Antioch as he made his way through Syria.
+[10:33 --> 10:37] This intentional snubbing of the city that had been the first to support Cassius was
+[10:37 --> 10:42] made permanent by Marcus' declaration that all games were indefinitely cancelled in the
+[10:42 --> 10:44] city.
+[10:44 --> 10:49] The gladiator fighting and chariot racing mad citizens of Antioch had to suffer through
+[10:49 --> 10:54] six years without a sports spectacle of any kind until Commodus lifted the injunction
+[10:54 --> 10:56] after Marcus' death.
+[10:56 --> 11:02] Which, I suppose, makes this as good a time as any to formally introduce Lucius Aurelius
+[11:02 --> 11:07] Commodus, who was by his father's side during all of this and who would remain with the
+[11:07 --> 11:11] emperor for the duration of Marcus' life.
+[11:11 --> 11:17] As I said last week, he had been born a twin in 161, but lost his brother three years later
+[11:17 --> 11:19] to childhood disease.
+[11:19 --> 11:25] Initially, he had taken a backseat to a younger brother named Marcus Aeneas Verus, who had
+[11:25 --> 11:29] been born in 162 and was pretty clearly the emperor's favorite.
+[11:29 --> 11:35] But when the younger Marcus died in 169 after failing to recover from a dangerous surgery,
+[11:35 --> 11:42] Commodus was left as the emperor's only surviving son, and thus became the heir apparent.
+[11:42 --> 11:47] Much is made in the histories that Commodus' character, or lack thereof, was evident from
+[11:47 --> 11:53] early on, but since these biographies were written well after his assassination in 192,
+[11:53 --> 11:58] we can probably suspect that the accounts of Commodus' early years are to some degree
+[11:58 --> 12:03] mere literary foreshadowing.
+[12:03 --> 12:07] Once Commodus was left as the only surviving son, there was never any question that Marcus
+[12:07 --> 12:10] planned for the boy to succeed him.
+[12:10 --> 12:14] The emperor even had a policy of marrying his daughters off to men of far lower status
+[12:14 --> 12:19] than one might expect an imperial princess to command, so that Commodus would have no
+[12:19 --> 12:22] rivals within the family.
+[12:22 --> 12:27] The best of Marcus' sons-in-law was Claudius Pompeianus, who Marcus had married to Lucius
+[12:27 --> 12:33] Verus' widow, Lucilla, but Pompeianus, too, was of lowly origin, and he had risen to his
+[12:33 --> 12:39] high rank in the army by Marcus' favor alone, and was disdained by most of the nobility,
+[12:39 --> 12:44] including Faustina, who had been furiously opposed to the wedding.
+[12:44 --> 12:49] Commodus received the same world-class home-tutored education Marcus had received, but with one
+[12:49 --> 12:52] key difference.
+[12:52 --> 12:56] While Marcus had been kept away from the army, Commodus accompanied Marcus on campaign from
+[12:56 --> 13:03] at least 172 on, and became, much like Caligula before him, a beloved mascot of sorts for
+[13:03 --> 13:07] the rank-and-file soldiers.
+[13:07 --> 13:12] Cementing the relationship between air and army, a relationship Marcus himself had literally
+[13:12 --> 13:18] been forced to pay for, the emperor had Commodus don the toga of manhood in July 175 in a
+[13:18 --> 13:24] legionary camp along the Danube, rather than back home in Rome, as would have been customary.
+[13:24 --> 13:31] At 14, Commodus was on the leading edge of when it was appropriate to don the toga virilis,
+[13:31 --> 13:36] which usually happened sometime between the ages of 14 and 18, but Cassius' revolt upped
+[13:36 --> 13:39] the timetable.
+[13:39 --> 13:43] Marcus had to be sure that whatever happened, his chosen heir would be literally man enough
+[13:43 --> 13:47] to succeed him.
+[13:47 --> 13:53] Though the immediate crisis ended with Cassius' assassination and the revolt petering out,
+[13:53 --> 13:59] the fact that Commodus was now a man would go a long way toward suppressing future insurrection.
+[13:59 --> 14:04] After all, the whole premise of Cassius' revolt was that, should Marcus die, a dangerous
+[14:04 --> 14:09] power vacuum would open up that the child Commodus would have been unable to fill.
+[14:09 --> 14:14] But Commodus the man, hopefully, was a different story.
+[14:14 --> 14:21] Father and son wintered in Alexandria, and then spent 176 making their way back to Rome.
+[14:21 --> 14:24] The settlement with the various German tribes seemed to be holding, and for the first time
+[14:24 --> 14:32] in a long time, Rome had no enemies to fight, so the emperor was free to return home.
+[14:32 --> 14:37] Both on his way to and returning from the east, Marcus initiated a number of reforms
+[14:37 --> 14:41] that he hoped would help nullify the causes of all the various troubles that had been
+[14:41 --> 14:46] plaguing the empire, up to and including the revolt of Avidius Cassius.
+[14:47 --> 14:52] First, his settlement with the Azeegis, forced on him by circumstance, actually turned out
+[14:52 --> 14:58] to be a positive development, as Marcus dispatched 8,000 Azeegi horsemen to Britain to help quell
+[14:58 --> 15:01] the native uprising there.
+[15:01 --> 15:06] At the same time, he collected an auxiliary force of some 20,000 allied Germans, that
+[15:06 --> 15:11] is, tribes whose peace terms with Rome had involved the pledging of troops, and ordered
+[15:11 --> 15:16] them to Syria, where they would set up shop and watch over not only the border, but the
+[15:16 --> 15:19] locals as well.
+[15:19 --> 15:23] The emperor also declared that henceforth, no senator would be allowed governorship of
+[15:23 --> 15:28] his home province, as Cassius had been with Syria, and which was definitely part of the
+[15:28 --> 15:33] reason why he had felt so confident in his little power grab.
+[15:33 --> 15:36] The thrust of all of these initiatives is clear.
+[15:36 --> 15:40] The shuffling of regional forces would have had the effect of not only depleting the ranks
+[15:40 --> 15:46] of potentially rebellious natives, but also simultaneously putting them in charge of other
+[15:46 --> 15:51] natives to whom they had no affinity and no reason to support, and within whom the imported
+[15:51 --> 15:54] soldiers would find no support.
+[15:54 --> 15:58] And with the leadership brought in from yet another region, Marcus would be effectively
+[15:58 --> 16:02] alienating everyone from everyone else.
+[16:02 --> 16:06] In due time, he planned to recruit soldiers from the east and ship them up to the Danube
+[16:07 --> 16:12] to complete his circle of soldier, citizen, leadership alienation, and prevent future
+[16:12 --> 16:18] unifications of interest that led to things like Cassius' revolt.
+[16:18 --> 16:23] The imperial caravan made its way to Rome by way of Greece and Athens, where both emperor
+[16:23 --> 16:29] and heir were inducted into the Eleusian Mysteries, an act of particular significance as it demonstrated
+[16:29 --> 16:33] that some degree of normalcy was returning to the Middle Empire, and that despite the
+[16:33 --> 16:41] destruction of its ancient temple, the mystery religion par excellence was still going strong.
+[16:41 --> 16:44] Marcus and Commodus remained in Athens for a time, enjoying one of the empire's great
+[16:44 --> 16:46] cultural centers.
+[16:46 --> 16:52] And while there, Marcus decided to echo Hadrian's push to rejuvenate the city, but instead of
+[16:52 --> 16:57] sponsoring architectural projects, he endowed four philosophy chairs, one each for the four
+[16:57 --> 17:05] major schools, Platonism, Aristotelianism, Epicureanism, and Stoicism, the latter of
+[17:05 --> 17:11] which obviously being the most near and dear to Marcus' heart.
+[17:11 --> 17:16] As I mentioned last week, when Marcus was not out fighting in the field or in his tent
+[17:16 --> 17:21] resolving all the administrative and legal disputes that poured onto his desk, the emperor
+[17:21 --> 17:26] took time out to write a sort of philosophical diary as part of his daily quest to crack
+[17:26 --> 17:29] the underlying code of existence.
+[17:29 --> 17:34] The result, which we call the Meditations, but which technically has no proper name,
+[17:34 --> 17:39] does not read as a narrative, but rather as a series of short thoughts that express ideas
+[17:39 --> 17:43] independently of one another regarding whatever Marcus happened to be thinking about at the
+[17:43 --> 17:46] time.
+[17:46 --> 17:51] This can make the Meditations difficult to read straight through, but it is a style that
+[17:51 --> 17:56] lends itself particularly well to quotation, which is why passages from the book show up
+[17:56 --> 18:02] on magnets and calendars as often as they do in college curriculum.
+[18:02 --> 18:06] Also helping the text to remain eternally relevant is that Marcus was basically writing
+[18:06 --> 18:11] a series of reminders for himself as he strove to live virtuously.
+[18:11 --> 18:16] When you remove Marcus from the equation and read it yourself, what you get is a series
+[18:16 --> 18:20] of injunctions reminding you how to live virtuously.
+[18:20 --> 18:25] I think to varying degrees we are all always trying to improve ourselves, and here is this
+[18:25 --> 18:31] nice little collection of utterances telling you exactly how you should act.
+[18:31 --> 18:36] It's probably a bit morbid in places, like when he tells you that when you kiss your
+[18:36 --> 18:40] child good night, you should remind yourself that they may be dead in the morning.
+[18:40 --> 18:45] But as self-help manuals go, you could do a lot worse than the Meditations of Marcus
+[18:45 --> 18:48] Aurelius.
+[18:48 --> 18:53] When everything gets boiled down, Marcus is essentially rephrasing a few basic themes
+[18:53 --> 18:57] over and over again in dozens of different ways.
+[18:57 --> 19:01] Like when a police officer asks a suspect the same question over and over again in different
+[19:01 --> 19:06] ways in order to get them to trip up over their story.
+[19:06 --> 19:10] Marcus is basically trying to trip up his own head so that the really real truth can
+[19:10 --> 19:12] be revealed.
+[19:12 --> 19:14] But what is that truth?
+[19:14 --> 19:20] Who knows, but it certainly doesn't resemble in any way the universe as we perceive it.
+[19:20 --> 19:25] For Marcus, most of what we see and hear is either an illusion, like time or the apparent
+[19:25 --> 19:32] division of objects, or it is an objective fact that we emotionally misinterpret, like
+[19:32 --> 19:38] our negative posture towards death or our irrational attachment to glory.
+[19:38 --> 19:42] For the Stoics, this latter bit was of the utmost importance.
+[19:42 --> 19:47] They were always going on about representations, in an attempt to address how and why the human
+[19:47 --> 19:53] mind fails to properly grapple with all the sensory data that is thrown its way.
+[19:53 --> 19:57] Marcus returns to this theme over and over again.
+[19:57 --> 20:04] Since for the Stoics, good means only living virtuously, and evil means only the absence
+[20:04 --> 20:11] of virtue, everything that doesn't fit into one of those two categories is of null value.
+[20:11 --> 20:15] Marcus cautions against getting involved with grief over the death of a loved one,
+[20:15 --> 20:20] or anger over the injustice of some crime, because these emotions stem from a fundamental
+[20:20 --> 20:23] misrepresentation within our own heads.
+[20:23 --> 20:28] We are not assigning the proper value to those events.
+[20:28 --> 20:33] Did you act as virtuously as you could have before the sad or mad event occurred?
+[20:33 --> 20:37] If the answer is yes, then your grief and anger are groundless.
+[20:37 --> 20:41] The universe unfolds itself, and we are mere witnesses.
+[20:41 --> 20:46] It was meant to be, and there is nothing you could or should have done about it.
+[20:46 --> 20:52] If you did not act virtuously, then your passions should not be directed at the end result,
+[20:52 --> 20:56] but on your own failure to perform the most noble actions possible.
+[20:56 --> 21:04] Now, obviously, there is a tension here between fate and free will that neither Marcus nor
+[21:04 --> 21:09] his fellow Stoics was ever able to work out.
+[21:09 --> 21:11] Marcus returns often to a few basic tenets.
+[21:11 --> 21:17] The universe is one unified force, time is an illusion, all that will happen has already
+[21:17 --> 21:23] happened and will happen again, our destinies are set from birth, etc., etc.
+[21:23 --> 21:28] But on the other hand, he also dwells on the fact that we are supposed to choose to live
+[21:28 --> 21:34] virtuously and make further choices to conform our lives to the will of nature, which implies
+[21:34 --> 21:39] that we could make different choices and live at odds with the will of nature.
+[21:39 --> 21:44] But if all existence is a single, simultaneously occurring event, then where does free will
+[21:44 --> 21:45] enter the picture?
+[21:45 --> 21:51] Is that before or after everything that happens already happened?
+[21:51 --> 21:56] Turning away from philosophy to a bit of poetic metaphor, what I think Marcus is trying to
+[21:56 --> 22:02] say is that the universe is like a musical chord, and we are each individual notes.
+[22:02 --> 22:06] We can either choose to pluck ourselves in harmony with that chord, or we can plug away
+[22:06 --> 22:10] on some discordant B-flat.
+[22:10 --> 22:16] In Marcus' conception, the perfect fifth is good and the only path to true happiness.
+[22:16 --> 22:20] That errant B-flat, though, is evil.
+[22:20 --> 22:25] But philosophically, the logic of this metaphor becomes incoherent when you try to assert
+[22:25 --> 22:30] both fatalism and free will at the same time.
+[22:30 --> 22:35] That being said, there is a great deal to admire in Marcus' little nuggets of wisdom.
+[22:35 --> 22:40] Like, how much greater are the consequences of anger than the causes of it?
+[22:40 --> 22:44] Yeah, I think about that almost every day.
+[22:44 --> 22:46] Or, never let the future disturb you.
+[22:46 --> 22:51] You will meet it, if you have to, with the same weapons of reason which today arm you
+[22:51 --> 22:53] against the present.
+[22:53 --> 22:55] I take some comfort in that.
+[22:55 --> 23:00] And how about, the object in life is not to be on the side of the majority, but to escape
+[23:00 --> 23:03] finding oneself in the ranks of the insane.
+[23:03 --> 23:06] Yeah, preach on, brother.
+[23:06 --> 23:11] Or remember that there is a proper dignity and proportion to be observed in the performance
+[23:11 --> 23:13] of every act in life.
+[23:13 --> 23:18] Yes, I promise not to just mindlessly go through the motions.
+[23:18 --> 23:23] Or finally, do not act as if you are going to live 10,000 years.
+[23:23 --> 23:25] Death hangs over you.
+[23:25 --> 23:29] While you live, while it is in your power, be good.
+[23:29 --> 23:33] Okay, I'll try.
+[23:33 --> 23:38] The manuscript of the meditations, originally written in Greek for the emperor's eyes alone,
+[23:38 --> 23:42] somehow managed to get copied, and was then published at some point in the years after
+[23:42 --> 23:43] Marcus' death.
+[23:43 --> 23:48] However, I have not been able to track down exactly how this happened, so if anyone out
+[23:48 --> 23:53] there has any information on this, by all means, let me know.
+[23:53 --> 23:57] From there, if I had to speculate, I'd say that it probably wound up in the imperial
+[23:57 --> 24:02] archives, or one of the many private collections, and from there, transferred to the libraries
+[24:02 --> 24:07] of the Catholic Church, where the wisdom of Marcus was read, but more or less laid dormant
+[24:07 --> 24:12] for 1,000 years, before being picked up by Renaissance scholars who were looking to find
+[24:12 --> 24:15] truth in places other than the Bible.
+[24:15 --> 24:20] Since then, this little book of sayings has been lauded by scholars, not only for its
+[24:20 --> 24:25] insights into the human condition, but also because it is one of the first examples of
+[24:25 --> 24:29] honest, personal, philosophic reflection.
+[24:29 --> 24:34] John Stuart Mill, for example, went so far as to compare it to the Sermon on the Mount.
+[24:34 --> 24:40] Ironically, the continued publication and citation of the meditations keeps Marcus
+[24:40 --> 24:44] Aurelius as one of the most identifiable of all Roman figures.
+[24:44 --> 24:51] This, for a man who looked so disdainfully on the vainglorious quest for posthumous fame,
+[24:51 --> 24:56] and who constantly reminded himself, how many who once rose to fame are now consigned to
+[24:56 --> 25:03] oblivion, and how many who sang their fame are long disappeared.
+[25:03 --> 25:08] Next week, we'll close the book on the living Marcus Aurelius, and try to note without too
+[25:08 --> 25:14] much sarcasm that the reason why we know so much about his life and times is that, in
+[25:14 --> 25:19] a vainglorious quest for posthumous fame, he ordered a magnificent triumphal column
+[25:19 --> 25:22] built to record his exploits for all time.

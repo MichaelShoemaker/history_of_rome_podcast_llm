@@ -1,0 +1,34 @@
+FROM python:3.11-slim
+
+# Set working directory
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy requirements first for better caching
+COPY requirements-flask.txt .
+
+# Install Python dependencies
+RUN pip install --no-cache-dir -r requirements-flask.txt
+
+# Copy application code
+COPY app.py .
+COPY rag_service.py .
+COPY utils.py .
+COPY templates/ ./templates/
+COPY static/ ./static/
+
+# Set environment variables
+ENV PYTHONUNBUFFERED=1
+ENV FLASK_APP=app.py
+ENV FLASK_RUN_HOST=0.0.0.0
+ENV FLASK_RUN_PORT=5000
+
+# Expose port
+EXPOSE 5000
+
+# Default command
+CMD ["python", "app.py"]

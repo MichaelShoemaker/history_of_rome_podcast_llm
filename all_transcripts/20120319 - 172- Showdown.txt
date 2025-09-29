@@ -1,0 +1,328 @@
+# 20120319 - 172- Showdown
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, episode 172, Showdown.
+[00:16 --> 00:21] So last week, we left off in 450 AD with two imperial marriages.
+[00:22 --> 00:28] The first in the east between Flavius Marcionis and Elia Pulcheria that saw the man we call
+[00:28 --> 00:31] Marcion elevated to the rank of Augustus.
+[00:31 --> 00:37] The second, in the west, was between Honoria and the senator Bossus Herculanus which saw
+[00:37 --> 00:40] the western empire brought to the brink of ruin.
+[00:41 --> 00:43] But just to the brink of ruin.
+[00:44 --> 00:50] As we will see today, whatever criticisms and judgments you want to lob at Aetius for
+[00:50 --> 00:55] being a conniving backstabber or for letting North Africa slip away and hardly lifting
+[00:55 --> 01:01] a finger, they must be offset at a minimum by his handling of the invasion of Attila
+[01:01 --> 01:01] the Hun.
+[01:03 --> 01:09] Aetius, of course, had many positive qualities that already offset those negatives, but even
+[01:09 --> 01:13] if he didn't, I think the way he managed to hold the line against Attila is enough
+[01:13 --> 01:15] to balance any scale.
+[01:16 --> 01:21] Aetius was at his best when the chips were down, and he would be at his absolute best
+[01:21 --> 01:25] in 451 when it came time to face Attila in battle.
+[01:26 --> 01:30] The western empire was falling, but not yet.
+[01:31 --> 01:33] Aetius is a big reason why.
+[01:36 --> 01:41] So as I alluded at the end of the last episode, in 450 AD the court of Valentinian III had
+[01:41 --> 01:46] a problem, namely the emperor's older sister Honoria.
+[01:47 --> 01:52] Unlike the imperial ladies of the court in Constantinople, who had all taken vows of
+[01:52 --> 01:56] chastity, a vow, by the way, that Marcion had been forced to respect when he married
+[01:56 --> 02:01] Elia Pulcheria, Honoria wanted a bit more out of life.
+[02:02 --> 02:07] She thus gained a reputation for herself, not unlike the reputation gained once upon
+[02:07 --> 02:10] a time by the Julius, elder and younger.
+[02:11 --> 02:17] Honoria managed to remain unmarried for quite a while, but finally her scandals mounted
+[02:17 --> 02:23] up and her mother Gallop Placidia prepared to marry her off to the aforementioned Herculonus,
+[02:23 --> 02:27] whose sole redeeming quality was an utter lack of ambition.
+[02:29 --> 02:34] After all, whoever married the sister of the emperor stood a fairly decent chance of becoming
+[02:34 --> 02:35] emperor himself one day.
+[02:36 --> 02:37] Just look at Marcion.
+[02:39 --> 02:45] Herculonus was dull and predictable, qualities prized by Gallop Placidia and despised by
+[02:45 --> 02:45] Honoria.
+[02:47 --> 02:52] So the story goes, in a dramatic fit, she sent a messenger to find the great Attila
+[02:52 --> 02:54] the Hun and ask him for help.
+[02:55 --> 02:59] Enclosed with her note begging to be rescued from the prospect of a boring life with a
+[02:59 --> 03:05] boring man was one of Honoria's rings, which she perhaps meant to be no more than proof
+[03:05 --> 03:11] that the note was indeed from the emperor's sister, but which Attila took to be a wedding
+[03:11 --> 03:11] proposal.
+[03:12 --> 03:15] At least, that's the way the story goes.
+[03:16 --> 03:22] Now, whether Attila genuinely misunderstood the message, or intentionally misunderstood
+[03:22 --> 03:24] the message, is open for debate.
+[03:25 --> 03:30] Whichever it was, Attila responded by declaring himself ready to marry Honoria, and demanding
+[03:30 --> 03:34] Oh, let's say, half the Western Empire as a dowry.
+[03:35 --> 03:37] Which was, of course, completely insane.
+[03:38 --> 03:42] When the imperial court scoffed at this demand, Attila began to prepare an invasion.
+[03:43 --> 03:46] Which was, of course, also completely insane.
+[03:46 --> 03:51] Why would he mobilize his entire army just to come to the aid of some spoiled princess
+[03:51 --> 03:52] he had never met?
+[03:53 --> 03:59] And that's when we start to notice that the farther along we get, the less plausible the
+[03:59 --> 04:02] I am coming to rescue the princess story gets.
+[04:03 --> 04:07] Especially since, as those of you who are reading ahead know, Attila doesn't invade
+[04:07 --> 04:09] Italy after receiving the note from Honoria.
+[04:10 --> 04:14] No, he skirts the Alps and invades Gaul.
+[04:15 --> 04:21] Honoria's plea may have made for a convenient pretext, but clearly it wasn't anything more
+[04:21 --> 04:21] than a pretext.
+[04:22 --> 04:28] His demand for half the empire as a dowry was only serious in that the inevitable Roman
+[04:28 --> 04:31] rejection of the offer gave him a further pretext.
+[04:31 --> 04:36] I mean, hey, I've just been insulted, I have to go teach the swine a lesson.
+[04:36 --> 04:38] You know, that sort of thing.
+[04:40 --> 04:41] So what gives?
+[04:41 --> 04:44] Why was Attila suddenly of the mind to invade the West?
+[04:45 --> 04:50] As we discussed last week, the West was both poorer in wealth and friendlier to the Huns
+[04:50 --> 04:51] in disposition.
+[04:52 --> 04:59] The answer likely lies, first of all, in that general drive to expand that seems to grip
+[04:59 --> 05:00] any great power.
+[05:01 --> 05:06] Once you think you're invincible, it follows that the world should be yours.
+[05:07 --> 05:12] Rich, poor, friend, foe, all should bow before you.
+[05:12 --> 05:18] So it was expansion, for expansion's sake, the manifest destiny of irresistible power.
+[05:20 --> 05:25] Second, was a political hole that had just opened up in Gaul at that moment.
+[05:26 --> 05:31] The Frankish King Claudio, the one who had been beaten by Aetius a couple years before,
+[05:31 --> 05:37] keeled over dead in 450, and the question of succession to the Frankish throne was suddenly
+[05:37 --> 05:38] opened up.
+[05:39 --> 05:44] Aetius and the Romans backed Claudio's younger son, the one Aetius had taken hostage, and
+[05:44 --> 05:50] the one Aetius had then subsequently adopted as his own son following Claudio's death.
+[05:51 --> 05:56] Attila, on the other hand, backed Claudio's elder son to fill the vacancy, obviously hoping
+[05:56 --> 06:00] to peel the Franks away from the Romans and draw them in to the Hun hegemony.
+[06:01 --> 06:08] For the first time, ever really, Aetius and Attila were on opposing sides of an issue.
+[06:09 --> 06:14] Aetius wanted his new adopted son in power to ensure that the Franks remained staunch
+[06:14 --> 06:20] allies, and Attila was prepared to back with arms the claim of the elder son, who was
+[06:20 --> 06:24] promising to look east to the Huns rather than south to the Romans.
+[06:25 --> 06:29] Neither Aetius nor Attila would back down.
+[06:32 --> 06:37] But the question of Frankish succession was not the only political front Attila was working
+[06:37 --> 06:37] in the West.
+[06:38 --> 06:43] He was apparently running some kind of multi-pronged offensive to split everyone from everyone
+[06:43 --> 06:49] else, probably hoping to create enough chaos that he could just waltz in to Gaul unopposed.
+[06:50 --> 06:55] He sent envoys to Aetius asking for an alliance because, he announced, he was planning to
+[06:55 --> 07:00] attack the Goths in Aquitaine, who, after all, have been nothing but a thorn in your
+[07:00 --> 07:01] side for years.
+[07:02 --> 07:07] Who would you rather team up with, some untrustworthy Goths squatting on your land, or the mighty
+[07:07 --> 07:10] Huns who have always been there when you needed us?
+[07:11 --> 07:16] But at the same time, Attila was sending envoys to the Goths, essentially making the same
+[07:16 --> 07:17] argument in reverse.
+[07:18 --> 07:21] Hey, let's team up and drive the Romans out of Gaul once and for all.
+[07:22 --> 07:26] You don't like them any more than we do, and together we can be rid of them.
+[07:27 --> 07:32] Meanwhile, he was sending a mix of threats and overtures to the Franks, trying to leverage
+[07:32 --> 07:33] them into the Hun camp.
+[07:35 --> 07:41] Though this all seems very confusing, and it makes it very difficult to discern Attila's
+[07:41 --> 07:44] true motives, I think the strategy could not be clearer.
+[07:45 --> 07:50] So discontent amongst the armed forces of the West, so that they are unable to form
+[07:50 --> 07:52] a coalition against the advancing Huns.
+[07:53 --> 07:56] And in early 451, the Huns began to advance.
+[07:59 --> 08:05] Aetius, currently down in Italy, recognized the need for a coalition as clearly as Attila
+[08:05 --> 08:08] recognized the need to prevent one from forming.
+[08:09 --> 08:13] The bottom line was that if the armed peoples of Gaul did not band together to face this
+[08:13 --> 08:16] mutual enemy, they were all going to be destroyed.
+[08:18 --> 08:23] So with Attila sending out his contradictory envoys to everyone, Aetius sent out envoys
+[08:23 --> 08:24] of his own.
+[08:24 --> 08:28] It simply said, don't be stupid, the Romans are not your enemy.
+[08:28 --> 08:30] The Huns are all our enemy.
+[08:32 --> 08:36] But with a mix of mixed messages floating around, it was hard to know who was really
+[08:36 --> 08:41] your friend, who was really your foe, and who was strong enough to make it all irrelevant,
+[08:42 --> 08:46] and so shouldn't we just join that side and hope for the best deal when the fighting stops.
+[08:49 --> 08:54] Unfortunately for everyone in Gaul, the seeds of discord sown by Attila were in full bloom
+[08:54 --> 08:58] by the spring of 451 when the Huns crossed the Rhine River.
+[09:00 --> 09:04] A source material for the subsequent campaign is sketchy at best, so it's difficult to
+[09:04 --> 09:09] discern exactly what Attila did to who and when he did it.
+[09:09 --> 09:14] Everyone has him entering Roman territory along the middle Rhine, but then it gets a
+[09:14 --> 09:15] little muddled.
+[09:16 --> 09:21] Did the Huns really besiege and sack every major city on their way to Orleans?
+[09:22 --> 09:25] Mainz, Trier, Cologne, all sacked?
+[09:26 --> 09:31] Maybe, and I wouldn't put it past them after the work they had done in Moesia and Thrace
+[09:31 --> 09:32] just a few years before.
+[09:33 --> 09:35] But like I say, it's not at all clear.
+[09:36 --> 09:42] We can tentatively place Attila in Metz, in northwest Gaul on April the 7th, and just
+[09:43 --> 09:47] I've thrown some maps up on the website to help you work through all of this.
+[09:48 --> 09:53] And then supposition and guesswork gets him to Orleans in the middle of June.
+[09:54 --> 10:00] Sources mention the old imperial capital of Trier being sacked along the way, and an old
+[10:00 --> 10:05] legend has a detachment of Huns arriving at the gates of Paris, only to be turned back
+[10:05 --> 10:12] by a devout Christian woman named Genevieve, or more properly, Genevieve, who led the inhabitants
+[10:12 --> 10:15] of the city in a sort of prayer marathon.
+[10:16 --> 10:21] When the Huns then retreated unexpectedly without so much as firing a shot, everyone
+[10:21 --> 10:22] called it a miracle.
+[10:23 --> 10:29] And so Genevieve became Saint Genevieve, the patron saint of Paris, or if you prefer,
+[10:30 --> 10:32] Jean Vievre, the patron saint of Pely.
+[10:35 --> 10:41] Whatever the route and whatever the damage done by the Huns, by mid-June they had arrived
+[10:41 --> 10:42] at Orléans.
+[10:43 --> 10:49] Orléans was the home of a considerable garrison of Alans, technically allies of Rome, but
+[10:49 --> 10:54] who knows at this point, because word on the street is that the king of the Alans has made
+[10:54 --> 10:57] a side deal with Attila to open the gates to the invaders.
+[10:59 --> 11:04] When Attila arrived and the inhabitants of the city learned of the deal, they cried massive
+[11:04 --> 11:06] foul and shut the gates themselves.
+[11:08 --> 11:13] I can't find any explanation for how the citizens of Orléans managed to fend off the
+[11:13 --> 11:18] Alans garrison and keep the gates shut for as long as they did, but apparently they managed
+[11:18 --> 11:22] to hold out just long enough to prevent the city from being taken.
+[11:26 --> 11:36] There was a light at the end of the tunnel for the people of Orléans because after two
+[11:36 --> 11:41] The forces he had been able to muster from amongst the regular Roman army were not nearly
+[11:41 --> 11:44] enough for him to take on the Huns all by himself.
+[11:44 --> 11:49] So as I just said, the general had been working furiously to convince every barbarian nation
+[11:49 --> 11:54] in Gaul, large and small, to join him in an anti-Hun confederation.
+[11:56 --> 12:03] Initially, the reception to Aetius's plea was muted at best, but it soon became apparent
+[12:03 --> 12:08] that as the Goths went, so too would go the rest of the inhabitants of Gaul.
+[12:09 --> 12:15] Basically, if Aetius could get the Goths to come fight, then everyone else, Franks, Burgundians,
+[12:15 --> 12:17] Alans, whoever, would join the fun.
+[12:18 --> 12:22] But convincing the Goths was proving to be no easy task.
+[12:25 --> 12:30] The Gothic king, as you'll recall, still Theodoric after all these years, was unimpressed
+[12:30 --> 12:35] with Aetius's army when the general came knocking in the late spring of 451.
+[12:36 --> 12:41] There were simply not enough Roman soldiers to make a direct assault on the Huns, even
+[12:41 --> 12:45] with Goth reinforcements, anything but an incredibly risky bet.
+[12:48 --> 12:50] Theodoric was not blind to the threat posed by the Huns.
+[12:51 --> 12:54] He just took a hard look at the situation and determined that it would be better for
+[12:54 --> 13:00] his people to hole up in their own territory, bunch their forces together, and make a stand
+[13:00 --> 13:02] at a time and place of their own choosing.
+[13:05 --> 13:10] But Aetius was not going to take no for an answer, so he dispatched the hugely influential
+[13:10 --> 13:15] Gallo-Roman senator Avetus to talk to Theodoric and bring the king around.
+[13:16 --> 13:20] Avetus, you'll remember, was the one who had brokered the peace between the Romans
+[13:20 --> 13:27] and Goths back in 439, and who would, in just a few years, find himself elevated to the
+[13:27 --> 13:32] after the death of Valentinian III broke the imperial court wide open.
+[13:34 --> 13:39] Avetus had a close relationship with Theodoric, and after much cajoling, he was able to drag
+[13:39 --> 13:43] the Goths out of Aquitaine and into the field under Aetius's banner.
+[13:44 --> 13:49] With the Goths on board, other barbarian groups broke the Roman way, and by the time Attila
+[13:49 --> 13:55] arrived at Orléans, Aetius was leading a confederated army to relieve the city and
+[13:55 --> 13:57] hopefully drive Attila out of the west.
+[14:02 --> 14:06] Aetius arrived at the besieged city around June 15, just in time to save the beleaguered
+[14:06 --> 14:07] inhabitants.
+[14:08 --> 14:13] Attila had breached a portion of the wall and had already established a beachhead within
+[14:13 --> 14:17] the city when the news came that a massive Roman army was approaching.
+[14:19 --> 14:25] Unfortunately, we don't really have any idea just how big this army was, nor do we
+[14:25 --> 14:29] have any real idea how big Attila's army was, and it really doesn't help that all
+[14:29 --> 14:36] we have to go on are insanely inflated reports like Attila was leading an army 500,000 strong.
+[14:38 --> 14:43] Most of what I've read puts the opposing side somewhere between 50,000 and 75,000 men
+[14:43 --> 14:48] apiece, which sounds much closer to the truth, and which still makes the coming showdown
+[14:48 --> 14:51] one of the largest battles in late antiquity.
+[14:52 --> 14:58] The forces arrayed at the Battle of Adrianople, for example, were at most 25,000 to 30,000
+[14:58 --> 15:03] aside, with the minimum thought to be maybe just 15,000 apiece.
+[15:04 --> 15:09] So while we are not about to see a million men squaring off against each other in battle,
+[15:09 --> 15:16] we are talking about maybe 100,000 to 150,000, which is pretty enormous, especially given
+[15:16 --> 15:17] the age.
+[15:19 --> 15:24] Caught in the middle of a siege operation, Attila decided to withdraw and regroup rather
+[15:24 --> 15:26] than immediately turn to fight Aetius.
+[15:27 --> 15:32] The Roman confederation trailed the Huns east for an indeterminate number of days until
+[15:32 --> 15:37] Attila landed on a spot he thought would be favorable ground for a battle, the Catalonian
+[15:37 --> 15:38] Fields.
+[15:39 --> 15:44] Though the site of the battle has never been firmly identified, it was somewhere in the
+[15:44 --> 15:46] Champagne-Ardennes region.
+[15:48 --> 15:53] The two armies lined up in late June and proceeded to launch a full-scale assault on one another
+[15:53 --> 15:55] with no quarter asked or given.
+[15:57 --> 16:02] The details of the battle are just as confusing about every other detail of the Hun invasion
+[16:02 --> 16:03] of 451.
+[16:04 --> 16:10] A principal source for all this is a 6th century Byzantine historian named Jordanus, who was
+[16:10 --> 16:16] by his own admission summarizing the work of an earlier 6th century Italian historian
+[16:16 --> 16:17] named Cassiodorus.
+[16:18 --> 16:21] So no one anywhere near the actual battle itself.
+[16:23 --> 16:30] Jordanus says that, quote, the battlefield was a plain rising by a sharp slope which
+[16:30 --> 16:31] both armies sought to gain.
+[16:32 --> 16:38] The Huns, with their forces, seized the right side, the Romans, Visigoths, and their allies
+[16:38 --> 16:38] on the left.
+[16:39 --> 16:44] The battle line of the Huns was so arranged that Attila and his bravest followers were
+[16:44 --> 16:45] in the center.
+[16:47 --> 16:51] He then goes on to describe how this ridge line became the center of the fighting.
+[16:51 --> 16:54] Except, I'm kind of having a hard time picturing it.
+[16:55 --> 17:00] Was the ridge line in between the two armies running parallel to their front lines, or
+[17:00 --> 17:05] was it off to one side running perpendicular so that only a wing of each side was involved
+[17:05 --> 17:07] in the fighting to take the high ground?
+[17:08 --> 17:11] And frankly, left and right of what?
+[17:12 --> 17:14] Can a brother get some cardinal points?
+[17:15 --> 17:19] If anyone can help straighten this out for me, it would be very much appreciated.
+[17:20 --> 17:25] I've got another map up that looks like the elusive ridge line was off to one side, but
+[17:25 --> 17:26] I don't really know.
+[17:27 --> 17:30] And frankly, I'm not sure Jordanus does either.
+[17:31 --> 17:38] Anyway, the story then goes that the Roman-Goth forces reached the high ground first and managed
+[17:38 --> 17:40] to repel all Hun attempts to take it.
+[17:41 --> 17:46] The Goths, who were working on the right, then managed to break through and send the
+[17:46 --> 17:48] Hun left into an unexpected retreat.
+[17:50 --> 17:56] As great as this punch through was though, it came at a heavy price to the Goths as Theodoric
+[17:56 --> 17:57] was killed in the midst of the final push.
+[17:59 --> 18:02] But the loss of the king was a small price to pay.
+[18:02 --> 18:05] The Huns had tasted defeat and were now on the run.
+[18:07 --> 18:12] The Roman-Goth-Etol confederation had beaten the invincible Huns.
+[18:15 --> 18:18] But while this victory was sweet, it was not decisive.
+[18:19 --> 18:22] The Huns had pulled back, but they were not broken.
+[18:23 --> 18:28] Sure, Attila was pretty despondent in that night in the fortified Hun camp, going so
+[18:28 --> 18:33] far as to begin construction of his own funeral pyre out of shame, until his captains pointed
+[18:33 --> 18:39] out that the Hun army was still mostly intact, their loss is manageable, and the Romans only
+[18:39 --> 18:40] marginally better off.
+[18:41 --> 18:46] The battle of the Catalonian fields was a setback, but it wasn't the end of anything.
+[18:47 --> 18:48] So buck up, Attila.
+[18:48 --> 18:49] There you go.
+[18:49 --> 18:51] Why don't you have some nice blood wine?
+[18:52 --> 18:53] We have some 23.09.
+[18:54 --> 18:55] Best in the empire.
+[18:57 --> 19:02] Attila was fully recovered by the next day, and as his captains promised, the defeat was
+[19:02 --> 19:03] merely a setback.
+[19:05 --> 19:11] But that said, the aura of Hun invincibility had definitely been shattered, both among
+[19:11 --> 19:13] the Romans and the Huns themselves.
+[19:17 --> 19:21] For the next few days, the two armies stared each other down and waited for the other to
+[19:21 --> 19:21] make a move.
+[19:23 --> 19:26] Finally, Attila decided that it just wasn't worth it.
+[19:26 --> 19:29] His supply lines were drawn out like crazy.
+[19:29 --> 19:34] Feeding his people was a major concern, and with Aetius riding high and breathing down
+[19:34 --> 19:39] his neck, the Huns weren't going to be able to scatter and forge the way they needed to
+[19:39 --> 19:40] to keep up the campaign.
+[19:41 --> 19:45] So Attila began a slow retreat out of Gaul.
+[19:45 --> 19:50] As soon as the Huns began to move east, the ties that had bound Aetius' confederation
+[19:50 --> 19:52] began to fray.
+[19:53 --> 19:59] The Goths were now minus one king, and Theodoric's son Thorismund asked Aetius if his people
+[19:59 --> 20:02] could return to their homes and settle the question of succession.
+[20:03 --> 20:08] Aetius was of course nervous about such a huge chunk of his army breaking off, but I've
+[20:08 --> 20:14] also seen it hinted that he actively encouraged Thorismund to head home, because that way
+[20:14 --> 20:19] Aetius wouldn't have to share the extensive spoils captured from the Huns.
+[20:23 --> 20:28] Though the Roman army was now far weaker, the Huns made no move to retake the offensive,
+[20:29 --> 20:34] and for his part, Aetius was not crazy enough to make any move that might rile up the Huns
+[20:34 --> 20:36] as long as they kept moving east.
+[20:38 --> 20:43] The retreat was not a pretty one for the people inhabiting the lands Attila passed through,
+[20:43 --> 20:46] but there was little Aetius could do about that.
+[20:46 --> 20:51] And even if he could have, he might still have been fine with the Huns blowing off some
+[20:51 --> 20:51] steam.
+[20:52 --> 20:54] After all, he had to keep his eye on the ball.
+[20:55 --> 20:57] The Huns were leaving.
+[20:57 --> 20:59] Don't screw that up.
+[21:00 --> 21:05] Because if you had presented this scenario to Aetius just a month before, that is, the
+[21:05 --> 21:11] Huns retreating and the Roman army still in one piece, he likely would have scoffed at
+[21:11 --> 21:13] your pie in the sky fantasizing.
+[21:14 --> 21:19] So though it was a slow and destructive retreat the Huns were engaged in, it was a retreat,
+[21:20 --> 21:25] and Aetius wasn't going to risk the big picture victory by trying to hurry Attila along.
+[21:27 --> 21:33] I don't know how long the withdrawal ultimately took, but I imagine the Huns were back across
+[21:33 --> 21:37] the Rhine by early fall, and back on the Hungarian plain by winter.
+[21:38 --> 21:43] I also imagine Attila spent that winter brooding and brooding and brooding.
+[21:48 --> 21:54] By the spring of 452, Attila had pretty well worked himself up into a vengeful fury, and
+[21:54 --> 21:59] was more than ready to go show the West just how not defeated the Huns really were.
+[22:00 --> 22:05] But this time, rather than swinging into Gaul, Attila drove straight for the heart of the
+[22:05 --> 22:06] Western Empire.
+[22:07 --> 22:13] The Huns crossed the Alps and poured unchecked into the Po Valley, ready for some serious
+[22:13 --> 22:13] ravaging.
+[22:16 --> 22:21] The first city they hit, of course, was Aquileia, which had so often repulsed the would-be ravagers
+[22:21 --> 22:22] of Italy.
+[22:23 --> 22:25] But as we've discussed, the Huns are different.
+[22:26 --> 22:31] The fortifications of Aquileia were crushed, and the Huns broke into the city in short
+[22:31 --> 22:31] order.
+[22:33 --> 22:39] Not content with simply sacking Aquileia, the Huns proceeded to smash and smash and
+[22:39 --> 22:43] burn and smash, until the city was reduced to its foundations.
+[22:45 --> 22:51] Really, to the point where the great fortified city was a practically unrecognizable pile
+[22:51 --> 22:52] of rubble.
+[22:53 --> 22:57] Though another city named Aquileia would eventually grow up on the site of the old
+[22:57 --> 23:02] city, for all intents and purposes, the Aquileia we've been talking about for the last few
+[23:02 --> 23:08] hundred years, as the focal point of so many invasions and defenses of Italy, is gone.
+[23:10 --> 23:14] An interesting upshot of this destruction, though, was that the inhabitants of the city
+[23:14 --> 23:20] fled into the marshes of the coastline, leading some scholars to reckon that a good chunk
+[23:20 --> 23:25] of them wound up forming a community on some islands in a lagoon, establishing the core
+[23:25 --> 23:27] of the modern city of Venice.
+[23:31 --> 23:36] The destruction of Aquileia sent shockwaves through the empire, and put the fear of God
+[23:36 --> 23:37] into Valentinian III.
+[23:38 --> 23:43] Suddenly, the swamp surrounding Ravenna no longer seemed so impenetrable.
+[23:44 --> 23:49] So the emperor and his court packed their bags as quickly as they could and fled south
+[23:49 --> 23:49] to Rome.
+[23:51 --> 23:53] The Aurelian walls were still a thing to behold.
+[23:55 --> 23:59] Maybe they would prove to be as effective as the Theodosian walls had been at protecting
+[23:59 --> 24:00] Constantinople.
+[24:02 --> 24:06] Valentinian could only hope and pray, because it didn't look like there was much else that
+[24:06 --> 24:08] was going to stop the Huns.
+[24:10 --> 24:15] With Attila on the loose in Italy, Aetius was unable to raise the same sort of sense
+[24:15 --> 24:19] of camaraderie with the barbarian nations of Gaul as he had been able to the year before
+[24:19 --> 24:21] when their homes were directly threatened.
+[24:21 --> 24:27] And so, all he had at his disposal this time were the ultimately inadequate regular Roman
+[24:27 --> 24:27] forces.
+[24:30 --> 24:36] Next week, Aetius will do his best to harass the Huns, as Attila marched from one conquest
+[24:36 --> 24:37] to the next in northern Italy.
+[24:38 --> 24:43] But though he was reduced to essentially waging a guerrilla campaign against Attila's supply
+[24:44 --> 24:49] Aetius proved himself no less capable than when he was leading mighty armies in set-piece
+[24:49 --> 24:50] battles.
+[24:52 --> 24:57] And though it was almost certainly a combination of supply issues, disease, and bribery that
+[24:57 --> 25:02] finally led to Attila's withdrawal from Italy, I would hate to draw the ire of the Catholic
+[25:02 --> 25:13] high command by not pointing most especially to the embassy of Pope Leo the Great, who

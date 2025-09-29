@@ -1,0 +1,337 @@
+# 20111031 -  157- Only the Penitent Man Shall Pass
+# Detected language: en
+# Duration: 1630.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:12] Hello, and welcome to the History of Rome, Episode 157, Only the Pentadent Man Shall
+[00:12 --> 00:16] Pass.
+[00:16 --> 00:23] In late 387 AD, the 12-year-old Emperor Valentinian II, his mother Justina, and the rest of the
+[00:23 --> 00:29] Milan court showed up in Thessalonica begging Theodosius for asylum.
+[00:29 --> 00:34] The Eastern Augustus, aware that his brother Emperor had been put to flight by the usurper
+[00:34 --> 00:39] Maximus, had traveled down to the port city in advance and received the exile court with
+[00:39 --> 00:46] open arms, promising to do everything he could to restore Valentinian to power.
+[00:46 --> 00:50] But not just out of the goodness of his heart.
+[00:50 --> 00:56] The price for Theodosius' help was the hand of Valentinian sister Gala in marriage.
+[00:56 --> 01:01] The Eastern Augustus' first wife Elia Flacilla, mother of the two future emperors Arcadius
+[01:01 --> 01:07] and Honorius, had died in 385, and Theodosius was looking for a marital alliance that would
+[01:07 --> 01:15] bind his clan to the Valentinians, forming a single, intertwined dynasty.
+[01:15 --> 01:19] The price seemed reasonable enough to the Empress Justina, and the marriage was hastily
+[01:19 --> 01:21] arranged.
+[01:21 --> 01:26] Emerging from the wedding ceremony as a single political unit, the Theodosian Valentinian
+[01:26 --> 01:32] dynasty then prepared for war.
+[01:32 --> 01:37] Maximus had timed his attack on Italy perfectly, waiting until the last minute before winter
+[01:37 --> 01:39] sent in to pounce.
+[01:39 --> 01:43] By the time Theodosius learned of the attack, it was too late in the year for the Eastern
+[01:43 --> 01:46] Augustus to do anything about it.
+[01:46 --> 01:50] He would have to wait until spring, which meant that Maximus had bought himself six
+[01:50 --> 01:56] months to get his house in order and ready his troops for an inevitable counterattack.
+[01:56 --> 02:01] The general had already laid the groundwork for defending Italy during his initial invasion,
+[02:01 --> 02:05] as it is assumed that bribery and induced defections had been the main reason he had
+[02:05 --> 02:09] penetrated the Alpine passes so easily.
+[02:09 --> 02:14] When these Italian forces were combined with his Gallic legions, Maximus' army was, at
+[02:14 --> 02:21] least on paper, equal to just about anything Theodosius would be able to put in the field.
+[02:21 --> 02:25] After all, we are still just a few years removed from the devastating Gothic War.
+[02:25 --> 02:33] It's not like the legions of the Middle Empire had a lot of men to spare for a civil war.
+[02:33 --> 02:36] But Theodosius had been laying some groundwork of his own.
+[02:36 --> 02:41] We saw last week how the peace treaty with the Sassanids freed up at least some Syrian
+[02:41 --> 02:43] border troops for the campaign.
+[02:43 --> 02:48] But the Eastern Augustus' main source of recruits for the coming civil war would actually
+[02:48 --> 02:54] come from the ranks of the very barbarians he had spent his first few years in office fighting.
+[02:54 --> 03:02] In these turbulent times, alliances were formed, broken, and reformed with dizzying speed.
+[03:02 --> 03:07] Theodosius had not stopped working after successfully bringing an end to the Gothic War with a combination
+[03:07 --> 03:13] of attrition and diplomacy, and throughout the mid-380s he continued to focus his attention
+[03:13 --> 03:18] on winning over as many barbarians as he possibly could to his side.
+[03:18 --> 03:20] And that did not just mean Goths.
+[03:20 --> 03:26] That meant factions of Huns and Alans from beyond the Danube frontier who were more than
+[03:26 --> 03:34] willing to sell their cavalries into imperial service, if the price was right.
+[03:34 --> 03:39] Nothing about the armed conflicts of late antiquity make them easy to paint in stark
+[03:39 --> 03:41] black and white terms.
+[03:41 --> 03:46] And the war that is about to break out between Theodosius and Maximus is a great example
+[03:46 --> 03:50] of why it's so hard.
+[03:50 --> 03:55] Theodosius' top field generals, Ricomeres, the general who would come east at the outset
+[03:55 --> 04:01] of the Gothic War, and Ricomeres' nephew, Arbogast, were both ethnic Franks from the
+[04:01 --> 04:03] lower Rhine.
+[04:03 --> 04:08] They would be leading a mixed band of Roman legionaries drawn from the Danube provinces,
+[04:08 --> 04:12] ethnic auxiliaries called up according to the terms of their settlement agreement, and
+[04:12 --> 04:19] Hun and Alans mercenaries who were paid to serve as Theodosius' cavalry arm.
+[04:19 --> 04:24] They would be fighting against Maximus, who hailed from the same region of Spain as Theodosius,
+[04:24 --> 04:29] but whose army consisted mostly of Gallic legionaries, who were basically just ethnic
+[04:29 --> 04:35] Germans living on the west side of the Rhine, and Alamani auxiliaries, who answered Maximus's
+[04:35 --> 04:40] call to arms after years of friendly patronage from the general.
+[04:40 --> 04:46] In other words, when looked at from a few miles up, this Roman Civil War resembles nothing
+[04:46 --> 04:51] so much as a giant squabble between rival barbarian tribes.
+[04:51 --> 04:57] Take out Maximus and Theodosius, and really, how many Romans in this Roman Civil War are
+[04:57 --> 04:58] left?
+[04:58 --> 05:03] Not many, I can tell you that.
+[05:03 --> 05:07] When spring came, Theodosius went on the offensive and ordered a two-pronged assault on the Italian
+[05:07 --> 05:10] peninsula.
+[05:10 --> 05:14] Ground forces would march west through the Alps, while a naval force would simultaneously
+[05:14 --> 05:18] sail up the Adriatic and attack by sea.
+[05:18 --> 05:25] Maximus, using Aquileia as his base of operations, worked quickly to counter both threats, pulling
+[05:25 --> 05:29] a force down to deal with the naval invasion, while directing the bulk of his forces to
+[05:29 --> 05:32] block up the mountain passes.
+[05:32 --> 05:37] But unfortunately for Maximus, the winter had worked both ways, and he too had been
+[05:37 --> 05:41] forced to wait until spring to make many of these moves.
+[05:41 --> 05:48] So when an advance guard of his army occupied the small city of Siskia in what is now Slovenia,
+[05:48 --> 05:52] they were unable to complete the defensive fortifications necessary to hold Theodosius
+[05:52 --> 05:55] off.
+[05:55 --> 05:59] With the lightning-fast Hun cavalry leading the way, Theodosius's land army made contact
+[05:59 --> 06:05] with Maximus's forces at Siskia and easily ran them off.
+[06:05 --> 06:08] But this was just the opening skirmish.
+[06:08 --> 06:14] The real test would come a hundred miles to the north, in the fortified city of Poetovio,
+[06:14 --> 06:20] where Maximus's main army, led in person by his brother, was stationed.
+[06:20 --> 06:25] Details are scarce, but it appears the two sides met in battle in mid-summer 388, and
+[06:25 --> 06:34] then after an intensely fought back and forth battle, Theodosius emerged victorious.
+[06:34 --> 06:38] With his armies guarding the mountains defeated, and his southern flank failing in the face
+[06:38 --> 06:43] of the naval assault, Maximus called for reinforcements from the north, and then fled back to Aquileia
+[06:43 --> 06:45] to await relief.
+[06:45 --> 06:50] But with Theodosius's forces breathing down Italy's neck, the powers that be in Aquileia
+[06:50 --> 06:55] decided that standing behind Maximus was suicide, whereas handing him over likely meant
+[06:55 --> 07:00] they would escape all this with their heads intact, so they thought it over for roughly
+[07:00 --> 07:05] two nanoseconds and put Maximus in chains.
+[07:05 --> 07:11] When Theodosius's forces arrived, Maximus was handed over, and on August 28, 388 AD,
+[07:11 --> 07:13] General was beheaded.
+[07:13 --> 07:18] I'll never quite be sure what his official title was, but he did rule the western provinces
+[07:18 --> 07:22] for five years, and by all accounts did a pretty good job.
+[07:22 --> 07:27] And now he's dead, so there you go.
+[07:27 --> 07:32] With Maximus dead, Theodosius entered Milan unopposed, and then called on Valentinian
+[07:32 --> 07:36] and the rest of his exile court to return.
+[07:36 --> 07:42] The war over, securing the peace was now the main task confronting the victorious Theodosius,
+[07:42 --> 07:47] and as in his dealings with the Goths, the eastern Augustus demonstrated that he found
+[07:47 --> 07:55] clemency and forgiveness far superior tools to work with than hostility and revenge.
+[07:55 --> 08:00] Almost no punitive action was taken against the men who had sided with Maximus, and even
+[08:00 --> 08:05] within the General's own family, only his eldest son, who had been named Maximus's
+[08:05 --> 08:11] official co-ruler and successor, paid the ultimate price for the General's transgressions.
+[08:11 --> 08:15] His wife and daughters were allowed to live out their lives in peace, with their security
+[08:16 --> 08:18] guaranteed.
+[08:18 --> 08:24] As Julius Caesar had shown so many years before, this sort of habitual blanket clemency can
+[08:24 --> 08:29] sometimes come back to bite you, but Theodosius likely felt like the alternative would have
+[08:29 --> 08:31] been far worse.
+[08:31 --> 08:36] It's not like Maximus had been unpopular with either the people or the military.
+[08:36 --> 08:41] Going after his supporters would have meant, well, going after everyone really.
+[08:41 --> 08:47] Better to risk some reignited revolt later on than guarantee one now, by coming down
+[08:47 --> 08:50] too harshly.
+[08:50 --> 08:55] Aside from the people and the soldiers of the west, there was one other major player
+[08:55 --> 08:58] that Theodosius was keen to placate.
+[08:58 --> 09:02] The Bishop of Milan.
+[09:02 --> 09:06] Ambrose had stayed behind when the imperial court had abandoned the Italian capital to
+[09:07 --> 09:12] and his steadfast refusal to be pushed around had elevated his popularity, and he was already
+[09:12 --> 09:16] pretty popular, into the stratosphere.
+[09:16 --> 09:20] Not that staying took some immense amount of courage or anything.
+[09:20 --> 09:25] If Ambrose felt he had a thing to fear from the devoutly Nicene Maximus, he probably would
+[09:25 --> 09:27] have hightailed it out of there.
+[09:27 --> 09:32] But he didn't, and so he didn't.
+[09:32 --> 09:36] Theodosius understood that the road to a secure western empire went right through the Bishop's
+[09:36 --> 09:41] church, and so he reached out to Ambrose in an attempt to bring the influential clergyman
+[09:41 --> 09:43] over to his side.
+[09:43 --> 09:48] But Theodosius was about to discover that Ambrose was the kind of man who, while willing
+[09:48 --> 09:53] to make deals, was only willing to make them on his own terms.
+[09:53 --> 09:58] Thoroughly empowered and not at all impressed by imperial displays of power, Ambrose had
+[09:58 --> 10:02] no intention of compromising with Theodosius on anything.
+[10:02 --> 10:08] The emperor was going to have to come to him.
+[10:08 --> 10:13] Theodosius caught his first whiff of Ambrose's willingness to go head to head with an imperial
+[10:13 --> 10:18] court when news came that far in the east some fanatical monks had talked themselves
+[10:18 --> 10:24] up into a righteous fury and then decided to go take that fury out on an ancient Jewish
+[10:24 --> 10:25] synagogue.
+[10:25 --> 10:31] Theodosius, you'll recall, usually reserved his own religious fanaticism for intra-Christian
+[10:31 --> 10:37] conflicts and skewed tolerant when other religions were involved.
+[10:37 --> 10:41] When he learned of the monks' crime, the emperor ordered them to pay to have the synagogue
+[10:41 --> 10:42] rebuilt.
+[10:42 --> 10:46] It seemed like this was a routine bit of law and order.
+[10:46 --> 10:51] Private property had been destroyed, everyone knew who had done it, and so the vandals,
+[10:51 --> 10:55] not that we can really call them that yet, ought to pay for the repairs.
+[10:55 --> 10:58] Okay, what's next?
+[10:58 --> 11:03] So Theodosius was shocked when Ambrose took to his pulpit and denounced the emperor's
+[11:03 --> 11:07] decision in extremely harsh language.
+[11:07 --> 11:13] Taken aback by the assault, the emperor modified his decision, ordering the whole civic community
+[11:13 --> 11:19] in question to help rebuild the synagogue rather than focusing solely on the monks.
+[11:19 --> 11:25] But Ambrose continued to take offense, asking his congregation why a single public dollar
+[11:25 --> 11:32] should go toward building a temple for sacrilegious Jews, and then asking further, hey, you know,
+[11:32 --> 11:35] why aren't we giving that money to the monks as a reward for the good work that they've
+[11:35 --> 11:39] done?
+[11:39 --> 11:43] Theodosius was shocked by the bishop's demagoguing on the issue, but with the people of Milan
+[11:43 --> 11:48] raised up now into a mighty rabble, the emperor decided to just cut bait.
+[11:48 --> 11:52] The order to rebuild the synagogue was quietly dropped.
+[11:52 --> 12:02] Ambrose had once again stared down the imperial court and won, but his best was still to come.
+[12:02 --> 12:07] Despite the shock that Ambrose had just fired across his bow, Theodosius was not ready to
+[12:07 --> 12:12] become an anti-all-other-religions kind of Christian just yet.
+[12:12 --> 12:17] In June of 389, he traveled down to Rome to secure the support of the old Roman Senate,
+[12:17 --> 12:21] and flashing around a bunch of extremist Christian rhetoric wasn't going to get him anywhere.
+[12:21 --> 12:28] Instead, he engaged in a very low-key charm offensive designed to set the senators' minds
+[12:28 --> 12:30] at ease.
+[12:30 --> 12:35] While in the city, he made a habit of dropping the most ostentatious bits of his imperial
+[12:35 --> 12:41] regalia and leave behind his military escorts when he called on senators at their homes.
+[12:41 --> 12:46] For a brief moment there, Theodosius seemed to return to the princeps model and presented
+[12:46 --> 12:53] himself as a man, a leader, and an honorable soldier, rather than a warlord and a living
+[12:53 --> 12:55] god.
+[12:55 --> 13:00] The charm offensive did the trick, and the Senate fell over itself praising Theodosius
+[13:00 --> 13:03] and promising their complete support.
+[13:03 --> 13:08] The emperor's reasonable front was so comforting that the great senator Samakis even took the
+[13:08 --> 13:14] opportunity to ask that the sacred altar of victory be restored, but that went a little
+[13:15 --> 13:23] too far, and Theodosius firmly, though politely, refused.
+[13:23 --> 13:27] These happy times would not last, however, as events were about to overtake them all,
+[13:27 --> 13:33] giving Ambrose the leverage he needed to really bend the emperor over the cross.
+[13:33 --> 13:38] The bishop had been chafing a little bit since Theodosius' arrival in Italy, because while
+[13:38 --> 13:42] the emperor clearly desired an alliance with the Church of Milan, he was not proving nearly
+[13:42 --> 13:46] as pliable as Gratian or Valentinian II.
+[13:46 --> 13:50] The young emperors had been more than willing to bring Ambrose in on their inner-circle
+[13:50 --> 13:56] discussions of policy, making the bishop practically a minister of state.
+[13:56 --> 14:01] But Theodosius had his own inner-circle of advisors, and ever since the defeat of Maximus,
+[14:01 --> 14:06] Ambrose had found himself on the outside looking in, hence the need to take to the pulpit on
+[14:06 --> 14:13] the synagogue question rather than just saying in a meeting, no, we won't be doing that.
+[14:13 --> 14:19] Sure, he had spies all over Theodosius' court and was kept fully briefed on what was going
+[14:19 --> 14:24] on, but he had lost the direct power he had enjoyed for the last decade.
+[14:24 --> 14:28] The bishop didn't want to simply be an ally of the imperial court.
+[14:28 --> 14:34] He wanted to be indistinguishable from it, and so what he needed was a way to drive himself
+[14:34 --> 14:38] back into the center of the action.
+[14:38 --> 14:44] In 390, Theodosius' temper got the better of him, and Ambrose immediately recognized
+[14:44 --> 14:50] the resulting PR debacle as the opportunity he had been looking for.
+[14:50 --> 14:56] The citizens of the key port city of Thessalonica, like most of the citizens of the empire, loved
+[14:56 --> 14:58] chariot racing.
+[14:58 --> 15:02] And I mean loved chariot racing.
+[15:02 --> 15:07] I'm not sure there is any modern sport, football included, that quite touches the salivating
+[15:07 --> 15:13] obsession exhibited by chariot racing fans in late antiquity.
+[15:13 --> 15:17] Part of it was because racing was essentially the only sport going.
+[15:17 --> 15:21] They didn't have dozens of options to choose from, so if you were the type of person who
+[15:21 --> 15:27] was into the thrill of competition, rooting for one team, hating another team, or had
+[15:27 --> 15:34] any interest at all in gambling, well, then chariot racing was going to be your thing.
+[15:34 --> 15:37] Your only thing.
+[15:37 --> 15:41] So one day, the biggest chariot racing star in Thessalonica gets arrested on what amounts
+[15:41 --> 15:44] to charges of homosexual rape.
+[15:44 --> 15:49] Locked up in a cell, he is now going to miss the big race, which causes the good citizens
+[15:49 --> 15:55] of Thessalonica to go a little crazy.
+[15:55 --> 16:02] Now there was definitely more going on here than just the loss of a big star on race day.
+[16:02 --> 16:07] Since heading west, Theodosius had left the city garrison by a small contingent of allied
+[16:07 --> 16:13] gothic soldiers, which did not sit well with the public, and it was the gothic captain of
+[16:13 --> 16:20] this gothic garrison who was behind the arrest, which really did not sit well with the public.
+[16:20 --> 16:26] In their book, Theodosius and the Empire at Bay, Stephen Williams and Gerald Friel point
+[16:26 --> 16:32] out that this meant there were really three factors behind the coming riots at Thessalonica.
+[16:32 --> 16:37] First was general resentment over the presence of gothic soldiers in the city.
+[16:37 --> 16:42] Sure, at the top levels, alliances shifted with the winds these days, but down on the
+[16:42 --> 16:48] mass level, well, hadn't the goths just been rampaging through our lands like just
+[16:48 --> 16:50] the other day?
+[16:50 --> 16:57] Wounds did not heal as quickly down here as they did in the corridors of power.
+[16:57 --> 17:00] Second was the temperamental difference between the greeks and the goths when it came to the
+[17:00 --> 17:02] question of homosexuality.
+[17:02 --> 17:07] The former had no real problem with it, while the latter considered it a fairly heinous
+[17:07 --> 17:09] offense.
+[17:09 --> 17:14] Locking up a star charioteer for homosexual activity then was an obnoxious imposition
+[17:14 --> 17:22] of barbarian sensibility on Greek manners, and now doubly so given the circumstances.
+[17:22 --> 17:26] The third factor was that, well, yeah, they were all pissed that the charioteer was going
+[17:26 --> 17:30] to be sitting in a cell on race day.
+[17:30 --> 17:35] The people of Thessalonica began to get hostile, and pretty soon a riot broke out.
+[17:35 --> 17:39] The gothic garrison wasn't nearly strong enough to get a handle on the mob, and they were
+[17:39 --> 17:41] quickly overrun.
+[17:41 --> 17:46] The gothic captain behind the arrest, and most of his fellow officers, were tracked
+[17:46 --> 17:52] down, killed, and their bodies dragged through the streets.
+[17:52 --> 17:58] News quickly reached Theodosius in Milan about what had happened, and he exploded with rage.
+[17:58 --> 18:02] The gothic captain had been a trusted and loyal officer as evidenced by the fact that he had
+[18:02 --> 18:08] been given command over the key city of Thessalonica, and his murder by some race-crazed mob made
+[18:08 --> 18:14] Theodosius furious, murderously furious.
+[18:14 --> 18:18] Before he could sleep on his anger, he sent orders off to the commander of the new and
+[18:18 --> 18:21] large garrison being brought in in the wake of the riot.
+[18:21 --> 18:25] The orders were as clear as they were evil.
+[18:25 --> 18:30] When the citizens of Thessalonica next filled up their hippodrome for a big race, the new
+[18:30 --> 18:37] garrison came down, locked all the doors, and then marched out into the crowd, swords drawn.
+[18:37 --> 18:43] Theodosius' orders had been plain, indiscriminate slaughter.
+[18:43 --> 18:49] The troops did their bloody work efficiently, and pretty soon over 7,000 men, women, and
+[18:49 --> 18:55] children were dead.
+[18:55 --> 19:00] Even in the callous days of late antiquity, a time when life was cheap, the massacre of
+[19:00 --> 19:05] Thessalonica appalled the citizens of the empire.
+[19:05 --> 19:10] Even Theodosius understood that he had gone too far, which is why after sending out his
+[19:10 --> 19:16] initial order, he sent out another countermanding it, which of course arrived too late.
+[19:16 --> 19:21] Which meant that the emperor, author of the massacre, wound up as appalled as anyone
+[19:21 --> 19:25] that it had actually taken place.
+[19:25 --> 19:29] When Ambrose learned of what had happened, he immediately pulled up stakes and left Milan
+[19:29 --> 19:32] for the countryside to consider his next move.
+[19:32 --> 19:37] The bishop knew that the emperor had just committed a grievous sin, that the emperor
+[19:37 --> 19:41] furthermore was a religious man, and that that meant that Ambrose had an opportunity
+[19:41 --> 19:46] to leverage the emperor's guilt into something profitable.
+[19:46 --> 19:51] But rather than climb back up onto his bully pulpit, Ambrose was savvy enough to try a
+[19:51 --> 19:53] different tactic.
+[19:53 --> 20:00] He wrote the emperor a personal letter saying that unfortunately he would be unable to celebrate
+[20:00 --> 20:06] mass with Theodosius present until the emperor had publicly atoned for his sin.
+[20:06 --> 20:09] Ambrose was careful to say that he was not angry at the emperor and that this was not
+[20:09 --> 20:15] a punishment, instead saying that he was only doing what had to be done and that he was
+[20:15 --> 20:22] in anguish over the damage it might cause to Theodosius' soul.
+[20:22 --> 20:26] When Ambrose returned to Milan, Theodosius tried to call the bishop's bluff, but when
+[20:26 --> 20:32] he approached Ambrose's church, the bishop held fast, refusing the emperor entry.
+[20:32 --> 20:37] The honestly Christian Theodosius allowed himself to be turned away and then proceeded
+[20:37 --> 20:42] to go into seclusion, remorseful over what he had done and now deeply concerned over
+[20:42 --> 20:45] the fate of his immortal soul.
+[20:45 --> 20:49] He kept up a personal correspondence with Ambrose where the bishop again pressed him
+[20:49 --> 20:52] to publicly atone for his sin.
+[20:52 --> 20:57] How exactly the emperor might do this was unclear, but eventually Theodosius settled
+[20:57 --> 21:01] on a path that might lead him to forgiveness.
+[21:01 --> 21:06] Leaving his imperial finery behind, Theodosius came down to Ambrose's church and proceeded
+[21:06 --> 21:12] to spend the next few months engaged in a mixture of prayer and groveling.
+[21:12 --> 21:17] As fall turned to winter 390, the emperor's running display of fealty to the church finally
+[21:17 --> 21:23] convinced Ambrose that Theodosius could now be forgiven in the eyes of the lord.
+[21:23 --> 21:28] I'm sure that the imperial promise to adopt stricter anti-pagan policies had nothing at
+[21:28 --> 21:32] all to do with Ambrose finally deciding to save Theodosius' soul from its impending
+[21:32 --> 21:37] doom.
+[21:37 --> 21:44] The showdown between Theodosius and Ambrose was a watershed moment for church-state relations.
+[21:44 --> 21:49] There had been conflicts between the two before, but up until this point, the state
+[21:49 --> 21:52] had always had the upper hand.
+[21:52 --> 21:57] Constantine had been deferential in his handling of the Christians, but there was never any
+[21:57 --> 22:02] doubt that when push came to shove, the emperor was in charge.
+[22:02 --> 22:07] Here now was an incident where an emperor said, I want X, the church said, you cannot
+[22:07 --> 22:13] have X, and the church, amazingly, won out.
+[22:13 --> 22:18] As I said when I introduced Ambrose, had it not been for the bishop's kind of insane
+[22:18 --> 22:23] degree of self-confidence, it is possible that the Christian church would have remained
+[22:23 --> 22:27] forever the junior partner in the church-state alliance.
+[22:27 --> 22:33] But Ambrose's resolve laid an enormously important precedent.
+[22:33 --> 22:39] Emperors and kings had power on earth, but the church controlled the fate of the soul.
+[22:39 --> 22:44] Now it should be noted that Theodosius's religious temperament played its own critical
+[22:44 --> 22:47] part in the laying of this precedent.
+[22:47 --> 22:52] Had he been the kind of ruler who only paid lip service to Christianity, it would not
+[22:52 --> 22:57] be hard to picture him simply tossing Ambrose out on his butt and installing a more agreeable
+[22:57 --> 23:00] bishop in his place.
+[23:00 --> 23:03] But Theodosius appears to have believed in Ambrose's power as God's representative
+[23:03 --> 23:09] on earth, and it was this belief that proved decisive during the showdown over the Thessalonica
+[23:09 --> 23:12] Massacre.
+[23:12 --> 23:16] Now did this mean that every subsequent temporal ruler would now feel obligated to bow to the
+[23:16 --> 23:18] church?
+[23:18 --> 23:20] Not by a long shot.
+[23:20 --> 23:22] But it did mean that some of them would.
+[23:22 --> 23:26] That in the coming conflicts between church and state, that the church would have some
+[23:26 --> 23:32] firepower in their arsenal when they demanded fealty from the kings, and an example that
+[23:32 --> 23:38] they could follow should they ever feel as bold as Ambrose and decide to follow it.
+[23:38 --> 23:43] Just ask Henry IV, who was presently standing barefoot in the snow outside the gates of
+[23:43 --> 23:49] Canossa.
+[23:49 --> 23:54] Following his return to the church in early 391, Theodosius, full of newfound Christian
+[23:54 --> 24:00] vigor, turned away from his previous policy of toleration and published a famous edict
+[24:00 --> 24:05] effectively banning paganism in the empire.
+[24:05 --> 24:10] This edict was not unlike previous edicts banning paganism in the empire, so it is not
+[24:10 --> 24:15] quite the revolutionary piece of legislation it is often supposed to be.
+[24:15 --> 24:21] But given the times, the influence of Ambrose, and the personal Christian piety of Theodosius,
+[24:21 --> 24:27] the edict wound up having more teeth than any of its predecessors.
+[24:27 --> 24:32] In Egypt, for example, a fanatical bishop named Theophilus seized on the edict as an
+[24:32 --> 24:38] opportunity to destroy the five-century-old Serapium of Alexandria, one of the largest
+[24:38 --> 24:42] and greatest temples of the pagan world.
+[24:42 --> 24:46] When the Serapium fell, the last remaining portion of the Library of Alexandria fell
+[24:46 --> 24:52] with it, and the world's eyes turned to see how Theodosius would react.
+[24:52 --> 24:58] The emperor did nothing, signaling to Christian extremists that in their war against paganism,
+[24:58 --> 25:04] the gloves could now really come off.
+[25:04 --> 25:08] In the summer of 391, Theodosius decided that perhaps it was time for him to be leaving
+[25:08 --> 25:10] Milan.
+[25:10 --> 25:16] Technically, he and Valentinian still adhered to the east-west power-sharing system, and
+[25:16 --> 25:20] Theodosius' stay in Italy was always meant to be temporary.
+[25:20 --> 25:27] It was time for the eastern Augustus to return to the eastern provinces, where he belonged.
+[25:27 --> 25:32] But Theodosius, clearly the senior Augustus in all but name, had no intention of just
+[25:32 --> 25:36] leaving Valentinian to his own devices.
+[25:36 --> 25:42] Now fifteen, the boy still needed a guardian, and the western provinces still needed a strong
+[25:42 --> 25:45] hand to protect them.
+[25:45 --> 25:50] So Theodosius installed his old loyal Frankish general, Arbogast, to act as the master of
+[25:50 --> 25:53] Valentinian's armed forces.
+[25:53 --> 25:58] Not only did Theodosius have complete confidence in Arbogast's ability as a soldier, but he
+[25:58 --> 26:03] also had complete confidence in Arbogast's ultimate loyalty to him rather than young
+[26:03 --> 26:08] Valentinian, something which might prove useful some day down the road.
+[26:08 --> 26:16] Plus, as a Frank, Arbogast was not eligible to ever become emperor himself, so Theodosius
+[26:16 --> 26:21] would not have to worry about some Maximus-esque usurpation going on.
+[26:21 --> 26:24] It all added up to the same thing.
+[26:24 --> 26:28] Leaving Arbogast in charge of the military meant Theodosius would never again have to
+[26:28 --> 26:33] worry about marching west to fight a civil war.
+[26:33 --> 26:38] Next week, you guessed it, less than a year after heading back to Constantinople, Valentinian
+[26:38 --> 26:44] II will be dead, Arbogast will be in revolt, and Theodosius will once again find himself
+[26:44 --> 26:47] marching west to fight a civil war.

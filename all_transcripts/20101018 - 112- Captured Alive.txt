@@ -1,0 +1,330 @@
+# 20101018 - 112- Captured Alive
+# Detected language: en
+# Duration: 1615.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:09] As you know, Audible is the internet's leading provider of audio entertainment with over
+[00:09 --> 00:11] 60,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash roam.
+[00:16 --> 00:21] That again audiblepodcast.com forward slash roam.
+[00:21 --> 00:24] By going to that address, you will qualify for a free book download when you sign up
+[00:24 --> 00:27] for a 14 day trial membership.
+[00:27 --> 00:31] There is no obligation to continue the service and you can cancel any time and keep the free
+[00:31 --> 00:32] book.
+[00:32 --> 00:36] You can also keep going with one of the monthly subscription options and get great deals on
+[00:36 --> 00:40] all future audiobook purchases.
+[00:40 --> 00:44] This week, I'm going to recommend another classic non-Roman history book, The March
+[00:44 --> 00:50] of Folly by Barbara Tuchman, the classic study of how the responsible agents of state often
+[00:50 --> 00:55] pursue policies that run absolutely counter to their own interests.
+[00:55 --> 01:00] Just remember to go to audiblepodcast.com forward slash roam so that they know who sent
+[01:00 --> 01:05] you.
+[01:05 --> 01:15] Hello and welcome to The History of Rome, episode 112, Captured Alive.
+[01:15 --> 01:21] In the autumn of 253 AD, the troops supporting short-lived Emperor Emilius Emelianus abandoned
+[01:21 --> 01:28] the man they had so recently elevated to the purple and defected en masse to Valerian.
+[01:28 --> 01:33] I think we can forgive the Romans for at first not investing too much emotional energy in
+[01:33 --> 01:39] this new newly appointed emperor because, after all, in the 18 years since the assassination
+[01:39 --> 01:45] of Alexander Severus, the empire had seen 11 different men claim the title Augustus.
+[01:45 --> 01:49] There was absolutely no reason to believe that the new emperor would not simply come
+[01:49 --> 01:52] and go along with all the rest.
+[01:52 --> 01:57] But when Valerian descended from the Alps, he wound up bringing with him 15 years of
+[01:57 --> 02:03] relative stability at the top of the political pyramid, at least in a sense.
+[02:03 --> 02:10] Sure, the western provinces of Gaul, Britannia, Hispania, Germania Superior, Germania Inferior,
+[02:10 --> 02:15] and Radia would break away in 260, losses that would be matched in that year when Syria,
+[02:15 --> 02:21] Egypt, Palestine, and most of Asia Minor came under the control of the city of Palmyra.
+[02:21 --> 02:27] But the middle of the empire, Greece and the Balkans in Italy, would, from 253 to 268,
+[02:27 --> 02:33] be the domains of Valerian and his son, Publius Lichenius Ignatius Gallienus, and their reign
+[02:33 --> 02:38] will form the bridge between the old empire of Augustus and Hadrian and Marcus Aurelius,
+[02:38 --> 02:44] and the coming empire of Diocletian and Constantine and Theodosius.
+[02:44 --> 02:48] Now whether the fractured stability of Gallienus was more dangerous than the unified political
+[02:48 --> 02:56] anarchy that preceded him is a question scholars still debate today.
+[02:56 --> 03:01] As soon as Valerian's claim to power was recognized by the Senate in October 253, he wasted no
+[03:01 --> 03:08] time inducing them to further elevate his son Gallienus to the rank of co-Augustus.
+[03:08 --> 03:13] Having two emperors was a critical part of Valerian's plan for the empire, and indeed,
+[03:13 --> 03:17] the rapidity with which he began to pursue that plan have left some questioning whether
+[03:17 --> 03:22] or not the new emperor had dragged his feet a little getting out of Germany.
+[03:22 --> 03:27] That maybe, after receiving the distress call from Gallus, that Valerian decided to simply
+[03:27 --> 03:33] let Gallus and Emilianus fight it out, which would allow him to sweep down and brush aside
+[03:33 --> 03:37] whoever was left standing after the showdown.
+[03:37 --> 03:42] But whether he was actively planning for what he would do when he became emperor, or whether
+[03:42 --> 03:47] he just had an idea of what he would do if he became emperor, there was very little separating
+[03:47 --> 03:51] Valerian's elevation to the throne and the announcement that he was heading to Syria
+[03:51 --> 03:55] to reassert Roman power in the east.
+[03:55 --> 04:00] The main point of rising up Gallienus was so that Valerian could be sure that the western
+[04:00 --> 04:05] empire was left in loyal hands while he focused on the eastern front.
+[04:05 --> 04:10] This division of the empire followed the previous division of Marcus Aurelius and Lucius Verus
+[04:10 --> 04:15] a century before, though this time it was the senior Augusti who went east with his
+[04:15 --> 04:20] junior partner remaining in Rome.
+[04:20 --> 04:24] One of the big problems we have in dealing with the crisis of the third century is that
+[04:24 --> 04:30] establishing a definitive chronology through the chaos is almost impossible.
+[04:30 --> 04:36] What sources we have are contradictory and full of biases and outright fabrications.
+[04:36 --> 04:42] For example, even when we deal with a momentous event like Aurelian's evacuation of Dacia,
+[04:42 --> 04:48] all we can say is that it happened sometime between 271 and 274.
+[04:48 --> 04:50] Everything else is just guesswork.
+[04:50 --> 04:55] We can make good guesses, but there are nonetheless still guesses.
+[04:55 --> 04:59] Just how crossed up the history of the mid third century can get begins to really become
+[04:59 --> 05:04] apparent during the joint reign of Valerian and Gallienus.
+[05:04 --> 05:09] In the next little while, dates are going to fall in ranges and a lot of question marks
+[05:09 --> 05:14] are going to surround where people were and when they were there.
+[05:14 --> 05:19] We know basically what happened and basically what order it happened in, but sometimes,
+[05:19 --> 05:24] well, we really don't.
+[05:24 --> 05:30] That all being said, probably by early 254, Valerian was headed to Syria to survey the
+[05:30 --> 05:34] damage wrought by the recent Sassanid invasion.
+[05:34 --> 05:39] Gallienus, meanwhile, headed up north to the Rhine on a mission to repel Germanic incursions
+[05:39 --> 05:43] that had begun the minute Valerian picked up the legions guarding the border and marched
+[05:43 --> 05:46] them to Italy.
+[05:46 --> 05:49] The pattern of these northern invasions would become a familiar one over the next twenty
+[05:49 --> 05:56] odd years and highlight the cyclical nature of the third century crisis.
+[05:56 --> 06:01] Any time border troops were called elsewhere to deal with some emergency, barbarians beyond
+[06:01 --> 06:06] the frontier would invade the under-Garrison territory left behind, forcing troops from
+[06:06 --> 06:11] elsewhere to be called in and plug the gap, leading to invasions in whatever territory
+[06:11 --> 06:15] those troops had just left behind and so on and so on.
+[06:15 --> 06:20] Then, whatever territory was left holding the bag would have to look to their local
+[06:20 --> 06:25] commander to engineer a defense and if he succeeded despite imperial aid, his troops
+[06:25 --> 06:30] would generally hail him as emperor, precipitating a civil war, forcing the existing emperor
+[06:30 --> 06:36] to come put down the uprising and then the cycle would start all over again.
+[06:36 --> 06:42] Valerian's withdrawal of the Rhine legions to help him win power in Italy precipitated
+[06:42 --> 06:46] the beginning of one of these long cycles.
+[06:46 --> 06:51] Germanic tribes took the opportunity to pour across the border and raid the wealth of Gaul.
+[06:51 --> 06:55] The junior emperor's arrival in country seems to have brought an end to the pillaging and
+[06:55 --> 07:01] between 253 and 255, Gallienus seems to have won a number of, if they can't quite be called
+[07:01 --> 07:06] battles, then at least significant skirmishes that forced the various tribes to withdraw
+[07:06 --> 07:09] back across the Rhine.
+[07:09 --> 07:15] Valerian, meanwhile, passed through the Balkans and marched across Asia Minor on his way to
+[07:15 --> 07:17] Syria.
+[07:17 --> 07:22] While he was on the move, the Goths and other associated tribes beyond the Danube appear
+[07:22 --> 07:27] to have prudently waited for the imperial army to pass before they renewed their forays
+[07:27 --> 07:30] into Roman territory.
+[07:30 --> 07:35] As soon as Valerian was gone, though, various independent Gothic groups once again began
+[07:35 --> 07:41] descending south in search of the great wealth of the Roman Empire.
+[07:41 --> 07:45] Valerian, though, had much bigger things on his plate than the Goths, who, though they
+[07:45 --> 07:50] had done damage to the empire's ego, were still small potatoes compared to the truly
+[07:50 --> 07:55] existential threat posed by the Sassanids.
+[07:55 --> 08:00] Where the Goths were a dangerous rabble, the Sassanids were a well-organized rival civilization
+[08:00 --> 08:06] in the fullest sense of the word, and their attacks on the east threatened not just the
+[08:06 --> 08:11] rich provinces of Syria and Asia Minor, which accounted for a great deal of imperial tax
+[08:11 --> 08:20] revenue, but also the all-important province of Egypt and its critical grain supply.
+[08:20 --> 08:24] Valerian planted his court at Antioch, and for the next few years he rebuilt the Syrian
+[08:24 --> 08:29] capital and the infrastructure of the surrounding countryside.
+[08:29 --> 08:34] At some point he retook the border city of Nisps, and by 257 things were mostly back
+[08:34 --> 08:39] to the way they had been before Sharpor's great raid of 253.
+[08:39 --> 08:44] The Sassanid king could only sit back and watch the Romans regroup, as the presence
+[08:44 --> 08:48] of the emperor and his army were enough to make him think twice about simply repeating
+[08:48 --> 08:53] his invasion of a few years before.
+[08:53 --> 08:59] Of course, with Valerian in Syria and Gallienus in Gaul, the Danube frontier became the odd
+[08:59 --> 09:05] man out and, as I just said, Gothic armies began to once again pour south across the
+[09:05 --> 09:08] river.
+[09:08 --> 09:13] Sometime around 255, this new invasion forced Gallienus to march in from the west and reinforce
+[09:13 --> 09:16] the Middle Empire.
+[09:16 --> 09:20] With the emperor on the scene, or should I say with the resources the emperor brought
+[09:20 --> 09:25] with him on the scene, the Romans were able to once again plug the northern league and
+[09:25 --> 09:28] push the Goths back across the river.
+[09:28 --> 09:33] But as Gallienus campaigned in the Middle Empire, the west inevitably slid back into
+[09:33 --> 09:39] chaos, forcing the junior emperor to head back to Gaul.
+[09:39 --> 09:44] Hoping to keep everyone in line after he was gone, Gallienus elevated his son, Valerian
+[09:44 --> 09:50] II, to the rank of Caesar and left the young man as the figurehead of record for all the
+[09:50 --> 09:53] Danube provinces.
+[09:53 --> 09:58] Actual administration of the provinces, though, was, critically, left in the hands of a general
+[09:58 --> 10:05] by the name of Ingenus, who we will have cause to deal with in just a moment.
+[10:05 --> 10:10] The invasion Gallienus rushed back to deal with eventually became serious enough to draw
+[10:10 --> 10:17] all three members of the imperial tripartite to the lower Rhine.
+[10:17 --> 10:21] Valerian took a gamble that he would be able to leave the east in the hands of subordinates
+[10:21 --> 10:26] without triggering an invasion by Sharpor, and, with Syria mostly rebuilt, he headed
+[10:26 --> 10:32] to Gaul in 257 to personally oversee the situation.
+[10:32 --> 10:34] That gamble would not pay off.
+[10:34 --> 10:39] As soon as Valerian left, the Sassanids were once again on the move.
+[10:39 --> 10:45] Obviously, this raises the question, what in the world could have been so serious that
+[10:45 --> 10:49] it brought Valerian all the way back from Syria to face?
+[10:49 --> 10:54] The answer lies in a super-confederation of Germanic tribes making their first, but certainly
+[10:54 --> 11:01] not last, appearance in the history of Rome, the Franks.
+[11:01 --> 11:07] The Franks, who in time would become the reason why we call France France and not Gaul, were,
+[11:07 --> 11:12] as I just said, formed out of a collection of Germanic tribes who lived primarily along
+[11:12 --> 11:14] the lower Rhine.
+[11:14 --> 11:19] Likely included among their number were the Batavians, who, you'll recall, revolted against
+[11:19 --> 11:24] Roman rule while the empire was occupied with the year of the four emperors, the Chatti,
+[11:24 --> 11:30] who demissioned so successfully propagandized victories over, and elements of the Cherusci,
+[11:30 --> 11:35] the tribe Arminius had led to victory in the Tudiburg forest.
+[11:35 --> 11:40] This new confederation was formed gradually over the years, as the various Germanic leaders
+[11:40 --> 11:45] realized that they were getting nowhere fighting amongst themselves.
+[11:45 --> 11:50] The new Frankish supergroup was by no means a unified whole at this point, and the various
+[11:50 --> 11:55] barbarian kings still exercised a great deal of autonomy.
+[11:55 --> 12:00] But this new spirit of Germanic cooperation would in time become one of the answers to
+[12:00 --> 12:05] the question, why did the West fall when it did?
+[12:05 --> 12:10] As long as Rome was able to keep the tribes politically and militarily fractured, they
+[12:10 --> 12:12] had very little to fear.
+[12:12 --> 12:17] But once they joined forces, well, let's just say that there's a reason we call France
+[12:17 --> 12:22] France and not Gaul.
+[12:22 --> 12:28] In 257, Valerian Gallienus and Valerian II all appear to have been in the modern city
+[12:28 --> 12:34] of Cologne along the lower Rhine, dealing with the sudden Frankish onslaught.
+[12:34 --> 12:38] Though the Franks were pushed back like all the other invaders of the mid-250s AD, at
+[12:38 --> 12:44] least one group kept moving forward and eventually crossed the Pyrenees into Spain, sacking the
+[12:44 --> 12:49] undefended coast towns of the deep interior.
+[12:49 --> 12:53] But with all three emperors posted on the Rhine, the rest of the empire began to slip
+[12:53 --> 12:58] back into what was becoming its natural state, chaos.
+[12:58 --> 13:03] In the north, a Gothic tribe hit upon a novel idea that their compatriots would use to great
+[13:03 --> 13:09] effect in the years to come, constructing a fleet to carry them down the Black Sea coast
+[13:09 --> 13:12] on a raid of Asia Minor.
+[13:12 --> 13:17] With the Franks mostly contained, Valerian left Gallienus in charge of Gaul, while he
+[13:17 --> 13:19] himself headed east.
+[13:19 --> 13:26] The emperor wound up having no time to pause on this new Gothic invasion and instead replanted
+[13:26 --> 13:32] Valerian II as imperial figurehead along the Danube while he continued on to Syria.
+[13:32 --> 13:37] He was forced to keep moving because word had reached him that far from leaving well
+[13:37 --> 13:44] enough alone, Sharpor was attacking Roman territory with renewed vigor.
+[13:44 --> 13:49] The next two years get really tricky for historians trying to cobble together a chronological
+[13:49 --> 13:56] narrative as Valerian chose this moment to revive Roman persecutions of the Christians,
+[13:56 --> 14:03] leading eventually to the death of St. Cyprian, the bishop of Carthage in 258.
+[14:03 --> 14:09] Cyprian was a voluminous writer and his collected correspondence has proved to be an invaluable
+[14:09 --> 14:13] resource to head to when we want to double check when an event happened or whether it
+[14:13 --> 14:16] happened at all.
+[14:16 --> 14:21] Cyprian's writings act as a tiny little lighthouse in the distance helping us navigate our way
+[14:21 --> 14:24] through the historical fog.
+[14:24 --> 14:29] But then the Romans went and killed him, leaving us with only random inscriptions, some coins
+[14:29 --> 14:32] and gut instinct to lead us the rest of the way.
+[14:32 --> 14:37] So thanks for that.
+[14:37 --> 14:40] There are three big things that happen during this two year period that we have trouble
+[14:40 --> 14:43] dating and putting in order.
+[14:43 --> 14:48] The Battle of Edessa and Valerian's subsequent capture by the Sassanids, the death of his
+[14:48 --> 14:55] grandson Valerian II, and the revolt of Ingenus along the Danube.
+[14:55 --> 15:00] Some sources claim that Valerian II died of natural causes and that when Ingenus heard
+[15:00 --> 15:04] that Valerian had been captured, he decided that the imperial family was now weak enough
+[15:04 --> 15:06] to revolt against.
+[15:06 --> 15:12] Others claim that the ambitious Ingenus decided to revolt simply because Gallienus and Valerian
+[15:12 --> 15:17] were both occupied elsewhere, that he killed Valerian II to kick off his campaign and only
+[15:17 --> 15:20] later learned of Valerian's capture.
+[15:20 --> 15:25] Finally, we have the common version whereby it was the news of Valerian's capture that
+[15:25 --> 15:32] led Ingenus to kill Valerian II and revolt against Gallienus.
+[15:32 --> 15:36] I don't have a good answer for which of these versions is actually correct, and I don't
+[15:36 --> 15:38] think anyone else does either.
+[15:38 --> 15:44] But a consensus seems to have grown up around the idea that Valerian II died under suspicious
+[15:44 --> 15:49] circumstances in 258, right around the time news reached the Danube that Valerian had
+[15:49 --> 15:52] joined the Sassanids in battle.
+[15:52 --> 15:57] In this telling, it is the news of war in the east that got Ingenus's imagination running
+[15:57 --> 16:01] wild rather than the news of the emperor's defeat.
+[16:01 --> 16:06] In this telling, there is a bit of a lag between the death of Valerian II and the official
+[16:06 --> 16:11] beginning of Ingenus's revolt, but that when the commander on the Danube did have himself
+[16:11 --> 16:16] declared emperor, that Gallienus rushed over from the Rhine to put down the revolt before
+[16:16 --> 16:21] word of his father's capture reached the west.
+[16:21 --> 16:27] This all leaves 260 AD as the watershed year when the empire really melted down, with news
+[16:27 --> 16:32] reaching Gallienus almost simultaneously that the Sassanids had captured his father and
+[16:32 --> 16:37] that his own withdrawal from the Rhine had triggered a new invasion by the Germans.
+[16:37 --> 16:43] The defeat of Valerian at Edessa in the east and the Germanic invasions in the west were,
+[16:43 --> 16:49] of course, the two events that led directly to the empire breaking into thirds, a state
+[16:49 --> 16:54] of affairs that would persist for more than a decade until Lucius Domitius Aurelianus,
+[16:54 --> 16:59] the unconquered restorer of the world, put the pieces back together again in the early
+[17:00 --> 17:04] 1270s.
+[17:04 --> 17:10] To deal with poor Valerian first, we must follow the emperor east in 258 AD after dropping
+[17:10 --> 17:14] Valerian II off in Pannonia.
+[17:14 --> 17:18] The emperor probably passed through Antioch on his way to the city of Edessa in northern
+[17:18 --> 17:23] Mesopotamia, where he planned to stage his coming counteroffensive.
+[17:23 --> 17:28] But this counteroffensive would never really get off the ground, as a nasty bout of the
+[17:28 --> 17:34] Cyprian Plague broke out amongst the legions in 259, and Valerian's forces were left thin
+[17:34 --> 17:38] and weak as a result.
+[17:38 --> 17:42] Sharpor decided to take advantage of the situation by marching on Edessa and challenging the
+[17:42 --> 17:45] emperor directly.
+[17:45 --> 17:50] Though we know very little about the details of the battle, it is reported that despite
+[17:50 --> 17:54] the toll taken on the legions, they still outnumbered the Sassanids by an almost two
+[17:54 --> 18:00] to one ratio, leaving Valerian confident that he would still be able to steamroll Sharpor's
+[18:00 --> 18:02] forces.
+[18:02 --> 18:07] But for whatever reason, in the battle that commenced on the plains outside Edessa, the
+[18:07 --> 18:12] Romans were utterly routed, and practically the entire army Valerian had brought with
+[18:12 --> 18:16] him were either killed or captured.
+[18:16 --> 18:21] We don't know how exactly Valerian fell into Sharpor's custody, but the traditional Roman
+[18:21 --> 18:26] version has it that after the battle, Valerian arranged for a meeting with Sharpor to hammer
+[18:26 --> 18:31] out the terms of a settlement, and after arriving at the Sassanid court, the emperor was seized
+[18:31 --> 18:36] by the treacherous Persian king and taken prisoner.
+[18:36 --> 18:41] The alternative is that Valerian was simply tracked down during the battle and seized,
+[18:41 --> 18:45] making it easy to see why the Romans would prefer a version of events that allows the
+[18:45 --> 18:51] humiliating capture of their emperor to be painted as a result of a double cross, rather
+[18:51 --> 19:00] than trying to explain how an honorable Roman could have allowed himself to be taken alive.
+[19:00 --> 19:04] As with just about everything to do with this period, there are two versions of what happened
+[19:04 --> 19:06] next.
+[19:06 --> 19:11] The boring version is that Valerian and his senior officers were treated well by Sharpor
+[19:11 --> 19:16] and lived out the rest of their days as comfortable, if involuntary, guests of the Sassanids until
+[19:16 --> 19:19] the emperor's death in 264.
+[19:19 --> 19:24] The more salacious version is that the no-good, wicked Persian king took every opportunity
+[19:24 --> 19:29] to humiliate the captured Valerian and used the Roman emperor daily as a stepping-school
+[19:29 --> 19:32] to get in and out of his royal litter.
+[19:32 --> 19:38] Then, when Valerian finally died, his body was flayed and stuffed and posted in the Persian
+[19:38 --> 19:43] court as a trophy for all of the East to mock and gloat over.
+[19:43 --> 19:48] Once again, it is easy to see why the Romans would prefer to paint the Sassanid king in
+[19:48 --> 19:51] the worst possible light.
+[19:51 --> 19:55] But barring a time machine, we'll never know the true fate of Valerian.
+[19:55 --> 20:01] We do know that he died in Persian custody and that for a variety of reasons, no attempt
+[20:01 --> 20:05] was ever made to rescue him or pay a ransom for his return.
+[20:05 --> 20:13] He was in his mid-sixties when he died and had ruled the empire for seven years.
+[20:13 --> 20:18] Those variety of reasons why nobody came looking for him had to do mostly with the
+[20:18 --> 20:23] fact that while the eastern empire was going to hell in a handbasket, the middle of the
+[20:23 --> 20:26] empire was going to hell in a handbasket, and the western empire was going to hell
+[20:26 --> 20:28] in a handbasket.
+[20:28 --> 20:33] In the final calculation, the life of one captured emperor was simply not worth the
+[20:33 --> 20:42] time and expense, not with so much hell being crammed into so many handbaskets.
+[20:43 --> 20:47] When news reached Gallienus that Ingenus was in revolt, he was forced to immediately withdraw
+[20:47 --> 20:53] a significant portion of the Rhine troops from the border to help him put down the rebellion.
+[20:53 --> 20:59] As he had previously done with Valerian II, Gallienus left his second son, Salonius, in
+[20:59 --> 21:05] Cologne as imperial figurehead under the protection of the commander Marcus Cassianus Latinius
+[21:05 --> 21:10] Postumus and sped off to the Danube.
+[21:11 --> 21:15] Taking the suppression effort was a man who, at this point, Gallienus had supreme confidence
+[21:15 --> 21:24] in but whose own ambitions would in time lead to his master's death, the general Oriolus.
+[21:24 --> 21:29] As commander of the imperial cavalry, Oriolus led the charge into Pannonia where the sudden
+[21:29 --> 21:35] appearance of Gallienus' army took the wind out of Ingenus' sails and the usurper either
+[21:35 --> 21:41] died in battle, was killed by his own troops, or committed suicide after realizing that
+[21:41 --> 21:45] his cause was hopeless.
+[21:45 --> 21:50] The upshot of all this, as I just mentioned, was that Gallienus' new position on the Danube
+[21:50 --> 21:56] led to a significant invasion of Germanic tribes along the Rhine.
+[21:56 --> 22:01] Along the lower portion of the river, the Franks poured across the frontier as Postumus
+[22:01 --> 22:05] scrambled to hold them off with what forces he had been left with.
+[22:05 --> 22:11] Meanwhile, a huge group of Alamani, a tribal super confederation similar to the Franks
+[22:11 --> 22:16] operating along the upper Rhine, poured through the under-Garrison gap between the Danube
+[22:16 --> 22:21] and the Rhine, but rather than making for Gaul as would have been expected, they instead
+[22:21 --> 22:25] decided to head directly into Italy.
+[22:25 --> 22:33] Obviously, this invasion of the home province was Gallienus' top priority.
+[22:33 --> 22:38] He ignored calls to go avenge his father in the east, who he just learned had been defeated
+[22:38 --> 22:45] and captured, reinforce Postumus in the west, or stay put on the Danube and hold off the
+[22:45 --> 22:47] Goths.
+[22:47 --> 22:52] He chose instead to make with all haste to Milan in northern Italy, a city that, with
+[22:52 --> 23:00] Gallienus' help, was about to become one of the most important cities in the empire.
+[23:00 --> 23:04] The Alamani crossed the Alps into Italy before Gallienus could get in their way, and they
+[23:04 --> 23:09] apparently raided all the way down to Rome itself before being turned back by a hastily
+[23:09 --> 23:12] raised militia.
+[23:12 --> 23:17] Not necessarily needing to embroil themselves in a prolonged siege of the imperial capital
+[23:17 --> 23:22] after having grabbed so much of northern Italy's wealth, the Alamani turned around,
+[23:22 --> 23:27] but on their way back north they were met by Gallienus, who beat them decisively outside
+[23:27 --> 23:29] of Milan.
+[23:29 --> 23:34] One independent faction of the Germanic invaders escaped back through the Alps with their captured
+[23:34 --> 23:39] treasure, but the rest were stopped short, and those who survived the battle headed back
+[23:39 --> 23:43] home empty-handed.
+[23:43 --> 23:48] Though in the end it turned out to have no long-term ill effects, the invasion of the
+[23:48 --> 23:53] Alamani was nonetheless a significant psychic blow to a population of Romans already dealing
+[23:53 --> 23:58] with a lot of bad news.
+[23:58 --> 24:02] But I guess that to say that the invasion had no long-term effects is misstating the
+[24:02 --> 24:04] case a bit.
+[24:04 --> 24:10] Yes, the invaders were beaten and driven off, but the time, energy, and manpower required
+[24:10 --> 24:15] to do so, left every other region of the empire feeling like they had been abandoned
+[24:15 --> 24:20] by the emperor.
+[24:20 --> 24:24] In the east, the shattered legions were facing down a Sasadan army they could not hope to
+[24:24 --> 24:26] contain.
+[24:26 --> 24:32] In the west, Posthumous was being overwhelmed by the Franks, and in the middle a Danube
+[24:32 --> 24:37] army just weakened by the battle between Ingenus and Gallienus stared across the river at a
+[24:37 --> 24:44] host of tribes itching to take advantage of the emperor's recent withdrawal to Italy.
+[24:44 --> 24:49] With each of these regions left on their own, the various legionary commanders had to take
+[24:49 --> 24:54] it upon themselves to organize and direct local defenses, leading their troops naturally
+[24:54 --> 24:59] to give their commanders a rank befitting men who were now wielding supreme authority
+[24:59 --> 25:03] over their respective provinces.
+[25:03 --> 25:05] Imperator
+[25:05 --> 25:09] Rather than receiving congratulations from his generals then for having driven the Alamanni
+[25:09 --> 25:15] out of Italy, Gallienus spent the weeks after his victory instead receiving notes that each
+[25:15 --> 25:19] of them had been proclaimed emperor by their troops.
+[25:19 --> 25:23] On the eve of his battle with the Germans, Gallienus had ruled an empire that stretched
+[25:23 --> 25:29] from Gibraltar to the Euphrates and from the Sahara to Scotland.
+[25:29 --> 25:38] The next morning, he found himself barely in control of Italy.
+[25:38 --> 25:42] Next week, we will watch the empire split into thirds.
+[25:42 --> 25:47] Though Gallienus was able to reassert his dominion over the Balkans, he had neither
+[25:47 --> 25:53] the money nor the manpower to do much about the east or the west, and they quickly devolved
+[25:53 --> 25:57] into autonomous political territories of their own.
+[25:57 --> 26:01] But this was not all bad news for Gallienus and Rome.
+[26:01 --> 26:07] Posthumous's Gallic Empire and the about to be established Palmyrene Empire were far
+[26:07 --> 26:12] more concerned with repelling foreign invasion than they were with domestic squabbles, and
+[26:12 --> 26:18] it turns out that they were both so successful at fighting off the Germans and Sasanids respectively
+[26:18 --> 26:23] that it is hard to see how Gallienus himself could have ever done a better job.
+[26:24 --> 26:30] Ironically, the temporary breakup of the empire was perhaps one of the key reasons it was
+[26:30 --> 26:31] able to survive at all.

@@ -1,0 +1,341 @@
+# 20100301 - 078- Imperial Stop Gap
+# Detected language: en
+# Duration: 1487.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you are now aware, Audible is the internet's leading provider of audio entertainment with
+[00:08 --> 00:11] over 60,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash Roam.
+[00:16 --> 00:20] That again is audiblepodcast.com forward slash Roam.
+[00:20 --> 00:23] By going to that address, you will qualify for a free book download when you sign up
+[00:23 --> 00:26] for a 14-day trial membership.
+[00:26 --> 00:29] There is no obligation to continue the service and you can cancel any time and keep the free
+[00:29 --> 00:31] book that you got.
+[00:31 --> 00:35] You can also keep going with one of the monthly subscription packages and get great deals
+[00:35 --> 00:38] on all future audiobook purchases.
+[00:38 --> 00:41] This week, I noticed that Audible has the full Unabridged, Decline, and Fall of the
+[00:41 --> 00:44] Roman Empire by Edward Gibbon.
+[00:44 --> 00:49] I have no idea if it technically qualifies as a free download, but if you sign up, you'll
+[00:49 --> 00:51] definitely get some of it at a discount rate.
+[00:51 --> 00:55] We'll be getting into Gibbon territory pretty soon, so if you want to stay ahead of the
+[00:55 --> 00:59] class, I highly recommend picking it up.
+[00:59 --> 01:09] Just remember to go to audiblepodcast.com forward slash Roam so they know who sent you.
+[01:09 --> 01:18] Hello and welcome to The History of Rome, episode 78, Imperial Stopgap.
+[01:18 --> 01:23] The assassination of Domitian threatened to bring the Flavian dynasty full circle.
+[01:23 --> 01:28] Political chaos and its bosom buddies, violence, destruction, and death, had brought the family
+[01:28 --> 01:33] to power 25 years before, and now, with no heir to speak of, the sudden murder of the
+[01:33 --> 01:39] emperor stood ready to open the door to another round of bitter civil war.
+[01:39 --> 01:44] But no one had forgotten the horrors of 68 and 69 AD, least of all the Senate, and the
+[01:44 --> 01:49] elites in Rome moved quickly to find someone, anyone, to rally behind before the provincial
+[01:49 --> 01:53] general started dreaming imperial dreams.
+[01:53 --> 01:56] But finding the perfect candidate would not be easy.
+[01:56 --> 02:01] Preferably, he would be an ally of the Flavians, so it could be plausibly argued that the
+[02:01 --> 02:06] new emperor did not necessarily represent a break with the previous dynasty.
+[02:06 --> 02:10] He should also be an older man, so that if, in their haste to find a successor they picked
+[02:10 --> 02:15] a bad one, at least they would not have to live with their mistake for long.
+[02:15 --> 02:20] And if they could scrounge up a childless old man, that would be best of all.
+[02:20 --> 02:24] Everyone agreed that finding an emperor now, now, now, was the most important thing, and
+[02:24 --> 02:28] that unanimity was needed to make the choice stick.
+[02:28 --> 02:33] But unanimity now could be achieved best if every senator could imagine that his own preferred
+[02:33 --> 02:39] candidate would eventually be adopted by whatever old childless man they brought in now.
+[02:39 --> 02:43] Finally, since they had just chafed for a decade and a half under demission, it would
+[02:43 --> 02:48] be best if they brought in a man without strong military credentials or an independent political
+[02:48 --> 02:49] base.
+[02:49 --> 02:53] The Senate wanted back in the game, and they weren't going to get back in if they brought
+[02:53 --> 02:58] in someone who could just go right back to ignoring them.
+[02:58 --> 03:03] All of these parameters were cross-triangulated, and the man whose name popped up was long-time
+[03:03 --> 03:07] imperial adviser Marcus Nerva.
+[03:07 --> 03:12] Past 60, the staunch Flavian was old enough not to last too long on the throne, had no
+[03:12 --> 03:17] sons to pass power on to when he died, had spent his life avoiding the political limelight,
+[03:17 --> 03:20] and had no military record to speak of.
+[03:20 --> 03:25] He was the perfect stopgap answer to the question of succession.
+[03:25 --> 03:29] Nerva would buy the political establishment time to work through their rivalries and alliances
+[03:29 --> 03:34] peacefully without needing to resort to violence.
+[03:34 --> 03:38] Nerva had never even hinted that he wanted the job, but he too remembered the year of
+[03:38 --> 03:40] the four emperors.
+[03:40 --> 03:44] Within hours of demission's death, he accepted the Senate's acclaim.
+[03:44 --> 03:48] If it meant keeping the peace, the man who had spent his life in the shadows was more
+[03:48 --> 03:52] than willing to step into the light.
+[03:52 --> 03:55] At this point, the Senate was quite pleased with itself.
+[03:55 --> 04:00] They had just fired their first shot in a bid to emerge from the political wilderness,
+[04:00 --> 04:03] and it felt good.
+[04:03 --> 04:06] Since the dawn of the Principate, their role in the succession process had always been
+[04:06 --> 04:11] to rubber-stamp decisions that had already been made, whether by the previous emperor,
+[04:11 --> 04:14] the Praetorian Guard, or the legions in the field.
+[04:14 --> 04:18] For the first time, the Senate, all on its own, was choosing the man who would rule
+[04:18 --> 04:21] the empire.
+[04:21 --> 04:25] The reign of demission was unquestionably the nadir of senatorial power, and now that
+[04:25 --> 04:31] he was dead, they believed that they were rapidly approaching a new zenith.
+[04:31 --> 04:35] In his initial pronouncements, Nerva did not disappoint on this front.
+[04:35 --> 04:40] He declared an end to treason trials, and promised a blanket moratorium on executions
+[04:40 --> 04:42] of men of senatorial rank.
+[04:42 --> 04:47] He freed demission's political prisoners, returned confiscated property, and recalled
+[04:47 --> 04:50] dozens from exile.
+[04:50 --> 04:54] Having undone much of demission's damage, Nerva then went further, and vowed to bring
+[04:54 --> 04:57] the Senate back into the political fold.
+[04:57 --> 05:01] They would no longer be a social club without purpose or responsibility.
+[05:01 --> 05:05] Nerva promised them active participation in his administration.
+[05:05 --> 05:10] The Senate, to say the least, was flying high.
+[05:10 --> 05:13] But all was not well in the empire as a whole.
+[05:13 --> 05:17] The Senate had never been a good barometer of anything other than what extremely rich
+[05:17 --> 05:19] men in Rome thought about things.
+[05:19 --> 05:24] It was a sure bet that if a man was the Senate's preferred candidate, then he was going to
+[05:24 --> 05:26] run into difficulties elsewhere.
+[05:26 --> 05:31] And indeed, all the things that recommended Nerva to the Senate caused him problems everywhere
+[05:31 --> 05:34] else during his sixteen months in power.
+[05:34 --> 05:38] Being old and childless was not necessarily a problem, but his total lack of military
+[05:38 --> 05:44] experience and the fact that the public at large had no idea who the heck he was, yeah,
+[05:44 --> 05:49] those things were going to come back to haunt him.
+[05:49 --> 05:51] Political power is a zero-sum game.
+[05:51 --> 05:56] So while the Senate gloried in having chosen demission's successor, the two other institutions
+[05:56 --> 06:00] that had grown accustomed to having the final word on such matters, the Praetorian Guard
+[06:00 --> 06:05] and the Provincial Legions, developed quick and healthy grudges at having been left out
+[06:05 --> 06:08] of the process.
+[06:08 --> 06:13] Nerva then exacerbated the situation by letting demission's killers go free, a move that
+[06:13 --> 06:16] the Senate applauded, but the troops hated.
+[06:16 --> 06:21] When demission's loyal soldiers heard the news that the only punishment handed out was
+[06:21 --> 06:27] the dismissal of Secundus as Praetorian prefect, they couldn't believe their ears.
+[06:27 --> 06:31] Nerva attempted to placate them with a generous donative upon ascending to the throne, issued
+[06:31 --> 06:36] to both the Praetorians and the rank-and-file soldiers, but it was not nearly enough to
+[06:36 --> 06:38] dampen their outrage.
+[06:38 --> 06:43] Here was some random, probably corrupt, puppet of the Senate, thinking he can just murder
+[06:43 --> 06:47] our Emperor and then drop a few coins around and make everything all better.
+[06:47 --> 06:50] Who the hell did this guy think he was?
+[06:50 --> 06:52] Does he even know which end of a sword to hold?
+[06:52 --> 06:57] For the rest of his short reign, Nerva would barely even try to exert influence over the
+[06:57 --> 07:02] Legions, and his relationship with the army could never be described as anything better
+[07:02 --> 07:05] than strained.
+[07:05 --> 07:10] The new Emperor did somewhat better with the public at large, but his quest for popularity
+[07:10 --> 07:15] led the Empire into shaky financial territory that would only really be resolved by the
+[07:15 --> 07:20] sound policies of Trajan, who was a firm believer in the seize-your-neighbors massive gold and
+[07:20 --> 07:25] silver deposits to pay for everything school of economics.
+[07:25 --> 07:30] It wasn't that Nerva started out as some delusional tax-cut-and-spend executive, but eventually
+[07:30 --> 07:33] that's where his policies took him.
+[07:33 --> 07:37] He wanted to ease the heavy tax burden Domitian had saddled the Empire with, while simultaneously
+[07:37 --> 07:45] expanding social welfare programs, which, yeah, doesn't usually add up to fiscal success.
+[07:45 --> 07:50] For a man who was not exactly known outside the halls of the Imperial Palace, Nerva was
+[07:50 --> 07:54] acutely aware of the need to generate some goodwill and fast, and he kicked things off
+[07:54 --> 08:00] in fine style by announcing a one-time bonus payment of 75 dinari per citizen to celebrate
+[08:00 --> 08:03] his ascension to the throne.
+[08:03 --> 08:08] He then went further and began using Imperial money and property to extend land grants
+[08:08 --> 08:10] to the poor and lower middle class.
+[08:10 --> 08:15] Then, over the course of his first year in office, he tried to alleviate the heavy financial
+[08:15 --> 08:20] burdens Domitian had laid upon them all by exempting rich and poor alike from various
+[08:20 --> 08:24] tax schemes Domitian had dreamed up.
+[08:24 --> 08:26] Everyone was starting to dig the new guy.
+[08:26 --> 08:32] Lower taxes and more stuff is definitely a recipe for political popularity, and Nerva
+[08:32 --> 08:34] was just getting started.
+[08:34 --> 08:39] But the new Emperor also understood that lower taxes and more stuff is not just a recipe
+[08:39 --> 08:45] for political success, it is also a recipe for economic disaster, and he at least tried
+[08:45 --> 08:49] to get some of his new programs to pay for themselves.
+[08:49 --> 08:54] The program closest to his heart was a new, stable welfare program for the poorest of
+[08:54 --> 08:56] the poor.
+[08:56 --> 09:01] Previous Emperors had issued free grain allotments, but these programs were started and stopped
+[09:01 --> 09:07] at will, leaving a level of social insecurity that Nerva wanted to end for good.
+[09:07 --> 09:12] Plus, he figured if he could entrench his new elementary system into the fabric of society,
+[09:12 --> 09:15] then his legacy would be secured.
+[09:15 --> 09:20] But after all the tax cutting, the treasury was running low, so Nerva decided to get into
+[09:20 --> 09:25] the business of issuing loans for land purchases in Italy.
+[09:25 --> 09:28] What does that have to do with a social welfare program?
+[09:28 --> 09:33] Well, in addition to encouraging greater land ownership, men who took out loans from the
+[09:33 --> 09:39] state were required to pay 5% interest directly back to their local municipalities, payments
+[09:39 --> 09:43] that would underwrite Nerva's new welfare system.
+[09:43 --> 09:48] But in the end, Nerva was adding too much to the debit side of the ledger without making
+[09:48 --> 09:53] up for it on the credit side, and within a year, the fiscal situation looked grim.
+[09:53 --> 09:58] So Nerva and the Senate turned to the politician's best friend for dealing with one's own policy
+[09:58 --> 09:59] blunders.
+[09:59 --> 10:05] They formed a blue-ribbon commission to study the problem and make recommendations.
+[10:05 --> 10:09] But the commission turned out to be more than simply an instrument of public relations,
+[10:09 --> 10:14] and it actually came back with some effective ways to cut costs and raise revenues.
+[10:14 --> 10:19] For one thing, they reported, Domitian had inaugurated myriad games and banquets and
+[10:19 --> 10:24] festivals, all designed to foster public goodwill and show off the recently completed
+[10:24 --> 10:27] Coliseum in all its glory.
+[10:27 --> 10:30] He was able to pay for it all because he was taxing the dickens out of everyone, but when
+[10:30 --> 10:35] Nerva shut down Domitian's various revenue streams, the games became a black hole for
+[10:35 --> 10:37] imperial money.
+[10:37 --> 10:41] The commission recommended severely limiting Domitian's festival calendar down to the
+[10:41 --> 10:47] necessary religious observances, and Nerva immediately took their advice.
+[10:47 --> 10:52] The commission also noted that in addition to the mounds of bejeweled riches he hoarded
+[10:52 --> 10:57] in the palace, Domitian had also been in the habit of building marvelous solid gold and
+[10:57 --> 10:59] silver statues of himself.
+[10:59 --> 11:03] Does the empire really need gold statues of Domitian laying around, or do you suppose
+[11:03 --> 11:09] we could melt them down and put all that gold and silver to better use?
+[11:09 --> 11:13] Turning the old statues into coins only got the emperor so far, though, so Nerva then
+[11:13 --> 11:17] held public auctions to purge the palace of Domitian's treasure.
+[11:17 --> 11:22] Finally, they raised enough money to get the empire's financial situation back on track,
+[11:22 --> 11:25] at least temporarily.
+[11:25 --> 11:30] But of course, canceling games and melting down statues are one-time only fixes, which
+[11:30 --> 11:35] would have been a problem for Nerva had he been in office any longer.
+[11:35 --> 11:40] But by the time the bill came due again, he was dead.
+[11:41 --> 11:46] An economic crisis invented and resolved, Nerva breathed a sigh of relief.
+[11:46 --> 11:49] It is easy to feel a bit sorry for the old man.
+[11:49 --> 11:55] He had spent his life behind the scenes, offering advice, helping to find problems, and running
+[11:55 --> 11:56] small meetings.
+[11:56 --> 12:01] At no point had he been the man making the decisions, or the man who had to deal with
+[12:01 --> 12:06] the political backlash when things went awry, or the man who was expected to control the
+[12:06 --> 12:09] herd of cats that was the Roman Senate.
+[12:09 --> 12:14] For example, having promised the Senate that they were essentially exempt from political
+[12:14 --> 12:19] punishment, he placed no restrictions on their own pursuit of political vendettas, and the
+[12:19 --> 12:24] body quickly turned on itself in a maelstrom of accusations and counter accusations over
+[12:24 --> 12:27] past offenses.
+[12:27 --> 12:31] Unwilling to come down hard on the one part of the political system who really supported
+[12:31 --> 12:36] him, Nerva allowed the Senate to run amok, prompting one member to observe that the tyranny
+[12:36 --> 12:41] of demission was perhaps superior to the anarchy of Nerva.
+[12:41 --> 12:48] The Emperor simply did not have a firm executive mindset, and soon everyone, friends included,
+[12:48 --> 12:51] came to see him as weak and ineffective.
+[12:51 --> 12:57] He was, at his core essence, simply unsuited for the job of Emperor.
+[12:57 --> 13:01] When a coup masterminded by a Senator named Calpurnius Crassus was exposed, and Nerva
+[13:01 --> 13:06] refused to execute the plotters, it was not seen as a generous act of forgiveness in the
+[13:06 --> 13:08] mold of Julius Caesar.
+[13:08 --> 13:13] It was instead seen as the lame response of a weak man who refused to stand up even for
+[13:13 --> 13:16] himself.
+[13:16 --> 13:21] For the Praetorians, who had been ticked off since Nerva refused to properly punish demission's
+[13:21 --> 13:25] assassins, the situation was fast becoming untenable.
+[13:25 --> 13:31] In late 97 AD, after just over a year in office, old resentments were finally combined with
+[13:31 --> 13:36] enough new resentments to trigger revolt among the guardsmen.
+[13:36 --> 13:40] Nerva had never been their choice, and in the past year he had done nothing to show
+[13:40 --> 13:45] them that he was anything but a spineless puppet of the Senate.
+[13:45 --> 13:50] But they were not interested in hacking their Emperor to pieces, at least not yet, as he
+[13:50 --> 13:54] was obviously not a madman like Caligula or Nero.
+[13:54 --> 13:58] Mostly, they just wanted to remind him that the Senate may have placed him on the throne,
+[13:58 --> 14:01] but the Praetorians kept him there.
+[14:01 --> 14:05] It was important for Nerva to understand that whoever said that the pen was mightier than
+[14:05 --> 14:10] the sword had clearly never been stabbed to death in the middle of the night.
+[14:10 --> 14:16] So in October of 97, led by their new prefect, Casperius Aelianus, the man appointed by Nerva
+[14:16 --> 14:22] to replace the dismissed Secundus, the Praetorians laid siege to the Imperial Palace and, quickly
+[14:22 --> 14:29] breaching the meager non-Praetorian defenses, took the Emperor hostage.
+[14:29 --> 14:33] Nerva quickly gave in to their demand that demissions killers finally be brought to justice,
+[14:33 --> 14:38] and in short order Parthenius, Secundus, and the other conspirators were hunted down and
+[14:38 --> 14:40] executed.
+[14:40 --> 14:46] The Emperor also wound up publicly thanking the Praetorians for reminding him of his duty,
+[14:46 --> 14:50] which was a part of the deal that sent them back to their barracks.
+[14:51 --> 14:55] The details of what else they wanted is hard to figure, but that was never the point.
+[14:55 --> 15:00] The point was to remind the Emperor who was Alpha Dog in Rome.
+[15:00 --> 15:08] It wasn't important what the Praetorians demanded, it was only important that the Emperor comply.
+[15:08 --> 15:13] After this unsettling ordeal, Nerva knew that he needed to do something fast to salvage
+[15:13 --> 15:16] his decimated reputation.
+[15:16 --> 15:20] Not just for his own sake, but for the whole Empire.
+[15:20 --> 15:25] He did not have the support of the Legions, and the Praetorians had just publicly humiliated him.
+[15:25 --> 15:32] His only real political allies were in the Senate, and, well, nobody liked them anyway.
+[15:32 --> 15:35] Nerva knew that conditions like these can lead quickly to civil war if they are not
+[15:35 --> 15:38] headed off at the pass.
+[15:38 --> 15:42] Up until now, the old and childless Nerva had been coy about who he planned to name
+[15:42 --> 15:43] as his successor.
+[15:43 --> 15:49] He had been flirting with the idea of adopting as his heir the governor of Syria, but in
+[15:49 --> 15:54] the aftermath of the Praetorian siege, he changed course and suddenly announced to everyone's
+[15:54 --> 15:58] delight, the Legions most of all, that he was adopting as his heir the most popular
+[15:58 --> 16:02] general of the day, Trajan.
+[16:02 --> 16:07] Immediately, the political waters that had been heating up to a full boil cooled.
+[16:07 --> 16:13] Any hint of open revolt or civil war disappeared almost overnight.
+[16:13 --> 16:17] The only group put out by the choice of Trajan was the Senate, as they had hoped to be in
+[16:17 --> 16:20] the driver's seat on the issue of succession.
+[16:20 --> 16:24] As I said, every Senator had their favorite candidate, and they were all getting ready
+[16:24 --> 16:29] for some good old-fashioned horse trading to get their preferred man in place when Nerva
+[16:29 --> 16:33] up and killed the game before it ever got started.
+[16:33 --> 16:37] In time, though, they would shed whatever resentment they had over being bypassed, as
+[16:37 --> 16:44] Trajan proved himself to be an emperor as great as the divine Augustus himself.
+[16:44 --> 16:51] The future emperor Trajan was born in Spain in 53 AD near modern-day Seville.
+[16:51 --> 16:56] This of course made him what no previous emperor had ever been, a provincial.
+[16:56 --> 17:02] Now, it is a matter of some dispute whether Trajan was technically a provincial or whether
+[17:02 --> 17:07] he was the member of a displaced Roman family that had moved into the region following Rome's
+[17:07 --> 17:10] envelopment of the Iberian Peninsula.
+[17:10 --> 17:15] The argument boils down to whether you believe Trajan's branch of the extended Ulpian family
+[17:15 --> 17:20] was pure Italian or whether it had been native Spanish and adopted into the clan at some
+[17:20 --> 17:21] point in the past.
+[17:21 --> 17:25] Which, yeah, I'm not going to get bogged down in, since it doesn't really matter how
+[17:25 --> 17:30] pure Trajan's blood was when pointing out that he was the first provincial emperor,
+[17:30 --> 17:35] because every single citizen of the empire, Italian and provincial alike, considered him
+[17:35 --> 17:36] provincial.
+[17:36 --> 17:38] Full stop.
+[17:38 --> 17:43] His family rose to prominence with the Flavians and Trajan's father was elevated to senatorial
+[17:43 --> 17:49] status following his loyal service to Vespasian and Titus during the Jewish war.
+[17:49 --> 17:54] The high regard Vespasian had for Trajan's father is amply demonstrated by the former's
+[17:54 --> 17:59] appointment in 76 AD to the governorship of Syria.
+[17:59 --> 18:03] Trajan accompanied his father and got his first taste of public service and military
+[18:03 --> 18:07] life, serving as a tribune in the eastern legions.
+[18:07 --> 18:12] Shortly after his stint in the Syrian army, young Trajan was granted a quaestorship and
+[18:12 --> 18:17] his rapid rise up the cursus honorum was underway.
+[18:17 --> 18:22] His public career well begun, Trajan then managed to marry a woman who would go down
+[18:22 --> 18:27] in history as one of the finest matrons in the whole long history of the empire, Pompeia
+[18:27 --> 18:30] Plotina.
+[18:30 --> 18:35] Roman writers typically cast their women either as reserved saintly mothers in the Cornelia
+[18:35 --> 18:42] Africana mold or as diabolical stepmothers in the Livia Agrippina mold.
+[18:42 --> 18:46] The difference in depiction, unfortunately, usually came down to how much power the woman
+[18:46 --> 18:48] in question wielded.
+[18:48 --> 18:53] If the answer was a lot, then you can bet she was going to be portrayed as a scheming,
+[18:53 --> 18:56] probably murderous old witch.
+[18:56 --> 19:01] Pompeia Plotina, however, managed to avoid this fate and somehow got the old historians
+[19:01 --> 19:07] to fit the notion of a capable and influential woman having a positive impact on the world
+[19:07 --> 19:12] around her into their heads, and that alone should prove what an impressive woman she
+[19:12 --> 19:16] actually was.
+[19:16 --> 19:21] Trajan became praetor in or around 85 AD and shortly thereafter found himself leading the
+[19:21 --> 19:25] seventh legion stationed in Spain.
+[19:25 --> 19:29] Trajan was a natural leader and excelled at the art of war and it was clear that his star
+[19:29 --> 19:32] was on the rise.
+[19:32 --> 19:36] He had the kind of easy going authority that made men not just ready to serve, but eager
+[19:36 --> 19:38] to serve.
+[19:38 --> 19:43] He had a relaxed, familiar relationship with his troops that, coupled with his policy of
+[19:43 --> 19:49] strict but fair discipline, reminds you of no one so much as Julius Caesar.
+[19:49 --> 19:55] The young provincial general was fast becoming the most popular man in the Roman army.
+[19:55 --> 19:59] Going to the aid of Domitian so readily during Saturninus' revolt earned him Domitian's
+[19:59 --> 20:04] gratitude and with his natural talents now joined with imperial favor, he was off to
+[20:04 --> 20:05] the races.
+[20:05 --> 20:12] In 91 AD he served a term as consul, followed by key appointments as governor in Moesia
+[20:12 --> 20:14] and Upper Germany.
+[20:14 --> 20:20] As governor he earned rave reviews not just for his military acumen, but for his administrative
+[20:20 --> 20:22] skills.
+[20:22 --> 20:26] As a provincial himself, he brought along with him none of the arrogant disdain the
+[20:26 --> 20:30] boys raised on the Palatine Hill seemed to carry around with them as they arrived in
+[20:30 --> 20:35] wherever to serve their perfunctory proconsul ships.
+[20:35 --> 20:40] As emperor, Trajan brought this worldview with him, fully recognizing that the empire
+[20:40 --> 20:45] he ruled was not a collection of faceless conquered people led by a divinely ordained
+[20:45 --> 20:50] elite in Rome, but rather a collection of unique and talented peoples who were all contributing
+[20:51 --> 20:54] to the greatness of the empire to which they belonged.
+[20:54 --> 21:02] It was a worldview that would serve Trajan and the Roman Empire as a whole quite well.
+[21:02 --> 21:06] Through the mess of Domitian's assassination and Nerva's ascension, Trajan did his best
+[21:06 --> 21:10] to keep his troops in line and loyal to the legal emperor.
+[21:10 --> 21:15] But he was not oblivious to their unhappiness with the situation, nor their whispered calls
+[21:15 --> 21:20] that perhaps he ought to be sitting on the throne instead of shifty old Nerva.
+[21:20 --> 21:25] But before he had a chance to really be persuaded that he ought to, you know, take matters
+[21:25 --> 21:30] into his own hand, the Praetorian revolt made the whole question moot.
+[21:30 --> 21:34] Knowing full well that Trajan was the most popular man in the army, and that he needed
+[21:34 --> 21:39] the army on his side if he hoped to remain on the throne, Nerva suddenly announced his
+[21:39 --> 21:43] intention to adopt Trajan and make him his heir.
+[21:43 --> 21:48] Elevated to the consulship for 98 AD and given a full share of the emperor's tribunation
+[21:49 --> 21:55] Trajan suddenly found himself not just heir, but practically co-emperor.
+[21:55 --> 21:59] There's some speculation that with Trajan in place and well received, that Nerva was
+[21:59 --> 22:02] planning to abdicate the throne.
+[22:02 --> 22:06] But we'll never know for sure because in January 98 AD, Nerva died of an illness at the age
+[22:06 --> 22:11] of 67 after just 16 months in office.
+[22:11 --> 22:15] Trajan was in Germany when Nerva died, and it is traditionally reported that it was young
+[22:15 --> 22:21] Hadrian, future emperor himself, who delivered the news that Trajan was now the sole emperor
+[22:21 --> 22:25] of the Roman Empire.
+[22:25 --> 22:29] Nerva's reign had been brief and stormy, and in the end we should probably be talking about
+[22:29 --> 22:33] the four good emperors rather than the five good emperors.
+[22:33 --> 22:38] But as a temporary stopgap to fend off civil war, he did just fine.
+[22:38 --> 22:43] His alimentary system did entrench itself as a cornerstone of the enlightened despotism
+[22:43 --> 22:48] that defined his successors, and whatever damage his economic flailing did was short-lived
+[22:48 --> 22:52] as Trajan soon solved the empire's money problems.
+[22:52 --> 22:57] So Nerva's personal legacy was a mixed bag that did some long-term good, but no real
+[22:57 --> 23:00] long-term damage.
+[23:00 --> 23:04] But of course, he will always be remembered as one of the five good emperors because his
+[23:04 --> 23:09] chosen heir turned out to be Trajan, who was consistently ranked either second or third,
+[23:09 --> 23:15] on what you think of Constantine, on the list of greatest emperors of all time.
+[23:15 --> 23:20] So Nerva stuck the landing on the most critical decision of his reign, and for that alone,
+[23:20 --> 23:24] we shouldn't kick him around too much.
+[23:24 --> 23:29] When we come back, we will begin the reign of Trajan, who, as I said, is widely considered
+[23:29 --> 23:33] one of the best emperors in Roman history.
+[23:33 --> 23:37] A military man at heart, he would leave Augustus' injunction against further expansion in the
+[23:37 --> 23:43] dust and push the empire into heretofore unconquered territory, bringing back with
+[23:43 --> 23:47] him riches that would fund a century of Roman brilliance.
+[23:47 --> 23:51] As a result of his campaigns, practically every standard map of the Roman Empire you
+[23:51 --> 23:58] see today is labeled down in the corner, Roman Empire at its greatest extent, 117 AD, or
+[23:58 --> 24:00] something like that.
+[24:00 --> 24:01] That was Trajan.
+[24:01 --> 24:04] He was Rome at its greatest extent.
+[24:05 --> 24:09] However, I must tell you that Trajan will have to wait until after the new year.
+[24:09 --> 24:14] I'm taking two weeks off for the holidays, but we'll be back on January 10 to begin
+[24:14 --> 24:19] the century Gibbon famously called, the period when the condition of the human race was at
+[24:19 --> 24:22] its happiest and most prosperous.
+[24:22 --> 24:23] Happy Saturnalia.

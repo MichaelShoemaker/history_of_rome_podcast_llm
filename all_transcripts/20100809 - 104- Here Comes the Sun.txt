@@ -1,0 +1,347 @@
+# 20100809 - 104- Here Comes the Sun
+# Detected language: en
+# Duration: 1731.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. Audible is the Internet's leading
+[00:06 --> 00:10] provider of audio entertainment with over 60,000 titles to choose from. When you're
+[00:10 --> 00:18] done with this episode, go to audiblepodcast.com forward slash Roam. That again, audiblepodcast.com
+[00:18 --> 00:23] forward slash Roam. By going to that address, you qualify for a free book download when
+[00:23 --> 00:28] you sign up for a 14-day trial membership. There is no obligation to continue the service
+[00:28 --> 00:32] and you can cancel anytime and keep the free book. You can also keep going with one of
+[00:32 --> 00:38] their monthly subscription options and get great deals on all future audiobook purchases.
+[00:38 --> 00:42] This week, I'm going to recommend The Ghosts of Cannae, Hannibal and the Darkest Hour of
+[00:42 --> 00:48] the Roman Republic by Robert O'Connell, an accounting not just of the battle itself,
+[00:48 --> 00:53] but of its generations-long impact on the course of Roman history. Just released a few
+[00:53 --> 00:57] days ago, you will not be surprised to learn that it has shot to the top of my reading
+[00:57 --> 01:04] list. Just remember to go to audiblepodcast.com forward slash Roam so that they know who sent
+[01:04 --> 01:07] you.
+[01:07 --> 01:14] Hello, and welcome to The History of Rome, episode 104, Here Comes the Sun. So I need
+[01:19 --> 01:24] to start this week with a brief correction. In the episode before last, while I was discussing
+[01:24 --> 01:29] Septimius Severus' campaign in Caledonia, I mentioned that one of the lasting consequences
+[01:29 --> 01:35] of the war was that Severus helped reconstruct Hadrian's Wall, leading the Romans to actually
+[01:35 --> 01:42] call it the Severan Wall. This is not true at all. What he actually did was re-occupy
+[01:42 --> 01:46] and reconstruct the Antonine Wall, which had been abandoned around the time Marcus Aurelius
+[01:46 --> 01:52] became emperor. Roman historians did thereafter call this fortification the Severan Wall,
+[01:52 --> 01:57] but they never ever called Hadrian's Wall that, because Severus never ordered any major
+[01:57 --> 02:03] reconstruction of Hadrian's Wall. Sorry for the mix-up, and thanks to Lane Brown for bringing
+[02:03 --> 02:06] this flub to my attention in the comment section.
+[02:06 --> 02:13] So moving on. I think it's possible that in another time and place, Marcus Opellius
+[02:13 --> 02:19] Macrinus might have made a pretty good emperor. He was smart, able to make difficult decisions,
+[02:19 --> 02:24] and had always been an excellent administrator. Even the things he actually did that caused
+[02:24 --> 02:29] everyone to lose confidence in him proved to be more or less the right call in the long
+[02:29 --> 02:36] run. Wasting the empire's dwindling resources in an attempt to defend the honor of Caracalla
+[02:36 --> 02:43] was bad policy, and Macrinus knew it. So he refused to do it. The dead emperor had picked
+[02:43 --> 02:47] fights all over the place, and rather than digging in on those fights, Macrinus asked
+[02:47 --> 02:52] everyone to please form an orderly line, and one by one described to him the nature
+[02:52 --> 02:56] of their grievance with Rome. Then he gave them whatever they wanted to make the issue
+[02:56 --> 03:04] go away. Macrinus knew full well that in each case, Rome, that is, Caracalla, had been the
+[03:04 --> 03:09] guilty party, and ever the lawyer, he knew that it would be far more damaging for these
+[03:09 --> 03:14] things to go to trial than to just settle out of court right now.
+[03:14 --> 03:20] But things get tricky when it's an emperor committing needlessly provocative crimes.
+[03:20 --> 03:25] Because when an emperor does something, it is Rome doing something. And so, like it or
+[03:25 --> 03:29] not, when you refuse to defend Caracalla's honor, it looks very much like you were refusing
+[03:29 --> 03:38] to defend Rome's honor. And in the honor-crazy classical world, that was simply not acceptable.
+[03:38 --> 03:43] In trying to mop up after Caracalla, Macrinus was making Rome look weak, spineless, and
+[03:43 --> 03:50] even cowardly. I think it is fair to say that, as the old saying goes, most Roman leaders
+[03:50 --> 03:56] would rather be strong and wrong than weak and right. Weak and right may mean right today,
+[03:56 --> 04:02] but it also means that they'll think they can push you around tomorrow. Strong and wrong
+[04:02 --> 04:08] means that everyone is still afraid to mess with you. Macrinus chose to be weak and right,
+[04:08 --> 04:14] and as a result, he was not long for the throne.
+[04:14 --> 04:19] But still, I think Macrinus might have survived, and even thrived, had he not had two big factors
+[04:19 --> 04:25] working against him. Factors that another emperor, say Hadrian, who also brazenly ignored
+[04:25 --> 04:32] everyone's notion of being strong, did not have to deal with. First, Macrinus was essentially
+[04:32 --> 04:38] a usurper, without anything resembling a claim to the throne, legal, sentimental, or otherwise.
+[04:39 --> 04:44] It had always been hard to toss aside even ridiculously terrible emperors like Commodus
+[04:44 --> 04:49] or Caligula, because they came with a lofty imperial pedigree. But tossing aside a man
+[04:49 --> 04:55] without history, and of such low rank like Macrinus, just say the word.
+[04:55 --> 05:01] Second, by this point in Roman history, the discipline of the rank and file troops had
+[05:01 --> 05:08] deteriorated to the point that honor and duty took a backseat to cash and prizes.
+[05:08 --> 05:12] I think their general attitude during the third century is best summed up in a quote
+[05:12 --> 05:17] from the inimitable Dwight K. Schrute. I feel like part of what I'm being paid for here
+[05:17 --> 05:23] is my loyalty, but if there were somewhere else that valued loyalty more highly, I'm
+[05:23 --> 05:27] going wherever they valued loyalty the most.
+[05:27 --> 05:31] Once the legions decided that someone else was going to value their loyalty more than
+[05:31 --> 05:36] Macrinus, his days were numbered.
+[05:36 --> 05:41] After a year spent paying off Rome's enemies while simultaneously refusing calls to pay
+[05:41 --> 05:46] off Rome's armies, Macrinus left the door wide open for someone to step forward and
+[05:46 --> 05:52] challenge his claim to the throne. In the spring of 218, that challenger appeared right
+[05:52 --> 05:54] on cue.
+[05:54 --> 06:01] Caracalla's maternal aunt, Julia Misa, aided immeasurably by a crafty eunuch named Gannys,
+[06:01 --> 06:05] had spent the few months they had been in exile working single-mindedly to get her
+[06:05 --> 06:08] family back into power.
+[06:08 --> 06:13] She quickly recognized Macrinus' two big weaknesses, his lack of any real claim to
+[06:13 --> 06:19] the throne and his perceived stiffing of the soldiers, and exploited both to the hilt.
+[06:19 --> 06:25] To attack the first weak point, she announced that her grandson, Varius Avidius Bossianus,
+[06:25 --> 06:30] who I will call Elagabalus from here on out, was actually the son of Caracalla and thus
+[06:30 --> 06:35] was the only man in the empire with a legitimate claim to the throne.
+[06:35 --> 06:40] To attack the second weak point, she simply promised that any legion supporting her grandson
+[06:40 --> 06:45] would be rewarded handsomely for the trouble.
+[06:45 --> 06:51] On May 16, 218 AD, the third legion, stationed in Syria, decided to roll the dice and openly
+[06:51 --> 06:56] declared their loyalty to the true emperor, young Elagabalus.
+[06:56 --> 07:01] When Macrinus learned of the rebellion, he immediately dispatched a sizable contingent
+[07:01 --> 07:05] of his Praetorian legions to nip the rebellion in the bud.
+[07:05 --> 07:09] But when messengers arrived back to report on what had happened, Macrinus was shocked
+[07:09 --> 07:15] to learn that rather than cowing the third legion and taking Elagabalus into custody,
+[07:15 --> 07:21] the Praetorian rank and file had instead joined the uprising.
+[07:21 --> 07:25] Themselves as disappointed in Macrinus as anyone, the Praetorian soldiers had turned
+[07:25 --> 07:31] on the senior officers and killed them before declaring their loyalty to Elagabalus.
+[07:31 --> 07:36] Now suddenly, Macrinus had a full-blown crisis on his hands.
+[07:36 --> 07:41] He scrambled to keep the rest of the legions in line and belatedly promised them the lavish
+[07:41 --> 07:45] donatatives he had thus far been holding back.
+[07:45 --> 07:48] But it was too little, too late.
+[07:48 --> 07:52] The second legion saw which way the winds were blowing and defected to Elagabalus soon
+[07:52 --> 07:55] after the Praetorian mutiny.
+[07:55 --> 08:01] Now Elagabalus controlled two full legions as well as the cream of the Praetorian guard.
+[08:01 --> 08:05] The fact that all the rest of the legions in the empire were still nominally with him
+[08:05 --> 08:11] was cold comfort to Macrinus because in the microcosm of Syria where a major confrontation
+[08:11 --> 08:17] was now inevitable, he was about to be outnumbered.
+[08:17 --> 08:22] About three weeks after the third legion declared for Elagabalus, that final confrontation arrived.
+[08:23 --> 08:28] Outside of Antioch, Macrinus gathered what troops he could still muster to fight for
+[08:28 --> 08:32] him and lined them up against the legions of Elagabalus who were led into battle by
+[08:32 --> 08:35] the eunuch Gannes.
+[08:35 --> 08:40] In the ensuing battle, the two sides were pretty evenly matched, but the superior command
+[08:40 --> 08:45] of Gannes won out against the less capable Macrinus.
+[08:45 --> 08:50] There is still some debate as to whether the battle in and of itself should have been decisive.
+[08:50 --> 08:54] After all, Macrinus still had the rest of the empire with him.
+[08:54 --> 09:00] He had even convinced the senate to declare Elagabalus and Julia Misa enemies of the state.
+[09:00 --> 09:06] Plus, whatever their personal feelings towards Macrinus, the legions of the west may not
+[09:06 --> 09:12] have been as keen on backing a 14 year old Syrian boy as the eastern legions had been.
+[09:12 --> 09:15] But in the battle, two things happened.
+[09:15 --> 09:20] First, Elagabalus apparently displayed a degree of courage during the fight and had rallied
+[09:20 --> 09:23] a flagging cavalry charge.
+[09:23 --> 09:28] While second, in contrast, Macrinus had fled the field the minute things began to go against
+[09:28 --> 09:29] him.
+[09:29 --> 09:35] This only deepened the impression that Macrinus was a coward and whatever little faith people
+[09:35 --> 09:41] were still willing to invest in him fled the field along with the emperor.
+[09:41 --> 09:46] The now disgraced Macrinus tried to flee back to Rome to regroup, but he was caught by agents
+[09:46 --> 09:50] of the Severans in Cappadocia and executed.
+[09:50 --> 09:58] He was 58 years old and had ruled the empire for just 14 months.
+[09:58 --> 10:02] This left Rome in the hands of 14 year old Elagabalus.
+[10:02 --> 10:07] With no other viable candidate stepping forward and with amnesty promised the senate, who
+[10:07 --> 10:12] had, after all, just declared him a public enemy, the senators accepted the legitimacy
+[10:12 --> 10:16] of the boy shortly after the Severan victory at Antioch.
+[10:16 --> 10:23] Now, we often call young Elagabalus the first eastern born emperor, but in fact he was half
+[10:23 --> 10:28] Syrian half African just like Caracalla and Geta had been.
+[10:28 --> 10:34] The reason he is often saddled with this distinction is that because unlike any of his predecessors
+[10:34 --> 10:38] this new emperor was culturally eastern.
+[10:38 --> 10:42] Wherever they came from originally, the men who became emperor, by the time they became
+[10:42 --> 10:48] emperor, were fully Roman in their manner of speech and dress and tastes.
+[10:48 --> 10:55] But not Elagabalus, he was truly a Syrian Syrian, something the Romans back in Rome
+[10:55 --> 11:00] were about to find out.
+[11:00 --> 11:05] After the defeat of Macrinus, Elagabalus and his entourage, or should I say at this point
+[11:05 --> 11:10] Julia Misa and her entourage, which included Elagabalus, took their sweet time making the
+[11:10 --> 11:13] trip back to the capital.
+[11:13 --> 11:19] They passed the winter of 218-219 in Bithynia and only with the autumn of 219 approaching,
+[11:19 --> 11:26] more than a year after the initial revolt of the third legion, did they arrive in Rome.
+[11:26 --> 11:30] But to prepare the Romans, and the senate especially, for the coming of their new master,
+[11:30 --> 11:35] a portrait of Elagabalus had been delivered to the capital with instructions to hang it
+[11:35 --> 11:40] in the senate house where it would oversee all proceedings.
+[11:40 --> 11:45] The picture was mostly meant to help them all recognize Elagabalus when he finally arrived,
+[11:45 --> 11:50] as most people had no idea what he looked like, but all the senators saw was a horrifying
+[11:50 --> 11:53] glimpse of what was to come.
+[11:53 --> 11:58] The portrait showed Elagabalus dressed in silk and robes, adorned with rings and other
+[11:58 --> 12:01] jewelry, and is that makeup?
+[12:01 --> 12:04] Is that kid wearing eyeliner?
+[12:04 --> 12:09] Though Roman austerity had long ago been vanquished by the might of luxury and decadence, there
+[12:09 --> 12:15] were still a few old taboos rattling around, and a man wearing silk robes and makeup was
+[12:15 --> 12:19] definitely on that list.
+[12:19 --> 12:25] But appearances aside, the senate was also inflamed by Elagabalus' disregard for another
+[12:25 --> 12:26] taboo.
+[12:26 --> 12:31] Traditionally, the key powers invested in the emperor, the tribunition authority, the
+[12:31 --> 12:38] proconsular super-authority, were just that, invested in the emperor by the senate.
+[12:38 --> 12:42] Whether it was an exercise in rubber stamping was beside the point.
+[12:42 --> 12:47] The emperor had to ask, and the senate had to give.
+[12:47 --> 12:52] In assuming power, though, Elagabalus and his advisors had not asked.
+[12:52 --> 12:56] More steeped in the traditions of oriental despotism than they were in the traditions
+[12:56 --> 13:02] of the Roman senate, the men surrounding the new emperor had simply declared that Elagabalus
+[13:02 --> 13:06] now held all the powers of imperial office.
+[13:06 --> 13:09] This rankled the senate to no end.
+[13:09 --> 13:14] Coupled with the disturbing portrait of the Syrian dandy hanging on the wall, well, let's
+[13:14 --> 13:21] just say that the reign of Elagabalus was not getting off to a great start.
+[13:21 --> 13:25] And it wasn't just the stuff-shirts in the senate who were regretting the rise of the
+[13:25 --> 13:27] boy emperor.
+[13:27 --> 13:31] The legions who had raised him up and were on hand to witness Elagabalus' day-to-day
+[13:31 --> 13:36] conduct were shocked at the boy's behavior.
+[13:36 --> 13:41] Raised with all the privileges that came with being a member of the imperial family, Elagabalus,
+[13:41 --> 13:45] not unlike Caracalla and Geta, had been spoiled rotten.
+[13:45 --> 13:51] He had no boundaries, no sense of prudence, and displayed no evidence whatsoever of holding
+[13:51 --> 13:53] any inhibitions.
+[13:53 --> 13:58] He dressed as he liked, wore the perfumes that he liked, and frequently consorted with
+[13:58 --> 14:03] any man, woman, boy, or girl that struck his fancy.
+[14:03 --> 14:08] It didn't take long for many in the legions, officers and soldiers alike, to begin to doubt
+[14:08 --> 14:14] the character of this proto-comedist they had helped to win the throne.
+[14:14 --> 14:19] In a telling sign of the kind of loyalty Elagabalus commanded once people really got to know him,
+[14:19 --> 14:24] two eastern legions, including the third, which, as you'll recall, had been the first
+[14:24 --> 14:31] ones to support him, both attempted revolt before Elagabalus even made it to Rome.
+[14:31 --> 14:36] The mutinies were put down, and in the process, the third legion, the one that had been first
+[14:36 --> 14:45] to declare for him, was completely disbanded, which is not exactly a promising omen.
+[14:45 --> 14:50] Elagabalus and his extended family finally arrived in Rome in the autumn of 219, and
+[14:50 --> 14:57] right off the bat, Julia Misa, through Elagabalus, ensured that the Severan dynasty was firmly
+[14:57 --> 15:02] re-entrenched in the hearts and minds of the Romans by forcing the Senate to deify both
+[15:02 --> 15:06] Caracalla and her sister Julia Domna.
+[15:06 --> 15:10] She then finally got her own taste of real authority by graciously accepting the title
+[15:10 --> 15:18] Augusta, which the Senate had generously foisted upon her and Elagabalus's mother.
+[15:18 --> 15:22] But that was not enough for the new Augusta, and she crossed way over the line, pretty
+[15:22 --> 15:28] far over the line even for the line crossing happy court of Elagabalus, by forcing the
+[15:28 --> 15:34] Senate to allow her and her daughter to sit in on senatorial sessions.
+[15:34 --> 15:38] The Senate had never been allowed to take part in these proceedings, and though Livia
+[15:38 --> 15:43] and Agrippina had both been allowed to listen in, they were both safely hidden from view
+[15:43 --> 15:45] by a curtain.
+[15:45 --> 15:51] But Julia Misa was aiming to become the most powerful woman the empire had ever known.
+[15:51 --> 15:55] She considered Elagabalus to be merely a puppet and planned to control every aspect of the
+[15:55 --> 16:04] imperial administration herself, and if that meant crashing another taboo, so be it.
+[16:04 --> 16:09] But young Elagabalus had no intention of being merely a puppet.
+[16:09 --> 16:13] He was emperor, not his mother or his grandmother.
+[16:13 --> 16:19] What he said was the final word, and what he wanted would be what the empire got.
+[16:19 --> 16:24] He was a typically headstrong fourteen-year-old, and much to Julia Misa's dismay, she found
+[16:24 --> 16:30] herself, along with everyone else, subject to his whims.
+[16:30 --> 16:34] The thing that perhaps tipped the scales away from Julia Misa, and made Elagabalus
+[16:34 --> 16:40] so hard to control, was that in addition to being the spoiled son of wealth and power,
+[16:40 --> 16:45] he had also inherited the high priesthood of the sun-god Elagabal, which filled the
+[16:45 --> 16:50] teenager with the sense that he was a quasi-divine figure.
+[16:50 --> 16:55] We need look no further than the fact that he assumed the name Elagabalus to prove how
+[16:55 --> 17:00] much the young emperor felt that his role was high priest to find him.
+[17:00 --> 17:04] At the end of the day, it was probably more important to him than his role was the head
+[17:04 --> 17:11] of some mortal empire, a fact that would become all too apparent to the citizens of said mortal
+[17:11 --> 17:13] empire.
+[17:13 --> 17:21] Rome, as you know, was a highly superstitious society, and one that took its various cults
+[17:21 --> 17:25] and temples and ceremonies very seriously.
+[17:25 --> 17:30] The gods they worshipped had been the gods who transformed Rome from a disreputable little
+[17:30 --> 17:34] village of vagabonds into the master of the western world.
+[17:34 --> 17:39] That was not a thing to be taken lightly, and it was important that credit was always
+[17:39 --> 17:42] given where credit was due.
+[17:42 --> 17:48] But in Elagabalus's mind, there was only one god, the sun-god El-Gabal, who also became
+[17:48 --> 17:53] known as Sol Invictus, the unconquered sun.
+[17:53 --> 17:58] The new emperor, obsessively pious as he was, announced shortly after arriving in Rome
+[17:58 --> 18:04] that henceforth all temples in the city would be rededicated to El-Gabal, because all the
+[18:04 --> 18:11] gods, Jupiter included, were simply inferior aspects of the one true god.
+[18:11 --> 18:16] The rituals and cults that had defined Rome, and in the Roman mind kept them safe, were
+[18:16 --> 18:18] suppressed.
+[18:18 --> 18:23] In their place, Elagabalus instituted dozens of variations of sun worship.
+[18:23 --> 18:28] With the caper being an hours-long ceremony the emperor himself performed almost daily,
+[18:28 --> 18:34] and that he required the senate not just to attend, but to take part in.
+[18:34 --> 18:39] To the Romans, this was not just blasphemy, it was dangerous.
+[18:39 --> 18:43] Everyone feared what Jupiter's reaction would be when he discovered that the Romans had
+[18:43 --> 18:51] ceased to make offerings in his names, and that the rituals he prescribed had been abandoned.
+[18:51 --> 18:55] Compounding the sense of outrage that was bubbling up in Rome was the private life of
+[18:55 --> 18:56] young Elagabalus.
+[18:56 --> 19:03] Well, maybe private life isn't the right term, as it was in every sense of very public
+[19:03 --> 19:05] life.
+[19:05 --> 19:11] Were he alive today, it is likely Elagabalus's identity would be classified as some variation
+[19:11 --> 19:13] of transgender.
+[19:13 --> 19:18] He took both male and female lovers, but most of the time dressed in clothing that would
+[19:18 --> 19:20] have been considered highly effeminate.
+[19:20 --> 19:27] Famously, his most stable long-term relationship was with his chariot driver, Hierocles, and
+[19:27 --> 19:34] it tickled the emperor to no end to refer to himself as Hierocles's wife, or Hierocles's
+[19:34 --> 19:35] queen.
+[19:35 --> 19:41] And this was really where his conduct became a source of shame for the population.
+[19:41 --> 19:47] As we've noted previously, homosexual relations in Rome were widespread and not particularly
+[19:47 --> 19:52] controversial, but that was as long as you were the dominant partner.
+[19:52 --> 19:57] To have the emperor take on the passive role, dress as a woman, and cheerfully answer to
+[19:57 --> 20:05] the title of queen, well, that was way outside the bounds.
+[20:05 --> 20:10] Even when he assumed the regular old gender role of straight husband, he infuriated Roman
+[20:10 --> 20:12] sensibilities.
+[20:12 --> 20:17] Over the course of his brief reign, less than four years total, he took no less than five
+[20:17 --> 20:24] different wives, abandoning them and sometimes returning to them with alarming speed.
+[20:24 --> 20:30] Most offensive, though, was his decision to marry a Vestal Virgin, so that together they
+[20:30 --> 20:32] could produce divine children.
+[20:32 --> 20:39] Obviously, this made a mockery of the virgin part of the Vestal Virgins, and if it went
+[20:39 --> 20:44] unpunished, the Romans feared this sacrilege would bring who knows what terrible fortune
+[20:44 --> 20:47] upon the empire.
+[20:47 --> 20:52] All of these outrages, his flouting of sexual taboos, his destruction of traditional Roman
+[20:52 --> 20:58] religion, and his habit of appointing low-born friends and lovers to key administrative posts,
+[20:58 --> 21:06] began to wear so thin that the fabric started to tear.
+[21:06 --> 21:11] Julia Misa, who had been the driving force behind the boy's elevation in the first place,
+[21:11 --> 21:15] quietly began to reconsider her position.
+[21:15 --> 21:19] She found herself on the outs with the boy, unable to control the puppet she thought she
+[21:19 --> 21:22] had so skillfully carved.
+[21:22 --> 21:27] Her daughter seemed content to let the boy follow his whims wherever they may take him,
+[21:27 --> 21:33] happy to trade power and influence for the luxuries of imperial court life, and so Julia
+[21:33 --> 21:38] Misa began making plans to abandon them both.
+[21:38 --> 21:44] Giving up on Elagabalus, she turned to her other grandson, Alexander Severus, to see
+[21:44 --> 21:46] what he was made of.
+[21:46 --> 21:52] In contrast to Elagabalus, Alexander was a quiet, serious boy who seemed much better
+[21:52 --> 21:56] suited temperamentally for a long-term stay on the throne.
+[21:56 --> 22:02] Elagabalus, on the other hand, utterly indifferent to how many people he was pissing off, was
+[22:02 --> 22:06] clearly going to run into a dagger one of these days.
+[22:06 --> 22:11] If Julia played her cards right, she might be able to position Alexander as the successor
+[22:11 --> 22:17] to Elagabalus, and so, when Elagabalus finally ran into that dagger, she would still have
+[22:17 --> 22:22] another shot at being the real power behind the throne.
+[22:22 --> 22:28] In 221, she managed, after a bit of coaxing and pleading, to convince Elagabalus to name
+[22:28 --> 22:35] his cousin Caesar, and, at least for now, make Alexander the heir to the throne.
+[22:35 --> 22:39] This way, if anything, God forbid, should happen to you, then the throne will remain
+[22:39 --> 22:40] in the family.
+[22:40 --> 22:46] Naturally, when you have children of your own, this can all be rearranged, but for now,
+[22:46 --> 22:49] it's just a smart insurance policy.
+[22:49 --> 22:50] Think of your mother.
+[22:50 --> 22:54] They'll probably kill her if the throne falls into the wrong hands.
+[22:55 --> 23:01] Coincidentally, as soon as Elagabalus agreed and Alexander was made Caesar, the assassination
+[23:01 --> 23:04] attempts began.
+[23:04 --> 23:09] There was no shortage of conspirators ready to take a shot at Elagabalus, and the shot
+[23:09 --> 23:16] started coming fast and furious as 221 rolled over to 222.
+[23:16 --> 23:20] Elagabalus managed to escape the first few tries, but it was becoming obvious that not
+[23:20 --> 23:27] only did he have enemies, but those enemies filled the ranks of the Praetorian guard.
+[23:27 --> 23:31] Having the best seat in the house to witness all of Elagabalus's depravities, and being
+[23:31 --> 23:37] forced to obey all of his orders to boot, the Praetorians probably hated him more than
+[23:37 --> 23:42] anyone else, and Elagabalus soon realized that he really couldn't trust them anymore.
+[23:42 --> 23:48] Especially, because they all seemed to love his cousin Alexander so much.
+[23:48 --> 23:52] And come to think of it, maybe my grandmother didn't want me to name him Caesar so he could
+[23:52 --> 23:55] be my heir, just in case.
+[23:55 --> 24:02] Maybe she wanted me to name him Caesar so he could be my replacement.
+[24:02 --> 24:07] Furious at being duped into appointing his own replacement, Elagabalus immediately wrote
+[24:07 --> 24:13] Alexander out of his will, and revoked the title of Caesar in March of 222.
+[24:13 --> 24:18] Regardless of everyone at this point, he then let it be known that Alexander had actually
+[24:18 --> 24:22] died just to see how people would react.
+[24:22 --> 24:26] The Praetorians flew into a frenzy.
+[24:26 --> 24:30] Not yet convinced that Alexander was dead, they threatened to riot if Elagabalus did
+[24:30 --> 24:36] not produce the boy alive and well right this instant.
+[24:36 --> 24:40] Elagabalus took note of the rage exploding out of the Praetorian camp, and was pleased
+[24:40 --> 24:43] that he had flushed out their true feelings.
+[24:43 --> 24:49] But he was not so pleased to discover that he had sort of let the genie out of the bottle.
+[24:49 --> 24:53] The Praetorians refused his orders to stand down, and they continued to threaten the emperor
+[24:53 --> 25:00] with deadly force if he didn't produce Alexander right this instant.
+[25:00 --> 25:07] Afraid of what they might actually do to him, Elagabalus had no choice but to comply.
+[25:07 --> 25:12] Accompanied by his mother, Elagabalus escorted Alexander to the camp, and when they all made
+[25:12 --> 25:16] their entrance, the Praetorians began to cheer.
+[25:16 --> 25:20] Completely ignoring the emperor and his mother, the Praetorians raised Alexander on their
+[25:20 --> 25:26] shields and bore him to the head of the line and acclaimed him Caesar.
+[25:26 --> 25:30] Elagabalus interrupted this celebration by reminding the Praetorians that Alexander was
+[25:30 --> 25:37] not, nor would he ever again be, Caesar, and that as the emperor, his word was final.
+[25:37 --> 25:41] This was a big mistake.
+[25:41 --> 25:46] The Praetorians turned on him with hate in their eyes, and Elagabalus suddenly realized
+[25:46 --> 25:49] how much danger he was in.
+[25:49 --> 25:54] He and his mother tried to flee, but they were quickly seized by the angry guard.
+[25:54 --> 25:58] Without ceremony or hesitation, they were both killed and their bodies dragged through
+[25:58 --> 26:01] the streets in disgrace.
+[26:01 --> 26:09] Elagabalus was only eighteen years old, and he had ruled Rome for just shy of four years.
+[26:09 --> 26:15] His reign had been a strange detour that in the end had very little impact on the course
+[26:15 --> 26:17] of Roman history.
+[26:17 --> 26:22] All his religious reforms were canceled immediately, all of his friends and consorts were thrown
+[26:22 --> 26:28] out of power, and life more or less returned to normal.
+[26:28 --> 26:32] As usual when it comes to the bad emperors, it is difficult to pick through the various
+[26:32 --> 26:39] histories to determine which stories about Elagabalus are true and which ones are false.
+[26:39 --> 26:44] Everyone had an axe to grind with the mad little teenager from Syria, and the only tool
+[26:44 --> 26:48] anyone had left was character assassination.
+[26:48 --> 26:53] So did he really smother dinner guests to death under a massive pile of flower petals?
+[26:53 --> 26:55] Probably not.
+[26:55 --> 27:00] But the infuriating obsession with Sol Invictus was real enough, as was probably a lot of
+[27:00 --> 27:03] his scandalous social life.
+[27:03 --> 27:09] But again, how much and which particulars are true is tough to discern.
+[27:09 --> 27:14] He was bad enough and dangerous enough that he was betrayed by his grandmother and abandoned
+[27:14 --> 27:16] by the Praetorian Guard.
+[27:16 --> 27:21] But then again, I can think of perfectly selfish reasons for everyone to have acted just the
+[27:21 --> 27:26] way they did without Elagabalus needing to be a horrible monster for them to do it.
+[27:26 --> 27:29] Julia Misa was angry the boy wouldn't listen to her.
+[27:29 --> 27:35] The troops maybe had been promised more money if they backed Alexander.
+[27:35 --> 27:41] But in all likelihood, the stereotype of Elagabalus the crazy hedonist was not invented
+[27:41 --> 27:43] out of whole cloth.
+[27:43 --> 27:46] These things come from somewhere.
+[27:46 --> 27:53] And everyone in Rome sure seemed pretty happy when he was gone.
+[27:53 --> 27:58] Next week, we'll get into the tragic reign of his successor, Alexander Severus, who tried
+[27:58 --> 28:03] in every way to be the polar opposite of Elagabalus.
+[28:03 --> 28:08] He was smart, conscientious, dedicated, and made a habit of listening to those who needed
+[28:08 --> 28:13] to be listened to and ignoring those who needed to be ignored.
+[28:13 --> 28:18] Young Alexander always showed maturity and vision beyond his years.
+[28:18 --> 28:23] But the era into which he was born refused to reward his unimpeachable character and
+[28:23 --> 28:27] instead used it as an excuse to stab him in the back.

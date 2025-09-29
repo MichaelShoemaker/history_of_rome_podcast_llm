@@ -1,0 +1,252 @@
+# 20100225 - 004- The Public Thing
+# Detected language: en
+# Duration: 889.10 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:06] Hello, and welcome to the History of Rome.
+[00:08 --> 00:12] It had been 200 years since the founding of Rome, and since that time the Romans had
+[00:12 --> 00:14] undergone a massive transformation.
+[00:14 --> 00:19] In the beginning they were a collection of pastoral herdsmen and unsavory castoffs,
+[00:19 --> 00:23] making their way in the world by flock and trade, and since that time they had learned
+[00:23 --> 00:26] to become settled farmers, tilling the land and raising crops.
+[00:26 --> 00:31] They had gone from being a collection of armed rabble to a society of laws with a well-equipped,
+[00:31 --> 00:32] well-disciplined army.
+[00:33 --> 00:37] They had gone from upstart village to regional capital, and now stood ready to challenge
+[00:37 --> 00:39] a wider pool of neighbors for control of all Italy.
+[00:40 --> 00:44] The Etruscans lay to the north and the Greeks to the south, and having conquered
+[00:44 --> 00:47] the central lowlands during the reign of the kings, the Romans now turned to the
+[00:47 --> 00:52] hills and mountains of East Italy for fresh conquests, and, as always, were forced to
+[00:52 --> 00:55] parry the thrust of the Etruscan cities to the north.
+[00:56 --> 00:58] This is the world into which the Republic was born.
+[00:59 --> 01:04] According to the legendary chronology, the kings were overthrown in 509 BC, though the
+[01:04 --> 01:05] date is highly suspect.
+[01:06 --> 01:11] Most likely later, patriotic Roman historians changed the timing of the event to slightly
+[01:11 --> 01:15] predate the establishment of democracy in Athens by Cleisthenes in 508 BC.
+[01:16 --> 01:20] The Romans had a hard time believing they were not first and best in everything,
+[01:20 --> 01:24] especially in the democracy they took so much pride in, so they altered their history
+[01:24 --> 01:25] to outdo the Greeks.
+[01:26 --> 01:30] However, without any concrete data, it is hard to know exactly when the kings were
+[01:30 --> 01:34] driven out, so we are forced to mark our own histories of the city with the 509 date.
+[01:35 --> 01:40] As I said in part one, the sack of Rome by the Gauls in 389 BC destroyed all primary
+[01:40 --> 01:44] documentation, so we are left with a mixture of legend and historical fiction.
+[01:45 --> 01:49] Before we get into the story of the early Republic, I want to pause for a
+[01:49 --> 01:51] moment and establish who exactly we are talking about here.
+[01:51 --> 01:56] I often say that Rome did this and that the Romans did that, but except for a few
+[01:56 --> 02:00] passing disambiguations, I have not done much to describe the varying nature of the
+[02:00 --> 02:01] population.
+[02:02 --> 02:06] Were they some homogeneous hive mind who agreed on everything and acted with a
+[02:06 --> 02:06] single will?
+[02:07 --> 02:08] No, quite the opposite.
+[02:09 --> 02:12] There were rich Romans and poor Romans and middle class Romans.
+[02:12 --> 02:14] There were men and women and children.
+[02:14 --> 02:19] There were slaves and freed slaves and immigrants and criminals and honest men
+[02:19 --> 02:21] who worked hard every day and lazy men who did not.
+[02:22 --> 02:25] There were prostitutes and vestal virgins and intellectuals and illiterates.
+[02:26 --> 02:30] Just like any society, the city of Rome was inhabited by a vast array of
+[02:30 --> 02:33] individuals, each with their own worldview, motivation and dream.
+[02:34 --> 02:37] And just like in any society, the Romans did not always get along with
+[02:37 --> 02:41] one another and, in fact, often fought bitterly with one another for
+[02:41 --> 02:43] control and freedom from control.
+[02:44 --> 02:48] When the Republic was founded, the population of Rome was around 130,000.
+[02:49 --> 02:53] This population was divided into two basic groups, the patricians and the
+[02:53 --> 02:54] plebes.
+[02:54 --> 02:57] Put simply, the patricians came from those families who could trace their
+[02:57 --> 03:01] roots back to the original 100 senators chosen by Romulus and the
+[03:01 --> 03:03] plebes came from those that could not.
+[03:03 --> 03:07] Generally speaking, the distinction between patrician and plebe also
+[03:07 --> 03:10] followed economic class divisions, though, as we will see, it was never
+[03:10 --> 03:11] that simple.
+[03:11 --> 03:15] In the early days, the political weight of the classes was inversely
+[03:15 --> 03:16] related to their numerical size.
+[03:17 --> 03:20] The smaller set of patricians held power over the larger set of plebes.
+[03:21 --> 03:25] As I noted last week, the two richest classes in Rome held between them
+[03:25 --> 03:29] enough votes to snuff out any possible opposition, and those classes
+[03:29 --> 03:33] were, for the most part, made up of patricians, so the patricians
+[03:33 --> 03:34] made the rules.
+[03:34 --> 03:37] In the beginning, then, the Democratic Republic was really an oligarchy
+[03:37 --> 03:41] of wealthy aristocratic families who shaped policy to serve their
+[03:41 --> 03:44] interests and who had no intention of ever letting anyone else into the
+[03:44 --> 03:46] decision-making process.
+[03:46 --> 03:49] I don't want to get too far ahead of myself, but let me just say that it
+[03:49 --> 03:53] did not take long for the plebes, especially those plebes who were wealthy,
+[03:53 --> 03:55] to demand a greater voice in government.
+[03:56 --> 03:58] This tension between the patricians and the plebes would dominate Roman
+[03:58 --> 04:00] politics for the duration of the empire.
+[04:02 --> 04:05] Outside the basic patrician-plebe dichotomy, there were those without
+[04:05 --> 04:10] even nominal political standing, namely women, slaves, and immigrants.
+[04:10 --> 04:14] These groups formed a majority in sheer numerical terms, but were denied
+[04:14 --> 04:15] almost all political rights.
+[04:16 --> 04:19] Even the plebian males, who howled righteously at the injustice of
+[04:19 --> 04:22] being denied a say in government, would have cried just as loud if
+[04:22 --> 04:24] someone had suggested suffrage being extended
+[04:24 --> 04:27] to women or slaves or immigrants.
+[04:28 --> 04:32] The idea would have been beyond comprehension, and the contradictions of
+[04:32 --> 04:35] the early republic bear a striking resemblance to the contradictions of
+[04:35 --> 04:36] the early United States.
+[04:36 --> 04:39] When you picture the burgeoning Roman republic, picture what you know of
+[04:39 --> 04:41] the burgeoning American republic.
+[04:41 --> 04:44] The United States, though rhetorically cloaked in the language of
+[04:44 --> 04:48] freedom and equality, allowed only white, land-owning males to vote.
+[04:49 --> 04:52] Eventually the propertyless men agitated against the injustice of an
+[04:52 --> 04:56] oligarchical elite trampling on their freedoms and earned the same
+[04:56 --> 04:59] right, but women and blacks and Indians and the new immigrants were
+[04:59 --> 05:02] left out in the cold, present but unheard.
+[05:03 --> 05:07] This was Rome, a republic in which the disenfranchised majority were ruled by a
+[05:07 --> 05:12] disproportionately powerful elite. This then was the basic political
+[05:12 --> 05:16] breakdown of the population. Economically speaking, whether patrician
+[05:16 --> 05:20] or plebe, the majority of Romans were, by this time, settled farmers.
+[05:21 --> 05:24] But this was no utopia of land-owning citizen farmers.
+[05:24 --> 05:27] The land was owned by an elite minority and worked by the rest of
+[05:27 --> 05:31] the population. Economics and politics coincided just
+[05:31 --> 05:35] as they do today, and the tension between owner and operator mirrored the
+[05:35 --> 05:39] tension between patrician and plebe. Plebes were constantly agitating for
+[05:39 --> 05:42] land redistribution, and patricians blocked reform whenever
+[05:42 --> 05:45] they could. In this early stage of the empire,
+[05:45 --> 05:48] the actual work of the farms was still done by the lower-class
+[05:48 --> 05:51] citizens, slaves being an important part of the Roman economic model,
+[05:51 --> 05:54] but not yet the keystone upon which the entire system was based.
+[05:55 --> 05:59] The farms produced two basic products, food for internal consumption,
+[05:59 --> 06:02] usually grain and cereals, and crops for external trade,
+[06:02 --> 06:06] usually olives and grapes, and the refined offspring, oil and wine.
+[06:06 --> 06:10] The Romans, building on the roots already established by the Etruscans,
+[06:10 --> 06:13] used savvy trade policies to enrich themselves with all manner of foreign
+[06:13 --> 06:16] goods, establishing a truly international flavor
+[06:16 --> 06:19] in the city. But as in so many other aspects of
+[06:19 --> 06:21] Roman society, it was the wealthy patricians who
+[06:21 --> 06:25] controlled the import-export boards, and it was they who benefited the
+[06:25 --> 06:28] most from foreign trade. Needless to say, the landless plebe
+[06:28 --> 06:31] who worked in the fields did not dress in African finery
+[06:31 --> 06:35] and eat off of Greek silverware. Divisions were many within the
+[06:35 --> 06:38] population, economically and politically, and hatred
+[06:38 --> 06:42] abounded between the classes, but in the end they were all Romans
+[06:42 --> 06:45] and set aside their differences anytime the city was threatened,
+[06:46 --> 06:49] though picking up their rivalries right where they left off when danger
+[06:49 --> 06:52] had passed. That all being said, it's time to
+[06:52 --> 06:55] continue with our story. The tyranny of the monarchy had been
+[06:55 --> 07:00] vanished forever. It was decided, and again when you picture this, feel
+[07:00 --> 07:03] free to picture the patrician senators and equites hammering out the
+[07:03 --> 07:05] details, because it was really them making all the early decisions.
+[07:06 --> 07:08] The lower classes and plebes had nothing to do with it.
+[07:09 --> 07:12] The two men should rule annually to avoid any single man accumulating too
+[07:12 --> 07:15] much power. Originally these men were called
+[07:15 --> 07:18] praetors, though the title would be changed in the early 300s BC
+[07:18 --> 07:22] to the more familiar consul. For clarity's sake, I will use the
+[07:22 --> 07:25] latter designation even for the early executives who were technically
+[07:25 --> 07:28] praetors, because the office itself did not change, just the name,
+[07:29 --> 07:33] and well, most translations of early Roman history refer to them as consuls
+[07:33 --> 07:37] anyway, so there is no reason to confuse an already confusing situation
+[07:37 --> 07:42] with a lot of semantic nitpicking. Anyway, to the Roman mind, ensuring
+[07:42 --> 07:45] freedom was not so much a matter of scaling back or limiting the power of
+[07:45 --> 07:48] the executive as the founding fathers sought to do with their system of
+[07:48 --> 07:51] checks and balances, as it was a matter of limiting the
+[07:51 --> 07:54] length of time within which absolute rule could be wielded.
+[07:54 --> 07:59] The consuls had all the same powers a king had, near absolute power over war and
+[07:59 --> 08:02] peace, life and death, they just had to give it up after a
+[08:02 --> 08:05] year. The second consul was the one check
+[08:05 --> 08:09] the Romans did add into the system. One consul could veto the actions of
+[08:09 --> 08:13] the other, and that was that. Any consul who tried to run away with
+[08:13 --> 08:15] power could be stopped at a word from his colleague.
+[08:15 --> 08:19] If the two conspired to oppress the people, their terms of office expired
+[08:19 --> 08:21] after a year and they were back to being mere citizens,
+[08:21 --> 08:25] with all the legal weight that would be brought down upon two men who sought to
+[08:25 --> 08:29] make themselves king. In the end, it was the expiring term of
+[08:29 --> 08:31] office that really let the Romans sleep well at night.
+[08:31 --> 08:34] The executive power sharing was merely a useful novelty.
+[08:36 --> 08:39] In that year, 509 BC, this was as far as the republic had gone
+[08:40 --> 08:42] constitutionally. Rather than the comites and
+[08:42 --> 08:45] shariah getting together and electing a king who served for life,
+[08:45 --> 08:48] they got together and elected two men who served for one year.
+[08:48 --> 08:52] As I said last week, the first two consuls were Lucius Junius Brutus
+[08:52 --> 08:57] and Lucius Tarquinius Collatinus. The former led the revolt against the king
+[08:57 --> 09:01] and the latter's raped wife had sparked the event. Brutus's first act
+[09:01 --> 09:04] was to make all men swear an oath that they should never again
+[09:04 --> 09:08] allow a king to rule Rome. As you can see, the legacy of Numa
+[09:08 --> 09:12] remained a potent force. Brutus felt that a sacred oath before
+[09:12 --> 09:15] Jupiter would be enough to bind men to oppose monarchy,
+[09:15 --> 09:20] and, barring a few exceptions, it did. The Romans did not mess around with their
+[09:20 --> 09:23] oaths. There was, however, an immediate problem.
+[09:24 --> 09:27] Collatinus, you will note, bore the hated moniker Tarquinius,
+[09:27 --> 09:31] being a relative of the overthrown king. The population,
+[09:31 --> 09:35] jittery in their newfound freedom, worried that lust for power was an
+[09:35 --> 09:38] inborn trait of the Tarquins and immediately regretted their
+[09:38 --> 09:41] election of Collatinus, despite the fact that he had helped lead
+[09:41 --> 09:43] the revolution and vocally denounced his cousins.
+[09:44 --> 09:47] When pressed, though, Collatinus agreed, for the sake of the stability and
+[09:47 --> 09:51] viability of the new republic, to resign the consulship, even though
+[09:51 --> 09:54] everyone agreed it was completely ridiculous to ask him to do so.
+[09:55 --> 09:59] In his place, another one of the ringleaders of the revolt was elected,
+[09:59 --> 10:03] Publius Valerius, who will, in a moment, earn the honorary and
+[10:03 --> 10:06] publicola, or friend of the people, for his service to Rome.
+[10:07 --> 10:10] Students of American history will immediately recognize Publius's name.
+[10:10 --> 10:14] The Federalist Papers, written by James Madison, Alexander Hamilton,
+[10:14 --> 10:17] and John Jay, in defense of the newly written Constitution,
+[10:18 --> 10:21] appeared in print under the pseudonym Publius, in honor of this consul's
+[10:21 --> 10:26] role in securing Rome's new republic. Publius is often cited as being one of
+[10:26 --> 10:29] the original consuls of Rome, but we should not forget Collatinus
+[10:29 --> 10:33] and his selfless resignation in the face of baseless and superficial fears
+[10:33 --> 10:35] for the sake of his country's freedom.
+[10:36 --> 10:39] The first threat the new republic faced was the first threat all
+[10:39 --> 10:43] successful revolutions faced, namely, counterrevolution.
+[10:43 --> 10:46] There were more than a few Romans who had lived just fine under the kings,
+[10:47 --> 10:49] and were in no mood to lose their privileged place in society.
+[10:50 --> 10:54] A collection of young nobles, including two sons of the consul Brutus,
+[10:54 --> 10:58] conspired with envoys of the exiled king Tarquin to betray the city to
+[10:58 --> 11:02] him and reinstate the monarchy. The plot was revealed by one of the
+[11:02 --> 11:06] noble slaves, and the entire group was arrested. Brutus was shocked to see
+[11:06 --> 11:10] his own sons involved in the affair, but incontrovertible evidence was
+[11:10 --> 11:14] produced confirming their guilt. The penalty for treason was severe,
+[11:14 --> 11:17] and despite his tortured misgivings, Brutus would not stop the sentence
+[11:17 --> 11:21] from being carried out. The young conspirators were tied to a
+[11:21 --> 11:26] post, scourged, and then beheaded. Brutus's decision was long lauded by
+[11:26 --> 11:29] the Romans as a patriotic sacrifice, teaching a moral lesson about
+[11:29 --> 11:33] putting the welfare of the state before even one's own family, but the
+[11:33 --> 11:36] truthlessness of the decision often makes it difficult for us to see
+[11:36 --> 11:41] the nobility of the act. The second threat the new republic faced
+[11:41 --> 11:44] was the second threat all successful revolutions face, namely
+[11:44 --> 11:48] invasion by an opportunistic enemy trying to take advantage of a
+[11:48 --> 11:51] neophyte central government. Tarquin had by this time taken
+[11:51 --> 11:55] refuge in Vier and pleaded with the nobility there to aid him in
+[11:55 --> 11:58] reconquering Rome. He argued that the virus of
+[11:58 --> 12:01] republicanism might infect Truria and wipe out all the royal
+[12:01 --> 12:05] families in the region. The nobles of Vier were indeed worried about their
+[12:05 --> 12:08] subjects catching the freedom bug and believing that Rome's leadership would
+[12:08 --> 12:11] be shaky and disjointed without a strong king in charge
+[12:11 --> 12:15] agreed to aid Tarquin and attacked. However, to the surprise and
+[12:15 --> 12:17] consternation of Tarquin and the Vierites,
+[12:18 --> 12:20] Brutus and Publius proved to be extremely capable commanders
+[12:20 --> 12:25] routing the army from Vier easily. The battle was not without tragedy
+[12:25 --> 12:28] for the Romans though. In the middle of the fight Brutus,
+[12:28 --> 12:32] liberator of Rome, was killed. His body was born back to the city
+[12:32 --> 12:37] and Rome went into mourning for a full year. Publius now stood alone
+[12:37 --> 12:41] and, like Colatinus before him, soon fell under suspicion by the fickle
+[12:41 --> 12:46] and paranoid masses. After the battle with the Vier, Publius
+[12:46 --> 12:48] began construction on a home atop the Vilea,
+[12:48 --> 12:51] a ridge jutting from the north side of the Palatine hill.
+[12:52 --> 12:55] The people suspected him of making a fortress from which he could safely
+[12:55 --> 12:58] enslave them all. Publius caught wind of the sentiment and
+[12:58 --> 13:01] called a mass meeting, shaming the populace for their irrational
+[13:01 --> 13:04] fears and announcing that if it worried them so much
+[13:04 --> 13:07] he would move his home to the bottom of the hill where they could all keep
+[13:07 --> 13:11] watch on him. He further used the opportunity provided
+[13:11 --> 13:13] by the meeting to propose two new laws
+[13:13 --> 13:17] which made him a hero to the now assuaged masses and earned him the
+[13:17 --> 13:21] aforementioned title Publicoa. The two laws are famous even to
+[13:21 --> 13:24] this day. The first stated that any man who
+[13:24 --> 13:27] tried to make himself king could be killed at any time by any other
+[13:27 --> 13:31] man without fear of reprisal, and the second stated that any
+[13:31 --> 13:33] decision by the magistrates could be appealed to the people's
+[13:34 --> 13:37] assemblies. Publius, content with the single
+[13:37 --> 13:39] credit he received for these democratic initiatives,
+[13:39 --> 13:42] then called for an election to fill the open consulship.
+[13:43 --> 13:46] Marcus Horatius Polvius was eventually elected after a short detour
+[13:46 --> 13:50] through a consul who was elected but then died from old age a few days
+[13:50 --> 13:53] later. This closed the first year of the
+[13:53 --> 13:57] Republic. Leadership settled, the people mollified, and Rome secure.
+[13:58 --> 14:01] In the coming years the tension between patrician and plebe would dominate
+[14:01 --> 14:04] public life in Rome. The patricians wary always of
+[14:04 --> 14:07] runaway mob rule and the plebe seeing no practical
+[14:07 --> 14:10] difference between the overthrown king and the newly empowered senate.
+[14:11 --> 14:14] Next week we will jump headlong into this so-called conflict of the
+[14:14 --> 14:17] orders and witness the plebes voting with their feet
+[14:17 --> 14:21] and demanding a real voice in the allegedly democratic republic
+[14:21 --> 14:23] they had all fought so hard to establish and keep.

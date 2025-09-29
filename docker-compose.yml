@@ -1,0 +1,99 @@
+version: '3.8'
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: history_rome_qdrant
+    ports:
+      - "6333:6333"  # HTTP API
+      - "6334:6334"  # gRPC API
+    volumes:
+      - qdrant_data:/qdrant/storage
+    environment:
+      - QDRANT__SERVICE__HTTP_PORT=6333
+      - QDRANT__SERVICE__GRPC_PORT=6334
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:6333/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: history_rome_ollama
+    ports:
+      - "11434:11434"  # Ollama API
+    volumes:
+      - ollama_data:/root/.ollama
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434/api/tags"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+    command: >
+      sh -c "ollama serve & 
+             sleep 10 && 
+             ollama pull llama3.1:8b &&
+             wait"
+
+  transcript_loader:
+    build: 
+      context: .
+      dockerfile: Dockerfile.loader
+    container_name: history_rome_loader
+    depends_on:
+      qdrant:
+        condition: service_healthy
+    volumes:
+      - ./all_transcripts:/app/all_transcripts:ro
+    environment:
+      - QDRANT_HOST=qdrant
+      - QDRANT_PORT=6333
+      - COLLECTION_NAME=history_of_rome
+      - EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
+      - CHUNK_SIZE=512
+      - CHUNK_OVERLAP=50
+    command: python load_transcripts.py
+    restart: "no"  # Run once and exit
+
+  flask_app:
+    build:
+      context: .
+      dockerfile: Dockerfile.flask
+    container_name: history_rome_flask
+    ports:
+      - "5000:5000"  # Flask web interface
+    depends_on:
+      qdrant:
+        condition: service_healthy
+      ollama:
+        condition: service_healthy
+    environment:
+      - QDRANT_HOST=qdrant
+      - QDRANT_PORT=6333
+      - OLLAMA_HOST=ollama
+      - OLLAMA_PORT=11434
+      - COLLECTION_NAME=history_of_rome
+      - EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
+      - OLLAMA_MODEL=llama3.1:8b
+      - FLASK_ENV=production
+    command: python app.py
+    restart: unless-stopped
+
+volumes:
+  qdrant_data:
+    driver: local
+  ollama_data:
+    driver: local

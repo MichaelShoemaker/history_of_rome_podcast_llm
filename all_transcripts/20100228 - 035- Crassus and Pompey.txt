@@ -1,0 +1,448 @@
+# 20100228 - 035- Crassus and Pompey
+# Detected language: en
+# Duration: 1168.56 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to The History of Rome, episode 35, Crassus and Pompey.
+[00:13 --> 00:19] In 78 BC, Lucius Cornelius Sulla died, believing that he had put the republic back on track.
+[00:20 --> 00:25] Since the end of the Third Punic War 80 years previously, Roman politics had skewed
+[00:27 --> 00:31] populist demagogues, blatant corruption, and a flouting of traditional virtue.
+[00:32 --> 00:37] Sulla, in his role as dictator, had gutted the power of the tribunes and put the Senate
+[00:37 --> 00:39] firmly back in control of state affairs.
+[00:40 --> 00:45] It is ironic that the supposed savior of republicanism had so completely eschewed
+[00:45 --> 00:49] democratic principles and the rule of law, but desperate times called for desperate
+[00:49 --> 00:50] measures.
+[00:50 --> 00:55] Besides, Sulla could always fall back on one of the first offenses a child ever
+[00:55 --> 00:58] to justify all of his extra-legal activities.
+[00:58 --> 01:00] Marius started it.
+[01:01 --> 01:06] But as I said at the end of last week's episode, no amount of constitutional reformation
+[01:06 --> 01:11] could divert the gaze of ambitious men from the facts of Sulla's life and the
+[01:11 --> 01:13] power he had won through brute force alone.
+[01:14 --> 01:17] Whatever had bound the leaders of Rome to the traditional republican governing
+[01:17 --> 01:21] apparatus and its built-in limits on absolute power had been shattered.
+[01:22 --> 01:27] The Gracchia had struck the first blow when they successfully introduced violence into
+[01:27 --> 01:28] the political arena.
+[01:29 --> 01:34] Marius hammered the point home when he brazenly stood for consulship after consulship,
+[01:34 --> 01:39] while Sulla himself landed the killing stroke when he had himself appointed dictator
+[01:39 --> 01:39] for life.
+[01:41 --> 01:44] The arrow of noble adherence to the rule of law was dead.
+[01:44 --> 01:47] The arrow of the naked power grab was at hand.
+[01:48 --> 01:52] Whatever great work Sulla accomplished in his life, saving the republic was certainly
+[01:52 --> 01:53] not among them.
+[01:54 --> 01:58] Indeed, the generation that would kill the republic grew up in the shadow of Sulla's
+[01:58 --> 02:02] dictatorship, and the ringleaders of its demise were some of Sulla's leading
+[02:02 --> 02:03] supporters.
+[02:04 --> 02:10] Two of those supporters, Marcus Licinius Crassus and Gneus Pompeius, would eventually
+[02:10 --> 02:15] forge an uneasy alliance with an up-and-coming popularity general named Julius Caesar to
+[02:15 --> 02:20] form the first triumvirate, the vehicle through which the republic met its demise.
+[02:22 --> 02:28] Marcus Licinius Crassus was born in 115 BC, making him 33 years old during the Battle
+[02:28 --> 02:32] of the Colene Gate, and the eldest of the three triumvirs.
+[02:33 --> 02:37] Crassus was the youngest of three boys born into a well-bred Publian family,
+[02:38 --> 02:42] and was descended from Publius Licinius Crassus, who, in addition to serving as
+[02:43 --> 02:49] Maximus for nearly 20 years during the Second Punic War, also held the distinction of being
+[02:49 --> 02:55] Scipio Africanus' co-consul in the year 205 BC, as the great general made his preparations
+[02:55 --> 02:58] to win that long war once and for all.
+[02:59 --> 03:05] Their father had been consul in 97 BC, governor of southern Spain from 97 to 93 BC,
+[03:05 --> 03:07] and censor in 89.
+[03:08 --> 03:14] The Crassus family was wealthy and well-respected, but eventually ran afoul of the Marians during
+[03:14 --> 03:16] the upheavals of the mid-80s BC.
+[03:17 --> 03:21] Though they had supported Marius in the past, they attempted to hew a more neutral
+[03:21 --> 03:25] line in the struggle between the old general and his younger rival, and were marked
+[03:25 --> 03:26] for purging.
+[03:27 --> 03:31] One of Crassus' brothers had already been killed in the Social War, but his father
+[03:31 --> 03:35] and remaining brother were caught up in the purges and were either murdered or
+[03:35 --> 03:36] committed suicide.
+[03:37 --> 03:42] Only Marcus escaped to carry on the family name, fleeing to Spain in 87 BC.
+[03:44 --> 03:48] In Spain, Crassus was able to hook up with clients his father had established while
+[03:48 --> 03:51] governor, and laid low while Senna controlled Rome.
+[03:52 --> 03:56] It went without saying that when news of Sulla's return from the East reached him,
+[03:56 --> 04:01] Crassus immediately declared his support and left Spain, intent on helping Sulla
+[04:01 --> 04:03] drive the Marians out of Rome.
+[04:03 --> 04:08] He raised a small force and arrived in Italy around the same time as Metellus
+[04:08 --> 04:11] Pius had arrived with his army from Africa.
+[04:12 --> 04:16] Crassus fought alongside Metellus until they all merged into Sulla's army prior
+[04:16 --> 04:18] to the Battle of the Colene Gate.
+[04:19 --> 04:23] And it was in that battle that Marcus Licinius Crassus became a man in his
+[04:23 --> 04:26] own right and was no longer seen as simply his father's son.
+[04:27 --> 04:31] With Sulla leading the left side of the line, he gave Crassus command of
+[04:31 --> 04:31] the right.
+[04:32 --> 04:36] And as it turned out, Sulla found himself evenly matched and unable to break
+[04:36 --> 04:38] through the Samnite line.
+[04:38 --> 04:42] But Crassus routed his opposition and was able to wheel in and trap the
+[04:42 --> 04:47] remaining Samnites, winning for Sulla not just the battle, but complete
+[04:47 --> 04:47] control of Rome.
+[04:50 --> 04:54] He expected to be amply rewarded and praised for his early support and
+[04:54 --> 04:55] critical role in Sulla's victory.
+[04:56 --> 05:00] But in the first chapter of what turned out to be the defining story of his
+[05:00 --> 05:05] life, Crassus was overshadowed by the younger and more charismatic Pompey.
+[05:05 --> 05:09] Though mildly embittered by his perceived snubbing, Crassus had far
+[05:09 --> 05:12] more important things to worry about than why young Pompey had been
+[05:12 --> 05:16] granted a triumph, despite having never held a single office in the
+[05:16 --> 05:16] cursus honorum.
+[05:17 --> 05:20] I mean, he had never even been a questor, let alone a praetor,
+[05:20 --> 05:23] which was supposedly the minimum rank required for a triumph.
+[05:24 --> 05:26] And besides, he was what, 25?
+[05:26 --> 05:29] He couldn't stand for a praetorship even if he wanted to.
+[05:29 --> 05:31] But like I say, I don't care.
+[05:31 --> 05:32] I'm fine with it.
+[05:32 --> 05:33] I'm happy for him.
+[05:33 --> 05:35] Hooray for Pompey.
+[05:35 --> 05:35] Pompey the Great.
+[05:37 --> 05:39] Yeah, sure, Crassus didn't care at all.
+[05:40 --> 05:44] But instead of dwelling on Pompey, there would be plenty of time for
+[05:44 --> 05:44] that later.
+[05:45 --> 05:48] Crassus focused on rebuilding the family fortune, which had been
+[05:48 --> 05:51] expropriated by the Marians after his father's death.
+[05:52 --> 05:56] In this pursuit, Crassus showed both aboveboard shrewd financial acumen,
+[05:56 --> 06:00] as well as a penchant for ruthless below the belt profiteering.
+[06:01 --> 06:05] He gleefully entered the chaotic economic mess that arose from the
+[06:05 --> 06:06] sullen reign of terror.
+[06:07 --> 06:09] Having been a victim of the Marian purges, Crassus had little
+[06:09 --> 06:12] sympathy for the men who had killed his father and brother.
+[06:14 --> 06:17] Crassus was first in line to buy up whatever the prescribed left
+[06:17 --> 06:20] behind when they either fled the city or were murdered.
+[06:20 --> 06:24] And on at least one occasion, he added a name to the list simply
+[06:24 --> 06:28] because he coveted the holdings of an otherwise politically neutral
+[06:28 --> 06:28] rival.
+[06:29 --> 06:33] During Sulla's reign, Crassus bought and sold his way to the
+[06:33 --> 06:34] top of Rome's financial food chain.
+[06:35 --> 06:38] And after the dictator's death, he invested his profits in the
+[06:38 --> 06:41] slave trade and silver mines, where he doubled and then
+[06:41 --> 06:42] quadrupled his money.
+[06:44 --> 06:47] Eventually he would become Rome's richest man and largest
+[06:47 --> 06:47] landowner.
+[06:48 --> 06:51] He never lost his lust for wealth, nor his cunning skill
+[06:51 --> 06:52] at acquiring it.
+[06:52 --> 06:57] For example, at the time, Rome had no formal firefighting service.
+[06:57 --> 07:01] So when Crassus learned through his city-wide network of clients and
+[07:01 --> 07:05] informants that a building was on fire, he would arrive on the scene
+[07:05 --> 07:06] with hundreds of slaves in tow.
+[07:07 --> 07:10] With the house burning in front of them, Crassus would offer to put
+[07:10 --> 07:13] the fire out if the distraught owner agreed to sell the property.
+[07:14 --> 07:18] In these circumstances, Crassus was able, of course, to extract a
+[07:18 --> 07:22] ridiculously low price, at which point the slaves would indeed
+[07:22 --> 07:23] call the blaze.
+[07:24 --> 07:27] Sometimes, though, the owner would refuse to sell, in which case
+[07:27 --> 07:30] Crassus would leave with his firefighters, allowing the house
+[07:30 --> 07:32] to be engulfed in flames.
+[07:33 --> 07:35] But these were the rare cases.
+[07:35 --> 07:38] Usually the owner sold, Crassus bought, and his private
+[07:38 --> 07:40] empire grew by another block.
+[07:42 --> 07:45] At the height of his power, Crassus is estimated to have
+[07:45 --> 07:49] been worth between $170 and $180 billion, 2008.
+[07:49 --> 07:54] To put that in perspective, the richest man in the world today is
+[07:54 --> 07:57] Warren Buffett, who is estimated to have a personal financial net
+[07:57 --> 07:59] worth of around $66 billion.
+[08:00 --> 08:04] To say that Crassus was absolutely filthy-stinking rich
+[08:04 --> 08:05] is an understatement.
+[08:06 --> 08:09] But he always carried with him something of an inferiority
+[08:09 --> 08:10] complex.
+[08:10 --> 08:14] In Roman culture, wealth may have been looked upon with envy,
+[08:14 --> 08:16] but rarely with respect or admiration.
+[08:17 --> 08:20] Respect and admiration were reserved for military heroes.
+[08:21 --> 08:25] His exploits during the Battle of the Colene Gate were always
+[08:25 --> 08:28] looked at sideways as they came during a civil war and were
+[08:28 --> 08:31] achieved at the expense of fellow Roman citizens.
+[08:32 --> 08:34] If Crassus wanted to join the pantheon of great Romans,
+[08:35 --> 08:38] he would have to do better to win new territory for Rome or
+[08:38 --> 08:41] defend the empire from a dangerous foreign threat.
+[08:42 --> 08:45] Crassus spent his entire life looking for an opportunity to
+[08:45 --> 08:48] lead an army in the field, win a great victory for Rome,
+[08:49 --> 08:52] a triumph for himself, and the respect he felt he deserved.
+[08:53 --> 08:56] Eventually this obsession would lead to his death in Syria,
+[08:57 --> 09:00] where he was killed still trying to find what he was
+[09:00 --> 09:01] looking for.
+[09:02 --> 09:06] On the battlefield, Crassus was simply unable to match the
+[09:06 --> 09:09] exploits of his contemporary rival and nominal ally,
+[09:09 --> 09:13] Pompey, who, much to Crassus's eternal bitterness,
+[09:13 --> 09:15] seemed to live a perpetually charmed life.
+[09:16 --> 09:20] From Crassus's perspective, no one got better press for doing
+[09:20 --> 09:23] less than Pompey, but there was nothing that he could do
+[09:23 --> 09:24] about it.
+[09:24 --> 09:28] So Crassus went through life known as Crassus Dives or
+[09:28 --> 09:31] Crassus the Rich, whereas Pompey went through life known
+[09:31 --> 09:33] as Pompey Magnus or Pompey the Great.
+[09:34 --> 09:37] And though the latter's nickname was originally
+[09:37 --> 09:40] thrown around as a sarcastic dig by his elders,
+[09:40 --> 09:44] Pompey eventually promoted the name as a literal title and
+[09:44 --> 09:48] the people of Rome embraced it as such, much to Crassus's
+[09:48 --> 09:49] eternal dismay.
+[09:52 --> 09:55] Pompey was born in 106 BC, making him nine years younger
+[09:55 --> 09:58] than Crassus and only 24 years old when
+[09:58 --> 09:59] Silouan controlled Rome.
+[10:01 --> 10:04] He was the son of the not so beloved Nias Pompeius
+[10:04 --> 10:06] Strabo or Pompey the Cross-eyed.
+[10:07 --> 10:10] Pompey Strabo was the first in his family to achieve
+[10:10 --> 10:13] senatorial status and distinguished himself during
+[10:13 --> 10:16] the social war, leading the victorious Roman armies in
+[10:16 --> 10:18] the north as consul in 89 BC.
+[10:19 --> 10:22] However, when you emerge from a war with the
+[10:22 --> 10:25] nickname the Butcher of Anything, you know that your
+[10:25 --> 10:27] tactics have been a bit harsh.
+[10:28 --> 10:32] So when Pompey Strabo, AKA the Butcher of Asculum,
+[10:32 --> 10:36] died in 87 BC of the plague, his body was dragged
+[10:36 --> 10:39] through the streets by a joyously disrespectful mob.
+[10:39 --> 10:42] Not exactly the funeral procession one hopes for.
+[10:44 --> 10:46] But the sins of the father do not seem to have
+[10:46 --> 10:49] rubbed off on the son, and when Silouan returned from
+[10:49 --> 10:52] the east, Pompey raised three legions from the ranks
+[10:52 --> 10:53] of his father's veterans.
+[10:54 --> 10:56] The young man had served with them since his first
+[10:56 --> 10:59] campaign at the age of 17, so his father's soldiers
+[10:59 --> 11:02] loved and trusted the boy who had grown up in the
+[11:02 --> 11:03] barracks as one of their own.
+[11:04 --> 11:08] After helping pacify northern Italy, Pompey was
+[11:08 --> 11:10] next given the task of ensuring the loyalty of
+[11:10 --> 11:13] Sicily, which was still teeming with Marians.
+[11:14 --> 11:17] As I've mentioned numerous times, Sicily was the
+[11:17 --> 11:20] breadbasket of Rome, and controlling it was
+[11:20 --> 11:21] essential to controlling the empire.
+[11:22 --> 11:25] As long as Rome remained fed, the people were
+[11:25 --> 11:27] generally content to allow themselves to be led
+[11:27 --> 11:29] by whoever wanted the job.
+[11:29 --> 11:31] But if those grain shipments ever stopped,
+[11:31 --> 11:35] anarchy, as they say, was only three
+[11:35 --> 11:36] missed meals away.
+[11:37 --> 11:39] If the Marians controlled Sicily, they could wreck
+[11:39 --> 11:42] havoc on Sul's attempt to consolidate power.
+[11:43 --> 11:45] Pompey threw himself into the task with a
+[11:45 --> 11:48] ruthlessness that reminded some of his father.
+[11:48 --> 11:51] He tracked down Papyrus Carbo, the consul who
+[11:51 --> 11:53] had fled from Atruria at the end of the civil
+[11:53 --> 11:55] war, and had him executed.
+[11:56 --> 11:59] When the people of Sicily complained that some of
+[11:59 --> 12:02] Pompey's methods were perhaps illegal, he
+[12:02 --> 12:04] dismissed them with a remark that revealed not
+[12:04 --> 12:06] only his personal philosophy, but the
+[12:06 --> 12:08] growing sentiment of ambitious military men
+[12:08 --> 12:09] everywhere.
+[12:10 --> 12:13] Won't you stop citing laws to us who have
+[12:13 --> 12:14] swords by our sides?
+[12:15 --> 12:18] And remember, a generation later, this was
+[12:18 --> 12:20] the man who defended the republic against
+[12:20 --> 12:20] Caesar.
+[12:21 --> 12:24] Clearly, the rule of law was not long for
+[12:24 --> 12:25] this particular world.
+[12:27 --> 12:30] Having subdued Sicily, Pompey sailed next for
+[12:30 --> 12:31] Africa, where he defeated the scattered
+[12:31 --> 12:33] remnants of Sul's enemies.
+[12:33 --> 12:36] For this last act, Pompey decided that he
+[12:36 --> 12:37] deserved a triumph.
+[12:38 --> 12:40] Where he got the idea that he deserved one
+[12:40 --> 12:41] is a mystery for the ages.
+[12:42 --> 12:44] Not only was he not old enough, he had not
+[12:44 --> 12:46] yet reached the minimum office required,
+[12:46 --> 12:48] praetor, to be considered for this
+[12:48 --> 12:51] greatest military honor, and in fact, had not
+[12:51 --> 12:53] even served in any public office at all.
+[12:54 --> 12:56] Finally, it had been a long-standing
+[12:56 --> 12:58] tradition that a triumph could not be
+[12:58 --> 13:00] approved if the battle or battles in
+[13:00 --> 13:02] question were against fellow Romans, which
+[13:02 --> 13:04] is, of course, what Pompey's African
+[13:04 --> 13:06] campaign was all about.
+[13:07 --> 13:09] It is from this impetuousness that Sul
+[13:09 --> 13:12] hung the sarcastic title of Magnus on
+[13:12 --> 13:13] Pompey.
+[13:13 --> 13:16] Ah, yes, Pompey the Great wants a triumph.
+[13:16 --> 13:18] Let's all bow before Pompey the Great.
+[13:19 --> 13:20] But Pompey was undeterred.
+[13:21 --> 13:23] He refused to disband his army until his
+[13:23 --> 13:24] conquest was granted.
+[13:25 --> 13:27] Sulla, partly to appease his wife and
+[13:27 --> 13:29] stepdaughter, who had married Pompey the
+[13:29 --> 13:31] year before, and partly out of a genuine
+[13:31 --> 13:34] fear of what Pompey may be capable of,
+[13:34 --> 13:35] approved the triumph.
+[13:36 --> 13:37] But Pompey would have to wait.
+[13:38 --> 13:40] First, Sulla held his own triumph,
+[13:41 --> 13:42] marching through the city to great
+[13:42 --> 13:44] fanfare and with much splendor.
+[13:45 --> 13:47] Next, Metellus Pius was granted his
+[13:47 --> 13:49] triumph, and the senior general marched
+[13:49 --> 13:51] through in similar splendor but with
+[13:51 --> 13:52] slightly less fanfare.
+[13:53 --> 13:55] By the time Pompey's triumph rolled
+[13:55 --> 13:57] around, the city showed little enthusiasm
+[13:57 --> 13:58] for the event.
+[13:58 --> 14:00] What, another triumph?
+[14:01 --> 14:01] Boring.
+[14:03 --> 14:04] Sulla hoped he had put young Pompey
+[14:04 --> 14:07] in his place, but Sulla died before
+[14:07 --> 14:10] he realized that nothing would ever
+[14:10 --> 14:11] put Pompey in his place.
+[14:13 --> 14:15] It was not long after Sulla's death
+[14:15 --> 14:17] that the first in a long line of
+[14:17 --> 14:19] would-be despots arose in his wake.
+[14:20 --> 14:23] A consul named Lepidus decided after
+[14:23 --> 14:25] his term was complete that he was not
+[14:25 --> 14:26] ready to give up the reins of power
+[14:26 --> 14:28] and gathered an army in northern
+[14:28 --> 14:31] Italy to support his bid for a second term.
+[14:32 --> 14:34] Lepidus himself arrived in Rome with
+[14:34 --> 14:36] a great train of supporters, claiming
+[14:36 --> 14:38] that he controlled the land between
+[14:38 --> 14:40] the Po River and the Alps, and that
+[14:40 --> 14:41] his second consulship had better be
+[14:41 --> 14:43] approved or else.
+[14:44 --> 14:46] The Senate had already sent Metellus
+[14:46 --> 14:48] Pius to Spain, where the last great
+[14:48 --> 14:50] barbarian general, Quintus Sertorius,
+[14:50 --> 14:51] continued to hold out.
+[14:52 --> 14:54] So they sent young Pompey north to
+[14:54 --> 14:55] quell the brewing insurrection.
+[14:56 --> 14:57] It did not take long to scatter
+[14:57 --> 14:59] Lepidus's supposed army and send
+[14:59 --> 15:01] word to the city that it had
+[15:01 --> 15:02] nothing to fear.
+[15:02 --> 15:04] Lepidus, who fancied himself the
+[15:04 --> 15:06] next Sulla, was forced to flee
+[15:06 --> 15:08] from the city, never to return.
+[15:09 --> 15:10] After ending this threat from
+[15:10 --> 15:12] Lepidus, Pompey issued a demand
+[15:12 --> 15:14] to the Senate that was even more
+[15:14 --> 15:16] insane than his request for a
+[15:16 --> 15:16] triumph.
+[15:17 --> 15:18] He wrote that he wanted to be
+[15:18 --> 15:20] sent to Spain as pro-consul with
+[15:20 --> 15:22] full imperium.
+[15:22 --> 15:24] Again, Pompey had never served in
+[15:24 --> 15:26] office a day in his life and was
+[15:26 --> 15:28] yet 15 years away from being
+[15:28 --> 15:30] eligible for a consulship, let
+[15:30 --> 15:32] alone a pro-consulship, which
+[15:32 --> 15:34] was reserved for men who had
+[15:34 --> 15:36] already, you know, served as
+[15:36 --> 15:36] consul.
+[15:37 --> 15:39] Pompey knew it was brash, but he
+[15:39 --> 15:40] also knew as well as the Senate
+[15:40 --> 15:42] did the situation on the ground
+[15:42 --> 15:43] in Spain.
+[15:44 --> 15:46] Metellus Pius, as great a
+[15:46 --> 15:47] general as he was, had been
+[15:47 --> 15:49] thus far unable to gain ground
+[15:49 --> 15:50] on the rogue Quintus Sertorius.
+[15:51 --> 15:53] It was clear that Pius needed
+[15:53 --> 15:55] help and that Pompey was heads
+[15:55 --> 15:56] and shoulders better than
+[15:56 --> 15:57] anyone else Rome could possibly
+[15:57 --> 15:59] send as a reinforcement.
+[16:00 --> 16:01] With great reluctance, they
+[16:01 --> 16:03] approved Pompey's request and
+[16:03 --> 16:04] made him pro-consul of Spain
+[16:04 --> 16:07] in 76 B.C. at the tender age
+[16:07 --> 16:08] of 30.
+[16:08 --> 16:09] Crassus was, of course,
+[16:10 --> 16:10] appalled.
+[16:12 --> 16:14] Pompey remained in Spain for
+[16:14 --> 16:15] the next five years, engaged in
+[16:15 --> 16:17] parallel rather than combined
+[16:17 --> 16:20] war effort alongside Metellus.
+[16:20 --> 16:21] Neither general had any wish
+[16:21 --> 16:23] to share the glory should one
+[16:23 --> 16:25] of them actually succeed in
+[16:25 --> 16:26] defeating the rebellious
+[16:26 --> 16:27] Sertorius, though neither had
+[16:27 --> 16:29] much to worry about as the
+[16:29 --> 16:30] Marian general ran circles
+[16:30 --> 16:31] around them both.
+[16:33 --> 16:34] Pompey began to tire of the
+[16:34 --> 16:35] cat and mouse game in Spain
+[16:35 --> 16:37] and instead began to covet a
+[16:37 --> 16:38] command in the east where
+[16:38 --> 16:40] Mithridates was once again
+[16:40 --> 16:41] making trouble for Rome.
+[16:42 --> 16:43] But extracting himself from
+[16:43 --> 16:45] Spain would not be so easy
+[16:45 --> 16:46] after the fuss he had made to
+[16:46 --> 16:48] get there in the first place.
+[16:49 --> 16:50] Besides, he had rivals back
+[16:50 --> 16:52] home that desired the eastern
+[16:52 --> 16:53] command for themselves and
+[16:53 --> 16:54] were doing everything in their
+[16:54 --> 16:56] power to make sure Pompey
+[16:56 --> 16:57] remained in Iberia, chasing
+[16:57 --> 16:58] his tail.
+[16:59 --> 17:00] But fortune smiled on Pompey
+[17:00 --> 17:03] once again and in 71 B.C.
+[17:03 --> 17:04] Sertorius was assassinated
+[17:04 --> 17:06] by an ambitious lieutenant who
+[17:06 --> 17:08] then took command of the rogue
+[17:08 --> 17:09] army for himself.
+[17:09 --> 17:11] But this lieutenant was not
+[17:11 --> 17:12] half the commander Sertorius had
+[17:12 --> 17:14] been and in his first
+[17:14 --> 17:15] encounter with Pompey was
+[17:15 --> 17:16] defeated easily.
+[17:17 --> 17:19] Just like that, Pompey had
+[17:19 --> 17:20] liberated Spain.
+[17:21 --> 17:22] After lucking into this
+[17:22 --> 17:24] victory, Pompey took his army
+[17:24 --> 17:26] back to Italy just in time to
+[17:26 --> 17:27] luck into some more glory,
+[17:28 --> 17:29] scooping up for himself a
+[17:29 --> 17:30] good deal of undeserved
+[17:30 --> 17:31] credit for ending the slave
+[17:31 --> 17:33] revolt that had erupted in
+[17:33 --> 17:33] his absence.
+[17:34 --> 17:35] And of course, the credit he
+[17:35 --> 17:37] scooped up came at the
+[17:37 --> 17:38] expense of Crassus, who had
+[17:38 --> 17:40] done the yeoman's work in
+[17:40 --> 17:41] defeating the slave army led
+[17:41 --> 17:43] by a certain Thracian
+[17:44 --> 17:45] gladiator.
+[17:47 --> 17:48] Next week, we'll cover this
+[17:48 --> 17:50] famous slave revolt led of
+[17:50 --> 17:52] course by Spartacus, who at
+[17:52 --> 17:53] one point stood at the head
+[17:53 --> 17:55] of 120,000 men and won
+[17:55 --> 17:56] multiple victories against the
+[17:56 --> 17:58] pride of the Roman legions.
+[17:58 --> 18:00] In the aftermath of the
+[18:00 --> 18:01] revolt, Pompey and Crassus
+[18:01 --> 18:02] would forge an uneasy
+[18:02 --> 18:04] alliance while some 5,000
+[18:04 --> 18:06] captured slaves were crucified
+[18:06 --> 18:08] up and down the Appian Way,
+[18:09 --> 18:10] a lesson to those who would
+[18:10 --> 18:12] follow in Spartacus's
+[18:12 --> 18:12] footsteps.
+[18:14 --> 18:16] Finally, I would like to add
+[18:16 --> 18:17] that I've made a few changes
+[18:17 --> 18:19] behind the scenes here at
+[18:19 --> 18:19] the History of Rome.
+[18:20 --> 18:21] I've abandoned Blogger,
+[18:21 --> 18:22] which turned out to be the
+[18:22 --> 18:24] cause behind all the early
+[18:24 --> 18:25] episodes not showing up on
+[18:25 --> 18:27] iTunes, to a new blog
+[18:27 --> 18:30] at thehistoryofrome.typepad.com.
+[18:31 --> 18:32] Don't even get me started
+[18:32 --> 18:33] on what's wrong with
+[18:33 --> 18:33] WordPress.
+[18:34 --> 18:36] Also, at the prodding of
+[18:36 --> 18:37] some generous listeners,
+[18:37 --> 18:38] I've added a PayPal
+[18:38 --> 18:39] donation button to the new
+[18:39 --> 18:40] site.
+[18:40 --> 18:41] I never expected to gain
+[18:41 --> 18:43] anything financially from
+[18:43 --> 18:43] the History of Rome,
+[18:44 --> 18:45] but a few of you out there
+[18:45 --> 18:46] have expressed an interest
+[18:46 --> 18:47] in sending a few appreciative
+[18:47 --> 18:48] dollars my way for the
+[18:48 --> 18:48] effort.
+[18:49 --> 18:50] So, if you find yourself
+[18:50 --> 18:52] so inclined, there it is.
+[18:53 --> 18:54] Any amount you choose,
+[18:54 --> 18:55] Visa and MasterCard accepted,
+[18:56 --> 18:57] minus whatever the
+[18:57 --> 18:58] leg-breakers at PayPal
+[18:58 --> 18:59] take as their cut.
+[19:00 --> 19:00] Thanks to all of you
+[19:00 --> 19:01] out there who have stuck
+[19:01 --> 19:02] with the show,
+[19:02 --> 19:03] and see you next week
+[19:03 --> 19:04] for Spartacus.

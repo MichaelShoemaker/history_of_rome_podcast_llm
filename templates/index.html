@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History of Rome - AI Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <h1><i class="fas fa-columns"></i> History of Rome AI Assistant</h1>
+                <p>Ask questions about Roman history using Mike Duncan's podcast transcripts</p>
+            </div>
+            <div class="status-indicator" id="statusIndicator">
+                <i class="fas fa-circle"></i>
+                <span>Checking system status...</span>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div class="question-section">
+                <div class="input-group">
+                    <textarea 
+                        id="questionInput" 
+                        placeholder="Ask me anything about Roman history... (e.g., 'What caused the fall of the Roman Republic?')"
+                        rows="3"
+                    ></textarea>
+                    <div class="input-controls">
+                        <div class="context-control">
+                            <label for="contextLimit">Context Sources:</label>
+                            <select id="contextLimit">
+                                <option value="3">3 sources</option>
+                                <option value="5" selected>5 sources</option>
+                                <option value="7">7 sources</option>
+                                <option value="10">10 sources</option>
+                            </select>
+                        </div>
+                        <button id="askButton" class="ask-button">
+                            <i class="fas fa-search"></i>
+                            Ask Question
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="examples-section" id="examplesSection">
+                <h3><i class="fas fa-lightbulb"></i> Example Questions</h3>
+                <div class="examples-grid" id="examplesGrid">
+                    <!-- Examples will be loaded here -->
+                </div>
+            </div>
+
+            <div class="response-section" id="responseSection" style="display: none;">
+                <div class="response-header">
+                    <h3><i class="fas fa-robot"></i> Answer</h3>
+                    <div class="response-meta" id="responseMeta"></div>
+                </div>
+                
+                <div class="answer-content" id="answerContent">
+                    <!-- Answer will appear here -->
+                </div>
+
+                <div class="context-section" id="contextSection">
+                    <h4><i class="fas fa-book"></i> Sources from Podcast Transcripts</h4>
+                    <div class="context-list" id="contextList">
+                        <!-- Context sources will appear here -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="loading-section" id="loadingSection" style="display: none;">
+                <div class="loading-spinner">
+                    <i class="fas fa-spinner fa-spin"></i>
+                </div>
+                <div class="loading-text" id="loadingText">Processing your question...</div>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>
+                Powered by <strong>Qdrant</strong> vector search, <strong>Ollama</strong> LLM, and transcripts from 
+                <a href="http://thehistoryofrome.typepad.com/" target="_blank">Mike Duncan's History of Rome podcast</a>
+            </p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

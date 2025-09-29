@@ -1,0 +1,282 @@
+# 20110124 - 123- The Tertrarchy
+# Detected language: en
+# Duration: 1470.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:05 --> 00:09] internet's leading provider of audio entertainment with over 80,000 titles to
+[00:09 --> 00:14] choose from. When you're done with this episode go to audiblepodcast.com
+[00:14 --> 00:20] forward slash Rome. That again audiblepodcast.com forward slash Rome. By
+[00:20 --> 00:24] going to that address you qualify for a free book download when you sign up for
+[00:24 --> 00:28] a 14-day trial membership. There is no obligation to continue the service and
+[00:28 --> 00:33] you can cancel anytime and keep the free book. Or you can keep going with one of
+[00:33 --> 00:36] the monthly subscription options and get great deals on all your future audiobook
+[00:36 --> 00:41] purchases. This week I'm going to pass along a recommendation from the
+[00:41 --> 00:47] paterfamilias of the history of Rome, Unbroken by Laura Hillenbrand, the
+[00:47 --> 00:51] amazing gut-wrenching story of the man who should have broken the four-minute
+[00:51 --> 00:56] mile but instead, well, let's just say there's a reason why it's a whole book
+[00:56 --> 01:02] and a reason why it's been on Audible's top 10 list forever. Just remember to go
+[01:02 --> 01:08] to audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:11 --> 01:22] Hello and welcome to the history of Rome, episode 123, The Tetrarchy. I want to
+[01:22 --> 01:26] begin this week with a correction regarding the legend of Diocletian's
+[01:26 --> 01:31] ascension. As many of you have noted, the Doom Praetorian Prefect Lucius Aper's
+[01:31 --> 01:37] name does not translate into English as ass at all, but instead as boar. And it's
+[01:37 --> 01:40] a good thing that it does because when I went back and checked the supposed
+[01:40 --> 01:45] prophecy issued to young Diocletian, it actually says that he would gain the
+[01:45 --> 01:51] throne after killing a boar, not an ass as I said. So the pun still works, I just
+[01:51 --> 01:54] wrote down the wrong animal name when I was working up the outline for that week's
+[01:54 --> 02:00] show. I feel doubly silly for making this mistake since way back during the
+[02:00 --> 02:04] episodes on the First Punic War, I told you all the story of how Neus Cornelius
+[02:04 --> 02:09] Scipio managed to earn the cognom in Acina after leading the Romans into their
+[02:09 --> 02:16] first naval battle and consequently first naval defeat in 261 BC. Scipio the ass,
+[02:16 --> 02:21] they called him. Why I thought that Aper should now also translate as ass is
+[02:21 --> 02:25] a mystery for the ages. I regret the error and thanks to all of you out there
+[02:25 --> 02:30] who corrected the mistranslation with an official hat tip to listener LB for
+[02:30 --> 02:37] being first on the scene. Last week we covered the first few years of
+[02:37 --> 02:42] Diocletian's reign and specifically his decision to elevate his colleague
+[02:42 --> 02:49] Maximian to the rank of Caesar in 285 and then to co Augustus in 286. This week
+[02:49 --> 02:54] we will see the Imperial College expand even further as two more generals
+[02:54 --> 03:01] Constantius and Galerius will be invited to share in the purple in 293. This
+[03:01 --> 03:05] division of sovereignty at first proved to be an inspired move and helped to
+[03:05 --> 03:10] ensure that Rome remained ascendant from Britain to Mesopotamia and everywhere in
+[03:10 --> 03:15] between but eventually the system will collapse when it comes time to hand off
+[03:15 --> 03:20] the so-called tetrarchy to the next generation. But though it would not
+[03:20 --> 03:25] survive the years of the tetrarchy are amongst the most important in Roman
+[03:25 --> 03:29] history and not just because they set the stage for the rise of Constantine the
+[03:29 --> 03:34] Great. Under the watchful eye of Diocletian and his colleagues the Roman
+[03:34 --> 03:39] world will be transformed in ways both large and small to better meet the
+[03:39 --> 03:45] challenges that it now faced. All of which poses a bit of a problem for your
+[03:45 --> 03:51] humble podcaster. You see this fragmentation of Imperial authority
+[03:51 --> 03:55] leads to a fragmentation of the narrative as now four separate centers
+[03:55 --> 03:59] of power are running four separate political and military apparatuses
+[03:59 --> 04:04] simultaneously and when you couple this with the fact that along the way life as
+[04:04 --> 04:10] everyone knew it was being radically redefined what you get is a big old mess.
+[04:10 --> 04:14] Say what you want about the drawbacks of a Raelian running around like a crazy
+[04:14 --> 04:19] person doing everything by himself but at least it made for a coherent storyline.
+[04:19 --> 04:27] The 290s and early 300s AD on the other hand are a confused mess of war, politics,
+[04:27 --> 04:31] economic reform, and social reconstruction all happening all at once.
+[04:31 --> 04:38] So what I've decided to do is to try to run the chronological narrative up to the
+[04:38 --> 04:42] beginning of the great persecution of 303 AD which will take maybe two full
+[04:43 --> 04:48] episodes and then we'll double back and cover the reforms Diocletian made to the
+[04:48 --> 04:53] military structure, the governmental apparatus, and the economic system all of
+[04:53 --> 04:58] which may require separate episodes unto themselves though I haven't yet decided
+[04:58 --> 05:02] how exactly I'm going to break it down. We are in the process of establishing the
+[05:02 --> 05:07] ground rules for late antiquity so I don't want to gloss over anything but I
+[05:07 --> 05:11] also don't want to get so bogged down that we don't make any forward progress at
+[05:11 --> 05:20] all. Okay, are we ready? Here we go. In the spring of 288, a Diocletian arrived in
+[05:20 --> 05:24] Gaul to meet with his brother Emperor Maximian and help lay the foundation for
+[05:24 --> 05:29] the eventual retaking of Britain and the Gallic coast from the usurper Cerocious.
+[05:29 --> 05:34] Without a fleet of their own, the two Augusti for the moment had to focus on
+[05:34 --> 05:38] pacifying the mainland so that when the inevitable invasion of Britain was
+[05:38 --> 05:41] launched, they would not have to worry about trouble from the Germanic tribes
+[05:41 --> 05:47] at their rear. For the rest of the year, they ran joint campaigns on the far side
+[05:47 --> 05:50] of the Rhine with Maximian operating on the lower half of the river and
+[05:50 --> 05:57] Diocletian covering the upper half. It was a merciless scorched earth war that
+[05:57 --> 06:01] saw crops and livestock as much the target of legionary aggression as the
+[06:01 --> 06:05] tribesmen themselves and by the end of the year, the exhausted and starved
+[06:05 --> 06:11] Germans were in no position to threaten Roman interests. Fortune was finally
+[06:11 --> 06:15] smiling on the Romans again and the two Augusti even began the process of
+[06:15 --> 06:19] reoccupying portions of the Limus Germanicus that had been more or less
+[06:19 --> 06:26] abandoned some 20 years before. Satisfied with the hammer he had just
+[06:26 --> 06:29] laid on the Germans, a Diocletian withdrew back to the east at the end of
+[06:29 --> 06:33] the year to keep an eye on the rest of the Empire while his colleague was busy
+[06:33 --> 06:38] with the British question and in the spring of 289, Maximian was ready to
+[06:38 --> 06:44] answer that question. An invasion fleet had been under construction for some
+[06:44 --> 06:48] time and now that the Germans were fairly well pacified, Maximian was able
+[06:48 --> 06:54] to use the Rhine Delta as his launching pad into the North Sea. Though the
+[06:54 --> 06:58] Emperor had no choice but to attempt to retake Britain, from the very beginning
+[06:58 --> 07:04] he faced an uphill battle. Cerocious and his navy were experts at navigating the
+[07:04 --> 07:08] rough northern waters and their experience stood in stark contrast to
+[07:08 --> 07:14] Maximian and his utterly green navy. On top of that, Cerocious had been hard at
+[07:14 --> 07:19] work fortifying the British coast and in particular beefing up the so-called
+[07:19 --> 07:24] Forts of the Saxon Shore, a series of nine fortresses which though built at
+[07:24 --> 07:28] different periods were very likely fused by Cerocious into a single unit of
+[07:28 --> 07:34] command at this point in history. What this all meant is that even if Maximian
+[07:34 --> 07:39] ran Cerocious's blockade, he would find no easy landing sites on the other side.
+[07:39 --> 07:48] But still, Maximian had to try and so try he did. It is perhaps not surprising that
+[07:48 --> 07:54] all we know today about the invasion of 289 is that it failed. Emperors were not
+[07:54 --> 07:59] in the habit of dwelling on their defeats, so it is only by way of a few
+[07:59 --> 08:03] passing references that we even know the attempt was made at all, and these
+[08:03 --> 08:08] diplomatically blame the weather for Maximian's failure to retake Britain. And
+[08:08 --> 08:13] who knows, maybe it was the weather. It's not like the North Sea and the English
+[08:13 --> 08:17] Channel are the calmest bodies of water in the world, but it's just as likely that
+[08:17 --> 08:22] Maximian's inexperience on the seas made him easy pickings for Cerocious's
+[08:22 --> 08:28] expert fleet, and that it was man and not nature who drove the emperor back.
+[08:28 --> 08:34] Whoever it was, Maximian's fleet was destroyed and Hercules was now further
+[08:34 --> 08:40] from recapturing Britain than he had ever been. As fast as the Imperial Post
+[08:40 --> 08:45] allowed, news reached Diocletian, who by that time had planted himself far in the
+[08:45 --> 08:49] East to help settle the new boundaries with Persia, and the no-doubt severely
+[08:49 --> 08:55] disappointed emperor spent 290 AD making his way back to the West, very possibly
+[08:55 --> 09:00] forming in his mind the new new order he would soon introduce to the world along
+[09:00 --> 09:07] the way. Beaten and battered, Maximian at this point seems to have taken at least
+[09:07 --> 09:11] some note of what could now only be described as his shaky political
+[09:11 --> 09:17] position. Whatever the long-term consequences of Diocletian's new
+[09:17 --> 09:22] argument of rule by divine right, at that time, at that moment, legitimacy was
+[09:22 --> 09:29] still based on one thing and one thing only, military victory. Perhaps sensing
+[09:29 --> 09:34] that his subordinate commanders were salivating, Maximian secured the loyalty
+[09:34 --> 09:38] of the best and most ambitious of them all by arranging for the man to divorce
+[09:38 --> 09:43] his wife and marry Maximian's daughter, Theodora, thus securing a familial
+[09:43 --> 09:48] alliance that Maximian hoped would help keep him propped up in power while he, or
+[09:48 --> 09:55] more accurately Diocletian, figured out what to do next. The man in question was
+[09:55 --> 09:59] a fellow Illyrian general with a naturally pale complexion by the name of
+[09:59 --> 10:08] Constantius Cloris. Constantius had been born around 250 AD in Illyria, so he was
+[10:08 --> 10:13] just about the same age as the man who was about to become his, quote, father.
+[10:13 --> 10:17] Though there is a whole tradition that has Constantius being the son of
+[10:17 --> 10:22] nobility, it is more likely that, like the rest of the Illyrian emperors, he was
+[10:22 --> 10:26] of low birth and that his son Constantine went back and gave his father
+[10:26 --> 10:30] a more prestigious pedigree to bolster his own imperial claims, specifically
+[10:30 --> 10:35] linking the family to the Emperor Claudius Gothicus by way of Constantius's
+[10:35 --> 10:41] mother Claudia. Whatever his genealogical heritage, Constantius proved his worth
+[10:41 --> 10:46] as a soldier right away, and while still in his early 20s, he was promoted into
+[10:46 --> 10:52] the ranks of Aurelian's elite bodyguard. Right around this time, he also sired a
+[10:52 --> 10:57] child with his wife Helena, a son who would become known as Flavius Valerius
+[10:57 --> 11:04] Aurelius Constantius, but who we know today as Constantine. Constantius,
+[11:04 --> 11:08] meanwhile, fought alongside Aurelian during the Palmyrene Wars and then
+[11:08 --> 11:11] continued his climb up the ranks during the reigns of Probus and Charus,
+[11:11 --> 11:16] eventually finding himself governor of Dalmatia when the confrontation between
+[11:16 --> 11:21] Charinus and Diocletian exploded into open war, which meant that he was quite
+[11:21 --> 11:26] literally caught in the middle when the fighting began. But displaying some
+[11:26 --> 11:31] nimble pressions, Constantius declared for Diocletian right before the issue
+[11:31 --> 11:36] was decided, and it should be remembered right before it was at all clear that
+[11:36 --> 11:42] Diocletian was going to win. And so he wound up squarely, but just barely, in the
+[11:42 --> 11:48] victor's camp in 285. When his term as governor was up, Constantius was promoted
+[11:48 --> 11:53] to the position of praetorian prefect in the west in 288, where he continued to
+[11:53 --> 11:57] distinguish himself during the campaigns on the east side of the Rhine in
+[11:57 --> 12:03] preparation for the invasion of Britain. We don't really know what role
+[12:03 --> 12:08] Constantius played in the failed invasion of Britain, though as prefect he had to
+[12:08 --> 12:12] have been neck-deep in the preparations, and later he showed very clearly that he
+[12:12 --> 12:16] had learned from the mistakes that were made in 289 when he initiated his own
+[12:16 --> 12:23] successful invasion. We also don't really know what long-term dynastic plans were
+[12:24 --> 12:30] when Maximian married his daughter to Constantius that same year. That is, did
+[12:30 --> 12:34] Constantius marry Theodora because Diocletian already planned to make him a
+[12:34 --> 12:39] Caesar, or was Constantius made Caesar because he was already married to
+[12:39 --> 12:45] Theodora? This question hinges on when Diocletian first conceived of the
+[12:45 --> 12:49] Tetrarchy, which is unfortunately a question we do not have a good answer to.
+[12:49 --> 12:57] However, we do have a good answer as to when Diocletian probably first broached
+[12:57 --> 13:01] the subject of further dividing the Empire with Maximian, and that would be
+[13:01 --> 13:08] over the winter of 290-291. By that time, Diocletian had traveled all the way back
+[13:08 --> 13:12] to Milan to meet with Maximian and shore up the regime after its nasty setback
+[13:12 --> 13:19] in the north. The two emperors oversaw solemn ceremonies and exuberant games to
+[13:19 --> 13:23] celebrate their rule, the peace and stability of the Empire, and their mutual
+[13:23 --> 13:29] support for one another. Whatever else he took away from the pageantry, there was
+[13:29 --> 13:33] no denying that despite the recent failures, Diocletian still stood behind
+[13:33 --> 13:38] Maximian a hundred percent. Over the course of the winter and the following
+[13:38 --> 13:43] year, the two men met often and Diocletian likely laid out his plans for
+[13:43 --> 13:48] the future and what he expected of Maximian, which is why some surmise that
+[13:48 --> 13:52] it was at this point that Diocletian revealed his plans to appoint junior
+[13:52 --> 13:57] colleagues to aid in their massive struggle to secure a bright future for
+[13:57 --> 14:04] the Empire. After the meetings in Milan, Diocletian headed back to his de facto
+[14:04 --> 14:10] capital in Nicomedia, while Maximian remained in Italy. Where exactly
+[14:10 --> 14:15] Constantius was at this point is unknown, but he was somewhere in the west, either
+[14:15 --> 14:21] seeing to things in Gaul or staying in Milan with Maximian. The whereabouts of
+[14:21 --> 14:24] the fourth member of our eventual tetrarchy, though, is an even greater
+[14:24 --> 14:31] mystery. Though Galerius will soon emerge as a formidable force in Roman history,
+[14:31 --> 14:36] for example, in many ways he wound up being the unwitting author of Rome's
+[14:36 --> 14:42] Christianization, which is not a small thing at all, his life and career up to
+[14:42 --> 14:48] this point is shrouded in mist. He was born sometime between 250 and 260 and was
+[14:48 --> 14:54] probably slightly younger than Constantius, though not by much. Unlike the
+[14:54 --> 14:57] rest of his colleagues, Galerius also appears to have been born in Thrace,
+[14:57 --> 15:02] rather than one of the Illyrian provinces proper, and for a time he
+[15:02 --> 15:06] followed his father as a herdsman before deciding to join the army, most likely
+[15:06 --> 15:12] during the reign of Aurelian. He too no doubt established himself as a highly
+[15:12 --> 15:16] capable soldier, because in just a few years he went from new recruit to high
+[15:16 --> 15:21] ranking officer, and like his future colleague Constantius, he was very
+[15:21 --> 15:26] possibly appointed praetorian prefect by the late 280s AD, serving under Diocletian
+[15:26 --> 15:32] in the east. But beyond this, we know almost nothing about how Galerius managed
+[15:32 --> 15:36] to distinguish himself from all the other viable candidates when it came
+[15:36 --> 15:43] time for Diocletian to expand the Imperial College. But distinguish
+[15:43 --> 15:49] himself he did, and in the spring of 293 AD, after much consideration and with so
+[15:49 --> 15:54] many of the Empire's long-term problems still unresolved, Diocletian made the
+[15:54 --> 15:58] move to name two more members of the Imperial Brotherhood and establish what
+[15:58 --> 16:04] we today refer to as the Tetrarchy. Though it is important to note that like
+[16:04 --> 16:11] the First Triumvirate, no one called it the Tetrarchy at the time. In simultaneous
+[16:11 --> 16:16] ceremonies in Sirmium and Milan, the two Augusti each formally elevated a
+[16:16 --> 16:20] colleague to serve alongside them, Maximian investing Constantius and
+[16:20 --> 16:26] Diocletian investing Galerius. To cement the Imperial Alliance, each new Caesar
+[16:26 --> 16:30] was married to the daughter of an Augustus, though the timing of these
+[16:30 --> 16:35] marriages is still a matter of debate. As I said, Constantius appears to have
+[16:35 --> 16:40] already been married to Theodora, which if true may have been the reason why he
+[16:40 --> 16:45] got the nod in the first place, and it is likely that Galerius too was already
+[16:45 --> 16:50] married to Diocletian's only daughter Valeria when he was elevated to power.
+[16:50 --> 16:56] Though this is all still up in the air, we know for sure that by 293 each man
+[16:56 --> 17:03] was the son-in-law of their respective Augusti. Now, as with Maximian's initial
+[17:03 --> 17:09] elevation, Constantius and Galerius were not made full Augusti, but were instead
+[17:09 --> 17:14] raised to the rank of Caesar. Though they would outrank every other man in the
+[17:14 --> 17:18] Empire and would in their own territorial spheres have almost complete
+[17:18 --> 17:23] autonomy, they were most definitely styled as the junior partners in the
+[17:23 --> 17:29] equation. Maximian and Diocletian still outranked them, and by virtue of both his
+[17:29 --> 17:38] seniority and his overpowering gravitas, Diocletian outranked them all. The Empire
+[17:38 --> 17:43] was then roughly divided in fourths, with Constantius taking Gaul and
+[17:43 --> 17:49] eventually Britain, Maximian in charge of Spain, Africa, and Italy, Galerius taking
+[17:49 --> 17:55] the Danube provinces and Diocletian watching the Far East. The split in
+[17:55 --> 17:59] provinces reflected the relative seniority of the Tetrarchs, with Diocletian
+[17:59 --> 18:02] and Maximian taking the rich and relatively peaceful portions of the
+[18:02 --> 18:07] Empire, while their junior Caesars handled the much rougher regions along
+[18:07 --> 18:12] the Rhine and Danube frontier. Constantius in particular was given the
+[18:12 --> 18:16] toughest assignment of all, as it was made clear to him that his entire reason
+[18:16 --> 18:21] for being, and possibly the whole reason the new Tetrarchy existed at all, was
+[18:21 --> 18:27] that Britain had to be retaken. And retaking Britain, now seven years gone
+[18:27 --> 18:33] from Roman control, had proven to be an impossible task up to that point. So yeah,
+[18:33 --> 18:40] good luck with that. Now before we go on, I should note that these territorial
+[18:40 --> 18:45] divisions were in no way officially demarcated political units, and in fact
+[18:45 --> 18:52] every chance he got, Diocletian emphasized the unity of the Empire. He was
+[18:52 --> 18:55] sensitive to the fact that Rome had just gone through a traumatic decade and a
+[18:55 --> 19:00] half, where the Empire really was divided from itself, and he was not keen to
+[19:00 --> 19:06] reopen that still healing wound. So he established a precedent whereby each of
+[19:06 --> 19:10] the Tetrarchs would share in the victories of the others, coin in each
+[19:10 --> 19:15] other's names, and come and go and shift spheres of influence as the situation
+[19:15 --> 19:21] dictated. As we'll see, Diocletian and Galerius in particular would flip-flop
+[19:21 --> 19:26] depending on where the Empire's fires were burning brightest. Power was being
+[19:26 --> 19:31] shared by four men, and for obvious reasons each established capitals,
+[19:31 --> 19:36] allowing them to easily manage a different zone. But the Empire is still
+[19:36 --> 19:42] one Empire. It is not, Diocletian went to great lengths to express, nor will it
+[19:42 --> 19:51] ever be, he repeated again and again four separate empires. Following their
+[19:51 --> 19:55] respective elevations, the two new Caesars went to work right away. For
+[19:55 --> 19:59] Constantius, this meant heading north to Trier, where he immediately began to
+[19:59 --> 20:05] prepare a second invasion of Britain. Galerius, meanwhile, immediately put lie
+[20:05 --> 20:09] to the notion that the Tetrarchy's territorial divisions were hardened fast
+[20:09 --> 20:14] by heading to Egypt to help quell an uprising on the Upper Nile, and he spent
+[20:14 --> 20:20] most of the next two years pacifying the Egyptian natives. While he was engaged in
+[20:20 --> 20:25] Egypt, events in Sassanid Persia hinted at what Galerius's next assignment would
+[20:25 --> 20:32] be. In 293, the Persian King Bahram II died, leaving the throne to his young
+[20:32 --> 20:38] son Bahram III. But just a few months later, Bahram III would be
+[20:38 --> 20:43] deposed by another of Sharpor's sons, a man named Narses, who despised his
+[20:43 --> 20:47] weak-willed brother and nephew and planned to reintroduce the martial vigor
+[20:47 --> 20:54] of Artashir and Sharpor. In 295, Narses broke the eternal peace that had been
+[20:54 --> 20:59] established with Rome in 287 by invading Armenia and seizing the territories that
+[20:59 --> 21:05] had been ceded by Bahram in his negotiations with Diocletian. Conflict
+[21:05 --> 21:09] between the two great empires was now inevitable, and Diocletian called
+[21:09 --> 21:16] Galerius to Antioch to begin preparations for war. Back in the West,
+[21:16 --> 21:20] meanwhile, Constantius faced the question that had basically broken
+[21:20 --> 21:28] Maximian. How do we retake Britain? Now, the new Caesar had some ideas as to how
+[21:28 --> 21:32] to run a better invasion than Maximian, and when it finally came time to take
+[21:32 --> 21:36] back the island, Constantius did run a much more strategically sound campaign.
+[21:36 --> 21:44] But the real problem, the big problem, was Corocius himself. The self-proclaimed
+[21:44 --> 21:50] Augustus of Britain and northern Gaul was no dummy, and he was no tyrant. By all
+[21:50 --> 21:55] accounts, he was a sound administrator, a savvy negotiator, a charismatic leader,
+[21:55 --> 22:00] and an excellent soldier. He was essentially everything that you would
+[22:00 --> 22:04] want in an emperor, and the citizens of his domains were highly conscious of
+[22:04 --> 22:09] that fact. The merchants loved him because he kept trade flourishing, his
+[22:09 --> 22:13] Frankish allies loved him because they were treated almost as equal partners,
+[22:13 --> 22:17] the legions loved him because he maintained high currency standards and
+[22:17 --> 22:21] was always on time with pay, and the general population loved him because he
+[22:21 --> 22:27] protected them from marauders and pirates. Corocius, and much like posthumous in the
+[22:27 --> 22:32] Gallic Empire, was a capable leader leading capably. There was no reason for
+[22:32 --> 22:38] anyone to wish him ill will. So when Constantius was working up his invasion
+[22:38 --> 22:42] plans then, he could pretty much bank on the fact that there wasn't going to be
+[22:42 --> 22:47] some fifth column working behind the lines for him. This was going to be an
+[22:47 --> 22:52] invasion of enemy territory in almost every sense of the word, and they had a
+[22:52 --> 22:57] better navy than he did, and their coastlines were fortified, and the British
+[22:57 --> 23:02] legions were well paid and well supplied. There was a reason Maximian had
+[23:02 --> 23:08] failed so completely, and it wasn't just that Maximian had screwed it all up. The
+[23:08 --> 23:17] recapture of Britain was a really, really hard assignment. Next week, we will see
+[23:17 --> 23:23] the Empire at war on two fronts. In the East, Galerius will indeed be called upon
+[23:23 --> 23:28] to lead a counter-attack against a resurgence of the Sonnet Empire, and though in the end he
+[23:28 --> 23:34] will avenge the memory of Valerian, at first, like so many Roman wars, things did
+[23:34 --> 23:39] not go well at all. In the West, however, things will go a bit better, as
+[23:39 --> 23:44] Constantius will carefully and methodically isolate Corocius by leading
+[23:44 --> 23:49] a brilliant little campaign against the Franks on the mainland. Then, he will be
+[23:49 --> 23:54] given the greatest gift of all, as Corocius, like Posthumus and Odinothus
+[23:54 --> 23:58] before him, will fall victim to an assassination plot that will leave
+[23:58 --> 24:04] Britain wide open for reconquest, and allow Constantius to style himself the
+[24:04 --> 24:08] Restorer of Eternal Light.

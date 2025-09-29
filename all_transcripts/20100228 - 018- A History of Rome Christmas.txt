@@ -1,0 +1,201 @@
+# 20100228 - 018- A History of Rome Christmas
+# Detected language: en
+# Duration: 765.57 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:07] Hello, and welcome to the history of Rome.
+[00:08 --> 00:13] For as far back as I can remember, Christmas has been celebrated on the 25th of December.
+[00:14 --> 00:19] I'm sure this is true for most of you, and in fact, unless one of you out there is 1700
+[00:19 --> 00:23] years old, I'd wager that this was true for all of you.
+[00:23 --> 00:27] Christmas, as we all know, is officially the birth date of Jesus Christ.
+[00:28 --> 00:33] But how was it that the 25th of December was chosen from all the dates on the calendar
+[00:33 --> 00:37] when there is no mention in the Bible as to the exact date of his birth?
+[00:37 --> 00:39] The 25th of December?
+[00:39 --> 00:40] Pretty random.
+[00:41 --> 00:42] Where did that come from?
+[00:43 --> 00:46] I guess we'd be pretty far off topic if the Romans didn't have something to do
+[00:46 --> 00:51] with it, so I suppose it won't come as a shock when I say the Romans had something
+[00:51 --> 00:52] to do with it.
+[00:52 --> 00:56] But we have to go back a little further than the Romans even and work out a
+[00:56 --> 01:00] little astronomy first to really understand the significance of the date.
+[01:02 --> 01:05] For as long as there has been civilization, there have been holidays and festivals.
+[01:06 --> 01:10] Days or weeks where work was put aside in honor of this or that god, and to
+[01:10 --> 01:13] celebrate this or that seasonal transition.
+[01:14 --> 01:18] The particulars change over time and place, but there are a few constants that seem
+[01:18 --> 01:23] to pop up over and over again, not just in western civilization, but everywhere.
+[01:24 --> 01:29] For example, some sort of holiday or festival is invariably found at the beginning
+[01:29 --> 01:33] of spring in celebration of the return of life from its long winter dormancy.
+[01:34 --> 01:38] In agricultural societies, there is inevitably some sort of harvest festival
+[01:38 --> 01:42] with communities feasting on the recently hauled-in bounty.
+[01:43 --> 01:47] And of course, across time and space, back to the earliest tribes of mankind,
+[01:48 --> 01:50] there has been some sort of midwinter festival.
+[01:51 --> 01:55] And the midwinter festival, whatever the particular rituals or traditions, is
+[01:55 --> 01:58] always amongst the most popular and most anticipated.
+[02:00 --> 02:04] Waxing somewhat philosophical on the subject, I believe the midwinter festival
+[02:04 --> 02:09] is omnipresent and omnilove because it's, well, in the middle of winter.
+[02:10 --> 02:12] It's cold and dark and there's nothing to do.
+[02:13 --> 02:16] It's been cold and dark for months and it will be cold and dark for months
+[02:16 --> 02:17] to come.
+[02:18 --> 02:21] Without some kind of pleasant break, people are liable to despair.
+[02:22 --> 02:26] So communities started gathering around fires and throwing week-long feasts,
+[02:26 --> 02:29] giving each other presents and decorating everything in sight,
+[02:29 --> 02:32] all in an effort to break up the dreary months.
+[02:33 --> 02:37] These days, December is marked by an explosion of colored lights in
+[02:37 --> 02:39] windows, doorways, and rooftops.
+[02:40 --> 02:43] I can't help but think that this is a psychological reaction to the dull,
+[02:44 --> 02:45] gray, colorless winter.
+[02:46 --> 02:51] I always saw midwinter festivities as a prime example of humans throwing a
+[02:51 --> 02:52] party just because.
+[02:53 --> 02:56] It's the middle of winter, for crying out loud, let's have some fun.
+[02:57 --> 03:00] But there was always a harsh undercurrent as well.
+[03:01 --> 03:04] In early societies that lived on the razor's edge between survival and
+[03:04 --> 03:07] extinction, the winter was known as a time of famine.
+[03:08 --> 03:13] Any excess livestock had to be killed off before the truly hard months set in.
+[03:14 --> 03:17] The meat could be saved, but there was no point in having an excess number of
+[03:17 --> 03:18] mouths to feed.
+[03:19 --> 03:23] Accompanying this slaughter and the copious amounts of meat it produced were
+[03:23 --> 03:28] the communal feasts, sort of a last blowout before the rationing set in.
+[03:29 --> 03:32] But midwinter partying for its own sake is, of course,
+[03:32 --> 03:33] only part of the story.
+[03:34 --> 03:37] Just as humans have always been finding excuses to have holidays,
+[03:38 --> 03:41] we have also always had a strange fixation with astronomy.
+[03:42 --> 03:45] I am not going to bore you with my thoughts on the root causes of that
+[03:45 --> 03:50] particular obsession, but let's just say that humans love staring at the sky.
+[03:52 --> 03:55] It did not take long for early astronomers, who, of course,
+[03:55 --> 04:00] doubled as early priests and shaman, to note cyclical patterns in the movements
+[04:00 --> 04:04] of celestial objects and begin to attach significance to a few of
+[04:04 --> 04:06] the more noteworthy points in those patterns.
+[04:07 --> 04:10] They watched as the days grew longer and longer through the summer,
+[04:10 --> 04:14] until there was a period when the day reached some kind of maximum length and
+[04:14 --> 04:15] then began to shorten.
+[04:16 --> 04:20] Later, there was a moment when the day and night were exactly the same length,
+[04:20 --> 04:24] and then, as winter came, the night began to last longer than the day,
+[04:25 --> 04:28] until it reached some sort of peak length and contracted back to a day
+[04:28 --> 04:29] and night of equal length.
+[04:31 --> 04:34] People began to wrap up all kinds of religious and philosophical meaning in
+[04:34 --> 04:38] these days, what we now call the summer solstice, the autumnal equinox,
+[04:38 --> 04:41] the winter solstice, and the vernal equinox.
+[04:42 --> 04:47] They had no idea about solar systems and tilted axes and revolving spheres
+[04:47 --> 04:51] floating in space, but they knew something was up and wanted to get in
+[04:51 --> 04:54] on the action, so they started surrounding these important days with
+[04:54 --> 04:58] rituals, ceremonies, and, you guessed it, festivals.
+[04:59 --> 05:04] So now we'll narrow our focus a bit and zoom in on the winter solstice in
+[05:04 --> 05:08] particular. If humans didn't need a reason to party in the middle of winter
+[05:08 --> 05:11] in the first place, it certainly wasn't going to bother anyone that now
+[05:11 --> 05:16] there was. Here the astronomer priests were telling them that on this one
+[05:16 --> 05:20] particular day, the darkness that had been spreading for the last six
+[05:20 --> 05:24] months, bumming everyone out, had reached its maximum ebb, and now
+[05:24 --> 05:28] the light would be ascendant. The worst was behind them, and from here
+[05:28 --> 05:32] on out, every day would be a little bit lighter and a little bit warmer,
+[05:32 --> 05:36] rather than a little darker and a little colder. And if that isn't a
+[05:36 --> 05:41] reason to invent distillation, I don't know what is. So the midwinter
+[05:41 --> 05:45] festivities began to occur on and around the winter solstice, just as
+[05:45 --> 05:48] the spring festivals began to hinge on the vernal equinox.
+[05:49 --> 05:53] And by the time the Romans came along then, there was already a rich
+[05:53 --> 05:57] tradition of festivities surrounding the winter solstice. They didn't invent
+[05:57 --> 06:00] anything, but they did have their own holiday calendar, which became
+[06:00 --> 06:04] the conduit through which these ancient celebrations passed into our own
+[06:04 --> 06:10] modern era. A longstanding Roman winter tradition, dating to the early
+[06:10 --> 06:15] Republic, was called Saturnalia, a feast commemorating the founding of
+[06:15 --> 06:19] the Temple of Saturn. At first, the celebration took place on
+[06:19 --> 06:23] December 17, but as time passed, Saturnalia grew to encompass a
+[06:23 --> 06:27] whole week, generally ending on December 23, but by the middle
+[06:27 --> 06:31] imperial period, sometimes extending as far as our date of inquiry,
+[06:31 --> 06:38] December 25. Saturnalia was by far the most popular of Roman holidays and
+[06:38 --> 06:42] came complete with large public feasts and a complete abandonment of
+[06:42 --> 06:45] traditional morality, always a must for the really good parties.
+[06:46 --> 06:50] Gambling was encouraged where, for the rest of the year, it was frowned
+[06:50 --> 06:53] upon. And it was encouraged not just for citizens, but for slaves
+[06:53 --> 06:58] as well, who were treated for the week as real, actual people. In
+[06:58 --> 07:02] fact, in many cases, a sort of role reversal game was played where the
+[07:02 --> 07:07] slaves were treated as master and the master as slave. Roman citizens
+[07:07 --> 07:11] delighted in the novelty of serving food and running errands, while
+[07:11 --> 07:14] the slaves enjoyed a brief moment on the couch, humorously ordering
+[07:14 --> 07:18] their owners about. Those crazy Romans, what will they think of
+[07:18 --> 07:24] next? As for its connection to Christmas, Saturnalia was also
+[07:24 --> 07:27] accompanied by gift giving, the hanging of pine bows inside the
+[07:27 --> 07:31] home and singing in the streets, which corresponds roughly to our
+[07:31 --> 07:34] caroling, though the Romans apparently did this while drunk and
+[07:34 --> 07:38] naked, which I am thankful to say is a tradition that died with
+[07:38 --> 07:42] the empire. But for all its importance and obvious similarities
+[07:42 --> 07:46] to Christmas, Saturnalia was not the true reason Christmas is
+[07:46 --> 07:51] celebrated on December 25. That honor goes to an imported Syrian
+[07:51 --> 07:55] feast called Sol Invictus, or the feast of the unconquered
+[07:55 --> 08:00] sun. In the middle late Imperium, the Romans began to embrace
+[08:00 --> 08:04] Eastern sun cults and adopted many of their corresponding rituals
+[08:04 --> 08:08] and holidays. And when we're talking about worshiping sun gods,
+[08:08 --> 08:12] the winter solstice is obviously going to be seen as a date of
+[08:12 --> 08:17] great importance. Sol Invictus honored the sun god for holding
+[08:17 --> 08:20] fast against the encroaching darkness and celebrated the day
+[08:20 --> 08:23] he turned the tables on his eternal enemy night and began to
+[08:23 --> 08:29] take the sky. The Syrian born Emperor Elagabalus introduced the
+[08:29 --> 08:33] Romans to the feast around 220 AD and held it every year on
+[08:33 --> 08:37] December the 25th, which according to the Roman calendar
+[08:37 --> 08:40] at the time, was the date of the all important winter
+[08:41 --> 08:45] solstice. 50 years later, the Emperor Aurelian, whose patron
+[08:45 --> 08:48] god was Sol, one of the various sun gods hanging around
+[08:48 --> 08:51] at the time, popularized the feast and made it an empire
+[08:51 --> 08:56] white holiday. 20 odd years after Aurelian, Constantine came
+[08:56 --> 08:59] along, and I think that we all know what happened next.
+[09:00 --> 09:03] Seized with either a mystical vision of Christ, or rather
+[09:03 --> 09:06] practical understanding that Christian bureaucrats were the
+[09:06 --> 09:09] only ones who could be trusted with the imperial treasury,
+[09:10 --> 09:12] Constantine officially ended the persecution of Christians
+[09:12 --> 09:16] and on his deathbed converted himself and the empire to
+[09:16 --> 09:20] Christianity. In the beginning of the Christian era, the
+[09:20 --> 09:22] leaders of the church attempted to stamp out the old pagan
+[09:22 --> 09:26] holidays, but ran into a great deal of resistance from the
+[09:26 --> 09:29] citizens of Rome, who continued to follow their old holiday
+[09:29 --> 09:34] calendar, holding fast to Sol Invictus in particular. The
+[09:34 --> 09:37] church elders, realizing they were fighting a losing battle,
+[09:37 --> 09:40] changed their strategy and rather than attempting to
+[09:40 --> 09:43] stamp out the pagan holidays, simply co-opted them and
+[09:43 --> 09:47] refashion them as Christian celebrations. The first
+[09:47 --> 09:50] official connections between Christmas and December 25th
+[09:51 --> 09:57] began to appear around 330 to 350 AD. Jesus was often
+[09:57 --> 10:00] depicted during these years with a radiating solar crown
+[10:00 --> 10:02] and was often used interchangeably with the
+[10:02 --> 10:06] various pagan solar deities by a citizen body
+[10:06 --> 10:11] transitioning between religions. By 400, December
+[10:11 --> 10:14] 25th was firmly established as a celebration of the
+[10:14 --> 10:19] Jesus and all mention of the old gods was gone. As the
+[10:19 --> 10:22] empire fell, taking the last vestiges of paganism with it,
+[10:23 --> 10:26] Roman Catholicism stood as the last bulwark of
+[10:26 --> 10:29] civilization and despite the many past claims by other
+[10:29 --> 10:33] deities to December 25th and the winter solstice, it
+[10:33 --> 10:37] was now a date for Jesus and Jesus alone. Though the
+[10:37 --> 10:40] importance of Christmas Day itself as a holiday has waxed
+[10:40 --> 10:43] and waned over the years, it was always considered the
+[10:43 --> 10:47] birthday of Jesus, just as it is today, when as a
+[10:47 --> 10:50] holiday, it now dominates the Christian holiday calendar.
+[10:52 --> 10:55] So there you have it. For those of you who are
+[10:55 --> 10:58] celebrating Christmas, remember that when you sit down
+[10:58 --> 11:02] and exchange presents beneath the tree on December 25th,
+[11:02 --> 11:04] even though you may not be in Rome, you are doing
+[11:04 --> 11:10] exactly as the Romans did. As I mentioned at the end of
+[11:10 --> 11:13] last week, the show will be on hiatus next week as I
+[11:13 --> 11:16] am traveling for the holidays. But when I return, I hope
+[11:16 --> 11:20] to bring back with me a fancy new hosting server. As
+[11:20 --> 11:22] many of you have noted with frustration over the
+[11:22 --> 11:24] last few weeks, there have been many problems
+[11:24 --> 11:28] downloading episodes. At first, I didn't quite know
+[11:28 --> 11:31] what the problem was, but it dawned on me that
+[11:31 --> 11:34] the thousands and thousands of download requests were
+[11:34 --> 11:37] overwhelming my poor little free hosting account. When
+[11:37 --> 11:40] I started the history of Rome, I never imagined I
+[11:40 --> 11:43] need more than hobbyist grade hosting. But the
+[11:43 --> 11:46] audience has now officially outgrown the venue, and I
+[11:46 --> 11:48] plan on spending a good chunk of my downtime getting
+[11:48 --> 11:51] all the bugs worked out of what I hope to be a
+[11:51 --> 11:53] server with more than enough bandwidth to
+[11:53 --> 11:56] accommodate everyone out there now and anyone who
+[11:56 --> 12:00] wants to hop on board in the future. So I will see
+[12:00 --> 12:03] you next year, hopefully fully upgraded, so we can
+[12:03 --> 12:06] launch unobstructed into the Punic Wars, by far
+[12:06 --> 12:09] Rome's greatest test and a time of very real
+[12:09 --> 12:12] peril, and then begin to trace the long, slow
+[12:12 --> 12:15] decline of the Republic until the whirlpool
+[12:15 --> 12:17] begins to suck furiously downward in the middle
+[12:17 --> 12:22] of the first century BC. Until then, I wish you
+[12:22 --> 12:24] all a happy feast of the unconquered sun.
+[12:42 --> 12:45] Thank you.

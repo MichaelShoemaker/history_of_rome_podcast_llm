@@ -1,0 +1,278 @@
+# 20120325 - 173- The Broken Bow
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:06 --> 00:09] internet's leading provider of audio entertainment with over a hundred
+[00:09 --> 00:13] thousand titles to choose from. When you're done with this episode go to
+[00:13 --> 00:20] audiblepodcast.com forward slash Rome. That again audiblepodcast.com forward
+[00:20 --> 00:25] slash Rome. By going to that address you qualify for a free book download when
+[00:25 --> 00:29] you sign up for a 30-day trial membership. There is no obligation to
+[00:29 --> 00:33] continue the service and you can cancel any time and keep the free book
+[00:33 --> 00:37] download. You can also keep going with one of the monthly subscription options
+[00:37 --> 00:43] and get great deals on all future audiobook purchases. This week I am going
+[00:43 --> 00:48] to go back to basics and re-recommend the classics just in case anyone is
+[00:48 --> 00:54] still holding out. The Decline and Fall of the Roman Empire by Edward Gibbon.
+[00:54 --> 01:02] It's only like 120 hours long. That's nothing. So just go get it. And remember
+[01:02 --> 01:08] to go to audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:12 --> 01:20] Hello and welcome to the history of Rome. Episode 173 The Broken Bow.
+[01:24 --> 01:30] After laying waste to Aquileia in the spring of 452, Attila and the Huns moved
+[01:30 --> 01:35] west across northern Italy sacking every settlement they passed along the way.
+[01:36 --> 01:41] Though the Imperial capital had moved to Ravenna 40 years earlier, the city of
+[01:41 --> 01:45] Milan remained the richest, largest, and most powerful city in the region and
+[01:45 --> 01:52] that's exactly where Attila was headed. Aetius and what forces he was able to
+[01:52 --> 01:58] muster, gamely tried to harass, hinder, and trip up the Hun advance, but there was
+[01:58 --> 02:04] only so much they could do. Though they made Attila's life difficult and in time
+[02:04 --> 02:08] the constant harassment would wear the Huns down, but it was not enough to stop
+[02:08 --> 02:14] the Huns from reaching Milan. The former capital's defenses were impressive, but
+[02:14 --> 02:19] once again insufficient to hold off Attila. The only feather in the city's
+[02:19 --> 02:24] cap was that it held out long enough for the siege to become called a protracted
+[02:24 --> 02:29] siege, but in due time the Huns once again prevailed and Milan was sacked.
+[02:32 --> 02:37] Down in Rome, a Valentinian and his exiled court could do little more than
+[02:37 --> 02:43] tremble behind the Aurelian walls. It was clear that no army or wall was going to
+[02:43 --> 02:48] stop Attila's inevitable march on Rome, so maybe it was time for some good
+[02:48 --> 02:53] old-fashioned high diplomacy. It was worth a shot, it's not like they had
+[02:53 --> 02:58] anything to lose. So a deputation of a few distinguished senators was sent
+[02:58 --> 03:06] north, famously led by the Bishop of Rome, Leo I. The diplomatic mission
+[03:06 --> 03:12] traveled north, crossed the Po River, and located the Hun camp. What happened next
+[03:12 --> 03:19] is the stuff of legend. Attila met with Leo, heard what he had to say, and then
+[03:19 --> 03:27] amazing, wondrous, miracle of miracles decided to withdraw from Italy. This
+[03:27 --> 03:32] immediately became a watershed moment in the history of the Catholic Church, and a
+[03:32 --> 03:36] key step in the process that saw the popes emerge as dominant political
+[03:36 --> 03:44] figures in the post-imperial West. Now, this is not to take anything away from
+[03:44 --> 03:49] Leo, or to ignore the guts it must have taken to walk up to Attila unarmed and
+[03:49 --> 03:54] ask him to please leave Italy, but it was going to take a lot more than the
+[03:54 --> 04:00] request of a single priest to move Attila. So what was it? The Huns had just
+[04:00 --> 04:06] run roughshod over all of northern Italy. Nothing could stop them, so why were they
+[04:06 --> 04:13] pulling back? If it wasn't the personal diplomacy of Leo, then what was it? A few
+[04:13 --> 04:19] things immediately come to the surface. First of all, Leo's words were almost
+[04:19 --> 04:24] certainly backed with a large quantity of gold, which will get anyone interested in
+[04:24 --> 04:30] listening to what you have to say. Second, as had been the case with the campaign
+[04:30 --> 04:36] Gaul, Attila was having trouble feeding his army. The Huns did not have the kind
+[04:36 --> 04:41] of supply network the Romans enjoyed, and instead lived off the land as they moved
+[04:41 --> 04:48] from place to place. But in 452, Italy was suffering from a famine. There was just
+[04:48 --> 04:55] very little food to be had. Third, the Huns were victims of their own success.
+[04:56 --> 05:01] Sacking city after city had left them laden with treasure, and far less mobile than
+[05:01 --> 05:05] they had been at the beginning of the year. In other words, they needed to go
+[05:05 --> 05:12] home and make a deposit. Fourth, according to reports, the new eastern emperor
+[05:12 --> 05:17] Marcion was taking advantage of Attila's absence and launching raids north of the
+[05:17 --> 05:23] Danube. So just as the campaign in Italy was starting to bog down, reports started
+[05:23 --> 05:28] coming into the Huns that their families were under attack. And that's not
+[05:28 --> 05:34] something that you can just ignore. Fifth, and this one was probably the decisive
+[05:34 --> 05:40] factor, disease had begun to sweep through the Hun camps. The old historians
+[05:40 --> 05:44] describe it as a divinely ordered blight to punish Attila for his
+[05:44 --> 05:50] transgressions. But whatever it was, it was quickly thinning the Hun ranks. You
+[05:50 --> 05:55] had all this up, and you got a Hun king ready to consolidate his gains and
+[05:55 --> 06:01] mitigate his losses. So before winter set in, Attila withdrew back to his
+[06:01 --> 06:05] homeland north of the Danube River. He would never return to the west.
+[06:09 --> 06:14] In early 453, Attila had already decided that as soon as spring arrived, he was
+[06:14 --> 06:19] going to turn his attention back to the east. While the Huns had been occupied in
+[06:19 --> 06:24] the west, Constantinople had decided to make another play at cutting off the
+[06:24 --> 06:31] indemnity payment. That, coupled with Marcian's attacks during 452, equaled a
+[06:31 --> 06:37] guaranteed Hun invasion of the east in 453. Maybe this time they could crack
+[06:37 --> 06:42] those Theodosian walls. But Attila would never get the chance.
+[06:45 --> 06:49] Marcian was himself preparing for the inevitable confrontation with Attila,
+[06:49 --> 06:54] when, according to legend, he dreamed that he saw Attila's bow broken at his
+[06:54 --> 07:01] feet. Less than a week later, messengers arrived with the stunning news. Attila
+[07:01 --> 07:10] the Hun was dead. There is absolutely no reliable account of his death, but two
+[07:10 --> 07:15] versions exist. The first is offered by the contemporaneous Greek historian
+[07:15 --> 07:20] Priscus, who reports that Attila got blind drunk while celebrating his latest
+[07:20 --> 07:26] marriage, and then choked to death in his sleep. The other more scandalous
+[07:26 --> 07:30] account is that he was actually murdered by his new bride on their wedding night.
+[07:31 --> 07:35] An even more scandalous account is that Attila was assassinated at the order of
+[07:36 --> 07:42] Marcian, who obviously wanted no part of facing Attila in the field. However he
+[07:42 --> 07:48] died, Attila the Hun, the so-called Scourge of God, was dead, and the Roman
+[07:48 --> 07:58] world slept a little easier. With the Sword of Damocles no longer hanging
+[07:58 --> 08:03] directly over their heads, the imperial courts of east and west were able to
+[08:03 --> 08:08] survey the damage Attila had wrought and maybe entertain the idea of planning
+[08:08 --> 08:11] for the future again, rather than simply trying to react to the present.
+[08:13 --> 08:17] But though no one could have known it, Attila's would not be the only momentous
+[08:17 --> 08:23] death to hit the empire in the early 450s. In just a few short years, the men
+[08:23 --> 08:27] and women who had led Rome for the last generation would all be gone, replaced by
+[08:27 --> 08:32] a new slate of leaders, who, for better or for worse, would lead Rome for the
+[08:32 --> 08:40] next generation. Now, I already accidentally blew by the first momentous
+[08:40 --> 08:44] death of the early 450s, because I got a little too caught up in Attila's
+[08:44 --> 08:50] invasion of Gaul. But in October of 450, just a few months after arranging the
+[08:50 --> 08:54] fateful marriage between her daughter Honoria and boring old Senator
+[08:54 --> 08:59] Herculanus, the great matron of the west, Gala Placidia, died.
+[09:01 --> 09:06] Given how long she was a central figure in western politics, I mean, she first
+[09:06 --> 09:10] rose to prominence back when she was kidnapped by Alaric during the first sack
+[09:10 --> 09:16] of Rome, which was what, like 40 years ago? It is kind of shocking to think that
+[09:16 --> 09:22] Placidia was just 58 years old when she died. Not a young woman by any means,
+[09:22 --> 09:28] but certainly not some ancient relic. She had been the wife of a gothic king,
+[09:28 --> 09:33] and given birth to a boy who might have led the Goths and Romans into becoming a
+[09:33 --> 09:37] single people. She was the daughter of an emperor, the brother of an emperor,
+[09:38 --> 09:43] the wife of an emperor, and the mother of an emperor. Intelligent and
+[09:43 --> 09:48] self-confident, she herself has served as regent of the west for some 14 years.
+[09:49 --> 09:53] And though the ascension of her rival Aetius had curtailed some of her
+[09:53 --> 09:58] influence, Gala Placidia remained a towering figure until the moment of her
+[09:58 --> 10:02] death in late 450. A remarkable woman, to be sure.
+[10:06 --> 10:10] Three years later, the next great imperial death hit, as Placidia's
+[10:10 --> 10:14] counterpart in the east, Elia Pulcheria, died at the age of 55.
+[10:16 --> 10:20] When you get right down to it, these two women, Placidia and Pulcheria,
+[10:21 --> 10:25] perhaps defined the first half of the fifth century better than any emperor,
+[10:25 --> 10:35] king, or general. Pulcheria, daughter, sister, and wife of successive emperors, had strode boldly
+[10:35 --> 10:42] onto the stage of world history at the tender age of 14, asserting her authority over the
+[10:42 --> 10:48] eastern empire, challenging and then besting God knows how many ministers and generals who
+[10:48 --> 10:52] were getting ready to have their way with the underaged Theodosius II.
+[10:54 --> 10:59] Although we didn't get too much into it, as an utterly devout Orthodox Christian,
+[11:00 --> 11:05] Pulcheria was responsible for building up entire quarters of Constantinople dedicated to housing
+[11:05 --> 11:12] and servicing the poor. Though her religious devotion also led her to promote far less
+[11:12 --> 11:19] laudatory persecutions of pagans and Jews. For 40 years, Pulcheria stood at the center
+[11:19 --> 11:25] of the imperial court of Constantinople, acting as a rock of continuity as the ministers and
+[11:25 --> 11:30] generals of the east came and went. And in her last great act, she stepped into the power vacuum
+[11:30 --> 11:36] that opened when her brother died in 450, keeping the east from slipping into civil war.
+[11:37 --> 11:43] A book detailing the parallel lives and times of Gallop Placidia and Elia Pulcheria would make for
+[11:44 --> 11:47] reading if anyone feels like knocking one out for us.
+[11:51 --> 11:58] The deaths of Placidia and Pulcheria were acutely felt, but the bony finger of death was just
+[11:58 --> 12:04] getting warmed up. As I mentioned two episodes back, the question of who was going to marry
+[12:04 --> 12:09] Valentinian III's youngest daughter was fast becoming a hot topic in the court of the west.
+[12:10 --> 12:15] The rising officer Majorian had been put forward, but as you'll recall,
+[12:16 --> 12:21] Aetius had stepped in and exiled Majorian before the young man's nomination could get off the ground.
+[12:22 --> 12:27] Clearly, Aetius wanted no one to stand in the way of his own son, Gaudentius,
+[12:27 --> 12:31] and it appears that in 453, the general got his way.
+[12:32 --> 12:37] Valentinian agreed to an engagement between Gaudentius and Placidia the younger.
+[12:39 --> 12:45] But though the engagement put Aetius tantalizingly close to becoming patriarch of the next imperial
+[12:45 --> 12:49] dynasty, it also likely sowed the seeds of his own destruction.
+[12:51 --> 12:55] Valentinian had spent his entire life under the thumb of the powerful Aetius,
+[12:56 --> 13:01] and the betrothal of his daughter to the general's son very likely put a simple thought into
+[13:01 --> 13:07] Valentinian's head. I wonder how long it will be before Aetius kills his daughter,
+[13:07 --> 13:12] and declares his own son emperor. Will it be on the night of the wedding itself,
+[13:12 --> 13:19] or will he wait a few days? And if Valentinian didn't actually come up with this thought himself,
+[13:19 --> 13:23] two members of the imperial court almost certainly conspired to put it there,
+[13:24 --> 13:29] the imperial chamberlain Heraclius and the wealthy senator Patronius Maximus.
+[13:32 --> 13:39] Now, as imperial chamberlain, Heraclius needed no specific motivation. Imperial chamberlains are
+[13:39 --> 13:48] apparently a uniformly sneaky and conspiratorial lot, but Maximus is a different story. A long
+[13:48 --> 13:54] time Aetian loyalist, he apparently turned on his patron as a part of a larger project to take
+[13:55 --> 14:01] Valentinian. Revenge he knew would be impossible as long as Aetius stood in his way.
+[14:03 --> 14:08] According to a convoluted story related by 7th century historian John of Antioch,
+[14:09 --> 14:15] Valentinian had won one of Maximus's family rings in a bet, then used that ring to lure
+[14:15 --> 14:23] Maximus's wife to court, and then proceeded to rape her. And this is not a pretty story,
+[14:23 --> 14:29] but it is also one that may have been invented later to give a more emotional explanation for
+[14:29 --> 14:39] Maximus's actions. Throughout 454, Heraclius and Maximus worked steadily to erode Valentinian's
+[14:39 --> 14:47] faith in Aetius and replace that faith with intense fear and distrust. Once they had the now
+[14:47 --> 14:52] 34 year old emperor on the hook, they began broaching more intense subjects.
+[14:53 --> 14:59] Aetius is a threat to you, became shouldn't you get rid of Aetius, became shouldn't someone kill
+[14:59 --> 15:08] Aetius, became finally shouldn't you kill Aetius. Now there's no way to know whether
+[15:08 --> 15:13] Valentinian's fear of Aetius was legitimate. That is, whether Aetius would have actively
+[15:13 --> 15:18] conspired to murder the emperor and elevate his son to the throne, or whether he would
+[15:18 --> 15:25] have been content to just let nature take its course. But given Aetius's history of ambitious
+[15:26 --> 15:30] backstabbing, Valentinian's fears were, I think, at least justified.
+[15:33 --> 15:38] This all led up to one of the most dramatic assassinations in Roman history.
+[15:39 --> 15:46] In September of 454, Aetius was in Ravenna, briefing the emperor and his ministers on the
+[15:46 --> 15:51] state of the army's finances, when, after the general turned his back for a moment,
+[15:51 --> 15:56] the emperor himself pulled out a dagger and stabbed Aetius to death.
+[15:59 --> 16:08] Valentinian obviously felt that killing the general was necessary, and that this was the
+[16:08 --> 16:13] Emperor's enlist underlings to assassinate their enemies, rather than the other way around.
+[16:15 --> 16:21] Aetius was 58 years old, and had more or less held the western empire together for 21 years.
+[16:23 --> 16:27] Shortly after the murder, Valentinian was confronted by the bishop Apollinaris,
+[16:28 --> 16:34] who allegedly said, I am ignorant, sir, of your motives. I only know that you have acted like a
+[16:34 --> 16:44] man who cut off his right hand with his left. Which just about sums it up. Aetius may have been
+[16:44 --> 16:50] treacherous and ambitious, but he was a damned effective general and administrator. Killing him
+[16:50 --> 16:55] may have been an act of preemptive self-defense, but it certainly didn't do anything to help the
+[16:55 --> 17:04] disintegrating western empire. And ultimately, it didn't do anything to save Valentinian either.
+[17:04 --> 17:10] Because it's not like Aetius didn't have allies who would happily avenge their patron if given
+[17:10 --> 17:16] the chance. They would be given the chance less than a year later, when it turned out that the
+[17:16 --> 17:21] conspiratorial marriage between Heraclius and Maximus was a marriage of convenience.
+[17:22 --> 17:26] They were not allies, so much as enemies of the same man.
+[17:27 --> 17:30] And now that that man lay dead, they divorced almost immediately.
+[17:35 --> 17:40] Maximus was expecting to succeed Aetius to the position of commander-in-chief of the
+[17:40 --> 17:44] western legions. He may have had a deal with Heraclius to that effect,
+[17:45 --> 17:50] but it's also possible that he was just making assumptions. And we all know how rotten assumptions
+[17:50 --> 17:58] can be. In the immediate aftermath of Aetius's death, Maximus attempted to step into the dead
+[17:58 --> 18:05] general's boots. But he found himself blocked by, that's right, Heraclius, who feared a loss of
+[18:05 --> 18:12] influence if his co-conspirator Maximus was able to grab that much power. So he whispered in
+[18:12 --> 18:19] Valentinian's ear, and killed Maximus's shot at the job. Which, as you can imagine, ticked Maximus
+[18:19 --> 18:26] off something fierce. Here he had gone to all this trouble to get Aetius killed, and he wasn't even
+[18:26 --> 18:35] going to reap any kind of reward. So, murderous conspirator that he was, Maximus began to murderously
+[18:35 --> 18:42] conspire with some of Aetius's old confederates to murder the emperor. And this is when the rape
+[18:42 --> 18:50] story begins to ring a bit hollow. When discussing Aetius's murder, John says that the whole thing
+[18:50 --> 18:56] was about Maximus avenging his wife. But when it comes time for him to kill the rapist emperor,
+[18:57 --> 19:01] John merely talks about Maximus's bitterness over having been passed over for promotion.
+[19:03 --> 19:05] And that just seems like a really weird disconnect.
+[19:07 --> 19:14] Anyway, keeping his own role in Aetius's death a secret, Maximus enlisted two Hunnic bodyguards
+[19:14 --> 19:21] who had served the late general loyally for years. While visiting Rome in March of 455,
+[19:22 --> 19:28] Valentinian, accompanied by Heraclius, decided to go out riding, and maybe practice some archery.
+[19:29 --> 19:35] So out went the imperial entourage, which naturally included the two Hun bodyguards.
+[19:36 --> 19:41] As soon as Valentinian dismounted from his horse, the two bodyguards charged forward,
+[19:41 --> 19:47] one targeting Valentinian and the other targeting Heraclius. Both were stabbed to death.
+[19:50 --> 19:54] Valentinian was 35 years old, and having ascended to the throne at the age of six,
+[19:55 --> 20:01] he had technically been emperor of the west for 29 years, though for most of that time real power
+[20:01 --> 20:05] lay first with Gallipolisidia and then with Flavius Aetius.
+[20:09 --> 20:15] As had been the case in the east just a few years before, the death of the airless Valentinian III
+[20:15 --> 20:21] left a gaping hole in the political hierarchy that the western empire had not dealt with in more than
+[20:21 --> 20:27] half a century, going all the way back to the civil wars that had followed the death of Valentinian II
+[20:27 --> 20:33] in 392. Remember that? Yeah, that was a long time ago.
+[20:35 --> 20:40] Petronius Maximus was no dummy though, and he had timed the assassination to take place in Rome
+[20:40 --> 20:47] while he was there so that he could be Johnny on the spot. Because remember, this time there was
+[20:47 --> 20:54] no imperial sister around to marry some stooge and make him emperor. The wayward Honoria had
+[20:54 --> 21:00] been exiled shortly after her wedding proposal to Attila, and then she simply disappears from
+[21:00 --> 21:07] historical record. Maximus, banking on the ironclad law that fortune favored the bold,
+[21:07 --> 21:11] and the fact that he was the only one even remotely prepared for the death of Valentinian,
+[21:12 --> 21:17] since he, you know, planned it, was the first one to step forward and declare his willingness
+[21:17 --> 21:25] to rule the western empire. But though he was the first, much to Maximus's great annoyance,
+[21:25 --> 21:32] he was not the only one to step forward. A now wealthy former bodyguard of Aetius's name,
+[21:32 --> 21:38] Maximianus, was backed by the old Aetian faction of the imperial court, while the soon-to-be
+[21:38 --> 21:44] Emperor Majorian, who had returned to favor after the death of Aetius, was being backed by the army.
+[21:46 --> 21:51] Petronius Maximus had the support of the senate though, and with it, the support of the senate's
+[21:51 --> 21:57] wealth. He lavishly distributed bribes throughout the upper reaches of the imperial bureaucracy,
+[21:58 --> 22:02] and in short order, found them spontaneously backing his claim to power.
+[22:04 --> 22:10] And so, Maximus became emperor of the western empire. To legitimize his claim,
+[22:10 --> 22:15] he quickly married the emperor's widow, Iliadoxia, which, as I noted when Aetius married
+[22:15 --> 22:20] Bonifacius's widow, must have been pretty gross for her.
+[22:24 --> 22:28] The death of Valentinian III marks the end of an era in Roman history,
+[22:28 --> 22:36] and it's a pretty big era at that. The end of imperial dynasties, at least in the west.
+[22:38 --> 22:44] For 500 years, we've had the Julio-Claudians, and then the Flavians, and then the Antonines,
+[22:44 --> 22:49] then the Severans, and then, well, everything went to hell for a little bit. But eventually,
+[22:49 --> 22:54] we got to the Constantinians, and then the Valentinians, and then the Theodotians.
+[22:54 --> 23:00] But with the death of Valentinian III, all we're left with now is a random grab bag called
+[23:00 --> 23:08] the final emperors of the western empire. Weak, disjointed, increasingly powerless,
+[23:08 --> 23:15] a list of names without real authority, or even a real empire to rule, that finally winks out
+[23:15 --> 23:21] of existence at Romulus Augustilis, whose name brings us full circle back to the founder of the
+[23:21 --> 23:29] empire, and to the founder of Rome itself. Though the exile of the puppet boy emperor
+[23:29 --> 23:36] was considered an unremarkable afterthought at the time, it soon began to designate the official
+[23:36 --> 23:42] fall of the Roman Empire in the popular imagination. This designation is, of course,
+[23:42 --> 23:49] arbitrary and forced. In many ways, the Roman Empire died when Maximinus Thrax overthrew
+[23:49 --> 23:56] Alexander Severus. In many ways, it died when Diocletian reformed its structure, and then again,
+[23:57 --> 24:04] when Constantine replaced its religion. Then again, in many ways, it would not really die
+[24:04 --> 24:09] until the passing of Justinian, the last of the Latin emperors, and the man who nearly
+[24:09 --> 24:16] bankrupted the east, trying to reclaim the west. In many ways, it would not die until the Turks
+[24:16 --> 24:23] blasted a hole in the side of the Theodosian walls in 1453. And then there's Philip K. Dick.
+[24:24 --> 24:32] He said that the empire never ended. But these two are all artificially imposed divisions,
+[24:32 --> 24:38] invented by historians to help keep the past manageable. Because without those artificially
+[24:38 --> 24:44] imposed divisions, every book, every class, and every podcast would have to be called the
+[24:44 --> 24:51] history of the world, 4.5 billion BC to the present. After all, it really is just the one
+[24:51 --> 24:57] long narrative, drifting seamlessly from one briefly held form to the next.
+[25:00 --> 25:02] Which brings me to what I now need to say.
+[25:04 --> 25:08] The history of Rome will be ending with the exile of Romulus Augustilus,
+[25:09 --> 25:15] last emperor of the Western Roman Empire. I know that is not what many of you want to hear,
+[25:16 --> 25:22] and in many ways, it is not what I want to be telling you. But it is what is going to happen.
+[25:23 --> 25:29] The time is right for me to let it end. To let it end while it is still good and strong,
+[25:30 --> 25:36] rather than dragging it out until it dies in some obscure corner of the internet, long since
+[25:36 --> 25:41] abandoned by everyone who once loved it because it has degenerated into an endless string of
+[25:41 --> 25:47] weddings and births and contrived romances like the crappy 14th season of some sitcom you can't
+[25:47 --> 25:51] believe is still on the air. I would like to be better than that.
+[25:54 --> 25:59] But more importantly, the time is right because in about two months, I don't think I'm going to
+[25:59 --> 26:06] have the time or the energy to make the show as good as I expect it to be. You see, Mrs.
+[26:06 --> 26:11] The History of Rome is seven months pregnant with our first child, and by all accounts,
+[26:11 --> 26:18] babies pretty much change the whole equation. Sometimes I'll get emails from people that read
+[26:18 --> 26:24] like, how do you find the time to produce the podcast? You must not have kids, which has been
+[26:24 --> 26:34] true and is still true right now, but won't be very, very soon. The pacing seems poised to land
+[26:34 --> 26:41] the show on 476 AD just at the moment when my son is going to be born seems too auspicious a
+[26:41 --> 26:53] to ignore, so I'm not going to ignore it. We're at 455 AD right now, so we have about 20 years left.
+[26:54 --> 26:58] It's an action-packed 20 years, so it's not like I'm signing off tomorrow,
+[26:59 --> 27:02] but the life of The History of Rome can now be measured in weeks.
+[27:03 --> 27:08] I'm not sure exactly how long it will take to get from here to there because things always seem
+[27:08 --> 27:14] to pop up that I want to talk about, but I would reckon that the number of episodes left is now in
+[27:14 --> 27:22] the single digits, which is a crazy thing to think about. The History of Rome has been my life day in
+[27:22 --> 27:28] and day out for almost five years now. I'm not sure what I'm going to do when it's over.
+[27:29 --> 27:32] Oh wait, that's right, I'm going to have a baby to take care of.
+[27:35 --> 27:41] I'll thank you all again when the time comes, but I would like to thank you now too because I really
+[27:41 --> 27:46] can't thank you enough. Thank you for letting me do The History of Rome.
+[27:49 --> 27:56] Okay, next week, just to really drive home the depressing point that this is all coming to an end,
+[27:56 --> 28:02] Rome is going to get sacked again. The aftermath of Valentinian's assassination
+[28:02 --> 28:08] is going to be a very confusing time for the Western Empire, and attempting to consolidate
+[28:08 --> 28:13] power, Petronius Maximus is going to piss the vandals off something fierce,
+[28:14 --> 28:22] leading them to sack Rome in August of 455. Which, just for the record, is yet another arbitrary
+[28:22 --> 28:27] point some historians use to designate the official fall of the Roman Empire.
