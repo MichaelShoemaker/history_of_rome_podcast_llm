@@ -30,17 +30,16 @@ This project provides a complete pipeline for converting the entire History of R
 
 ## Dataset Information
 
-The complete History of Rome series covers:
-- **179 main episodes** (2007-2012): From Rome's founding to the fall of the Western Empire
-- **13 additional episodes**: Updates, announcements, and special content
+The core History of Rome series covers:
+- **179 episodes** (2007-2012): The complete chronological narrative from Rome's founding to the fall of the Western Empire
 - **~150+ hours** of audio content
 - **Comprehensive coverage**: 1,200+ years of Roman history
+- **Cleaned dataset**: Bonus episodes and non-series content removed for focused historical narrative
 
 ### Episode Range
-- **Episodes 1-179**: The complete chronological history
 - **Episode 1**: "In the Beginning" (753 BC - Founding of Rome)
 - **Episode 179**: "The End" (476 AD - Fall of Western Roman Empire)
-- **Special Episodes**: Updates and transitions to other series
+- **Complete chronological coverage**: From legendary founding through the collapse of the Western Roman Empire
 
 ## Quick Start
 
@@ -48,7 +47,7 @@ The complete History of Rome series covers:
 ```bash
 jupyter notebook pull_episodes.ipynb
 ```
-This will download all 192 MP3 files (~1.2GB total) to the `history_of_rome_episodes/` directory.
+This will download all 179 core episodes (~1.2GB total) to the `history_of_rome_episodes/` directory.
 
 ### 2. Transcribe Episodes
 
@@ -85,12 +84,12 @@ Each transcript includes:
 
 ### CPU Transcription
 - **Speed**: ~0.5-1x real-time (30min episode = 30-60min)
-- **Total Time**: ~384 hours for complete series
+- **Total Time**: ~358 hours for 179 episodes
 - **Memory**: ~2-4GB RAM required
 
 ### GPU Transcription (CUDA)
 - **Speed**: ~2-4x real-time (30min episode = 7-15min)
-- **Total Time**: ~96 hours for complete series
+- **Total Time**: ~90 hours for 179 episodes
 - **Memory**: ~4-8GB VRAM required
 
 ## Requirements
@@ -152,7 +151,7 @@ history_of_rome_podcast_llm/
 ├── pull_episodes.ipynb               # Episode download notebook
 ├── parse_episodes.ipynb              # CPU transcription notebook
 ├── gpu_parser.py                     # GPU transcription script
-├── history_of_rome_episodes/         # Downloaded MP3 files (192 files)
+├── history_of_rome_episodes/         # Downloaded MP3 files (179 episodes)
 ├── all_transcripts/                  # All generated transcripts
 └── processed/                        # Additional processed files
 ```
@@ -220,6 +219,7 @@ This will:
 - 🔍 Generate embeddings using SentenceTransformers
 - 🌐 Launch Flask web interface on `localhost:5000`
 - 🧠 Pull and configure Llama 3.1 8B model
+- 🎯 Process 179 core episodes covering 1,200+ years of history
 
 ### 2. Ask Questions via Web Interface
 
@@ -314,11 +314,12 @@ episode_44 = get_episode_summary(client, "history_of_rome", 44)  # "Caesar Trium
 The system provides:
 - **🧠 Intelligent Q&A**: Ask complex questions about Roman history
 - **📍 Source Attribution**: Every answer includes episode references and timestamps
-- **🔍 Semantic Search**: Find relevant content across 1000+ text segments
-- **🎯 Context-Aware**: Understands historical context and relationships
+- **🔍 Semantic Search**: Find relevant content across 1000+ text segments from 179 episodes
+- **🎯 Context-Aware**: Understands historical context and relationships across 1,200+ years
 - **⚡ GPU Acceleration**: Fast inference using your NVIDIA GPU
 - **🌐 Web Interface**: Beautiful, responsive web interface
 - **🔌 API Access**: RESTful API for integration with other tools
+- **📚 Curated Dataset**: Clean, focused dataset with only core historical episodes
 
 ## Links
 
