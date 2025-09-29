@@ -4,6 +4,12 @@ A comprehensive toolkit for downloading, transcribing, and processing Mike Dunca
 
 ![Data Flow](images/DataFlowDiagram.gif)
 
+## Demo
+
+![Demo](images/Demo.gif)
+
+*Quick sample run showing the RAG system in action - asking questions about Roman history and getting answers based on podcast transcripts.*
+
 ## Overview
 
 This project provides a complete pipeline for converting the entire History of Rome podcast series (179 episodes + updates) into searchable, timestamped transcripts that can be used with modern LLM applications. The workflow includes automatic downloading, AI-powered transcription, and preparation for vector database integration.
