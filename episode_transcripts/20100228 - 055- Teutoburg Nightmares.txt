@@ -1,0 +1,591 @@
+# 20100228 - 055- Teutoburg Nightmares
+# Detected language: en
+# Duration: 1529.08 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello and welcome to the History of Rome, Episode 55, Tudiburg Nightmares.
+[00:13 --> 00:17] When we left off last week, Augustus was overseeing the rise of his two grandsons, Gaius and
+[00:17 --> 00:22] Lucius, and dealing with the fallout from the sudden retirement of his stepson Tiberius
+[00:22 --> 00:23] in 6 BC.
+[00:24 --> 00:28] The next decade will bring even more hardship for the imperial family, as the fates
+[00:28 --> 00:32] intervened to visit every misery imaginable on the house of Caesar.
+[00:33 --> 00:37] But beyond the internal problems of the first family, the whole empire will soon be
+[00:37 --> 00:41] visited with the disastered arrival of the massacre at Cannae and the Parthian annihilation
+[00:41 --> 00:43] of Crassus' eastern legions.
+[00:44 --> 00:47] Rome had spent its life expanding, always and ever outward.
+[00:48 --> 00:51] Augustus could already see, though, that the endless growth could not continue
+[00:51 --> 00:55] forever, that future generations would not be tasked with winning new territory for
+[00:56 --> 00:59] rather keeping what had already been seized.
+[00:59 --> 01:03] But even he was not ready to be done with imperial conquest just yet.
+[01:03 --> 01:07] That was why the disaster in the Tudiburg forest was such a heavy blow.
+[01:08 --> 01:12] Germania was supposed to be the last province the empire would ever need, but instead
+[01:12 --> 01:16] it was never taken, the final piece of the puzzle never put into place.
+[01:17 --> 01:21] Instead, the land beyond the Rhine would forever whisper in Rome's ear like the
+[01:21 --> 01:25] slave standing beside a conquering general in his triumphal chariot, reminding
+[01:25 --> 01:26] him that he is mortal.
+[01:28 --> 01:32] But before we get into all that, we need to unpack some more of the drama of the
+[01:32 --> 01:36] Julio-Claudian family, as events during these middle years of Augustus' reign
+[01:36 --> 01:40] will set the stage for the future path of the imperial monarchy.
+[01:41 --> 01:45] Augustus had always taken pains to have his family live exemplary public and
+[01:45 --> 01:50] private lives, to lead by example as the emperor tried to simultaneously renew
+[01:50 --> 01:54] the old Roman spirit while strangling off its Republican roots.
+[01:54 --> 01:59] As I mentioned previously, the princeps was heavily invested in legislating
+[01:59 --> 02:04] sexual and marital relations to create a healthy environment within which to
+[02:04 --> 02:06] raise the new generation of Roman children.
+[02:07 --> 02:10] The only problem was that as hard as it was to legislate morality, it
+[02:10 --> 02:14] proved even harder to keep his own children and grandchildren in line.
+[02:15 --> 02:19] Behind Augustus' back, the house of Caesar was fast turning into a house
+[02:19 --> 02:20] of ill repute.
+[02:20 --> 02:24] Everyone knew it, everyone except the princeps himself.
+[02:25 --> 02:27] But in 2 BC, that all changed.
+[02:28 --> 02:32] After years of treating the back alleys of Rome as her personal playground, the
+[02:32 --> 02:36] exploits of Augustus' daughter Julia finally reached the princeps' ears.
+[02:37 --> 02:40] He had been kept in the dark, thinking her a paradigm of virtue, while
+[02:40 --> 02:44] all the while she carried on numerous affairs with men born both high and
+[02:44 --> 02:49] low, from the lowliest slave to men of the highest rank, including a member
+[02:49 --> 02:53] of the Grokkei family and, perhaps most famously, Mark Antony's second son,
+[02:53 --> 02:53] Aulus.
+[02:55 --> 02:58] The shock of the revelation caused Augustus to perhaps overreact.
+[02:59 --> 03:02] But with clamping down on libertine sexual attitudes such a personal
+[03:02 --> 03:06] crusade for him, it is understandable that when his own daughter was
+[03:06 --> 03:09] revealed to be a prime contributor to the problem, that the sense of
+[03:09 --> 03:11] betrayal must have run deep.
+[03:11 --> 03:14] Deep enough, anyway, that against the advice of nearly everyone, he
+[03:15 --> 03:18] banished Julia from Rome and never allowed her to return.
+[03:19 --> 03:22] Her identified lovers were banished themselves or forced to commit
+[03:22 --> 03:22] suicide.
+[03:23 --> 03:27] The scandal rocked Rome, as men of the most prominent families were
+[03:27 --> 03:28] suddenly exiled or killed.
+[03:29 --> 03:33] The common citizens of Rome were overcome with sympathy for Julia and
+[03:33 --> 03:36] her lovers, and when Augustus took to the streets, they begged him to
+[03:36 --> 03:37] allow them all to return.
+[03:38 --> 03:39] But he was not having it.
+[03:40 --> 03:42] The cold, cruel streak that had run through Augustus since the
+[03:42 --> 03:43] beginning resurfaced.
+[03:43 --> 03:46] Julia was dead to him.
+[03:46 --> 03:50] Still very much alive, though, were her two sons, Gaius and Lucius.
+[03:51 --> 03:54] Raised by the princeps himself, the two boys were growing fast into
+[03:54 --> 03:56] smart and capable teenagers.
+[03:57 --> 04:00] They were not perfect, though, and both earned reputations as
+[04:00 --> 04:02] haughty, self-indulgent, spoiled children.
+[04:04 --> 04:06] Augustus had tried mightily to prevent this from happening, but
+[04:06 --> 04:09] he could not watch them all the time, nor prevent Rome from
+[04:09 --> 04:12] lavishing them with their every desire practically from birth.
+[04:13 --> 04:16] But as the sons of Agrippa and the grandsons of Augustus, the
+[04:16 --> 04:19] princeps figured that there was enough noble, pragmatic, and
+[04:19 --> 04:22] talented blood running through their veins, that as they
+[04:22 --> 04:24] matured, they would, well, mature.
+[04:26 --> 04:29] Even though Augustus wanted to accelerate the career paths of
+[04:29 --> 04:32] the two boys, there were limits to how far he would go.
+[04:32 --> 04:36] When Gaius was only 14, there was agitation in the streets in
+[04:36 --> 04:38] favor of Augustus appointing the boy consul.
+[04:39 --> 04:42] Augustus himself stood for the consulship that year, so he
+[04:42 --> 04:45] could oversee Gaius' ceremonial transition into
+[04:45 --> 04:48] manhood, which took place traditionally at the age of 15.
+[04:48 --> 04:51] Of course, the people voted overwhelmingly in favor of the
+[04:51 --> 04:55] princeps, but in a surprise move, they also went ahead and
+[04:55 --> 04:57] elected young Gaius as his colleague.
+[04:58 --> 05:01] Unwilling to go that far that fast, Augustus vacated
+[05:01 --> 05:04] the decision and announced that Gaius could serve his
+[05:04 --> 05:07] consul as soon as he turned 20, but not a day before.
+[05:07 --> 05:09] He was, after all, not even a man yet.
+[05:10 --> 05:13] He also promised the people that Lucius would be able to
+[05:13 --> 05:16] follow a similar path and slated him for a consulship when
+[05:16 --> 05:17] he turned 20.
+[05:18 --> 05:21] With Tiberius now gone, Augustus needed to get both
+[05:21 --> 05:23] boys up to speed as soon as possible, but he didn't want
+[05:23 --> 05:25] to overdo it.
+[05:26 --> 05:29] The fall-started campaign in Armenia, though, which
+[05:29 --> 05:32] Tiberius was to have spearheaded, left Augustus in
+[05:32 --> 05:34] another quandary regarding the rapidity of his
+[05:34 --> 05:35] grandson's rise.
+[05:36 --> 05:40] Specifically, he saw Armenia as the perfect opportunity to
+[05:40 --> 05:43] give Gaius command experience, but if he put the
+[05:43 --> 05:45] teenager in charge, would the whole thing backfire?
+[05:46 --> 05:48] The people were certainly ready enough to give the
+[05:48 --> 05:50] young heir a position of authority, but was Gaius
+[05:50 --> 05:52] ready to take it?
+[05:52 --> 05:55] Swallowing his misgivings, Augustus decided to appoint
+[05:55 --> 05:58] the boy to deal with the situation in the east, the
+[05:58 --> 06:00] situation being that the Parthians were once again
+[06:00 --> 06:03] meddling in Armenia, which interfered with Rome's own
+[06:04 --> 06:05] something Augustus could not tolerate.
+[06:07 --> 06:10] In one BC, 18-year-old Gaius went east and set up a
+[06:10 --> 06:13] base of operations on the island of Samos, from which
+[06:13 --> 06:15] he would project Rome's imperial power.
+[06:16 --> 06:18] Not far from Samos was, of course, the island of
+[06:18 --> 06:21] Rhodes, home these past five years to Tiberius.
+[06:23 --> 06:25] The melancholy stepson of Augustus, now well into
+[06:25 --> 06:28] middle age, seems in those five years to have
+[06:28 --> 06:31] grown disenchanted with his exile, perhaps because
+[06:31 --> 06:34] he realized that he was not, after all, indispensable,
+[06:35 --> 06:37] or because after Julia's affairs became known,
+[06:37 --> 06:40] Augustus had unilaterally declared her unhappy
+[06:40 --> 06:42] marriage to Tiberius Void, freeing him of the
+[06:42 --> 06:43] woman he hated.
+[06:44 --> 06:46] Tiberius began to ask his stepfather for
+[06:46 --> 06:49] permission to return to Rome, a request Augustus
+[06:49 --> 06:51] refused to even consider, despite heavy
+[06:51 --> 06:52] lobbying from Livia.
+[06:54 --> 06:56] So Tiberius's exile transitioned almost
+[06:56 --> 06:59] overnight from self-imposed to forced.
+[07:00 --> 07:02] With Gaius taking on his first foreign assignment
+[07:02 --> 07:05] and ready to step into the consul ship in 1 AD,
+[07:05 --> 07:07] Tiberius found himself forgotten, left to
+[07:07 --> 07:10] wither on Rhodes, homesick and ignored.
+[07:11 --> 07:14] But we all know now that it was not Tiberius's
+[07:14 --> 07:16] destiny to die in obscurity.
+[07:17 --> 07:19] No, he was destined to succeed Augustus to the throne.
+[07:20 --> 07:23] So how did he get from exile back into the
+[07:23 --> 07:24] center of Roman power?
+[07:25 --> 07:27] Augustus clearly wanted nothing more to do with
+[07:27 --> 07:29] him, and with Gaius and Lucius progressing nicely,
+[07:30 --> 07:31] it would take quite a chain of events for the
+[07:31 --> 07:34] princeps to accept Tiberius back into his good graces.
+[07:35 --> 07:37] But the ancient world was a cruel and sudden
+[07:37 --> 07:40] place, and in the span of 18 months,
+[07:40 --> 07:43] Tiberius went from hated exile to heir apparent.
+[07:44 --> 07:47] In 2 AD, Lucius, then 19 years old and set to
+[07:47 --> 07:49] hold the consul ship the next year, was
+[07:49 --> 07:52] traveling to Spain on assignment for Augustus.
+[07:52 --> 07:54] While he was passing through Gaul, Lucius was
+[07:54 --> 07:56] stricken by an illness, and before anyone
+[07:56 --> 07:59] could even be notified that anything was amiss,
+[07:59 --> 07:59] he died.
+[08:00 --> 08:02] Augustus was devastated.
+[08:02 --> 08:04] Without any sons of his own, he had raised
+[08:04 --> 08:05] Lucius as his own.
+[08:06 --> 08:08] And now, just like that, the young man
+[08:08 --> 08:11] Augustus had poured his heart and soul into was gone.
+[08:13 --> 08:15] Beyond the emotional blow, this meant that
+[08:15 --> 08:17] all of Augustus's hopes for a permanent
+[08:17 --> 08:19] Julian dynasty now rested on Gaius alone.
+[08:20 --> 08:22] If anything were to happen to the older
+[08:22 --> 08:25] brother, Augustus did not know what he would do.
+[08:25 --> 08:28] A year and a half later, though, he found out.
+[08:29 --> 08:31] After helping resolve the situation in Armenia,
+[08:32 --> 08:34] which involved forging a compromise with the Parthians,
+[08:34 --> 08:37] whereby Rome allowed Parthia's chosen candidate
+[08:37 --> 08:38] to ascend to the Armenian throne,
+[08:39 --> 08:40] in exchange for the Parthians recognizing
+[08:40 --> 08:43] that Armenia was firmly in Rome's sphere of influence,
+[08:44 --> 08:46] Gaius was acting as a tourist in the East,
+[08:46 --> 08:48] when news came that not everyone in Armenia
+[08:48 --> 08:49] was happy with the compromise.
+[08:51 --> 08:53] A revolt had broken out, and Gaius
+[08:53 --> 08:55] led the legions in to help quell the disturbances.
+[08:56 --> 08:59] In 4 AD, while laying siege to a small town,
+[08:59 --> 09:00] Gaius was wounded.
+[09:01 --> 09:02] The wound never healed properly,
+[09:02 --> 09:04] and as he traveled back to the West,
+[09:04 --> 09:05] the infection became worse.
+[09:06 --> 09:08] He died on the southern coast of Anatolia
+[09:08 --> 09:10] at the tender age of 24.
+[09:12 --> 09:14] If Augustus found the death of Lucius hard to take,
+[09:14 --> 09:16] the death of Gaius was absolutely devastating.
+[09:17 --> 09:19] The two boys he had groomed for power,
+[09:19 --> 09:22] who he expected to one day rule the empire, were dead.
+[09:23 --> 09:24] Just like that, dead.
+[09:25 --> 09:26] Who else could he turn to?
+[09:27 --> 09:29] Finally, the endless stream of letters
+[09:29 --> 09:31] from Tiberius would have to be opened.
+[09:32 --> 09:35] His request to return from exile were have to be granted.
+[09:35 --> 09:37] The reality that he was now the only man alive
+[09:37 --> 09:39] who could succeed Augustus to the throne
+[09:39 --> 09:41] would have to be acknowledged.
+[09:42 --> 09:44] Tiberius was now, once again, the heir apparent.
+[09:46 --> 09:48] Now, I suppose this is a good time
+[09:48 --> 09:50] to address a rumor that has been kicking around
+[09:50 --> 09:52] since the days of antiquity.
+[09:53 --> 09:55] I speak, of course, of the Livia killed everyone
+[09:55 --> 09:57] theory of Roman imperial history.
+[09:58 --> 10:00] In this theory, Livia takes on the persona
+[10:00 --> 10:03] of the wicked stepmother, a familiar archetype
+[10:03 --> 10:05] that was well known to Roman dramatists,
+[10:06 --> 10:07] who, in her single-minded push
+[10:07 --> 10:09] to drive Tiberius into power,
+[10:09 --> 10:11] poisoned anyone who got in their way.
+[10:11 --> 10:15] First Marcellus, depending on who you talk to,
+[10:15 --> 10:17] then Lucius, then Gaius.
+[10:17 --> 10:19] She arranged the banishment of Julia
+[10:19 --> 10:21] and will soon enough arrange the banishment
+[10:21 --> 10:24] of young Agrippa Postumus and his sister Julia the younger.
+[10:25 --> 10:27] She was even accused of eliminating her own son,
+[10:27 --> 10:30] Jerusus, who was suspected of having Republican sympathies.
+[10:31 --> 10:34] These accusations have been around since it became clear
+[10:34 --> 10:36] that young Julian men in line for the throne
+[10:36 --> 10:38] had a habit of dying young and suddenly,
+[10:39 --> 10:41] but are, of course, given their fullest voice
+[10:41 --> 10:43] in the BBC miniseries, I, Claudius.
+[10:45 --> 10:46] Having somehow gone my entire life
+[10:46 --> 10:48] without ever actually seeing the show,
+[10:48 --> 10:50] I decided to right that particular wrong
+[10:50 --> 10:52] and have recently been watching it
+[10:52 --> 10:53] with the utmost enjoyment.
+[10:54 --> 10:55] I, Claudius, is, of course, awesome
+[10:55 --> 10:57] and anyone who is listening to this podcast
+[10:57 --> 11:00] will thoroughly enjoy it, but all I can say is
+[11:00 --> 11:03] Robert Graves really, really didn't like Livia.
+[11:04 --> 11:07] She is portrayed as evil and manipulative
+[11:07 --> 11:08] right down to the core.
+[11:08 --> 11:10] I don't think there is a sympathetic moment
+[11:10 --> 11:11] for her in the entire series.
+[11:12 --> 11:14] All I can say about this is that we should remain
+[11:14 --> 11:17] skeptical about such portrayals.
+[11:17 --> 11:20] Even the Latin historians, Suetonius especially,
+[11:20 --> 11:21] who specialized in gossip,
+[11:22 --> 11:24] acknowledged that there is no proof of anything
+[11:24 --> 11:26] and that the rumors were likely concocted
+[11:26 --> 11:27] by enemies of the regime,
+[11:27 --> 11:29] particularly enemies of Tiberius,
+[11:30 --> 11:32] who wished to discredit the entire Claudian half
+[11:32 --> 11:34] of the Julio-Claudian dynasty.
+[11:35 --> 11:38] We should also keep in mind that in the ancient world,
+[11:38 --> 11:40] sudden death was not exactly unheard of.
+[11:41 --> 11:42] Disease ran rampant and medicine
+[11:42 --> 11:44] was barely out of its infancy.
+[11:45 --> 11:48] There is no need to concoct a tale about a diabolical woman
+[11:48 --> 11:50] secretly assassinating her son's rivals
+[11:50 --> 11:53] to explain the fact that Lucius got sick and died
+[11:53 --> 11:55] or that after being stabbed with a sword,
+[11:56 --> 11:58] Gaius's wound never healed properly and he died.
+[11:59 --> 12:00] This is all to say that basically,
+[12:01 --> 12:02] I'm not going to go there.
+[12:02 --> 12:05] To me, Livia will remain a staunch promoter
+[12:05 --> 12:07] of her son's interests and a ruthless defender
+[12:07 --> 12:08] of the new imperial regime,
+[12:08 --> 12:10] but I will not be portraying her
+[12:10 --> 12:13] as the embodiment of pure malevolence.
+[12:13 --> 12:14] But go check out I, Claudius.
+[12:15 --> 12:16] Not for nothing is it regarded
+[12:16 --> 12:18] as some of the finest television ever produced.
+[12:20 --> 12:23] So moving on, after the death of Gaius,
+[12:23 --> 12:25] Tiberius returned to Rome.
+[12:25 --> 12:27] He was quickly adopted by Augustus
+[12:27 --> 12:29] and his at-large powers,
+[12:29 --> 12:30] which had lapsed during his exile,
+[12:31 --> 12:33] were renewed and extended by the Senate.
+[12:34 --> 12:36] As a condition of his adoption, though,
+[12:36 --> 12:37] Tiberius was required to adopt
+[12:37 --> 12:39] his now 20-year-old nephew, Germanicus.
+[12:40 --> 12:43] With Germanicus having blood ties back to Augustus
+[12:43 --> 12:45] through his mother, Antonia,
+[12:45 --> 12:47] the princeps hoped that after a temporary diversion
+[12:47 --> 12:48] through Tiberius,
+[12:49 --> 12:51] power would wind up back in the hands of a Julian.
+[12:52 --> 12:53] Doubly ensuring that in the future,
+[12:54 --> 12:55] power would remain in Julian hands,
+[12:56 --> 12:58] Germanicus was married to Augustus's granddaughter,
+[12:58 --> 12:59] Agrippina.
+[13:00 --> 13:01] When the princeps died,
+[13:01 --> 13:03] Tiberius would reign by necessity,
+[13:03 --> 13:05] but then the family of Germanicus
+[13:05 --> 13:07] would take their rightful places on the throne.
+[13:08 --> 13:11] It was lucky that Germanicus was turning out
+[13:11 --> 13:12] to be such a promising young man,
+[13:13 --> 13:15] because the rest of his family was a disaster.
+[13:16 --> 13:17] Agrippa Postumus,
+[13:17 --> 13:20] the last surviving son of Marcus Agrippa and Julia,
+[13:20 --> 13:22] had grown into a violent and cruel young man.
+[13:23 --> 13:26] In 7 AD, after numerous complaints and indiscretions,
+[13:27 --> 13:28] Augustus finally had to give up,
+[13:28 --> 13:30] and Postumus was forced into exile,
+[13:31 --> 13:32] banished to a tiny island
+[13:32 --> 13:33] that was little more than a rock.
+[13:35 --> 13:36] The next year, Julia the younger
+[13:36 --> 13:38] followed in her mother's footsteps,
+[13:39 --> 13:41] first into a life of moral flexibility,
+[13:42 --> 13:44] carrying on her own series of infamous affairs,
+[13:44 --> 13:46] and then exile at Augustus's orders.
+[13:47 --> 13:48] Rumors held, though,
+[13:48 --> 13:50] that she was not banished simply for immorality,
+[13:51 --> 13:52] but that she was also taking part
+[13:52 --> 13:54] in a plot against the Augustan regime.
+[13:55 --> 13:57] Her first husband had been executed
+[13:57 --> 13:58] on charges of treason,
+[13:59 --> 14:00] and some suppose that his wife
+[14:00 --> 14:02] had more than a little to do with the whole affair.
+[14:04 --> 14:05] Whenever his daughter or grandchildren
+[14:05 --> 14:07] popped up in conversation,
+[14:08 --> 14:10] Augustus was known to quote from the Iliad,
+[14:10 --> 14:13] ah, to have never married and childless died.
+[14:14 --> 14:15] Rounding out the Hall of Shame
+[14:15 --> 14:17] were Germanicus's sister, Lovilla,
+[14:17 --> 14:19] who will eventually commit suicide
+[14:19 --> 14:22] after being implicated in the murder of Tiberius's son,
+[14:22 --> 14:23] and his brother, Claudius,
+[14:24 --> 14:26] a stammering idiot who everyone knew
+[14:26 --> 14:27] would never amount to anything.
+[14:29 --> 14:30] While Augustus was dealing
+[14:30 --> 14:32] with his internal family dramas,
+[14:32 --> 14:34] an external disaster shook the regime
+[14:34 --> 14:36] right down to its core.
+[14:37 --> 14:40] Over the years, between the campaigns of Jerusalem
+[14:40 --> 14:42] and the subsequent campaigns of Tiberius,
+[14:43 --> 14:45] the Roman grip on Germania had slowly tightened.
+[14:46 --> 14:48] By 7 AD, the Romans were moving
+[14:48 --> 14:50] with relative impunity through the country
+[14:50 --> 14:52] and had established alliances
+[14:52 --> 14:54] with numerous Germanic tribes.
+[14:55 --> 14:56] Bases and forts had been erected
+[14:56 --> 14:57] on the far side of the Rhine,
+[14:58 --> 14:59] and by all accounts,
+[14:59 --> 15:00] it was looking like Germania
+[15:00 --> 15:02] would soon be formally annexed.
+[15:02 --> 15:04] The only problem was that,
+[15:04 --> 15:06] despite the appearance of goodwill and friendship,
+[15:07 --> 15:08] the majority of German tribes
+[15:08 --> 15:10] had no love for Rome whatsoever
+[15:10 --> 15:12] and were not going to sit by
+[15:12 --> 15:14] while their country was enveloped into the empire.
+[15:15 --> 15:18] Into this dynamic stepped two men,
+[15:18 --> 15:19] Publius Quintilius Varus,
+[15:20 --> 15:21] then governor assigned to the task
+[15:21 --> 15:24] of consolidating Roman control of the country,
+[15:24 --> 15:25] and a German chieftain
+[15:25 --> 15:28] known by his Latinized name, Arminius.
+[15:30 --> 15:31] Arminius was well trusted by the Romans
+[15:31 --> 15:35] and played the part of a staunch Roman ally to the hilt.
+[15:35 --> 15:37] He had served in the legions,
+[15:37 --> 15:39] leading German auxiliary forces in numerous battles
+[15:39 --> 15:42] and had even been granted citizenship for his service.
+[15:43 --> 15:45] Varus trusted the German leader implicitly
+[15:45 --> 15:47] and considered him a key to bringing the Germans
+[15:47 --> 15:49] in line with Roman rule.
+[15:50 --> 15:51] But despite outward appearances,
+[15:52 --> 15:53] Arminius hated the Romans.
+[15:54 --> 15:57] His real dream was not helping Rome conquer Germania,
+[15:57 --> 16:00] but rather uniting the independent German tribes
+[16:00 --> 16:01] under his single banner
+[16:01 --> 16:03] and leading them to victory against the legions.
+[16:05 --> 16:07] For two years, he ostensibly advised
+[16:07 --> 16:09] and aided Varus in his labors,
+[16:09 --> 16:12] but secretly was organizing a massive resistance effort.
+[16:13 --> 16:17] By 9 AD, Arminius had convinced enough of his countrymen
+[16:17 --> 16:19] to join him that he felt strong enough to strike.
+[16:20 --> 16:22] But being strong enough to strike
+[16:22 --> 16:24] did not mean simply declaring his break from Rome
+[16:24 --> 16:26] and attacking in a set piece battle.
+[16:26 --> 16:28] No, that would never work.
+[16:28 --> 16:30] The German chieftain knew from his years
+[16:30 --> 16:33] of serving in the legions that his fellow tribesmen
+[16:33 --> 16:35] were no match for Rome's armies, all things being equal.
+[16:36 --> 16:38] So he set about making sure
+[16:38 --> 16:39] that all things would not be equal.
+[16:40 --> 16:42] He devised a trap for the Romans
+[16:42 --> 16:44] and then leveraged his influence with Varus
+[16:44 --> 16:47] to make sure that the Roman leader walked right into it.
+[16:48 --> 16:50] Arminius was so trusted, in fact,
+[16:50 --> 16:52] that even when evidence of his intentions
+[16:52 --> 16:53] was brought to Varus' attention,
+[16:54 --> 16:55] the Roman general dismissed it as slander.
+[16:56 --> 16:57] But it wasn't slander.
+[16:57 --> 16:58] It was the truth.
+[17:00 --> 17:02] The trap was set for September,
+[17:02 --> 17:04] just as the weather was turning sour
+[17:04 --> 17:06] and the Romans were thinking more about holing up
+[17:06 --> 17:07] for the winter than dealing
+[17:07 --> 17:09] with a massive Germanic uprising.
+[17:10 --> 17:12] Arminius brought word to Varus
+[17:12 --> 17:14] that a revolt had broken out northwest
+[17:14 --> 17:15] of the main Roman camp
+[17:15 --> 17:18] and that it would be best to go in with a show of force
+[17:18 --> 17:20] and remind the locals that their new rulers
+[17:20 --> 17:21] did not tolerate insurrection.
+[17:23 --> 17:25] So Varus led the three legions under his command,
+[17:26 --> 17:29] the 17th, 18th, and 19th, out of the camp,
+[17:29 --> 17:31] marching them northwest towards the alleged revolt.
+[17:32 --> 17:34] But of course, there was no uprising.
+[17:35 --> 17:37] Using the excuse that he was leaving
+[17:37 --> 17:38] to go raise more local soldiers
+[17:38 --> 17:40] to help Rome quell the unrest,
+[17:40 --> 17:42] Arminius left the Roman camp,
+[17:42 --> 17:43] met up with the massive army
+[17:43 --> 17:45] waiting to ambush the marching Romans
+[17:45 --> 17:46] in the Tudiburg forest.
+[17:47 --> 17:49] Completely unaware that anything was amiss
+[17:49 --> 17:52] and believing himself far from any trouble,
+[17:52 --> 17:54] Varus marched his men in sloppy fashion.
+[17:55 --> 17:57] He declined to send out any advance scouts
+[17:57 --> 17:59] and allowed thousands of camp followers
+[17:59 --> 18:01] with their slow-moving baggage trains
+[18:01 --> 18:03] to travel alongside his forces.
+[18:05 --> 18:06] Believing his men to be in no danger,
+[18:07 --> 18:09] Varus also neglected to march in battle-ready order.
+[18:11 --> 18:13] Arminius had pointed them down a narrow and muddy road
+[18:13 --> 18:16] and with heavy rain starting up, the going was slow.
+[18:17 --> 18:19] At a location that archeologists have identified
+[18:19 --> 18:21] as just northeast of modern Osnabrück,
+[18:22 --> 18:23] the legions were forced to pass
+[18:23 --> 18:25] through a narrow strip of land,
+[18:25 --> 18:27] cutting between a sharp hill to the south
+[18:27 --> 18:28] and marshland to the north.
+[18:29 --> 18:32] I have a map posted of what the likely site looked like
+[18:32 --> 18:34] that was based on a map posted by Yona Lendering
+[18:34 --> 18:38] of Livius.org, whose careful analysis of the battle
+[18:38 --> 18:40] forms the basis for most of my own recounting
+[18:40 --> 18:41] of the disaster.
+[18:42 --> 18:43] At the narrow pass,
+[18:44 --> 18:45] Arminius waited to ambush the Romans.
+[18:46 --> 18:48] The Germans had fortified a position
+[18:48 --> 18:50] along the slope of the southern hill
+[18:50 --> 18:52] and after allowing a good portion of the Roman train
+[18:52 --> 18:54] to pass, launched an assault
+[18:54 --> 18:55] on the middle of the Roman army.
+[18:56 --> 18:58] Varus and his men were taken totally unaware.
+[18:59 --> 19:02] The army was cut in half and suffered heavy losses.
+[19:03 --> 19:05] An attempt was made to storm the fortified wall
+[19:05 --> 19:07] the Germans had erected, but to no avail.
+[19:08 --> 19:11] The lead group, with the Germans now behind them,
+[19:11 --> 19:13] either escaped or were themselves annihilated
+[19:13 --> 19:15] after being forced into the marshland.
+[19:16 --> 19:19] The other group, with Varus still in command,
+[19:19 --> 19:20] fought their way out of the trap
+[19:20 --> 19:22] and managed to build a camp just west
+[19:22 --> 19:23] of the ambush site.
+[19:24 --> 19:27] After spending a sleepless night holed up
+[19:27 --> 19:29] behind their hastily erected fortifications,
+[19:29 --> 19:31] the remaining Romans broke out the next morning
+[19:31 --> 19:32] and headed southwest.
+[19:33 --> 19:35] But having to fight their way through hordes
+[19:35 --> 19:36] of German tribesmen,
+[19:36 --> 19:38] the breakout caused significant casualties.
+[19:39 --> 19:42] Between the initial ambush and the morning breakout,
+[19:42 --> 19:45] the three legions of Varus were, by this time,
+[19:45 --> 19:46] essentially destroyed.
+[19:47 --> 19:49] No longer were they an army fighting a battle.
+[19:49 --> 19:51] These were survivors fighting to escape.
+[19:53 --> 19:54] Varus led his men southwest,
+[19:55 --> 19:56] probably trying to make for a Roman base
+[19:56 --> 19:58] situated upon the Lipa River,
+[19:58 --> 20:00] but they would never make it.
+[20:01 --> 20:03] Between the heavy woods and the heavy rains,
+[20:03 --> 20:05] the Romans were unable to use their archers,
+[20:05 --> 20:08] unable to even hold up their waterlogged shields.
+[20:09 --> 20:11] Arminius sent a force ahead of Varus
+[20:11 --> 20:13] and the confused Romans were ambushed
+[20:13 --> 20:14] for a second time.
+[20:15 --> 20:17] Surrounded, Varus recognized
+[20:17 --> 20:18] that continued fighting was hopeless.
+[20:19 --> 20:20] The Roman governor,
+[20:20 --> 20:22] along with most of his remaining officers,
+[20:22 --> 20:23] committed suicide.
+[20:25 --> 20:27] Some Roman soldiers were able to slip away
+[20:27 --> 20:28] from these repeated ambushes
+[20:28 --> 20:31] and make their way to the fortress along the Lipa,
+[20:31 --> 20:33] but they were an insignificant minority
+[20:33 --> 20:35] of those who had set out with Varus
+[20:35 --> 20:38] in search of a nonexistent revolt just days before.
+[20:39 --> 20:42] The 17th, 18th, and 19th legions,
+[20:42 --> 20:45] plus accompanying cavalry and auxiliary troops,
+[20:45 --> 20:47] all told accounting for some 20,000 men,
+[20:48 --> 20:49] had been slaughtered.
+[20:50 --> 20:52] The battle in the Tudibird Forest
+[20:52 --> 20:55] is widely recognized as one of those earth-shattering events
+[20:55 --> 20:57] that alters the course of history.
+[20:58 --> 21:00] Perhaps in constructing a narrative
+[21:00 --> 21:02] about why the Romans settled on the Rhine
+[21:02 --> 21:03] as their chosen frontier,
+[21:03 --> 21:05] historians have allowed the battle
+[21:05 --> 21:07] to take on outsized importance,
+[21:07 --> 21:08] but there is no doubt
+[21:08 --> 21:10] that it was a monumental disaster for Rome.
+[21:11 --> 21:14] The 17th, 18th, and 19th legions, for example,
+[21:14 --> 21:16] pass now from the historical record.
+[21:16 --> 21:20] Their numbers never again used by any future legions,
+[21:20 --> 21:23] sort of like retiring the number of a beloved sports hero.
+[21:24 --> 21:26] Augustus was reported to have stopped shaving
+[21:26 --> 21:29] for months after news of the massacre reached Rome,
+[21:29 --> 21:31] a traditional step in the Roman mourning process.
+[21:32 --> 21:33] For the rest of his life,
+[21:34 --> 21:36] Augustus is also reported to periodically
+[21:36 --> 21:37] and without warning shout,
+[21:38 --> 21:41] Quintilius Varus, give me back my legions.
+[21:42 --> 21:44] Whether there was a one-to-one relation
+[21:44 --> 21:47] between the battle and the cession of permanent expansion
+[21:47 --> 21:48] into Germania or not,
+[21:49 --> 21:51] the two events coincide so neatly
+[21:51 --> 21:53] that the formation of a legend was inevitable.
+[21:54 --> 21:58] 19th century German nationalists made a hero of Arminius,
+[21:58 --> 22:00] calling him by his German name, Hermann.
+[22:01 --> 22:02] They built statues to him
+[22:02 --> 22:04] and used the battle in the Tudorberg
+[22:04 --> 22:06] as proof of their racist superiority
+[22:06 --> 22:09] over the decadent Latins they had easily defeated.
+[22:10 --> 22:12] In concluding his article on the battle,
+[22:12 --> 22:14] Jona Lendering also points out
+[22:14 --> 22:16] that if the slaughter in the Tudorberg
+[22:16 --> 22:18] did indeed cause the Romans to abandon Germany,
+[22:19 --> 22:21] then Arminius deserves credit for the remaining existence
+[22:21 --> 22:23] of both the German and English languages,
+[22:24 --> 22:26] both of which would have been overwhelmed by Latin
+[22:26 --> 22:28] had the Romans successfully annexed Germania,
+[22:29 --> 22:31] just as the local dialects in France and Spain
+[22:31 --> 22:32] were supplanted.
+[22:33 --> 22:35] Whether fully justified or not,
+[22:35 --> 22:36] the battle in the Tudorberg forest
+[22:36 --> 22:38] is one of those major mileposts
+[22:38 --> 22:40] along the road of Roman history,
+[22:40 --> 22:42] and it will definitely be on the test.
+[22:44 --> 22:47] Now, obviously, the Romans were not ones
+[22:47 --> 22:48] to simply tuck tail and run.
+[22:49 --> 22:50] So in the aftermath of the disaster,
+[22:51 --> 22:52] Augustus sent Tiberius to the Rhineland
+[22:52 --> 22:55] to execute punitive expeditions against the Germans.
+[22:57 --> 22:58] Tiberius would spend the next few years
+[22:58 --> 23:00] marauding around the countryside,
+[23:00 --> 23:03] laying waste to settlements and enslaving the natives.
+[23:04 --> 23:05] But there was no more interest shown
+[23:05 --> 23:08] in establishing permanent outposts east of the Rhine.
+[23:08 --> 23:11] Tiberius himself, when he became emperor,
+[23:11 --> 23:14] never pushed for any substantial war making in Germania,
+[23:15 --> 23:16] Germanicus's campaigns notwithstanding.
+[23:18 --> 23:20] It is likely that in the final calculation,
+[23:20 --> 23:22] the Romans realized that the only thing capable
+[23:22 --> 23:24] of unifying the disparate German tribes
+[23:24 --> 23:26] into a force that could actually threaten the empire
+[23:26 --> 23:28] was the presence of the Romans on their land.
+[23:29 --> 23:31] By remaining west of the Rhine,
+[23:31 --> 23:33] the Romans gave the Germans no cause
+[23:33 --> 23:34] to abandon their eternal squabbling.
+[23:35 --> 23:37] In fact, the breakdown of German unity
+[23:37 --> 23:39] happened almost immediately
+[23:39 --> 23:41] after their greatest victory over Rome.
+[23:42 --> 23:43] After the Romans withdrew,
+[23:43 --> 23:46] Arminius sent the head of Varus to a rival chieftain
+[23:46 --> 23:47] to prove that together,
+[23:47 --> 23:49] the Romans would not stand a chance
+[23:49 --> 23:50] against the tribes of Germania.
+[23:51 --> 23:53] But the rival leader simply passed the head along
+[23:53 --> 23:54] to Rome for burial,
+[23:54 --> 23:57] suspecting that Arminius was trying to make himself king
+[23:57 --> 24:00] and seeing no reason to allow such a thing to happen.
+[24:01 --> 24:02] Self-interest trumping all.
+[24:04 --> 24:07] Lacking unity, the Germans could no longer threaten Rome.
+[24:07 --> 24:08] But just to be careful,
+[24:09 --> 24:10] eight full legions were forever stationed
+[24:10 --> 24:12] up and down the Rhine.
+[24:12 --> 24:14] These troops would guard the new frontier
+[24:14 --> 24:15] for hundreds of years,
+[24:15 --> 24:18] keeping Rome safe from the unconquered barbarians
+[24:18 --> 24:19] in Germania.
+[24:21 --> 24:23] There will be no episode next week
+[24:23 --> 24:25] as I'll be traveling around for Memorial Day weekend.
+[24:27 --> 24:29] Unfortunately, the Mets blew up Randy Johnson yesterday
+[24:29 --> 24:31] so he won't be going for his 300th win
+[24:31 --> 24:33] next Friday in Seattle.
+[24:33 --> 24:34] But I'll be at Safeco anyway,
+[24:34 --> 24:36] basking in the fading glow
+[24:36 --> 24:39] of the greatest left-handed pitcher in baseball history.
+[24:40 --> 24:41] We'll return in two weeks
+[24:41 --> 24:43] to follow Augustus' last great test,
+[24:43 --> 24:45] transferring power to Tiberius.
+[24:46 --> 24:48] Many believe that when Augustus died,
+[24:48 --> 24:50] the regime would die with him.
+[24:50 --> 24:53] But the old princeps arranged things as best he could
+[24:53 --> 24:55] to ensure that this wouldn't happen.
+[24:55 --> 24:58] The transition of power from Augustus to Tiberius
+[24:58 --> 24:59] was fraught with danger.
+[24:59 --> 25:02] But in the end, it would be pulled off without a hitch.
+[25:02 --> 25:05] Imperial realm was off and running.
+[25:17 --> 25:17] ["Safeco Theme Song"]

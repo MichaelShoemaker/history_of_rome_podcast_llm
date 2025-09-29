@@ -1,0 +1,9 @@
+# 20130916 - Revolutions Launch
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:01 --> 00:01] Hello.
+[00:02 --> 00:06] This is just a quick announcement that the new Revolutions podcast has officially launched.
+[00:07 --> 00:13] You can find it at revolutionspodcast.com, the iTunes store, or anywhere else fine podcasts
+[00:13 --> 00:14] can be found.

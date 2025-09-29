@@ -1,0 +1,152 @@
+# 20100228 - 028- Taking Stock
+# Detected language: en
+# Duration: 794.07 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 28, Taking Stock.
+[00:13 --> 00:20] For 350 years, the Roman Republic had grown, contracted, grown again, survived, and thrived.
+[00:21 --> 00:26] Through it all, the Romans never turned away from their most basic founding principle,
+[00:26 --> 00:33] that no king shall reign in Rome. Every year men stood for election, and every year free
+[00:33 --> 00:38] ballots were cast by free citizens. The winners won, and the losers lost, and power was transferred
+[00:38 --> 00:44] peacefully between them. At no point did the great and ambitious leaders of Rome step outside
+[00:44 --> 00:50] the bounds of the system to seize control of the state. It is a remarkable run, and the
+[00:51 --> 00:59] was and is the cause of much justifiable envy. But alas, the Romans, for all their strength on
+[00:59 --> 01:03] the battlefield and all their moral rectitude, could not stem the tide of greed and ambition
+[01:03 --> 01:07] that lurks in the hearts of men in all times and all places.
+[01:09 --> 01:14] Roman success would be the undoing of the Roman Republic, and after the symbolic dual
+[01:14 --> 01:20] sacking of Carthage and Corinth in 146 BC, the dam holding back the dark side began to
+[01:20 --> 01:26] break visibly. Less than a century later, the dam would break, and in defiance of all that
+[01:26 --> 01:30] had once been held as good and true by the Romans, a single man would ascend to the throne
+[01:30 --> 01:36] of power. And though he was wise enough not to call himself king, we all know that a
+[01:36 --> 01:43] rose by any other name would still smell as sweet. For all these years, the Republic had
+[01:43 --> 01:49] survived for two major overarching reasons. The lower class Publians had not been so
+[01:49 --> 01:53] impoverished that they were driven to violent revolution to improve their material lot
+[01:53 --> 01:58] in life, and the upper class was unified enough that their internal rivalries did
+[01:58 --> 02:03] not spill out into the public sphere. Both of these critical lynchpins were about
+[02:03 --> 02:08] to be removed, leaving civil war and violent class conflict as the order of the day,
+[02:08 --> 02:13] and both lynchpins were pulled by the very same hand. Victory overseas.
+[02:15 --> 02:21] The Romans, in addition to the entire peninsula of Italy, now controlled Sicily, Sardinia,
+[02:21 --> 02:27] North Africa, Greece, Macedon, and Spain. All those subject lands provided the Romans
+[02:27 --> 02:32] with wealth never before imagined, slaves in the hundreds of thousands, and endless
+[02:32 --> 02:36] opportunities for personal enrichment. One might imagine that with such an abundance
+[02:36 --> 02:42] flooding into Rome, that there would be far less internal conflict, not more. There
+[02:42 --> 02:45] would be more than enough to go around. What would be the point of squabbling?
+[02:46 --> 02:51] The problem, though, was that all the new wealth was winding up in the hands of the
+[02:51 --> 02:55] already wealthy elites, and some became so rich that, in effect, they considered
+[02:55 --> 03:00] the cohesion of the state less important than they had in the past. When you are
+[03:00 --> 03:04] completely self-financed, there is a tendency to follow your own whims and everyone else
+[03:04 --> 03:10] be damned. And this, to put it mildly, is no way to keep a free republic running smoothly.
+[03:11 --> 03:15] The ruling class, which had, for all these centuries, understood that patrician
+[03:15 --> 03:20] solidarity kept them firmly in charge, started to see men break off to make their
+[03:20 --> 03:24] own way in the world, forcing the others to compete or lose what status they had.
+[03:25 --> 03:31] Things quickly spiraled out of control. In a way, it can all be traced back to
+[03:31 --> 03:37] Scipio Africanus. The long-haired, flamboyant, irreverently religious hero of the Second
+[03:37 --> 03:43] Punic War set an example for ambitious young Romans to follow. Indeed, it was Scipio who
+[03:43 --> 03:48] originally coined the term Imperator when his troops hailed him as a king after his
+[03:48 --> 03:55] victories in Spain. Scipio, like Augustus, was savvy enough to distance himself from all
+[03:55 --> 04:00] talk of monarchy, but the cult of personality he encouraged set the tone for future threats
+[04:00 --> 04:06] to the republic. And after being dispatched to the east to deal with Antiochus, Scipio
+[04:06 --> 04:11] also showed later Roman leaders how to form independent power bases and self-finance a
+[04:11 --> 04:18] good old-fashioned power grab. A long, long time ago, I briefly touched on the idea that
+[04:18 --> 04:23] class struggles in Rome never manifested on strict economic lines because of the entrenchment
+[04:23 --> 04:29] of the client patron model of civic relations. All Scipio did was transfer this model to
+[04:29 --> 04:35] Roman dealings with other nations. To recap briefly, wealthy Roman patricians offered
+[04:35 --> 04:41] all manner of services to their poorer fellow citizens, most notably bank loans and legal
+[04:41 --> 04:47] representation. In exchange for this aid, the citizen reciprocated by backing their
+[04:47 --> 04:51] patrons in elections and showering them with public support any time the patron
+[04:51 --> 04:56] required it. It may seem a minor thing, but in Rome much rested on a man's ability
+[04:56 --> 05:01] to turn out favorable crowds if he ever came under political or judicial attack.
+[05:02 --> 05:07] The client patron relationships endured through generations and wound up providing
+[05:07 --> 05:11] many of the social services we now ask of the state, the equivalent of health care,
+[05:11 --> 05:17] welfare, and old age pensions. These bonds were strong enough to bind families to voting
+[05:17 --> 05:21] against their own immediate interest in favor of their patrons' chosen policy.
+[05:22 --> 05:26] Not to jump ahead, but when a conflict between rival patrons heated up,
+[05:26 --> 05:32] each had an army ready to fight blindly for their man. All Scipio did was extend this
+[05:32 --> 05:37] principle to his overseas dealings, leaving behind him a wake of noble families in Spain,
+[05:37 --> 05:42] North Africa, and Greece personally loyal to him rather than the Roman Senate per se.
+[05:43 --> 05:48] Indeed, it was the source of all his troubles with Cato after the Scipiones returned from
+[05:48 --> 05:53] the east having defeated Antiochus. Scipio had granted favors to the Syrian king in
+[05:53 --> 05:58] for certain monetary tribute, which on the one hand was obviously bribery,
+[05:58 --> 06:02] but on another it was simply an extension of the client patron model.
+[06:02 --> 06:07] Could a patron deny his client a favor? Why, it would be rude to do such a thing.
+[06:08 --> 06:13] Flaminius, after pacifying Greece, took the same attitude and soon Roman aristocrats
+[06:13 --> 06:18] stationed overseas began to cultivate complex networks of foreign clients,
+[06:18 --> 06:22] which brought enormous prestige to the Roman aristocrat in question.
+[06:23 --> 06:27] Slowly but surely patricians stationed in the provinces began to outpace their fellow
+[06:27 --> 06:33] elites in terms of wealth, power, and fame. Almost overnight the game had changed.
+[06:34 --> 06:38] Other patricians were forced to keep up with the Joneses or risk being left behind,
+[06:39 --> 06:43] and competition was fierce for the critical overseas appointments that afforded these new
+[06:43 --> 06:49] found sources of status. Cato and his faction were hyper aware of the danger this posed to
+[06:50 --> 06:55] If some amongst the patricians became more equal than others, then the cohesion of the ruling
+[06:55 --> 06:59] class would fall away, and they would all end up poorer men at the end of the day.
+[07:00 --> 07:05] It may even lead horror of horrors to the plebeians taking advantage of the situation
+[07:05 --> 07:09] and imposing reforms on a divided ruling class.
+[07:10 --> 07:14] Sumptuary laws were even passed, making ostentatious displays of wealth a crime.
+[07:15 --> 07:19] It was an attempt to erect a superficial façade strong enough to cut the dangerous
+[07:19 --> 07:24] competition for riches to a minimum, but it was nearly impossible to enforce,
+[07:24 --> 07:27] and plus everyone knew how much everyone was making anyway.
+[07:27 --> 07:31] No law about what material your shirt could be made of was going to change that.
+[07:33 --> 07:37] So on the one hand, Rome's emergence as the dominant political force in the Mediterranean
+[07:37 --> 07:41] would have disastrous consequences for the ruling class.
+[07:41 --> 07:44] Too much money went to the heads of too many young men,
+[07:45 --> 07:49] and immediate personal ambition took the place of long-term political stability.
+[07:50 --> 07:54] On the other hand, it also had disastrous consequences for the average Roman in the
+[07:54 --> 07:57] street, or at least the average Roman in the field.
+[08:00 --> 08:04] The backbone of the republic had always been the free citizen farmer soldier.
+[08:05 --> 08:09] The man who owned enough land to meet the property requirements for service in the legion,
+[08:09 --> 08:12] who would fight or farm depending on what his country asked him to do.
+[08:14 --> 08:18] But after conquering half the known world, these citizen soldiers came home
+[08:18 --> 08:23] to find that Italy had been transformed, and they were left out in the economic cold.
+[08:24 --> 08:29] In the years after the conquest of Greece, the large landowners began to buy up
+[08:29 --> 08:34] neighboring farms. Sometimes the smallholders sold willingly, sometimes they had to be
+[08:34 --> 08:40] persuaded, but the upshot was that more and more land was owned by fewer and fewer families.
+[08:41 --> 08:46] Of course, large estates were nothing new to Rome, but even if the title was held by some
+[08:46 --> 08:50] patrician, he needed free men to till the earth, and if it wasn't quite as satisfying a
+[08:50 --> 08:55] life, at least a poor farmer could get along. But that was all about to change.
+[08:57 --> 09:01] After sweeping through Spain, Africa, and Greece, the legions brought home with them
+[09:01 --> 09:06] slaves. Slaves by the thousands, then the tens of thousands, then the hundreds of thousands.
+[09:07 --> 09:12] Suddenly, the largest state owners did not need free Roman citizens for the planting,
+[09:12 --> 09:17] or for the harvest, or really for anything. Now slaves ran the farms,
+[09:17 --> 09:22] and tilled the soil, and carried the bushels. The profit margins were outrageous.
+[09:23 --> 09:28] How could a savvy patrician pass up the opportunity to reduce his labor cost to zero?
+[09:29 --> 09:32] Besides, his rival in the Senate was doing the same thing,
+[09:32 --> 09:35] so Senator Smith just had to keep up with Senator Jones.
+[09:36 --> 09:41] It was not outsourcing, so much as insourcing. The jobs stayed right where they were,
+[09:42 --> 09:43] it was the people who were forced to leave.
+[09:45 --> 09:48] Suddenly, once fine upstanding members of the community were landless,
+[09:49 --> 09:54] homeless, and growing desperate. Most migrated to the cities where they hoped to learn a
+[09:54 --> 09:59] trade, or to the provinces where they attempted to become traders, or, if they were lucky,
+[09:59 --> 10:04] secure a small holding abroad. The pressure this put on Roman society was intense.
+[10:05 --> 10:09] Certainly, a few sold their farms for a hefty profit and found a new line of work,
+[10:09 --> 10:14] but most simply fell on hard times. The Roman economy, which had once been
+[10:14 --> 10:18] merely supplanted by slave labor, was now a full-blown slave economy,
+[10:18 --> 10:21] and the free citizens struggled to stay afloat.
+[10:22 --> 10:27] One of the most important consequences this had for the Republic was the makeup of its army.
+[10:28 --> 10:33] I will talk more about this when we get to the episodes about Marius and his mules.
+[10:33 --> 10:37] But the property requirements that men had to meet in order to be enrolled in the legions
+[10:37 --> 10:42] were fast becoming unattainable. If the requirements were what they had been in
+[10:42 --> 10:47] Camillus's time, the Romans would be marching out an army consisting of a dozen or so young
+[10:47 --> 10:53] nobles. Out of necessity, the requirements were lowered and lowered again to keep the
+[10:53 --> 10:58] legions at full strength. But with more and more families pushed off the land,
+[10:58 --> 11:03] it was difficult to keep up. Finally, around 100 BC, the property
+[11:03 --> 11:08] requirements were eliminated and the recruiting offices were thrown open to any man who wished
+[11:08 --> 11:14] to join. Of course, the soldier, lacking any other means of enrichment, would have to be
+[11:14 --> 11:18] paid. And pay was dependent on his commander's ability to secure booty.
+[11:19 --> 11:23] And if a commander got really good at seizing booty, there were thousands of morally flexible
+[11:23 --> 11:29] armed Romans who would flock to his banner. This wasn't about leaving behind the plow to
+[11:29 --> 11:34] fight for the family plot anymore. This was mercenary work in the guise of state policy.
+[11:34 --> 11:37] And it did not take long for the façade to fall away.
+[11:40 --> 11:47] The properties that had bound the Roman Republic together were coming unglued. The Senate, which
+[11:47 --> 11:52] had risen to a state of political preeminence during the long years of the Second Punic War,
+[11:52 --> 11:57] was deaf to the ill winds that were blowing. Each senator was caught up in their own quest
+[11:57 --> 12:02] for personal glory. What cash crop should I plant this year? Sure, famine is beginning
+[12:02 --> 12:07] to rear its ugly head, but I hear olives are fetching a fine price in Athens. Besides,
+[12:07 --> 12:12] I need to make enough to ensure that my son gets that questership, and the wheels need
+[12:12 --> 12:16] to be greased a little, if you know what I mean. The ruling class was consumed with this
+[12:16 --> 12:21] kind of thinking, little realizing that it was about to all come crashing down on their heads.
+[12:22 --> 12:25] The problem was that the Republic had stopped functioning as a Republic
+[12:25 --> 12:31] and had passed into true oligarchy. But the people had not forgotten what they once
+[12:31 --> 12:35] had, and were fast becoming desperate enough to use any means necessary to get a piece of
+[12:35 --> 12:42] the pie back. And the slow slide from oligarchy into tyranny truly began when some of the
+[12:42 --> 12:47] nobles began to realize that all they had to do was promise the masses a piece of that pie,
+[12:47 --> 12:49] and they themselves could have the whole world.

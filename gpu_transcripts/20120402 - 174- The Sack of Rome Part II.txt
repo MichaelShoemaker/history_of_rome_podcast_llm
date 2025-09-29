@@ -1,0 +1,309 @@
+# 20120402 - 174- The Sack of Rome Part II
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:04 --> 00:14] Hello, and welcome to the History of Rome, Episode 174, The Sack of Rome, Part 2.
+[00:17 --> 00:22] Last time, we left off with the assassination of Valentinian III, last of the Theodosians,
+[00:23 --> 00:28] and the subsequent elevation of Patronius Maximus, first of the so-called Shadow Emperors,
+[00:28 --> 00:34] those pale imitations who bickered over an ever-shrinking imperial pie in the last days
+[00:34 --> 00:36] of the Western Empire.
+[00:37 --> 00:42] Patronius Maximus would get this terminal phase started in fine style by reigning for
+[00:42 --> 00:50] just 77 days in 455 AD, his major accomplishment provoking the Vandals to sack Rome.
+[00:51 --> 00:55] We are indeed a long way from the Golden Age of the Antonines.
+[00:58 --> 01:02] Maximus' problem was that he didn't really have any inherent imperial legitimacy.
+[01:03 --> 01:08] He had killed the previous emperor and had spread some bribes around, but that was really
+[01:08 --> 01:09] all he had going for him.
+[01:10 --> 01:15] So as I mentioned last week, he forced the emperor's widow, Licinia Eudoxia, to marry
+[01:15 --> 01:16] him.
+[01:16 --> 01:22] After all, she was not just the wife of the late Western Emperor Valentinian III, she
+[01:22 --> 01:26] was also the daughter of the late Eastern Emperor Theodosius II.
+[01:26 --> 01:33] So she was just oozing legitimacy, and marrying her was not only practical, it was kind of
+[01:33 --> 01:34] necessary given the circumstances.
+[01:36 --> 01:39] But Maximus was not content to stop there.
+[01:39 --> 01:45] He wanted to firmly intertwine his own family with the Theodosians and spawn a new dynasty.
+[01:46 --> 01:51] So Maximus named his son Caesar, and then married the boy to Valentinian and Licinia
+[01:51 --> 01:56] Eudoxia's eldest daughter, the now 15-year-old Eudoxia the Younger.
+[01:57 --> 02:03] Except that, if you'll recall, her hand had already been promised to the Vandal prince
+[02:03 --> 02:03] Huneric.
+[02:04 --> 02:09] This wedding had not yet taken place, but neither had it ever been called off.
+[02:11 --> 02:15] Maximus obviously thought that with Valentinian dead, he could start rearranging dynastic
+[02:15 --> 02:23] marriages as he saw fit, but, well, King Gansaric did not take kindly to the change in plans.
+[02:23 --> 02:29] After all, he was about to marry his son into the Roman imperial family, and that is not
+[02:29 --> 02:31] something you just let slip away.
+[02:33 --> 02:38] So how did Gansaric find out that the engagement was cancelled, and that Eudoxia was going
+[02:38 --> 02:41] to be married off to some usurping senator's son?
+[02:42 --> 02:47] He was alerted by the mother of the bride and recently widowed Licinia Eudoxia.
+[02:48 --> 02:54] She knew darn well that Maximus had killed her husband, and so, taking a page from the
+[02:54 --> 03:00] playbook of her, let's see, what would she be, cousin-slash-sister-in-law, Honoria,
+[03:00 --> 03:06] Licinia Eudoxia wrote a letter to Gansaric begging the Vandals to come save her and her
+[03:06 --> 03:08] from the brute Maximus.
+[03:09 --> 03:14] When this letter arrived, Gansaric blew his top and mustered an invasion force almost
+[03:14 --> 03:15] immediately.
+[03:16 --> 03:20] Whoever this Maximus character was, he was going to rue the day that he had messed with
+[03:20 --> 03:21] the Vandals.
+[03:24 --> 03:30] Back in Rome, Maximus was settling comfortably into his new role as emperor, ready to enjoy
+[03:30 --> 03:36] all the powers and luxuries that came with being the supreme leader of a mighty, what's
+[03:36 --> 03:36] that you say?
+[03:37 --> 03:39] The Vandals have set sail from North Africa?
+[03:40 --> 03:40] Really?
+[03:41 --> 03:42] Well, that can't be good.
+[03:42 --> 03:43] Where do you suppose they're headed?
+[03:44 --> 03:45] Oh, they're headed here.
+[03:45 --> 03:46] Oh my.
+[03:46 --> 03:48] Well, better call out the legions.
+[03:49 --> 03:49] What's that?
+[03:50 --> 03:52] We really don't have any legions anywhere in the area?
+[03:53 --> 03:53] Hmm.
+[03:54 --> 03:55] Well, what should we do?
+[03:55 --> 03:56] Panic?
+[03:56 --> 03:57] Yes, let's do that.
+[03:58 --> 03:59] Let's panic.
+[04:00 --> 04:05] Knowing that he had nothing even close to enough troops to fight the Vandals, and that
+[04:05 --> 04:09] it was almost guaranteed that someone would eventually betray Rome to the barbarians to
+[04:09 --> 04:15] save their own skin, Maximus told the frightened citizens of the city to just make a run for
+[04:15 --> 04:16] it.
+[04:16 --> 04:17] The Vandals are coming.
+[04:17 --> 04:19] I can't stop them.
+[04:19 --> 04:23] Best to just literally head for the hills and wait until they're gone.
+[04:25 --> 04:30] The citizens of Rome took Maximus's advice and began pouring out of the Eternal City.
+[04:31 --> 04:36] But before they left, they decided that it really wouldn't be right to just let Maximus
+[04:36 --> 04:39] off the hook for provoking a Vandal invasion like that.
+[04:40 --> 04:43] There are a couple of different versions of this story.
+[04:43 --> 04:48] But basically, as the Emperor was preparing to make his own escape, he was tracked down
+[04:48 --> 04:54] by a mob, stoned to death, torn limb from limb, and then had his bits and pieces thrown
+[04:54 --> 04:55] into the Tiber.
+[04:55 --> 05:02] He was about 60 years old and had called himself Emperor for two and a half months.
+[05:05 --> 05:10] Three days after Maximus was consumed by this angry mob, the Vandals arrived on the Italian
+[05:10 --> 05:11] coast and marched on Rome.
+[05:12 --> 05:13] No one stood in their way.
+[05:14 --> 05:16] The gates of the city were not even locked.
+[05:17 --> 05:21] Gonsaric entered Rome and commenced with a good and proper sacking.
+[05:23 --> 05:27] Now there's some controversy about when the sack actually took place, with some sources
+[05:27 --> 05:32] saying late May, others saying early June, while still others say that it wasn't until
+[05:32 --> 05:33] August.
+[05:34 --> 05:38] But the sources generally agree that Maximus did not reign for more than three months,
+[05:39 --> 05:44] that Valentinian III died in March, and that Maximus died before the Vandals arrived.
+[05:45 --> 05:49] So I'm not sure where the August date is coming from.
+[05:50 --> 05:54] But other than that, I don't think that we can be so confident in our sources that we
+[05:54 --> 06:00] can just definitively say, no, it was on June the 2nd, 455 A.D.
+[06:01 --> 06:05] So when you're asked on the test, when did the Vandals sack Rome?
+[06:06 --> 06:09] All you need to put is 455.
+[06:09 --> 06:16] Half credit if you say after the Goths sacked Rome, quarter credit if you say sometime after
+[06:16 --> 06:23] Constantine, no credit if you ask what a Vandal is, negative credit if you ask what
+[06:23 --> 06:24] a Rome is.
+[06:27 --> 06:33] Like the Gothic sack 45 years earlier, the Vandal sack turned out to not be all that
+[06:33 --> 06:35] we have been led to believe that it was.
+[06:36 --> 06:45] Yes, the Vandals occupied the city for two weeks, and yes, they carted off most of the
+[06:49 --> 06:52] Archaeologists sifting through the layers of Rome haven't really found anything that
+[06:52 --> 06:58] points to a widespread general destruction of the city in the 5th century, and they actually
+[06:58 --> 07:02] have ways of determining these sorts of things using, like, science.
+[07:03 --> 07:08] This conclusion jibes with the stories about Pope Leo I, soon enough to be known as Leo
+[07:08 --> 07:14] the Great for obvious reasons, convincing Gensurg to forego putting Rome to the torch
+[07:14 --> 07:18] and instead limit himself to simple plundering.
+[07:18 --> 07:23] Gensurg was either swayed by the Pope or was already planning on limiting the scope of
+[07:23 --> 07:29] his conquest, and so, unlike the Huns at Aquileia, when the Vandals withdrew from Rome two weeks
+[07:29 --> 07:31] later it still stood.
+[07:32 --> 07:35] But that did not mean that they did not strip the city bare.
+[07:36 --> 07:40] Sources mention that not only was all the treasure Titus and Vespasian had brought back
+[07:40 --> 07:45] from Judea hauled off, but half the roof of the Temple of Jupiter was, too.
+[07:48 --> 07:54] As controlled as the sack was, though, it did not stop the word Vandal from entering
+[07:54 --> 08:01] our lexicon as one who willfully or ignorantly destroys, damages, or defaces property belonging
+[08:01 --> 08:03] to another or to the public.
+[08:05 --> 08:11] Since the ancient world is absolutely riddled with Romans and barbarians alike willfully
+[08:11 --> 08:16] destroying each other's property, it's kind of unfair to saddle the Vandals with this
+[08:16 --> 08:17] kind of denotative baggage.
+[08:18 --> 08:22] But on the other hand, I imagine they'd be happier about it than what happened to the
+[08:22 --> 08:29] poor Goths, a proud nation of noble warriors whose name now inexplicably means vampire-loving
+[08:29 --> 08:30] sad sack.
+[08:32 --> 08:37] When the Vandals withdrew from Rome and sailed back to North Africa, they also took with
+[08:37 --> 08:42] them the greatest prize of all, and the prize that they had come for in the first place,
+[08:42 --> 08:48] the Augusta, Lysenia Eudoxia, and her two daughters, Eudoxia the Younger and Placidia.
+[08:50 --> 08:54] The three imperial women would be held by the Vandals as extremely well-treated prisoners
+[08:54 --> 09:00] for the next seven years, and the marriage of Hunaric and Eudoxia took place as scheduled.
+[09:01 --> 09:07] The union produced the future Vandal King Hilderic, who had both Vandal and Theodosian
+[09:07 --> 09:12] royal blood running through his veins, and who would make for a very controversial figure
+[09:12 --> 09:16] in the sixth century, and thus, sadly beyond our scope.
+[09:18 --> 09:23] But more important than what they took with them is what the Vandals left behind, namely
+[09:23 --> 09:28] a psychologically scarred Roman population and an imperial power vacuum.
+[09:30 --> 09:36] Since Maximus' death, no one was technically in charge of the Western Empire, and with
+[09:36 --> 09:41] Rome reeling from the invasion, it did not look like either the Senate or the Italian
+[09:41 --> 09:46] armed forces were going to get their act together any time soon to nominate a new candidate
+[09:46 --> 09:47] for the job.
+[09:49 --> 09:56] Which brings us to Aparchius Avetus, the Gallo-Roman senator who has been popping up
+[09:56 --> 10:01] off and on over the past 25 years, usually when it comes time to broker some kind of
+[10:01 --> 10:06] deal between Rome and the Goths, which is exactly why he is popping up now.
+[10:08 --> 10:12] After becoming emperor, Maximus wanted to make sure that the Goths would back him, and
+[10:12 --> 10:18] so he promoted Avetus to Magister Militum of Gaul and asked him to please arrange Gothic
+[10:18 --> 10:19] support for the new regime.
+[10:21 --> 10:26] But since Maximus was only emperor for two months before the sack of Rome, that meant
+[10:26 --> 10:31] that Avetus was just barely getting started when the news came that Maximus was dead.
+[10:32 --> 10:39] So, who is emperor now, asked the Goth King Theodoric II, who by the way had risen to
+[10:39 --> 10:43] after killing his older brother, Thorismund, following the battle of the Catalonian fields
+[10:43 --> 10:44] in 453.
+[10:46 --> 10:48] Well, I'm not really sure, replied Avetus.
+[10:49 --> 10:50] I guess we'll have to wait and see.
+[10:51 --> 10:53] Why wait, asked Theodoric.
+[10:54 --> 11:00] You're rich, you're in control of the Gallic legions, and you know we support you 150 percent,
+[11:00 --> 11:02] so why don't you just become emperor?
+[11:04 --> 11:08] When he did the math, Avetus realized that Theodoric had a point.
+[11:08 --> 11:13] With the Goths staunchly in his corner, he almost certainly commanded the largest military
+[11:13 --> 11:15] force in the Western Empire.
+[11:16 --> 11:19] So the question wasn't why, it was why not?
+[11:22 --> 11:29] So accompanied by a Gothic army, Avetus traveled down to Arles and announced to the Gallic
+[11:29 --> 11:33] provincial council that he was willing to take power if they wanted him to.
+[11:34 --> 11:36] And they wanted him to.
+[11:36 --> 11:40] Getting one of their own in power was a hugely appealing prospect.
+[11:41 --> 11:45] They proclaimed Avetus Augustus on July 9, 455 AD.
+[11:47 --> 11:53] The new self-proclaimed, by default, whatever, emperor spent the next three months consolidating
+[11:53 --> 11:58] his power base in Gaul before he moved over the Alps in September and entered Italy before
+[11:58 --> 11:59] winter set in.
+[12:01 --> 12:06] In a bit of a pleasant throwback to the good old days, though, Avetus did not head straight
+[12:06 --> 12:07] for Ravenna.
+[12:07 --> 12:13] Instead, he merely dispatched a Gothic garrison to go hold the city in his name, while he
+[12:13 --> 12:15] himself continued on to Rome.
+[12:17 --> 12:21] Maybe it was the political circumstances of the moment that drove his decision.
+[12:22 --> 12:26] Maximus's reign, brief as it had been, had been based there, and the city had just been
+[12:26 --> 12:29] and needed a psychological boost.
+[12:30 --> 12:35] But Avetus clearly felt the need to be in Rome rather than the now imperial capital
+[12:35 --> 12:40] of Ravenna, which, like I say, is a pleasant throwback to the good old days.
+[12:42 --> 12:46] But though Avetus had as good a claim to any to imperial power, that did not mean that
+[12:46 --> 12:50] he was the only interested party in who should rule the West.
+[12:51 --> 12:57] Ralph Matheson of the University of South Carolina identifies at least four other such
+[12:57 --> 12:58] interested parties.
+[12:59 --> 13:06] The Eastern Emperor Marcion, the Italian nobility, the just-departed Vandals, and the leaders
+[13:06 --> 13:12] of the Italian armed forces, Majorian and his Germanic colleague-slash-mentor Riccimer.
+[13:14 --> 13:20] All of them could be theoretically induced to follow Avetus if he played his cards just
+[13:20 --> 13:20] right.
+[13:21 --> 13:24] Unfortunately, he would not play his cards just right.
+[13:25 --> 13:30] Not because he was a bumbling fool or anything, but just that these things are delicate and
+[13:30 --> 13:31] not a little bit unfair.
+[13:35 --> 13:40] Avetus started at the top and dispatched envoys to Constantinople seeking recognition for
+[13:40 --> 13:40] his rule.
+[13:42 --> 13:46] Either because the Eastern Emperor wanted to appoint his own man, or because he wasn't
+[13:46 --> 13:51] sure Avetus would survive and didn't want to put his own prestige on the line, Marcion
+[13:51 --> 13:53] was non-committal about backing Avetus.
+[13:54 --> 13:56] Well, okay, thought Avetus.
+[13:56 --> 13:57] No matter.
+[13:57 --> 13:58] He'll come around.
+[13:59 --> 14:03] He next sent envoys to Gansaric, attempting to lay down some law.
+[14:03 --> 14:05] I am not Maximus.
+[14:05 --> 14:06] I have an army.
+[14:06 --> 14:09] Don't even think about trying to invade Italy a second time.
+[14:09 --> 14:10] That sort of thing.
+[14:11 --> 14:13] Which, of course, Gansaric scoffed at.
+[14:14 --> 14:19] As soon as March rolled around and the Mediterranean was safe for sailing again, the Vandals started
+[14:19 --> 14:20] raiding the Sicilian coast.
+[14:22 --> 14:25] But these raids were not all bad for Avetus.
+[14:25 --> 14:30] With the Vandals once again on the offensive, the new emperor dispatched Ricomar to head
+[14:30 --> 14:30] up the response.
+[14:32 --> 14:37] Avetus knew Danwell that Ricomar and Majorion represented the greatest threats to his regime.
+[14:38 --> 14:43] Tying up Ricomar in what was sure to be a protracted conflict on the high seas would
+[14:43 --> 14:46] give Avetus just the kind of breathing room he needed.
+[14:46 --> 14:51] Which is to say that as long as Ricomar was fighting Vandal pirates, he wasn't fighting
+[14:51 --> 14:52] Avetus.
+[14:54 --> 14:57] But this breathing space didn't really do Avetus any good.
+[14:58 --> 15:03] The political fractures in the west were by now simply too great to overcome.
+[15:05 --> 15:09] In another era, an emperor reigning from Rome with the backing of troops from Gaul would
+[15:09 --> 15:11] have raised very few eyebrows.
+[15:12 --> 15:18] But these days, Avetus and the Goths were seen as just as much foreign occupiers as
+[15:18 --> 15:20] Gonsaric and the Vandals had been.
+[15:21 --> 15:26] And this was exacerbated because though the Goths supported Avetus, there was a certain
+[15:26 --> 15:30] implied quid pro quo that the new emperor could not ignore.
+[15:31 --> 15:35] So as the citizens of Rome took stock of the damage done by the Vandals, they were mighty
+[15:35 --> 15:41] annoyed to find Avetus siphoning off what little wealth was left and using it to pay
+[15:41 --> 15:42] his Gothic supporters.
+[15:44 --> 15:48] From his perspective, Avetus was simply using his imperial authority to pay soldiers and
+[15:48 --> 15:49] the employ of the empire.
+[15:50 --> 15:55] But to the Italians, it looked a lot like he was finishing what the Vandals had started.
+[15:56 --> 16:02] Discontentment spread, and then to make matters worse, famine once again reared its ugly head.
+[16:03 --> 16:07] Avetus was blamed for the grain shortages even though there was little he could do about
+[16:07 --> 16:07] it.
+[16:08 --> 16:13] By the autumn of 456, it was clear that it was time to get out of Rome while the getting
+[16:13 --> 16:14] was good.
+[16:15 --> 16:18] Better to head back to Gaul where the climate was better.
+[16:21 --> 16:23] But he would never get off the peninsula.
+[16:24 --> 16:29] Rigmar had demonstrated his military talents throughout the summer by besting the Vandals
+[16:29 --> 16:35] in skirmish after skirmish, eventually forcing Gonsaric to recall his men and take stock
+[16:35 --> 16:37] of his sudden change in fortune.
+[16:38 --> 16:42] The year before, the Vandal King had stood on the Capitoline Hill deciding whether or
+[16:42 --> 16:47] not to burn Rome to the ground, and now his men couldn't even raid the coast of Sicily
+[16:47 --> 16:49] without getting tripped up.
+[16:49 --> 16:53] Rigmar was clearly a man who knew what he was doing.
+[16:55 --> 17:00] Riding high on these victories, the Germanic general returned to the mainland and began
+[17:00 --> 17:03] plotting with Majorian to dispense with their rival for power.
+[17:07 --> 17:12] The critical mistake Avetus made, and the catalyst that triggered Majorian and Rigmar
+[17:12 --> 17:16] to act, was his decision to send his Gothic allies on ahead of him.
+[17:18 --> 17:23] As I just noted, they had become a political liability and so he ordered them back to Gaul,
+[17:23 --> 17:28] even though their presence was the main reason he wasn't being directly attacked.
+[17:29 --> 17:35] But Avetus misjudged the situation and thought that sending the Goths off would ease tensions
+[17:35 --> 17:36] rather than flare them up.
+[17:37 --> 17:39] But flare them up it did.
+[17:40 --> 17:45] With Avetus now essentially alone in Italy, Rigmar and Majorian pounced.
+[17:46 --> 17:50] The Italian legions moved on Avetus as the emperor neared Ravenna.
+[17:51 --> 17:56] Avetus closed ranks in the capital city with the forces he had left and may have been able
+[17:56 --> 17:58] to hold out for reinforcements from Gaul.
+[17:59 --> 18:04] But unfortunately, the terms of securing Gothic loyalty now came back to bite him.
+[18:05 --> 18:10] In exchange for supporting his claim to power, Avetus had offered Theodoric the opportunity
+[18:10 --> 18:13] to expand Goth dominion into Spain.
+[18:15 --> 18:19] Theodoric had immediately invaded the Iberian peninsula and tried to take it over.
+[18:20 --> 18:25] So when the desperate call came in from Avetus for Theodoric to come down to Italy and help
+[18:25 --> 18:32] him defeat Rigmar and Majorian, the Goths were bogged down fighting in Spain and Avetus
+[18:32 --> 18:33] was on his own.
+[18:36 --> 18:43] The now floundering emperor faced his adversaries near the city of Piacenza, but it was hopeless
+[18:43 --> 18:44] from the start.
+[18:45 --> 18:49] Rigmar and Majorian's forces overwhelmed him and Avetus fled into the city.
+[18:50 --> 18:56] In October of 456, Avetus was officially deposed by Majorian and placed under house arrest.
+[18:58 --> 19:03] In an interesting twist, the deposed emperor was not immediately executed, as you would
+[19:03 --> 19:04] have expected given the circumstances.
+[19:06 --> 19:11] Instead, he was forced to renounce his titles and property and agreed to become the bishop
+[19:11 --> 19:18] of Piacenza, a curious form of punishment, but one that removed Avetus from the political
+[19:18 --> 19:19] picture.
+[19:20 --> 19:24] He was about 60 years old and had ruled the empire for 15 months.
+[19:27 --> 19:33] It isn't entirely clear why Rigmar and Majorian decided to leave Avetus alive, but it may
+[19:33 --> 19:39] have had something to do with currying favor with the eastern emperor Marcian, who, though
+[19:39 --> 19:45] he had never supported Avetus, may not have been impressed by his cold-blooded execution
+[19:45 --> 19:46] either.
+[19:47 --> 19:52] The reason I say this is because Marcian continued to play coy with the would-be emperors of
+[19:52 --> 20:00] the west even after the fall of Avetus, and so during the winter of 456-57 Avetus lived.
+[20:01 --> 20:08] But in January of 457, Marcian died, and shortly thereafter Avetus was killed.
+[20:09 --> 20:15] Marcian, by the way, was 65 years old and had been emperor of the east for seven years.
+[20:16 --> 20:21] His passing marks the official end of the Theodosian dynasty and the extended Valentinian
+[20:21 --> 20:26] Theodosian dynasty that had ruled the east for almost a hundred years.
+[20:29 --> 20:34] Marcian's passing appears to have marked the end of leniency for Avetus, because shortly
+[20:34 --> 20:40] after the eastern Augustus died, the opposed western Augustus was either strangled or starved
+[20:40 --> 20:41] at Majorian's order.
+[20:42 --> 20:48] Which is why I personally suspect that negotiations with Constantinople had some kind of impact
+[20:48 --> 20:50] on Avetus's curious fate.
+[20:51 --> 20:55] Because otherwise, why keep him alive just to kill him?
+[20:57 --> 20:59] But there is another possible explanation.
+[21:00 --> 21:06] Just as Avetus didn't have the support of the Italians, Majorian and Riccimer didn't
+[21:06 --> 21:08] really have the support of the Gauls.
+[21:09 --> 21:13] By keeping Avetus alive, they may have been hoping to prevent a Gallic uprising.
+[21:15 --> 21:20] But our sources hint that an uprising in Gaul started up anyway, as most of the nobility,
+[21:21 --> 21:25] and certainly the Goths, continued to recognize Avetus as the legitimate emperor.
+[21:26 --> 21:34] So, rather than allow a rallying point to live, Majorian had Avetus killed in early 457.
+[21:37 --> 21:40] But now the situation was really muddled.
+[21:41 --> 21:44] Marcian was dead, so there was no emperor in the east.
+[21:44 --> 21:50] Avetus was deposed and then killed, and Majorian not yet elevated, so there was no emperor in the west.
+[21:51 --> 21:53] So who was running the show?
+[21:54 --> 22:01] The answer, of course, was the barbarian generals, that good and proper Romans refused to let rule in their own right.
+[22:02 --> 22:07] In the west, that meant Riccimer, who was trying to rule the west in his own right,
+[22:07 --> 22:13] with a commission granted by Constantinople, but who would settle for making Majorian a puppet emperor.
+[22:14 --> 22:20] In the east, we are still talking about Aspar, the ethnic Alon, who had helped settle the
+[22:20 --> 22:26] scandal question back in the 430s, and who had remained a powerful force in Constantinople ever since.
+[22:28 --> 22:35] When Marcian died in late January 457, the eastern court debated for 11 days who would succeed him.
+[22:36 --> 22:43] At first, it appeared that Marcian's son-in-law, Anthemius, grandson of the Praetorian prefect Anthemius,
+[22:43 --> 22:47] who had built the Theodosian walls, would get the nod.
+[22:47 --> 22:51] But Aspar stepped in and pushed for a Thracian general named Leo.
+[22:53 --> 23:00] Aspar finally got his way, and on February 7, 457, Leo was crowned emperor, Leo I.
+[23:02 --> 23:06] The new emperor was supposed to be a weak-willed puppet who Aspar could control,
+[23:07 --> 23:11] but it quickly became apparent that Leo had a will of his own.
+[23:13 --> 23:18] But the elevation of Leo had little immediate impact on the question of who controlled the west.
+[23:20 --> 23:24] Next week, though, Ricomur and Majorian will sort it out for themselves.
+[23:25 --> 23:29] Tired of waiting for Constantinople to nominate someone, anyone to rule,
+[23:30 --> 23:35] Ricomur will resign himself to the fact that he will not be able to rule the west in his own right,
+[23:35 --> 23:39] and instead, he will push Majorian to become Augustus.
+[23:39 --> 23:48] By sheer coincidence, it was on April 1, 457 AD, exactly 1555 years ago,
+[23:48 --> 23:52] that Majorian became emperor of the western empire.
+[24:11 --> 24:14] The celebration is the best album ever!

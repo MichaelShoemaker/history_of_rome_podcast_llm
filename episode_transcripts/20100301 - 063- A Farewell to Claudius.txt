@@ -1,0 +1,751 @@
+# 20100301 - 063- A Farewell to Claudius
+# Detected language: en
+# Duration: 1551.07 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, episode 63, A Farewell to Claudius.
+[00:14 --> 00:18] When we left off last time, Claudius was being informed that his cheating wife Messalina
+[00:18 --> 00:19] had been executed.
+[00:20 --> 00:24] Though her crime could easily be written off as a mere personal betrayal, when seen
+[00:25 --> 00:30] vista of imperial politics, infidelity becomes indistinguishable from treason.
+[00:30 --> 00:35] When the players involved are the emperor and the empress, simple domestic breakdowns
+[00:35 --> 00:37] quickly become dangerous affairs of state.
+[00:38 --> 00:43] Messalina's taking of a new husband created a dangerous new power center in opposition
+[00:43 --> 00:45] to Claudius's existing imperial court.
+[00:45 --> 00:50] As a result, Messalina and her lover, Silius, were not allowed to simply go along
+[00:50 --> 00:55] their merry way and start a new life together, tainted a bit by scandal but ultimately no
+[00:55 --> 00:56] worse to wear.
+[00:57 --> 01:01] No, within days of the revelation of their secret marriage, they were both dead.
+[01:01 --> 01:04] Silius by suicide, Messalina by execution.
+[01:06 --> 01:10] A further consequence of the high vista of political power upon which the emperor
+[01:10 --> 01:12] sat was that there was no time for mourning.
+[01:13 --> 01:15] The search for a new wife began immediately.
+[01:16 --> 01:21] But before we get into the details of Claudius's ill-fated marriage to his niece Agrippina
+[01:21 --> 01:26] and the subsequent rise to power of her son Nero, I want to backtrack a little
+[01:26 --> 01:31] bit and round out the accomplishments and failures of Claudius's administration, because
+[01:31 --> 01:35] once Agrippina gets into the picture, dear Claudius will not be long for this world.
+[01:37 --> 01:42] Perhaps the longest lasting contribution Claudius made to the empire was the series
+[01:42 --> 01:44] of territorial annexations he initiated.
+[01:45 --> 01:49] In addition to the envelopment of southern Britannia, which we have already covered,
+[01:49 --> 01:54] Claudius's thirteen years in power saw the creation of a number of new provinces in
+[01:54 --> 01:58] regions that had previously existed only as allied client kingdoms.
+[01:59 --> 02:04] The territories in question were already firmly under Roman control, but Claudius
+[02:04 --> 02:08] and his freedman secretariat recognized that the loose transactional nature of that
+[02:08 --> 02:13] control was inefficient and ran counter to the centralized rational administration that
+[02:13 --> 02:15] they were all working to create.
+[02:16 --> 02:20] Probably first on the docket, though I can't seem to nail down a definitive date, was
+[02:20 --> 02:25] the territory of Noricum, which had maintained its autonomy during the Augustan constitutional
+[02:25 --> 02:29] settlement out of deference for Noricum's support of the Caesars during the various
+[02:29 --> 02:30] civil wars.
+[02:31 --> 02:35] This annexation amounted to little more than declaring it so, as Noricum was already
+[02:35 --> 02:38] fully incorporated into the empire in every other sense of the word.
+[02:39 --> 02:43] The locals accepted the change with a shrug, and you get the feeling that a few of them
+[02:43 --> 02:46] might have actually been surprised to learn that they hadn't been a province this
+[02:46 --> 02:47] whole time.
+[02:48 --> 02:53] Next up were the territories of Lycia and Pamphylia in southern Anatolia, which
+[02:53 --> 02:54] were annexed in 43 AD.
+[02:55 --> 02:59] The region had existed as an independent federation of cities since the time of
+[02:59 --> 03:04] the Third Macedonian War, but like I said, it was time to streamline imperial administration.
+[03:05 --> 03:09] The locals were proud of their independence, but put up no great fight when word came about
+[03:09 --> 03:11] the reorganization.
+[03:12 --> 03:16] Finally came the official seizure of Thrace, the wild country between Macedonia and the
+[03:16 --> 03:17] Hellespont.
+[03:18 --> 03:22] The independent-minded Hill tribes of the region had long fought to maintain independence
+[03:22 --> 03:26] not just from Rome, but also from each other, and when the Roman-backed, but
+[03:26 --> 03:32] only vaguely recognized client-king of, quote, Thrace, was murdered in 46, Claudius
+[03:32 --> 03:36] decided to just impose Roman order rather than go through another round of
+[03:36 --> 03:39] inter-tribal squabbling about who ought to be the next king.
+[03:41 --> 03:46] These acquisitions all went relatively smoothly, but two additional territories
+[03:46 --> 03:48] gave the Romans trouble in their consolidation efforts.
+[03:49 --> 03:53] In the west, Claudius inherited a mess created by Caligula in what would
+[03:53 --> 03:56] become the two administrative provinces in Mauritania.
+[03:57 --> 04:01] Back in 40 AD, Caligula decided that he wanted direct control of the region
+[04:01 --> 04:05] and had invited the client-king of the North African territory to Rome for a meeting.
+[04:06 --> 04:10] As soon as the unsuspecting monarch arrived, though, Caligula had him seized and executed.
+[04:11 --> 04:16] Immediately, a revolt broke out back in Africa against the Roman officials sent by
+[04:16 --> 04:18] Caligula to annex the region into the empire.
+[04:19 --> 04:23] The incident played a part in the decision to assassinate Caligula as senators and
+[04:23 --> 04:28] officials were appalled by the totally unnecessary destabilization of an otherwise
+[04:28 --> 04:30] peaceful corner of the empire.
+[04:31 --> 04:35] When Claudius became emperor, though, he was obliged to follow through on the annexation.
+[04:36 --> 04:38] Whether or not it was the right thing to do was now irrelevant.
+[04:39 --> 04:42] Men were up in arms against Rome and that was unacceptable.
+[04:43 --> 04:46] Though most of the details have been lost, it seems that it took a few years to
+[04:46 --> 04:50] put the revolt down before Mauritania too formally joined the empire.
+[04:51 --> 04:56] In the east, Claudius dealt with the forever maddening province of Judea.
+[04:57 --> 05:01] The region had been incorporated into the empire in 6 AD by Augustus, but after the
+[05:01 --> 05:04] good poke in the eye Caligula had given the locals when he tried to have a
+[05:04 --> 05:07] statue of himself placed in the Temple of Jerusalem,
+[05:07 --> 05:11] Claudius thought it prudent to grant Judea autonomy under the rule of his
+[05:11 --> 05:15] friend Herod Agrippa. When Herod Agrippa died three years later,
+[05:15 --> 05:19] according to Christian tradition, smoten by the Lord for the crime of
+[05:19 --> 05:23] imprisoning the Apostle Peter and executing the Apostle James, control
+[05:23 --> 05:24] of Judea passed back to Rome.
+[05:25 --> 05:30] Claudius then handed autonomy back to Herod Agrippa's son in 48 AD in an
+[05:30 --> 05:34] attempt to maintain some kind of Roman jurisdiction over the notoriously
+[05:34 --> 05:38] independent Jews who agitated constantly against foreign rule.
+[05:39 --> 05:43] The relationship between Judea and Rome will remain contentious for years
+[05:43 --> 05:48] until finally in 66 AD the so-called Great Revolt will break out leading to
+[05:48 --> 05:52] the destruction of Jerusalem and the Jewish diaspora of 70 AD, which we
+[05:52 --> 05:58] will deal with in more detail later. Taken as a whole, Claudius' reign marks
+[05:58 --> 06:01] the most active in terms of territorial acquisition we have seen since
+[06:01 --> 06:06] Augustus and will remain unmatched until Trajan gets the expansionary
+[06:06 --> 06:11] itch in the early 100 AD. At thehistoryofrome.typepad.com there is
+[06:11 --> 06:15] a map of all the provinces brought into the empire during these years.
+[06:17 --> 06:20] In addition to his geographic reorganizations, Claudius also
+[06:20 --> 06:25] reorganized the Roman political order. Possibly as a result of all the
+[06:25 --> 06:28] assassination attempts he dealt with during the early years of his reign,
+[06:28 --> 06:32] Claudius decided to reintroduce the long ignored office of censor,
+[06:32 --> 06:36] which had been left vacant since the days of Augustus. You will recall
+[06:36 --> 06:40] that in addition to the obvious duty of taking the census, the
+[06:40 --> 06:43] censor also maintained the senatorial roles and acted as a sort
+[06:43 --> 06:48] of moral policeman. A censor had the final say over who was in and
+[06:48 --> 06:53] who was out of the Senate. Once upon a time, this had been meant to
+[06:53 --> 06:56] ensure that crass and degenerate senators were replaced by more
+[06:56 --> 07:00] worthy men. But in practice, this function became a political tool
+[07:00 --> 07:05] used to keep allies and adversaries alike in line. Claudius desperately
+[07:05 --> 07:09] needed to keep his adversaries and allies in line, so the emperor
+[07:09 --> 07:13] stepped into the long vacant office in 47 AD and used its authority
+[07:13 --> 07:17] to do some housekeeping. Claudius purged from the roles all the
+[07:17 --> 07:20] families that had been suspected of plotting against him. Suddenly,
+[07:20 --> 07:23] all the men who had fancied themselves possible candidates for
+[07:23 --> 07:26] the emperorship due to their senatorial status, now found
+[07:26 --> 07:29] themselves nothing more than mere private citizens without a leg
+[07:29 --> 07:33] to stand on politically. And of course, in their place,
+[07:33 --> 07:36] Claudius brought in men he could trust to be loyal or at the
+[07:36 --> 07:42] very least apathetic towards his administration. Claudius also
+[07:42 --> 07:45] took his reformation of the Senate one step further by looking
+[07:45 --> 07:48] out to the provinces for eligible senatorial candidates.
+[07:49 --> 07:52] Conservative guardians of Italian preeminence were shocked to now
+[07:52 --> 07:56] find themselves seated alongside barbarian Gauls, who
+[07:56 --> 07:58] Claudius had determined deserved to be seated due to
+[07:58 --> 08:01] their longstanding loyalty to Rome and satisfaction of the
+[08:01 --> 08:05] wealth requirements. It was a move that was hotly debated,
+[08:05 --> 08:08] but Claudius held firm that the future strength of the
+[08:08 --> 08:12] empire required Rome to admit the provincials as equal, just
+[08:12 --> 08:15] as so long ago, the Latins had been absorbed into Rome, and
+[08:15 --> 08:20] then later, the whole of the Italian peninsula. By degrees,
+[08:20 --> 08:23] the Roman Empire must shed its strictly Roman identity and
+[08:23 --> 08:26] embrace its multinational character if it's ever going
+[08:26 --> 08:31] to survive. And in this, Claudius was exactly right. Had
+[08:31 --> 08:33] the conservatives won the debate and kept the
+[08:33 --> 08:36] provincials locked out, the Roman Empire likely would have
+[08:36 --> 08:40] dissolved long before it did. I would also like to
+[08:40 --> 08:43] mention at this point that Claudius was assisted in all of
+[08:43 --> 08:47] this by a co-censor named Lucius Vitellius. I only bring
+[08:47 --> 08:50] this up because Lucius Vitellius' eldest son, Aulus
+[08:50 --> 08:53] Vitellius Germanicus, is one of the four emperors of the
+[08:53 --> 08:56] chaotic year of the four emperors that followed the
+[08:56 --> 09:00] suicide of Nero in 68 AD. And if I do this right, I
+[09:00 --> 09:02] will have introduced all four of the four emperors by
+[09:02 --> 09:05] the end of this episode. I've already mentioned
+[09:05 --> 09:08] Vespasian, the man who will finally emerge victorious from
+[09:08 --> 09:12] that chaotic year, so that is two down and two to go.
+[09:13 --> 09:15] The last little episode I want to mention before we
+[09:15 --> 09:18] get into Agrippina is the ill-fated draining of the
+[09:18 --> 09:23] Fusine Lake. The idea was to increase the amount of
+[09:23 --> 09:26] arable land by draining the 140 square kilometer
+[09:26 --> 09:29] lake in central Italy, which had no natural outlet and
+[09:29 --> 09:32] was a frequent source of malaria outbreaks. The
+[09:32 --> 09:38] project was overseen by Narcissus, and over the
+[09:42 --> 09:45] In theory, the lake would slowly and steadily disappear,
+[09:46 --> 09:48] but on the big opening day of the drainpipe, which
+[09:48 --> 09:51] included speeches, gladiatorial games, and much
+[09:51 --> 09:54] pomp and circumstance, all that happened was that
+[09:54 --> 09:57] everyone quickly discovered the tunnel contained too
+[09:57 --> 09:59] tight a bend, which caused the whole system to back
+[09:59 --> 10:01] up and wash out the site of all the ceremonies,
+[10:02 --> 10:04] causing the emperor and all his assembled guests to
+[10:04 --> 10:07] make a run for it. Not exactly his proudest
+[10:07 --> 10:10] moment, but in defense of Claudius, he would not be
+[10:10 --> 10:13] the last man to try and fail to drain the Fusine
+[10:13 --> 10:16] Lake. It would not be until the 1800s that the
+[10:16 --> 10:18] feat was finally accomplished by a Swiss engineer.
+[10:20 --> 10:22] The spectacular failure of the project was an
+[10:22 --> 10:24] embarrassment for Claudius, but it was an even
+[10:24 --> 10:28] bigger one for Narcissus. It did not help that
+[10:28 --> 10:31] Claudius's new wife Agrippina, whose elevation to
+[10:31 --> 10:33] empress Narcissus had opposed, was using the
+[10:33 --> 10:36] opportunity afforded by the debacle to accuse
+[10:36 --> 10:39] Narcissus of embezzlement and incompetence. It
+[10:39 --> 10:41] didn't really matter whether or not the charges
+[10:41 --> 10:43] were true, though from everything I know about
+[10:43 --> 10:45] the man, I actually find it pretty easy to
+[10:45 --> 10:48] imagine Narcissus skimming a bit off the top.
+[10:49 --> 10:51] No, what mattered was that Agrippina had her
+[10:51 --> 10:53] chance to get rid of the troublesome freedman
+[10:53 --> 10:56] who was allying himself with Claudius's son
+[10:56 --> 10:58] Britannicus in what was shaping up to be
+[10:58 --> 11:00] another dynastic struggle between the Julio
+[11:00 --> 11:03] and Claudian halves of the family. In this
+[11:03 --> 11:06] struggle, the new empress would prove to be a
+[11:06 --> 11:08] formidable opponent in the game of power
+[11:08 --> 11:14] politics. Julia Agrippina, known to us as
+[11:14 --> 11:17] Agrippina Minor or Agrippina the Younger, was
+[11:17 --> 11:20] born in November 15 AD, the eldest daughter of
+[11:20 --> 11:23] Germanicus and his wife Agrippina. Named for
+[11:23 --> 11:26] her mother, Agrippina Minor was carted around
+[11:26 --> 11:28] the empire by her parents until she wound up
+[11:28 --> 11:30] settled back in Rome following the death of her
+[11:30 --> 11:34] father in 19 AD. From that point, she was
+[11:34 --> 11:36] raised by her mother and then by her great
+[11:36 --> 11:39] grandmother, Livia, who we will see seems to
+[11:39 --> 11:42] have had a great influence on the child. In
+[11:42 --> 11:45] 28 AD, Tiberius ordered the 13-year-old
+[11:45 --> 11:47] Agrippina to marry the 40-plus-year-old
+[11:47 --> 11:50] Gnaeus Domitius Ahenabarbis, who was the
+[11:50 --> 11:52] grandson of Augustus's sister Octavia and
+[11:52 --> 11:55] Mark Antony. Domitius was apparently
+[11:55 --> 11:58] something of a cad, though the stories about
+[11:58 --> 12:00] him were likely exaggerated to help reinforce
+[12:00 --> 12:02] the despicable nature of his son, Lucius
+[12:02 --> 12:05] Domitius Ahenabarbis, the future Emperor Nero,
+[12:06 --> 12:10] who Agrippina gave birth to in 37 AD. To
+[12:10 --> 12:12] avoid confusion, I am going to start calling
+[12:12 --> 12:15] the boy Nero right now, even though he will
+[12:15 --> 12:17] remain Lucius until his adoption by Claudius
+[12:17 --> 12:21] in 50 AD. Nero would wind up being Agrippina's
+[12:21 --> 12:24] only natural child as Domitius died of
+[12:24 --> 12:26] congestive heart failure in January of 40
+[12:26 --> 12:30] AD. You'll recall from the episode on
+[12:31 --> 12:33] that at first Agrippina and her other
+[12:33 --> 12:35] sisters were held in exalted status once
+[12:35 --> 12:38] their brother became emperor. But after
+[12:38 --> 12:40] the death of Drusilla, the relationship
+[12:40 --> 12:41] between the remaining siblings seems to
+[12:41 --> 12:45] have soured. As I mentioned, in 39 AD,
+[12:45 --> 12:47] Agrippina and her sister Julia Lovilla
+[12:47 --> 12:49] were accused of conspiring against their
+[12:49 --> 12:52] brother's life with Marcus Aemilius Lepidus,
+[12:52 --> 12:55] who was, A, the widower of Drusilla, B,
+[12:56 --> 12:58] already tagged by Caligula as a potential
+[12:58 --> 13:00] heir, and C, apparently the lover of
+[13:00 --> 13:04] both Agrippina and Julia Lovilla. When the
+[13:04 --> 13:06] plot was exposed, Caligula banished his
+[13:06 --> 13:07] sisters to a small island in the
+[13:07 --> 13:09] Tyrrhenian Sea, where legend has it
+[13:09 --> 13:11] that he forced them to dive for
+[13:11 --> 13:13] sponges to earn their room and board.
+[13:14 --> 13:16] At this point, Agrippina had her
+[13:16 --> 13:18] entire estate confiscated and her son
+[13:18 --> 13:20] Nero was stripped of the inheritance
+[13:20 --> 13:23] left to him by Domitius. Nero himself
+[13:23 --> 13:25] was carted off to live with a
+[13:25 --> 13:26] paternal aunt and did not seem a
+[13:26 --> 13:28] likely candidate to survive childhood.
+[13:31 --> 13:32] But Agrippina and Nero's fortunes
+[13:32 --> 13:34] turn when Caligula was assassinated
+[13:34 --> 13:37] in 41. Claudius recalled the
+[13:37 --> 13:39] banished sisters and Agrippina and
+[13:39 --> 13:42] her son were reunited. The now
+[13:42 --> 13:44] penniless princess cast about looking
+[13:44 --> 13:46] for a man with status and wealth
+[13:46 --> 13:48] necessary to get her back into the
+[13:48 --> 13:49] lifestyle to which she had grown
+[13:49 --> 13:52] accustomed. According to Suetonius,
+[13:52 --> 13:54] she set her sights on the already
+[13:54 --> 13:56] married General Galba, but was rebuked.
+[13:57 --> 13:59] Galba, of course, would eventually
+[13:59 --> 14:00] become the first of the four
+[14:00 --> 14:01] emperors in the year of four
+[14:01 --> 14:03] emperors. So, hey, that's three
+[14:03 --> 14:06] down and one to go. Agrippina
+[14:06 --> 14:08] got over the rejection and moved
+[14:08 --> 14:10] on to Gaius Solistus Crispus
+[14:10 --> 14:12] Pacienus, who Claudius pressured
+[14:12 --> 14:13] to accept Agrippina's advances.
+[14:15 --> 14:16] Pacienus had already been
+[14:16 --> 14:18] consul once and would be so again
+[14:18 --> 14:20] in 44, so his high status
+[14:20 --> 14:22] returned Agrippina to the
+[14:22 --> 14:24] center of court life. But the witty
+[14:24 --> 14:26] and vibrant Pacienus fell ill and
+[14:26 --> 14:29] died in 47 A.D., leaving Agrippina
+[14:29 --> 14:31] widowed once again, though this
+[14:31 --> 14:32] time she emerged from her bereavement
+[14:32 --> 14:35] an extremely wealthy woman. This
+[14:35 --> 14:37] led to her very first accusation
+[14:37 --> 14:39] of poisoning, which seems to be
+[14:39 --> 14:40] something of a rite of passage for
+[14:40 --> 14:43] Julio Caudi and women. When
+[14:43 --> 14:45] Messalina was executed and the
+[14:45 --> 14:46] emperor was left a bachelor, the
+[14:46 --> 14:48] now single Agrippina defied
+[14:48 --> 14:50] convention and good taste by
+[14:50 --> 14:52] openly pursuing her uncle as a
+[14:52 --> 14:53] potential husband.
+[14:55 --> 14:57] As I said at the end of the last
+[14:57 --> 14:59] episode, the execution of Messalina
+[14:59 --> 15:01] led each of Claudius's trusted
+[15:01 --> 15:02] freedmen to back a different
+[15:02 --> 15:03] woman for the emperorship.
+[15:04 --> 15:06] Narcissus backed Claudius's
+[15:06 --> 15:08] former wife, Aelia Patina, and
+[15:08 --> 15:09] Callistus backed Lolia Paulina,
+[15:10 --> 15:11] who had been married to
+[15:11 --> 15:12] Caligula for about six months
+[15:12 --> 15:13] in 38 A.D.
+[15:14 --> 15:16] Pallas, the secretary of the
+[15:16 --> 15:17] treasury, meanwhile, pushed for
+[15:17 --> 15:19] Claudius to do the unthinkable.
+[15:20 --> 15:21] He and Agrippina had become
+[15:21 --> 15:23] lovers, and if she became
+[15:23 --> 15:25] empress, well, Pallas figured
+[15:25 --> 15:26] that he would be set for life.
+[15:27 --> 15:28] So he argued that the Julio
+[15:28 --> 15:29] and Claudian wings of the
+[15:29 --> 15:31] family must be reunited for
+[15:31 --> 15:33] the dynasty and Rome to survive.
+[15:34 --> 15:35] Claudius was swayed by these
+[15:35 --> 15:37] arguments and took the same
+[15:37 --> 15:38] line to the Senate when he
+[15:38 --> 15:39] announced his intention to
+[15:39 --> 15:40] marry his own niece.
+[15:41 --> 15:42] It was for the good of the
+[15:42 --> 15:44] empire, Claudius said, and
+[15:44 --> 15:45] you should treat it as such and
+[15:45 --> 15:47] not think too hard about the
+[15:47 --> 15:49] clear-cut incestual union I'm
+[15:49 --> 15:50] posing here.
+[15:51 --> 15:52] The Senate wasn't very happy
+[15:52 --> 15:54] about it, but they relented
+[15:54 --> 15:55] and backed the marriage.
+[15:55 --> 15:57] The people of Rome, however,
+[15:57 --> 15:58] were not so understanding and
+[15:58 --> 16:00] refused to get on board with
+[16:00 --> 16:00] the program.
+[16:01 --> 16:02] The marriage would spark a
+[16:02 --> 16:04] precipitous decline in
+[16:04 --> 16:05] Claudius' popularity.
+[16:08 --> 16:09] Agrippina had gone through a
+[16:09 --> 16:10] number of image makeovers in
+[16:10 --> 16:12] her life, from pitiable
+[16:12 --> 16:13] daughter of Germanicus to
+[16:13 --> 16:15] immoral harlot of
+[16:15 --> 16:16] Caligula's court to
+[16:16 --> 16:18] sympathetic exiled mother.
+[16:18 --> 16:19] With her marriage to
+[16:19 --> 16:21] Claudius on New Year's Day 49
+[16:21 --> 16:22] A.D., though, she
+[16:22 --> 16:23] crystallized into the woman
+[16:23 --> 16:25] history remembers her as,
+[16:25 --> 16:27] the ruthlessly ambitious
+[16:27 --> 16:28] empress of Rome.
+[16:29 --> 16:31] Much like Livia before her,
+[16:31 --> 16:33] Agrippina poured her ambition
+[16:33 --> 16:34] into the only vessel a
+[16:34 --> 16:36] woman like her could use to
+[16:36 --> 16:37] gain and hold power in
+[16:37 --> 16:39] patriarchal Rome, her son.
+[16:41 --> 16:42] Even before her marriage to
+[16:42 --> 16:44] Claudius, Agrippina was
+[16:44 --> 16:45] hard at work setting Nero
+[16:45 --> 16:46] up for success.
+[16:47 --> 16:49] In 48, she had conspired
+[16:49 --> 16:50] with the aforementioned
+[16:50 --> 16:51] co-sensor Vitellius to
+[16:51 --> 16:53] smear the fiancee of
+[16:53 --> 16:54] Claudius' daughter,
+[16:54 --> 16:55] Claudia Octavia, to clear
+[16:55 --> 16:57] the way for Nero to marry
+[16:57 --> 16:58] into the imperial family.
+[16:59 --> 17:00] Agrippina succeeded in
+[17:00 --> 17:01] breaking up the engagement,
+[17:02 --> 17:03] leading said fiancee to
+[17:03 --> 17:04] commit suicide along the
+[17:04 --> 17:05] way.
+[17:05 --> 17:06] But it would take a few
+[17:06 --> 17:07] years before she could
+[17:07 --> 17:08] initiate the marriage
+[17:08 --> 17:09] between Nero and Claudia.
+[17:09 --> 17:11] Nero was, after all, only
+[17:11 --> 17:12] ten at the time and
+[17:12 --> 17:13] Claudia was even younger.
+[17:15 --> 17:16] But Agrippina could afford
+[17:16 --> 17:17] to wait because the
+[17:17 --> 17:18] next year she managed to
+[17:18 --> 17:19] pull off the trick of
+[17:19 --> 17:20] marrying the emperor
+[17:20 --> 17:21] himself.
+[17:22 --> 17:23] Agrippina, who had been
+[17:23 --> 17:24] pig-ponging between
+[17:24 --> 17:25] relevance and obscurity
+[17:25 --> 17:26] for years, was now
+[17:26 --> 17:27] back in power.
+[17:29 --> 17:30] But she didn't lose
+[17:30 --> 17:31] sight of the ball and
+[17:31 --> 17:32] it once began lobbying
+[17:32 --> 17:33] Claudius to adopt Nero
+[17:33 --> 17:34] and make him an heir.
+[17:35 --> 17:37] In 50, Claudius finally
+[17:37 --> 17:38] relented and adopted
+[17:38 --> 17:39] 13-year-old Lucius
+[17:39 --> 17:41] Domitius Ahenabarbis,
+[17:41 --> 17:42] at which point the
+[17:42 --> 17:43] boy took the name Nero
+[17:43 --> 17:44] Claudius Caesar Jerusalem
+[17:44 --> 17:45] Germanicus,
+[17:45 --> 17:46] shortened for our
+[17:46 --> 17:48] purposes to Nero.
+[17:49 --> 17:50] Also following in the
+[17:50 --> 17:51] footsteps of her great
+[17:51 --> 17:52] grandmother, Livia,
+[17:53 --> 17:53] Agrippina convinced
+[17:53 --> 17:55] Claudius to grant her
+[17:55 --> 17:56] the title Augusta and
+[17:56 --> 17:57] allow her access to
+[17:57 --> 17:58] special carriages that
+[17:58 --> 17:59] were generally reserved
+[17:59 --> 18:00] for priests.
+[18:01 --> 18:02] These special privileges
+[18:02 --> 18:03] were outward signs of
+[18:03 --> 18:05] the influence Agrippina
+[18:05 --> 18:06] held over her uncle
+[18:06 --> 18:07] slash husband.
+[18:08 --> 18:08] In a particularly
+[18:08 --> 18:10] unprecedented display,
+[18:10 --> 18:11] Claudius actually named
+[18:11 --> 18:12] a veteran's colony he
+[18:12 --> 18:14] chartered Agrippina
+[18:14 --> 18:15] Nicium, the only
+[18:15 --> 18:16] colony in the whole
+[18:16 --> 18:17] long history of the
+[18:17 --> 18:18] empire to be named
+[18:18 --> 18:19] after a woman.
+[18:20 --> 18:21] But as important as
+[18:21 --> 18:22] it was to Agrippina
+[18:22 --> 18:23] that she gather up
+[18:23 --> 18:24] as much power as she
+[18:24 --> 18:25] could in the near term,
+[18:25 --> 18:26] her long term goal
+[18:26 --> 18:27] still revolved around
+[18:27 --> 18:28] her son.
+[18:29 --> 18:30] The 60 plus year old
+[18:30 --> 18:31] Claudius was nearing
+[18:31 --> 18:32] the end of his life
+[18:32 --> 18:33] while the 35 year old
+[18:33 --> 18:34] Agrippina still had
+[18:34 --> 18:35] a lot of years left.
+[18:36 --> 18:37] And that meant making
+[18:37 --> 18:38] sure that her son
+[18:38 --> 18:39] ascended to the throne
+[18:39 --> 18:40] when Claudius died.
+[18:43 --> 18:44] The one obvious obstacle
+[18:44 --> 18:45] to Agrippina's agenda
+[18:45 --> 18:47] was Claudius's natural
+[18:47 --> 18:48] son, nine year old
+[18:48 --> 18:48] Britannicus.
+[18:50 --> 18:51] Although Nero now
+[18:51 --> 18:52] had the advantage of
+[18:52 --> 18:52] technically being
+[18:52 --> 18:54] Claudius's eldest son,
+[18:54 --> 18:55] there was no accounting
+[18:55 --> 18:56] for the favoritism
+[18:56 --> 18:57] Claudius might be
+[18:57 --> 18:57] tempted to show
+[18:57 --> 18:58] his own offspring.
+[18:59 --> 19:01] So, upon becoming
+[19:01 --> 19:02] empress, Agrippina
+[19:02 --> 19:02] scrubbed the
+[19:02 --> 19:04] imperial palace of anyone
+[19:04 --> 19:05] who had been connected
+[19:05 --> 19:05] to Messalina
+[19:05 --> 19:07] and who might be tempted
+[19:07 --> 19:07] to advance
+[19:07 --> 19:08] Britannicus's interests.
+[19:09 --> 19:10] When Claudius cast
+[19:10 --> 19:11] about for advice on
+[19:11 --> 19:12] what to do about
+[19:12 --> 19:13] the issue of succession,
+[19:14 --> 19:15] Agrippina wanted to
+[19:15 --> 19:16] make sure that the
+[19:16 --> 19:16] only people around
+[19:16 --> 19:17] to speak up
+[19:17 --> 19:18] would be those firmly
+[19:18 --> 19:19] in her corner.
+[19:20 --> 19:21] She went so far as to
+[19:21 --> 19:22] have Britannicus's
+[19:22 --> 19:22] tutor killed
+[19:22 --> 19:24] when he raised too much
+[19:24 --> 19:25] of a stink about his
+[19:25 --> 19:26] pupil being neglected
+[19:26 --> 19:27] by the emperor.
+[19:28 --> 19:29] Unfortunately for Agrippina,
+[19:30 --> 19:30] the man who emerged
+[19:30 --> 19:32] as one of Britannicus's
+[19:32 --> 19:33] greatest advocates
+[19:33 --> 19:34] was one of the few men
+[19:34 --> 19:35] she could not simply
+[19:35 --> 19:36] dispose of on a whim,
+[19:37 --> 19:38] Narcissus.
+[19:39 --> 19:40] The freedman had his
+[19:40 --> 19:41] doubts about Britannicus,
+[19:41 --> 19:42] but those paled in
+[19:42 --> 19:43] comparisons to his
+[19:43 --> 19:44] doubts about Nero.
+[19:45 --> 19:46] The boy was shaping up
+[19:46 --> 19:47] to be petulant,
+[19:47 --> 19:48] selfish, and vain.
+[19:49 --> 19:50] When Narcissus looked
+[19:50 --> 19:50] at Nero,
+[19:51 --> 19:52] he saw the second coming
+[19:52 --> 19:52] of Caligula.
+[19:54 --> 19:55] Agrippina worked hard
+[19:55 --> 19:57] to try to box Narcissus out,
+[19:57 --> 19:58] and as I said,
+[19:58 --> 19:59] she went after him hard
+[19:59 --> 20:00] over the Fusine Lake debacle,
+[20:01 --> 20:02] but the freedman was tied
+[20:02 --> 20:03] too deeply to the emperor.
+[20:04 --> 20:05] Try as she might,
+[20:05 --> 20:06] Agrippina could not
+[20:06 --> 20:07] dislodge Narcissus
+[20:07 --> 20:08] from Claudius's ear.
+[20:10 --> 20:11] But despite that,
+[20:11 --> 20:13] as was usually the case
+[20:13 --> 20:13] during these years,
+[20:14 --> 20:15] Agrippina finally did
+[20:15 --> 20:15] get her way,
+[20:16 --> 20:17] at least partially,
+[20:17 --> 20:18] and in 51 AD,
+[20:19 --> 20:20] 14-year-old Nero
+[20:20 --> 20:21] was elevated to manhood
+[20:21 --> 20:23] and named as a co-heir
+[20:23 --> 20:24] alongside the still
+[20:24 --> 20:25] underage Britannicus.
+[20:26 --> 20:27] In theory,
+[20:27 --> 20:28] they were meant to rule
+[20:28 --> 20:29] together when the time came,
+[20:29 --> 20:30] but in practice,
+[20:31 --> 20:31] the timing of
+[20:31 --> 20:33] Claudius's declaration
+[20:33 --> 20:34] opened a window
+[20:34 --> 20:34] of a few years
+[20:34 --> 20:36] where Nero was now a man
+[20:36 --> 20:37] and able to assume
+[20:37 --> 20:38] the duties of state,
+[20:38 --> 20:39] while Britannicus
+[20:39 --> 20:41] was still legally a child.
+[20:41 --> 20:42] For all intents and purposes,
+[20:42 --> 20:44] Nero, right now,
+[20:44 --> 20:45] was the sole heir.
+[20:47 --> 20:48] Agrippina would not fail
+[20:48 --> 20:49] to miss the significance
+[20:49 --> 20:50] of this development.
+[20:51 --> 20:52] In 53 AD,
+[20:52 --> 20:53] Nero's position
+[20:53 --> 20:54] was strengthened even more
+[20:54 --> 20:55] by a marriage to his now
+[20:55 --> 20:56] stepsister,
+[20:56 --> 20:57] Claudia Octavia.
+[20:58 --> 20:59] The public was starting
+[20:59 --> 21:00] to get behind the idea
+[21:00 --> 21:01] that this grandson
+[21:01 --> 21:02] of Germanicus
+[21:02 --> 21:03] was destined to be
+[21:03 --> 21:04] their next emperor.
+[21:05 --> 21:06] But just as everything
+[21:06 --> 21:07] seemed to be going
+[21:07 --> 21:08] Agrippina's way,
+[21:08 --> 21:09] Claudius began to regret
+[21:09 --> 21:11] having given so much to Nero
+[21:11 --> 21:12] at the expense
+[21:12 --> 21:13] of his own son.
+[21:14 --> 21:15] Whether Narcissus was behind
+[21:15 --> 21:16] the change of heart
+[21:16 --> 21:17] or whether the emperor
+[21:17 --> 21:19] himself came to his own
+[21:19 --> 21:20] conclusions is unknown.
+[21:21 --> 21:23] But at some point in 54 AD,
+[21:23 --> 21:24] Claudius began to look
+[21:24 --> 21:25] at Britannicus more and more
+[21:25 --> 21:27] as his rightful heir.
+[21:28 --> 21:29] Agrippina sensed
+[21:29 --> 21:29] that the winds were
+[21:29 --> 21:31] beginning to blow against her
+[21:31 --> 21:32] and recognized
+[21:32 --> 21:33] that she might be facing
+[21:33 --> 21:34] a pretty clear deadline.
+[21:35 --> 21:36] Britannicus would soon
+[21:36 --> 21:37] be coming of age
+[21:37 --> 21:38] and once he was
+[21:38 --> 21:39] a legal adult,
+[21:39 --> 21:41] Claudius was making noise
+[21:41 --> 21:42] about no longer
+[21:42 --> 21:43] needing his manipulative
+[21:43 --> 21:44] wife and her spoiled
+[21:44 --> 21:45] teenage son.
+[21:46 --> 21:47] With Britannicus slated
+[21:47 --> 21:48] to take the rights of
+[21:48 --> 21:50] manhood in just six months,
+[21:50 --> 21:51] Agrippina had no time
+[21:51 --> 21:52] to spare.
+[21:52 --> 21:53] She was too close
+[21:53 --> 21:54] to fulfilling her dreams
+[21:54 --> 21:55] to let it all
+[21:55 --> 21:56] just slip away.
+[21:57 --> 21:58] Now I am sort of
+[21:58 --> 21:59] going with the story here
+[21:59 --> 22:01] that Agrippina did indeed
+[22:01 --> 22:02] poison Claudius
+[22:02 --> 22:03] in October of 54.
+[22:04 --> 22:05] But it should be noted
+[22:05 --> 22:06] that though the ancient
+[22:06 --> 22:07] sources all agree
+[22:07 --> 22:08] that she did it,
+[22:08 --> 22:09] there was never any
+[22:09 --> 22:10] firm evidence they could
+[22:10 --> 22:11] point to to prove their case.
+[22:12 --> 22:14] The accusation is based
+[22:14 --> 22:15] on supposition
+[22:15 --> 22:16] and probability
+[22:16 --> 22:17] coupled with the old
+[22:17 --> 22:19] wicked stepmother motif
+[22:19 --> 22:20] that runs through
+[22:20 --> 22:21] all of Roman culture.
+[22:22 --> 22:24] Basically Agrippina
+[22:24 --> 22:25] had the means, motive
+[22:25 --> 22:26] and opportunity
+[22:26 --> 22:27] and her character
+[22:27 --> 22:28] points to her
+[22:28 --> 22:29] acting on all three.
+[22:30 --> 22:31] The most common version
+[22:31 --> 22:32] of the story is that
+[22:32 --> 22:33] Agrippina conspired
+[22:33 --> 22:34] with Claudius' taster
+[22:34 --> 22:36] to slip the emperor
+[22:36 --> 22:37] a few poisoned mushrooms,
+[22:37 --> 22:38] though his doctor
+[22:38 --> 22:39] was also fingered
+[22:39 --> 22:40] as a possible culprit.
+[22:41 --> 22:43] Whether it really was poison,
+[22:43 --> 22:44] which I happen to believe,
+[22:45 --> 22:46] or whether it was just
+[22:46 --> 22:47] nature taking its course,
+[22:47 --> 22:49] Claudius became violently ill
+[22:49 --> 22:52] and died on October 13, 54 A.D.
+[22:52 --> 22:53] He was 64 years old
+[22:53 --> 22:55] and had ruled the empire
+[22:55 --> 22:57] for 13 fairly successful years.
+[22:59 --> 23:00] The life and career of Claudius
+[23:00 --> 23:02] has to be one of the more
+[23:02 --> 23:03] unique in all of history.
+[23:04 --> 23:05] Good men and bad men,
+[23:06 --> 23:06] ambitious men
+[23:06 --> 23:08] and unassuming men,
+[23:08 --> 23:09] wise men and dumb men
+[23:09 --> 23:10] have all taken their
+[23:10 --> 23:11] turns in power,
+[23:12 --> 23:13] but all wind up conforming
+[23:13 --> 23:14] to some kind of
+[23:14 --> 23:15] recognizable archetype.
+[23:16 --> 23:17] But I can't really think
+[23:17 --> 23:18] of anyone who quite resembles
+[23:18 --> 23:19] Claudius,
+[23:19 --> 23:20] the accidental emperor.
+[23:21 --> 23:22] The guy was a punch line
+[23:22 --> 23:23] for his whole life.
+[23:23 --> 23:24] I doubt there could have been
+[23:24 --> 23:25] lower expectations
+[23:26 --> 23:26] when it was announced
+[23:26 --> 23:28] that Uncle Claudius
+[23:28 --> 23:29] was now in charge.
+[23:29 --> 23:30] But not only did he clear
+[23:30 --> 23:31] the minimal bar
+[23:31 --> 23:32] that had been set for him,
+[23:33 --> 23:34] but he was far and away
+[23:34 --> 23:35] the best emperor
+[23:35 --> 23:36] since Augustus himself.
+[23:37 --> 23:38] Now I know that isn't
+[23:38 --> 23:39] saying very much,
+[23:39 --> 23:40] as between the purges
+[23:40 --> 23:41] of Tiberius
+[23:41 --> 23:41] and well,
+[23:42 --> 23:43] the everything of Caligula,
+[23:43 --> 23:44] it doesn't take a whole
+[23:44 --> 23:45] lot to earn the title
+[23:45 --> 23:47] best emperor since Augustus.
+[23:47 --> 23:48] But when you think
+[23:48 --> 23:49] about the image
+[23:49 --> 23:50] most Romans had
+[23:50 --> 23:51] in their heads of Claudius,
+[23:51 --> 23:52] the slow witted,
+[23:52 --> 23:53] stuttering dunce,
+[23:53 --> 23:54] you have to admit
+[23:54 --> 23:55] that it's impressive
+[23:55 --> 23:56] how out of nowhere
+[23:56 --> 23:58] he came to claim that prize.
+[23:59 --> 24:00] And the thing is,
+[24:00 --> 24:02] if you rank all the emperors
+[24:02 --> 24:03] past, present and future,
+[24:03 --> 24:04] which is a list of somewhere
+[24:04 --> 24:05] around 100 men
+[24:05 --> 24:06] depending on who's counting,
+[24:07 --> 24:08] I think Claudius
+[24:08 --> 24:09] pretty comfortably
+[24:09 --> 24:10] sits in the top 10.
+[24:11 --> 24:12] He's not a great emperor,
+[24:12 --> 24:13] like Augustus
+[24:13 --> 24:14] or Constantine
+[24:14 --> 24:15] or Diocletian,
+[24:15 --> 24:17] and he probably sits behind
+[24:17 --> 24:17] the so-called
+[24:17 --> 24:19] five good emperors
+[24:19 --> 24:20] in terms of impact
+[24:20 --> 24:20] and talent,
+[24:21 --> 24:21] but yeah,
+[24:22 --> 24:23] Claudius is in the top 10.
+[24:23 --> 24:25] I'm going to miss him.
+[24:26 --> 24:27] Next week,
+[24:27 --> 24:27] we'll get into
+[24:27 --> 24:29] one of the bottom feeders
+[24:29 --> 24:30] who is constantly
+[24:30 --> 24:30] duking it out
+[24:30 --> 24:31] with Caligula
+[24:31 --> 24:32] and Elagabalus
+[24:32 --> 24:33] and Commodus
+[24:33 --> 24:34] for the title
+[24:34 --> 24:35] of worst emperor ever.
+[24:36 --> 24:37] Though I think Nero
+[24:37 --> 24:38] was pretty clearly
+[24:38 --> 24:39] not as bad as Caligula
+[24:39 --> 24:41] and his leisure pursuits
+[24:41 --> 24:42] were far less insane,
+[24:42 --> 24:44] he was still pretty awful.
+[24:45 --> 24:46] The problem with Nero
+[24:46 --> 24:47] is that he didn't seem
+[24:47 --> 24:48] to have much interest
+[24:48 --> 24:49] in actually being emperor.
+[24:49 --> 24:51] He wanted to play gladiator
+[24:51 --> 24:52] and sing songs
+[24:52 --> 24:53] and compete in games.
+[24:54 --> 24:54] To him,
+[24:55 --> 24:56] the best part of being emperor
+[24:56 --> 24:57] is that everyone
+[24:57 --> 24:58] lets you win at everything.
+[24:59 --> 25:00] In his defense,
+[25:00 --> 25:01] Nero was only
+[25:01 --> 25:02] 16 years old
+[25:02 --> 25:03] when he ascended to the throne,
+[25:04 --> 25:05] which explains a great deal
+[25:05 --> 25:06] of his immaturity,
+[25:06 --> 25:07] but still,
+[25:07 --> 25:08] at a certain point
+[25:08 --> 25:09] you've got to look yourself
+[25:09 --> 25:09] in the mirror
+[25:09 --> 25:11] and want to be a better person.
+[25:12 --> 25:13] If not for yourself,
+[25:13 --> 25:14] then for the people
+[25:14 --> 25:15] who are counting on you
+[25:15 --> 25:16] to do a good job.
+[25:16 --> 25:18] Because if you don't have
+[25:18 --> 25:18] that moment
+[25:18 --> 25:19] and you just stay
+[25:19 --> 25:20] the same immature kid
+[25:20 --> 25:21] your whole life,
+[25:21 --> 25:21] well,
+[25:22 --> 25:23] eventually you wind up
+[25:23 --> 25:24] committing a panicked suicide
+[25:24 --> 25:25] after your enemies
+[25:25 --> 25:26] have launched
+[25:26 --> 25:27] a successful coup d'etat.

@@ -1,0 +1,614 @@
+# 20100228 - 052- Caesar Augustus
+# Detected language: en
+# Duration: 1680.07 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, episode 52, Caesar Augustus.
+[00:13 --> 00:18] Antony and Cleopatra were dead, though no one knew it at the time, when Octavian emerged
+[00:18 --> 00:22] victorious from the brief war with his old triumph or colleague in 30 BC.
+[00:22 --> 00:25] He was also ending nearly 20 years of continuous civil war.
+[00:26 --> 00:32] From the time Julius Caesar crossed the Rubicon in 49 BC, the empire had been subjected to
+[00:32 --> 00:35] almost two decades of constant civil strife.
+[00:36 --> 00:40] Had the sickly Octavian died young, no doubt the victory at Actium and the conquest
+[00:40 --> 00:45] of Alexandria would have been just two more milestones on the long road to stability.
+[00:46 --> 00:50] But much to everyone's surprise, not the least of which his own, Octavian wound up
+[00:50 --> 00:52] living well into his 70s.
+[00:53 --> 00:57] This meant that his victories were not just a few more markers along the way, they turned
+[00:57 --> 00:58] out to be the destination.
+[00:59 --> 01:01] So what was that destination?
+[01:01 --> 01:03] Was the Republic really dead?
+[01:03 --> 01:06] Would things ever go back to the way they had been before?
+[01:06 --> 01:09] Did anyone want things to go back to the way they had been before?
+[01:10 --> 01:11] Who was in control now?
+[01:11 --> 01:12] The Senate?
+[01:12 --> 01:13] Octavian?
+[01:13 --> 01:16] And what about the 60 legions still in arms?
+[01:16 --> 01:19] These were open questions with no obvious answers.
+[01:19 --> 01:25] We of course know now how things turned out, and know the ABCs of how Octavian solidified
+[01:25 --> 01:29] his personal rule, and what that meant for the long term make up and outlook of
+[01:29 --> 01:30] the Roman Empire.
+[01:31 --> 01:35] But as the victorious young Caesar sailed back to Rome in 30 BC, no one knew what
+[01:35 --> 01:36] was going to happen next.
+[01:38 --> 01:42] When Octavian arrived home in August of that year, though it was not called August
+[01:42 --> 01:47] yet and we'll get to that, the great constitutional questions did not have to be addressed
+[01:47 --> 01:48] straight away.
+[01:48 --> 01:53] He was after all still consul, which gave him all the legitimate power he needed to
+[01:53 --> 01:54] rule the empire.
+[01:55 --> 02:00] Eventually, being elected consul year after year would no longer be a sustainable base
+[02:00 --> 02:03] upon which to rest his authority, but for now it was enough.
+[02:05 --> 02:08] His first steps were to sort through all the friends and enemies he had made in
+[02:08 --> 02:11] the previous decade and decide what to do with them all.
+[02:11 --> 02:13] First up on the list of names?
+[02:13 --> 02:14] Mark Antony of course.
+[02:15 --> 02:19] Now you may think, well, Mark Antony is dead, so isn't that enough?
+[02:19 --> 02:22] And the answer is that no, it wasn't enough.
+[02:23 --> 02:27] Octavian wanted his old rival erased from the collective consciousness, so he
+[02:27 --> 02:30] ordered that Antony's name be literally purged from the history books.
+[02:31 --> 02:35] The official annals that recorded the events of the year were opened and edited.
+[02:36 --> 02:38] Every mention of Marcus Antonius was erased.
+[02:39 --> 02:43] The same was done to various monuments and statues that had been erected in
+[02:43 --> 02:45] last 30 years and still bore his name.
+[02:46 --> 02:50] Finally, it was decreed that no future son of the Antonius clan could be named
+[02:50 --> 02:50] Marcus.
+[02:51 --> 02:55] Octavian was making it clear that there is no Mark Antony, there never was a
+[02:55 --> 02:58] Mark Antony, and that we have always been at war with East Asia.
+[03:00 --> 03:04] As for the former allies of the now non-existent Mark Antony, Octavian
+[03:04 --> 03:06] decided their fates on a case by case basis.
+[03:07 --> 03:11] Unlike his uncle, Octavian was predisposed towards bloody vengeance,
+[03:11 --> 03:15] but with Messinus acting as a moderating hand behind the scenes,
+[03:15 --> 03:19] Octavian actually ordered as many pardons as he did executions.
+[03:20 --> 03:23] The die-hard anti-Caesarians were killed or exiled,
+[03:23 --> 03:26] but the rest of his former enemies were folded into the new regime.
+[03:27 --> 03:31] The latter fact was highly publicized, the former not so much.
+[03:33 --> 03:37] In 29 BC, Octavian continued to serve as consul.
+[03:37 --> 03:41] Being an extremely deliberate and patient man, Octavian knew that the
+[03:41 --> 03:45] process of transforming himself into something bigger and greater than
+[03:45 --> 03:48] anything Rome had yet known would be a long process.
+[03:49 --> 03:53] For now, he would serve as the traditional executive, but he planned
+[03:53 --> 03:55] much greater heights for himself in the future.
+[03:56 --> 04:00] To prepare the population for his ascent to near godhood, Octavian had
+[04:00 --> 04:04] Messinus set his army of poets to the task of glorifying their newly
+[04:04 --> 04:05] victorious patron.
+[04:06 --> 04:09] The culmination of the poetic propaganda campaign was, of course,
+[04:09 --> 04:12] the Aeneid written by Virgil.
+[04:13 --> 04:17] Begun soon after Octavian's return to Rome, the epic poem would be published
+[04:17 --> 04:20] a decade later and eventually stand as one of the few great masterpieces
+[04:20 --> 04:21] of Latin verse.
+[04:23 --> 04:26] Though the quality of the work was no doubt a pleasant bonus, Octavian,
+[04:27 --> 04:31] by then Augustus, was most pleased to find Virgil taking pains to
+[04:31 --> 04:34] highlight the Julii clan's connection to Aeneas and the description
+[04:34 --> 04:38] of Augustus' ascent to power as a preordained inevitability.
+[04:39 --> 04:42] The myth of Augustus was beginning to take shape.
+[04:44 --> 04:48] The highlight of the year was the celebration of three triumphs in
+[04:48 --> 04:51] Octavian's honor, one each for his victories in a Lyricum,
+[04:51 --> 04:53] Alexandria, and an Actium.
+[04:54 --> 04:57] Of course, with Antony now written out of the history books, the
+[04:57 --> 05:01] triumphs celebrating Actium and Alexandria were recast as victories
+[05:01 --> 05:05] over Cleopatra alone, the demonic eastern queen who had tried to
+[05:05 --> 05:06] conquer noble Rome.
+[05:07 --> 05:11] For these latter two events, Octavian forced Cleopatra's children to
+[05:11 --> 05:13] parade through the streets of Roman chains.
+[05:14 --> 05:17] Conspicuously absent, though, was 15-year-old Caesarian.
+[05:18 --> 05:22] As the one real threat to Octavian's claim on the Caesar name, there was no
+[05:22 --> 05:25] way Octavian was going to let young Caesarian make it out of
+[05:25 --> 05:26] Alexandria alive.
+[05:27 --> 05:31] Famously remarking that two Caesars is one Caesar too many,
+[05:31 --> 05:33] Octavian had the boy executed.
+[05:34 --> 05:37] It may seem harsh, but in Roman society, when a boy reaches the age
+[05:37 --> 05:41] of 18 and passes through the rituals of manhood, he is a man,
+[05:42 --> 05:43] no less so because he is a young one.
+[05:44 --> 05:46] There is no hesitating over Caesarian's fate.
+[05:47 --> 05:49] Two Caesars is one Caesar too many.
+[05:51 --> 05:54] The rest of the children were handed over to Octavia to care for, and
+[05:54 --> 05:58] she attended to them lovingly until the eldest daughter was married to
+[05:58 --> 05:58] the king of Numidia.
+[05:59 --> 06:02] The new bride took her brothers and sisters with her to Africa, where
+[06:02 --> 06:05] they lived the rest of their lives in peaceful obscurity.
+[06:08 --> 06:10] But just as the triumphs marked the passing of Cleopatra's young
+[06:10 --> 06:14] children from the world stage, the celebrations also saw the
+[06:14 --> 06:17] introduction of two Roman teenagers onto the same stage.
+[06:19 --> 06:22] Joining Octavian in his triumphal chariot were 14-year-old
+[06:22 --> 06:26] Marcus Claudius Marcellus, the eldest son of Octavia, and
+[06:26 --> 06:30] 13-year-old Tiberius Claudius Nero, Octavian's stepson.
+[06:31 --> 06:34] There was no mistaking the dynastic implications of their
+[06:34 --> 06:37] prominent inclusion in the procession.
+[06:37 --> 06:40] Soon enough, it would become clear that Octavian was grooming
+[06:40 --> 06:43] his nephew Marcellus to succeed him, just as his uncle Julius
+[06:43 --> 06:46] Caesar had groomed him to rule the empire.
+[06:47 --> 06:50] Tiberius, despite heavy lobbying from his mother Livia,
+[06:50 --> 06:51] would remain a backup plan.
+[06:52 --> 06:55] In fact, he would remain the backup plan for most of his
+[06:55 --> 06:58] life as Augustus cast about the family trying to find
+[06:58 --> 07:01] someone, anyone, who could replace him.
+[07:01 --> 07:03] In the end, he was able to find none.
+[07:04 --> 07:06] And Tiberius, who was never supposed to become emperor,
+[07:07 --> 07:07] became emperor.
+[07:10 --> 07:13] In 28 BC, Agrippa joined Octavian in the consulship.
+[07:14 --> 07:16] And the two worked together to shore up Octavian's
+[07:16 --> 07:19] power while simultaneously restoring order to the
+[07:19 --> 07:19] empire.
+[07:20 --> 07:23] One of the first things they did was formally annul all
+[07:23 --> 07:25] the laws that had been enacted during the second
+[07:25 --> 07:26] triumvirate.
+[07:27 --> 07:30] As I mentioned at the end of last week, it was time for
+[07:30 --> 07:32] Octavian to leave his ruthlessly ambitious past
+[07:32 --> 07:33] behind him.
+[07:34 --> 07:37] So it may seem odd that he canceled laws and decrees he
+[07:37 --> 07:39] himself had enacted just a few years previously.
+[07:40 --> 07:42] But he wanted to send the message that he was not that
+[07:42 --> 07:46] man anymore, that the rule of law had returned to Rome
+[07:46 --> 07:46] for good.
+[07:48 --> 07:51] Canceling a few laws, though, was just a matter of
+[07:51 --> 07:51] bookkeeping.
+[07:52 --> 07:55] The real question facing Octavian and Agrippa was
+[07:55 --> 07:57] what to do with the 60 legions that remained
+[07:58 --> 07:58] mobilized.
+[07:59 --> 08:02] Obviously, there was no need to keep so many men under
+[08:02 --> 08:02] arms.
+[08:02 --> 08:05] Not only could the treasury not support them, but
+[08:05 --> 08:06] what were they all going to do?
+[08:07 --> 08:10] Knowing full well that a restless army is a dangerous
+[08:10 --> 08:13] army, Octavian and Agrippa worked through a
+[08:13 --> 08:16] plan to demobilize half the men and keep the rest
+[08:16 --> 08:18] posted on the frontiers where they would guard the
+[08:18 --> 08:19] empire from foreign invasion.
+[08:21 --> 08:24] Eventually, they settled at keeping on 28 legions,
+[08:24 --> 08:28] around 150,000 men, posted primarily in Gaul, Spain,
+[08:29 --> 08:29] and Syria.
+[08:30 --> 08:33] As I mentioned last week, one of Octavian's
+[08:33 --> 08:36] overriding goals after Actium was to capture
+[08:36 --> 08:38] Egypt and hold it as a personal territory.
+[08:39 --> 08:42] Having achieved this goal, he was now able to more
+[08:42 --> 08:45] or less tell 150,000 soldiers to go home without
+[08:45 --> 08:47] worrying about bonus rides.
+[08:48 --> 08:51] Here's your retirement check, paid for from the
+[08:51 --> 08:52] riches captured in Alexandria.
+[08:52 --> 08:53] Have a nice life.
+[08:54 --> 08:55] No IOUs this time around.
+[08:56 --> 08:58] He had money to pay them all.
+[08:59 --> 09:02] During this year, Octavian and Agrippa also
+[09:02 --> 09:04] appointed themselves to be censors, the powerful
+[09:04 --> 09:07] office that was in charge not only of the mundane
+[09:07 --> 09:10] task of determining the population, but also the
+[09:10 --> 09:13] much more controversial task of determining who was
+[09:13 --> 09:15] in and who was out of the Senate.
+[09:16 --> 09:18] Right away, they fiddled with the senatorial
+[09:18 --> 09:21] ranks, reducing the total number from 1,000 to
+[09:22 --> 09:24] and subbing in prominent supporters from across
+[09:24 --> 09:27] the empire, rather than relying strictly on old
+[09:27 --> 09:28] Roman families to fill the ranks.
+[09:30 --> 09:32] The pushback from the existing Senate, though,
+[09:32 --> 09:34] was swift, and Octavian prudently backed off
+[09:34 --> 09:37] his plan, granting waivers to anyone who
+[09:37 --> 09:39] wanted to remain in the Senate to settle the matter.
+[09:40 --> 09:43] But like I say, Octavian was a patient man.
+[09:43 --> 09:45] By no means was he done trying to mold the
+[09:45 --> 09:47] Senate into something more to his liking.
+[09:48 --> 09:50] But there was no reason to risk it all in a
+[09:50 --> 09:51] slowdown with the old guard right away.
+[09:52 --> 09:54] There were still appearances to keep up.
+[09:56 --> 09:59] Over the course of 28 BC, Octavian and Agrippa
+[09:59 --> 10:01] also added two great temples to the Roman
+[10:02 --> 10:04] skyline, beginning the process of turning the
+[10:04 --> 10:06] city of brick into a city of marble.
+[10:07 --> 10:10] First was the temple to Apollo that Octavian
+[10:10 --> 10:12] had vowed to build if he emerged victorious
+[10:12 --> 10:15] from the war with Sextus Pompey.
+[10:15 --> 10:17] Built on the Palatine Hill, adjacent to his
+[10:17 --> 10:20] slowly expanding residence, the temple would
+[10:20 --> 10:22] take on great public significance when
+[10:22 --> 10:25] Octavian ordered that the Sibylline books be
+[10:25 --> 10:27] moved there from the Temple of Jupiter, where
+[10:27 --> 10:28] they had been kept from the time of the kings.
+[10:30 --> 10:32] Ever so subtly, Octavian was consolidating
+[10:32 --> 10:36] all power, religious, political, and martial,
+[10:36 --> 10:37] under his own roof.
+[10:39 --> 10:41] Agrippa, meanwhile, took the lead on building
+[10:41 --> 10:44] a great temple to all the gods to be called
+[10:44 --> 10:45] simply the Pantheon.
+[10:46 --> 10:49] Today, the Pantheon remains one of the great
+[10:49 --> 10:51] tourist destinations in Rome, and if you ever
+[10:51 --> 10:53] get a chance to see it, don't miss out.
+[10:54 --> 10:56] Keep in mind, though, that the Pantheon
+[10:56 --> 10:58] standing today is actually a rebuild
+[10:58 --> 11:02] commissioned by Trajan in 126 BC, the
+[11:02 --> 11:04] original construction having been destroyed
+[11:04 --> 11:06] by a devastating fire in 80 AD.
+[11:07 --> 11:09] But, cognizant of the historical significance
+[11:09 --> 11:12] of the temple, Trajan ordered his Pantheon
+[11:12 --> 11:15] built to the original blueprints, right down
+[11:15 --> 11:17] to the inscription on the cornerstone,
+[11:17 --> 11:20] which reads, Marcus Agrippa, son of Lucius,
+[11:20 --> 11:23] consul for the third time, built this.
+[11:23 --> 11:25] It's pretty cool.
+[11:27 --> 11:30] As 27 BC arrived, Octavian felt secure enough
+[11:30 --> 11:32] in his position that he decided to work out
+[11:32 --> 11:34] the details of his New World Order with the Senate.
+[11:36 --> 11:38] The trick, of course, was to maintain
+[11:38 --> 11:40] the pretense of Republican governance,
+[11:40 --> 11:42] while at the same time keeping power
+[11:42 --> 11:42] in his own hands.
+[11:43 --> 11:46] In performing this trick, he was actually
+[11:46 --> 11:47] aided by a willing Senate.
+[11:48 --> 11:50] You may think that the body who stood
+[11:50 --> 11:52] to lose the most by Octavian's power grab
+[11:52 --> 11:54] would also protest the most.
+[11:55 --> 11:57] But while some members disliked Octavian's rule,
+[11:58 --> 11:59] most of the hardcore Republicans
+[11:59 --> 12:02] had long since been purged and replaced
+[12:02 --> 12:03] by men hand-picked by Octavian.
+[12:05 --> 12:08] Not surprisingly, when in January 27 BC,
+[12:09 --> 12:10] Octavian announced to the assembled body
+[12:10 --> 12:12] that he was stepping down from his position
+[12:12 --> 12:15] and wished no more to bear the burdens of government.
+[12:15 --> 12:18] The senators present tripped over themselves,
+[12:18 --> 12:19] begging Octavian to reconsider.
+[12:21 --> 12:23] Reluctantly, Octavian agreed that if the Senate,
+[12:24 --> 12:26] as the representatives of Republican authority,
+[12:27 --> 12:29] deemed him worthy of remaining Rome's leading man,
+[12:30 --> 12:31] how could he possibly say no?
+[12:33 --> 12:35] The deal worked out with the Senate,
+[12:35 --> 12:37] all arranged in advance, of course,
+[12:37 --> 12:40] granted Octavian 10 years pro consular authority
+[12:40 --> 12:43] over the provinces of Spain, Gaul,
+[12:43 --> 12:45] Cilicia, Syria, and Egypt.
+[12:46 --> 12:48] These particular provinces were important
+[12:48 --> 12:51] because they all stood on the borders of the empire.
+[12:52 --> 12:54] If a foreign threat, say from the Germans
+[12:54 --> 12:57] or the Parthians, was going to threaten Rome,
+[12:57 --> 12:59] it was essential that the strong and wise hand
+[12:59 --> 13:02] of Octavian was there to protect the empire.
+[13:03 --> 13:05] The brass tax of the agreement, though,
+[13:05 --> 13:07] was that of the 28 standing legions,
+[13:07 --> 13:09] 20 of them were stationed in provinces
+[13:09 --> 13:10] ceded to Octavian.
+[13:12 --> 13:13] There had never been any confusion
+[13:13 --> 13:16] about where young Caesar's authority had always rested.
+[13:17 --> 13:19] With this grant of pro consular authority,
+[13:19 --> 13:21] Octavian guaranteed that three quarters
+[13:21 --> 13:24] of Rome's military was under his personal command.
+[13:25 --> 13:27] The rest of the provinces were left
+[13:27 --> 13:28] to the Senate to administer.
+[13:29 --> 13:32] If you go to thehistoryofrome.typad.com,
+[13:32 --> 13:35] you'll find a map breaking down the territorial divisions
+[13:35 --> 13:37] of the 27 BC settlement.
+[13:39 --> 13:42] As you may have noticed, these agreements showed
+[13:42 --> 13:43] that unlike Julius Caesar,
+[13:44 --> 13:46] who had pushed a radical new governmental structure,
+[13:47 --> 13:49] Octavian was seeking to work within existing precedent.
+[13:50 --> 13:53] He was not proclaiming himself dictator for life
+[13:53 --> 13:54] or a new king of Rome.
+[13:55 --> 13:57] He was simply a humble consul duly elected
+[13:57 --> 13:59] by the people who had been granted
+[13:59 --> 14:02] by the Senate's authority pro consular powers
+[14:02 --> 14:04] wherever they had seen fit for him to govern.
+[14:05 --> 14:07] Who was he to argue with the representatives
+[14:07 --> 14:08] of the people?
+[14:10 --> 14:12] The last little bit to come out
+[14:12 --> 14:14] of the constitutional settlement of 27 BC
+[14:14 --> 14:17] was the small matter of what to call Octavian
+[14:17 --> 14:18] in this new order.
+[14:19 --> 14:21] The Senate decided that he ought to at least
+[14:21 --> 14:23] be given a title of some distinction,
+[14:23 --> 14:24] something that acknowledged
+[14:24 --> 14:26] the indispensable nature of the man.
+[14:28 --> 14:29] The Senate finally settled on a new name,
+[14:30 --> 14:32] the name by which most people know Octavian today
+[14:32 --> 14:34] and the name by which this podcast
+[14:34 --> 14:37] will henceforth refer to him,
+[14:38 --> 14:39] Augustus or revered one.
+[14:41 --> 14:42] If this were a History Channel documentary,
+[14:43 --> 14:45] this is the point where we would cue a new actor
+[14:45 --> 14:46] for the reenactment,
+[14:47 --> 14:48] gone the fresh faced young man
+[14:48 --> 14:51] replaced by the serious faced old man.
+[14:52 --> 14:53] I had toyed with the notion
+[14:53 --> 14:56] and if I had more guts I might have done it,
+[14:56 --> 14:58] of eschewing the common practice of referring to him
+[14:58 --> 15:00] as Augustus from this point on.
+[15:01 --> 15:03] I think the name switch has the effect
+[15:03 --> 15:05] of subconsciously dividing up his career,
+[15:05 --> 15:07] making it seem as if it really was
+[15:07 --> 15:09] two different men doing all of these things.
+[15:10 --> 15:13] To call him Octavian through the last portion of his life
+[15:13 --> 15:14] would really bring home the idea
+[15:14 --> 15:18] that it is Octavian who's ruling the empire from here on,
+[15:18 --> 15:20] not some new guy named Augustus
+[15:20 --> 15:22] who was called in off the bench
+[15:22 --> 15:23] as a second half replacement,
+[15:24 --> 15:26] the wise and all-knowing substitute
+[15:26 --> 15:28] for the young and ruthless starter.
+[15:28 --> 15:30] I'm not going to do it
+[15:30 --> 15:33] because sometimes fighting convention just isn't worth it,
+[15:33 --> 15:34] but please don't forget
+[15:34 --> 15:36] to keep the same face in your mind
+[15:36 --> 15:39] when you picture Octavian now as Caesar Augustus.
+[15:39 --> 15:41] Don't replace the actor in your head.
+[15:41 --> 15:42] He is still the same man.
+[15:44 --> 15:46] To complicate things even further,
+[15:46 --> 15:48] just as Octavian never really went by Octavian,
+[15:49 --> 15:51] he was always Gaius Julius Caesar to the Romans,
+[15:52 --> 15:54] he never really went by Augustus much either.
+[15:55 --> 15:56] When you're trying to maintain
+[15:56 --> 15:58] the facade of Republican virtue,
+[15:58 --> 16:00] it's not really in your best interest
+[16:00 --> 16:03] to go around referring to yourself as revered one.
+[16:03 --> 16:05] It sends the wrong message.
+[16:06 --> 16:08] So Octavian, Augustus, whatever,
+[16:09 --> 16:10] requested that in practice
+[16:10 --> 16:13] he be called simply princeps or first citizen.
+[16:14 --> 16:17] Simple, classy, unpretentious.
+[16:19 --> 16:20] As soon as the power sharing agreement
+[16:20 --> 16:22] was reached with the Senate,
+[16:22 --> 16:24] Augustus decided to leave town for a while
+[16:24 --> 16:26] and tour his new provinces.
+[16:27 --> 16:29] He was acutely aware of the effect he had
+[16:29 --> 16:31] on the people in general and the Senate in particular.
+[16:32 --> 16:34] One of his overarching goals
+[16:34 --> 16:35] through this early period of his reign
+[16:35 --> 16:38] was to undercut the Senate's real authority
+[16:38 --> 16:40] while simultaneously building it back up
+[16:40 --> 16:42] into an organization with some prestige.
+[16:43 --> 16:45] If he remained in Rome,
+[16:45 --> 16:47] he would be a constant reminder that you know what?
+[16:47 --> 16:50] The Senate is just a powerless social club.
+[16:51 --> 16:53] By absenting himself from the Capitol,
+[16:53 --> 16:55] he allowed the Senate a degree of autonomy
+[16:55 --> 16:58] that went a long way towards rebuilding their bruised egos
+[16:58 --> 17:00] but make no mistake about it,
+[17:00 --> 17:02] it was about building back up their egos,
+[17:02 --> 17:04] not their real power.
+[17:06 --> 17:07] Augustus first went to Gaul,
+[17:07 --> 17:10] where years of Roman neglect had reduced the province
+[17:10 --> 17:13] to somewhere between organized revolt and outright anarchy.
+[17:14 --> 17:15] It did not take long though
+[17:15 --> 17:17] for the steadying hand of mighty Caesar
+[17:17 --> 17:20] to put all the tribes conquered by his uncle
+[17:20 --> 17:21] back on their best behavior.
+[17:22 --> 17:24] So from Gaul, he traveled to Spain,
+[17:25 --> 17:26] where the situation was just as chaotic
+[17:26 --> 17:29] but this time the natives were not simply awed
+[17:29 --> 17:31] by the power of Caesar.
+[17:32 --> 17:34] Even though Hispania had been one
+[17:34 --> 17:36] of the first overseas territories claimed by Rome
+[17:36 --> 17:38] back during the Punic Wars,
+[17:38 --> 17:41] the local Spanish had never really taken to foreign rule
+[17:41 --> 17:45] and were in many places subjects in name only.
+[17:45 --> 17:47] Augustus had a mind to put a stop
+[17:47 --> 17:49] to all of that once and for all.
+[17:50 --> 17:52] He spent the next few years in Spain
+[17:52 --> 17:54] but as was so often the case,
+[17:54 --> 17:57] for most of the time he was not leading troops in battle
+[17:57 --> 18:00] but rather recovering from a severe illness
+[18:00 --> 18:03] that overtook him not long after crossing the Pyrenees.
+[18:04 --> 18:06] The early going of the pacification campaign
+[18:06 --> 18:08] had proved to be full of false starts
+[18:08 --> 18:11] and frustrating engagements with guerrilla fighters
+[18:11 --> 18:14] and as usual, the stress of the hard campaign
+[18:14 --> 18:16] weakened Augustus's immune system
+[18:16 --> 18:18] and he was forced to retire from the field.
+[18:20 --> 18:22] While he recovered beside the mountain springs
+[18:22 --> 18:25] and the Pyrenees, his lieutenants continued the fight
+[18:25 --> 18:27] and eventually brought it to a successful conclusion.
+[18:28 --> 18:32] Spain was, at least for now, under firm Roman control
+[18:32 --> 18:36] or perhaps more accurately, under firm Augustan control.
+[18:38 --> 18:41] The severity of the illness which befell Augustus in Spain
+[18:41 --> 18:43] which laid him up for at least a year,
+[18:44 --> 18:46] focused his attention more acutely
+[18:46 --> 18:47] on the problem of succession.
+[18:48 --> 18:50] If an error was not solidly in place,
+[18:50 --> 18:53] the death of the princeps would plunge
+[18:53 --> 18:55] the Roman world back into civil war.
+[18:56 --> 18:58] To that end, Augustus bucked his wife's
+[18:58 --> 19:01] usually persuasive advice and continued to hone in
+[19:01 --> 19:03] on his nephew Marcellus rather than
+[19:03 --> 19:06] Libya's son Tiberius as his heir apparent.
+[19:08 --> 19:10] In 28 BC, Augustus arranged for Marcellus
+[19:10 --> 19:12] to marry his own daughter Julia,
+[19:12 --> 19:14] leaving no doubt as to who he felt
+[19:14 --> 19:16] should take over when he died.
+[19:17 --> 19:19] I should point out here that to the staunchly
+[19:19 --> 19:22] patriarchal Romans, familial bonds followed
+[19:22 --> 19:24] from the men and the men alone.
+[19:25 --> 19:27] So Julia and Marcellus, though they were
+[19:27 --> 19:29] first cousins by blood, were not thought
+[19:29 --> 19:31] to have entered into anything resembling
+[19:31 --> 19:33] an untoward incestual marriage.
+[19:34 --> 19:36] Julia was the daughter of Augustus,
+[19:36 --> 19:39] Marcellus the son of Gaius Claudius Marcellus.
+[19:39 --> 19:41] When it came to marriage, Octavia's relation
+[19:41 --> 19:44] to Augustus did not matter at all.
+[19:46 --> 19:47] In addition to the bonds of marriage
+[19:47 --> 19:49] that now tied Marcellus to Augustus,
+[19:50 --> 19:52] the princeps arranged for the passage
+[19:52 --> 19:54] of special legislation, granting his nephew
+[19:54 --> 19:57] slash son-in-law the right to be exempted
+[19:57 --> 19:59] from traditional age requirements for holding office.
+[20:00 --> 20:02] With life threatening illnesses always
+[20:02 --> 20:04] knocking at the door, it was important
+[20:04 --> 20:05] to bring Marcellus into public life
+[20:05 --> 20:07] as quickly as possible.
+[20:07 --> 20:09] Not just to give him the experience
+[20:09 --> 20:10] he would need if he was going
+[20:10 --> 20:13] to be an able governor, but to introduce him
+[20:13 --> 20:14] to the Roman people.
+[20:15 --> 20:17] Augustus made sure that the 21 year old
+[20:17 --> 20:19] would be elected Adal for 23 BC.
+[20:20 --> 20:22] From this office, which you will recall
+[20:22 --> 20:24] was in charge of public games,
+[20:25 --> 20:27] Marcellus would be able to throw lavish festivities
+[20:27 --> 20:29] that were bound to make him extremely popular
+[20:29 --> 20:31] with the common man.
+[20:31 --> 20:33] With Augustus bankrolling everything,
+[20:33 --> 20:35] the games of Marcellus promised to be
+[20:35 --> 20:38] a spectacle of unprecedented proportions.
+[20:41 --> 20:43] Augustus returned to Rome in 24 BC
+[20:43 --> 20:45] to oversee his nephew's emergence
+[20:45 --> 20:46] onto the public stage.
+[20:47 --> 20:49] But before he could preside over that happy event,
+[20:49 --> 20:52] he was treated to a tragic falling out with Macenus.
+[20:53 --> 20:55] At some point during the year,
+[20:55 --> 20:57] a plot against Augustus was either uncovered
+[20:57 --> 21:01] or invented depending on who you talked to.
+[21:01 --> 21:02] And among those implicated
+[21:02 --> 21:04] was one of the consuls for the year,
+[21:05 --> 21:07] Aulus Tarantius Varro Marina.
+[21:08 --> 21:11] Marina just so happened to be Macenus' brother-in-law.
+[21:11 --> 21:13] And when Macenus came home
+[21:13 --> 21:15] and discussed the uncovered plot with his wife,
+[21:15 --> 21:18] she quickly warned her brother to flee the city.
+[21:19 --> 21:21] When Augustus found out about the breach in trust,
+[21:21 --> 21:24] the relationship between the two men was altered forever.
+[21:25 --> 21:27] While Macenus continued to support the regime,
+[21:28 --> 21:30] he was out of the inner circle for good,
+[21:30 --> 21:33] a casualty of high stakes politics.
+[21:35 --> 21:38] 23 BC would prove to be a watershed year for the empire.
+[21:39 --> 21:41] It was a year that showed just how quickly fate
+[21:41 --> 21:44] could wreak havoc on the carefully laid plans of men.
+[21:46 --> 21:49] Just as Marcellus was stepping into the office of Adal,
+[21:49 --> 21:51] Augustus became deathly ill.
+[21:51 --> 21:54] This time, his sickness was so bad
+[21:54 --> 21:56] that most everyone, including Augustus himself,
+[21:57 --> 21:58] did not believe he would survive.
+[22:00 --> 22:02] Consumed by what scholars now believe was typhoid fever,
+[22:03 --> 22:05] Augustus was faced with a difficult choice.
+[22:06 --> 22:08] He had planned for Marcellus to succeed him,
+[22:08 --> 22:10] but the young man was simply not experienced enough
+[22:10 --> 22:11] yet to take over.
+[22:12 --> 22:15] So Augustus turned to the man who had stood by his
+[22:15 --> 22:17] side all these years, who, though not technically
+[22:17 --> 22:20] a blood relative, was still his brother in all things,
+[22:21 --> 22:22] Marcus Agrippa.
+[22:23 --> 22:25] In Agrippa, Augustus could be sure
+[22:25 --> 22:27] he was leaving the empire in competent hands,
+[22:28 --> 22:30] a man who would rule wisely until Marcellus
+[22:30 --> 22:32] was ready to share in the burdens of state.
+[22:34 --> 22:36] Everything was arranged and Agrippa was prepared
+[22:36 --> 22:38] to confidently step into the power vacuum
+[22:38 --> 22:40] his old friend was about to leave behind,
+[22:41 --> 22:43] when suddenly, due to some inventive treatment
+[22:43 --> 22:46] by his creative doctor, Augustus recovered.
+[22:49 --> 22:50] Over the course of the illness, though,
+[22:50 --> 22:51] it became apparent that the Senate
+[22:51 --> 22:54] was more than ready for Augustus to die
+[22:54 --> 22:55] and Agrippa to take over.
+[22:56 --> 22:58] Though he had tried mightily not to step
+[22:58 --> 23:00] on senatorial toes, Augustus couldn't help
+[23:00 --> 23:02] but secretly butt into provinces
+[23:02 --> 23:04] over which he had no authority.
+[23:05 --> 23:07] Even more emotionally important, though,
+[23:07 --> 23:10] Augustus's never-ending succession of consulships
+[23:10 --> 23:11] was creating a logjam of men
+[23:11 --> 23:13] vying for the year's one remaining slot.
+[23:15 --> 23:17] Men who were denied access to the high office
+[23:17 --> 23:19] year after year were becoming embittered
+[23:19 --> 23:21] and when they visited him on his deathbed,
+[23:22 --> 23:24] he could see that they were ready for him to go.
+[23:26 --> 23:27] Arcavian could now seem plainly
+[23:27 --> 23:29] that the popularity of his regime
+[23:29 --> 23:31] was not what he had hoped it would be.
+[23:32 --> 23:35] It was time to amend the settlements of 27 BC.
+[23:38 --> 23:40] The first step he took was to resign the consulship
+[23:40 --> 23:42] on July the 1st, 23 BC,
+[23:43 --> 23:44] a day which would go down in history
+[23:44 --> 23:46] as the date Augustus himself
+[23:46 --> 23:49] marked the official beginning of his imperial reign.
+[23:51 --> 23:52] In return for this concession,
+[23:53 --> 23:55] he had arranged to be named tribune in perpetuity,
+[23:56 --> 23:57] an ingeniously simple maneuver
+[23:57 --> 24:00] that allowed him to abandon the consulship
+[24:00 --> 24:02] without actually giving up any power.
+[24:03 --> 24:04] A tribune, you recall,
+[24:04 --> 24:06] has the right to attend senatorial sessions,
+[24:06 --> 24:10] propose legislation, and veto legislation.
+[24:10 --> 24:12] Is there really anything else
+[24:12 --> 24:14] that a despotic ruler needs to control the empire?
+[24:15 --> 24:17] Well, actually there is.
+[24:17 --> 24:19] While Augustus was supremely powerful
+[24:19 --> 24:20] in his own provinces,
+[24:20 --> 24:22] when it came to the senatorial provinces,
+[24:22 --> 24:23] or Italy itself,
+[24:24 --> 24:27] he was left awkwardly without any real legal authority.
+[24:28 --> 24:29] So he had the Senate award him
+[24:29 --> 24:32] what amounted to at large proconsular authority.
+[24:33 --> 24:35] From here on out, whatever province he was in,
+[24:35 --> 24:38] Augustus would have the last word on everything.
+[24:40 --> 24:42] Having been granted all these prerogatives, however,
+[24:42 --> 24:44] prerogatives which would form the legal basis
+[24:44 --> 24:46] for the rest of his reign,
+[24:46 --> 24:49] Augustus was smart enough not to indulge in them.
+[24:49 --> 24:51] When it came to a provincial administration,
+[24:52 --> 24:53] he usually deferred to the local governor,
+[24:54 --> 24:55] and when it came to legislation,
+[24:56 --> 24:58] he neither personally proposed many bills
+[24:58 --> 25:00] nor broke out the veto stamp very often.
+[25:01 --> 25:02] This was all possible
+[25:02 --> 25:04] because he had signaled behind the scenes
+[25:04 --> 25:06] how he wanted things to go, of course,
+[25:06 --> 25:09] but still, by avoiding public displays of power
+[25:09 --> 25:10] whenever possible,
+[25:11 --> 25:12] he left everyone feeling like they at least
+[25:12 --> 25:14] had some say in the matter.
+[25:15 --> 25:17] Sure, Augustus controls everything,
+[25:17 --> 25:19] but it's not like he's some crazy tyrant.
+[25:20 --> 25:22] The successors of Augustus would have done well
+[25:22 --> 25:24] to study exactly how Rome's first emperor
+[25:24 --> 25:27] managed to reign for over 40 years
+[25:27 --> 25:28] while they were usually assassinated
+[25:28 --> 25:30] after just a few years at the helm.
+[25:32 --> 25:34] The final piece of the so-called
+[25:34 --> 25:36] second constitutional settlement
+[25:36 --> 25:39] was the elevation of Agrippa to political heights
+[25:39 --> 25:41] almost as high as Augustus himself.
+[25:42 --> 25:44] It was clear that the Senate felt more comfortable
+[25:44 --> 25:47] with Agrippa holding some kind of formal power,
+[25:47 --> 25:49] and Augustus was obliged to agree.
+[25:50 --> 25:53] Granted similar at-large proconsular authority himself,
+[25:54 --> 25:57] Agrippa had now become something of a co-emperor.
+[25:58 --> 26:00] At this point, there is some disagreement
+[26:00 --> 26:02] over what happened next.
+[26:03 --> 26:05] What we know is that Agrippa left Rome
+[26:05 --> 26:07] and set up a base of operations
+[26:07 --> 26:08] on the island of Samos.
+[26:09 --> 26:11] What is unclear is why exactly he did so.
+[26:12 --> 26:14] In the account offered by Suetonius,
+[26:14 --> 26:17] Agrippa was sent into exile by Augustus
+[26:17 --> 26:18] because the latter was concerned
+[26:18 --> 26:20] his old general's growing power
+[26:20 --> 26:22] would interfere with his planned elevation
+[26:22 --> 26:23] of Marcellus.
+[26:24 --> 26:25] But by another account,
+[26:25 --> 26:27] Agrippa was sent east because he was
+[26:27 --> 26:29] the only one Augustus could really trust
+[26:29 --> 26:31] to look after his interests there.
+[26:32 --> 26:34] The role that Agrippa would subsequently play
+[26:34 --> 26:36] in the negotiations with the Parthians
+[26:36 --> 26:38] over the recovery of Crassus' lost
+[26:38 --> 26:40] legionary standards seems to point
+[26:40 --> 26:41] to the second reading.
+[26:43 --> 26:44] In the end, of course, whether or not
+[26:44 --> 26:46] Agrippa was getting in the way of Marcellus or not
+[26:46 --> 26:48] proved to be a moot point.
+[26:49 --> 26:50] At the end of 23 BC,
+[26:51 --> 26:53] with his successful year in the Aedile ship
+[26:53 --> 26:54] winding down,
+[26:54 --> 26:56] Marcellus became sick and suddenly
+[26:56 --> 26:58] died after a brief illness.
+[26:59 --> 27:01] This threw Augustus' plans into
+[27:01 --> 27:03] complete disarray and sent his sister
+[27:03 --> 27:05] Octavia into mourning for the rest
+[27:05 --> 27:06] of her life.
+[27:07 --> 27:09] Suddenly left without an acceptable heir,
+[27:09 --> 27:11] the status and rank of Agrippa
+[27:11 --> 27:12] now loomed large.
+[27:13 --> 27:15] As he had so many times before,
+[27:15 --> 27:17] Augustus turned to Messinus for advice.
+[27:18 --> 27:20] Messinus thought about the matter for a bit
+[27:20 --> 27:21] and then told Augustus,
+[27:22 --> 27:24] Well, you have made Agrippa so
+[27:24 --> 27:26] powerful that he now must
+[27:26 --> 27:27] either become your son-in-law
+[27:27 --> 27:28] or be killed.
+[27:29 --> 27:32] And that was how Agrippa officially joined
+[27:32 --> 27:34] the Julio-Claudian dynasty.
+[27:56 --> 27:57] you

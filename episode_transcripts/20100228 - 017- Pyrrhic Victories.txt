@@ -1,0 +1,358 @@
+# 20100228 - 017- Pyrrhic Victories
+# Detected language: en
+# Duration: 1070.11 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:07] Hello, and welcome to the history of Rome.
+[00:08 --> 00:13] After defeating the Etruscans in the north and the Samnites in the east, the Romans now
+[00:13 --> 00:16] looked at Magna Graecia in the south for fresh conquests.
+[00:16 --> 00:22] All that stood between Rome and an Italian-wide empire was the fiercely independent and disunited
+[00:22 --> 00:23] Greek cities.
+[00:24 --> 00:28] Despite the collective threat they faced from Rome, the rivalry between the cities
+[00:28 --> 00:31] of Magna Graecia precluded any organized resistance.
+[00:32 --> 00:36] The Romans decided all they had to do was play the cities off one another, knowing
+[00:36 --> 00:41] they would have little trouble finding a few willing Greek accomplices who, in return
+[00:41 --> 00:45] for preferential treatment from their new Roman overlords, would aid Romans subduing
+[00:45 --> 00:46] their Greek countrymen.
+[00:47 --> 00:51] But Roman plans were complicated by the introduction of an army from across the
+[00:51 --> 00:54] Adriatic led by the Greek king Pyrrhus.
+[00:55 --> 00:59] Answering calls for aid against the Romans, Pyrrhus had dreams of an Italian kingdom
+[00:59 --> 01:03] for himself, and though his dreams were ultimately foiled, the battles he fought
+[01:03 --> 01:08] against the Romans marked the opening salvo in a struggle between the Roman West and
+[01:08 --> 01:12] the Greek East that would end a hundred years later with a bewildered Greek nation
+[01:12 --> 01:15] kneeling before their new Roman masters.
+[01:16 --> 01:24] Prior to the invasion by Pyrrhus, the eastern and western Mediterranean had, for
+[01:24 --> 01:30] divided roughly by the Adriatic and Ionian seas, the two halves had, politically at
+[01:30 --> 01:31] least, developed independently.
+[01:32 --> 01:37] Greek attention had always faced east and been consumed by its rivalry with Persia
+[01:37 --> 01:40] when it wasn't consumed with battling endlessly within itself.
+[01:41 --> 01:45] There were of course Greeks who had migrated west to the south of Italy and Sicily,
+[01:46 --> 01:49] but once their cities were founded it was like they lived in a different world.
+[01:50 --> 01:54] There was no attempt from the motherland to control them and no involvement by the
+[01:54 --> 01:57] Italian colonies in persistent internal Greek squabbles.
+[01:58 --> 02:03] The only major historical overlap was the Athenian invasion of Sicily during
+[02:03 --> 02:05] the Peloponnesian War in 415 BC.
+[02:06 --> 02:11] The expedition had ended so disastrously for the Athenians, many point to it as
+[02:11 --> 02:15] the principal reason Athens ultimately lost that war, that the thought of going
+[02:15 --> 02:18] west filled the Greeks with prudent revulsion for generations.
+[02:19 --> 02:23] They had enough to deal with in the east without courting disaster in the west.
+[02:25 --> 02:30] When Alexander ascended to the throne in 338 BC, all of his ambition lay east
+[02:30 --> 02:32] with the conquest of Persia and beyond.
+[02:33 --> 02:36] It has long been a source of speculation how different things would have turned
+[02:36 --> 02:41] out had Alexander turned west and faced the nascent Roman Empire rather
+[02:41 --> 02:42] than going east to fight the Persians.
+[02:43 --> 02:48] It was only 650 miles from Athens to Rome and Alexander, who marched
+[02:48 --> 02:53] 3,000 miles to India undefeated, could have taken Italy almost as an
+[02:53 --> 02:53] afterthought.
+[02:54 --> 02:58] But the Romans were granted a stay of execution and the greatest general in
+[02:58 --> 03:01] the ancient world marched his armies east all the way to India, allowing
+[03:01 --> 03:04] Rome to continue to gather its strength unmolested.
+[03:06 --> 03:10] Forty years of war, shifting alliances and rivalries between Alexander's
+[03:10 --> 03:13] generals had followed his death in 323 BC.
+[03:14 --> 03:18] But by 280, things had fairly well settled themselves, so that when a Greek
+[03:18 --> 03:22] commander finally did look west with ambition, it was only because of the
+[03:22 --> 03:25] limited opportunities for conquest in the post-Alexandrian eastern
+[03:25 --> 03:26] Mediterranean.
+[03:27 --> 03:32] That commander, Pyrrhus of Epirus, was born in 318 BC, right into the
+[03:32 --> 03:34] middle of the post-Alexandrian struggle.
+[03:35 --> 03:39] He was a prince of Epirus, a kingdom located in what is today the
+[03:39 --> 03:41] Balkans on the periphery of the Greek world.
+[03:42 --> 03:45] He was a second cousin of Alexander and found himself caught up in the
+[03:45 --> 03:51] volatile post-Alexandrian battles for control of Greece, Egypt, and Persia.
+[03:51 --> 03:55] His father was dethroned when Pyrrhus was only two and the family was
+[03:55 --> 03:56] forced into exile.
+[03:57 --> 04:01] At 16, his father now dead, Pyrrhus was returned to the throne of
+[04:01 --> 04:05] Epirus by the powerful king his family had taken refuge with, but a
+[04:05 --> 04:07] year later he was deposed.
+[04:07 --> 04:11] Through marriage, Pyrrhus managed to gain some powerful friends while
+[04:11 --> 04:16] enduring his second exile, taking a daughter of Ptolemy as his wife
+[04:16 --> 04:20] and marrying his sister to Demetrius, the reigning king of Macedon.
+[04:21 --> 04:24] With these new allies, Pyrrhus regained the throne of Epirus.
+[04:24 --> 04:29] A few years later, his sister dead, Pyrrhus turned on his ex-brother-in-law,
+[04:29 --> 04:32] conquering Macedon and proclaiming himself king.
+[04:33 --> 04:36] His reign over Alexander's homeland was brief, however, and he was
+[04:36 --> 04:39] driven back to Epirus in 284 BC.
+[04:40 --> 04:43] By this time, the situation in the east had begun to solidify.
+[04:44 --> 04:48] What had once been Alexander's empire was now divided into three
+[04:48 --> 04:53] major kingdoms, Antigonid Greece and Macedon, Seleucid Persia and
+[04:53 --> 04:55] Asia Minor, and Ptolemaic Egypt.
+[04:56 --> 05:00] There was little room here for an ambitious 34-year-old leader of a
+[05:00 --> 05:01] minor Greek kingdom.
+[05:02 --> 05:06] When then, in 282 BC, Tarentum, one of the leading cities of
+[05:06 --> 05:10] Magna Graecia, sent envoys into Greece begging for aid against
+[05:10 --> 05:13] Roman encroachment, Pyrrhus leapt at the opportunity.
+[05:14 --> 05:17] The major powers disdained to get involved, but Pyrrhus saw a
+[05:17 --> 05:18] chance for glory.
+[05:19 --> 05:22] There may not be room for him in the east, but there was
+[05:22 --> 05:25] abundant space for a savvy general to acquire a rich and
+[05:25 --> 05:26] powerful empire in the west.
+[05:28 --> 05:31] Pyrrhus nobly answered the call for aid and readied his
+[05:31 --> 05:34] army of 25,000 to sail to the rescue of his besieged
+[05:34 --> 05:38] countrymen, who would soon, hopefully, also be his
+[05:38 --> 05:38] subjects.
+[05:40 --> 05:44] Tarentum had run afoul of Rome, because Rome had run afoul
+[05:44 --> 05:44] of Tarentum.
+[05:45 --> 05:48] The Romans had formed an alliance with the minor city
+[05:48 --> 05:51] of Thurii, and when their new allies were threatened, Rome
+[05:51 --> 05:52] offered assistance.
+[05:53 --> 05:55] This annoyed the Tarentines, who considered
+[05:55 --> 05:58] internal Greek matters to be their domain.
+[05:58 --> 06:01] They were further incensed when a small Roman fleet sent
+[06:01 --> 06:05] to garrison Thurii was blown off course and ended up in
+[06:05 --> 06:08] Tarentine waters, a clear violation of a standing
+[06:08 --> 06:10] treaty between Rome and Tarentum.
+[06:11 --> 06:14] The Tarentines attacked the Roman fleet and sunk a number
+[06:14 --> 06:15] of the errant ships.
+[06:16 --> 06:19] So now it was Rome's turn to be incensed, and envoys
+[06:19 --> 06:21] were sent to Tarentum to demand an apology.
+[06:22 --> 06:25] The Tarentines, however, greeted the envoys rudely and
+[06:25 --> 06:28] sent them packing to a chorus of insults.
+[06:28 --> 06:32] Rome needed no further provocation, and in 282 BC,
+[06:32 --> 06:34] war was immediately declared.
+[06:35 --> 06:38] Before aid could arrive from Greece, though, the
+[06:38 --> 06:41] Romans sacked Tarentum and had begun negotiations of
+[06:41 --> 06:43] peace with its aristocratic party, who
+[06:43 --> 06:45] favored an alliance with Rome.
+[06:46 --> 06:49] An advance party from Epirus, however, arrived in
+[06:49 --> 06:52] 281 BC, just as the papers were being signed and drove
+[06:52 --> 06:53] the Romans out.
+[06:54 --> 06:57] In 280, Pyrrhus arrived with his full army, including
+[06:57 --> 07:00] 4,000 cavalry and 20 war elephants.
+[07:01 --> 07:04] They landed in Italy without opposition, and the Greek
+[07:04 --> 07:07] king began to lay plans for the systematic conquest
+[07:07 --> 07:07] of the peninsula.
+[07:08 --> 07:11] But the Romans, who had just recently secured Italy for
+[07:11 --> 07:14] themselves, were in no mood to give it up easily.
+[07:16 --> 07:19] The Romans sent an army eight legions strong south
+[07:19 --> 07:22] to deal with this invading army and met Pyrrhus near
+[07:22 --> 07:25] Heraclea, a Greek city located on the instep of the
+[07:25 --> 07:26] Italian boot.
+[07:27 --> 07:30] Pyrrhus was confident of victory, but began to have
+[07:30 --> 07:32] doubts as he watched the Romans methodically build
+[07:32 --> 07:34] their fortified camps.
+[07:35 --> 07:37] This was not the barbarian horde the Tarentines had
+[07:37 --> 07:40] described, it was an organized and disciplined
+[07:40 --> 07:42] army of a civilized society.
+[07:43 --> 07:46] Mildly worried but undeterred, Pyrrhus led his
+[07:46 --> 07:48] army out into the field.
+[07:48 --> 07:51] The disciplined Greek phalanx was more than a match for
+[07:51 --> 07:54] Romans, and Pyrrhus' army soon gained the upper hand.
+[07:55 --> 07:57] But the Romans were stubborn in defeat, and the battle
+[07:57 --> 07:59] took its toll on the Greek army.
+[08:00 --> 08:03] Pyrrhus lost 4,000 of his best troops and watched with
+[08:03 --> 08:06] consternation as the Romans, far from breaking and
+[08:06 --> 08:09] fleeing in panic, withdrew in an orderly fashion back
+[08:09 --> 08:10] to their camp.
+[08:11 --> 08:13] This was not going to be as easy as he thought.
+[08:15 --> 08:17] The Battle of Heraclea was important for two reasons.
+[08:18 --> 08:21] First, it was the first time the newly reformed
+[08:21 --> 08:24] Manapal legions had faced the might of a full Greek
+[08:25 --> 08:25] phalanx.
+[08:25 --> 08:29] True, the legions had lost, but the fight was by no
+[08:29 --> 08:30] means lopsided.
+[08:31 --> 08:34] Second, it was also the first time the Romans faced
+[08:34 --> 08:34] war elephants.
+[08:35 --> 08:37] The Roman cavalry was terrified by the huge
+[08:37 --> 08:40] beasts, and the presence of the elephants played a
+[08:40 --> 08:43] major role in tipping the battle in Pyrrhus' favor.
+[08:44 --> 08:47] The Romans would learn from their defeat and craft new
+[08:47 --> 08:49] ways to attack the phalanx and tactics to deal with
+[08:49 --> 08:53] the hitherto unknown elephant, tactics that would
+[08:53 --> 08:55] come into play when Hannibal deployed them time and
+[08:55 --> 08:58] again against the Romans in the Second Punic War.
+[09:00 --> 09:02] The Romans next met Pyrrhus further north at
+[09:02 --> 09:05] Asculum, on the east side of the Apennines.
+[09:05 --> 09:08] By this time, Pyrrhus had reinforced himself with
+[09:08 --> 09:10] some new Italian allies, most notably a
+[09:10 --> 09:12] collection of Samnite tribes.
+[09:13 --> 09:15] But the Greek king was disappointed by his
+[09:15 --> 09:18] inability to peel off more Italian allies from Rome.
+[09:19 --> 09:21] The Romans had done much to shore up their alliances,
+[09:21 --> 09:24] and Pyrrhus' plan of turning the Italians en mass
+[09:24 --> 09:27] against Rome was not coming to fruition easily.
+[09:28 --> 09:32] When the two sides met near Asculum, they fielded equal
+[09:32 --> 09:34] armies of about 40,000.
+[09:35 --> 09:38] The Romans were led by Publius Decius, son of the
+[09:38 --> 09:41] hero of the Third Samnite War and grandson of the
+[09:41 --> 09:44] hero of the First Samnite War, who brought with him
+[09:44 --> 09:46] new devices to deal with the war elephants,
+[09:46 --> 09:49] including chariots that would circle the legs of the
+[09:49 --> 09:51] huge beasts with rope and bring them crashing down.
+[09:52 --> 09:54] It was the same tactic that had served the rebel
+[09:54 --> 09:57] alliance so well against the imperial walkers
+[09:57 --> 09:58] during the battle for Hoth.
+[09:59 --> 10:02] The first day of the battle ended in a stalemate.
+[10:02 --> 10:05] The Greek forces broke the legions they faced on
+[10:05 --> 10:07] the left wing, but the Romans defeated the
+[10:07 --> 10:10] Samnite and Tarentine forces in the center.
+[10:11 --> 10:13] Pyrrhus tried to press his advantage on the
+[10:13 --> 10:15] left wing, but the beaten Romans retreated up a
+[10:15 --> 10:18] steep hill, too steep for the Greek phalanx to follow.
+[10:19 --> 10:22] Raining projectiles down, the Romans forced Pyrrhus
+[10:22 --> 10:25] to withdraw, and the day ended with neither side
+[10:25 --> 10:26] holding the advantage.
+[10:27 --> 10:30] The next day, Pyrrhus ordered his men to hold the
+[10:30 --> 10:33] steep ground, and they forced the Romans into the
+[10:33 --> 10:34] flat, open plain.
+[10:35 --> 10:37] This time his elephants overwhelmed the Roman line,
+[10:37 --> 10:38] and they broke.
+[10:39 --> 10:41] Pyrrhus had won again, but the battle had been
+[10:41 --> 10:44] costly, and many of his best officers had fallen.
+[10:45 --> 10:48] Congratulated on his triumph, Pyrrhus famously
+[10:48 --> 10:51] commented, one more such victory, and we are
+[10:51 --> 10:54] undone, giving rise to the expression,
+[10:54 --> 10:57] Pyrrhic victory, to describe a costly success.
+[10:58 --> 11:01] Worn down by fighting the Romans, Pyrrhus
+[11:01 --> 11:03] offered terms of peace, but was rebuffed by the
+[11:03 --> 11:04] Roman Senate.
+[11:05 --> 11:07] They were persuaded by the old, and by now
+[11:07 --> 11:10] truly blind, Appius Claudius, to deny any
+[11:10 --> 11:12] treaty with a foreign army while it remained
+[11:12 --> 11:14] on Italian soil.
+[11:15 --> 11:18] At this point, Pyrrhus was in quite a bind, for the
+[11:18 --> 11:20] Romans had just concluded a new treaty with the
+[11:20 --> 11:23] Carthaginians, and now the true great powers of
+[11:23 --> 11:25] the Western Mediterranean would not be turned
+[11:25 --> 11:26] against one another.
+[11:27 --> 11:29] So Pyrrhus decided to move on from Italy.
+[11:29 --> 11:32] It had, after all, been his plan all along to
+[11:32 --> 11:35] use Italian bases as a springboard for the real
+[11:35 --> 11:36] prize, Sicily.
+[11:37 --> 11:40] He was allowing himself to get bogged down with
+[11:40 --> 11:42] preliminary and unnecessary fighting.
+[11:43 --> 11:45] He did not need the Italian bases, they just
+[11:45 --> 11:46] would have been nice.
+[11:47 --> 11:49] His ego-saving rationalizations thus
+[11:49 --> 11:52] complete, Pyrrhus left Italy and sailed for
+[11:52 --> 11:54] Sicily in 278 BC.
+[11:56 --> 11:59] At this point, Sicily was divided between the
+[11:59 --> 12:01] Carthaginians who held the West, and the
+[12:01 --> 12:02] Greeks who held the East.
+[12:03 --> 12:05] Upon hearing the news of Pyrrhus's imminent
+[12:05 --> 12:08] invasion, the Carthaginians laid siege to
+[12:08 --> 12:12] the most important Greek city on the island, and
+[12:12 --> 12:14] attempted to capture it before Pyrrhus arrived.
+[12:15 --> 12:17] But they were unsuccessful and were driven
+[12:17 --> 12:18] off when Pyrrhus landed.
+[12:19 --> 12:22] The Greek king claimed Syracuse as his own,
+[12:22 --> 12:24] and led the grateful Greeks against the
+[12:24 --> 12:26] Carthaginians, who were pressed back until they
+[12:26 --> 12:28] held a single city on the West Coast.
+[12:29 --> 12:32] The Carthaginians offered to relinquish claims
+[12:32 --> 12:34] to the rest of Sicily, as long as they were
+[12:34 --> 12:36] allowed to hold the one port, but Pyrrhus,
+[12:36 --> 12:39] confident in final victory, refused the offer.
+[12:40 --> 12:42] But unable to dislodge the Carthaginians from
+[12:42 --> 12:45] their stronghold, he decided to attack the
+[12:45 --> 12:47] North African mother city directly.
+[12:48 --> 12:50] He ordered the Sicilians to raise an army and
+[12:50 --> 12:52] build him a fleet for the invasion.
+[12:52 --> 12:54] But the locals had by this time grown tired
+[12:54 --> 12:57] of Pyrrhus's dictatorial style and refused.
+[12:58 --> 13:00] The strength of his army sat by the campaigns
+[13:00 --> 13:03] in Italy and Sicily, and his rearguard
+[13:03 --> 13:06] pressed hard by the Romans, Pyrrhus decided
+[13:06 --> 13:08] to return to the mainland lest he find himself
+[13:08 --> 13:11] trapped on the island by the Carthaginian fleet.
+[13:12 --> 13:14] He would consolidate his holdings in Italy
+[13:14 --> 13:16] and return to Sicily with a large enough army
+[13:16 --> 13:19] to drive out the Carthaginians once and for all.
+[13:20 --> 13:24] So in 275 BC, he returned to Italy and
+[13:24 --> 13:26] immediately faced a Roman army determined
+[13:26 --> 13:27] to drive the Greek invader off.
+[13:28 --> 13:31] They faced each other near Maleventum,
+[13:31 --> 13:34] and once again, Pyrrhus's army defeated
+[13:34 --> 13:37] the legions, but this time, Roman fire arrows
+[13:37 --> 13:39] had sent the war elephants crashing through
+[13:39 --> 13:41] Pyrrhus's own line, wrecking havoc and
+[13:41 --> 13:43] killing a good chunk of his infantry.
+[13:44 --> 13:46] By now, the casualties had mounted up,
+[13:46 --> 13:49] and Pyrrhus, at his wit's end, decided
+[13:49 --> 13:50] he had had enough of Italy.
+[13:51 --> 13:53] He gathered up what was left of his army
+[13:53 --> 13:55] and sailed back to Epirus.
+[13:55 --> 13:57] Never had a general won so many battles
+[13:57 --> 13:59] with so little to show for it.
+[14:00 --> 14:02] The Romans, delighting in their non-victory
+[14:04 --> 14:06] renamed Maleventum Beneventum, changing it
+[14:06 --> 14:09] from the place of bad events to the place of good events.
+[14:11 --> 14:13] Pyrrhus left behind a garrison in Tarentum,
+[14:14 --> 14:16] but the Romans quickly overran the outnumbered Greeks
+[14:16 --> 14:19] and in short order had solidified their hold
+[14:19 --> 14:20] on Magna Graecia.
+[14:21 --> 14:23] The Romans now controlled the entire peninsula
+[14:23 --> 14:26] and had proven themselves to be an emerging power
+[14:26 --> 14:28] in pan-Mediterranean politics.
+[14:29 --> 14:31] The East began to wake up to the threat
+[14:31 --> 14:33] that was rising from Italy.
+[14:34 --> 14:36] As long as the Romans were confined to the peninsula,
+[14:37 --> 14:39] the balance of power that had settled
+[14:39 --> 14:41] in the post-Alexandrian world would hold,
+[14:41 --> 14:43] but if this new Roman force,
+[14:43 --> 14:46] which had just driven off a more than able Greek army,
+[14:47 --> 14:49] led by a man widely considered to be the best general
+[14:49 --> 14:52] of his generation, decided to expand its horizons,
+[14:52 --> 14:55] it spelled nothing but trouble for the old powers.
+[14:57 --> 14:59] The Roman capture of Magna Graecia
+[14:59 --> 15:01] represented not just another step in Roman expansion,
+[15:02 --> 15:04] it also effectively brought to a close
+[15:04 --> 15:06] the era of the city-state in the ancient world.
+[15:08 --> 15:10] The polity that Plato and Aristotle had held
+[15:10 --> 15:12] as the ideal form of government
+[15:12 --> 15:13] was now a thing of the past.
+[15:14 --> 15:16] The Macedonian conquest of Greece
+[15:16 --> 15:18] had already ended forever the existence
+[15:18 --> 15:20] of the independent city-state there,
+[15:20 --> 15:22] but it had survived in the Greek colonies
+[15:22 --> 15:23] of Magna Graecia.
+[15:24 --> 15:27] Now though, the subjugation by Rome
+[15:27 --> 15:28] ended any official autonomy
+[15:28 --> 15:30] for the Greek city-states of Italy,
+[15:31 --> 15:33] and henceforth politics and government
+[15:33 --> 15:35] in the ancient world would move permanently
+[15:35 --> 15:37] into the hands of large empires.
+[15:37 --> 15:40] The only true holdout was Syracuse,
+[15:40 --> 15:43] which managed to survive more or less independently
+[15:43 --> 15:45] until the end of the Second Punic War,
+[15:45 --> 15:47] but its longevity was only secured
+[15:47 --> 15:50] by a close personal alliance between Hiero,
+[15:50 --> 15:52] the king of Syracuse, and Rome.
+[15:53 --> 15:55] Had Hiero been less of a friend to Rome,
+[15:55 --> 15:58] Syracuse would have fallen long before it did.
+[15:59 --> 16:01] The city-state as a political institution
+[16:01 --> 16:02] was effectively dead,
+[16:03 --> 16:04] and Rome had dealt the killing stroke.
+[16:06 --> 16:08] As for Pyrrhus, he never got the chance
+[16:08 --> 16:10] to avenge his losses in Italy
+[16:10 --> 16:13] and was allegedly killed in 272 B.C.
+[16:13 --> 16:15] while fighting in the Greek city of Argos
+[16:15 --> 16:17] by a tile thrown from a rooftop
+[16:17 --> 16:19] by an Argiad woman.
+[16:19 --> 16:21] He never won the empire he sought,
+[16:21 --> 16:24] and his main legacy lay in teaching the Romans
+[16:24 --> 16:26] how to effectively battle a Greek army
+[16:26 --> 16:28] and introducing them to war elephants.
+[16:29 --> 16:31] The Romans, always adapting their techniques,
+[16:31 --> 16:34] would apply what they'd learned 100 years later
+[16:34 --> 16:36] when they again met the Greeks in battle,
+[16:36 --> 16:38] though the tables would be turned
+[16:38 --> 16:39] the next time they met,
+[16:39 --> 16:40] and it would be the Greeks' turn
+[16:40 --> 16:42] to lose to an invading Roman army,
+[16:43 --> 16:45] though the Roman victories were far from Pyrrhic
+[16:45 --> 16:47] and Greece was conquered easily.
+[16:49 --> 16:51] Next week, we will take a break from the narrative
+[16:51 --> 16:53] and jump ahead so that I may present
+[16:53 --> 16:55] the History of Rome Christmas Special.
+[16:56 --> 16:58] As Rome transitioned from pagan to Christian
+[16:58 --> 17:00] in the 300s A.D.,
+[17:00 --> 17:03] the Emperor Constantine introduced a number of edicts
+[17:03 --> 17:05] that ensured the success of the conversion,
+[17:06 --> 17:09] including the eventual choice of December the 25th
+[17:09 --> 17:10] as the birth date of Jesus.
+[17:11 --> 17:13] It is a fascinating and still relevant story,
+[17:13 --> 17:16] and I can't let the occasion pass without telling it.
+[17:17 --> 17:19] After that, we will be on hiatus for a week
+[17:19 --> 17:22] but return after the new year fresh, recharged,
+[17:22 --> 17:24] and ready to pile headlong into the Punic Wars,
+[17:25 --> 17:28] the most important conflict in a long history of Rome.

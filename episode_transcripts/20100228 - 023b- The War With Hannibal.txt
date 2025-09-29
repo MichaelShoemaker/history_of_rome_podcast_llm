@@ -1,0 +1,430 @@
+# 20100228 - 023b- The War With Hannibal
+# Detected language: en
+# Duration: 1030.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 23B, The War with Hannibal.
+[00:12 --> 00:17] After the disaster at Lake Trasimede, the Romans were understandably frightened at
+[00:17 --> 00:19] what the future had in store for them.
+[00:19 --> 00:24] Every army they threw at Hannibal met with total destruction, and their once unshakable
+[00:24 --> 00:27] sense of invincibility had now been thoroughly shaken.
+[00:27 --> 00:32] It would only be a matter of days, it seemed, before the Carthaginian army would march on
+[00:32 --> 00:37] Rome and conquer the once mighty city. Optimism was in short supply, and
+[00:37 --> 00:43] lamentation flooded the market. In this depressed state, the Romans turned to
+[00:43 --> 00:47] an old psychological defense mechanism one last time to see them through the
+[00:47 --> 00:53] dark days ahead, the dictatorship. Unused since the first Punic War, and
+[00:53 --> 00:57] avoided in general since the heady days of the Samnite Wars, when a
+[00:57 --> 01:01] dictator seemed to be appointed every other year, the people of Rome turned their
+[01:01 --> 01:06] fates over, once again, to a single man. This time, the reigns were handed to
+[01:06 --> 01:10] Quintus Fabius Maximus, the well-respected head of the well-respected
+[01:10 --> 01:16] Fabii. There would be one or two more temporary dictatorial appointments in
+[01:16 --> 01:19] the years to come, but the reign of Fabius Maximus would mark the
+[01:19 --> 01:27] effective end of the office of dictator. It was through no fault of
+[01:27 --> 01:32] people of Rome and fell into disuse, but it was Fabius who kick-started the
+[01:32 --> 01:36] demise of the dictatorship by ignoring the will of the people and acting
+[01:36 --> 01:43] like, well, a dictator. Fabius Maximus had a plan. It was not a popular plan,
+[01:44 --> 01:47] it was not a plan to win the war, it was not a plan to bring everlasting
+[01:47 --> 01:51] glory to Rome, and it was not even a plan that would bring everlasting glory
+[01:51 --> 01:56] to Fabius himself. It was a plan, however, that would ensure the
+[01:56 --> 02:00] survival of Rome. Fabius knew exactly what he was doing and in the face
+[02:00 --> 02:05] of near-unanimous opposition pursued his plan unswervingly, and because
+[02:05 --> 02:10] of his plan, the Roman Empire was not destroyed in 217 BC, as it
+[02:10 --> 02:14] very well could have been. The plan earned Fabius a place in the
+[02:14 --> 02:18] annals of military history by affixing his name to a certain kind
+[02:18 --> 02:24] of strategy, known forever after as Fabian Tactics, or the fine art
+[02:24 --> 02:29] of avoiding battle. Fabius had watched with horror as the consuls
+[02:29 --> 02:33] of the previous years had been goaded into pitched battles at the
+[02:33 --> 02:37] time and place of Hannibal's choosing. The Carthaginian general
+[02:37 --> 02:40] had shown a singular ability to exploit the aggressive nature of
+[02:40 --> 02:44] the Romans to his own advantage. Fabius was determined not to make
+[02:44 --> 02:48] the same mistake. If he was going to fight Hannibal at all, he
+[02:48 --> 02:53] was not going to let the Carthaginian dictate the terms. But
+[02:53 --> 02:56] Hannibal was too savvy himself to be drawn into a battle he had not
+[02:56 --> 03:00] carefully orchestrated, so the upshot of Fabius's plan was that
+[03:00 --> 03:05] the two armies studiously avoided one another. But unfortunately
+[03:05 --> 03:08] for Fabius, studiously avoiding conflict was anathema to the
+[03:08 --> 03:13] Roman character. It was as if, in an effort to rejuvenate the
+[03:13 --> 03:16] Catholic Church, the College of Cardinals had elected an avowed
+[03:16 --> 03:20] atheist. The two just don't mesh well with one another. But
+[03:20 --> 03:24] whatever the merits of Fabius's plan, the outcry against him was
+[03:24 --> 03:27] immediately deafening and many began to look to Fabius's master
+[03:27 --> 03:31] of horse, Marcus Rufius Manutius, for deliverance from what
+[03:31 --> 03:36] they saw as intentional cowardliness. Hannibal was laying
+[03:36 --> 03:39] waste to the countryside and here Fabius was sitting on his
+[03:39 --> 03:42] hands and letting it go on. The only person who seemed to
+[03:42 --> 03:46] respect what Fabius was doing was Hannibal himself. When
+[03:46 --> 03:49] Fabius was dispatched against him, the Carthaginian general
+[03:49 --> 03:52] had attempted to set the legions up for defeat as he had
+[03:52 --> 03:56] done so easily before, but Fabius never bit at the traps.
+[03:57 --> 04:00] This left Hannibal in the driver's seat and he pillaged
+[04:00 --> 04:03] the countryside with impunity, but it also left him
+[04:03 --> 04:05] without the opportunity to really lay a killing stroke
+[04:05 --> 04:09] on the Romans. Sure, he was causing a lot of havoc, but
+[04:09 --> 04:12] no matter how hard he tried to bait Fabius, the legions
+[04:12 --> 04:17] remained just out of reach and intact. The average Roman
+[04:17 --> 04:19] man may not have fully understood what Fabius was doing,
+[04:20 --> 04:23] but the psychological benefit of simply keeping an army in
+[04:23 --> 04:27] the field was enormous. Days and months passed without
+[04:27 --> 04:30] news that yet another Roman army had been destroyed.
+[04:31 --> 04:34] Whether they appreciated it or not, Fabius was rebuilding
+[04:34 --> 04:39] Rome's confidence. The chorus against Fabius only grew
+[04:39 --> 04:42] louder as Hannibal, cunning as he was in politics as
+[04:42 --> 04:46] well as war, ordered that lands owned by Fabius be spared
+[04:46 --> 04:48] in the general pillaging, immediately leading to
+[04:48 --> 04:51] suspicions that Fabius had made a secret deal with
+[04:51 --> 04:55] Hannibal. But there was no deal and Fabius, now and
+[04:55 --> 04:59] forever after nicknamed Fabius the Delayer, was simply
+[04:59 --> 05:01] biding his time until the right set of circumstances
+[05:01 --> 05:05] presented themselves. And when Hannibal marched his
+[05:05 --> 05:09] forces into Campania, Fabius saw his chance. It was
+[05:09 --> 05:11] only the genius of Hannibal combined with a little
+[05:11 --> 05:14] luck that saved the Carthaginian army from a
+[05:14 --> 05:17] decisive defeat by the Fabian legions.
+[05:19 --> 05:22] Without going too much into geography, the large
+[05:22 --> 05:24] valley of Campania has eight passes big enough to
+[05:24 --> 05:26] allow an army the size of Hannibal's to march
+[05:26 --> 05:30] through. Five of them were either held solidly by
+[05:30 --> 05:33] the Romans or lay behind the unfordable Volternus
+[05:33 --> 05:36] River, leaving three possible exits for Hannibal
+[05:36 --> 05:40] from Campania. He had gone into the valley as part
+[05:40 --> 05:42] of his strategy to peel off Rome's major allies.
+[05:43 --> 05:46] The great city of Capua had risen to be the second
+[05:46 --> 05:48] strongest in Italy behind Rome, and Hannibal
+[05:48 --> 05:50] believed there was a good chance he could flip
+[05:50 --> 05:54] Capua. And indeed, he would eventually succeed in
+[05:54 --> 05:56] his mission, though the Capuan revolt would not
+[05:56 --> 05:58] prove as decisive to the war effort as
+[05:58 --> 06:00] Hannibal had hoped when it finally occurred.
+[06:02 --> 06:04] The Carthaginian army, having entered Campania,
+[06:04 --> 06:07] proceeded with their standard MO of terrorizing
+[06:07 --> 06:10] the countryside. But before they knew it, Fabius
+[06:10 --> 06:12] had moved the legions into each of the three
+[06:12 --> 06:14] escape routes, trapping them in the valley.
+[06:16 --> 06:18] Hannibal knew he had been outmaneuvered and
+[06:18 --> 06:20] racked his brains trying to think of a way out
+[06:20 --> 06:24] of the trap. One night, a few hours before
+[06:24 --> 06:27] dawn, Roman sentry spotted a mass procession
+[06:27 --> 06:29] of torches and immediately raised the alarm.
+[06:30 --> 06:32] Hannibal was attempting to break through one
+[06:32 --> 06:35] of the passes under cover of dark. The Roman
+[06:35 --> 06:37] troops rushed out, determined to prevent
+[06:37 --> 06:40] Hannibal from escaping. But in so doing, they
+[06:40 --> 06:43] left the pass wide open. And when they reached
+[06:43 --> 06:46] the alleged column of troops and found only
+[06:46 --> 06:48] oxen with lit torches tied to their horns,
+[06:48 --> 06:50] they realized the enormity of their mistake.
+[06:51 --> 06:53] Hannibal led his army through the unguarded
+[06:53 --> 06:55] pass, and the Carthaginians got away.
+[06:57 --> 06:59] After this setback, Fabius was recalled to
+[06:59 --> 07:02] Rome to account for himself. The tribunes
+[07:02 --> 07:04] hurled every insult in the book at the
+[07:04 --> 07:06] dictator and convinced the people to support
+[07:06 --> 07:09] an unprecedented measure, the elevation of
+[07:09 --> 07:13] minutiae to co-dictator. This extra legal
+[07:13 --> 07:15] solution was the death knell of the
+[07:15 --> 07:17] dictatorship as an effective office. The
+[07:17 --> 07:20] whole idea behind the dictatorship is that
+[07:20 --> 07:22] one man should have the final say over all
+[07:22 --> 07:25] policy without right of appeal. By elevating
+[07:25 --> 07:27] a co-dictator, the entire premise of the
+[07:27 --> 07:30] office was lost for good. If a dictator
+[07:30 --> 07:32] could be so easily rebuked by the
+[07:32 --> 07:34] people, then what good was even having one?
+[07:34 --> 07:37] You may as well just have two consuls.
+[07:38 --> 07:40] The semi-magical spell of dictatorial
+[07:40 --> 07:42] infallibility had been broken for good,
+[07:43 --> 07:44] and not until the time of Sulla, 200
+[07:44 --> 07:47] years later, would the concept of
+[07:47 --> 07:49] dictator reappear with any real meaning.
+[07:51 --> 07:52] Manutius took command of half the army
+[07:52 --> 07:54] and marched towards Hannibal with
+[07:54 --> 07:57] typical Roman aggression. But, like all
+[07:57 --> 07:59] his predecessors, Manutius was out
+[07:59 --> 08:01] maneuvered by Hannibal and the legions
+[08:01 --> 08:03] under his command were almost wiped out.
+[08:04 --> 08:06] However, the much derided Fabius, who
+[08:06 --> 08:08] watched from the nearby hills, decided
+[08:08 --> 08:11] he could not allow Manutius' forces to
+[08:11 --> 08:12] be destroyed and, against his better
+[08:12 --> 08:14] judgment, ordered his troops to the
+[08:14 --> 08:16] rescue of his beleaguered colleague.
+[08:17 --> 08:19] The addition of Fabius' troops turned
+[08:19 --> 08:21] the tide and Hannibal was forced to
+[08:21 --> 08:24] withdraw. Manutius, humbled by his
+[08:24 --> 08:26] experience, immediately placed himself
+[08:26 --> 08:28] back into a subordinate position to
+[08:28 --> 08:31] Fabius. The rest of 217 passed
+[08:31 --> 08:34] without any major battle. Fabius,
+[08:34 --> 08:36] despite persistent calls for his head,
+[08:37 --> 08:38] had managed to lead Rome through an
+[08:38 --> 08:40] entire year without a major defeat.
+[08:42 --> 08:44] Rome, however, would not learn from
+[08:44 --> 08:47] Fabius' success and clamored for
+[08:47 --> 08:48] leaders who would take the fight to
+[08:48 --> 08:52] Hannibal. In 216 BC, they got what
+[08:52 --> 08:54] they asked for and, for their
+[08:54 --> 08:55] trouble, got everything Fabius
+[08:55 --> 08:58] predicted, a defeat so massive it
+[08:58 --> 09:00] nearly ended the Roman Empire right
+[09:00 --> 09:04] then and there. The dominant figure
+[09:04 --> 09:06] to emerge during Fabius' dictatorship
+[09:07 --> 09:09] was a man named Marcus Vero, who
+[09:09 --> 09:11] denounced at every opportunity the
+[09:11 --> 09:13] cowardly policies of the wealthy
+[09:13 --> 09:16] patrician dictator. He promised the
+[09:16 --> 09:17] people that if they elected him
+[09:17 --> 09:19] consul, he would raise the largest
+[09:19 --> 09:21] army Rome had ever seen and crush
+[09:21 --> 09:23] Hannibal once and for all. The
+[09:23 --> 09:25] people responded by overwhelmingly
+[09:25 --> 09:27] supporting Vero for the consulship.
+[09:28 --> 09:29] His colleague for the year was the
+[09:29 --> 09:31] respected patrician Lucius
+[09:31 --> 09:34] Aemilius Paulus, who would play
+[09:34 --> 09:36] the super ego to Vero's id.
+[09:37 --> 09:39] Together, they raised 16 legions
+[09:39 --> 09:41] of Romans and allies and marched
+[09:41 --> 09:43] southeast from Rome to find and
+[09:43 --> 09:47] destroy Hannibal. The Carthaginian
+[09:47 --> 09:49] army had taken over the small but
+[09:49 --> 09:53] important town of Cannae, or, as I
+[09:53 --> 09:54] have been incorrectly referring to
+[09:54 --> 09:56] it, Cannae, thanks to those of
+[09:56 --> 09:58] you out there who have knocked some
+[09:58 --> 10:01] into my Latin poor tongue. The
+[10:01 --> 10:03] Carthaginians were set up in Cannae
+[10:03 --> 10:05] and the legions marched straight
+[10:05 --> 10:08] for them, 80,000 strong. Hannibal
+[10:08 --> 10:10] had just over 40,000 infantry and
+[10:10 --> 10:13] 10,000 cavalry and despite his
+[10:13 --> 10:14] track record against the Romans,
+[10:14 --> 10:16] he had to be nervous at the
+[10:16 --> 10:17] sight of the massive force
+[10:17 --> 10:21] deployed against him. When the
+[10:21 --> 10:23] Romans arrived, a disagreement arose
+[10:23 --> 10:26] between the two consuls. Paulus did
+[10:26 --> 10:27] not like the look of the flat,
+[10:27 --> 10:29] open plain, fearing the destructive
+[10:29 --> 10:31] force of Hannibal's Numidian cavalry
+[10:32 --> 10:33] and wanted to move the Roman
+[10:33 --> 10:35] forces into the nearby hills where
+[10:35 --> 10:37] the cavalry would be neutralized.
+[10:38 --> 10:40] Vero, however, saw the nearly
+[10:40 --> 10:41] two-to-one advantage the Romans
+[10:41 --> 10:43] held and immediately wanted to
+[10:43 --> 10:44] fight an infantry battle in the
+[10:44 --> 10:46] field and simply overwhelm the
+[10:46 --> 10:49] Carthaginians. When two consuls
+[10:49 --> 10:51] are present at the same site,
+[10:52 --> 10:53] there were two ways of dividing
+[10:53 --> 10:56] command equally between them. One
+[10:56 --> 10:58] was to divide the army in half and
+[10:58 --> 11:00] give each consul total discretion
+[11:00 --> 11:02] over his half of the army. The
+[11:02 --> 11:05] other, in force at Cannae, was
+[11:05 --> 11:06] for each consul to have total
+[11:06 --> 11:08] discretion over the whole army
+[11:08 --> 11:10] every other day. It was on
+[11:10 --> 11:12] Vero's day of command that the
+[11:12 --> 11:13] camps were built beside the
+[11:13 --> 11:15] plains and it was on Vero's
+[11:15 --> 11:16] day of command that the battle
+[11:16 --> 11:18] was initiated. There was nothing
+[11:18 --> 11:22] Paulus could do about it. On the
+[11:22 --> 11:23] morning of battle, as I said,
+[11:23 --> 11:26] Vero was in charge. He ordered
+[11:26 --> 11:28] the army across a shallow river to
+[11:28 --> 11:29] where the Carthaginians were
+[11:29 --> 11:31] lining up for battle, Hannibal
+[11:31 --> 11:33] hoping to get the Romans to
+[11:33 --> 11:34] bite at a battle he could
+[11:34 --> 11:35] control with his superior
+[11:35 --> 11:38] mobile cavalry wings. Lining up
+[11:38 --> 11:40] the Romans for battle, Vero
+[11:40 --> 11:41] followed the conventional
+[11:41 --> 11:43] three-line maniple alignment,
+[11:43 --> 11:44] but when he saw the way the
+[11:44 --> 11:46] Carthaginians were lining up,
+[11:46 --> 11:48] he made a critical decision to
+[11:48 --> 11:49] pack his troops close together
+[11:49 --> 11:51] and eliminate the checkerboard
+[11:51 --> 11:53] space between the maniples. His
+[11:53 --> 11:55] hope was to drive through the
+[11:55 --> 11:56] weaker Carthaginian infantry,
+[11:57 --> 11:58] divide Hannibal's army in half,
+[11:59 --> 12:00] and use the superior Roman
+[12:00 --> 12:02] numbers to annihilate the
+[12:02 --> 12:04] Carthaginian army. But this
+[12:04 --> 12:05] left the Romans open to an
+[12:05 --> 12:07] easy flanking maneuver, the
+[12:07 --> 12:09] same mistake Regulus had made
+[12:09 --> 12:10] in his battle with Xanthippus
+[12:10 --> 12:12] outside of Carthage during the
+[12:12 --> 12:14] first Punic War. Vero's
+[12:14 --> 12:16] mistake was doubly compounded
+[12:16 --> 12:17] by the fact that Hannibal had
+[12:17 --> 12:19] deliberately lined his army up
+[12:19 --> 12:20] to lure the Romans into just
+[12:20 --> 12:23] such a trap. The Carthaginian
+[12:23 --> 12:25] line was deployed in a
+[12:25 --> 12:26] semicircle, with the front
+[12:26 --> 12:28] closer to the Romans than the
+[12:28 --> 12:31] wings. In the center were placed
+[12:31 --> 12:32] the weaker Spanish and Gallic
+[12:32 --> 12:34] soldiers, which is what made
+[12:34 --> 12:36] Vero lick his lips and bunch
+[12:36 --> 12:38] the legions together. On the
+[12:38 --> 12:40] wings were the cavalry, and
+[12:40 --> 12:41] between the cavalry and the
+[12:41 --> 12:42] center were the Libyan
+[12:42 --> 12:45] infantry. After eyeing each
+[12:45 --> 12:46] other and letting the light
+[12:46 --> 12:48] skirmishers do their thing,
+[12:48 --> 12:50] Vero ordered the legions to
+[12:50 --> 12:53] attack. At first, things seemed
+[12:53 --> 12:54] to be going great for the
+[12:54 --> 12:57] Romans. The Spanish and Gallic
+[12:57 --> 12:58] soldiers were no match for the
+[12:58 --> 12:59] Romans, and were pushed back
+[12:59 --> 13:01] easily by the reinforced Roman
+[13:01 --> 13:04] lines. However, caught up in
+[13:04 --> 13:05] the heat of battle, the
+[13:05 --> 13:07] Romans did not notice that it
+[13:07 --> 13:08] was the center, and the
+[13:08 --> 13:09] center only they were pushing
+[13:09 --> 13:12] back. The Libyans remained
+[13:12 --> 13:13] where they were, and pretty
+[13:13 --> 13:14] soon the curve of the
+[13:14 --> 13:16] Carthaginian line had been
+[13:16 --> 13:18] inverted, with the Libyans now
+[13:18 --> 13:20] forward of the center. The
+[13:20 --> 13:21] Romans continued to charge
+[13:21 --> 13:23] ahead, and before they knew it,
+[13:23 --> 13:24] the Libyans had outflanked
+[13:25 --> 13:26] them, even though they had not
+[13:26 --> 13:28] yet moved a muscle. The Romans
+[13:28 --> 13:30] were now hemmed in, and
+[13:30 --> 13:31] suddenly found themselves
+[13:31 --> 13:33] fighting on three fronts. In
+[13:33 --> 13:35] the confusion, they were just
+[13:35 --> 13:36] beginning to work on
+[13:36 --> 13:37] extracting themselves from
+[13:37 --> 13:38] what was turning into a
+[13:38 --> 13:40] bloodbath when Hannibal closed
+[13:40 --> 13:43] the trap. His cavalry easily
+[13:43 --> 13:44] drove off their Roman
+[13:44 --> 13:45] counterparts, and then wheeled
+[13:45 --> 13:48] around on the Roman rear. The
+[13:48 --> 13:49] legions were now completely
+[13:49 --> 13:51] surrounded, and, having been
+[13:51 --> 13:52] placed so close to one
+[13:52 --> 13:54] another by Varro at the
+[13:54 --> 13:55] outset of the battle, were in
+[13:55 --> 13:57] many cases unable to even
+[13:57 --> 13:58] lift their arms up to
+[13:58 --> 14:01] defend themselves. At a
+[14:01 --> 14:03] minimum, 50,000 Romans died
+[14:03 --> 14:04] in the slaughter, with
+[14:04 --> 14:06] estimates going so high as
+[14:06 --> 14:08] 70,000. These totals
+[14:08 --> 14:09] included the cream of the
+[14:09 --> 14:12] Roman leadership, 29 military
+[14:12 --> 14:14] tribunes, and 80 men of
+[14:14 --> 14:15] senatorial rank, including
+[14:15 --> 14:17] the former master of horse,
+[14:17 --> 14:20] Marcus Rufus Manutius. The
+[14:20 --> 14:22] consul Paulus, who never
+[14:22 --> 14:22] wanted the battle in the
+[14:22 --> 14:24] first place, was knocked from
+[14:24 --> 14:26] his horse and refused the
+[14:26 --> 14:27] offer of another to escape,
+[14:27 --> 14:29] choosing to die in the field
+[14:29 --> 14:31] and face the humiliation of
+[14:31 --> 14:32] surviving such a horrendous
+[14:32 --> 14:35] defeat. Varro, however, upon
+[14:35 --> 14:37] whose head the entire debacle
+[14:37 --> 14:39] rested, had no such qualms
+[14:39 --> 14:41] about his honor and fled for
+[14:41 --> 14:45] his life. The Battle of
+[14:45 --> 14:46] Cannae has gone down as one
+[14:46 --> 14:47] of the most famous battles
+[14:47 --> 14:49] in history. Generals are
+[14:49 --> 14:51] always looking to emulate
+[14:51 --> 14:52] Hannibal's near-perfect
+[14:52 --> 14:53] destruction of the Romans.
+[14:54 --> 14:55] Eisenhower referred to
+[14:55 --> 14:57] Hannibal's plan as a work
+[14:57 --> 14:59] of art, and as recently as
+[14:59 --> 15:00] the first Gulf War, General
+[15:00 --> 15:02] Norman Schwarzkopf modeled
+[15:02 --> 15:03] some of his attacks after
+[15:03 --> 15:05] Hannibal's formation at
+[15:05 --> 15:06] Cannae. Though the total
+[15:06 --> 15:08] envelopment is not nearly
+[15:08 --> 15:09] as impressive when you're
+[15:09 --> 15:10] commanding a much larger
+[15:10 --> 15:12] and more powerful army, it
+[15:12 --> 15:13] still shows how much this
+[15:13 --> 15:15] single battle has penetrated
+[15:15 --> 15:16] the collective consciousness.
+[15:18 --> 15:20] Despite the universal praise
+[15:20 --> 15:21] of Hannibal's genius on the
+[15:21 --> 15:23] battlefield, what the
+[15:23 --> 15:24] Carthaginian general did
+[15:24 --> 15:25] with his victory is the
+[15:25 --> 15:26] source of the harshest
+[15:26 --> 15:28] criticisms against him,
+[15:28 --> 15:29] leveled both by his
+[15:29 --> 15:31] contemporaries and the
+[15:31 --> 15:33] judgment of history. Because
+[15:33 --> 15:34] what he did with his
+[15:34 --> 15:35] stunning victory was
+[15:35 --> 15:38] absolutely nothing. It is
+[15:38 --> 15:39] easy to say that Hannibal
+[15:39 --> 15:40] should have immediately
+[15:40 --> 15:41] marched on Rome and taken
+[15:41 --> 15:43] the city rather than hold
+[15:43 --> 15:44] off and continue his
+[15:44 --> 15:45] policy of attempting to
+[15:45 --> 15:47] turn Rome's allies against
+[15:47 --> 15:48] them without actually going
+[15:48 --> 15:51] near the capital. But even
+[15:51 --> 15:53] in its weakened state, Rome
+[15:53 --> 15:54] itself would have been
+[15:54 --> 15:55] more than a match for
+[15:55 --> 15:56] Hannibal and his paltry
+[15:56 --> 15:59] army of 35,000. But it is
+[15:59 --> 16:00] impossible to say for
+[16:00 --> 16:02] sure. We have no way of
+[16:02 --> 16:02] knowing what would have
+[16:02 --> 16:04] happened if Hannibal had
+[16:04 --> 16:05] gone for the gold. All we
+[16:05 --> 16:06] do know is that he
+[16:06 --> 16:08] didn't. Whether this was
+[16:08 --> 16:10] because he didn't think he
+[16:10 --> 16:11] could pull it off or
+[16:11 --> 16:12] because he didn't believe
+[16:12 --> 16:13] a direct assault on Rome was
+[16:13 --> 16:15] a necessary part of his
+[16:15 --> 16:16] greater plan is also a
+[16:16 --> 16:17] matter of endless
+[16:17 --> 16:20] speculation. In the full
+[16:20 --> 16:21] light of history, though,
+[16:21 --> 16:22] we know that Cannae marked
+[16:22 --> 16:23] the high point of
+[16:23 --> 16:25] Hannibal's career. Whether
+[16:25 --> 16:26] he could have gone even
+[16:26 --> 16:28] higher by marching on Rome
+[16:28 --> 16:30] will never be known for
+[16:30 --> 16:32] sure. The Battle of
+[16:32 --> 16:34] Cannae closed the first
+[16:34 --> 16:34] stage of the Second
+[16:34 --> 16:37] Punic War. Hannibal would
+[16:37 --> 16:38] never again be so
+[16:38 --> 16:39] successful. And in the
+[16:39 --> 16:41] following decade, the
+[16:41 --> 16:41] fortunes of war would
+[16:41 --> 16:43] turn against Carthage in
+[16:43 --> 16:45] favor of the Romans and
+[16:45 --> 16:46] their young rock star
+[16:46 --> 16:48] General Scipio Africanus.

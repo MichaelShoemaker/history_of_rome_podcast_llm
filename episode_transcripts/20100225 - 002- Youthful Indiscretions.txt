@@ -1,0 +1,201 @@
+# 20100225 - 002- Youthful Indiscretions
+# Detected language: en
+# Duration: 710.58 seconds
+# Model: medium, Device: cpu
+
+[00:01 --> 00:04] Hello, and welcome to the History of Rome.
+[00:05 --> 00:10] Last time we discussed the events that led up to the birth of Rome, covering the arrival
+[00:10 --> 00:13] of Aeneas into Italy and the story of the twins Romulus and Remus.
+[00:14 --> 00:19] Today we will cover the remainder of Romulus' life, his questionable morality, and his
+[00:19 --> 00:21] ultimate disappearance from the world of men.
+[00:23 --> 00:27] After Romulus founded the city, it became apparent that he would need to attract settlers
+[00:27 --> 00:29] in order to ensure its survival.
+[00:30 --> 00:34] To this end, he opened up the city to what could tactfully be described as colorful
+[00:34 --> 00:38] characters, but, put simply, they were the dregs of society.
+[00:39 --> 00:43] Fugitives, escaped slaves, debtors, and criminals all flocked to the new town to
+[00:43 --> 00:46] start fresh, and Romulus welcomed them with open arms.
+[00:48 --> 00:51] The first order of business in true Roman fashion was to establish an army.
+[00:52 --> 00:56] Romulus sifted through his new subjects and divided them into able-bodied men of
+[00:56 --> 00:59] military age and, well, everyone else.
+[01:00 --> 01:04] Most sources agree that the first legions consisted of 3,000 foot soldiers and 300
+[01:04 --> 01:09] cavalry, but accounts differ as to whether there was initially just one legion or
+[01:09 --> 01:09] whether there were many.
+[01:11 --> 01:15] Soldiers in those days had to equip themselves so only well-to-do citizens could enlist,
+[01:16 --> 01:19] with the richest citizens serving in the cavalry because they were the only ones
+[01:19 --> 01:20] who could afford horses.
+[01:21 --> 01:25] This meant that the interests of the army were, in those early days, firmly
+[01:25 --> 01:29] with the interests of the society it defended, at least the middle and upper classes of
+[01:29 --> 01:30] that society.
+[01:31 --> 01:35] In later years, the legions were filled with mercenary soldiers whose interests often
+[01:35 --> 01:39] diverged from those of the actual citizens of Rome who had long since given up fighting
+[01:39 --> 01:40] for themselves.
+[01:41 --> 01:44] Here the seeds would be sown for civil war, decline, and ultimately destruction.
+[01:45 --> 01:50] But for now, Rome's army fought for the people, not against them.
+[01:51 --> 01:55] From the remaining motley assembly of those not called to arms, Romulus created a
+[01:55 --> 01:59] council of one hundred senators to help him govern, either because that number was
+[01:59 --> 02:03] enough for his purposes, or because there were only a hundred men respectable enough
+[02:03 --> 02:05] to be given such responsibility.
+[02:06 --> 02:09] The descendants of these men would become the patrician class of later Rome, who
+[02:09 --> 02:13] would find themselves constantly at odds with the plebeian class, the descendants
+[02:13 --> 02:15] of the remaining unwashed masses.
+[02:16 --> 02:21] Rome was now ready to defend and govern itself, but there was just one problem.
+[02:21 --> 02:23] The new arrivals were almost entirely male.
+[02:24 --> 02:28] Without any women around, the dream of Rome would die after a single generation.
+[02:29 --> 02:33] So delegations were sent around to the neighboring communities to ask for intermarriage
+[02:33 --> 02:36] rights, but wherever they went they were refused.
+[02:36 --> 02:40] Fathers did not want their daughters married to the Romans, who, after all, were nothing
+[02:40 --> 02:43] more than a collection of despicable castoffs.
+[02:43 --> 02:48] The Romans resented these rejections, and so Romulus thought up a surefire way to acquire
+[02:48 --> 02:49] wives for his people.
+[02:50 --> 02:51] They would steal them.
+[02:53 --> 02:57] The Romans invited all the neighboring communities to a great festival honoring Neptune.
+[02:58 --> 03:02] They spared no expense in preparing and promoting the celebration, and on the appointed
+[03:02 --> 03:06] day, a great crowd filled Rome, including, famously, the savines.
+[03:07 --> 03:13] All was going well and no one suspected a thing, until Romulus suddenly gave a
+[03:15 --> 03:20] The festival was broken up and the parents of the seized women fled the city, cursing
+[03:20 --> 03:21] the treachery of the Romans.
+[03:22 --> 03:26] The seized women were naturally horrified at their predicament, but Romulus went to
+[03:26 --> 03:30] them and claimed that it was their parents who were to blame, because they had been
+[03:30 --> 03:32] too proud to wed their daughters to Roman men.
+[03:33 --> 03:36] Further, he said, they would all be treated better in Rome than anywhere else, because
+[03:36 --> 03:40] the Roman men would feel obligated to work off the guilt over what they had done.
+[03:41 --> 03:45] Apparently this mollified the women, but it did nothing for their parents and brothers.
+[03:47 --> 03:51] Attacks followed in succession from the victimized communities, but each was repelled
+[03:51 --> 03:53] by Romulus and the Roman forces.
+[03:54 --> 03:56] Finally, only the savines had not yet sought revenge.
+[03:57 --> 04:00] They waited and planned, rather than immediately taking up arms.
+[04:01 --> 04:04] When the time was right, the savines bribed a young girl to let them into the
+[04:04 --> 04:07] citadel of the city, and took it before the Romans could react.
+[04:08 --> 04:11] Romulus immediately mustered his army and launched a counterattack.
+[04:12 --> 04:15] A brief battle was joined, but neither side could gain the upper hand.
+[04:16 --> 04:20] Finally, the savine women, daughters of one side and husbands of the other, intervened,
+[04:20 --> 04:23] throwing themselves between the two, pleading with them to halt.
+[04:24 --> 04:27] Livy writes, We are mothers now, they cried.
+[04:27 --> 04:30] Our children are your sons, your grandsons.
+[04:30 --> 04:32] Do not put on them the stain of parasite.
+[04:33 --> 04:38] If our marriage, if the relationship between you, is hateful to you, turn your hatred
+[04:38 --> 04:39] against us.
+[04:40 --> 04:41] We are the cause of strife.
+[04:41 --> 04:45] On our account, our husbands and fathers lie wounded or dead, and we would rather
+[04:45 --> 04:49] die ourselves than live either widowed or orphaned.
+[04:50 --> 04:53] Their entreaties moved the opposing armies, and peace was made, ultimately joining
+[04:53 --> 04:56] the Romans and savines into one political entity.
+[04:58 --> 05:02] The abduction episode has lodged itself in the western imagination, commonly referred
+[05:02 --> 05:04] to as the rape of the savine women.
+[05:05 --> 05:09] The event has been depicted by countless painters, including Nicolas Poussin, Jean-Paul
+[05:09 --> 05:11] Rubens, and Pablo Picasso.
+[05:12 --> 05:15] Jacques-Louis David depicted the conclusion of the story in his intervention of the
+[05:15 --> 05:16] savine women.
+[05:17 --> 05:20] Anyone who has read Watership Down will remember that the entire second half of
+[05:20 --> 05:24] the book is taken up with an adventure to secure female rabbits for the new Warren,
+[05:25 --> 05:29] no doubt taking its inspiration from the Roman example, although in that case Hazel
+[05:29 --> 05:32] and his followers were far more ethical in their solution.
+[05:33 --> 05:38] After the savines joined with the Romans, a power-sharing agreement was reached, and
+[05:38 --> 05:41] Romulus agreed to rule jointly with Tacius, the savine king.
+[05:42 --> 05:46] The newly integrated citizens of the city were divided into three tribes, the first
+[05:46 --> 05:51] being made of Romans, the second savines, and the third the remaining population, mostly
+[05:51 --> 05:52] of Etruscan origin.
+[05:53 --> 05:57] A hundred leading savines were then added to the Senate, doubling its size.
+[05:58 --> 06:03] Leadership thus established, Romulus formed the first great citizen assembly, the
+[06:03 --> 06:04] Camita Curiata.
+[06:05 --> 06:09] To do so, he divided the tribes further into ten curiae, naming each one after
+[06:09 --> 06:13] an abducted savine woman to honor them for their role in the peacemaking.
+[06:14 --> 06:19] Each curiae cast one collective vote, making for thirty total, and the assembly
+[06:19 --> 06:23] was tasked with electing various magistrates and enacting routine laws.
+[06:24 --> 06:26] Thus the original political constitution was settled.
+[06:27 --> 06:31] The kings reigned supreme, but, from the beginning, both aristocrats and commoners
+[06:31 --> 06:34] were involved in the legislative and judicial functions of state.
+[06:35 --> 06:38] It was at this point as well that the legions doubled in size to approximately
+[06:38 --> 06:42] six thousand men, a number that would stand for the remainder of the empire.
+[06:44 --> 06:47] The power-sharing agreement with Tacius lasted all of five years.
+[06:48 --> 06:52] The savine king, for whatever reason, assaulted some envoys from Lavinium, and
+[06:52 --> 06:56] when he later arrived in that city for routine religious services, he was set
+[06:56 --> 06:57] upon by a mob and killed.
+[06:58 --> 07:02] Romulus, not seeking war with Lavinia and no doubt secretly welcoming the
+[07:02 --> 07:06] death of his rival, did nothing to avenge the death of his co-ruler.
+[07:07 --> 07:11] The savines were outraged, but fear of Romulus's power and his apparently
+[07:11 --> 07:12] divine mission held their tongues.
+[07:13 --> 07:15] Romulus now reigned supreme once again.
+[07:17 --> 07:20] For the next forty years, the Romans fought continuously against hostile
+[07:20 --> 07:23] neighbors, usually Etruscan cities in the north.
+[07:24 --> 07:28] By the time of Romulus's death, he had made the Romans a power to be reckoned with.
+[07:29 --> 07:32] The details of his passing confirm his status as a mythological figure.
+[07:33 --> 07:37] One day, seated on the throne, he was reviewing his troops and
+[07:37 --> 07:38] a storm kicked up.
+[07:38 --> 07:41] Thunder clapped and Romulus was enveloped by a cloud.
+[07:42 --> 07:45] When the storm dissipated, the throne was empty and Romulus was gone.
+[07:46 --> 07:49] The senators who stood beside him searched, but
+[07:49 --> 07:51] no trace of Romulus was ever found.
+[07:51 --> 07:55] Livy notes that Romulus was always more popular with the people than he was with
+[07:55 --> 07:58] the Senate, and that it is entirely possible he was murdered by
+[07:58 --> 08:00] the senators who stood beside him.
+[08:00 --> 08:03] I find it part of Livy's charm that he would go out of his way to offer
+[08:03 --> 08:08] a more plausible explanation for the death of such an obviously fictitious character.
+[08:09 --> 08:12] The life of Romulus is a convenient myth.
+[08:13 --> 08:13] Who founded Rome?
+[08:14 --> 08:14] Romulus.
+[08:15 --> 08:16] Where does the name come from?
+[08:17 --> 08:17] Romulus.
+[08:18 --> 08:19] Who organized the legions?
+[08:20 --> 08:20] Romulus.
+[08:21 --> 08:23] Who divided up the tribes, organized the Senate, and
+[08:23 --> 08:25] began the Citizens' Assembly?
+[08:25 --> 08:27] Romulus, Romulus, Romulus.
+[08:28 --> 08:32] It is possible that the stories grew from the life of a real person, but
+[08:32 --> 08:36] most likely Romulus was created out of necessity to answer questions later
+[08:36 --> 08:37] Romans had about their own past.
+[08:38 --> 08:41] It seems comically naive of the Romans to believe that so
+[08:41 --> 08:43] much could be owed to a single man.
+[08:43 --> 08:46] But when we look at our own almost religious veneration of George
+[08:46 --> 08:48] Washington, it begins to make sense.
+[08:49 --> 08:53] In 500 years, will historians be reporting that George Washington was
+[08:53 --> 08:56] born of a cherry tree and had wooden teeth to prove it?
+[08:56 --> 08:59] That he flew over the Delaware River, defeated the British army, and
+[08:59 --> 09:01] designed the Constitution all by himself?
+[09:02 --> 09:04] It seems crazy, but as time goes by,
+[09:04 --> 09:08] the subtleties of actual events are compressed into small digestible units.
+[09:09 --> 09:12] Horatio Gates has already been pushed from the collective consciousness,
+[09:12 --> 09:14] and is known only to historians.
+[09:14 --> 09:16] But it was his victory at Saratoga,
+[09:16 --> 09:19] not Washington's, that led the French to support the revolution,
+[09:19 --> 09:21] and thus ensure its success.
+[09:22 --> 09:23] That story, though, is too complicated.
+[09:24 --> 09:27] Most Americans don't even know how critical French involvement was,
+[09:27 --> 09:30] let alone that Washington had little to do with securing it.
+[09:31 --> 09:32] Washington beat the British.
+[09:32 --> 09:34] That is the story of the American Revolution.
+[09:35 --> 09:38] As the years pass, will the name of Madison be lost?
+[09:38 --> 09:38] Hamilton?
+[09:39 --> 09:42] Even the great Thomas Jefferson, whose fame is second to none,
+[09:42 --> 09:45] may yet fall under the juggernaut that is this mythical Washington.
+[09:46 --> 09:49] As he, like Romulus, becomes the answer to all questions about
+[09:49 --> 09:51] the founding of America.
+[09:52 --> 09:56] Countless hands working patiently over years no doubt transformed Rome from
+[09:56 --> 09:58] a collection of shepherds into a regional power.
+[09:58 --> 10:00] But their names have been lost, and
+[10:00 --> 10:03] their deeds have been rolled into the biography of a single mythical man.
+[10:05 --> 10:09] The early days of Rome stand in stark contrast to its later greatness.
+[10:09 --> 10:13] To say that the mighty empire came from humble roots would be a gross
+[10:13 --> 10:15] understatement and entirely misleading.
+[10:16 --> 10:19] I've always found it odd that more was not done to alter the details of
+[10:19 --> 10:20] Rome's unsavory beginnings.
+[10:21 --> 10:25] Founded by a man who killed his own brother and was raised by a whore,
+[10:25 --> 10:29] the city's initial inhabitants were thieves, crooks, and beggars.
+[10:29 --> 10:32] Such an unappealing lot that they could not find a single woman who
+[10:32 --> 10:34] would have them, they resorted to kidnapping.
+[10:35 --> 10:36] To protect their ill-gotten wives,
+[10:36 --> 10:39] they then proceeded to make war on their new in-laws.
+[10:39 --> 10:42] There was not a single sympathetic figure in the whole bunch.
+[10:42 --> 10:44] You almost find yourself rooting for
+[10:44 --> 10:47] the Etruscans to put this rabble down and restore some decency to the world.
+[10:48 --> 10:50] But alas, the Romans were strong and
+[10:50 --> 10:53] would not be conquered, even if they were total bastards.
+[10:54 --> 10:55] And this is the moral of Rome's birth.
+[10:56 --> 11:00] The Romans won and grew and thrived, not because they were right or good or
+[11:00 --> 11:04] moral or God's chosen people, but because they were strong and
+[11:04 --> 11:05] knew how to win in battle.
+[11:06 --> 11:10] Might may not make right, but it will make a thousand year civilization.
+[11:10 --> 11:15] Join me next time as we discuss Romulus' successors to the throne,
+[11:16 --> 11:19] Rome's religious awakening, and how the kings were finally run out of town.
+[11:21 --> 11:24] A transcript of this podcast and additional information can be found,
+[11:24 --> 11:28] as always, at thehistoryofrome.blogspot.com.

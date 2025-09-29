@@ -1,0 +1,636 @@
+# 20100228 - 044- Caesar Triumphant
+# Detected language: en
+# Duration: 1468.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, Episode 44, Caesar Triumphant.
+[00:13 --> 00:19] Last time, we left Caesar in a somewhat precarious position, sorry about that Caesar, on the
+[00:19 --> 00:22] far side of the Adriatic with only half his army.
+[00:22 --> 00:27] The rest of Caesar's men had been turned back by the naval blockade led by Bibulus,
+[00:27 --> 00:31] who died denying the second half of his old enemy's army an easy crossing.
+[00:33 --> 00:38] Pompey, with his well supplied and much larger army, now numbering some 45,000, humming
+[00:38 --> 00:43] along nicely, he made no attempt to attack Caesar right away, even with the latter's
+[00:43 --> 00:44] army at half strength.
+[00:45 --> 00:49] He knew that Caesar was in a rotten position, and would soon discover that food for his
+[00:49 --> 00:52] men and horses would be hard to come by in this hostile country.
+[00:53 --> 00:54] Let the rebels starve.
+[00:55 --> 00:59] Best case scenario, they eventually surrendered, and no more Roman blood is spilled.
+[01:00 --> 01:04] Worst case scenario, they refuse to give up, and Pompey's well fed army crushes
+[01:04 --> 01:06] Caesar's exhausted and starving troops.
+[01:06 --> 01:09] The smart play was definitely to wait.
+[01:10 --> 01:14] The contrasting styles of the two generals could not be more apparent during the coming
+[01:14 --> 01:15] campaign in Greece.
+[01:15 --> 01:18] Pompey was careful, methodical, and well organized.
+[01:18 --> 01:23] He had no need to take risks, because time and numbers were both on his side.
+[01:24 --> 01:27] Caesar on the other hand, was flying by the seat of his pants, making it up as
+[01:27 --> 01:31] he went, and taking wild risks every step of the way.
+[01:32 --> 01:36] I think 99 times out of 100, the Pompey model beats the Caesar model, but every
+[01:36 --> 01:38] so often that one shot pops up.
+[01:39 --> 01:42] Caesar may have been one of the most brilliant generals of the ancient world,
+[01:43 --> 01:46] but he was also, by his own admission, one of the luckiest.
+[01:47 --> 01:51] This luck was well on display when the two armies finally did meet at Dyrrhachium
+[01:51 --> 01:53] in May of 48 BC.
+[01:54 --> 01:57] In the months after his landing, Caesar used every channel he could think of to
+[01:57 --> 02:01] secure a truce with Pompey, from the highest diplomatic overtures to sending
+[02:01 --> 02:05] legionnaires to the outskirts of Pompey's camp to try and get the foot soldiers
+[02:05 --> 02:08] on both sides to agree that fighting each other was crazy.
+[02:09 --> 02:13] Caesar pursued peace not only because he wanted to build the case that he was
+[02:13 --> 02:16] not the aggressor, but he was also in no position to actually, you know,
+[02:17 --> 02:17] win a battle.
+[02:18 --> 02:21] It was this latter fact that kept Pompey and the Senate from taking
+[02:21 --> 02:23] Caesar's overtures too seriously.
+[02:24 --> 02:27] So as the winter slogged on, things were not looking good for Caesar.
+[02:28 --> 02:32] Not only were his men struggling on a subsistence diet, but he began to
+[02:32 --> 02:35] suspect that his allies in Italy were intentionally delaying the launch
+[02:35 --> 02:38] of the reinforcements Bibulus had turned back.
+[02:39 --> 02:40] Had he been betrayed?
+[02:40 --> 02:42] Had he foolishly rushed into his own destruction?
+[02:43 --> 02:47] A man of action, Caesar was unable to hold still and even attempted to
+[02:47 --> 02:51] cross back across the wintery Adriatic Sea to fetch his missing troops,
+[02:52 --> 02:53] but was turned back by a storm.
+[02:54 --> 02:58] He was left to brood in his tent, racked with doubts about his position
+[02:58 --> 02:59] and his own abilities.
+[03:01 --> 03:04] But just as he was beginning to lose heart, Mark Antony lit a fire under
+[03:04 --> 03:08] the legions waiting in Brindisium and led them boldly across the Adriatic.
+[03:09 --> 03:13] Antony may have been crass, vulgar, and an unrepentant hedonist, but he was
+[03:13 --> 03:17] nothing if not a brilliant soldier and Caesar's most loyal captain.
+[03:17 --> 03:21] There was no way he was going to hang his general out to dry, even if
+[03:21 --> 03:24] more than a few people had whispered in his ear that he ought to do
+[03:24 --> 03:24] just that.
+[03:25 --> 03:28] When the spring came, the reinforcements linked up with Caesar,
+[03:28 --> 03:32] bringing his numbers up to a respectable 15,000.
+[03:33 --> 03:37] Now at full strength and with Antony at his side, Caesar felt confident
+[03:37 --> 03:39] about taking the fight to Pompey.
+[03:39 --> 03:43] By May, the Republic's army was camped just south of Dyrrhachium, a
+[03:43 --> 03:46] port city which lay directly across the Adriatic from Brindisium
+[03:46 --> 03:48] in modern Albania.
+[03:49 --> 03:52] In the dating for the rest of the war, I'm going to use the month
+[03:52 --> 03:55] the battles actually took place in, rather than the recorded historical
+[03:55 --> 03:55] dates.
+[03:56 --> 04:00] In just a few years, Caesar will reset the Roman calendar to
+[04:00 --> 04:03] reflect the drift caused by centuries of missing leap days, so
+[04:03 --> 04:06] the battle of Dyrrhachium, which was recorded to have taken place
+[04:06 --> 04:09] in July, actually took place in mid-May.
+[04:10 --> 04:13] Just as Pharsalus really took place in June, not August.
+[04:14 --> 04:17] The difference in dates may seem trivial, but to understand
+[04:17 --> 04:19] Pompey's hope that he would be able to starve Caesar into
+[04:19 --> 04:22] submission, you have to understand that everything took place
+[04:22 --> 04:26] before the harvest season, not after it, as the misaligned
+[04:26 --> 04:27] old calendar implied.
+[04:28 --> 04:32] So in May of 48 BC, Pompey was camped in a strong position
+[04:32 --> 04:35] with the sea and a link to endless supplies at his back,
+[04:35 --> 04:37] surrounded by steep hills.
+[04:38 --> 04:41] No direct assault was possible, so Caesar decided to try to
+[04:41 --> 04:44] recreate some of his success at Alesia and hem Pompey in.
+[04:45 --> 04:48] He ordered the same men who had built him a bridge across the
+[04:48 --> 04:51] Rhine in ten days to build him a wall and a giant ark starting
+[04:51 --> 04:54] at the sea north of Pompey's camp, running up and down the
+[04:54 --> 04:57] hills to the east, and then wrapping back around and
+[04:57 --> 04:59] connecting to the Adriatic in the south.
+[05:00 --> 05:03] He may not be able to prevent Pompey's access to food, but
+[05:03 --> 05:06] the wall would cut off his access to fresh water and the
+[05:06 --> 05:09] critical pasture land Pompey's cavalry needed to feed their
+[05:09 --> 05:09] horses.
+[05:10 --> 05:13] Pompey responded by building his own parallel wall and
+[05:13 --> 05:15] trench system to keep Caesar's forces out in case
+[05:15 --> 05:17] they tried an open assault.
+[05:18 --> 05:20] Caesar notes in his commentaries on the civil
+[05:20 --> 05:23] wars that the two generals were essentially inventing
+[05:23 --> 05:25] entirely new ways to wage war as they went along.
+[05:26 --> 05:30] The ensuing weeks of siege and skirmishes fought in the
+[05:30 --> 05:33] no man's land between the two walls has often been
+[05:33 --> 05:35] compared to the modern trench warfare of World War I,
+[05:36 --> 05:38] rather than a classical era infantry battle.
+[05:39 --> 05:41] Men would launch themselves over their respective walls
+[05:41 --> 05:44] and attack, only to be repulsed by the superior
+[05:44 --> 05:45] defenses they assaulted.
+[05:45 --> 05:48] They would then return to the safety of their own walls
+[05:48 --> 05:50] and the whole bloody drama would be played out in reverse.
+[05:52 --> 05:55] The stalemate was broken when a few Gallic officers
+[05:55 --> 05:57] defected to Pompey and brought with them information
+[05:57 --> 05:59] about the weak points in Caesar's wall.
+[06:00 --> 06:03] Pompey may have run his side of the war as
+[06:03 --> 06:05] conservatively as possible, but he could not ignore
+[06:05 --> 06:06] this opportunity.
+[06:07 --> 06:09] He pointed his men at the spots identified by the
+[06:09 --> 06:11] defectors and attacked immediately.
+[06:12 --> 06:14] Caesar tried to plug the hole but failed miserably.
+[06:15 --> 06:18] He lost some thousand troops in the fighting and
+[06:18 --> 06:20] was forced to abandon his wall and retreat.
+[06:21 --> 06:23] But what initiative Pompey had shown by attacking
+[06:23 --> 06:26] was immediately negated by his hesitancy to pursue
+[06:26 --> 06:27] Caesar's fleeing army.
+[06:28 --> 06:31] The old general let Caesar's reputation for cleverness
+[06:31 --> 06:33] trip him up and he convinced himself that Caesar
+[06:33 --> 06:35] was trying to lure him into a trap by running away.
+[06:36 --> 06:39] But there was no trap, just a pack of disorganized
+[06:39 --> 06:42] troops running away after getting their pants beat off.
+[06:43 --> 06:45] Collecting himself far inland, Caesar was amazed
+[06:45 --> 06:47] that he had managed to escape the day in one piece.
+[06:48 --> 06:49] He commented to one of his officers,
+[06:49 --> 06:52] Today the victory had been the enemies had there
+[06:52 --> 06:56] been anyone among them to gain it.
+[06:57 --> 06:59] Caesar regrouped his army and marched inland
+[06:59 --> 07:02] trying to put some distance between himself and Pompey.
+[07:02 --> 07:04] He had been badly shaken by the defeat at
+[07:04 --> 07:06] Durechium, but the fight had by no means gone
+[07:06 --> 07:08] out of him or his men.
+[07:09 --> 07:12] Some in the senatorial camp urged Pompey to
+[07:12 --> 07:14] now make straight away for Italy and retake Rome.
+[07:15 --> 07:17] But Pompey wisely understood that this was not
+[07:17 --> 07:20] a battle of territory, this was a battle of will.
+[07:21 --> 07:23] The objective was not to control Rome,
+[07:23 --> 07:24] it was to defeat Caesar.
+[07:25 --> 07:27] Anything less would be a false summit on the
+[07:27 --> 07:28] way up the mountain.
+[07:29 --> 07:32] By June, Caesar had been chased across
+[07:32 --> 07:34] northern Greece and was encamped near the
+[07:34 --> 07:36] town of Pharsalus in Thessaly, just on the
+[07:36 --> 07:37] other side of the mountains from the
+[07:37 --> 07:39] famous pass at Thermopylae.
+[07:40 --> 07:42] He now had about 20,000 troops all told,
+[07:43 --> 07:44] stronger than he had been, but numerically
+[07:44 --> 07:48] no match for the 45,000 Pompey had encamped
+[07:48 --> 07:49] five miles to the northwest.
+[07:51 --> 07:53] At Pharsalus, Pompey held the high ground
+[07:53 --> 07:55] and all the advantages of being in friendly
+[07:55 --> 07:58] country and so was content to starve Caesar
+[07:58 --> 07:59] into submission.
+[08:00 --> 08:02] But he was surrounded by the Senate in exile
+[08:02 --> 08:04] who pressed Pompey to attack and end the
+[08:04 --> 08:05] war once and for all.
+[08:06 --> 08:08] Every day, Caesar would march his army out
+[08:08 --> 08:10] onto the plain to offer battle, desperate
+[08:10 --> 08:13] for a conclusive fight, but Pompey would
+[08:13 --> 08:14] always decline.
+[08:15 --> 08:17] After a few days of light skirmishes, though,
+[08:17 --> 08:19] he finally gave into pressure from the
+[08:19 --> 08:21] Senate and marched out in full force.
+[08:22 --> 08:24] He may have had misgivings about whether
+[08:24 --> 08:26] it was a good idea, but if it was a battle
+[08:26 --> 08:28] the Senate and Caesar wanted, a battle
+[08:28 --> 08:29] is what they would get.
+[08:30 --> 08:32] The Senate was overjoyed as they looked
+[08:32 --> 08:34] past the battle to a post-Caesar world.
+[08:34 --> 08:36] They argued in their tents about who
+[08:36 --> 08:38] would become Pontifex Maximus, who would
+[08:38 --> 08:41] be consul in the next year, how Caesar's
+[08:41 --> 08:43] estates would be divided, everything it
+[08:43 --> 08:44] seemed, but the battle itself.
+[08:45 --> 08:47] Caesar was not so distracted.
+[08:49 --> 08:51] The two armies were lined up with a river
+[08:51 --> 08:53] on Caesar's left and Pompey's right,
+[08:53 --> 08:55] making any attempt to flank the other
+[08:55 --> 08:56] on that front a non-starter.
+[08:57 --> 08:59] So both commanders looked to Caesar's
+[08:59 --> 09:00] right as the center of the action.
+[09:02 --> 09:04] Pompey massed all his cavalry on that
+[09:04 --> 09:06] flank and intended to smash through
+[09:06 --> 09:07] Caesar's weaker horsemen and then
+[09:07 --> 09:09] surround the small army.
+[09:09 --> 09:11] But Caesar immediately understood what
+[09:11 --> 09:13] Pompey's deployment meant and peeled off
+[09:13 --> 09:15] a cohort of men from each of his three
+[09:15 --> 09:17] lines and angled them as a fourth
+[09:17 --> 09:19] line as backup for his cavalry.
+[09:20 --> 09:22] He deployed this fourth line under
+[09:22 --> 09:24] cover of dust and the marching of
+[09:24 --> 09:26] his light skirmishers so Pompey would
+[09:26 --> 09:27] not realize the additional wall of
+[09:27 --> 09:28] infantry existed.
+[09:30 --> 09:31] The battle began when Caesar
+[09:31 --> 09:33] ordered his first line in a frontal
+[09:33 --> 09:35] assault on Pompey's infantry,
+[09:35 --> 09:37] but Pompey had ordered his own troops
+[09:37 --> 09:38] to stand fast.
+[09:39 --> 09:41] Standard tactics of the day dictated
+[09:41 --> 09:43] that both sides should run headlong at
+[09:43 --> 09:45] each other and meet somewhere in the middle.
+[09:46 --> 09:47] But Pompey's plan was to
+[09:47 --> 09:49] force Caesar's veteran fighters to run
+[09:49 --> 09:51] the whole way, giving his own less
+[09:51 --> 09:53] experienced troops a slight advantage.
+[09:54 --> 09:55] But that veteran experience
+[09:55 --> 09:57] did not just mean they were better
+[09:57 --> 09:58] fighters. It also meant that they were
+[09:58 --> 10:01] more disciplined. When Caesar
+[10:01 --> 10:02] saw Pompey's troops staying put,
+[10:03 --> 10:05] he signaled his centurions to halt
+[10:05 --> 10:07] the charge just short of spear range
+[10:07 --> 10:08] to catch their breath.
+[10:09 --> 10:11] It is no small thing to halt the charge of
+[10:11 --> 10:13] an entire army when you have just whipped them
+[10:13 --> 10:15] into a murderous frenzy. But
+[10:15 --> 10:16] Caesar had trained his men well.
+[10:16 --> 10:18] When he said stop, they stopped.
+[10:19 --> 10:21] Only when they were sufficiently
+[10:21 --> 10:23] rested from their sprint did Caesar
+[10:23 --> 10:25] give the order to close the final distance.
+[10:25 --> 10:27] Just like that, his men
+[10:27 --> 10:28] turned back on the murderous frenzy
+[10:28 --> 10:30] and threw themselves against Pompey's line.
+[10:31 --> 10:33] The battle of Pharsalus
+[10:33 --> 10:33] had begun.
+[10:35 --> 10:36] With the two
+[10:36 --> 10:38] infantry's engaged, Pompey
+[10:38 --> 10:40] ordered his cavalry to break through
+[10:40 --> 10:41] according to the plan.
+[10:42 --> 10:44] They had no problem driving off Caesar's
+[10:44 --> 10:46] smaller cavalry. But when they cleared
+[10:46 --> 10:48] out the enemy horse, they suddenly found
+[10:48 --> 10:50] themselves confronted with an unexpected
+[10:50 --> 10:51] line of Caesar's heavy infantry.
+[10:52 --> 10:54] This time, it was Caesar's
+[10:54 --> 10:55] turn to defy convention.
+[10:56 --> 10:58] Usually, when confronted by
+[10:58 --> 11:00] charging cavalry, infantry men
+[11:00 --> 11:02] would hurl their spears and then try
+[11:02 --> 11:04] to hack at the legs of the riders with their short
+[11:04 --> 11:05] swords. But Caesar
+[11:05 --> 11:07] ordered his men to hold onto their spears
+[11:07 --> 11:10] and used those to attack the heads of the
+[11:10 --> 11:12] riders. Totally surprised
+[11:12 --> 11:14] by this new tactic, Pompey's
+[11:14 --> 11:16] cavalry was completely thrown off and
+[11:16 --> 11:18] pulled up short, trying to avoid being
+[11:18 --> 11:19] stabbed in the face by spears.
+[11:20 --> 11:22] In just a few minutes, Caesar's
+[11:22 --> 11:23] fourth line had scattered the charging
+[11:23 --> 11:25] cavalry, and as soon as they had,
+[11:26 --> 11:27] the battle was as good as over.
+[11:28 --> 11:29] The fourth line charged forward
+[11:29 --> 11:31] and was able to sweep around behind
+[11:31 --> 11:33] Pompey's infantry. Besieged now
+[11:33 --> 11:36] on two fronts, Pompey's less experienced
+[11:36 --> 11:37] troops panicked, and the decisive
+[11:37 --> 11:39] battle of the Civil War turned quickly
+[11:39 --> 11:41] from Titanic's struggle for the future of
+[11:41 --> 11:43] Rome to complete an utter
+[11:43 --> 11:44] rout.
+[11:46 --> 11:48] Pompey himself seems to have snapped
+[11:48 --> 11:49] mentally when he saw his cavalry
+[11:49 --> 11:51] shattered and fled the battlefield,
+[11:51 --> 11:53] leaving his army to fend for itself.
+[11:54 --> 11:55] Seeing Pompey run
+[11:55 --> 11:57] ended any notion that the day might somehow
+[11:57 --> 12:00] be salvaged, and it soon became every
+[12:00 --> 12:01] man for himself.
+[12:01 --> 12:03] Senators, who had just that morning been
+[12:03 --> 12:05] splitting up the inevitable spoils of victory,
+[12:06 --> 12:07] now scattered in every direction.
+[12:09 --> 12:10] Caesar himself
+[12:10 --> 12:11] did not linger over his victory
+[12:11 --> 12:13] in the field, and immediately charged
+[12:13 --> 12:15] for Pompey's camp, hoping he could
+[12:15 --> 12:18] catch his defeated rival and finalize
+[12:18 --> 12:19] an official peace.
+[12:20 --> 12:22] But despite his speed, he could
+[12:22 --> 12:23] not get there in time.
+[12:24 --> 12:25] Pompey had gathered up his family,
+[12:25 --> 12:27] who had been with him since his flight from Rome,
+[12:28 --> 12:29] and abandoned the camp.
+[12:29 --> 12:31] He loaded up as much gold as he could,
+[12:31 --> 12:33] but was forced to leave behind most of
+[12:33 --> 12:35] his possessions when word came that
+[12:35 --> 12:36] Caesar was headed straight for him.
+[12:38 --> 12:39] He went so far as to throw off
+[12:39 --> 12:41] his general's cloak and disguise himself
+[12:41 --> 12:43] as a common camp follower to avoid
+[12:43 --> 12:44] capture.
+[12:45 --> 12:47] Pompey Magnus, who had fought his whole career
+[12:47 --> 12:49] for honor and glory, was reduced
+[12:49 --> 12:51] by defeat to a pathetic shadow
+[12:51 --> 12:53] of his former self, abandoning
+[12:53 --> 12:55] his troops and running for his life.
+[12:56 --> 12:57] But maybe that's
+[12:57 --> 12:59] too harsh. It was not
+[12:59 --> 13:01] for nothing that Pompey fled for Egypt,
+[13:01 --> 13:03] and not for nothing that he made sure
+[13:03 --> 13:05] he took with him as much gold as he could.
+[13:06 --> 13:07] The Senate had an ally
+[13:07 --> 13:09] in King Juba of Numidia,
+[13:09 --> 13:11] and Pompey's plan was likely to gather
+[13:11 --> 13:13] another army in North Africa, where
+[13:13 --> 13:15] allies of Caesar had just been defeated
+[13:15 --> 13:17] in that sub theater of the Greater Civil
+[13:17 --> 13:19] War. But
+[13:19 --> 13:20] it was not to be.
+[13:20 --> 13:22] Court ministers in Alexandria,
+[13:23 --> 13:25] the capital of Egypt, learned that
+[13:25 --> 13:27] Pompey was headed their way and resolved
+[13:27 --> 13:28] to curry favor with Caesar by
+[13:28 --> 13:30] assassinating his enemy.
+[13:31 --> 13:32] When Pompey arrived at the Egyptian
+[13:32 --> 13:34] coast, he was greeted by a small
+[13:34 --> 13:36] skiff that was to take him to shore.
+[13:37 --> 13:38] But as soon as he was on board
+[13:38 --> 13:40] and separated from his bodyguards,
+[13:41 --> 13:42] the Egyptian welcoming party attacked.
+[13:43 --> 13:44] They stabbed Pompey repeatedly,
+[13:45 --> 13:46] murdering him there on the shores
+[13:46 --> 13:48] of Egypt, the second triumph
+[13:48 --> 13:50] for Caesar to meet a violent end after a life
+[13:50 --> 13:51] spent chasing greatness.
+[13:54 --> 13:54] When Caesar
+[13:54 --> 13:56] heard the news, he was enraged.
+[13:57 --> 13:58] The conspiring ministers in
+[13:58 --> 14:00] Alexandria could not have been more wrong
+[14:00 --> 14:02] about what Caesar wanted, and their clever
+[14:02 --> 14:04] plan totally backfired.
+[14:05 --> 14:06] Rather than making a friend in Caesar,
+[14:07 --> 14:08] they had just cemented him as a
+[14:08 --> 14:09] furious enemy.
+[14:10 --> 14:12] See, Caesar's whole posture
+[14:12 --> 14:14] had always been one of the magnanimous
+[14:14 --> 14:16] victor, the generous statesman
+[14:16 --> 14:18] who was forever pardoning his enemies.
+[14:19 --> 14:21] After the Battle of Pharsalus,
+[14:21 --> 14:22] a whole contingent of senators
+[14:22 --> 14:24] decided that running in order to keep up the
+[14:24 --> 14:26] fight was pointless, and supplicated
+[14:26 --> 14:28] themselves before Caesar, expecting
+[14:28 --> 14:30] the worst, but hoping for the best.
+[14:32 --> 14:33] Caesar pardoned them
+[14:33 --> 14:34] all, and declared it his greatest
+[14:34 --> 14:36] desire to simply heal the divisions
+[14:36 --> 14:38] within the state and reunite Rome
+[14:38 --> 14:39] as one body.
+[14:40 --> 14:42] Among those who begged forgiveness was
+[14:42 --> 14:44] Marcus Brutus, son of Caesar's
+[14:44 --> 14:47] old mistress Servilia, whom Caesar had
+[14:47 --> 14:49] long regarded affectionately as a stepson.
+[14:49 --> 14:51] He welcomed Brutus back
+[14:51 --> 14:53] to his side, and told him to forget the
+[14:53 --> 14:54] past, that together they would build
+[14:54 --> 14:56] a new future for Rome.
+[14:56 --> 14:59] And this was exactly how he intended to handle
+[14:59 --> 15:00] his old friend Pompey the Great,
+[15:00 --> 15:02] just as soon as he caught him.
+[15:03 --> 15:05] So you can imagine Caesar's
+[15:05 --> 15:07] reaction when he landed in Alexandria
+[15:07 --> 15:08] in the autumn of 48 BC,
+[15:09 --> 15:11] hot on Pompey's heels, and instead
+[15:11 --> 15:12] of receiving information about which
+[15:12 --> 15:15] direction his rival had gone, he was
+[15:15 --> 15:17] instead presented with Pompey's head.
+[15:18 --> 15:19] The assassination denied
+[15:19 --> 15:21] Caesar his planned public
+[15:21 --> 15:23] relations coup de grace of pardoning
+[15:23 --> 15:24] Pompey, and asking that he serve
+[15:24 --> 15:26] beside him, as together they repaired
+[15:26 --> 15:29] Rome, and made the empire even greater
+[15:29 --> 15:31] than it had been before the civil war.
+[15:32 --> 15:33] When he saw the head,
+[15:33 --> 15:35] he wept bitter tears, and to
+[15:35 --> 15:37] everyone's shock, ordered that it be buried
+[15:37 --> 15:37] with full honors.
+[15:38 --> 15:40] The ashes of Pompey's body were handed
+[15:40 --> 15:43] over to his grieving widow, who was allowed
+[15:43 --> 15:45] to return to Rome and perform the funeral
+[15:45 --> 15:47] rites, becoming of a great hero.
+[15:48 --> 15:50] When Caesar was done mourning his old partner,
+[15:51 --> 15:52] and one time son-in-law, he turned
+[15:52 --> 15:55] to the ministers who had engineered the assassination.
+[15:56 --> 15:57] They were in
+[15:57 --> 15:57] big trouble.
+[16:00 --> 16:00] Alexandria
+[16:00 --> 16:03] had been founded in 334 BC
+[16:03 --> 16:04] by Alexander the Great,
+[16:05 --> 16:07] and since that time, it had grown to become
+[16:07 --> 16:09] one of the most important cities of the ancient
+[16:09 --> 16:11] world, nearly as wealthy and populous
+[16:11 --> 16:12] as Rome itself.
+[16:13 --> 16:14] When Alexander died,
+[16:15 --> 16:17] his domains had been divided up by his
+[16:17 --> 16:19] former captains, with Egypt going to
+[16:19 --> 16:21] the general Ptolemy, and since then,
+[16:21 --> 16:23] the Ptolemaic dynasty had ruled
+[16:23 --> 16:25] the Nile from the growing cosmopolitan
+[16:25 --> 16:26] capital of Alexandria.
+[16:28 --> 16:29] The Greek-speaking
+[16:29 --> 16:31] Ptolemies made no effort to integrate
+[16:31 --> 16:33] with the locals, and rarely left the
+[16:33 --> 16:34] safety of their palaces.
+[16:35 --> 16:37] But with the death of Ptolemy the 12th and
+[16:37 --> 16:39] 151 BC, the ruling dynasty
+[16:39 --> 16:40] was fractured.
+[16:41 --> 16:43] The dead king had decreed that his son
+[16:43 --> 16:45] and daughter ought to be co-rulers in the
+[16:45 --> 16:47] Egyptian tradition, but the
+[16:47 --> 16:48] same court ministers who would later
+[16:48 --> 16:51] assassinate Pompey had decided that the
+[16:51 --> 16:53] 10-year-old Ptolemy the 13th would
+[16:53 --> 16:55] be far easier to control than his
+[16:55 --> 16:57] 18-year-old sister Cleopatra,
+[16:57 --> 16:59] and so worked diligently to
+[16:59 --> 17:00] marginalize her power.
+[17:01 --> 17:02] But Cleopatra was savvy,
+[17:03 --> 17:05] and seeing that she was the target of
+[17:05 --> 17:07] Ptolemaic intrigue, did something totally
+[17:07 --> 17:09] radical. She turned to the local
+[17:09 --> 17:10] Egyptians for support.
+[17:12 --> 17:13] She became the first of the
+[17:13 --> 17:15] Ptolemies to learn Egyptian, and often
+[17:15 --> 17:17] took part in the local religious festivals
+[17:17 --> 17:18] in her role as queen.
+[17:19 --> 17:21] By ingratiating herself with
+[17:21 --> 17:23] the locals, the queen became even more
+[17:23 --> 17:25] dangerous to the ministers controlling her
+[17:25 --> 17:27] brother, and so, by the time
+[17:27 --> 17:29] Caesar arrived in Egypt, a full-blown
+[17:29 --> 17:31] civil war was underway, with
+[17:31 --> 17:33] Cleopatra exiled from the capital,
+[17:33 --> 17:35] leading an army of local Egyptians.
+[17:36 --> 17:37] But at that time in Egypt,
+[17:37 --> 17:39] support from the locals did not count
+[17:39 --> 17:41] for nearly as much as support from the
+[17:41 --> 17:43] Greeks in Alexandria, so her
+[17:43 --> 17:44] position was dicey at best.
+[17:45 --> 17:47] And this is why it had been such a huge
+[17:47 --> 17:49] mistake by the conspiring ministers
+[17:49 --> 17:51] to kill Pompey. It caused
+[17:51 --> 17:53] Caesar, in his disgust, to turn
+[17:53 --> 17:54] away from the young king they controlled
+[17:54 --> 17:57] and look for other allies in Egypt to support.
+[17:58 --> 17:59] Cleopatra fit
+[17:59 --> 18:00] the bill perfectly.
+[18:01 --> 18:02] So, rather than return
+[18:02 --> 18:04] to Rome and begin consolidating his
+[18:04 --> 18:06] power there, Caesar announced his
+[18:06 --> 18:08] intention to stay in Alexandria and
+[18:08 --> 18:09] settle the civil war.
+[18:10 --> 18:12] But placing an ally on the throne
+[18:12 --> 18:14] was not Caesar's only reason for staying in
+[18:14 --> 18:16] Egypt. His endless campaigning
+[18:16 --> 18:18] was expensive, and he needed
+[18:18 --> 18:19] money.
+[18:20 --> 18:22] With the rise of Rome, the
+[18:22 --> 18:24] Ptolemies maintained the independence of Egypt
+[18:24 --> 18:26] by issuing massive bribes to influential
+[18:26 --> 18:28] Romans, which in time, included
+[18:28 --> 18:30] Crassus, Pompey, and Caesar.
+[18:31 --> 18:32] Caesar reminded young Ptolemy the
+[18:32 --> 18:34] 13th that the last round of payments
+[18:34 --> 18:36] promised by his father had in no way
+[18:36 --> 18:38] been forgotten just because the old king
+[18:38 --> 18:41] had died. Ptolemy's ministers
+[18:41 --> 18:42] did everything they could to try to
+[18:42 --> 18:44] convince Caesar to leave, promising
+[18:44 --> 18:46] payments as soon as he was back in Rome.
+[18:46 --> 18:48] But Caesar would have none of it.
+[18:48 --> 18:50] He was more than content to wait for payment,
+[18:50 --> 18:52] and in the meantime, he could help them
+[18:52 --> 18:54] solve their little civil war. I'll
+[18:54 --> 18:55] bet they were thrilled.
+[18:56 --> 18:58] He called for Cleopatra
+[18:58 --> 19:00] to return to the royal palace to help
+[19:00 --> 19:01] sort out the conflict.
+[19:02 --> 19:03] But knowing that if she were to simply
+[19:03 --> 19:05] appear at the gates, it was likely that her
+[19:05 --> 19:07] brother's allies would have her killed before
+[19:07 --> 19:09] she could make it to the relative safety of Caesar's
+[19:09 --> 19:11] company. So she famously
+[19:11 --> 19:13] hid in what amounted to a laundry bag
+[19:13 --> 19:15] and had a loyal slave smuggle her
+[19:15 --> 19:16] into the palace.
+[19:17 --> 19:19] Caesar was immediately taken by the cunning
+[19:19 --> 19:21] young queen after she slipped through danger
+[19:21 --> 19:22] in such dramatic fashion.
+[19:23 --> 19:25] Declaring only to be executing
+[19:25 --> 19:27] the will of the dead Ptolemy XII,
+[19:27 --> 19:29] Caesar re-elevated Cleopatra
+[19:29 --> 19:31] to co-ruler, and not long after,
+[19:31 --> 19:32] the 21-year-old queen,
+[19:33 --> 19:35] for reasons of either politics or
+[19:35 --> 19:37] affection, became Caesar's mistress.
+[19:39 --> 19:40] The powers behind Ptolemy XIII,
+[19:41 --> 19:43] however, were not going to take this
+[19:43 --> 19:45] lying down, and concluded that they were
+[19:45 --> 19:47] going to have to expel the Romans by force.
+[19:48 --> 19:50] Caesar had brought with him to Alexandria
+[19:50 --> 19:52] only a single understaffed legion of
+[19:52 --> 19:54] some 4,000 infantry and around
+[19:54 --> 19:56] 800 cavalry.
+[19:56 --> 19:58] Reinforcements were on the way, but they were
+[19:58 --> 19:59] weeks out.
+[20:00 --> 20:02] So if the ministers were planning to drive Caesar
+[20:02 --> 20:04] away, they knew they needed to do it
+[20:04 --> 20:05] before the rest of his army arrived.
+[20:06 --> 20:08] So they whip the local Alexandrians
+[20:08 --> 20:10] into a frenzy, declaring that
+[20:10 --> 20:12] Caesar was planning to make Egypt a province,
+[20:12 --> 20:14] depriving them all of the liberty and wealth
+[20:14 --> 20:16] to which they had grown accustomed.
+[20:17 --> 20:18] Nearly the whole city rose up
+[20:18 --> 20:20] in revolt and besieged the royal palace,
+[20:21 --> 20:22] which was held by Caesar and his men.
+[20:24 --> 20:24] What followed
+[20:24 --> 20:26] was weeks of bitter street fighting,
+[20:27 --> 20:28] as Caesar was forced to try and conquer
+[20:28 --> 20:30] and hold the neighborhoods around the palace,
+[20:30 --> 20:32] house by house, block by block.
+[20:34 --> 20:34] Nothing in their
+[20:34 --> 20:36] long careers prepared the Romans
+[20:36 --> 20:38] for the rigors of urban warfare.
+[20:39 --> 20:40] The cavalry was useless,
+[20:40 --> 20:43] and traditional troop deployments were unworkable.
+[20:43 --> 20:44] Their only advantage
+[20:44 --> 20:46] was that they were tougher and more disciplined
+[20:46 --> 20:49] soldiers than their opponents, and were able
+[20:49 --> 20:51] to withstand barrages from the locals
+[20:51 --> 20:53] as they moved to eradicate pockets
+[20:53 --> 20:53] of resistance.
+[20:54 --> 20:56] Eventually the Romans leveled whole blocks
+[20:56 --> 20:59] to create a no man's land the Alexandrians
+[20:59 --> 21:01] would be suicidal to try and cross.
+[21:03 --> 21:04] The ticking clock was at the forefront
+[21:04 --> 21:06] of the Alexandrians' mind.
+[21:07 --> 21:08] While Caesar needed only to hold out until
+[21:08 --> 21:11] reinforcements arrived, the Alexandrians
+[21:11 --> 21:13] needed to win before the reinforcements
+[21:13 --> 21:15] arrived. But no matter how
+[21:15 --> 21:17] hard they tried, they couldn't break the Roman
+[21:17 --> 21:19] resistance. Caesar was
+[21:19 --> 21:21] able to maintain access to supplies
+[21:21 --> 21:23] by winning a naval battle on the harbor,
+[21:23 --> 21:25] but suffered casualties he could
+[21:25 --> 21:27] not afford in an ultimately successful
+[21:27 --> 21:29] but brutal assault on
+[21:29 --> 21:31] Pharos Island, home to one of the seven
+[21:31 --> 21:33] wonders of the ancient world, the great
+[21:33 --> 21:34] lighthouse of Alexandria.
+[21:35 --> 21:37] Finally though, in January
+[21:37 --> 21:39] of 47 BC, word
+[21:39 --> 21:41] came that the Roman reinforcements had completed
+[21:41 --> 21:43] their overland march and were now
+[21:43 --> 21:44] on the outskirts of Egypt.
+[21:46 --> 21:47] Caesar slipped his besieged
+[21:47 --> 21:49] men out of the palace under cover of night
+[21:49 --> 21:51] and along with a contingent of
+[21:51 --> 21:53] Cleopatra's Egyptian army, joined
+[21:53 --> 21:55] with the newly arrived legions to form
+[21:55 --> 21:56] an army of some 20,000.
+[21:57 --> 21:59] This combined force assaulted
+[21:59 --> 22:01] the base of Young Ptolemy's army
+[22:01 --> 22:03] which numbered around 20,000 itself.
+[22:04 --> 22:05] Used to fighting severely
+[22:05 --> 22:07] outnumbered, basing an army merely
+[22:07 --> 22:09] equal in size was a rare treat for
+[22:09 --> 22:11] Caesar's legions. The battle
+[22:11 --> 22:13] of the Nile was easily won by the Romans.
+[22:14 --> 22:15] Ptolemy the 13th drowned
+[22:15 --> 22:17] when the ship he was escaping on
+[22:17 --> 22:19] capsized and Cleopatra
+[22:19 --> 22:21] was placed back on the throne.
+[22:22 --> 22:23] Caesar though, never
+[22:23 --> 22:25] had any real intention of annexing Egypt.
+[22:26 --> 22:27] The wealth of Alexandria
+[22:27 --> 22:29] combined with its now thoroughly anti-Roman
+[22:30 --> 22:31] citizenry, would prove a
+[22:31 --> 22:33] fertile center of rebellion no matter how
+[22:33 --> 22:35] loyal a governor Caesar installed.
+[22:36 --> 22:37] Better to leave it as a client
+[22:37 --> 22:39] kingdom with Cleopatra in charge.
+[22:39 --> 22:41] The Queen understood that she owed her
+[22:41 --> 22:44] position to Caesar and Caesar alone.
+[22:44 --> 22:45] So he knew she might be the one
+[22:45 --> 22:47] person on earth he could trust not
+[22:47 --> 22:49] to rebel the first chance she got.
+[22:50 --> 22:51] But official province
+[22:51 --> 22:53] or not, Egypt was now firmly under
+[22:53 --> 22:55] Roman control. The Hellenistic
+[22:55 --> 22:57] dynasty of the Ptolemies that had
+[22:57 --> 22:59] ruled since Alexander the Great was
+[22:59 --> 23:01] for all intents and purposes, broken.
+[23:03 --> 23:04] Rome's full encirclement
+[23:04 --> 23:05] of the Mediterranean was nearly
+[23:05 --> 23:06] complete.
+[23:09 --> 23:11] Because I left Caesar in such desperate
+[23:11 --> 23:13] straits at the end of the last episode,
+[23:13 --> 23:15] suffering through the winter with half
+[23:15 --> 23:17] an army deep in hostile territory,
+[23:17 --> 23:19] this week I think he deserves
+[23:19 --> 23:21] to be left in a slightly better place.
+[23:22 --> 23:23] So we'll leave him there in Egypt
+[23:23 --> 23:25] where, despite the fact that the remaining
+[23:25 --> 23:27] senatorial forces were regrouping
+[23:27 --> 23:29] in Numidia, the fact that Mark Antony's
+[23:29 --> 23:31] ruthlessly debauched management
+[23:31 --> 23:33] of Rome was turning the city into a hellhole,
+[23:33 --> 23:35] the fact that his appointed governor
+[23:35 --> 23:37] of Spain was so corrupt and brutal
+[23:37 --> 23:39] that the natives so recently won to Caesar's
+[23:39 --> 23:41] banner were in revolt, and the
+[23:41 --> 23:43] fact that nearly every territory Rome
+[23:43 --> 23:45] had ever pacified was planning to declare
+[23:45 --> 23:47] its independence at the first opportunity.
+[23:48 --> 23:49] Caesar took a month
+[23:49 --> 23:51] off in early 47 BC
+[23:51 --> 23:53] to enjoy a leisurely cruise up the Nile
+[23:53 --> 23:54] with Cleopatra.
+[23:55 --> 23:57] Next week, Caesar will go back to the
+[23:57 --> 23:59] exhausting business of consolidating power
+[23:59 --> 24:01] over the Roman Empire, but for now
+[24:01 --> 24:03] let's leave him be. I think
+[24:03 --> 24:04] he's earned a vacation.
+[24:26 --> 24:28] Thank you for watching!

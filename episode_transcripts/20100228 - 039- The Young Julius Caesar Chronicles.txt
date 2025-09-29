@@ -1,0 +1,654 @@
+# 20100228 - 039- The Young Julius Caesar Chronicles
+# Detected language: en
+# Duration: 1372.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to The History of Rome, episode 39, The Young Julius Caesar Chronicles.
+[00:13 --> 00:18] Last time, we covered Catiline's ill-fated conspiracy during the consulship of Cicero
+[00:18 --> 00:19] in 63 BC.
+[00:20 --> 00:24] This week, I want to backtrack a bit and fill in some of the gaps on our way to
+[00:24 --> 00:28] the formation of the alliance between Pompey, Crassus, and Julius Caesar in 60
+[00:28 --> 00:31] BC, now called the First Triumvirate.
+[00:31 --> 00:35] In the aftermath of Spartacus' slave revolt, Pompey and Crassus had served as
+[00:35 --> 00:39] co-consuls, and though they functioned well enough publicly, personally they
+[00:39 --> 00:43] were bitter rivals, or at least Crassus was bitter rivals with Pompey.
+[00:43 --> 00:46] I'm not really sure how much thought Pompey ever gave to Crassus.
+[00:47 --> 00:50] After their shared consulship, they were glad to be rid of each other.
+[00:51 --> 00:54] It was not until a decade later that they were brought together again, this
+[00:54 --> 00:58] time by a man who would soon be consul himself and desperately needed allies
+[00:58 --> 01:02] in his coming flame war with the Senate, Gaius Julius Caesar.
+[01:03 --> 01:06] And when I say fill in some gaps, it turns out what I really meant is write
+[01:06 --> 01:10] a sprawling, double-length episode on Caesar's early career.
+[01:12 --> 01:16] Gaius Julius Caesar was born in 100 BC into the ancient Patrician
+[01:16 --> 01:17] Julii family.
+[01:18 --> 01:21] Though the family traced their lineage back to Aeneas, and thus to the
+[01:21 --> 01:25] goddess Venus herself, they had in recent generations fallen on hard times.
+[01:26 --> 01:30] While they always maintained respectability, they had long since passed to the margins
+[01:30 --> 01:32] of Roman political life.
+[01:33 --> 01:37] Caesar's particular branch was on the margins of Roman economic life as well,
+[01:37 --> 01:41] and the boy grew up in a neighborhood called the Subaru, which was far both geographically
+[01:41 --> 01:46] and culturally from the estates of his fellow patrician nobles on the Palatine
+[01:46 --> 01:46] Hill.
+[01:47 --> 01:51] I think it goes without saying that being raised in what amounted to a tenement
+[01:51 --> 01:56] building owned by his parents had a great impact on Caesar's later populist politics.
+[01:56 --> 02:01] Yes, he had impeccable patrician credentials, but Caesar would always identify
+[02:01 --> 02:04] himself with the common man and position himself as their champion.
+[02:06 --> 02:11] His childhood and early career were defined by two women, his mother, Aurelia, and
+[02:11 --> 02:12] his aunt Julia.
+[02:13 --> 02:18] With his father, also named Gaius Julius Caesar, forever away on state business and
+[02:18 --> 02:22] dead by the time Caesar was fifteen, it was up to his mother to raise him.
+[02:22 --> 02:27] An intelligent, independent woman, highly regarded in Rome at the time and held up
+[02:27 --> 02:32] as the ideal Roman woman by later historians, she came from a family of consuls and made
+[02:32 --> 02:37] sure that her son had the education and grooming necessary to follow in the footsteps
+[02:37 --> 02:39] of his maternal forefathers.
+[02:39 --> 02:44] The other great woman in Caesar's life was his aunt Julia, who was married to none
+[02:44 --> 02:46] other than our old friend, Gaius Marius.
+[02:47 --> 02:51] The marriage had been a boon to both families, as Marius needed patrician endorsement to
+[02:51 --> 02:55] keep his political career moving forward, and the Julia needed the money and fame
+[02:55 --> 02:57] that Marius brought with him.
+[02:58 --> 03:01] Though Caesar and Marius probably had limited contact with one another, the
+[03:01 --> 03:05] marriage joined Caesar at the hip to Marius politically, in some years for better
+[03:05 --> 03:08] and in some years, obviously, for the worse.
+[03:09 --> 03:12] It is a testament, though, to the esteem Julia was held in, that when Sulla
+[03:12 --> 03:17] returned to Rome, the wife of his worst enemy and mother of the young man he had
+[03:17 --> 03:21] so recently defeated on the battlefield was herself left off the prescription
+[03:21 --> 03:21] lists.
+[03:23 --> 03:26] Caesar's first step into public life was very nearly his last.
+[03:27 --> 03:31] At the age of sixteen, while Senna ruled Rome and Sulla was off fighting
+[03:31 --> 03:35] Mithra deities, Caesar was named Flamandialis, or Priest of Jupiter.
+[03:36 --> 03:40] One of the oldest priesthoods in Rome, it was also smothered by archaic and
+[03:40 --> 03:44] bizarre traditions that, among other things, required the priest to wear
+[03:44 --> 03:48] a pointed hat at all times, forbade him from seeing a dead body, riding a
+[03:48 --> 03:53] horse, wearing knots on his clothing, or, critically, being absent from the
+[03:53 --> 03:55] city for even a single night.
+[03:56 --> 04:00] It also required that the priest be married to a patrician, so Caesar was
+[04:00 --> 04:04] married to the daughter of Senna, which, briefly, made him the son-in-law to the
+[04:04 --> 04:06] most powerful man in Rome.
+[04:07 --> 04:10] Not that this connection would do him any good personally, of course, as the
+[04:10 --> 04:13] appointment to the Flamandialis precluded any political or military
+[04:13 --> 04:14] career.
+[04:14 --> 04:18] Luckily for the ambitious Caesar, the appointment was for life.
+[04:19 --> 04:23] But really luckily for Caesar, Sulla returned and the appointment was
+[04:23 --> 04:23] nullified.
+[04:24 --> 04:27] The new dictator cleared the city of his enemies and he had no use for
+[04:27 --> 04:31] Senna's son-in-law and Marius's nephew in any public position.
+[04:32 --> 04:36] He demanded further that Caesar divorce Cornelia, Senna's daughter, but in
+[04:36 --> 04:39] an act of reckless or bold defiance, depending on your point of view,
+[04:39 --> 04:40] Caesar refused.
+[04:41 --> 04:45] After this, Sulla decided that he had no use for Senna's son-in-law and
+[04:45 --> 04:48] Marius's nephew, period, and young Caesar found his name on the
+[04:48 --> 04:49] prescription list.
+[04:50 --> 04:53] At the age of 19, Caesar ran for his life into the Italian
+[04:53 --> 04:57] countryside, hiding out with sympathetic relatives and keeping on the
+[04:57 --> 04:57] move.
+[04:58 --> 05:02] But in the city, his mother, representative Vestal Virgins, and allies
+[05:02 --> 05:05] of Sulla with familial connections to the young fugitive, pleaded
+[05:05 --> 05:08] with Sulla to remove Caesar's name from the list.
+[05:09 --> 05:12] Finally, with his hold on power more secure, Sulla let himself be
+[05:12 --> 05:15] persuaded and Caesar was allowed to come out of hiding.
+[05:17 --> 05:21] In 80 BC, the 20-year-old Caesar knew that he was borrowing trouble
+[05:21 --> 05:24] by remaining in the city and got himself attached to the military
+[05:24 --> 05:26] staff of the governor of Asia.
+[05:27 --> 05:31] He would keep his head down and try to advance his career abroad, at
+[05:31 --> 05:33] least until Sulla was gone and the coast was truly clear.
+[05:35 --> 05:38] In Asia, Caesar served with distinction and was awarded the civic
+[05:38 --> 05:41] crown for his role in winning the siege of Medellini.
+[05:42 --> 05:45] For the rest of his life, whenever he wore the simple oak wreath, all
+[05:45 --> 05:49] men, from the lowliest beggar to the greatest senator, would be
+[05:49 --> 05:52] required to stand when he entered a public festival.
+[05:53 --> 05:56] Caesar loved wearing the crown, delighting in how much it annoyed his
+[05:56 --> 05:59] senatorial enemies to stand respectfully in acknowledgement of
+[05:59 --> 06:02] what a brave soldier and all-around wonderful guy he was.
+[06:03 --> 06:06] But the siege of Medellini would also prove the source of
+[06:06 --> 06:08] persisting glee for those same enemies.
+[06:10 --> 06:13] In order to break the resistance of the city, which was located
+[06:13 --> 06:16] on Turkey's Aegean coast, the Romans needed naval reinforcement.
+[06:17 --> 06:20] Caesar was sent to Bithynia to request aid from King Nicomedes,
+[06:21 --> 06:24] who, you will recall, will die in a few years, leaving his kingdom
+[06:24 --> 06:27] to Rome and touching off the last Mithridatic War.
+[06:28 --> 06:31] But Caesar seems to have done a little too well on his mission
+[06:31 --> 06:34] and lingered a little too long in Bithynia while doing it, and
+[06:34 --> 06:37] rumors began to fly that he had carried on an affair with
+[06:37 --> 06:38] King Nicomedes.
+[06:38 --> 06:41] Caesar denied it all his life, but it did not stop his enemies
+[06:41 --> 06:45] from referring to him as the Queen of Bithynia, nor did it
+[06:45 --> 06:48] stop Graffiti from later showing up on the walls of Rome
+[06:48 --> 06:52] that read, Caesar conquered Gaul, but Nicomedes conquered Caesar.
+[06:54 --> 06:58] When Sulla died in 78 BC, it was finally safe for Caesar in Rome,
+[06:58 --> 07:01] so he returned from Asia and began a legal career that would
+[07:01 --> 07:04] fill his time and enhance his reputation while he waited
+[07:04 --> 07:06] to begin the climb of the cursus honorum.
+[07:07 --> 07:10] Like Cicero, Caesar would make a name for himself as a
+[07:10 --> 07:12] distinguished orator, while combating the excessive
+[07:12 --> 07:14] corruption of greedy proconsuls.
+[07:15 --> 07:18] But unlike Cicero, his efforts were largely wasted on losing
+[07:18 --> 07:21] efforts, and his words were no match for the bribes his
+[07:21 --> 07:24] defendants used in order to avoid prosecution.
+[07:25 --> 07:27] But winner losing mattered little to Caesar in the long
+[07:27 --> 07:28] run.
+[07:28 --> 07:31] It was only important that powerful men acknowledged his
+[07:31 --> 07:34] oratorical skill and that unimportant men knew that he
+[07:34 --> 07:34] was on their side.
+[07:36 --> 07:39] In an effort to build on his natural rhetorical talent,
+[07:40 --> 07:42] Caesar arranged to be tutored in Rhodes by the same
+[07:42 --> 07:45] Greek who had brought Cicero's skills to such great heights.
+[07:47 --> 07:48] But he never reached the city.
+[07:48 --> 07:52] Along the way, his ship was attacked by Cilician pirates.
+[07:52 --> 07:55] Caesar was captured and held for ransom, a typical and
+[07:55 --> 07:57] lucrative practice among the pirates of the day.
+[07:58 --> 08:00] The pirates took a liking to their hostage almost
+[08:00 --> 08:01] immediately.
+[08:02 --> 08:04] Discovering that they were asking only 20 talents for
+[08:04 --> 08:07] him, Caesar was outraged and demanded that they ask
+[08:07 --> 08:08] for no less than 50.
+[08:09 --> 08:11] The pirates agreed to this humorous demand, and Caesar
+[08:11 --> 08:14] sent away a few of his slaves to collect the money.
+[08:15 --> 08:17] For the next 40 days, Caesar lived with the pirates,
+[08:18 --> 08:20] never once showing any sign of the terror the pirates
+[08:20 --> 08:22] were used to seeing in their victims.
+[08:22 --> 08:25] He ate his meals with them, participated in athletic
+[08:25 --> 08:28] contests, demanded that they keep it down while he
+[08:28 --> 08:30] was trying to sleep, and generally acted as if the
+[08:30 --> 08:32] whole affair was no big deal.
+[08:33 --> 08:35] He also joked that when he was free, he was going
+[08:35 --> 08:38] to raise a fleet, come back, and crucify the whole
+[08:38 --> 08:38] lot of them.
+[08:39 --> 08:41] They laughed, of course, but when the ransom was
+[08:41 --> 08:44] paid and Caesar was let go, he immediately raised a
+[08:44 --> 08:46] fleet and did just that.
+[08:47 --> 08:49] He returned to his place of capture, sacked the
+[08:49 --> 08:51] hideout, and mercilessly crucified his former
+[08:51 --> 08:52] captors.
+[08:53 --> 08:55] Well, I shouldn't say mercilessly, he did slit
+[08:55 --> 08:58] their throats before posting them on the cross.
+[09:00 --> 09:02] Caesar remained in Asia after his pirate
+[09:02 --> 09:05] adventure and raised a local militia to help
+[09:05 --> 09:06] defend Roman interests from the allies of
+[09:06 --> 09:10] Thradates, but was recalled to Rome in 73 to
+[09:10 --> 09:13] join a spot in the priesthood vacated by his
+[09:13 --> 09:14] recently deceased cousin.
+[09:15 --> 09:18] Unlike the restrictive Flamidialis, this new
+[09:18 --> 09:20] priesthood carried with it no arcane restrictions,
+[09:21 --> 09:22] and in the same year, Caesar was elected
+[09:22 --> 09:25] military tribune, his first official step in
+[09:25 --> 09:26] the cursus honorum.
+[09:27 --> 09:30] It is likely, though not verified, that Caesar
+[09:30 --> 09:32] served in Crassus' legions during the slave
+[09:32 --> 09:34] revolt during this time.
+[09:34 --> 09:38] In 69, he took his next step and was elected
+[09:38 --> 09:40] quaestor for a term to be served in Spain.
+[09:41 --> 09:44] But before he left, he was hit with a tragedy.
+[09:44 --> 09:46] His Aunt Julia passed away.
+[09:46 --> 09:49] And in response, the bold and unpredictable
+[09:49 --> 09:52] young man was, well, bold and unpredictable.
+[09:54 --> 09:55] It was customary for the head of the
+[09:55 --> 09:58] household, Caesar in this case, to deliver
+[09:58 --> 10:00] a funeral oration in the forum for the
+[10:00 --> 10:01] deceased matron.
+[10:02 --> 10:04] But Caesar took things one step further.
+[10:05 --> 10:07] Since the reign of Sulla, Gaius Marius had
+[10:07 --> 10:09] been legally declared persona non grata
+[10:09 --> 10:11] in Rome, and his likeness was banned
+[10:11 --> 10:12] from the public sphere.
+[10:13 --> 10:15] But funeral processions of noble women
+[10:15 --> 10:17] usually included a depiction of their
+[10:17 --> 10:17] husbands.
+[10:18 --> 10:20] Caesar never hesitated, and marched
+[10:20 --> 10:22] through the streets of Rome at the head
+[10:22 --> 10:24] of a column that bore with it images
+[10:24 --> 10:26] of Gaius Marius, images that had not
+[10:26 --> 10:28] been seen publicly for more than a
+[10:28 --> 10:28] decade.
+[10:30 --> 10:32] Throughout the city, citizens and former
+[10:32 --> 10:34] soldiers began remembering Marius not
+[10:34 --> 10:36] for what he was in his final years,
+[10:36 --> 10:38] but for the great man who had picked
+[10:38 --> 10:40] beggars up from the slums and made
+[10:40 --> 10:42] them honorable soldiers, who had ended
+[10:42 --> 10:43] the needlessly extended war with
+[10:43 --> 10:45] Jugurtha, and who had defeated the
+[10:45 --> 10:46] invading Gauls.
+[10:47 --> 10:49] This procession marked the beginning
+[10:49 --> 10:51] of Marius's rehabilitation, and earned
+[10:51 --> 10:53] Caesar much acclaim from the common
+[10:53 --> 10:55] people for whom Marius had done so
+[10:55 --> 10:55] much.
+[10:56 --> 10:58] The conservative Senate, who would have
+[10:58 --> 10:59] been fined never hearing the name
+[10:59 --> 11:02] Marius again, were annoyed, but there
+[11:02 --> 11:03] was little they could do to censor
+[11:03 --> 11:05] Caesar after the outpouring of good
+[11:05 --> 11:06] will from the masses.
+[11:08 --> 11:09] But that wouldn't be the only tragedy
+[11:09 --> 11:11] that befell Caesar, nor the last
+[11:11 --> 11:13] time the people would embrace him
+[11:13 --> 11:14] before he left for Spain.
+[11:15 --> 11:17] Not long after Julia's death,
+[11:17 --> 11:19] Cornelia, the wife Caesar had defied
+[11:19 --> 11:22] Sulla to stand beside, suddenly died.
+[11:23 --> 11:25] There were traditions dictating who
+[11:25 --> 11:28] deserve funeral orations in the
+[11:28 --> 11:30] never qualified for the honor.
+[11:31 --> 11:33] But Caesar defied convention, and
+[11:33 --> 11:34] delivered a moving eulogy for
+[11:34 --> 11:35] Cornelia.
+[11:36 --> 11:37] Whether it was his intention, or
+[11:37 --> 11:39] just a lucky byproduct, the common
+[11:39 --> 11:41] people of Rome were moved by his
+[11:41 --> 11:43] obvious grief-stricken love.
+[11:44 --> 11:45] This was not just another stoic
+[11:45 --> 11:47] noble, this was a man with a
+[11:47 --> 11:48] heart, a man of passion.
+[11:49 --> 11:50] They loved him for it.
+[11:52 --> 11:53] Eventually, Caesar did make it to
+[11:53 --> 11:55] Spain, and while there, began to
+[11:55 --> 11:57] set up a network of clients,
+[11:57 --> 11:58] subjects, and allies that would
+[11:58 --> 12:00] serve him well for the rest of his
+[12:00 --> 12:00] career.
+[12:01 --> 12:03] Wherever he went, Caesar brought
+[12:03 --> 12:04] with him a reputation for fair
+[12:04 --> 12:06] dealing, competent administration,
+[12:07 --> 12:07] and mercy.
+[12:08 --> 12:10] He always governed with a stern,
+[12:10 --> 12:11] but understanding hand.
+[12:12 --> 12:14] When Spanish debtors were being
+[12:14 --> 12:16] hounded into insolvency by their
+[12:16 --> 12:17] Roman creditors, for example,
+[12:17 --> 12:19] Caesar managed to broker a deal,
+[12:19 --> 12:20] limiting the allowed wage
+[12:20 --> 12:21] garnishment percentage.
+[12:22 --> 12:24] But in his apparent populism,
+[12:24 --> 12:26] Caesar was savvy enough not to
+[12:26 --> 12:28] alienate the lenders who were,
+[12:28 --> 12:29] A, the men who could make or
+[12:29 --> 12:31] break his further political
+[12:31 --> 12:33] career, and B, the very men who
+[12:33 --> 12:34] Caesar would be borrowing money
+[12:34 --> 12:36] from to advance that political
+[12:36 --> 12:36] career.
+[12:37 --> 12:39] The wage garnishment limit was
+[12:39 --> 12:42] thus set at 66%, and not that
+[12:42 --> 12:43] the lenders did not feel
+[12:43 --> 12:45] cheated, but not so much that
+[12:45 --> 12:46] the borrowers were run out of
+[12:46 --> 12:47] their homes.
+[12:48 --> 12:49] It was the kind of practical
+[12:49 --> 12:51] administrative decision-making
+[12:51 --> 12:52] that was the hallmark of
+[12:52 --> 12:53] Caesar's career.
+[12:54 --> 12:55] Much is made of his military
+[12:56 --> 12:57] but he was as deft with
+[12:57 --> 12:58] legislation as he was with the
+[12:58 --> 12:59] sword.
+[13:00 --> 13:01] His laws, as we will see
+[13:01 --> 13:03] moving forward, were brilliantly
+[13:03 --> 13:05] written, impossible to attack,
+[13:05 --> 13:07] realistic in scope, and
+[13:07 --> 13:08] functional in implementation.
+[13:09 --> 13:11] Honestly, as dictators go,
+[13:12 --> 13:13] Julius Caesar was a man at
+[13:13 --> 13:14] least capable of doing the
+[13:14 --> 13:15] job right.
+[13:17 --> 13:18] When his work in Spain was
+[13:18 --> 13:20] completed, Caesar made his way
+[13:20 --> 13:21] back to Rome along the
+[13:21 --> 13:22] Mediterranean coast through
+[13:22 --> 13:23] Gaul.
+[13:24 --> 13:25] On the European side of the
+[13:25 --> 13:26] Alps, and then on the Italian
+[13:26 --> 13:28] side, Caesar moved slowly,
+[13:29 --> 13:30] lending a sympathetic ear to
+[13:30 --> 13:32] the populace, settling disputes,
+[13:32 --> 13:33] and generally ingratiating
+[13:33 --> 13:34] himself with the community.
+[13:35 --> 13:37] As in Spain, he earned a
+[13:37 --> 13:38] broad base of support that he
+[13:38 --> 13:39] could count on for the rest
+[13:39 --> 13:41] of his life, particularly, of
+[13:41 --> 13:42] course, during the Gallic
+[13:42 --> 13:44] campaigns a few years hence.
+[13:46 --> 13:48] Back in Rome, Caesar remarried,
+[13:48 --> 13:49] this time choosing, to the
+[13:49 --> 13:51] surprise of everyone, the
+[13:51 --> 13:52] granddaughter of Sulla.
+[13:53 --> 13:54] While the arrangement seemed
+[13:54 --> 13:55] to single a shift towards
+[13:55 --> 13:57] more conservative policies,
+[13:57 --> 13:59] Caesar used the benefits of the
+[13:59 --> 14:00] familial ties he gained without
+[14:00 --> 14:02] letting it interfere with his
+[14:02 --> 14:03] populist politics.
+[14:04 --> 14:06] Savvy and unpredictable, 100%
+[14:06 --> 14:07] pure of Caesar.
+[14:09 --> 14:10] His career continued to advance,
+[14:11 --> 14:12] and he was placed in charge
+[14:12 --> 14:13] of the Appian Way, a highly
+[14:13 --> 14:15] covered administrative post,
+[14:15 --> 14:17] and then was elected adyle.
+[14:18 --> 14:19] While serving in both
+[14:19 --> 14:20] functions, Caesar borrowed
+[14:20 --> 14:22] enormous sums of money to fund
+[14:22 --> 14:23] public works projects,
+[14:23 --> 14:25] festivals, gladiatorial games,
+[14:26 --> 14:27] and all manner of minor expenses.
+[14:29 --> 14:30] It was all for the good of Rome,
+[14:30 --> 14:31] and his career of course,
+[14:32 --> 14:33] but the scope of the debt was
+[14:33 --> 14:35] staggering, and Caesar's life
+[14:35 --> 14:36] would be defined for years by
+[14:36 --> 14:38] his running battles with,
+[14:38 --> 14:39] and sometimes literally running
+[14:39 --> 14:41] away from, his creditors.
+[14:43 --> 14:44] It was during this period that
+[14:44 --> 14:46] his alliance with Crassus was
+[14:46 --> 14:47] really solidified.
+[14:48 --> 14:49] Anyone with half a brain could
+[14:49 --> 14:50] see that Caesar was a man on the
+[14:50 --> 14:52] rise, and Crassus was no dummy.
+[14:53 --> 14:55] Yes, he was rich beyond measure,
+[14:55 --> 14:56] but he lacked the kind of charisma
+[14:56 --> 14:58] that oozed out of Caesar.
+[14:59 --> 15:01] By patronizing the young noble,
+[15:01 --> 15:02] Crassus was making sure both
+[15:02 --> 15:03] that Caesar never became his
+[15:03 --> 15:05] enemy, and that some of the
+[15:05 --> 15:07] magic would rub off on old
+[15:07 --> 15:08] Scrooge Macrassus.
+[15:09 --> 15:11] And Caesar needed patronage.
+[15:11 --> 15:13] Numerous times, Crassus stepped
+[15:13 --> 15:14] in when Caesar's creditors
+[15:14 --> 15:15] were working themselves into
+[15:15 --> 15:17] a murderous frenzy, and pledged
+[15:17 --> 15:19] himself as security against
+[15:19 --> 15:19] default.
+[15:20 --> 15:21] This would generally quell the
+[15:21 --> 15:23] immediate uproar, leaving
+[15:23 --> 15:24] Caesar free to continue planting
+[15:24 --> 15:26] his seed money across the
+[15:26 --> 15:26] Roman Empire.
+[15:27 --> 15:29] He wasn't just investing in any
+[15:29 --> 15:29] old career.
+[15:30 --> 15:32] As he once said to a compatriot
+[15:32 --> 15:33] while passing through a tiny
+[15:33 --> 15:33] village in Gaul,
+[15:34 --> 15:35] he would rather be the first
+[15:35 --> 15:37] man there than second man
+[15:37 --> 15:37] in Rome.
+[15:38 --> 15:40] Power of the kind Caesar
+[15:40 --> 15:41] sought was expensive.
+[15:43 --> 15:44] But there was only so much
+[15:44 --> 15:45] Crassus could do to help.
+[15:46 --> 15:47] After his term as Adal,
+[15:47 --> 15:49] Caesar next needed a post that
+[15:49 --> 15:50] did not just push him further
+[15:50 --> 15:51] into the red.
+[15:51 --> 15:53] He needed to at least make some
+[15:53 --> 15:54] move towards the black.
+[15:55 --> 15:57] So in 63 BC, the same year as
+[15:57 --> 15:58] the Catalonian Conspiracy,
+[15:59 --> 16:01] he took the unprecedented step
+[16:01 --> 16:03] of running for Pontifex Maximus,
+[16:03 --> 16:04] the high priest of Rome.
+[16:05 --> 16:06] It was not only an important
+[16:06 --> 16:08] position politically, but came
+[16:08 --> 16:10] with it numerous opportunities
+[16:10 --> 16:12] to generate personal income.
+[16:12 --> 16:14] The thing was, normally the
+[16:14 --> 16:16] Pontifex Maximus was an
+[16:16 --> 16:17] elderly statesman near the end
+[16:17 --> 16:18] of his career.
+[16:19 --> 16:20] And it was unheard of for a
+[16:20 --> 16:21] man so young to aspire to
+[16:21 --> 16:22] the office.
+[16:23 --> 16:24] But Caesar needed to do something
+[16:24 --> 16:26] bold quickly, or he would be
+[16:26 --> 16:27] consumed by his debt.
+[16:28 --> 16:29] Upon leaving for the forum
+[16:29 --> 16:30] on the day of his election,
+[16:31 --> 16:32] Caesar told his mother,
+[16:33 --> 16:34] when I return, you will
+[16:34 --> 16:35] either find me high priest
+[16:35 --> 16:36] or in exile.
+[16:38 --> 16:39] Melodrama aside, the outcome
+[16:39 --> 16:40] was in little doubt.
+[16:41 --> 16:42] Caesar had bribed all the
+[16:42 --> 16:43] key electors to ensure that
+[16:43 --> 16:45] democracy did not interfere
+[16:45 --> 16:45] with the election.
+[16:47 --> 16:48] This lifetime appointment
+[16:48 --> 16:49] greatly enhanced Caesar's
+[16:49 --> 16:51] reputation, as well as his
+[16:51 --> 16:52] financial portfolio.
+[16:53 --> 16:54] It also came with it an
+[16:54 --> 16:56] official residence, which moved
+[16:56 --> 16:57] his family from the out of the
+[16:57 --> 16:59] way home in the Subaru he
+[16:59 --> 17:00] had known his whole life,
+[17:00 --> 17:01] right into the heart of the
+[17:01 --> 17:02] most prestigious neighborhood
+[17:02 --> 17:03] in Rome.
+[17:04 --> 17:06] But the office of Pontifex
+[17:06 --> 17:07] Maximus was part-time at
+[17:07 --> 17:09] best, and did not preclude
+[17:09 --> 17:11] the office holder from pursuing
+[17:11 --> 17:12] military or political office.
+[17:13 --> 17:15] So later in that same year,
+[17:15 --> 17:17] Caesar ran for and won a
+[17:17 --> 17:19] praetorship, leaving him one
+[17:19 --> 17:20] step away from the highest
+[17:20 --> 17:21] office in Rome.
+[17:23 --> 17:24] Throughout this period, in his
+[17:24 --> 17:25] role both as high priest
+[17:25 --> 17:27] and praetor, Caesar openly
+[17:27 --> 17:28] supported the allies of
+[17:28 --> 17:29] Pompey in the Senate and
+[17:29 --> 17:31] popular assemblies.
+[17:31 --> 17:33] Pompey was wrapping up his
+[17:33 --> 17:34] eastern campaigns and sending
+[17:34 --> 17:36] home instructions that his
+[17:36 --> 17:37] conquests needed to be
+[17:37 --> 17:38] ratified and that his
+[17:38 --> 17:39] veterans would need land upon
+[17:39 --> 17:40] their return to Italy.
+[17:41 --> 17:42] Caesar had already
+[17:42 --> 17:43] distinguished himself as one of
+[17:43 --> 17:45] the few senators to support
+[17:45 --> 17:46] Pompey's grant of
+[17:46 --> 17:47] Mediterranean Imperium to
+[17:47 --> 17:48] fight the pirates a few years
+[17:48 --> 17:50] earlier, and spent his time
+[17:50 --> 17:52] now backing whatever Pompey
+[17:52 --> 17:53] indicated he required.
+[17:54 --> 17:55] With his eye on the Consulship
+[17:55 --> 17:57] and his dreams of reforming
+[17:57 --> 17:58] practically everything about
+[17:58 --> 17:59] the way the Empire was
+[17:59 --> 18:01] administered, Caesar was keenly
+[18:01 --> 18:02] aware of the need for
+[18:02 --> 18:03] powerful friends.
+[18:04 --> 18:05] His populist stances and
+[18:05 --> 18:07] obviously high ambition had
+[18:07 --> 18:08] won him no friends in the
+[18:08 --> 18:10] Senate. If he was going to do
+[18:10 --> 18:11] half of what he planned,
+[18:11 --> 18:12] he would need a way to blunt
+[18:12 --> 18:13] the obstruction as senators.
+[18:15 --> 18:16] Caesar recognized Pompey as
+[18:16 --> 18:18] the perfect ally, a wildly
+[18:18 --> 18:20] popular general who made the
+[18:20 --> 18:21] Senate as queasy as Caesar
+[18:21 --> 18:22] seemed to make them.
+[18:23 --> 18:25] By supporting Pompey now,
+[18:25 --> 18:26] Caesar hoped that when the
+[18:26 --> 18:27] general came home, the favor
+[18:27 --> 18:28] would be returned.
+[18:30 --> 18:32] When his praetorship ended,
+[18:32 --> 18:33] Caesar was named Pro Consular
+[18:33 --> 18:35] Governor of Hispania Ulterior,
+[18:36 --> 18:38] or further Spain, a province
+[18:38 --> 18:39] that hugged the southern
+[18:39 --> 18:41] coast of Spain from roughly
+[18:41 --> 18:42] modern-day Valencia to the
+[18:42 --> 18:44] Atlantic. The governorship
+[18:44 --> 18:45] was a turning point in
+[18:45 --> 18:47] Caesar's career. It gave him
+[18:47 --> 18:49] first crack at true military
+[18:49 --> 18:51] command, which, as you can
+[18:51 --> 18:52] imagine, he excelled at
+[18:52 --> 18:54] brilliantly, but it also
+[18:54 --> 18:55] set him up in a position
+[18:55 --> 18:57] to really make some money.
+[18:58 --> 18:59] Governorships of the
+[18:59 --> 19:00] provinces during this period
+[19:00 --> 19:02] was seen by most Roman
+[19:02 --> 19:03] politicians as their reward
+[19:03 --> 19:05] for the sacrifices and
+[19:05 --> 19:06] financial investments they
+[19:06 --> 19:07] had made on behalf of the
+[19:07 --> 19:09] state over the course of
+[19:09 --> 19:11] their careers. The personal
+[19:11 --> 19:12] milking of the provinces
+[19:12 --> 19:14] was not a scandal unless it
+[19:14 --> 19:15] reached egregious proportions.
+[19:16 --> 19:17] It was one of the things
+[19:17 --> 19:18] Caesar intended to change
+[19:18 --> 19:19] if he was ever given the
+[19:19 --> 19:21] chance. Anyone who thought
+[19:21 --> 19:22] about it could see that
+[19:22 --> 19:24] the annual arrival of some
+[19:24 --> 19:25] new governor who planned
+[19:25 --> 19:26] to make himself rich on
+[19:26 --> 19:27] the backs of the
+[19:27 --> 19:28] provincials was not a
+[19:28 --> 19:29] sustainable practice.
+[19:30 --> 19:31] Eventually, the cow would
+[19:31 --> 19:34] be milked dry. But while
+[19:34 --> 19:34] it was something Caesar
+[19:34 --> 19:36] intended to change, he had
+[19:36 --> 19:38] major, major debts to
+[19:38 --> 19:40] worry about. So upon arrival,
+[19:40 --> 19:41] he promptly picked a fight
+[19:41 --> 19:42] with the hill tribes in
+[19:42 --> 19:43] the west that had never
+[19:43 --> 19:44] been fully pacified and
+[19:44 --> 19:46] drove them off, seizing
+[19:46 --> 19:47] the lucrative silver mines
+[19:47 --> 19:48] they controlled at the
+[19:48 --> 19:50] same time. This meant more
+[19:50 --> 19:51] revenue for the state,
+[19:52 --> 19:53] massive amounts of cash
+[19:53 --> 19:55] for Caesar himself, and
+[19:55 --> 19:56] bonus, territorial
+[19:56 --> 19:57] expansion for the empire,
+[19:58 --> 19:59] the thing that triumphs
+[19:59 --> 20:01] are made of. And upon
+[20:01 --> 20:02] completion of this little
+[20:02 --> 20:03] war in Spain, Caesar
+[20:03 --> 20:06] demanded just that. The
+[20:06 --> 20:08] Senate had no desire to
+[20:08 --> 20:09] grant Caesar his triumph,
+[20:09 --> 20:10] but there was no denying
+[20:10 --> 20:11] what he had accomplished.
+[20:12 --> 20:13] But Caesar further
+[20:13 --> 20:15] indicated that he
+[20:15 --> 20:16] intended to run for the
+[20:16 --> 20:17] consulship that year as well.
+[20:18 --> 20:19] The prospect of the wildly
+[20:19 --> 20:21] popular Caesar returning
+[20:21 --> 20:22] in triumph from Spain
+[20:22 --> 20:23] and immediately taking
+[20:23 --> 20:24] the reins of power
+[20:24 --> 20:25] petrified the Senate.
+[20:26 --> 20:27] But what could they do?
+[20:28 --> 20:29] Into this dilemma stepped
+[20:29 --> 20:30] Cato the Younger, leader
+[20:30 --> 20:31] of the conservative
+[20:31 --> 20:32] faction in the Senate,
+[20:33 --> 20:33] defender of Republican
+[20:33 --> 20:35] virtue, and implacable
+[20:35 --> 20:36] foe of Caesar, who
+[20:36 --> 20:38] proposed a way to at
+[20:38 --> 20:39] least hold off Caesar's
+[20:39 --> 20:41] consulship. In order
+[20:41 --> 20:43] to qualify for candidacy,
+[20:43 --> 20:44] a man had to be
+[20:44 --> 20:45] physically present in
+[20:46 --> 20:48] But if a returning general
+[20:48 --> 20:49] entered the city before
+[20:49 --> 20:50] his triumph, the honor
+[20:50 --> 20:52] was nullified and the
+[20:52 --> 20:52] great victory parade
+[20:52 --> 20:55] canceled. As Caesar
+[20:55 --> 20:56] waited at Rome's gates,
+[20:56 --> 20:57] Cato did everything in
+[20:57 --> 20:58] his power to put the
+[20:58 --> 21:00] triumph off until after
+[21:00 --> 21:01] the deadline for candidate
+[21:01 --> 21:03] filing. Caesar asked for
+[21:03 --> 21:04] an exception to the
+[21:04 --> 21:05] rule, but the request
+[21:05 --> 21:07] was denied. Cato went
+[21:07 --> 21:09] so far as to filibuster
+[21:09 --> 21:10] all business on the
+[21:10 --> 21:11] final day of the
+[21:11 --> 21:12] Senatorial session to
+[21:12 --> 21:13] prevent the triumph from
+[21:13 --> 21:15] being scheduled prior to
+[21:15 --> 21:17] deadline. Cato left that
+[21:17 --> 21:18] evening feeling quite
+[21:18 --> 21:19] satisfied with himself.
+[21:20 --> 21:21] Surely vain Caesar would
+[21:21 --> 21:22] not pass up an
+[21:22 --> 21:23] opportunity for a triumph,
+[21:23 --> 21:24] which may only come
+[21:24 --> 21:25] around once in a
+[21:25 --> 21:26] lifetime. Just to run
+[21:26 --> 21:27] for an office, he was
+[21:27 --> 21:29] destined to win anyway.
+[21:30 --> 21:31] Imagine his shock when
+[21:31 --> 21:32] Caesar, bold and
+[21:32 --> 21:33] unpredictable Caesar,
+[21:34 --> 21:35] abandoned his
+[21:35 --> 21:35] opportunity for a
+[21:35 --> 21:36] triumph and entered
+[21:36 --> 21:38] the city. He would
+[21:38 --> 21:39] stand for election that
+[21:39 --> 21:40] year, an election he
+[21:40 --> 21:42] would win handily to
+[21:42 --> 21:43] serve as consul of
+[21:43 --> 21:45] Rome in 59 BC.
+[21:46 --> 21:48] Next week, we will delve
+[21:48 --> 21:49] into Caesar's eventful
+[21:49 --> 21:50] term in office, the
+[21:50 --> 21:51] reforms he tried to
+[21:51 --> 21:52] implement, and the
+[21:52 --> 21:53] reforms the Senate did
+[21:53 --> 21:54] everything in their power
+[21:54 --> 21:56] to block. But Caesar's
+[21:56 --> 21:57] support of Pompey did
+[21:57 --> 21:59] indeed pay off, and his
+[21:59 --> 21:59] long-standing
+[21:59 --> 22:00] relationship with Crassus
+[22:00 --> 22:02] was formalized in a
+[22:02 --> 22:03] secret pact to push
+[22:03 --> 22:04] forward the aims of
+[22:04 --> 22:06] all three men. The
+[22:06 --> 22:07] secret pact did not
+[22:07 --> 22:08] remain secret for long,
+[22:08 --> 22:09] though, for when Caesar
+[22:09 --> 22:10] stood before the
+[22:10 --> 22:11] popular assembly in order
+[22:11 --> 22:12] to bypass the
+[22:12 --> 22:14] opposition Senate, he
+[22:14 --> 22:15] was flanked by both
+[22:15 --> 22:16] Pompey and Crassus.
+[22:17 --> 22:18] It was instantly clear
+[22:18 --> 22:19] that the three most
+[22:19 --> 22:20] powerful men in Rome
+[22:20 --> 22:21] were working together,
+[22:21 --> 22:22] and as the masses
+[22:22 --> 22:23] cheered, the Senate
+[22:23 --> 22:25] cringed. How in the
+[22:25 --> 22:26] world could they stop
+[22:26 --> 22:27] this political juggernaut?

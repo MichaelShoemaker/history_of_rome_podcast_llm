@@ -1,0 +1,289 @@
+# 20120109 - 164- The Sack of Rome
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:05 --> 00:09] internet's leading provider of audio entertainment with over a hundred
+[00:09 --> 00:13] thousand titles to choose from. When you're done with this episode, go to
+[00:13 --> 00:19] audiblepodcast.com forward slash Rome. That again audiblepodcast.com forward
+[00:19 --> 00:24] slash Rome. By going to that address, you qualify for a free book download when
+[00:24 --> 00:28] you sign up for a 14-day trial membership. There is no obligation to
+[00:28 --> 00:31] continue the service, and you can cancel anytime and keep the free book
+[00:31 --> 00:35] download. You can also keep going with one of the monthly subscription options
+[00:35 --> 00:41] and get great deals on all future audiobook purchases. This week, I'm going
+[00:41 --> 00:46] to go with a recommendation from listener Patrick Baker, what looks to be
+[00:46 --> 00:51] the absolutely fascinating A History of the World in Six Glasses by Tom
+[00:51 --> 00:56] Standage, which tracks the history of civilization by way of six key
+[00:56 --> 01:04] beverages, beer, wine, spirits, coffee, tea, and cola. It looks to be a
+[01:04 --> 01:10] fantastic listen, so just remember to go to audiblepodcast.com forward slash Rome
+[01:10 --> 01:11] so that they know who sent you.
+[01:16 --> 01:24] Hello, and welcome to The History of Rome, episode 164, The Sack of Rome.
+[01:28 --> 01:34] Okay, where were we? When we left off last time, the Western Roman Empire was
+[01:34 --> 01:39] in the middle of a diplomatic crisis. The Gothic King Alaric had spent the last
+[01:39 --> 01:44] year holding the city of Rome's head underwater, letting it up to breathe for
+[01:44 --> 01:50] a bit before plunging it back underwater again as a part of a larger strategy to
+[01:50 --> 01:55] force the Emperor Honorius to give in to his demands. But Honorius had
+[01:55 --> 01:59] apparently concluded that since it wasn't his head in the bucket, he was
+[01:59 --> 02:03] under no immediate pressure to make a deal with the Goths, even if, as we saw
+[02:03 --> 02:08] at the end of the last episode, the deal on the table was a really, really good
+[02:08 --> 02:14] deal for Rome. So we now find Alaric presently back in Rome, holding the
+[02:14 --> 02:19] city's collective head underwater once again, this time with the added twist of
+[02:19 --> 02:25] forcing the Senate to appoint a puppet emperor named Priscus Aetalus. Alaric
+[02:25 --> 02:28] was probably hoping that the people of Italy would take note of how
+[02:28 --> 02:33] disconnected from reality Honorius had become, how much his intransigence
+[02:33 --> 02:37] threatened their lives and property, and how much better off they would be maybe
+[02:37 --> 02:41] recognizing the Goth-backed Aetalus rather than continuing to support the
+[02:41 --> 02:48] isolated and delusional Honorius. I say the people of Italy rather than the
+[02:48 --> 02:53] people of the Western Empire because, as you'll also recall, control of the
+[02:54 --> 02:59] had been lost back in 406, first to the semi-anarchy that had set in after the
+[02:59 --> 03:04] barbarian invasion of New Year's Eve, and then to the semi-imperial order of the
+[03:04 --> 03:10] usurper Constantine III. Not that he was actually a usurper anymore. Alaric's
+[03:10 --> 03:14] presence in Italy had forced Honorius to recognize Constantine as a legitimate
+[03:14 --> 03:19] imperial colleague. But if you thought that this recognition would prove to be
+[03:19 --> 03:23] a boon to the fortunes of Constantine III, well, you just don't know the
+[03:23 --> 03:29] 12th century. Just a few months after receiving a purple cloak in the mail
+[03:29 --> 03:35] from Honorius, Constantine had to deal with a rebellion of his own. This new
+[03:35 --> 03:39] rebellion had its genesis in a previous rebellion that had been organized in
+[03:39 --> 03:45] Spain by members of the Theodosian household back in 408. Constantine had
+[03:45 --> 03:50] dispatched his son Constans and one of his top generals, Gerontius, to put down
+[03:50 --> 03:55] this revolt, which the Theodosians, not being the most popular family on the
+[03:55 --> 04:00] block these days, they were able to do fairly quickly. Constans then returned to
+[04:00 --> 04:04] his father's headquarters at Arles, leaving Gerontius in control of Spain.
+[04:05 --> 04:10] Unfortunately, the general's ego swelled considerably at the sight of his
+[04:10 --> 04:14] newfound autonomy, and he decided to challenge Constantine's rule by
+[04:14 --> 04:18] arranging for his troops to elevate a local Spanish noble named Maximus to the
+[04:19 --> 04:25] Augustus. As if that was not bad enough, Constantine found out about this little
+[04:25 --> 04:30] rebellion at the same time he found out that a group of still hostile barbarians
+[04:30 --> 04:34] had broken through the defensive lines keeping them penned into Gaul and they
+[04:34 --> 04:40] were now crossing into Spain unchecked. Now you might think that this would be a
+[04:40 --> 04:45] good thing for Constantine. You know, make Gerontius deal with the barbarians, get
+[04:45 --> 04:49] enemies to fight each other, and then swoop in and knock out the exhausted
+[04:49 --> 04:56] victor. But sadly, rather than fight, the two sides joined forces. Gerontius was
+[04:56 --> 05:00] apparently able to get through to these tribes where Constantine had failed, so
+[05:00 --> 05:07] rather than grinding each other down into dust, each reinforced the other. Now
+[05:07 --> 05:11] facing an almost certain attack from the direction of Spain, Constantine was
+[05:11 --> 05:15] further dismayed to learn that the province of Britannia, which had been the
+[05:15 --> 05:20] cradle of his own rebellion, was now breaking off ties with him as well. After
+[05:20 --> 05:25] Constantine had left with almost all the available Roman forces, the island had
+[05:25 --> 05:30] come under heavy attack by Saxon pirates. Since Constantine appeared disinterested
+[05:30 --> 05:35] in their plight, in late 409 the people of Britain ejected Constantine's few
+[05:35 --> 05:39] remaining officials and took the defense and governance of their island into
+[05:39 --> 05:45] their own hands. Just that spring, Constantine III had been the recognized
+[05:45 --> 05:49] and legitimate ruler of the entire northwest quadrant of the Roman Empire.
+[05:50 --> 05:55] Now he was surrounded by enemies defending an ever smaller patch of grass
+[05:55 --> 06:03] in the middle of Gaul. Over the winter of 409-410, Constantine meditated on his
+[06:03 --> 06:08] ever-worsening position and resolved to make one last high-risk play to salvage
+[06:08 --> 06:14] the situation. When spring came, he was going to invade Italy and depose
+[06:14 --> 06:20] Honorius. He had been in contact with members of the Ravenna court, who were
+[06:20 --> 06:24] thoroughly dissatisfied with the Emperor, and they had encouraged Constantine to
+[06:24 --> 06:29] march across the Alps and topple him from power. As soon as the passes thawed,
+[06:30 --> 06:35] Constantine was on the move. Now unfortunately for us, the details of this
+[06:35 --> 06:41] campaign are sketchy, and all we really know is that the invasion failed. Honorius
+[06:41 --> 06:45] had been reinforced by troops from the east, helpfully provided by the eastern
+[06:45 --> 06:50] prefect Anthemius, who had every reason to want Honorius to remain in power,
+[06:50 --> 06:54] which combined with the fact that Constantine's own force could not have
+[06:54 --> 06:58] been that large, it was probably enough to send the general scurrying back to
+[06:59 --> 07:07] Meanwhile, down in Rome, Alaric was having problems of his own. He had made
+[07:07 --> 07:13] Priscus Ataullus Augustus for two basic reasons. First, to gain leverage in his
+[07:13 --> 07:17] negotiations with Honorius, and second, to have a puppet civil official on the
+[07:17 --> 07:23] throne who would do what Alaric told him to do. Ataullus was failing him on both
+[07:23 --> 07:28] fronts. Honorius seemed more resistant than ever to negotiations, especially
+[07:28 --> 07:33] after successfully repelling Constantine, and far from acting as a mere puppet,
+[07:34 --> 07:38] Ataullus was challenging and resisting Gothic commands, most especially on the
+[07:38 --> 07:45] question of North Africa. Alaric wanted Ataullus to cross over and seize control
+[07:45 --> 07:50] of the all-important grain supply chain, which Ataullus was fine with, but not if
+[07:50 --> 07:55] it meant using Gothic forces. Ataullus did not like the optics of using
+[07:55 --> 08:00] foreigners to seize Roman territory. If he was going to do it, he was going to
+[08:00 --> 08:04] use regular Roman forces to do it, which would at least give the operation a
+[08:04 --> 08:09] veneer of legal dignity. But of course, Ataullus didn't have sufficient regular
+[08:09 --> 08:14] forces available to pull off the operation, so his refusal to use the
+[08:14 --> 08:20] Goths meant that he was refusing to go seize North Africa. Annoyed that his
+[08:20 --> 08:24] creation was frustrating rather than facilitating his plans, Alaric
+[08:24 --> 08:30] unceremoniously deposed Ataullus in early 410. But don't worry, kids, we haven't
+[08:30 --> 08:38] heard the last of Priscus Ataullus. So now Alaric was back to square one, and to
+[08:38 --> 08:42] make matters worse, there had been a power shift up in the Ravenna court that
+[08:42 --> 08:48] did not bode well for the Gothic king. Olympius, the man who had engineered
+[08:48 --> 08:53] Stilicho's execution, had fallen from favor, and he had been replaced by
+[08:53 --> 08:57] Sarus, the Gothic general who had defected to Rome's banner following the
+[08:57 --> 09:03] Battle of Verona in 402. This was a rotten development for Alaric, because
+[09:03 --> 09:08] where Olympius had stymied negotiations because of a general anti-barbarian bias,
+[09:09 --> 09:14] Sarus is about to stymie negotiations because of a specific hatred of Alaric.
+[09:15 --> 09:20] Their two families had been rivals within the Gothic community for I don't
+[09:20 --> 09:24] even know how long, and after the defeat at Verona, Sarus had taken the
+[09:24 --> 09:28] opportunity to throw his lot in with Rome rather than continue to take orders
+[09:28 --> 09:33] from the hated and now beaten Alaric. So if Alaric thought he had trouble
+[09:33 --> 09:38] extracting concessions from Honorius before, well, now that his blood enemy
+[09:38 --> 09:45] Sarus had the Emperor's ear, there was no chance of anything ever getting done.
+[09:46 --> 09:50] Alaric pressed on, however, and in midsummer he was back in North Italy to
+[09:50 --> 09:56] resume negotiations with Ravenna. When these talks appeared to be progressing,
+[09:56 --> 10:01] Sarus used his authority as commander of the Emperor's troops to destroy any and
+[10:01 --> 10:06] all goodwill between the two sides. Without warning, he ordered his troops to
+[10:06 --> 10:11] attack a contingent of Alaric's army. Nothing came of the battle and it did not
+[10:11 --> 10:16] drive the two sides into open war, but it did convince Alaric that talking was
+[10:16 --> 10:21] officially hopeless. He was never going to get anywhere he wanted to go by
+[10:21 --> 10:28] remaining at the bargaining table. It was time to act. So he withdrew back to
+[10:28 --> 10:33] Rome and placed it under siege for the third time in just over a year. But this
+[10:33 --> 10:38] time, it was not a negotiating tactic. He was not waiting for the Senate to buy him off.
+[10:39 --> 10:44] No, this time he was going all in. The Goths were going to sack Rome.
+[10:47 --> 10:52] As the siege began, the first major prize of the assault fell into Alaric's lap.
+[10:53 --> 10:58] Gallia Placidia, the youngest daughter of Theodosius and one-time fiance of
+[10:58 --> 11:04] Stilicho's now-dead son, Eucharius, had been living in Rome following Olympias' coup.
+[11:04 --> 11:08] And when this much more serious siege began, she attempted to flee the city.
+[11:10 --> 11:15] Captured by Gothic soldiers, she became a highly valuable hostage to the Gothic cause.
+[11:16 --> 11:22] As we will see, Placidia's stay with the Goths would not be temporary and it would be
+[11:22 --> 11:27] a full decade before she was released back into the custody of the Ravenna court.
+[11:28 --> 11:35] But fear not, she was no passive hostage. Her capture in 410 was simply the beginning of a
+[11:35 --> 11:40] remarkable political career that will see her first influencing and then outright
+[11:40 --> 11:47] directing Roman state policy until her death in 450. We will have much more to say
+[11:47 --> 11:53] about good Gallia Placidia as we move forward. So, welcome to the stage, your highness.
+[11:56 --> 12:04] Which brings us to, yes, here we are. Way back in episode 10, Barbarians at the Gates,
+[12:05 --> 12:09] we discussed the sacking of Rome by Brennus and his long-haired Gauls.
+[12:10 --> 12:15] When it was all over, I noted that it would be some 800 years before Rome was sacked again.
+[12:16 --> 12:24] Well, here we are, 800 years and 170 odd episodes later on the extreme opposite end
+[12:24 --> 12:31] of the bell curve of Rome's power. On August the 24th, 410 A.D., slaves inside Rome
+[12:31 --> 12:36] opened the Salarian Gate, allowing Alaric and his Goths to come flooding into the city.
+[12:37 --> 12:43] The Roman city militia, just enough to man the impressive Aurelian walls, had no hope
+[12:43 --> 12:49] of standing against the Goths in open combat. For the first time in almost a millennium,
+[12:49 --> 12:59] Rome was helpless and at the mercy of an enemy. But interestingly, there was mercy to be had.
+[13:00 --> 13:06] As I've mentioned in passing, Alaric sack of Rome was not an unrestrained anarchic affair.
+[13:07 --> 13:13] At this point, both the sacking Goths and the sacked Romans were Christians of one
+[13:13 --> 13:18] sort or another, so Alaric declared churches and religious artifacts to be off limits.
+[13:19 --> 13:25] Further, he sent out word to the citizens of the city that anyone taking refuge in a
+[13:25 --> 13:30] church would be left alone. Blood would not be spilled in the houses of God.
+[13:32 --> 13:38] But beyond that, well, this was an exercise in punitive plundering, so some things got
+[13:38 --> 13:45] to be fair game, and indeed most things were. The wealth of the lavish homes and old imperial
+[13:45 --> 13:52] residences were stripped, stuffed into bags, and carted off. Citizens caught out of designated
+[13:52 --> 13:58] safe areas were beaten, raped, and killed. The old pagan temples were looted without
+[13:58 --> 14:03] compunction, and it is with a heavy heart that I report that this is the moment when
+[14:03 --> 14:09] the ashes of Augustus, Hadrian, and so many other great imperial figures, which had been
+[14:09 --> 14:15] kept safe for centuries inside of their mausoleums, were toppled and scattered to the winds of
+[14:15 --> 14:22] time. For three days, the Goths ran amuck on a destructive treasure hunt that saw the
+[14:22 --> 14:27] best of classical Rome looted, broken, or lost.
+[14:31 --> 14:37] Now the Sack of Rome was no great strategic blow to the Empire in military terms. Politically,
+[14:38 --> 14:43] it did not signal the end of the old imperial order, and in terms of the decline and fall
+[14:43 --> 14:50] of the Western Empire as a whole, it was more mile post than destination. But that does
+[14:50 --> 14:57] not mean that it was not a major blow to the citizens of the Empire at the time. Morale
+[14:57 --> 15:02] had been wavering for years, and the thought of barbarians pillaging the eternal city
+[15:02 --> 15:07] was so inconceivable that when it happened, a sort of confused despair seemed to settle
+[15:07 --> 15:14] in. The psychological shock waves were strong enough that it drove Saint Augustine, the
+[15:14 --> 15:19] bishop of the North African port of Hippo, to begin writing The City of God, a massive
+[15:19 --> 15:24] political and religious treatise defending Christianity from the increasingly pervasive
+[15:24 --> 15:32] view that Rome had been sacked because it had abandoned its pagan heritage. Augustine
+[15:32 --> 15:37] did not dwell on religious cause and effect, so much as he argued that everyone was missing
+[15:37 --> 15:44] the point. We ought to be dedicating ourselves to the eternal and non-coporial City of God,
+[15:44 --> 15:50] as revealed through the divine incarnation of Father, Son, and Holy Spirit, rather than
+[15:50 --> 15:57] writing about what happens to the base and worldly city of man. This call not to save
+[15:57 --> 16:03] Rome, but to look past it, was a powerful comfort to a population facing what looked
+[16:03 --> 16:10] an awful lot to them like the end of the world. When published, The City of God almost immediately
+[16:10 --> 16:15] became the official political platform of the Catholic Church, and it maintained that
+[16:15 --> 16:22] disputed place until St. Thomas Aquinas came along in the 1200s and offered his Aristotelian
+[16:22 --> 16:30] revisions. Meanwhile, back in the city of man, the Goths had reached their load limit
+[16:30 --> 16:35] after three days of looting, and Alaric led his men out of Rome, laden with treasure.
+[16:37 --> 16:41] As the barbarian masses disappeared over the southern horizon, the people of the eternal
+[16:41 --> 16:47] city were left to pick up the pieces of their shattered city. Some resolved to stay and
+[16:47 --> 16:54] rebuild, but most looked at the trash shops and broken homes and asked, why bother? Refugees
+[16:54 --> 17:00] began to stream out of Rome, beginning a cycle of economic depression, exodus, further economic
+[17:00 --> 17:05] depression, and further exodus that would in time take Rome from a population high of
+[17:05 --> 17:10] perhaps a million people, down to a low of just 20,000 during the Middle Ages.
+[17:14 --> 17:19] After rocking the Roman world by sacking its most sacred city, though, Alaric did not dwell
+[17:19 --> 17:24] on the place he had just earned for himself in history. He was already on to the next big
+[17:24 --> 17:31] thing. The sack of Rome had gotten him a lot of stuff, but it had not gotten him the peace,
+[17:31 --> 17:38] security, or power that he was really looking for. If threatening and then looting Rome
+[17:38 --> 17:43] had not been enough to shake Honorius out of his stubborn stupor, then maybe cutting off
+[17:43 --> 17:49] the Italian food supply would be. The Gothic king led his people south to the toe of the
+[17:49 --> 17:56] peninsula of Italy, where he planned to launch an invasion of North Africa. Seizing the African
+[17:56 --> 18:01] grain supply had long been on Alaric's to-do list, and after failing to push Attalus into
+[18:01 --> 18:07] doing his dirty work for him, Alaric decided to take matters into his own hands. But the
+[18:07 --> 18:12] cobbled together Gothic fleet of mostly stolen ships hit a storm almost as soon as they
+[18:12 --> 18:16] launched, and they were forced back to the safety of the Italian harbors.
+[18:19 --> 18:24] While the Goths regrouped and planned their next move, they were hit with a further and
+[18:24 --> 18:32] potentially more debilitating setback. In the autumn of 410, Alaric caught a fever and
+[18:32 --> 18:38] he died. He was in his early 40s and was just months removed from the signature event that
+[18:38 --> 18:44] would ensure his name was and will be seared into the history books for all time.
+[18:46 --> 18:54] Fearful that their dead leader's body would be desecrated if left out in the open, the
+[18:54 --> 18:58] Goths sent Alaric in the dry bed and then returned the stream to its natural course.
+[18:59 --> 19:04] Neither Alaric's body nor the hoard of treasure that would have presumably been buried with
+[19:04 --> 19:06] him was ever found.
+[19:10 --> 19:15] Control of the Goths fell to Alaric's brother Attalus, who will lead them for the next five
+[19:15 --> 19:21] tumultuous years, as they marched from Italy to Gaul and from Gaul to Spain, making, breaking,
+[19:21 --> 19:27] and then remaking alliances along the way as the Western Roman world, sometimes violently
+[19:27 --> 19:30] and sometimes diplomatically, reshaped itself.
+[19:33 --> 19:38] The geographic center of that reshaping would be Gaul, where the political and military
+[19:38 --> 19:44] power of the Western Empire was about to fracture still further, before being cobbled back
+[19:44 --> 19:50] together by a dour general who history has come to know as Constantius III.
+[19:53 --> 19:59] Constantius was of Illyrian origin, and likely came up through the ranks of Theodosius's
+[19:59 --> 20:05] post-Adrianople Eastern legions before, like Stilicho, following the Emperor West to put
+[20:05 --> 20:07] down the revolt of Eugenius and Arbogast.
+[20:08 --> 20:14] He doesn't really pop into recorded history until 411, though, so it is simply an educated
+[20:14 --> 20:20] guess that his career followed an arc similar to Stilicho's, to whom it is also educatedly
+[20:20 --> 20:24] guessed Constantius was a loyal subordinate of.
+[20:26 --> 20:31] In 411, though, he had risen high enough that Honorius appointed him to the task of finally
+[20:31 --> 20:36] taking down Constantine III, who was, presently back in Gaul, holding down that ever-shrinking
+[20:36 --> 20:39] patch of grass from his headquarters in Arles.
+[20:41 --> 20:47] But as Constantius readied the Italian army for war with Constantine, word came down that
+[20:47 --> 20:49] things had become a wee bit more complicated.
+[20:51 --> 20:56] The general, Gerontius, had finally launched his expected attack from Spain, and after
+[20:56 --> 21:01] defeating a division of Constantine's forces near modern Vienna, he had moved on to Arles
+[21:01 --> 21:03] and put the city to siege.
+[21:04 --> 21:10] So now Constantius was facing two hostile armies in the same place at the same time.
+[21:11 --> 21:14] To get to Constantine, he would have to go through Gerontius.
+[21:16 --> 21:21] Rather than wait for the two enemy armies to wear each other out, however, Constantius
+[21:21 --> 21:26] decided to aggressively move in and attack Gerontius while he was still occupied with
+[21:26 --> 21:26] his siege.
+[21:28 --> 21:34] This proved to be a winning strategy, because Gerontius's disunited army of barbarians
+[21:34 --> 21:39] and regular Roman forces panicked at the first sight of Constantius's army, and most of
+[21:39 --> 21:45] Gerontius's men chose to desert to the approaching Italian army rather than fight a battle trapped
+[21:45 --> 21:47] against the walls of Arles.
+[21:48 --> 21:53] Abandoned by his troops, Gerontius fled, but he appears to have been tracked down and cornered
+[21:53 --> 21:58] by Spanish soldiers from his own ex-army, and likely killed himself after becoming trapped.
+[22:02 --> 22:07] Back in Arles, the breaking of Gerontius's army had done nothing to improve the situation
+[22:07 --> 22:12] for Constantine, however, as Constantius simply stepped in and resumed the siege.
+[22:14 --> 22:18] Constantine's only hope was that Frankish reinforcements from the lower Rhine would
+[22:18 --> 22:20] arrive in time to lift the siege.
+[22:20 --> 22:26] But, though said reinforcements did arrive in time, Constantius simply drove them off.
+[22:27 --> 22:30] Which is not so good if that was your only hope.
+[22:31 --> 22:33] And, indeed it was.
+[22:33 --> 22:39] When Constantine desperately called for reinforcements a second time, the call was ignored by the
+[22:39 --> 22:40] soldiers remaining in the lower Rhineland.
+[22:41 --> 22:42] They were no dummies.
+[22:42 --> 22:44] They could see which way the winds were blowing.
+[22:46 --> 22:48] Constantine was now on his own.
+[22:50 --> 22:54] Constantius sent a note into the city promising that if Constantine ended his resistance
+[22:54 --> 22:57] and handed himself over, that he would be allowed to live.
+[22:59 --> 23:04] Recognizing that his position was hopeless, Constantine agreed to the terms and surrendered.
+[23:05 --> 23:11] But as was so often the case in these situations, Constantius's deal was just a ruse to lure
+[23:11 --> 23:16] Constantine out of the city, and the captured general was executed while on the road from
+[23:16 --> 23:18] Arles to Ravenna.
+[23:20 --> 23:22] Okay, so that's it then, right?
+[23:22 --> 23:28] Constantius has come along, saved the day, and defeated all existing enemies of the Imperial
+[23:28 --> 23:28] Throne.
+[23:29 --> 23:33] The Western Empire is now back under the united control of Ravenna.
+[23:33 --> 23:34] Right?
+[23:35 --> 23:37] Oh, would that it were so.
+[23:38 --> 23:44] But as Arles was falling, a new, new usurper appeared along the lower Rhine.
+[23:45 --> 23:50] The forces gathered there, dominated by a mix of Franks, Burgundians, and Alans, had
+[23:50 --> 23:54] been aligned with Constantine until they stopped returning his phone calls.
+[23:56 --> 24:00] When it became clear that their patron was going down, they grabbed a local Gallic noble
+[24:00 --> 24:05] named Jovinus and hailed him as Augustus in the city of Mainz.
+[24:06 --> 24:11] Like an oversized game of whack-a-mole, as one usurper got whacked, another popped up
+[24:11 --> 24:12] on the other side of the board.
+[24:14 --> 24:19] But before he could deal with this new, new usurper, Constantius was going to have to
+[24:19 --> 24:22] come back to Italy and deal with a more immediate problem.
+[24:23 --> 24:28] Aetolth and the Goths had been making their way north and were now getting a bit too close
+[24:28 --> 24:30] to Ravenna for anyone's comfort.
+[24:31 --> 24:37] So Constantius headed back across the Alps to hopefully push the Goths out of Italy once
+[24:37 --> 24:38] and for all.
+[24:40 --> 24:46] Next week, Constantius will succeed in pushing the Goths out of Italy, but rather than driving
+[24:46 --> 24:52] them east, back to Illyria, they will instead press on north to the newly pacified, but
+[24:52 --> 24:54] still fragile, southern Gaul.
+[24:55 --> 25:00] As you can imagine, the appearance of this Gothic horde is going to have a major impact
+[25:00 --> 25:04] on the precarious military and political balance of the Northwest Empire.
+[25:05 --> 25:07] Who will the Goths side with?
+[25:07 --> 25:09] Who will they then betray?
+[25:09 --> 25:15] And what would the ramifications be of a Gothic king, like say Aetolth, fathering a son with
+[25:15 --> 25:18] an imperial princess, like say Gallia Placidia?
+[25:19 --> 25:25] Would those ramifications be even more extreme if a childless emperor, like say Honorius,
+[25:26 --> 25:29] were to die without naming a clear heir?
+[25:29 --> 25:31] I think that they would.
+[25:48 --> 25:54] Thank you for watching!

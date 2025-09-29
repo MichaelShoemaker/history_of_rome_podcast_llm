@@ -1,0 +1,216 @@
+# 20111114 - 158- An Imperial Suicide
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the internet's leading
+[00:06 --> 00:12] provider of audio entertainment with over 100,000 titles to choose from. When you're done with this
+[00:12 --> 00:19] episode, go to audiblepodcast.com forward slash rome. That again audiblepodcast.com forward slash
+[00:19 --> 00:25] rome. By going to that address, you qualify for a free book download when you sign up for a 14-day
+[00:25 --> 00:30] trial membership. There is no obligation to continue the service, and you can cancel any time
+[00:30 --> 00:35] and keep the free book download. You can also keep going with one of the monthly subscription options
+[00:35 --> 00:42] and get great deals on all future audiobook purchases. This week, I am going to go with a
+[00:42 --> 00:49] recommendation from listener David, the Warrior of Rome series by Harry Sidebottom, a series of
+[00:49 --> 00:55] books set in the chaotic years of the third century. This recommendation comes seconded by
+[00:55 --> 01:00] listener Ben Nicholson, who I just so happen to know is an excellent judge of quality authorship,
+[01:01 --> 01:07] so you can't possibly go wrong. Just remember to go to audiblepodcast.com forward slash rome
+[01:07 --> 01:18] so that they know who sent you. Hello, and welcome to the History of Rome.
+[01:20 --> 01:23] Episode 158, An Imperial Suicide.
+[01:26 --> 01:32] So yeah, sorry about last week. I forgot to leave time in my schedule for an emergency
+[01:32 --> 01:37] appendectomy, so the show had to be tabled. I'm sure this came as a disappointment,
+[01:38 --> 01:43] but as many of you noted, had this been Roman times, I'd probably be dead right now,
+[01:43 --> 01:48] so I suppose we should all just count our blessings. I'd personally like to thank the
+[01:48 --> 01:53] people at Seton Medical Center in Austin, Texas for taking me apart and putting me back together
+[01:53 --> 01:59] so efficiently, and without further ado, let's get back into this thing. Though I'd like to
+[01:59 --> 02:04] apologize in advance for this episode being a little shorter than usual, I'm not really back
+[02:04 --> 02:09] to 100% strength just yet and decided to scale back my ambitions a bit rather than pushing
+[02:09 --> 02:19] forward too hard, too fast. Okay, so where the heck were we? Ah yes, Theodosius had just
+[02:19 --> 02:24] finished doing his penance for ordering the massacre at Thessalonica and in the early summer
+[02:24 --> 02:31] 391 had decided it was time to head back to Constantinople. Left behind to govern the
+[02:31 --> 02:37] western provinces was the now 20 year old Valentinian II, who had for a few years now
+[02:37 --> 02:42] technically been the senior Augustus of the empire, although he had never even once been
+[02:42 --> 02:50] treated as such. Even now, totally old enough to be ruling in his own right, Valentinian was still
+[02:50 --> 02:56] treated as the same powerless figurehead that he'd been treated as his whole life. Only now,
+[02:57 --> 03:02] rather than being dominated by Justina and Ambrose, a new puppet master stepped forward to take over
+[03:02 --> 03:09] the imperial strings, Arbogast, a Frankish general appointed by Theodosius to command the armies of
+[03:09 --> 03:16] the west. The general took his role as protector of the western provinces seriously and took
+[03:16 --> 03:24] Valentinian's role as emperor not very seriously at all. It is possible that Justina may have been
+[03:24 --> 03:29] able to act as a check on Arbogast's growing power, but at some point either just before or
+[03:29 --> 03:35] after Theodosius left Milan, the empress died, leaving her son to fend for himself,
+[03:35 --> 03:44] and he would not fend very well at all. The first thing Arbogast did was move the imperial
+[03:44 --> 03:48] court up to Trier, where he would have a better vantage point from which to survey the Rhine
+[03:48 --> 03:55] frontier. Various Germanic tribes, including members of Arbogast's own Frankish communities,
+[03:55 --> 04:01] had taken the opportunity of Maximus's revolt and the subsequent lack of an imperial presence
+[04:01 --> 04:06] in the region to raid into the Roman provinces and make off with as much as they could.
+[04:07 --> 04:10] Despite the general's connection to the tribes of the lower Rhine,
+[04:10 --> 04:14] they had overstepped the bounds of propriety and needed to be punished.
+[04:15 --> 04:19] So for the rest of 391, Arbogast led a campaign against his erstwhile people
+[04:19 --> 04:23] and by all accounts whipped them back into place pretty quick.
+[04:24 --> 04:28] This battlefield success led to Arbogast's growing sense of entitlement,
+[04:29 --> 04:36] and his ego began to run away with him. Although it's not like he didn't have good reason to be
+[04:36 --> 04:42] arrogant. Here he was, a seasoned and decorated general personally appointed by Theodosius to
+[04:42 --> 04:48] run the military of the entire western empire. He had proven his loyalty, proven his worth,
+[04:48 --> 04:53] and probably felt like he had earned the free hand he was now assuming he had.
+[04:54 --> 05:00] And besides, what was his alternative? To pay attention to the opinions of some untested youth
+[05:00 --> 05:04] who had been dominated for the last decade by a woman and a priest?
+[05:06 --> 05:10] Beyond doing whatever he felt like doing whenever he felt like doing it when it came to military
+[05:10 --> 05:15] matters, Arbogast started appointing his own ministers to various bureaucratic positions
+[05:15 --> 05:20] without consulting the emperor, and then giving those ministers the authority to overrule decisions
+[05:20 --> 05:28] made by Valentinian's appointed ministers. But despite his growing autonomy, at no point does
+[05:28 --> 05:33] it appear that Arbogast intended to overthrow the young emperor, because what would have been the
+[05:33 --> 05:39] point of that? The general had all the power and prestige he could ever hope for without worrying
+[05:39 --> 05:45] that a strong imperial hand would check that power and prestige. I would imagine that Arbogast
+[05:45 --> 05:53] was quite pleased with the arrangement as it now stood. Valentinian on the other hand could not
+[05:53 --> 05:59] have been more miserable. As I mentioned, he was now 20 years old and had every right to believe
+[05:59 --> 06:05] that with his mother dead, Ambrose back in Milan, and a new commander-in-chief in place, that it was
+[06:05 --> 06:11] time for him to assume more responsibility. But the way Arbogast was treating him made it painfully
+[06:11 --> 06:17] clear that that was never going to happen. Valentinian would issue orders and they would
+[06:17 --> 06:23] be ignored. He would appoint ministers and they would be overruled. He would announce a new policy
+[06:23 --> 06:27] and the people would look to Arbogast to see if they really needed to follow it.
+[06:28 --> 06:35] Throughout 391 and into 392, the increasingly despondent Valentinian wrote letters to Theodosius
+[06:35 --> 06:40] complaining about his treatment. But Theodosius was likely as happy with the political arrangement
+[06:40 --> 06:47] in the west as Arbogast was. Ruling an empire was serious business. Nobody wanted the inexperienced
+[06:47 --> 06:54] Valentinian screwing things up. And so the young emperor was left to languish in his impotent isolation.
+[06:57 --> 07:02] Had he played his hand a little smarter, Arbogast might have been able to maintain this dynamic
+[07:02 --> 07:10] more or less indefinitely. He had Theodosius' full support and Valentinian had, well, no one's full
+[07:10 --> 07:18] support. But unfortunately, Arbogast lacked the silver tongue necessary to successfully pull the
+[07:18 --> 07:24] strings of a puppet emperor. See, you have to stroke the ego of the puppet. And that's
+[07:24 --> 07:29] you have to pretend like the puppet is really in charge. You have to convince the puppet that
+[07:29 --> 07:35] those strings attached to its hands are just a trick of the light. Your words have to be
+[07:35 --> 07:43] manipulative and your actions have to come with a veneer of servitude. But Arbogast was no sneaky
+[07:43 --> 07:50] courtier. He was a blunt soldier and he had no time for such shenanigans. He was the real power
+[07:50 --> 07:56] in the West, not Valentinian, and he was damn well going to act like it. So the emperor was
+[07:56 --> 08:04] dismissed, ignored, and mocked, rather than endured, placated, and soothed, which would
+[08:04 --> 08:11] prove to be Arbogast's undoing. After a year spent in lavish purgatory,
+[08:12 --> 08:18] Valentinian II had finally had enough. He was the emperor, not Arbogast, and it was time to make
+[08:18 --> 08:25] that point clear to everyone. In May of 392, Valentinian sent a letter to the Frankish general
+[08:25 --> 08:32] dismissing him from his post. But when Arbogast received the note, he laughed his head off and
+[08:32 --> 08:39] then sent his own note back. Dear Valentinian, Theodosius appointed me to my position, not you.
+[08:39 --> 08:44] You have no authority to fire me. Sit on it. Sincerely, Arbogast.
+[08:46 --> 08:50] Valentinian was incensed, but when he looked around he realized that there was nothing he
+[08:50 --> 08:56] could do about it. No one was going to go to the mat for him. No one was going to take his side
+[08:56 --> 09:02] against the general. He really was just a powerless figurehead. A few days later,
+[09:02 --> 09:08] Valentinian's body was discovered in his private bedchamber. The emperor had hanged himself.
+[09:08 --> 09:14] He was 21 years old and had been nothing more than a figurehead emperor for 17 years.
+[09:18 --> 09:23] The suicide put Arbogast in a tight spot since it would naturally raise eyebrows all over the
+[09:23 --> 09:31] empire. Suicide, right, suicide. Whatever you say, Arbogast. Sure must be nice to have that
+[09:31 --> 09:39] youth out of your way, though, right? Nudge nudge, wink wink. However, though assassination is of
+[09:39 --> 09:44] course a possibility, the historical consensus seems to be that Valentinian really did hang
+[09:44 --> 09:51] himself. The emperor's death benefited Arbogast in no clear way, and the general's actions in
+[09:51 --> 09:55] the months that followed showed no indication that he had committed murder most foul.
+[09:56 --> 10:02] If Arbogast killed the emperor as part of a coup, it was the worst run coup in history since he did
+[10:02 --> 10:08] not seize power for himself the way that, say, Maximus had after killing Gratian, nor did he
+[10:08 --> 10:13] immediately put some handpicked successor on the throne, the way that, say, Pertinax had been
+[10:13 --> 10:19] elevated after the murder of Commodus. If he was playing a really long con and waiting for Theodosius
+[10:19 --> 10:26] announce a successor, then what? He was hoping for someone even weaker than Valentinian?
+[10:26 --> 10:30] I'm not sure how much weaker than Valentinian you can really get.
+[10:32 --> 10:38] So the consensus is that maybe Arbogast killed the emperor, but if he did, it was a really,
+[10:38 --> 10:45] really dumb idea. Though I suppose that's not necessarily an airtight alibi, given the infinite
+[10:45 --> 10:55] stupidity of man. A word of Valentinian's death and Arbogast's protestations of innocence arrived
+[10:55 --> 11:01] in Constantinople at almost the same time. Theodosius was likely inclined to believe his
+[11:01 --> 11:09] general, but the people surrounding Theodosius had other ideas. Valentinian's sister and Theodosius's
+[11:09 --> 11:15] wife Gala refused to believe the suicide story and raised holy hell about the need to revenge
+[11:15 --> 11:21] the murder of her brother. Then there was the Praetorian prefect Rufinus, who, no friend of
+[11:21 --> 11:26] Arbogast, did his best to control the flow of information so that the Frankish general would
+[11:26 --> 11:33] be painted in as battle-light as possible. For months, then, the eastern court hemmed and hawed
+[11:33 --> 11:40] about what to do. Do we accuse Arbogast of murder and risk civil war? Let him off the hook and risk
+[11:40 --> 11:47] letting a man guilty of regicide walk free? Finally, in late August, Arbogast got sick of
+[11:47 --> 11:51] waiting for a decision and decided that the government of the West needed an emperor.
+[11:52 --> 11:59] As a Frank, he knew that he personally couldn't fill the role, so Arbogast plucked up Flavius
+[11:59 --> 12:05] Eugenius, a former teacher of rhetoric and now second-tier imperial secretary, and hailed him,
+[12:05 --> 12:14] Augustus of the West. The choice of Eugenius was a surprise, but it does hint that Arbogast
+[12:14 --> 12:19] understood that he had probably fallen out of favor in the East and that he needed to find some
+[12:19 --> 12:26] new allies if he was going to survive. Eugenius may have been a lower-ranking minister, but he
+[12:26 --> 12:32] had very close ties to the old Roman aristocracy, and it was likely those ties that Arbogast had
+[12:32 --> 12:38] eyes on. Should the need arise, the general would now be able to raise funds from the
+[12:38 --> 12:44] senatorial elite, who conveniently enough, now hated Theodosius to a man because the
+[12:44 --> 12:49] emperor had turned into an anti-pagan extremist following his reconciliation with Ambrose.
+[12:50 --> 12:57] Arbogast was not ready to break with Theodosius just yet, but clearly he was hedging his bets.
+[12:57 --> 13:05] 3. Upon his ascension, Eugenius sent ambassadors to the eastern court to ask for formal recognition.
+[13:06 --> 13:11] The West needed an emperor. Theodosius had not immediately provided one,
+[13:11 --> 13:17] so the West had been forced to take matters into its own hands. This was not about usurpation,
+[13:17 --> 13:23] it was about political necessity. So, please ratify my elevation.
+[13:23 --> 13:29] 4. Theodosius and his ministers were as non-committal with Eugenius' ambassadors
+[13:29 --> 13:36] as they had been with Arbogast's. It is clear that for years Theodosius had been arranging things so
+[13:36 --> 13:42] that his two sons would inherit the empire, and that the elevation of Eugenius was now messing
+[13:42 --> 13:47] those plans up. But it is also clear that Theodosius was in no position to launch yet
+[13:47 --> 13:52] another invasion of the West. So, the emperor stalled for time.
+[13:55 --> 14:00] In January of 393, though, Eugenius and Arbogast were finally given an answer,
+[14:01 --> 14:05] though the presentation of that answer was a bit oblique.
+[14:06 --> 14:11] In the late 4th century, the ceremonial formality of naming consuls for each year
+[14:11 --> 14:16] was still hanging around, with both the eastern and western courts
+[14:16 --> 14:23] naming separate pairs of honorees. In the west, Eugenius named himself to one of the consulships,
+[14:23 --> 14:27] and Theodosius to the other, a clear indication that he was still seeking an alliance.
+[14:29 --> 14:34] Theodosius, meanwhile, named himself to a consulship in the east, but gave the other one
+[14:34 --> 14:41] to some random general, a clear indication that he did not share Eugenius' hopes for an alliance.
+[14:42 --> 14:48] To set things even deeper in stone, in mid-January Theodosius elevated his 9-year-old son,
+[14:48 --> 14:53] Honorius, to the rank of full Augustus, and announced that he intended for the boy to
+[14:53 --> 15:00] eventually rule the western empire. The emperor's other son, Arcadius, now 15 or 16, had himself
+[15:00 --> 15:05] been elevated to the rank of Augustus back in 383, and was already acknowledged as his father's
+[15:06 --> 15:12] successor in the east. The elevation of Honorius, though, made it clear that Theodosius had no
+[15:12 --> 15:17] intention of letting anyone from outside the family into the imperial club, which meant
+[15:17 --> 15:24] Eugenius could never be recognized officially, which meant that Arbogast was now backing an enemy
+[15:24 --> 15:30] of the state, which made him an enemy of the state as well. So unless he wanted to just hand
+[15:30 --> 15:36] himself over for execution, that meant that Arbogast was going to have to fight for his life.
+[15:37 --> 15:41] Once again, the empire was on the path to civil war.
+[15:44 --> 15:47] But it was not a war that either side was prepared to fight just yet.
+[15:49 --> 15:53] Though the break between east and west became permanent in January 393,
+[15:53 --> 15:57] it would not be until the summer of 394 that battle would finally be joined.
+[15:58 --> 16:01] In the meantime, both sides prepared.
+[16:02 --> 16:07] Eugenius and Arbogast moved their court down to Milan to secure the passes into Italy
+[16:07 --> 16:10] and make it easier to drum up support from the Roman aristocracy.
+[16:12 --> 16:17] Bishop Ambrose, far less sure of how he would be treated by Eugenius and Arbogast than he had been
+[16:17 --> 16:21] about how he was going to be treated by the last usurper to march into Milan,
+[16:21 --> 16:24] prudently took the opportunity to withdraw to Bologna.
+[16:25 --> 16:29] Over the course of the next year, he would have further reason to fear the new regime,
+[16:30 --> 16:35] as Eugenius made a concerted effort to align himself with the pagan aristocracy of Italy.
+[16:36 --> 16:41] After canceling most of the anti-pagan laws passed by Gratian, Maximus, and Theodosius,
+[16:42 --> 16:47] Eugenius then granted the long-standing request that the Altar of Victory be put back in the
+[16:47 --> 16:53] Senate House, and then provided the funds necessary to reopen the Great Temple of Venus and Rome.
+[16:55 --> 16:58] Pagan senators were then appointed to key positions in the government,
+[16:58 --> 17:04] from which they continued to roll back the ban on paganism, reopening temples all over Italy,
+[17:05 --> 17:11] and celebrating every holiday, set of games, and festival that the old religious calendar demanded.
+[17:13 --> 17:16] Ambrose chided the emperor for giving in to the devil worshippers,
+[17:16 --> 17:21] but for the moment he had lost all his influence. For the last time in history,
+[17:21 --> 17:23] the pagans were ascendant.
+[17:26 --> 17:31] Back in Constantinople, Theodosius would be able to make much of this pagan takeover in his pre-war
+[17:31 --> 17:38] propaganda. So much so, that the coming civil war will wind up being painted as a great battle
+[17:38 --> 17:44] between paganism and Christianity. Indeed, right up until the modern era,
+[17:44 --> 17:49] the Battle of the Frigates was presented as the bookend to the Battle of the Milvian Bridge,
+[17:49 --> 17:56] with Theodosius triumphantly ending the war Constantine had begun 80 years earlier.
+[17:58 --> 18:02] But focusing on the religious angle of the coming civil war means ignoring the fact that
+[18:02 --> 18:08] Arbogast and Eugenius' alliance with the pagan Senate in Rome was an example of politics making
+[18:08 --> 18:13] strange bedfellows rather than the logical consummation of some ideological agenda.
+[18:14 --> 18:19] Both Arbogast and Eugenius were Christian, and they were looking for political recognition
+[18:19 --> 18:23] and personal survival, not to start a religious revolution.
+[18:25 --> 18:31] Even the key details of the battle, which we'll get into next week, come to us mostly by way of
+[18:31 --> 18:36] Christian sources, who were understandably happy to play up the paganism of Theodosius' enemies
+[18:36 --> 18:44] in order to bathe the emperor in the righteous light of God. But we'll get more into that next week.
+[18:47 --> 18:53] On a more practical level, Theodosius spent the rest of 393 preparing an army for war,
+[18:54 --> 18:58] an army that would wind up looking a lot like the army he had taken to face Maximus.
+[18:59 --> 19:04] The core of the invasion force would be Roman legionaries, but they would once again be
+[19:04 --> 19:14] matched by an equal number of barbarian auxiliaries. The Goths in particular would play a huge role in
+[19:14 --> 19:20] a powerful new chief named Alaric. So yes, the sack of Rome is just around the corner.
+[19:22 --> 19:27] Theodosius' two leading field generals this time around would be a career officer named
+[19:27 --> 19:34] Tomasius and a rising favorite in the eastern court, Stilicho, the vandal general who had
+[19:34 --> 19:40] open negotiations with the Sassanids prior to the war with Maximus. In the intervening years,
+[19:40 --> 19:45] Stilicho had risen even further in prominence, culminating with his marriage to the emperor's
+[19:45 --> 19:52] niece-slash-adopted daughter Serena. Now one of the two or three most powerful men in the empire,
+[19:52 --> 19:58] Stilicho was put in charge of the preparations for war, and when the time came he would be one
+[19:58 --> 20:06] of the ones leading them in battle. The time for that battle finally came in the summer of 394,
+[20:06 --> 20:11] as Theodosius and his generals began marching west at the head of an army that at least one
+[20:11 --> 20:17] source claims was 60,000 men strong, although I should note that for the times that would have
+[20:17 --> 20:24] been an enormous army. As they entered Illyria, the first thing Theodosius' army noticed was that
+[20:24 --> 20:30] the passes into Italy were completely unguarded. Having studied Maximus' failed defense of Italy,
+[20:30 --> 20:35] Arbogast had concluded that Maximus had erred by dividing up his forces.
+[20:37 --> 20:42] By stationing troops on both sides of the Alpine passes, Maximus had just made Theodosius' job
+[20:42 --> 20:49] easier. So Arbogast decided to abandon the eastern entrances into the Alps and concentrate all his
+[20:49 --> 20:56] forces at the western exits. Theodosius could have the mountains, but when he came down into Italy,
+[20:56 --> 21:02] he was going to be met by a solid wall. This strategy would prove to be a sound one,
+[21:03 --> 21:07] and had it not been for a little bad luck, we could very well be talking about the great
+[21:07 --> 21:17] victory Arbogast won against the overmatched Theodosius. Next week, we'll get into that last
+[21:17 --> 21:23] great battle between the pagans and the Christians. After the first day of heavy fighting, it will look
+[21:23 --> 21:29] like Theodosius is done for, but as we'll see, a key defection and a little divine intervention
+[21:29 --> 21:36] will help turn the tide in the eastern Augustus' favor. But though he would eventually win the day,
+[21:36 --> 21:41] Theodosius' tactics would wind up having one major unintended consequence,
+[21:41 --> 21:47] as Alaric and his Goths would leave the field mighty disgruntled.

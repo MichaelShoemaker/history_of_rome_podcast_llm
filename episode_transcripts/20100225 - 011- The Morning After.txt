@@ -1,0 +1,413 @@
+# 20100225 - 011- The Morning After
+# Detected language: en
+# Duration: 1000.10 seconds
+# Model: medium, Device: cpu
+
+[00:08 --> 00:14] At the opening of the sixth book of his monumental History of Rome since its foundation, Livy
+[00:14 --> 00:14] wrote,
+[00:15 --> 00:20] The history of the Romans from the foundation of the city to its capture, first under kings,
+[00:20 --> 00:26] then under consuls and dictators, Decemvri and consular tribune, wars abroad and dissensions
+[00:26 --> 00:26] at home.
+[00:26 --> 00:32] I have set out in five books, covering matters which were obscure, both through their great
+[00:32 --> 00:37] antiquity, like objects dimly perceived in the far distance, and because in those days
+[00:37 --> 00:41] there were few written records, the only reliable means of preserving a memory of
+[00:41 --> 00:41] past events.
+[00:42 --> 00:46] A further reason was the loss of most of such accounts as were preserved in the commentaries
+[00:46 --> 00:51] of the pontiffs and other public and private records when the city was destroyed by fire.
+[00:51 --> 00:55] From now on a clearer and more reliable account can be given of the city's civil
+[00:55 --> 01:01] and military history after it made a second start, reborn as it were from its old roots
+[01:01 --> 01:03] with increased vigor and productivity.
+[01:04 --> 01:06] That seems like a good place to start this week.
+[01:08 --> 01:09] Rome was devastated.
+[01:09 --> 01:14] The city was in ruins and the population, what remained of it anyway, despaired.
+[01:15 --> 01:19] Officially the subject of abandoning Rome had been closed, but unofficially the
+[01:19 --> 01:20] idea was still a potent force.
+[01:21 --> 01:26] Why rebuild when perfectly good homes sat vacant in a well-positioned, defensible city?
+[01:27 --> 01:31] The Romans had been merciless in their annihilation of the Vaeites and the Entruscan city was
+[01:31 --> 01:32] practically a ghost town.
+[01:33 --> 01:37] But the Senate's mind was made up and the Romans were ordered to rebuild, each according
+[01:37 --> 01:38] to their means.
+[01:39 --> 01:42] Camillus, whom the people now looked upon as twice their savior, if we believe
+[01:42 --> 01:48] the legends, stood firm behind staying in Rome and the population, some reluctantly,
+[01:48 --> 01:49] followed their hero's lead.
+[01:50 --> 01:54] The new Rome that would grow out of the ashes of the Gallic sack would be recognizable
+[01:54 --> 01:59] today with its haphazard streets and deep tangled neighborhoods clearly devoid of
+[01:59 --> 02:00] any central planning.
+[02:01 --> 02:03] There was in fact no planning whatsoever.
+[02:03 --> 02:07] The Romans simply picked up what material they could salvage and began rebuilding
+[02:07 --> 02:09] wherever the whims of each individual directed.
+[02:11 --> 02:17] Rome, and I say this with love, is and has been since the 380s BC a convoluted
+[02:17 --> 02:18] mess that defies logic.
+[02:18 --> 02:23] The irony being that in almost every other town, city, or camp built by the Romans,
+[02:24 --> 02:25] rational right angles was the norm.
+[02:26 --> 02:30] A model was developed for the fortified military camp that centered around bisecting
+[02:30 --> 02:34] perpendicular roads that was copied in almost every other settlement the Romans
+[02:34 --> 02:35] established.
+[02:35 --> 02:39] A centurion encamped in Britain would have been able to easily navigate his way
+[02:39 --> 02:40] around a camp in Syria.
+[02:41 --> 02:45] Everywhere the Romans went, they took their standard grid city layout with them.
+[02:45 --> 02:49] But the eternal city itself was the dark city of this Roman type A OCD.
+[02:50 --> 02:54] And the roots of that chaos lay in the years after the Gallic sack when the
+[02:54 --> 02:57] Romans rebuilt quickly but without any kind of master plan.
+[02:58 --> 03:00] Not that this is necessarily the Romans' fault.
+[03:01 --> 03:04] As they were attempting to rebuild their shattered city, nearly every one
+[03:04 --> 03:08] of their formerly subdued enemies took their shot at setting themselves free
+[03:08 --> 03:09] of the Roman hegemony.
+[03:10 --> 03:14] As I mentioned at the end of last week, the usual suspects, particularly the
+[03:14 --> 03:15] Bolshans, reappeared.
+[03:15 --> 03:18] But longtime allies now rose up as well.
+[03:18 --> 03:22] Piling it on Rome became the fad du jour among long disgruntled Latin
+[03:22 --> 03:25] communities who never got over Rome's breaking up of the Latin League 100
+[03:25 --> 03:28] years earlier at the Battle of Lake Regilis.
+[03:28 --> 03:32] Even colonies set up by Rome with strong ties to the city joined in the
+[03:32 --> 03:35] rebellions and kicked their mother city while she was down.
+[03:36 --> 03:39] While trying to put their lives back together, the Romans kept being
+[03:39 --> 03:40] recalled to arms.
+[03:40 --> 03:41] Now to fight on this front.
+[03:41 --> 03:42] Now to fight that enemy.
+[03:42 --> 03:44] Now to fight this former friend.
+[03:45 --> 03:47] It is no wonder the city grew so haphazardly.
+[03:48 --> 03:51] There was barely enough time to nail down the roof before it was time to go
+[03:51 --> 03:52] and fight again.
+[03:53 --> 03:56] Throughout these years, Camillus was the rock behind which the insecure
+[03:56 --> 03:57] Romans hid.
+[03:57 --> 04:01] In times of danger, they turned to him again and again to lead them to
+[04:01 --> 04:01] victory.
+[04:02 --> 04:07] Whether he was appointed official dictator, as he was in 389, 368, and
+[04:07 --> 04:12] for the fifth and final time 367 BC, or whether he was elected as one of
+[04:12 --> 04:15] the military tribunes for that year, Camillus was unquestionably the
+[04:15 --> 04:16] leader of Rome.
+[04:17 --> 04:21] Everyone relied upon his strategic and tactical brilliance to see them
+[04:21 --> 04:22] through these dark times.
+[04:22 --> 04:26] His enemies, and he did have a few, accused him of arrogance, of
+[04:26 --> 04:29] treating his fellow tribunes as if they were his vassals, not his
+[04:29 --> 04:29] equals.
+[04:30 --> 04:32] But the people were indifferent to these accusations.
+[04:33 --> 04:34] Camillus was their man.
+[04:35 --> 04:38] Plus, the other commanders did little to inspire the people's
+[04:38 --> 04:38] confidence.
+[04:39 --> 04:42] At one point, a tribune leading a legion against an allied army of
+[04:42 --> 04:45] Latins and Volscians saw his army flee in terror and hide behind
+[04:45 --> 04:46] their camp walls.
+[04:47 --> 04:50] Camillus was ordered to take command and, by his very presence,
+[04:51 --> 04:54] instilled the soldiers with enough confidence to march back out and
+[04:54 --> 04:56] defeat the enemy they thought so powerful.
+[04:57 --> 05:00] Camillus dominated his time, and it would be another 150 years until
+[05:00 --> 05:04] anyone emerged to equal him in the pantheon of Roman heroes.
+[05:04 --> 05:08] That man, Scipio Africanus, who delivered the Romans from the
+[05:08 --> 05:11] scourge of Hannibal, is often mentioned in the same breath as
+[05:11 --> 05:15] Camillus, and indeed, they can sense his opinion as that later
+[05:15 --> 05:18] historians, Plutarch and Livy especially, colored their
+[05:18 --> 05:21] descriptions of Camillus to make him seem a prelude to the great
+[05:21 --> 05:22] Scipio of Africa.
+[05:24 --> 05:27] But as Camillus remained in the people's high esteem, another
+[05:27 --> 05:28] hero fell from grace.
+[05:29 --> 05:33] Marcus Manlius Capitolanus, the last name attached in honor of
+[05:33 --> 05:36] Manlius' bravery during the Gallic siege, would soon find
+[05:36 --> 05:39] himself etched into Roman history not as a great hero,
+[05:39 --> 05:40] but as a villain.
+[05:41 --> 05:44] After the withdrawal of the Gauls, Manlius' ego was
+[05:44 --> 05:46] severely bruised by the honors heaped upon Camillus,
+[05:47 --> 05:48] and he took them as a personal insult.
+[05:49 --> 05:52] Had he and the others not held out against the Gauls,
+[05:52 --> 05:54] Camillus never would have had the opportunity to save
+[05:54 --> 05:54] them.
+[05:55 --> 05:57] Surely that deserves some glory, but
+[05:57 --> 05:58] Camillus hogged it all.
+[05:59 --> 06:02] Manlius was one of the few amongst the citizen body who
+[06:02 --> 06:04] could not stand the sight of Camillus, who he considered to
+[06:04 --> 06:05] be a pompous fraud.
+[06:06 --> 06:09] This aggravation led Manlius to break ranks with his fellow
+[06:09 --> 06:12] patricians and take up the cause of the plebes.
+[06:12 --> 06:15] By making himself their champion, Manlius hoped to do
+[06:15 --> 06:18] an end run around Camillus and earn the acclaim he
+[06:18 --> 06:18] felt he deserved.
+[06:20 --> 06:22] The most pressing issue of the day was debt relief.
+[06:23 --> 06:25] Obviously, as the Romans rebuilt, there was a hefty
+[06:25 --> 06:27] amount of borrowing going on, and the interest payments
+[06:27 --> 06:29] began to bankrupt the population.
+[06:30 --> 06:32] Every day, some men hauled off to prison for
+[06:32 --> 06:33] defaulting on loans.
+[06:34 --> 06:37] Men who had fought at Viet and stood firm against the
+[06:37 --> 06:40] Gauls were daily being made slaves by money lenders who
+[06:40 --> 06:41] showed no mercy or compassion.
+[06:42 --> 06:45] Manlius spoke out publicly in favor of relief and
+[06:45 --> 06:47] often paid the debts of former soldiers out of his
+[06:47 --> 06:50] own pocket and offered interest-free loans to any
+[06:50 --> 06:50] who asked.
+[06:51 --> 06:53] The patricians were disturbed by Manlius' new
+[06:53 --> 06:56] image as the savior of the people, not only because
+[06:56 --> 06:58] they saw him as letting irresponsible debtors off the
+[06:58 --> 07:01] book, but also because he constantly slipped in
+[07:01 --> 07:03] references to the great untapped strength of the
+[07:03 --> 07:06] populace and how their numerical superiority ought
+[07:06 --> 07:08] to account for something in the formation of policy.
+[07:09 --> 07:12] The patricians saw these as veiled and not so veiled
+[07:12 --> 07:15] threats against the established order and began
+[07:15 --> 07:17] to see Manlius as a revolutionary figure.
+[07:18 --> 07:21] Manlius was arrested once on charges of bringing
+[07:21 --> 07:23] false claims of theft against the money lenders,
+[07:23 --> 07:25] but public outcry was so great that they were
+[07:25 --> 07:26] forced to release him.
+[07:27 --> 07:30] With peace abroad to allow for real public unrest,
+[07:31 --> 07:33] riots began to break out between patrician and
+[07:33 --> 07:36] plead factions, Manlius offering daily harangues
+[07:36 --> 07:38] against the tyranny of the nobles and offering
+[07:38 --> 07:40] himself as the only patrician who cared about
+[07:40 --> 07:41] his fellow citizens.
+[07:42 --> 07:43] The implication was clear.
+[07:43 --> 07:46] Throw out the Senate and elect a new democratic
+[07:46 --> 07:47] government with me as your leader.
+[07:48 --> 07:51] Finally, unable to take it anymore, the
+[07:51 --> 07:53] patricians again arrested Manlius, this time on
+[07:53 --> 07:55] charges of sedition and treason.
+[07:55 --> 07:58] The trial of Manlius would become famous for the
+[07:58 --> 07:59] way it would play out.
+[08:00 --> 08:02] The trial was originally held on the campus
+[08:02 --> 08:04] marshes, which lay in the shadow of the
+[08:04 --> 08:04] Capitoline Hill.
+[08:05 --> 08:08] During his defense, Manlius was able to stretch
+[08:08 --> 08:10] his hand up to the hill and remind the people
+[08:10 --> 08:12] of his great service to the city, asking how
+[08:12 --> 08:14] anyone could possibly believe he was now
+[08:14 --> 08:15] engaged in treason.
+[08:16 --> 08:19] The argument was having its effect, so the
+[08:19 --> 08:21] savvy patricians adjourned the trial to a
+[08:21 --> 08:22] different location.
+[08:22 --> 08:25] Now, without the Capitoline as a backdrop, the
+[08:25 --> 08:27] charges and evidence against Manlius stood on
+[08:27 --> 08:28] their own merits.
+[08:29 --> 08:32] Public opinion turned against Manlius, who, it
+[08:32 --> 08:34] became obvious, was engaged in an active
+[08:34 --> 08:36] conspiracy to overthrow the Senate.
+[08:36 --> 08:38] The verdict was swift and harsh.
+[08:39 --> 08:41] He was to be thrown from the Tarpean Rock, a
+[08:41 --> 08:44] steep cliff on the Capitoline Hill used for
+[08:44 --> 08:47] executions, ironically dying in disgrace a few
+[08:47 --> 08:49] feet from where he had achieved his greatest
+[08:49 --> 08:49] glory.
+[08:50 --> 08:53] The death of Manlius did nothing to end Plebeian
+[08:53 --> 08:55] unrest, however.
+[08:55 --> 08:57] Manlius saw an opportunity and exploited it.
+[08:58 --> 08:59] He did not create the conditions for that
+[08:59 --> 09:00] opportunity.
+[09:01 --> 09:03] The Plebes' overriding concern at this point
+[09:03 --> 09:05] were, as we have seen, debt relief.
+[09:05 --> 09:08] But the old standbys of land redistribution and
+[09:08 --> 09:10] access to political power rose again.
+[09:11 --> 09:13] The former problem was wrapped up in the
+[09:13 --> 09:15] latter two, and the Plebes began to focus
+[09:15 --> 09:17] their energy on the land and power questions.
+[09:18 --> 09:21] Both the land taken from V.A. in the North and
+[09:21 --> 09:23] the land taken from the Volshans in the South
+[09:23 --> 09:25] conspicuously wound up in the hands of a few
+[09:25 --> 09:27] patrician landowners, rather than being
+[09:27 --> 09:29] divided up amongst the masses.
+[09:30 --> 09:31] How were the people supposed to pay off
+[09:31 --> 09:33] their debts when they were denied the
+[09:33 --> 09:34] income land provided?
+[09:35 --> 09:37] Further, how was it that state policy had
+[09:37 --> 09:39] granted so much to so few?
+[09:40 --> 09:42] Obviously, whatever concessions had been
+[09:42 --> 09:44] made to the Plebes in the past had lost
+[09:44 --> 09:44] their potency.
+[09:45 --> 09:47] The Plebes finally saw the office of
+[09:47 --> 09:49] military tribune with consular power for what
+[09:49 --> 09:51] it was, an attempt to water down Plebe
+[09:51 --> 09:53] authority and deny them access to the
+[09:53 --> 09:56] consulship, the ultimate office of state.
+[09:57 --> 09:59] One man in particular, a patrician with two
+[09:59 --> 10:01] daughters, took it upon himself to end once
+[10:01 --> 10:03] and for all this unbalance.
+[10:05 --> 10:08] Marcus Fabius Ambustus, a patrician who
+[10:08 --> 10:10] enjoyed Plebe support, had married his
+[10:10 --> 10:12] eldest daughter to an influential patrician
+[10:12 --> 10:14] and his youngest to a wealthy Plebe named
+[10:14 --> 10:16] Gaius Licinius Polo.
+[10:17 --> 10:18] The younger daughter complained that she
+[10:18 --> 10:20] would never receive the honors her elder
+[10:20 --> 10:22] sister received on account of her
+[10:22 --> 10:23] husband's Plebe status.
+[10:24 --> 10:26] Fabius, the story goes, promised his
+[10:26 --> 10:27] daughter she would have everything her
+[10:27 --> 10:29] sister had and began working with his
+[10:29 --> 10:31] son-in-law Licinius to break the
+[10:31 --> 10:33] patrician's strength hold on the consulship.
+[10:34 --> 10:36] They began by pointing out to people
+[10:36 --> 10:38] that despite Plebe access to the office
+[10:38 --> 10:40] of military tribune, no Plebe had been
+[10:40 --> 10:42] elected to said office for the last
+[10:42 --> 10:43] decade, which was true.
+[10:44 --> 10:46] They then demanded a permanent return to
+[10:46 --> 10:48] dual consulship with the stipulation
+[10:48 --> 10:50] that one of the consuls had to be a Plebe.
+[10:51 --> 10:53] Licinius got himself elected tribune
+[10:53 --> 10:55] of the Plebes, an office that had
+[10:55 --> 10:57] fallen into some disrepute, and used
+[10:57 --> 10:59] his veto power to bring government
+[10:59 --> 11:00] business to a standstill.
+[11:01 --> 11:03] He promised to veto everything in sight,
+[11:03 --> 11:05] including the yearly elections until
+[11:05 --> 11:06] his demands were met.
+[11:07 --> 11:08] In addition to access to the
+[11:08 --> 11:10] consulship, Licinius also demanded
+[11:10 --> 11:12] that a cap be put on the total
+[11:12 --> 11:14] amount of land a man could own, as
+[11:14 --> 11:16] well as regulations on interest rates.
+[11:17 --> 11:19] It was this shutdown, engineered by
+[11:19 --> 11:21] Fabius and Licinius, that Livy uses
+[11:21 --> 11:23] to explain his chronological gap,
+[11:23 --> 11:26] stating that between 375 and 370 BC,
+[11:26 --> 11:28] no magisterial elections were held.
+[11:29 --> 11:30] Though the duration and excess of
+[11:30 --> 11:32] the standoff is no doubt exaggerated,
+[11:32 --> 11:33] the outcome is not.
+[11:34 --> 11:35] The Plebes finally gained access
+[11:35 --> 11:36] to the consulship.
+[11:38 --> 11:40] The moment would not come without a
+[11:40 --> 11:41] final appearance of the great Camillus,
+[11:41 --> 11:42] however.
+[11:42 --> 11:44] The civil unrest and power vacuum led
+[11:44 --> 11:46] to calls for a dictator, and the Senate
+[11:46 --> 11:48] named Camillus, who enjoyed the support
+[11:48 --> 11:51] of everyone, patrician and plebe alike.
+[11:51 --> 11:53] They were hoping Camillus would see
+[11:53 --> 11:55] things their way, but much to their
+[11:55 --> 11:56] discomfort, he did not.
+[11:57 --> 11:58] And due to a flaw in the appointment
+[11:58 --> 12:00] ceremony, a religious event stuffed
+[12:00 --> 12:02] full with every kind of Roman
+[12:02 --> 12:04] superstition, Camillus was forced to
+[12:04 --> 12:06] resign for that year, granting a
+[12:06 --> 12:07] reprieve of sorts to the clearly
+[12:07 --> 12:08] defensive patricians.
+[12:08 --> 12:12] The next year though, 367 BC,
+[12:12 --> 12:14] Camillus was again named dictator for
+[12:14 --> 12:15] the fifth and final time.
+[12:16 --> 12:18] He used his power to broker the deal
+[12:18 --> 12:20] Licinius and his colleagues demanded,
+[12:20 --> 12:22] and for the first time a plebe would
+[12:22 --> 12:23] be elected consul.
+[12:24 --> 12:26] The crisis settled, Camillus resigned.
+[12:27 --> 12:29] The old Roman leader died soon after,
+[12:29 --> 12:30] the victim of a plague that
+[12:30 --> 12:33] decimated the Romans in the 360s BC.
+[12:34 --> 12:36] With his death, a new era dawned.
+[12:36 --> 12:38] The Romans had survived their brush
+[12:38 --> 12:40] with death and emerged a strong,
+[12:40 --> 12:41] more democratic place.
+[12:43 --> 12:45] The honor of first plebe consul
+[12:45 --> 12:47] historically goes to Lucius Sextius,
+[12:47 --> 12:49] one of Licinius's colleagues who had
+[12:49 --> 12:50] helped engineer the shutdown.
+[12:51 --> 12:53] The land ownership ceiling and
+[12:53 --> 12:55] regulation of debt were granted at
+[12:55 --> 12:56] the same time,
+[12:56 --> 12:59] and ironically, Licinius himself would
+[12:59 --> 13:01] be prosecuted years later for
+[13:01 --> 13:02] violating his own laws
+[13:02 --> 13:04] after he sought to accumulate large
+[13:04 --> 13:06] tracks of land for himself and his
+[13:06 --> 13:07] family.
+[13:08 --> 13:10] At this point, the law stated merely
+[13:10 --> 13:12] that one of the consuls could be a
+[13:12 --> 13:12] plebe.
+[13:13 --> 13:16] Later, around 342 BC, a law would be
+[13:16 --> 13:17] passed stating that one of the
+[13:17 --> 13:18] consuls had to be a plebe.
+[13:19 --> 13:21] For now though, the plebes accepted
+[13:21 --> 13:23] the obvious victory and passed to the
+[13:23 --> 13:24] next generation the task of not
+[13:24 --> 13:26] simply allowing equal access to power
+[13:26 --> 13:28] but guaranteeing it.
+[13:29 --> 13:31] The veracity of this patrician
+[13:31 --> 13:33] plebe showdown and the election of a
+[13:33 --> 13:36] first plebeian consul in 367 BC
+[13:36 --> 13:38] has been called into question by
+[13:38 --> 13:39] modern historians.
+[13:40 --> 13:42] In the first place, they point out
+[13:42 --> 13:43] that Roman historians of the late
+[13:43 --> 13:44] republic
+[13:44 --> 13:46] and early imperial period were
+[13:46 --> 13:47] obviously drawing their narrative for
+[13:47 --> 13:48] more recent events,
+[13:49 --> 13:50] specifically the conflicts that
+[13:50 --> 13:51] centered around the Gracchi brothers
+[13:51 --> 13:53] who used their veto power to try and
+[13:53 --> 13:55] force through land redistribution
+[13:55 --> 13:57] in the 130s and 120s BC.
+[13:58 --> 14:01] Second, modern analysis has determined
+[14:01 --> 14:02] that as many as a third of the
+[14:02 --> 14:04] consuls prior to 367
+[14:04 --> 14:06] were in fact of plebeian origin.
+[14:07 --> 14:09] As is so often the case, a clear
+[14:09 --> 14:10] dramatic delineation in history
+[14:10 --> 14:13] is less plausible than a gradual shift
+[14:13 --> 14:14] in policy over the years.
+[14:15 --> 14:16] There is no doubt that the vast
+[14:16 --> 14:18] majority of early consuls were
+[14:18 --> 14:18] patricians,
+[14:19 --> 14:21] but it is suspected that this was
+[14:21 --> 14:22] not the result of overt
+[14:22 --> 14:23] discrimination,
+[14:23 --> 14:24] but rather because of the greater
+[14:24 --> 14:26] wealthy fame of patrician candidates.
+[14:27 --> 14:30] The 367 BC date is important though
+[14:30 --> 14:32] because from that point on there is a
+[14:32 --> 14:34] marked increase in plebe consuls
+[14:34 --> 14:36] demonstrating some sort of conscious
+[14:36 --> 14:38] decision to grant plebeians more power.
+[14:38 --> 14:41] And of course the existence of a 342 BC
+[14:41 --> 14:43] law stipulating that one of the
+[14:43 --> 14:44] consuls had to be a plebe
+[14:44 --> 14:47] is not disputed and it seems likely
+[14:47 --> 14:49] that this was the culmination of a
+[14:49 --> 14:50] decades-long shift
+[14:50 --> 14:51] rather than a bolt out of the blue.
+[14:53 --> 14:54] In general what can be stated is
+[14:54 --> 14:56] that after the sack of Rome
+[14:56 --> 14:58] the plebes demanded and received far
+[14:58 --> 14:59] greater power than they had enjoyed
+[14:59 --> 15:01] prior to the arrival of the Gauls.
+[15:02 --> 15:04] The Romans struggled in the years
+[15:04 --> 15:05] after the Gauls left them for dead
+[15:05 --> 15:08] but managed to hold on in the face of
+[15:08 --> 15:09] massive external pressure
+[15:09 --> 15:10] and internal dissension.
+[15:12 --> 15:13] The new enfranchisement of the plebes
+[15:13 --> 15:15] made the Romans a more cohesive
+[15:15 --> 15:16] and less divisive society.
+[15:17 --> 15:19] This cohesion would be tested by a
+[15:19 --> 15:21] confrontation that loomed on the
+[15:21 --> 15:21] horizon.
+[15:22 --> 15:23] Though the Romans did not know it yet
+[15:23 --> 15:25] they were about to begin a series of
+[15:25 --> 15:26] war that would leave them the
+[15:26 --> 15:27] dominant force
+[15:27 --> 15:29] not just in Latium or central Italy
+[15:29 --> 15:31] but in the entire peninsula.
+[15:33 --> 15:35] Next week we will introduce the Samnites
+[15:35 --> 15:37] the fiercest of all the hill tribes
+[15:37 --> 15:39] who would not only prove more than a
+[15:39 --> 15:41] match for Rome but also force the
+[15:41 --> 15:43] Romans to rethink everything they knew
+[15:43 --> 15:43] about warfare.
+[15:44 --> 15:46] The Romans would fight a single great
+[15:46 --> 15:48] war with three distinct phases
+[15:48 --> 15:51] against the Samnites between 343 and 295
+[15:51 --> 15:51] BC.
+[15:52 --> 15:54] The Samnite wars would pull all the
+[15:54 --> 15:55] major powers of Italy
+[15:55 --> 15:57] onto one side or the other and
+[15:57 --> 15:59] culminate with the largest battle
+[15:59 --> 16:00] ever fought on Italian soil.
+[16:01 --> 16:03] When it was over the Roman victory was
+[16:03 --> 16:05] so complete that it would be 200 years
+[16:05 --> 16:07] before an Italian people again mounted
+[16:07 --> 16:09] a serious threat to Roman rule
+[16:09 --> 16:12] and by that time Rome had grown into
+[16:12 --> 16:14] a global empire the Italians were not
+[16:14 --> 16:15] trying to topple
+[16:15 --> 16:17] but rather gain full legal
+[16:17 --> 16:18] citizenship with it.
+[16:31 --> 16:32] you

@@ -1,0 +1,465 @@
+# 20100301 - 065- Burn It To The Ground
+# Detected language: en
+# Duration: 1518.05 seconds
+# Model: medium, Device: cpu
+
+[00:00 --> 00:05] This week's episode is brought to you by Audible. As you are now fully aware,
+[00:05 --> 00:09] Audible is the Internet's leading provider of audio entertainment with
+[00:09 --> 00:13] over 60,000 titles to choose from. When you're done with this episode, go to
+[00:14 --> 00:18] audiblepodcast.com forward slash Roam. That again is audiblepodcast.com
+[00:18 --> 00:22] forward slash Roam. By going to that address, you will qualify for a free
+[00:22 --> 00:26] book download when you sign up for a 14-day trial membership. There is no
+[00:26 --> 00:30] obligation to continue the service and you can cancel any time and keep the
+[00:30 --> 00:33] free book download. You can also keep going with one of the monthly
+[00:33 --> 00:37] subscription options and get great deals on all future audiobook purchases.
+[00:38 --> 00:42] This week, I'm going to recommend picking up The Roman Empire, a very
+[00:42 --> 00:45] short introduction, which I just discovered and haven't read or listened
+[00:45 --> 00:49] to yet, but it's by Christopher Kelly, who is a lecturer at the University
+[00:49 --> 00:53] of Cambridge and a scholar of late antiquity, so I'm going to go out on
+[00:53 --> 00:57] him in saying that it's probably pretty good. He has also written books on
+[00:57 --> 01:01] Attila the Hun and the administration of the late Roman Empire, both of which
+[01:01 --> 01:05] I imagine will figure prominently in my research as I try to make sense of
+[01:05 --> 01:10] the post-Constantine Roman Empire. Just remember to go to audiblepodcast.com
+[01:10 --> 01:13] forward slash Roam so they know who sent you.
+[01:18 --> 01:25] Hello, and welcome to the history of Rome. Episode 65, Burn It to the Ground.
+[01:26 --> 01:30] Last week, a 16-year-old Nero ascended to the throne and, after
+[01:30 --> 01:33] spending a brief period dominated by his mother and other influential
+[01:33 --> 01:39] advisors, emerged as his own man. Maybe that's too strong a reading, as it
+[01:39 --> 01:44] images of Augustus or Tiberius emerging as their own men, which implies a degree
+[01:44 --> 01:48] of independent competence that Nero never really attained, but he had
+[01:48 --> 01:52] definitely passed a point where it became dangerous to exert too much
+[01:52 --> 01:56] overt control over the emperor. If nothing else, Nero had to think he was
+[01:56 --> 02:00] the man in charge, even if his policies were usually influenced on the
+[02:00 --> 02:04] front end and executed on the back end by men with their own agendas.
+[02:05 --> 02:08] Not that these separate agendas were nefarious, mind you. A lot of that
+[02:08 --> 02:12] backroom influencing resulted in the reigning end of Nero's impulsiveness
+[02:12 --> 02:17] and making sure his grandiose declarations were always interpreted in
+[02:17 --> 02:21] as sound and practical a manner as possible. It would be a few years yet
+[02:21 --> 02:24] before the men who were a positive influence on the young emperor were
+[02:24 --> 02:28] replaced by men who encouraged Nero to embrace the darker side of his
+[02:28 --> 02:33] character for their own ends. This week, though, I want to move away
+[02:33 --> 02:37] from the cutthroat politics of the imperial court and focus instead on the
+[02:37 --> 02:41] foreign pressures the empire faced during the first half of Nero's reign.
+[02:42 --> 02:45] Because right off the bat, Rome's enemies took one look at the untested
+[02:45 --> 02:49] 16-year-old emperor and decided that now was the perfect time to push
+[02:49 --> 02:54] Rome around. In the east, the Parthians took advantage of the
+[02:54 --> 02:58] situation to strengthen their position in Armenia, the semi-independent
+[02:58 --> 03:01] buffer state that had been the source of so much conflict over the
+[03:01 --> 03:05] years. While the Romans dealt with rising tensions and then eventually
+[03:05 --> 03:09] all-out war with the Parthians, a revolt in the newly acquired province of
+[03:09 --> 03:12] Britannia would break out, led by the warrior Queen Boudica that would
+[03:12 --> 03:17] erupt with such ferocious energy that for a while, Nero considered just
+[03:17 --> 03:21] abandoning the island altogether. Eventually, though, the uprising in
+[03:21 --> 03:24] Britannia would be put down and a settlement reached with the Parthians.
+[03:25 --> 03:28] Both conflicts left a lot of lingering resentment and unanswered
+[03:28 --> 03:35] questions about the future, but all in all, Nero's response to these
+[03:35 --> 03:38] conflicts was a plus in foreign policy. He didn't gain any territory,
+[03:38 --> 03:42] but he didn't lose any territory either, though his critics did
+[03:42 --> 03:45] accuse him of essentially giving up Rome's hegemony over Armenia when
+[03:45 --> 03:48] the final deal with Parthia was signed, but I would argue that the
+[03:48 --> 03:52] agreement, which averted continuous war with Parthia, actually goes
+[03:52 --> 03:55] down on the credit rather than the debit side of Nero's ledger.
+[03:58 --> 04:00] Trouble in the east began to bubble to the surface at the end of
+[04:00 --> 04:04] Claudius' reign. Since the time of Augustus, a deal had been
+[04:04 --> 04:07] worked out between Rome and Parthia, whereby Rome retained the right
+[04:07 --> 04:10] to appoint the monarch of Armenia, this nominally independent buffer
+[04:10 --> 04:15] state. The arrangement worked out fine until the early 50s A.D.
+[04:15 --> 04:18] when the Roman-nominated king was overthrown by his own nephew.
+[04:19 --> 04:22] The nephew turned out to be a terrible ruler, and the people of
+[04:22 --> 04:26] Armenia soon grew to despise him. The new king of Parthia,
+[04:26 --> 04:30] Volagases I, saw what was going on in Armenia and decided that
+[04:30 --> 04:33] he could make his mark on history by prying the country away from
+[04:33 --> 04:37] the Romans. So, skillfully parlaying disgust with the sitting
+[04:37 --> 04:41] king into support for a Parthian alternative, Volagases invaded
+[04:41 --> 04:45] Armenia and installed his own brother Tyrodates on the throne.
+[04:46 --> 04:49] After a few years of back and forth between the rival claimants,
+[04:49 --> 04:52] the people of Armenia backed Tyrodates, and in 54 A.D.
+[04:52 --> 04:55] the Parthians found themselves effectively ruling Armenia.
+[04:57 --> 05:00] 54 A.D. is also, of course, the year that Claudius died and Nero
+[05:00 --> 05:04] became emperor, making the eastern encroachment of the Parthians
+[05:04 --> 05:07] one of the first major tests of the new emperor's medal.
+[05:08 --> 05:10] Being young and wanting to make a mark himself, Nero was
+[05:10 --> 05:13] convinced to push back hard against the Parthians.
+[05:15 --> 05:18] To spearhead this pushback, Nero appointed a man named
+[05:18 --> 05:21] Neus Domitius Corbulo, a general who had made a name
+[05:21 --> 05:24] for himself battling the always active Germanic tribes
+[05:24 --> 05:28] during the reigns of Caligula and Claudius. Corbulo was
+[05:28 --> 05:32] a great propraitor and later proconsul of the provinces of Cappadocia
+[05:32 --> 05:36] and Galatia and instructed to gather and train an army
+[05:36 --> 05:38] that could be put in the field against the Parthians
+[05:38 --> 05:40] should diplomatic overtures fail.
+[05:41 --> 05:44] As he gathered his forces though, it became apparent that
+[05:44 --> 05:47] the bulk of whatever force he led would be drawn from the legions
+[05:47 --> 05:50] stationed in Syria. So for the next few years,
+[05:50 --> 05:53] while Rome waited for Parthia to back down and Parthia waited
+[05:53 --> 05:56] for Rome to give up, Corbulo trained his men,
+[05:56 --> 05:58] going so far as to keep them encamped throughout the winter
+[05:58 --> 06:01] to get them ready for the harsh conditions they would find
+[06:01 --> 06:02] in mountainous Armenia.
+[06:04 --> 06:06] The basic demand of the Romans was simple.
+[06:07 --> 06:09] Tyrodates had to travel to Rome and receive an official
+[06:09 --> 06:13] endorsement from the emperor. Otherwise, his presence
+[06:13 --> 06:15] on the Armenian throne would be considered illegitimate
+[06:15 --> 06:19] and an act of war. The Parthians hemmed in haud
+[06:19 --> 06:23] and so finally in 58 AD, Corbulo was given the green light
+[06:23 --> 06:26] to begin pressing the Roman case by other means.
+[06:27 --> 06:30] Tyrodates had scattered his defense forces across Armenia
+[06:30 --> 06:34] to avoid the decisiveness that comes with a single large battle.
+[06:34 --> 06:37] So rather than invading the country with a single column,
+[06:37 --> 06:39] Corbulo sent in dozens of small detachments
+[06:39 --> 06:42] and simultaneously ordered the Roman allied kings
+[06:42 --> 06:45] along the Armenian border to begin stirring up trouble.
+[06:46 --> 06:48] If he couldn't knock Tyrodates out with a single punch,
+[06:48 --> 06:51] Corbulo was content to do it with a thousand cuts.
+[06:53 --> 06:56] At first, things went well for Rome and in short order
+[06:56 --> 06:59] the swarming legions caused Tyrodates to demand a meeting.
+[07:00 --> 07:01] The two sides agreed to come together,
+[07:02 --> 07:04] but when the Armenians showed up with a thousand men
+[07:04 --> 07:06] and the Romans showed up with three thousand men,
+[07:06 --> 07:09] Tyrodates got spooked and took off in the middle of the night
+[07:09 --> 07:12] convinced that he was about to be ambushed.
+[07:13 --> 07:16] The Armenians then tried to cut off the supply line of the legions,
+[07:16 --> 07:18] the tactic that had brought Mark Antony to his knees,
+[07:18 --> 07:21] but Corbulo had studied his military history
+[07:21 --> 07:25] and made sure that his supply chain, though long, was well defended.
+[07:26 --> 07:28] Unable to make a dent against the Roman invasion,
+[07:28 --> 07:31] Tyrodates fell back into a defensive posture,
+[07:31 --> 07:34] leading Corbulo to recall his own scattered forces
+[07:34 --> 07:37] and prepare them for a series of traditional assaults
+[07:37 --> 07:39] on the main Armenian strongholds.
+[07:39 --> 07:41] Encountering little real resistance,
+[07:41 --> 07:43] the Romans captured city after city
+[07:43 --> 07:45] on their way to the northern capital of Artashata,
+[07:46 --> 07:47] where Tyrodates had holed up.
+[07:48 --> 07:52] The Armenian king dispatched everything he had against the besieging Roman forces,
+[07:52 --> 07:53] but he was unable to break their line.
+[07:54 --> 07:57] Tyrodates was forced to flee and abandon his capital.
+[07:58 --> 08:01] Unable to garrison the city properly, Corbulo burned it to the ground.
+[08:03 --> 08:06] The next year, the legions headed towards Toghrana Serta,
+[08:07 --> 08:08] the capital of southern Armenia.
+[08:08 --> 08:11] It was a difficult road, and along the way,
+[08:11 --> 08:15] at least one plot to assassinate the hard-driving Corbulo was exposed.
+[08:15 --> 08:17] The conspirators, mostly allied Armenians
+[08:17 --> 08:20] who had grown tired of following the Romans, were all executed.
+[08:21 --> 08:24] The affair actually turned out pretty well for the targeted Roman general,
+[08:25 --> 08:26] not only because he survived,
+[08:26 --> 08:29] but also because, when he arrived outside of Toghrana Serta,
+[08:30 --> 08:33] it is reported that he launched one of the conspirators' heads into the city,
+[08:34 --> 08:37] reminding the leaders of the capital what happened to those who defied Rome.
+[08:37 --> 08:40] The ruling council voted to surrender without a fight.
+[08:42 --> 08:45] By the end of 59 AD, Tyrodates was on the run
+[08:45 --> 08:49] and Corbulo crowned Tigranus VI as the new king of Armenia.
+[08:50 --> 08:53] Having successfully ejected the Parthians from this key territory
+[08:53 --> 08:56] with only minimal losses, Corbulo was hailed as a hero back in Rome
+[08:56 --> 08:59] and became the most celebrated general of his generation.
+[09:00 --> 09:03] As a reward for his achievement, the victorious Corbulo
+[09:03 --> 09:05] was given the governorship of Syria,
+[09:05 --> 09:09] the most important province in the Eastern Empire, aside from Egypt, of course.
+[09:11 --> 09:13] He left a legion garrisoned in Armenia to support the new king
+[09:13 --> 09:15] and headed south to his new assignment,
+[09:15 --> 09:18] believing that the Armenian question had now been answered.
+[09:20 --> 09:22] But it was not to be so.
+[09:22 --> 09:26] As it would turn out, Corbulo's victories came so easily
+[09:26 --> 09:30] because, while the Romans were intensely focused on the conflict in Armenia,
+[09:30 --> 09:34] Vologhossis and the Parthians were being pulled in a dozen different directions,
+[09:34 --> 09:37] dealing with nasty revolts both out on their frontiers
+[09:37 --> 09:39] and within their royal family itself.
+[09:40 --> 09:43] Stretched so thin, Parthia was unable to supply Tyrodates
+[09:43 --> 09:47] with the resources he needed to successfully ward off the Roman assault.
+[09:48 --> 09:51] But in 61 AD, following probably ill-advised raids
+[09:51 --> 09:55] into Parthia by Tigranus VI, things changed.
+[09:56 --> 09:58] There was no way Vologhossis could ignore such an insult.
+[09:59 --> 10:02] Settling his other internal problems so as not to be distracted,
+[10:02 --> 10:06] the Romans soon discovered that they had earned Parthia's full attention.
+[10:07 --> 10:09] From here on out, things would not be so easy.
+[10:11 --> 10:14] Just as things were about to get dicey in the east,
+[10:14 --> 10:17] a revolt in Britannia exploded with such force
+[10:17 --> 10:21] that Nero and his advisors seriously considered just giving up the island completely.
+[10:22 --> 10:26] At what point, they wondered, will it simply no longer be worth it
+[10:26 --> 10:29] to hold this cold and foggy island on the edge of the world?
+[10:30 --> 10:33] But as quickly as it started, the revolt flamed out.
+[10:34 --> 10:38] However, had Gaius Suetonius Polinus lost the battle of Watling Street,
+[10:38 --> 10:41] which, given how outnumbered he was, was not entirely out of the question,
+[10:42 --> 10:45] there is a very real possibility that the Romans would have withdrawn
+[10:45 --> 10:49] from Britain completely, altering the course of Western European history
+[10:49 --> 10:50] in the process.
+[10:53 --> 10:56] The trouble began in either 60 or 61 AD,
+[10:56 --> 10:58] no one seems sure of the actual date.
+[10:58 --> 11:02] When Prosetagus, the king of the Iceni, died.
+[11:02 --> 11:05] During the initial Roman invasion of Britain in 43,
+[11:05 --> 11:09] the Iceni, who hailed from modern-day Norfolk on the east coast of Britain,
+[11:09 --> 11:13] had either been one of the 11 tribes who surrendered to Claudius
+[11:13 --> 11:16] or they had worked out an independent peace with the Romans not long after.
+[11:17 --> 11:21] However it happened, the Iceni had been able to maintain their independence
+[11:21 --> 11:25] and Prosetagus was set up as an official client king of the Roman Empire.
+[11:26 --> 11:29] In an attempt to keep control of his tribe within the family,
+[11:29 --> 11:33] Prosetagus filled out a will that left Iceni territory jointly
+[11:33 --> 11:36] to the Romans on the one hand and his wife and daughters on the other.
+[11:37 --> 11:40] But when the king died, the Roman procurator of the province,
+[11:40 --> 11:43] a particularly rapacious character named Cadus Decionus,
+[11:44 --> 11:47] announced that patriarchal Rome did not recognize the rights of women
+[11:47 --> 11:48] when it came to inheritance.
+[11:49 --> 11:53] The claims of the Iceni were denied and their territory was annexed by Rome.
+[11:55 --> 11:58] To the Britons, who had no problem with women inheriting property
+[11:58 --> 12:01] or holding positions of authority, this was incomprehensible.
+[12:02 --> 12:05] It was right and good that the king's wife should rule upon his death
+[12:05 --> 12:07] and his daughters grow up to be queens.
+[12:08 --> 12:12] So when Budica, the widow of the dead king, went about her business as usual
+[12:12 --> 12:15] and paid no more or less tribute to the Romans than before,
+[12:15 --> 12:17] she was shocked at the Roman reaction.
+[12:18 --> 12:21] Soldiers were sent to her village, Budica was tied up and flogged
+[12:21 --> 12:23] while her daughters were carted off and raped.
+[12:24 --> 12:27] These ghastly acts committed, the Romans believed that they had put
+[12:27 --> 12:30] the upstart women in their place and thought no more of it,
+[12:31 --> 12:34] little realizing that they had just lit a fuse that was burning quickly
+[12:34 --> 12:37] down towards the powder keg that was Queen Budica.
+[12:38 --> 12:42] With the Roman governor of Britain, Gaius Suetonius Paulinus,
+[12:42 --> 12:45] leading the majority of the British legions on a campaign
+[12:45 --> 12:48] on the Isle of Anglicy in Wales, Budica took the opportunity
+[12:48 --> 12:50] to translate her fury into action.
+[12:51 --> 12:54] After convincing a neighboring tribe to join in the fun,
+[12:54 --> 12:57] Budica gathered everyone up and declared war on Rome.
+[12:59 --> 13:01] The first stop was Camelodunum,
+[13:01 --> 13:04] the original headquarters of the Roman occupying force
+[13:04 --> 13:06] and site of a great temple built to the now divine Claudius.
+[13:08 --> 13:11] When Roman scouts brought back word that a huge force of Britons
+[13:11 --> 13:15] was headed straight for the city, the call for reinforcements went out.
+[13:15 --> 13:18] But with the bulk of the British legions occupied in Wales,
+[13:18 --> 13:21] the pro curator Decionus decided that Budica's revolt
+[13:21 --> 13:24] wasn't worth rearranging the remaining garrisons for
+[13:24 --> 13:27] and only sent an additional 200 troops to Camelodunum.
+[13:28 --> 13:31] Not surprisingly, 200 more troops didn't do the Romans
+[13:31 --> 13:34] in the city much good, as Budica's force had to be
+[13:34 --> 13:35] in the tens of thousands.
+[13:36 --> 13:39] I'm having trouble tracking down an accurate head count for them.
+[13:40 --> 13:42] The Britain rebels easily crashed the gates,
+[13:42 --> 13:44] forcing the surviving Romans to make a last stand
+[13:44 --> 13:48] in the barricaded temple of Claudius, where, after two days of fighting,
+[13:48 --> 13:49] they were annihilated.
+[13:50 --> 13:52] Camelodunum was then burned to the ground.
+[13:54 --> 13:56] After the scale of the danger posed to the residents of
+[13:56 --> 14:00] Camelodunum became apparent, a detachment of 2,500 men
+[14:00 --> 14:03] from a nearby legion were sent to reinforce the city.
+[14:04 --> 14:06] But by the time they arrived, it was too late.
+[14:06 --> 14:09] They showed up just in time to find the smoldering remains
+[14:09 --> 14:12] of Camelodunum and a horde of British warriors
+[14:12 --> 14:14] with their hackles raised and nothing else to do.
+[14:14 --> 14:17] The subsequent encounter, known as the massacre
+[14:17 --> 14:20] of the 9th legion, did not, as you can imagine,
+[14:20 --> 14:21] end well for the Romans.
+[14:23 --> 14:25] When news of the destruction of Camelodunum reached
+[14:25 --> 14:28] Suetonius in Wales, he immediately abandoned his campaign
+[14:28 --> 14:30] and marched straight for the new commercial center
+[14:30 --> 14:34] of Londinium, founded 20 years before and thriving nicely.
+[14:34 --> 14:37] But upon arrival, he assessed the situation
+[14:37 --> 14:39] and decided the new city was indefensible.
+[14:39 --> 14:42] With Budica marching straight for them, he abandoned the town
+[14:44 --> 14:47] and attacked his counterattack.
+[14:47 --> 14:50] Budica had no trouble overrunning undefended Londinium.
+[14:50 --> 14:53] She burned to the ground and slaughtered anyone crazy
+[14:53 --> 14:55] enough to stay in the city after Suetonius left
+[14:55 --> 14:59] with his legions. Budica then marched on Virulamium,
+[14:59 --> 15:01] the site of modern St. Albans, and put it too
+[15:01 --> 15:04] to the torch. The string of victories was gaining
+[15:04 --> 15:07] Budica quite a reputation and disaffected Britons
+[15:07 --> 15:09] from across the country flocked to her banner.
+[15:10 --> 15:12] The Romans were on the run, and with a little luck,
+[15:15 --> 15:16] Budica and Suetonius were together.
+[15:16 --> 15:19] But Suetonius was not ready to give up just yet.
+[15:19 --> 15:22] He managed to gather about 10,000 troops composed
+[15:22 --> 15:25] of portions of a few legions and irregular auxiliary
+[15:25 --> 15:28] forces and station them at a defensible position
+[15:28 --> 15:30] in the West Midlands, along a trade road
+[15:30 --> 15:32] known later as Watling Street.
+[15:33 --> 15:36] Though reports that Budica led 230,000 warriors
+[15:36 --> 15:39] is certainly an exaggeration, there is no doubt
+[15:39 --> 15:42] that the Romans were massively outnumbered.
+[15:44 --> 15:46] When Budica arrayed his men in a single line,
+[15:46 --> 15:48] it was not enough to match the length of the far
+[15:48 --> 15:51] deeper British army. But Suetonius knew what
+[15:51 --> 15:54] he was doing and had placed himself at a spot
+[15:54 --> 15:56] where only so many Britons could attack at any
+[15:56 --> 15:59] one time, partially negating the huge numerical
+[15:59 --> 16:03] disadvantage he faced. Budica roused her army
+[16:03 --> 16:05] with a speech imploring them to make this
+[16:05 --> 16:07] moment the last moment for the Romans in Britain
+[16:07 --> 16:10] and reminding them that she stood before them
+[16:14 --> 16:16] and that liberty had been denied.
+[16:17 --> 16:20] Victory would mean freedom. Defeat would mean
+[16:20 --> 16:20] slavery.
+[16:22 --> 16:24] Unfortunately for the British, as we have seen
+[16:24 --> 16:27] so many times before, when it came to set
+[16:27 --> 16:29] peace battles out in the open, the Romans were
+[16:29 --> 16:31] second to none, even when they were outnumbered
+[16:31 --> 16:34] ten to one. When the British charged, the
+[16:34 --> 16:37] Roman line formed into a wedge and drove into
+[16:37 --> 16:40] the oncoming mass of warriors. Before too long,
+[16:44 --> 16:46] the Romans were in retreat. But Budica's army
+[16:46 --> 16:49] was not just an army, it was also a rolling
+[16:49 --> 16:51] caravan of her entire tribe, and before the
+[16:51 --> 16:53] battle she had stationed the wagons and
+[16:53 --> 16:55] dependents who made up the rest of the
+[16:55 --> 16:58] troop behind the actual warriors. Now that
+[16:58 --> 17:00] the army was in full retreat, they ran
+[17:00 --> 17:02] headlong into the stationary wagons and
+[17:02 --> 17:05] chaos ensued. Utterly snarled, the
+[17:05 --> 17:07] Romans were able to descend and go into
+[17:14 --> 17:17] battle, now lay dead on the plain. Roman
+[17:17 --> 17:20] losses were put at 400. Her revolt
+[17:20 --> 17:22] shattered. Budica drank poison to avoid
+[17:22 --> 17:27] capture. Budica's rebellion very nearly
+[17:27 --> 17:29] caused Nero to abandon Britain altogether.
+[17:30 --> 17:32] Had she been able to lure Suetonius onto
+[17:32 --> 17:34] less favorable ground, it is likely that
+[17:34 --> 17:36] her far superior numbers would have been
+[17:36 --> 17:38] able to overwhelm him. But in the end,
+[17:39 --> 17:40] if there was one thing the Romans did really
+[17:44 --> 17:47] have to do, it was just not hold up.
+[17:47 --> 17:49] Having abandoned Londinium, it was clear
+[17:49 --> 17:51] that the one thing Suetonius was not
+[17:51 --> 17:53] going to do was be lured onto unfavorable
+[17:53 --> 17:56] ground. Inevitably, Budica's furious
+[17:56 --> 17:58] revolt was going to run into the
+[17:58 --> 18:00] cold, careful planning of the Roman
+[18:00 --> 18:03] legions, and like so many before her,
+[18:03 --> 18:04] she would be destroyed by it.
+[18:06 --> 18:08] Rome was pleased to hear the good
+[18:15 --> 18:15] news, and she decided to go to the east.
+[18:16 --> 18:18] Having set a Roman client back on the
+[18:18 --> 18:21] throne of Armenia, Corbulo had settled
+[18:21 --> 18:22] conditions in the east back into their
+[18:22 --> 18:25] natural state. But Tigranus VI,
+[18:25 --> 18:28] the new king of Armenia, immediately
+[18:28 --> 18:30] tried to upend the apple cart by
+[18:30 --> 18:31] raiding into Parthian territory.
+[18:32 --> 18:34] Where before the Parthian king Volgosys
+[18:34 --> 18:36] had regretfully deemed the Armenian
+[18:44 --> 18:47] subjects, the Parthian king settled
+[18:47 --> 18:48] his other business and turned back to
+[18:48 --> 18:51] the Mediterranean. He formally
+[18:51 --> 18:53] announced that his brother Tiridates
+[18:53 --> 18:54] was still the rightful king of
+[18:54 --> 18:56] Armenia, and recrowned him as such.
+[18:57 --> 18:59] A Parthian force then invaded Armenia
+[18:59 --> 19:01] and attempted to dislodge the
+[19:01 --> 19:02] Roman garrisons, but they were
+[19:02 --> 19:14] unsuccessful. Hoping to keep things
+[19:14 --> 19:15] under control, Corbulo had a
+[19:15 --> 19:18] deal. But by the spring of 62,
+[19:19 --> 19:20] no deal had been struck, and
+[19:20 --> 19:23] hostilities were renewed. This time,
+[19:23 --> 19:25] with Corbulo focused on protecting
+[19:25 --> 19:26] the key province of Syria from
+[19:26 --> 19:29] possible attack, Nero appointed a
+[19:29 --> 19:31] legate named Lucius Cisenius Pytus
+[19:31 --> 19:33] to spearhead operations in Armenia.
+[19:34 --> 19:43] The new commander took two legions
+[19:44 --> 19:45] and the winner came due to an
+[19:45 --> 19:47] unsteady supply line before reaching
+[19:47 --> 19:50] the southern capital. The ease of
+[19:50 --> 19:52] the first year's campaign had lulled
+[19:52 --> 19:53] Pytus into a false sense of
+[19:53 --> 19:56] security. When in early 63,
+[19:57 --> 19:58] this false sense of security was
+[19:58 --> 20:00] shattered, he quickly showed himself
+[20:00 --> 20:02] to be a pretty awful commander.
+[20:03 --> 20:05] Unable to make any headway against
+[20:14 --> 20:16] Pytus, the second Parthian army,
+[20:18 --> 20:20] suddenly appeared along the Roman
+[20:20 --> 20:21] Armenian border where he was camped
+[20:21 --> 20:24] for the winner, Pytus panicked.
+[20:24 --> 20:25] Having sent his officers away on
+[20:25 --> 20:30] leave, Pytus was in no position
+[20:30 --> 20:33] to fight the Parthians. He hastily
+[20:33 --> 20:34] ordered the troops he had on hand
+[20:34 --> 20:36] to blockade the various passes
+[20:36 --> 20:37] in the mountains to prevent the
+[20:37 --> 20:38] Parthians from entering Roman
+[20:38 --> 20:41] territory, but this had the effect
+[20:41 --> 20:42] of only dispersing his already
+[20:42 --> 20:44] dispersed troops even more.
+[20:45 --> 20:47] The Parthians were able to easily
+[20:47 --> 20:48] overrun these small detachments,
+[20:48 --> 20:50] forcing Pytus to fall back into
+[20:50 --> 20:52] his fortified camps outside of
+[20:52 --> 20:55] Randia. Facing imminent doom,
+[21:06 --> 21:07] Pytus spent a sweet time gathering
+[21:07 --> 21:09] a relief force, but when the
+[21:09 --> 21:10] reports became sufficiently dire,
+[21:11 --> 21:12] he marched out half the men at
+[21:12 --> 21:14] his disposal and attempted to
+[21:14 --> 21:15] reach the besieged legions in
+[21:15 --> 21:18] time. But he would arrive too
+[21:18 --> 21:20] late. While en route, Pytus
+[21:20 --> 21:22] had given up and surrendered
+[21:22 --> 21:27] to Volagos. The terms of the
+[21:36 --> 21:37] battle were not yet known, but
+[21:37 --> 21:38] he allowed the Romans to leave
+[21:38 --> 21:40] only after marching them under
+[21:40 --> 21:45] the yoke, which was about as
+[21:45 --> 21:47] humiliating as it gets.
+[21:48 --> 21:50] The remnants of Pytus's army
+[21:50 --> 21:51] met up with the approaching
+[21:51 --> 21:53] legions led by Corbulo, and
+[21:53 --> 21:55] despite Pytus's pleas to keep
+[21:55 --> 21:57] fighting, Corbulo refused and
+[22:06 --> 22:06] As soon as Pytus was out of
+[22:06 --> 22:08] Armenia, Volagos sent envoys to
+[22:08 --> 22:10] Rome to work out a new peace
+[22:10 --> 22:12] accord. When the envoys
+[22:12 --> 22:13] arrived, though, Nero and the
+[22:13 --> 22:15] Senate were shocked to discover
+[22:15 --> 22:16] the magnitude of Pytus's
+[22:16 --> 22:18] defeat. Though he had been
+[22:18 --> 22:36] communicating his ever worsening
+[22:36 --> 22:38] defeat, the triumphal arch
+[22:38 --> 22:39] marking the defeat of the
+[22:39 --> 22:40] Parthians in Armenia was
+[22:40 --> 22:42] already half way constructed.
+[22:49 --> 22:50] Pytus was immediately recalled
+[22:50 --> 22:52] to Rome, and Corbulo was given
+[22:52 --> 22:54] emergency imperium over the
+[22:54 --> 22:56] entire eastern empire. His
+[22:56 --> 22:58] job was to whip the Parthians
+[22:58 --> 22:59] and make sure it stuck this
+[23:06 --> 23:06] day. As soon as Pytus could
+[23:06 --> 23:08] be fought, Volagos sent word
+[23:08 --> 23:10] that he wanted to deal. He
+[23:10 --> 23:12] knew full well that Corbulo was
+[23:12 --> 23:13] not Pytus, and that the
+[23:13 --> 23:15] Romans would not be taken so
+[23:15 --> 23:17] easily again. So the two
+[23:17 --> 23:19] sides met and struck a deal.
+[23:20 --> 23:21] Henceforth, Parthia would be
+[23:21 --> 23:34] able to appoint the monarch of
+[23:37 --> 23:39] Pytus. In 66 AD, Tyrodates
+[23:39 --> 23:41] then did travel to Rome to
+[23:41 --> 23:42] meet with the emperor and
+[23:42 --> 23:44] accept his crown. Nero threw
+[23:44 --> 23:46] a huge party and made a big
+[23:46 --> 23:47] to-do about his right to
+[23:47 --> 23:48] crown the king of Armenia,
+[23:49 --> 23:50] but critics within the Senate
+[23:50 --> 23:51] and beyond believed the
+[23:51 --> 23:52] emperor had done nothing
+[24:06 --> 24:07] enough to really challenge
+[24:07 --> 24:09] Rome. In closing out the
+[24:09 --> 24:11] ceremony, Nero even went so
+[24:11 --> 24:13] far as to close the rarely
+[24:13 --> 24:14] closed gates of the Temple
+[24:14 --> 24:16] of Janus, which signaled
+[24:16 --> 24:18] the arrival of universal peace.
+[24:20 --> 24:21] Universal peace, though,
+[24:22 --> 24:24] never lasts long. Next week,
+[24:24 --> 24:25] just months after the gates
+[24:36 --> 24:36] of the Temple of Janus were
+[24:36 --> 24:36] opened, the implications of
+[24:36 --> 24:38] this brief conflict were
+[24:38 --> 24:39] vast, as the Romans both
+[24:39 --> 24:40] destroyed the Temple of
+[24:40 --> 24:42] Jerusalem and triggered a
+[24:42 --> 24:43] diaspora of Jews out of the
+[24:43 --> 24:45] East, with the survivors of
+[24:45 --> 24:46] the revolt fleeing to
+[24:46 --> 24:47] communities across the
+[25:16 --> 25:18] world.

@@ -1,0 +1,301 @@
+# 20120416 - 176- The Quote Unquote Emperor
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:03 --> 00:13] Hello, and welcome to the History of Rome, Episode 176, The Quote Unquote Emperor.
+[00:16 --> 00:23] When Richemer arrested and executed the Emperor Majorian in August 461, it is entirely likely
+[00:23 --> 00:26] that he didn't think it would be that big of a deal.
+[00:27 --> 00:32] Sure, it might be a little scandalous, but as PR problems go, it would almost certainly
+[00:32 --> 00:33] blow over.
+[00:33 --> 00:39] After all, Richemer was the real power behind the throne, everyone knew it, so it wasn't
+[00:39 --> 00:44] like this was a coup or something, more like a CEO firing his COO.
+[00:46 --> 00:50] But Richemer underestimated the popularity of Majorian.
+[00:50 --> 00:55] Living in Italy and surrounded by a bunch of Italian aristocrats who had soured on
+[00:55 --> 01:00] the Emperor, it might have seemed to Richemer like the whole Empire hated Majorian and
+[01:00 --> 01:01] was ready for him to go.
+[01:02 --> 01:04] But this was not so.
+[01:05 --> 01:10] Majorian's policies may have been ticking off Richemer and the Italian nobility, but
+[01:10 --> 01:12] that did not mean that they were ticking off anyone else.
+[01:13 --> 01:19] So when Majorian was killed, these anyone else's were shocked and angry, and as we're
+[01:19 --> 01:23] about to see, they were not going to take it lying down.
+[01:25 --> 01:29] Two of these anyone else's are of particular interest.
+[01:30 --> 01:35] The first was the general I mentioned last week, the guy whose name I told you to remember.
+[01:35 --> 01:36] Do you remember his name?
+[01:37 --> 01:39] That's right, it's Egidius.
+[01:40 --> 01:45] Egidius had risen up through the ranks with Majorian, and as you'll recall, one of Majorian's
+[01:45 --> 01:51] first axes Emperor was to make Egidius Magister Militum, the Commander in Chief of Gaul.
+[01:52 --> 01:58] Egidius had then spent four years re-pacifying the region and getting it back under the thumb
+[01:58 --> 01:59] of the central Imperial government.
+[02:01 --> 02:04] That mission was about to take an ironic twist.
+[02:06 --> 02:11] Egidius was up in northern Gaul in 461 when word reached him that his old friend Majorian
+[02:11 --> 02:12] had been killed.
+[02:13 --> 02:18] Now I don't know if Egidius' reaction to Richemer's coup took the form of a dramatic
+[02:18 --> 02:25] declaration, or if it was just passive-aggressive cold-shouldering, but the minute Majorian's
+[02:25 --> 02:29] head hit the ground, Egidius stopped taking orders from Italy.
+[02:30 --> 02:34] The general who had just spent four years reminding everyone he came across that the
+[02:34 --> 02:40] Imperial government was still the legal sovereign and as such fealty was not a suggestion but
+[02:40 --> 02:46] a duty, yeah, that guy is declaring his independence from Ravenna.
+[02:47 --> 02:50] And this would not turn out to be a short-lived thing.
+[02:50 --> 02:55] Historians will wind up calling the territory Egidius controlled in northern Gaul the Domain
+[02:55 --> 03:01] of Soisson, named after the modern French city of Soisson that stands roughly at the
+[03:01 --> 03:03] center of Egidius' little kingdom.
+[03:04 --> 03:10] The domain would continue on as a quasi-Roman rump state even after the fall of the Western
+[03:10 --> 03:16] Empire until this last little outpost of Roman order was finally overrun by the Franks
+[03:16 --> 03:18] in 486.
+[03:20 --> 03:25] Well, okay, said Richemer, we've got a rogue general up in Gaul refusing to take orders.
+[03:25 --> 03:27] That's not such a big deal.
+[03:27 --> 03:28] I can handle that.
+[03:29 --> 03:31] But that was not all Richemer was up against.
+[03:32 --> 03:37] Another of Majorian's generals, a man named Marcellinus, had exactly the same reaction
+[03:37 --> 03:41] to Richemer's coup as Egidius.
+[03:41 --> 03:46] Marcellinus was in control of Dalmatia, which at this point in history had drifted back
+[03:46 --> 03:52] into the Western orbit, though when Majorian died, Marcellinus was in Sicily.
+[03:53 --> 03:58] He had been in place there to help run one arm of Majorian's planned invasion of North
+[03:58 --> 04:03] Africa, the invasion that had stalled when Majorian's Spanish fleet had been sunk by
+[04:03 --> 04:04] the Vandals.
+[04:05 --> 04:10] But when Marcellinus found out that the Emperor was dead, he booked it back to his home territory
+[04:10 --> 04:10] double time.
+[04:11 --> 04:17] And when he got there, he found out that Richemer had already tried to bribe the Dalmatian garrisons,
+[04:17 --> 04:23] mostly Hun mercenaries, out from under Marcellinus, which as you can imagine, did not go over
+[04:23 --> 04:25] too well with Marcellinus.
+[04:26 --> 04:31] So like his colleague Egidius up in Gaul, Marcellinus simply stopped taking orders from
+[04:31 --> 04:32] Italy.
+[04:34 --> 04:39] But unlike Egidius, who was wedged between a failing empire, some barbarian kingdoms,
+[04:40 --> 04:45] and the English Channel, Marcellinus was wedged in between the two halves of the empire.
+[04:47 --> 04:52] So rather than declaring de facto independence, Marcellinus simply turned east, wrote to Leo
+[04:52 --> 04:57] in Constantinople, and said, hey, this guy Richemer just overthrew the guy you yourself
+[04:57 --> 04:59] recognize to be the lawful emperor.
+[05:00 --> 05:04] I'm not going to follow him anymore, but I'd be happy to follow you.
+[05:05 --> 05:08] So consider this my declaration of defection.
+[05:11 --> 05:14] But this was not all Richemer was now up against.
+[05:15 --> 05:19] Although most of his problems were caused by people ticked off about his little coup,
+[05:19 --> 05:25] yet another problem was caused by a guy who was not so much ticked off as excited about
+[05:25 --> 05:27] the opportunity the coup presented.
+[05:28 --> 05:33] And here we are talking about our old friend King Gansaric of the Vandals.
+[05:34 --> 05:39] Now before I go on, I would like to say that it sort of feels like Gansaric has been around
+[05:39 --> 05:39] forever.
+[05:40 --> 05:46] He first showed up back in 428 AD, which was eight episodes back when we were talking about
+[05:46 --> 05:52] the rise of Aetius, and now here he is 33 years later, still going strong.
+[05:53 --> 05:55] So he's got to be getting old, right?
+[05:55 --> 06:00] Like pretty soon we're going to be dealing with a new king of the Vandals, right?
+[06:00 --> 06:00] Wrong.
+[06:01 --> 06:04] The dude is going to outlive the western empire.
+[06:05 --> 06:11] He isn't going to die until January 477, at the age of 88, and after having ruled for
+[06:11 --> 06:13] almost 50 years.
+[06:14 --> 06:17] Which is just, you know, way to go Gansaric.
+[06:19 --> 06:25] So anyway, King Gansaric, who was by a healthy margin now the senior statesman of the western
+[06:25 --> 06:31] empire and father-in-law of the imperial princess Eudoxia the Younger, took the death of Majorion
+[06:31 --> 06:35] as an opportunity to influence who would be chosen as a successor.
+[06:37 --> 06:42] The man Gansaric backed was a senator by the name of Aeneas Oliberius.
+[06:43 --> 06:45] Why Aeneas Oliberius?
+[06:45 --> 06:51] Well, because he was married to Placidia, the other imperial princess currently enjoying
+[06:51 --> 06:53] the hospitality of the Vandals.
+[06:55 --> 07:02] Once nearly engaged to Majorion, and then formally engaged to Aetius' son, Placidia had finally
+[07:02 --> 07:08] wound up married to Senator Oliberius shortly after the murder of her father Valentinian III.
+[07:10 --> 07:14] Though I don't believe there's any firm proof to this one way or the other, it is supposed
+[07:14 --> 07:21] that Oliberius was related to Valentinian's executioner slash successor, Petronius Maximus.
+[07:22 --> 07:29] You'll recall that when Maximus seized power, he tried to give his new and ultimately short-lived
+[07:29 --> 07:36] regime the veneer of legitimacy by marrying the imperial widow Licinia Eudoxia, and then
+[07:36 --> 07:38] marrying the younger Eudoxia to his son.
+[07:39 --> 07:45] It is supposed that Oliberius was a cousin or something of Maximus' and his marriage
+[07:45 --> 07:49] to Placidia was a part of this larger legitimacy project.
+[07:52 --> 07:56] But so far, the marriage had not really amounted to anything.
+[07:57 --> 08:02] Oliberius had been in Constantinople when Gansaric sacked Rome and then spirited away
+[08:02 --> 08:06] his new bride, so it's not like the two could have spent much time around one another.
+[08:07 --> 08:13] But because he was in Constantinople when Maximus fell, Oliberius managed to survive
+[08:13 --> 08:19] the regime change, and then because he remained in the east in a state of semi-exile, he managed
+[08:19 --> 08:22] to live through the next regime change as well.
+[08:23 --> 08:28] So when Richemer initiated the third regime change in six years, Oliberius was still alive,
+[08:29 --> 08:34] still married to Placidia, and since he had been living in Constantinople for half a decade,
+[08:35 --> 08:37] on fairly good terms with Leo and the court of the east.
+[08:39 --> 08:44] When word came that Majorian was dead, Gansaric stepped forward and boldly proclaimed that
+[08:44 --> 08:49] Senator Oliberius was the only man in the empire with any kind of legitimate claim to
+[08:49 --> 08:50] the imperial throne.
+[08:52 --> 08:57] A husband of the unjustly deposed Theodosian family, he would return honor and dignity
+[08:57 --> 08:59] and blah blah blah.
+[08:59 --> 09:04] The bottom line is that Oliberius was now as much a part of Gansaric's family as he
+[09:04 --> 09:10] was of Theodosian family, so Gansaric wanting him on the throne of the west was a no-brainer.
+[09:12 --> 09:15] But Richemer wasn't having this for a second.
+[09:16 --> 09:20] If the problem with Majorian had been that Richemer couldn't sufficiently control him,
+[09:21 --> 09:25] then there was no way the general was going to accept Oliberius, who would be part creature
+[09:25 --> 09:29] of the Vandals and part creature of Constantinople.
+[09:30 --> 09:35] Plus Oliberius's legitimacy was going to flow from his marriage to Placidia rather than
+[09:35 --> 09:37] from the patronage of Richemer.
+[09:38 --> 09:44] So in Richemer's mind, I doubt there was a worse candidate for the throne than Oliberius.
+[09:45 --> 09:50] Gansaric stepped up the pressure by intensifying vandal raids on the Italian coast, promising
+[09:50 --> 09:56] to shut them down only if Oliberius was elevated, but Richemer refused to budge.
+[09:57 --> 10:03] After a three-month interregnum, Richemer finally found a candidate more to his liking.
+[10:04 --> 10:08] Someone dull, weak-willed, and entirely dependent on Richemer.
+[10:10 --> 10:12] Enter Libius Severus.
+[10:13 --> 10:18] Dull, weak-willed, entirely dependent on Richemer, Libius Severus.
+[10:19 --> 10:25] We know almost nothing about the new would-be emperor until he suddenly appears in Ravenna
+[10:25 --> 10:29] accepting the diadem in November of 461.
+[10:31 --> 10:33] Not that it really matters.
+[10:33 --> 10:37] Libius Severus is not exactly the lynchpin of Roman history.
+[10:38 --> 10:43] During the reign of Majorian, Richemer may have fancied himself the power behind the
+[10:43 --> 10:48] throne, but it's pretty clear that Majorian himself, and a good number of other people,
+[10:48 --> 10:50] considered it to be more of a partnership.
+[10:52 --> 10:56] With the elevation of Severus, though, this ambiguity was gone.
+[10:56 --> 10:59] Richemer was the power behind the throne.
+[11:00 --> 11:03] These are the years where you have references to King Richemer.
+[11:04 --> 11:09] Not references mocking his hubris, mind you, but just straight-up references to King Richemer,
+[11:09 --> 11:11] because that's basically what he now was.
+[11:12 --> 11:16] As I mentioned a few episodes back, the famous historian J.B.
+[11:16 --> 11:22] Barry once said that Richemer was the link between Stilicho and Odoacer, and was the
+[11:22 --> 11:25] first German to be virtual king of Italy.
+[11:26 --> 11:31] Now 15 years down the road we're going to have a real German king of Italy, and the
+[11:31 --> 11:36] pro forma nature of Odoacer's seizure of power finds its roots here in the days of
+[11:36 --> 11:42] Richemer, who, during these years, went so far as to possibly coin money in his own name.
+[11:43 --> 11:48] We're not 100% sure that he coined money in his own name, but there are good reasons
+[11:48 --> 11:54] to believe that he did, and I think it's telling that if it turns out to be true,
+[11:54 --> 11:57] no one is going to be surprised in the slightest.
+[12:01 --> 12:06] The elevation of Severus was of course only really recognized in Italy, and so King Richemer's
+[12:06 --> 12:09] power did not really extend that far.
+[12:10 --> 12:16] Up in Gaul, Ejidius was essentially in revolt, as was Marcellinus in Dalmatia.
+[12:16 --> 12:22] The eastern Augustus Leo, for his part, never recognized Severus, though for the moment
+[12:22 --> 12:28] he was not looking to make or break relations with the west over the issue of Majorion's
+[12:28 --> 12:30] murder and Severus's elevation.
+[12:32 --> 12:38] Now Marcellinus was apparently prepared to storm Italy as soon as the spring of 462 arrived
+[12:38 --> 12:44] and asked for Leo's support, but the eastern emperor refused to give it, instead counseling
+[12:44 --> 12:45] patience.
+[12:46 --> 12:51] Not wanting to make any bold moves without Constantinople's backing, Marcellinus took
+[12:51 --> 12:56] the council and sat on his hands, but he was done taking orders from Richemer.
+[13:00 --> 13:04] The de facto king's first concern, though, was the situation in Gaul.
+[13:05 --> 13:11] If he tried to attack Marcellinus first, he might incur the wrath of Leo, so better to
+[13:11 --> 13:14] settle the north before worrying about the east.
+[13:15 --> 13:20] But if he wanted to maintain his iron grip on Italy, Richemer knew he couldn't go marching
+[13:20 --> 13:22] off to retake Gaul himself.
+[13:23 --> 13:26] He needed to find a capable subordinate to do the job for him.
+[13:28 --> 13:31] Now he couldn't send the quote unquote Emperor Severus.
+[13:32 --> 13:36] Not only was he likely thoroughly inexperienced in military affairs, but sending an emperor
+[13:36 --> 13:41] off to win back Gaul had almost certainly been one of the keys to the breakdown in the
+[13:41 --> 13:43] relationship between Majorion and Richemer.
+[13:45 --> 13:50] Majorion had been starting to forge an independent power base for himself, and we can't have
+[13:50 --> 13:51] that.
+[13:52 --> 13:57] Better to find some suitably motivated underling and send him off to get the job done.
+[13:58 --> 14:03] Richemer had the perfect candidate and an old soldier named Agripenus.
+[14:05 --> 14:07] What recommended Agripenus for the job?
+[14:08 --> 14:14] Well, for starters, he had been Avetus's magister militum for Gaul, which meant that
+[14:14 --> 14:19] he was the one who had been replaced by Aegidius when Majorion came to power.
+[14:19 --> 14:21] But the fun did not stop there.
+[14:22 --> 14:29] A native of Gaul himself, Agripenus had not gone quietly into that good night, nor had
+[14:29 --> 14:32] Aegidius given him any reason to.
+[14:33 --> 14:39] Eventually, the feud between the two men led Aegidius to accuse Agripenus of treason.
+[14:41 --> 14:45] Sent down to Rome to stand for his crime, Agripenus was found guilty and sentenced to
+[14:45 --> 14:46] death.
+[14:47 --> 14:53] He managed to escape his captivity, however, and then seek asylum in the old St. Peter's,
+[14:53 --> 14:57] where he remained until he was officially pardoned.
+[14:57 --> 15:03] The details of all this are, of course, really vague, but the assumption is that the official
+[15:03 --> 15:08] pardon came after the death of Majorion, round about the time Richemer was looking for someone
+[15:08 --> 15:12] to lead the effort to repassify Gaul and defeat the rebel Aegidius.
+[15:13 --> 15:19] And what better man to lead that effort than Agripenus, who had lost his job and then very
+[15:19 --> 15:22] nearly lost his life to Aegidius.
+[15:25 --> 15:31] When Agripenus reached Gaul sometime in 462, he did exactly the same thing Majorion had
+[15:31 --> 15:34] done when he entered Gaul back in 458.
+[15:34 --> 15:36] He made a beeline for the Goths.
+[15:37 --> 15:44] But unlike Majorion, who was looking to defeat and repassify the Goths, Agripenus was looking
+[15:44 --> 15:46] to befriend and re-empower them.
+[15:47 --> 15:53] And when he arrived in Aquitaine, he found the Goths very receptive to the imperial proposals,
+[15:54 --> 15:59] because said proposals promised the Goths something they had been hankering for since
+[15:59 --> 16:04] they first put down roots in Gaul, a Mediterranean port to call their very own.
+[16:06 --> 16:11] In exchange for Goth support in a campaign against Aegidius, the quote unquote Emperor
+[16:11 --> 16:16] Severus was willing to cede them the city of Narbonne.
+[16:17 --> 16:20] The Goth King Theodoric II jumped at this offer.
+[16:21 --> 16:27] All those battles between his father Theodoric the Elder and Aetius back in the day had been
+[16:27 --> 16:31] all about trying to win a Mediterranean port for the Goths.
+[16:31 --> 16:35] And now the Romans were just going to hand one over in exchange for what?
+[16:35 --> 16:36] Beating down a few rebels?
+[16:37 --> 16:38] Well, sign us up.
+[16:38 --> 16:39] We'll be there.
+[16:42 --> 16:47] But Aegidius was not leading some ramshackle band of ne'er-do-wells.
+[16:47 --> 16:52] You'll recall that as I just mentioned, the little rump state Aegidius founded was going
+[16:52 --> 16:54] to outlast the Western Empire.
+[16:55 --> 16:59] Well, if it's going to outlast the Western Empire, there isn't really room in the story
+[16:59 --> 17:04] for a crushing defeat at the hands of Agripenis and the Goths.
+[17:04 --> 17:08] I mean, maybe there is, but that would become a pretty complicated story.
+[17:09 --> 17:12] Lucky for us, they decided to keep things nice and simple.
+[17:14 --> 17:16] Agripenis and a Goth army marched north.
+[17:16 --> 17:19] Aegidius heard they were coming and drew his line at Orléans.
+[17:20 --> 17:25] The two sides met in battle at some point in late 462, and Aegidius emerged victorious.
+[17:26 --> 17:31] Agripenis and the Goths then fled, and though I have no idea what ultimately happened to
+[17:31 --> 17:34] him, that's the last we're going to hear from Agripenis.
+[17:35 --> 17:39] Whether he died in the battle or simply faded into obscurity?
+[17:40 --> 17:40] No idea.
+[17:41 --> 17:43] He just drops off the face of the earth.
+[17:46 --> 17:50] This nice and simple story is only complicated by one small matter.
+[17:52 --> 17:57] Aegidius had not been idle since the death of Majorien, nor was he blind to the fact
+[17:57 --> 18:00] that pretty soon, Richemer would be coming for him.
+[18:00 --> 18:04] So he made a sort of mutual defense pact with the Franks.
+[18:05 --> 18:10] This pact obviously came into force when the Goths started marching north, and though Frankish
+[18:10 --> 18:15] support was likely the difference between victory and defeat for Aegidius, it was also
+[18:15 --> 18:19] likely the difference between victory and total victory.
+[18:19 --> 18:26] It seems that once they had the Goths on the run, the various Frank nobles fell into squabbling
+[18:26 --> 18:33] amongst themselves about who knows what, shutting down any chance Aegidius had of really crushing
+[18:33 --> 18:35] the Goths once and for all.
+[18:36 --> 18:41] Had the Franks held it together, it is possible that Aegidius could have made what was left
+[18:41 --> 18:43] of the Goths into his personal vassals.
+[18:44 --> 18:49] Then, between his alliance with the Franks, his mastery over the Goths, and his control
+[18:49 --> 18:55] over the rest of Gaul, well, he might well have marched into Italy and overthrown Richemer.
+[18:56 --> 19:01] Get Marcellinus on board with that plan, you know, you invade Italy from the east while
+[19:01 --> 19:07] I invade from the north, and Richemer and his quote unquote emperor don't stand a chance.
+[19:08 --> 19:14] But instead, Aegidius's army got vaporlocked at Orléans, and though Aegidius would never
+[19:14 --> 19:19] lose his domain in northern Gaul, neither would he ever expand it.
+[19:21 --> 19:26] While this drama was unfolding in the north, Richemer was kept busy by Gansaric and the
+[19:26 --> 19:31] Vandals, who were not taking his failure to elevate Olibrius lightly.
+[19:32 --> 19:40] Throughout 462, and then into 463, and 464, and 465, the Vandals continued to harass
+[19:40 --> 19:45] the Italian coastline, hitting, and running, and staying, and fighting, and then sailing
+[19:45 --> 19:49] off again, before popping up here, and then there, and then here again.
+[19:51 --> 19:56] The new fleet built by Majorian was maybe somewhat effective, but it clearly wasn't
+[19:56 --> 20:01] the silver bullet the Romans were looking for to shut down the Vandals.
+[20:01 --> 20:06] Plus, Gansaric was now moving forward with an ever more ambitious political program.
+[20:08 --> 20:14] Above and beyond his stated goal that Olibrius ought to be emperor of the west, Gansaric
+[20:14 --> 20:19] now began to make very Attila the Hun-esque claims on Roman property.
+[20:20 --> 20:26] After all, his son Hunric had married Eudoxia the Younger, so wasn't he entitled to some
+[20:26 --> 20:27] kind of dowry?
+[20:29 --> 20:35] Now Gansaric was not so bold as to demand half the western empire as Attila had, but
+[20:35 --> 20:39] he did claim a good chunk of the personal fortune controlled by the emperors, which
+[20:39 --> 20:43] he further claimed had been stolen by Richemer and his ilk.
+[20:45 --> 20:51] That fortune belonged to the imperial women under his charge, or at the very least their
+[20:51 --> 20:55] husbands, not a bunch of thugs who murdered Valentinian III.
+[20:56 --> 21:00] That Richemer didn't have anything to do with Valentinian's death was immaterial.
+[21:01 --> 21:04] The Theodosian family fortune belonged to the Theodosian family.
+[21:05 --> 21:06] It was just that simple.
+[21:09 --> 21:13] Now these sorts of legalistic arguments fell on deaf ears in the west.
+[21:13 --> 21:17] It's not like Richemer was going to just hand over the imperial fortune to Gansaric and
+[21:17 --> 21:19] the exiled princesses.
+[21:20 --> 21:26] So it seems reasonable to assume that these arguments were mostly directed at Constantinople.
+[21:27 --> 21:33] Gansaric was well aware of the fact that Leo was not recognizing the legitimacy of Severus,
+[21:33 --> 21:39] which meant that there would probably, eventually, be some sort of effort to remove him.
+[21:40 --> 21:46] When that day came, Gansaric wanted to make sure that his own demands were on record.
+[21:47 --> 21:53] Plus, he wanted to make it super obvious to everyone what the price for his help in any
+[21:53 --> 21:57] push to dislodge Richemer and Severus was going to be.
+[21:58 --> 22:04] But Leo was in no hurry to go to war with Richemer, even if Italy was increasingly politically,
+[22:05 --> 22:07] economically, and militarily isolated.
+[22:11 --> 22:16] So the simmering tensions of the early 460s hit a nice equilibrium.
+[22:17 --> 22:22] Skirmishing, jockeying, and maneuvering amongst the fractured power centers of the west ruled
+[22:22 --> 22:27] the day, with no one really taking anyone else down or suddenly grabbing up more territory.
+[22:29 --> 22:34] Even the death of Ejidius in 464 did not disrupt things too much.
+[22:35 --> 22:39] Whether he died naturally or was poisoned by enemies within the Frankish kingdom is
+[22:39 --> 22:40] unknown.
+[22:40 --> 22:47] Both stories are reported, but everyone reports that he was simply succeeded by his son, who
+[22:47 --> 22:51] continued the independent rule of his father and who would continue this independent rule
+[22:51 --> 22:58] until he and what was left of his little Roman kingdom were overrun by the Franks in 486.
+[23:00 --> 23:05] This new equilibrium further survived an even more potentially transformative death
+[23:05 --> 23:06] in 465.
+[23:08 --> 23:13] During that summer, the quote unquote Emperor Severus apparently died of natural causes.
+[23:15 --> 23:20] There is some dark hinting that Richemer did him in, but there is little reason to believe
+[23:20 --> 23:21] this story.
+[23:22 --> 23:28] We have no idea how old Severus was when he died, but he was allowed to call himself emperor
+[23:28 --> 23:30] for four years.
+[23:31 --> 23:36] His death would do little to impact the wider political and military dynamics of the Mediterranean
+[23:36 --> 23:41] world, a testament to just how insignificant he was.
+[23:43 --> 23:48] He was so insignificant in fact, that following his death, the west was going to get a sneak
+[23:48 --> 23:52] preview of what the political order of the future was going to be.
+[23:54 --> 23:59] Richemer had stalled for months before picking a new emperor after the deposition of Avetis,
+[24:00 --> 24:06] and then stalled for months again after the execution of Majorion, testing the waters
+[24:06 --> 24:10] to perhaps see what would happen if he just left the office vacant.
+[24:13 --> 24:18] Next week, Richemer will wade out even further into the post-imperial waters.
+[24:18 --> 24:24] After the death of Severus, the German general will refuse to elevate a successor, and then
+[24:24 --> 24:32] keep on refusing to elevate a successor for two full years, until finally Leo had to step
+[24:32 --> 24:36] in and put an end to this unprecedented interregnum.

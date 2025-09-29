@@ -1,0 +1,313 @@
+# 20111121 - 159- The Divine Winds
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, Episode 159, The Divine Winds.
+[00:16 --> 00:19] Last time, we left off on the eve of a great battle.
+[00:20 --> 00:26] In the late summer 394, the army of Theodosius entered the Alpine Passes, and the army of
+[00:26 --> 00:31] Arbogast and Eugenius sat a few miles east of Aquileia waiting for them to emerge from
+[00:31 --> 00:31] the mountains.
+[00:32 --> 00:37] Today, we'll get into the guts of the battle that is about to ensue, and then get into
+[00:37 --> 00:38] the guts of what happened next.
+[00:40 --> 00:44] Since he was just 47 years old, you would think that what happened next was another
+[00:44 --> 00:49] 15 odd years of solid rule from Theodosius before he handed the reigns of power off to
+[00:49 --> 00:52] his two now grown and groomed sons.
+[00:53 --> 00:58] But instead, less than six months after his great victory at the Phrygidus River, Theodosius
+[00:58 --> 01:03] was dead and the empire was forced to hand the reigns of power to the dead emperors still
+[01:03 --> 01:06] underage and not at all properly groomed sons.
+[01:08 --> 01:13] With no shortage of powerful and ambitious men more than willing to exploit the deficiencies
+[01:13 --> 01:18] of the inadequate brother emperors, Theodosius' early demise turned out to be one of the more
+[01:18 --> 01:24] destabilizing events in an era absolutely rife with destabilizing events.
+[01:25 --> 01:30] But before we get into that, we must turn our attention to Theodosius' last great triumph,
+[01:30 --> 01:35] a triumph that will eventually be painted as nothing less than proof that the Christian
+[01:35 --> 01:38] god was more powerful than all the pagan gods put together.
+[01:41 --> 01:46] Adding to the notion that the coming battle was some kind of religious showdown, when
+[01:46 --> 01:51] Arbogast and Eugenius arrived at the spot they had chosen to meet Theodosius, they planted
+[01:51 --> 01:55] a statue of Jupiter on the field and then affixed images of Hercules to the banners
+[01:55 --> 01:56] of their troops.
+[01:57 --> 02:02] With the old gods of Rome watching over them, the army of the west awaited the army of the
+[02:02 --> 02:02] east.
+[02:03 --> 02:08] Now, whether these details are a later embellishment or not is unknown, but it certainly seems
+[02:08 --> 02:13] plausible given the vaguely pro-pagan stance Eugenius had adopted for his regime.
+[02:14 --> 02:20] But, as I said last week, the war between east and west was not about paganism and Christianity,
+[02:21 --> 02:23] it was about power, pure and simple.
+[02:25 --> 02:29] I don't think any neutral observer could be blamed for believing that Theodosius was
+[02:29 --> 02:34] doomed the minute he emerged on the west side of the Alps in early September 394.
+[02:35 --> 02:40] He popped out into the Frigidus River valley in modern Slovenia and was immediately greeted
+[02:40 --> 02:43] by the troubling specter of Arbogast's army.
+[02:44 --> 02:49] Not only was it troubling that they were there at all, but the highly capable Frankish general
+[02:49 --> 02:52] had seized every piece of high ground in the valley.
+[02:52 --> 02:57] Wherever Theodosius looked, he was looking up at Arbogast's soldiers.
+[02:58 --> 03:02] That alone would have been enough to give any commander a moment's pause.
+[03:02 --> 03:06] I mean, do I really want to attack an enemy who so completely controls the terrain?
+[03:07 --> 03:12] We don't know if Theodosius paused, but if he did, it wasn't for very long.
+[03:13 --> 03:17] The emperor decided that crappy position or no crappy position, he was going to attack.
+[03:18 --> 03:22] As soon as his men were lined up for battle, the eastern legions launched themselves forward
+[03:22 --> 03:24] in a full frontal assault.
+[03:26 --> 03:30] Well, I suppose saying the eastern legions is a bit misleading.
+[03:31 --> 03:35] Out in front of this initial charge was Alaric and his Goths.
+[03:35 --> 03:40] Through an ultra-intense day of fighting, the Gothic auxiliaries wound up bearing the
+[03:40 --> 03:44] brunt of Arbogast's counterattacks, while Theodosius kept the legions proper pulled back
+[03:44 --> 03:45] in reserve.
+[03:46 --> 03:51] The casualty rate of the Goths was so high that when the battle was all over, it was
+[03:51 --> 03:56] said that Theodosius had actually beaten two enemies that day, with Alaric joining Arbogast
+[03:56 --> 03:57] in defeat.
+[03:58 --> 04:02] When the dust settled, the Gothic chief and what remained of his men certainly came away
+[04:02 --> 04:07] thinking that Theodosius was up to slightly more than just trying to defeat Arbogast,
+[04:07 --> 04:11] and that he had purposefully spilled the blood of the Goths to weaken them politically and
+[04:11 --> 04:12] militarily.
+[04:13 --> 04:17] The hard feelings generated by the way they had been used in the battle would last for
+[04:17 --> 04:21] a generation, winding their way through a brief revolt that we'll get to in a second,
+[04:21 --> 04:26] and ultimately leading to the stunning, if not exactly strategically important, sack
+[04:26 --> 04:28] of realm fifteen years later.
+[04:31 --> 04:35] The first day of the battle ended without a decisive victory for either side, but it
+[04:35 --> 04:40] was obvious to everyone on both sides that Arbogast was getting the better of Theodosius.
+[04:41 --> 04:45] In the camp of the Western army, spirits were high, and everyone was under the impression
+[04:45 --> 04:48] that victory was just a good night's sleep away.
+[04:49 --> 04:54] On the other side, in the camp of the Eastern army, morale was nonexistent.
+[04:54 --> 04:59] They were just a bunch of men sitting around waiting to die.
+[05:00 --> 05:04] Even Theodosius despaired at his chances, and he spent the evening in prayer, attempting
+[05:04 --> 05:07] to gin up some sort of miracle that would salvage his chances.
+[05:08 --> 05:13] Given everything that's about to happen, it's fairly easy to see why later chronicles might
+[05:13 --> 05:17] play this up and report that God decided to answer Theodosius' prayers.
+[05:19 --> 05:22] The first little turn of fortune came during the night.
+[05:23 --> 05:28] Arbogast still commanded the high ground of the battlefield, but the passes that the Eastern
+[05:28 --> 05:33] legions had emerged from were still wide open, and the Frankish general was concerned that
+[05:33 --> 05:36] Theodosius would get it into his head to retreat rather than stay and fight.
+[05:37 --> 05:42] So he ordered a strong detachment of soldiers to march around Theodosius' camp and occupy
+[05:42 --> 05:43] the entrances.
+[05:43 --> 05:48] Bottled up and broken, Theodosius would most likely offer his surrender by lunchtime the
+[05:48 --> 05:49] following day.
+[05:50 --> 05:55] But the commander of this detachment knew an opportunity when he saw it, and when he
+[05:55 --> 06:00] got into position, he sent word down to Theodosius saying that he'd be happy to defect if the
+[06:00 --> 06:01] price was right.
+[06:01 --> 06:06] Since the Eastern Augustus was basically facing his own imminent death, the commander could
+[06:06 --> 06:12] pretty much name what that right price was, which he did, which Theodosius immediately
+[06:12 --> 06:13] agreed to pay.
+[06:14 --> 06:20] The detachment defected, the passes remained open, and Theodosius' army gained some much
+[06:20 --> 06:21] needed reinforcements.
+[06:24 --> 06:28] The second and more famous turn of fortune came the next day after the two sides had
+[06:28 --> 06:29] resumed their fighting.
+[06:30 --> 06:34] The only problem is that there are no guarantees that it actually happened the way that later
+[06:34 --> 06:36] historians claim that it happened.
+[06:37 --> 06:42] It's eminently plausible, but since the specific details that had been passed down to us didn't
+[06:42 --> 06:46] start cropping up until years later, it is entirely possible that the whole incident
+[06:46 --> 06:52] is just a figment of some overzealous church historian's imagination, as a way to graphically
+[06:52 --> 06:56] depict how God had stepped into the fighting on Theodosius' side.
+[06:57 --> 07:02] See, there is this weather phenomenon that lurks around the Eastern Alps called the Borah,
+[07:03 --> 07:08] hugely intense windstorms that have been known to gust with the strength of a low-grade hurricane.
+[07:09 --> 07:13] On the second day of battle, one of these windstorms kicked up.
+[07:13 --> 07:17] And wouldn't you know it, it blew directly into the face of Arbogast's army.
+[07:18 --> 07:22] As the two sides approached each other, the Western army was rendered practically blind
+[07:22 --> 07:25] by the dusty winds blowing directly in their face.
+[07:26 --> 07:30] The Eastern army, on the other hand, had the winds at their back, and so advanced completely
+[07:30 --> 07:31] unaffected.
+[07:32 --> 07:36] It is written that the winds eventually became so strong that the spears lobbed at Theodosius'
+[07:36 --> 07:41] army were blown back at the very men who had thrown them, and that the arrows fired
+[07:41 --> 07:44] were shot back at the very men who had fired them.
+[07:45 --> 07:50] Arbogast's army, so close to victory the night before, quickly fell apart in the face
+[07:50 --> 07:51] of the torrential wind.
+[07:52 --> 07:57] By the end of the second day, the army of the West was broken, and those who could not
+[07:57 --> 07:58] flee were captured.
+[08:00 --> 08:03] Theodosius had snatched victory from the jaws of defeat.
+[08:04 --> 08:07] Could it be anything less than divine intervention?
+[08:10 --> 08:12] Among those captured was Eugenius.
+[08:13 --> 08:18] The would-be emperor was brought before Theodosius, whereupon he nobly dropped to his knees and
+[08:18 --> 08:19] began begging for his life.
+[08:20 --> 08:26] Though Theodosius was typically magnanimous in victory, this magnanimity had its limits,
+[08:26 --> 08:29] and self-proclaimed emperors received no quarter.
+[08:30 --> 08:35] Eugenius was executed, and his head was put on display for all to see.
+[08:36 --> 08:40] Arbogast, meanwhile, managed to escape from the battle unharmed, but after spending a
+[08:40 --> 08:45] few days in the hills dodging patrols like some common criminal, he concluded that it
+[08:45 --> 08:50] was high time that he took the honorable path out of his predicament, and he committed suicide
+[08:50 --> 08:52] before he could be captured.
+[08:53 --> 08:58] The deaths of Eugenius and Arbogast meant that for the moment, at least, across the
+[08:58 --> 09:03] whole expanse of the Roman Empire, from Spain to Syria and from Africa to Britain, no one
+[09:03 --> 09:05] opposed Theodosius' sole rule.
+[09:07 --> 09:13] For a few months in late 394 AD, Theodosius stood as the only emperor in the Roman Empire.
+[09:14 --> 09:17] He would be the last man to hold that distinction.
+[09:21 --> 09:25] Just as he had done following the victory over Maximus, Theodosius completed his march
+[09:25 --> 09:29] by entering Milan and setting up court in the Italian capital.
+[09:30 --> 09:34] There was much to be done and much to grapple with, and Theodosius knew he was going to
+[09:34 --> 09:35] have his work cut out for him.
+[09:36 --> 09:41] The war with Eugenius and Arbogast had been even bloodier than the war with Maximus, which
+[09:41 --> 09:46] hurt doubly since the legions had not really gotten back to full strength since that last
+[09:46 --> 09:47] civil war.
+[09:48 --> 09:52] Both the Rhine and Danube frontiers were now dangerously under-garresoned.
+[09:53 --> 09:58] On top of his military woes, Theodosius also knew he was going to have to deal with the
+[09:58 --> 10:02] headache of rolling back the pagan tide that had risen in his absence.
+[10:03 --> 10:08] Committed more than ever to his Nicene Catholicism following the miracle victory at the Frigates,
+[10:08 --> 10:13] Theodosius began to undo the religious damage done by the pagan aristocracy of Rome.
+[10:14 --> 10:19] It was at this point that the altar of victory disappears from the historical record, never
+[10:19 --> 10:20] to be heard from again.
+[10:20 --> 10:24] So, quit asking me to put it back in the Senate House.
+[10:24 --> 10:26] It's gone, so get over it.
+[10:29 --> 10:34] Since Theodosius' historic place as the last sole ruler of the Roman Empire is often listed
+[10:34 --> 10:39] near the very top of his imperial resume, you might be inclined to think that he held
+[10:39 --> 10:41] this distinction for a few years.
+[10:41 --> 10:45] I mean, at least a year, but not so.
+[10:46 --> 10:48] The correct answer is four months.
+[10:49 --> 10:54] All that stuff that Theodosius knew he was going to have to deal with wound up getting
+[10:54 --> 10:59] dealt with by someone else, because in mid-January the Emperor came down with what historians
+[10:59 --> 11:02] label as a nasty bout of edema.
+[11:03 --> 11:07] Doctors were called and everyone prayed, but it all did no good.
+[11:07 --> 11:11] On the 17th of January 395 AD, Theodosius died.
+[11:12 --> 11:17] He was 48 years old and had been an Augustus for 16 years.
+[11:18 --> 11:21] Did I mention that he was the last sole ruler of the Roman Empire?
+[11:25 --> 11:30] Theodosius was an enormously influential ruler, and though I don't think he cracks into that
+[11:30 --> 11:35] upper tier of truly great emperors, there is no getting around the fact that the history
+[11:35 --> 11:37] of the world runs right through his reign.
+[11:38 --> 11:44] Obviously, his staunch Catholicism and eventual staunch anti-paganism spelled the end of the
+[11:45 --> 11:46] religions of antiquity.
+[11:47 --> 11:52] Monotheism was here to stay, Christianity was now the religion of the Empire.
+[11:53 --> 12:00] But beyond the official public policies, Theodosius' own personal piety allowed the Western Church,
+[12:00 --> 12:05] in the form of Bishop Ambrose, to establish once and for all a degree of autonomy from
+[12:05 --> 12:09] the secular ruling class, and even a degree of power over it.
+[12:10 --> 12:15] As I mentioned previously, the next thousand years of political philosophy will revolve
+[12:15 --> 12:19] around the relationship between church and state, and I'm not sure that debate even
+[12:19 --> 12:24] gets started if Theodosius refuses to yield to Ambrose in the months after the massacre
+[12:24 --> 12:25] at Thessalonica.
+[12:26 --> 12:28] But the emperor's religion was not a PR stunt.
+[12:29 --> 12:34] His Christian beliefs were heartfelt, and he took Ambrose's threats to his soul seriously.
+[12:35 --> 12:41] So, Theodosius did what the bishop demanded he do, and in the process set a precedent
+[12:41 --> 12:44] that later kings and popes would follow.
+[12:47 --> 12:52] Finally, given that he did play such a major role in the final entrenchment of Christianity,
+[12:52 --> 12:56] which I think we can all agree is a pretty big deal, the major role Theodosius played
+[12:56 --> 13:02] in ensuring the Empire did not collapse following Adrianople is sometimes lost in the shuffle.
+[13:02 --> 13:05] But that too was a pretty big deal.
+[13:06 --> 13:11] His ability to recognize the stark reality of the Empire's situation, that they could
+[13:11 --> 13:16] not risk another battle, that they must deal with the Goths diplomatically, is perhaps
+[13:16 --> 13:20] even more important to the history of the world than his religious policies, because
+[13:20 --> 13:25] had he blown it in the dark days after Adrianople, there might not have been an empire left to
+[13:25 --> 13:26] Christianize.
+[13:27 --> 13:32] That said, allowing the undefeated Goths to settle in Roman territory and essentially
+[13:32 --> 13:37] live under their own laws would have profound negative consequences down the road.
+[13:37 --> 13:43] It is, after all, another one of the 257 different reasons why the Western Empire fell apart.
+[13:44 --> 13:47] But we'll get into all that a bit down the road.
+[13:49 --> 13:53] For now though, we must turn to Theodosius's more immediate legacy.
+[13:54 --> 13:58] Namely, that his untimely death meant that control of the Empire fell into the hands
+[13:58 --> 14:03] of a 16-year-old and an 11-year-old, neither of whom were well trained in the military
+[14:03 --> 14:08] arts, had any real experience with statecraft, or, if you believe the pronouncements of most
+[14:08 --> 14:12] modern scholars, were particularly bright individuals.
+[14:13 --> 14:18] Sadly, for the good people of the Roman Empire, their emperors Arcadius and Honorius turned
+[14:18 --> 14:23] out to be a couple of underage dim bulbs, who were so easily manipulated and pushed
+[14:23 --> 14:29] around that their reigns were defined most especially by the revolving door of ambitious
+[14:29 --> 14:33] advisors who were constantly cutting each other's throats in order to take their turn
+[14:33 --> 14:35] being the real power behind the throne.
+[14:36 --> 14:41] Without anything resembling a firm hand on the tiller, power-hungry ministers and generals
+[14:41 --> 14:47] began to run amok, fatally undermining the political solidarity that the Empire so desperately
+[14:47 --> 14:49] needed at the dawn of the 5th century.
+[14:53 --> 14:57] The first two of those power-hungry ministers stepped to the plate upon the death of Theodosius
+[14:57 --> 15:03] in January 395, and of course, since political solidarity was so vitally important at the
+[15:03 --> 15:08] dawn of the 5th century, it was perfect that they were personal enemies, who were more
+[15:08 --> 15:12] than willing to extend their rivalries into official state policy.
+[15:13 --> 15:13] Awesome.
+[15:14 --> 15:19] The first of these ministers was Stilicho, the vandal general who had risen to become
+[15:19 --> 15:22] Theodosius' son-in-law and the leader of the Eastern army.
+[15:23 --> 15:28] The other was the Praetorian prefect Rufinus, who had been left in charge of Constantinople
+[15:28 --> 15:30] when that Eastern army had marched west.
+[15:33 --> 15:38] Arcadius and Honorius had both been left in Rufinus' care when their father had marched
+[15:38 --> 15:43] off to face down Eugenius and Arbogast, but when Theodosius became deathly ill, Honorius
+[15:43 --> 15:48] was called to Milan in case he needed to assume the mantle of Western Augustus.
+[15:48 --> 15:53] Aware that his time was drawing near, Theodosius began scrambling to get some sort of succession
+[15:53 --> 15:59] plan in place, and he naturally turned to Stilicho to ensure that things wouldn't
+[15:59 --> 16:01] go to hell the minute he died.
+[16:02 --> 16:07] Pretty soon, everyone got word that when the emperor did die, that Stilicho would act as
+[16:07 --> 16:10] a de facto regent for the underage Honorius.
+[16:11 --> 16:16] Given the general's familial connection to Theodosius, this came as a surprise to no
+[16:16 --> 16:17] one.
+[16:17 --> 16:19] But then came the curveball.
+[16:20 --> 16:25] Just before he died, Theodosius dismissed all his other ministers so he could have a
+[16:25 --> 16:26] private chat with Stilicho.
+[16:27 --> 16:32] During this chat, Theodosius told his son-in-law that he wanted Stilicho to act as a guardian
+[16:32 --> 16:36] not just of Honorius, but of Arcadius as well.
+[16:37 --> 16:42] This deathbed request effectively became the emperor's last words, as he died almost
+[16:42 --> 16:44] immediately after this secret conversation.
+[16:45 --> 16:49] But you can probably see the problem here.
+[16:49 --> 16:53] Stilicho was the only one present for this momentous pronouncement.
+[16:55 --> 16:59] Everyone assumed the vandal general was going to rule the West, and everyone was fine with
+[16:59 --> 16:59] that.
+[17:00 --> 17:04] But now suddenly, he was wandering around telling people that Theodosius secretly told
+[17:04 --> 17:07] him at the last minute that he was supposed to rule the East, too.
+[17:07 --> 17:12] To which I would have reacted, you don't actually expect me to believe that obvious load of
+[17:12 --> 17:14] complete BS, do you?
+[17:15 --> 17:20] But Stilicho apparently did expect everyone to believe it, and for almost the entire time
+[17:20 --> 17:25] he was in power, he maintained his rather bizarre claim to regency over the whole empire.
+[17:26 --> 17:31] To top it all off, modern historians are not even convinced that there ever was a secret
+[17:31 --> 17:36] conversation, that the whole thing had been made up out of whole cloth after the fact
+[17:36 --> 17:39] to explain Stilicho's attempt to seize control of the Eastern Empire.
+[17:44 --> 17:51] Probably the person laughing hardest at Stilicho's obvious load of complete BS was back in Constantinople,
+[17:51 --> 17:53] the Praetorian prefect Rufinus.
+[17:54 --> 17:59] As I mentioned, he and Stilicho were bitter enemies, so you can probably imagine his reaction
+[17:59 --> 18:03] when a messenger arrived one day bearing the news that Stilicho was claiming Theodosius
+[18:03 --> 18:06] secretly wanted him to control the Eastern Empire.
+[18:07 --> 18:12] I picture Rufinus falling out of his chair laughing, picking himself up off the floor,
+[18:12 --> 18:17] and then immediately making plans to kill Stilicho at the earliest opportunity.
+[18:19 --> 18:23] But Stilicho would prove himself to be an extremely savvy operator.
+[18:24 --> 18:29] Far savvier than Rufinus anyway, who will incidentally wind up dead in a ditch in less
+[18:29 --> 18:30] than a year.
+[18:31 --> 18:36] Eager to solidify his position as the new de facto regent, and I say de facto because
+[18:36 --> 18:42] there was no official regent position in Roman law, he turned to the most powerful man in
+[18:42 --> 18:45] the Western Empire, Ambrose of Milan, for support.
+[18:47 --> 18:52] The vandal general and the Roman bishop forged an alliance that was sealed when Ambrose publicly
+[18:52 --> 18:57] endorsed the claim that Stilicho had been ordered to preside over both imperial brothers
+[18:57 --> 18:59] rather than just Honorius.
+[19:00 --> 19:02] But Rufinus was undeterred.
+[19:02 --> 19:04] Stilicho could make all the laughable claims he wanted.
+[19:05 --> 19:09] There was no way the Praetorian prefect was giving an inch of political space.
+[19:11 --> 19:18] This test of wills came to a head in 395 in an incident that put on full display the consequences
+[19:18 --> 19:21] of personal rivalry spilling over into official policy.
+[19:23 --> 19:27] As I've mentioned, the Goths were not at all happy about the way they had been used
+[19:27 --> 19:31] at the Battle of the Phrygidus, and it was an article of faith among them that they had
+[19:31 --> 19:33] been intentionally led to the slaughter to weaken their power.
+[19:35 --> 19:40] Initially, Alaric, the leading chief of the Gothic army, neither stoked these fires nor
+[19:40 --> 19:42] did anything really to dampen them out.
+[19:43 --> 19:47] He was more reserved than his countrymen because with all the reshuffling that was underway
+[19:47 --> 19:52] following the death of Theodosius, he thought he saw an opportunity to follow in the footsteps
+[19:52 --> 19:58] of Ricomere and Arbogast and Stilicho and become a barbarian general in the Roman army.
+[19:59 --> 20:05] But Stilicho in particular was hugely opposed to the idea of Alaric serving Rome in an official
+[20:05 --> 20:11] capacity, mostly because combining the role of Gothic king with Roman general was a frightening
+[20:11 --> 20:12] prospect.
+[20:14 --> 20:20] Alaric led his troops back to Thrace in the spring of 395, but when he got there, he received
+[20:20 --> 20:26] that he was not in fact going to be offered a command, and so, feeling betrayed, he started
+[20:26 --> 20:28] actively encouraging the Goths' hostility.
+[20:29 --> 20:34] In just a few weeks, their rage boiled over, and the central empire was once again dealing
+[20:34 --> 20:36] with a marauding Gothic army.
+[20:38 --> 20:43] Since the Romans had just fought a big old civil war in northern Italy, that's where
+[20:43 --> 20:48] most of the troops of the empire were at the moment, and so it fell to Stilicho to deal
+[20:48 --> 20:51] with Alaric's rampaging Goths.
+[20:51 --> 20:57] But the army Stilicho led through the Alps was not really in tip-top shape, nor a particularly
+[20:57 --> 20:58] cohesive unit.
+[20:59 --> 21:04] The damage done at the Frigates was still being felt, not just in terms of physical
+[21:04 --> 21:08] fighting ability, but also in terms of the troops actually trusting each other.
+[21:09 --> 21:14] After all, the men who made up Stilicho's army had just been hacking each other to pieces
+[21:14 --> 21:15] the previous autumn.
+[21:15 --> 21:20] It was a little difficult for them to grasp that they were all now on the same side.
+[21:22 --> 21:26] But there was no getting around the fact that the Goths needed to be settled, so off Stilicho
+[21:26 --> 21:28] went to try to settle them.
+[21:29 --> 21:35] The vandal was a deft general, and knowing the weakness of his own army, decided to engage
+[21:35 --> 21:40] in a positional campaign designed to hem Alaric in, rather than trying to break him in a set-piece
+[21:40 --> 21:41] battle.
+[21:42 --> 21:47] Eventually, Stilicho's strategy proved so successful that the Goths became trapped in
+[21:47 --> 21:48] a terrible position.
+[21:49 --> 21:53] If Stilicho was ever going to take a shot at battle, now would be the time to do it.
+[21:54 --> 22:00] But then a surprise order came in from Arcadius, originating of course with Rufinus, demanding
+[22:00 --> 22:05] that Stilicho return the eastern troops to Constantinople, and withdraw from Greece at
+[22:05 --> 22:06] once.
+[22:08 --> 22:13] That Stilicho decided to comply with this order hints that he maybe had no intention
+[22:13 --> 22:15] of actually attacking the Goths.
+[22:15 --> 22:20] But he sure told everyone who would listen that he had been fatally undercut by that
+[22:20 --> 22:27] sneaky snake Rufinus, who had robbed the Romans of a certain victory simply to deny me, noble
+[22:27 --> 22:29] Stilicho, a personal victory.
+[22:30 --> 22:35] Whoever's idea it was to let Alaric go, and there is good evidence that it was indeed
+[22:35 --> 22:36] Stilicho's idea.
+[22:36 --> 22:41] The fact that the Gothic chief lived to fight another day wound up having some pretty serious
+[22:41 --> 22:44] consequences down the road.
+[22:47 --> 22:53] Next week, we will begin to feel some of those consequences, as the Empire will break down
+[22:53 --> 22:55] into three political centers of gravity.
+[22:55 --> 23:01] Stilicho in the west, Alaric in the center, and whoever happened to be controlling Arcadius
+[23:01 --> 23:02] at the moment in the east.
+[23:03 --> 23:09] Over the next few years, they will all play everyone off everyone else in a tricky and
+[23:09 --> 23:14] often bloody game of political chess that will wind up leaving the Empire with very
+[23:14 --> 23:16] few pieces left on the board.

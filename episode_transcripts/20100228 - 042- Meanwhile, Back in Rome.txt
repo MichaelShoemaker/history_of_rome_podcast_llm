@@ -1,0 +1,305 @@
+# 20100228 - 042- Meanwhile, Back in Rome
+# Detected language: en
+# Duration: 1453.56 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, episode 42, Meanwhile, Back in Rome.
+[00:13 --> 00:18] After completing his conquest of Gaul, Julius Caesar entered into a sort of holding pattern.
+[00:18 --> 00:23] The Senate refused to let him return to Rome until he disbanded his army, but Caesar
+[00:23 --> 00:26] refused to return unless he was allowed to keep his army.
+[00:27 --> 00:31] It was a critical moment not just for Caesar, but for the fate of the whole Roman world.
+[00:32 --> 00:37] We all know what happened, or we will shortly, but before we get into that tense showdown,
+[00:37 --> 00:42] I want to wind the clock back a few years. Though the war in Gaul is unquestionably the
+[00:42 --> 00:46] most famous thing to have occurred in the decade, the rest of Rome did not simply stop
+[00:46 --> 00:51] what they were doing and wait for another dispatch from mighty Caesar. Indeed, it would
+[00:51 --> 00:56] be difficult to understand why Caesar felt he was forced across the Rubicon without
+[00:56 --> 01:00] understanding what had happened in his absence. It was a decade that saw the death of Crassus
+[01:00 --> 01:04] after one of Rome's greatest military defeats, the breaking of the Triumvirate,
+[01:05 --> 01:09] and increasing civil unrest in the city as both the populist tribunes and the
+[01:09 --> 01:15] conservative Senate grew more inflexible and radicalized. Rome and Caesar were on
+[01:15 --> 01:21] collision course that would destroy the 500-year-old republic. You may recall that
+[01:21 --> 01:27] near the end of his consulship in 59 BC, Caesar sponsored the adoption of a one Mr.
+[01:27 --> 01:32] Clodius Pulcher by a plebeian, allowing the flamboyant demagogue to abandon his patrician
+[01:32 --> 01:38] status and run for tribune. This was in retaliation for the sharp attack Cicero had
+[01:38 --> 01:43] publicly leveled against Caesar, as Clodius was one of the great orators' most bitter enemies.
+[01:43 --> 01:48] The whole adoption was completely illegal for a laundry list of reasons,
+[01:48 --> 01:52] but you may have noticed that the rule of law did not count for much in Rome these days.
+[01:53 --> 01:58] Once Clodius was in a position of authority, the deal was that he would go after Cicero
+[01:58 --> 02:02] full bore and make him realize that messing with Caesar was very bad for his health.
+[02:03 --> 02:08] But, of course, once he was off his leash, there was little stopping Clodius from making
+[02:08 --> 02:12] everyone realize that messing with Clodius was bad for everyone's health.
+[02:13 --> 02:18] Immediately upon attaining the tribunate, Clodius passed a law making exile the punishment
+[02:18 --> 02:23] for killing a Roman citizen without trial. There was absolutely no doubt who the intended
+[02:23 --> 02:28] target of the law was, as this was exactly what Cicero had done when putting down the
+[02:28 --> 02:34] Catiline conspiracy. Once the law was passed, Clodius and the growing gang of thugs whom he
+[02:34 --> 02:39] surrounded himself with, drummed up popular support for the banishment of Cicero from Rome.
+[02:40 --> 02:45] At first, Cicero could scarcely believe that the gambit would work and turned to his friends
+[02:45 --> 02:50] in the Senate for support, and specifically to Pompey, to put a stop to the craziness.
+[02:51 --> 02:55] But the word had gone out that the triumvirate supported Clodius's vendetta against Cicero.
+[02:56 --> 03:00] Though neither Caesar nor Pompey necessarily supported banishing Cicero,
+[03:01 --> 03:04] they felt compelled to follow through on what they had said in motion.
+[03:05 --> 03:10] When Pompey refused to speak on Cicero's behalf, the craziness became reality.
+[03:11 --> 03:17] In 58 BC, no doubt still reeling in disbelief, Cicero packed up and sailed from Macedonia,
+[03:17 --> 03:23] unsure if he would ever see Rome again. It was, by his own admission, the lowest moment
+[03:23 --> 03:28] of his life, and he confessed that during his exile, suicide crossed his mind on more than
+[03:28 --> 03:28] occasion.
+[03:30 --> 03:36] With Cicero out of the way, Clodius next set his sights on Cato. The triumvirate had far
+[03:36 --> 03:41] fewer misgivings about getting rid of the moralizing teetotaler and embraced Clodius's
+[03:41 --> 03:47] scheme to remove the powerful senator from Rome. Clodius, who obviously saw politics
+[03:47 --> 03:52] through a highly personal lens, hatched a plot to take care of two enemies at once.
+[03:53 --> 03:58] When he was a young man, Clodius, like Caesar, had been taken hostage by Cilician pirates.
+[03:59 --> 04:03] The young patrician had demanded that the king of nearby Cyprus pay the ransom,
+[04:03 --> 04:07] but the king had refused to come to the aid of this demanding young nobody,
+[04:07 --> 04:11] earning the lifelong enmity of Clodius, who now suddenly was somebody.
+[04:13 --> 04:19] So now, after years of nursing a grudge, Clodius had his revenge. He passed a law
+[04:19 --> 04:24] stripping Cyprus of its client kingdom status and annexing it officially into the empire.
+[04:25 --> 04:28] He then nominated Cato as the perfect candidate to govern the new territory,
+[04:29 --> 04:34] what with his well-known administrative skills and reputation for honesty, etc, etc.
+[04:35 --> 04:39] Cato was flummoxed. He couldn't say no to the appointment, but did not want to leave
+[04:39 --> 04:44] the city at this critical hour. It was clear that Rome was being taken over by lawless thugs,
+[04:44 --> 04:48] who would destroy all that was good and pure about Rome if they were not checked.
+[04:49 --> 04:53] But like Cicero before him, he could find no one who would help him avoid this de facto
+[04:54 --> 04:59] banishment. So Cato left Rome, the king of Cyprus was deposed, and Clodius patted himself
+[04:59 --> 05:07] on the back. This was almost too easy. For his next trick, Clodius introduced Rome to
+[05:07 --> 05:11] something that, at the time, was highly controversial, hence the need to get rid
+[05:11 --> 05:16] of Cato and Cicero, but would soon become an undislodgeable cornerstone of public policy,
+[05:16 --> 05:24] the free grain dole. The overpopulation and underemployment in the city was a source of
+[05:24 --> 05:28] constant worry and tension for middle and upper class Romans. With more than a million
+[05:28 --> 05:33] people now crammed on top of one another, everyone was aware that if these people were
+[05:33 --> 05:38] not fed, the richest, most powerful city of the ancient world would likely be consumed by
+[05:38 --> 05:44] its own hungry citizens. To this end, it had been policy since the days of the Gracchi
+[05:44 --> 05:50] to sell grain at a heavily subsidized price, but Clodius decided to take it one step further.
+[05:51 --> 05:56] He pointed out to the teeming masses that they all lived in, well, the richest, most powerful
+[05:56 --> 06:01] city in the world, and it was a gross injustice that the nobles lived such splendid lives,
+[06:01 --> 06:06] enjoying all the luxuries that empire afforded while they lived in such squalor,
+[06:06 --> 06:11] barely able to feed themselves. Veterans who had fought to win the empire that now
+[06:11 --> 06:16] sustained the rich deserved better. Farmers who had been displaced by slaves so the rich
+[06:16 --> 06:20] could make more money deserved better. Urban citizens who had seen their standard
+[06:20 --> 06:24] of living deteriorate because of the influx into the city of the former two groups
+[06:24 --> 06:30] deserved better. They all deserved better. The mobs were eager to buy what Clodius was
+[06:30 --> 06:34] selling because Clodius wasn't planning to sell them anything. He was planning
+[06:34 --> 06:40] to give them stuff for free, and nothing says popular like free stuff. So Clodius was
+[06:40 --> 06:45] able to push through his free grain allotments, which ultimately served some 200,000 poor
+[06:45 --> 06:50] citizens of Rome. Augustus would consider repealing the grain doll during his reign,
+[06:50 --> 06:56] but ultimately decided against it. Once given, it is hard to take away, and it
+[06:56 --> 07:02] simply wasn't worth the price of feeding the masses to risk revolution. Free grain was here to stay.
+[07:04 --> 07:08] But despite his efforts to neutralize his enemies, Clodius was not operating in a
+[07:08 --> 07:17] vacuum. In 57 BC, after just a single year in exile, a movement began to have Cicero
+[07:17 --> 07:24] recalled to Rome. The faction was led by Titus and Nius Milo, a Poblian agitator
+[07:24 --> 07:28] who had previously worked in support of Pompey, but who now aligned himself with
+[07:28 --> 07:35] the conservative senate against the triumvirate. Milo was further personal friends with Cicero.
+[07:35 --> 07:41] He was elected tribune alongside Clodius in 57 BC, and made it a priority to bring his friend
+[07:41 --> 07:48] home. The rivalry between Clodius and Milo would define Roman street politics for the next few
+[07:48 --> 07:53] years. Both controlled gangs of former soldiers and gladiators who could be mobilized at a
+[07:53 --> 07:59] moment's notice to support this or that proposal. Violent clashes and small-scale
+[07:59 --> 08:04] riots became a frequent feature of Roman life, as the heads of these rival gangs
+[08:04 --> 08:10] fought physically or once words had been the weapon of choice. The degeneration of discourse
+[08:10 --> 08:15] from verbal sparring to literal sparring would be the catalyst for Pompey's elevation to a
+[08:15 --> 08:21] near dictatorship, which we will get to in a moment. Milo, despite Clodius' attempts to
+[08:21 --> 08:26] physically halt the proceedings, managed to lift the judgment on Cicero, and in the summer
+[08:26 --> 08:31] of 57 BC, the senator was welcomed back to Italy by an adoring crowd, much to his happy
+[08:31 --> 08:39] surprise. But his return to Rome was bittersweet. In his absence, Clodius had confiscated Cicero's
+[08:39 --> 08:43] estates, both in the country and on the Palatine Hill, and had them demolished.
+[08:44 --> 08:49] While Cicero returned from Greece, Milo had directed workers to begin rebuilding
+[08:49 --> 08:53] his friend's home, and the construction site became the scene of multiple violent clashes
+[08:53 --> 08:59] as Clodius sent in his thugs to disrupt the effort. Eventually, the running battles
+[08:59 --> 09:04] between Clodius and Milo would turn deadly, and one would wind up dead and the other exiled.
+[09:05 --> 09:09] But before we get to that, we need to turn to Caesar's triumvirate colleagues who,
+[09:09 --> 09:14] as you'll recall, were preparing themselves to be co-consuls in 55 BC.
+[09:16 --> 09:21] The consular elections of 56 BC, which saw Crassus and Pompey victorious,
+[09:22 --> 09:24] would take record's amount of bribery to pull off.
+[09:25 --> 09:29] Opposition to the triumvirate, it seemed, was unifying and solidifying,
+[09:30 --> 09:34] and it was getting more and more difficult for the three men to simply assert their will.
+[09:35 --> 09:39] Thus, the consulship of Pompey and Crassus was centered on the question of each man's
+[09:39 --> 09:45] future. As agreed, they extended Caesar's proconsulship in Gaul for another five years,
+[09:46 --> 09:49] which would leave him immune to prosecution through 49 BC.
+[09:50 --> 09:54] This was of the utmost importance, as it would get Caesar through the mandated
+[09:54 --> 10:00] ten-year waiting period between consulships. Caesar believed that if he could survive until
+[10:00 --> 10:05] the second consulship, he could do enough in that term to insulate himself from prosecution
+[10:05 --> 10:10] for the rest of his life. After easing Caesar's troubled mind, they looked out
+[10:10 --> 10:14] for themselves. Crassus would be assigned to the governorship of Syria for a period
+[10:14 --> 10:18] of five years, and Pompey would be given Spain for the same length of time.
+[10:20 --> 10:25] The two men saw their eventual proconsulships from entirely different perspectives.
+[10:26 --> 10:30] Pompey, for his part, made sure that he would be allowed to rule his province without actually
+[10:30 --> 10:35] having to go there. He was getting up there in years and had already fought his way to the
+[10:35 --> 10:41] ends of the known world and come home triumphant. He was fast losing interest in the world of war
+[10:41 --> 10:46] and politics. All he wanted to do now was retire and roam with his young bride, Julia.
+[10:46 --> 10:50] The governorship of Spain was meant to leave him with a steady income,
+[10:51 --> 10:55] not to afford any opportunities for further glory. He was, after all,
+[10:56 --> 10:58] Pompey the Great. What more did he have left to prove?
+[11:00 --> 11:05] Crassus, on the other hand, though he was even older than Pompey, still dreamed of a triumph,
+[11:06 --> 11:11] something that would fill the gaping hole in his record. His youthful exploit to the battle
+[11:11 --> 11:16] of the Koline Gate had long been forgotten, and his victory over Spartacus had come almost
+[11:16 --> 11:22] 20 years before. When people thought of Pompey, they thought of his great military victories.
+[11:22 --> 11:26] When they thought of Crassus, they thought of the fact that they had to pay him rent every
+[11:26 --> 11:33] month. Great monuments are built for the former, not so much the latter. So, in late 55 BC,
+[11:33 --> 11:38] Crassus set out for Syria to build himself a great army so he could invade Parthia,
+[11:38 --> 11:43] while Pompey set out for the kitchen to make himself a nice snack and take a nap.
+[11:46 --> 11:51] Throughout 54 BC, Crassus used his personal wealth to raise seven legions in Syria,
+[11:52 --> 11:57] some 35,000 to 40,000 troops. At his request, and with Caesar's approval,
+[11:58 --> 12:03] Crassus's son Publius was released from service in Gaul and rode to meet his father
+[12:03 --> 12:08] the head of a thousand Celtic cavalrymen. Crassus trained his army, drilled his army,
+[12:09 --> 12:14] and re-drilled his army until they were in fighting shape. He couldn't wait to get his
+[12:14 --> 12:18] expedition started, identifying the next spring as the latest he wanted to get going.
+[12:19 --> 12:24] But Crassus's impatience would prove to be his undoing and lead him to make a
+[12:24 --> 12:30] disastrous strategic decision right at the outset. The buffer state Armenia, which Pompey
+[12:30 --> 12:35] had secured peaceful relationships with the decade before, agreed to help Crassus in his
+[12:35 --> 12:42] quest to peel off territory from the Parthians. The Armenian king pledged 50,000 troops. The only
+[12:42 --> 12:48] stipulation was that Crassus had to come north and invade Parthia via Armenia. Basically,
+[12:48 --> 12:52] the king wanted Crassus to swing through and pick up the Armenian army on his way to the
+[12:52 --> 12:58] front. But Crassus refused to delay, and after crossing the Euphrates River and finding
+[12:58 --> 13:02] himself welcomed by the Hellenized natives, decided he was better off making immediately
+[13:02 --> 13:09] for bigger fish rather than going back to get the Armenians. But the natives Crassus
+[13:09 --> 13:14] initially encountered were not so much friendly as they were treacherous. A local chieftain
+[13:14 --> 13:19] told Crassus that the Parthians were scattered and afraid of the invading Romans. But the
+[13:19 --> 13:28] chieftain was a Parthian plant, and when he agreed to show Crassus the best route to the
+[13:29 --> 13:34] In actuality, the Parthians were not scattered and afraid. They were concentrated and confident.
+[13:36 --> 13:40] The Parthian army headed for Armenia to punish the conspiring Armenian king while their
+[13:40 --> 13:44] plant in the Roman army was ordered to lead Crassus around the desert aimlessly.
+[13:45 --> 13:49] Just to make sure that the Romans did not link up with the Armenians, 10,000
+[13:49 --> 13:54] Parthian cavalry were sent south to further harass the legions. But it would turn
+[13:54 --> 13:59] that the attempt to delay Crassus would prove to be far more successful than anyone could
+[13:59 --> 14:05] have dreamed. The 10,000 cavalry was about to crush Crassus's army of some 40,000.
+[14:07 --> 14:12] After being led away from the Euphrates, the Roman army marched day after day through
+[14:12 --> 14:17] the sweltering desert heat. Morale was low and the troops grumbled that Crassus had no
+[14:17 --> 14:21] idea what he was doing, no idea where he was going, and that he was going to get them all
+[14:21 --> 14:25] killed. On all three fronts, they were exactly correct.
+[14:26 --> 14:31] At Kerry, near the modern border of Syria and Turkey, the Parthian cavalry appeared
+[14:31 --> 14:36] on the horizon. Ignoring advice from his officers about where to fight, when to
+[14:36 --> 14:41] fight, and how to fight, Crassus ordered his exhausted troops to form into a giant
+[14:41 --> 14:51] square with cavalry protecting each wing. At first, the Romans, despite their
+[14:51 --> 14:56] small numbers, were only 10,000 Parthians. But of those, 9,000 were highly mobile and
+[14:56 --> 15:01] highly accurate archers, while the other 1,000 were heavily armored troops called
+[15:01 --> 15:08] cataphracts. The Parthian light cavalry opened up the attack. They would charge
+[15:08 --> 15:12] the Romans at full speed, firing arrows the whole time. Then, as soon as they
+[15:12 --> 15:16] got near the line, they would wheel around and speed off, continuing to fire arrows
+[15:16 --> 15:21] over their shoulders as they went. This last maneuver was called a Parthian shot,
+[15:22 --> 15:27] or as we know it today, a parting shot. It had the effect of never letting up on
+[15:27 --> 15:33] the constant barrage of arrows. Crassus kept his men in formation, shields facing
+[15:33 --> 15:37] all directions, and the arrows mostly bounced off harmlessly. But as I'm
+[15:37 --> 15:40] sure you can imagine, the constant attack took its toll mentally.
+[15:41 --> 15:45] Crassus's brilliant strategy was to simply outlast the arrow supply of the
+[15:45 --> 15:50] Parthians and hope they would leave the Romans alone after that. At one point,
+[15:51 --> 15:55] however, afraid that he would be surrounded, Crassus ordered his son to
+[15:55 --> 15:59] lead out the Celtic cavalry to drive off an encircling force. The superior
+[15:59 --> 16:03] Parthian cavalry, however, led Publius and his men far away from the main
+[16:03 --> 16:08] Roman force, then suddenly wheeled around and attacked. Helpless, Crassus
+[16:08 --> 16:14] watched as his cavalry and his son were slaughtered. Despondent, he
+[16:14 --> 16:17] fumbled around trying to decide what to do next, eventually coming to the
+[16:17 --> 16:22] conclusion that he needed to march forward and attack. But before he could
+[16:22 --> 16:26] make any positive move, the armored cataphracts attacked. The exhausted and
+[16:26 --> 16:30] heat-stroked Roman front line was smashed, and the whole army was split
+[16:30 --> 16:35] in two. Crassus was forced to order a retreat. Ten thousand of his men
+[16:35 --> 16:41] were cut off from the rest of the army and cut down. The Romans withdrew,
+[16:41 --> 16:46] but were led astray again and again by supposedly friendly locals. Finally,
+[16:47 --> 16:50] the Parthian commander sent word that he would talk terms with Crassus.
+[16:51 --> 16:54] The Roman soldiers basically told their general to go talk, or they
+[16:54 --> 16:58] would kill him where he stood. Crassus, completely deflated, agreed.
+[17:00 --> 17:03] He entered the Parthian camp to discuss peace, but whether by design
+[17:03 --> 17:06] or accident, a fight broke out, and in the melee,
+[17:06 --> 17:10] Crassus was killed. Legend has it that the Parthians,
+[17:10 --> 17:14] well aware that they were dealing with Rome's richest and greediest leader,
+[17:14 --> 17:18] poured molten gold down his throat and kept the skull as a trophy.
+[17:19 --> 17:23] The legions, meanwhile, discovered that they had been led into a swamp,
+[17:23 --> 17:26] and, getting word that their leader had been murdered, tried to escape,
+[17:27 --> 17:30] but the flight was a disaster. Between the battle at Cary
+[17:30 --> 17:34] and the retreats, Rome lost some twenty thousand troops,
+[17:34 --> 17:38] with another ten thousand taken prisoner. Of the forty thousand who had
+[17:38 --> 17:42] marched out just weeks before, only ten thousand limped back to Syria
+[17:42 --> 17:46] under the command of Gaius Cassius. Yeah, that Cassius.
+[17:47 --> 17:51] It was the worst Roman defeat since the disaster at Cannae during the second
+[17:51 --> 17:54] Punic War. And more embarrassing than the loss
+[17:54 --> 17:57] itself was the capture of numerous legionary eagle standards.
+[17:59 --> 18:02] It was a source of almost immeasurable shame for the legionary
+[18:02 --> 18:04] symbols to fall into the hands of the enemy.
+[18:05 --> 18:08] Caesar Augustus spent a great deal of diplomatic time and energy
+[18:08 --> 18:12] trying to recover the captured eagles from the Parthians, and when he finally
+[18:12 --> 18:15] got them back, the reaction in Rome was the same as if
+[18:15 --> 18:17] he had actually won a great battle.
+[18:18 --> 18:22] The defeat at Cary also firmly solidified in the minds of most Romans
+[18:22 --> 18:25] that it was folly to try and expand further east.
+[18:26 --> 18:30] Many had opposed Crassus's mission to begin with, and took the loss as
+[18:30 --> 18:32] proof that Rome ought to stick near the Mediterranean.
+[18:33 --> 18:36] Mark Antony's later disastrous misadventures in the region
+[18:36 --> 18:39] would further drive home the point that sound policy
+[18:39 --> 18:43] was living in peaceful coexistence with whatever empire
+[18:43 --> 18:45] controlled the mountains and deserts of the east.
+[18:46 --> 18:49] It was not until the emperor Trajan, some 150 years later,
+[18:49 --> 18:53] that Rome would again risk war in the east. And even then,
+[18:53 --> 18:57] Trajan's successor Hadrian basically abandoned all the territory Trajan had
+[18:57 --> 19:00] won, deeming it far too expensive to try and hold.
+[19:01 --> 19:04] Rome was, and would remain, a Mediterranean empire.
+[19:05 --> 19:09] I will also mention in passing that to the Romans at the time,
+[19:09 --> 19:13] the doomed campaign in the east was defined not by the death of Marcus
+[19:13 --> 19:16] Crassus, but by the death of his son Publius.
+[19:17 --> 19:21] The young man, too young to even begin his path on the cursus honorum,
+[19:21 --> 19:24] had already proved himself to be a great leader while serving in the
+[19:24 --> 19:27] Gallic wars, and many Romans felt that the early
+[19:27 --> 19:29] death of this popular and charismatic leader
+[19:29 --> 19:32] was one of the great tragedies of the day.
+[19:33 --> 19:36] It is intriguing to wonder what role a formidable Publius Crassus
+[19:36 --> 19:40] would have played in the coming civil wars. But for Caesar,
+[19:41 --> 19:44] the death of Marcus was still by far the greater tragedy.
+[19:45 --> 19:48] It had the effect of officially ending the first triumvirate.
+[19:48 --> 19:53] With Julia's death in 54 BC, the ties that bound Caesar and Pompey were
+[19:53 --> 19:57] already strained. Crassus's death officially ended the
+[19:57 --> 20:01] partnership. Caesar, as I mentioned before,
+[20:01 --> 20:05] attempted to salvage the relationship by offering Pompey his niece Octavia,
+[20:06 --> 20:09] but Pompey decided to marry Publius Crassus's young widow,
+[20:09 --> 20:13] who just so happened to be the daughter of one of Caesar's greatest enemies,
+[20:13 --> 20:18] Quintus Metellus Scipio. Yes, the triumvirate was broken.
+[20:20 --> 20:24] Beyond this breach, Roman general began to turn on Caesar.
+[20:25 --> 20:29] In December of 53 BC, a chance passing in the streets of Clodius and
+[20:29 --> 20:33] Aeolus led to a fight breaking out among their entourages.
+[20:33 --> 20:38] In the scuffle, Clodius was killed. This not only deprived Caesar of a key
+[20:38 --> 20:42] ally in the city, but it also sparked a wave of riots.
+[20:43 --> 20:46] In a display of shocking lawlessness, the supporters of Clodius
+[20:46 --> 20:50] actually seized control of the Senate house and used it as a funeral pyre
+[20:50 --> 20:53] for their dead leader, burning the entire structure to the
+[20:53 --> 20:57] ground. So when you go to Rome and visit the
+[20:57 --> 21:01] and discover to your disappointment that you can't actually see the spot
+[21:01 --> 21:04] where Julius Caesar was assassinated because the Senate was meeting
+[21:04 --> 21:08] somewhere else for a few years, blame Clodius. Well, at least his
+[21:08 --> 21:13] supporters. Boo, Clodius's supporters. Boo.
+[21:14 --> 21:17] The riots led the Senate to reach out to Pompey.
+[21:18 --> 21:21] A strong hand was needed before things spun out of control.
+[21:22 --> 21:24] But wary of giving Pompey full dictatorial powers,
+[21:24 --> 21:28] they instead split the difference and appointed him emergency consul
+[21:28 --> 21:32] without a colleague. Pompey managed to restore order.
+[21:32 --> 21:36] But moving beyond the immediate crisis, the Senate pushed him to deal with the
+[21:36 --> 21:39] next crisis, which they all saw looming.
+[21:40 --> 21:43] Caesar had just emerged completely victorious in the Gallic Wars
+[21:43 --> 21:46] and was sitting in Gaul with 50,000 battle-hardened veterans.
+[21:47 --> 21:50] The Senate was itching to strip Caesar of his command and punish him
+[21:50 --> 21:52] for all the terrible things he had done,
+[21:52 --> 21:57] real or imagined. But obviously, Caesar wasn't just going to roll over.
+[21:57 --> 22:02] So a tense showdown began with both sides refusing to blink.
+[22:03 --> 22:07] Pompey pushed the envelope first by passing a law allowing for retroactive
+[22:07 --> 22:11] prosecution for bribery, putting the Senate on firm legal
+[22:11 --> 22:13] footing to go after Caesar when he returned to Rome.
+[22:15 --> 22:18] Next, the Senate demanded that Caesar stand down his legions
+[22:18 --> 22:21] now that by his own admission the war in Gaul was won.
+[22:22 --> 22:26] Caesar countered this by saying that that was fine as long as he was allowed
+[22:26 --> 22:29] to stand for consular election in absentia.
+[22:30 --> 22:33] Pompey responded by answering that no, he would not be granted any such
+[22:33 --> 22:36] concession, and further, he would not be allowed to
+[22:36 --> 22:39] stand for election at all unless his army was disbanded.
+[22:40 --> 22:43] Caesar said that that was fine. He would give up his army as soon as
+[22:43 --> 22:47] Pompey gave up his. But as Pompey's army was slowly but
+[22:47 --> 22:49] surely transforming into the army of the Republic,
+[22:49 --> 22:52] the Senate refused to let Pompey agree to these terms.
+[22:53 --> 22:57] They demanded Caesar disband his army or he would be declared an enemy of the
+[22:57 --> 23:01] state. Here then was the final break.
+[23:02 --> 23:06] Despite the best efforts of Cicero and the other moderates, the two sides had
+[23:06 --> 23:09] dug themselves in too deep. There was no way Caesar was coming
+[23:09 --> 23:12] back to Rome without the protection of either his army
+[23:12 --> 23:16] or the imperium that came with the consulship, and the Senate was not
+[23:16 --> 23:18] going to let him have either of those things.
+[23:19 --> 23:22] Over the winter of 50 BC, Caesar considered his options.
+[23:23 --> 23:27] The personal feud between himself and the Senate had now grown into a full
+[23:27 --> 23:31] blown constitutional crisis, and there was no way of knowing what
+[23:31 --> 23:34] the outcome of any given decision he made would be.
+[23:35 --> 23:38] Should he try to broker a deal through Cicero, recognize that he was
+[23:38 --> 23:42] outnumbered and capitulate, or should he just go all in and
+[23:42 --> 23:47] march back to Rome with his army? Next week, I think we all know what
+[23:47 --> 23:48] Caesar decides to do.

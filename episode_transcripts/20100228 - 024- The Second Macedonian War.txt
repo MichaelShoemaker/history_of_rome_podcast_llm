@@ -1,0 +1,386 @@
+# 20100228 - 024- The Second Macedonian War
+# Detected language: en
+# Duration: 987.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to The History of Rome, Episode 24, The Second Macedonian War.
+[00:13 --> 00:19] Last time, we ended with the Roman victory over Carthage in 202 BC, leaving Rome as
+[00:19 --> 00:22] the undisputed master of the Western Mediterranean.
+[00:23 --> 00:28] After nearly 20 years locked in a massively destructive conflict, one might assume
+[00:28 --> 00:33] that the Romans would take some time off. After all, the demise of Carthage left no
+[00:33 --> 00:37] real challenge to the Roman hegemony in the West, and there was an abundance of
+[00:37 --> 00:42] new trading opportunities, lands to settle, farms to rebuild, and families
+[00:42 --> 00:46] to grow. Why not enjoy the fruits of their newfound dominance and retire
+[00:46 --> 00:51] peacefully to country estates to grow olives and sip wine? Beat the
+[00:51 --> 00:55] swords into plowshares, as it were, and leave the battlefield unstained
+[00:55 --> 01:01] with Roman blood. At least for a little while. A generation? Maybe? Not likely.
+[01:02 --> 01:06] Immediately after winning the West, the Romans wasted no time leveraging their
+[01:06 --> 01:10] newfound big boy status and embroiling themselves in the cutthroat
+[01:10 --> 01:15] world of Greek power politics. The rationale behind an intervention in the
+[01:15 --> 01:19] East is obscure, and at first blush doesn't seem to make a whole lot of
+[01:19 --> 01:24] sense. The Romans had no long-standing ties in Greece and no
+[01:24 --> 01:28] investment in the region. As I've mentioned a few times, the Adriatic
+[01:28 --> 01:32] divided the Mediterranean into two worlds. The Romans had finally won
+[01:32 --> 01:36] control of their half. It seemed strange that they would risk what they had
+[01:36 --> 01:40] just achieved by suddenly launching themselves into the middle of a game
+[01:40 --> 01:44] they'd never before competed in or stood any real chance of winning
+[01:44 --> 01:49] without immense effort. But history is what it is, and rather than taking a
+[01:49 --> 01:52] breath, the Romans moved East as a first step towards capturing the whole
+[01:52 --> 01:57] of the Mediterranean, a feat never before accomplished, and since the fall
+[01:57 --> 02:03] of Rome, a feat never again repeated. Roman intervention in Greece was
+[02:03 --> 02:07] precipitated by a fateful pact between two men who would command the
+[02:07 --> 02:11] army's opposite the legions in the coming decades, Philip V of Macedon
+[02:11 --> 02:16] and Antiochus the Great of the Seleucid Empire. The Eastern
+[02:16 --> 02:20] Mediterranean was still very much living in a post-Alexandrian world,
+[02:20 --> 02:24] and the dominant kingdom's jockeying for position had grown from the
+[02:24 --> 02:29] satrapies established by Alexander's generals. Egypt was ruled by the
+[02:29 --> 02:32] descendants of Ptolemy, Syria and Persia were ruled by the descendants
+[02:32 --> 02:37] of Seleucis, and Macedon, the birthplace of the great general, was
+[02:37 --> 02:41] re-rising to a position of power under Philip V after years caught up
+[02:41 --> 02:46] in dynastic struggles. In 204 BC, as Scipio was launching his
+[02:46 --> 02:51] expedition against Carthage, Ptolemy IV of Egypt died, leaving his
+[02:51 --> 02:56] six-year-old son as heir. Seizing quickly on the leadership vacuum
+[02:56 --> 03:00] in Egypt, Philip and Antiochus agreed to jointly exploit the
+[03:00 --> 03:04] situation and move against Egyptian holdings in Asia Minor and
+[03:04 --> 03:08] Syria. The idea was simple, attack quickly on two fronts and
+[03:08 --> 03:13] conquer what territory they could. Around the same time Scipio
+[03:13 --> 03:17] was dictating terms to the Carthaginians, Antiochus moved
+[03:17 --> 03:20] south towards the Red Sea and Philip moved east, attacking
+[03:20 --> 03:24] Thrace, the territory west of the narrow sea lane that links
+[03:24 --> 03:28] the Aegean and Black Seas, called the Hellespont in ancient
+[03:28 --> 03:33] times and today called the Dardanelles. This joint action
+[03:33 --> 03:36] immediately upset the apple cart of Greek power sharing and
+[03:36 --> 03:39] sent the kingdom of Pergamum, which lay on the east side
+[03:39 --> 03:44] of the Hellespont, into a tizzy. Aetolus I, king of
+[03:44 --> 03:47] Pergamum, smelled absolutely nothing good coming from an
+[03:47 --> 03:51] alliance between Philip and Antiochus. Aetolus' kingdom in
+[03:51 --> 03:54] Asia Minor bordered both rival powers. It was not hard
+[03:54 --> 03:57] to divine where the two allied kings would look next
+[03:57 --> 04:00] when they were done stripping young Ptolemy of his
+[04:00 --> 04:04] inheritance. But luckily, Aetolus had built up invaluable
+[04:04 --> 04:07] goodwill from the ascendant Romans who were just coming
+[04:07 --> 04:11] off their big win over Carthage. Aetolus had been
+[04:11 --> 04:13] amongst those allied with Rome against Macedon during the
+[04:13 --> 04:18] First Macedonian War. Along with the Aetolians, Aetolus
+[04:18 --> 04:21] had helped keep Philip's attention firmly in Greece and
+[04:21 --> 04:24] the Romans understood the role this played in their
+[04:24 --> 04:27] ultimate victory over Carthage, or at least Aetolus
+[04:27 --> 04:30] hoped they understood because it was time for them to
+[04:30 --> 04:34] repay the favor. Pergamum, allied with the island kingdom
+[04:34 --> 04:37] of Rhodes, was for the time being holding its own against
+[04:37 --> 04:41] Macedonian encroachment. But in 201 BC, official envoys
+[04:41 --> 04:46] were sent to Rome to plead for aid. The Roman Senate,
+[04:46 --> 04:49] while not forgetting their friendship with Aetolus, still
+[04:49 --> 04:51] sent the Greek envoys away without the promise of aid.
+[04:52 --> 04:55] They had just come off a costly war with Carthage. Now
+[04:55 --> 04:58] was not the time to go plunging headlong into Greece.
+[04:59 --> 05:02] But elements within the Senate argued for immediate action.
+[05:02 --> 05:05] Philip had been moving for years against Rome, and if his
+[05:05 --> 05:08] ambition was allowed to proceed unchecked, when his
+[05:08 --> 05:11] attention inevitably turned back to the West, he would
+[05:11 --> 05:15] come knocking that much richer and that much stronger. If
+[05:15 --> 05:18] Rome was worried about the cost of a war today, think
+[05:18 --> 05:21] of what the cost would be tomorrow. It was agreed then
+[05:21 --> 05:24] that envoys should be sent to Greece to take the
+[05:24 --> 05:27] temperature of the locals and reassess whether the Romans
+[05:27 --> 05:29] needed to take a stand now or whether they could afford
+[05:29 --> 05:30] to wait.
+[05:32 --> 05:35] On the road to Athens, the Roman envoys were fast
+[05:35 --> 05:38] concluding that a war with Macedon was the last thing
+[05:38 --> 05:42] anyone wanted. But coinciding with their arrival in
+[05:42 --> 05:45] Athens, the Athenians declared war against Macedon,
+[05:45 --> 05:49] and Philip ordered a force to pacify Attica. Meeting
+[05:49 --> 05:52] with Aetolus and ambassadors from Rhodes and Athens,
+[05:52 --> 05:55] the Romans decided to issue an ultimatum to Macedon,
+[05:56 --> 05:58] clear out of Greece and come to terms with Pergamum
+[05:58 --> 06:03] roads or deal with the consequences. The Macedonian
+[06:03 --> 06:05] force in Attica retreated and the message was taken to
+[06:05 --> 06:10] Philip. The Macedonian king rejected the ultimatum,
+[06:10 --> 06:13] ordering his forces to attack Athens again, and
+[06:13 --> 06:15] moved himself back east to the Hellespont, where he
+[06:15 --> 06:18] launched a campaign to wrest control of the Eastern
+[06:18 --> 06:23] Bank from Pergamum. In 200 BC, Roman envoys found
+[06:23 --> 06:25] Philip still directing his troops along Pergamum's
+[06:25 --> 06:29] border and issued him a second ultimatum. Withdraw
+[06:29 --> 06:32] from all Greek cities and confine himself back to
+[06:32 --> 06:34] traditional Macedonian territory, or he would be
+[06:34 --> 06:38] looking at war with Rome. Philip protested that
+[06:38 --> 06:40] nothing he had done was in violation of the
+[06:40 --> 06:41] treaty he had signed with the Romans at the end
+[06:41 --> 06:44] of the First Macedonian War, and they were
+[06:44 --> 06:46] reaching well beyond their authority if they
+[06:46 --> 06:48] thought they could dictate policy so far from
+[06:48 --> 06:51] Italy. The second ultimatum, however, was a
+[06:51 --> 06:55] mere formality. At the same time, Roman envoys
+[06:55 --> 06:57] were explaining what they would do if Philip
+[06:57 --> 06:59] rejected peace. They were already launching an
+[06:59 --> 07:02] army, knowing Philip would never accept Roman
+[07:02 --> 07:05] terms. Confident after securing allies in
+[07:05 --> 07:08] Greece, the Senate had changed its tune and
+[07:08 --> 07:11] decided that war now was preferable to war
+[07:11 --> 07:14] later. Philip had to be stopped before he
+[07:14 --> 07:16] acquired more strength.
+[07:18 --> 07:20] Legions under the command of Publius Galba were
+[07:20 --> 07:25] sent across the Adriatic into Illyria, the
+[07:25 --> 07:27] What followed was a year of indeterminate
+[07:27 --> 07:30] skirmishing, with neither side doing much to
+[07:30 --> 07:32] risk their armies. Philip was still trying to
+[07:32 --> 07:34] get a handle on whether the Romans were truly
+[07:34 --> 07:37] committed to a war, and Galba had no real
+[07:37 --> 07:40] interest in a fall-on attack. The next year
+[07:40 --> 07:43] saw changing consuls, but the continuation of
+[07:43 --> 07:46] the same policy. Open war was not being
+[07:46 --> 07:48] courted, and the entire affair seemed
+[07:48 --> 07:50] destined for counter maneuvers until the two
+[07:50 --> 07:52] sides made concessions to one another and
+[07:52 --> 07:56] reached an amenable peace. However, in the
+[07:56 --> 08:01] third year, 198 BC, things would change. Titus
+[08:01 --> 08:03] Flaminius was elected consul and given
+[08:03 --> 08:06] command of Greek operations. He fully
+[08:06 --> 08:08] embraced the notion that Philip had to be
+[08:08 --> 08:11] brought low, or Macedon would forever
+[08:11 --> 08:14] pose a threat to Rome. Beyond these
+[08:14 --> 08:16] immediate strategic interests, Flaminius
+[08:16 --> 08:18] himself was a great lover of Greek
+[08:18 --> 08:21] culture, and saw Roman exposure to, and
+[08:21 --> 08:23] power over Greece to be inherently
+[08:23 --> 08:26] beneficial and well worth fighting for.
+[08:27 --> 08:28] Flaminius took a bold stand against
+[08:28 --> 08:30] Philip, and, hoping to win over the
+[08:30 --> 08:33] mostly neutral Greek cities, recast Roman
+[08:33 --> 08:35] policy as a defense of Greek liberty.
+[08:36 --> 08:38] In this conception, Rome was not another
+[08:38 --> 08:41] power looking for new territory, but a
+[08:41 --> 08:44] shield against Macedonian tyranny. This
+[08:44 --> 08:46] recasting of the struggle won over the
+[08:46 --> 08:51] elites of the Greek city-states, and
+[08:51 --> 08:54] his diplomatic coup well underway,
+[08:54 --> 08:56] Flaminius matched word with action, and
+[08:56 --> 08:58] went looking for Philip's army, intent
+[08:58 --> 09:00] on breaking the Macedonians.
+[09:01 --> 09:03] Later in the year, a short battle was
+[09:03 --> 09:04] fought between the two armies, with
+[09:04 --> 09:06] the upshot being the withdrawal of
+[09:06 --> 09:08] Philip, and the stage being set for a
+[09:08 --> 09:11] larger, decisive confrontation the next
+[09:11 --> 09:11] year.
+[09:13 --> 09:15] The Greeks were flocking to Rome and
+[09:15 --> 09:18] away from Macedon, sensing that the
+[09:18 --> 09:20] ballgame had changed, and the Romans
+[09:20 --> 09:21] were now serious about the fight,
+[09:22 --> 09:24] Philip made peace overtures to Flaminius.
+[09:25 --> 09:27] The Roman consul opened negotiations,
+[09:27 --> 09:29] but was himself unsure of how he
+[09:29 --> 09:30] wanted to proceed.
+[09:31 --> 09:33] The consular elections were coming up,
+[09:33 --> 09:35] and Flaminius, like so many of his
+[09:35 --> 09:37] predecessors, was worried about some
+[09:37 --> 09:39] newbie sweeping in and stealing all
+[09:39 --> 09:40] his glory.
+[09:41 --> 09:42] He intentionally dragged out the talks,
+[09:43 --> 09:45] waiting to hear from his allies in
+[09:45 --> 09:46] the senate, whether his command in
+[09:46 --> 09:48] Greece would be renewed, or given to
+[09:48 --> 09:49] anyone else.
+[09:50 --> 09:52] If the senate ordered the new consul
+[09:52 --> 09:53] for the year to take over,
+[09:54 --> 09:55] Flaminius planned to cut a quick
+[09:55 --> 09:57] peace with Philip, and return a hero.
+[09:58 --> 10:00] If he was kept on his proconsul,
+[10:00 --> 10:02] however, he would end talks, and plan
+[10:02 --> 10:04] for a new campaign the next year.
+[10:05 --> 10:07] He made all kinds of excuses to
+[10:07 --> 10:08] explain the slow pace of
+[10:08 --> 10:11] negotiations, and even advised Philip
+[10:11 --> 10:12] to send envoys directly to Rome to
+[10:12 --> 10:13] speed things along.
+[10:14 --> 10:17] But it was all to by time, and soon
+[10:17 --> 10:19] Flaminius got word that the senate had
+[10:19 --> 10:21] decided to allow him to continue to
+[10:21 --> 10:22] lead the war against Philip.
+[10:23 --> 10:25] With that, peace talks were cut off,
+[10:26 --> 10:27] and Flaminius readied his army for
+[10:27 --> 10:28] more fighting.
+[10:29 --> 10:32] Philip, nonplussed at the whole affair,
+[10:32 --> 10:34] acquired 25,000 mercenaries
+[10:34 --> 10:36] in an attempt to match the growing
+[10:36 --> 10:37] Roman allied force,
+[10:37 --> 10:39] which now included the full-throated
+[10:39 --> 10:40] support of the Aetolian League,
+[10:41 --> 10:42] with a collection of cities that had
+[10:42 --> 10:44] proved so troublesome to Philip
+[10:44 --> 10:45] during the First Macedonian War.
+[10:46 --> 10:49] Numbering somewhere north of 30,000,
+[10:49 --> 10:51] the Romans met Philip and his army at
+[10:51 --> 10:54] Cynoscephaly in 197 BC.
+[10:55 --> 10:56] What followed was not just the
+[10:56 --> 10:58] decisive battle of the war,
+[10:58 --> 10:59] but one of the most important
+[10:59 --> 11:01] turning points in the history of the
+[11:01 --> 11:02] western world.
+[11:03 --> 11:05] The waxing of Rome and the waning of
+[11:05 --> 11:07] Greece was confirmed that day,
+[11:07 --> 11:09] as the maniple system of the Roman
+[11:09 --> 11:11] legions decimated the Macedonian
+[11:11 --> 11:11] phalanx.
+[11:12 --> 11:14] It was one thing for Rome to defeat
+[11:14 --> 11:17] other Italians and Gauls or Spaniards
+[11:17 --> 11:17] and North Africans,
+[11:18 --> 11:20] but Greece had been the home of the
+[11:20 --> 11:22] premier military powers of the ancient
+[11:22 --> 11:22] world.
+[11:23 --> 11:26] Alexander the Great, Sparta, the Navy of
+[11:26 --> 11:26] Athens,
+[11:27 --> 11:29] all were ahead of their time and
+[11:29 --> 11:30] irresistible forces on the
+[11:30 --> 11:31] battlefield.
+[11:31 --> 11:33] It was unthinkable for the Greeks to
+[11:33 --> 11:34] lose in battle to foreigners,
+[11:35 --> 11:37] and yet at the end of the day,
+[11:37 --> 11:38] Rome stood triumphant
+[11:38 --> 11:40] and Greek liberty, despite
+[11:40 --> 11:42] Flaminius's clever propaganda,
+[11:42 --> 11:45] was snuffed out once and for all.
+[11:46 --> 11:48] As I mentioned in episode 14, the
+[11:48 --> 11:50] Romans had taken the phalanx and
+[11:50 --> 11:52] modified it to be more maneuverable,
+[11:52 --> 11:54] more versatile, and allow for
+[11:54 --> 11:55] independent lines of attack.
+[11:56 --> 11:58] All of these advantages would come into
+[11:58 --> 11:59] play at Cynicephali.
+[12:01 --> 12:03] The battle itself came about by
+[12:03 --> 12:05] accident. In 197,
+[12:05 --> 12:07] Flaminius marched north from Thebes
+[12:07 --> 12:09] into Macedonian territory looking for
+[12:09 --> 12:09] Philip.
+[12:10 --> 12:12] The two armies encountered each other
+[12:12 --> 12:14] and fought a brief skirmish,
+[12:14 --> 12:16] but each pulled out to reprovision and
+[12:16 --> 12:18] find better ground to fight on.
+[12:19 --> 12:21] By sheer luck, both armies headed in
+[12:21 --> 12:22] the same direction
+[12:22 --> 12:24] looking for provisions. However, the
+[12:24 --> 12:25] Cynicephali hills
+[12:25 --> 12:28] divided the two and they were unaware
+[12:28 --> 12:28] of each other.
+[12:30 --> 12:32] The next morning, some of Philip's
+[12:32 --> 12:33] troops became disoriented in an early
+[12:33 --> 12:35] fog and marched over the hills.
+[12:36 --> 12:37] The Romans noticed this sudden
+[12:37 --> 12:39] appearance of the enemy,
+[12:39 --> 12:41] and Flaminius ordered some of his
+[12:41 --> 12:43] cavalry, Numidians now fighting on the
+[12:43 --> 12:44] side of Rome,
+[12:44 --> 12:47] to pursue the Macedonians. The cavalry
+[12:47 --> 12:49] stumbled across Philip's main force,
+[12:49 --> 12:51] and Flaminius ordered 2,000 troops to
+[12:51 --> 12:53] press an attack on Philip's camp,
+[12:53 --> 12:55] forcing the Macedonians to pull up
+[12:55 --> 12:56] into the hills en masse.
+[12:57 --> 12:58] After driving off the Roman
+[12:58 --> 13:00] expeditionary force,
+[13:00 --> 13:02] Philip ordered his troops to come
+[13:02 --> 13:03] down a ways from the hills
+[13:03 --> 13:05] and form in the rigid line of a
+[13:05 --> 13:06] phalanx for battle.
+[13:08 --> 13:10] Flaminius had by this time lined up
+[13:10 --> 13:10] his own troops
+[13:10 --> 13:12] and led the Roman left personally
+[13:12 --> 13:14] against the Macedonian right,
+[13:14 --> 13:17] which was led by Philip. The Macedonian
+[13:17 --> 13:17] right,
+[13:18 --> 13:19] with the high ground in their favor,
+[13:19 --> 13:21] was proving more than a match for
+[13:21 --> 13:21] Flaminius,
+[13:22 --> 13:24] but the Macedonian left was having a
+[13:24 --> 13:25] difficult time lining up on the
+[13:25 --> 13:26] broken ground,
+[13:26 --> 13:28] and the Roman right was able to
+[13:28 --> 13:29] smash through the line
+[13:29 --> 13:31] before it was formed. At this point,
+[13:32 --> 13:33] an unnamed Roman officer,
+[13:34 --> 13:36] on his own initiative, ordered a group
+[13:36 --> 13:37] of manopoles under his command
+[13:37 --> 13:39] to wheel around and attack the rear of
+[13:39 --> 13:40] Philip's army.
+[13:41 --> 13:42] Trapped in their phalanx, the
+[13:42 --> 13:44] Macedonians were unable to turn to
+[13:44 --> 13:45] face this new threat,
+[13:46 --> 13:47] and as soon as the new Roman force
+[13:47 --> 13:49] hit, the battle turned from a fair
+[13:49 --> 13:50] fight
+[13:50 --> 13:53] into a slaughter. Philip was able to
+[13:53 --> 13:54] slip away,
+[13:54 --> 13:57] but his army was decimated. The
+[13:57 --> 13:58] Roman manopoles,
+[13:58 --> 14:00] which formed quicker on rough terrain
+[14:00 --> 14:02] and were capable of independent action,
+[14:03 --> 14:04] proved superior to the Greek
+[14:04 --> 14:05] phalanx,
+[14:05 --> 14:07] which was only effective on the right
+[14:07 --> 14:08] terrain, and even then,
+[14:08 --> 14:10] only if given enough time to form
+[14:10 --> 14:11] properly.
+[14:12 --> 14:14] And, of course, once a phalanx was
+[14:14 --> 14:15] flanked,
+[14:15 --> 14:18] that's all she wrote. The structural
+[14:18 --> 14:19] advantage of the Roman
+[14:19 --> 14:20] manopole system was the decisive
+[14:20 --> 14:21] element of the battle,
+[14:22 --> 14:23] which in time would come to
+[14:23 --> 14:24] symbolize more than just a tactical
+[14:24 --> 14:25] victory,
+[14:26 --> 14:27] but mark a critical turning point in
+[14:27 --> 14:28] history.
+[14:31 --> 14:32] In a clever move born out of
+[14:32 --> 14:33] necessity,
+[14:33 --> 14:35] Flaminius announced that the Roman
+[14:35 --> 14:36] legions would not garrison Greece.
+[14:37 --> 14:39] Greece was free, he declared, much to
+[14:39 --> 14:41] the relieved ears of the Greeks.
+[14:42 --> 14:44] The truth was that the Romans had not
+[14:44 --> 14:45] the men
+[14:45 --> 14:47] nor the money to occupy Greece, but
+[14:47 --> 14:49] of course the Romans sold the
+[14:49 --> 14:50] absence of an occupying army
+[14:50 --> 14:53] in the loftiest moral terms. The
+[14:53 --> 14:54] Greeks,
+[14:54 --> 14:55] proud of their historical liberty,
+[14:56 --> 14:57] were more than happy to go along
+[14:57 --> 14:58] with the Roman
+[14:58 --> 15:00] story and thanked Flaminius for
+[15:00 --> 15:00] setting them free.
+[15:01 --> 15:03] It would prove to be a peculiar form
+[15:03 --> 15:04] of freedom,
+[15:04 --> 15:06] as the Romans had no intention of just
+[15:06 --> 15:08] allowing the Greeks to go off and do
+[15:08 --> 15:09] whatever they want.
+[15:10 --> 15:12] To the Romans, a freed slave still had
+[15:12 --> 15:14] obligations to his former master.
+[15:15 --> 15:16] The Greeks, who thought they really
+[15:16 --> 15:18] were free, began to chafe under the
+[15:18 --> 15:20] demands from Rome for tribute.
+[15:21 --> 15:23] The tension between the allegedly free
+[15:23 --> 15:24] Greeks and the Romans would boil
+[15:24 --> 15:25] over soon enough,
+[15:26 --> 15:27] and after 50 years of sporadic
+[15:27 --> 15:29] fighting, all pretenses would be
+[15:29 --> 15:29] lifted
+[15:29 --> 15:32] and Greece would be incorporated as a
+[15:32 --> 15:33] collection of provinces.
+[15:36 --> 15:38] The honeymoon period did not last long,
+[15:38 --> 15:41] and next week the bitter Aetolian
+[15:41 --> 15:43] League, denied territorial concessions
+[15:43 --> 15:45] during the peace negotiations with
+[15:45 --> 15:45] Philip,
+[15:45 --> 15:47] would call upon the last best
+[15:47 --> 15:49] offender of Hellenistic power,
+[15:49 --> 15:51] Antiochus the Great, to enter Greece
+[15:51 --> 15:52] and free them
+[15:52 --> 15:54] from their not yet official bondage.
+[15:55 --> 15:57] The war with Antiochus would draw the
+[15:57 --> 15:58] Romans further east,
+[15:58 --> 16:00] where they would run smack into an
+[16:00 --> 16:01] enemy they thought they had driven off
+[16:01 --> 16:02] forever,
+[16:03 --> 16:04] Hannibal the Great Terrible.

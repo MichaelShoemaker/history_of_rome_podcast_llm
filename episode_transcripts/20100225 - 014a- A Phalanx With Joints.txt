@@ -1,0 +1,202 @@
+# 20100225 - 014a- A Phalanx With Joints
+# Detected language: en
+# Duration: 682.58 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:06] Hello, and welcome to the History of Rome.
+[00:08 --> 00:12] To answer one of the most basic questions about Rome, why was it able to control so
+[00:12 --> 00:17] much territory for so long, one need look no further than the Roman legion.
+[00:17 --> 00:22] There were myriad secondary reasons, competent hands-off administration, sound economic
+[00:22 --> 00:27] policies, and superior engineering skills, but at the beginning and end of the day,
+[00:27 --> 00:30] it was the legion that secured the longevity of Rome.
+[00:31 --> 00:33] No fighting force matched it in the ancient world.
+[00:34 --> 00:38] But its dominance was not the result of finding a perfect method of organizing
+[00:38 --> 00:42] and leading men and then sticking to that static model forever.
+[00:42 --> 00:47] Rather, the Romans constantly tinkered, rearranged, and proved the legions,
+[00:47 --> 00:48] depending on circumstances.
+[00:49 --> 00:52] One of the great virtues of Rome, and one the Romans themselves took immense
+[00:52 --> 00:57] pride in, was their ability to learn from their own mistakes and adopt the
+[00:57 --> 00:58] superior methods of their enemies.
+[01:00 --> 01:04] When I was in college, I took a course in ancient political theory where we
+[01:04 --> 01:07] studied Plato and Aristotle, the Sophists, and other Greek thinkers.
+[01:08 --> 01:12] But when we got to the Romans, apart from some cursory reading of Cicero
+[01:12 --> 01:16] and Marcus Aurelius, my professor spent the class periods teaching us legion
+[01:16 --> 01:19] infantry tactics and how the Roman roads and camps were built.
+[01:20 --> 01:24] That was Roman political theory, not discourses on the meaning of justice
+[01:24 --> 01:28] or comparative essays on state organization, but rather how best to build
+[01:28 --> 01:32] a wall and how to maintain lines of communication in the thick of battle.
+[01:33 --> 01:36] The Romans did not spend a lot of time with their head in the clouds,
+[01:37 --> 01:39] but they did spend a lot of time with their feet in the mud.
+[01:40 --> 01:45] The power, dominance, and stability, and legacy of Rome is all wrapped up
+[01:45 --> 01:46] in its army.
+[01:46 --> 01:49] Understanding the legions is critical to understanding the Romans,
+[01:50 --> 01:53] and shifts in how the legions operated mirrored shifts in the
+[01:53 --> 01:55] socio-political world that surrounded them.
+[01:57 --> 02:00] I originally intended this section to be one episode, but as I progressed,
+[02:00 --> 02:02] it kept growing and growing.
+[02:02 --> 02:05] And so, rather than inundating you with too much information,
+[02:05 --> 02:07] I have decided to divide it into two parts.
+[02:08 --> 02:12] Today, I will give a brief overview how the legions changed over the years
+[02:12 --> 02:15] and then go into detail about the Greek phalanx in particular,
+[02:16 --> 02:19] what it was, why it was so strong, and what its flaws were.
+[02:20 --> 02:23] The Romans used the phalanx until the Samnite Wars,
+[02:23 --> 02:26] when they morphed into a new system I will detail next week.
+[02:27 --> 02:29] For those of you with a background in ancient history,
+[02:29 --> 02:32] I'm sure you've heard more than enough about the phalanx,
+[02:32 --> 02:34] but I want to make sure everyone is on the same page,
+[02:34 --> 02:38] and I think understanding infantry tactics is critical to understanding
+[02:38 --> 02:40] classical Mediterranean history as a whole.
+[02:42 --> 02:44] In general, and this is very general,
+[02:45 --> 02:48] the army of the Roman Republic had four distinct phases.
+[02:48 --> 02:52] The first phase was ushered in by Romulus when he founded the army.
+[02:53 --> 02:55] It was originally formed like any other barbarian horde,
+[02:56 --> 02:59] with a strong leader leading a mass of men who charged at the enemy
+[02:59 --> 03:04] and battled hand to hand, one on one, until one side overpowered the other.
+[03:05 --> 03:08] The second phase began roughly with the class reforms of Servius
+[03:08 --> 03:10] in the mid-500s BC.
+[03:10 --> 03:14] At this point, the Romans began to utilize the Greek phalanx,
+[03:14 --> 03:17] relying on disciplined, group-oriented attacks
+[03:17 --> 03:19] rather than the free-for-all of Romulus' day.
+[03:20 --> 03:22] This lasted until the mid-300s BC,
+[03:23 --> 03:26] when the Samnite Wars exposed dangerous flaws in the phalanx
+[03:26 --> 03:29] and forced the Romans to reorganize their entire army
+[03:29 --> 03:32] and start a third phase based around the Manapal,
+[03:32 --> 03:34] which I will discuss at length next week.
+[03:35 --> 03:37] Later, around 100 BC,
+[03:37 --> 03:41] Marius ushered in the fourth and final phase of the Republican army,
+[03:41 --> 03:45] instituting a series of reforms affecting not just how the army fought tactically,
+[03:45 --> 03:48] but also how the soldiers were recruited,
+[03:48 --> 03:53] removing property qualifications and creating the first full-time professional legion.
+[03:54 --> 03:57] This was a major contributing factor to the death of the Republic
+[03:57 --> 03:58] and the rise of the Imperium.
+[04:00 --> 04:03] At this point in the podcast, we have reached one of those watershed moments,
+[04:04 --> 04:08] the mid-300s BC, that saw a transition from one of these phases to another.
+[04:09 --> 04:12] And this transition is particularly of vital importance
+[04:12 --> 04:16] because it moved Rome from having just another classical Greek hoplite army
+[04:16 --> 04:19] to having an army that was distinctly Roman.
+[04:20 --> 04:24] The Romans, as I've mentioned, were heavily influenced by the Greeks,
+[04:24 --> 04:28] not just in art and culture, but also in the employment of arms.
+[04:29 --> 04:31] In the mid-7th and 8th centuries BC,
+[04:31 --> 04:35] the Greeks adopted a formation of attack called the phalanx,
+[04:35 --> 04:38] which was composed of individual soldiers called hoplites.
+[04:39 --> 04:42] The phalanx was the most formidable method of attack in its day
+[04:42 --> 04:44] and spread throughout the Mediterranean,
+[04:44 --> 04:48] finding its way to Rome, as I said, around the mid-500s BC.
+[04:49 --> 04:53] Put simply, the Greeks abandoned the chaotic charges of man-to-man fighting
+[04:53 --> 04:55] in favor of a highly organized formation,
+[04:56 --> 04:58] which would charge and engage the enemy as one.
+[04:59 --> 05:02] For hundreds of years, the only thing that could stop a phalanx
+[05:02 --> 05:04] was another phalanx of equal strength,
+[05:04 --> 05:07] hence the speed of its adoption throughout the Western world.
+[05:09 --> 05:13] A phalanx was composed of a single line, 8 to 16 men deep,
+[05:13 --> 05:16] depending on the battlefield and number of hoplites available.
+[05:17 --> 05:20] As a rule of thumb, deeper was better for phalanxes,
+[05:20 --> 05:24] and there were accounts of phalanxes up to 50 men deep in some battles.
+[05:25 --> 05:26] Commanders had to make hard choices, however,
+[05:27 --> 05:30] because the line had to be long enough to prevent any outflanking maneuver,
+[05:30 --> 05:32] which meant certain death,
+[05:32 --> 05:35] so a balance was always sought between length and depth.
+[05:36 --> 05:40] At Marathon, for example, the Greeks gambled by spreading their phalanx thin
+[05:40 --> 05:43] to prevent the numerically superior Persians from outflanking them.
+[05:44 --> 05:48] The gamble paid off, but the Persians nearly did break the thin Greek line,
+[05:48 --> 05:49] and had they done so,
+[05:49 --> 05:52] the history of the world would have been altered dramatically.
+[05:54 --> 05:57] During battle, the men in the front line held their oval shields,
+[05:57 --> 05:59] called hoplons, hence the name hoplite,
+[06:00 --> 06:02] in their left hands and long spears in their right.
+[06:03 --> 06:05] The hoplites stood close together,
+[06:05 --> 06:08] and in such a way that their shield protected the men to their left,
+[06:09 --> 06:11] and the men on their right protected them.
+[06:12 --> 06:14] This formed a shield wall that was virtually impenetrable.
+[06:15 --> 06:18] In between the shields, the spears of the second, third,
+[06:19 --> 06:21] and sometimes fourth ranks shot through the gaps,
+[06:22 --> 06:23] stabbing and gorging anything they could.
+[06:25 --> 06:28] A mass of individual fighters would simply be massacred
+[06:28 --> 06:29] if they attempted a head-on attack.
+[06:29 --> 06:32] They would be unable to break through a well-disciplined phalanx.
+[06:34 --> 06:35] Now I know what you're thinking.
+[06:35 --> 06:39] If a phalanx was eight, or twelve, or sixteen men deep,
+[06:39 --> 06:41] and only the front four lines were attacking,
+[06:42 --> 06:44] what were the other four, eight, or twelve lines doing?
+[06:45 --> 06:48] The answer is threefold, but all three folds relate
+[06:48 --> 06:52] to the all-important task of maintaining the cohesion of the phalanx.
+[06:53 --> 06:56] The first fold is that as the phalanx initially charged each other,
+[06:56 --> 06:58] and in the subsequent shoving match,
+[06:58 --> 07:01] the front lines had to be braced by the men behind them,
+[07:02 --> 07:05] so they literally, physically, could not be pushed back.
+[07:06 --> 07:09] The second fold is that the most common way a phalanx was broken
+[07:09 --> 07:11] was by retreat from the rear.
+[07:11 --> 07:13] Once men started running out the back,
+[07:13 --> 07:16] there was no more bracing, no more support,
+[07:16 --> 07:18] and the other army could push right through you.
+[07:20 --> 07:22] A deep line meant removing those back ranks from danger,
+[07:23 --> 07:25] and hence removing their desire to run away.
+[07:25 --> 07:29] The man in the back line of a sixteen-man phalanx
+[07:29 --> 07:31] was in no danger of being run through with a spear,
+[07:31 --> 07:32] so he wasn't going to run.
+[07:33 --> 07:34] It's basic psychology.
+[07:35 --> 07:39] The third fold is that the stable back ranks prevented the men in front,
+[07:39 --> 07:41] who really were in physical danger,
+[07:41 --> 07:44] from running away even if they were scared out of their minds.
+[07:45 --> 07:46] If anyone in the front ran,
+[07:46 --> 07:49] then the whole phalanx would break down and everyone would be slaughtered.
+[07:51 --> 07:52] Now I know what you're thinking again,
+[07:52 --> 07:53] and the answer is yes.
+[07:54 --> 07:58] The first few ranks of a phalanx was a really, really crappy place to be.
+[07:58 --> 08:00] Trapped between an enemy who was trying to kill you
+[08:00 --> 08:02] and friends who forced you to stay put,
+[08:03 --> 08:05] even as they sat, essentially, on the sidelines.
+[08:06 --> 08:08] The only way to live if you were in the front
+[08:08 --> 08:10] was to stick together and move forward,
+[08:11 --> 08:14] so there was a motivational element to the formation as well.
+[08:15 --> 08:18] There was indeed a lot of psychology built into the phalanx.
+[08:18 --> 08:21] Maybe all that philosophizing on the human condition paid off.
+[08:22 --> 08:24] In a warrior society like Greece, though,
+[08:24 --> 08:28] men clamored to be in the front ranks because that's where all the honor and glory was
+[08:28 --> 08:30] and where the commanders placed their best men.
+[08:31 --> 08:33] So, despite all the dangers,
+[08:33 --> 08:35] they didn't think the front was such a bad place to be.
+[08:36 --> 08:37] To each his own, I guess.
+[08:39 --> 08:41] Now a last important word on the phalanx.
+[08:41 --> 08:44] It was designed for and used on flat open plains
+[08:44 --> 08:48] where the ranks could be deployed properly and there were no holes in the line.
+[08:49 --> 08:51] In a phalanx, a single gap meant death.
+[08:51 --> 08:56] The survival of the army was absolutely dependent on an unbroken shield wall.
+[08:57 --> 09:00] In Greece, this worked well because both sides used phalanxes
+[09:00 --> 09:03] and so both sought the same sort of terrain.
+[09:03 --> 09:08] But against an army who used vastly different tactics on unstable hilly terrain,
+[09:08 --> 09:12] the phalanx was vulnerable, a fact the Romans would learn the hard way.
+[09:14 --> 09:17] In the hundreds of years that the Romans had used the standard phalanx,
+[09:17 --> 09:21] they had been well served because they were fighting either other phalanxes
+[09:21 --> 09:24] or gallic hordes who were no match for a solid shield wall
+[09:24 --> 09:26] with hundreds of spears jetting out of it.
+[09:27 --> 09:31] But when they met the Samnites, the weaknesses of the phalanx became all too apparent.
+[09:32 --> 09:34] The steep, rough country of Samnium,
+[09:34 --> 09:37] where most of the fighting of the Samnite wars took place,
+[09:37 --> 09:41] made it difficult to deploy and maintain a cohesive phalanx.
+[09:41 --> 09:45] Plus the Samnite light infantry and cavalry used to the terrain
+[09:45 --> 09:47] were able to easily outflank the Romans.
+[09:47 --> 09:51] And as I said, an outflanked phalanx was as good as dead.
+[09:53 --> 09:56] This fatal flaw spelled the end of the Roman use of the phalanx.
+[09:56 --> 09:58] It was simply not maneuverable enough.
+[09:59 --> 10:01] When attacking head on, a phalanx was indestructible,
+[10:02 --> 10:05] but once hit from the side or back, it was a sitting duck.
+[10:06 --> 10:08] The densely packed soldiers simply could not turn
+[10:08 --> 10:11] and set up the critical defense of shield wall in time
+[10:11 --> 10:14] and cumbered as they were with heavy armor and long spears.
+[10:14 --> 10:16] If given enough time,
+[10:16 --> 10:19] the left or right hand column could reform into a front line.
+[10:19 --> 10:21] But in battle time was measured in seconds
+[10:21 --> 10:24] and a cavalry detachment that managed to get around the line
+[10:24 --> 10:26] was charging through the ranks in a heartbeat,
+[10:27 --> 10:29] slaughtering the closely packed hoplites
+[10:29 --> 10:31] who could not even turn around to defend themselves.
+[10:32 --> 10:35] This was why the phalanx had to avoid being outflanked at all costs
+[10:35 --> 10:39] and why when the Samnites proved they could get around the Romans,
+[10:39 --> 10:42] the Romans changed forever their organizational deployment
+[10:42 --> 10:44] to develop an immunity to this chronic disease.
+[10:46 --> 10:49] What the Romans developed was the system that has been handed down
+[10:49 --> 10:51] as the classic Republican army formation,
+[10:52 --> 10:54] which we will talk about in detail next week.
+[10:54 --> 10:57] The maniple system and its three-line deployment,
+[10:57 --> 11:00] famously referred to as a phalanx with joints.

@@ -1,0 +1,189 @@
+# 20100301 - 064- Smite My Womb
+# Detected language: en
+# Duration: 1534.07 seconds
+# Model: medium, Device: cpu
+
+[00:00 --> 00:02] This week's episode is brought to you by Audible.
+[00:03 --> 00:09] As you are no doubt aware, Audible is the internet's leading provider of audio entertainment with over 60,000 titles to choose from.
+[00:10 --> 00:14] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:15 --> 00:18] That again is audiblepodcast.com forward slash Rome.
+[00:19 --> 00:24] By going to that address, you will qualify for a free book download when you sign up for a 14-day free trial membership.
+[00:24 --> 00:30] There is no obligation to continue the service and you can cancel anytime and keep the free book download.
+[00:30 --> 00:36] You can also keep going with one of the monthly subscription options and get great deals on all future audiobook purchases.
+[00:37 --> 00:46] This week, I'm going to recommend picking up the satires by Juvenile because nothing is quite as fun as poking fun at moralizing hypocrites in Dactylic Hexameter.
+[00:46 --> 00:51] Just remember to go to audiblepodcast.com forward slash Rome so they know who sent you.
+[00:56 --> 01:03] Hello and welcome to the history of Rome, episode 64, Smite My Womb.
+[01:04 --> 01:12] Before we get into this week's episode, I just want to say thank you for all the condolences that were attached to last week's sad announcement of my grandfather's death.
+[01:13 --> 01:22] A confirmed history buff, I know he enjoyed listening to the history of Rome even if dad did have to burn it on a CDs for him because, you know, iTunes is what again?
+[01:22 --> 01:30] The first time I ever read any part of Gibbon's Decline and Fall was from Grandpa's three volume set that still sits on the bookshelf in their living room.
+[01:31 --> 01:41] I look at those books every time I go out to visit and remember fondly being 15 years old and just sitting there, absorbed in the story of Rome with the chaos of a family Christmas swirling around me.
+[01:42 --> 01:47] Eventually we'll get into that phase of the empire where I'll be drawing heavily from Gibbon and we'll need to reread everything.
+[01:47 --> 01:57] And though I now have my own set, the words will still be the same ones I read in Grandpa's old paperbacks and I won't be able to help but be transported back to that time and place.
+[01:57 --> 02:10] And think of Grandpa and thank him for just being the kind of guy who would have a three volume set of the Decline and Fall of the Roman Empire sitting front and center in his living room when a bookless grandson needed something to read to pass the time.
+[02:11 --> 02:21] The other thing I want to say before we get going is that last time I had this whole joke set up where I finally get around to introducing Otho, the last of the four emperors from the year of the four emperors.
+[02:22 --> 02:30] And I was going to do it in this really forced way during my closing remarks because unlike the other three, he was pretty much not around during the last years of Claudius's reign.
+[02:31 --> 02:35] It was going to be like, oh, and Otho was also alive. There I covered them all.
+[02:35 --> 02:46] But, well, it was over 100 degrees in Portland for like two weeks straight and I'm writing in this second story apartment with no air conditioning and yeah, I sort of lost track of what I was doing.
+[02:46 --> 02:58] So if it seemed really weird when you listen to the last episode that I would make a point of saying I'm going to introduce them all and then, you know, didn't, there's really no explanation for it other than I was hot and fumbled the ball.
+[02:58 --> 02:59] Oh, well.
+[03:00 --> 03:01] So, okay, on with the show.
+[03:02 --> 03:12] One of the reasons so many people assume that Agrippina engineered the assassination of her husband slash Uncle Claudius was because of what happened in the immediate aftermath of his death.
+[03:13 --> 03:26] The speed with which Nero was confirmed as the new emperor, the speed with which Claudius's will was suppressed to lock Britannicus out of his inheritance, and the speed with which Agrippina was granted her own independent powers just screamed foul play.
+[03:27 --> 03:41] Plus, just before Claudius died, Agrippina had sent Narcissus out of town on business, removing the one man who could plausibly raise an effective opposition to Agrippina and her son should something unfortunate happen to the emperor and succession became an issue.
+[03:42 --> 03:47] Narcissus, as I mentioned, supported Britannicus as the lesser of two evils when it came to succession.
+[03:48 --> 04:06] With Claudius dead and no Narcissus around to get in her way, Agrippina was able to literally lock up Britannicus and his sisters in the palace and keep them there while she marched Nero out alone in front of the guard, where they were ordered by the Praetorian prefect Sextus Afronius Buras to hail the teenager as the new leader of Rome.
+[04:07 --> 04:17] Some question the absence of Britannicus from these proceedings, but without any pushback from anyone with real authority, like, say, Narcissus, they simply shrugged their shoulders and went along with it.
+[04:18 --> 04:26] After a hastily called session of the Senate confirmed what the Praetorian guard had already declared, 16-year-old Nero became the fifth emperor of Rome.
+[04:28 --> 04:32] As with Caligula, the people greeted the announcement with a great deal of optimism.
+[04:33 --> 04:51] Transition of power are always fraught with danger, but this one seemed to come and go easily, and with young Nero now in power and no doubt destined for a long and full life, entire generations might be able to live and die without ever having to worry about the horror of a civil war sparked by competing claimants to the throne.
+[04:51 --> 04:58] It could be fifty years or more before the issue would even come up again. That kind of stability is precious.
+[04:58 --> 05:05] Plus, Nero was the grandson of Germanicus and a true Julian directly descended from Augustus himself.
+[05:06 --> 05:10] Truly the gods were smiling on Rome when they raised the boy up to command the empire.
+[05:12 --> 05:19] But to those who would actually work behind the scenes to make sure Nero was elevated, it was not the will of the gods that the boy himself command the empire.
+[05:20 --> 05:25] More like it was the will of the gods that Nero be a conduit through which they would command the empire.
+[05:26 --> 05:31] Agrippina especially did not see her son's rise as anything other than a means to her own ends.
+[05:33 --> 05:38] And in securing her own ends, she went even further than Livia had when Tiberius finally came to power.
+[05:39 --> 05:46] Immediately after Claudius died, the Senate obliged her calls to raise the dead emperor to divine status within the growing imperial pantheon.
+[05:47 --> 05:54] To head the new cult of the divine Claudius, the Senate declared that they could think of no one better than his virtuous widow Agrippina.
+[05:55 --> 06:02] Granted two attendants to accompany her in public, Agrippina now had an outward display of the power she had been acquiring behind the scenes.
+[06:03 --> 06:11] Which now included a literal behind the scenes component as the empress was allowed to now attend meetings of the Senate as long as she remained behind a curtain.
+[06:13 --> 06:21] In the months after Claudius died, Agrippina was at the height of her power and Nero was indeed little more than a conduit for the will of his mother.
+[06:22 --> 06:25] But it was not just his mother who held sway over the boy.
+[06:26 --> 06:36] Though Narcissus was of course destined to turn up murdered just months after Nero came to power, his fellow freedman secretary Pallas still remained ensconced as the head of the imperial treasury.
+[06:37 --> 06:41] And did not so much consult the new emperor as report what he had already done.
+[06:42 --> 06:46] This would lead to trouble for Pallas down the road, as would his close connection to Agrippina.
+[06:47 --> 06:51] But for now, he was even stronger politically than he had been under Claudius.
+[06:52 --> 07:03] The other two major players in the early years of Nero's reign were the Praetorian prefect Buras and the tutor Claudius had brought in to educate his adopted son, Lucius Annius Seneca.
+[07:04 --> 07:10] Who, beyond his political role as tutor and advisor to Nero, is a major figure in the western philosophical canon.
+[07:10 --> 07:19] Not so much for the originality of his ideas, but for the role he played in articulating and translating the stoic philosophy into comprehensible language.
+[07:20 --> 07:27] His role in western philosophy then is much like Cicero's, as a compiler and articulator of ideas that had already been established elsewhere.
+[07:28 --> 07:39] His influence is magnified by the fact that later Christian writers seemed to embrace him and so his work continued to be copied and saved rather than suppressed or destroyed, a fate which befell most of his contemporaries.
+[07:39 --> 07:46] But for this period, Seneca's role as advisor and teacher of Nero is what he was most well known for.
+[07:49 --> 08:01] It probably doesn't even need to be said that with all these various advisors coming at Nero from different angles, a mother, a captain of the guard, a philosopher, and a treasurer, that there would be conflict between them.
+[08:01 --> 08:09] Pretty soon, they broke into two broad camps, with Agrippina and her lover Pallas on one side, and Buras and Seneca on the other.
+[08:10 --> 08:22] I think it would be too simplified to say that one side pushed Agrippina's personal interests, while the other side pushed for Nero to consider the good of the whole empire when making decisions, but that is sort of how things shook out.
+[08:23 --> 08:27] One telling scene played out when Nero was to greet the ambassadors arriving from Armenia.
+[08:28 --> 08:37] To the horror of Buras and Seneca, Agrippina seated herself next to Nero, a scandalous move in the patriarchal ancient world that would have reflected terribly on Rome.
+[08:38 --> 08:44] At the last minute, they hustled her out the door, narrowly avoiding what they were convinced would have been a huge diplomatic blunder.
+[08:46 --> 08:52] Unfortunately for Agrippina, from very early on, this seemed to be the way things played out.
+[08:52 --> 09:04] Her visions of ruling Rome through Nero were smacking into the wall of reality, because in reality, I don't know if you know this, but 16-year-olds do not like to be told what to do by their mothers.
+[09:05 --> 09:16] So Nero quickly drifted out of Agrippina's orbit. In early 55, things came to a head over, you guessed it, a girl. Specifically, an ex-slave girl named Claudia Actae.
+[09:17 --> 09:25] Dissatisfied with his politically useful marriage to Claudia Octavia, Nero fell head over heels in love with Claudia Actae and took her as his mistress.
+[09:26 --> 09:34] Agrippina was enraged that her noble patrician son was cavorting about with some ex-slave girl and tried to forbid Nero from seeing her.
+[09:34 --> 09:41] But, as is so often the case, this only heightened the appeal for Nero, and instead of shutting out Claudia Actae, he shut out his mother.
+[09:42 --> 09:51] Seneca and others close to Nero encouraged him to keep his mistress while they played a tricky game to both keep the affair secret from some people and publicize it to others.
+[09:51 --> 10:05] Because on the one hand, it really was important to maintain his marriage with Claudia Octavia, but on the other hand, there were some pretty harsh rumors going around about Nero and the true nature of his relationship with his mother that they wanted to quash.
+[10:05 --> 10:15] As you can imagine, after taking her own uncle as a husband, it did not take long for people to imply things about what was really going on between mother and son.
+[10:16 --> 10:29] There is no evidence that any of it was true, but the charge was out there and so for it to be known in whispered corners that Nero had taken a freed woman as a consort over the strenuous objections of Agrippina was definitely useful politically.
+[10:31 --> 10:40] So suddenly, Agrippina was on the outs. Right at the moment she thought the whole empire was in her grasp, her ungrateful son was trying to take it all away from her.
+[10:41 --> 10:49] Undeterred though, Agrippina showed her true colors once again, that it never had been about elevating her son for his own sake, but rather for her own sake.
+[10:50 --> 10:59] So when the politics makes strange bedfellows department, Agrippina began calling on Britannicus and hinting that he had as much right to the throne as Nero.
+[11:00 --> 11:06] Less than a year after depriving him of his inheritance, Agrippina suddenly became Britannicus's strongest advocate.
+[11:08 --> 11:13] The tension between mother and son grew when Nero decided to dismiss Pallas from his role as Secretary of the Treasury.
+[11:13 --> 11:20] As one of the last allies within the inner circle of power, the dismissal of Pallas was unacceptable to Agrippina.
+[11:21 --> 11:31] She promised Nero that if he continued to ignore her, that she would go to the Praetorians with Britannicus as soon as the boy came of age and reveal her own part in the death of Claudius.
+[11:31 --> 11:36] Whereupon, the guard would reject the usurper Nero in favor of the true heir, Britannicus.
+[11:38 --> 11:41] But in this, I think Agrippina badly misplayed her hand.
+[11:41 --> 11:47] Whether she was simply using Britannicus's leverage to force her way back into a position of influence,
+[11:47 --> 11:54] or whether she had determined her relationship with Nero was irreconcilable and was actually planning to help Britannicus gain the throne,
+[11:55 --> 12:00] her decision to waive these threats around before Britannicus came of age was a tactical blunder.
+[12:01 --> 12:10] Had she waited a few months for Britannicus to come of age, she could have then threatened to take the young man to the Praetorians right this very second, if you don't give me what I want.
+[12:10 --> 12:17] Instead, she telegraphed her moves too early, giving Nero a chance to nullify the threat before it actually became a problem.
+[12:18 --> 12:24] Not surprisingly, on the day before he was to don an adult's toga, Britannicus was invited to dinner at the Imperial Palace.
+[12:25 --> 12:29] His drink was poisoned, and, foaming at the mouth, he died right there on the spot.
+[12:30 --> 12:32] What did Agrippina think was going to happen?
+[12:33 --> 12:43] At this point, though Agrippina remained popular with the people and maintained her own informal network of clients, her dreams of ruling Rome through her son were dead.
+[12:44 --> 12:52] At some point, either in 55 or 57 AD, Nero ordered her to leave the Imperial Palace, and she was forced to retire to a villa outside of Rome.
+[12:53 --> 13:03] But Agrippina was not the only one to be cast aside by this teenager who was slowly coming to realize that he was the emperor, not the cunning advisors who swirled around him.
+[13:04 --> 13:15] When Pallas was dismissed, he was accused of conspiring to bring Faustus Sulla, the husband of Claudia Antonia and the man who Narcissus had once seen as the best candidate to succeed Claudius, to the throne.
+[13:16 --> 13:25] The Praetorian prefect Burus was caught up with similar charges, and Seneca was suddenly accused of embezzlement and maintaining a relationship with Agrippina.
+[13:26 --> 13:33] Through the influence of Seneca, all three men were ultimately cleared of the charges, but almost in a flash, the ruling dynamic had changed.
+[13:35 --> 13:42] Burus and Seneca returned to their positions within the administration, but in the future, they traded far more lightly than they had in the past.
+[13:42 --> 13:46] Nero had clearly decided that he was his own man.
+[13:48 --> 13:59] So who was this man? Up until now, he has been little more than a supporting character, his own personality almost invisible behind the dominating presence of his mother and his other advisors.
+[13:59 --> 14:08] If he is now going to start acting more on his own impulses, following his own desires and whims, it will probably be helpful for us to know what motivated the young emperor.
+[14:10 --> 14:13] Right up front, the obvious thing to note is his age.
+[14:14 --> 14:17] Nero ascended to the throne when he was barely 16 years old.
+[14:17 --> 14:25] And I don't know about you guys, but when I think of myself at 16, let's just say I think it's crazy anyone even trusted me with a driver's license.
+[14:26 --> 14:29] Now, of course, being so young doesn't necessarily preclude sound judgment.
+[14:29 --> 14:42] Augustus himself was not so much older when he began his meteoric rise, and Scipio Africanus scoffed at the age requirements on his way to defeating Hannibal and bringing an end to the Second Punic War.
+[14:43 --> 14:48] But both Augustus and Scipio, despite their youth, had already been tempered by experience.
+[14:49 --> 14:53] Julius Caesar brought Octavian early into his administration to teach the boy how to govern.
+[14:53 --> 15:00] And Scipio had served alongside his father during the early disastrous campaigns against the invading Carthaginians.
+[15:01 --> 15:05] Nero, in addition to his youth, had no such experience to fall back on.
+[15:06 --> 15:13] He had fought no battles, and despite serving as a proconsul at the end of Claudius' reign, little had been expected of him, and he had delivered.
+[15:15 --> 15:28] Perhaps the greatest distinction that can be drawn between young Nero and young Augustus or young Scipio is that the latter two were driven by an ambition to hold power and use that power to shape the world in which they lived.
+[15:29 --> 15:38] They understood how to use propaganda to achieve the level of popularity needed to wield the power they sought, but to them, popularity was a means to an end.
+[15:38 --> 15:43] For Nero, popularity would prove to be an end unto itself.
+[15:45 --> 15:53] Over the course of his reign, some of his policies can be described as good, others as terrible debacles, some as compassionate, others as unimaginably cruel.
+[15:54 --> 16:04] But almost without exception, they were all undertaken not in pursuit of some greater vision of the betterment of Rome, but rather because Nero was desperately seeking the approval of his people.
+[16:05 --> 16:17] And while all politicians have to keep one eye on the polls, whether they admit it or not, no truly successful politician has ever simply followed the lurching desires of the public wherever that may lead.
+[16:18 --> 16:32] Because the public is an irrational, self-interested, short-sighted blob of contradictions, and at a certain point, the successful leader has to identify what he or she wants to do, what he or she thinks is necessary to do, and then just do it.
+[16:32 --> 16:35] Actually be a leader, not just a follower.
+[16:36 --> 16:42] I don't think Nero ever did grasp this idea, nor does it appear that he ever really tried to grasp that idea.
+[16:43 --> 16:49] Though it is worth noting that Nero was pretty successful at being popular, which is the metric by which at least he measured himself.
+[16:50 --> 16:58] After he died, huge swaths of the public, especially the poor masses, mourned his death and pined for a return of their beloved young Nero.
+[16:58 --> 17:08] So he never became the out-and-out pariah that Caligula turned out to be, which is why Nero, for all his faults, will not go down as the worst emperor ever.
+[17:09 --> 17:15] While his underlying governing philosophy was fundamentally flawed, the results were in no way uniformly terrible.
+[17:18 --> 17:28] One of the reasons, though, that he has received such a bad rap is that while the poor masses may have loved him for all the games he threw, the programs he expanded, and the taxes that he slashed,
+[17:28 --> 17:33] the wealthy upper classes, the senators and equites, couldn't stand him.
+[17:34 --> 17:43] To them, Nero was an embarrassment, an honorless hedonist whose very existence was an affront to the memory of a Rome once proud of its virtuous character.
+[17:44 --> 17:48] And guess who has the leisure time to write the history books that we read today?
+[17:49 --> 17:54] That's right, the very same wealthy aristocrats who couldn't stand the insufferable punk to begin with.
+[17:54 --> 18:03] Now, it should also be pointed out that Nero has a very bad reputation today also because of the zealous persecution of early Christians.
+[18:03 --> 18:14] And as most of us now live under the umbrella of Christian civilization, it is no great wonder that a man who was so cruel to the early church will wind up being portrayed in the most negative light possible.
+[18:15 --> 18:21] But I don't want to lose track of where I'm going with this, and I will return to the topic of Nero's relationship with early Christians later.
+[18:21 --> 18:33] Because right now, I want to pivot into why the aristocratic classes saw Nero as such an embarrassment, and why, despite the fact that from very early on he tried to give the Senate more autonomy, they never did support him.
+[18:35 --> 18:45] In the Roman world, there were things you could do that would be considered good and virtuous, and things you could do that would be considered beneath the dignity of a leading Roman citizen.
+[18:45 --> 18:56] In the former camp, you have things that we've already discussed at length, serving in the legions, winning battles, holding public office, delivering articulate and persuasive orations.
+[18:57 --> 19:01] In the latter camp, well, there are many things you're not supposed to do.
+[19:01 --> 19:13] But what I want to specifically highlight right now is the Roman antipathy towards the entertainment industry, and hopefully convey just how big of a deal it was that Nero just wanted to dance.
+[19:14 --> 19:20] Today, of course, actors, athletes, and musicians sit on the highest rung of the social ladder.
+[19:21 --> 19:23] But in the Roman world, this was reversed.
+[19:24 --> 19:28] Actors, dancers, gladiators, and musicians were the lowest of the low.
+[19:29 --> 19:32] It was practically better to be a slave than to be an entertainer.
+[19:33 --> 19:36] Not that Romans didn't enjoy their theater and their gladiatorial games.
+[19:36 --> 19:46] Just that when the performance was over, the stars of the show, who you've just been applauding wildly, are shunted off into the deepest recesses of the worst ghettos.
+[19:47 --> 19:59] Being an entertainer in ancient Rome was to be an untouchable, and it was unthinkable that a patrician in good standing would ever risk his reputation by ever being seen in public with an actor, let alone perform on the stage himself.
+[20:00 --> 20:08] Side note, patricians in good standing, as aristocrats of every age have done, slummed it up regularly with actors and gladiators alike.
+[20:09 --> 20:15] So it was really unthinkable in that kind of no one ever likes to talk about what everyone is doing sort of way.
+[20:16 --> 20:17] Anyway, along comes Nero.
+[20:18 --> 20:20] He has never served in the legions.
+[20:20 --> 20:21] He has never won a battle.
+[20:21 --> 20:29] He had barely scratched the surface of a public career before becoming emperor, and it was widely known that he did not even write his own speeches.
+[20:29 --> 20:33] A sad state of affairs that not even Caligula had been reduced to.
+[20:34 --> 20:37] None of these virtuous Roman ideals seemed to get Nero's motor running.
+[20:38 --> 20:49] Instead, he obsessively practiced his lyre, the small heart popular in the Greco-Roman world, and he talked often of joining in the gladiatorial games where he dreamed of becoming a great charioteer.
+[20:49 --> 21:00] It would be a few years before he had the courage to pursue these dreams, but from the beginning, it was clear that Nero cared more about performing his music than he did about major affairs of state.
+[21:02 --> 21:10] If you called on the emperor, you were as likely to wind up being forced to sit through his new set as you were to discuss the provincial tax policies you had actually come to discuss.
+[21:11 --> 21:15] It cannot be understated how much this bugged the conservative upper classes.
+[21:17 --> 21:29] Adding to their distaste for Nero was the fact that beyond his embarrassing hobbies, the emperor clearly had a cruel streak, and that that cruel streak was often directed at nobles whom he considered a threat.
+[21:30 --> 21:35] From the very beginning, anyone considered an enemy of the new emperor was charged with treason and executed.
+[21:36 --> 21:41] The bloodshed would reach its peak in 62 and 63 AD when the killing became more indiscriminate.
+[21:42 --> 21:57] With everyone afraid that they might be next, a major conspiracy to overthrow Nero was initiated in response, but it was discovered in 65 AD and dozens of men, including at this point Seneca, were swallowed up in the post-conspiracy purges.
+[21:58 --> 22:02] But perhaps the greatest example of Nero's cruelty was the fate of his own mother.
+[22:04 --> 22:16] After years spent estranged from her son, Agrippina once again popped up on Nero's radar in 58 AD, and the emperor came to the conclusion that he wanted to eliminate this blip once and for all.
+[22:17 --> 22:28] The traditional account is that having never been happy with his marriage to Claudia Octavia, Nero took up with a woman named Papea Sabina, the wife of Otho, future year of the four emperors Otho.
+[22:29 --> 22:36] Nero wanted to marry her, but Agrippina promised to raise holy hell if he abandoned his politically valuable marriage with Claudia Octavia.
+[22:37 --> 22:44] Having had quite enough of this, Nero believed that he would never be free of his mother until she was dead, so he decided to have her killed.
+[22:45 --> 22:54] It has been pointed out that there are chronological problems with this account though, that while Agrippina was killed in 59 AD, Nero did not marry Papea until three years later.
+[22:54 --> 23:02] So the link between the two events seems dicey at best, and probably reflects an echo effect of the earlier incident with Claudia Actae.
+[23:04 --> 23:11] Others have argued that it was Agrippina's apparent support for one of Nero's cousins, Gaius Rebellius Plautus, that finally did her in.
+[23:12 --> 23:24] This claim, which echoes the incident with Britannicus, seems to be more plausible, as it represented a clear political threat to Nero, rather than just more insufferable meddling from his overbearing mother.
+[23:25 --> 23:29] Whatever the cause, Nero set himself upon a course of matricide.
+[23:30 --> 23:35] According to the ancient sources though, things did not exactly come off without a hitch.
+[23:36 --> 23:44] Depending on who you listen to, Nero tried and failed three times to have her poisoned, tried once to rig the ceiling above her bed to collapse while she slept,
+[23:44 --> 23:50] and once succeeded in shipwrecking a boat she was on, only to find out later that she had swum to safety.
+[23:51 --> 23:58] In the end, he abandoned his attempt to frame her death as an accident and sent an assassin to simply stab her to death.
+[23:59 --> 24:01] This time, the attempt was successful.
+[24:02 --> 24:06] According to legend, her last words were, smite my womb.
+[24:07 --> 24:11] But as they say, you can't really close the barn door after the horses have already taken off.
+[24:13 --> 24:19] Nero announced that his mother had been discovered plotting against his life, and that in response to the discovery, she had committed suicide.
+[24:19 --> 24:23] No one believed it of course, but that's what the official story was.
+[24:23 --> 24:32] The unofficial story was that for years afterwards, Nero was wracked with guilt and believed that he was being haunted by the ghost of his murdered mother.
+[24:34 --> 24:40] Next week, we'll delve into the eventful years of Nero's reign after the death of Agrippina.
+[24:40 --> 24:47] The 60s AD proved to be a turbulent time for Rome, as revolts broke out in Judea and Britannia,
+[24:47 --> 24:54] and the Parthian Empire decided to take advantage of the young and inexperienced Emperor of Rome by encroaching on the Roman borders in the east.
+[24:55 --> 25:03] And this is to say nothing of the great fire that devastated Rome itself in 65 AD, through which Nero is famously said to have fiddled his way through.
+[25:04 --> 25:09] But we all know now that this story could not possibly be true, because Nero did not play the fiddle.
+[25:09 --> 25:10] He played the lyre.

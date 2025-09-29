@@ -1,0 +1,271 @@
+# 20100228 - 041a- The Gallic Wars
+# Detected language: en
+# Duration: 1202.08 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 41A, The Gallic Wars.
+[00:12 --> 00:17] At the end of last week, Caesar had succeeded in immunizing himself from prosecution by
+[00:17 --> 00:22] securing a pro-consul ship in Cisalpine Gaul for a period of five years.
+[00:22 --> 00:27] Over the course of his career, he had ignored tradition, law, morality, and good taste,
+[00:27 --> 00:32] and his enemies in the Senate were salivating at the opportunity to see him in court.
+[00:33 --> 00:37] Caesar was guilty as sin of the charges that would be brought against him as soon as he left public office,
+[00:38 --> 00:44] so for the sake of his career and possibly his life, it was imperative that he never return to Rome as a private citizen.
+[00:44 --> 00:49] As we will see, it was this legal axe hanging over his head as much as anything else
+[00:49 --> 00:53] that led him to cross the Rubicon in that fateful year of 49 BC.
+[00:54 --> 00:56] But that was still a decade away.
+[00:56 --> 01:01] Now, in the year 58 BC, Caesar took over the governorship of Gaul,
+[01:01 --> 01:05] setting the stage for one of the most famous military campaigns in history.
+[01:05 --> 01:09] And not to take anything away from the skill and daring Caesar displayed while in Gaul,
+[01:10 --> 01:14] but the real reason the Gallic Wars are so famous is because Caesar wanted them to be famous.
+[01:15 --> 01:21] The thing that really shines through, more than his tactical ability or engineering accomplishments or strategic vision,
+[01:22 --> 01:24] was his brilliant flair for propaganda.
+[01:24 --> 01:27] Caesar was the unparalleled master of self-promotion,
+[01:28 --> 01:34] that his commentaries on the war in Gaul is still required reading for Latin language courses today, speaks for itself.
+[01:36 --> 01:39] At the time Caesar took control of Cis and Transalpine Gaul,
+[01:40 --> 01:43] the land north of the Mediterranean basin was, from the Roman perspective,
+[01:44 --> 01:47] an uncivilized land populated by barbaric tribes.
+[01:47 --> 01:54] But civilized is a relative term, and though to Roman eyes the Gauls were, quote, uncivilized,
+[01:54 --> 01:56] this does not mean that they were mindless brutes.
+[01:57 --> 02:01] True, there was no centralized government, and the basic political unit was still the tribe.
+[02:02 --> 02:08] But there were towns, craftsmen, religion, money, ornamentation, literacy, and political intrigue.
+[02:08 --> 02:12] I think the proper analogy here is the European arrival in the New World.
+[02:13 --> 02:16] The native Indians were dismissed as primitive by the civilized Europeans,
+[02:17 --> 02:22] but I think anyone who takes even a cursory glance at the workings of, say, the Iroquois Confederacy,
+[02:22 --> 02:28] would be hard pressed to argue that there was not a sophisticated civilization at work prior to the arrival of western settlers.
+[02:29 --> 02:31] The same is true of the Gauls.
+[02:31 --> 02:37] To the average clean shaven Roman, the long-haired Gaul must have seemed like something out of a primordial nightmare,
+[02:37 --> 02:41] but I think that there was a lot less separating them than either side would have cared to admit.
+[02:44 --> 02:49] Independent Gaul encompassed what is today France, Belgium, the Netherlands, and parts of Switzerland.
+[02:49 --> 02:53] The Romans controlled the southernmost territory in the Mediterranean basin,
+[02:53 --> 02:59] but since their days of initial expansion during the Punic Wars, they had shown little interest in moving north
+[02:59 --> 03:03] and seemed content to simply control the land route to the rich province of Hispania.
+[03:04 --> 03:09] In the east, Gaul was understood to end at the Rhine River, across which lay Germania.
+[03:09 --> 03:15] The relationship between the Gauls, the Germans, and who's doing what on whose side of the Rhine
+[03:15 --> 03:20] will be of great importance not only to the unfolding Gallic Wars, but for the rest of Roman history,
+[03:20 --> 03:24] as the Rhine River will eventually stand as the official border of the Roman Empire.
+[03:27 --> 03:31] In 58 BC, the Helvetii, a Celtic tribe who lived around Lake Geneva,
+[03:31 --> 03:34] grew tired of dealing with the encroaching German tribes.
+[03:35 --> 03:41] They decided to pack up their entire civilization and move out of the mountains, intent on resettling in lowland Gaul.
+[03:41 --> 03:47] According to Master of Propaganda Caesar, the Helvetii numbered somewhere north of 350,000,
+[03:47 --> 03:50] with roughly 100,000 of those being able-bodied men.
+[03:51 --> 03:57] Their total number was probably more like 100 to 150,000, with 30 to 50,000 being able-bodied men.
+[03:57 --> 04:00] Not quite the vast horde Caesar makes them out to be,
+[04:00 --> 04:06] but still large enough to be a terrible menace to the tribes they would transplant when they arrived to build their new home.
+[04:07 --> 04:11] They moved down through a valley until they arrived at the border of Transalpine Gaul,
+[04:11 --> 04:15] which they hoped to pass through so as to avoid moving through Free Gaul,
+[04:15 --> 04:19] which was full of tribes who had no interest in the Helvetii migrating into their lands.
+[04:20 --> 04:25] At this point, they sent envoys to meet Caesar and request safe passage through Roman territory.
+[04:26 --> 04:32] Caesar agreed to consider the request and asked for the envoys to return at a later specified date to receive an answer.
+[04:33 --> 04:35] But Caesar had no intention of letting the Helvetii pass,
+[04:35 --> 04:43] and was simply stalling for time while he gathered his legions and built a huge fortified wall from one end of the narrow valley to the other.
+[04:44 --> 04:49] When the Helvetii envoys returned, the giant wall they ran into spoke for itself.
+[04:49 --> 04:51] Caesar's answer was no.
+[04:52 --> 04:55] There is no doubt that from the very beginning of his governorship,
+[04:55 --> 05:01] Caesar was looking for any opportunity to exploit perceived belligerence as an excuse to invade Greater Gaul.
+[05:01 --> 05:05] The Helvetian migration was simply the first opportunity that presented itself,
+[05:06 --> 05:08] and Caesar wasn't going to pass up an excuse to pick a fight.
+[05:10 --> 05:16] For the record, there was probably a real concern that the Helvetii's migration would do serious damage to the balance of power in the region,
+[05:17 --> 05:21] and as governor of the neighboring province, Caesar had an interest in keeping the region stable.
+[05:21 --> 05:27] But you get the feeling that the Helvetii could have been looking for a place to plant a nice flower garden to brighten everyone's day,
+[05:28 --> 05:30] and Caesar still would have poked them in the eye with a stick.
+[05:31 --> 05:35] The Helvetii, though, were not looking for a place to plant a nice flower garden.
+[05:35 --> 05:41] They were warriors through and through, and reacted the way warriors react when someone pokes them in the eye with a stick.
+[05:41 --> 05:42] They attacked.
+[05:43 --> 05:46] But the Roman engineers had done their job with the fortifications,
+[05:46 --> 05:51] and the legionaries did their job with the fighting, and the Helvetii were easily repulsed.
+[05:51 --> 05:56] So the migrating Celts had no choice but to head north and pass through hostile Gallic territory.
+[05:57 --> 06:00] Caesar quickly returned to the Italian side of the Alps,
+[06:01 --> 06:05] picked up three legions he had in reserve, and raised two more from the local population.
+[06:06 --> 06:10] When the Helvetii spilled into Gaul, Caesar would be ready in case the call for aid arrived.
+[06:11 --> 06:17] Right on cue, an allied tribe ransacked by the incoming Helvetii sent a mission to beg the Romans for aid.
+[06:18 --> 06:23] They found Caesar more than willing to help his poor beleaguered allies drive off the nasty Helvetii.
+[06:23 --> 06:27] Were the allied tribes asking for his legions to march into their territory?
+[06:28 --> 06:29] Yes, yes, the missions replied.
+[06:30 --> 06:33] Intervention formally requested, Caesar had his legal cover.
+[06:34 --> 06:36] The Roman invasion of Gaul had begun.
+[06:38 --> 06:41] Caesar caught up with the Helvetii as they crossed what is today the Seaune River,
+[06:41 --> 06:43] near the border between Switzerland and France.
+[06:44 --> 06:47] He waited while three-quarters of the Celts were across the river,
+[06:47 --> 06:52] and then, with only 25% left on the east bank, charged in and attacked,
+[06:52 --> 06:57] annihilating the far smaller group while their comrades watched on from the far bank.
+[06:58 --> 07:00] The Helvetii were incensed at this cowardly move.
+[07:01 --> 07:04] Their sense of honor demanded open conflict between two armies,
+[07:04 --> 07:07] with lots of opportunities for individual bravery.
+[07:07 --> 07:13] They did not understand an enemy that would intentionally launch a surprise attack against a much weaker force.
+[07:14 --> 07:18] They drew the conclusion that the Romans were afraid of facing the full Helvetii army.
+[07:18 --> 07:22] They should have drawn the conclusion that Caesar didn't care a whit about Celtic honor.
+[07:22 --> 07:25] He was just going to systematically destroy them.
+[07:26 --> 07:30] With the bulk of the Helvetians, though, now loose in greater Gaul,
+[07:30 --> 07:33] Caesar knew he would not be able to simply pick around the edges for long.
+[07:34 --> 07:36] He followed the Helvetii into modern France,
+[07:36 --> 07:40] but in doing so made a strategic decision that would come back to haunt him.
+[07:41 --> 07:43] In order to stay mobile during the invasion,
+[07:43 --> 07:48] Caesar decided to forego establishing a secure supply line back to Roman territory.
+[07:49 --> 07:54] Instead, he intended to live off the land and off the supplies he demanded from his Gallic allies.
+[07:55 --> 08:00] This was a risky decision that very nearly ended the invasion before it really began.
+[08:00 --> 08:05] See, not all the Gallic tribes, not even the tribes technically allied with Rome,
+[08:05 --> 08:09] were super excited about a Roman army rampaging around their territory.
+[08:10 --> 08:15] Not only was it dangerous in the immediate sense that the legions would eat them out of house and home,
+[08:15 --> 08:22] but it was dangerous in the longer-term sense that Rome might get comfortable with the idea that free Gaul lived to serve them.
+[08:24 --> 08:27] So Caesar's request for supplies got lost in the mail,
+[08:27 --> 08:32] or were mistranslated, or couldn't be met because we've had a bad harvest.
+[08:32 --> 08:34] We'll get you what we can on Thursday.
+[08:34 --> 08:37] Oh, no, no, we mean next Thursday.
+[08:37 --> 08:41] It didn't take long for Caesar to realize he was being jerked around,
+[08:41 --> 08:45] and that he was now deep in enemy territory without anything to eat.
+[08:46 --> 08:52] So he abandoned his pursuit of the Helvetii and made for Biberacti, a fortified allied town in modern Burgundy.
+[08:53 --> 08:57] The Helvetii got wind of the Roman plight and turned around, the hunted now becoming the hunter.
+[08:58 --> 09:04] The Romans barely won the race to Biberacti, with the Helvetii cavalry harassing their rear as they approached the town.
+[09:04 --> 09:07] There turned out to be no time to actually even enter the fort,
+[09:08 --> 09:11] as the Helvetii smelled blood in the water and pressed an immediate attack.
+[09:12 --> 09:17] Both sides secured their baggage trains and on the 20th of June launched themselves at each other.
+[09:18 --> 09:22] A full day's fighting with the outcome forever in doubt finally gave way to night,
+[09:22 --> 09:25] as the Romans slowly, methodically gained the upper hand.
+[09:27 --> 09:30] The Helvetii, and the Gauls, Celts, and Germans generally,
+[09:31 --> 09:35] knew of no other way to fight than charge en masse and engage in one-on-one fighting.
+[09:36 --> 09:41] How else could a warrior distinguish himself and earn the kind of glory so prized by his tribesmen?
+[09:42 --> 09:44] The Romans, on the other hand, fought in their maniple units,
+[09:45 --> 09:48] never breaking ranks and working with ruthless mechanical efficiency.
+[09:49 --> 09:54] It was infuriating to the tribes and a major source of their contempt that they felt towards the Romans.
+[09:55 --> 10:00] But at the end of a long day, when the Helvetii were exhausted, the legions kept pressing forward.
+[10:00 --> 10:04] Finally, they broke through and captured the Celtic baggage train.
+[10:05 --> 10:09] And when you have uprooted your entire civilization and packed it all into a baggage train,
+[10:10 --> 10:12] the capture of said train means that you have lost everything.
+[10:13 --> 10:18] The remains of the Helvetii, the women and children, the injured fighters, fled the field.
+[10:19 --> 10:23] Caesar's legions were so exhausted and had so many dead to bury
+[10:23 --> 10:25] that they were unable to take up pursuit for three days.
+[10:25 --> 10:28] But Caesar sent riders out to all the local tribes,
+[10:29 --> 10:32] threatening dire consequences for anyone who helped the Helvetii fugitives.
+[10:34 --> 10:37] When they were recovered, the legions set off after the survivors,
+[10:37 --> 10:40] quickly catching up with what was left of the great Celtic tribe.
+[10:41 --> 10:44] Those who had survived fell on their knees and begged for clemency.
+[10:45 --> 10:49] Caesar spared their lives, ordering them to return to Lake Geneva, where they were to remain,
+[10:49 --> 10:54] serving as a buffer between Roman territory and the forever encroaching Germanic tribes.
+[10:54 --> 10:57] With no recourse, the Helvetii agreed.
+[10:58 --> 11:01] Caesar's first major test as a general was a complete success.
+[11:02 --> 11:04] But he did not have long to bask in the glow of victory,
+[11:05 --> 11:07] because, speaking of encroaching German tribes,
+[11:08 --> 11:12] a German tribe was pouring across the Rhine, threatening to overrun the entire country.
+[11:15 --> 11:17] While Caesar was beating back the Helvetii,
+[11:18 --> 11:20] political struggles between native Gallic tribes
+[11:20 --> 11:24] had led one side to call on their cousins across the Rhine to help them out.
+[11:25 --> 11:28] They knocked on the door of Ariovistus, a great German leader
+[11:28 --> 11:33] who was more than happy to have an excuse to bring his 100,000-odd troops into Gaul.
+[11:33 --> 11:38] The tribe that had called him assumed Ariovistus would help them defeat their enemies and then leave.
+[11:39 --> 11:41] Ariovistus thought Gaul a nice place to rule,
+[11:42 --> 11:46] and he turned ruthlessly on nominal Gallic ally and nominal Gallic foe alike.
+[11:46 --> 11:52] This forced both sides of the internal Gallic struggle to turn to the Romans for aid.
+[11:53 --> 11:55] And this was a somewhat tricky situation for Caesar,
+[11:55 --> 11:59] as Ariovistus had already made diplomatic contact with Rome,
+[11:59 --> 12:03] and, with Caesar's support no less, been declared a friend of the Romans.
+[12:04 --> 12:06] But that did not give the German king carte blanche,
+[12:06 --> 12:10] and Caesar was already considering Gaul his own personal backyard.
+[12:11 --> 12:14] He marched northeast towards the Rhine, where the Germans were camped.
+[12:15 --> 12:20] At this point, Caesar was just coming off an extremely hard-fought battle with the Helvetii
+[12:20 --> 12:24] and was in no mood to take on a huge and fresh German army.
+[12:25 --> 12:29] So his intention was to convince Ariovistus to withdraw back across the Rhine,
+[12:29 --> 12:34] or, at the very least, prevent any more Germans from coming into Gaul.
+[12:34 --> 12:39] Caesar sent envoys ahead asking for a meeting, but the German king would have none of it.
+[12:39 --> 12:45] So Caesar sent a note containing the provisions by which the Germans would be allowed to stay in Gaul.
+[12:45 --> 12:50] No more Germans could cross the river, any Gallic hostages the Germans held must be returned,
+[12:51 --> 12:54] and they must agree to not make war on any native Gallic tribe.
+[12:56 --> 12:59] Ariovistus scoffed at these terms and replied incredulously that it was rich
+[12:59 --> 13:03] for a Roman general to be making demands so far from his home.
+[13:04 --> 13:07] If Caesar wanted to force the issue, he was more than welcome to try.
+[13:09 --> 13:13] While this back and forth was taking place, ever more Germans were invading across the Rhine
+[13:13 --> 13:17] and calls for help were coming down from the local Gauls.
+[13:17 --> 13:19] Caesar knew he had to put a stop to the invasion.
+[13:20 --> 13:23] His legions could certainly stand to be outnumbered in battle,
+[13:23 --> 13:26] but there was a practical limit to what they could match.
+[13:27 --> 13:32] So Caesar moved north, through the dense forest west of the Rhine, to close the spigot.
+[13:33 --> 13:37] Marching for days through trees so tightly packed the sun disappeared
+[13:37 --> 13:40] toward an enemy that was amongst the most feared in the ancient world,
+[13:40 --> 13:43] the legionnaires' nerves began to waver.
+[13:43 --> 13:48] With each passing day, stories passed through the ranks about the Germans took on a life of their own,
+[13:48 --> 13:52] until the average foot soldier was convinced that Caesar was marching them to face
+[13:52 --> 13:57] fifteen-foot-tall cannibals who breathed fire and used black magic to curse their enemies.
+[13:57 --> 14:02] Caesar nipped this brewing mutiny in the bud by convening a meeting of his centurions,
+[14:02 --> 14:06] the veteran soldiers who led the men day to day, in camp and in battle.
+[14:07 --> 14:10] He shamed them all publicly for doing nothing to stop the growing discord
+[14:10 --> 14:14] and all but called them cowards for being frightened of a dark forest
+[14:14 --> 14:16] and some no-account brutes from across the river.
+[14:17 --> 14:21] The shaming worked and the dissension in the ranks was quickly silenced.
+[14:21 --> 14:25] His army fully committed, Caesar closed the final miles between his legions
+[14:25 --> 14:28] and Ariovistus' massive German army.
+[14:30 --> 14:33] Upon arrival, Caesar built a fortified camp and was surprised to discover
+[14:33 --> 14:36] that suddenly the Germans were ready to talk.
+[14:37 --> 14:40] Ariovistus called for a meeting at a neutral site with numerous preconditions,
+[14:41 --> 14:45] not the least of which being that the two leaders could only be accompanied by cavalry,
+[14:45 --> 14:47] absolutely no infantry guards.
+[14:48 --> 14:52] In practice, this meant that Caesar would have with him none of his fellow countrymen,
+[14:52 --> 14:56] as his cavalry was exclusively made up of Gallic auxiliaries.
+[14:57 --> 15:00] But Caesar sidestepped this ploy by ordering members of his favorite legion,
+[15:01 --> 15:03] the Tenth, to mount horses and accompany him.
+[15:04 --> 15:07] It was from this episode that the Tenth, one of the most famous legions
+[15:07 --> 15:11] in Roman military history, earned the nickname that they would carry with them
+[15:11 --> 15:14] for the rest of their existence, the Tenth Mounted Legion.
+[15:16 --> 15:19] The meeting with Ariovistus was as strange as it was unproductive.
+[15:19 --> 15:25] The German legion was agitated and belligerent, but refused to commit himself to battle,
+[15:25 --> 15:28] though he implied that if it did come to battle,
+[15:28 --> 15:32] that word had come from the Roman Senate that the German had their blessing
+[15:32 --> 15:35] to wipe Caesar and his legions off the face of the earth.
+[15:36 --> 15:41] Meanwhile, while the two leaders talked, the German cavalry hurled javelins and stones
+[15:41 --> 15:42] at the Roman guard.
+[15:43 --> 15:46] It was obvious that the Romans were being baited, but Caesar refused to bite.
+[15:46 --> 15:50] As he returned to camp, the one thing he could not figure out
+[15:50 --> 15:52] was why the Germans did not just attack.
+[15:53 --> 15:55] They outnumbered the Romans, were in better fighting shape,
+[15:56 --> 15:59] had better access to supplies, and a superior tactical position.
+[16:00 --> 16:01] It didn't make a lick of sense.
+[16:02 --> 16:05] Soon, though, spies in the German camp brought an explanation.
+[16:07 --> 16:09] The tribal priestesses, who determined through divination
+[16:09 --> 16:13] whether the gods favored battle or not, had been performing their rites
+[16:13 --> 16:17] day after day, but kept coming back with a negative answer.
+[16:18 --> 16:20] Ariovistus himself wanted nothing more than to attack,
+[16:21 --> 16:23] but he risked the wrath of his gods if he did.
+[16:24 --> 16:27] Caesar immediately acted on this crucial piece of intelligence
+[16:27 --> 16:30] and made ready for an immediate assault on the German camp.
+[16:31 --> 16:33] Once their blood was up, the Germans were sure to fight hard,
+[16:34 --> 16:37] but maybe their religious hesitation would cause them to flinch
+[16:37 --> 16:38] or withdraw at the outset.
+[16:39 --> 16:43] For the outnumbered legions, it was their best hope for total victory.
+[16:44 --> 16:47] The next day, Caesar launched his full-scale attack.
+[16:48 --> 16:51] Whether religious concerns played a role when the fighting is unknown,
+[16:51 --> 16:55] but the Germans certainly didn't act as if their gods didn't want them fighting.
+[16:56 --> 16:59] However, as with the Helvetii, a full day's hard battle,
+[16:59 --> 17:03] taking place first on open ground and then on the trampled bodies of the dead,
+[17:04 --> 17:05] finally began to break the Romans' way.
+[17:06 --> 17:10] One of the wings, led by Marcus Crassus's son Publius,
+[17:10 --> 17:13] began to drive the Romans back, finally snapping the enemy line.
+[17:15 --> 17:18] The Germans broke headline for the Rhine, abandoning imperial dreams in Gaul,
+[17:19 --> 17:20] and now hoping to simply make it home alive.
+[17:22 --> 17:24] The fifteen miles back to the river was a running slaughter,
+[17:25 --> 17:27] with Caesar ordering that no prisoners be taken.
+[17:29 --> 17:31] Ariovistus, displaying great courage and honor,
+[17:31 --> 17:33] abandoned his wife and daughter to the Romans
+[17:33 --> 17:35] and escaped on a small raft back to Germania.
+[17:36 --> 17:38] He never crossed the Rhine again.
+[17:40 --> 17:44] In one summer, Caesar had destroyed two massive invading forces
+[17:44 --> 17:49] and was fast making a name for himself as one of the greatest generals in Roman history.
+[17:50 --> 17:53] Here he was, campaigning where no Roman legion had gone before,
+[17:53 --> 17:56] defeating the very barbarians who had haunted Roman nightmares
+[17:56 --> 18:00] from the days of the great sack of Rome 350 years earlier.
+[18:01 --> 18:06] Caesar, of course, took every opportunity to send home breathless reports from the front line
+[18:06 --> 18:10] about his extraordinary campaign, his own genius, and the courage of his men.
+[18:11 --> 18:16] And in the public imagination, Julius Caesar was fast growing into a larger-than-life figure,
+[18:17 --> 18:21] who would soon eclipse his jealous triumvirate colleagues, Pompey and Crassus.
+[18:22 --> 18:26] For about a nanosecond, native Gauls held Caesar in the same esteem his fellow Romans did.
+[18:26 --> 18:33] He had prevented first the marauding Helvetii and then the fearsome Germans from ransacking their homeland.
+[18:34 --> 18:39] Think if Caesar had failed, why, they could have been made mere vassals of some invading foreign power.
+[18:40 --> 18:44] They celebrated Caesar and then wished him a safe trip back to Roman territory.
+[18:44 --> 18:47] Thanks for all your help, maybe we'll call you sometime.
+[18:48 --> 18:51] But Caesar wasn't going back to Rome and his army wasn't going anywhere.
+[18:52 --> 18:56] He ordered the legions to build winter quarters and then settled in to await the spring.
+[18:56 --> 19:01] The Gauls quickly realized that Caesar and the Romans were here to stay.
+[19:03 --> 19:10] Next week, Caesar will use a savvy strategy of divide and conquer to slowly assert Roman dominance over all of Gaul.
+[19:11 --> 19:16] Along the way, he would become the first Roman general to cross the Rhine River and campaign in Germania,
+[19:17 --> 19:21] as well as the first Roman to lead an expedition to the mythical island of Britannia.
+[19:22 --> 19:27] Though the Gauls would eventually organize a resistance and very nearly expel the Romans from their country,
+[19:28 --> 19:31] Caesar would not be denied his prize and in a few short years,
+[19:31 --> 19:37] what had forever been a wild land of fearsome barbarians would become just another province in the mighty Roman Empire.
+[19:53 --> 19:55] you

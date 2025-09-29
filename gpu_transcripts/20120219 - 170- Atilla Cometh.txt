@@ -1,0 +1,273 @@
+# 20120219 - 170- Atilla Cometh
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:06 --> 00:09] internet's leading provider of audio entertainment with over a hundred
+[00:09 --> 00:13] thousand titles to choose from. When you're done with this episode go to
+[00:13 --> 00:20] audiblepodcast.com forward slash Rome. That again audiblepodcast.com forward
+[00:20 --> 00:26] slash Rome. By going to that address you qualify for a free book download when
+[00:26 --> 00:30] you sign up for a 14-day trial membership. There is no obligation to
+[00:30 --> 00:33] continue the service and you can cancel anytime and keep the free book
+[00:33 --> 00:37] download. You can also keep going with one of the monthly subscription options
+[00:37 --> 00:44] and get great deals on all future audiobook purchases. This week I am going
+[00:44 --> 00:48] to go with a recommendation from listener and History of Rome Tour
+[00:48 --> 00:54] alumnus Scott. Persian Fire the First World Empire and the Battle for the West
+[00:54 --> 00:59] by Tom Holland. The story of the first invasion of Greece by the Persians in 480
+[00:59 --> 01:05] BC. I personally read Holland's book on Julius Caesar, which was called Rubicon,
+[01:05 --> 01:12] and enjoyed it immensely. Just remember to go to audiblepodcast.com forward slash
+[01:12 --> 01:15] Rome so that they know who sent you.
+[01:19 --> 01:27] Hello and welcome to the history of Rome. Episode 170 Attila Cometh.
+[01:31 --> 01:36] So last week we saw how the myriad external pressures on the Roman Empire
+[01:36 --> 01:40] threatened to crack it up completely. But you may have noticed that these
+[01:40 --> 01:45] external pressures were falling unevenly on the two administrative halves
+[01:45 --> 01:51] of the Empire. Sadly, by the mid-fifth century, the Western Empire had become
+[01:51 --> 01:55] little more than a semi-functional confederation of barbarian tribes with
+[01:55 --> 02:00] the imperial court at Ravenna sort of managing to cling at some semblance of
+[02:00 --> 02:06] its former prestige. Huge swaths of what had once been a truly united political
+[02:06 --> 02:11] entity were now autonomous zones run with little regard for the Emperor's
+[02:11 --> 02:16] authority. In contrast, the Eastern Empire was doing pretty well for itself,
+[02:17 --> 02:22] all things considering. Since hitting rock bottom with the double blow of
+[02:22 --> 02:26] Julian's failed campaign against the Sassanids in the late 360s and the Gothic
+[02:26 --> 02:32] War of the late 370s, the East had actually rebounded nicely. I don't mean
+[02:32 --> 02:37] to imply that the fifth century was some kind of picnic for Constantinople, but
+[02:37 --> 02:40] you just don't see the succession of, and then they signed a treaty giving away
+[02:40 --> 02:43] Egypt, and then they signed a treaty giving away Greece, and then they signed
+[02:43 --> 02:50] a treaty giving away Cappadocia, the way you do with the West. But this week the
+[02:50 --> 02:54] hammer, or should I say the scourge, is about to drop on the East as hard as it
+[02:54 --> 02:58] ever fell on the West. And though Constantinople isn't about to lose
+[02:58 --> 03:03] control of any land, it is going to cost them a pretty penny to hang on to what's
+[03:03 --> 03:12] theirs, because Attila the Hun drives a hard bargain. So you'll recall from last
+[03:12 --> 03:17] week that through the 430s and into the early 440s, the Eastern Empire was
+[03:17 --> 03:20] feeling secure enough in its own position that it was sending troops to
+[03:20 --> 03:26] the West to help contain the vandals in North Africa. Now this was not a purely
+[03:26 --> 03:31] altruistic act. Vandals spreading across North Africa means vandals might eventually
+[03:31 --> 03:37] reach Egypt, which is a totally unacceptable development. Plus, vandal
+[03:37 --> 03:42] pirates disrupting shipping lanes was bad for everyone's business, both East and
+[03:42 --> 03:47] West alike. But though containing the vandals was most certainly in the best
+[03:47 --> 03:53] strategic interests of Constantinople, it was in a long-term preventative sort of
+[03:53 --> 03:59] way. That luxury of being able to think long-term came to a screeching halt in
+[03:59 --> 04:04] 441, when the Eastern Empire was simultaneously attacked on two fronts by
+[04:04 --> 04:09] its two biggest potential enemies, the Sassanids in the Far East and the Huns
+[04:09 --> 04:14] in the North. Suddenly, stripping off soldiers from the Danube frontier and
+[04:14 --> 04:19] sending them off to Sicily to fight vandals seemed like a really, really poor
+[04:19 --> 04:27] decision. Now just to get this out of the way, the Sassanid threat receded almost as
+[04:27 --> 04:32] quickly as it advanced. It is possible that their brief offensive against Roman
+[04:32 --> 04:36] positions in Armenia had been launched at the behest of vandal ambassadors who
+[04:36 --> 04:41] were looking to tie down Constantinople while Gansaric moved to annex the
+[04:41 --> 04:46] province of Africa. But it appears that the Persian heart was never really in the
+[04:47 --> 04:52] Becoming embroiled in a major war with the Romans just so some ill-mannered barbarians
+[04:52 --> 04:56] could see some land on the other side of the Mediterranean was no one's idea of
+[04:56 --> 05:01] good policy, and so the Sassanids withdrew almost as quickly as they had
+[05:01 --> 05:06] advanced. Not that the vandals minded, if they really were behind the brief
+[05:06 --> 05:11] campaign. By that point, Constantinople had its hands full anyway, so Sassanid
+[05:11 --> 05:16] aggression was no longer required because the Huns were feeling aggressive
+[05:16 --> 05:24] all on their own. The Huns had returned to the Danube frontier in force after
+[05:24 --> 05:29] five years of fruitless campaigning against the Persians. Likely hoping that
+[05:29 --> 05:33] they would be able to extract from the Sassanids the same sort of indemnity
+[05:33 --> 05:37] deal they had already extracted from Constantinople, the Huns were now
+[05:37 --> 05:43] returning to the Hungarian plain disappointed men. I'm just speculating
+[05:43 --> 05:47] here, but I have to believe that five years worth of futile campaigning in the
+[05:47 --> 05:52] East played a role in Bleda and Attila's decision to adopt a far more hostile
+[05:52 --> 05:58] posture towards the Romans when they returned. It seems reasonable that there
+[05:58 --> 06:01] would have been a fair amount of grumbling about the costly boondoggle
+[06:01 --> 06:06] the Brother Kings had just retreated from with nothing to show for it. How
+[06:06 --> 06:10] long would the brothers be tolerated if they didn't bring home some bacon? And
+[06:10 --> 06:18] soon. So in 441, the Huns crossed the Danube and began sacking Roman cities
+[06:18 --> 06:23] and towns. Make no mistake about it, this time there was no cover story about
+[06:23 --> 06:28] pursuing wayward vassals. This was a straight-up invasion of Roman
+[06:28 --> 06:33] territory with the intent of carting off any riches contained therein. Well,
+[06:33 --> 06:38] that's not exactly right. Carting off the riches contained therein was a nice
+[06:38 --> 06:43] bonus, but it's pretty clear that the attacks were mostly about forcing
+[06:43 --> 06:48] Constantinople to once again increase the annual indemnity it paid to the
+[06:48 --> 06:54] Huns. After all, attacks, campaigns, and battles risked Hun lives and treasure.
+[06:55 --> 06:59] But sitting around while the weak-willed and frightened Romans hand-delivered
+[06:59 --> 07:06] wagons full of gold? That risked almost nothing. So why conquer Rome when you can
+[07:06 --> 07:13] just turn it into a tax-paying vassal? So through 441 and 442, the Huns commenced
+[07:13 --> 07:19] a series of hit-and-run raids to remind Constantinople just how insecure their
+[07:19 --> 07:24] borders were, especially after they had foolishly sent that expedition off to
+[07:24 --> 07:29] the west to fight the Vandals. Driving the point home that this time the Huns
+[07:29 --> 07:34] really meant business, the strongest and most important cities of the Upper
+[07:34 --> 07:39] Danube were targeted, including the old imperial capital of Sirmium, which the
+[07:39 --> 07:47] Huns stormed in the late summer of 442. The Romans attempted to resist, but
+[07:47 --> 07:52] having lost valuable resources to the expeditionary force, they were simply no
+[07:52 --> 07:58] match. The Hun army rolled right across Dacia and Moesia, sacking almost every
+[07:58 --> 08:04] major city along the way, which was, without question, the single most
+[08:04 --> 08:10] shocking and terrifying development to Roman war planners. You'll recall that
+[08:10 --> 08:14] the dynamic of the Gothic War after the Battle of Adrianople was that Fritigern
+[08:14 --> 08:18] and his Goths had the run of the open plains, but that they were unable to take
+[08:18 --> 08:25] any of the cities since their siege craft was real amateur-hour stuff. So as
+[08:25 --> 08:30] it got, the Goths could never close the deal, a fact everyone eventually
+[08:30 --> 08:34] recognized and a fact that led the Goths to finally accept Theodosius' peace
+[08:34 --> 08:40] overtures. So when the Huns first started pouring across the Danube, it is entirely
+[08:40 --> 08:43] likely that the Roman high command thought that the same rules would apply.
+[08:44 --> 08:49] Okay, we get the people and the food behind the walls, the Huns run around for
+[08:49 --> 08:55] a little while, it'll be rotten, but we'll get through it. But to their very great
+[08:55 --> 08:59] fore, the Huns breached the walls of the first city they hit, and then the next
+[08:59 --> 09:05] city they hit, and then the next city they hit. This is what really launched the
+[09:05 --> 09:10] Huns into being nightmarish monsters from hell. You couldn't hide from them
+[09:10 --> 09:18] anywhere. So far as I can tell, there is no obvious explanation for why the Huns
+[09:18 --> 09:23] were so much better at siege craft than any other barbarian tribe. But they were,
+[09:23 --> 09:27] and there's speculation that their recurrent service with Aetius and the
+[09:27 --> 09:31] other Roman generals over the last 30 years had led them to pick up a trick or
+[09:31 --> 09:37] two. And though that may be the best rationale, it doesn't really explain why
+[09:37 --> 09:41] the Goths remained so rotten at breaking into walled cities after they had served
+[09:41 --> 09:47] in and around the Roman legions for the last 50 years. So it is a bit of a
+[09:47 --> 09:51] mystery why the Huns were able to crack the nut that so far no other barbarian
+[09:51 --> 09:56] nation had been able to crack. Even the Vandals down in North Africa owed their
+[09:56 --> 10:00] occupation of Carthage more to intimidation and betrayal than to brute
+[10:00 --> 10:09] force. Faced with the stark reality of Hun power, the wind went out of Theodosius
+[10:09 --> 10:16] II's sails. He absolutely had to get the Huns to stop their attacks. His armies
+[10:16 --> 10:21] couldn't stop them, his walls couldn't stop them, so it would have to be the
+[10:21 --> 10:28] Ash. As I said, Attila and Bleda were not messing around this time, and after
+[10:28 --> 10:31] proving beyond any doubt that they could pretty much do whatever they want
+[10:31 --> 10:35] whenever they wanted, it was going to cost the Romans to get them to stop
+[10:35 --> 10:40] doing whatever they wanted whenever they wanted. For starters, that annual
+[10:40 --> 10:46] indemnity that you've been paying, cross out 700 pounds of gold and double it to
+[10:46 --> 10:52] 1400 pounds of gold. Got it? Okay, next, we have captured just scads of
+[10:52 --> 10:57] prisoners. Really, we've got more of them than we know what to do with. Now we can
+[10:57 --> 11:03] either kill them or we'll sell them back to you. Say, at 12 Solidae ahead? A mere
+[11:03 --> 11:09] pittance, we agree, but we're feeling generous. So, are we all good here? Just go
+[11:09 --> 11:15] ahead and put the gold over there. There you go. That's a good little Roman. The
+[11:15 --> 11:19] Huns, temporarily good to their word, withdrew back across the Danube after
+[11:19 --> 11:25] the money was delivered. But the resulting peace cannot have felt at all
+[11:25 --> 11:30] secure to Constantinople. The Eastern legions had been utterly shown up. The
+[11:30 --> 11:34] defenses of key cities had been breached, and the economy of the Central
+[11:34 --> 11:39] Empire was thrashed and about to be overtaxed to pay the Huns to stay out.
+[11:39 --> 11:44] And perhaps most frightening of all, when you got right down to it, nothing more
+[11:44 --> 11:48] than a handshake prevented the Huns from just coming right back over the Danube.
+[11:51 --> 11:55] But the Huns were more honorable than the Romans perhaps gave them credit for, and
+[11:55 --> 11:59] they did indeed stay out of Roman territory for the next few years. It
+[11:59 --> 12:03] wouldn't be until the Romans broke the terms of the treaty that the Huns again
+[12:03 --> 12:08] launched themselves on an invasion. This time, one that would take them to the
+[12:08 --> 12:15] walls of Constantinople itself. While the Central Empire was being ravaged by
+[12:15 --> 12:20] the Huns, Flavius Aetius was doing his best to keep a handle on things in the
+[12:20 --> 12:26] West, which these days had less to do with thinking up sound laws and running a
+[12:26 --> 12:31] competent administration, and more to do with managing an increasingly
+[12:31 --> 12:38] complicated system of treaties with recent barbarian immigrants. In 442, when
+[12:38 --> 12:42] it became clear that no more help would be coming from the East thanks to the
+[12:42 --> 12:47] Hun invasion, Aetius was forced to formally recognize Vandal dominion over
+[12:47 --> 12:53] North Africa. Now I know what you're thinking, but it looks as though included
+[12:53 --> 12:58] in the treaty was a promise from the Vandals to continue the grain shipments
+[12:58 --> 13:05] to Italy, at least in part. Which makes sense when you think about it. The
+[13:05 --> 13:10] economy of North Africa revolved around supplying Italy with food. For Gansaric
+[13:10 --> 13:16] to simply declare a trade embargo would have caused economic chaos in the lands
+[13:16 --> 13:21] he was now trying to rule, probably to the point that his new regime would have
+[13:21 --> 13:27] been fatally destabilized. Plus, cutting off the grain would have essentially
+[13:27 --> 13:32] forced Ravenna to launch a full-scale war against the Vandals, which was not at
+[13:32 --> 13:38] all in Gansaric's best interests. But the deal did not just leave the status quo
+[13:38 --> 13:44] in place, because not accounted for in the treaty was the tax revenue generated
+[13:44 --> 13:50] by all that agricultural production and trade. That, Gansaric claimed for himself,
+[13:51 --> 13:56] cutting off yet another huge source of Imperial revenue. So the Italians would
+[13:56 --> 14:02] not starve to death, but it was getting damn hard for them to afford stuff, like,
+[14:02 --> 14:09] you know, standing armies. This revised treaty with the Vandals in place,
+[14:09 --> 14:14] Etias spent the next few years in Gaul and Hispania attempting to hold on to
+[14:14 --> 14:19] what little tax-paying territory Ravenna had left. What remained of the
+[14:19 --> 14:24] Burgundians were rounded up in 443 and force-marched south, where they were
+[14:24 --> 14:29] settled south of Lake Geneva. Etias then led Roman forces against rebellions,
+[14:30 --> 14:36] incursions, and criminality of every shape and size. Through the mid-440s, he
+[14:36 --> 14:41] fought the Franks and Alans, both of whom were trying to carve out larger niches
+[14:41 --> 14:46] for themselves than Etias could responsibly allow. He also had to deal
+[14:46 --> 14:51] with homegrown gangs of marauders, who had grown into fairly large and organized
+[14:51 --> 14:58] bands. Their homes overrun and the economy in tatters, many dispossessed
+[14:58 --> 15:02] Gallo-Romans joined up with these gangs and started causing all sorts of
+[15:02 --> 15:07] additional havoc for Etias, not just with their persistent harassment of what was
+[15:07 --> 15:11] left of the law-abiding citizens of the region, but also because they were a
+[15:11 --> 15:15] constant threat to his supply and communication lines, as Etias tried to
+[15:15 --> 15:23] small-scale wars on multiple fronts against multiple enemies. But despite the
+[15:23 --> 15:27] fact that he had so many balls in the air, by all accounts, Etias did a
+[15:27 --> 15:33] remarkable job holding things together. Sure, he dropped North Africa, which I
+[15:33 --> 15:36] should mention is the single biggest criticism leveled against him by
+[15:36 --> 15:42] historians in an otherwise unanimous flood of glowing praise, but other than
+[15:42 --> 15:47] that one glaring omission, he managed the European provinces about as well as
+[15:47 --> 15:52] you could hope, given the resources at his disposal. At the very least, it's
+[15:52 --> 15:56] impressive that there was even still a Western Empire for Attila to invade here
+[15:56 --> 16:00] in a couple of years, and even more impressive than that, that there was
+[16:00 --> 16:05] still a Western Empire left after Attila came and went, which Etias gets and
+[16:05 --> 16:14] most of the credit for. Speaking of Attila, after waltzing through the middle
+[16:14 --> 16:18] empire as easily as if they had entered in some kind of cheat code, he and his
+[16:18 --> 16:25] brother led the Huns back north across the Danube in 444. After settling back
+[16:25 --> 16:30] down, however, the nearly inevitable result of having co-rulers occurred, and
+[16:30 --> 16:34] the brothers appear to have turned on one another, each seeking sole control of
+[16:34 --> 16:40] the Hun nation. At least, that's what we presume happened, because in 445,
+[16:40 --> 16:46] Bleda suddenly drops dead, and the universal assumption is that Attila had
+[16:46 --> 16:52] his brother killed. Now the sole ruler of the premier military power in the
+[16:52 --> 16:57] wider Mediterranean world, Attila kicked back to enjoy the fruits of his labor,
+[16:59 --> 17:04] except that Theodosius and his ministers down in Constantinople decided that the
+[17:04 --> 17:08] tracking of solidarity between the two brothers hinted at a larger fracturing
+[17:08 --> 17:15] of Hun unity. Piecing together the cause and effect of all this is no easy job,
+[17:15 --> 17:20] but it looks like the Romans decided to test their theory of internal discord
+[17:20 --> 17:26] among the Huns by abruptly cutting off the indemnity payments. Or, based on some
+[17:26 --> 17:29] math that we'll get to in a second, that they never actually started sending them
+[17:29 --> 17:34] at all, counting on the new rivalry between Attila and Bleda to keep the Huns
+[17:34 --> 17:43] too busy to worry about a few missed carts of gold. By 447, though, Attila had
+[17:43 --> 17:47] emerged victorious from the power struggle, consolidated his authority over
+[17:47 --> 17:53] the whole Hun nation, and was now free to wonder where his money is. The reason it
+[17:53 --> 17:56] is questioned whether the Romans ever sent along a payment after the
+[17:57 --> 18:02] settlement of 442-443 is because of the initial demand Attila delivered to the
+[18:02 --> 18:09] Romans in early 447. His ambassadors to Constantinople presented a bill to
+[18:09 --> 18:15] Theodosius for six thousand pounds of gold, which, when you do the math, covers
+[18:15 --> 18:21] four years worth of missed Roman payments. The Romans rejected the demand.
+[18:22 --> 18:27] They had had four years to consolidate their power along the Danube and were
+[18:27 --> 18:30] itching to see if they could permanently refuse the Hun leg breakers.
+[18:32 --> 18:38] So in early 447, the Roman bill still unpaid, Attila once again led his forces on a
+[18:38 --> 18:44] sweeping invasion of the Central Empire. Once again, the Roman forces were made to
+[18:44 --> 18:50] look like fools. Four years of planning and entrenchment had amounted to exactly
+[18:50 --> 18:56] nothing. A Roman field army met the Huns near the river Utes, and though they were
+[18:56 --> 19:00] unable to inflict more damage on the Huns than any Roman force had ever before
+[19:00 --> 19:06] inflicted on Attila, the legions were soon overwhelmed and scattered, which left
+[19:06 --> 19:11] the road to Constantinople wide open. And that was exactly the road Attila
+[19:11 --> 19:16] intended to take. It was time to plant a flag in the emperor's backyard.
+[19:18 --> 19:26] And his timing could not have been better, because on January 27, 447 AD, a
+[19:26 --> 19:32] massive earthquake struck Constantinople, and you guessed it, the Theodosian walls
+[19:32 --> 19:40] were severely damaged. Broken, crumbled, with enormous gaping holes. This looked
+[19:40 --> 19:46] like it could spell the end for the capital city. Attila the Hun, Attila the
+[19:46 --> 19:51] Hun, was on his way at the head of an army that had thus far proved totally
+[19:51 --> 19:57] invincible, and the only hope of the city, the Theodosian walls, was now a broken
+[19:57 --> 20:03] shell of its former self. And it's not like the people of Constantinople were
+[20:03 --> 20:08] going to get the fortifications rebuilt before the Huns arrived, unless, of course,
+[20:08 --> 20:15] they did. In one of the most remarkable feats of the ancient world, engineers
+[20:15 --> 20:19] and laborers, half out of their minds with fear, worked around the clock at a
+[20:19 --> 20:26] frantic pace to put the Theodosian walls back together. In March of 447, with
+[20:26 --> 20:32] Attila still maybe a hundred miles out, the last brick was laid. In just two
+[20:32 --> 20:36] months, the citizens of Constantinople had completely rebuilt the Theodosian
+[20:36 --> 20:42] walls. And as a result, they now stood a reasonably good chance of turning Attila
+[20:42 --> 20:49] back. Fear, as has been shown in study after study, is probably the single
+[20:49 --> 20:57] greatest motivator in all the world. When Attila reached Constantinople in
+[20:57 --> 21:03] mid-447, a Roman army was mustered to oppose him, but the Huns promptly blew
+[21:03 --> 21:08] through them without even breaking a sweat. This was almost to be expected.
+[21:09 --> 21:14] Then everyone held their breath to see what would happen next. Would the new
+[21:14 --> 21:20] walls hold? The Huns attacked and were repulsed. They attacked some more and
+[21:20 --> 21:26] were repulsed some more. There was nothing the Huns could do. The Theodosian
+[21:26 --> 21:32] walls were impregnable. Attila had taken Sirmium and Gnissus and
+[21:32 --> 21:36] Philippopolis and every other Roman city he had ever laid eyes on, but when
+[21:36 --> 21:42] he hit the Theodosian walls, he was stopped dead in his tracks. So, just like
+[21:42 --> 21:46] every other invading army that would come and go over the next thousand years,
+[21:46 --> 21:52] the Huns were forced to withdraw from Constantinople. But just because there
+[21:52 --> 21:56] was this one thing on earth that could stop the Huns, that didn't mean that
+[21:56 --> 22:01] there was anything else on earth that could stop the Huns. By the end of 447,
+[22:02 --> 22:05] Attila was on the other side of the Sea of Marmara, near the entrance to the
+[22:05 --> 22:11] Hellespont, when he encountered a second branch of the Eastern army. This army
+[22:11 --> 22:14] fared no better than their brothers had fared at Utes and in front of
+[22:14 --> 22:21] Constantinople. The Huns blasted them to smithereens. The East was now
+[22:21 --> 22:25] essentially left without any field armies and, aside from the Theodosian
+[22:25 --> 22:31] walls, left without any way to defend itself. What in the world were they
+[22:31 --> 22:40] going to do now? That question is going to have to wait for next time. And
+[22:40 --> 22:45] unfortunately, next time is going to have to wait a few weeks. I know you are
+[22:45 --> 22:49] as surprised to hear this as I am to say it, but the next History of Rome tour
+[22:49 --> 22:54] has arrived. We will be gone from February the 24th through March the 6th,
+[22:55 --> 22:59] so the next episode of the History of Rome is tentatively scheduled for March
+[22:59 --> 23:05] the 12th, which will be the Sunday after I get back. I'm hoping I'll be able to
+[23:05 --> 23:09] turn that episode around for you so I don't disappear off the grid forever, but
+[23:09 --> 23:14] life is quite a bit more hectic these days than it used to be, so you never
+[23:14 --> 23:20] know. If the episode on March 12th is not going to happen, I promise I'll let you
+[23:20 --> 23:24] know as soon as I know, and I also promise that I'll have a darn good reason
+[23:24 --> 23:29] for not doing it. For those of you who are going on the tour, I can't wait to
+[23:29 --> 23:33] meet you. For those of you who aren't going on the tour, be sure to stop by
+[23:35 --> 23:39] thehistoryofrometour.com. Drop us a line and let us know that you're super sad
+[23:39 --> 23:42] you aren't going this time around, but can't wait to find out when the next
+[23:42 --> 23:47] tour is so that you and your whole family can come along. The History of Rome
+[23:47 --> 23:52] tour is super fun, and I think everyone who has done it so far will attest to
+[23:52 --> 24:00] that. So, I will see you in a few weeks, and for some of you, I will see you in
+[24:00 --> 24:00] a few days.

@@ -1,0 +1,289 @@
+# 20120212 - 169- Huns and Vandals and Goths, Oh My
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:04 --> 00:14] Hello, and welcome to the History of Rome, episode 169, Huns and Vandals and Goths, oh
+[00:14 --> 00:15] my.
+[00:17 --> 00:22] As you know, the Huns have been playing a major role in Roman politics for the last
+[00:22 --> 00:24] fifty years at least.
+[00:24 --> 00:30] Arriving on the Hungarian plain back in the 370s, the Huns sparked a multi-generational
+[00:30 --> 00:36] migration of the former native tribes of the region into Roman territory, which led to,
+[00:36 --> 00:42] among other things, the Battle of Adrianople, the mass invasion of 406, the Sack of Rome,
+[00:43 --> 00:45] and now the vandal takeover of North Africa.
+[00:46 --> 00:52] This is to say nothing of the endless revolts, civil wars, and assassinations, all this demographic
+[00:52 --> 00:57] unrest, had forced the Romans to deal with within their own ranks.
+[00:58 --> 01:04] But for the most part, the Hun impact on the Roman world had thus far been indirect.
+[01:05 --> 01:11] Aside from the brief abortive thrusts of Olden in the early 400s, the Huns had basically
+[01:11 --> 01:13] stayed on the north side of the Danube River.
+[01:15 --> 01:21] Their arrival in the west was an epoch-defining event for the Romans, sure, but mostly in
+[01:21 --> 01:26] a domino toppling sort of way, rather than a I'm punching you directly in the face
+[01:26 --> 01:27] sort of way.
+[01:28 --> 01:30] But that was all about to change.
+[01:31 --> 01:36] New leaders were about to take over the Huns, and new leadership meant new policies, and
+[01:36 --> 01:42] new policies meant new headaches for the Roman Empire, headaches caused by repeated Hun punches
+[01:42 --> 01:43] to the face.
+[01:46 --> 01:52] When Olden died in 412, you'll recall that his coalition split into three major factions.
+[01:54 --> 01:58] Each pursued its own course and was led by its own leaders for the next decade or so,
+[01:58 --> 02:04] but by the mid-420s they began re-coalescing around a pair of brother-kings, who I introduced
+[02:04 --> 02:07] briefly last week, Octar and Rua.
+[02:09 --> 02:14] This re-centralization of Hun power naturally led the brothers to think up ways to use their
+[02:14 --> 02:19] new strength to their advantage, and they hit upon the idea of making the Romans pay
+[02:19 --> 02:21] for the privilege of not being attacked.
+[02:23 --> 02:27] I don't know if they ever actually planned to follow through on the threats they began
+[02:27 --> 02:33] issuing to Constantinople, but I kind of like to think that they didn't.
+[02:33 --> 02:39] That Rua and Octar were fine with just sitting around doing nothing, and were like, hey,
+[02:39 --> 02:43] the Romans don't know that we're fine with just sitting around and doing nothing, so
+[02:43 --> 02:47] let's see if we can trick them into forking over a bunch of gold.
+[02:48 --> 02:54] At some point in the mid-420s, they sent envoys down to Constantinople demanding an annual
+[02:54 --> 02:59] payment of 350 pounds of gold, or we will invade your empire.
+[03:00 --> 03:01] Yeah, that's the ticket.
+[03:02 --> 03:04] Do you think they bought it?
+[03:05 --> 03:07] The Romans did indeed buy it.
+[03:08 --> 03:15] 350 pounds of gold was a lot, but not back-breaking, and the Huns were awfully menacing, what with
+[03:15 --> 03:19] their ridiculous horsemanship and crazy accurate archers.
+[03:20 --> 03:25] So Theodosius II's ministers agreed to the terms, and for the next decade sent along
+[03:25 --> 03:29] the gold every year, and in return the Huns kept right on doing nothing.
+[03:30 --> 03:32] Which is pretty good work, if you can get it.
+[03:34 --> 03:39] This new status quo endured through Octar's death around 430, and continued unchanged
+[03:39 --> 03:42] until the end of Rua's life in 434.
+[03:44 --> 03:51] Now, it is fairly easy to draw a line in the sand between Rua and Octar on one side, and
+[03:51 --> 03:56] Bleda and Attila on the other, and say, well, on this side the Huns were content to indirectly
+[03:56 --> 04:01] influence Roman politics, and on this side they dove headfirst into direct action.
+[04:02 --> 04:03] But it's not quite that simple.
+[04:05 --> 04:10] For one thing, when you get right down to it, granting Aetius's request for a field
+[04:10 --> 04:15] army to go drive Bonifacius from power isn't exactly indirect influence.
+[04:15 --> 04:18] But you could make the case that it really was.
+[04:19 --> 04:24] But what is less debatable is the fact that Rua almost certainly died on the Roman side
+[04:24 --> 04:25] of the Danube.
+[04:25 --> 04:28] And what was he doing on the Roman side of the Danube?
+[04:28 --> 04:30] Was he on some diplomatic mission?
+[04:30 --> 04:32] Doing some sightseeing?
+[04:33 --> 04:36] No, he was leading a Hun invasion of Moesia.
+[04:37 --> 04:42] So the aggressive posture of the Huns in the middle 5th century cannot be solely attributed
+[04:42 --> 04:43] to Attila.
+[04:43 --> 04:46] Clearly, they were moving in that direction already.
+[04:48 --> 04:54] But that said, Attila and his brother Bleda were definitely more aggressive than Rua and
+[04:54 --> 04:56] Octar had been.
+[04:57 --> 05:03] This most recent campaign into Roman territory, for example, was mostly a case of hot pursuit
+[05:03 --> 05:07] taking the Huns across the border than it was an attack on the Romans per se.
+[05:09 --> 05:14] A few subject tribes had tried to break free of Hun domination by fleeing into the empire,
+[05:15 --> 05:18] and rather than let them go, Rua had launched a pursuit.
+[05:18 --> 05:21] International borders and treaties be damned.
+[05:22 --> 05:29] So when he died and Bleda and Attila succeeded him, they and a Hun army were actually in
+[05:29 --> 05:34] Roman territory, which the court of Constantinople was not at all happy about.
+[05:35 --> 05:43] But when imperial envoys went out to remind Rua that, hey, this is exactly the sort of
+[05:43 --> 05:49] by the newly ascended kings Bleda and Attila, who were looking to flex their muscles politically.
+[05:51 --> 05:56] The brothers were happy to leave, they said, but only after the Romans agreed to double
+[05:56 --> 06:03] the annual indemnity to 700 pounds of gold and open up Roman markets to Hun traders without
+[06:03 --> 06:04] barrier or restriction.
+[06:07 --> 06:13] 700 pounds of gold was a lot more than 350 pounds of gold, but given the circumstances
+[06:13 --> 06:18] and a cold calculation of how disastrous a prolonged war with the Huns would be, the
+[06:18 --> 06:23] envoys agreed to the terms and the Huns withdrew back to their side of the Danube.
+[06:25 --> 06:29] Satisfied with the barrel they had just laid the Romans over, Bleda and Attila let the
+[06:29 --> 06:34] empire alone for the time being and instead turned their attention to the other great
+[06:34 --> 06:37] gold egg laying goose, the Sassanids.
+[06:38 --> 06:43] And though it would be five years before the Huns turned their attention back to Rome,
+[06:44 --> 06:48] Attila had learned a very specific lesson from this first encounter with the Romans.
+[06:49 --> 06:53] They could be pushed around, and fairly easily at that.
+[06:57 --> 07:01] Now one of the circumstances that had led Constantinople to so readily agree to pay
+[07:01 --> 07:06] the Huns rather than fight them was the fact that they had recently dispatched a good chunk
+[07:06 --> 07:11] of their available forces to take care of a problem that technically wasn't really
+[07:11 --> 07:12] their problem at all.
+[07:13 --> 07:18] But given how depleted and at each other's throats the Western forces were, somebody
+[07:18 --> 07:22] had to do something about the vandal invasion of North Africa.
+[07:24 --> 07:29] So in 431, Theodosius II had sent troops to North Africa to deal with what was really
+[07:29 --> 07:31] his cousin Valentinian's problem.
+[07:32 --> 07:38] The Eastern expedition was led by the general Aspar, who was the son of Ardabor, the general
+[07:38 --> 07:42] who had gotten Valentinian onto the throne in the first place.
+[07:43 --> 07:49] Aspar and his men were not able to roll back the Vandal tide, but they were able to stabilize
+[07:49 --> 07:55] the situation and pave the way for a treaty between Ravenna and the Vandals.
+[07:55 --> 08:01] Brokered by Aspar in 435, the treaty ceded the Vandals control of Numidia.
+[08:02 --> 08:07] In exchange, the Vandals agreed to stay out of the province of Africa, thus preserving,
+[08:07 --> 08:11] at least for now, Italy's access to the grain it so badly needed.
+[08:14 --> 08:20] Deal with this Vandals in hand, Flavius Aetius, now the dominant general and statesman in
+[08:21 --> 08:27] was able to turn his attention back to Gaul, which he was intent on reimposing order upon.
+[08:28 --> 08:33] If he could get a permanent handle on the myriad independent tribes who now form the
+[08:33 --> 08:38] core of the region's population, he might be able to turn his attention more fully to
+[08:38 --> 08:41] North Africa and expel the Vandals once and for all.
+[08:42 --> 08:48] But despite his best efforts, the provinces of Western Europe would remain a slippery
+[08:48 --> 08:53] that would defy Aetius' attempt to turn his back on them time and time again.
+[08:55 --> 09:01] This time it was the Burgundians in northern Gaul who raised Aetius' blood pressure.
+[09:02 --> 09:07] Having been granted lands by Honorius in the settlements following the fall of Jovenus,
+[09:08 --> 09:13] the Burgundians were now looking to extend their territory westward and began menacing
+[09:13 --> 09:15] their neighbors in Gallia Belgica.
+[09:16 --> 09:22] Aetius led a Roman army against the Burgundians in 436, and the general succeeded in pushing
+[09:22 --> 09:25] them back into their agreed-upon place in the world.
+[09:26 --> 09:32] The victory was complete enough that the Burgundians agreed not only to stay put, but also to pay
+[09:32 --> 09:34] what amounted to a fine for breaking the peace.
+[09:36 --> 09:41] Thinking that this was the end of it, the Roman army withdrew, and the Burgundians got
+[09:41 --> 09:43] to work hustling up the cash they had agreed to pay.
+[09:46 --> 09:49] But that was not the end of it, at least not for Aetius.
+[09:51 --> 09:53] Agreements were nice, but agreements could be broken.
+[09:54 --> 09:58] Aetius wanted a more permanent solution to the problem of Burgundian aggression.
+[10:00 --> 10:05] So he contacted some old friends in the Huns and asked them if they wanted to make a quick
+[10:05 --> 10:05] buck.
+[10:06 --> 10:08] The job was simple.
+[10:08 --> 10:12] Ride into the territory of the Burgundians and slaughter them.
+[10:13 --> 10:15] Every last one of them.
+[10:17 --> 10:21] The Huns agreed because it's not like they had scruples about this sort of thing, and
+[10:21 --> 10:27] in 437 a horde of them rode into town at high speed and commenced a slaughtering.
+[10:28 --> 10:34] Some 20,000 Burgundians were killed in the ensuing massacre, including the old king Gundahar,
+[10:34 --> 10:40] who you'll recall was once upon a time one of the major powers backing Jovinus.
+[10:41 --> 10:46] The Huns did not succeed in snuffing out every last man, woman, and child, but as you can
+[10:46 --> 10:52] imagine, it would be a while before the Burgundians caused any trouble for the Romans again.
+[10:55 --> 11:01] While this slaughter was unfolding, Aetius, Galaplacidia, Valentinian III, and the rest
+[11:01 --> 11:05] of the western court were off on a holiday to Constantinople.
+[11:06 --> 11:11] You may not have noticed because, like his uncle Honorius, Valentinian III isn't really
+[11:11 --> 11:17] much of an emperor, so he gets properly relegated to the background of his own reign, but the
+[11:17 --> 11:21] boy has grown up and just celebrated his 18th birthday.
+[11:22 --> 11:27] So the family traveled to Constantinople to consummate the agreement made by Galaplacidia
+[11:27 --> 11:32] and Elia Pulcheria way back in the early 420s.
+[11:32 --> 11:40] In mid-437, 18-year-old Valentinian III married his 15-year-old cousin, Licinia Eudoxia.
+[11:42 --> 11:47] With the two halves of the Theodosian family reunited, everyone could rest easy, knowing
+[11:47 --> 11:50] that the future of the dynasty was in safe hands.
+[11:51 --> 11:52] What's that you say?
+[11:53 --> 11:59] Valentinian III and Theodosius II are actually destined to be the last blood emperors of
+[11:59 --> 12:00] the Theodosian dynasty?
+[12:01 --> 12:02] Surely not.
+[12:02 --> 12:07] We've got two of them, teenagers mind you, all set to keep this thing in the family.
+[12:08 --> 12:09] It's not going to work out, huh?
+[12:10 --> 12:15] Well, okay, that should be an interesting and bloody transition when we get to it.
+[12:18 --> 12:24] Staying in the east for the moment, the next year saw the publication of Theodosius II's
+[12:24 --> 12:29] one true contribution to world history, a contribution that was apparently undertaken
+[12:29 --> 12:31] of his own initiative.
+[12:33 --> 12:39] Though the Theodosian walls that bear his name are undoubtedly more famous, the walls
+[12:39 --> 12:44] are his in name only, as he was just a kid when they were completed by the Praetorian
+[12:44 --> 12:45] Prefect and Themius.
+[12:47 --> 12:53] But with the publication in 438 of the Code of Theodosius, the Eastern Emperor finally
+[12:53 --> 12:58] had something he could point to and say, that was me, I did that.
+[13:00 --> 13:04] The Code was the culmination of nearly a decade's work.
+[13:05 --> 13:11] In 429, Theodosius had appointed a commission to track down and compile every single law,
+[13:11 --> 13:17] decree, edict, or opinion issued by Roman Emperors since 313 AD.
+[13:19 --> 13:20] Why 313?
+[13:20 --> 13:25] Well, if you'll recall, that was the year after Constantine defeated Maxentius at the
+[13:25 --> 13:31] Milvian Bridge, an occasion now understood to mark the beginning of the Christian Roman Empire.
+[13:33 --> 13:39] Concerned that the Empire's laws had become unwieldy and disorganized, Theodosius wanted
+[13:39 --> 13:45] to create a single source that would define the Empire politically, economically, religiously,
+[13:45 --> 13:48] and culturally for generations to come.
+[13:49 --> 13:55] Most especially, the personally pious Theodosius wanted to establish once and for all that
+[13:55 --> 14:02] Orthodox Christianity and Imperial rule were inseparable, two sides of the same coin.
+[14:05 --> 14:13] Published in 16 volumes, the Code was immediately useful to jurists, but still led to complications
+[14:13 --> 14:14] and confusion.
+[14:15 --> 14:21] Focused almost exclusively on compiling a century's worth of scattered laws, Theodosius's
+[14:21 --> 14:27] commission declined to include any sort of explanatory commentary to help lawyers interpret
+[14:27 --> 14:28] the raw decrees.
+[14:29 --> 14:35] The commission further declined to even make editorial decisions about which of two contradictory
+[14:35 --> 14:41] laws to include in the Code, throwing both in if each was found to be independently authentic.
+[14:43 --> 14:50] As a result, the main legacy of the Theodosian Code was not that it in itself became a lawyer's
+[14:50 --> 14:56] Bible, but rather that it forms a huge chunk of the Code of Justinian.
+[14:59 --> 15:04] Compiled and written a century later, the Justinian Code did become a lawyer's Bible
+[15:04 --> 15:10] that included helpful commentary and a rationalized set of laws that eliminated as many contradictions
+[15:10 --> 15:16] as they could find, all tasks made infinitely easier by the initial work done by Theodosius's
+[15:16 --> 15:18] commission in the 5th century.
+[15:19 --> 15:21] So good work, Theodosius II.
+[15:22 --> 15:27] You alone among your 5th century imperial brothers have managed to do something useful
+[15:27 --> 15:30] and dare I say beneficial for your people.
+[15:33 --> 15:38] While Theodosius was basking in the glow of his own usefulness, Aetius was back in Gaul
+[15:38 --> 15:44] in 438 trying to keep a handle on the anarchic mess that was the Western Empire.
+[15:45 --> 15:51] Suffice it to say, the Theodosian Code is not going to be minded much around these parts
+[15:51 --> 15:52] anytime soon.
+[15:54 --> 15:58] For the rest of the year, Aetius campaigned against one of those still loose tribes that
+[15:58 --> 16:05] had come over in 406 and still held on to some territory in Hispania, and the Goths,
+[16:05 --> 16:08] who were once again trying to break out of the confines of Aquitaine.
+[16:09 --> 16:15] More than anything else, the Gothic king Theodoric wanted to seize the lands to the south of
+[16:15 --> 16:21] Aquitaine and win control of a Mediterranean port for his people, and he must have figured
+[16:21 --> 16:25] that eventually the Romans would be spread thin enough that he'd be able to break through.
+[16:27 --> 16:32] But Aetius himself faced off against Theodoric and once again defeated the Goths in battle.
+[16:33 --> 16:38] Theodoric offered terms of peace, but these were apparently rejected by the Romans as
+[16:38 --> 16:43] being too lenient, so in 439 the Goths went back on the offensive.
+[16:45 --> 16:50] This time however, with Aetius back in Italy, the Roman counter-attack was led by a subordinate
+[16:50 --> 16:55] general who was beaten, captured, and who then died in Gothic captivity.
+[16:57 --> 17:02] The Romans were then forced to agree to terms with the Goths that were even more lenient
+[17:02 --> 17:06] than the terms they had rejected as too lenient just the year before.
+[17:08 --> 17:13] A gallo Roman senator named Avetus brokered a deal that likely involved the Romans recognizing
+[17:13 --> 17:16] the official independence of the Goths.
+[17:17 --> 17:22] That same Avetus would later play a key role in swinging Theodoric and the Goths to the
+[17:22 --> 17:28] Roman side during the Hun invasion of the early 450s, and then a few years after that,
+[17:28 --> 17:33] ascending to the imperial throne as a part of that interesting and bloody post-Valentinean
+[17:33 --> 17:36] III transition I just hinted at.
+[17:36 --> 17:38] But let's not get ahead of ourselves.
+[17:42 --> 17:46] That same year saw the Western Empire dealt another setback.
+[17:47 --> 17:52] Watching as the Romans continued to be tied down with conflicts in the north, the vandal
+[17:52 --> 17:57] king Ganseric decided that he had nothing to gain by adhering to the terms of the treaty
+[17:57 --> 18:00] he had signed with Rome four years earlier.
+[18:00 --> 18:06] Staying put in Numidia would just make him a chump, because after all the rest of North
+[18:06 --> 18:08] Africa was just there for the taking.
+[18:08 --> 18:13] No reason not to go for it, it's not like the Romans are going to be able to do anything
+[18:13 --> 18:14] about it anyway.
+[18:16 --> 18:20] So in 439, Ganseric crossed the border into the province of Africa.
+[18:22 --> 18:27] Taken completely by surprise, the thoroughly inadequate African garrisons proved no match
+[18:27 --> 18:32] for the Vandals, and the barbarians were able to waltz right into Carthage without
+[18:32 --> 18:33] even putting it to a siege.
+[18:35 --> 18:41] With the entire North African coastline, from the Atlantic to modern Tunisia, now under
+[18:41 --> 18:45] his control, Ganseric's ambitions grew proportionally.
+[18:46 --> 18:52] Snatch and grab sackings were fine for nomadic tribes living a predatory existence, but Ganseric
+[18:52 --> 18:56] now fancied himself a civilized king of civilized lands.
+[18:57 --> 19:03] So rather than terrorizing the citizens of Carthage, Ganseric instead embraced them as
+[19:03 --> 19:08] his new loyal subjects, and declared that Carthage would now be the capital of a great
+[19:08 --> 19:09] Vandal kingdom.
+[19:12 --> 19:19] Surprised by this turn of events, the Romanized North Africans, well, embraced their new self-proclaimed
+[19:19 --> 19:20] king right back.
+[19:21 --> 19:25] It's not like Ravenna had been much for worrying about their needs lately.
+[19:26 --> 19:29] Despite the fact that the Vandals had been menacing their homes for the last decade,
+[19:30 --> 19:35] Ravenna had refused to prioritize North African interests, choosing instead to focus on the
+[19:35 --> 19:37] crises consuming continental Europe.
+[19:38 --> 19:44] Now that the Vandals had basically won, the citizens of North Africa greeted Ganseric's
+[19:44 --> 19:49] decision to transform himself into a civilized king who respected the civilized rights of
+[19:49 --> 19:52] people with hope.
+[19:53 --> 19:57] If the Vandal king really wanted to make a go of it, the people of North Africa were
+[19:57 --> 19:59] basically ready to support him.
+[20:00 --> 20:05] The Romans had abdicated their responsibilities, so they were owed no more loyalty.
+[20:07 --> 20:12] Ganseric's occupation of North Africa may have been just that, an occupation, but it
+[20:12 --> 20:16] was not the most actively opposed occupation of all time.
+[20:19 --> 20:25] With the help of his new subjects, Ganseric began to build a massive fleet of ships to
+[20:25 --> 20:27] fulfill his dreams of further conquest.
+[20:29 --> 20:33] Though the Vandals had no real experience with seafaring, Ganseric was determined to
+[20:33 --> 20:39] use the ports of North Africa as a launching pad for the maritime conquest of the Mediterranean
+[20:39 --> 20:39] Sea.
+[20:41 --> 20:46] In less than a year, Vandal ships launched from Carthage and landed on Sicily, where
+[20:46 --> 20:49] they began a systematic seizure of the island.
+[20:50 --> 20:56] From there, they continued to branch out over the next few years, taking control of Sardinia,
+[20:56 --> 20:58] Corsica, and the Balearic Islands.
+[21:00 --> 21:04] The ease with which the Vandals were able to control the Mediterranean is impressive,
+[21:04 --> 21:09] given, as I just mentioned, they were not exactly a seagoing people.
+[21:09 --> 21:11] The Phoenicians, they were not.
+[21:12 --> 21:15] But their exploits should not be too overblown.
+[21:16 --> 21:21] It had been centuries since the Romans had had to deal with a hostile power roaming our
+[21:21 --> 21:27] sea, and the Imperial Navy was not the most built-up or well-trained branch of the armed
+[21:27 --> 21:27] services.
+[21:31 --> 21:37] The sudden emergence of Vandal pirates swarming over the islands of the Mediterranean was
+[21:37 --> 21:41] unprecedented, and no one quite knew how to deal with them.
+[21:43 --> 21:49] In a very real way, Rome was right back where it was before the Punic Wars, with a hostile
+[21:49 --> 21:55] power based in North Africa controlling the seas and menacing the Italian coastline, except
+[21:55 --> 22:00] that instead of being on the rising tide of the bell curve, the Romans are now on the
+[22:00 --> 22:01] receding side.
+[22:02 --> 22:07] I'm sure the ghost of Hannibal looked on with approval, as this time the North African
+[22:07 --> 22:13] maritime power would not be turned back, and instead overwhelmed the Romans and eventually
+[22:13 --> 22:18] sacked the Eternal City, fulfilling the centuries-gone dream of the Barker clan.
+[22:19 --> 22:23] But that, too, is for another busy day.
+[22:25 --> 22:30] Just as had happened after the Vandals initially crossed over into North Africa, their entrance
+[22:30 --> 22:37] onto the waterways of the Mediterranean caught the attention of Constantinople, and in 441
+[22:37 --> 22:41] Theodosius II ordered an expedition to try to stamp them out.
+[22:42 --> 22:47] But after getting as far as Sicily, this expedition was recalled to the east.
+[22:47 --> 22:53] After five years of fighting in and around Armenia without making any appreciable gains,
+[22:53 --> 22:59] the Huns decided that Rome was a far easier target than Sassanid Persia, and returned
+[22:59 --> 23:02] to the Danube frontier thirsty for blood and treasure.
+[23:03 --> 23:09] And as if that wasn't bad enough, the removal of the Hun threat freed up the Sassanid forces,
+[23:10 --> 23:15] who, possibly acting at the prompting of Vandal ambassadors, started attacking Roman positions
+[23:15 --> 23:16] along the eastern border.
+[23:18 --> 23:23] With the Persians attacking in the far east, Bleda and Attila decided that the time was
+[23:23 --> 23:28] ripe to squeeze a little bit more juice out of the empire, and so they began attacking
+[23:28 --> 23:30] Roman positions along the northern border.
+[23:34 --> 23:37] Next week, this will all come to a head.
+[23:39 --> 23:45] Though the Sassanid threat will quickly dissipate, the Vandals were still growing strong, and
+[23:45 --> 23:49] the Hun threat was just getting warmed up.
+[23:49 --> 23:55] Indeed, next week we will see the first major successful Hun invasion of the empire.
+[23:56 --> 24:01] Previous attempts had been half-hearted and short-lived, but this time the Huns meant
+[24:01 --> 24:08] business, and the ravaging of Moesia and Thrace in the early 440s will firmly cement the legend
+[24:08 --> 24:13] in the mind of every Roman that the Huns were as horrifying as they were invincible.

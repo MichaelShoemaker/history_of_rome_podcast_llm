@@ -1,0 +1,318 @@
+# 20120115 - 165- Reviving the Roman Name
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:04 --> 00:13] Hello, and welcome to The History of Rome, episode 165, Reviving the Roman Name.
+[00:16 --> 00:21] In early 412 AD, two forces converged on northern Italy.
+[00:21 --> 00:26] Coming up from the south was Atolf and the Goths, who were now more than a year removed
+[00:26 --> 00:32] from the sack of Rome, but still no closer to finding the permanent home or the permanent
+[00:32 --> 00:35] place in the Roman world that they had been searching for.
+[00:36 --> 00:40] Coming down from the north was Constantius III, commander-in-chief of the Western Roman
+[00:40 --> 00:44] army, who had just whipped two usurpers in the span of a single summer.
+[00:46 --> 00:51] Neither side was entirely sure what the motivations of the other were, so they gently skirted
+[00:51 --> 00:55] around each other trying to get a feel for what the other intended to do.
+[00:55 --> 00:59] Were the Goths going to follow up on their sack of Rome by attacking Ravenna?
+[01:00 --> 01:04] Was Constantius going to go for the hat-trick and press for a decisive battle?
+[01:05 --> 01:10] As it turned out, the answer to both of these questions was a resounding no.
+[01:12 --> 01:17] Atolf was obviously interested in all the things Alaric had been interested in, a homeland
+[01:17 --> 01:23] for the Goths, a regular stipend for his people, and a place in the Roman military order for
+[01:23 --> 01:29] himself personally, but he was not particularly interested in using brute force to get there,
+[01:29 --> 01:31] at least not at the moment.
+[01:32 --> 01:38] Constantius, for his part, opened with a hard line, ordering the Goths to leave Italy immediately,
+[01:39 --> 01:42] but he was clearly not sitting on a hair-trigger.
+[01:43 --> 01:48] A battle with the Goths, even a victorious battle, risked the precious military resources
+[01:48 --> 01:50] of the faltering Western Empire.
+[01:51 --> 01:57] Neither side wanted a battle, and so it was to everyone's great relief that the Goths
+[01:57 --> 02:02] decided to leave Italy without a fight, and Constantius decided to let them go without a fight.
+[02:04 --> 02:10] The man who did the most to convince Atolf to leave Italy was, surprisingly, the deposed
+[02:10 --> 02:12] puppet emperor Priscus Ataullus.
+[02:13 --> 02:18] Just because he had not worked out as an emperor did not mean that the Goths did not still
+[02:18 --> 02:23] value his counsel, and he had stayed on with Alaric as an advisor after the sack of Rome,
+[02:24 --> 02:26] and now served Atolf in the same capacity.
+[02:28 --> 02:33] Ataullus pointed out to the Gothic king that southern Gaul was now not only pacified, but
+[02:33 --> 02:38] in the process of remaking itself politically and economically after five years of chaos.
+[02:38 --> 02:43] It would be the perfect time for the Goths to head over the Alps and stake some kind
+[02:43 --> 02:44] of claim for themselves.
+[02:45 --> 02:51] Atolf was intrigued by the possibility of becoming a power broker in a newly reorganized
+[02:51 --> 02:54] Gaul, and so he ordered his people over the mountains.
+[02:56 --> 03:00] The departure of the Goths was a mixed blessing for Honorius and Constantius.
+[03:01 --> 03:06] Naturally, Ravenna was happy to see them out of Italy, but it's not like Gaul was a really
+[03:06 --> 03:08] super place for them to be setting up shop.
+[03:10 --> 03:15] Jovinus' revolt in Upper Germany was still in full swing, and if the Goths decided to
+[03:15 --> 03:20] join forces with the usurper, then their combined strength might overwhelm the Imperial defenses.
+[03:22 --> 03:26] Worried about this possibility, and about the future safety of the Imperial hostage
+[03:26 --> 03:31] Gallia Placidia, Honorius authorized a payment of gold to greet the Goths when they emerged
+[03:31 --> 03:33] on the far side of the Alps.
+[03:34 --> 03:38] Hopefully, the gold would be enough to keep the Goths at least neutral in the coming showdown
+[03:38 --> 03:43] with Jovinus, and keep Placidia safe until arrangements for her release could be made.
+[03:45 --> 03:50] But the perfunctory down payment was not enough to keep Atolf from exploring his options,
+[03:50 --> 03:55] and as soon as the Gothic horde entered Gaul, they opened up negotiations with Jovinus,
+[03:55 --> 04:00] offering their strength in exchange for all the concessions Honorius had been refusing
+[04:00 --> 04:01] to grant.
+[04:03 --> 04:09] An agreement in principle between the two sides was reached, but then Jovinus made a
+[04:09 --> 04:10] critical blunder.
+[04:11 --> 04:15] Well, actually, who knows if it was Jovinus' blunder.
+[04:15 --> 04:21] Though he was formerly the Emperor, like Priscus Ataullus in Rome, or Maximus in Spain before
+[04:21 --> 04:24] him, he was really just a puppet of the local military.
+[04:25 --> 04:31] In this case, the main powers behind the throne were the Burgundian King Gundahar, and the
+[04:31 --> 04:39] So, it was much more their blunder than Jovinus', but it is less complicated to just group them
+[04:39 --> 04:44] all together under Jovinus' name, since he was the legal authority under which they had
+[04:44 --> 04:45] chosen to operate.
+[04:46 --> 04:51] Anyway, their collective blunder stemmed from an Imperial soap opera that had played out
+[04:51 --> 04:57] down in Ravenna, where ever since the rise of Constantius, the Goth General Saurus had
+[04:57 --> 04:57] fallen from favor.
+[04:59 --> 05:04] This falling out was mutual, however, as Saurus was still nursing a grudge against Honorius
+[05:04 --> 05:09] for not properly punishing the men who had betrayed and executed Stilicho, the man who
+[05:09 --> 05:12] had brought Saurus over to the Roman side in the first place.
+[05:13 --> 05:19] Saurus was also annoyed that one of his retainers had been recently murdered, and no one seemed
+[05:19 --> 05:21] interested in investigating the matter properly.
+[05:23 --> 05:27] With the Goth incessantly complaining about the Emperor's inaction, and Constantius proving
+[05:27 --> 05:32] himself to be an eminently capable military commander, Saurus was pushed out of the Inner
+[05:32 --> 05:34] Circle in 412.
+[05:35 --> 05:40] In a huff, the Goth General sent a note up to Jovinus, offering the usurper his services,
+[05:40 --> 05:45] and he began to march north with a group of 28 still loyal retainers.
+[05:47 --> 05:53] If you recall that the families of Atalth and Saurus were blood enemies, then you can
+[05:53 --> 05:56] probably guess what Jovinus' blunder is going to be.
+[05:56 --> 06:02] The Puppet Emperor accepted Saurus' offer of service, which immediately alienated Atalth
+[06:02 --> 06:08] and opened up a rift between the usurpers on the Rhine and the Goths in southern Gaul.
+[06:08 --> 06:12] Right at the moment when they were about to bind themselves to one another, Saurus walked
+[06:12 --> 06:17] into the picture like a polarized magnet and pushed everyone away from everyone else.
+[06:19 --> 06:24] Not that Saurus ever actually joined up with Jovinus, mind you, Atalth wasn't going to
+[06:24 --> 06:26] let that happen in a million years.
+[06:27 --> 06:32] On their way north, Saurus and his party were met by a force of Goths that Olympia Doris
+[06:32 --> 06:39] reports as being at least 10,000 strong, which may have been a bit of an overkill, but hey,
+[06:40 --> 06:42] blood enemies deserve the red carpet treatment.
+[06:43 --> 06:49] Saurus apparently staged a brave last stand, but you know, the outcome is never really
+[06:49 --> 06:52] out when it's 28 against 10,000.
+[06:55 --> 07:00] With Saurus out of the picture, relations between Jovinus and Atalth should have improved,
+[07:00 --> 07:04] but the bad blood that had been generated continued to poison their relations.
+[07:06 --> 07:11] Shortly after Saurus' death, the barbarian kings backing Jovinus decided to elevate their
+[07:11 --> 07:14] puppet's brother, Sebastianus, to serve as co-emperor.
+[07:15 --> 07:20] This unilateral move to expand the Imperial College without even discussing it with him
+[07:20 --> 07:22] offended Atalth mightily.
+[07:23 --> 07:27] If the Goths were going to play a meaningful role in an alliance, then they were going
+[07:27 --> 07:30] to have to be consulted when it came time to elevate new leaders.
+[07:31 --> 07:36] Already in a mood to be ticked off by the actions of Jovinus' court, Atalth was ticked
+[07:36 --> 07:39] off by the actions of Jovinus' court.
+[07:40 --> 07:44] So instead of the Goths and the Rhine armies joining forces and potentially overrunning
+[07:44 --> 07:49] Constantius and the Imperial Legions, Atalth sent a message down to Constantius, saying
+[07:49 --> 07:55] hey, turns out I don't like these guys any more than you do, so what say we join forces
+[07:55 --> 07:57] and whack them back into the Stone Age?
+[07:59 --> 08:04] Constantius, who was more than happy to let the Goths take the lead in attacking Jovinus,
+[08:04 --> 08:07] agreed that an alliance was a mighty fine idea.
+[08:10 --> 08:18] So, either in the autumn of 412 or the spring of 413, Atalth and the Goths advanced north
+[08:18 --> 08:24] to confront the forces of Jovinus and Sebastianus, and by that I mean, of course, the forces
+[08:24 --> 08:26] of Gundahar and Goar.
+[08:28 --> 08:33] The two sides faced off at some indeterminate location in central Gaul, and the Goths carried
+[08:33 --> 08:36] the day, capturing Sebastianus in the process.
+[08:36 --> 08:42] The junior puppet was handed over to the prefect of Gaul, who immediately had him executed.
+[08:43 --> 08:48] Definitely now in 413, Atalth followed up his victory by laying siege to Jovinus at
+[08:48 --> 08:51] Valentia in south central Gaul.
+[08:52 --> 08:57] Valentia soon fell, Jovinus was captured, and like his brother, was executed by the
+[08:57 --> 08:58] prefect of Gaul.
+[08:59 --> 09:03] The heads of both brothers were then sent down to Ravenna, where they were publicly
+[09:03 --> 09:08] displayed, before being sent down to the North African port of Carthage, where they
+[09:08 --> 09:14] were publicly displayed again, to warn off anyone contemplating insurrection in the bread
+[09:14 --> 09:15] basket of the Western Empire.
+[09:18 --> 09:23] Atalth's quick work against Honorius' enemies re-cemented the positive working relationship
+[09:23 --> 09:28] between the Goths and the Romans that had been shattered by the death of Stilicho five
+[09:28 --> 09:29] years earlier.
+[09:30 --> 09:37] Atalth certainly saw bright enough days ahead that on January 1, 414 AD, he forged a familial
+[09:37 --> 09:42] alliance between the two nations by marrying his imperial hostage, Gallia Placidia.
+[09:44 --> 09:49] Hinting at his long-term ambitions, Atalth wed Placidia in a traditional Roman wedding,
+[09:50 --> 09:54] and himself wore the uniform of a high-ranking Roman general for the occasion.
+[09:55 --> 10:01] Like his brother before him, Atalth was clearly angling for an official position within the
+[10:01 --> 10:07] Roman ranks, and as the new brother-in-law of the Western Emperor, how was he to expect
+[10:07 --> 10:08] anything less?
+[10:09 --> 10:15] Further evidence of Atalth's intentions comes to us by way of Erosius, a contemporary, that
+[10:15 --> 10:21] is contemporaneous, Christian historian who published a history of the Roman Empire in
+[10:21 --> 10:22] 417 or 418.
+[10:23 --> 10:29] In this history, he reports that upon marrying Placidia, Atalth declared that, and I'm quoting
+[10:29 --> 10:30] a bit here,
+[10:31 --> 10:37] At first, I wanted to erase the Roman name, and convert all Roman territory into a Gothic
+[10:37 --> 10:38] Empire.
+[10:39 --> 10:45] I longed for Romania to become Gothia, and Atalth to be what Caesar Augustus had been.
+[10:47 --> 10:52] But long experience has taught me that the ungoverned wildness of the Goths will never
+[10:52 --> 10:56] submit to laws, and that without law, a state is not a state.
+[10:57 --> 11:03] Therefore, I have more prudently chosen the different glory of reviving the Roman name
+[11:03 --> 11:09] with Gothic vigor, and I hope to be acknowledged by posterity as the initiator of a Roman restoration,
+[11:10 --> 11:13] since it is impossible for me to alter the character of this Empire.
+[11:16 --> 11:20] Now, of course, Atalth never actually said this.
+[11:20 --> 11:25] As was the case with ancient histories, the actual speech would have been written by Erosius.
+[11:26 --> 11:30] But it is entirely plausible that Atalth would have said something like this.
+[11:31 --> 11:36] The Roman Empire was weakening by the day, but even in its current state of decay, it
+[11:36 --> 11:41] was still too powerful for the Goths to simply overthrow and replace with something else.
+[11:42 --> 11:48] It is thus reasonable to presume that Atalth's ambitions were now firmly focused on creating
+[11:48 --> 11:54] a Gothic ascendancy within the framework of the Empire, by way of the family he was creating
+[11:54 --> 11:59] with Gallia Placidia, and by way of the son she would hopefully soon bear for him.
+[12:00 --> 12:05] Like the Spanish nobles who took over the Empire in the second century, and the Illyrian
+[12:05 --> 12:11] generals who took it over in the third century, with a little luck the fifth century would
+[12:11 --> 12:16] belong to the Goths, who would give the Empire just the shot in the arm it needed.
+[12:19 --> 12:25] The tantalizing prospect of Romanized Goths stepping in and forging a new dynasty that
+[12:25 --> 12:31] would rule the Western Empire and return it to its proper place of power and glory was
+[12:31 --> 12:36] brought remarkably close to fruition nine months later, when Gallia Placidia gave birth
+[12:36 --> 12:37] to a healthy baby boy.
+[12:39 --> 12:45] When you look around the Imperial family circa 414, you can see just how close that boy came
+[12:45 --> 12:47] to inheriting the Empire.
+[12:49 --> 12:54] Honorius himself had no children, and showed no interest in ever fathering any children.
+[12:55 --> 13:01] His late brother Arcadius had died after fathering four children, the boy Theodosius II, who
+[13:01 --> 13:07] was currently reigning in Constantinople, and three daughters, the rising power that
+[13:07 --> 13:13] was Elia Pulcheria, and her two younger sisters, Arcadia and Marina, all three of whom appear
+[13:13 --> 13:20] to have taken a vow of virginity after their brother was made Augustus, so not much chance
+[13:20 --> 13:23] of any new heirs coming any time soon from that side of the family.
+[13:25 --> 13:32] Arcadius and Honorius had the one living sister, Gallia Placidia, who had thus far given birth
+[13:32 --> 13:34] to no children, until now.
+[13:36 --> 13:41] So if Honorius were to die any time soon, that meant that the only living male in the
+[13:41 --> 13:48] Imperial family who was not already an emperor was the newborn son of Atoph and Placidia,
+[13:48 --> 13:50] named Theodosius after his grandfather.
+[13:55 --> 14:00] But just as the Empire seemed poised to give itself over to the Goths, the course of history
+[14:00 --> 14:02] suddenly shifted again.
+[14:03 --> 14:09] Constantius III knew darn well what the implications would be if Atoph and the Goths wormed their
+[14:09 --> 14:11] way into the Imperial power structure.
+[14:11 --> 14:15] He'd be fired from his job, and most likely executed.
+[14:17 --> 14:21] So he convinced Honorius to sanction an offensive against the Goths, who, he assured the emperor,
+[14:22 --> 14:27] were up to all manner of nefarious double dealings and sinister agenda pushings.
+[14:28 --> 14:33] The emperor was already unhappy that the barbarian king had made a wife of his sister, and so
+[14:33 --> 14:38] he approved Constantius' plan to break Atoph and the Goths, despite the good work they
+[14:38 --> 14:40] had just done on his behalf.
+[14:42 --> 14:47] Constantius got to work at once, blockading the ports of Gaul, with the aim of starving
+[14:47 --> 14:48] the Goths into submission.
+[14:50 --> 14:55] Shocked by this betrayal, and it was a betrayal, Atoph renounced his alliance with Honorius,
+[14:55 --> 15:00] and elevated yet another puppet emperor to swear his allegiance to.
+[15:01 --> 15:06] And since, hey, why not, he's here and still technically a Roman senator, Atoph decided
+[15:06 --> 15:10] to re-elevate Priscus Ataullus to the rank of Augustus.
+[15:12 --> 15:18] But the second reign of Priscus Ataullus went no smoother than the first, and in the end
+[15:18 --> 15:20] it would only last for a few months.
+[15:21 --> 15:26] Constantius' blockade was effective enough, but Atoph decided the Goths could no longer
+[15:26 --> 15:31] survive in Gaul, and he led them west, across the Pyrenees and into Hispania.
+[15:33 --> 15:39] Along the way, Ataullus either ran away or was purposely ditched, and he was soon picked
+[15:39 --> 15:40] up by imperial agents.
+[15:41 --> 15:46] He would be kept under house arrest until he could be paraded in an official triumph
+[15:46 --> 15:52] in 416, after which he was exiled to a small island off the coast of Sicily.
+[15:53 --> 15:58] No word on whether the local birds made him emperor for a third time.
+[16:01 --> 16:07] It was after the Goths arrived in Barcelona in late 414 that Placidia gave birth to young
+[16:07 --> 16:08] Theodosius.
+[16:08 --> 16:15] But as 414 gave way to 415, fate delivered a cruel blow to the mother's love and the
+[16:15 --> 16:16] father's ambition.
+[16:17 --> 16:24] The infant Theodosius, half-Goth heir to the Western Empire, died in early 415.
+[16:25 --> 16:29] As quickly as hopes had been raised that the Goths would become the new masters of Rome,
+[16:30 --> 16:32] those hopes were dashed.
+[16:33 --> 16:38] Ataullus now presided over a harried and hungry tribe that was trapped between an imperial
+[16:38 --> 16:44] blockade and the Germanic tribes, among them the Vandals and Alans, who had already taken
+[16:44 --> 16:46] the best parts of the Spanish peninsula.
+[16:48 --> 16:52] But Ataullus did not have to fret over the plight of his people for long.
+[16:53 --> 17:00] After killing Sarus in 412, Ataullus had magnanimously agreed to take his blood-enemy surviving
+[17:00 --> 17:02] supporters into his retinue.
+[17:03 --> 17:08] One of them would prove to be a ticking time bomb that finally went off in 415.
+[17:09 --> 17:14] While Ataullus was taking a bath, this secretly revenge-minded retainer entered the chamber
+[17:14 --> 17:16] and murdered him.
+[17:19 --> 17:23] The sudden murder of their king had two major effects on the Goths.
+[17:23 --> 17:29] First, it sent their political order spinning into chaos, and second, it was debilitating
+[17:29 --> 17:30] to general morale.
+[17:32 --> 17:37] When Alaric had died, Ataullus was right there, ready, willing, and able to step into his
+[17:37 --> 17:38] brother's shoes.
+[17:39 --> 17:44] But when Ataulf died, there was no clear-cut replacement waiting in the wings, and so a
+[17:44 --> 17:45] power struggle ensued.
+[17:47 --> 17:52] Seeing the throne open and resting his legitimacy on better-to-ask forgiveness than permission,
+[17:53 --> 17:58] a noble named Segeric bypassed the usual election process and seized the crown for himself,
+[17:59 --> 18:02] possibly within hours of Ataulf's death.
+[18:03 --> 18:09] Segeric is a doubly interesting figure, because he was the brother of Saras, and thus came
+[18:09 --> 18:14] from the minority faction that had long chafed under the rule of Alaric and Ataulf's families.
+[18:15 --> 18:20] So this was not just a power grab, it was a power grab by the long-standing enemies
+[18:20 --> 18:22] of the entrenched parties.
+[18:24 --> 18:29] Segeric's attempt to realign Gothic politics, however, quickly fell apart, and just seven
+[18:29 --> 18:35] days after seizing the crown, he himself was assassinated and replaced by a cousin of Alaric
+[18:35 --> 18:38] and Ataulf's named Wallia, or Wallia.
+[18:40 --> 18:45] Wallia, supported by the majority of the Goths in Barcelona, was able to hold on to power
+[18:45 --> 18:51] until his death in late 418 or early 419, a short reign that will see relations between
+[18:51 --> 18:53] the Romans and Goths repaired.
+[18:54 --> 19:00] But instead of the Goths dictating terms as Alaric and Ataulf had envisioned, Wallia would
+[19:00 --> 19:04] be forced to accept that it would be the Romans who dictated the terms in the end.
+[19:07 --> 19:13] The fact that Wallia could relent to Roman pressure, accept vassal status for his people,
+[19:13 --> 19:19] which he is about to do, and maintain his hold on power, is proof of the second great
+[19:19 --> 19:21] consequence of Ataulf's death.
+[19:22 --> 19:26] That morale within the Gothic ranks was driven to pretty dismal lows.
+[19:28 --> 19:31] Since the death of Stilicho, they had been on a pretty good run.
+[19:32 --> 19:37] They had been reinforced by the remains of Radagaisus's army, laid successful siege
+[19:37 --> 19:43] to Rome, and then gotten paid a pretty penny to go away, came this close to forcing Honorius
+[19:43 --> 19:49] to give them independence and a cash stipend, sacked Rome without breaking a sweat, defeated
+[19:49 --> 19:52] Jovinus and Sebastianus without breaking a sweat.
+[19:53 --> 19:56] But suddenly, the well of good fortune had dried up.
+[19:57 --> 20:02] Now they were wedged into a corner of Spain, the architects of their success dead and everyone
+[20:02 --> 20:03] else starving.
+[20:04 --> 20:08] Fortune, she is a great and terrible mistress.
+[20:10 --> 20:16] So, one of Wallia's first acts upon becoming the new king of the Goths was to open negotiations
+[20:16 --> 20:17] with Constantius.
+[20:18 --> 20:23] The Roman general announced that he was happy to lift the blockade and hand over all the
+[20:23 --> 20:26] grain the Goths would ever need, on two conditions.
+[20:27 --> 20:33] First, the Goths must fight for Rome, rather than for themselves, and in effect become
+[20:33 --> 20:35] little more than a division within the Roman army.
+[20:36 --> 20:41] Second, they must surrender the emperor's sister, Gallia Placidia.
+[20:43 --> 20:48] Wallia and his advisors considered these terms and decided they could live with them.
+[20:48 --> 20:53] After all, we're not the ones who had given up on the alliance we formed against Jovinus.
+[20:53 --> 20:54] That was all on you.
+[20:55 --> 20:57] If you want us to fight your battles for you, that's fine.
+[20:57 --> 20:59] We've done it before.
+[20:59 --> 21:03] Just, you know, don't blockade us into submission when we're done.
+[21:05 --> 21:09] As to Gallia Placidia, well, she was a mighty valuable chip.
+[21:10 --> 21:16] But sometimes you have to cash in your mighty valuable chips to get stuff you need, like
+[21:16 --> 21:19] food, so that your children don't starve to death.
+[21:21 --> 21:25] So in 415, Wallia cashed Gallia Placidia in for food.
+[21:26 --> 21:29] Which means that I misspoke last week when I said it would be a full decade before she
+[21:29 --> 21:31] was released from Gothic custody.
+[21:32 --> 21:33] I'm not entirely sure why I said that.
+[21:34 --> 21:35] It was only about five years.
+[21:36 --> 21:38] I just misread the dates, I guess.
+[21:38 --> 21:40] Sorry about that.
+[21:42 --> 21:46] Deal with the Goths in hand, Constantius knew exactly what he wanted to do with his new
+[21:46 --> 21:47] auxiliary army.
+[21:48 --> 21:53] He wanted them to retake the Spanish peninsula from those still loose barbarian squatters
+[21:53 --> 21:56] who had set up shop there.
+[21:57 --> 22:03] Wrenching back control of Spain from these tribes, mostly Alon and Vandal, was not just
+[22:03 --> 22:08] a matter of satisfying Roman pride, or making the map look clean and pretty again.
+[22:08 --> 22:11] It was a matter of raw economic calculation.
+[22:12 --> 22:15] Their presence was disrupting the collection of taxes.
+[22:17 --> 22:22] Hispania had always been a well-insulated cash cow for the Western Empire.
+[22:23 --> 22:26] But now, suddenly, the milk had dried up.
+[22:27 --> 22:32] Which was a terrible development, because Spain had been just about the last steady
+[22:32 --> 22:35] contributor to the Imperial coffers over the last few years.
+[22:36 --> 22:39] Italy had been ransacked by the Goths.
+[22:39 --> 22:44] Gaul had been overrun by barbarians in civil war, so it was not like there was a lot coming
+[22:44 --> 22:45] in to begin with.
+[22:46 --> 22:51] The loss of Spain was making the Imperial position completely untenable.
+[22:53 --> 22:59] On top of all that, the island of Britannia was looking more and more like it was never
+[22:59 --> 23:00] coming back into the Roman fold.
+[23:02 --> 23:08] In fact, I buzzed past this last week, but historians tend to date the permanent abandonment
+[23:08 --> 23:11] of Britain by the Romans to 410 AD.
+[23:12 --> 23:18] After expelling Constantine III's officers, and taking the defense of the island into
+[23:18 --> 23:24] their own hands, the local Britons found themselves outgunned by the incoming Saxon pirates.
+[23:25 --> 23:30] So they wrote to Honorius, requesting a new garrison to help protect them.
+[23:30 --> 23:36] Honorius replied that he could spare no resources, and that Britain must look out for itself.
+[23:37 --> 23:42] Now had things gone a little different, this might have wound up being merely a temporary
+[23:42 --> 23:43] retreat.
+[23:44 --> 23:48] But things didn't go different, and the Romans never did go back.
+[23:50 --> 23:55] It would be a few generations before cultural Romano-Britain gave way to its Anglo-Saxon
+[23:55 --> 24:02] successor, but politically and militarily, Britannia was lost to the Empire for good.
+[24:05 --> 24:10] Which is why it was so important to circle the wagons and make sure that the same thing
+[24:10 --> 24:12] didn't happen to Spain.
+[24:14 --> 24:19] So next week, Constantius will direct the Goths to begin operations against the Alans
+[24:19 --> 24:20] and Vandals at once.
+[24:22 --> 24:27] The interesting thing though, is that while the Gothic offensive will be mostly successful,
+[24:28 --> 24:33] it will be mostly successful against the Alans, who were, at the moment, the strongest of
+[24:33 --> 24:35] the barbarian tribes in Hispania.
+[24:37 --> 24:42] By focusing their attention, correctly, on the Alans, the Goth offensive will unfortunately
+[24:42 --> 24:45] prove to be somewhat less successful against the Vandals.
+[24:46 --> 24:51] And if you've read ahead, you know that the failure to crush the Vandals will wind up
+[24:51 --> 24:54] having fairly disastrous consequences for Rome.
+[24:55 --> 25:01] Because, though Spain had long been an insulated cash cow for the Empire, the even more insulated
+[25:01 --> 25:05] and even bigger cash cow had always been North Africa.
+[25:08 --> 25:09] What's that you say?
+[25:09 --> 25:14] In just a few short years, something called the Vandal Kingdom is going to appear in North
+[25:14 --> 25:15] Africa?
+[25:16 --> 25:17] That can't be good.
+[25:18 --> 25:20] That can't be good at all.
+[25:42 --> 25:43] The Vandal Kingdom is going to appear in North Africa?
+[25:43 --> 25:43] 
+[25:43 --> 25:43] That can't be good at all.
+[25:43 --> 25:43] 

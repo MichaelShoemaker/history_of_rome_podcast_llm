@@ -1,0 +1,301 @@
+# 20110904 - 150- The Perils of Mismanagement
+# Detected language: en
+# Duration: 1479.05 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:16] Hello, and welcome to the History of Rome, Episode 150, The Perils of Mismanagement.
+[00:16 --> 00:22] In the winter of 368 AD, Valentinian was in the northern capital of Trier, making plans
+[00:22 --> 00:26] to overhaul the fortifications of the Rhine frontier.
+[00:26 --> 00:31] The whole region had been a disrupted mess since the revolt of Magnentius back in 350,
+[00:31 --> 00:36] and though Julian had done much to restore order, since the apostate emperor had gone
+[00:36 --> 00:41] east to meet his destiny, the west had slipped back into chaos.
+[00:41 --> 00:47] This was partly due to the increasing entropy of the time, but it was also due to Valentinian's
+[00:47 --> 00:51] own mishandling of the situation.
+[00:51 --> 00:55] Now that things in Britannia were back in hand, and the Alamanni had been defeated
+[00:55 --> 01:01] in battle, the emperor was of a mind that it was time to re-cement Roman power.
+[01:01 --> 01:06] The only problem was that Valentinian's plan was so aggressive that it had the exact opposite
+[01:06 --> 01:10] effect.
+[01:10 --> 01:14] When the spring of 369 arrived, Valentinian ordered his troops to begin repairing and
+[01:14 --> 01:21] rebuilding various forts along the Roman side of the Rhine, which so far so good.
+[01:21 --> 01:25] But then the emperor took the provocative step of ordering his men to build a fort
+[01:25 --> 01:30] on the far side of the river, near the spot where the Romans and Alamanni had fought the
+[01:30 --> 01:35] year before, just south of the modern city of Heidelberg.
+[01:35 --> 01:39] Envoys from the Alamanni immediately protested the existence of a permanent Roman base in
+[01:39 --> 01:43] their territory, and they asked for an audience with Valentinian.
+[01:43 --> 01:49] But as was the emperor's apparent custom, this request was denied.
+[01:49 --> 01:55] Once again, the Alamanni left the imperial court furious and hot for blood.
+[01:55 --> 02:02] Where there had just been a tentative peace, there was now once again a pretext for war.
+[02:02 --> 02:07] The new leader of the Alamanni, a wily king named Macrianus, quickly organized a strike
+[02:07 --> 02:12] force that began attacking the soldiers working on the offending base until the Romans were
+[02:12 --> 02:16] driven off and the half-built fort was destroyed.
+[02:17 --> 02:23] This, of course, ticked Valentinian off something fierce, but after his near-death experience
+[02:23 --> 02:29] at the end of 368, he was wary of just up and invading Alamanni territory again.
+[02:29 --> 02:33] At least, not without stacking the deck a little.
+[02:33 --> 02:39] So in 370, he presented a plan to the Burgundians, another German confederation who lived a little
+[02:39 --> 02:43] bit deeper into the interior of Germania.
+[02:43 --> 02:47] They were already enemies of the Alamanni, and so Valentinian suggested that they just
+[02:47 --> 02:55] do what he knew they wanted to do, which was go on the offensive against their neighbors.
+[02:55 --> 02:59] Valentinian promised to support the effort, and implied that once battle was joined, that
+[02:59 --> 03:03] the Romans would cross over and attack the Alamanni from the rear.
+[03:03 --> 03:09] But though the supplies were promised, the whole bit about joining in the fight was merely
+[03:09 --> 03:10] implied.
+[03:10 --> 03:16] When the Burgundian envoys pressed for a guarantee, the Romans were reluctant to provide it.
+[03:16 --> 03:21] So the Burgundians asked for an audience with Valentinian, but as was now standard operating
+[03:21 --> 03:24] procedure, they were refused.
+[03:24 --> 03:29] Annoyed by this rebuke, and without much to go on but the manipulative prodding of the
+[03:29 --> 03:37] Romans, the Burgundians returned home, declining to raise a hand against the Alamanni.
+[03:37 --> 03:41] But the talks did turn out to stack the deck just a little in Rome's favor.
+[03:41 --> 03:46] When the Alamanni caught wind of a possible Roman-Burgundian alliance, they decided the
+[03:46 --> 03:49] most prudent response would be to scatter.
+[03:49 --> 03:54] When Valentinian heard that the Alamanni forces were decentralized, he immediately prepared
+[03:54 --> 03:56] for another invasion.
+[03:56 --> 04:00] This one to be led by the emperor's newly minted master of the horse, and all around
+[04:00 --> 04:05] Mr. Fixit, Theodosius the Elder.
+[04:05 --> 04:10] Theodosius had come back from Britannia at the end of 369, and was now clearly the one
+[04:10 --> 04:13] man Valentinian had confidence in.
+[04:13 --> 04:21] A confidence that he would prove himself worthy of over and over again.
+[04:21 --> 04:27] At some point in 371 or 372, Theodosius gathered up an army in the province of Rhaetia, and
+[04:27 --> 04:31] then crossed over into Alamanni territory.
+[04:31 --> 04:35] With no one part of the scattered German confederation large enough to fend off the Roman advance,
+[04:36 --> 04:42] Theodosius was able to sweep through the territory, rounding up hordes of prisoners in the process.
+[04:42 --> 04:47] These prisoners were then deposited in the Po valley of northern Italy, where in return
+[04:47 --> 04:51] for their lives, they were to become settled farmers and willing recruits for the Roman
+[04:51 --> 04:54] army.
+[04:54 --> 04:59] In the midst of this campaign, Theodosius nearly captured Macrianus, but the Alamanni
+[04:59 --> 05:02] king managed to slip away.
+[05:02 --> 05:07] But that did not stop Theodosius from imposing a new order on the Germans.
+[05:07 --> 05:12] A pro-Roman chieftain was raised up, and the other Alamanni nobles were forced to submit
+[05:12 --> 05:14] to his supremacy.
+[05:14 --> 05:19] It was a top-down imposition of authority that would wind up holding no real force once
+[05:19 --> 05:24] the Romans withdrew, but it was some nice wrapping paper around a very successful campaign
+[05:24 --> 05:29] season for Theodosius.
+[05:29 --> 05:33] Though this would not be the end of the wars against the Alamanni, this was enough of a
+[05:33 --> 05:38] settlement for Valentinian that the emperor thought it safe to transfer his Mr. Fix-It
+[05:38 --> 05:45] down to North Africa, which had suddenly become the new crisis center of the Western Empire.
+[05:45 --> 05:51] Apparently, some kind of revolt had broken out, and there were conflicting reports coming
+[05:51 --> 05:58] in about what was really going on, who was fighting for what, and who was to blame.
+[05:58 --> 06:03] At the center of the maelstrom was Romanus, the dukes of the North African legions who
+[06:03 --> 06:08] is unquestionably the villain of this story.
+[06:08 --> 06:14] Romanus was exactly the sort of greedy nihilist that you just really want in a high-ranking
+[06:14 --> 06:19] position of authority in a territory that you are just barely holding onto.
+[06:19 --> 06:22] He was a disaster.
+[06:22 --> 06:29] Without him around, I doubt any of what's about to happen would have happened.
+[06:29 --> 06:34] Above and beyond the petty corruption that usually accumulates around ethically challenged
+[06:34 --> 06:40] leaders, Romanus had developed a truly sinister means of enriching himself.
+[06:40 --> 06:44] Once the various municipalities of North Africa had paid all their taxes and sent along all
+[06:44 --> 06:49] the required conscripts to fill the ranks of the army, Romanus would go around and ask
+[06:49 --> 06:51] for more.
+[06:51 --> 06:54] More money and more men.
+[06:54 --> 06:59] If the municipalities balked, then Romanus would hint darkly that, you know, should Moorish
+[06:59 --> 07:05] raiders attack your city, my men might be too occupied to come help you.
+[07:05 --> 07:10] But if you pay up, then I'll make sure we come running.
+[07:10 --> 07:15] Most of the cities gave in to this blackmail, but there were a few who refused.
+[07:15 --> 07:17] And this is where things get ugly.
+[07:17 --> 07:21] You see, Romanus wasn't bluffing.
+[07:21 --> 07:26] He used his contacts with various Moor tribes to hint to them that if they were planning
+[07:26 --> 07:30] on attacking such and such a city, that it was highly likely the legions would be occupied
+[07:30 --> 07:35] elsewhere and not make it in time to stop them.
+[07:35 --> 07:40] The Moors, given the green light, would then come down out of the hills and sack the city.
+[07:40 --> 07:44] Romanus would not lift a finger to help.
+[07:44 --> 07:48] The dukes of North Africa then was not just corrupt or negligent.
+[07:48 --> 07:55] He was ordering attacks on the very people he was supposed to be protecting.
+[07:55 --> 08:00] The citizens of Africa naturally began to complain to the emperor, but refusing to be
+[08:00 --> 08:05] anything but just a terrible, terrible guy, Romanus used his connections in the imperial
+[08:05 --> 08:10] court to pin all of his crimes on innocent subordinates.
+[08:10 --> 08:15] This led about the situation, Valentinian ordered the execution of a handful of officials
+[08:15 --> 08:21] who, besides having nothing at all to do with Romanus' crimes, had probably tried to stop
+[08:21 --> 08:27] him, which is why Romanus had singled them out for framing.
+[08:27 --> 08:34] In 372, this all finally became too much for a Romano Moorish noble named Firmus.
+[08:34 --> 08:40] Firmus was the son of a half Moor, half Roman leader, whose family played a dual role in
+[08:40 --> 08:42] Roman Africa.
+[08:42 --> 08:46] On the one hand, they served as high-ranking officials in the imperial bureaucracy, and
+[08:46 --> 08:53] on the other hand, they served as the leaders of a local Moorish tribe.
+[08:53 --> 08:58] Romanus was offensive to both halves of Firmus' identity, and with the emperor successfully
+[08:58 --> 09:04] hoodwinked into supporting the evil dukes, Firmus decided to take matters into his own
+[09:04 --> 09:06] hand.
+[09:06 --> 09:10] Backed by the legionary forces under his command, Firmus raised the standard of revolt
+[09:10 --> 09:17] and called for the people to join his cause.
+[09:17 --> 09:21] The uprising came as something of surprise up in Trier, where Valentinian was now more
+[09:21 --> 09:27] or less permanently based, because, after all, hadn't he taken care of this problem?
+[09:27 --> 09:29] Hadn't he just executed a bunch of guys?
+[09:29 --> 09:34] Why was there now suddenly a revolt?
+[09:34 --> 09:39] To answer these questions, Valentinian dispatched Theodosius to investigate.
+[09:39 --> 09:43] There is speculation that the emperor was already at this point pretty sure that he
+[09:43 --> 09:48] had been lied to, and that Theodosius was being sent down to Africa, as much to deal
+[09:48 --> 09:54] with the problem of Romanus as he was to deal with the revolt of Firmus.
+[09:54 --> 09:58] We don't know when exactly Theodosius arrived in Africa, other than that it was sometime
+[09:58 --> 10:05] between 372 and 375, which isn't very satisfying, but we do know that when he got there, he
+[10:05 --> 10:13] was able to quickly establish that Romanus was guilty as sin, and the dukes was arrested.
+[10:13 --> 10:19] With Romanus taken care of, Firmus lost his causes belly, and so immediately attempted
+[10:19 --> 10:23] a reconciliation with Theodosius and the rest of the Roman authorities.
+[10:23 --> 10:28] But Theodosius was not going to let him off that easy.
+[10:28 --> 10:34] Despite or not, Firmus had led Roman citizens into revolt against the lawful government.
+[10:34 --> 10:39] That was a crime that could not go unpunished, so Theodosius rejected Firmus' request for
+[10:39 --> 10:41] a peace.
+[10:41 --> 10:47] I can see where Theodosius is coming from, we can't negotiate with usurpers and all
+[10:47 --> 10:52] that, but by refusing to bring Firmus down from the hills, Theodosius set up the African
+[10:52 --> 10:58] provinces for years of bloody and ultimately pointless struggle.
+[10:58 --> 11:03] The master of the horse launched a military campaign to bring Firmus to heel by force,
+[11:03 --> 11:08] which divided the citizens of the provinces from each other and led to bloody reprisals
+[11:08 --> 11:15] as cities were caught supporting this side or that at the wrong time.
+[11:15 --> 11:20] Underlying the war was the fact that Firmus was a Donatus Christian, and Theodosius was
+[11:20 --> 11:22] a staunch Nicene.
+[11:22 --> 11:27] So the two sides began to break down along the same religious lines that had been dividing
+[11:27 --> 11:30] the Africans for years.
+[11:30 --> 11:37] So all in all, it was a bad time to be a North African, and as was happening up in Britannia,
+[11:37 --> 11:47] the bonds that tied the locals to the empire and vice versa were beginning to fray dangerously.
+[11:47 --> 11:51] Eventually a Firmus was brought down the same way that Jugurtha had been brought down five
+[11:51 --> 11:54] hundred years before.
+[11:54 --> 11:59] Another Morish chief looking to get into Theodosius' good books lured Firmus into a trap under
+[11:59 --> 12:03] false pretenses and captured him.
+[12:03 --> 12:07] But unlike Jugurtha, Firmus was able to escape the humiliation of being presented to the
+[12:07 --> 12:14] Romans in chains, and he committed suicide before he could be handed over.
+[12:14 --> 12:20] As I just said, although Theodosius was technically successful in his mission, Romanus was out
+[12:20 --> 12:25] of the picture, and Firmus had been taken down without having to compromise with him.
+[12:25 --> 12:31] The net result of it all was that the Roman hold over North Africa was further eroded.
+[12:31 --> 12:35] As with Britain, in about fifty years Roman rule in North Africa will enter its death
+[12:35 --> 12:40] spiral, and though Justinian will be able to briefly reassert control over the region
+[12:40 --> 12:49] at disastrous cost, the end of the Western Empire clearly was nigh.
+[12:49 --> 12:53] While Theodosius was quelling the revolt in Africa, Valentinian struggled to deal with
+[12:53 --> 12:59] the continued intransigence of the Alamani, while also dealing with yet another hot spot
+[12:59 --> 13:07] lit on fire by Roman mismanagement, this one flaring up along the Danube.
+[13:07 --> 13:12] Failing to learn his lesson from what had just happened with the Alamani, in 373 Valentinian
+[13:12 --> 13:18] ordered forward bases built across the Danube in the territory of the Quadi.
+[13:18 --> 13:22] Like the Alamani, the Quadi were annoyed when they found out that forts were being
+[13:22 --> 13:27] built in their lands, and so sent representatives to bargain with Aquitius, who was still in
+[13:27 --> 13:30] charge of military operations in Illyria.
+[13:30 --> 13:35] But Aquitius, taking his cues from Valentinian, refused to meet with the representatives when
+[13:35 --> 13:38] they arrived.
+[13:38 --> 13:43] We don't know exactly what happened next, that is, whether the Quadi began to actively
+[13:43 --> 13:49] hinder the building projects like the Alamani had, or if they just kept up their complaining,
+[13:49 --> 13:56] but for one reason or another, construction of the forts began to fall behind schedule.
+[13:56 --> 14:00] In response, the Praetorian prefect of Gaul, who had the Emperor's ear because Valentinian
+[14:00 --> 14:06] was based in Trier, had his son Marcellianus assigned to the project with a mandate to
+[14:06 --> 14:09] get it back on track.
+[14:09 --> 14:15] Marcellianus packed his bags, and made sure to bring his jug of gasoline and strike anywhere
+[14:15 --> 14:18] matches.
+[14:18 --> 14:22] When the new foreman arrived, he did all the normal things you do when a project is stalled
+[14:22 --> 14:23] out.
+[14:23 --> 14:29] He cracked the whip, and demanded results and not excuses.
+[14:29 --> 14:33] As he was attempting to turn things around though, he quickly learned that the Quadi
+[14:33 --> 14:37] were still refusing to just roll over and accept the new forts, and they peppered him
+[14:37 --> 14:42] constantly with complaints and petitions and demands, anything to get the Romans to
+[14:42 --> 14:45] knock it off.
+[14:45 --> 14:51] All of this came to greatly annoy Marcellianus, and so he decided to send the Quadi a message.
+[14:51 --> 14:56] He invited the leadership of the tribe to a Roman-sponsored peace banquet, and then,
+[14:56 --> 15:01] when everyone was good and lubricated, he seized the most powerful Quadi king and had
+[15:01 --> 15:03] him executed.
+[15:03 --> 15:08] Marcellianus was under the impression that this would cow the Germans into submission.
+[15:08 --> 15:14] Instead, as I'm sure any objective observer could have predicted, Marcellianus's treachery
+[15:14 --> 15:18] sparked a war.
+[15:18 --> 15:21] When the Quadi found out what had happened, they got together with some allied sarmatians,
+[15:21 --> 15:26] and launched a full-scale attack on the Romans' forward position on the north side of the
+[15:26 --> 15:28] Danube.
+[15:28 --> 15:32] Taken completely off guard, because he was under the impression that his sneaky murder
+[15:32 --> 15:38] had been so super intimidating, Marcellianus and his men were forced to pull up stakes
+[15:38 --> 15:40] and make a run for it.
+[15:40 --> 15:44] When they got back across the Danube, they sat down to catch their breath, but then looked
+[15:44 --> 15:49] up and realized that the Quadi and sarmatians were not stopping.
+[15:49 --> 15:52] So Marcellianus and his men kept running south.
+[15:52 --> 15:57] The barbarian force crossed the Danube and kept up the pursuit, burning and pillaging
+[15:57 --> 16:02] anything they came across.
+[16:02 --> 16:07] The Roman alarm was quickly raised, and two legions were sent to intercept the invaders.
+[16:07 --> 16:12] But just to compound an already disastrous situation, the commanders of the two legions
+[16:12 --> 16:13] didn't get along with each other.
+[16:13 --> 16:19] They failed to cooperate, and so the Quadi-Sarmatian army was able to continue their marauding
+[16:19 --> 16:25] unchecked, now less interested in revenging themselves upon Marcellianus, and more interested
+[16:25 --> 16:27] in just plundering.
+[16:27 --> 16:32] While Illyria burned, another branch of the sarmatians decided to join in the fun and
+[16:32 --> 16:35] crossed over the Danube into Moesia.
+[16:35 --> 16:40] But unlike the Roman response in Illyria, which was a delicious mix of cowardice and
+[16:40 --> 16:48] internal bickering, the Roman response in Moesia was smart, prompt, and effective.
+[16:48 --> 16:53] Mostly because the dukes of Moesia was an able young commander named Theodosius.
+[16:53 --> 16:59] Yes, that Theodosius.
+[16:59 --> 17:04] With the Danube under attack and North Africa still a mess, Valentinian was forced to do
+[17:04 --> 17:08] something that he really, really didn't want to do.
+[17:08 --> 17:10] Make peace with the Alamani.
+[17:10 --> 17:16] And not just the Alamani in general, but Macrianus in particular.
+[17:16 --> 17:22] Since Valentinian had assassinated his predecessor, Macrianus had emerged as the leading anti-Roman
+[17:22 --> 17:24] chief in the German ranks.
+[17:24 --> 17:29] He had orchestrated the attack on the Heidelberg fort, and then kept up the resistance even
+[17:29 --> 17:32] as Theodosius won engagement after engagement.
+[17:32 --> 17:38] Technically, he had then been deposed, but as soon as Theodosius withdrew, the Alamani
+[17:38 --> 17:43] began agitating against their new puppet king and pledging their allegiance once again
+[17:43 --> 17:46] to Macrianus.
+[17:46 --> 17:50] Unable to spare the men or the manpower to head back into German territory and force
+[17:50 --> 17:57] the Alamani to do what Valentinian wanted them to do, around 374 the emperor gave up
+[17:57 --> 18:02] and came to terms with his enemy, recognizing Macrianus as the rightful leader of the Alamani
+[18:02 --> 18:06] and promising to respect their territorial claims.
+[18:06 --> 18:14] It was a bitter but necessary pill for Valentinian to swallow.
+[18:14 --> 18:19] It was a necessary pill because in the middle of 374, Valentinian received a full report
+[18:19 --> 18:24] on how operations were going along the western Danube frontier.
+[18:24 --> 18:30] The answer, as we just saw, was a resounding, really not well.
+[18:30 --> 18:34] Marcellus Leonis had high-tailed it out of the area, and the commanders of the border
+[18:34 --> 18:39] legions were pointing fingers at each other, concentrating far harder on covering their
+[18:39 --> 18:44] asses than actually dealing with the barbarians in their midst.
+[18:44 --> 18:48] This was clearly going to take the presence of the emperor to sort out, so Valentinian
+[18:48 --> 18:53] made plans to leave the Rhine for the first time in nearly a decade.
+[18:53 --> 18:57] When he finally departed, it would be the last time that a senior Augustus would make
+[18:57 --> 19:02] his headquarters in the western half of the empire.
+[19:02 --> 19:06] It had already come as something of a surprise that Valentinian had taken the west as his
+[19:06 --> 19:11] territory in the first place, since at this point in history, it was neither economically
+[19:11 --> 19:17] nor culturally as rich as the east, and going forward, no powerful emperor would make the
+[19:17 --> 19:24] mistake of basing himself in Gaul when he could base himself in Constantinople.
+[19:24 --> 19:28] The eastern empire had its problems, sure, but look around.
+[19:28 --> 19:32] The west is a decaying, poor wreck.
+[19:32 --> 19:36] Who wants any part of that dump?
+[19:36 --> 19:40] Maybe Stilicho could have done something with it had he been given a chance, but that is
+[19:40 --> 19:46] a what-if comic for another day.
+[19:46 --> 19:53] In the spring of 375, Valentinian arrived on the Danube frontier and surveyed the damage.
+[19:53 --> 19:57] He didn't need any more reports to tell him how bad things had gotten.
+[19:57 --> 20:03] When he arrived at the key military city of Carnuntum, he found it a ghost town.
+[20:03 --> 20:08] With the army out in the field, the inhabitants had fled for their lives.
+[20:08 --> 20:13] But though things had gotten out of hand, it wasn't that bad.
+[20:13 --> 20:17] As Theodosius the Younger had shown, the Romans were more than capable of dealing with a few
+[20:17 --> 20:24] barbarian invaders, they were just doing a really crappy job of it in Illyria.
+[20:24 --> 20:28] When word got around that the emperor was now in the area, even the barbarians had to
+[20:28 --> 20:33] admit that, yeah, maybe we have been taking advantage of the situation.
+[20:33 --> 20:39] Switching immediately from raising hell mode to abject groveling mode, representatives
+[20:39 --> 20:44] of the Quodians showed up at the imperial court begging forgiveness.
+[20:44 --> 20:48] They laid out their case against Marcellianus and swore up and down that had their king
+[20:48 --> 20:53] not been murdered, that none of this would have happened.
+[20:53 --> 20:58] The emperor, through intermediaries of course, promised to investigate the matter so he could
+[20:58 --> 21:03] decide for himself who was to blame and who should be punished.
+[21:03 --> 21:07] But the members of the imperial court were not typically in the habit of siding with
+[21:07 --> 21:12] barbarians against the son of a Praetorian prefect, and so when the investigators came
+[21:12 --> 21:22] back, they reported that the Quodii had been completely out of line and were 100% to blame.
+[21:22 --> 21:26] Verdict in hand, Valentinian announced that he was going to punish the Quodii for their
+[21:26 --> 21:29] unprovoked invasion of Roman territory.
+[21:29 --> 21:34] He gathered up an army and in the late summer of 375, he launched a punitive expedition
+[21:34 --> 21:39] into Quodii territory, crossing the Danube near modern Budapest.
+[21:39 --> 21:43] He spent the next few months successfully punishing the barbarians for something that,
+[21:43 --> 21:52] yeah, they had done, but really, wasn't Marcellianus's just awful diplomacy really to blame?
+[21:52 --> 21:56] As winter approached, the emperor withdrew back across the Danube and moved a bit up
+[21:56 --> 21:58] river.
+[21:58 --> 22:02] It seemed that that would be the end of Valentinian's campaigning for the year, but for reasons
+[22:02 --> 22:10] unknown, it appears that he changed his mind and decided to keep going with a winter offensive.
+[22:10 --> 22:15] In November of 375, having been battered around more than enough and ready to put an end to
+[22:15 --> 22:20] the fighting, envoys from the Quodii once again showed up at the imperial court, begging
+[22:20 --> 22:26] forgiveness and asking what it would take for the emperor to desist.
+[22:26 --> 22:31] As satisfied that the barbarians were now showing the proper degree of humility, Valentinian's
+[22:31 --> 22:36] courtiers informed the Quodii that the terms would be the standard arrangement, provide
+[22:36 --> 22:42] X number of young recruits for the legions each year, and there will be peace.
+[22:42 --> 22:48] The Quodii agreed, but before they went back home, they once again humbly requested a personal
+[22:48 --> 22:51] audience with the emperor.
+[22:51 --> 22:56] Breaking with his established practice, this time Valentinian agreed to meet them.
+[22:56 --> 23:01] But as we will see next week, it was perhaps a good thing that the emperor had kept himself
+[23:01 --> 23:07] distanced from the barbarians for all these years.
+[23:07 --> 23:15] However, before we get to that fateful meeting, we must turn our attention back to the east.
+[23:15 --> 23:20] We left Valensoth two episodes back, firmly in command of the eastern empire after defeating
+[23:20 --> 23:28] Procopius in May of 366, and now we're up to November of 375.
+[23:28 --> 23:32] So what had Valentinian's brother been up to for the last decade?
+[23:32 --> 23:35] Twiddling his thumbs and waiting for Adrian Opal?
+[23:35 --> 23:37] Hardly.
+[23:37 --> 23:42] The eastern empire, though stronger and richer than the western empire, was not exactly a
+[23:42 --> 23:45] bed of roses.
+[23:45 --> 23:50] So next week, we will cover the adventures of Valens as he deals first with unruly Goths
+[23:50 --> 23:53] and then presumptuous Sassanids.
+[23:53 --> 23:59] With the latter being a far more powerful and far more organized threat, the eastern
+[23:59 --> 24:05] Augustus tended to focus all of his attention on the Persian issue, especially because Shapur
+[24:05 --> 24:11] was causing so much trouble in what has to be by far the most important technically neutral
+[24:11 --> 24:15] little kingdom in the history of the world, Armenia.

@@ -1,0 +1,417 @@
+# 20100228 - 041b- The Gallic Wars
+# Detected language: en
+# Duration: 1520.07 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 41b, The Gallic Wars.
+[00:13 --> 00:17] Caesar's first year in Gaul had been a great success for both the Romans and the local
+[00:17 --> 00:17] tribes.
+[00:18 --> 00:22] Two invading hordes, first the Helvetii and then the Germans, had been repulsed
+[00:22 --> 00:23] by the legions.
+[00:24 --> 00:28] Caesar was making a name for himself as a superb commander, and the balance of
+[00:28 --> 00:30] power among the Gallic tribes had not been upset.
+[00:31 --> 00:34] So as the winter of 58 BC neared, everyone was happy.
+[00:34 --> 00:38] But Caesar was not in Gaul simply to act as a bodyguard for independent tribes.
+[00:39 --> 00:41] He was in Gaul to conquer Gaul.
+[00:41 --> 00:45] To this end, he did not withdraw back to his provinces on the Italian side of
+[00:45 --> 00:47] the Alps as the Gauls assumed he would.
+[00:47 --> 00:51] Instead, he ordered his troops to build winter camps and dig in.
+[00:51 --> 00:56] These wooden forts dotting the countryside were a visible symbol of Caesar's true
+[00:56 --> 00:56] intentions.
+[00:56 --> 00:59] Suddenly, not everyone was so happy.
+[01:00 --> 01:04] But Caesar was a savvy general and nothing if not a master politician.
+[01:05 --> 01:08] He knew that the jig was up, that there was no use pretending Rome was not in Gaul
+[01:08 --> 01:12] to stay, at least not when he met with the leaders of the Gallic tribes in private.
+[01:13 --> 01:17] Some tribes swore instantly to resist Roman domination, but others were persuaded
+[01:17 --> 01:22] that conquest was inevitable and the only question was who would enjoy what privileges
+[01:22 --> 01:23] in the new Roman order.
+[01:24 --> 01:28] Caesar played rivals against each other, promising to settle ancient scores for one
+[01:28 --> 01:32] side or the other in exchange for support, intelligence, or troops.
+[01:33 --> 01:37] What Caesar managed to achieve in the tent prevented the Gauls from ever truly
+[01:37 --> 01:38] uniting in the field.
+[01:40 --> 01:45] When the spring of 57 BC came around, the Roman occupation was immediately challenged
+[01:45 --> 01:48] in the north by a confederation of Belgian tribes.
+[01:48 --> 01:54] The territory of Belgae, as you could probably guess, covers roughly modern Belgium and
+[01:54 --> 01:57] was then about as far as you could get from Roman civilization.
+[01:58 --> 02:02] The tribes in southern Gaul were long accustomed to dealing with the Romans, but Italian
+[02:02 --> 02:04] traders rarely made their way this far north.
+[02:05 --> 02:09] So it is no great surprise that this would become the epicenter of initial resistance.
+[02:09 --> 02:13] But Caesar had been able to convince at least one of the Belgian tribes that support
+[02:13 --> 02:15] for Rome was in their best interest.
+[02:16 --> 02:20] When this tribe came under attack for their foreign allegiance, Caesar was quick to
+[02:20 --> 02:24] intervene, hoping to prove that friendship with Rome was not just a one-way street.
+[02:25 --> 02:28] Those who helped Rome would in turn be helped by Rome.
+[02:28 --> 02:31] Also, it was a lovely excuse to conquer Belgium.
+[02:33 --> 02:35] That Caesar had a Belgian ally was the good news.
+[02:35 --> 02:38] That he only had one Belgian ally was the bad news.
+[02:39 --> 02:42] He marched the legions north to support his new ally and prevent the
+[02:42 --> 02:45] Belgae from coalescing into a single force.
+[02:45 --> 02:49] But he arrived too late and saw to his dismay that a huge army was gathered.
+[02:50 --> 02:54] Skirmishes broke out and a brief bloody battle was fought to prevent a portion of
+[02:54 --> 02:57] the Belgae from circling around behind the Romans.
+[02:58 --> 03:01] Caesar, outnumbered in deep and enemy territory, had to think fast.
+[03:02 --> 03:06] Doubtful that he would be able to win a fight in the open, Caesar called for
+[03:06 --> 03:09] a play that had proved so effective at the end of the Third Samnite War.
+[03:10 --> 03:14] He ordered squads to fan out across the countryside and sack every settlement
+[03:14 --> 03:15] they came across.
+[03:15 --> 03:20] With all their warriors masked in one place, the civilian Belgae were helpless,
+[03:20 --> 03:22] and soon the whole territory was in flames.
+[03:23 --> 03:26] With little internal cohesion except a hatred of the Romans to bind them,
+[03:27 --> 03:31] the Belgian army quickly evaporated as tribes returned home to protect their
+[03:31 --> 03:31] property.
+[03:32 --> 03:37] Caesar was now free to march from tribe to tribe and pick them off one by one.
+[03:37 --> 03:40] Sometimes the locals resisted and were destroyed.
+[03:41 --> 03:44] But more often than not, they saw the handwriting on the wall and surrendered.
+[03:45 --> 03:49] One tribe in particular though, the Nervii, neither surrendered nor
+[03:49 --> 03:50] were pushovers in the field.
+[03:51 --> 03:55] At one point, they managed to catch the Romans by surprise as they built a camp.
+[03:55 --> 03:56] And in the confusion,
+[03:56 --> 03:59] nearly shattered the legions before Caesar could rally his troops in
+[03:59 --> 04:00] counter-attack.
+[04:01 --> 04:05] But aside from this one near disaster, the conquest of the Belgae went off
+[04:05 --> 04:05] without a hitch.
+[04:06 --> 04:10] And Caesar entered the winter of 57 BC with nearly the whole of Gaul
+[04:10 --> 04:11] already under his thumb.
+[04:13 --> 04:17] Over that winter, with the Romans again building camps across the country,
+[04:17 --> 04:20] Caesar returned to Cisalpine Gaul to attend to his duties there.
+[04:21 --> 04:23] He was, after all, still the governor.
+[04:23 --> 04:26] And there was a backlog of high-importance action items that he
+[04:26 --> 04:27] had been neglecting.
+[04:27 --> 04:29] While on the Italian side of the Alps,
+[04:30 --> 04:33] Pompey and Crassus left Rome to join Caesar for a conference.
+[04:34 --> 04:37] The triumph of it was renewed and it was agreed that Pompey and
+[04:37 --> 04:41] Crassus would again serve together as co-consuls for the year 55 BC.
+[04:41 --> 04:46] The three men also took the time to divvy up the Roman world between them.
+[04:46 --> 04:50] Caesar would have his pro-consulship of Gaul extended for another five years.
+[04:50 --> 04:52] And upon completing their term in office,
+[04:53 --> 04:55] Pompey would be appointed pro-consul of Hispania and
+[04:55 --> 04:58] allowed to govern in absentia, while Crassus would receive
+[04:58 --> 05:00] the governorship of Syria.
+[05:00 --> 05:04] This would be the last cooperative venture between the three triumvirs.
+[05:05 --> 05:06] Crassus would soon lay dead in Syria,
+[05:07 --> 05:09] after a humiliating defeat at the hands of the Parthians.
+[05:10 --> 05:11] And the familial bond between Caesar and
+[05:11 --> 05:14] Pompey would soon be shattered by the death of Julia,
+[05:14 --> 05:17] Caesar's beloved daughter, and Pompey's beloved wife.
+[05:19 --> 05:22] With their agreement in hand, each of the triumvirs went about their
+[05:22 --> 05:22] business.
+[05:23 --> 05:25] For Crassus and Pompey, this meant laying the groundwork for
+[05:25 --> 05:27] their consular campaign.
+[05:27 --> 05:30] And for Caesar, this meant consolidating his hold over Gaul.
+[05:31 --> 05:34] But despite his glowing reports to the Senate that
+[05:34 --> 05:37] Gaul was completely pacified, the reality was not so neat and tidy.
+[05:38 --> 05:42] This time, trouble came from the Veneti, a maritime tribe from Brittany,
+[05:43 --> 05:46] who decided to take their shot at avoiding Roman domination.
+[05:47 --> 05:49] Admittedly, they were in a unique position and
+[05:49 --> 05:52] had good reason to believe they could resist the Romans.
+[05:52 --> 05:56] But in the end, it was not enough and they too fell under Caesar's sword.
+[05:57 --> 06:01] The Veneti's unique position was a mastery of the sea that
+[06:01 --> 06:02] the Romans could not match.
+[06:03 --> 06:05] Their forts were all built on narrow spits jutting out into
+[06:05 --> 06:09] the English Channel, nearly impossible to attack by land,
+[06:09 --> 06:11] and connected to endless supplies by sea.
+[06:12 --> 06:14] If Caesar hoped to put down this rebellion,
+[06:14 --> 06:15] he would have to build a navy.
+[06:16 --> 06:20] But as we've noted before, the Romans were never great sailors
+[06:20 --> 06:23] to begin with, even on the relatively calm waters of the Mediterranean.
+[06:24 --> 06:27] The choppy chaos of the English Channel would prove to be one of
+[06:27 --> 06:29] the most implacable foes Caesar would ever face.
+[06:30 --> 06:31] And on more than one occasion,
+[06:31 --> 06:34] it threatened to end not just his campaign, but his life.
+[06:36 --> 06:39] After an entire summer of being given the run around and
+[06:39 --> 06:43] losing ships that were no match for the sturdy oak constructions of the Veneti,
+[06:43 --> 06:45] Caesar finally hit upon the weakness of his enemies.
+[06:46 --> 06:48] The Veneti ships lacked oars,
+[06:49 --> 06:51] relying exclusively on sails for maneuverability.
+[06:52 --> 06:55] Near the end of the year, Caesar sent the whole of his navy,
+[06:55 --> 06:59] some 200 ships, to attack the main Veneti stronghold.
+[07:00 --> 07:03] The Veneti were unable to resist the opportunity to crush the Romans once and
+[07:03 --> 07:06] for all, and sailed out en masse to greet them.
+[07:07 --> 07:08] But the Romans were prepared, and
+[07:08 --> 07:11] eschewing their failed tactics of ramming and boarding,
+[07:11 --> 07:15] they instead used hooks to tear down the sails of the Veneti ships.
+[07:15 --> 07:19] This, coupled with a fortuitous absence of a strong wind,
+[07:19 --> 07:20] made the Veneti sitting ducks.
+[07:21 --> 07:25] The Romans went from ship to ship, and though the fighting was long and
+[07:25 --> 07:28] hard, the outcome was no longer in doubt.
+[07:28 --> 07:31] The whole of the Veneti navy was destroyed, and
+[07:31 --> 07:34] the tribal leaders on land, deprived of their supply line,
+[07:34 --> 07:36] were forced to surrender to Rome.
+[07:38 --> 07:41] Caesar now controlled almost the entire north coast of Gaul.
+[07:42 --> 07:44] But he was not content with stopping at the water's edge.
+[07:45 --> 07:48] Across the channel lay the mythical island of Britannia,
+[07:48 --> 07:51] which Caesar resolved to invade the following year.
+[07:51 --> 07:54] Both to cut off the aid that had flowed from the island to the rebellious
+[07:54 --> 07:59] Belgae and the Veneti, but also to score a massive domestic political coup.
+[08:00 --> 08:03] Think of the headlines, Caesar conquers the ends of the earth.
+[08:04 --> 08:05] It has a nice ring to it.
+[08:06 --> 08:08] But before he could invade the ends of the earth,
+[08:09 --> 08:11] Caesar would be forced to engage in a less romantic,
+[08:11 --> 08:13] though arguably more important, venture.
+[08:14 --> 08:17] And, as it would turn out, the Roman public was at least as
+[08:17 --> 08:20] impressed with Caesar for leading a Roman army into
+[08:20 --> 08:23] Germania as they were for his later invasion of Britain.
+[08:25 --> 08:31] In 55 BC, German tribes began crossing the Rhine River and running amok.
+[08:31 --> 08:33] Often encouraged by the local Gauls,
+[08:33 --> 08:36] who hoped to stir up as much trouble for Rome as they could.
+[08:37 --> 08:39] Caesar was forced to put his British invasion on hold,
+[08:39 --> 08:41] while he headed east to secure the border.
+[08:42 --> 08:46] What he immediately intuited was that the Germans would have no fear,
+[08:46 --> 08:50] as long as they believed the Rhine was a magical barrier to Roman advancement.
+[08:51 --> 08:54] So Caesar decided to put lie to that particular myth.
+[08:55 --> 08:58] But, understanding that the optics demanded something altogether more
+[08:58 --> 09:02] spectacular than crossing his legionnaires on rickety boats,
+[09:02 --> 09:05] Caesar ordered a bridge be built across the great river.
+[09:06 --> 09:09] In what is widely acknowledged as one of the great feats in the history of
+[09:09 --> 09:14] military engineering, Caesar's army designed and built his bridge in just ten days.
+[09:15 --> 09:19] Stable in the rushing water and strong enough to sustain the 40,000 troops Caesar
+[09:19 --> 09:24] intended to march into Germania, the bridge was an architectural masterpiece.
+[09:24 --> 09:27] But, more importantly for Caesar's immediate concerns,
+[09:27 --> 09:29] it scared the bejesus out of the Germans.
+[09:30 --> 09:33] They had felt themselves completely safe on their side of the river.
+[09:34 --> 09:37] Secure in the knowledge that the Romans, A, were afraid of invading
+[09:37 --> 09:41] Germania, B, would be easy targets if they tried to cross the river in boats.
+[09:41 --> 09:46] And C, couldn't build a bridge so fast that the Germans wouldn't be able to
+[09:46 --> 09:48] simply mass an army to meet the invaders.
+[09:49 --> 09:52] But in the time it took German scouts to notice the bridge and
+[09:52 --> 09:56] report it to their chiefs, the Romans were already hammering in the final nails.
+[09:57 --> 10:00] When the next round of scouts arrived to check the progress of the construction,
+[10:01 --> 10:03] they were forced to immediately turn around and
+[10:03 --> 10:07] report the unbelievable news that the Romans were already across the Rhine.
+[10:08 --> 10:11] The Germans panicked and retreated into the dense forest.
+[10:12 --> 10:15] Caesar spent three weeks marching around Western Germany
+[10:15 --> 10:17] without encountering any resistance.
+[10:18 --> 10:21] Believing he had made his point, he ordered his troops back across the Rhine
+[10:21 --> 10:22] and the bridge burned.
+[10:23 --> 10:25] The Germans did not miss the point.
+[10:26 --> 10:28] Rome could go where it wanted, when it wanted, and
+[10:28 --> 10:30] it was best not to forget that fact.
+[10:33 --> 10:36] Despite the time he had spent on his detour into Germania,
+[10:36 --> 10:40] Caesar was determined to launch at least a preliminary expedition to Britain
+[10:40 --> 10:42] by the end of the year.
+[10:43 --> 10:46] So with the autumn winds howling and winter fast approaching,
+[10:46 --> 10:50] Caesar set out with 80 ships to find out how much resistance he could expect
+[10:50 --> 10:55] if he decided to launch a full invasion, or if a full invasion would even be necessary.
+[10:57 --> 11:01] This first crossing can't really be described as anything but a debacle.
+[11:01 --> 11:05] Caesar had been unable to squeeze any decent information out of the local
+[11:05 --> 11:07] traders about where and when to land on the island.
+[11:08 --> 11:12] But what minimal scout work his own officers had done was totally inadequate.
+[11:13 --> 11:17] Not only did the Romans have no clue how to handle things like tides, but
+[11:17 --> 11:19] at every possible landing site,
+[11:19 --> 11:23] they found themselves met by thousands of British warriors lining the cliffs.
+[11:24 --> 11:26] Finally, with great difficulty,
+[11:26 --> 11:30] Caesar was able to land his fleet and establish a small beachhead.
+[11:31 --> 11:32] But as soon as his ships were anchored,
+[11:32 --> 11:35] a storm swept in, smashing his fleet against the rocks.
+[11:36 --> 11:40] The beleaguered Caesar made contact with the local tribes and
+[11:40 --> 11:41] tried to put on a brave face.
+[11:42 --> 11:46] But it was obvious to anyone with eyes that the Romans posed no threat whatsoever.
+[11:47 --> 11:51] The local Britons indulged Caesar's pompous demands that they send hostages
+[11:51 --> 11:54] to secure the goodwill of Rome and return to their tribes,
+[11:54 --> 11:57] promising that, yeah, they'd get right on that.
+[11:58 --> 12:02] Caesar didn't even wait for them not to comply, generously agreeing to accept
+[12:02 --> 12:07] the hostages in Gaul rather than forcing the Britons to respond right this very second.
+[12:08 --> 12:11] He patched up his fleet as fast as he could and sailed back to Gaul.
+[12:12 --> 12:15] Only two British tribes actually sent their promised hostages.
+[12:17 --> 12:20] The next spring, though, Caesar launched a far better planned invasion.
+[12:22 --> 12:25] The Romans never did get a handle on the tricky tides of the North Atlantic,
+[12:25 --> 12:28] but they were able to land without as much difficulty and
+[12:28 --> 12:30] establish a proper base.
+[12:30 --> 12:35] This time, Caesar arrived not with 80 ships, but 800 ships.
+[12:36 --> 12:41] The Southern Britons were forced to take this threat a little more seriously, but
+[12:41 --> 12:43] they still proved to be a hard bunch to get a handle on.
+[12:44 --> 12:48] They all willingly agreed to submit to Rome, but took every opportunity to
+[12:48 --> 12:51] undermine the Roman presence and showed little stomach for
+[12:51 --> 12:54] the kind of real actual submission the Romans were used to.
+[12:55 --> 12:59] The Britons seemed to be treating the Romans as little more than a temporary
+[12:59 --> 13:03] nuisance, shining on the invaders until they lost interest and went home.
+[13:05 --> 13:08] Caesar pressed inland and met with fiercer resistance, but
+[13:08 --> 13:12] primarily in the form of guerrilla attacks rather than open battle.
+[13:13 --> 13:16] Eventually, Caesar learned who was directing the resistance and
+[13:16 --> 13:17] put their stronghold to siege.
+[13:19 --> 13:22] Failing to land a counterpunch on the Roman camp and draw Caesar away,
+[13:22 --> 13:26] the resistance ended and the besieged tribe agreed to recognize a king of
+[13:26 --> 13:27] Caesar's choosing.
+[13:28 --> 13:33] Anxious to get back to Gaul, Caesar left the islands in the hands of local allies.
+[13:34 --> 13:37] It would be another 100 years before Rome returned to fully incorporate
+[13:37 --> 13:39] Britannia as a province.
+[13:40 --> 13:44] The expedition had resulted in little material gain, but in terms of publicity,
+[13:44 --> 13:47] the invasion was a huge success for Caesar personally.
+[13:48 --> 13:51] There was nothing, it seemed, that the Charismatic General could not do.
+[13:54 --> 13:56] Caesar returned to Gaul and settled in for a long winter.
+[13:57 --> 14:02] His heart was heavy with grief and his mind was racked by dread at news he
+[14:02 --> 14:03] had received while he was in Britain.
+[14:04 --> 14:06] His daughter Julia had died in childbirth.
+[14:07 --> 14:11] The death of his only child affected the passionate Caesar mightily, but
+[14:11 --> 14:15] he further struggled with the implications this had on his alliance with Pompey.
+[14:16 --> 14:20] With Crassus in Syria, Pompey stood alone as the dominant triumvirate in
+[14:20 --> 14:24] Rome and now had nothing to bind his interest to Caesar's.
+[14:24 --> 14:29] But the sullen general did not have long to dwell on his grief or his political future.
+[14:31 --> 14:35] In northeast Gaul, a full legion was tricked out of their winter quarters
+[14:35 --> 14:40] by supposedly friendly locals, lured into a trap, and slaughtered to a man.
+[14:40 --> 14:44] But this was not news that Caesar would learn until after he got word
+[14:44 --> 14:47] that another camp was under siege by the same group,
+[14:47 --> 14:50] whose ranks now swelled with warriors from all over the country
+[14:50 --> 14:52] who wanted nothing more than to kill Romans.
+[14:54 --> 14:57] The besieged camp was led by one of Caesar's ableist commanders,
+[14:57 --> 15:00] Quintus Cicero, brother of the great orator.
+[15:01 --> 15:04] Quintus had not fallen for the ruse that had lured out the slaughtered
+[15:04 --> 15:05] legion from their camp.
+[15:06 --> 15:09] And despite the satisfaction of seeing through the trick, he was now
+[15:09 --> 15:11] surrounded by a rebel Gallic army and
+[15:11 --> 15:14] unable to get word through the line that he was under attack.
+[15:15 --> 15:17] Finally, a slave agreed to slip through and
+[15:17 --> 15:20] make contact with Caesar in exchange for his freedom.
+[15:21 --> 15:25] Once alerted, Caesar immediately charged out into the winter snow
+[15:25 --> 15:28] to relieve the besieged legion and arrive just in time.
+[15:29 --> 15:33] The side of Caesar's army scattered the rebels and Cicero's legion was saved.
+[15:35 --> 15:38] Nearly every soldier trapped inside the liberated camp had been wounded in
+[15:38 --> 15:42] some fashion or another, and Caesar praised them all to the hilt,
+[15:42 --> 15:44] handing out awards and honors left and right.
+[15:45 --> 15:49] It was not lost on these men, nor on the men who had done the liberating,
+[15:49 --> 15:53] that Caesar seemed to genuinely care about the average soldiers under his command.
+[15:54 --> 15:58] Throughout the campaign, Caesar famously referred to his men not as soldier,
+[15:58 --> 15:59] but as comrade.
+[16:00 --> 16:02] These simple acts of familiarity and
+[16:02 --> 16:06] compassion helped breed in his troops the fanatical loyalty
+[16:06 --> 16:08] that would prove decisive in the coming civil war.
+[16:09 --> 16:14] These men were never Roman legionaries, they were Caesar's legionaries.
+[16:15 --> 16:20] When the spring of 53 BC came, Caesar had one thing on his mind, revenge.
+[16:21 --> 16:25] He brought the full weight of his army down on northeast Gaul and
+[16:25 --> 16:29] engaged in a genocidal campaign against the tribes that were behind the assault
+[16:29 --> 16:32] on Cicero's men and the Romans had later learned with horror
+[16:32 --> 16:34] the murder of the tricked legion.
+[16:36 --> 16:38] Without remorse, Caesar slaughtered the men and
+[16:38 --> 16:40] sold the women and children into slavery.
+[16:41 --> 16:45] During this year in the field, Caesar also built a second bridge across the Rhine
+[16:45 --> 16:48] to halt aid and comfort that was coming in from Germania.
+[16:49 --> 16:53] He hoped to achieve not only a measure of revenge, but
+[16:53 --> 16:56] also signal that Gaul was no longer a free country, and
+[16:56 --> 17:01] that any attack on Rome would be met with the swiftest and most brutal repercussions.
+[17:02 --> 17:08] In this, he was not entirely successful, as the brutality of 53 BC proved to
+[17:08 --> 17:11] those Gauls who still had fight in them that they had better do something now,
+[17:12 --> 17:14] or they would all wind up like their annihilated cousins in the north.
+[17:16 --> 17:18] But in a larger sense, the campaign was effective.
+[17:19 --> 17:22] It galvanized the last of the independent minded Gauls, and
+[17:22 --> 17:24] when Caesar defeated them the following summer,
+[17:25 --> 17:27] all formal resistance was wiped out with them.
+[17:29 --> 17:31] But on the cusp of this great victory,
+[17:32 --> 17:35] Caesar's political fortunes in Rome were quickly spinning out of control.
+[17:36 --> 17:41] He had offered his grand niece Octavia, the sister of the future Caesar Augustus,
+[17:41 --> 17:44] to Pompey in marriage in an attempt to re-secure their alliance.
+[17:45 --> 17:49] But Pompey spurned the offer, and instead agreed to wed the daughter of
+[17:49 --> 17:53] one of Caesar's most hated enemies, a man named Quintus Metellus Scipio.
+[17:54 --> 17:55] This was not a good sign.
+[17:56 --> 17:58] On top of that, Marcus Crassus,
+[17:59 --> 18:03] long Caesar's benefactor, died fighting in a disastrous campaign in the east.
+[18:04 --> 18:07] The triumvirate was literally and figuratively dead.
+[18:09 --> 18:12] But there was no time to worry about domestic political concerns.
+[18:12 --> 18:17] In 52 BC, the last great battle of the Gallic Wars was set to be fought.
+[18:19 --> 18:21] Since he had arrived in Gaul five years earlier,
+[18:22 --> 18:25] Caesar had effectively used Gallic tribal rivalries to his advantage and
+[18:25 --> 18:27] avoided ever facing a united front.
+[18:28 --> 18:31] Now though, with the noose finally closing around their necks,
+[18:31 --> 18:34] the Gauls joined forces under the banner of Vercingetorix,
+[18:35 --> 18:38] a Gallic king who would lead the last stand for his country's independence.
+[18:39 --> 18:43] I hope I'm not giving away the ending when I say that Vercingetorix would meet
+[18:43 --> 18:47] his end after being paraded through Roman chains during Caesar's triumph.
+[18:47 --> 18:51] Cause of death, unceremonious strangulation in a Roman jail cell.
+[18:53 --> 18:58] Prior to this ignoble end however, he was the last best hope of the Gauls
+[18:58 --> 19:02] and would cause as much grief to Caesar in one summer as the Roman general
+[19:02 --> 19:05] had experienced during his entire occupation of the country.
+[19:06 --> 19:09] In the dead of winter, the Gallic king launched his rebellion
+[19:09 --> 19:12] by embarking on a storched earth campaign.
+[19:13 --> 19:15] The Romans had been living off the land since their arrival,
+[19:16 --> 19:19] allowing them greater mobility and freedom from worries about protecting
+[19:19 --> 19:20] a supply line.
+[19:21 --> 19:24] Now, Vercingetorix put as many towns and
+[19:24 --> 19:25] granaries as possible to the torch.
+[19:25 --> 19:30] It was cruel and punished his own people as much as it punished the Romans.
+[19:30 --> 19:32] But this was a time for desperate measures.
+[19:33 --> 19:37] He was persuaded however, to spare Avaricum, the greatest city in
+[19:37 --> 19:41] southern Gaul, a decision he was uncomfortable with and would soon regret.
+[19:43 --> 19:46] Caesar gathered his scattered legions and headed straight for the great city.
+[19:47 --> 19:51] Despite assurances from the Gallic nobility that Avaricum was impregnable,
+[19:51 --> 19:55] Vercingetorix was forced to watch helplessly as the city fell after a brutal
+[19:55 --> 19:57] 30 day siege.
+[19:58 --> 20:01] Caesar's starving soldiers killed everyone in the city.
+[20:01 --> 20:05] Most importantly, they had secured enough food to see them through the next few weeks.
+[20:07 --> 20:11] The Gauls retreated and as soon as he resupplied his army, Caesar followed.
+[20:12 --> 20:16] A series of feints and counterfeints finally saw the Romans chase the Gauls
+[20:16 --> 20:18] behind the walls of Dragovia.
+[20:19 --> 20:23] This time however, overzealous Roman soldiers attacked too early despite Caesar's
+[20:23 --> 20:28] order to restrain themselves and blew the one chance they had to take the city.
+[20:29 --> 20:32] Forced to retreat after sustaining serious casualties,
+[20:33 --> 20:35] the Romans had more to worry about than simply licking their wounds.
+[20:36 --> 20:41] The defeat at Dragovia had broken the aura of invincibility surrounding Caesar.
+[20:41 --> 20:45] And the tribes across the country, including some of the most steadfast Roman
+[20:45 --> 20:48] supporters, flocked to Vercingetorix's banner.
+[20:49 --> 20:51] Caesar was facing the fight of his life.
+[20:52 --> 20:53] The whole country was now in revolt.
+[20:54 --> 20:56] And if he was forced to retreat to Roman territory,
+[20:56 --> 20:59] he was sure to be stripped of his command by enemies in the Senate.
+[21:00 --> 21:02] So rather than fall back to the south,
+[21:03 --> 21:05] Caesar ordered his shock troops to move north.
+[21:07 --> 21:11] At this desperate hour, Caesar caught one of his many lucky breaks.
+[21:12 --> 21:15] Engaging in a brief battle, little more than a skirmish,
+[21:15 --> 21:18] the Romans got the better of an attacking Gallic force.
+[21:19 --> 21:20] The defeat spooked Vercingetorix.
+[21:21 --> 21:23] And rather than staying on the offensive,
+[21:23 --> 21:27] he ordered his army of 80,000 to retreat to the walled city of Alesia.
+[21:28 --> 21:30] Caesar saw his fortune change at once.
+[21:31 --> 21:34] Alesia was a hill fort located between two rivers.
+[21:34 --> 21:37] And though it would be nearly impossible to storm,
+[21:37 --> 21:40] it was also nearly impossible to keep it resupplied.
+[21:41 --> 21:44] All he had to do was ring the city and prevent any relief from getting through.
+[21:44 --> 21:49] After that, it was just a matter of waiting for those trapped inside to surrender.
+[21:50 --> 21:53] So Caesar ordered a wall built around the entire city.
+[21:53 --> 21:57] The Gauls inside launched attacks to try and halt the construction.
+[21:57 --> 21:59] But the Romans fought them off and kept building.
+[22:01 --> 22:04] Soon, the city was encircled and the waiting game began.
+[22:05 --> 22:07] But then word came of a new wrinkle.
+[22:08 --> 22:11] A relief army, estimated at some 60,000, was on its way.
+[22:12 --> 22:16] Caesar, thinking fast and unwilling to lose his opportunity
+[22:16 --> 22:19] to force Vercingetorix to surrender, ordered a second wall be built.
+[22:20 --> 22:22] This one facing out towards the oncoming army.
+[22:23 --> 22:25] Once this wall was completed,
+[22:25 --> 22:29] the Roman army's whole world collapsed to the few hundred yards between the two walls.
+[22:30 --> 22:33] The game now boiled down to who would relent first.
+[22:34 --> 22:36] The Romans were not well stocked,
+[22:36 --> 22:39] but those trapped in Alesia were already starving to death.
+[22:40 --> 22:42] The commander of the newly arrived Gallic army,
+[22:43 --> 22:46] new Vercingetorix, would not be able to hold out much longer.
+[22:46 --> 22:49] So he launched a full-scale attack at a weak point in the outer wall.
+[22:50 --> 22:54] The legion's master repelled the assault, but slowly began to lose ground.
+[22:55 --> 22:59] Fearing that the day and the whole campaign might be slipping away,
+[22:59 --> 23:02] Caesar personally led his cavalry out from behind the walls
+[23:02 --> 23:04] and circled around behind the Gauls.
+[23:05 --> 23:08] Suddenly surrounded, the Gauls panicked and broke apart in disarray.
+[23:10 --> 23:15] Inside Alesia, Vercingetorix watched with resignation as his rebellion came to an end.
+[23:16 --> 23:17] There was no hope of lifting the siege now.
+[23:19 --> 23:23] The next day, the Gallic king rode out of the city on his horse and surrendered to Caesar,
+[23:24 --> 23:27] hoping to spare as many of his people as possible from future reprisals.
+[23:28 --> 23:32] The siege of Alesia, which ended in October of 52 BC,
+[23:32 --> 23:35] marked the end of organized resistance to Roman rule in Gaul.
+[23:36 --> 23:39] Caesar had achieved everything he had set out to do,
+[23:39 --> 23:41] conquering vast new territories for Rome,
+[23:41 --> 23:43] exploring lands heretofore unknown,
+[23:43 --> 23:47] and making himself an incredibly wealthy and famous man.
+[23:48 --> 23:51] He hoped that his victories would earn him safe passage back to Rome
+[23:51 --> 23:54] and freedom from prosecution once he arrived there.
+[23:54 --> 23:57] But I think we all know that this was never meant to be.
+[24:00 --> 24:04] Next week, we will bring the rest of the players in this greatest of Roman dramas
+[24:04 --> 24:07] up to that fateful year of 49 BC.
+[24:07 --> 24:11] While Caesar was in Gaul, Crassus had started a war with,
+[24:11 --> 24:13] and then been destroyed by, the Parthians.
+[24:14 --> 24:18] Pompey had slowly moved into the senatorial camp after his consulship ended.
+[24:19 --> 24:22] Cicero had been banished and then unbanished from the city,
+[24:22 --> 24:27] while Cato had been forced to take an unwanted command in Cyprus by Clodius,
+[24:27 --> 24:30] whose free grain program excited the masses, distressed the Senate,
+[24:31 --> 24:33] and eventually led to the populist Hellraiser's murder,
+[24:33 --> 24:37] a murder that would spark riots as rival gangs took to the streets
+[24:37 --> 24:40] to battle one another for control of the city.
+[24:41 --> 24:43] Rome was quickly descending into violent anarchy,
+[24:44 --> 24:48] and when the great general Caesar finally arrived and put the city under his thumb,
+[24:48 --> 24:51] many welcomed him not with fear, but with relief,
+[24:52 --> 24:56] never realizing that the stability Caesar promised came at the price of their freedom.
+[25:18 --> 25:20] Thank you for watching!

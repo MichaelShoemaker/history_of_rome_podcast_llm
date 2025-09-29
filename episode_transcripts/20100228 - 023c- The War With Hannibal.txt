@@ -1,0 +1,301 @@
+# 20100228 - 023c- The War With Hannibal
+# Detected language: en
+# Duration: 951.07 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:07] Hello and welcome to the history of Rome.
+[00:09 --> 00:13] After the utter devastation of Cannae, no one would have blamed the Romans had they
+[00:13 --> 00:14] just given up.
+[00:15 --> 00:20] The history of the world could have very easily read something like, but after the
+[00:20 --> 00:22] defeat at Cannae, the Romans surrendered.
+[00:22 --> 00:26] They had been beaten soundly over and over again by Hannibal and on their own turf
+[00:26 --> 00:27] no less.
+[00:27 --> 00:32] The Romans agreed to terms and their just recently acquired empire was
+[00:32 --> 00:32] shattered.
+[00:33 --> 00:37] Next week on the history of Carthage we'll talk about Hannibal's falling out
+[00:37 --> 00:39] with Philip and the war in the east.
+[00:41 --> 00:45] But despite the obvious rationales for quitting the fight, Rome's
+[00:45 --> 00:49] determination to carry on was only bolstered by their defeats. The old
+[00:49 --> 00:54] Roman obstinacy was back with a vengeance. That special blend of honor,
+[00:54 --> 00:59] pride and masochism that had seen the Romans through so much would see them
+[00:59 --> 01:02] through this, their darkest hour as well.
+[01:03 --> 01:06] That is not to say the Romans proceeded through their trial unchanged.
+[01:07 --> 01:11] On the contrary, the early years of the Second Punic War fundamentally
+[01:11 --> 01:16] altered life in Rome. It was simultaneously and paradoxically a
+[01:16 --> 01:20] time of both democratization and consolidation of power in the hands
+[01:20 --> 01:26] of the elites. Popular agitation and rival political factions had sent out
+[01:26 --> 01:30] field commanders with diametrically opposed aims and the confused Roman
+[01:30 --> 01:35] strategies had been easily exploited by Hannibal. The case of Fabius and
+[01:35 --> 01:39] Minucius presaged the much greater catastrophe that befell Vero and
+[01:39 --> 01:45] Paulus. But after Cannae, the Senate took control of the war, intent on
+[01:45 --> 01:48] prosecuting the conflict with something resembling a consistent
+[01:48 --> 01:53] strategy. The tribunes and the popular assemblies were shut out. The
+[01:53 --> 01:58] need for quick and coherent policies made the slow turning wheels of
+[01:58 --> 02:03] democracy not just obsolete but dangerous. The passions of the mob had
+[02:03 --> 02:06] sent Vero riding off to an ill-conceived battle that nearly
+[02:06 --> 02:11] destroyed the empire. The Senate was dead set against letting that sort of
+[02:11 --> 02:15] thing happen again. The elite seized control and for the most part the
+[02:15 --> 02:21] people were content to go along. But at the same time the seizure of power was
+[02:21 --> 02:25] going on, the opportunities for political advancement had never been
+[02:25 --> 02:30] so readily available. The sons of the great patrician families were strewn
+[02:30 --> 02:34] across the battlefields of Italy. These young men, who would have filled
+[02:34 --> 02:39] the leadership positions for a generation, were all dead now. Rome
+[02:39 --> 02:43] needed praetors and aediles and military tribunes. Anyone,
+[02:43 --> 02:47] patrician or plebe who showed a little initiative and bravery was liable to
+[02:47 --> 02:52] find himself given commands he otherwise could never dream of. The
+[02:52 --> 02:56] second Punic War was, by necessity, a time of great turnover in the
+[02:56 --> 03:01] leadership class and it was based, again, out of necessity on merit rather
+[03:01 --> 03:06] than blood. During this period the cream rose to the top and Rome was well
+[03:06 --> 03:12] served for embracing the transition. So yes, the elites took control, but
+[03:12 --> 03:19] it was a merit-based elite open to all. Despite the plausibility that some in
+[03:19 --> 03:22] Rome would have been more than willing to talk peace with Hannibal, the
+[03:22 --> 03:27] histories don't mention any internal conflict over what to do, even to
+[03:27 --> 03:31] vilify some chicken-hearted minority who wanted out of the war. It seems
+[03:31 --> 03:35] that on the subject of surrender the Romans were of one mind and they
+[03:35 --> 03:39] weren't about to do it. So they re-raised legions from their seeming
+[03:39 --> 03:46] supply of manpower, though, admittedly, it was not as easy as before. They had
+[03:46 --> 03:51] to both lower the youngest eligible age and raise the oldest eligible age and,
+[03:51 --> 03:55] in an unprecedented move, purchased 8,000 slaves from their various
+[03:55 --> 03:59] citizen owners and enrolled them into an army of their own under the
+[03:59 --> 04:03] command of Tiberius Semperonius Gracchus, the great uncle of the
+[04:03 --> 04:08] famous Gracchi brothers, who we will get to in a few weeks. Hannibal's
+[04:08 --> 04:12] response to his smashing victory at Cannae was, as I said last week, to do
+[04:12 --> 04:17] nothing. He did not march on Rome and really force the Romans to think about
+[04:17 --> 04:22] what they were doing. Instead, he returned to his strategy of cutting
+[04:22 --> 04:26] the Romans off from their allies. And across the extended communication lines
+[04:26 --> 04:31] of the Mediterranean, Hannibal stayed in contact with his brother Hasdrubal
+[04:31 --> 04:34] in Spain and they agreed that Hasdrubal should continue to press
+[04:34 --> 04:38] against the Romans in Iberia to prevent those stationed there from
+[04:38 --> 04:42] returning to Italy to fight. The hope was to make the Romans fight for their
+[04:42 --> 04:45] territory outside of Italy, while Hannibal made them fight on the
+[04:45 --> 04:50] peninsula itself. The Carthaginian brothers hoped to split the attention
+[04:50 --> 04:54] of the Romans in order to conquer them. Retaking Sicily in particular
+[04:54 --> 04:58] burned in the minds of both, as their father had been forced to leave
+[04:58 --> 05:01] the island not, as the brothers believed, because he had been bested
+[05:01 --> 05:05] in the field, but because he had been abandoned by Carthaginian politicians.
+[05:06 --> 05:10] The history of the stabbed in the back theory stretches, as you can see, far
+[05:10 --> 05:17] back into antiquity. And in 216 BC, just after the Battle of Cannae, fate
+[05:17 --> 05:23] stepped in to deliver the island to the Carthaginians. Hyro, king of
+[05:23 --> 05:28] Syracuse and stalwart ally of Rome, finally died after 53 years on the
+[05:28 --> 05:33] throne. He was succeeded by his grandson, Hieronymus, who had just turned
+[05:33 --> 05:39] fifteen. Though the old king had never faltered in his allegiance to Rome, a
+[05:39 --> 05:42] large bulk of the nobility was all for breaking away to the
+[05:42 --> 05:47] Carthaginians, especially after Cannae. When Hieronymus ascended to
+[05:47 --> 05:51] the throne, the impressionable youth was easily persuaded to invite the
+[05:51 --> 05:55] Carthaginians onto the island. A treaty was quickly concluded, which
+[05:55 --> 05:59] promised aid to Carthage in return for staying out of internal Sicilian
+[05:59 --> 06:03] affairs. The young king immediately began operations against the
+[06:03 --> 06:09] remaining Roman legions on the island. But Hieronymus proved himself to be
+[06:09 --> 06:13] the prototypical depraved child tyrant, and his wanton displays of
+[06:13 --> 06:18] arrogant despotism soon raised the ire of many a Syracusian. There
+[06:18 --> 06:22] was still a sizable pro-Roman population within the upper class,
+[06:22 --> 06:25] and while Hieronymus was out on campaign, they had him assassinated,
+[06:26 --> 06:30] much to the relief of the general public. However, the conspirators
+[06:30 --> 06:34] then badly overplayed their hand and murdered the rest of Hiero's
+[06:34 --> 06:39] popular family, and turned public opinion right back against them. Two
+[06:39 --> 06:42] Carthaginian generals who had been sent to the island to advise
+[06:42 --> 06:46] Hieronymus were raised up by the Syracusian soldiers and thrust
+[06:46 --> 06:50] into a position of supreme command. They returned to Syracuse at
+[06:50 --> 06:53] the head of the army and ousted the pro-Roman leaders of the coup.
+[06:54 --> 06:58] Suddenly, just like that, a pair of Carthaginian generals were in
+[06:58 --> 07:01] control of Syracuse, and Sicily was back in the hands of
+[07:01 --> 07:07] Carthage, just as Hannibal dreamed it would be. News of this
+[07:07 --> 07:10] unexpected and fortuitous turn of events was music to the ears
+[07:10 --> 07:15] of Hannibal in Italy and Hasdrubal in Spain. While Hannibal
+[07:15 --> 07:17] marched south to try and break the already shaky Roman
+[07:17 --> 07:21] legions of Magna Graecia, Hasdrubal attempted to coordinate
+[07:21 --> 07:27] a campaign against the Scipione brothers. Publius and Neus
+[07:27 --> 07:30] Scipio, the father and uncle of Scipio Africanus, however,
+[07:31 --> 07:33] were proving to be more than a match for the Carthaginian
+[07:33 --> 07:37] army sent against them in Spain. Though Hasdrubal was
+[07:37 --> 07:40] ostensibly an overall command there, there were three
+[07:40 --> 07:44] Carthaginian armies in the field, and each general had his
+[07:44 --> 07:47] own idea about what ought to be done and who ought to
+[07:47 --> 07:50] receive the glory for driving the Romans out of Spain.
+[07:51 --> 07:54] Plus, the loyalty of the Spanish mercenaries was always
+[07:54 --> 07:56] in doubt, as they made for the hills anytime there was
+[07:56 --> 08:01] real trouble. Nearly five years would pass without
+[08:01 --> 08:04] either side gaining much of anything in Spain. The
+[08:04 --> 08:07] Scipiones did manage to take back Saguntum, the city
+[08:07 --> 08:10] that had started the war, but beyond that, not much
+[08:10 --> 08:15] land changed hands. The Scipiones were making all the
+[08:15 --> 08:18] right moves, and in the tradition of Fabius, avoided
+[08:18 --> 08:20] decisive battles that might knock them out of the
+[08:20 --> 08:23] fight. As much as the Carthaginians were intent on
+[08:23 --> 08:26] dividing Roman attention, it was the Romans who were
+[08:26 --> 08:28] getting the better of splitting the theaters of
+[08:28 --> 08:31] focus. Hasdrubal was looking to dispatch the
+[08:31 --> 08:33] Scipiones and make for Italy himself to meet up
+[08:33 --> 08:36] with Hannibal, but the Romans were not going
+[08:36 --> 08:41] quietly into that good night. But then, in 211 BC,
+[08:42 --> 08:44] the Scipiones made an ill-advised strategic
+[08:44 --> 08:46] decision that would bring them both to ruin.
+[08:48 --> 08:51] Bolstered by 20,000 Celtabarian mercenaries, the
+[08:51 --> 08:54] 30,000 Romans in Spain found themselves in a
+[08:54 --> 08:56] position where they outnumbered two nearby
+[08:56 --> 08:59] Carthaginian armies, including the force
+[08:59 --> 09:02] commanded by Hasdrubal. The Carthaginians had
+[09:02 --> 09:05] roughly 35,000 men at their disposal, and the
+[09:05 --> 09:08] Scipiones decided time was ripe to punch out the
+[09:08 --> 09:12] Carthaginians. They split their own army, with
+[09:12 --> 09:14] Publius leading about a third of the Romans and
+[09:14 --> 09:17] all the Celtabarians against Hasdrubal, while
+[09:17 --> 09:19] Publius led the bulk of the Romans against the
+[09:19 --> 09:23] other Carthaginian army. But, unbeknownst to
+[09:23 --> 09:25] the Roman generals, the army Publius was
+[09:25 --> 09:27] attacking was in the process of being
+[09:27 --> 09:29] reinforced, and the Celtabarians, under
+[09:29 --> 09:32] Neus' command, had been bribed to desert at
+[09:32 --> 09:35] the outset of any battle. So, rather than
+[09:35 --> 09:37] having the advantage on both fronts, the
+[09:37 --> 09:39] Scipiones were outnumbered everywhere.
+[09:41 --> 09:44] Publius arrived at his objective first, but
+[09:44 --> 09:46] after some confused night fighting and the
+[09:46 --> 09:49] surprise arrival of a large contingent of
+[09:49 --> 09:51] Numidian cavalry, the Romans were pushed
+[09:51 --> 09:54] back and then broken. Publius Scipio
+[09:54 --> 09:56] himself was killed in the fighting, while
+[09:56 --> 09:59] only a small number of his army managed to
+[09:59 --> 10:02] escape. Unaware of what had happened to
+[10:02 --> 10:04] his brother, Neus approached Hasdrubal
+[10:04 --> 10:07] with confidence. The Carthaginians stalled
+[10:07 --> 10:09] for time until he was sure that things
+[10:09 --> 10:11] in the north were unfolding according to
+[10:11 --> 10:13] plan, and then formed up for battle.
+[10:14 --> 10:17] Neus ordered his men out and was horrified
+[10:17 --> 10:19] to find the Celtabarians, good to their
+[10:19 --> 10:21] word, at least in this case,
+[10:21 --> 10:24] immediately deserted. Left with only
+[10:24 --> 10:26] about 10,000 troops, Neus didn't stand a
+[10:26 --> 10:29] chance. He oversaw one of the great
+[10:29 --> 10:31] last stands in history, fortifying a
+[10:31 --> 10:33] hopeless position with saddles and
+[10:33 --> 10:35] backpacks, and fighting it out to the
+[10:35 --> 10:38] last man. In the span of a few days, both
+[10:38 --> 10:41] Roman commanders and the bulk of the
+[10:41 --> 10:43] legions in Spain lay dead, and five
+[10:43 --> 10:45] years of careful campaigning had been
+[10:45 --> 10:49] for naught. Now, I know what you're
+[10:49 --> 10:51] thinking. How is it that the Romans
+[10:51 --> 10:54] lost every decisive battle and still
+[10:54 --> 10:56] managed to win the war? Well, I'll
+[10:56 --> 10:59] tell you, they didn't lose every
+[10:59 --> 11:01] decisive battle in the war. In fact,
+[11:01 --> 11:03] at the same time the Romans were
+[11:03 --> 11:05] losing in Spain, they were winning in
+[11:06 --> 11:09] Sicily. Back on the island, the Romans
+[11:09 --> 11:11] sent Marcus Claudius Marcellus to
+[11:11 --> 11:13] reinforce the two legions already
+[11:13 --> 11:15] stationed on the island at the time of
+[11:15 --> 11:18] Hiro's death. These numbers included
+[11:18 --> 11:20] the survivors of Cannae, who were
+[11:20 --> 11:22] forced to serve in exile in Sicily
+[11:22 --> 11:24] without leave or any hope at all,
+[11:24 --> 11:26] really, of returning home. Broadly
+[11:26 --> 11:28] speaking, the troops who survived
+[11:28 --> 11:30] Cannae did their best to die in
+[11:30 --> 11:31] battle, where they could at least
+[11:31 --> 11:33] reclaim some of their lost honor.
+[11:35 --> 11:37] Marcellus' orders were simple. Take
+[11:37 --> 11:39] back Sicily and regain control of the
+[11:39 --> 11:41] vital food supplies Rome needed to
+[11:41 --> 11:43] survive, with Hannibal off ravaging
+[11:43 --> 11:47] the Italian countryside. Marcellus
+[11:47 --> 11:48] immediately ordered a siege of
+[11:48 --> 11:51] Syracuse. The city had yet to be
+[11:51 --> 11:53] taken by an invading army and had
+[11:53 --> 11:55] repelled all comers quite handily
+[11:55 --> 11:57] over the years, but Marcellus was
+[11:57 --> 11:59] intent on conquering the
+[11:59 --> 12:02] city. His first attempt, though,
+[12:02 --> 12:05] failed spectacularly, just as had all
+[12:05 --> 12:07] the others. The ace in the hole of the
+[12:07 --> 12:09] Syracusans was their great
+[12:09 --> 12:12] mathematician, physicist, astronomer,
+[12:12 --> 12:14] inventor, and all-around super-genius
+[12:14 --> 12:17] Archimedes, who designed a number of
+[12:17 --> 12:18] defensive weapons for the city to
+[12:18 --> 12:21] help repel invaders. For the current
+[12:21 --> 12:23] war effort, Archimedes had designed
+[12:23 --> 12:25] grappling hooks that could be lowered
+[12:25 --> 12:27] from the walls and affect risk-free
+[12:27 --> 12:29] devastation on Roman naval assaults,
+[12:30 --> 12:31] as well as catapults that launched
+[12:31 --> 12:33] ridiculously-sized boulders at the
+[12:33 --> 12:37] Romans with ease. It should come as no
+[12:37 --> 12:38] surprise to anyone that the great
+[12:38 --> 12:40] scientist died at the hands of a
+[12:40 --> 12:42] Roman soldier after the city was taken.
+[12:44 --> 12:46] Repelled in his initial assault,
+[12:46 --> 12:48] Marcellus settled in to starve the
+[12:48 --> 12:51] city out. Two-and-a-half years would
+[12:51 --> 12:53] pass before the stalemate was broken.
+[12:53 --> 12:55] A group of pro-Roman nobles slipped
+[12:55 --> 12:57] through the lines and arranged to
+[12:57 --> 13:00] betray the city into Roman hands. The
+[13:00 --> 13:02] Romans timed an attack to coincide
+[13:02 --> 13:04] with a local festival and managed to
+[13:04 --> 13:06] scale the walls and take control of
+[13:06 --> 13:08] most of the city before they were
+[13:08 --> 13:11] detected. The Carthaginian generals
+[13:11 --> 13:13] in charge retreated behind an inner
+[13:13 --> 13:15] wall, holding up in the citadel of
+[13:15 --> 13:18] the city. Another stalemate ensued.
+[13:18 --> 13:20] The Carthaginians attempted to
+[13:20 --> 13:21] relieve the city by sending a
+[13:21 --> 13:24] number of fleets, but a combination of
+[13:24 --> 13:25] foul weather and Roman interference
+[13:25 --> 13:29] kept most help away. To make matters
+[13:29 --> 13:31] worse, a plague swept across Italy in
+[13:31 --> 13:34] 211 BC, decimating the Carthaginian
+[13:34 --> 13:36] army, looking for an opportunity to
+[13:36 --> 13:38] aid the Syracusans and bringing those
+[13:38 --> 13:42] trapped inside to their knees. After
+[13:42 --> 13:44] being abandoned by the Carthaginian
+[13:44 --> 13:46] generals, those still holding out
+[13:46 --> 13:48] inside the city surrendered and
+[13:48 --> 13:50] Marcellus claimed Syracuse for Rome.
+[13:51 --> 13:53] Then, in an uncharacteristic display
+[13:53 --> 13:56] of barbarism, Marcellus turned his
+[13:56 --> 13:57] troops loose on the city, with
+[13:57 --> 13:59] permission to haul off anything they
+[13:59 --> 14:02] could. It was in the course of this
+[14:02 --> 14:04] looting that Archimedes was killed.
+[14:05 --> 14:07] The sack of Syracuse shocked even the
+[14:07 --> 14:08] Romans, who still looked with
+[14:08 --> 14:10] reverence on the great Greek city
+[14:10 --> 14:12] and were horrified to hear how poorly
+[14:12 --> 14:14] its citizens, art, and treasure had
+[14:14 --> 14:18] been treated. However, they were not so
+[14:18 --> 14:19] torn up that they did not celebrate
+[14:19 --> 14:21] novation for Marcellus upon his
+[14:21 --> 14:26] return to Rome. So we'll leave Rome on
+[14:26 --> 14:28] an upbeat this week after ending the
+[14:28 --> 14:30] last two episodes with devastating
+[14:30 --> 14:32] Roman defeats. Even though they had
+[14:32 --> 14:34] lost the initiative in Spain, they
+[14:34 --> 14:36] had turned the situation in Sicily
+[14:36 --> 14:38] around and secured most of the island
+[14:38 --> 14:42] once again for Rome. Next week, we
+[14:42 --> 14:43] were returned to Italy and traced
+[14:43 --> 14:45] the movement of Hannibal during these
+[14:45 --> 14:47] years and followed the Romans as they
+[14:47 --> 14:49] followed Hannibal around and flipped
+[14:49 --> 14:51] back cities Hannibal had flipped to
+[14:51 --> 14:54] Carthaginian cause. There were few
+[14:54 --> 14:56] out-and-out battles between the two
+[14:56 --> 14:58] armies, just a lot of territory
+[14:58 --> 15:00] swapping and internal political
+[15:00 --> 15:02] machinations between rival factions
+[15:02 --> 15:05] inside the Italian cities. We will
+[15:05 --> 15:07] also introduce next week young
+[15:07 --> 15:09] Scipio Africanus, who would take
+[15:09 --> 15:11] command of the situation in Spain and
+[15:12 --> 15:13] attempt to avenge his father's
+[15:13 --> 15:16] defeat there. Only 25 at the time, he
+[15:16 --> 15:18] was given the command at this
+[15:18 --> 15:20] unprecedented age, not because he
+[15:20 --> 15:22] displayed any great ability or seemed
+[15:22 --> 15:24] to be the savior of Rome, but rather
+[15:24 --> 15:26] because he was the only one who
+[15:26 --> 15:27] volunteered for the job.

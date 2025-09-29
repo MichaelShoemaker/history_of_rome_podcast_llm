@@ -1,0 +1,322 @@
+# 20100225 - 008- Decades of Gloom
+# Detected language: en
+# Duration: 924.60 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:06] Hello, and welcome to the History of Rome.
+[00:08 --> 00:11] The years after the expulsion of the Decemberate were hard.
+[00:11 --> 00:15] Old problems remained unsolved while new ones threatened to tear the city apart.
+[00:16 --> 00:20] Patrician and plebe were at each other's throats over wealth, power, and land.
+[00:21 --> 00:24] The population of the city was growing and there was not enough land to give them
+[00:24 --> 00:26] and not enough food to feed them.
+[00:26 --> 00:31] Crop failures exasperated the problem and famine became a persistent killer.
+[00:31 --> 00:35] Bitter tensions led to a breakdown of military resolve and old enemies, long
+[00:35 --> 00:39] contained, now returned to match for their former betters.
+[00:39 --> 00:43] The Volscians and Aquians both peeled off Roman territory to the east and
+[00:43 --> 00:46] south, and there was little the legions could do about it.
+[00:46 --> 00:50] This is how the Romans limped through the second half of the 400s BC.
+[00:51 --> 00:53] Hungry, tired, weak, and demoralized.
+[00:54 --> 00:57] At the turn of the century, a final victory over Viet would lift the hopes,
+[00:58 --> 00:59] albeit briefly, of the city.
+[00:59 --> 01:02] But for now, life was a dreary war of attrition.
+[01:04 --> 01:07] In the aftermath of the publication of the Twelve Tables, the plebes
+[01:07 --> 01:11] immediately became aware of an institutionalized bias against them.
+[01:12 --> 01:14] They were incensed to see a codification of the ban against
+[01:14 --> 01:18] patrician-plebe marriage and immediately opened a new front in
+[01:18 --> 01:19] their war for equality.
+[01:20 --> 01:23] The issue of greatest concern was access to the high offices of state.
+[01:24 --> 01:27] This meant the consulship and the religious offices of Pontifex Maximus
+[01:27 --> 01:30] and its subordinate priesthoods.
+[01:30 --> 01:34] Only patricians by law could hold these offices, and if plebes could
+[01:34 --> 01:37] not intermarry with patricians, then they would never gain access to
+[01:37 --> 01:41] the highest positions of authority or have the final say in law and religion.
+[01:42 --> 01:44] The plebes attacked this imbalance from two angles.
+[01:45 --> 01:48] First, they sought to legalize patrician-plebe intermarriage, and
+[01:48 --> 01:52] second, they demanded that the consulship be open to plebe candidates.
+[01:52 --> 01:56] The former would be won quickly, and as to the latter, it would be just
+[01:56 --> 02:01] under 100 years before the first plebe was finally named consul in 366 BC.
+[02:02 --> 02:06] In 445, a tribune named Canuleus introduced a bill legalizing
+[02:06 --> 02:08] patrician-plebe marriage.
+[02:08 --> 02:11] The measure was fought by the patricians who fretted about the
+[02:11 --> 02:15] dilution of pure patrician blood, but their resistance was only half-hearted.
+[02:16 --> 02:19] For one thing, their arguments really had no leg to stand on.
+[02:20 --> 02:24] When it came to officiating the necessary religious sacrifices, the Romans,
+[02:24 --> 02:28] all of them, believed that a patrician must be the official in charge or
+[02:28 --> 02:29] that gods would be offended.
+[02:30 --> 02:33] Some patrician families claimed that mixing the two classes would
+[02:33 --> 02:36] inevitably offend the gods, but in Roman law legal status followed
+[02:36 --> 02:39] the father's position alone without any concept of genetic makeup.
+[02:40 --> 02:44] Incest, for example, did not even cover relations between maternal
+[02:44 --> 02:47] cousins, they were simply not considered part of the same family.
+[02:47 --> 02:50] So claims about blood dilution came off as absurd.
+[02:51 --> 02:54] Any child born to a patrician father was a patrician, period.
+[02:55 --> 02:58] Flimsy racial arguments aside, the matter basically came down to not
+[02:58 --> 03:02] wanting to share with the other children, and patrician solidarity soon cracked.
+[03:03 --> 03:06] There were a number of noble families who eyed the fortunes of
+[03:06 --> 03:09] the wealthy plebe families, and the measure was soon passed.
+[03:10 --> 03:13] As to admission into the consulship, the patricians fought much
+[03:13 --> 03:16] harder to prevent it, and far dirtier.
+[03:16 --> 03:19] This was not a toy that they were going to share with the other children.
+[03:20 --> 03:24] And so in 444 BC, right on the hills of plebes gaining at least nominal
+[03:24 --> 03:27] access to power, the consulship was suspended and
+[03:27 --> 03:30] the third manifestation of executive power was inaugurated,
+[03:31 --> 03:33] military tribunes with consular power.
+[03:34 --> 03:37] The switch was not permanent though, and for the next 80 odd years,
+[03:37 --> 03:41] the executive leadership of Rome alternated between the new military tribunes
+[03:41 --> 03:45] and the traditional dual consulship, depending on the circumstances of a given year.
+[03:46 --> 03:50] Initially, three military tribunes would be elected by the centuriata and
+[03:50 --> 03:52] granted executive authority over the state,
+[03:53 --> 03:56] though over the years that number rose to four and then to six.
+[03:57 --> 04:00] The introduction of the new executive form can be seen as a move by
+[04:00 --> 04:03] the patricians to protect the consulship from plebe taint.
+[04:04 --> 04:06] No plebe could be consul if no consuls were elected.
+[04:07 --> 04:11] The military tribunes were elected democratically by the army, and
+[04:11 --> 04:13] plebes as well as patricians stood for in one election.
+[04:14 --> 04:17] This was fine with the patricians as long as the sanctity of
+[04:17 --> 04:18] the consulship itself was guarded.
+[04:19 --> 04:24] Further, by increasing the number of executives, plebe ambition was mollified,
+[04:24 --> 04:27] and at the same time power was watered down so that the elected plebes
+[04:27 --> 04:31] were not as singularly powerful as they would be if they had been consuls.
+[04:32 --> 04:36] Plus, the entire exercise kept plebes from agitating too hard for
+[04:36 --> 04:37] admission to the consulship.
+[04:38 --> 04:44] For the years between 444 and 367 BC, military tribunes were elected roughly
+[04:44 --> 04:48] half the time, the other years being governed by the traditional dual consuls.
+[04:49 --> 04:52] Much has gone into analyzing what factors determined whether consuls or
+[04:52 --> 04:56] tribunes would be elected for a given year, but by cross-referencing
+[04:56 --> 05:00] executive form with military activity, a possible answer emerges.
+[05:01 --> 05:05] Consuls were generally in charge during the major conflicts of the era, so
+[05:05 --> 05:08] it would seem that military tribunes were elected when no major military
+[05:08 --> 05:11] action was planned, whereas consuls were elected when engagement was imminent.
+[05:12 --> 05:16] This seems counterintuitive given the name military tribune, but
+[05:16 --> 05:17] it makes sense.
+[05:17 --> 05:21] Plebes with consular power were acceptable to the patricians as long
+[05:21 --> 05:24] as they were destined for little more than off-year administrative duties.
+[05:25 --> 05:28] When real action was required, the patrician-controlled consulship was
+[05:28 --> 05:29] returned.
+[05:30 --> 05:32] The patricians wanted to make sure that they alone
+[05:32 --> 05:34] determined the course of state and times of crisis.
+[05:35 --> 05:39] If this is true, then the creation of military tribunes with consular power
+[05:39 --> 05:43] was little more than a stall tactic formulated by the patricians to put off
+[05:43 --> 05:47] full political equality with the plebes, which it did for
+[05:47 --> 05:48] the better part of 80 years.
+[05:49 --> 05:52] A second action by the patricians further removed the plebes from access
+[05:52 --> 05:53] to real power.
+[05:54 --> 05:57] One of the most important duties of the consuls was administering
+[05:57 --> 05:59] the census once every five years.
+[05:59 --> 06:03] The census determined citizen status as well as classification within the
+[06:03 --> 06:05] five-tiered system of the communist centuriata.
+[06:06 --> 06:09] The consuls charged with taking the census had enormous latitude at the
+[06:09 --> 06:13] edges of the dividing lines to move citizens up or down, granting a
+[06:13 --> 06:16] degree of control over the end voting blocks of the centuriata.
+[06:17 --> 06:20] More than that even, it was during the census that citizen status was
+[06:20 --> 06:22] granted or revoked.
+[06:22 --> 06:26] Obviously, the patricians had a keen interest in maintaining control of
+[06:26 --> 06:30] the census, and when military tribunes were introduced, the administration of
+[06:30 --> 06:33] the census was peeled off from the other consular powers and invested
+[06:33 --> 06:37] into a new office that was destined to become one of the most coveted of
+[06:37 --> 06:38] all the magistries, the censor.
+[06:39 --> 06:43] In time, the censor would acquire other duties, most famously the
+[06:43 --> 06:47] vague directive to protect public morals, but for now the single
+[06:47 --> 06:49] role of administering the census was important enough.
+[06:50 --> 06:53] By senatorial decree, the censor had to be a patrician,
+[06:53 --> 06:57] ostensibly because of the religious ceremonies of the census they needed
+[06:57 --> 07:00] attending to, but most likely it was to make sure that plebes could never
+[07:00 --> 07:03] engineer more favorable voting blocks for themselves in the
+[07:03 --> 07:04] centuriata.
+[07:05 --> 07:09] These political reforms closed out the cycle initiated by Terran
+[07:09 --> 07:13] Tullus in 462 BC when he first proposed the creation of the 12
+[07:13 --> 07:13] Table.
+[07:13 --> 07:17] The political and economic structure of Rome would not see significant
+[07:17 --> 07:20] alteration until the opening of the Samnite Wars in the mid-300s
+[07:21 --> 07:25] not for lack of plebe agitation, but because the patricians seemed to
+[07:25 --> 07:27] have closed ranks and resisted any further reforms.
+[07:29 --> 07:32] As I said at the beginning, the years ahead were long and hard for
+[07:32 --> 07:32] Rome.
+[07:33 --> 07:37] Grain shortages were reported in a dozen of the next 50 years,
+[07:37 --> 07:38] with devastating famines following.
+[07:39 --> 07:42] The lack of nourishment inevitably led to plagues, which further
+[07:42 --> 07:44] decimated the population.
+[07:45 --> 07:47] Rome was forced to seek help from surrounding communities,
+[07:47 --> 07:51] north in Etruria and south in Magna Graecia and Sicily.
+[07:51 --> 07:54] Their requests, though, were denied as often as they were approved,
+[07:54 --> 07:57] and many of their neighbors reveled in Rome's misery after so many
+[07:57 --> 07:58] years of dominance.
+[07:59 --> 08:02] Just about every one of their enemies took advantage of Rome's
+[08:02 --> 08:05] depleted and malnourished army, and Rome's sphere of influence
+[08:05 --> 08:07] gradually began to erode.
+[08:07 --> 08:10] The Volscians and Aquians, once easily dispatched, now let
+[08:10 --> 08:13] their flocks graze in Roman fields uncontested.
+[08:14 --> 08:17] In the midst of this desperation, some men allowed their
+[08:17 --> 08:20] scruples to take a back seat to ambition, and one man in
+[08:20 --> 08:23] particular would pay the ultimate price for his hubris.
+[08:23 --> 08:26] A wealthy merchant named Manlius, who had never served in
+[08:26 --> 08:30] any important office but was of equestrian rank, began to
+[08:30 --> 08:32] dream bigger than his prudence should have allowed.
+[08:33 --> 08:37] In 439 BC, during a typical grain famine, official Roman
+[08:37 --> 08:41] envoys in Etruria rejected the Etruscan price for grain as
+[08:41 --> 08:43] they were gouging and returned to the city empty-handed.
+[08:44 --> 08:47] Manlius then went himself and agreed to pay the exorbitant
+[08:47 --> 08:50] cost, bringing home the grain the people needed and handing
+[08:50 --> 08:51] it out for free.
+[08:52 --> 08:54] Manlius was an overnight sensation, a newly minted
+[08:54 --> 08:56] political rock star.
+[08:56 --> 08:59] Everywhere he went he was greeted by large ovations
+[08:59 --> 09:00] acclaiming his generosity.
+[09:01 --> 09:04] Manlius looked at the adoring masses and at his own
+[09:04 --> 09:07] personal fortune and let his imagination get away from him.
+[09:07 --> 09:10] He moved quickly from dream to action and began to actively
+[09:10 --> 09:13] conspire against the state with the intention of making
+[09:13 --> 09:14] himself king.
+[09:14 --> 09:17] The Republican government, he rationalized, had failed to
+[09:17 --> 09:20] protect and feed the people where he, Manlius, had
+[09:20 --> 09:20] succeeded.
+[09:21 --> 09:22] It was only right that he should rule.
+[09:23 --> 09:25] He began cashing weapons and bribing the plebe
+[09:25 --> 09:28] leadership to rise with him when he made his move
+[09:28 --> 09:28] against the Senate.
+[09:29 --> 09:30] But alas, it was not to be.
+[09:31 --> 09:34] The state controller of supplies, a man named
+[09:34 --> 09:37] Minutius, dealt daily with the same grain merchants
+[09:37 --> 09:39] who dealt with Manlius and soon learned about the plot.
+[09:40 --> 09:43] He went straight away to the Senate, who flew into a panic,
+[09:43 --> 09:46] recognizing their own unpopularity, coupled with
+[09:46 --> 09:48] the people's desperate state might be enough to slip
+[09:48 --> 09:49] tyranny in the back door.
+[09:50 --> 09:53] The Senate needed a man whose fame and popularity outshone
+[09:53 --> 09:56] that of Manlius's to put a stop to the conspiracy.
+[09:57 --> 09:59] As I mentioned last week, they went back to
+[09:59 --> 10:02] Cincinnati, now well over 80, and appointed him
+[10:02 --> 10:03] dictator once again.
+[10:04 --> 10:06] All of Manlius's careful planning was
+[10:06 --> 10:07] undone in a moment.
+[10:07 --> 10:10] Cincinnati sent his master of horse to fetch Manlius
+[10:10 --> 10:11] and bring him forward for a trial.
+[10:12 --> 10:14] Manlius, knowing that he was in deep trouble,
+[10:14 --> 10:17] attempted to resist the summons, and when he did,
+[10:17 --> 10:19] the master of horse cut him down where he stood.
+[10:20 --> 10:22] There was a brief popular uproar over the murder,
+[10:22 --> 10:25] but Cincinnati legitimized the act, saying that
+[10:25 --> 10:27] Manlius was being summoned merely for trial
+[10:27 --> 10:29] and that it was his refusal to appear,
+[10:29 --> 10:32] not his alleged criminal activity that sealed his fate.
+[10:33 --> 10:35] Political order was restored and Cincinnati
+[10:35 --> 10:35] again resigned.
+[10:36 --> 10:39] Soon after the death of Manlius, an external threat
+[10:39 --> 10:41] emerged that would eventually lead Rome into its final
+[10:41 --> 10:43] definitive clash with Viet.
+[10:43 --> 10:46] The city of Fidene, an Etruscan outpost on the
+[10:46 --> 10:48] Roman side of the Tiber, which had been under
+[10:48 --> 10:51] Roman control for some time, decided to revolt
+[10:51 --> 10:52] and called for Viet's help.
+[10:53 --> 10:56] They figured that Rome, weak internally and caught up
+[10:56 --> 10:58] in the south with intrusive tribes, would be forced
+[10:58 --> 11:01] to let the city go, but Rome was determined
+[11:01 --> 11:02] to maintain control.
+[11:03 --> 11:06] Hostilities began with Fidene, hoping to goad
+[11:06 --> 11:07] Rome into a battle she would lose,
+[11:08 --> 11:09] murdered four visiting Roman envoys.
+[11:10 --> 11:12] This treacherous act did lead to an immediate
+[11:12 --> 11:14] Roman response, but no conclusive action was
+[11:14 --> 11:16] achieved on either side.
+[11:16 --> 11:19] The war with Viet-backed Fidene dragged on for years.
+[11:20 --> 11:22] To the Romans, victory was a necessity.
+[11:22 --> 11:24] If they lost control of Fidene, trade at the
+[11:24 --> 11:26] Tiber River would be severely hampered,
+[11:26 --> 11:28] but despite the Romans' best efforts,
+[11:28 --> 11:30] Fidene held out and trade suffered accordingly.
+[11:31 --> 11:34] Through the 430s and 420s BC, Rome found itself
+[11:34 --> 11:37] militarily engaged on three fronts,
+[11:37 --> 11:40] in the north, east, and south, economically isolated
+[11:40 --> 11:41] and politically divided.
+[11:42 --> 11:43] It was not a good time to be a Roman.
+[11:45 --> 11:48] Some relief came around 425 BC, when the Romans
+[11:48 --> 11:50] finally won back control over Fidene,
+[11:50 --> 11:53] but Viet itself still loomed on the horizon.
+[11:54 --> 11:56] The Romans, for the moment, dreaded a fight
+[11:56 --> 11:58] with their rival and did not follow up
+[11:58 --> 12:00] their recovery of Fidene with action
+[12:00 --> 12:01] into Viet territory.
+[12:01 --> 12:04] A confrontation was brewing between the two powers.
+[12:05 --> 12:07] Their political and economic destinies
+[12:07 --> 12:09] were on a collision course, but for now,
+[12:09 --> 12:10] a tense truce prevailed.
+[12:11 --> 12:13] Viet seemed to have been dealing with
+[12:13 --> 12:14] its own internal problems at the time,
+[12:15 --> 12:17] and so did not strike when the iron was hot,
+[12:17 --> 12:19] immediately at the end of a war which had
+[12:19 --> 12:20] drained Rome physically and emotionally.
+[12:21 --> 12:23] This gave the Romans a chance to catch
+[12:23 --> 12:25] their breath and consolidate their power.
+[12:26 --> 12:28] When the final clash with Viet finally erupted,
+[12:28 --> 12:30] the Romans were in a position to challenge
+[12:30 --> 12:32] their Etruscan rival on equal footing.
+[12:34 --> 12:36] The years leading up to the war with Viet were hard,
+[12:36 --> 12:38] but these decades would highlight
+[12:38 --> 12:40] the characteristic Roman obstinance
+[12:40 --> 12:41] that would win them an empire.
+[12:42 --> 12:44] The Romans simply did not give up.
+[12:44 --> 12:46] Beaten, harassed, tired, and divided,
+[12:46 --> 12:48] the Romans soldiered on.
+[12:48 --> 12:49] The Roman unwillingness to quit
+[12:49 --> 12:51] in the face of adversity bordered
+[12:51 --> 12:52] on the edge of insanity.
+[12:53 --> 12:55] They would accept catastrophic losses,
+[12:55 --> 12:56] but would never surrender.
+[12:56 --> 12:58] In the centuries that followed,
+[12:58 --> 13:00] Rome was many times beaten so badly
+[13:00 --> 13:01] that they should have relinquished
+[13:01 --> 13:03] their dreams of empire and retired
+[13:03 --> 13:04] to the dustbin of history,
+[13:05 --> 13:07] but instead they buried the dead
+[13:07 --> 13:08] and raised a fresh army,
+[13:08 --> 13:11] never suing for peace and never retreating.
+[13:12 --> 13:13] It was this unwavering advance
+[13:13 --> 13:15] that so frightened Rome's enemies.
+[13:15 --> 13:17] In battle, legionaries would fall
+[13:17 --> 13:19] and the line would keep marching
+[13:19 --> 13:21] incessantly forward, dispassionate,
+[13:21 --> 13:22] calm, and mechanical.
+[13:23 --> 13:24] There was no psyching out the legions
+[13:24 --> 13:25] or driving them to flight.
+[13:26 --> 13:27] They just kept coming.
+[13:28 --> 13:30] And if you decisively beat one Roman army,
+[13:30 --> 13:32] rather than surrendering like a civilized nation,
+[13:33 --> 13:35] the Romans raised another and set it against you
+[13:35 --> 13:37] until more from exhaustion than anything else
+[13:37 --> 13:40] you were beaten and inexplicably found yourself
+[13:40 --> 13:42] under the yoke of a foe you thought you'd beaten.
+[13:43 --> 13:44] This was the Roman way.
+[13:45 --> 13:46] And during these hard years,
+[13:46 --> 13:47] it was on full display.
+[13:48 --> 13:50] It has often been said that of some generations,
+[13:50 --> 13:53] much is asked and of others, much is given.
+[13:54 --> 13:56] Of this generation, much was asked
+[13:56 --> 13:58] and without even the promise of glory to sue them.
+[13:59 --> 14:00] Their fights were not the great wars
+[14:00 --> 14:01] that made men famous.
+[14:02 --> 14:04] They were forced to deal with persistent skirmishes
+[14:04 --> 14:07] of attrition, which cost lives and profited no one.
+[14:08 --> 14:10] The Romans of the Middle Imperium,
+[14:10 --> 14:12] which Gibbon famously called the safest,
+[14:12 --> 14:14] most civilized, and most comfortable generation
+[14:14 --> 14:17] in history, bears no resemblance to the thin,
+[14:17 --> 14:19] desperate Romans of the late 400s BC.
+[14:20 --> 14:22] But that future was secured by the sacrifice
+[14:22 --> 14:24] of these early suffering generations
+[14:24 --> 14:26] of whom much was asked and nothing was given.
+[14:28 --> 14:30] I'll close tonight with a rare programming note.
+[14:31 --> 14:32] I am going on vacation,
+[14:32 --> 14:34] so there will be no new episode next week.
+[14:34 --> 14:37] But fear not, we will return in two weeks
+[14:37 --> 14:39] and trace the final conflict with Viet,
+[14:39 --> 14:40] Rome's very own Trojan War,
+[14:41 --> 14:43] complete with victory secured by sneak attack,
+[14:43 --> 14:45] and introduce a giant of the early Republic,
+[14:46 --> 14:47] Marcus Furius Camillus,
+[14:47 --> 14:49] known as the second founder of Rome.
+[14:50 --> 14:51] Until then, I want to thank all of you
+[14:51 --> 14:54] who have subscribed and supported the history of Rome
+[14:54 --> 14:55] since it began.
+[14:55 --> 14:57] It has been an immensely gratifying experience
+[14:57 --> 15:00] and all of you out there listening have made it possible.
+[15:01 --> 15:03] Thank you, and I will see you in two weeks.

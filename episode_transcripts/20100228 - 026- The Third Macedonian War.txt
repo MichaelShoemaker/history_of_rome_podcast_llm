@@ -1,0 +1,279 @@
+# 20100228 - 026- The Third Macedonian War
+# Detected language: en
+# Duration: 861.57 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to The History of Rome, Episode 26, The Third Macedonian War.
+[00:13 --> 00:18] Having soundly beaten Macedon and Syria, the last two major powers in the East, Rome
+[00:18 --> 00:23] was now the dominant force in the Mediterranean, a distinction it would hold for the next
+[00:23 --> 00:24] 700 odd years.
+[00:25 --> 00:29] In the years after the Syrian War, the Romans were wrapped up with Gallic revolts
+[00:29 --> 00:32] in the Po Valley and persistent unrest in Spain.
+[00:33 --> 00:37] Though these territories had been officially conquered, the Romans found it as difficult
+[00:37 --> 00:42] to maintain their position in these territories as it had been to establish it in the first
+[00:42 --> 00:42] place.
+[00:43 --> 00:48] But for the most part, these were mere skirmishes in the wider scope of Mediterranean
+[00:48 --> 00:48] politics.
+[00:49 --> 00:55] The real center of attention remained Greece, where, like in Spain and Gaul, winning
+[00:55 --> 00:57] the prize was not the same as keeping the prize.
+[00:58 --> 01:03] Yes, the Romans had demonstrated the superiority of their arms, and even the superiority
+[01:03 --> 01:08] of their diplomatic corps, but the fiercely independent Greeks would never passively
+[01:08 --> 01:12] stand by as a foreign power held final say over their lives.
+[01:14 --> 01:18] Rome had its allies, most notably the Kingdom of Pergamum in Asia Minor, but
+[01:18 --> 01:22] the majority of Greeks bristled at the presence of the barbarians from the West.
+[01:23 --> 01:28] Factions of nobles in most of the important cities schemed constantly to carve out as
+[01:28 --> 01:32] much autonomy as they could, with an eye on eventually throwing off the Roman yoke.
+[01:33 --> 01:37] Greece was, after all, the oldest and greatest civilization on earth.
+[01:37 --> 01:42] Surely Roman rule was merely temporary, and in time the Greeks would retake their
+[01:42 --> 01:44] place as the leaders of civilization, right?
+[01:47 --> 01:52] In Macedon, Philip V had been put squarely in his place, and for all his pride and
+[01:52 --> 01:57] ambition, he was able to do little about his sorry state after being defeated at
+[01:57 --> 01:57] Cynicephaly.
+[01:58 --> 02:02] Though he hated Rome, he was a broken man who could not muster the energy for a
+[02:02 --> 02:03] full-scale revolt.
+[02:04 --> 02:08] That task would be left to his son, who would return the bravado and swagger
+[02:08 --> 02:12] to Macedon and renew their quest to drive the Italians from Greece forever.
+[02:14 --> 02:19] The catalyst of the Third Macedonian War was Philip V's death in 179 BC,
+[02:19 --> 02:24] which was, by all accounts, directly related to a quarrel between his two sons,
+[02:25 --> 02:26] Perseus and Demetrius.
+[02:28 --> 02:32] After the peace between Macedon and Rome, young Demetrius, Philip's second son,
+[02:32 --> 02:34] had been sent to Rome as a hostage.
+[02:35 --> 02:39] Years spent in the city had left the young prince with a pro-Roman world view.
+[02:39 --> 02:43] Perseus feared that the political leanings of his younger brother would manifest upon
+[02:43 --> 02:48] their father's death, that Rome would engineer a coup, and Perseus would be
+[02:48 --> 02:52] denied his rightful throne, while Demetrius ruled the puppet kingdom for Rome.
+[02:53 --> 02:58] So, when Demetrius returned to Macedon in 180 BC, Perseus moved quickly against
+[02:58 --> 03:02] his brother, convincing Philip that Demetrius was guilty of treason and was
+[03:02 --> 03:04] plotting with Rome to install himself as king.
+[03:06 --> 03:10] Philip allowed himself to be swayed and reluctantly ordered the execution of
+[03:10 --> 03:10] his son.
+[03:11 --> 03:15] Despite his belief that he had no choice, Philip never recovered from
+[03:15 --> 03:19] Demetrius' death, and within a year the old king was dead.
+[03:21 --> 03:25] This left Perseus in control and Rome concerned about their eastern flank.
+[03:26 --> 03:30] The Macedonian king kept testing Roman patience, clearly violating the treaty
+[03:30 --> 03:34] his father had signed by taking control of neighboring territory outside
+[03:34 --> 03:38] Macedon proper and opening diplomatic relations with the Greek political
+[03:38 --> 03:39] syndicates.
+[03:40 --> 03:44] Most worrisome to Rome, Perseus arranged marriage to the daughter of
+[03:44 --> 03:48] Lucius IV, who had succeeded his father Antiochus the Great as king of
+[03:48 --> 03:49] Syria.
+[03:50 --> 03:54] The Senate hoped for the best, though, and, weary of war and unwilling
+[03:54 --> 03:58] to embrace a belligerent stance, they turned a blind eye to Perseus'
+[03:58 --> 03:59] actions.
+[04:00 --> 04:04] The alliance between the two great Greek powers was a cause of concern
+[04:04 --> 04:08] in the Senate, but even more so for the kingdom of Pergamum, Rome's
+[04:08 --> 04:12] steadfast ally, whose territory bordered both Syria and Macedon.
+[04:13 --> 04:17] Envoys from Pergamum began to send dispatches detailing the outrages and
+[04:17 --> 04:21] offenses of Perseus, begging Rome to do something about the young upstart
+[04:21 --> 04:23] king of Macedon.
+[04:24 --> 04:27] Rome ignored the threat for as long as they could, but finally Illyria
+[04:27 --> 04:31] began to rise in revolt against Rome, and the common belief was that
+[04:31 --> 04:33] Perseus was behind the violence.
+[04:34 --> 04:37] That, coupled with an assassination attempt against the king of Pergamum,
+[04:37 --> 04:43] sealed the deal, and in 172 BC, legions were sent back across the Adriatic.
+[04:45 --> 04:48] At first, the Romans simply moved into Illyria to quell the uprising
+[04:48 --> 04:53] and stood on the border of Macedon, but a year later, war was
+[04:53 --> 04:56] officially declared and the legions headed into Macedon under the
+[04:56 --> 05:00] command of Licinius Crassus, an ancestor of the famous Triumvir, who
+[05:00 --> 05:04] would join with Julius Caesar and Pompey in their fatal three-way
+[05:04 --> 05:05] alliance a century later.
+[05:06 --> 05:10] This Crassus did not get his familial legacy off to a great start and
+[05:10 --> 05:13] promptly led the Romans to their first defeat in Greece.
+[05:14 --> 05:18] It was a minor engagement to be sure, but the propaganda value of the
+[05:18 --> 05:21] loss was a boon to Perseus, and Greek leaders who had kept their
+[05:21 --> 05:24] distance from an open conflict with Rome began to throw their
+[05:24 --> 05:25] support to Macedon.
+[05:26 --> 05:29] It was a decision that would haunt a lot of them and lead not to
+[05:29 --> 05:32] freedom, but to the obliteration of freedom.
+[05:34 --> 05:37] After direct confrontation with the Macedonians had proved to be more
+[05:37 --> 05:41] difficult than the Romans thought, the next two years saw the
+[05:41 --> 05:44] Roman army in the east turn toward more profitable and less
+[05:44 --> 05:48] dangerous pursuits, the plunder of defenseless Greek towns.
+[05:50 --> 05:53] The consuls in charge during these two years seemed to have
+[05:53 --> 05:57] had little ability or desire to control their men and the
+[05:57 --> 05:59] legions became little more than a highly efficient band of
+[05:59 --> 06:00] marauders.
+[06:01 --> 06:05] A great deal of wealth, plunder, and slaves were hauled back to Rome.
+[06:06 --> 06:08] Everyone profited, so discipline went out the window.
+[06:09 --> 06:13] This, coupled with the behind the scenes maneuvering of Perseus,
+[06:13 --> 06:15] turned even more Greeks against Rome.
+[06:16 --> 06:18] There was little to be gained by standing with the Romans now.
+[06:19 --> 06:22] The Italian brutes had no interest in governing, or indeed,
+[06:23 --> 06:24] the lives of Greeks in general.
+[06:25 --> 06:26] They just wanted to ransack the countryside.
+[06:28 --> 06:33] In 168 BC, the new consul for the year was Aemilius Paulus,
+[06:34 --> 06:36] the son of the Paulus who had tried to halt the battle of
+[06:36 --> 06:39] Cannae before it happened, and then died leading his troops
+[06:39 --> 06:40] into the massacre.
+[06:41 --> 06:44] More disciplined than the previous consuls, Paulus the
+[06:44 --> 06:47] younger immediately restored a sense of purpose to the
+[06:47 --> 06:49] troops, reminding them that they were there to fight as
+[06:49 --> 06:52] soldiers against an army, not a thief from innocent
+[06:52 --> 06:56] Greeks, who were, after all, nominally under Roman
+[06:56 --> 06:59] protection, if that was not a complete contradiction in
+[06:59 --> 07:00] terms by now.
+[07:01 --> 07:03] Paulus located the army of Perseus and announced his
+[07:03 --> 07:06] intention to make for the Macedonian army and defeat
+[07:06 --> 07:07] them.
+[07:09 --> 07:12] Perseus was well positioned with 40,000 troops on the
+[07:12 --> 07:14] Aegean coast, and dislodging him would take
+[07:14 --> 07:14] some doing.
+[07:15 --> 07:18] Paulus ordered one of his generals to take a chunk of
+[07:18 --> 07:20] the army and make a lot of noise approaching
+[07:20 --> 07:21] Perseus from the north.
+[07:22 --> 07:25] This maneuver convinced the Macedonians that the main
+[07:25 --> 07:28] Roman army would follow, and they prepared for an
+[07:28 --> 07:29] invasion from the north.
+[07:30 --> 07:33] However, as soon as darkness fell, the Roman
+[07:33 --> 07:36] expeditionary force kept right on walking and swung
+[07:36 --> 07:37] around behind the Greeks.
+[07:38 --> 07:40] Only the timely intervention of a Roman deserter
+[07:40 --> 07:42] alerted Perseus to the danger.
+[07:43 --> 07:45] 12,000 Greeks were sent down to block the Romans
+[07:45 --> 07:48] coming up now from the south, but they were driven
+[07:48 --> 07:50] back in disarray.
+[07:50 --> 07:53] Realizing he was being encircled and unsure of
+[07:53 --> 07:55] where the rest of the Romans actually were,
+[07:55 --> 07:58] Perseus broke north out of his fortified position and
+[07:58 --> 08:01] set himself up near the village of Pydna, where the
+[08:01 --> 08:04] open, flat country would ensure the proper deployment
+[08:04 --> 08:05] of his phalanx.
+[08:07 --> 08:09] Having flushed out his prey, Paulus immediately
+[08:09 --> 08:12] recombined his force and marched to meet Perseus.
+[08:13 --> 08:15] After spending the night camped across the plain
+[08:15 --> 08:18] from each other, the two sides rose the next morning
+[08:18 --> 08:19] eager to have it out.
+[08:20 --> 08:24] According to legend, Paulus, facing east, stalled
+[08:24 --> 08:26] his deployment until the afternoon when the sun
+[08:26 --> 08:28] would be in the eyes of the Macedonians.
+[08:29 --> 08:31] Whether this is true or not is a matter of debate,
+[08:32 --> 08:34] but it is true that the battle did not start until
+[08:34 --> 08:37] the afternoon, and despite the evenly matched
+[08:37 --> 08:39] sizes of the two armies, things quickly got away
+[08:39 --> 08:40] from Perseus.
+[08:41 --> 08:43] Whether or not the sun played any role is,
+[08:43 --> 08:44] again, a matter of debate.
+[08:46 --> 08:48] The Greek phalanx pushed the Romans back
+[08:48 --> 08:51] initially, which was good, but they pushed the
+[08:51 --> 08:53] Romans back onto uneven hills bordering the
+[08:53 --> 08:55] plain, which was bad.
+[08:55 --> 08:58] The phalanx began to splinter, and the Romans
+[08:58 --> 09:00] were able to send individual maniples through
+[09:00 --> 09:03] the breaks in the Macedonian line and not so
+[09:03 --> 09:05] much flank the Macedonians as eat them
+[09:05 --> 09:06] from the inside out.
+[09:07 --> 09:09] The Macedonian left disintegrated, and
+[09:09 --> 09:10] Perseus fled with his cavalry.
+[09:11 --> 09:14] Of the 40,000 or so Greeks in the Macedonian
+[09:14 --> 09:17] army, at least 25,000 died at Pydna, while
+[09:17 --> 09:20] the Romans lost maybe 1,000.
+[09:20 --> 09:23] 5,000 Greeks were captured along with Perseus himself.
+[09:24 --> 09:26] Where his father had managed to negotiate a
+[09:26 --> 09:28] peace that left him in control of Macedon,
+[09:29 --> 09:30] Perseus received no such favors.
+[09:31 --> 09:33] The young king was paraded through Roman chains
+[09:33 --> 09:36] at Paulus' triumph, and then banished to exile
+[09:36 --> 09:39] in a small Italian village where he lived a
+[09:39 --> 09:41] miserable existence and died in obscurity,
+[09:41 --> 09:43] and he showed such promise.
+[09:45 --> 09:47] The defeat at Pydna marked the end of the
+[09:47 --> 09:49] Macedonian kingdom, whose holdings under
+[09:49 --> 09:52] Alexander had once extended all the way to India.
+[09:53 --> 09:55] The Senate broke the kingdom up into four
+[09:55 --> 09:57] republics, which were forbidden to trade
+[09:57 --> 09:59] directly with one another or any other Greek city.
+[10:00 --> 10:03] All economic activity had to be brokered by Rome.
+[10:04 --> 10:06] This ensured that no undue consolidation of
+[10:06 --> 10:08] riches or power occurred, and that the
+[10:08 --> 10:10] Romans would never have to deal with
+[10:10 --> 10:11] trouble in Macedon again.
+[10:12 --> 10:15] Weak and divided, the Macedonians would
+[10:15 --> 10:16] attempt one last-ditch effort for
+[10:16 --> 10:19] independence years later, but that would
+[10:19 --> 10:21] merely present the Romans with an opportunity
+[10:21 --> 10:24] to officially incorporate the territory
+[10:24 --> 10:26] into the province of Macedonia.
+[10:28 --> 10:31] Returning to Rome, Paulus, who had done so
+[10:31 --> 10:33] much to end the senseless pillaging of the
+[10:33 --> 10:36] legions, led his army on one of the great
+[10:36 --> 10:38] sadistic rampages of the ancient world.
+[10:39 --> 10:41] Passing through Opirus, the Romans,
+[10:41 --> 10:43] furious at the Greeks in general for
+[10:43 --> 10:46] turning on Rome, decided that an example had
+[10:46 --> 10:48] to be made of someone to prevent this sort
+[10:48 --> 10:50] of thing from happening in the future.
+[10:51 --> 10:53] They chose Opirus because it was convenient,
+[10:53 --> 10:55] even though the locals had nothing to do
+[10:55 --> 10:57] really with Perseus or his war against the Romans.
+[10:59 --> 11:01] At first, Paulus implied that if he was
+[11:01 --> 11:04] paid off, Opirus would be spared, and
+[11:04 --> 11:06] the 70 or so towns collected as much as
+[11:06 --> 11:08] they could and handed it willingly to the Romans.
+[11:09 --> 11:11] But the minute Paulus had collected it all,
+[11:12 --> 11:14] he simply let his men off their leashes and
+[11:14 --> 11:17] let them sack, rape, plunder, and burn anyone
+[11:17 --> 11:18] and anything they came across.
+[11:19 --> 11:22] Over 150,000 locals were bound up and
+[11:22 --> 11:23] sold into slavery.
+[11:24 --> 11:27] The rest were killed and left destitute or homeless.
+[11:28 --> 11:30] It was a harsh lesson for the Greeks,
+[11:30 --> 11:33] harsher still for the relative innocence of Opirus.
+[11:34 --> 11:36] After driving off Philip and proclaiming
+[11:36 --> 11:39] freedom for Greece, the Romans were universally loved.
+[11:40 --> 11:42] But now, a mere 30 years later,
+[11:42 --> 11:45] that love was gone, replaced with fear.
+[11:46 --> 11:47] Machiavelli's point that it is better
+[11:47 --> 11:49] to be feared than loved is backed up
+[11:49 --> 11:51] by the Roman experience in Greece.
+[11:52 --> 11:54] Loved, the Romans dealt constantly with
+[11:54 --> 11:57] backstabbing and conspiracies to do away with them.
+[11:57 --> 12:01] Feared, the Romans ruled in peace and unchallenged.
+[12:02 --> 12:03] There is no accounting for the horror
+[12:03 --> 12:05] and immorality on display in Opirus,
+[12:05 --> 12:09] but the cold fact remains that it worked.
+[12:09 --> 12:11] Future Greeks knew what the wrath of Rome meant
+[12:11 --> 12:14] and they wanted no part of it.
+[12:14 --> 12:16] Better to drink wine and tutor the Romans
+[12:16 --> 12:18] in math and philosophy than attempt
+[12:18 --> 12:19] to cross swords with them.
+[12:22 --> 12:23] One of the other legacies left to us
+[12:23 --> 12:26] by the Roman victory in the Third Macedonian War
+[12:26 --> 12:28] was the transportation of a great number
+[12:28 --> 12:30] of Greek hostages to Rome,
+[12:30 --> 12:32] including a young scholar named Polybius.
+[12:33 --> 12:36] Taken in by the family of Aemilius Paulus,
+[12:36 --> 12:37] Polybius would become the instructor
+[12:37 --> 12:40] of Paulus' son, Scipio Aemilianus,
+[12:41 --> 12:43] who would grow up to be one of the most famous
+[12:43 --> 12:45] and influential of all Roman statesmen
+[12:45 --> 12:48] and really the last of the great political figures
+[12:48 --> 12:49] who was not connected to the crises
+[12:49 --> 12:52] that would consume the Republic in the next century.
+[12:53 --> 12:55] In an attempt to explain to his fellow Greeks
+[12:55 --> 12:58] who the Romans were and where they came from,
+[12:58 --> 13:01] Polybius constructed a massive history of Rome,
+[13:01 --> 13:03] which exists largely intact today
+[13:03 --> 13:05] and stands as one of the pillars
+[13:05 --> 13:06] of our own understanding of Rome.
+[13:08 --> 13:10] The histories of Polybius have, indeed,
+[13:10 --> 13:12] played an integral part in our very own
+[13:12 --> 13:14] History of Rome podcast and we owe him
+[13:14 --> 13:16] a great debt for his excellent work.
+[13:18 --> 13:20] Next week, we will return for the last time
+[13:20 --> 13:22] to Carthage and Macedon.
+[13:23 --> 13:25] The two great enemies who had so consumed
+[13:25 --> 13:27] the Romans for the last century were beaten,
+[13:27 --> 13:29] but for Rome, it would not be enough
+[13:29 --> 13:31] to simply beat them.
+[13:31 --> 13:32] They had to be crushed.
+[13:34 --> 13:35] Cato the Elder had made a point of ending
+[13:35 --> 13:37] every speech before the Senate,
+[13:37 --> 13:39] whatever the topic, be it garbage collection
+[13:39 --> 13:42] or loan repayment, with the line,
+[13:42 --> 13:44] furthermore, it is my opinion
+[13:44 --> 13:45] that Carthage must be destroyed.
+[13:47 --> 13:49] Cato, like many of his countrymen,
+[13:49 --> 13:51] feared the return of Carthage
+[13:51 --> 13:53] and so set out to annihilate once and for all
+[13:53 --> 13:56] their nemesis from Africa and quite literally,
+[13:56 --> 13:58] sow their fields with salt.

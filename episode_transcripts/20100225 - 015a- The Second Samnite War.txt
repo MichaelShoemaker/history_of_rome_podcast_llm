@@ -1,0 +1,379 @@
+# 20100225 - 015a- The Second Samnite War
+# Detected language: en
+# Duration: 1097.09 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:07] Hello and welcome to the history of Rome.
+[00:08 --> 00:14] The Romans enjoyed ten years of peace after the end of the Latin War in 338 BC and spent
+[00:14 --> 00:16] the years quietly expanding their territory.
+[00:17 --> 00:21] This decade saw the emergence of a new attitude towards territorial expansion.
+[00:22 --> 00:26] It was no longer enough to merely ensure the survival of Rome by controlling Latium
+[00:26 --> 00:28] and fending off intruders.
+[00:29 --> 00:34] The Romans now sought to spread their influence over a much wider geographic area in order
+[00:34 --> 00:37] to draw taxes and manpower from a wider pool of citizens.
+[00:38 --> 00:43] No one power had controlled the entire Italian peninsula before, but the Romans
+[00:43 --> 00:45] started to think that maybe they could pull it off.
+[00:46 --> 00:50] They essentially looked around Italy, sized up the competition, liked their odds, and
+[00:50 --> 00:51] went for it.
+[00:52 --> 00:56] The Samnites were A number one on the list of potential threats, and the Romans
+[00:56 --> 01:00] knew that if they were able to conquer the powerful Hill tribe, nothing would stand
+[01:00 --> 01:02] in their way of conquering all of Italy.
+[01:03 --> 01:05] However, the Romans were loath to simply expand.
+[01:05 --> 01:06] That would be immoral.
+[01:07 --> 01:12] The Romans only engaged in just wars when they or one of their allies was threatened.
+[01:13 --> 01:15] They would never declare a war unprovoked.
+[01:15 --> 01:17] It was considered barbaric.
+[01:17 --> 01:21] So they set about needling the Samnites into attacking first so Rome could enter
+[01:21 --> 01:23] the war it wanted honorably.
+[01:24 --> 01:29] They dispatched citizens to form a colony in Samnite territory, figuring the Samnites
+[01:29 --> 01:33] would either let them get away with it, and the Romans would have gained more land
+[01:33 --> 01:37] without drawing swords, or the Samnites would attack, and the Romans would come
+[01:37 --> 01:38] to the rescue of their besieged citizens.
+[01:40 --> 01:44] Things did not go exactly by Roman design, but in the end they did get their war.
+[01:45 --> 01:49] The Samnites were caught up at the time fighting the Greeks in the south and
+[01:49 --> 01:52] could not immediately respond to the Romans' settlement, so the Romans
+[01:52 --> 01:54] emboldened and set up another.
+[01:54 --> 01:58] When the Samnites concluded their war with the Greeks, they did turn west, but
+[01:58 --> 02:01] it was not to directly engage the Roman colonies.
+[02:01 --> 02:05] Rather, they moved on the Greek city of Neapolis, which is present day
+[02:05 --> 02:09] Naples, forging an agreement with its citizens to aid their dream of
+[02:09 --> 02:11] expanding off the coast and into greater Campania.
+[02:13 --> 02:17] The nobility of Neapolis, however, dismayed at the Samnite garrison and
+[02:17 --> 02:21] the loss of control over their own city, turned to Rome for assistance.
+[02:21 --> 02:25] It was the call Rome was looking for, but it was something of a letdown.
+[02:26 --> 02:29] Fighting the Samnites in Campania would not garner them any more land if
+[02:29 --> 02:33] they won, which was the whole point of provoking the Samnites, but
+[02:33 --> 02:37] reluctant to pass up the opportunity, they agreed to help the Neapolitan
+[02:37 --> 02:41] nobility and drive off the Samnite garrison, which they did,
+[02:41 --> 02:44] sparking the Second Samnite War in 327 BC.
+[02:45 --> 02:48] The early momentum was clearly in Roman hands.
+[02:49 --> 02:53] Samnite allies were peeled off, and the Romans won victory after victory
+[02:53 --> 02:54] on the battlefield.
+[02:54 --> 02:58] In fact, the only major defeat for the Romans in these early years
+[02:58 --> 03:02] came as a result not of Samnite strength, but of a psychological mutiny
+[03:02 --> 03:04] by the Roman army against their own commander.
+[03:05 --> 03:07] The result of an extended melodrama,
+[03:07 --> 03:10] which is too juicy for me to not relate in detail.
+[03:11 --> 03:16] In 325 BC, as would be the case in many of these years, a dictator,
+[03:17 --> 03:20] Lucius Piperius Cursor, was appointed to oversee the war effort,
+[03:21 --> 03:25] and Quintus Fabius Maximus, the grandfather of the more famous
+[03:25 --> 03:28] Fabius Maximus, who saw Rome through the early disastrous years
+[03:28 --> 03:31] of the Second Punic War, was named his master of horse.
+[03:32 --> 03:36] They set out for Samnium, but the taking of the auspices,
+[03:36 --> 03:39] a critical superstitious step for all Roman endeavors,
+[03:39 --> 03:43] had been done poorly, or was messed up, or showed ill omens.
+[03:44 --> 03:47] Whatever was wrong, Piperius decided to head back to Rome
+[03:47 --> 03:51] and retake them in an attempt to secure a favorable sign from the gods.
+[03:52 --> 03:55] He very clearly ordered Fabius not to engage the Samnites
+[03:55 --> 03:59] while he was gone, but Fabius, being young, could not help himself.
+[04:00 --> 04:03] The Samnites, knowing the Roman commander was away,
+[04:03 --> 04:05] were relaxed, believing no battle imminent.
+[04:06 --> 04:10] Fabius, on his own initiative, decided that it would be a perfect time
+[04:10 --> 04:11] for a sneak attack.
+[04:11 --> 04:15] He ordered the army out, routing the surprise Samnites easily,
+[04:15 --> 04:18] and captured their camp, along with a great deal of plunder.
+[04:19 --> 04:22] When Piperius returned, however, he was enraged,
+[04:22 --> 04:25] red in the face, screaming and cursing enraged.
+[04:25 --> 04:28] How could Fabius have so clearly disobeyed him
+[04:28 --> 04:31] when the whole purpose for leaving was to align Roman interests
+[04:31 --> 04:32] with the gods' favor?
+[04:33 --> 04:36] By attacking before securing favorable auspices,
+[04:36 --> 04:39] Fabius endangered not just the army, but Rome as a whole.
+[04:40 --> 04:44] Then, singing the praises of Manlius, who, you will recall,
+[04:44 --> 04:46] executed his own son for disobedience,
+[04:47 --> 04:49] Piperius ordered Fabius arrested.
+[04:50 --> 04:51] The army was incredulous.
+[04:51 --> 04:55] They had just won an easy victory thanks to Fabius' decisive action,
+[04:55 --> 04:58] and now Piperius wanted to punish him?
+[04:58 --> 04:59] It was absurd.
+[04:59 --> 05:02] The general feeling was that Piperius was simply jealous
+[05:02 --> 05:04] for missing out on the glory.
+[05:05 --> 05:07] Despite entreaties from the officers, however,
+[05:07 --> 05:09] Piperius insisted on Fabius' arrest.
+[05:11 --> 05:13] A slow-moving riot began to build,
+[05:13 --> 05:15] which was cut off only by nightfall.
+[05:15 --> 05:19] And during the night, Fabius, understanding that Piperius
+[05:19 --> 05:22] had every intention of executing him the next morning,
+[05:22 --> 05:25] escaped from the camp and made for Rome with all haste.
+[05:26 --> 05:28] Upon reaching the city, Fabius and his father,
+[05:28 --> 05:32] who had previously been consul and was a man of high standing,
+[05:32 --> 05:35] went before the Senate to plead the young man's case.
+[05:36 --> 05:39] Piperius showed up and the scene from the camp was repeated.
+[05:40 --> 05:42] Piperius was a towering inferno of rage.
+[05:43 --> 05:46] He railed against Fabius' disobedience and sacrilege
+[05:46 --> 05:50] and pointed to the irreparable harm the boy had done to army discipline
+[05:50 --> 05:52] and the moral fiber of the state itself.
+[05:53 --> 05:56] There was nothing untrue about what Piperius said,
+[05:56 --> 05:59] but the Senate pleaded with him to go easy on Fabius.
+[06:00 --> 06:05] He was a popular young noble and, after all, had just won a great victory.
+[06:06 --> 06:08] Wasn't Piperius taking this all just a bit too far?
+[06:09 --> 06:12] By this point, Piperius was getting shrill,
+[06:12 --> 06:15] and I can't help but picture the senators looking sideways at each other
+[06:15 --> 06:18] as he launched into another red-faced harangue
+[06:18 --> 06:20] and thinking, geez man, lighten up.
+[06:21 --> 06:25] In the end, when it became clear that absolutely no one supported him,
+[06:25 --> 06:29] Piperius attempted to salvage some dignity, not just for himself,
+[06:29 --> 06:33] but for the office of dictator, which was in danger of becoming irrelevant.
+[06:34 --> 06:36] He agreed to lift the sentence of death and content himself
+[06:36 --> 06:40] with stripping Fabius of his power and leaving him behind in Rome.
+[06:42 --> 06:45] Returning to the army, Piperius ordered his troops to pursue
+[06:45 --> 06:47] and engage the reformed Samnite army,
+[06:47 --> 06:50] but this time, instead of an easy victory,
+[06:50 --> 06:52] the Samnites managed to get the upper hand.
+[06:53 --> 06:56] The Roman soldiers, who loved Fabius and hated Piperius,
+[06:57 --> 06:59] had no intention of letting the dictator win any battles,
+[07:00 --> 07:02] so they, in effect, threw the fight.
+[07:03 --> 07:06] Piperius, though, did not write off into the history books
+[07:06 --> 07:08] as a shrill and overbearing failure,
+[07:08 --> 07:11] and to his credit, he saw the error of his ways.
+[07:12 --> 07:14] He had come down too harshly on Fabius,
+[07:14 --> 07:16] and in doing so had lost the support of his troops.
+[07:17 --> 07:20] So he spent the next few days endearing himself to them,
+[07:20 --> 07:23] visiting the wounded and treading lightly with his discipline.
+[07:24 --> 07:26] He won back the favor of the men,
+[07:26 --> 07:28] and when he ordered them out to fight the next time,
+[07:29 --> 07:32] they did not disappoint and delivered to him the victory that he sought.
+[07:33 --> 07:37] Over the course of the war, Piperius would serve his consul four times,
+[07:37 --> 07:40] and when he finally did write off into the history books,
+[07:40 --> 07:44] he was remembered as a great commander and one of the best men of his generation.
+[07:46 --> 07:49] After Piperius's victory, the Samnites sued for peace,
+[07:49 --> 07:52] but the Roman Senate demanded such lopsided terms
+[07:52 --> 07:55] that the Samnites could not accept, and the war continued.
+[07:56 --> 07:59] It would prove to be a mistake of the highest order,
+[07:59 --> 08:02] because the Romans were about to walk into one of their greatest
+[08:02 --> 08:05] and arguably most humiliating defeats in their history.
+[08:06 --> 08:10] At least at Cannae, the Roman army was beaten in the field,
+[08:10 --> 08:15] but caudine forks ended with the Romans so completely outmaneuvered
+[08:15 --> 08:17] that their army never drew their swords
+[08:17 --> 08:19] before offering them to the Samnites in surrender.
+[08:20 --> 08:23] Many saw it as punishment for the hubris Rome had shown
+[08:23 --> 08:25] towards the Samnite peace envoys.
+[08:26 --> 08:28] The defeat at caudine forks, however,
+[08:28 --> 08:31] just as the defeat of Cannae would a century later,
+[08:31 --> 08:33] did nothing less than prove that the Romans were cut
+[08:33 --> 08:36] from a completely different cloth than their contemporaries.
+[08:37 --> 08:40] Any other state, when faced with such catastrophic defeats,
+[08:41 --> 08:43] would have quit and prayed for mercy from their enemies,
+[08:43 --> 08:45] but the Romans never even gave it a thought.
+[08:46 --> 08:48] They never quit, they just kept coming.
+[08:50 --> 08:53] At caudine forks, the Romans were set up perfectly
+[08:53 --> 08:56] by the Samnite commander, Gaius Pontius.
+[08:57 --> 08:59] He dispatched some of his soldiers into Roman territory,
+[09:00 --> 09:02] masquerading as non-combatant herdsmen.
+[09:03 --> 09:06] When they inevitably fell into the hands of Roman patrols,
+[09:06 --> 09:08] they all told the same story to their captors.
+[09:09 --> 09:12] The full force of the Samnite army was besieging the city of Lucaria,
+[09:13 --> 09:13] a Roman ally.
+[09:14 --> 09:18] The Romans, hearing this information repeated from multiple sources,
+[09:18 --> 09:20] bought the story hook, line, and sinker.
+[09:21 --> 09:24] They sent both consuls with their armies to aid Lucaria,
+[09:24 --> 09:27] but, of course, the Samnites were nowhere near Lucaria.
+[09:29 --> 09:30] They were stationed near Caudium,
+[09:30 --> 09:33] specifically at the pass where the Romans would have to travel
+[09:33 --> 09:34] to get to Lucaria.
+[09:36 --> 09:39] Called the caudine forks, the pass started very narrow,
+[09:39 --> 09:41] then opened into a wide plain,
+[09:41 --> 09:44] and then became very narrow again on the way out.
+[09:44 --> 09:47] On either side, steep peaks prevented any movement
+[09:47 --> 09:49] besides forward and backward.
+[09:50 --> 09:53] The consuls led their army hastily into the pass,
+[09:53 --> 09:55] believing all the danger to lie ahead.
+[09:56 --> 09:58] But when they reached the other side of the flat plain,
+[09:59 --> 10:02] they found their exit blocked off by a pile of boulders.
+[10:02 --> 10:04] Sensing that something was amiss,
+[10:04 --> 10:06] the consuls immediately ordered a retreat,
+[10:07 --> 10:08] but by this time it was too late.
+[10:09 --> 10:11] The Samnites had already blockaded the other end as well.
+[10:12 --> 10:15] The Roman army was trapped and in a hopeless position.
+[10:16 --> 10:18] Soldiers joked darkly about their pointless labor
+[10:18 --> 10:21] as the consuls ordered them to build a fortified camp.
+[10:22 --> 10:25] There was no getting out and there would be no attack to repel.
+[10:26 --> 10:29] The Samnites would simply wait the requisite three days
+[10:29 --> 10:31] for them to run out of food and demand surrender.
+[10:33 --> 10:36] The consuls and their officers recognized the immensity
+[10:36 --> 10:38] of their blunder as they tossed around
+[10:38 --> 10:40] impossible to execute escape plans.
+[10:41 --> 10:43] The next morning, Pontius sent for his father,
+[10:43 --> 10:46] who, though retired, was a great military strategist
+[10:46 --> 10:48] and asked for the old man's advice
+[10:48 --> 10:50] about what to do with the trapped Romans.
+[10:51 --> 10:53] At first, his father sent word
+[10:53 --> 10:55] that Pontius should let the army walk away unharmed.
+[10:56 --> 10:59] Unsure of the message, for it seemed a crazy notion,
+[10:59 --> 11:01] Pontius sent for clarification,
+[11:01 --> 11:04] and when word came again, the message had changed.
+[11:04 --> 11:07] It now read, kill them all down to the last man.
+[11:08 --> 11:10] This sounded more like his father,
+[11:10 --> 11:12] but Pontius was confused and unsure
+[11:12 --> 11:14] whether the old man had slipped into senility.
+[11:15 --> 11:17] Hadn't he just said to let them all go?
+[11:18 --> 11:21] So he sent for his father and asked him to join him at Caudium.
+[11:22 --> 11:24] When the old man arrived, he told his son
+[11:24 --> 11:26] that he still retained his senses,
+[11:26 --> 11:28] and neither message had been a mistake.
+[11:29 --> 11:31] The best option, by far, he said,
+[11:31 --> 11:34] was to spare the army and return them unharmed to Rome,
+[11:34 --> 11:37] for in doing so they would win the internal friendship
+[11:37 --> 11:38] and gratitude of the Roman people,
+[11:39 --> 11:40] and hostilities would end forever.
+[11:41 --> 11:43] The second best option was to kill them all
+[11:43 --> 11:46] and end hostilities for at least a generation
+[11:46 --> 11:48] by decimating Rome's available manpower
+[11:48 --> 11:51] and filling the Roman populace with terror of the Samnites.
+[11:52 --> 11:54] There are no other options, the old man said,
+[11:55 --> 11:57] extreme generosity or extreme cruelty.
+[11:57 --> 11:58] That was it.
+[11:59 --> 12:01] But Pontius was unnerved by both
+[12:01 --> 12:03] and settled on a third option
+[12:03 --> 12:05] that his father warned him, correctly,
+[12:05 --> 12:08] would win him no friends and eliminate no enemies.
+[12:09 --> 12:10] He would let the army go,
+[12:10 --> 12:12] but force them to surrender under the yoke,
+[12:13 --> 12:15] a humiliating ritual in which the defeated army
+[12:15 --> 12:18] must pass beneath a horizontal spear
+[12:18 --> 12:20] lashed to two vertical spears,
+[12:20 --> 12:21] creating a gate of sorts
+[12:21 --> 12:24] that the soldiers had to stoop to pass beneath.
+[12:25 --> 12:27] To the honor-crazed armies of the ancient world,
+[12:28 --> 12:29] this humiliation was far worse
+[12:29 --> 12:31] than being killed on the battlefield.
+[12:31 --> 12:33] Far, far worse.
+[12:34 --> 12:36] And to the men who surrendered at Codine,
+[12:37 --> 12:38] their humiliation would be doubled
+[12:38 --> 12:40] because they had never even drawn their swords.
+[12:41 --> 12:43] They were never given the opportunity
+[12:43 --> 12:44] to die gloriously in battle
+[12:44 --> 12:47] and take as many Samnites as they could with them.
+[12:47 --> 12:50] It was absolutely unheard of to give up without a fight,
+[12:51 --> 12:52] and the thought of it mortally offended
+[12:52 --> 12:54] every soldier in the army,
+[12:54 --> 12:55] but their orders were clear
+[12:55 --> 12:57] and pass under the yoke they did.
+[12:58 --> 13:00] The army that marched back to Rome
+[13:00 --> 13:02] was unlike any that had gone before it
+[13:02 --> 13:03] or would come after.
+[13:04 --> 13:07] They marched weaponless and in complete silence,
+[13:07 --> 13:09] walking and eating without saying a word
+[13:09 --> 13:11] or even looking up from the ground.
+[13:12 --> 13:13] Some said that the Samnites
+[13:13 --> 13:15] had defeated the spirit of Rome itself,
+[13:15 --> 13:18] but savvy observers warned that this was unlikely,
+[13:19 --> 13:21] that the silent army was not devoid of spirit,
+[13:21 --> 13:24] but merely smoldering with such an intense rage
+[13:24 --> 13:26] that words could not express their emotions,
+[13:27 --> 13:28] and woe to those upon whom
+[13:28 --> 13:30] Rome's fury would be unleashed.
+[13:31 --> 13:34] The terms of the peace also called for 600 cavalrymen,
+[13:35 --> 13:37] i.e. the sons of the richest men in Rome,
+[13:37 --> 13:39] to be held as hostages,
+[13:39 --> 13:41] as well as for the consuls and their officers
+[13:41 --> 13:43] to become guarantors of the peace,
+[13:44 --> 13:46] an official, half-religious,
+[13:46 --> 13:49] half-legal position in ancient international diplomacy.
+[13:50 --> 13:53] In effect, it meant that upon their return to Rome,
+[13:53 --> 13:55] they must force the Senate and people
+[13:55 --> 13:57] to accept the terms of peace offered at the battlefield.
+[13:58 --> 14:01] If they did not, the gods would punish Rome as a whole
+[14:01 --> 14:04] if the guarantors who were in breach of their duty
+[14:04 --> 14:06] did not hand themselves back over to the Samnites
+[14:06 --> 14:08] who would sell them as slaves.
+[14:09 --> 14:10] This threat was supposed to be enough
+[14:10 --> 14:13] to compel even unhappy guarantors to do their duty,
+[14:14 --> 14:15] and it usually was,
+[14:15 --> 14:18] but, like I say, the Romans were cut
+[14:18 --> 14:19] from a completely different cloth.
+[14:21 --> 14:23] It is unclear at what point Paschumius,
+[14:23 --> 14:26] one of the consuls, decided to breach the trust,
+[14:26 --> 14:28] whether it was his plan all along,
+[14:28 --> 14:31] or whether he decided to do so after reaching Rome.
+[14:32 --> 14:34] But when he stood before the Senate
+[14:34 --> 14:36] and delivered the official account of events
+[14:36 --> 14:39] leading up to the surrender and the terms of the peace,
+[14:39 --> 14:40] he urged them not to accept
+[14:40 --> 14:42] but reject the Samnites' offer
+[14:42 --> 14:45] and immediately re-raise the army and attack.
+[14:46 --> 14:47] He and his colleagues had been foolish,
+[14:48 --> 14:50] but that did not mean Rome itself should admit defeat.
+[14:51 --> 14:52] Further, he said,
+[14:52 --> 14:54] he and his officers would immediately march back
+[14:54 --> 14:57] to where Pontius waited for word and surrender themselves,
+[14:58 --> 14:59] releasing Rome from its obligation
+[14:59 --> 15:01] to honor the terms of the treaty.
+[15:02 --> 15:05] The Senate, who had been ready to castigate Paschumius
+[15:05 --> 15:07] and his colleague in the harshest terms,
+[15:07 --> 15:08] now praised them to the heavens.
+[15:10 --> 15:12] The two consuls and their officers,
+[15:12 --> 15:14] a priest in tow to witness the whole thing,
+[15:15 --> 15:17] returned to the Samnite army and surrendered themselves,
+[15:18 --> 15:19] announcing that Rome rejected peace
+[15:19 --> 15:21] and did so with the full favor of the gods.
+[15:23 --> 15:26] Pontius was incensed and refused to accept the surrender,
+[15:26 --> 15:28] claiming that the sneaky Romans
+[15:28 --> 15:30] were just trying to weasel their way out of defeat
+[15:30 --> 15:32] with a legalistic reading of the pact.
+[15:33 --> 15:36] No one who swore to be a guarantor abandoned his duty
+[15:36 --> 15:38] and thought that just by surrendering himself
+[15:38 --> 15:40] he had absolved his nation of guilt.
+[15:41 --> 15:42] It was outrageous,
+[15:42 --> 15:45] but there Paschumius stood doing exactly that.
+[15:46 --> 15:48] If Rome wanted to play chicken with the gods,
+[15:48 --> 15:50] that was fine with Pontius
+[15:50 --> 15:52] and ordered his men to let Paschumius
+[15:52 --> 15:54] and his officers walk away unmolested,
+[15:54 --> 15:57] so the offer of surrender would never be accepted
+[15:57 --> 16:00] and the pact, at least from the Samnite perspective,
+[16:00 --> 16:01] would remain in breach.
+[16:03 --> 16:05] How much of this story is propaganda
+[16:05 --> 16:07] and how much is true is up in the air.
+[16:07 --> 16:08] There is no doubt, though,
+[16:09 --> 16:11] that following the defeat at the Codine Forks,
+[16:11 --> 16:13] there was a five-year lull in hostilities.
+[16:14 --> 16:17] It seems reasonable that the five years of peace
+[16:17 --> 16:19] was somehow related to the terms of the surrender,
+[16:19 --> 16:21] but according to the Romans,
+[16:21 --> 16:23] they never recognized any peace
+[16:23 --> 16:25] and were free and clear to continue fighting
+[16:25 --> 16:25] if they wished.
+[16:27 --> 16:29] I suspect that the story of Paschumius's surrender
+[16:29 --> 16:30] is overblown.
+[16:30 --> 16:33] It mirrors closely a story from the First Punic War
+[16:33 --> 16:36] in which a captured general was returned to Rome
+[16:36 --> 16:37] to secure a peace treaty,
+[16:37 --> 16:40] but instead tells the Senate to keep fighting
+[16:40 --> 16:42] and then honorably returns to Carthage,
+[16:42 --> 16:44] where the promise of torture and death await him.
+[16:45 --> 16:47] But even if the Romans had believed
+[16:47 --> 16:50] they could keep fighting, unbound by any treaty,
+[16:50 --> 16:52] that did not mean that they would necessarily
+[16:52 --> 16:53] have wanted to.
+[16:53 --> 16:55] Codine Forks had been a humiliation,
+[16:56 --> 16:56] that much is certain,
+[16:57 --> 16:59] and the Romans would have had no interest
+[16:59 --> 17:01] in allowing history to repeat itself.
+[17:01 --> 17:03] Perhaps the five-year layoff
+[17:03 --> 17:04] was simply Rome being cautious.
+[17:05 --> 17:07] Clearly, the Samnites were more clever
+[17:07 --> 17:08] than they had been given credit for.
+[17:09 --> 17:10] There was no sense in giving them
+[17:10 --> 17:13] the opportunity to crush Rome's dreams of empire
+[17:13 --> 17:15] so soon after they had been fully,
+[17:15 --> 17:16] consciously articulated.
+[17:17 --> 17:19] The Romans would buy their time.
+[17:19 --> 17:21] Patience was another great Roman virtue.
+[17:21 --> 17:22] They were in no hurry.
+[17:22 --> 17:24] They just wanted to be sure of victory.
+[17:25 --> 17:26] Most likely, though,
+[17:26 --> 17:28] a five-year peace was forced on the Romans,
+[17:28 --> 17:30] who had no choice but to submit
+[17:30 --> 17:31] to the Samnite terms.
+[17:32 --> 17:35] And no such episode of bold defiance ever occurred.
+[17:37 --> 17:39] Next week, we will pick up
+[17:39 --> 17:40] when hostilities begin again,
+[17:41 --> 17:42] around 315 BC.
+[17:43 --> 17:43] At that point,
+[17:44 --> 17:45] the Etruscans in the north
+[17:45 --> 17:46] and the Greeks in the south
+[17:46 --> 17:48] would both become involved as well,
+[17:49 --> 17:51] leading the fight between the Romans and Samnites
+[17:51 --> 17:53] to become a struggle that embroiled
+[17:53 --> 17:55] all the major powers in Italy.

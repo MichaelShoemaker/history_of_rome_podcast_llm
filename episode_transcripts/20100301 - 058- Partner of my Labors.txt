@@ -1,0 +1,588 @@
+# 20100301 - 058- Partner of my Labors
+# Detected language: en
+# Duration: 1641.56 seconds
+# Model: medium, Device: cpu
+
+[00:00 --> 00:02] This week's episode is brought to you by Audible.
+[00:03 --> 00:06] If you're not familiar with Audible, they are the internet's leading provider of audio
+[00:06 --> 00:11] entertainment with over 60,000 titles to choose from, including a healthy supply of
+[00:11 --> 00:11] ancient history.
+[00:12 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:17 --> 00:21] That again is audiblepodcast.com forward slash Rome.
+[00:21 --> 00:25] By going to that address, you qualify for a free book download just for signing
+[00:25 --> 00:27] up for a 14-day trial membership.
+[00:27 --> 00:31] There is no obligation to continue the service and you can cancel it anytime and keep the
+[00:31 --> 00:32] free book download.
+[00:33 --> 00:36] You can also keep going with one of the monthly subscription options they offer and get great
+[00:36 --> 00:39] deals on all future audiobook purchases.
+[00:39 --> 00:43] This week I'm going to recommend picking up Suetonius' Lives of the Twelve Caesars,
+[00:44 --> 00:48] the unabridged one of course, or volume one of Tacitus' Annals of Imperial Rome,
+[00:49 --> 00:51] both of which I draw from for this week's episode.
+[00:51 --> 00:57] Just remember to go to audiblepodcast.com forward slash Rome so they know who sent you.
+[01:02 --> 01:09] Hello and welcome to The History of Rome, episode 58, Partner of My Labors.
+[01:10 --> 01:15] Last week we followed the aborted career of Germanicus who died under mysterious
+[01:15 --> 01:16] circumstances in 19 AD.
+[01:17 --> 01:21] Whether the charges were true or not, Tiberius was widely believed to have played a role
+[01:21 --> 01:25] in the death of the popular young prince and the emperor's popularity with the people
+[01:25 --> 01:26] suffered as a result.
+[01:27 --> 01:32] Never personable to begin with, Tiberius did not enjoy the kind of respect Augustus
+[01:32 --> 01:33] had garnered so naturally.
+[01:34 --> 01:38] With the death of Germanicus, the distance between the emperor and his people only
+[01:38 --> 01:39] widened.
+[01:39 --> 01:44] But even still, through these early years, Tiberius was a prudent and dedicated ruler.
+[01:44 --> 01:49] He had taken to heart Augustus' injunction not to embroil the empire in foreign wars
+[01:49 --> 01:53] and did his best to resolve border disputes peacefully without resorting to the kind
+[01:53 --> 01:57] of military adventurism that Germanicus pursued with such zeal.
+[01:57 --> 02:02] The money saved by not having to keep up active campaigns on numerous fronts was spent
+[02:02 --> 02:06] elsewhere improving the infrastructure of the empire and the efficiency of its governing
+[02:06 --> 02:06] apparatus.
+[02:08 --> 02:10] But that does not mean that Tiberius enjoyed his work.
+[02:11 --> 02:15] If you believe some sources, Tiberius never wanted to become emperor to begin with and
+[02:15 --> 02:20] had been pushed into becoming princeps by his mother, Livia, who was living her ambition
+[02:20 --> 02:20] through her son.
+[02:21 --> 02:25] If on the other hand he actually did seek to become emperor, then it's clear he
+[02:25 --> 02:28] quickly became disenchanted with the prize he had sought.
+[02:29 --> 02:33] I personally get the feeling that Tiberius would have been content to simply command
+[02:33 --> 02:36] a few legions by day and read Greek literature in his tent by night.
+[02:37 --> 02:42] But despite his own personal unhappiness, a sense of honor and duty seems to have
+[02:42 --> 02:45] kept Tiberius functioning as a thoughtful ruler for a few years, even after the
+[02:45 --> 02:50] people really turned on him following the death slash assassination of Germanicus.
+[02:52 --> 02:56] But the underlying misery of Tiberius would eventually overtake him and turn him into
+[02:56 --> 03:00] the paranoid, debauched, and cruel emperor we all know and love today.
+[03:00 --> 03:04] Tiberius was only able to hold off his demons for so long, and after the death
+[03:04 --> 03:09] of his son Drusus in 23 AD, which we'll get to in a moment, Tiberius seems to have
+[03:09 --> 03:11] allowed them free reign over his psyche.
+[03:12 --> 03:17] Stoking the gloomy fires in Tiberius's heart was a man of great personal ambition
+[03:17 --> 03:21] who saw Tiberius's growing paranoia as an opportunity for advancement.
+[03:21 --> 03:25] The prefect of the Praetorian Guard, Lucius Sejanus.
+[03:26 --> 03:30] Before we get too far into the drama of the 20 ADs though, we should probably
+[03:30 --> 03:34] take a moment to understand what the Praetorian Guard was at this point and how Sejanus
+[03:34 --> 03:39] was able to leverage his role as their captain into a position of power that for a few
+[03:39 --> 03:41] years probably exceeded that of Tiberius himself.
+[03:43 --> 03:47] I mentioned the Praetorians thus far only in passing, but as they will play a key
+[03:47 --> 03:51] role in practically every important episode for the next few centuries, they are worth
+[03:51 --> 03:52] taking the time to understand.
+[03:53 --> 03:59] The Guard had existed in various incarnations going back to the 200s BC, and was generally
+[03:59 --> 04:03] understood to be little more than an elite cohort of soldiers who served as bodyguards
+[04:03 --> 04:04] for a general.
+[04:04 --> 04:08] The name Praetorian is derived from the Latin word praetorium, which was the name
+[04:08 --> 04:12] for the general's tent within a legionary camp around which these elite soldiers would
+[04:12 --> 04:13] be stationed.
+[04:14 --> 04:18] During the civil wars, the major figures involved all had cohorts of Praetorian
+[04:18 --> 04:22] Guards serving them, but it wasn't until Octavian emerged triumphant that a single
+[04:22 --> 04:26] quote Praetorian Guard emerged as a formal institution within the state.
+[04:27 --> 04:31] During the reign of Augustus, the Guard were stationed in and around Rome and were used
+[04:31 --> 04:36] as a combination police force, intelligence service, and of course bodyguard for the
+[04:36 --> 04:37] imperial family.
+[04:38 --> 04:43] Augustus set their number at 9 cohorts of 500 men each, which he later up to a thousand,
+[04:44 --> 04:48] but conscious of appearances, he did not station them at a central base within Rome.
+[04:49 --> 04:52] Instead, he scattered the men in lodgings throughout Italy.
+[04:53 --> 04:57] Augustus wanted their presence known and felt, but not so much so that it put lie
+[04:57 --> 04:59] to his claims of republican legitimacy.
+[05:00 --> 05:04] So at any given time, only three cohorts would be on active duty in the capital
+[05:04 --> 05:05] itself.
+[05:05 --> 05:10] During the Augustan period, the Praetorian was a fairly benign force, but once Augustus
+[05:10 --> 05:14] was dead, the Guard seems to have grown aware of the power it could easily possess
+[05:14 --> 05:16] if it simply pushed a little.
+[05:17 --> 05:21] Tiberius really gave them a glimpse of the apple when he decided to eschew
+[05:21 --> 05:25] Augustus' policy of keeping the troops scattered and instead lodge them in a
+[05:25 --> 05:26] single barrack just outside of Rome.
+[05:27 --> 05:31] At the same time, he upped their ranks by three more cohorts, bringing their
+[05:31 --> 05:33] total to some 12,000 men.
+[05:34 --> 05:38] Tiberius also let slip the policy of keeping two prefects at all times in
+[05:38 --> 05:41] charge of the Guard, mimicking the pattern of the consulship, which had
+[05:41 --> 05:45] for so long prevented power from accumulating in the hands of one man.
+[05:46 --> 05:50] The first man to serve as sole prefect, the aforementioned Sejanus, had a
+[05:50 --> 05:54] ruthless Machiavellian personality, and from this point on, the Praetorian
+[05:54 --> 05:57] became a political force as well as a military one.
+[05:58 --> 06:02] Ostensibly, the Guard relied upon the Emperor for their status and as such
+[06:02 --> 06:07] should remain perfectly loyal to him, but in practice, Tiberius and all of his
+[06:07 --> 06:10] successors found that it was far more the other way around.
+[06:10 --> 06:13] The Emperor relied upon the Praetorian for his position.
+[06:14 --> 06:19] As such, the Guard began to wield something of a de facto veto over state affairs,
+[06:19 --> 06:22] because what was the Emperor going to do, cross them?
+[06:22 --> 06:24] They guarded the Imperial family while they slept.
+[06:25 --> 06:29] For the next few hundred years, the Praetorian Guard would sit fat and
+[06:29 --> 06:32] comfortable in roomy barracks with their double pay and lax discipline and
+[06:32 --> 06:34] dare anyone to challenge them.
+[06:35 --> 06:38] Any time they took a dislike to a sitting Emperor, they would simply
+[06:38 --> 06:41] assassinate or depose him and elevate a man they thought would treat them better.
+[06:42 --> 06:45] They went so far at one point as to actually auction off the job of
+[06:46 --> 06:49] bitter after murdering the previous occupant of the office.
+[06:50 --> 06:54] This model of using the monopoly they held on the use of force within Rome to
+[06:54 --> 06:58] maintain their own status and push their own agenda was invented by
+[06:58 --> 07:02] Lucius Sejanus, a man who, at his height, was arguably the most
+[07:02 --> 07:03] powerful man in the Empire.
+[07:06 --> 07:10] Sejanus was born into the equestrian class, the socioeconomic level just
+[07:10 --> 07:11] beneath that of the senatorial class.
+[07:12 --> 07:15] His family was connected to the regime by his grandfather's marriage to
+[07:15 --> 07:19] Messinus' sister, but they were by no means in the upper echelon of
+[07:19 --> 07:20] Roman society.
+[07:22 --> 07:24] Sejanus' father caught the eye of Augustus while the former was
+[07:24 --> 07:28] still a young man, and he was brought into the Praetorian Guard and
+[07:28 --> 07:30] eventually made one of its two prefects.
+[07:31 --> 07:34] After Augustus died, young Sejanus was appointed to serve as his
+[07:34 --> 07:37] father's colleague, but critically, when the elder man was appointed
+[07:37 --> 07:41] to serve as governor of Egypt, an appointment which speaks volumes
+[07:41 --> 07:44] about the trust Sejanus had in this particular family, Sejanus was
+[07:44 --> 07:48] left as the sole prefect, and Sejanus appointed no colleague to
+[07:48 --> 07:49] serve with him.
+[07:49 --> 07:53] It seems that right away, Sejanus was a slave to ambition and
+[07:53 --> 07:56] immediately set his sights on elevating himself above the ceiling
+[07:56 --> 08:00] placed on him by his equestrian status, and for years,
+[08:00 --> 08:04] Sejanus was content to allow Sejanus' ambition to flourish.
+[08:05 --> 08:09] Now, what exactly Sejanus was ultimately aiming for has been a
+[08:09 --> 08:11] topic of great debate over the years.
+[08:11 --> 08:14] Numerous ancient sources claim that he had his sights set squarely on
+[08:14 --> 08:18] making himself emperor, but the modern consensus is that he was
+[08:18 --> 08:22] looking to be named regent for one of Tiberius' young heirs once
+[08:22 --> 08:23] Tiberius himself was dead.
+[08:24 --> 08:26] But of course, when Sejanus began to scheme after
+[08:26 --> 08:30] attaining sole control of the Praetorian Guard in 15 AD, there
+[08:30 --> 08:34] was one giant obstacle in his way, Tiberius' son, Drusus.
+[08:35 --> 08:38] With Drusus the obvious heir to the throne, there was no room
+[08:38 --> 08:42] for Sejanus at the top, as young Drusus was not young enough
+[08:42 --> 08:44] to require an overbearing regent to rule in his name.
+[08:45 --> 08:48] Now, you might be saying, OK, well, we're about to see that
+[08:48 --> 08:51] Sejanus was able to do a pretty good job worming his way
+[08:51 --> 08:52] into Tiberius' favor.
+[08:53 --> 08:56] Why not just keep on keeping on and be the power behind the
+[08:56 --> 08:59] throne of the eventual emperor Drusus as well?
+[08:59 --> 09:03] The answer is that Drusus hated Sejanus.
+[09:03 --> 09:06] He found the manipulative prefect absolutely despicable,
+[09:06 --> 09:11] and Sejanus in turn hated Drusus, even more so after the
+[09:11 --> 09:13] hot tempered heir had actually hit him during one of their
+[09:13 --> 09:14] frequent arguments.
+[09:15 --> 09:18] If Drusus did become emperor, Sejanus would probably be
+[09:18 --> 09:21] lucky if he was simply removed from office.
+[09:21 --> 09:24] Exile would not be out of the question, nor would force
+[09:24 --> 09:26] suicide, nor execution.
+[09:27 --> 09:29] I think it's safe to say that nothing would have been
+[09:29 --> 09:32] more disastrous to the life and career of Lucius Sejanus
+[09:32 --> 09:35] than the ascension of emperor Drusus.
+[09:36 --> 09:40] While he was wondering how to get around Drusus, Sejanus was
+[09:40 --> 09:42] also thinking about how to get around the fact that he was
+[09:42 --> 09:45] merely an equestrian and had likely risen as high as his
+[09:45 --> 09:46] status would ever permit.
+[09:48 --> 09:51] Finally, the prefect hit upon an answer that would take
+[09:51 --> 09:54] care of both of his problems simultaneously, an elegant,
+[09:54 --> 09:56] if sinister, little solution.
+[09:57 --> 10:00] At the time, Drusus was married to Lovilla, the
+[10:00 --> 10:04] daughter of Tiberius' brother Drusus, and Antonia, the
+[10:05 --> 10:09] If Drusus were to suddenly die and the widowed Lovilla was
+[10:09 --> 10:12] allowed to marry Sejanus, then he would become a member of
+[10:12 --> 10:15] the imperial family and any children he sired would
+[10:15 --> 10:17] themselves become potential heirs to the throne.
+[10:18 --> 10:21] So he set about seducing Lovilla in the hopes that
+[10:21 --> 10:24] she would not only welcome him as her husband, but also
+[10:24 --> 10:26] that she might help him eliminate Drusus.
+[10:27 --> 10:30] Luckily for Sejanus, Lovilla was more than open to
+[10:30 --> 10:33] cheating on her persistently absentee husband.
+[10:33 --> 10:36] Once the affair got going, it did not take much for
+[10:36 --> 10:39] Sejanus to convince Lovilla that Drusus was a hindrance
+[10:39 --> 10:40] to them both.
+[10:40 --> 10:43] If Drusus were eliminated, Sejanus would whisper in her
+[10:43 --> 10:45] ear, then they could be together in the open.
+[10:46 --> 10:48] Sejanus would be in a much more powerful position
+[10:48 --> 10:51] politically, and together they might eventually
+[10:51 --> 10:51] rule the empire.
+[10:53 --> 10:55] Clearly, Lovilla had no great love for Drusus,
+[10:55 --> 10:59] because in 23 AD, she agreed to secretly administer
+[10:59 --> 11:01] poison to her unsuspecting husband.
+[11:02 --> 11:04] Apparently, she and Sejanus did such a good job
+[11:04 --> 11:07] that no one ever suspected that Drusus' sudden
+[11:07 --> 11:09] illness and death was the result of foul play.
+[11:10 --> 11:13] It would be years before the truth came out.
+[11:14 --> 11:16] Tacitus marks the death of Drusus as the turning
+[11:16 --> 11:18] point in Tiberius' reign.
+[11:19 --> 11:21] The emperor had shared a consulship with his son
+[11:21 --> 11:24] in 21 AD, and was in the process of transferring
+[11:24 --> 11:26] a great deal of administrative authority to
+[11:26 --> 11:28] Drusus at the time of the young man's death.
+[11:29 --> 11:31] Tiberius had failed to get the Senate to help him
+[11:31 --> 11:34] with his increasingly unwelcome burdens of office,
+[11:34 --> 11:37] and had ever since viewed Drusus as the answer
+[11:37 --> 11:38] to his unhappiness.
+[11:39 --> 11:42] When Drusus died, Tiberius suffered the blow
+[11:42 --> 11:44] not just as a father who had lost a son,
+[11:44 --> 11:47] but also as a prisoner who had been denied parole.
+[11:48 --> 11:51] Now, a faction of ancient historians, led by
+[11:51 --> 11:54] Suetonius, report that Tiberius cared very little
+[11:54 --> 11:57] for his son, and actually cut short the customary
+[11:57 --> 11:59] mourning period and returned to work because
+[11:59 --> 12:01] he had nothing really to mourn at all.
+[12:02 --> 12:04] But I am more convinced by Tacitus that the death
+[12:04 --> 12:07] was a personal and professional disaster for Tiberius,
+[12:08 --> 12:09] given everything else we know about the emperor,
+[12:10 --> 12:12] and the fact that Suetonius, wonderful writer
+[12:12 --> 12:15] that he is, tends to traffic and unflattering gossip.
+[12:17 --> 12:19] The murder of Drusus was a crime that remained
+[12:19 --> 12:22] hidden for close to a decade, and for that
+[12:22 --> 12:24] stretch, things went almost completely according
+[12:24 --> 12:26] to plan for Sejanus.
+[12:26 --> 12:29] Tiberius, who was still looking for someone
+[12:29 --> 12:31] to help him govern, turned to his willing
+[12:31 --> 12:33] prefect for support, and found Sejanus's
+[12:33 --> 12:35] administrative skills and general cunning
+[12:35 --> 12:37] to be a valuable resource.
+[12:38 --> 12:40] The emperor began to rely on him more and more
+[12:40 --> 12:42] to actually run the empire.
+[12:43 --> 12:45] With Tiberius trusting in him completely,
+[12:45 --> 12:47] Sejanus acted as a sort of super-executive
+[12:47 --> 12:50] assistant who controlled the flow of information
+[12:50 --> 12:52] into and out of the imperial quarters.
+[12:53 --> 12:56] Tiberius only saw callers approved by Sejanus,
+[12:56 --> 12:58] only read letters approved by Sejanus,
+[12:59 --> 13:01] and only issued orders approved by Sejanus.
+[13:02 --> 13:04] The prefect became so influential
+[13:04 --> 13:06] that Tiberius called him nothing less
+[13:06 --> 13:08] than the partner of my labors.
+[13:10 --> 13:12] But Sejanus's plan was only half fulfilled.
+[13:12 --> 13:14] He was now one of the most powerful men
+[13:14 --> 13:16] in the empire, and no longer had to worry
+[13:16 --> 13:19] about the wrath of a potential emperor, Drusus.
+[13:19 --> 13:21] But his attempt to marry into the imperial family
+[13:21 --> 13:23] was blocked by the emperor.
+[13:23 --> 13:25] After waiting a suitable amount of time
+[13:25 --> 13:28] following the death of Drusus, Sejanus asked
+[13:28 --> 13:29] Tiberius for the widow Lovilla's
+[13:29 --> 13:31] hand in marriage in 25 AD.
+[13:32 --> 13:35] However, unlike just about every other decision
+[13:35 --> 13:37] the emperor made, he refused to consider the matter.
+[13:38 --> 13:41] As important as Sejanus was, he was still,
+[13:41 --> 13:43] after all, merely an equestrian.
+[13:43 --> 13:45] When a daughter of the imperial family married,
+[13:45 --> 13:48] it had better be to a man of at least senatorial rank.
+[13:48 --> 13:50] Anything less would be beneath her.
+[13:51 --> 13:52] Come now, Sejanus, be serious.
+[13:53 --> 13:54] What would the neighbors think?
+[13:55 --> 13:56] Afraid that pressing the issue would cause him
+[13:56 --> 13:59] to lose favor, Sejanus was forced to swallow
+[13:59 --> 14:00] his pride and drop the matter.
+[14:00 --> 14:02] Not forever, just for now.
+[14:03 --> 14:06] With his plan to enter the Julio-Claudian dynasty
+[14:06 --> 14:08] temporarily thwarted, Sejanus turned all
+[14:08 --> 14:10] of his attention to accumulating
+[14:10 --> 14:12] as much power for himself as possible.
+[14:13 --> 14:15] To this end, he decided to lean hard
+[14:15 --> 14:17] on Tiberius's natural paranoia,
+[14:17 --> 14:20] and drive a physical as well as psychological wedge
+[14:20 --> 14:22] between Tiberius and the people of Rome.
+[14:26 --> 14:27] Ever since the death of Germanicus,
+[14:28 --> 14:30] Agrippina and her allies in the Julian wing
+[14:30 --> 14:33] of the Julio-Claudian dynasty made no secret
+[14:33 --> 14:34] of the fact that they blamed Tiberius
+[14:34 --> 14:36] for Germanicus's death.
+[14:37 --> 14:38] Sejanus decided to play up the threat
+[14:38 --> 14:40] they might pose to Tiberius,
+[14:40 --> 14:42] and began trumping up treason charges
+[14:42 --> 14:44] against various high ranking officials
+[14:44 --> 14:45] allied with Agrippina.
+[14:46 --> 14:48] It was all political theater, of course,
+[14:48 --> 14:51] acted out for an audience of one.
+[14:52 --> 14:53] Already inclined to believe
+[14:53 --> 14:54] that everyone was out to get him,
+[14:55 --> 14:57] when Sejanus began showing him evidence
+[14:57 --> 14:59] that they really were all out to get him,
+[14:59 --> 15:02] Tiberius withdrew even further from the public realm.
+[15:03 --> 15:06] He began holing up in Campania on extended vacations
+[15:06 --> 15:07] that kept him out of Rome
+[15:07 --> 15:09] for longer and longer periods of time
+[15:09 --> 15:10] with each passing year.
+[15:11 --> 15:14] Pretty soon, living in the bubble created by Sejanus,
+[15:14 --> 15:17] Rome began to loom in Tiberius's imagination
+[15:17 --> 15:19] as a mortally dangerous city
+[15:19 --> 15:22] packed with treacherous vipers and hostile mobs.
+[15:22 --> 15:25] In 26 AD, he decided to retreat to his villa
+[15:25 --> 15:28] on the island of Capri and leave Rome to its own devices.
+[15:30 --> 15:31] No one knew it at the time,
+[15:31 --> 15:32] but when he left the city that year,
+[15:33 --> 15:34] it would be the last time Tiberius
+[15:34 --> 15:36] would actually set foot in Rome.
+[15:37 --> 15:38] He would constantly send word
+[15:38 --> 15:40] that he was coming back soon,
+[15:40 --> 15:41] that he would be there any day,
+[15:42 --> 15:44] but excuses always delayed travel,
+[15:44 --> 15:46] and he just never got around to it.
+[15:46 --> 15:49] The truth is that Tiberius was probably terrified
+[15:49 --> 15:50] of returning to the city,
+[15:51 --> 15:53] convinced as he was that as soon as he did,
+[15:53 --> 15:56] the mobs would riot and tear him limb from limb.
+[15:57 --> 15:58] For the last 11 years of his reign,
+[15:59 --> 16:01] Tiberius ruled in absentia from Capri.
+[16:02 --> 16:04] His man on the ground, of course, was Sejanus,
+[16:04 --> 16:07] who promised to look after Tiberius's interests in Rome
+[16:07 --> 16:09] until it was safe for the emperor to return.
+[16:11 --> 16:14] Now, there is a loose variable in all of this
+[16:14 --> 16:16] that I have thus far neglected to mention,
+[16:16 --> 16:18] who kept Sejanus's power from becoming complete
+[16:18 --> 16:21] at this point, and who also may have played a part
+[16:21 --> 16:24] in Tiberius's second and final self-imposed exile,
+[16:24 --> 16:27] his mother Livia, now known as the Augusta.
+[16:29 --> 16:31] During the early years of Tiberius's reign,
+[16:31 --> 16:33] there seems to have been a cordial,
+[16:33 --> 16:35] if distant, relationship between mother and son.
+[16:36 --> 16:38] She did not lack for valuable advice,
+[16:38 --> 16:41] and there is no denying that she was a fierce advocate
+[16:41 --> 16:42] for her son's interests.
+[16:43 --> 16:45] But she also exuded a sort of omnipresence
+[16:45 --> 16:47] that began to wear on Tiberius.
+[16:48 --> 16:50] There was no end to the snide gossip
+[16:50 --> 16:53] that Tiberius had been placed on the throne by his mother,
+[16:53 --> 16:56] and it was she who really pulled the strings of power.
+[16:57 --> 16:59] Tiberius struggled to become his own man
+[16:59 --> 17:01] and tried to only consult with his mother
+[17:01 --> 17:02] when absolutely necessary.
+[17:03 --> 17:05] He wanted to demonstrate that he ruled in his own right,
+[17:06 --> 17:08] but the Augusta had her own base of support,
+[17:08 --> 17:11] and there would always be those who saw Tiberius
+[17:11 --> 17:14] as a necessary figurehead in patriarchal Rome,
+[17:14 --> 17:17] and that in fact the empire was actually being ruled
+[17:17 --> 17:18] by its first empress.
+[17:19 --> 17:21] Though he gave as much latitude to his mother
+[17:21 --> 17:22] as he felt he could,
+[17:23 --> 17:25] there were times when the two butted heads publicly.
+[17:26 --> 17:29] Sometimes she got her way and sometimes he got his way,
+[17:29 --> 17:32] but Tiberius seemed unable to escape the perception
+[17:32 --> 17:33] that when he got his way,
+[17:33 --> 17:35] it was because the Augusta had relented
+[17:35 --> 17:36] to a petulant child,
+[17:36 --> 17:38] and when she got her way,
+[17:38 --> 17:40] it was because, well, she was the real power in Rome.
+[17:41 --> 17:43] Tiberius just could not win.
+[17:44 --> 17:46] And of course, the Augusta did little to disabuse
+[17:46 --> 17:49] anyone of the notion that all of it wasn't true.
+[17:50 --> 17:52] Almost all the ancient sources agree
+[17:52 --> 17:55] that when Tiberius withdrew from Rome in 26 AD,
+[17:55 --> 17:56] it was at least in part
+[17:56 --> 17:58] to get away from his overbearing mother.
+[17:59 --> 18:01] The depth of the enmity tortor
+[18:01 --> 18:03] that had grown in Tiberius by the end
+[18:03 --> 18:05] is amply demonstrated by the fact
+[18:05 --> 18:07] that when she finally died in 29 AD,
+[18:07 --> 18:09] he claimed that he was too busy with work
+[18:09 --> 18:11] to return to Rome for her funeral.
+[18:13 --> 18:14] But as I've said,
+[18:14 --> 18:16] the Augusta was a fierce advocate for her son,
+[18:17 --> 18:19] whether it was in pursuit of her own interests or not.
+[18:19 --> 18:21] When it came to Tiberius,
+[18:21 --> 18:22] she was always on the watch
+[18:22 --> 18:24] for potential dangers to his regime.
+[18:25 --> 18:27] Thus, when Sejanus wormed his way
+[18:27 --> 18:28] into the emperor's confidence
+[18:28 --> 18:30] and began his de facto rule of Rome
+[18:30 --> 18:32] when Tiberius retired to Capri,
+[18:33 --> 18:35] he was prevented from wielding absolute control
+[18:35 --> 18:36] over the empire
+[18:36 --> 18:38] because the Augusta had her own direct lines
+[18:38 --> 18:39] of communication to her son
+[18:39 --> 18:41] that Sejanus was unable to block.
+[18:43 --> 18:45] The prefect was smart enough not to cross the Augusta,
+[18:46 --> 18:47] so though he was poised
+[18:47 --> 18:48] to completely dominate the empire,
+[18:49 --> 18:50] he wasn't quite there yet.
+[18:51 --> 18:54] Eventually, Sejanus planned to eliminate anyone
+[18:54 --> 18:55] who threatened his rise,
+[18:56 --> 18:57] but a good number of those threats
+[18:57 --> 18:59] sat in the Augusta sphere of influence.
+[18:59 --> 19:01] It would be monumentally stupid
+[19:01 --> 19:03] to stir up that hornet's nest
+[19:03 --> 19:04] when he didn't have to.
+[19:04 --> 19:06] He had plans, lots of plans,
+[19:07 --> 19:09] but as long as the Augusta was alive,
+[19:09 --> 19:10] he would have to sit on them.
+[19:11 --> 19:14] So when, in 29, the Augusta finally passed away,
+[19:14 --> 19:16] Sejanus put on a public face of mourning,
+[19:16 --> 19:18] but inside was ecstatic.
+[19:18 --> 19:20] He could now finally make his move.
+[19:23 --> 19:25] One of those main centers of opposition to him
+[19:25 --> 19:27] that Sejanus wanted to quickly destroy
+[19:27 --> 19:29] had grown up around Agrippina.
+[19:30 --> 19:31] Luckily, eliminating her
+[19:31 --> 19:33] would not ruffle any imperial feathers,
+[19:33 --> 19:35] as Tiberius himself hated her
+[19:35 --> 19:37] and wanted her out of the picture.
+[19:38 --> 19:39] Not only was she still beating the
+[19:39 --> 19:41] Tiberius killed my husband drum,
+[19:42 --> 19:44] but she also actively promoted her own sons
+[19:44 --> 19:46] as the true heirs to the imperial throne.
+[19:48 --> 19:49] Augustus had wanted Germanicus
+[19:49 --> 19:50] to follow Tiberius, she said,
+[19:51 --> 19:53] so it was only logical that Germanicus's sons
+[19:53 --> 19:55] stand as the rightful heirs.
+[19:56 --> 19:57] It was Augustus's will
+[19:57 --> 19:59] that the Julians return to power
+[19:59 --> 20:01] and not allow Rome to be ruled by,
+[20:01 --> 20:03] gag me with a spoon,
+[20:03 --> 20:04] a succession of Claudians,
+[20:05 --> 20:07] or that snake in the grass, Sejanus.
+[20:08 --> 20:10] Acting nothing like the good little Roman woman,
+[20:11 --> 20:13] Agrippina very publicly inserted herself into politics
+[20:13 --> 20:15] and gathered around her family
+[20:15 --> 20:17] something of an opposition party
+[20:17 --> 20:18] to the standing regime.
+[20:19 --> 20:21] Her distrust of the emperor was so great
+[20:21 --> 20:23] that at a dinner party one night,
+[20:23 --> 20:26] he offered her some fruit and she refused to eat it,
+[20:26 --> 20:28] convinced that he was trying to poison her.
+[20:29 --> 20:31] Tiberius himself claimed that the entire scene
+[20:31 --> 20:33] was prearranged to test her loyalty,
+[20:33 --> 20:36] a test that she failed spectacularly.
+[20:36 --> 20:38] Agrippina, unwilling as ever to back down,
+[20:39 --> 20:40] told her supporters that Tiberius
+[20:40 --> 20:42] had in fact tried to poison her
+[20:42 --> 20:44] and then concocted the story of a loyalty test
+[20:44 --> 20:47] after the fact once she escaped his murderous clutches.
+[20:49 --> 20:51] When the Augusta died, Sejanus went straight away
+[20:51 --> 20:54] after Agrippina on the explicit order of Tiberius.
+[20:55 --> 20:58] Whether the idea of trying Germanicus's family
+[20:58 --> 21:00] for treason was originally planted
+[21:00 --> 21:02] in the emperor's head by Sejanus or not,
+[21:02 --> 21:04] there is no doubt that Tiberius
+[21:04 --> 21:05] fully supported their persecution.
+[21:07 --> 21:08] Agrippina and her two eldest sons,
+[21:09 --> 21:10] Nero Caesar and Jerusalem Caesar,
+[21:11 --> 21:13] were tried and convicted on trumped up charges
+[21:13 --> 21:15] of attempting to overthrow the regime.
+[21:16 --> 21:18] The fates of all three were gruesome.
+[21:18 --> 21:20] The elder son, Nero Caesar,
+[21:20 --> 21:22] was murdered shortly after the trial
+[21:22 --> 21:24] while his brother was left to rot in prison
+[21:24 --> 21:27] for four years before being intentionally starved
+[21:27 --> 21:28] to death in 33 AD.
+[21:29 --> 21:31] It is reported that by the end,
+[21:31 --> 21:34] he was reduced to eating the stuffing from his bedding
+[21:34 --> 21:36] in a vain attempt to survive.
+[21:37 --> 21:40] Agrippina herself was exiled to a desolate island
+[21:40 --> 21:42] and after enduring years of beatings,
+[21:42 --> 21:46] she too died in 33 AD, broken and malnourished.
+[21:47 --> 21:49] The only one of Germanicus's sons to survive
+[21:49 --> 21:52] was young Gaius, known to all by the nickname Caligula,
+[21:52 --> 21:54] who was too young to be considered a threat.
+[21:55 --> 21:58] Hmm, I wonder if this thoroughly traumatized boy,
+[21:58 --> 22:00] who just watched his mother and brothers
+[22:00 --> 22:02] be murdered by his adoptive grandfather,
+[22:03 --> 22:05] is going to grow up to be a sociopathic monster.
+[22:06 --> 22:08] Stay tuned, we'll all find out together.
+[22:09 --> 22:11] But the persecution of Germanicus's family
+[22:11 --> 22:12] was only the beginning.
+[22:13 --> 22:15] Rome under Tiberius was already suffering
+[22:15 --> 22:17] from far more restrictions on individual liberty
+[22:17 --> 22:21] than it had under the confident and permissive Augustus.
+[22:21 --> 22:23] Throughout the 20s,
+[22:23 --> 22:25] Tiberius had begun to elevate every real
+[22:25 --> 22:26] or perceived slight against the regime
+[22:26 --> 22:29] to the level of capital T treason.
+[22:29 --> 22:32] Now, with Sejanus in total control of Tiberius,
+[22:32 --> 22:34] the cruel paranoia of the aging emperor
+[22:34 --> 22:36] was given free reign.
+[22:37 --> 22:39] Where once maybe a few men a year
+[22:39 --> 22:41] were tried and convicted of treason,
+[22:41 --> 22:43] now it became a daily event.
+[22:44 --> 22:45] Treason trials ran continuously
+[22:45 --> 22:48] and a bloody purge not seen since the days
+[22:48 --> 22:50] of the second triumvirate overtook the city.
+[22:51 --> 22:53] With Sejanus overseeing the proceedings,
+[22:53 --> 22:56] it became clear early that those charged with treason
+[22:56 --> 22:58] were overwhelmingly personal enemies
+[22:58 --> 22:59] of the Praetorian prefect.
+[23:00 --> 23:02] Under the guise of protecting Tiberius,
+[23:02 --> 23:04] Sejanus was actually killing off his opponents
+[23:04 --> 23:06] and putting everyone else on notice
+[23:06 --> 23:08] that they had better not cross him.
+[23:10 --> 23:11] But in 31 AD,
+[23:11 --> 23:14] just as Sejanus stepped into a shared consulship
+[23:14 --> 23:16] with Tiberius, finally achieving the formal power
+[23:16 --> 23:19] he had sought for so long, he was undone.
+[23:20 --> 23:24] Unfortunately for us, the sections of Tacitus's annals
+[23:24 --> 23:26] that deal with the fall of Sejanus have been lost,
+[23:26 --> 23:28] so we don't have the same level of detail
+[23:28 --> 23:30] for this episode that we do
+[23:30 --> 23:31] for the rest of Tiberius's reign.
+[23:33 --> 23:35] It seems though that Tiberius finally realized
+[23:35 --> 23:37] just how much Sejanus was usurping his authority
+[23:37 --> 23:40] after a few letters critical of the prefect
+[23:40 --> 23:42] made it through Sejanus's screening process.
+[23:44 --> 23:45] Believing that Sejanus had allied himself
+[23:45 --> 23:47] with elements of the Julian clan
+[23:47 --> 23:49] and was planning to overthrow him,
+[23:49 --> 23:51] Tiberius decided to divest himself
+[23:51 --> 23:53] of the backstabbing prefect.
+[23:54 --> 23:56] He called an unsuspecting Sejanus
+[23:56 --> 23:57] to stand before the Senate
+[23:57 --> 23:59] to attend to some invented business
+[23:59 --> 24:00] outlined in a letter from the emperor
+[24:00 --> 24:03] that was to be read aloud to the assembled senators.
+[24:04 --> 24:05] To the prefect's shock,
+[24:05 --> 24:07] amidst the tedium of imperial business,
+[24:08 --> 24:11] Tiberius's letter suddenly veered into a denunciation
+[24:11 --> 24:12] of his new consular colleague.
+[24:13 --> 24:15] Tiberius called for Sejanus to be tried
+[24:15 --> 24:17] and executed for treason.
+[24:18 --> 24:19] The Senate, who had suffered mightily
+[24:19 --> 24:22] under Sejanus's heavy and bloody hand,
+[24:22 --> 24:23] immediately obliged.
+[24:24 --> 24:25] Sejanus had no recourse
+[24:25 --> 24:28] as Tiberius had already sent notice to the Praetorians
+[24:28 --> 24:30] that their leader had been replaced
+[24:30 --> 24:33] and that Navias Suttorius Macro was their new prefect.
+[24:34 --> 24:37] Suddenly, without power or allies,
+[24:37 --> 24:40] Sejanus was tried, sentenced, and strangled.
+[24:41 --> 24:43] His death sparked riots in Rome.
+[24:44 --> 24:45] Suddenly free of the tyrant,
+[24:45 --> 24:46] they tore his body to pieces
+[24:46 --> 24:48] and then went off in search of anyone
+[24:48 --> 24:50] who had collaborated with the fallen prefect
+[24:50 --> 24:51] in his reign of terror.
+[24:53 --> 24:54] Among those who were swept up
+[24:54 --> 24:56] in the immediate aftermath of Sejanus's death
+[24:56 --> 24:59] was Lovilla, a slave with knowledge of her crime,
+[25:00 --> 25:02] waited until he was sure Sejanus was dead
+[25:02 --> 25:03] and then addressed a letter to Tiberius
+[25:03 --> 25:06] outlining her involvement in the murder of Jerusalem.
+[25:07 --> 25:09] Lovilla turned up dead shortly thereafter
+[25:09 --> 25:11] and though a definitive account of her death
+[25:11 --> 25:13] does not exist, the most dramatic account
+[25:13 --> 25:15] has Tiberius handing Lovilla
+[25:15 --> 25:17] over to her mother Antonia for punishment,
+[25:18 --> 25:19] whereupon mother locked up daughter
+[25:19 --> 25:21] and starved her to death.
+[25:23 --> 25:26] Next week, we will trace the final bloody
+[25:26 --> 25:28] and debauched years of Tiberius's reign.
+[25:29 --> 25:32] As so often happens, the purge machine was turned
+[25:32 --> 25:34] on those who had initiated it
+[25:34 --> 25:36] and Tiberius sought to eliminate anyone suspected
+[25:36 --> 25:38] of ever coming into contact with anyone
+[25:38 --> 25:41] who had ever considered being a friend of Sejanus.
+[25:42 --> 25:43] It was a dark time for Rome
+[25:43 --> 25:46] and when Tiberius finally died in 37 AD,
+[25:46 --> 25:48] the people cheered his death.
+[25:49 --> 25:50] Not only was their hated master dead,
+[25:51 --> 25:53] but ascending to the throne was the beloved Caligula,
+[25:54 --> 25:55] son of noble Germanicus.
+[25:56 --> 25:58] If anyone could put the horrible final years
+[25:58 --> 26:00] of Tiberius's reign behind them,
+[26:00 --> 26:01] it was this shining young prince.
+[26:02 --> 26:04] Yeah, not so much.
+[26:06 --> 26:09] I will close this week by mentioning around this time
+[26:09 --> 26:10] a man claiming to be the son of God
+[26:10 --> 26:13] was executed in the far off province of Judea.
+[26:14 --> 26:17] The crucifixion of the man, Jesus Christ,
+[26:17 --> 26:19] had absolutely no immediate impact on anything.
+[26:20 --> 26:22] But in just a few years,
+[26:22 --> 26:24] after a dramatic revelatory vision on the road
+[26:24 --> 26:26] to the Syrian city of Damascus,
+[26:26 --> 26:29] a man by the name of Saul will turn the execution
+[26:29 --> 26:31] into one of the most important events in world history.
+[26:32 --> 26:35] Even simply keeping our focus strictly on Roman history,
+[26:35 --> 26:37] the emergence and spread of Christianity
+[26:37 --> 26:39] is a huge development.
+[26:40 --> 26:41] At first, the early Christians
+[26:41 --> 26:43] will be ruthlessly persecuted by the Romans,
+[26:44 --> 26:45] who will find themselves baffled
+[26:45 --> 26:46] by the Christian unwillingness
+[26:46 --> 26:48] to treat the emperors as divine.
+[26:49 --> 26:51] But eventually, Christianity will entrench itself
+[26:51 --> 26:53] as the official religion of the state,
+[26:53 --> 26:56] and from there become the dominant religion
+[26:56 --> 26:57] of the entire Western world.

@@ -1,0 +1,337 @@
+# 20110731 - 145- Julian the Apostate
+# Detected language: en
+# Duration: 1650.08 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:16] Hello, and welcome to the History of Rome, episode 145, Julian the Apostate.
+[00:16 --> 00:23] In November 361 AD, Constantius II died and Julian, last of the Constantinians, inherited
+[00:23 --> 00:25] the empire.
+[00:25 --> 00:28] It would be an ironic end to the dynasty.
+[00:28 --> 00:31] At least, I'm pretty sure it's ironic.
+[00:31 --> 00:36] Sometimes I think that no situation actually fits the technical definition of irony, and
+[00:36 --> 00:40] that the word just sort of hangs out in the linguistic ether singing a siren song that's
+[00:40 --> 00:46] designed to crash the unsuspecting against the jagged rocks of pedantry, but I'm pretty
+[00:46 --> 00:48] sure it's ironic.
+[00:48 --> 00:53] Constantine began the dynasty by single-handedly launching Christianity to prominence, and his
+[00:53 --> 01:00] nephew would end it by attempting to single-handedly turn back the clock and bury Christianity.
+[01:00 --> 01:02] That's ironic, right?
+[01:02 --> 01:09] It sure seems ironic, but it's probably just interesting.
+[01:09 --> 01:13] When Julian received word that his cousin was dead, I have to imagine that it took a few
+[01:13 --> 01:16] minutes for the news to sink in.
+[01:16 --> 01:20] Here he was, hunkered down in thrace and ready to make what was very possibly shaping up
+[01:20 --> 01:27] to be his last stand, and instead, Constantius is dead, and I am now emperor.
+[01:27 --> 01:32] Like an approaching hurricane that just sort of transforms at the last moment into a pleasant
+[01:32 --> 01:38] sunny day, it takes a second to fully appreciate what the heck has just happened.
+[01:38 --> 01:44] But after the first few minutes of blinking wonder passed, Julian wasted no time completely
+[01:44 --> 01:47] embracing his imperial windfall.
+[01:47 --> 01:51] It appears that he had been thinking for a while about what he would do if he became
+[01:51 --> 01:58] emperor, because as soon as he became emperor, Julian jumped right into a completely out-of-left-field
+[01:58 --> 02:02] program of reform with both feet.
+[02:02 --> 02:06] Many critics of the new emperor note, though, that while his enthusiasm is laudable, maybe
+[02:06 --> 02:13] Julian should have looked before he leaped.
+[02:13 --> 02:18] Now the unopposed master of the empire, Julian entered Constantinople on December 11, 361
+[02:18 --> 02:22] A.D., and immediately got down to it.
+[02:22 --> 02:28] The first order of business, of course, was to completely overhaul the imperial court.
+[02:28 --> 02:33] Stocking the halls of the palace were men who were not just venal and corrupt, but men
+[02:33 --> 02:40] who had actively opposed Julian, men who had consistently tried to talk Constantius into
+[02:40 --> 02:42] killing him.
+[02:42 --> 02:47] These men needed to be identified and purged.
+[02:47 --> 02:51] Aware that it might look bad if he just showed up and started arbitrarily killing people,
+[02:51 --> 02:56] Julian gave his purge the air of objectivity by appointing an independent commission of
+[02:56 --> 03:03] six trusted men to sort through the rolls and separate the good men from the bad men.
+[03:03 --> 03:08] The emperor even went so far as to situate this commission across the Sea of Marmara
+[03:08 --> 03:15] town of Chalcedon so that the verdicts would not originate from the imperial palace itself.
+[03:15 --> 03:20] But I doubt that anyone was too fooled by this superficial independence.
+[03:20 --> 03:25] The worst of the emperor's enemies were executed and the rest were exiled.
+[03:25 --> 03:30] It wasn't hard to see the invisible hand of Julian guiding the commission's decisions
+[03:30 --> 03:34] about who needed to go and who could stay.
+[03:34 --> 03:39] But beyond the strictly personal decisions, the commission also included among the guilty
+[03:39 --> 03:44] men who were just plain old bad eggs.
+[03:44 --> 03:49] Constantius' court had a reputation for corruption, and the idealistic Julian appears to have
+[03:49 --> 03:58] been genuinely interested in purging the imperial rolls of the worst of the worst.
+[03:58 --> 04:01] But Julian was not done when the commission wrapped up its business.
+[04:01 --> 04:05] For all the attention his religious policies receive, religious policies that we'll get
+[04:05 --> 04:10] to in a minute, it is worth noting that Julian was not just trying to turn the clock back
+[04:10 --> 04:12] on the church.
+[04:12 --> 04:16] He was also trying to turn it back on the state.
+[04:16 --> 04:21] Julian clearly idolized the emperors of the Antonine dynasty and sought to base his own
+[04:21 --> 04:24] administration on their example.
+[04:24 --> 04:30] The first thing he attacked was just the sheer bloat of the imperial court.
+[04:30 --> 04:36] The Golden Age emperors had not needed 50 chefs and 30 secretaries and a personal barber,
+[04:36 --> 04:38] so why did he?
+[04:38 --> 04:43] Pink slips started flying through the palace and anyone deemed unnecessary, redundant,
+[04:43 --> 04:48] or useless was simply given the boot.
+[04:48 --> 04:52] But firing all the leeches was just the beginning of Julian's attempt to turn back the clock
+[04:52 --> 04:54] to the hundreds AD.
+[04:54 --> 04:59] In a far more dramatic and far more disruptive move, the emperor also began to abandon the
+[04:59 --> 05:03] whole emperor as a living god conceit.
+[05:03 --> 05:07] He shed the massive smokescreen of officials standing between him and his subjects.
+[05:07 --> 05:10] He ate simple foods and wore simple clothes.
+[05:10 --> 05:13] He grew a philosopher's beard.
+[05:13 --> 05:18] Clearly Julian wanted to pretend like the epoch-shifting reforms of Diocletian had never
+[05:18 --> 05:25] happened and return to the princeps model of governance.
+[05:25 --> 05:30] In Julian's head, these were virtuous reforms that would be embraced by a public weary
+[05:30 --> 05:33] of overblown imperial egos.
+[05:33 --> 05:37] But mostly, the public was just bewildered.
+[05:37 --> 05:42] It would have been like Vespasian emerging from the civil wars of 69 AD and suddenly
+[05:42 --> 05:45] announcing that the republic was back in effect.
+[05:45 --> 05:50] No one would have had any idea how to act, how to deal with it, or what was even expected
+[05:50 --> 05:52] of them.
+[05:52 --> 05:57] The entire political system of the late empire was centered around a quasi-divine emperor
+[05:57 --> 06:01] who inhabited the realm between man and god.
+[06:01 --> 06:06] To have an emperor suddenly joining in senate debates, expressing emotion in public, and
+[06:06 --> 06:14] just sort of generally being around, well, it was massively disconcerting.
+[06:14 --> 06:19] Julian meant well, but his vision was hopelessly anachronistic.
+[06:19 --> 06:25] When he died, the mere mortals of the empire gratefully ran back into the paternal embrace
+[06:25 --> 06:31] of their once again quasi-divine emperor.
+[06:31 --> 06:35] While he was bringing the role of emperor back down to earth, Julian also attempted
+[06:35 --> 06:41] to reduce the public power of the imperial bureaucracy in general.
+[06:41 --> 06:45] Adopting a more Trajan-like worldview, Julian believed that the central government was there
+[06:45 --> 06:50] to focus on the big picture issues like defense and taxation.
+[06:50 --> 06:56] It was not there to micromanage the affairs of every city, town, hamlet, and farmhouse
+[06:56 --> 06:59] in the empire.
+[06:59 --> 07:05] Seeking to devolve political authority, Julian re-empowered the ruling councils of the cities
+[07:05 --> 07:11] and handed over jurisdiction of huge tracts of imperial land to these local magistrates.
+[07:11 --> 07:16] The idea was to get them involved in the decision-making process, so Julian himself
+[07:16 --> 07:21] was not bogged down by endless minutiae.
+[07:21 --> 07:27] But once again, the citizens of the empire were more bewildered than anything else.
+[07:27 --> 07:31] Had Julian lived longer, this might all have eventually sunk in.
+[07:31 --> 07:36] But in the year and a half he ruled, he mostly just spun his wheels, trying to convince the
+[07:36 --> 07:40] leading men of various cities that being a magistrate wasn't just a massive financial
+[07:40 --> 07:47] burden anymore, that real power and real authority was theirs for the taking.
+[07:47 --> 07:51] They remained skeptical, though, until Julian's death ended the argument and the rich and
+[07:51 --> 08:00] powerful men of the empire continued their drift into rural feudalism undisturbed.
+[08:00 --> 08:06] To the energized 29-year-old emperor, however, these reforms were not yet doomed to failure,
+[08:06 --> 08:11] and he really felt like he was just getting started on a complete overhaul of the empire's
+[08:11 --> 08:14] political constitution.
+[08:14 --> 08:21] He had no way of knowing that because he was about to die, none of this was going to stick.
+[08:21 --> 08:26] We don't really have any idea what would have happened had Julian lived, and it is one of
+[08:26 --> 08:29] the great speculative questions of Roman history.
+[08:29 --> 08:34] Maybe the institutional barriers would have been too great to overcome in the end, but
+[08:34 --> 08:42] then again, maybe 30 years of Julian really would have been revolutionary.
+[08:42 --> 08:48] Which brings us to the heart and soul of Julian's short reign, the heart and soul of Julian
+[08:48 --> 08:52] the Apostate.
+[08:52 --> 08:57] As I mentioned two episodes back, Julian had secretly rejected Christianity around 350
+[08:57 --> 09:02] AD, not long after being released from his Cappadocian exile.
+[09:02 --> 09:07] But until now, this rejection had been a behind-closed-door sort of thing.
+[09:07 --> 09:12] Close friends and advisors were aware of Julian's religious preferences, but since there was
+[09:12 --> 09:18] no upside to publicizing these religious preferences, it was a secret that stayed with his close
+[09:18 --> 09:21] friends and advisors.
+[09:21 --> 09:26] Now that he was king of the hill, though, Julian was free to bring his paganism out
+[09:26 --> 09:31] into the open, and boy did he ever bring it out into the open.
+[09:31 --> 09:37] From the minute he became emperor, Julian worked obsessively to tear down the sociopolitical
+[09:37 --> 09:43] influence of the Christians, or as Julian liked to call them, the Galileans, a subtle
+[09:43 --> 09:52] dig based on a quote from the Gospel of John, that out of Galilee, ariseth no prophet.
+[09:52 --> 09:56] But Julian knew that merely tearing down would not be sufficient to fulfill his vision of
+[09:56 --> 09:59] a re-paganized empire.
+[09:59 --> 10:08] He would also have to build something up to replace the soon to be displaced Christians.
+[10:08 --> 10:14] When Julian entered Constantinople in December of 361, he immediately began this dual program
+[10:14 --> 10:18] of tearing down Christianity and building up paganism.
+[10:18 --> 10:22] It goes without saying that the political purge that accompanied Julian's arrival in
+[10:22 --> 10:26] the capital was driven in part by religious motives.
+[10:26 --> 10:32] In other words, the Christians were to be kicked out of influential posts, denied access
+[10:32 --> 10:38] to the imperial purse strings, and denied access to the emperor personally.
+[10:38 --> 10:43] Since the previous regime of Constantius had been so overtly Christian, though, this basically
+[10:43 --> 10:48] meant getting rid of everyone, something even Julian found he couldn't bring himself to
+[10:48 --> 10:50] do.
+[10:50 --> 10:55] So the apostate emperor wound up retaining a handful of the most honest and capable Christians
+[10:55 --> 10:59] in his administration.
+[10:59 --> 11:04] Beyond these token few, though, if you were Christian, your civil service career was suddenly
+[11:04 --> 11:05] in jeopardy.
+[11:05 --> 11:11] Now, of course, the swiftness with which Julian was able to reorganize the inner circle of
+[11:11 --> 11:16] the imperial government could not be matched on a system-wide basis.
+[11:16 --> 11:22] The bureaucracy was simply too large and too dispersed to overhaul overnight.
+[11:22 --> 11:26] But Julian was taking the long view on this thing, and so he promulgated a discriminatory
+[11:26 --> 11:33] order that when jobs opened up, the God-fearing candidates, that is, pagans, were to be preferred
+[11:33 --> 11:37] over the atheists, that is, the Christians.
+[11:37 --> 11:43] For the ambitious civil servant, this had to be a frustrating development.
+[11:43 --> 11:47] Like a week ago, they told me I had to be Christian if I wanted this job, and now you're
+[11:47 --> 11:52] telling me that because I'm a Christian, I'm not going to get the job?
+[11:52 --> 11:54] I don't really care one way or the other.
+[11:54 --> 12:00] I just wish you guys would get your story straight.
+[12:00 --> 12:06] On the building up front, Julian turned his attention first to building up in the literal
+[12:06 --> 12:07] sense.
+[12:07 --> 12:11] He ordered all the old shrines and temples and sanctuaries that had been closed over
+[12:11 --> 12:18] the years to be reopened, and appropriated imperial funds to help defray the costs.
+[12:18 --> 12:23] But knowing that the central government would not be able to afford to cover even a fraction
+[12:23 --> 12:28] of the total costs that this order would generate, Julian issued an addendum edict that was one
+[12:28 --> 12:33] part practical and one part punitive.
+[12:33 --> 12:38] Under the previous Christian regimes, citizens had been encouraged to destroy the blasphemous
+[12:39 --> 12:45] pagans, or at the very least, to repurpose them into something more useful.
+[12:45 --> 12:51] So all these old pagan buildings became shops and warehouses, and in some cases, family
+[12:51 --> 12:54] apartments.
+[12:54 --> 12:59] Julian ordered that the men responsible for the destruction or repurposing of the temples
+[12:59 --> 13:05] be responsible for the costs of undoing the damage they had done.
+[13:05 --> 13:10] Even Julian's most ardent admirers are troubled by the real world effects of this
+[13:10 --> 13:12] edict.
+[13:12 --> 13:18] The empire had been Christian for 40 years now, so in many cases, families and businesses
+[13:18 --> 13:23] had absorbed the old pagan holy places a really long time ago.
+[13:23 --> 13:29] Their lives and livelihoods had become tied, at imperial encouragement no less, to the
+[13:29 --> 13:34] discarded husks of what they had been assured were dead cults.
+[13:34 --> 13:40] Now, suddenly, Julian wanted to kick them out and make them pay to rebuild the houses
+[13:40 --> 13:42] of said dead cults.
+[13:42 --> 13:50] It was unfair in theory, and cruel in practice.
+[13:50 --> 13:55] But Julian pushed on undeterred, and in February of 362, about four months after Donning the
+[13:55 --> 14:02] Purple, he issued his famous, or infamous, depending on who you talk to, edict on religious
+[14:02 --> 14:04] tolerance.
+[14:04 --> 14:09] The point of the edict was to officially overturn the anti-pagan laws that had been on the book
+[14:09 --> 14:11] since the reign of Constantine.
+[14:11 --> 14:19] Now, those laws, which banned sacrifice, had never been uniformly or even diligently enforced,
+[14:19 --> 14:25] but still, officially, they were out there, and so Julian officially cancelled them.
+[14:25 --> 14:31] Using the same sort of language Constantine had once used himself in the Edict of Milan,
+[14:31 --> 14:35] Julian declared that all religions were now to be considered equal in the eyes of the
+[14:35 --> 14:37] government.
+[14:37 --> 14:42] This meant that all the secret pagans, or lapsed pagans, or whoever, could now return
+[14:42 --> 14:46] to their old ways without fear of state sanction.
+[14:46 --> 14:52] It also meant, though, that Christianity was not illegal.
+[14:52 --> 14:57] Given everything we know about Julian the Apostate, one might assume that the first
+[14:57 --> 15:03] thing he did was ban the Galilean religion outright, but his plans were a bit more subtle,
+[15:03 --> 15:09] a bit more long-term, and a bit more rational than his name might imply.
+[15:09 --> 15:15] The utter failure of the Great Persecution was not exactly ancient history.
+[15:15 --> 15:21] Julian knew that, far from breaking the Christians, that violent repression only led to a hardening
+[15:21 --> 15:24] of their resolve.
+[15:24 --> 15:29] So his Edict was designed to unleash upon them their very worst and most hated enemy
+[15:29 --> 15:31] in all the world.
+[15:31 --> 15:34] Other Christians.
+[15:34 --> 15:40] Julian's Edict of Toleration meant that the 40-year-old policy of using imperial muscle
+[15:40 --> 15:47] to back up what, for lack of a better word, I'll call mainstream Christianity, was over.
+[15:47 --> 15:51] All those repressed heresies were now free to come out of the woodwork and preach their
+[15:51 --> 15:56] own particular brand of the one true faith.
+[15:56 --> 16:01] Just at the moment when the Christian community needed to unite in the face of Julian's attacks,
+[16:01 --> 16:05] its ranks were sewed with discord.
+[16:05 --> 16:10] In Julian's perfect world, he would never have to do anything so dramatic as destroy
+[16:10 --> 16:11] Christianity.
+[16:11 --> 16:20] Instead, they would just slowly but surely tear themselves apart.
+[16:20 --> 16:25] Probably the nicest thing about this Toleration strategy was that it enabled Julian to maintain
+[16:25 --> 16:27] the moral high ground.
+[16:27 --> 16:33] He pointedly declared that no religious violence would be accepted, no matter who the perpetrator
+[16:33 --> 16:35] or who the victim.
+[16:35 --> 16:38] Pagans were not to attack Christians.
+[16:38 --> 16:42] Christians were not to attack pagans, and Christians were not to attack each other.
+[16:42 --> 16:49] Thus, Julian was able to avoid being painted as some monster a la Galerius or Maximinist
+[16:50 --> 16:53] Because I just want everyone to get along.
+[16:53 --> 16:55] What's wrong with everyone getting along?
+[16:55 --> 17:00] Come on, can't we all just get along?
+[17:00 --> 17:05] But just because he encouraged nonviolent means of achieving his goal, that did not
+[17:05 --> 17:10] mean that Julian's goal was not to drive Christianity into the ground.
+[17:10 --> 17:17] His goal, most definitely, was to drive Christianity into the ground.
+[17:17 --> 17:22] In May of 362, Julian left Constantinople and headed for Antioch.
+[17:22 --> 17:26] Since he had originally established his bona fides in the west, it was important for the
+[17:26 --> 17:33] new emperor to reach out to the eastern provinces and consolidate his rule over the whole empire.
+[17:33 --> 17:38] The east, after all, had been Constantius' domain for almost a quarter of a century,
+[17:38 --> 17:43] and Julian had come to power in the middle of a revolt against the man the eastern provincials
+[17:43 --> 17:47] had happily called Augustus all those years.
+[17:47 --> 17:51] In other words, Julian had some making up to do.
+[17:51 --> 17:56] On top of this political rationale, Julian also had a military rationale for heading
+[17:56 --> 17:58] east.
+[17:58 --> 18:02] The war with the Persians that Constantius had broken off was still hanging out there
+[18:02 --> 18:08] unresolved, and Julian wanted to use that war to cement his imperial authority.
+[18:08 --> 18:14] A big win over the Persians would catapult him to a whole new level.
+[18:14 --> 18:18] Not only would he earn the respect of the eastern legions, who had just months before
+[18:18 --> 18:24] been marching out to crush him, but he would also establish himself as a military leader
+[18:24 --> 18:27] of unparalleled skill.
+[18:27 --> 18:33] He could already point to major victories in the west, add major victories in the east,
+[18:33 --> 18:39] and boy, he might just become bigger than Constantine.
+[18:39 --> 18:44] On the road to Antioch, Julian issued another one of his famous-slash-infamous anti-Christian
+[18:44 --> 18:46] edicts.
+[18:46 --> 18:52] Henceforth, Christians would not be allowed to teach children using any of the classical
+[18:52 --> 18:53] texts.
+[18:53 --> 18:58] That meant no Homer, no Cicero, no Plato.
+[18:58 --> 19:04] But of course, the basic curriculum of Roman education, philosophy and grammar and rhetoric,
+[19:04 --> 19:08] used all of those works as their standard textbooks.
+[19:08 --> 19:12] If you can't teach Homer, you can't teach grammar.
+[19:12 --> 19:15] It's just that simple.
+[19:15 --> 19:19] The edict thus presented the parents of the empire with a stark choice.
+[19:19 --> 19:24] Their kids could either be taught by Christian teachers, but be denied the standard education,
+[19:24 --> 19:28] or they could be given the standard education and be denied any Christian interpretation
+[19:28 --> 19:30] of the material.
+[19:30 --> 19:36] Since a classical education was still required if you wanted to have any sort of decent career,
+[19:36 --> 19:40] Julian was banking that the vast majority of parents would choose to abandon Christian
+[19:40 --> 19:47] teachers rather than have their children grow up not knowing who Achilles was.
+[19:47 --> 19:52] To put this another way, Julian passed a law essentially strangling off Christian access
+[19:52 --> 19:55] to impressionable young minds.
+[19:55 --> 20:03] Like I say, he wanted to drive Christianity into the ground.
+[20:03 --> 20:08] When he arrived in Antioch in July of 362, though, Julian finally ran into some pushback
+[20:08 --> 20:10] to all this.
+[20:10 --> 20:15] He came into the eastern capital under the mistaken assumption that the city was eager
+[20:15 --> 20:19] to shed its Christian veneer and return to its pagan roots.
+[20:19 --> 20:25] But that was really not the case, as the fracas over the nearby temple of Apollo would make
+[20:25 --> 20:28] abundantly clear.
+[20:28 --> 20:33] Julian went to visit the famous temple shortly after his arrival and was dismayed at the
+[20:33 --> 20:36] dilapidated condition he founded in.
+[20:36 --> 20:41] When he ordered a priest to join him at the site for a sacrifice, he was further incensed
+[20:41 --> 20:46] to see the disinterested priest wandering up with a leftover goose to offer Apollo rather
+[20:46 --> 20:49] than a nice fat bowl.
+[20:49 --> 20:53] Julian then consulted the oracle of the temple in order to gain some much needed mystical
+[20:53 --> 20:58] advice, but was told that as long as the dead were desecrating the temple grounds, that
+[20:58 --> 21:01] the oracle could not speak.
+[21:01 --> 21:06] In this case, the dead referred to a famous Christian martyr who had been buried near
+[21:06 --> 21:09] the temple grounds.
+[21:09 --> 21:12] Julian figured it would be no big deal to exhume the body and then move it back to a
+[21:12 --> 21:18] proper cemetery, but the citizens of Antioch were outraged at this sacrilege.
+[21:18 --> 21:24] They came out en masse to protest the emperor's decision, and then, just a few days later,
+[21:24 --> 21:28] the temple of Apollo mysteriously burned down.
+[21:28 --> 21:33] The verdict of history is that the fire was probably an accident caused when some lit
+[21:33 --> 21:39] candles were neglected, but the verdict of Julian was that the Christians of Antioch
+[21:39 --> 21:43] were guilty of arson.
+[21:43 --> 21:48] All of this growing enmity was further exacerbated by another bout of famine, just like the one
+[21:48 --> 21:52] that had helped take down Julian's brother Gallus.
+[21:52 --> 21:57] The emperor attempted to set price controls on the now scarce grain supply, but all that
+[21:57 --> 22:02] happened was that rich merchants bought up all the available food at the controlled price
+[22:02 --> 22:06] and then carted it off to the surrounding countryside where they sold it at an insane
+[22:06 --> 22:08] markup.
+[22:08 --> 22:14] Between the religious conflict, the famine, and the just downright incompatibility of
+[22:14 --> 22:20] Julian and the Antiochians—they liked sumptuous living and games, he liked plain living and
+[22:20 --> 22:25] philosophy—it soon became clear that this was a relationship that was just never going
+[22:25 --> 22:28] to work.
+[22:28 --> 22:33] At a set of games thrown by Julian—against his will, of course—the Antiochians went
+[22:33 --> 22:40] in for a particularly harsh round of heckling that left the emperor embarrassed and embittered.
+[22:40 --> 22:46] He responded by publicly disseminating a satirical work called The Beard Hater, in which he viciously
+[22:46 --> 22:53] lampooned the citizens of Antioch while pretending to make fun of himself.
+[22:53 --> 22:57] No one really comes off well in the exchange, and the final upshot of it all is that when
+[22:57 --> 23:06] the emperor finally left the city in March 363, he promised never to return.
+[23:06 --> 23:10] His encounter with the Antiochians, though, did not cause him to reassess his religious
+[23:10 --> 23:15] policies so much as cause him to dig in his heels.
+[23:15 --> 23:20] In January of 363, Christians were banned from practicing law.
+[23:20 --> 23:26] In February, the Christian custom of daytime funerals was prohibited.
+[23:26 --> 23:31] But as I said, Julian was not just about tearing down.
+[23:31 --> 23:37] In the middle of all this, he also made an energetic, if futile, attempt to unify all
+[23:37 --> 23:42] the various pagan cults into a single organized religion—something that could structurally
+[23:42 --> 23:46] compete with Christianity.
+[23:46 --> 23:51] Julian could see how the empire-wide network of Christians helped cement its place in the
+[23:51 --> 23:56] hearts and minds of the citizens—how their dedication to helping the poor tending to
+[23:56 --> 24:02] the sick and offering sanctuary to the lost made them so popular with the common people.
+[24:02 --> 24:08] And most of all, how their unity, despite their many differences, made them an institutional
+[24:08 --> 24:11] force to be reckoned with.
+[24:11 --> 24:16] So Julian tried to create a pagan alternative to the Christian church.
+[24:16 --> 24:21] According to his plans, high priests would act as bishops, lower priests would act as
+[24:22 --> 24:31] deacons, and social outreach would become a central part of everyone's religious duties.
+[24:31 --> 24:36] The emperor even made a hurried stab at creating an overarching metaphysical, philosophical
+[24:36 --> 24:41] framework for all these cults to live in together.
+[24:41 --> 24:47] But it was a hopeless cause, because first of all, the emperor did not have time to properly
+[24:47 --> 24:53] flesh out his ideas, second, maybe he didn't have the intellectual chops to even pull it
+[24:53 --> 25:00] off had he had the time, and third, was a position paper really going to suddenly bind
+[25:00 --> 25:05] together religious cults that had never had anything to do with each other?
+[25:05 --> 25:09] There was no such thing as capital P paganism.
+[25:09 --> 25:14] It's just a word that we used to describe a collection of practices and traditions that
+[25:14 --> 25:18] had all built up independently of each other over time.
+[25:18 --> 25:23] You can't just throw them all together and say, now you're just one thing.
+[25:23 --> 25:32] Julian wanted the final fight to be a one-on-one affair, Christianity versus traditional polytheism.
+[25:32 --> 25:38] But the very nature of that polytheism precluded the emperor's vision from ever becoming a reality.
+[25:38 --> 25:47] There was always going to be Christianity versus a whole bunch of small, disunited cults.
+[25:47 --> 25:51] But whether it would have worked or not doesn't really matter.
+[25:51 --> 25:56] When I say Julian did not have the time to properly flesh out his ideas, I don't just
+[25:56 --> 26:01] mean that he was really busy and didn't have time to focus on philosophy.
+[26:01 --> 26:07] As I'm sure you know, Julian is about to die and leave all of this work unfinished.
+[26:07 --> 26:14] However, it would not be his war with Christianity that would bring him down, but rather his
+[26:14 --> 26:20] far more mundane and worldly war with Persia.
+[26:20 --> 26:27] Next week, the emperor will take to the field ready to score a victory against the Sassanids.
+[26:27 --> 26:34] But unfortunately, beyond score a victory, he didn't seem to have much strategic direction.
+[26:34 --> 26:37] What would a victory even look like?
+[26:37 --> 26:43] Did he want to sack the capital, beat Shapur in a big battle, remove Shapur from power
+[26:43 --> 26:47] completely, conquer the whole of Persia?
+[26:47 --> 26:49] What?
+[26:49 --> 26:54] No one really knew what the ultimate objective was, and it may have been the case that Julian
+[26:54 --> 26:58] himself did not even know what the ultimate objective was.
+[26:58 --> 27:04] The emperor liked to jump into things with both feet, and once again, it appears that
+[27:04 --> 27:07] he really should have looked before he leaped.

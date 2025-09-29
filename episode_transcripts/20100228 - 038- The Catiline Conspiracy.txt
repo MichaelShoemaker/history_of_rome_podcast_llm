@@ -1,0 +1,431 @@
+# 20100228 - 038- The Catiline Conspiracy
+# Detected language: en
+# Duration: 1208.56 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to The History of Rome, episode 38, The Cavaline Conspiracy.
+[00:13 --> 00:17] There were dozens of contributing factors to the breakdown of the old Republican order
+[00:17 --> 00:22] in the first century BC, some economic, some administrative, some marshal.
+[00:23 --> 00:27] But what was really at issue was a sickness that had taken hold at the very root of
+[00:27 --> 00:28] the political system.
+[00:29 --> 00:34] Until now, the quasi-religious sovereignty of the electoral process and the officials
+[00:34 --> 00:36] it produced was unquestioned.
+[00:36 --> 00:40] If you ran for consul and lost, that was it, you had lost.
+[00:40 --> 00:45] Maybe your political career was dead, and maybe you would run again someday, but you
+[00:45 --> 00:46] abided by the decision.
+[00:47 --> 00:51] When the Senate handed down decrees or the tribunes passed laws, maybe you didn't
+[00:51 --> 00:55] like it, and maybe you did everything in your power to get them repealed, but
+[00:55 --> 00:56] there was a way things were done.
+[00:57 --> 01:00] Maybe it entered into your head to do something about those so-and-so's down in
+[01:00 --> 01:05] the forum, and maybe after too much to drink, the conversation turned to topics
+[01:05 --> 01:10] like assassination and military coups, the latter no doubt a favorite topic amongst
+[01:10 --> 01:12] landless veterans for the whole of Roman history.
+[01:13 --> 01:15] But in the morning, everyone sobered up.
+[01:15 --> 01:18] The inertia of the system was simply too great to overcome.
+[01:19 --> 01:26] While there is ample evidence of political assassination directed at threats to the
+[01:26 --> 01:30] There is scant record of extra-legal killing directed at the old order.
+[01:31 --> 01:36] But by the first century B.C., whatever spell that held ambitious men in check
+[01:36 --> 01:38] when they didn't get their way had been broken.
+[01:38 --> 01:42] The corruption that had taken hold at all rungs of society, the kickbacks
+[01:42 --> 01:46] enjoyed by provincial governors, the bribery that secured lucrative posts and
+[01:46 --> 01:50] favorable court rulings, the cash-for-vote schemes that more and more
+[01:50 --> 01:54] determined the outcome of elections, had finally reached the heart of the
+[01:54 --> 01:54] system.
+[01:55 --> 01:59] An entire generation of men had grown up in the shadow of Marius and Sulla.
+[02:00 --> 02:03] No amount of democratic whitewashing could hide the truth.
+[02:03 --> 02:05] Power sprang from the sword.
+[02:05 --> 02:08] And for those bold enough and strong enough to seize what they could not
+[02:08 --> 02:13] legitimately earn, it was understood that power had a way of retroactively
+[02:13 --> 02:16] legitimizing even the most illegitimate of actions.
+[02:16 --> 02:19] The only rule was power by any means necessary.
+[02:20 --> 02:24] Because once in power, the rules could be changed, and those who disagreed
+[02:24 --> 02:25] could be eliminated.
+[02:26 --> 02:30] Oz the Great and Terrible had been seen through, and the man behind the
+[02:30 --> 02:31] curtain exposed.
+[02:32 --> 02:36] Cicero, the most persuasive speaker of his day, and perhaps in all of Roman
+[02:36 --> 02:40] history, spent his entire career imploring his countrymen to pay no
+[02:40 --> 02:41] attention to the man behind the curtain.
+[02:42 --> 02:43] But words are no match for action.
+[02:44 --> 02:47] And those of us with the swords, as Pompey so aptly described his
+[02:47 --> 02:51] brethren, were busy plotting how to kill the man behind the curtain,
+[02:51 --> 02:54] become the man behind the curtain, become Rome itself.
+[02:55 --> 02:56] Rome, the Great and Terrible.
+[02:58 --> 03:02] Lucius Sergius Catalina, known to history as Catiline, attempted in
+[03:02 --> 03:05] 63 BC to kill the man behind the curtain.
+[03:06 --> 03:09] His half-baked scheme never got off the ground, but his story
+[03:09 --> 03:12] touches on nearly every major player in the subsequent years of
+[03:12 --> 03:13] civil war in Rome.
+[03:14 --> 03:17] And while his plot was foiled, the sheer volume of willing
+[03:17 --> 03:21] accomplices shocked polite company, and reminded those with similar
+[03:21 --> 03:25] ambition that one of these days the Republic was going to snap in
+[03:25 --> 03:28] two, and the important thing was not to save it, but to make
+[03:28 --> 03:31] sure that you came out on top when the bow finally broke.
+[03:33 --> 03:37] Catiline was born in 108 BC to an ancient patrician family.
+[03:38 --> 03:40] While he came from a line of consuls and thus would never be
+[03:40 --> 03:43] considered a new man, the last of those consuls had served in
+[03:43 --> 03:45] the 380s BC.
+[03:45 --> 03:48] So Catiline carried with him all the arrogance of a well
+[03:48 --> 03:51] pedigreed aristocrat, while simultaneously bearing the
+[03:51 --> 03:54] insecurity of knowing his family had been trading on a name
+[03:54 --> 03:57] that no one in recent memory had done much to earn.
+[03:58 --> 04:00] This would turn out to be a dangerous combination.
+[04:01 --> 04:04] Catiline was intent on returning his family to glory.
+[04:04 --> 04:08] He was bright, energetic, and charismatic, a natural leader,
+[04:08 --> 04:10] brave in the field, and savvy in the forum.
+[04:11 --> 04:15] There was no good reason why he should not be able to lead his
+[04:15 --> 04:18] family out of the political wilderness, and indeed his
+[04:18 --> 04:20] career began promisingly enough.
+[04:20 --> 04:22] If only he had been a good man.
+[04:24 --> 04:27] He entered public life by way of the social wars, serving
+[04:27 --> 04:30] with distinction under the command of Pompey Strabo, and
+[04:30 --> 04:33] alongside young Pompey Magnus and the man who would become
+[04:33 --> 04:36] his archrival, Marcus Tullius Cicero.
+[04:37 --> 04:39] During the years of conflict between Marius and Sulla,
+[04:39 --> 04:42] Catiline did his best to keep his head down.
+[04:42 --> 04:44] He was neither important enough to be courted, nor
+[04:44 --> 04:46] important enough to be disposed of.
+[04:47 --> 04:50] Semi-obscurity can be your best friend in times of civil
+[04:50 --> 04:50] strife.
+[04:51 --> 04:54] But once Sulla returned from the East, Catiline was one of
+[04:54 --> 04:57] those officially neutral aristocrats who knew which way
+[04:57 --> 04:59] the winds were blowing, and he publicly backed the
+[04:59 --> 05:00] incoming dictator.
+[05:01 --> 05:04] He served in a variety of administrative posts overseas
+[05:04 --> 05:07] after Sulla's retirement, and the young man seemed well
+[05:07 --> 05:08] positioned for an honorable career.
+[05:09 --> 05:12] But as is often the case, the true character of a man will
+[05:12 --> 05:16] eventually come out, and how he deals with adversity is
+[05:16 --> 05:18] often the best time to gauge what that true
+[05:18 --> 05:18] character is.
+[05:19 --> 05:24] In 73 BC, Catiline was accused of adultery, and not
+[05:24 --> 05:26] just run-of-the-mill adultery, but adultery
+[05:26 --> 05:28] committed with a vestal virgin, a very serious
+[05:28 --> 05:29] offense.
+[05:29 --> 05:32] But at the trial, one of the leading men of the day
+[05:32 --> 05:35] and leader of the aristocratic party testified
+[05:35 --> 05:36] on behalf of Catiline.
+[05:37 --> 05:40] Character witnessing was a far more potent legal force in
+[05:40 --> 05:43] Rome than it is today, and with the word of Quintus
+[05:43 --> 05:45] Catullus backing him, Catiline was acquitted.
+[05:46 --> 05:48] Now, why one of the most important men in Rome would
+[05:48 --> 05:51] put his own name on the line for a minor noble was a
+[05:51 --> 05:51] curiosity.
+[05:52 --> 05:54] The Roman chattering classes assumed
+[05:54 --> 05:55] bribery played a role.
+[05:56 --> 05:59] So in his first real test, Catiline seems to have
+[05:59 --> 06:02] chosen to circumvent the rules and subvert Rome's
+[06:02 --> 06:04] judicial system, rather than directly face whatever
+[06:04 --> 06:06] consequences he was in store for.
+[06:07 --> 06:09] It was a pattern that would repeat itself
+[06:09 --> 06:10] throughout his career.
+[06:11 --> 06:13] But with the bullet successfully dodged, Catiline
+[06:13 --> 06:16] went on to serve as praetor in 68 BC, and then
+[06:16 --> 06:19] pro-praetor in Africa the next two years.
+[06:19 --> 06:23] In 66 BC, he entered his name as a candidate for the
+[06:23 --> 06:25] consulship, but the censors denied his
+[06:25 --> 06:26] eligibility.
+[06:27 --> 06:29] A minor legal technicality barred his entrance into the
+[06:29 --> 06:32] race, namely that the citizens of Africa were
+[06:32 --> 06:35] accusing him of abuse of power, of using public
+[06:35 --> 06:38] resources for private gain, and taking kickbacks.
+[06:39 --> 06:41] Furiously denying the charges, Catiline was enraged
+[06:41 --> 06:43] that his name was being dragged through the mud,
+[06:43 --> 06:45] but there was nothing he could do.
+[06:45 --> 06:47] He would have to wait until the matter was cleared up
+[06:47 --> 06:48] to run for consul again.
+[06:50 --> 06:53] In 65 BC, he stood trial for abuse of power, and
+[06:53 --> 06:55] was once again acquitted when a number of leading
+[06:55 --> 06:56] men vouched for his character.
+[06:57 --> 06:59] Shiny, precious character.
+[07:00 --> 07:03] The skeleton of Catiline's career to this point is a
+[07:03 --> 07:05] matter of public record, but a few of the more
+[07:05 --> 07:08] unsavory details are filled in by Cicero and his
+[07:08 --> 07:11] famous denunciation, and later by the historian
+[07:11 --> 07:14] Solist, who painted the entire Catilinean affair
+[07:14 --> 07:17] as a morality tale, with Catiline starring as the
+[07:17 --> 07:19] despicable enemy of the public good.
+[07:20 --> 07:22] So it is sometimes hard to tell how many of his
+[07:22 --> 07:24] actions were real, and how many were embellished
+[07:24 --> 07:25] or made up out of whole cloth.
+[07:26 --> 07:28] For example, there is a story of an initial
+[07:28 --> 07:31] conspiracy that has Catiline planning the
+[07:31 --> 07:32] murder of half the Senate.
+[07:33 --> 07:35] And even men at the time believe this episode
+[07:35 --> 07:38] resided only in Cicero's politically motivated
+[07:38 --> 07:39] imagination.
+[07:39 --> 07:42] Certainly Catiline was not connected to any such
+[07:42 --> 07:44] plot by the time he was allowed to run for
+[07:44 --> 07:47] the consulship the following year in 64 BC.
+[07:48 --> 07:51] As much as Cicero seems to have genuinely hated
+[07:51 --> 07:53] Catiline, he really ought to have cut him some slack.
+[07:54 --> 07:56] If it hadn't been for Catiline, it is likely
+[07:56 --> 07:59] that Cicero never would have won election and
+[07:59 --> 08:01] earned the consulship that he had been
+[08:01 --> 08:02] striving for his whole life.
+[08:03 --> 08:05] With Catiline running on a platform of debt
+[08:05 --> 08:08] cancellation and promising the sun, moon,
+[08:08 --> 08:10] and stars to any poor sod who would listen,
+[08:10 --> 08:12] the nobility had no choice but to throw their
+[08:12 --> 08:15] support behind the provincial novice homo who
+[08:15 --> 08:18] had an unhealthy obsession with philosophy,
+[08:18 --> 08:19] Marcus Tullius Cicero.
+[08:20 --> 08:22] Sure, he was a pleb who was not even a true
+[08:22 --> 08:25] Roman, but he was the most conservative of the
+[08:25 --> 08:28] available candidates and at least argued for the
+[08:28 --> 08:30] continued dominance of the Senate in political
+[08:30 --> 08:30] affairs.
+[08:33 --> 08:36] Cicero had been born in Arpium, 60 miles south
+[08:36 --> 08:36] of Rome.
+[08:37 --> 08:39] True, the region had long been a part of Rome
+[08:39 --> 08:41] and its population had been granted full
+[08:41 --> 08:43] citizenship not long after the end of the
+[08:43 --> 08:44] Second Punic War.
+[08:45 --> 08:47] But Cicero was never allowed to forget that
+[08:47 --> 08:48] he was a mere provincial.
+[08:49 --> 08:51] And not just a provincial, but a pleb
+[08:51 --> 08:51] provincial.
+[08:52 --> 08:55] He could trace to no ancestors and would have
+[08:55 --> 08:57] to rely on his own drive to battle his way up
+[08:57 --> 08:59] the Roman political ladder.
+[09:00 --> 09:02] Luckily, he was one of the most gifted men of
+[09:02 --> 09:03] his generation.
+[09:04 --> 09:06] From the start, he was recognized as a
+[09:06 --> 09:08] brilliant student and his family made sure that
+[09:08 --> 09:10] he received the finest education they could afford.
+[09:11 --> 09:12] Like most of the nobility,
+[09:13 --> 09:15] he was fluent in both Greek and Latin and
+[09:15 --> 09:17] devoured Hellenistic philosophy.
+[09:18 --> 09:20] More than any other man, Cicero was responsible
+[09:20 --> 09:23] for the full integration of Greek thought into
+[09:23 --> 09:25] Roman life, translating mountains of Greek
+[09:25 --> 09:27] literature into Latin and promoting its study
+[09:27 --> 09:28] endlessly.
+[09:29 --> 09:31] As I said at the very beginning of this series,
+[09:32 --> 09:35] the Romans were never particularly disposed to
+[09:35 --> 09:37] invention and creativity, but they were
+[09:37 --> 09:39] masters of co-option and assimilation.
+[09:40 --> 09:44] In Rome, no good idea went unadopted and in
+[09:44 --> 09:47] Greece, Cicero sought good ideas everywhere.
+[09:48 --> 09:49] But as much as he contributed to the
+[09:49 --> 09:52] cultural enrichment of Rome, Cicero saw himself
+[09:52 --> 09:55] primarily as a politician and pointed to his
+[09:55 --> 09:58] political career above his philosophical or legal
+[09:58 --> 10:01] pursuits as the achievement he was most proud of.
+[10:02 --> 10:04] After serving in the legions with resigned ill
+[10:04 --> 10:07] humor during the social war, Cicero started his
+[10:07 --> 10:10] legal career in the 80s BC, quickly garnering
+[10:10 --> 10:12] a reputation as a great orator.
+[10:12 --> 10:15] But after defending a man in a murder trial and
+[10:15 --> 10:17] pointing the finger at a sullen ally while Sulla
+[10:17 --> 10:20] still sat on the throne, Cicero took a pragmatic
+[10:20 --> 10:23] extended tour of Greece until the affair blew over.
+[10:24 --> 10:26] While in Greece, he was put into contact with
+[10:26 --> 10:29] the masters of Greek philosophy and rhetoric and
+[10:29 --> 10:32] Cicero perfected a unique oratorical style that
+[10:32 --> 10:34] would make him the acknowledged master of his day.
+[10:36 --> 10:39] In 75 BC, he was elected co-aster for Sicily
+[10:39 --> 10:41] and endeared himself to the locals for his
+[10:41 --> 10:43] relatively honest dealings.
+[10:43 --> 10:45] They ultimately asked him to take on a
+[10:45 --> 10:48] politically dangerous case, prosecuting the Roman
+[10:48 --> 10:51] governor of Sicily on charges of corruption.
+[10:52 --> 10:55] Cicero finally agreed and spun the trial into his
+[10:55 --> 10:58] big break, successfully prosecuting the governor
+[10:58 --> 11:00] whose corruption far exceeded the acceptable
+[11:00 --> 11:01] standards of the day.
+[11:02 --> 11:04] From that point on, he was on the fast track,
+[11:04 --> 11:07] achieving every step of the cursus honorum in
+[11:07 --> 11:10] his year, finally winning the consulship in 64
+[11:10 --> 11:13] BC for a term to be served the following year.
+[11:15 --> 11:17] Catiline, though defeated by Cicero in that
+[11:17 --> 11:20] election, was undeterred and ran again the next year.
+[11:21 --> 11:24] But amidst a trial for his role in the sullen
+[11:24 --> 11:26] purges spearheaded by Cato the Younger and a
+[11:26 --> 11:29] lack of support from his wealthy benefactors,
+[11:29 --> 11:31] Crassus among them, who had supported him as
+[11:31 --> 11:33] an antidote to senatorial domination,
+[11:34 --> 11:36] Catiline's last campaign never got off the ground.
+[11:37 --> 11:40] His career was effectively over and had he
+[11:40 --> 11:43] been born in another age, he may have sulked
+[11:43 --> 11:45] and raged, but would have gone on with his life
+[11:45 --> 11:47] and found other outlets for his passions.
+[11:48 --> 11:51] But in this age, he was able to see his final
+[11:51 --> 11:54] defeat as merely an advisory decision.
+[11:55 --> 11:57] And more importantly, he was able to find
+[11:57 --> 12:00] other men who were ready to help him expose
+[12:00 --> 12:01] the man behind the curtain.
+[12:03 --> 12:06] Catiline began to conspire actively with
+[12:06 --> 12:07] other disaffected citizens.
+[12:07 --> 12:10] Their aim was simple, overthrow the government.
+[12:11 --> 12:13] Now, Catiline was motivated by personal
+[12:13 --> 12:16] delusions of grandeur and driven to such
+[12:16 --> 12:18] extreme measures out of an inflamed sense of bitterness.
+[12:20 --> 12:21] The men he gathered around his plot, however,
+[12:22 --> 12:24] were almost uniformly brought on board
+[12:24 --> 12:26] out of a base material self-interest.
+[12:27 --> 12:29] From the upper classes, he found indebted
+[12:29 --> 12:31] nobles and corrupt ex-senators who had
+[12:31 --> 12:33] been purged from their roles by the censors.
+[12:34 --> 12:36] Men who wanted power but couldn't have it
+[12:36 --> 12:39] and men who owed money but didn't want to repay it.
+[12:40 --> 12:42] Catiline promised them access back to control
+[12:42 --> 12:45] and a cancellation of all debts once he was in charge.
+[12:46 --> 12:48] From the lower classes, he stoked the bitterness
+[12:48 --> 12:51] of landless veterans and indebted commoners.
+[12:52 --> 12:54] Up and down the line, the message was the same.
+[12:55 --> 12:57] Once we overthrow the government, everyone
+[12:57 --> 12:59] will get everything they ever desired.
+[13:00 --> 13:03] Land, money, power, the whole kit and caboodle.
+[13:04 --> 13:06] This was not an ideological revolution.
+[13:06 --> 13:09] This was naked self-interest writ large.
+[13:10 --> 13:14] In Etruria, an ex-centurion named Gaius Manlius
+[13:14 --> 13:15] began gathering an army.
+[13:17 --> 13:18] It is unclear how connected Manlius
+[13:18 --> 13:20] and Catiline were at this point,
+[13:20 --> 13:22] but it speaks volumes that when Catiline
+[13:22 --> 13:24] was exiled after his plot was exposed,
+[13:24 --> 13:27] he headed straight for the force Manlius had assembled.
+[13:28 --> 13:31] In Rome, the plan was to kick off the coup
+[13:31 --> 13:32] by assassinating Cicero.
+[13:33 --> 13:35] From there, strategically located conspirators
+[13:35 --> 13:37] would begin setting fires across the city
+[13:37 --> 13:40] and generally plunge Rome into chaos.
+[13:41 --> 13:44] At least, that's what Cicero reported to the Senate
+[13:44 --> 13:47] the day after he was notified of the assassination plot.
+[13:48 --> 13:50] Cicero's informants had apparently gotten word
+[13:50 --> 13:52] to the consul of the threat,
+[13:52 --> 13:54] and Cicero posted extra guards,
+[13:54 --> 13:56] foiling the would-be assassins.
+[13:57 --> 13:59] There's a great deal of ambiguity
+[13:59 --> 14:00] about whether any of this is true,
+[14:01 --> 14:04] but Cicero outlined the whole affair so eloquently
+[14:04 --> 14:06] and blamed Catiline so thoroughly
+[14:06 --> 14:08] that the Senate came to believe the charges.
+[14:09 --> 14:12] Famously, as the Senate listened to Cicero,
+[14:12 --> 14:15] they moved one by one away from Catiline,
+[14:15 --> 14:17] who was eventually left sitting by himself,
+[14:17 --> 14:19] physically and politically isolated.
+[14:20 --> 14:21] I'm not exaggerating when I say
+[14:21 --> 14:24] that Cicero's Catilinarian orations
+[14:24 --> 14:27] are still held up today as some of the finest rhetoric
+[14:27 --> 14:28] ever uttered by man.
+[14:29 --> 14:31] Now, how much Cicero was exaggerating
+[14:31 --> 14:33] is another story completely.
+[14:34 --> 14:36] There is speculation that while Catiline
+[14:36 --> 14:37] was indeed up to something,
+[14:38 --> 14:40] the assassination attempt may have been invented
+[14:40 --> 14:43] by Cicero to secure the near-dictatorial powers
+[14:43 --> 14:45] he needed to deal with the alleged crisis.
+[14:46 --> 14:49] It is further speculated that he wanted those powers
+[14:49 --> 14:51] not to deal with the specific machinations
+[14:51 --> 14:53] of Catiline and his conspirators,
+[14:53 --> 14:55] but rather to lay the groundwork
+[14:55 --> 14:58] for a defense of the Republic against Pompey,
+[14:58 --> 15:00] who was presently on his way home from the East
+[15:00 --> 15:02] at the head of a large veteran army
+[15:02 --> 15:03] and with more money at his disposal
+[15:03 --> 15:06] than the Roman treasury had ever held.
+[15:07 --> 15:10] Cicero wanted to make sure that any internal strife
+[15:10 --> 15:12] in Rome was quashed before Pompey returned.
+[15:13 --> 15:15] Both Marius and Sulla had been able
+[15:15 --> 15:17] to exploit political divisions in the city
+[15:17 --> 15:18] in their quest for power.
+[15:19 --> 15:22] Cicero wanted to deny Pompey a similar opportunity.
+[15:24 --> 15:27] Catiline, now a pariah, agreed to go into exile,
+[15:28 --> 15:29] but lied about his destination
+[15:29 --> 15:31] and instead headed for Atruria
+[15:31 --> 15:33] to join Manlius's growing army.
+[15:33 --> 15:36] But for now, the coup was still on,
+[15:36 --> 15:39] even without Catiline overseeing the operation in Rome.
+[15:40 --> 15:41] But the remaining conspirators
+[15:41 --> 15:44] were not particularly adept at their jobs.
+[15:44 --> 15:47] They attempted to entice a group of Gallic emissaries
+[15:47 --> 15:48] to join their cause,
+[15:48 --> 15:51] but the visiting Gauls simply took the opportunity
+[15:51 --> 15:52] to earn the goodwill of the Senate
+[15:52 --> 15:53] by exposing the plot.
+[15:55 --> 15:57] They talked five of the leading conspirators
+[15:57 --> 15:59] into affixing their name to a letter
+[15:59 --> 16:01] promising the Gauls they were fully committed to rebellion.
+[16:02 --> 16:04] The careless plotters forgot
+[16:04 --> 16:06] the first and second rule of fight club,
+[16:06 --> 16:08] and when the Gauls presented the document to the Senate,
+[16:08 --> 16:10] the five men were arrested
+[16:10 --> 16:12] and the conspiracy inside Rome was short-circuited.
+[16:14 --> 16:17] Cicero and Cato led the charge in the Senate
+[16:17 --> 16:19] to have the men executed at once.
+[16:19 --> 16:22] Julius Caesar opposed the death sentence,
+[16:22 --> 16:24] arguing that exile was preferable.
+[16:24 --> 16:25] It would not set a good precedent
+[16:25 --> 16:29] to have men of senatorial rank executed without trial.
+[16:30 --> 16:33] But with Cicero and Cato arguing that punishment
+[16:33 --> 16:34] must be swift and harsh,
+[16:35 --> 16:37] the Senate relented and ordered the five strangled.
+[16:39 --> 16:40] For the rest of his career,
+[16:40 --> 16:43] Cicero's enemies would bring up this bloodthirsty
+[16:43 --> 16:46] and illegal railroading of Roman citizens against him.
+[16:47 --> 16:50] Cicero's exile during the chaos of the subsequent years
+[16:50 --> 16:52] would be based largely on his actions
+[16:52 --> 16:54] towards the five conspirators on that day.
+[16:55 --> 16:57] Certainly, his actions subtly undercut
+[16:57 --> 16:59] every argument he would ever make
+[16:59 --> 17:01] about the need to respect the rule of law
+[17:01 --> 17:03] and the constitution of Rome.
+[17:05 --> 17:08] With the inside men gone, the whole plot quickly imploded.
+[17:10 --> 17:11] Mass desertions from the insurgent army
+[17:11 --> 17:13] forced Manlius and Catiline
+[17:13 --> 17:15] to lead those left around the countryside,
+[17:16 --> 17:18] studiously avoiding the legions they encountered.
+[17:18 --> 17:21] Eventually though, they were cornered and forced to fight.
+[17:22 --> 17:25] The rebels, little more than a mob, were destroyed.
+[17:26 --> 17:28] Solist makes a point of reporting that Catiline
+[17:28 --> 17:30] was killed while fighting on the front lines
+[17:30 --> 17:33] and unlike many of his men, died of frontal wounds,
+[17:34 --> 17:35] not wounds in the back,
+[17:35 --> 17:38] the dishonorable sign that a man had turned to run.
+[17:41 --> 17:42] The final verdict on Catiline
+[17:42 --> 17:46] was that he was a courageous, ambitious and corrupt man
+[17:46 --> 17:48] who concocted a plot far more ambitious
+[17:48 --> 17:50] than his abilities warranted.
+[17:50 --> 17:53] He was forced to ally himself with the dregs
+[17:53 --> 17:55] of both Roman nobility and the lower classes
+[17:55 --> 17:58] and he was easily bested by better men.
+[17:59 --> 18:01] He was outmaneuvered by Cicero at nearly every step,
+[18:02 --> 18:05] never standing a chance against Rome's greatest politician.
+[18:06 --> 18:07] The conspiracy of Catiline
+[18:07 --> 18:09] was an instant legend in Roman history,
+[18:09 --> 18:11] both for the central role played by Cicero
+[18:11 --> 18:13] and because it provided a blueprint
+[18:13 --> 18:15] for how not to organize a coup.
+[18:16 --> 18:19] Julius Caesar, of course, was right there the whole time,
+[18:19 --> 18:22] no doubt taking notes, mental or otherwise.
+[18:23 --> 18:25] I like to imagine that somewhere in those notes,
+[18:25 --> 18:27] in big bold letters, is the line,
+[18:28 --> 18:31] make sure Cicero is out of the way.
+[18:32 --> 18:36] Next week, Julius Caesar, young senator on the rise,
+[18:36 --> 18:38] will make his first attempt
+[18:38 --> 18:40] to make sure that Cicero is out of the way,
+[18:41 --> 18:42] not by attacking him,
+[18:42 --> 18:45] but by asking him to join an informal alliance
+[18:45 --> 18:47] of mutual support that was being formed
+[18:47 --> 18:49] between Crassus, Pompey and Caesar.
+[18:50 --> 18:52] Cicero refused the invitation,
+[18:52 --> 18:54] correctly identifying the First Triumvirate
+[18:54 --> 18:56] as it came to be known
+[18:56 --> 18:58] as a mortal enemy of the Republic he so loved.
+[18:59 --> 19:03] Initially, the threat came primarily from Pompey and Crassus
+[19:03 --> 19:05] with Caesar seen as little more than a pawn in their game,
+[19:06 --> 19:09] but the First Triumvirate would spell the end of the Republic
+[19:09 --> 19:12] not for the power it gave Pompey and Crassus,
+[19:12 --> 19:15] but for the money and support that it gave Caesar,
+[19:15 --> 19:18] in whom, you may recall, Sulla saw many Amarius.
+[19:21 --> 19:23] There will probably be no episode next week,
+[19:24 --> 19:25] as I'm scheduled to fly
+[19:25 --> 19:27] to visit the history of Roman laws
+[19:27 --> 19:28] for what they call Christmas,
+[19:29 --> 19:31] but what we all know is the feast of the unconquered sun.
+[19:32 --> 19:34] However, as I sit here,
+[19:34 --> 19:36] Portland has been crippled by severe weather,
+[19:37 --> 19:39] so who knows if I'll ever actually make it out of town.
+[19:40 --> 19:42] So if there's no episode, you've been warned,
+[19:42 --> 19:44] and if there is, happy Saturnalia.

@@ -1,0 +1,484 @@
+# 20100225 - 012- The First Samnite War
+# Detected language: en
+# Duration: 1094.09 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:07] Hello, and welcome to the History of Rome.
+[00:08 --> 00:13] In a single generation, Rome had recovered from the devastation of the Galaxac and regained
+[00:13 --> 00:15] its dominant position within the region.
+[00:16 --> 00:20] The plebes had demanded and received greater political power, culminating with the election
+[00:20 --> 00:26] of the first plebe consul in 366 BC, the year after Camilla shepherded the Licinian
+[00:26 --> 00:27] law through the Senate.
+[00:27 --> 00:32] I did not mention this last week, but the admittance of plebes under the consulship
+[00:32 --> 00:36] also saw the end of military tribunes with consular power as one of the highest offices
+[00:36 --> 00:37] of state.
+[00:38 --> 00:42] The dual consulship was reinstated for good and the obsolete office of military
+[00:42 --> 00:43] tribune was never revived.
+[00:45 --> 00:48] Subsequent years would see other plebe first, including the first plebe dictator
+[00:48 --> 00:53] in 356 BC and the first plebe censor in 351 BC.
+[00:53 --> 00:58] Both feats achieved by a single man, Gaius Marcius Retullus, who, over the course of
+[00:58 --> 01:02] his illustrious career, would also be elected consul four times.
+[01:03 --> 01:08] By 343 BC, the Romans were once again seen as the great force in central Italy
+[01:08 --> 01:12] and, as we are about to see, this meant that their neighbors forever sought to involve
+[01:12 --> 01:16] them in squabbles that had nothing to do with Rome or Roman interests.
+[01:16 --> 01:20] The Romans were the big kid on the block every other kid wanted on their side.
+[01:20 --> 01:25] As I did last time, I would like to open this week with a quote from Livy, discussing
+[01:25 --> 01:29] the year hostilities began with the Samnites and its significance in the greater
+[01:29 --> 01:31] arc of Roman history.
+[01:32 --> 01:36] From now on, the wars described will be of greater importance.
+[01:36 --> 01:41] Our enemies were more powerful and campaigns lasted longer and were mounted in remote
+[01:41 --> 01:41] areas.
+[01:42 --> 01:46] For this was the year when an attack was launched against the Samnites, a people
+[01:46 --> 01:48] who were strong both in resources and in arms.
+[01:49 --> 01:54] After the Samnite War, which was inconclusive, Pyrrhus was the enemy, and after
+[01:54 --> 01:56] him, the Carthaginians.
+[01:56 --> 02:01] What a series of momentous events, how often we were in mortal danger to enable
+[02:01 --> 02:05] us to raise up our empire to its present heights of grandeur where only with
+[02:05 --> 02:06] difficulty it is sustained.
+[02:07 --> 02:10] Rome was on the precipice of its rise to greatness.
+[02:12 --> 02:16] The Samnites, as I've said previously, were a semi-nomadic tribe from the
+[02:16 --> 02:19] central section of the Apennines called Samnium.
+[02:19 --> 02:23] Starting in the 300s BC, the Samnites, along with a number of other hill
+[02:23 --> 02:27] tribes, began to come down out of the hills and onto the plains that lay
+[02:27 --> 02:29] between the mountains and the coastline.
+[02:30 --> 02:34] Some moved south and began to encroach on the Greek cities of Magna Graecia.
+[02:34 --> 02:38] Others, like the Samnites, began to move west and came down to a land
+[02:38 --> 02:41] known as Campania, which lay southeast of Rome.
+[02:42 --> 02:45] The Greeks in the south sent envoys across the Adriatic to beg for
+[02:45 --> 02:49] assistance in fighting off the hill tribes and were answered by Alexander
+[02:49 --> 02:52] of Epirus, who sent an army to help rid the Greeks of the encroaching
+[02:52 --> 02:53] menace.
+[02:53 --> 02:57] As we will see later, this introduction of an army from Epirus would have
+[02:57 --> 02:59] far-reaching consequences for the Romans.
+[03:00 --> 03:03] Sixty years later, an army from Epirus would again answer Greek calls
+[03:03 --> 03:07] for aid, only this time not to battle nomadic hill tribes, but rather
+[03:07 --> 03:09] the growing power of Rome.
+[03:10 --> 03:12] But we still have a ways to go before we get to that.
+[03:13 --> 03:17] The largest and most important city in Campania, where the Samnites were
+[03:17 --> 03:19] setting up shop, was Capua.
+[03:20 --> 03:24] Known for its rich soil and soft lifestyle, Capua was no match for the
+[03:24 --> 03:28] hardened Samnite warriors, so, like the Greeks, they cast about for a
+[03:28 --> 03:28] savior.
+[03:29 --> 03:32] Envoys were sent to the largest and strongest power in the region,
+[03:32 --> 03:34] Rome, to beg for aid.
+[03:35 --> 03:37] The Romans, however, turned the envoys away.
+[03:38 --> 03:42] Rome had already concluded a treaty with the Samnites and could not in
+[03:42 --> 03:45] They had, after all, sworn oaths before the gods.
+[03:47 --> 03:49] The desperate Capuans then took an extraordinary step.
+[03:50 --> 03:53] They formally surrendered Capua, its land and citizens, to Rome,
+[03:54 --> 03:56] willingly making themselves subjects of Rome.
+[03:57 --> 03:59] The Senate could not look this massive gift horse in the mouth.
+[04:00 --> 04:03] The land controlled by Capua was some of the best in Italy, and the
+[04:03 --> 04:06] food it could provide would put the days of grain famine in the
+[04:06 --> 04:07] rear-view mirror forever.
+[04:08 --> 04:12] The Romans accepted the surrender and sent their own envoys to Samnium,
+[04:12 --> 04:16] where they explained that Capua was now Roman territory, and, as per
+[04:16 --> 04:19] their treaty, the Samnites must desist all attacks.
+[04:19 --> 04:22] The Samnites would have none of this and scoffed at the Roman
+[04:22 --> 04:26] envoys, taking the insulting step of ordering a raid into Campania
+[04:26 --> 04:28] right in front of the Roman legates.
+[04:29 --> 04:32] The Romans, offended by this obvious breach of protocol, felt
+[04:32 --> 04:35] they had no choice at this point but to declare war.
+[04:35 --> 04:37] And so the first Samnite War began.
+[04:39 --> 04:43] The two consuls for that year, 343 BC by our reckoning, were
+[04:43 --> 04:46] Aulus Cornelius Casus, a capable and forgettable leader,
+[04:47 --> 04:50] and Marcus Valerius Corvus, a true blue member of the
+[04:50 --> 04:52] legendary Roman Heroes Club.
+[04:53 --> 04:55] He was a member of the prominent Valerian family, whose
+[04:55 --> 04:58] famous ancestral patriarch was Publius Valerius
+[04:58 --> 04:59] Publicola himself.
+[05:01 --> 05:04] The surname Corvus, or raven, was earned as a young man
+[05:04 --> 05:05] while serving in the army.
+[05:05 --> 05:08] The legions were squaring off against an army of Gauls when
+[05:08 --> 05:11] a huge Gallic fighter stepped forward and challenged any
+[05:11 --> 05:12] Roman to single combat.
+[05:13 --> 05:17] Young Marcus Valerius, all of 22, stepped forward and
+[05:17 --> 05:18] accepted the challenge.
+[05:18 --> 05:21] As he approached the Gaul, a raven landed on his
+[05:21 --> 05:23] shoulder, a sign that the gods favored him.
+[05:24 --> 05:26] The Gaul was worried by this clear omen, but
+[05:26 --> 05:28] proceeded with the fight anyway.
+[05:28 --> 05:31] And the raven, far from leaving when the clash began,
+[05:31 --> 05:34] actually joined in, pecking at the Gaul's eyes while
+[05:34 --> 05:36] Valerius ran him through with his sword.
+[05:37 --> 05:39] Valerius triumphant, the raven flew off.
+[05:40 --> 05:43] The legions then swept into the Gallic line and defeated
+[05:43 --> 05:46] them almost without resistance, and auspicious,
+[05:46 --> 05:49] if obviously embellished, beginning to a career, to
+[05:49 --> 05:50] say the least.
+[05:51 --> 05:53] Corvus would be elected consul for the first time the
+[05:53 --> 05:56] very next year at the unprecedented age of 23.
+[05:57 --> 06:00] Before dying at the also unprecedented age of 100,
+[06:00 --> 06:03] he would be elected consul five more times and named
+[06:03 --> 06:04] dictator twice.
+[06:05 --> 06:08] But getting back to the war with the Samnites, Corvus
+[06:08 --> 06:10] was sent to protect Campania, and his colleague
+[06:10 --> 06:12] Cossus was sent to invade Samnium.
+[06:13 --> 06:15] Between the two, they figured to have the Samnites
+[06:15 --> 06:16] at heel in no time.
+[06:17 --> 06:19] Corvus was the first to meet the enemy, and after
+[06:19 --> 06:22] a fierce battle at the base of Madgaris, fiercer
+[06:22 --> 06:25] than the Romans expected, the Samnites were routed.
+[06:25 --> 06:28] It was not an easy victory and put the Romans on
+[06:28 --> 06:30] notice that they were not fighting emulsion raiders
+[06:31 --> 06:31] anymore.
+[06:32 --> 06:35] Cossus, in Samnium, almost blundered his way into
+[06:35 --> 06:38] the destruction of his own army, but was saved by
+[06:38 --> 06:39] one of his tribunes.
+[06:40 --> 06:42] The consul had led his army into a ravine and
+[06:42 --> 06:45] noticed only too late that the Samnites had taken
+[06:45 --> 06:47] up a position on the ridge and stood ready to
+[06:47 --> 06:48] shower them with projectiles.
+[06:49 --> 06:52] One of his tribunes, Publius Decius, noticed
+[06:52 --> 06:54] that the Samnites were positioned in the shadows
+[06:54 --> 06:57] of a steep hill, and if a company of Romans could
+[06:57 --> 06:59] take the hill, then they would be able to pin down
+[06:59 --> 07:01] the Samnites, allowing the legions to escape.
+[07:02 --> 07:05] Cossus immediately ordered Decius and a detachment
+[07:05 --> 07:07] of volunteers to execute the plan.
+[07:07 --> 07:09] Decius slipped up and took the hill before the
+[07:09 --> 07:12] Samnites realized what was going on and
+[07:12 --> 07:14] immediately began pelting the Samnites with
+[07:14 --> 07:14] missiles.
+[07:15 --> 07:17] In the confusion, Cossus was able to withdraw
+[07:17 --> 07:20] his army to safety, but Decius was left on the
+[07:20 --> 07:23] hill, surrounded by an army of angry Samnites
+[07:23 --> 07:25] who had just been denied an easy victory.
+[07:26 --> 07:29] Secure on the high ground, the Roman detachment
+[07:29 --> 07:31] was able to hold out until nightfall, at which
+[07:31 --> 07:34] point, recognizing their hopeless position, they
+[07:34 --> 07:36] decided to risk death by sneaking through the
+[07:36 --> 07:38] Samnite army, rather than remaining on the
+[07:38 --> 07:40] hill and safely starving to death.
+[07:41 --> 07:42] They had gone about halfway through the camp
+[07:42 --> 07:44] when one of the soldiers dropped his shield
+[07:44 --> 07:45] on a sleeping Samnite.
+[07:46 --> 07:48] Decius immediately began yelling at his men
+[07:48 --> 07:49] to attack anything that moved.
+[07:50 --> 07:52] The Samnites, half asleep and panicked by
+[07:52 --> 07:54] the sudden violent commotion, did not know
+[07:54 --> 07:56] what or who to attack.
+[07:57 --> 07:58] Decius and his men made a break through the
+[07:58 --> 08:00] army, killing everything in their path.
+[08:01 --> 08:03] When they emerged on the other side, Decius
+[08:03 --> 08:06] took a head count and realized to his great
+[08:06 --> 08:08] pleasure that of the company of men he had
+[08:08 --> 08:10] led on a sure suicide mission, he had not
+[08:10 --> 08:11] lost a single man.
+[08:12 --> 08:13] In the morning, they made their way to the
+[08:13 --> 08:16] Roman camp and were greeted with thunderous
+[08:16 --> 08:16] applause.
+[08:17 --> 08:19] Cossus was about to launch into a speech
+[08:19 --> 08:21] praising Decius when the Tribune cut him
+[08:21 --> 08:23] off, saying that the Samnites were in
+[08:23 --> 08:25] complete disarray and the time to finish
+[08:25 --> 08:27] the job was now.
+[08:27 --> 08:29] Cossus took the advice and sent his army
+[08:29 --> 08:30] out.
+[08:30 --> 08:32] The Romans found the Samnites exactly as
+[08:32 --> 08:34] Decius had described, in confused
+[08:34 --> 08:36] disarray, attacked them immediately, and
+[08:36 --> 08:37] won easily.
+[08:39 --> 08:40] The Romans had now won their first two
+[08:40 --> 08:43] engagements with the Samnites, but the
+[08:43 --> 08:44] first had been an unexpectedly hard
+[08:44 --> 08:46] slog and the latter would have been a
+[08:46 --> 08:48] disaster had it not been for the
+[08:48 --> 08:49] tactical blunder the Samnites had
+[08:49 --> 08:52] committed by not immediately falling on
+[08:52 --> 08:53] Cossus' legions.
+[08:54 --> 08:56] The third and final battle of the war
+[08:56 --> 08:58] was fight at Susula, near the border
+[08:58 --> 08:59] between Campania and Samnium.
+[09:00 --> 09:02] Envoys from that city came to Marcus
+[09:02 --> 09:04] Corvus with news that the army he had
+[09:04 --> 09:06] driven off was regrouping and
+[09:06 --> 09:07] planning to reinvade.
+[09:08 --> 09:10] Corvus ordered his army forward with
+[09:10 --> 09:12] all haste, leaving behind all
+[09:12 --> 09:13] non-essential personnel and gear,
+[09:14 --> 09:15] marching only with his infantry,
+[09:15 --> 09:17] cavalry, and what could be carried on
+[09:17 --> 09:17] their backs.
+[09:18 --> 09:20] This decision to pack light would
+[09:20 --> 09:22] prove, unexpectedly, to be the
+[09:22 --> 09:24] decisive factor in the coming fight.
+[09:25 --> 09:28] When Corvus arrived at Susula, he
+[09:28 --> 09:28] ordered a camp built.
+[09:29 --> 09:31] Due to the paucity of men and
+[09:31 --> 09:33] material, the camp turned out to be
+[09:33 --> 09:34] physically much smaller than the
+[09:34 --> 09:35] Samnites were used to seeing the
+[09:35 --> 09:36] Romans build.
+[09:37 --> 09:38] They assumed this meant that a
+[09:38 --> 09:40] smaller force was encamped and all
+[09:40 --> 09:42] their strategic decisions flowed from
+[09:42 --> 09:43] this faulty assumption.
+[09:44 --> 09:45] They decided that the best course
+[09:45 --> 09:47] would be to starve the small Roman
+[09:47 --> 09:49] garrison out and began preparing for
+[09:49 --> 09:50] siege.
+[09:50 --> 09:52] The Samnite commanders, rather than
+[09:52 --> 09:54] keeping their army together,
+[09:54 --> 09:56] ordered foraging parties out across
+[09:56 --> 09:58] the countryside for supplies to sustain
+[09:58 --> 09:59] their army while they waited for the
+[09:59 --> 10:00] Romans to surrender.
+[10:01 --> 10:02] Corvus caught wind of the Samnite
+[10:02 --> 10:05] activities and, as soon as the bulk
+[10:05 --> 10:06] of the army was scattered, he ordered
+[10:06 --> 10:07] his men to attack.
+[10:08 --> 10:09] The Samnites were shocked when the
+[10:09 --> 10:11] whole of the legions came pouring
+[10:11 --> 10:12] out of the small camp,
+[10:12 --> 10:13] not the minor detachment they had
+[10:13 --> 10:15] supposed they were dealing with.
+[10:16 --> 10:17] Corvus's army took the Samnite camp
+[10:17 --> 10:19] almost without a fight,
+[10:19 --> 10:20] and then spent the rest of the
+[10:20 --> 10:22] afternoon rounding up the dispersed
+[10:22 --> 10:23] Samnite foraging parties.
+[10:24 --> 10:26] The Battle of Susula was over before
+[10:26 --> 10:27] it had really begun.
+[10:29 --> 10:30] This victory marked the end of the
+[10:30 --> 10:31] First Samnite War.
+[10:32 --> 10:34] Corvus and Cossus were both awarded
+[10:34 --> 10:36] triumphs, and Decius was given the
+[10:36 --> 10:37] grass crown for his heroics.
+[10:38 --> 10:40] The grass crown was the most
+[10:40 --> 10:41] prestigious and rarely given
+[10:41 --> 10:42] military honor,
+[10:43 --> 10:44] the highest decoration a Roman soldier
+[10:44 --> 10:45] could receive.
+[10:46 --> 10:48] It was given to an individual who
+[10:48 --> 10:50] single-handedly, or nearly
+[10:50 --> 10:52] single-handedly, saved an entire
+[10:52 --> 10:53] legion from destruction.
+[10:54 --> 10:55] It was a rare honor because it was
+[10:55 --> 10:57] granted only by a vote of the saved
+[10:57 --> 10:58] legionaries themselves,
+[10:58 --> 11:00] and it took extraordinary
+[11:00 --> 11:01] circumstances for proud Roman
+[11:01 --> 11:02] soldiers to admit
+[11:02 --> 11:04] that they had to be rescued.
+[11:05 --> 11:06] But in this case it was
+[11:06 --> 11:07] universally understood that Decius
+[11:07 --> 11:08] had saved their butts,
+[11:09 --> 11:10] so Decius got the grass crown.
+[11:12 --> 11:14] After the fighting ended, however,
+[11:14 --> 11:16] the Romans were forced to deal with
+[11:16 --> 11:17] trouble from an unexpected source.
+[11:17 --> 11:19] Their own legions.
+[11:20 --> 11:23] During the winter of 342-341 BC,
+[11:23 --> 11:25] the legions were garrisoned across
+[11:25 --> 11:26] Campania to keep an eye out for
+[11:26 --> 11:28] further Samnite aggression.
+[11:29 --> 11:30] The largest garrison was outside of
+[11:30 --> 11:32] Capua, the city famous for its soft,
+[11:32 --> 11:35] easy living, and detrimental effect on
+[11:35 --> 11:36] military discipline.
+[11:37 --> 11:39] Indeed, as we would later see, some
+[11:39 --> 11:41] note a marked change in the power
+[11:41 --> 11:42] and endurance of Hannibal's army
+[11:42 --> 11:44] after spending the winter in Capua
+[11:44 --> 11:45] during the Second Punic War.
+[11:46 --> 11:48] The Roman garrison, cooped up for the
+[11:48 --> 11:50] winter in camp, looked on at the
+[11:50 --> 11:52] comfortable Capuans and began asking
+[11:52 --> 11:54] themselves why people who could not
+[11:54 --> 11:56] even defend themselves were allowed
+[11:56 --> 11:57] to have so much when they,
+[11:58 --> 11:59] the soldiers who would secure the
+[11:59 --> 12:01] peace, were given so little.
+[12:02 --> 12:03] The consuls for that year began to
+[12:03 --> 12:05] hear mutinous rumors coming from the
+[12:05 --> 12:07] Campanian legions and took steps to
+[12:07 --> 12:09] nip the conspiracy in the bud,
+[12:09 --> 12:10] but the move backfired.
+[12:11 --> 12:13] Their plan was to quietly reassign
+[12:13 --> 12:15] the men identified as conspirators
+[12:15 --> 12:17] and shuffle groups of soldiers around
+[12:17 --> 12:19] so no hard plans could be laid.
+[12:20 --> 12:22] But the conspirators quickly caught on
+[12:22 --> 12:23] and, rather than reporting to their
+[12:23 --> 12:25] new assignments, they collected at an
+[12:25 --> 12:26] arranged point and began
+[12:26 --> 12:28] actively plot a rebellion.
+[12:29 --> 12:30] They were soon strong enough numbers
+[12:30 --> 12:32] wise, but lacked a leader to make
+[12:32 --> 12:33] them a cohesive unit.
+[12:34 --> 12:35] In a classic display of
+[12:35 --> 12:37] counterproductive ego and pride,
+[12:37 --> 12:39] nobody was willing to submit to the
+[12:39 --> 12:40] command of anyone else,
+[12:40 --> 12:42] so they remained a body without head.
+[12:43 --> 12:45] As they brainstormed for ways out of
+[12:45 --> 12:47] their dilemma, it was noted that an
+[12:47 --> 12:49] ex-general, Titus Quintius, lived in the
+[12:49 --> 12:50] area.
+[12:51 --> 12:52] Quintius had retired fully from
+[12:52 --> 12:53] public life,
+[12:53 --> 12:55] despising the backstabbing intrigue of
+[12:55 --> 12:56] Roman politics,
+[12:57 --> 12:58] and the conspirators decided he was the
+[12:58 --> 13:00] perfect choice to lead them.
+[13:01 --> 13:03] A company of men was sent to persuade
+[13:03 --> 13:04] the old man to join their cause.
+[13:05 --> 13:07] Quintius, however, wanted nothing to do
+[13:07 --> 13:08] with the mutinous rabble,
+[13:08 --> 13:10] but was persuaded when the men
+[13:10 --> 13:11] threatened to kill him
+[13:11 --> 13:13] and his whole family if he did not
+[13:13 --> 13:14] come along.
+[13:15 --> 13:17] Having successfully hijacked a leader,
+[13:17 --> 13:18] the revolt moved forward
+[13:18 --> 13:20] and the men marched towards Rome,
+[13:20 --> 13:22] though what exactly they hoped to
+[13:22 --> 13:23] accomplish is unclear.
+[13:24 --> 13:26] They probably wanted to secure land
+[13:26 --> 13:27] grants in Campania,
+[13:27 --> 13:29] but how they thought the Senate or
+[13:29 --> 13:31] the people of Rome would simply give
+[13:31 --> 13:32] them what they wanted and then go on
+[13:32 --> 13:33] as if nothing happened
+[13:33 --> 13:36] is a mystery. The rebellion had taken
+[13:36 --> 13:38] on an irrational inertia
+[13:38 --> 13:39] all its own.
+[13:40 --> 13:42] Upon hearing the news that a rebellious
+[13:42 --> 13:43] army was marching on Rome,
+[13:44 --> 13:45] the Senate immediately named Marcus
+[13:45 --> 13:47] Corvus to the first of his two
+[13:47 --> 13:48] dictatorships
+[13:48 --> 13:50] and he rode off at the head of a
+[13:50 --> 13:51] legion to stop the mutinous army.
+[13:53 --> 13:54] They met each other at the Alban
+[13:54 --> 13:56] Mount near the birthplace of Romulus
+[13:56 --> 13:57] and Ramus,
+[13:57 --> 13:59] but neither side was destined to draw
+[13:59 --> 14:00] their swords in anger.
+[14:01 --> 14:03] Instead the occasion was defined by
+[14:03 --> 14:04] reconciliation
+[14:04 --> 14:06] and secured Corvus's place in the
+[14:06 --> 14:08] history books not just as a great
+[14:08 --> 14:10] warrior, but also a wise and
+[14:10 --> 14:11] compassionate leader of men.
+[14:12 --> 14:14] He was loved not just by the men he
+[14:14 --> 14:15] led that day, but also by the
+[14:15 --> 14:16] mutineers,
+[14:16 --> 14:18] most of whom had fought with him
+[14:18 --> 14:20] against the Samnites. Corvus implored
+[14:20 --> 14:22] them to put down their swords
+[14:22 --> 14:23] and not draw the blood of their
+[14:23 --> 14:24] fellow citizens.
+[14:25 --> 14:27] Quintus, the hijacked general who
+[14:27 --> 14:28] wanted no part of the rebellion
+[14:28 --> 14:28] anyway,
+[14:29 --> 14:31] ordered his men to stand down and
+[14:31 --> 14:32] the combined weight of these two
+[14:32 --> 14:33] towering figures
+[14:33 --> 14:36] compelled them to give up. Corvus
+[14:36 --> 14:38] then led a combined force back into
+[14:38 --> 14:40] Rome where he famously asked for and
+[14:40 --> 14:42] received clemency for the rebellious
+[14:42 --> 14:42] soldiers.
+[14:43 --> 14:45] Corvus did not want the affair to
+[14:45 --> 14:46] remain a thorn in the side of Roman
+[14:46 --> 14:47] solidarity
+[14:47 --> 14:49] and he made sure no soldier was cast
+[14:49 --> 14:50] off the census rolls
+[14:50 --> 14:52] or in any other way penalized for
+[14:52 --> 14:55] his actions. It was a singular case of
+[14:55 --> 14:57] leniency toward mutinous soldiers
+[14:57 --> 14:59] and though Corvus was hailed forever
+[14:59 --> 15:01] as a great man for securing the
+[15:01 --> 15:01] leniency,
+[15:02 --> 15:04] his example was rarely followed by
+[15:04 --> 15:06] later generations who treated any
+[15:06 --> 15:07] hint of mutiny quickly
+[15:07 --> 15:08] and without mercy.
+[15:10 --> 15:12] Soon after the abort of rebellion, a
+[15:12 --> 15:14] truce was formalized with the Samnites.
+[15:15 --> 15:17] The Campagnans however were in no
+[15:17 --> 15:18] mood for peace
+[15:18 --> 15:20] and allied themselves with a combined
+[15:20 --> 15:22] Latin army that took the fight into
+[15:22 --> 15:22] Samnium
+[15:22 --> 15:24] as a punitive response to the Samnite
+[15:24 --> 15:25] invasion of Campagna.
+[15:26 --> 15:28] The Latin communities hoped to grab
+[15:28 --> 15:29] some Samnite land
+[15:29 --> 15:31] and enhance their own power in the
+[15:31 --> 15:33] region, hopefully securing better
+[15:33 --> 15:34] terms of alliance with Rome.
+[15:35 --> 15:37] The Samnites immediately appealed to
+[15:37 --> 15:39] the Romans to halt the attacks.
+[15:40 --> 15:41] The Romans agreed to order the
+[15:41 --> 15:43] Campagnans, who were now their subjects,
+[15:43 --> 15:45] to halt, but claimed their treaty with
+[15:45 --> 15:46] the Latins
+[15:46 --> 15:48] granted them no authority over their
+[15:48 --> 15:49] own internal military decisions
+[15:50 --> 15:52] and this decision had two effects.
+[15:53 --> 15:55] For one, it offended the Samnites who
+[15:55 --> 15:57] thought the Romans were just hiding
+[15:57 --> 15:58] behind legalese
+[15:58 --> 16:00] and directing the Latins, subjects to
+[16:00 --> 16:01] Rome and all but name,
+[16:01 --> 16:03] to keep fighting illegally after the
+[16:03 --> 16:04] treaty had been established.
+[16:05 --> 16:07] Second, it perked the ears of the
+[16:07 --> 16:09] Latins who took the Roman decision to
+[16:09 --> 16:10] mean that the Romans did not believe
+[16:10 --> 16:12] they could stop the Latins from what
+[16:12 --> 16:13] they were doing.
+[16:14 --> 16:16] The time was ripe the Latins decided
+[16:16 --> 16:18] to renegotiate their status with Rome.
+[16:19 --> 16:21] For over a hundred years they had sent
+[16:21 --> 16:23] men and money to fight Roman wars
+[16:23 --> 16:25] and were consistently given only a
+[16:25 --> 16:27] pittance of the spoils in return.
+[16:28 --> 16:30] Full equality they decided was theirs
+[16:30 --> 16:31] for the taking
+[16:31 --> 16:33] and turning away from the Samnites they
+[16:33 --> 16:35] set their sights on Rome itself.
+[16:36 --> 16:38] Having just concluded one war the
+[16:38 --> 16:39] Romans were about to be embroiled in
+[16:39 --> 16:40] another,
+[16:40 --> 16:42] the Latin War, which would not turn out
+[16:42 --> 16:44] exactly as the Latin's plan
+[16:44 --> 16:46] resulting in not full equality but
+[16:46 --> 16:48] full subservience to Roman rule
+[16:48 --> 16:50] and an end even to the appearance of
+[16:50 --> 16:51] independence.
+[16:53 --> 16:54] The first Samnite war would prove to
+[16:54 --> 16:56] be mere foreplay between the Samnites
+[16:56 --> 16:57] and Romans.
+[16:58 --> 16:59] The Romans had gotten the upper hand
+[16:59 --> 17:01] but it could have just as easily gone
+[17:01 --> 17:02] the other way.
+[17:02 --> 17:05] The second or great Samnite war would
+[17:05 --> 17:06] start 20 years later
+[17:06 --> 17:10] and not last for two years but 22 years.
+[17:10 --> 17:12] In that war the Samnites would hand
+[17:12 --> 17:14] the Romans some of their greatest and
+[17:14 --> 17:16] most humiliating defeats.
+[17:17 --> 17:19] The Romans had since their founding
+[17:19 --> 17:21] used the Greek phalanx system for
+[17:21 --> 17:23] their army but soon found it
+[17:23 --> 17:24] unsuited for the mountainous terrain
+[17:24 --> 17:25] of Samnium.
+[17:26 --> 17:28] The Samnite cavalry and light infantry
+[17:28 --> 17:30] were able to easily outmaneuver the
+[17:30 --> 17:32] heavy Roman phalanx forcing the Romans
+[17:32 --> 17:34] to completely overhaul their military
+[17:34 --> 17:34] structure
+[17:34 --> 17:36] before they could beat the Samnites
+[17:36 --> 17:38] in the field. But that war was still a
+[17:38 --> 17:39] generation away.
+[17:40 --> 17:42] Next week the Romans will follow the
+[17:42 --> 17:43] old adage
+[17:43 --> 17:45] that the enemy of my enemy is my
+[17:45 --> 17:47] friend and join forces with the
+[17:47 --> 17:47] Samnites
+[17:47 --> 17:50] to quash forever Latin dreams of
+[17:50 --> 17:50] independence.

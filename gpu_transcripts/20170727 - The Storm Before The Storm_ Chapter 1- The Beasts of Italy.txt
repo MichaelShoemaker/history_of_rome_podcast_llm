@@ -1,0 +1,781 @@
+# 20170727 - The Storm Before The Storm_ Chapter 1- The Beasts of Italy
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:04 --> 00:12] Hello, and welcome to the Storm Before the Storm, Chapter 1, The Beasts of Italy.
+[00:16 --> 00:20] Ten years ago today, I posted my first episode of The History of Rome.
+[00:21 --> 00:25] I thought it would be a fun hobby that would last about 18 months and then I would get
+[00:25 --> 00:26] on with my life.
+[00:26 --> 00:29] Instead, the show ran for five successful years.
+[00:30 --> 00:34] Then I took a gamble, let The History of Rome come to its natural conclusion, and moved
+[00:34 --> 00:38] on to Revolutions, not really knowing if my audience would follow me.
+[00:38 --> 00:43] But you did, and apparently I need not have worried about that, and I am coming up on
+[00:43 --> 00:45] my fourth anniversary at Revolutions.
+[00:46 --> 00:51] Then two and a half years ago, I was offered the opportunity to go back to my roots and
+[00:51 --> 00:55] write a book about Roman history, which was a thrilling opportunity.
+[00:55 --> 01:00] Not just because it would tick write a book off my life's to-do list, which has been
+[01:00 --> 01:04] there since I was about eight years old, it also gave me the opportunity to go back and
+[01:04 --> 01:05] see my old friends.
+[01:06 --> 01:10] Because though I ended The History of Rome and went and made new friends in the world
+[01:10 --> 01:16] of modern revolutions, my love for Roman history has never subsided, and it was great fun to
+[01:16 --> 01:17] go hang out with the old gang again.
+[01:18 --> 01:23] So what you're about to hear is Chapter One of The Storm Before the Storm, The Beginning
+[01:23 --> 01:29] of the End of the Roman Republic by Mike Duncan, forthcoming October 24, 2017 from Public Affairs.
+[01:29 --> 01:33] It is available for pre-order right now at your favorite local bookstore, or you can
+[01:33 --> 01:40] get it online at Amazon, Barnes & Noble, Powell's, IndieBound, Booksamillion, wherever.
+[01:40 --> 01:45] If you like what you hear today, you can help me out a lot by going to pre-order it, because
+[01:45 --> 01:50] we want to get to 5,000 pre-orders to put it on the bestseller list so that everyone
+[01:50 --> 01:51] lets me write another book.
+[01:52 --> 01:58] You can also find more information about this at RevolutionsPodcast.com or the newly revamped
+[01:58 --> 02:02] that is newly revamped as of today, thehistoryofroam.com.
+[02:03 --> 02:05] That's just thehistoryofroam.com.
+[02:05 --> 02:11] I finally secured the domain name and thehistoryofroam.com makes it very easy to navigate the archives
+[02:11 --> 02:12] of the history of Rome.
+[02:12 --> 02:17] Thehistoryofroam.com is just probably what you always thought the History of Rome's
+[02:17 --> 02:20] website should have been, but never was, and now finally is.
+[02:21 --> 02:28] I will also take this opportunity to definitively answer a hearty yes to the question, will
+[02:28 --> 02:30] there be an audiobook version?
+[02:30 --> 02:34] You guys, of course there's going to be an audiobook version, and of course I will read
+[02:34 --> 02:34] it.
+[02:34 --> 02:39] It would have taken a whole series of blunders to not release the book as an audiobook, or
+[02:39 --> 02:41] even worse, to have someone else read it.
+[02:41 --> 02:42] Of course I'm going to read it.
+[02:43 --> 02:47] I am working with the good people at Hashit Audio, and it will be there for you in October.
+[02:47 --> 02:52] Don't worry, it will be my very great pleasure to read to you what I have written, just like
+[02:52 --> 02:56] I've always read to you what I have written, and like I am about to read to you what I
+[02:56 --> 02:57] have written right now.
+[02:57 --> 02:59] That is the very heart of our relationship.
+[03:00 --> 03:03] But you are going to want to get the physical copy too, right?
+[03:03 --> 03:07] I mean, if nothing else, I think we can all agree that the book just looks really cool,
+[03:07 --> 03:08] it's very aesthetically pleasing.
+[03:09 --> 03:14] So even if you keep a highly curated library of physical books, I can't imagine you're
+[03:14 --> 03:17] not going to want to get The Storm Before the Storm, The Beginning of the End of the
+[03:17 --> 03:20] Roman Republic by Mike Duncan and put it up there on the shelf.
+[03:23 --> 03:24] Okay, so that's enough of that.
+[03:25 --> 03:30] But just to set up what you were about to hear, there is a prologue in the book that
+[03:30 --> 03:35] covers the backstory of the Roman Republic from its founding in 509 BC through the great
+[03:35 --> 03:37] imperial triumphs of 146 BC.
+[03:37 --> 03:42] That's when the Romans sacked both Carthage and Corinth in the same year and directly
+[03:42 --> 03:44] annexed Greece and North Africa into the empire.
+[03:45 --> 03:50] The prologue focuses heavily on Scipio Aemilianus and talks about his relationship with the
+[03:50 --> 03:56] Greek philosopher Polybius, and then it explains Polybius' analysis of the Roman constitution
+[03:56 --> 04:02] and explains the basic republican institutions, and then it also introduces the concept of
+[04:03 --> 04:05] which meant the way of the elders.
+[04:06 --> 04:12] And as I say in the prologue, even as political rivals competed for wealth and power, their
+[04:12 --> 04:17] shared respect for the strength of the client-patron relationship, the sovereignty of the assemblies
+[04:17 --> 04:21] and the wisdom of the Senate kept the Romans from going too far.
+[04:21 --> 04:26] When the Republic began to break down in the late second century, it was not the letter
+[04:26 --> 04:31] of Roman law that eroded, but respect for the mutually accepted bonds of mos maorum.
+[04:33 --> 04:39] Then the prologue ends, as I just said, in 146 BC, with Aemilianus and Polybius watching
+[04:39 --> 04:40] Carthage burn.
+[04:41 --> 04:43] In fact, the end of the prologue reads,
+[04:43 --> 04:49] But as he stood watching Carthage burn, Scipio Aemilianus reflected on the fate of this once
+[04:49 --> 04:50] great power.
+[04:50 --> 04:52] Overcome with emotion, he cried.
+[04:53 --> 04:57] His friend and mentor Polybius approached and asked why Aemilianus was crying.
+[04:57 --> 04:59] What better outcome could any man hope for?
+[05:00 --> 05:01] Aemilianus replied,
+[05:01 --> 05:06] A glorious moment, Polybius, but I have a dreadful boating that some day the same doom
+[05:06 --> 05:08] will be pronounced on my own country.
+[05:09 --> 05:12] According to Roman tradition, Aemilianus then quoted a line from Homer,
+[05:13 --> 05:19] A day will come when sacred Troy shall perish, and Priam and his people shall be slain.
+[05:20 --> 05:25] Aemilianus knew that no power endures indefinitely, that all empires must fall, and that there
+[05:25 --> 05:28] is nothing mortals can do about it.
+[05:29 --> 05:34] After that, you will turn the page and find yourself here.
+[05:36 --> 05:39] Chapter 1 The Beasts of Italy
+[05:40 --> 05:46] Thieves of private property pass their lives in chains, thieves of public property in riches
+[05:46 --> 05:47] and luxury.
+[05:48 --> 05:49] Cato the Elder
+[05:51 --> 05:54] Tiberius Sempronius Gracchus was watching his Carthage burned.
+[05:55 --> 06:00] In 146 BC, the teenager was on his first campaign and serving under the famous commander Scipio
+[06:00 --> 06:04] Aemilianus, a typical posting for the scion of an illustrious family.
+[06:05 --> 06:07] And the Gracchi were an illustrious family.
+[06:08 --> 06:12] First ennobled by Tiberius' great-grandfather, the family had risen in stature with each
+[06:13 --> 06:16] culminating with Tiberius' father, whom Livy called
+[06:16 --> 06:20] By far the ablest and most energetic young man of his time.
+[06:21 --> 06:26] Over the course of his storied career, Gracchus the Elder served two consulships and was awarded
+[06:26 --> 06:28] two triumphs.
+[06:28 --> 06:32] Though his father died when Tiberius was just ten years old, the boy knew his father's
+[06:32 --> 06:33] exploits well.
+[06:33 --> 06:35] He knew he had much to live up to.
+[06:37 --> 06:42] Tiberius' mother, Cornelia, was herself one of the most respected matrons in Roman history.
+[06:42 --> 06:47] She was the daughter of Scipio Africanus and wielded enormous influence inside the extended
+[06:47 --> 06:48] Scipione clan.
+[06:49 --> 06:55] After her husband, Gracchus the Elder, died in 154, Cornelia elected not to remarry, even
+[06:55 --> 07:00] turning down a marriage proposal from the king of Egypt, and instead dedicated herself
+[07:00 --> 07:03] to Tiberius and her other son, Gaius.
+[07:03 --> 07:08] She cultivated their education and hired renowned Greek tutors to expose the boys to the most
+[07:08 --> 07:09] advanced theories of the age.
+[07:10 --> 07:15] In an apocryphal but telling story, a wealthy noblewoman once showed off a set of beautiful
+[07:15 --> 07:20] jewels to Cornelia, who herself pointed to Tiberius and his younger brother, Gaius, and
+[07:20 --> 07:22] said, those are my jewels.
+[07:24 --> 07:28] As he grew to maturity, young Tiberius was admired for his intelligence and dignity.
+[07:29 --> 07:34] He was possessed of, quote, brilliant intellect, of upright intentions, and the highest virtues
+[07:34 --> 07:38] of which a man is capable when favored by nature and by training.
+[07:39 --> 07:44] A generous spirit and eloquent speaker, Tiberius was on track to meet the high standards set
+[07:44 --> 07:47] by his father and become the leading man of his time.
+[07:48 --> 07:53] To keep the family fortunes under one house, Cornelia arranged for her daughter, Sempronia,
+[07:53 --> 07:59] to marry her adopted nephew, Emilianus, even though she did not like Emilianus personally.
+[07:59 --> 08:04] Cornelia found him pretentious and did not think him worthy of the honor of being head
+[08:04 --> 08:04] of the family.
+[08:05 --> 08:10] In fact, much of Cornelia's focus on her children was an effort to keep Emilianus from
+[08:10 --> 08:11] outshining her jewels.
+[08:11 --> 08:15] She pushed her son's ambitions by reminding them that the Romans still called her the
+[08:15 --> 08:19] mother-in-law of Emilianus, but not yet mother of the Grokai.
+[08:21 --> 08:25] Despite all this family drama, Emilianus was obliged to bring his teenage brother-in-law
+[08:25 --> 08:27] Tiberius to the siege of Carthage.
+[08:27 --> 08:31] In Africa, Tiberius was exposed to the basics of military life.
+[08:31 --> 08:36] By all accounts, he performed well as a soldier, earned the respect of the men, and even won
+[08:36 --> 08:39] a coveted award for being the first man over an enemy wall.
+[08:39 --> 08:44] When Carthage fell in 146, Tiberius Gracchus was there to watch the city burn.
+[08:46 --> 08:50] After Tiberius returned from North Africa, Cornelia maneuvered him into a marriage with
+[08:50 --> 08:52] the daughter of Appius Claudius Pulcher.
+[08:53 --> 08:57] Tiberius's new father-in-law came from one of the oldest patrician families in the Republic,
+[08:57 --> 09:03] and he had recently been named Princeps Senatus, a prestigious position that meant he was listed
+[09:03 --> 09:07] at the top of the senatorial role and was allowed to speak first in any debate.
+[09:08 --> 09:10] But the marriage was not without complications.
+[09:11 --> 09:16] Claudius was a bitter opponent of Scipio Emilianus, and Tiberius was now caught in the middle
+[09:16 --> 09:16] of their rivalry.
+[09:17 --> 09:22] But that said, by his early twenties, Tiberius was positioned to achieve a preeminence that
+[09:22 --> 09:23] might even surpass his father.
+[09:24 --> 09:29] He was well-educated, well-connected, and already recognized as a man with, quote,
+[09:29 --> 09:32] great force of character, eloquence, and dignity.
+[09:33 --> 09:37] But unlike most Romans, Tiberius would not win fame on the battlefield fighting a foreign
+[09:37 --> 09:37] enemy.
+[09:38 --> 09:43] Instead, he would win fame in the forum, combating the domestic threat of skyrocketing economic
+[09:43 --> 09:44] inequality.
+[09:47 --> 09:54] After the Second Punic War ended in 202 BC, the economy of Italy endured a massive upheaval.
+[09:55 --> 10:00] The legions that conquered Spain, Greece, and North Africa returned home with riches
+[10:00 --> 10:01] on an unprecedented scale.
+[10:02 --> 10:09] A proconsul returned from a campaign in the East bearing 137,420 pounds of raw silver,
+[10:09 --> 10:14] 600,000 silver pieces, and 140,000 gold pieces.
+[10:15 --> 10:19] Tiberius's own father returned from a campaign in Spain with 40,000 pounds of raw silver.
+[10:20 --> 10:25] This was an insane load of treasure that would have been unimaginable to the frugal and austere
+[10:25 --> 10:26] Romans of the early republic.
+[10:27 --> 10:32] But by the middle of the second century BC, Rome was rolling in the Mediterranean's
+[10:32 --> 10:32] dough.
+[10:34 --> 10:39] The newly enriched Romans spent their money on a variety of luxuries, fine carpets, ornate
+[10:39 --> 10:44] silverware, embellished furniture and jewelry made of gold, silver, and ivory.
+[10:45 --> 10:49] The effects of this influx of wealth began to concern some alert senators.
+[10:49 --> 10:55] As early as 195, Cato the Elder warned his colleagues, quote, We have crossed into Greece
+[10:55 --> 11:00] and Asia, places filled with all the allurements of vice, and we are handling the treasures
+[11:00 --> 11:00] of kings.
+[11:00 --> 11:05] I fear that these things will capture us rather than we them.
+[11:06 --> 11:10] Every few years, the Senate would attempt to rein in ostentatious displays of wealth,
+[11:10 --> 11:15] but the resulting limitations inevitably went unheeded and unenforced.
+[11:15 --> 11:21] Quote, By fatal coincidence, the Roman people at the same moment both acquired a taste for
+[11:21 --> 11:24] vice and obtained a license for gratifying it.
+[11:25 --> 11:31] But this story of fabulous riches leading to moral decay only affected the small group
+[11:31 --> 11:34] of noble families who controlled the spoils of war.
+[11:34 --> 11:39] For the majority of Roman citizens, the conquest of the Mediterranean meant privation, not
+[11:39 --> 11:40] prosperity.
+[11:40 --> 11:45] In the early days of the republic, service in the legions did not interfere with a citizen's
+[11:45 --> 11:47] ability to maintain his property.
+[11:47 --> 11:51] Wars were always fought close to home and in rhythm with the agricultural seasons.
+[11:52 --> 11:57] But when the Punic Wars spread the legions across the Mediterranean, citizens were conscripted
+[11:57 --> 12:01] to fighting campaigns that dragged on for years a thousand miles from home.
+[12:02 --> 12:07] Thanks to these endless wars, lower-class families were, quote, burdened with military
+[12:07 --> 12:12] service and poverty, and their property would fall into a state of terminal neglect.
+[12:13 --> 12:18] Upon returning home, a discharged soldier was likely to find the time, effort, and resources
+[12:18 --> 12:22] required to restore his land to its former productivity beyond his means.
+[12:23 --> 12:27] Wealthy noble families exacerbated the sharpening divide between rich and poor.
+[12:28 --> 12:32] As they looked to invest their newly acquired riches, they found thousands of dilapidated
+[12:32 --> 12:34] plots just waiting to be scooped up.
+[12:35 --> 12:39] Sometimes destitute families sold willingly, happy to get something for property they could
+[12:39 --> 12:43] no longer afford to work for themselves, but holdouts were often bullied into quitting
+[12:43 --> 12:44] their land.
+[12:45 --> 12:49] As these newly acquired small plots combined into larger estates, the Roman agricultural
+[12:49 --> 12:56] landscape began to transform from small independent farms to large commercial operations dominated
+[12:56 --> 12:57] by a few families.
+[12:59 --> 13:03] The plight of the dispossessed citizens might not have been so dire had they been allowed
+[13:03 --> 13:08] to transition into the labor force of the commercial estates, but the continuous run
+[13:08 --> 13:13] of successful foreign wars brought slaves flooding into Italy by the hundreds of thousands.
+[13:14 --> 13:18] The same wealthy nobles who bought up all the land also bought slaves to work their
+[13:18 --> 13:19] growing estates.
+[13:20 --> 13:23] The demand for free labor plummeted just as Roman families were being pushed off their
+[13:23 --> 13:24] land.
+[13:25 --> 13:27] As the historian Diodorus observed,
+[13:39 --> 13:43] Tiberius first confronted the new economic realities early in life.
+[13:43 --> 13:46] According to a pamphlet written later by his brother,
+[13:57 --> 14:03] According to Gaius, this was the moment Tiberius first seriously confronted the need for economic
+[14:03 --> 14:04] and social reform.
+[14:05 --> 14:12] This apocryphal story is no doubt a fine piece of exaggerated propaganda, but it captures
+[14:12 --> 14:16] the essential dislocation of the poor families from their traditional way of life.
+[14:18 --> 14:23] Some of those dislocated citizens migrated to the cities in search of wage labor only
+[14:23 --> 14:26] to find that slaves monopolized work in the cities too.
+[14:27 --> 14:31] So most remained in their rural homelands, forming a new class of landless peasants who
+[14:31 --> 14:35] would continue to work their land as mere tenants and sharecroppers rather than owners.
+[14:36 --> 14:38] Their new landlords loved the arrangement.
+[14:39 --> 14:43] Tenant farmers could be used to produce low-margin cereals, which would allow landlords to save
+[14:43 --> 14:47] their slaves for more lucrative crops like olives and grapes.
+[14:47 --> 14:51] Politically minded landlords had an added incentive to promote tenancy.
+[14:51 --> 14:56] These peasants remained political clients whose votes could be counted on in the assembly.
+[14:57 --> 15:02] This new breed of poor tenant farmers would be tied to their landlords forever, unless
+[15:02 --> 15:05] someone came along and offered them a way out.
+[15:08 --> 15:13] Exacerbating this economic and social dislocation was the Spanish quagmire the Romans had gotten
+[15:13 --> 15:14] themselves stuck in.
+[15:15 --> 15:21] When Carthage and Corinth fell in 146, Roman power seemed invincible, but Roman commanders
+[15:21 --> 15:25] in Spain had indulged in greedy atrocities that continued to provoke stiff resistance
+[15:25 --> 15:26] from the Spanish natives.
+[15:27 --> 15:31] So each year the Senate was obliged to raise new recruits and ship them off to the Iberian
+[15:31 --> 15:36] Peninsula to serve on campaigns of undefined length against an enemy who specialized in
+[15:36 --> 15:38] demoralizing skirmishes.
+[15:38 --> 15:42] As a reward for their service, these conscripts would come home to find their farms ruined.
+[15:44 --> 15:49] While the unpopularity of the Spanish wars grew, potential conscripts began to defy the
+[15:49 --> 15:50] consuls.
+[15:50 --> 15:55] With no other recourse, they once again turned to the tribunes for protection.
+[15:56 --> 16:00] The tribunes were the ancient guardians of the plebs, but over the past century they
+[16:00 --> 16:01] had been co-opted by the Senate.
+[16:02 --> 16:07] With citizens once again suffering under the arbitrary whims of the nobility, the tribunes
+[16:07 --> 16:11] returned to their sacred mandate of protecting the people from abuse.
+[16:11 --> 16:17] In both 151 and 138, aggressive conscription by the consuls climaxed with the tribunes
+[16:17 --> 16:20] placing the consuls under arrest until they backed off.
+[16:21 --> 16:25] The tribunes had every right to throw the consuls in jail, but it was still a shocking
+[16:25 --> 16:27] challenge to noble authority.
+[16:28 --> 16:33] The Senate attempted to mollify potential conscripts by making life in the army a little
+[16:33 --> 16:33] less harsh.
+[16:34 --> 16:38] They capped service at six years and gave soldiers the right to appeal punishments handed
+[16:38 --> 16:39] down by their officers.
+[16:40 --> 16:44] But ultimately, this did little to improve the morale of the legionaries in Spain.
+[16:45 --> 16:50] In 140, veterans who had served six years were mustered out and replaced by raw recruits.
+[16:50 --> 16:55] These soldiers were, quote, exposed to severe cold without shelter, and, unaccustomed to
+[16:55 --> 16:59] the water and climate of the country, fell sick with dysentery and many died.
+[17:01 --> 17:03] Not exactly something you can put on a recruitment poster.
+[17:05 --> 17:09] As the tribunes watched their constituents driven off the land or hauled off to fight
+[17:09 --> 17:14] the quagmire in Spain, they took their first steps towards curbing the power of the nobles.
+[17:15 --> 17:20] For the entire history of the republic, citizens had declared their vote out loud, making it
+[17:20 --> 17:25] easy for powerful patrons to ensure clients voted the way that they had been ordered to.
+[17:26 --> 17:32] In 139, a tribune defiantly passed a law requiring secret ballots for elections.
+[17:33 --> 17:36] Two years later, the secret ballot was extended to judicial assemblies.
+[17:37 --> 17:41] It would take time for the effects of these reforms to be felt, but the introduction of
+[17:41 --> 17:47] the secret ballot would prove a hammer blow to the foundations of the senatorial oligarchy.
+[17:48 --> 17:52] Surveying the state of Italy in the 130s, some among the nobility could see that there
+[17:52 --> 17:53] was a greater problem.
+[17:54 --> 17:59] Conscripts still had to meet a minimum property requirement to be enrolled, but with the rich
+[17:59 --> 18:04] pushing the poor off the land, fewer citizens could meet the minimum requirement to be drafted.
+[18:05 --> 18:09] The Romans had faced crises like this in the past and responded by lowering the property
+[18:09 --> 18:14] requirements to bring more men under arms, but by the mid-2nd century, many citizens
+[18:14 --> 18:17] could not even meet minimal standards of service.
+[18:18 --> 18:23] The consuls were forced to rely on an ever-shrinking pool of men to fight wars and garrison the provinces.
+[18:27 --> 18:32] With all these social and economic problems swirling, Tiberius Gracchus was elected questor
+[18:32 --> 18:33] for 137.
+[18:34 --> 18:38] This was supposed to be the routine first step on his ascent up the Cursus honorum,
+[18:38 --> 18:44] but instead it nearly ended Tiberius' public career before that career even began.
+[18:45 --> 18:50] Attached to the command of consul Gaius Hostilius Manchinus, Tiberius landed in Spain in the
+[18:50 --> 18:55] spring of 137 to continue the war against the Numantines, a Celtiberian tribe who had
+[18:55 --> 18:58] managed to resist all Roman attempts at pacification.
+[18:58 --> 19:03] Upon arrival, Tiberius found himself caught up in one of the most embarrassing defeats
+[19:03 --> 19:04] the legions ever suffered.
+[19:05 --> 19:09] The consul Manchinus was far more a scholar than a soldier, and the experienced Numantine
+[19:09 --> 19:12] guerrillas ran circles around his clumsy maneuvers.
+[19:13 --> 19:18] After a series of poorly executed skirmishes, Manchinus attempted a strategic retreat under
+[19:18 --> 19:22] cover of darkness, but discovered as the sun rose that his army was surrounded.
+[19:23 --> 19:28] Having fallen prey to Roman treachery in the past, the Numantine leaders demanded that
+[19:28 --> 19:31] young Tiberius Gracchus be sent forward to negotiate.
+[19:32 --> 19:36] While serving in Spain a generation earlier, Tiberius' father had brokered an equitable
+[19:36 --> 19:40] peace treaty with the Numantines, and they remembered the name Gracchi and trusted the
+[19:40 --> 19:42] sun to play as fair as his father.
+[19:43 --> 19:48] On his first campaign, and with as many as 30,000 lives on the line, Tiberius negotiated
+[19:48 --> 19:53] a treaty that allowed the legions safe passage out of the region in exchange for a pledge
+[19:53 --> 19:54] of future peace.
+[19:55 --> 20:00] Though there was little else Tiberius could have done under the circumstances, when Rome
+[20:00 --> 20:04] heard about the surrender, senators tripped over themselves, bewailing the humiliating
+[20:04 --> 20:05] terms.
+[20:05 --> 20:10] The Senate recalled Manchinus and his senior staff to Rome to explain their cowardly capitulation.
+[20:11 --> 20:15] Though the embarrassed Manchinus attempted to justify his conduct, the Senate brutally
+[20:15 --> 20:16] smacked him down.
+[20:16 --> 20:20] They stripped Manchinus of his consulship and ordered him deposited at the gates of
+[20:20 --> 20:24] Numantia in chains to signal Rome's rejection of the treaty.
+[20:25 --> 20:29] The Numantines responded by sending Manchinus back to Rome with a message that, quote,
+[20:29 --> 20:36] "...a national breach of faith should not be atoned for by the blood of one man."
+[20:36 --> 20:41] Tiberius and his fellow junior officers escaped official censure for their role in the scandal,
+[20:41 --> 20:44] but that did not spare them a severe tongue-lashing.
+[20:45 --> 20:49] Tiberius could not have expected to return home to a hero's welcome, but the intensity
+[20:49 --> 20:54] of the invective the Senate laid on him seemed disproportionate to his crime.
+[20:54 --> 20:58] All he had done was save tens of thousands of men from certain death.
+[20:58 --> 21:02] Did the Senate really expect him to choose voluntary mass suicide?
+[21:03 --> 21:07] But in contrast to the self-righteous fury of the old men in the Senate, when Tiberius
+[21:07 --> 21:12] emerged from the Senate house, he was greeted by cheers from the families of the men he
+[21:12 --> 21:13] had saved.
+[21:15 --> 21:21] While Tiberius licked his political wounds, the road to redemption was already being paved
+[21:21 --> 21:25] by a group of senators intent on rebuilding the population of small citizen farmers.
+[21:26 --> 21:32] These reformist senators were crafting a novel piece of legislation called the lex agraria
+[21:32 --> 21:36] that would hopefully reverse the decades-long trend of growing economic inequality.
+[21:37 --> 21:42] They believed they had hit upon an ingenious method of redistributing land from rich to
+[21:42 --> 21:47] poor without running afoul of the iron-clad private property rights that defined Roman
+[21:47 --> 21:47] law.
+[21:48 --> 21:54] They would focus exclusively on auger publicus, illegally occupied by wealthy squatters.
+[21:55 --> 22:01] As you might have guessed from squinting at the Latin, auger publicus was publicly owned
+[22:01 --> 22:01] land.
+[22:02 --> 22:07] As the Romans conquered Italy, they typically confiscated a third of a defeated enemy's
+[22:07 --> 22:10] territory and turned it into state-owned auger publicus.
+[22:11 --> 22:15] In the early days of the Republic, this public land was converted into a Roman colony, but
+[22:15 --> 22:20] by Tiberius' day, it was usually leased to individual renters who would work the land
+[22:20 --> 22:22] in exchange for a portion of the produce.
+[22:23 --> 22:28] To prevent rich families from monopolizing the state lands, the assembly passed a law
+[22:28 --> 22:34] that no family was allowed to lease more than 500 augera, about 300 acres, of public land.
+[22:35 --> 22:37] But this prohibition was mostly ignored.
+[22:38 --> 22:42] The magistrates tasked with enforcing the limits were themselves wealthy landowners
+[22:42 --> 22:46] occupying excessive public land, so everyone colluded to get away with it together.
+[22:48 --> 22:50] The legal rationale of the lex agraria was simple.
+[22:51 --> 22:54] The 500 augera prohibition would be strictly enforced.
+[22:55 --> 23:00] Anyone caught occupying auger publicus over the legal limit would be forced to relinquish
+[23:00 --> 23:02] the excess back to the state.
+[23:02 --> 23:07] The excess could then be divided up into small, manageable plots and redistributed
+[23:07 --> 23:08] to landless citizens.
+[23:09 --> 23:14] Since the whole point of the reform was to rebuild the class of smallholders, the bill
+[23:14 --> 23:18] stipulated that the newly created plots could not be broken up and sold.
+[23:18 --> 23:23] The authors of the lex agraria did not want to hand a plot of land to a poor man just
+[23:23 --> 23:26] so he could turn around and sell it back to a rich man.
+[23:28 --> 23:33] Somewhat counterintuitively, the senators crafting this piece of radical reform legislation
+[23:33 --> 23:37] were not backbench agitators, but rather some of the most powerful men in Rome.
+[23:38 --> 23:43] The group was led by Tiberius' father-in-law, Appius Claudius Pulcher, who was Princeps
+[23:43 --> 23:44] Senatus.
+[23:45 --> 23:50] Joining him were a prominent pair of brothers, the wealthy jurist and scholar Publius Lichinius
+[23:50 --> 23:55] Crassus Mucianus and Publius Mucius Scavola, one of the most respected legal theorists
+[23:55 --> 23:56] of his generation.
+[23:57 --> 24:01] There were other prominent senators and rising young nobles surrounding Claudius' group
+[24:01 --> 24:02] of reformers.
+[24:03 --> 24:05] Among them was Tiberius Gracchus.
+[24:06 --> 24:11] For historians, one of the most controversial aspects of the lex agraria is whether the
+[24:11 --> 24:16] authors intended only Roman citizens to qualify for allotments, or whether the non-citizen
+[24:16 --> 24:18] Italian allies also qualified.
+[24:19 --> 24:24] The Italians provided much of the manpower for the legions, and Tiberius himself was
+[24:24 --> 24:30] personally anxious about their plight, lamenting that a people so valiant in war and related
+[24:30 --> 24:36] in blood to the Romans were decimated little by little into poverty and paucity of numbers
+[24:36 --> 24:37] without any hope of remedy.
+[24:39 --> 24:43] But whatever the original intent, there is no evidence the Italians were ultimately included
+[24:43 --> 24:45] in the redistribution program.
+[24:45 --> 24:51] It seems an obscure point, but the fight over the lex agraria was an early test of Roman
+[24:51 --> 24:53] willingness to treat the Italians as equals.
+[24:54 --> 24:55] It was a test.
+[24:55 --> 24:57] They failed.
+[24:58 --> 25:01] Historians also still argue about the motivations of the authors of the bill.
+[25:02 --> 25:07] Maybe they were acting on high-minded principle and simply wanted to restore the citizen farmer
+[25:07 --> 25:09] and rebuild the manpower reserves of the legions.
+[25:10 --> 25:15] But it could also be that the law was cynically designed to add thousands of new clients to
+[25:15 --> 25:17] the political networks of its authors.
+[25:17 --> 25:22] Traditionally, the man tasked with distributing land absorbed the families that benefited
+[25:22 --> 25:23] onto his client roles.
+[25:24 --> 25:29] And it is here that we might also detect the source of the intransigent opposition to the
+[25:29 --> 25:29] bill.
+[25:30 --> 25:34] Because what the lex agraria proposed to do was take all the miserable tenants attached
+[25:34 --> 25:39] by default to their landlords and transfer their political allegiance to the Claudian
+[25:39 --> 25:42] faction, an intolerable shift of senatorial power.
+[25:44 --> 25:48] A piece of legislation this controversial and far-reaching was not drafted on a whim.
+[25:49 --> 25:54] Claudius, Scavola, and Mucianus would have spent years carefully picking through Roman
+[25:54 --> 25:59] law, laying out how the survey process would work and who would arbitrate contested claims.
+[26:00 --> 26:04] But once the law was written, they simply had to wait for the right time and the right
+[26:04 --> 26:05] person to introduce the bill.
+[26:06 --> 26:11] And for that, Claudius had his eye on his talented son-in-law Tiberius, who was now
+[26:11 --> 26:14] trying to recover from the shame of the Neumantine affair.
+[26:17 --> 26:21] While the authors of the lex agraria waited for the right time to introduce their bill,
+[26:22 --> 26:24] the unpopular war in Spain continued.
+[26:25 --> 26:30] After the Senate rejected Tiberius' treaty, two more years of inconclusive fighting followed.
+[26:30 --> 26:36] More men dead, more farms ruined, more families dislocated, all for no discernible gain or
+[26:36 --> 26:36] purpose.
+[26:37 --> 26:39] The people of Rome were getting fed up.
+[26:39 --> 26:44] So just as they had done during the war against Carthage, they turned to Scipio Emilianus
+[26:44 --> 26:45] to end the war once and for all.
+[26:46 --> 26:49] But they faced a similar problem they had faced back then.
+[26:50 --> 26:52] Emilianus was technically prohibited from running.
+[26:53 --> 26:57] During the Carthaginian War 15 years earlier, the problem was that he was too young.
+[26:58 --> 27:03] Now the problem was that a law had been passed barring a man from serving more than one consulship
+[27:03 --> 27:03] in his career.
+[27:04 --> 27:09] But just as the Assembly had voted an exemption that allowed Emilianus to stand for the consulship
+[27:09 --> 27:14] of 147, they exempted Emilianus from the prohibition of multiple consulships.
+[27:14 --> 27:18] He was duly elected for the consulship of 134.
+[27:19 --> 27:24] With his ability to secure special treatment from the Assembly, the career of Emilianus
+[27:24 --> 27:28] became a prototype for ambitious politicians in the years to come.
+[27:29 --> 27:34] Emilianus showed how easy it was to manipulate the mob to serve personal ambition, inducing
+[27:34 --> 27:36] them to suspend inconvenient rules.
+[27:37 --> 27:41] But that was not the only dangerous example Emilianus set.
+[27:41 --> 27:46] During the campaign for the consulship of 134, he promised to raise new recruits from
+[27:46 --> 27:48] his own extensive client network.
+[27:49 --> 27:53] The Scipione were a major center of political gravity in Rome, and many friends and allies
+[27:53 --> 27:59] readily agreed to accompany Emilianus to Spain, among them Tiberius' younger brother Gaius.
+[28:00 --> 28:05] Raising a personal legion of 4,000 men, Emilianus was able to depart for Spain without the need
+[28:05 --> 28:07] for forced conscription.
+[28:07 --> 28:13] This was, for the moment, a welcome answer to an emergency situation, but it also set
+[28:13 --> 28:17] the precedent of a powerful noble raising a personal army from his own client network,
+[28:18 --> 28:23] an army whose loyalty to the powerful noble might outweigh their loyalty to the Senate
+[28:23 --> 28:24] and people of Rome.
+[28:26 --> 28:31] From the perspective of Claudius, though, all Emilianus' departure from Spain meant
+[28:31 --> 28:35] was that a formidable political opponent would now be absent from Rome for at least a year.
+[28:36 --> 28:41] With his biggest rival out of the way, Claudius wasted no time dispatching his son-in-law
+[28:41 --> 28:47] Tiberius Gracchus to ram through the Lexaegraria before anyone could stop it.
+[28:50 --> 28:55] Within months of Emilianus' departure for Spain, Tiberius Gracchus stood for the tribunate.
+[28:56 --> 29:00] The office was slightly beneath his standing, and had the Numantine affair not darkened
+[29:00 --> 29:05] his prospects, it is likely Tiberius would have moved right onto an aedile ship to set
+[29:05 --> 29:08] up his inevitable runs for praetor and consul.
+[29:08 --> 29:13] But given that he had to overcome the shame of the debacle in Spain, he could use his
+[29:13 --> 29:16] year as tribune to boldly vault back to the forefront of Roman politics.
+[29:18 --> 29:23] Before Tiberius took office, the Claudian reformers floated the contents of the Lexaegraria
+[29:23 --> 29:27] to their senatorial colleagues, but met with incredulous resistance.
+[29:28 --> 29:33] After occupying the Agra Publicus for many years, these wealthy landowners had come to
+[29:33 --> 29:35] regard the public land as their personal property.
+[29:36 --> 29:41] They had invested in it, improved it, used it as collateral for loans, given it away
+[29:41 --> 29:43] as dowries, and bequeathed it to their heirs.
+[29:44 --> 29:49] The authors of the bill wrote a number of concessions to lessen opposition, offering
+[29:49 --> 29:55] compensation for the Agra Publicus seized, giving clear title to the 500 gara that remained,
+[29:55 --> 29:58] making allowances for larger families to hold more land.
+[29:59 --> 30:03] But even with these concessions, a large faction in the Senate planned to resist the bill no
+[30:03 --> 30:04] matter what.
+[30:05 --> 30:09] To have their land confiscated and handed over to the shiftless rabble was simply out
+[30:09 --> 30:10] of the question.
+[30:11 --> 30:16] With the majority of the Senate hostile, the Claudians elected to break with mos maorum,
+[30:16 --> 30:20] and have Tiberius present the bill directly to the assembly without giving the Senate
+[30:20 --> 30:22] a chance to register their opinion.
+[30:22 --> 30:28] There was no law stating that a bill must be presented to the Senate before it was introduced
+[30:28 --> 30:29] in the assembly.
+[30:29 --> 30:32] It was simply the way things had always been done.
+[30:33 --> 30:36] Tiberius' provocative gambit set everyone on edge.
+[30:37 --> 30:43] Shortly after taking office in December 134, Tiberius appeared before the assembly and
+[30:43 --> 30:49] announced his intention to pass a law redistributing Agra Publicus from the rich to the poor.
+[30:50 --> 30:56] According to Roman law, after a bill was introduced, three market days had to pass before it could
+[30:56 --> 30:57] be voted on.
+[30:57 --> 31:02] With market days occurring about once a week, the interval between the introduction and
+[31:02 --> 31:05] the vote could be anywhere from 1824 calendar days.
+[31:06 --> 31:09] This delay allowed time for voters to make their way to Rome for the vote.
+[31:10 --> 31:16] Since Tiberius was tapping into real resentment, dispossessed citizens flooded into Rome over
+[31:16 --> 31:17] the next three weeks, quote,
+[31:17 --> 31:20] like rivers flowing into an all-receptive ocean.
+[31:21 --> 31:23] Even non-voting Italians came in to support the bill.
+[31:24 --> 31:28] Though they could not vote, they could still register their physical and psychological
+[31:28 --> 31:30] support for land redistribution.
+[31:31 --> 31:36] During these weeks, Tiberius regularly addressed the citizens in the forum to harness and solidify
+[31:36 --> 31:37] their energy.
+[31:37 --> 31:42] He planned to have a large and eager majority in the assembly when it came time to vote.
+[31:44 --> 31:48] After three market days had passed, Tiberius convened the assembly on the Capitoline Hill
+[31:48 --> 31:50] to consider the Lex Agraria.
+[31:51 --> 31:55] The space would have been packed with voters, giving the area in front of the Temple of
+[31:55 --> 31:56] Jupiter, quote,
+[31:56 --> 31:59] the appearance of stormy waves on the sea.
+[32:00 --> 32:04] Before the official presentation, Tiberius defended the Lex Agraria with the speech of
+[32:04 --> 32:04] his life.
+[32:05 --> 32:10] The Grokai had been trained by the best orators in the Mediterranean, and Tiberius perfected
+[32:10 --> 32:13] an irresistibly calm and dignified presence on stage.
+[32:14 --> 32:16] He did not pace the rostra or beat his chest.
+[32:17 --> 32:22] He stood perfectly still, and allowed the inherent force of his argument to hold the
+[32:22 --> 32:23] audience's rapt attention.
+[32:24 --> 32:29] According to Plutarch, Tiberius composed himself in the center of the rostra and delivered
+[32:29 --> 32:32] an impassioned defense of the common citizens of Rome.
+[32:33 --> 32:34] Quote,
+[32:40 --> 32:41] While, quote,
+[32:41 --> 32:47] the men who fight and die for Italy enjoy the common air and light, but nothing else.
+[32:47 --> 32:51] Houseless and homeless, they wander about with their wives and children.
+[32:52 --> 32:57] Invoking the imagery of an Italian population dislocated by war and poverty, he said, quote,
+[32:57 --> 33:02] it is with lying lips that their commanders exhort the soldiers in their battles to protect
+[33:02 --> 33:07] suppletures and shrines from the enemy, but they fight and die to support others in wealth
+[33:07 --> 33:08] and luxury.
+[33:09 --> 33:14] These ruinous wars had led to an unacceptable irony for the average Roman.
+[33:14 --> 33:15] Quote,
+[33:22 --> 33:28] After bringing the assembly to tears, Tiberius requested the clerk read the bill in preparation
+[33:28 --> 33:30] for the vote that he would surely win.
+[33:31 --> 33:36] But as it turned out, senatorial opponents of the Lexaqueria had themselves been busy
+[33:36 --> 33:37] over the last three weeks.
+[33:38 --> 33:43] Knowing they would lose the vote, they had recruited Marcus Octavius, one of Tiberius'
+[33:43 --> 33:47] fellow tribunes, to prevent the vote from even taking place.
+[33:48 --> 33:53] One of the most powerful weapons a tribune wielded was the veto, which meant, I forbid.
+[33:54 --> 34:00] A tribune could veto anything, at any time, for any reason, and not even another tribune
+[34:00 --> 34:01] could overturn it.
+[34:01 --> 34:07] So when the clerk rose to formally read the Lexaqueria, Marcus Octavius stepped forward
+[34:07 --> 34:09] and vetoed the reading of the bill.
+[34:10 --> 34:10] Everything stopped.
+[34:11 --> 34:14] The vote could not take place until the clerk read the bill.
+[34:14 --> 34:19] So as long as Octavius maintained his veto, the bill could not be read, and the vote could
+[34:19 --> 34:20] not take place.
+[34:21 --> 34:25] With the proceedings ground to a halt, Tiberius adjourned the assembly for the day.
+[34:28 --> 34:33] After failing to avoid senatorial opposition with a generous bill, Tiberius and his Claudian
+[34:33 --> 34:38] backers decided the best play was to rally his popular base by making villains of the
+[34:38 --> 34:39] rich.
+[34:40 --> 34:44] Tiberius stripped out the friendly concessions before the next vote, so that the Lexaqueria
+[34:44 --> 34:49] would be, quote, more agreeable to the multitude and more severe against the wrongdoers.
+[34:50 --> 34:54] With luck, pressure from the populace would force Octavius to give up his veto and allow
+[34:54 --> 34:56] the bill to come to a vote.
+[34:56 --> 34:58] A vote they would most surely win.
+[35:00 --> 35:04] In between sessions of the assembly, Tiberius and Octavius came every day to the forum to
+[35:04 --> 35:06] debate the merits of the Lexaqueria.
+[35:07 --> 35:12] The forum is not a large area, and like the stages at a music festival, there were few
+[35:12 --> 35:16] rostras available for speechmaking, and their audiences often overlapped.
+[35:16 --> 35:21] In such close quarters, Tiberius and Octavius often engaged each other directly in debate.
+[35:22 --> 35:27] As Tiberius grew more and more exasperated, he promised to purchase all the augur public
+[35:27 --> 35:33] as Octavius owned at a fair price, if Octavius would drop his opposition to the bill, hinting
+[35:33 --> 35:37] that Octavius's opposition was rooted in crass self-interest rather than high-minded
+[35:37 --> 35:41] public spirit, but Octavius refused to give up.
+[35:42 --> 35:47] With traditional debate and persuasion failing to break the deadlock, Tiberius turned to
+[35:47 --> 35:48] radical action.
+[35:49 --> 35:53] Tiberius promised he would veto every piece of public business until Octavius relented.
+[35:54 --> 35:59] Then he marched up to the Temple of Saturn and locked the state treasury with his personal
+[35:59 --> 36:04] seal so that, quote, none of the usual business was carried out in an orderly way, the magistrates
+[36:04 --> 36:09] could not perform their accustomed duties, courts came to a stop, no contract was entered
+[36:09 --> 36:13] into, and other sorts of confusion and disorder were rife everywhere.
+[36:14 --> 36:19] Tiberius then ratcheted up the dramatic atmosphere further, alluding to reports that his enemies
+[36:19 --> 36:24] planned to assassinate him, he now carried a concealed short sword in his cloak and surrounded
+[36:24 --> 36:27] himself at all times with thousands of dedicated followers.
+[36:29 --> 36:34] But when the assembly once again convened to consider the Lexigraria, Octavius remained
+[36:34 --> 36:35] intractable.
+[36:36 --> 36:40] He vetoed the reading of the bill again and the session descended into a fiery storm of
+[36:40 --> 36:41] mutual denunciations.
+[36:42 --> 36:46] Two senators then stepped forward and asked the deadlocked tribunes to put the matter
+[36:46 --> 36:47] before the Senate.
+[36:48 --> 36:51] Tiberius still had some hope the Senate might help broker a deal.
+[36:52 --> 36:57] There was no question that if the Lexigraria came to a vote, it would pass by an overwhelming
+[36:57 --> 36:57] margin.
+[36:58 --> 37:03] When past tribunes had levied vetoes against popular bills, they withdrew it after expressing
+[37:03 --> 37:05] their symbolic disapproval.
+[37:05 --> 37:08] But no one had ever permanently defied the people's will.
+[37:09 --> 37:14] By the traditional force of mos maorum, Octavius should have allowed the vote on the Lexigraria
+[37:14 --> 37:15] to proceed.
+[37:15 --> 37:19] Never before had a tribune so obstinately blocked the clear will of the people.
+[37:20 --> 37:24] Surely the Senate would induce Octavius to withdraw his opposition.
+[37:26 --> 37:30] But rather than mediating a fair compromise, the assembled senators took the opportunity
+[37:30 --> 37:34] to heap abuse on Tiberius, just as they had after the Numantine affair.
+[37:35 --> 37:40] There is no record of who said what, but Appian reports that Tiberius was quote, upbraided
+[37:40 --> 37:41] by the rich.
+[37:41 --> 37:46] Not only did they fail to pressure Octavius into accepting a compromise, they actively
+[37:46 --> 37:48] joined in the attacks on Tiberius.
+[37:48 --> 37:54] Senators opposed to the Lexigraria no doubt railed against the contents of the bill, Tiberius's
+[37:54 --> 37:57] political tactics, and probably his personal character.
+[37:57 --> 38:03] The meeting ended with no resolution to the dilemma, and Tiberius himself angrier than ever.
+[38:05 --> 38:11] Unable to make headway by traditional measures, Tiberius introduced an unprecedented bill at
+[38:11 --> 38:12] the next scheduled assembly.
+[38:13 --> 38:18] Arguing that a tribune who defied the will of the people was no tribune at all, Tiberius
+[38:18 --> 38:21] moved that the assembly depose Octavius from office.
+[38:22 --> 38:26] There was no law that said a tribune could not be deposed from office, but the proposal
+[38:26 --> 38:27] broke with all mos maorum.
+[38:28 --> 38:33] No tribune had ever induced the assembly to depose a colleague, it was unheard of.
+[38:33 --> 38:38] But Tiberius had once again packed the assembly with his supporters, who now ominously surrounded
+[38:38 --> 38:42] the rostra and dared anyone to stand in their leader's way.
+[38:44 --> 38:49] Not wishing to spark a riot, Octavius settled on principled martyrdom rather than suicidal
+[38:49 --> 38:52] intransigence, and did not veto the deposition bill.
+[38:53 --> 38:57] The assembly was free to depose him if they wished, and Tiberius called on the voters
+[38:57 --> 38:58] to prepare to vote.
+[38:59 --> 39:04] For the purposes of voting, the Romans were divided into 35 tribes that would each receive
+[39:04 --> 39:05] one collective vote.
+[39:06 --> 39:10] Individual members of a tribe would file through the voting stalls and deposit their ballot
+[39:10 --> 39:11] in an urn.
+[39:11 --> 39:16] When they were finished, the ballots would be tallied, with the majority opinion determining
+[39:16 --> 39:18] the single collective vote of the whole tribe.
+[39:19 --> 39:24] Then the process would repeat for the next tribe, until a majority of tribes was reached.
+[39:25 --> 39:30] When the first tribe completed their balloting, the herald announced the result, one vote
+[39:30 --> 39:32] to depose.
+[39:33 --> 39:38] Since Tiberius understood that he was suborning an unprecedented attack on a fellow tribune,
+[39:38 --> 39:42] he halted the proceedings after this first vote, and begged Octavius to withdraw his
+[39:42 --> 39:43] veto.
+[39:43 --> 39:45] But Octavius refused.
+[39:46 --> 39:51] The next 16 tribes deposited their ballots, and every single one voted in favor of deposition.
+[39:52 --> 39:57] On the brink of victory, Tiberius again halted the proceedings, and gave Octavius one last
+[39:57 --> 39:58] chance to stand down.
+[39:59 --> 40:00] Octavius again refused.
+[40:01 --> 40:03] The 18th tribe then cast their ballots.
+[40:04 --> 40:07] When they were done, the herald announced that a majority had been reached.
+[40:08 --> 40:09] Octavius was deposed from office.
+[40:11 --> 40:15] Stripped of his tribunate, Octavius no longer enjoyed the protections of his office, and
+[40:15 --> 40:17] found himself menaced by the looming mob.
+[40:18 --> 40:21] He was only able to escape thanks to a group of friends who pushed their way through the
+[40:21 --> 40:24] crowd and escorted Octavius out of the assembly.
+[40:26 --> 40:30] The deposition of Octavius was a decisive turning point in the battle over the Lexa
+[40:30 --> 40:31] graria.
+[40:32 --> 40:36] Until Tiberius took this fateful step, he still enjoyed a great deal of support from
+[40:36 --> 40:38] his fellow tribunes and senatorial backers.
+[40:39 --> 40:44] But this reckless assault on a fellow tribune made Tiberius toxic to the naturally conservative
+[40:44 --> 40:44] elite.
+[40:45 --> 40:49] His father-in-law Claudius stuck with him, but many others who had supported the reform
+[40:49 --> 40:54] in theory were happy to lay the bill aside in the face of relentless opposition, let
+[40:54 --> 40:57] things cool off, and then try again a year or two later.
+[40:58 --> 41:00] But Tiberius could not afford to lose.
+[41:00 --> 41:05] His future career depended on passing the Lexa graria, so he was willing to go to any
+[41:05 --> 41:06] lengths to push it through.
+[41:07 --> 41:09] And for the moment, it had worked.
+[41:09 --> 41:11] Tiberius Gracchus won the battle.
+[41:12 --> 41:16] With Octavius out of the way, the assembly overwhelmingly passed the Lexa graria.
+[41:17 --> 41:19] The controversial land bill was now law.
+[41:23 --> 41:27] The Lexa graria called for a panel of three commissioners to survey the agor publicus,
+[41:28 --> 41:30] determine ownership, and parcel out land.
+[41:30 --> 41:35] To make sure the job was done properly, and to monopolize political credit for the distribution
+[41:35 --> 41:40] of land, Tiberius induced the assembly to elect Tiberius himself, his father-in-law
+[41:40 --> 41:46] Claudius, and his 21-year-old brother Gaius to serve as the first three land commissioners.
+[41:46 --> 41:47] So far, so good.
+[41:48 --> 41:53] But Tiberius soon learned that passing the law and enforcing its provisions were two
+[41:53 --> 41:54] very different things.
+[41:55 --> 42:00] Unable to prevent the bill from becoming law, conservatives in the Senate hit back with
+[42:00 --> 42:01] their own bag of tricks.
+[42:02 --> 42:08] This opposition was now led by the Pontifex maximus, Publius Scipio Nasica, who held from
+[42:08 --> 42:10] a more conservative branch of the Scipione clan.
+[42:12 --> 42:17] Nasica personally possessed far more than 500 ugera of agor publicus, so he engineered
+[42:17 --> 42:20] an insulting blow to the new land commission.
+[42:21 --> 42:26] It was the Senate's responsibility to appropriate funds to pay for the men and material necessary
+[42:26 --> 42:31] to complete the surveying work, which required a small army of secretaries, clerks, surveyors,
+[42:31 --> 42:33] architects, carts, and mules.
+[42:33 --> 42:40] At Nasica's urging, the Senate voted a pittance to cover merely the daily expenses of the
+[42:40 --> 42:40] commissioners themselves.
+[42:41 --> 42:46] This calculated stinginess left Tiberius the captain of a boat with no oars.
+[42:47 --> 42:51] It was infuriating, but there was nothing he could do about it.
+[42:52 --> 42:57] Shortly after being dealt this blow, one of Tiberius's closest supporters suddenly died,
+[42:57 --> 42:58] and foul play was suspected.
+[42:59 --> 43:04] The increasingly paranoid Tiberius already kept his family surrounded by an informal
+[43:04 --> 43:08] group of friends and clients who acted as a permanent bodyguard, and this protection
+[43:08 --> 43:10] now seemed more necessary than ever.
+[43:11 --> 43:15] Whether he was just playing to the crowd, or genuinely afraid for his life, Tiberius
+[43:15 --> 43:20] donned mourning garb and brought his children to the assembly where he, quote, begged the
+[43:20 --> 43:25] people to care for them and their mother, saying that he despaired of his own life.
+[43:26 --> 43:31] But then fate intervened to alter the course of Roman history, and as will so often be
+[43:31 --> 43:37] the case, domestic Roman politics were shaped by events far beyond the shores of Italy.
+[43:37 --> 43:43] In this case, the far-off event was the death of King Ataullus III of Pergamum.
+[43:44 --> 43:49] Pergamum was a Greek kingdom occupying what is today the Aegean coast of Turkey, and had
+[43:49 --> 43:51] been allies of Rome for close to a century.
+[43:52 --> 43:57] Since King Ataullus III had no sons and believed his death would lead to a bitter power struggle
+[43:57 --> 44:03] among his potential heirs, he willed his entire kingdom and royal treasury to the people of Rome.
+[44:05 --> 44:10] Rome learned about Ataullus' death shortly after the passage of the Lexigraria, and Tiberius
+[44:10 --> 44:13] himself was among the first to be told of the terms of the will.
+[44:14 --> 44:19] Tiberius' father had once served on a senatorial embassy that confirmed the alliance between
+[44:19 --> 44:24] Rome and Pergamum, and when the envoy bearing King Ataullus' will arrived in Rome, he
+[44:24 --> 44:26] stayed in the Grocae home.
+[44:27 --> 44:31] One step ahead of his enemies, Tiberius convened the assembly and announced that because Ataullus'
+[44:32 --> 44:38] will said, quote, let the Roman people be heir to my estate, that both the disposal
+[44:38 --> 44:43] of the royal treasury and subsequent administration of the new province would be handled by the
+[44:43 --> 44:43] assembly.
+[44:44 --> 44:48] Then Tiberius announced that a portion of King Ataullus' royal treasury would be used
+[44:48 --> 44:53] to fund the work of the Land Commission and even provide startup capital for the new owners.
+[44:54 --> 44:59] This bold gambit sent conservatives in the Senate through the roof.
+[45:00 --> 45:06] By every rite of custom, the Senate enjoyed full discretion over both state finances and
+[45:06 --> 45:06] foreign policy.
+[45:07 --> 45:12] Polybius, a close student of the Republican constitution, said the Senate, quote, has
+[45:12 --> 45:20] control of the treasury, all revenue and expenditure being regulated by it, and, quote, it also
+[45:20 --> 45:25] occupies itself with the dispatch of all embassies sent to countries outside of Italy for the
+[45:25 --> 45:26] purpose of settling differences.
+[45:27 --> 45:31] The people, he said, quote, have nothing to do with it.
+[45:31 --> 45:36] By laying claim to Pergamum, Tiberius was attempting to wrestle both away at the same
+[45:36 --> 45:36] time.
+[45:37 --> 45:42] The Senate met in a furious session to denounce Tiberius as a reckless demagogue aiming to
+[45:42 --> 45:45] make himself a tyrannical despot.
+[45:46 --> 45:51] Soon after, either to retain the legal immunity his office provided, or to protect the integrity
+[45:51 --> 45:56] of the Land Commission, or both, Tiberius made another shocking announcement.
+[45:56 --> 45:58] He was going to run for re-election.
+[46:00 --> 46:05] No law forbade a tribune from serving consecutive terms, but the overwhelming force of Mos Majorum
+[46:05 --> 46:07] made his bid unprecedented.
+[46:07 --> 46:12] To his political enemies, this was ironclad proof that Tiberius planned to make himself
+[46:12 --> 46:12] a tyrant.
+[46:13 --> 46:19] If he controlled the state finances, distribution of property, foreign policy, and claimed the
+[46:19 --> 46:25] right to permanent re-election, Tiberius Sempronius Gracchus would be the king of Rome in all
+[46:25 --> 46:26] but name.
+[46:29 --> 46:33] Unfortunately for Tiberius, his political strength was at an all-time low as the summer
+[46:33 --> 46:35] elections approached in 133.
+[46:36 --> 46:40] During the battles over the Lexa-Graria, he had been able to count on a solid block of
+[46:40 --> 46:42] voters to stand with him.
+[46:42 --> 46:47] Perhaps it was because Harvest was then in full swing that Tiberius had difficulty remobilizing
+[46:47 --> 46:49] his supporters for another contentious vote.
+[46:50 --> 46:56] Just as likely, however, is that conservatives now decided that Tiberius must be denied re-election
+[46:56 --> 46:57] at all cost.
+[46:58 --> 47:03] If they let it be known that they no longer opposed the Lexa-Graria, and land redistribution
+[47:03 --> 47:08] would go forward whether Tiberius was tribune or not, the urgency of the coming election
+[47:08 --> 47:11] would be undercut, and many voters would stay home.
+[47:13 --> 47:17] Without his usual base of supporters, Tiberius turned to the urban population for the votes
+[47:17 --> 47:18] he needed.
+[47:19 --> 47:24] Land redistribution had never been of much interest to the urban plebs, so Tiberius broadened
+[47:24 --> 47:29] his platform to include further limits on military service, the right to appeal the
+[47:29 --> 47:33] verdicts of judges, and barring senators from serving on juries.
+[47:34 --> 47:38] This last drew one of the great political battle lines of the late republic, though
+[47:38 --> 47:42] for the moment it was an empty suggestion not yet acted upon.
+[47:43 --> 47:48] Ever dramatic, Tiberius donned black mourning clothes in the lead-up to the election, and
+[47:48 --> 47:52] again went round with his children securing pledges from his supporters to protect them
+[47:52 --> 47:53] if something were to happen.
+[47:54 --> 47:59] The night before the final election, Tiberius slept surrounded by armed bodyguards.
+[48:00 --> 48:05] Early the next morning, Tiberius' supporters packed the area near the Temple of Jupiter
+[48:05 --> 48:08] on the Capitoline Hill to ensure they controlled the voting space.
+[48:09 --> 48:14] Accompanied by bodyguards, Tiberius himself arrived and was greeted by cheers and applause
+[48:14 --> 48:14] from the crowd.
+[48:15 --> 48:20] When opponents of Tiberius arrived, they found themselves unable to push through the pro-Grakken
+[48:20 --> 48:20] mob.
+[48:21 --> 48:25] Prevented from accessing the voting stalls, when the anti-Grakken voters heard the call
+[48:25 --> 48:29] for the tribes to begin voting, scuffles erupted on the edge of the crowd as opponents
+[48:29 --> 48:31] tried to push their way in.
+[48:31 --> 48:33] The fighting halted the voting.
+[48:35 --> 48:39] Meanwhile, the Senate convened for a session in the Temple of Pheidas, located just around
+[48:39 --> 48:40] the corner on the Capitoline.
+[48:41 --> 48:46] Rumors swirled that Tiberius had deposed all the other tribunes and was preparing to assume
+[48:46 --> 48:47] regal powers.
+[48:47 --> 48:52] The consul presiding over the Senate that morning was none other than Mucius Scavola,
+[48:52 --> 48:55] one of the authors of the Lex Agraria.
+[48:56 --> 49:01] Nasica and the hardliners in the Senate demanded Scavola do something, but the consul replied
+[49:01 --> 49:02] that quote,
+[49:02 --> 49:07] "...he would resort to no violence and would put no citizen to death without a trial.
+[49:07 --> 49:12] If however the people, under persuasion or compulsion from Tiberius, should vote anything
+[49:12 --> 49:17] that was unlawful, he would not regard this vote as binding."
+[49:18 --> 49:22] This was not good enough for the incensed Nasica, who rose in response and said quote,
+[49:22 --> 49:26] "...let those who would save our country follow me."
+[49:26 --> 49:30] Nasica then donned the formal attire of the Pontifex Maximus and put himself at the head
+[49:30 --> 49:33] of a mob of like-minded senators and clients.
+[49:33 --> 49:36] Together they marched to the Temple of Jupiter.
+[49:36 --> 49:41] As weapons were not permitted to be carried inside the pomerium, the sacred city limits,
+[49:41 --> 49:46] Nasica and his followers armed themselves mostly with table legs and other bludgeons.
+[49:47 --> 49:52] Though the coming attack was not premeditated, it was clear they were willing to use force
+[49:52 --> 49:56] to beat back the mob trying to make Tiberius Gracchus king of Rome.
+[49:58 --> 50:02] Meanwhile up on the rostra, Tiberius was warned about the approaching mob.
+[50:03 --> 50:08] Tiberius's men turned and readied for battle, but hesitated when they saw the mob included
+[50:08 --> 50:11] senators and was led by the Pontifex Maximus himself.
+[50:12 --> 50:17] Though the Gracchans started to give way, Nasica's men aggressively pushed and beat the crowd
+[50:17 --> 50:18] anyway.
+[50:19 --> 50:23] Once the shoving and hitting began, Tiberius's supporters naturally fought back, leading
+[50:23 --> 50:25] to a line of clashes throughout the assembly.
+[50:26 --> 50:30] The casualties in the resulting melee were entirely one-sided.
+[50:31 --> 50:35] Tiberius's people were unarmed and made easy targets for Nasica's gang.
+[50:35 --> 50:39] Trapped in the confined space in front of the Temple of Jupiter, many were trampled
+[50:39 --> 50:43] underfoot or fell to their deaths off the steep cliffs of the capital line.
+[50:43 --> 50:47] When the dust cleared, three hundred people lay dead.
+[50:49 --> 50:54] The principal target of the attack was of course Tiberius himself, and it didn't take
+[50:54 --> 50:57] long for the reactionary senators to locate their prey.
+[50:57 --> 51:02] Near the entrance of the Temple of Jupiter, Tiberius tripped over the body of a man who
+[51:02 --> 51:07] had already fallen, and before he could get up, he was set upon by a fellow tribune and
+[51:07 --> 51:07] a senator.
+[51:08 --> 51:14] Though he was a tribune and allegedly sacrosanct, these two men proceeded to beat Tiberius
+[51:14 --> 51:16] Gracchus to death with the legs of a bench.
+[51:17 --> 51:19] As the historian Appian records,
+[51:48 --> 51:54] It was one of the bloodiest days in Roman political history, though Plutarch overstates
+[51:54 --> 51:58] things when he says, quote, This is said to have been the first sedition at Rome since
+[51:58 --> 52:02] the abolition of royal power to end in bloodshed and the death of citizens.
+[52:02 --> 52:07] But at least in living memory, Roman politics had always been waged without resorting to
+[52:07 --> 52:07] violence.
+[52:08 --> 52:11] Now, hundreds of citizens lay dead on the Capitoline Hill.
+[52:12 --> 52:17] Whatever one felt about Tiberius Gracchus and his lex agraria, it must have been a shocking
+[52:17 --> 52:18] sight.
+[52:19 --> 52:24] The principal cause of the crisis of 133 was a dangerous game of mutual brinksmanship.
+[52:25 --> 52:31] Tiberius had bypassed the Senate, so Octavius vetoed the reading of the bill, so Tiberius
+[52:31 --> 52:32] shut down all public business.
+[52:33 --> 52:38] When Octavius remained intractable, Tiberius deposed him from office, so the Senate denied
+[52:38 --> 52:43] the land commission money to operate, so Tiberius seized on the bequeath from Pergamum and then
+[52:43 --> 52:44] ran for re-election.
+[52:45 --> 52:50] All of this culminated with Nassica leading an armed mob to kill 300 people.
+[52:51 --> 52:57] In just a few short months, a simple land redistribution bill had escalated to violent
+[52:57 --> 52:57] massacre.
+[52:59 --> 53:01] The Senate made no apologies for the attack.
+[53:02 --> 53:06] Tiberius and his dead supporters were denied traditional funeral arrangements and dumped
+[53:06 --> 53:08] en masse into the Tiber.
+[53:08 --> 53:11] This was, in itself, a shocking affront to tradition.
+[53:12 --> 53:14] The Gracchi were still a powerful noble family.
+[53:14 --> 53:18] Denying their son a proper burial was fraught with religious and social implications.
+[53:19 --> 53:24] But the story was now that Tiberius had been trying to make himself king, the most taboo
+[53:24 --> 53:29] of political offices, and the Senate determined that they could not afford a funeral becoming
+[53:29 --> 53:32] a venue for renewing violent revolution.
+[53:34 --> 53:39] With all the taboos of mos maorum now breaking down left and right, quote, this was the beginning
+[53:39 --> 53:43] in Rome of civil bloodshed and of the license of the sword.
+[53:45 --> 53:49] The definitive triumph of force was a lesson no one could unlearn.
+[53:49 --> 53:55] As the ancient Greek historian Valais Petrarchalus later observed, quote, precedents do not stop
+[53:55 --> 54:01] where they begin, but, however narrow the path upon which they enter, they create for
+[54:01 --> 54:05] themselves a highway, whereon they may wander with the utmost latitude.
+[54:06 --> 54:11] No one thinks a course is base for himself, which has proven profitable to others.
+[54:14 --> 54:17] Okay, so that's the end of chapter one.
+[54:17 --> 54:22] Then you would turn the page and go on to chapter two, the stepchildren of Rome.
+[54:23 --> 54:24] It's pretty good so far.
+[54:24 --> 54:25] You're hooked, right?
+[54:26 --> 54:31] Well, if you are, and would like to follow that new highway whereupon men like Gaius
+[54:31 --> 54:38] Gracchus, Gaius Marius, and Lucius Cornelius Sulla wandered with the utmost latitude, go
+[54:38 --> 54:45] to revolutionspodcast.com or the revampedhistoryofroam.com and find details about how to pre-order.
+[54:46 --> 54:50] Recording and sharing this chapter with you all has been a wonderful way to celebrate
+[54:50 --> 54:54] my 10th anniversary, back among old friends, back where it all started.
+[54:55 --> 55:00] Thanks to Public Affairs and Hashit for their amazing support, and hopefully when this book
+[55:00 --> 55:05] comes out it will be a success and keep me on track for 10 more years of podcasts and
+[55:05 --> 55:09] books and whatever other new and interesting opportunities come along.
+[55:10 --> 55:16] A few have popped up, some of them are very interesting, and I think you will enjoy them all.

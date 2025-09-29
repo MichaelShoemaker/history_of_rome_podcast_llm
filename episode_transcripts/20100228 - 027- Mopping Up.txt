@@ -1,0 +1,301 @@
+# 20100228 - 027- Mopping Up
+# Detected language: en
+# Duration: 868.08 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to The History of Rome, Episode 27, Mopping Up.
+[00:12 --> 00:17] For the last hundred years, Rome had been consumed by two major theaters of war, North
+[00:17 --> 00:18] Africa and Greece.
+[00:19 --> 00:24] The struggles against Carthage and Macedon had become intergenerational affairs, and
+[00:24 --> 00:28] now the grandsons and great-grandsons of the men who had initially declared the
+[00:28 --> 00:31] wars, donned their armor to finally finish the job.
+[00:33 --> 00:38] The years just after 150 BC would mark the end of resistance on both fronts.
+[00:39 --> 00:42] Not that the final act played out the same in both theaters, however.
+[00:43 --> 00:48] In Greece, a pretender to the Macedonian throne would openly court conflict, whereas
+[00:48 --> 00:52] in North Africa, the Carthaginians did everything they could to prevent another
+[00:52 --> 00:53] war with Rome.
+[00:53 --> 00:58] In both cases, though, the results would be the same, and in the watershed year of
+[00:58 --> 01:04] 146 BC, both Carthage and the great Greek city of Corinth would burn to the ground
+[01:04 --> 01:06] after being lit by Roman torches.
+[01:07 --> 01:09] There would be no more mistaking who ruled the Mediterranean.
+[01:10 --> 01:13] In that year, the Roman Empire was truly born.
+[01:15 --> 01:20] In the years leading up to 146, Greece, the dominant focus of Rome for the last
+[01:20 --> 01:24] 150 years, still existed in a state of relative independence.
+[01:24 --> 01:28] The Romans did not wish to garrison the whole country, and hoped that the example
+[01:28 --> 01:33] made of a pyrus would instill in the Greeks a self-control that would leave the Romans
+[01:33 --> 01:35] free from military costs in the East.
+[01:36 --> 01:37] It was not to be, however.
+[01:37 --> 01:42] The dream of Greek freedom burnt as bright as ever, forcing the Romans to conclude
+[01:42 --> 01:44] that there could be no half-measures in Greece.
+[01:46 --> 01:51] Trouble began in 150 BC when a pretender to the Macedonian throne named Andreschus
+[01:52 --> 01:56] appeared with the intention of reuniting Macedon and throwing the Romans out.
+[01:57 --> 02:01] He claimed to be the son of Vanquished Perseus and the grandson of Philip V,
+[02:02 --> 02:03] the last great king of Macedon.
+[02:04 --> 02:08] Without a strong Roman military presence in Greece, Andreschus followed the path
+[02:08 --> 02:12] of his alleged father and started to push the boundaries of Roman patience.
+[02:13 --> 02:17] At the end of the Third Macedonian War, the country had been divided into four
+[02:17 --> 02:21] republics, economically and politically cut off from one another.
+[02:22 --> 02:26] Andreschus worked to secretly reunite the territories and began forming an
+[02:26 --> 02:29] army to deal with inevitable Roman pushback.
+[02:29 --> 02:33] However, with efforts in his home territory moving slowly, Andreschus
+[02:33 --> 02:37] took what soldiers he had and marched south, conquering Thessaly, and
+[02:37 --> 02:41] then returned to Macedon with some momentum, which he was able to use to
+[02:41 --> 02:43] reunite the four republics under his banner.
+[02:45 --> 02:49] Rome did not look kindly on this and sent a force to deal with the revolt.
+[02:49 --> 02:52] But the Romans underestimated the resistance they would face, and the
+[02:52 --> 02:55] small expeditionary army was repelled by the Macedonians.
+[02:56 --> 02:59] Andreschus was starting to feel pretty good about himself, but his
+[02:59 --> 03:03] success was made possible only by the disinterest of the Roman Senate
+[03:03 --> 03:04] and an ineffectual response.
+[03:05 --> 03:09] Reports of the Macedonian victory changed all that, and a new army was
+[03:09 --> 03:09] sent.
+[03:09 --> 03:13] This one at full strength and under the command of a brilliant general
+[03:13 --> 03:14] named Quintus Metellus.
+[03:15 --> 03:19] That he would soon be called Quintus Metellus Macedonicus should let
+[03:19 --> 03:22] you know that Andreschus' luck was not long for the world.
+[03:24 --> 03:27] Metellus marched into Macedon and crushed Andreschus and the
+[03:27 --> 03:29] Macedonian army without much effort.
+[03:29 --> 03:32] Whatever steam the Macedonians had been building proved to be just
+[03:32 --> 03:36] that, a lot of hot air, and they proved not even close to a match
+[03:36 --> 03:38] for a truly committed Roman army.
+[03:40 --> 03:43] The pretender was driven off and captured, sharing the fate of his
+[03:43 --> 03:46] alleged father, and paraded through Rome in Metellus' triumph.
+[03:47 --> 03:50] The Senate finally wised up to the fact that their hands-off
+[03:50 --> 03:54] oversight of Macedon was an unsustainable policy, and so
+[03:54 --> 03:57] Macedon, along with Epirus, were incorporated into the Roman
+[03:57 --> 04:01] empire as official provinces, the first extension of Roman
+[04:01 --> 04:02] sovereignty into Greece.
+[04:04 --> 04:08] Not long after the Macedonians were pacified, another flare of
+[04:08 --> 04:12] Greek defiance was fired off, this time from Corinth, the
+[04:12 --> 04:14] leading city of the Achaean League.
+[04:15 --> 04:18] Metellus was recalled to Rome to receive his triumph, and
+[04:18 --> 04:21] in his place, the consul Lucius Mumius was sent to
+[04:21 --> 04:22] command the Greek forces.
+[04:23 --> 04:26] That he would soon be called Lucius Mumius Achaeus should
+[04:26 --> 04:29] let you know that Corinthian luck was not long for this
+[04:29 --> 04:30] world either.
+[04:30 --> 04:34] In an absolutely brutal display of power, Corinth was
+[04:34 --> 04:36] besieged, overcome, and burned to the ground.
+[04:37 --> 04:39] The men were slaughtered, and the women and children
+[04:39 --> 04:40] sold into slavery.
+[04:41 --> 04:44] The raising of Corinth marked the total ascension of Roman
+[04:44 --> 04:45] power in Greece.
+[04:46 --> 04:49] In a few years, the territory would join Macedonia and
+[04:49 --> 04:51] Epirus as full Roman provinces.
+[04:52 --> 04:54] Greek freedom was a dead issue.
+[04:56 --> 04:59] Running concurrently to the events in Greece, and one of
+[04:59 --> 05:01] the principal reasons for the initial indifferent
+[05:01 --> 05:05] response to Macedonian agitation was the last act of
+[05:05 --> 05:06] the great struggle with Carthage.
+[05:07 --> 05:10] Unlike the Greeks, however, the Carthaginians were simply
+[05:10 --> 05:12] minding their own business when the Roman Senate
+[05:12 --> 05:14] decided Carthage must be destroyed.
+[05:16 --> 05:19] After the Battle of Zama, the war party in Carthage
+[05:19 --> 05:22] was ousted from power, exemplified by the exile of
+[05:22 --> 05:22] Hannibal.
+[05:23 --> 05:26] The Carthaginians at heart were merchants and traders.
+[05:26 --> 05:29] Prosecuting endless wars of empire was not really in
+[05:29 --> 05:30] their genetic makeup.
+[05:31 --> 05:34] The period after the Second Punic War was for the
+[05:34 --> 05:37] Carthaginians a return to their true calling, making
+[05:37 --> 05:39] lots and lots of money.
+[05:40 --> 05:43] Forced by Rome to dissolve its army, Carthage found its
+[05:43 --> 05:45] ledgers now free of an enormous yearly debit.
+[05:46 --> 05:48] The money was invested in more productive endeavors,
+[05:49 --> 05:51] endeavors that actually produced a monetary return.
+[05:52 --> 05:54] Soon Carthage was riding high, economically at
+[05:55 --> 05:57] which filled the Romans with a mixture of envy and
+[06:00 --> 06:02] Unwilling to relieve the Carthaginians of their debt
+[06:02 --> 06:05] and the subservience that came with it, the Romans
+[06:05 --> 06:08] rejected offers for the war indemnity to be paid in
+[06:08 --> 06:11] one lump sum, a sum that the Carthaginians could
+[06:11 --> 06:12] now easily afford.
+[06:13 --> 06:15] The Carthaginian Senate kept trying to bribe the
+[06:15 --> 06:17] Romans with free shipments of grain, but Rome
+[06:17 --> 06:19] insisted on paying for all goods that arrived from
+[06:19 --> 06:22] Carthage so as not to appear in any way indebted
+[06:22 --> 06:23] to the Carthaginians.
+[06:25 --> 06:28] During these years, the dominant political power in
+[06:28 --> 06:31] North Africa had become Numidia, led by the loyal
+[06:31 --> 06:34] Roman ally, Massinissa, who had been with them
+[06:34 --> 06:36] since the final days of the Second Punic War.
+[06:37 --> 06:40] In the decades after Zama, Massinissa had led
+[06:40 --> 06:42] the Numidians into Carthaginian territory
+[06:42 --> 06:45] numerous times and had peeled off more and more
+[06:45 --> 06:46] land with each invasion.
+[06:47 --> 06:49] The Romans were officially neutral, but obviously
+[06:49 --> 06:51] they had no problem with the Numidians stealing
+[06:51 --> 06:52] Carthaginian land.
+[06:53 --> 06:57] By the 150s BC, however, Carthaginian appeasement
+[06:57 --> 07:00] of Roman power had once again become a hot button issue.
+[07:01 --> 07:03] The Carthaginians were supposed to have retained
+[07:03 --> 07:05] their North African holdings under the terms
+[07:05 --> 07:08] of the peace treaty, and Rome was supposed to act
+[07:08 --> 07:09] as a protector of those terms.
+[07:10 --> 07:12] But clearly Rome was allowing the Numidians
+[07:12 --> 07:14] to run amok and had no intention of looking
+[07:14 --> 07:16] out for Carthaginian interests.
+[07:17 --> 07:19] So the peace party in Carthage was ousted in
+[07:19 --> 07:21] favor of a more aggressive faction.
+[07:22 --> 07:25] The new party did not advocate war with Rome.
+[07:25 --> 07:27] They merely sought to raise an army to defend
+[07:27 --> 07:30] Carthage, which was, technically, a violation
+[07:30 --> 07:33] of the peace terms, but Rome had already violated
+[07:33 --> 07:36] the terms by not protecting Carthage from attack.
+[07:37 --> 07:39] Plus, the last installments of the indemnity
+[07:39 --> 07:41] were sent to Rome, and many in Carthage
+[07:41 --> 07:43] believed this released them of any further
+[07:43 --> 07:45] obligations to Rome.
+[07:47 --> 07:50] In 151 BC, the Numidians crossed once again
+[07:50 --> 07:53] into Carthaginian territory and laid siege
+[07:53 --> 07:54] to a border city.
+[07:55 --> 07:57] Carthage raised an army of 25,000 to defend
+[07:57 --> 07:58] the city and lift the siege.
+[08:00 --> 08:02] After 50 years of peace, however, it could
+[08:02 --> 08:05] have been 500,000, and the result probably
+[08:05 --> 08:06] would have been the same.
+[08:07 --> 08:10] The 25,000 green recruits were easily crushed
+[08:10 --> 08:12] by the seasoned Numidians, and for their trouble,
+[08:13 --> 08:15] all the Carthaginians really did was give
+[08:15 --> 08:17] the Romans an excuse to destroy them
+[08:17 --> 08:18] once and for all.
+[08:19 --> 08:21] When word came that a Carthaginian army
+[08:21 --> 08:24] had taken the field, Cato the Elder and his
+[08:24 --> 08:26] cohorts persuaded the Senate that Carthage
+[08:26 --> 08:28] was once again on the rise and would remain
+[08:28 --> 08:30] forever a threat to Rome if it was not
+[08:30 --> 08:31] utterly destroyed.
+[08:32 --> 08:35] The Senate agreed, and in 149 BC ordered
+[08:35 --> 08:38] a massive invasion for 80,000 to North Africa.
+[08:40 --> 08:42] When they arrived, the Carthaginians
+[08:42 --> 08:44] attempted at once to come to terms,
+[08:44 --> 08:46] but Roman demands were too harsh.
+[08:46 --> 08:48] They demanded that the Carthaginians
+[08:48 --> 08:51] abandon their city and move no less than 10 miles inland.
+[08:52 --> 08:54] Flabbergasted by this insane demand,
+[08:54 --> 08:56] the Carthaginian envoys rejected the terms.
+[08:57 --> 09:00] Once again, just as in the first Punic War,
+[09:00 --> 09:03] Carthaginian envoys had failed to give up.
+[09:03 --> 09:05] This time, though, Xanthippus would not
+[09:05 --> 09:07] be around to bail them out.
+[09:08 --> 09:11] The Romans were all set to take the city by force,
+[09:11 --> 09:13] but disease ripped through the lines,
+[09:13 --> 09:14] and the legions became so weakened
+[09:14 --> 09:17] that the Romans had to settle for a siege.
+[09:18 --> 09:21] Two years passed in inconclusive misery for both sides
+[09:21 --> 09:24] when the Senate realized the mistake they had made.
+[09:25 --> 09:27] Clearly, the fact that the only Roman general who
+[09:27 --> 09:30] had ever been successful in Africa was a Scipio
+[09:30 --> 09:32] meant that they needed to appoint a Scipio
+[09:32 --> 09:33] to head the legions.
+[09:34 --> 09:37] So they elected as consul Scipio Aemilianus,
+[09:37 --> 09:39] by blood the son of Paulus, who
+[09:39 --> 09:41] had defeated Perseus in the Third Macedonian War,
+[09:41 --> 09:45] but by adoption the grandson of Scipio Africanus.
+[09:47 --> 09:49] Scipio Aemilianus only further cemented
+[09:49 --> 09:52] the Roman superstition that only Scipio could
+[09:52 --> 09:53] emerge victorious from Africa.
+[09:55 --> 09:57] Arriving near the end of 147 BC,
+[09:57 --> 09:59] he immediately blockaded the harbor
+[09:59 --> 10:00] and laid waste to the countryside.
+[10:01 --> 10:04] By the time the spring of 146 BC rolled around,
+[10:05 --> 10:07] the Carthaginians were at their wits end.
+[10:07 --> 10:10] But again, Roman terms began and ended
+[10:10 --> 10:11] with the abandonment of the city,
+[10:11 --> 10:14] and so, despite their desperate situation,
+[10:14 --> 10:16] the Carthaginians continued to resist.
+[10:17 --> 10:19] Finally, Scipio ordered a full attack
+[10:19 --> 10:21] and the walls were breached.
+[10:22 --> 10:24] What followed was six days of intense street fighting
+[10:24 --> 10:26] as the Carthaginians forced the Romans
+[10:26 --> 10:28] to fight for every block.
+[10:29 --> 10:31] The overmatched Carthaginians were finally pushed back
+[10:31 --> 10:33] into their citadel, and the Romans ran loose
+[10:33 --> 10:34] in the city.
+[10:35 --> 10:39] By this point, of the 700,000 citizens of Carthage,
+[10:39 --> 10:41] only about 50,000 remained.
+[10:42 --> 10:45] Everyone else was either dead and slaved or had fled.
+[10:46 --> 10:49] The great city was in the midst of its death throes.
+[10:49 --> 10:51] Finally, the citadel was breached
+[10:51 --> 10:53] and the last of the Carthaginians
+[10:53 --> 10:54] were captured or killed.
+[10:56 --> 10:57] Against his own wishes,
+[10:57 --> 10:59] but acting at the Senate's instructions,
+[10:59 --> 11:01] Scipio set fire to the city,
+[11:01 --> 11:04] which, according to legend, took 10 days to burn.
+[11:05 --> 11:07] Survivors, of whom there were too many
+[11:07 --> 11:08] to take back to Rome as slaves,
+[11:08 --> 11:10] were forced to live with the mandate
+[11:10 --> 11:12] they had fought so hard against.
+[11:12 --> 11:14] Carthage was not to be rebuilt
+[11:14 --> 11:15] and no settlements were allowed
+[11:15 --> 11:17] within 10 miles of the coast.
+[11:18 --> 11:20] The days of life at the vital hub
+[11:20 --> 11:22] of Mediterranean trade was at an end.
+[11:23 --> 11:24] It was a life of meager subsistence
+[11:24 --> 11:26] for the descendants of a power
+[11:26 --> 11:27] that had once upon a time
+[11:27 --> 11:29] nearly destroyed the Roman Empire.
+[11:31 --> 11:32] According to further legend,
+[11:32 --> 11:34] the Romans then plowed the fields around Carthage
+[11:34 --> 11:37] with salt so that nothing could ever grow there again.
+[11:38 --> 11:40] The story only emerged in later years,
+[11:40 --> 11:42] so it is doubtful that it actually happened,
+[11:43 --> 11:45] but the account gained widespread acceptance
+[11:45 --> 11:48] and served as a cautionary tale for future generations.
+[11:49 --> 11:50] Along with the burning of Corinth,
+[11:51 --> 11:53] the destruction of Carthage was forever offered
+[11:53 --> 11:56] as a possible scenario to people who resisted Rome.
+[11:56 --> 11:58] These are not idle threats
+[11:58 --> 11:59] the Romans would remind their enemies.
+[12:00 --> 12:01] This is our history.
+[12:01 --> 12:03] Now, where would you like us
+[12:03 --> 12:04] to stick that garrison again?
+[12:06 --> 12:09] With overseas provinces sprouting up all over the place,
+[12:10 --> 12:12] in Sicily, in Spain, Africa, and Greece,
+[12:13 --> 12:15] the Roman Empire as we think of it
+[12:15 --> 12:17] was beginning to form into its recognizable shape.
+[12:19 --> 12:21] With Carthage destroyed and Greece pacified,
+[12:21 --> 12:23] there were no great powers left
+[12:23 --> 12:24] to really challenge Rome's dominance.
+[12:25 --> 12:27] Tribes in Spain would harass the Romans endlessly
+[12:27 --> 12:30] and Gallic horrors remained a constant threat,
+[12:30 --> 12:31] but for the most part,
+[12:32 --> 12:33] the hard part of winning the empire
+[12:33 --> 12:34] had been completed.
+[12:35 --> 12:39] It is at this point, and I like to mark 146 BC
+[12:39 --> 12:40] with a mental pushpin,
+[12:40 --> 12:43] that the Romans lost a critical unifying force,
+[12:43 --> 12:44] a worthy opponent.
+[12:46 --> 12:47] From this point forward,
+[12:47 --> 12:50] Roman competitiveness and ambition began to turn inward
+[12:51 --> 12:52] and many of its leading citizens
+[12:52 --> 12:54] began to look for enemies to fight
+[12:54 --> 12:56] not outside of the empire, but within it.
+[12:57 --> 12:59] In the years after 146,
+[13:00 --> 13:02] Rome would be consumed with internal strife
+[13:02 --> 13:05] from the class conflicts egged on by the Gracchi brothers
+[13:06 --> 13:08] to the revolt of the Italian allies
+[13:08 --> 13:10] to the civil war between Marius and Sulis
+[13:10 --> 13:12] and then the greater civil war
+[13:12 --> 13:13] between the Caesars and the Senate.
+[13:15 --> 13:17] Roman history would return to the Italian peninsula
+[13:17 --> 13:18] after years abroad.
+[13:20 --> 13:22] There will of course be excursions back to Africa
+[13:22 --> 13:24] and into Gaul with Julius Caesar,
+[13:25 --> 13:27] but the long period of a unified Roman people
+[13:27 --> 13:30] holding fast against foreign threats is in an end.
+[13:31 --> 13:33] Next week, we will return to the city
+[13:33 --> 13:35] and take stock of the situation.
+[13:36 --> 13:37] How were the plebeians faring?
+[13:38 --> 13:40] How much land did the great landowners now own?
+[13:40 --> 13:43] Was the Senate a representative body at all anymore?
+[13:43 --> 13:45] Or had it become a law unto itself?
+[13:46 --> 13:48] Rome was now rich and powerful.
+[13:48 --> 13:50] To what lengths would men go for a piece of it?
+[13:51 --> 13:53] What was the result of the massive influx
+[13:53 --> 13:55] of slave labor into Italy?
+[13:56 --> 13:58] By the way, if you answered a best supporting actor
+[13:58 --> 14:01] for Peter Ustinov to that last one, you're right.
+[14:02 --> 14:03] So strap into your seats.
+[14:04 --> 14:06] The next 100 years are going to be quite a rollercoaster.

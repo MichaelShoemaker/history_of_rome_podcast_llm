@@ -1,0 +1,353 @@
+# 20111024 - 156- Jockeying for Position
+# Detected language: en
+# Duration: 1666.56 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:11] As you know, Audible is the internet's leading provider of audio entertainment with over 100,000 titles to choose from.
+[00:11 --> 00:16] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:16 --> 00:21] That again, audiblepodcast.com forward slash Rome.
+[00:21 --> 00:27] By going to that address, you qualify for a free book download when you sign up for a 14-day trial membership.
+[00:27 --> 00:32] There is no obligation to continue the service and you can cancel anytime and keep the free book download.
+[00:32 --> 00:39] You can also keep going with one of the monthly subscription options and get great deals on all future audiobook purchases.
+[00:39 --> 00:49] This week, I am going to go with a recommendation from listener Garrett, because I just so happen to be watching a lot of Monty Python at the moment.
+[00:49 --> 00:56] Apparently, there is an abridged version of Dante's Inferno, read by none other than Mr. John Cleese,
+[00:56 --> 01:01] who, if you ask me, should have been made Sir John Cleese years ago.
+[01:01 --> 01:06] How has that not happened yet? I mean, it's in the works, right?
+[01:06 --> 01:13] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:13 --> 01:21] Hello and welcome to the history of Rome.
+[01:22 --> 01:36] When the Emperor Gratian was overthrown and murdered by the General Magnus Maximus in 383 AD,
+[01:36 --> 01:44] a game of high-stakes political chess kicked off that wound up lasting for five years before checkmate was finally declared.
+[01:45 --> 01:55] Along the way, the three imperial courts would use every means at their disposal to gain the upper hand, be they diplomatic, religious, or martial.
+[01:55 --> 02:02] Those of you who have read ahead know how the game turns out, but the five-year quasi-partnership between Maximus,
+[02:02 --> 02:11] Valentinian II, and Theodosius is a fascinating little period that wound up having profound consequences for the history of the Western world,
+[02:11 --> 02:17] especially in the always tricky field of church-state relations.
+[02:20 --> 02:27] Following the execution of Gratian, which was ordered by overzealous subordinates, I swear,
+[02:27 --> 02:33] Maximus advanced on Trier, took the capital without a fight, and set up an imperial court for himself.
+[02:33 --> 02:39] With a boy emperor reigning in Milan and a likely ally in Theodosius reigning in Constantinople,
+[02:39 --> 02:45] Maximus had good reason to believe that 80% of his work was already done.
+[02:45 --> 02:54] All he had to do now was co-opt the weak court of Valentinian II and request official recognition from the strong court of Theodosius,
+[02:54 --> 02:59] and he would be the unchallenged ruler of the Western Empire, QED.
+[02:59 --> 03:07] So, rather than press on with a military offensive, Maximus chose to instead launch a diplomatic offensive.
+[03:07 --> 03:11] He would later consider this to be his greatest mistake.
+[03:13 --> 03:22] When the court in Milan got word of Gratian's death, they decided to send Bishop Ambrose north to Trier to have a chat with Maximus and field the general out.
+[03:22 --> 03:28] They knew that as a devout Nicene, Maximus would be willing to listen to what the bishop had to say,
+[03:28 --> 03:33] rather than just dismissing him out of hand like he might some random official.
+[03:34 --> 03:41] And the court of Milan needed Maximus to listen to Ambrose, and then keep listening, and then keep listening,
+[03:41 --> 03:47] long enough to allow them to blockade the Alpine passes into Italy.
+[03:47 --> 03:53] Ambrose played his part to perfection and stalled for time like a seasoned diplomat.
+[03:53 --> 04:01] At first, Maximus came out strong and demanded that young Valentinian come north at once, as a son comes to his father.
+[04:01 --> 04:08] Believing that the court of Milan had no backbone and that the mere threat of invasion would make them all wilt.
+[04:08 --> 04:15] Ambrose stalled by saying that it was crazy to expect Valentinian and his mother Justina to make such a journey with winter settling in,
+[04:15 --> 04:19] but maybe it would be possible in the spring.
+[04:19 --> 04:25] When Maximus pressed, Ambrose told the general that he did not actually have a mandate to make guarantees of that sort,
+[04:25 --> 04:29] and that he would have to go back to Milan to receive further instructions.
+[04:29 --> 04:34] Maximus would have to wait a little while for a formal answer to his demands.
+[04:34 --> 04:38] Not too much longer, just please be patient.
+[04:38 --> 04:43] Time successfully bought, Valentinian's generals were able to position troops in the passes,
+[04:43 --> 04:49] and by the time Maximus realized that the whole thing had been a giant stall, it was too late.
+[04:49 --> 04:54] He had critically misjudged the loyalty of the Milan court to the house of Valentinian,
+[04:54 --> 05:02] and any chance he had of a swift and total victory was now gone.
+[05:02 --> 05:09] Maximus had reason to expect better treatment from Theodosius, but again he was let down.
+[05:09 --> 05:13] The general's envoys arrived in Constantinople and basically said,
+[05:13 --> 05:18] Gratian is dead, Maximus is in charge, please sign here.
+[05:18 --> 05:24] But when these envoys returned to Trier, they did not have with them the specifics of a power-sharing agreement
+[05:24 --> 05:30] between Theodosius and Maximus, so much as they had, well, nothing at all.
+[05:30 --> 05:34] Theodosius just ignored their demands.
+[05:34 --> 05:41] Not even bothering with a response, the eastern Augustus had decided to just sort of pretend like the whole thing hadn't happened.
+[05:41 --> 05:45] This left Maximus thoroughly vexed.
+[05:45 --> 05:50] The imperial officials down in Italy weren't supposed to be closing ranks around a 12-year-old,
+[05:50 --> 05:56] and his old friend Theodosius wasn't supposed to be giving him the cold shoulder.
+[05:56 --> 06:00] What the hell was going on around here?
+[06:00 --> 06:06] Luckily for Maximus, though, everyone else was pretty much as vexed as he was.
+[06:06 --> 06:12] All three imperial power centers had enough troops to fend off an attack from one of the others,
+[06:12 --> 06:17] but none of the three could muster a force large enough to overrun one of the others.
+[06:17 --> 06:23] So Theodosius could refuse to recognize Maximus, but he couldn't yet march into Gaul and displace him.
+[06:23 --> 06:30] Maximus could hold the western provinces, but he couldn't yet push his way into Italy without a heavy fight.
+[06:30 --> 06:36] Valentinian could hold the peninsula, but he couldn't do much more beyond that.
+[06:36 --> 06:39] So a stalemate set in.
+[06:39 --> 06:43] Sure, in the spring of 384, Theodosius marched a force toward Illyria,
+[06:43 --> 06:49] but that was mostly a PR stunt to show that he was doing something about the problem of Maximus.
+[06:49 --> 06:55] Clearly, though, he never had any intention of crossing the mountains.
+[06:55 --> 06:59] But that didn't mean that Theodosius was actually doing nothing.
+[06:59 --> 07:04] In fact, as the emperor headed west for his not-very-serious photo-op,
+[07:04 --> 07:10] an embassy was headed east on a very serious mission to convince the Sassanids to remain peaceful
+[07:10 --> 07:16] so Theodosius could turn his full attention to Maximus without worrying about his rear.
+[07:16 --> 07:18] The leader of this embassy?
+[07:18 --> 07:24] A senior staff officer of Vandal origin, who we will all shortly come to know and love.
+[07:24 --> 07:28] Stillico.
+[07:29 --> 07:35] Meanwhile, back in Italy, Valentinian II's generals were similarly engaged in PR stunts
+[07:35 --> 07:40] backed by serious behind-the-scenes diplomacy.
+[07:40 --> 07:44] The Milan court decided that some Alamani near the border with Raetia
+[07:44 --> 07:47] posed too great a threat to the empire to be ignored,
+[07:47 --> 07:52] and so an army was sent into the mountainous province to conduct exercises
+[07:52 --> 07:56] and make sure the Germans didn't get any funny ideas.
+[07:56 --> 08:02] But up in Trier, a Maximus took those exercises for what he believed they were,
+[08:02 --> 08:05] which was a show of force directed at him,
+[08:05 --> 08:10] and he sent envoys down to Milan protesting that these troops were coming dangerously close
+[08:10 --> 08:14] to violating what he now considered to be his airspace.
+[08:14 --> 08:16] To which Valentinian's court replied,
+[08:16 --> 08:21] hey, those Germans threatened both of us, so quit being so paranoid.
+[08:21 --> 08:27] This back and forth wound up opening the door for a normalization of relations.
+[08:27 --> 08:31] Valentinian in the end agreed to stay out of Gaul, Britain, and Spain,
+[08:31 --> 08:35] while Maximus agreed to leave Italy alone for now,
+[08:35 --> 08:38] and they both agreed to keep an eye on the frontier
+[08:38 --> 08:43] and defend the empire from mutual barbarian enemies.
+[08:43 --> 08:47] It is tough to say through all of this what degree of recognition
+[08:47 --> 08:50] Maximus managed to win for himself,
+[08:50 --> 08:55] but from here on out he does seem to have moved beyond unrecognized usurper
+[08:55 --> 08:59] and into a more official Augustus status.
+[08:59 --> 09:05] But whether this was de facto or du jour or whether or not Theodosius recognized it
+[09:05 --> 09:10] remains, at least to me, an open question.
+[09:10 --> 09:16] Whichever it was, the three sides made no aggressive moves over the next four years,
+[09:16 --> 09:22] and everyone seemed temporarily satisfied with the power sharing agreement.
+[09:22 --> 09:25] But that did not mean that they stopped trying to position themselves
+[09:25 --> 09:28] for an inevitable showdown.
+[09:28 --> 09:33] One of the key flanks everyone was trying to shore up was the religious flank,
+[09:33 --> 09:40] with Ambrose of Milan once again right smack dab in the middle of everything.
+[09:40 --> 09:44] At first, it seems a little weird that the emperors would choose this
+[09:44 --> 09:50] of all moments to begin taking extreme religious positions that undermine social stability,
+[09:50 --> 09:57] but when viewed in the larger political context, it does begin to make some sense.
+[09:57 --> 10:03] Both Maximus and Theodosius knew that Ambrose was a huge power broker in Milan,
+[10:03 --> 10:08] so much of a power broker that he could be seen as something of a kingmaker.
+[10:08 --> 10:13] With the bishop's support, Maximus might just be able to carry off the West.
+[10:13 --> 10:19] With the bishop's support, Theodosius might just be able to intertwine the Valentinian and Theodosian families
+[10:19 --> 10:22] to the point that they became indistinguishable,
+[10:22 --> 10:27] which meant that Theodosius' sons would be in line to inherit the empire.
+[10:27 --> 10:33] So, playing to an audience of one, Maximus and Theodosius began to go back and forth in a game
+[10:33 --> 10:41] of who could be the stronger, more radical defender of the Nicene Creed.
+[10:41 --> 10:49] Of course, in virtue of having been in power for five years already, Theodosius had a head start.
+[10:49 --> 10:53] I didn't want to get sidetracked into this when discussing the Gothic War,
+[10:53 --> 10:57] but in the middle of the conflict, Theodosius decided to stake out a position
+[10:57 --> 11:02] in the Great Christian War between the Arian and the Nicene.
+[11:02 --> 11:07] By this point in history, the battle lines between the two sides had been drawn,
+[11:07 --> 11:13] very roughly drawn, between the Latin-speaking West and the Greek-speaking East.
+[11:13 --> 11:22] In the West, a Nicene majority lorded over an Arian minority, while in the East, these roles were reversed.
+[11:22 --> 11:29] This meant that when he came to power, Theodosius, born in Spain and a devout Nicene,
+[11:29 --> 11:35] found himself ruling over the half of the empire that believed the opposite of what he believed.
+[11:35 --> 11:40] So what did he do? Did he keep religion from becoming a divisive issue
+[11:40 --> 11:45] by downplaying the doctrinal differences between himself and his subjects?
+[11:45 --> 11:52] Well, you'd think so, but instead he did the other thing.
+[11:52 --> 11:58] In early 380, with the Gothic War raging all around him, Theodosius became sick.
+[11:58 --> 12:03] So sick that he feared for his life and requested a formal baptism.
+[12:03 --> 12:06] Following this baptism, the emperor suddenly recovered,
+[12:06 --> 12:11] and it was hard not to draw a connection between the two events.
+[12:11 --> 12:16] Fueled by a religious certainty that now bordered on fanaticism,
+[12:16 --> 12:20] when Theodosius entered Constantinople for the first time later in the year,
+[12:20 --> 12:25] one of the first things he did was depose the Arian bishop of the capital city.
+[12:25 --> 12:32] He then promulgated a famous edict, stating flatly that the emperor considered Nicene Christianity
+[12:32 --> 12:35] to be the only form of Christianity.
+[12:35 --> 12:42] Everything else would be considered false and heretical and be against the law.
+[12:42 --> 12:47] Through the end of the war with the Goths and into the period of stalemate with Maximus,
+[12:47 --> 12:51] Theodosius endorsed and then backed a systematic program
+[12:51 --> 12:57] to remove Arian clergymen from church offices and replace them with Nicenes.
+[12:57 --> 13:02] This, as you can imagine, did not go over too well with the locals.
+[13:02 --> 13:06] But for the time being, there was very little they could do.
+[13:06 --> 13:11] It was one thing to fight the Nicenes when they were just a collection of rival priests.
+[13:11 --> 13:14] It was quite another to fight them when they were backed by imperial agents,
+[13:14 --> 13:21] who had, you know, like swords and stuff.
+[13:21 --> 13:26] Oddly enough though, Theodosius' religious zeal did not yet extend to paganism,
+[13:26 --> 13:30] which he treated with a fair degree of tolerance throughout this period.
+[13:30 --> 13:33] Blood sacrifices were out of the question, of course.
+[13:33 --> 13:36] But other than that, the remaining pagans in the east
+[13:36 --> 13:42] did not have to deal with the same kind of treatment doled out by Gratian in the west.
+[13:42 --> 13:46] That tolerance would eventually be dropped by Theodosius as a part of his general
+[13:46 --> 13:53] Make Nice with Ambrose program, following the unpleasantries at Thessalonica in 390.
+[13:53 --> 14:01] But for now, Theodosius generally left pagans alone.
+[14:01 --> 14:07] When Maximus came to power in 383 then, he could see that he had some catching up to do
+[14:07 --> 14:14] if he was going to be perceived by Ambrose as the true great defender of the Nicene Creed.
+[14:14 --> 14:19] Now the main reason it was so important to be seen as a staunch Nicene
+[14:19 --> 14:26] was because at that moment, the powerful Ambrose was technically backing an Arian court.
+[14:26 --> 14:33] The Empress Justina was an Arian, and as a result, her young son Valentinian was too.
+[14:33 --> 14:38] As we'll see in a second, this led to all kinds of nasty little disputes
+[14:38 --> 14:41] between the imperial family and the bishop.
+[14:41 --> 14:45] And because the majority of the population in Milan was Nicene,
+[14:45 --> 14:50] this meant that it would be pretty easy for Ambrose to use these disputes to drive a huge wedge
+[14:50 --> 14:57] between the imperial family and the citizens of Milan if he were so inclined.
+[14:57 --> 15:01] Maximus figured that if he could prove his Nicene bona fides,
+[15:01 --> 15:05] eventually Ambrose might get sick of supporting those damned heretics in the imperial palace
+[15:05 --> 15:13] and throw his weight behind the Nicene usurper up in Trier.
+[15:13 --> 15:16] In an effort to win over Ambrose's support,
+[15:16 --> 15:22] Maximus decided to do Theodosius' Nicene extremism one better.
+[15:22 --> 15:25] But there weren't really any Arian clergy he could expel from office
+[15:25 --> 15:29] since his provinces didn't really have too many Arian clergymen,
+[15:29 --> 15:35] but there were heretical communities out there just waiting to be persecuted.
+[15:35 --> 15:38] But without patronage to cut off or lands to confiscate,
+[15:38 --> 15:43] there was really only one method of persecution left.
+[15:43 --> 15:46] Sometime between 384 and 386,
+[15:46 --> 15:49] a bishop from the Iberian peninsula named Prisillian
+[15:49 --> 15:54] wound up in a heated theological fight with the mainstream Nicene surrounding him.
+[15:54 --> 15:57] After most of his allies in the church were deposed,
+[15:57 --> 16:02] Prisillian wound up appealing directly to Maximus for aid.
+[16:02 --> 16:04] To the great surprise of the heretical bishop,
+[16:04 --> 16:08] Maximus decided to hear the appeal and then deny the appeal
+[16:08 --> 16:12] and then hand down a little divine justice.
+[16:12 --> 16:18] Prisillian and six of his followers were arrested and then beheaded.
+[16:18 --> 16:23] It was the first recorded case of an execution on charges of heresy in history,
+[16:23 --> 16:28] though technically I think he was brought up on charges of practicing magic.
+[16:28 --> 16:31] And it was also the first recorded case of the state
+[16:31 --> 16:37] handing down a death sentence to resolve a church dispute.
+[16:37 --> 16:40] But though it earned him an ignoble place in history,
+[16:40 --> 16:47] the move kind of backfired on Maximus as Ambrose harshly condemned the executions.
+[16:47 --> 16:50] Because it was wrong to kill over doctrinal disputes?
+[16:50 --> 16:52] Well, no.
+[16:52 --> 16:54] Ambrose opposed the executions on the grounds
+[16:54 --> 16:58] that Maximus had strayed out of his jurisdiction.
+[16:58 --> 17:01] Church matters should be solved by the church.
+[17:01 --> 17:04] Maximus had no right to interfere.
+[17:06 --> 17:09] The business with Prisillian just so happened to occur
+[17:09 --> 17:14] right after Ambrose's second trip to Trier in 385
+[17:14 --> 17:20] when he went to see about retrieving Gratian's body so that it could be properly buried.
+[17:20 --> 17:26] But this time around, Ambrose had been met by a slightly more hostile version of Maximus.
+[17:26 --> 17:29] Yes, he was courting the Nicene's generally,
+[17:29 --> 17:33] and yes, he badly wanted Ambrose's support specifically.
+[17:33 --> 17:36] But that did not stop the general from taking the opportunity
+[17:36 --> 17:42] to angrily come down on Ambrose for bargaining in bad faith the last time around.
+[17:42 --> 17:46] Convinced that the bishop stalling had cost him his best chance at total victory,
+[17:46 --> 17:49] Maximus refused to release Gratian's body,
+[17:49 --> 17:53] and Ambrose wound up heading home empty-handed.
+[17:53 --> 17:56] It is entirely possible that fallout from this summit
+[17:56 --> 18:01] was behind Ambrose's later condemnation of the execution of Prisillian,
+[18:01 --> 18:04] though Ambrose did not really need an ulterior motive
+[18:04 --> 18:08] to argue that emperors had no business messing with church affairs.
+[18:08 --> 18:12] His belief in that principle is well-documented.
+[18:14 --> 18:20] Part of that well-documentation came shortly thereafter in 386
+[18:20 --> 18:24] and is the famous incident at the Portian Basilica.
+[18:26 --> 18:31] During his years as bishop, Ambrose so completely put his Nicene stamp on Milan
+[18:31 --> 18:35] that by the mid-380s, the Arian minority in the city,
+[18:35 --> 18:39] including the Empress Justina and the Emperor Valentinian II,
+[18:39 --> 18:42] literally had no place to worship.
+[18:42 --> 18:45] Ambrose allowed not a single church in the city
+[18:45 --> 18:50] to preach anything resembling that heretical Arian nonsense.
+[18:51 --> 18:54] This, of course, greatly annoyed the Empress,
+[18:54 --> 18:58] and so in 386 she asked for a small measure of consideration.
+[18:58 --> 19:02] She asked Ambrose to give the Arians one church in the city center
+[19:02 --> 19:04] and one church out in the suburbs
+[19:04 --> 19:08] so that her and her doctrinal brethren could worship in peace.
+[19:09 --> 19:12] Ambrose, of course, flatly refused.
+[19:12 --> 19:16] So what if the request was coming directly from the Emperor?
+[19:16 --> 19:19] Arianism was heresy and wasn't going to get a platform
+[19:19 --> 19:22] so long as Ambrose was bishop of Milan.
+[19:23 --> 19:27] So then a Praetorian prefect came round to talk sensibly with Ambrose
+[19:27 --> 19:30] and said, look, maybe just give her the one in the suburbs,
+[19:30 --> 19:32] the so-called Portian Basilica.
+[19:32 --> 19:35] That would be all right, wouldn't it?
+[19:35 --> 19:38] But again, Ambrose refused.
+[19:39 --> 19:41] This annoyed the Empress so much
+[19:41 --> 19:44] that she had Valentinian order a contingent of houseguards
+[19:44 --> 19:48] down to the Basilica in question to just take it by force.
+[19:49 --> 19:51] These guards entered the church
+[19:51 --> 19:53] and began hanging up Arian decorations
+[19:53 --> 19:55] in preparation for an Arian Easter service
+[19:55 --> 19:58] when word got out of what was happening.
+[19:58 --> 20:02] Pretty soon Ambrose's Nicene congregation showed up at the scene
+[20:02 --> 20:06] and began violently agitating against the occupation of the church.
+[20:07 --> 20:10] Then a small group of them pushed their way in,
+[20:10 --> 20:14] pushed out the guards, and blockaded the door.
+[20:14 --> 20:17] So now we have a full-blown situation.
+[20:18 --> 20:20] Ambrose himself stayed away from the scene,
+[20:20 --> 20:24] but made it known that he fully supported the expulsion of the Arians.
+[20:25 --> 20:28] Various Imperial officials, knowing full well that Ambrose
+[20:28 --> 20:30] could put a stop to it all if he wanted to,
+[20:30 --> 20:32] came around to broker a deal,
+[20:32 --> 20:35] but the bishop refused to compromise.
+[20:36 --> 20:40] Eventually, with a hostile mob overwhelming the outnumbered Imperial troops,
+[20:40 --> 20:44] Justina relented and ordered her men to withdraw.
+[20:45 --> 20:49] The Bishop of Milan had just stared down the Empress and won.
+[20:51 --> 20:53] I imagine that his success on that day
+[20:53 --> 20:57] bolstered his confidence to the point that when the time came,
+[20:57 --> 21:01] he felt no fear about getting into a staring contest with an Emperor.
+[21:02 --> 21:04] And not a boy Emperor like Valentinian II
+[21:04 --> 21:07] or a malleable young Emperor like Gratian,
+[21:07 --> 21:10] but a fully established soldier Emperor like Theodosius,
+[21:10 --> 21:12] who had just won a civil war,
+[21:12 --> 21:16] making him the last sole ruler of the Roman Empire.
+[21:17 --> 21:21] There is a Spanish word for what Ambrose had,
+[21:21 --> 21:24] and that word is Cajones.
+[21:27 --> 21:30] While these religious controversies swirled,
+[21:30 --> 21:32] the three Imperial centers of the Empire
+[21:32 --> 21:35] continued to maneuver around one another politically.
+[21:36 --> 21:39] Maximus kept working toward full recognition.
+[21:39 --> 21:43] Valentinian II, or at least the high officials of his court,
+[21:43 --> 21:46] kept working to maintain their independence in the face
+[21:46 --> 21:49] not only of the threat posed by Maximus in the north,
+[21:49 --> 21:52] but also the threat by Theodosius.
+[21:52 --> 21:56] At any moment, the Eastern Augustus might decide to step in
+[21:56 --> 21:59] and declare himself the protector of Valentinian II,
+[21:59 --> 22:02] which would be nothing more than a polite way of saying
+[22:02 --> 22:06] that Valentinian's days as an independent Emperor were over.
+[22:07 --> 22:09] In the East, meanwhile,
+[22:09 --> 22:12] Theodosius kept working methodically to ensure the stability
+[22:12 --> 22:14] and safety of his provinces
+[22:14 --> 22:17] so that he could go face down Maximus properly.
+[22:18 --> 22:22] He had not yet answered definitively the question of recognition of Maximus
+[22:22 --> 22:24] or civil war with Maximus,
+[22:24 --> 22:28] but it was pretty clear that he wanted civil war with Maximus.
+[22:30 --> 22:36] In 386, though, Maximus' hope that Theodosius would wind up choosing recognition
+[22:36 --> 22:40] was raised by the appearance on the north bank of the Danube
+[22:40 --> 22:43] of an armed force of Gurtungi Goths.
+[22:44 --> 22:48] In a scene eerily reminiscent of the events of 376,
+[22:48 --> 22:52] the Gurtungi were demanding that they be allowed to settle in Roman territory,
+[22:52 --> 22:56] just as their cousins had been allowed to settle a few years before.
+[22:57 --> 23:01] With said cousins already causing formidable administrative
+[23:01 --> 23:04] and security headaches for Theodosius, though,
+[23:04 --> 23:07] the thought of even more Goths settling in the Empire
+[23:07 --> 23:09] drove the Emperor to fits.
+[23:10 --> 23:13] He was over dealing with Goths.
+[23:14 --> 23:17] So completely over the Goths.
+[23:18 --> 23:21] And so he came up with a rather brutal solution.
+[23:22 --> 23:24] The Gurtungi petitioners were told
+[23:24 --> 23:27] that they would indeed be allowed to settle in the Empire.
+[23:28 --> 23:31] But once they were in their rafts and crossing over the river,
+[23:31 --> 23:36] surprise, the Imperial fleet manning the Danube suddenly attacked.
+[23:37 --> 23:40] The Goths were surrounded and then slaughtered.
+[23:41 --> 23:44] So completely over dealing with Goths.
+[23:47 --> 23:51] In 387, Maximus' hope for recognition was dashed for good
+[23:51 --> 23:54] when Roman ambassadors returned from a final round of talks
+[23:54 --> 23:57] with the Sassanids treaty in hand.
+[23:59 --> 24:02] I haven't been able to find a good way to slip this bit in yet,
+[24:02 --> 24:05] so I'm just going to sort of wedge it in right now.
+[24:05 --> 24:08] But the Persian king the Roman ambassadors dealt with now
+[24:08 --> 24:15] was Shapur III, rather than that old, implacable enemy of the Romans, Shapur II.
+[24:16 --> 24:21] Sadly, Shapur the Great finally died in 379 AD
+[24:21 --> 24:25] after a remarkable 70-year reign over his empire.
+[24:26 --> 24:28] Which you'd think would be some kind of record,
+[24:28 --> 24:32] but history is apparently full of monarchs who reigned for 70-plus years.
+[24:33 --> 24:36] Louis XIV and his 72 years running France among them.
+[24:37 --> 24:40] The record for longest verified reign,
+[24:40 --> 24:43] because I know you're just dying for me to tell you this,
+[24:43 --> 24:47] goes to Sibuza II, king of Swaziland,
+[24:47 --> 24:54] who reigned 82 years, 254 days between 1899 and 1982.
+[24:55 --> 25:00] The record for longest unverified reign goes to the Egyptian Pepi II,
+[25:00 --> 25:08] an old kingdom pharaoh who reigned 94 years between 2278 and 2184 BC.
+[25:08 --> 25:10] Good job, guys.
+[25:11 --> 25:14] Anyway, I note the passing of Shapur II,
+[25:14 --> 25:19] because man, that guy has been an on-again, off-again bogeyman of the Romans
+[25:19 --> 25:24] since he was first provoked by Constantine the Great way back in 336.
+[25:25 --> 25:30] He rightfully deserves his place in the pantheon of all-time great enemies of the Roman Empire,
+[25:30 --> 25:32] and may he rest in peace.
+[25:37 --> 25:39] So the ambassadors returned with a bad deal for Rome,
+[25:39 --> 25:42] but a good deal for Theodosius right at that moment.
+[25:43 --> 25:49] The Romans agreed to cede four-fifths of Armenia to Sassanid control in exchange for peace.
+[25:50 --> 25:55] The deal may have been a crappy one, but it gave Theodosius the peace he wanted,
+[25:55 --> 26:00] and it broke the imperial stalemate that had defined the empire for five years.
+[26:01 --> 26:04] Theodosius was now free to move on Maximus,
+[26:04 --> 26:08] and everyone knew it, which changed the whole equation.
+[26:09 --> 26:11] As soon as he found out about the deal,
+[26:11 --> 26:16] Maximus knew he could no longer afford to sit back and hope for a peaceful resolution.
+[26:17 --> 26:23] So, near the end of 387, he mobilized his forces and drove them south into Italy,
+[26:23 --> 26:27] blowing through the garrisons protecting the Alpine passes.
+[26:28 --> 26:32] Valentinian's advisors determined that Maximus's army was too strong
+[26:32 --> 26:35] and coming too fast for them to fight back,
+[26:35 --> 26:39] so they packed up and fled for the protection of Theodosius's court.
+[26:40 --> 26:44] There was still a lingering fear that Theodosius might take this opportunity
+[26:44 --> 26:47] to essentially depose young Valentinian,
+[26:47 --> 26:50] but that was a risk they were going to have to take.
+[26:53 --> 26:57] Next week, we will see that their fears were misguided.
+[26:58 --> 27:00] Far from wanting to depose Valentinian,
+[27:00 --> 27:05] Theodosius will demand that the two emperors be bound together even closer than ever.
+[27:06 --> 27:09] Yes, Theodosius had his eye on the next generation
+[27:09 --> 27:13] and wanted to ensure a clear path for his own sons to inherit the empire,
+[27:13 --> 27:18] but for now, he really would be the protector that Valentinian needed.
+[27:19 --> 27:23] Right now, it was time for war with Maximus.
+[27:30 --> 27:32] Thank you for watching!

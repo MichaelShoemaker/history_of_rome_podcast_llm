@@ -1,0 +1,366 @@
+# 20100228 - 043- Insert Well Known Idiom Here
+# Detected language: en
+# Duration: 1604.57 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:12] Hello, and welcome to the History of Rome, episode 43, Insert Well-Known Idiom Here.
+[00:14 --> 00:18] Since we began the history of Rome some 50 odd episodes ago, I've covered some pretty
+[00:18 --> 00:23] obscure stuff, things that have long been forgotten by all but professional scholars
+[00:23 --> 00:25] and a few amateur enthusiasts.
+[00:25 --> 00:31] Indeed, I was drawn to the idea of producing this podcast specifically to shed light on
+[00:31 --> 00:33] some of these oft-ignored stories.
+[00:34 --> 00:37] The next few episodes will be a bit different, though.
+[00:37 --> 00:42] This week, we are going to start dealing with things that are so famous that they
+[00:42 --> 00:44] have worked their way well into our collective imagination.
+[00:45 --> 00:49] For the next little while, it's going to be all, the die is cast, I came,
+[00:49 --> 00:55] I saw, I conquered, et tu, Brute, and I come here not to praise Caesar, but to bury him.
+[00:56 --> 01:01] We're about to delve into events and personalities that are almost universally recognizable.
+[01:02 --> 01:06] That the language of Caesar's civil war still sits on the tips of our tongues is
+[01:06 --> 01:10] a testament to the massive impact it had on the development of the Western world.
+[01:11 --> 01:16] Because what do you say when you want to express that someone has gone past the point of no return?
+[01:16 --> 01:19] Ah, yes, you say that they are crossing the Rubicon.
+[01:22 --> 01:27] As the winter of 50 BC came to a close, Caesar and the Senate had reached an impasse.
+[01:28 --> 01:31] Caesar refused to obey a direct order from the Senate to stand down his army,
+[01:32 --> 01:35] and the Senate refused to grant any of the concessions Caesar demanded
+[01:35 --> 01:37] in exchange for his cooperation.
+[01:38 --> 01:42] Both sides accused the other of upending the rule of law for the sake of private ambition.
+[01:43 --> 01:47] Caesar pointed out that the Senate did not technically have the authority to order him
+[01:47 --> 01:52] to give up his command, as his proconsulship did not legally expire for another two years.
+[01:53 --> 01:58] The Senate replied that technically Caesar's entire career was one blatant act of
+[01:58 --> 02:02] criminality after another, and he ought not go around touting legal technicalities as a defense.
+[02:04 --> 02:07] But before we go any further into the story, I think it's worth
+[02:07 --> 02:10] reiterating just what had led to this impasse.
+[02:10 --> 02:15] A comment by Lane attached to last week's episode asked some very good questions
+[02:15 --> 02:19] about exactly what criminal charges Caesar faced if he returned to Rome,
+[02:19 --> 02:23] and why the relationship between the Senate and Caesar had grown so acrimonious.
+[02:24 --> 02:28] The two feed off each other, so I'll answer the last question first.
+[02:29 --> 02:34] In his survey of the Roman Republic called, coincidentally, the Roman Republic,
+[02:34 --> 02:38] Michael Crawford makes the point over and over again that after the plebs were
+[02:38 --> 02:43] fully integrated into the political process, an oligarchy of wealthy families on both sides
+[02:43 --> 02:47] of the original class divide found their interests generally aligned.
+[02:48 --> 02:52] From about the 350s on, and especially after the Senate came to dominate the state during
+[02:52 --> 02:56] the Second Punic War, there was a great deal of pressure from within this oligarchy
+[02:56 --> 03:02] to not sell one another out. That is, when internal disputes emerged, for example,
+[03:02 --> 03:06] the rivalry between the Fabii and the Claudii families, they were not allowed to
+[03:07 --> 03:13] the lower socioeconomic orders. For hundreds of years, these families bred amongst themselves
+[03:13 --> 03:18] and protected the property and privileges their status afforded them. So even if two
+[03:18 --> 03:23] old patricians hated each other, one wouldn't turn to the popular assemblies with promises
+[03:23 --> 03:28] of land reform in order to put pressure on the other. Threats to upend the established order
+[03:28 --> 03:33] were dealt with swiftly and harshly, usually in the form of social ostracism.
+[03:33 --> 03:37] To the highly social Romans, this was a fate worse than death,
+[03:37 --> 03:41] and it had the effect of keeping everyone in the upper class pretty much on the same page.
+[03:43 --> 03:46] But by the end of the Punic Wars, this solidarity began to break down.
+[03:47 --> 03:51] The long wars with Carthage had decimated the ranks of the old aristocratic families,
+[03:52 --> 03:57] and the upper classes became populated with novice homo, men who were new to power and
+[03:57 --> 04:02] had no great loyalty to the old oligarchs. They identified with the masses and had no
+[04:02 --> 04:06] compunction about using popular causes as a means to leverage personal power.
+[04:08 --> 04:12] Marius was a great force in this transition, and once he showed how the new game could be
+[04:12 --> 04:18] played, ambitious men were eager to follow his lead. Suddenly, rather than ignoring the masses,
+[04:19 --> 04:27] praetors and consuls were proposing land reform and grain doles that flew in the
+[04:27 --> 04:33] more than anything else was the monopolization of land and trade by a few select families.
+[04:35 --> 04:39] Into this environment stepped Caesar, a scion of an ancient patrician family
+[04:39 --> 04:44] who turned his back on that status to champion popular causes as a way to reach the top of
+[04:44 --> 04:50] the political ladder. I've been reading H.W. Brands' biography of Franklin Roosevelt,
+[04:50 --> 04:54] called Trader to his Class, and I would say that there is a great deal of similarity
+[04:54 --> 04:59] between American upper class hatred of that man in the White House and the Senate's hatred of
+[04:59 --> 05:05] Caesar. In both cases, charismatic leaders who ought to have been strident defenders of the
+[05:05 --> 05:10] privileges of the old order instead used their considerable skills to blow those privileges up.
+[05:11 --> 05:15] The title of Brands' book says it all. They were traitors to their class.
+[05:16 --> 05:21] Because of this betrayal, the conservative Senate hated Caesar. They could see their
+[05:21 --> 05:25] life slipping away and were trying desperately to stem the tide of reform.
+[05:25 --> 05:29] Here was this enormously talented politician who ought to have been helping them,
+[05:29 --> 05:35] not helping them, and instead making things even worse. Not only that, he seemed to enjoy
+[05:35 --> 05:40] watching them squirm. So they were eternally vigilant for the moment that they could turn
+[05:40 --> 05:47] the tables and watch him squirm for a change. They finally saw their opportunity as the war
+[05:47 --> 05:52] wound down. Cato and his allies were going to go after Caesar in court as soon as he lost
+[05:52 --> 05:57] the cloak of immunity that came with holding public office. But the question is, what was
+[05:57 --> 06:01] the Senate planning to actually charge him with and what would that punishment actually be
+[06:01 --> 06:08] if he was convicted? There were complaints large and small, some frivolous and some not even
+[06:08 --> 06:13] true. But leading the way was the entirely accurate charge of bribery and his sacrilegious
+[06:13 --> 06:20] conduct as consul. Now, bribery was pretty common practice at the time, so the further
+[06:20 --> 06:26] question is, why was Caesar being singled out? The answer is that bribery was tolerated
+[06:26 --> 06:32] as long as everyone involved exercised a little discretion. But bribery turned from
+[06:32 --> 06:37] accepted under the table practice to scandal when it came out into the open, and Caesar
+[06:37 --> 06:42] didn't even bother to hide what he was doing. He would brag about not having to
+[06:42 --> 06:47] this or that because he had paid off a tribune or an influential senator. It made everyone
+[06:47 --> 06:53] crazy. No one had clean hands, except for maybe stodgy old Cato, but Caesar was making
+[06:53 --> 06:58] a mockery of their gentlemanly agreements. This break in social custom, coupled with
+[06:58 --> 07:02] the amounts and extent of his bribery, was what made people want to teach him a lesson.
+[07:03 --> 07:08] Was it selective prosecution? Definitely. Did the Senate care about the hypocrisy of it all?
+[07:08 --> 07:14] Not even a little bit. Caesar's brazen public purchase of the electoral system threatened
+[07:14 --> 07:18] to unmask the democratic façade the oligarchs had built around the Republic. They had to do
+[07:18 --> 07:25] something. Aside from the bribery issue was the little matter of the entire second half
+[07:25 --> 07:30] of Caesar's consulship. You'll recall that bibblers had devised a clever scheme to stop
+[07:30 --> 07:35] Caesar's reforms by declaring every remaining day of their shared consulship a holy day
+[07:35 --> 07:41] and thus close to public business. You'll also recall that Caesar's reaction to this was to
+[07:41 --> 07:47] ignore the decree completely. His attitude was to get done what he wanted to get done
+[07:47 --> 07:53] and worry about the consequences later. Well, now was later and no one had forgotten what he
+[07:53 --> 07:58] had done. By ignoring the holy days, Caesar had committed acts that were not just illegal,
+[07:58 --> 08:04] they were sacrilegious. To the highly religious Romans, Caesar's blasphemy could not go
+[08:04 --> 08:07] unpunished or it would invite the wrath of the gods on the entire empire.
+[08:09 --> 08:15] So there Caesar is in Gaul, hated, hated by a pretty good chunk of the political elite who
+[08:15 --> 08:19] are going to prosecute him for things that no one could possibly argue he did not do.
+[08:20 --> 08:25] All he could hope for was leniency, but that hated thing seemed to preclude any chance of
+[08:25 --> 08:30] that. So what's the worst he could expect if he was brought upon charges and found guilty?
+[08:31 --> 08:35] I've looked all over and I can't find any mention of execution being considered
+[08:35 --> 08:38] and I don't think that even Caesar thought it would come to that.
+[08:39 --> 08:43] The worst he probably expected was banishment or fines that would send him to the poor house.
+[08:44 --> 08:48] But the worst was not the thing that kept Caesar up at night. The thing that kept him
+[08:48 --> 08:52] up at night was the fairly banal fact that if he was tried and convicted he would be
+[08:52 --> 08:57] politically marginalized. He had dedicated his life to becoming a man of influence,
+[08:57 --> 09:02] a man of power, the first man in Rome, and a criminal conviction would erase all that.
+[09:03 --> 09:08] In essence, Caesar plunged Rome into chaos, violence, and civil war because he was afraid
+[09:08 --> 09:14] of losing his status. As much as there is to admire about Caesar and there is much to admire,
+[09:14 --> 09:19] we should not forget that he was an enormously selfish man who killed tens of thousands of
+[09:19 --> 09:27] his fellow citizens because he did not want to retire to a life of obscurity and there is
+[09:27 --> 09:31] so it is in this light that we should see Caesar's final reply to the Senate's order in
+[09:31 --> 09:37] the winter of 50 BC to stand down his army. He told them he could not comply and that if they
+[09:37 --> 09:43] forced the issue he would defend his honor by any means necessary. The Senate, even the
+[09:43 --> 09:47] moderates, were incensed by these fighting words and felt compelled to follow through on
+[09:47 --> 09:54] their threats. Caesar was declared an enemy of the state. In the Senate house that day
+[09:54 --> 09:59] were a number of Caesar supporters who argued loudly that this was unjust and beyond the pale.
+[10:00 --> 10:05] When the majority moved to expel Caesar's allies, one in particular raised a tremendous
+[10:05 --> 10:10] commotion. He had been elected Tribune for that year and when the guards came to remove him
+[10:10 --> 10:16] and his promised veto, he shouted that he was sacrosanct and that to lay hands on him was
+[10:16 --> 10:20] to invite the wrath of the gods. But the senators had heard enough and pitched the
+[10:20 --> 10:25] troublemaker out onto the street. The Tribune dusted himself off and immediately headed
+[10:25 --> 10:30] north to Caesar's camp. Upon arrival, Caesar displayed the Tribune's bruises to his assembled
+[10:30 --> 10:36] troops as proof of the Senate's evil ways. I fight to defend the people of Rome, he said,
+[10:36 --> 10:41] while the Senate viciously attacks their representatives. Now, of course, the aggrieved
+[10:41 --> 10:47] Tribune in question, a one Mr. Marcus Antonius, better known as Mark Antony, was no great
+[10:47 --> 10:52] friend of the people and never had been. He had been born into a wealthy Publian family
+[10:52 --> 10:57] and cared very little for much of anything at all beyond his own base pleasures. He loved wine,
+[10:57 --> 11:02] women and gambling and had spent his youth endlessly carousing the streets of Rome with
+[11:02 --> 11:07] his friends, causing trouble and running up massive debts. He seemed destined to spend his
+[11:07 --> 11:13] life as a no account spoiled little rich boy, but as it turned out, he was called to Syria
+[11:13 --> 11:17] to serve in the cavalry and immediately distinguished himself as one of the finest
+[11:17 --> 11:22] officers in the legions. He was a crude and reckless disaster in his private life,
+[11:22 --> 11:25] but put a helmet on him, give him a few men and point him at the enemy,
+[11:26 --> 11:31] and he was able to accomplish extraordinary things. His mother was first cousins with
+[11:31 --> 11:36] Caesar and in 54 B.C. the young officer was attached to the great general staff in Gaul.
+[11:38 --> 11:42] Though he was almost 20 years Caesar's junior, the two struck up an immediate
+[11:42 --> 11:48] friendship. In Antony, Caesar seems to have found not just another accomplice or temporary ally
+[11:48 --> 11:54] or partner, but in fact a true friend. Antony would spend the next 10 years as Caesar's most
+[11:54 --> 11:58] trusted commander and a dogged defender of his interests wherever Caesar sent him,
+[11:59 --> 12:05] for example, to Rome to serve his tribune in 50 B.C. Today, he showed off his bruises and
+[12:05 --> 12:09] stirred the troops up into an anti-senatorial frenzy. He knew his role and he played it
+[12:09 --> 12:16] well. Having been declared an enemy of the state for refusing to surrender his army,
+[12:17 --> 12:20] Caesar knew that it would only be a matter of time before Pompey would be ordered north
+[12:20 --> 12:26] to take him out. His only real hope was to audaciously preempt the Senate's inevitable attack
+[12:26 --> 12:32] by marching straight for Rome at lightning speed. Maybe the unexpected invasion would cause
+[12:32 --> 12:37] enough chaos in the city that Pompey would find himself unprepared for a fight, forcing
+[12:37 --> 12:43] the old general to strategically withdraw from Rome. Caesar did not feel he even had time to
+[12:43 --> 12:49] wait for reinforcements from Gaul, so on January 10, 49 B.C., he ordered the one legion he had
+[12:49 --> 12:55] on hand, the 13th, to follow him across the tiny Rubicon River which marked the southern border
+[12:55 --> 13:01] of Cisalpine Gaul into Italia proper and overt act of treason. Not only was it illegal
+[13:01 --> 13:05] for a general to lead an army out of the province he governed, it was doubly illegal
+[13:05 --> 13:11] to take an army into the home peninsula. Caesar knew what he was doing when he ordered the 13th
+[13:11 --> 13:17] across, but not what the final outcome of his actions would be. Famously, watching his troops
+[13:17 --> 13:22] wade into the river, he said, the die is cast. They were all in the hands of fate now,
+[13:23 --> 13:28] whatever her fickle verdict turned out to be. Initiating a civil war by invading Italy
+[13:28 --> 13:32] with a single legion may have been completely nuts, but if they were all in fate's hands
+[13:32 --> 13:40] how does the expression go? Fortune favors the bold. Now, neither Caesar nor the Senate had
+[13:40 --> 13:45] access to Roman history books to tell them that Caesar's decision to cross the Rubicon
+[13:45 --> 13:49] would mark the end of the Republic and the beginning of the Imperium, and we shouldn't
+[13:49 --> 13:54] ascribe motives to anyone beyond what the immediate context merits. Even the Senate,
+[13:54 --> 13:58] whose rhetoric clearly signaled they believed Caesar to be a dire threat to the Republic,
+[13:58 --> 14:04] couldn't possibly have known they would be so right. The Republic had survived the Gracchi,
+[14:05 --> 14:10] Marius, and Sulla. Caesar was cut from the same cloth, but had not those men come and
+[14:10 --> 14:15] gone while the Republic remained? So yes, Caesar knew when he crossed the river that he
+[14:15 --> 14:19] was sparking a civil war and that if he was going to survive, he was going to have to
+[14:19 --> 14:28] seize power, but that he would set a precedent for 500 years of emperors. Standing there on
+[14:28 --> 14:33] about how best to approach Rome and what resistance he might face from his fellow
+[14:33 --> 14:37] countrymen. He was thinking about his supply lines and whether or not to overwhelm Italy
+[14:37 --> 14:42] or detour to Spain to cut off Pompey's armies there so they couldn't reinforce his opponent.
+[14:43 --> 14:47] Was he thinking that in 2000 years the Russians would be ruled by a Tsar
+[14:47 --> 14:51] and the Germans by a Kaiser? That in the future his name would literally be
+[14:51 --> 14:58] synonymous with autocracy? Probably not. He was marching into Italy with but a
+[14:58 --> 15:02] state in the ancient world. He had other things on his mind.
+[15:03 --> 15:08] The reaction in Rome was exactly what Caesar hoped it would be. The Senate heard that he
+[15:08 --> 15:13] was invading and immediately fell over themselves calling for Pompey to save them.
+[15:14 --> 15:17] The old general had two legions at his disposal, but critically,
+[15:17 --> 15:20] no one seemed to know how large of a force was marching on Rome.
+[15:21 --> 15:25] The last time Pompey had checked, Caesar only had the 13th with him.
+[15:25 --> 15:28] Surely he was not foolish enough to invade with just a few thousand men.
+[15:29 --> 15:32] So it was safe to assume that the outlaw general had been reinforced.
+[15:34 --> 15:38] Pompey's imagination got the better of him as he pictured Caesar coming south at the head
+[15:38 --> 15:44] of ten veteran legions. It would be suicide to stay in Rome. So Pompey, playing right into
+[15:44 --> 15:49] Caesar's hands, ordered an immediate withdrawal of the city. He would take his legions and
+[15:49 --> 15:54] anyone else who cared to come with him to Brundisium and from there they would sail for
+[15:54 --> 15:59] Greece. The senators were appalled, but Pompey calmly explained that the East was
+[15:59 --> 16:03] where he had made his name and he had a string of clients willing to support their
+[16:03 --> 16:08] patron at the drop of a hat. Caesar could have Rome for now, but the occupation would
+[16:08 --> 16:12] be short-lived. Pompey would gather a massive army in Greece and then return
+[16:12 --> 16:17] to Italy to crush the upstart. They were welcome to stay in Rome and await Caesar's
+[16:17 --> 16:22] arrival if they wished, but he was going to Greece. The Senate, almost to a man,
+[16:23 --> 16:30] they didn't even bother to lock the gates. On his way south, Caesar found most of the
+[16:30 --> 16:35] Italian towns amenable to his approach. This he considered a blessing, as he desperately
+[16:35 --> 16:41] wanted there to be no resistance whatsoever. Despite the propaganda he was issuing about how
+[16:41 --> 16:45] he was the victim and how he was the true defender of the people and how he was the
+[16:45 --> 16:52] republic, he knew full well that he was committing treason. If he was going to
+[16:52 --> 16:58] be complicit in the whitewashing of his coup d'etat, the last thing he needed was to
+[16:58 --> 17:03] be seen killing and pillaging peaceful Italian towns. At one point, though, a city
+[17:03 --> 17:07] garrisoned by a conservative general did attempt to hold out, but Caesar managed
+[17:07 --> 17:12] to convince him to surrender without spilling blood. When the general and his
+[17:12 --> 17:16] captains emerged from behind the walls, they fully expected to be executed, but
+[17:16 --> 17:20] Caesar released them, going so far as to tell them that they could go join up with
+[17:20 --> 17:25] Pompey and continue to fight him if that's what they thought was best. Everyone was
+[17:25 --> 17:29] shocked by this display of leniency. Caesar didn't even make them promise not
+[17:29 --> 17:34] to oppose him in the future, but Caesar knew exactly what he was doing. He was
+[17:34 --> 17:38] weaving a spell of legitimacy around himself, and the spell would only work
+[17:38 --> 17:42] if he didn't give anyone an excuse to point out that he was engaged in criminal
+[17:42 --> 17:47] conquest. There could be no martyrs. He was the friend of everyone, even his
+[17:47 --> 17:52] enemies. It drove both his friends and enemies crazy, but the people caught in
+[17:52 --> 17:56] the middle would remain on the sidelines as long as Caesar did nothing to
+[17:56 --> 18:02] provoke them. With Pompey headed south with a head start, Caesar's main
+[18:02 --> 18:06] motivation at this point was not to make straight for Rome, but rather to
+[18:06 --> 18:09] march for Brundisium as fast as possible and try to cut off access to
+[18:09 --> 18:13] the port city. If he could keep Pompey from reaching Greece, he might
+[18:13 --> 18:16] be able to force a resolution to the conflict before the end of the
+[18:16 --> 18:21] year. As the two armies raced for Brundisium, envoys from both camps
+[18:21 --> 18:26] traveled back and forth, exchanging proposals and counter proposals to
+[18:26 --> 18:31] secure a peace before things got out of hand. More than anything, Caesar
+[18:31 --> 18:34] wanted to meet privately with Pompey. If the two of them could get
+[18:34 --> 18:38] together alone, he was sure they could hash out a peace. But the
+[18:38 --> 18:41] Senate was adamant that Pompey not agree to the terms. They were
+[18:41 --> 18:44] certain that dynamic Caesar would convince old Pompey to sell out the
+[18:45 --> 18:49] Senate and renew their previous alliance. All attempts at talk were
+[18:50 --> 18:54] foiled. Despite Caesar's double time pace, Pompey reached Brundisium
+[18:54 --> 18:58] first and fortified the city. Caesar arrived not long after and
+[18:58 --> 19:02] laid siege, including an attempt to blockade the port, but his
+[19:02 --> 19:05] efforts failed and ships from Greece were able to spirit Pompey in
+[19:05 --> 19:10] the Senate away. Caesar was now in control of Italy, but it was
+[19:10 --> 19:14] a hollow victory. The entire Republican governing apparatus had
+[19:14 --> 19:18] led the peninsula. Even with his mastery of propaganda, it would be
+[19:18 --> 19:22] hard for Caesar to convince anyone that his control of Italy was
+[19:22 --> 19:27] legitimate. But there was no time to worry about that now. He
+[19:27 --> 19:30] wheeled around and headed to Rome, marching into the city in
+[19:30 --> 19:35] April of 49 BC. It was awkward marching his army into the
+[19:35 --> 19:38] unprotected city. There was no resistance, but there was also no
+[19:38 --> 19:42] support. He called a meeting of the Senate to plead his case,
+[19:42 --> 19:46] but it was a sparsely attended affair, and those who remained in
+[19:46 --> 19:49] the city were all beeless nobodies anyway. Everyone that
+[19:49 --> 19:53] mattered was already gone. He received a much more enthusiastic
+[19:53 --> 19:56] welcome when he addressed the popular assemblies, promising
+[19:56 --> 19:59] them cash and grain under his administration, but they
+[19:59 --> 20:02] immediately turned on him when he looted the public treasury
+[20:02 --> 20:06] to help pay his soldiers. To make matters worse, a stubborn
+[20:06 --> 20:09] tribune had made a point of physically standing between
+[20:09 --> 20:13] Caesar and the treasury doors. After making such a big deal
+[20:13 --> 20:16] about the treatment of Marc Antony, Caesar's hypocrisy was
+[20:16 --> 20:19] in full display as he threatened to kill the obstinate
+[20:19 --> 20:23] tribune if he did not clear a path. After seizing the
+[20:23 --> 20:26] cash and resupplying his army, Caesar was savvy enough
+[20:26 --> 20:28] to know that he best get out of the city before he
+[20:28 --> 20:32] damaged his standing any more than he already had. This
+[20:32 --> 20:34] was a political conflict as much as it was a military
+[20:34 --> 20:37] affair, and losing on either front would cripple his
+[20:37 --> 20:41] long-term goals. Though he had done himself no favors with
+[20:41 --> 20:45] his conduct in Rome, military victory would go a long way
+[20:45 --> 20:48] towards solving his political problems. So, leaving Marc
+[20:48 --> 20:51] Antony in charge of the city, Caesar led his legions out
+[20:51 --> 20:52] the gate.
+[20:55 --> 20:57] Caesar decided to put off chasing after Pompey for now
+[20:57 --> 21:00] and instead resolved to neutralize any support that
+[21:00 --> 21:05] may come in from Spain. In an amazing 27 days, Caesar
+[21:05 --> 21:08] marched his legions from Rome to Spain, picking up
+[21:08 --> 21:12] additional forces in Gaul along the way. He entered
+[21:12 --> 21:15] Hispania with some 30,000 troops intent on taking the
+[21:15 --> 21:18] Spanish legions out of the fight before Pompey could
+[21:18 --> 21:22] figure out how to put them to good use. He had expected
+[21:22 --> 21:24] to meet limited resistance from Pompey's five leaderless
+[21:24 --> 21:28] legions, but the commanders left in charge had no
+[21:28 --> 21:31] intention of rowing over for Caesar. When the two forces
+[21:31 --> 21:34] met in battle briefly for an initial skirmish, the
+[21:34 --> 21:37] Pompeian legions showed surprising resiliency in the
+[21:37 --> 21:40] field, throwing back Caesar's men who had grown accustomed
+[21:40 --> 21:45] to easy victory. But success in the field would not be
+[21:45 --> 21:48] enough. The local Spanish tribes concluded that if they
+[21:48 --> 21:51] help Caesar win control of the empire, he may repay the
+[21:51 --> 21:54] favor by easing the burden of servitude imposed by
+[21:54 --> 21:58] Rome. The Pompeian forces soon found themselves bottled
+[21:58 --> 22:02] up without access to allies or supplies. To prevent any
+[22:02 --> 22:06] escape, Caesar camped his army practically on top of the
+[22:06 --> 22:09] enemy, and soon soldiers from both sides began to slip back
+[22:09 --> 22:12] and forth between the opposing camps to drink and
+[22:12 --> 22:15] commiserate over what a miserable lot they had all
+[22:15 --> 22:18] drawn. Fighting fellow Romans is not why any of them had
+[22:18 --> 22:22] joined up. In particular, the foot soldiers in the
+[22:22 --> 22:25] Pompeian legions were jealous of Caesar's men who
+[22:25 --> 22:28] had grown rich being led by the great general while
+[22:28 --> 22:31] they wasted away supporting a pack of rich old men who
+[22:31 --> 22:35] didn't care about them anyway. It didn't help when the
+[22:35 --> 22:38] Pompeian commanders cracked down hard on the intermingling
+[22:38 --> 22:40] while Caesar turned a blind eye to the enemy soldiers
+[22:40 --> 22:44] drinking in his own camp. Soon enough, though, the
+[22:44 --> 22:47] commanders, out of food and supplies, joined in their
+[22:47 --> 22:50] soldiers' dissatisfaction. They weren't going to starve to
+[22:50 --> 22:53] death defending the honor of a bunch of senators. They
+[22:53 --> 22:56] surrendered, and when Caesar disbanded the defeated
+[22:56 --> 23:00] legions, the vast majority of them turned right around and
+[23:00 --> 23:02] signed up to fight for the man who had just defeated
+[23:02 --> 23:06] them. Stronger than ever, Caesar marched back to Italy.
+[23:08 --> 23:11] When he arrived in Rome this time, in December of 49 BC,
+[23:11 --> 23:15] things went quite a bit better. Allies had managed to
+[23:15 --> 23:17] formalize an appointment to the office of dictator,
+[23:18 --> 23:20] giving Caesar legal powers he had not had previously.
+[23:21 --> 23:24] But unlike Marius and Sulla, who would use their
+[23:24 --> 23:26] powers to murder their enemies, Caesar showed amazing
+[23:26 --> 23:30] restraint, turning his attention away from revenge and
+[23:30 --> 23:33] toward the grain supply problems and economic meltdowns
+[23:33 --> 23:37] that had been caused by the Civil War. Quickly reorganizing
+[23:37 --> 23:40] the logistics and finances of the state, Caesar then
+[23:40 --> 23:43] resigned his dictatorship, declaring his intention to
+[23:43 --> 23:47] serve merely as a consul, which, he reminded everyone,
+[23:47 --> 23:51] was all he wanted anyway. The citizens of Rome were
+[23:51 --> 23:53] amazed, and it did much to repair the damage he had
+[23:53 --> 23:58] done in his first tour through the city. But he would
+[23:58 --> 24:01] not be staying in Rome for long. Now a consul with at
+[24:01 --> 24:04] least a claim to legitimacy, Caesar headed to
+[24:04 --> 24:08] Brindisium with seven legions. Pompey had spent the
+[24:08 --> 24:10] year gathering a massive international army, and it
+[24:10 --> 24:13] was a sure bet that come the spring, they would be
+[24:13 --> 24:17] pouring back across the Adriatic. Most troubling for
+[24:17 --> 24:19] Caesar, who knew that his best shot lay in taking the
+[24:19 --> 24:22] fight to Pompey in Greece, was the fact that
+[24:22 --> 24:25] Pompey had some 600 ships patrolling the Adriatic, an
+[24:25 --> 24:28] impossible blockade if Caesar played it by the book,
+[24:28 --> 24:30] which clearly stated that he had to wait for spring
+[24:30 --> 24:33] and that no one sailed the whole army across the
+[24:33 --> 24:36] Adriatic in winter. So Caesar threw the book out
+[24:36 --> 24:41] and ordered an unprecedented January crossing. If not
+[24:41 --> 24:43] for their fanatical loyalty, Caesar may have been
+[24:43 --> 24:46] faced with a full-blown mutiny, but instead his
+[24:46 --> 24:50] soldiers jumped into the crazy plan with relish. Even
+[24:50 --> 24:53] crazier, Caesar only had enough ships for about half
+[24:53 --> 24:56] his troops. He would have to send one convoy across,
+[24:56 --> 24:59] hope it could run the blockade, survive the
+[24:59 --> 25:01] dangerous seas, and hold a beachhead totally
+[25:01 --> 25:04] outnumbered in enemy territory. The odds of
+[25:04 --> 25:08] making it across unscathed one time were long, but
+[25:08 --> 25:10] Caesar then planned to do it all again a second
+[25:10 --> 25:13] time to bring over the rest of his troops. Fortune
+[25:13 --> 25:17] had better favor the bold. Pompey's fleet,
+[25:17 --> 25:19] ironically led by Caesar's old consular rival
+[25:19 --> 25:22] Bibulus, was totally unprepared for the January
+[25:22 --> 25:25] crossing, and Caesar led the first wave across intact
+[25:25 --> 25:28] and unchallenged. Enraged and embarrassed,
+[25:28 --> 25:31] however, Bibulus was well prepared for the second
+[25:31 --> 25:34] wave and prevented them from crossing. Caesar's
+[25:34 --> 25:37] old nemesis died not long after, and it was
+[25:37 --> 25:39] remarked that he had exerted himself so much in
+[25:39 --> 25:41] the wintery seas that he had literally worked
+[25:41 --> 25:44] himself to death. But he had left Caesar with half
+[25:44 --> 25:47] an army on the far side of the Adriatic, a
+[25:47 --> 25:50] fine parting gift from a man who had for so long
+[25:50 --> 25:52] been a thorn in Caesar's side.
+[25:55 --> 25:57] We'll leave Caesar there for now, camped in a
+[25:57 --> 26:00] pyrus with half an army surrounded by enemies.
+[26:00 --> 26:03] However, as next weekend contains both my own
+[26:03 --> 26:05] birthday and the soon-to-be Mrs. History of
+[26:05 --> 26:08] Rome's birthday, it'll be an extra week before
+[26:08 --> 26:10] we get to the final confrontation with Pompey
+[26:10 --> 26:13] at Pharsalus. The history of Rome will be back
+[26:13 --> 26:15] in two weeks for Caesar's final victory over
+[26:15 --> 26:18] the Senate and his return to Rome as the sole
+[26:18 --> 26:20] master of the greatest empire in the world.

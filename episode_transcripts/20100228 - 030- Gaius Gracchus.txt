@@ -1,0 +1,345 @@
+# 20100228 - 030- Gaius Gracchus
+# Detected language: en
+# Duration: 1002.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:07] Hello, and welcome to the History of Rome.
+[00:08 --> 00:14] Last week, we discussed the career of Tiberius Gracchus, whose extreme populism helped kick
+[00:14 --> 00:18] start the century of civil strife that would be the Republic's undoing.
+[00:19 --> 00:23] This is not to say that Tiberius was to blame for the downward spiral, but he
+[00:23 --> 00:28] certainly staked out a position that forced the Senate to stake out a reactionary
+[00:28 --> 00:33] position, and it was this polarization, not one side or the other necessarily,
+[00:33 --> 00:38] that eventually led the Roman people to the safe and comforting arms of Caesar Augustus.
+[00:40 --> 00:44] Hot on the heels of that number one summer blockbuster, Tiberius Gracchus,
+[00:45 --> 00:49] man of the people, came its sequel, Gaius, Revenge of the Gracchii.
+[00:50 --> 00:53] And like all good sequels, they took what made the original work,
+[00:53 --> 00:57] doubled the special effects budget, and quadrupled the size of the crises.
+[00:58 --> 01:03] If protagonist Tiberius had to save the city, Gaius would be tasked with saving the whole world.
+[01:04 --> 01:08] What I mean to say by all that is that Tiberius entered office,
+[01:08 --> 01:12] focused on the single issue of agrarian reform, and met his downfall running for
+[01:12 --> 01:17] an illegal second term. His brother would pick up the baton on agrarian reform,
+[01:18 --> 01:21] but also add a whole slate of other populist reform measures.
+[01:21 --> 01:24] And where Tiberius failed to win his second term as tribune,
+[01:24 --> 01:29] Gaius succeeded and met his own downfall, seeking an unprecedented third term.
+[01:30 --> 01:34] The sequel always has to be bigger, better, and go further than the original.
+[01:34 --> 01:35] It's just good marketing.
+[01:38 --> 01:41] Gaius was born in 154 BC, the same year his father died.
+[01:42 --> 01:45] So where Tiberius at least had some contact with their father,
+[01:45 --> 01:47] Gaius was raised entirely by their mother.
+[01:48 --> 01:52] He was destined to live his life in the footsteps of his brother,
+[01:52 --> 01:54] who's 14 years his elder.
+[01:55 --> 01:59] The entire career of Gaius Gracchus was defined by the path his brother had cut
+[01:59 --> 01:59] through the wilderness.
+[02:00 --> 02:04] It was a combination of family obligation and personal revenge that drove
+[02:04 --> 02:07] Gaius to press his ambitious reform platform.
+[02:07 --> 02:11] And for the most part, the younger Gracchus did not have much choice.
+[02:12 --> 02:15] The supporters of Tiberius and the legions of clients that had built up
+[02:15 --> 02:19] around the family expected him to carry on the legacy, and Gaius simply
+[02:19 --> 02:22] could not turn away from those expectations.
+[02:24 --> 02:28] Gaius even began his career in similar fashion to his brother,
+[02:28 --> 02:31] attached to the staff of their much older brother-in-law,
+[02:31 --> 02:32] Scipio Aemilianus.
+[02:33 --> 02:35] Like Tiberius, he served in Numantia,
+[02:36 --> 02:39] though was not there at the time of the campaign that so changed
+[02:39 --> 02:40] Tiberius's life.
+[02:41 --> 02:44] And where Tiberius was driven to his extreme populism because of a very
+[02:44 --> 02:48] public rebuking by the Senate, Gaius was driven by the very public
+[02:48 --> 02:51] murder of his brother by those same senators.
+[02:52 --> 02:57] His brother's death left Gaius at 21, the patriarch of the wealthy and
+[02:57 --> 02:58] influential Gracchus family.
+[03:00 --> 03:04] For a few years, Gaius did attempt to pull back from a public career,
+[03:04 --> 03:06] declining to run for office when he came of age.
+[03:07 --> 03:10] Though, like I say, he couldn't avoid the pressure to follow in the
+[03:10 --> 03:15] footsteps of his brother, father, grandfather, and ancestors in every
+[03:15 --> 03:15] direction.
+[03:16 --> 03:19] Gaius was marked for a public career and there was nothing he could do
+[03:19 --> 03:21] about it.
+[03:22 --> 03:27] In 126 BC, he was elected questor and was assigned by lot to a post
+[03:27 --> 03:30] in Sardinia and by all accounts served as an able administrator.
+[03:32 --> 03:35] But it was on the island that Gaius found himself becoming personally
+[03:35 --> 03:37] embittered towards the Senate in his own right,
+[03:37 --> 03:40] not just for real and perceived slights against his family,
+[03:41 --> 03:43] but slights directed at him personally.
+[03:45 --> 03:50] As questor, Gaius served under the consul Lucius Orestes and in Roman
+[03:50 --> 03:53] tradition, if a consul was kept on in a certain territory,
+[03:53 --> 03:56] becoming a proconsul, then his officers stayed with him.
+[03:57 --> 04:01] In Rome, political class tensions continued to simmer after the
+[04:01 --> 04:04] death of Tiberius and the Senate was keen to keep Tiberius' younger
+[04:04 --> 04:07] brother out of the city while they undid all his work.
+[04:08 --> 04:12] So they voted to keep Orestes stationed in Sardinia and Gaius was
+[04:12 --> 04:14] forced to stay on.
+[04:14 --> 04:18] Another year passed and the Senate voted to keep Orestes on again.
+[04:18 --> 04:21] Gaius began to feel like the Senate was doing this on purpose.
+[04:22 --> 04:25] So when the Senate again voted Orestes proconsul for Sardinia,
+[04:25 --> 04:27] Gaius denounced he was leaving the island.
+[04:29 --> 04:30] There was nothing illegal about leaving,
+[04:30 --> 04:33] but it was completely unheard of.
+[04:33 --> 04:37] And so a Gracchae managed again to turn a binding cultural norm
+[04:37 --> 04:38] into so much hot air.
+[04:40 --> 04:45] He returned to Rome and in 123 BC was elected tribune of the plebs
+[04:45 --> 04:47] like his father and brother before him.
+[04:48 --> 04:51] The sources differ as to whether Gaius entered office with a
+[04:51 --> 04:55] revolutionary slate of proposals in hand or whether his
+[04:55 --> 04:57] platform grew organically as a response to circumstance.
+[04:58 --> 05:01] What is not disputed is that by the time he left office,
+[05:01 --> 05:04] almost every aspect of Roman society had been touched by
+[05:04 --> 05:07] one or another of his proposed reforms.
+[05:09 --> 05:12] He began innocuously enough addressing an issue that is
+[05:12 --> 05:14] actually in the headlines today,
+[05:14 --> 05:16] skyrocketing grain prices.
+[05:17 --> 05:20] Though the slave revolt in Sicily had been put down,
+[05:20 --> 05:24] a plague of locusts, yes, a plague of locusts,
+[05:24 --> 05:26] had swept through North Africa and there was a
+[05:26 --> 05:28] general shortage of grain coming into Rome.
+[05:29 --> 05:33] The city, swollen with poor and landless families,
+[05:33 --> 05:36] faced outrageous markups on basic food staples.
+[05:37 --> 05:39] The conditions that caused the shortages were real enough,
+[05:40 --> 05:42] but merchants were having a field day,
+[05:42 --> 05:44] taking full advantage of the panic in the streets.
+[05:45 --> 05:48] Gaius simply pushed through a cap on the price of grain.
+[05:49 --> 05:52] Essentially the Roman state began to bring in grain and
+[05:52 --> 05:54] settled at far below the inflated market rate.
+[05:55 --> 05:58] This transferred the burden of the price spike off the
+[05:58 --> 06:00] backs of the poor city dwellers and onto the
+[06:00 --> 06:02] collective back of the state treasury.
+[06:03 --> 06:06] The Senate was by no means pleased at Gaius' ingenious
+[06:06 --> 06:09] plan to invert basic economic common sense,
+[06:09 --> 06:12] buying high while selling low,
+[06:12 --> 06:15] but it did solve a pressing social concern
+[06:15 --> 06:16] and the people loved it,
+[06:16 --> 06:19] so there was only so much the elites felt they could do.
+[06:20 --> 06:22] In Gaius' grain plan,
+[06:22 --> 06:25] we find the seeds of the later full on food welfare
+[06:25 --> 06:28] program that became so important during the Imperium,
+[06:29 --> 06:30] but for now at least,
+[06:30 --> 06:33] the Roman state merely provided food at a normal price
+[06:33 --> 06:35] and was not yet handing it out for free.
+[06:37 --> 06:39] With the people now fully behind him,
+[06:39 --> 06:41] Gaius turned to settling old family scores.
+[06:42 --> 06:45] He passed a measure making it a crime to re-stand
+[06:45 --> 06:47] for the tribunate if the assembly voted
+[06:47 --> 06:49] to remove an officer from power.
+[06:50 --> 06:52] Gaius wanted to be clear that standing in the way
+[06:52 --> 06:54] of popular will was the shortest route
+[06:54 --> 06:56] to complete irrelevance.
+[06:56 --> 06:57] While at the same time,
+[06:57 --> 07:00] he wanted to legitimize Tiberius' recall vote
+[07:00 --> 07:02] of Octavius 10 years before,
+[07:02 --> 07:05] which had a very shaky legal foundation at the time.
+[07:07 --> 07:09] Gaius also passed a measure making it a crime
+[07:09 --> 07:11] to hand down capital punishment
+[07:11 --> 07:13] without the approval of the assembly.
+[07:14 --> 07:15] This measure was aimed directly
+[07:15 --> 07:17] in an ex-consul named Laenus,
+[07:18 --> 07:20] who had overseen the trials and executions
+[07:20 --> 07:24] of many of Tiberius' associates in 132 BC
+[07:24 --> 07:26] after the elder Grocki was killed.
+[07:27 --> 07:29] Gaius' new law contained the provision
+[07:29 --> 07:31] that it applied retroactively
+[07:31 --> 07:33] and Laenus was forced into exile
+[07:33 --> 07:36] for an act that was only later determined to be a crime.
+[07:37 --> 07:38] In most countries today,
+[07:38 --> 07:40] these kind of ex post facto,
+[07:40 --> 07:42] or literally after the fact,
+[07:42 --> 07:44] laws are explicitly prohibited
+[07:44 --> 07:46] as being an obvious source of mischief.
+[07:49 --> 07:50] Old scores settled,
+[07:50 --> 07:53] Gaius returned to what had made his brother
+[07:53 --> 07:55] so popular to begin with, agrarian reform.
+[07:57 --> 07:58] The agrarian commission,
+[07:58 --> 08:01] which had been rendered impotent in 129 BC,
+[08:01 --> 08:04] was rebooted and the process of identifying
+[08:04 --> 08:06] illegally held land and redistributing it
+[08:06 --> 08:08] was taken up again in earnest.
+[08:09 --> 08:12] Gaius followed this with laws on military service.
+[08:12 --> 08:15] Henceforth, no one under 17 was to be drafted
+[08:15 --> 08:17] and limits were put on the total number
+[08:17 --> 08:19] of years of service required.
+[08:20 --> 08:23] Also, an important step in the evolution of the army,
+[08:24 --> 08:25] Grockus demanded that the state
+[08:25 --> 08:27] provide soldiers with adequate clothing.
+[08:28 --> 08:30] During his time in Sardinia,
+[08:30 --> 08:33] he had witnessed firsthand drafted legionaries,
+[08:33 --> 08:36] freezing and miserable from a lack of proper supplies.
+[08:37 --> 08:40] It was a necessary provision to deal with real suffering,
+[08:40 --> 08:42] but it was another step on the road
+[08:42 --> 08:44] to the full-blown state funded armies
+[08:44 --> 08:46] that would tear the country apart in the years to come.
+[08:50 --> 08:52] Rounding out his first year in office,
+[08:52 --> 08:54] Gaius worked to reform the law courts,
+[08:55 --> 08:57] opening up the jury pool beyond the senatorial class,
+[08:58 --> 09:00] which had long held the strings of justice
+[09:00 --> 09:03] and creating a commission to investigate charges of bribery,
+[09:04 --> 09:06] a rampant problem that had been ignored for years.
+[09:08 --> 09:09] It had been a remarkable year
+[09:09 --> 09:12] and Gaius' popularity was at an all-time high.
+[09:13 --> 09:14] Because of this popularity,
+[09:15 --> 09:17] Gaius was able to, through no fault of his own,
+[09:17 --> 09:19] to succeed where his brother had failed
+[09:19 --> 09:21] and win another term in office.
+[09:22 --> 09:24] He had not even actively campaigned,
+[09:24 --> 09:25] but the assembly had failed
+[09:25 --> 09:27] to grant him majority to 10 tribunes,
+[09:28 --> 09:29] so the final slots were appointed
+[09:29 --> 09:31] by those tribunes who had won a majority,
+[09:32 --> 09:33] and they named Gaius,
+[09:33 --> 09:35] who though he had not sought the office,
+[09:35 --> 09:37] eagerly accepted their appointment.
+[09:39 --> 09:41] In his second term,
+[09:41 --> 09:42] Gaius brought to the table
+[09:42 --> 09:44] one of the thorniest issues of the day
+[09:44 --> 09:46] and dropped it right in the middle
+[09:46 --> 09:48] of an already chaotic political environment.
+[09:50 --> 09:52] The question was on the rights of non-Roman Italians
+[09:52 --> 09:55] and specifically whether they should be made full citizens.
+[09:57 --> 09:58] One of Gaius' fellow tribunes
+[09:58 --> 10:01] was a former consul named Marcus Fulvius,
+[10:01 --> 10:05] who had championed Italian citizenship in 125 BC.
+[10:05 --> 10:08] It was, in fact, Fulvius' proposal
+[10:08 --> 10:11] that had inspired the Senate to keep Gracchus in Sardinia.
+[10:13 --> 10:15] Italian citizenship was an idea whose time had come,
+[10:15 --> 10:17] but the Senate still balked at the idea
+[10:17 --> 10:19] of extending full rights to non-Romans.
+[10:20 --> 10:21] One of their greatest fears
+[10:21 --> 10:24] was that if they allowed populist reformers
+[10:24 --> 10:25] like Gracchus and Fulvius
+[10:25 --> 10:27] to bring the vote to the Italian allies,
+[10:27 --> 10:29] they would be rewarded with thousands and thousands
+[10:29 --> 10:31] of new clients ready to vote
+[10:31 --> 10:33] any way the tribunes directed them.
+[10:34 --> 10:36] It was an irrational fear as many of the Italians
+[10:36 --> 10:38] were feeling the brunt
+[10:38 --> 10:40] of the agrarian commission's redistribution efforts
+[10:40 --> 10:43] and had no great love for Gracchus,
+[10:43 --> 10:44] but the conservatives in the Senate
+[10:44 --> 10:47] began to see boogeymen around every corner.
+[10:49 --> 10:50] Gaius worked on other issues
+[10:50 --> 10:52] in addition to the citizenship proposal,
+[10:53 --> 10:54] shoring up the treasury
+[10:54 --> 10:57] by increasing the efficiency of provisional tax collection
+[10:57 --> 11:00] and attempting to release some of the population pressures
+[11:00 --> 11:02] on Rome by establishing colonies overseas.
+[11:04 --> 11:06] In total, Gaius' year and a half or so in office
+[11:06 --> 11:10] had seen him touch almost every aspect of the social order
+[11:10 --> 11:12] and universally acting in opposition
+[11:12 --> 11:14] to whatever the conservatives in the Senate
+[11:14 --> 11:15] wanted.
+[11:16 --> 11:17] Near the end of his second term,
+[11:18 --> 11:19] Gaius sailed for Carthage
+[11:19 --> 11:22] where one of his proposed colonies was being built.
+[11:23 --> 11:26] While he was gone, his voice and charisma left with him
+[11:26 --> 11:29] and his enemies began to openly plot the downfall
+[11:29 --> 11:30] of the troublesome tribune.
+[11:32 --> 11:33] When Gaius returned,
+[11:33 --> 11:36] he found his allies had one by one been turned
+[11:36 --> 11:38] against him and that all his reforms were threatened
+[11:38 --> 11:40] by outright repeal.
+[11:41 --> 11:44] The only option Gaius felt he had available to him
+[11:44 --> 11:47] was to tempt fate and do the only thing more unthinkable
+[11:47 --> 11:49] than serving his tribune for two terms,
+[11:49 --> 11:51] serving for three terms.
+[11:52 --> 11:53] This time though,
+[11:53 --> 11:55] his support amongst the non-Senatorial elites
+[11:55 --> 11:57] was at an all-time low
+[11:57 --> 12:00] as a mixture of bribes and threats had done their work.
+[12:01 --> 12:02] Gracchus was forced to fully embrace
+[12:02 --> 12:04] the persona of man of the people
+[12:04 --> 12:05] and hoped that he would be able
+[12:05 --> 12:07] to drum up enough votes to win.
+[12:08 --> 12:11] He moved from his estate on the Palatine Hill
+[12:11 --> 12:12] down into a local slum
+[12:12 --> 12:15] and began, with the help of his Greek speechwriters,
+[12:16 --> 12:18] to launch into full-throated populist campaign mode.
+[12:19 --> 12:22] He even went so far as to tear down a set of risers
+[12:22 --> 12:25] the wealthy would view an upcoming gladiatorial match from
+[12:25 --> 12:28] because they blocked the view of the commoners.
+[12:29 --> 12:31] But despite his desperate campaign,
+[12:31 --> 12:33] Gracchus was defeated in the polls.
+[12:34 --> 12:36] There were of course accusations of fraud
+[12:36 --> 12:38] and we will never know whether Gracchus
+[12:38 --> 12:39] actually won or not,
+[12:39 --> 12:42] but officially he was out and the new tribunes
+[12:42 --> 12:44] to a man enemies of Gracchus
+[12:44 --> 12:47] set about dismantling all his reforms.
+[12:49 --> 12:50] Gracchus and his colleague Fulvius
+[12:50 --> 12:53] made the fateful decision to muster
+[12:53 --> 12:55] a series of public demonstrations against repeal
+[12:55 --> 12:57] that took on an increasingly violent
+[12:57 --> 12:59] and seditious overtone.
+[13:00 --> 13:01] At one of these gatherings,
+[13:01 --> 13:03] a herald of Gracchus's chief opponent
+[13:03 --> 13:06] was killed by overzealous Gracchus supporters.
+[13:07 --> 13:09] As soon as the body hit the ground,
+[13:09 --> 13:11] Gaius knew he was undone.
+[13:11 --> 13:13] The tribunate did not waste time
+[13:13 --> 13:14] leaping from a murder charge
+[13:14 --> 13:17] against the men actually responsible for the crime
+[13:17 --> 13:19] to a full-blown charge of treason
+[13:19 --> 13:21] against Gaius and Fulvius.
+[13:22 --> 13:24] The two were immediately named enemies of the state
+[13:24 --> 13:26] and were forced to run.
+[13:27 --> 13:29] Fulvius was caught and murdered along with his two sons
+[13:29 --> 13:32] while Gaius fled with one of his slaves.
+[13:33 --> 13:35] Cornered and knowing that capture meant only disgrace
+[13:35 --> 13:37] followed by execution,
+[13:37 --> 13:39] he decided to skip the former
+[13:39 --> 13:42] and ordered his loyal slave to perform the latter.
+[13:43 --> 13:46] A murder-suicide later, they were both dead.
+[13:46 --> 13:48] And just like that, the Gracchae,
+[13:48 --> 13:50] who had so dominated Roman politics
+[13:50 --> 13:52] for the last decade, were gone.
+[13:55 --> 13:59] Tiberius and Gaius Gracchus left an indelible mark on Rome
+[13:59 --> 14:01] and changed the character of its society forever.
+[14:03 --> 14:05] Whatever the hopes of their political opponents,
+[14:05 --> 14:08] the Gracchian reforms could not simply be undone.
+[14:08 --> 14:11] It would take too much violence to remove citizens
+[14:11 --> 14:13] from their newly created farms,
+[14:13 --> 14:15] and besides, the negative press
+[14:15 --> 14:16] would be far too much to overcome.
+[14:17 --> 14:20] Of all his proposals, the only one to truly die
+[14:20 --> 14:22] was the matter of Italian citizenship.
+[14:23 --> 14:25] That would be tabled for another 30 years
+[14:25 --> 14:27] and require a full-blown revolt
+[14:27 --> 14:29] before the Italian allies were treated
+[14:29 --> 14:30] as equals within the state.
+[14:32 --> 14:35] I believe I mentioned after the end of the Samnite Wars
+[14:35 --> 14:37] that the Samnites would return with a vengeance
+[14:37 --> 14:39] in a few hundred years.
+[14:39 --> 14:41] Well, that time is fast approaching,
+[14:41 --> 14:43] as they would be leaders in the violence
+[14:43 --> 14:44] that led to citizenship.
+[14:46 --> 14:48] The Senate could have saved itself a lot of blood
+[14:48 --> 14:50] and treasure by simply recognizing the inevitability
+[14:50 --> 14:52] of extending citizenship,
+[14:52 --> 14:54] but sometimes things have to get out of hand
+[14:54 --> 14:57] before the hand finally loosens its grip.
+[14:59 --> 15:01] Beyond their legal reforms,
+[15:01 --> 15:04] the Gracchae introduced the idea of mob violence
+[15:04 --> 15:06] and mob pressure to Roman politics.
+[15:08 --> 15:10] Until now, the elites have been careful
+[15:10 --> 15:13] not to empower the masses or hint to them in any way
+[15:13 --> 15:15] that they far outnumbered their leaders
+[15:15 --> 15:17] and could, if they wanted to,
+[15:17 --> 15:20] get their way by sheer physical intimidation.
+[15:21 --> 15:23] Sure, the early history of the Republic
+[15:23 --> 15:25] saw a few secession of the plebs,
+[15:25 --> 15:28] but that was passive civil disobedience,
+[15:28 --> 15:29] not rioting in the streets.
+[15:31 --> 15:33] And the lesson of mob violence
+[15:33 --> 15:35] was a lesson well-learned by the next generations,
+[15:36 --> 15:38] and the streets of Rome will soon run red
+[15:38 --> 15:41] with the blood of mobs and counter mobs
+[15:41 --> 15:42] crashing into one another,
+[15:42 --> 15:45] egged on by leaders who crave power at any cost.
+[15:47 --> 15:50] Next week, we will introduce one of those leaders
+[15:50 --> 15:52] who learned the lessons of the Gracchae all too well.
+[15:53 --> 15:56] It will take at least two and possibly three episodes
+[15:56 --> 15:58] to cover the entire career of Gaius Marius,
+[15:59 --> 16:01] but his career is one of the most important
+[16:01 --> 16:02] in the late Republic,
+[16:03 --> 16:05] and it bears going into in some detail,
+[16:06 --> 16:08] because the mark he would leave on the Republic
+[16:08 --> 16:11] would soon come to resemble the kiss of death,
+[16:11 --> 16:14] as Julius Caesar would follow his father-in-law's career
+[16:14 --> 16:15] to its logical conclusion
+[16:15 --> 16:19] and have himself declared dictator for life.

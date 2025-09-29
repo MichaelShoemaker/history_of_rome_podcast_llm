@@ -1,0 +1,308 @@
+# 20110911 - 151- Bursting a Blood Vessel
+# Detected language: en
+# Duration: 1533.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:09] As you know, Audible is the Internet's leading provider of audio entertainment with over
+[00:09 --> 00:11] 80,000 titles to choose from.
+[00:11 --> 00:17] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:17 --> 00:21] That again, audiblepodcast.com forward slash Rome.
+[00:21 --> 00:25] By going to that address, you qualify for a free book download when you sign up for
+[00:25 --> 00:27] a 14-day trial membership.
+[00:27 --> 00:31] There is no obligation to continue the service, and you can cancel any time and keep the free
+[00:31 --> 00:32] book.
+[00:32 --> 00:36] Or you can keep going with one of the monthly subscription options and get great deals on
+[00:36 --> 00:40] all your future audiobook purchases.
+[00:40 --> 00:44] This week, I'm going to go with a golden nugget from American history recommended by
+[00:44 --> 00:47] listener Van Ervin.
+[00:47 --> 00:52] The complete, unabridged Lincoln-Douglas Debates, which features David Strathern and Richard
+[00:52 --> 00:55] Dreyfuss playing Lincoln and Douglas respectively.
+[00:56 --> 01:01] Awesome rhetorical sparring from two masters of the English language.
+[01:01 --> 01:06] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:11 --> 01:20] Hello, and welcome to the History of Rome, episode 151, Bursting a Blood Vessel.
+[01:21 --> 01:31] After he defeated Procopius in May of 366 AD, the Eastern Augustus Valens never again
+[01:31 --> 01:36] faced a serious threat from inside his half of the empire.
+[01:36 --> 01:41] By passing that initial test, the word appears to have gone out that he was here to stay
+[01:41 --> 01:44] and that everyone ought to just get along with their business.
+[01:44 --> 01:49] However, though he faced no more internal threats during his years governing the Eastern
+[01:49 --> 01:54] Empire, that did not mean that Valens was not constantly rushing around dealing with
+[01:54 --> 01:57] external threats.
+[01:57 --> 02:02] Just as his brother dealt with some new crisis every other week in the West, so too did Valens
+[02:02 --> 02:07] deal with some new crisis every other week in the East.
+[02:07 --> 02:13] Broadly speaking, however, there were two big issues that occupied most of his attention.
+[02:13 --> 02:18] What to do about the Goths and what to do about the Sassanids.
+[02:18 --> 02:23] Dealing with both at the same time would prove to be a tricky proposition, and eventually
+[02:23 --> 02:29] deep concentration on the latter would lead to a mishandling of the former and then, yeah,
+[02:29 --> 02:34] you know the rest.
+[02:34 --> 02:39] Valens spent the rest of 366 enjoying relative peace in his half of the empire, but in the
+[02:39 --> 02:45] spring of 367, it was right back into the thick of things.
+[02:45 --> 02:49] First up on the docket was a punitive campaign against the Goths.
+[02:49 --> 02:54] Now, as you may have noticed, the Goths have receded into the background a bit after being
+[02:54 --> 02:59] featured prominently during the crisis of the third century.
+[02:59 --> 03:05] Successive defeats at the hands of Gallienus and Claudius and Aurelian in the 260s and
+[03:05 --> 03:11] 270s AD had brought an end to their high-flying partying, and so they had withdrawn back across
+[03:12 --> 03:15] the Danube to nurse their hangovers.
+[03:15 --> 03:20] Since those heady days, the Goths had been acting more as trading partners with and mercenaries
+[03:20 --> 03:26] for the Romans rather than blood enemies of the Romans.
+[03:26 --> 03:28] But that was all about to change.
+[03:28 --> 03:34] Not because the Goths were feeling particularly belligerent again, but because desperate times
+[03:34 --> 03:39] were about to call for desperate measures.
+[03:39 --> 03:45] Shortly after Valens became emperor, smallish Gothic raiding parties had begun to make incursions
+[03:45 --> 03:51] into Roman territory, a problem Valens dealt with by transferring two legions into the
+[03:51 --> 03:53] affected area.
+[03:53 --> 03:58] These two legions are famous to us, however, not because of the battles they fought with
+[03:58 --> 04:04] the Goths, but because as they were passing through Constantinople, they were the two
+[04:04 --> 04:09] legions talked into supporting Procopius' revolt.
+[04:09 --> 04:15] When the usurper successfully captured Constantinople, he began casting about for allies, and in
+[04:15 --> 04:20] an interesting twist of fate, those very same Goths the legions had been sent to subdue
+[04:20 --> 04:25] turned out to be keen on an alliance.
+[04:25 --> 04:29] They had always been on good terms with the Constantinians, and with Procopius waving
+[04:29 --> 04:34] Constantine's standard around, supporting his cause seemed to the Goths like the right
+[04:34 --> 04:36] thing to do.
+[04:36 --> 04:41] If he won, then they would be well positioned for years to come.
+[04:41 --> 04:48] Except Procopius didn't win, and after Valens re-secured Constantinople, the emperor was
+[04:48 --> 04:54] eager to show the Goths just how poor their position now was.
+[04:54 --> 04:59] With both the initial raids and the support of Procopius to revenge, Valens crossed the
+[04:59 --> 05:06] Danube in the spring of 367 with retribution on the brain.
+[05:06 --> 05:10] But retribution was not the only thing on Valens' mind.
+[05:10 --> 05:14] He launched himself across the Danube not just because he wanted to teach the Goths
+[05:14 --> 05:19] a lesson, but also because he wanted to make sure that the Goths would not continue to
+[05:19 --> 05:24] stir up trouble when the emperor inevitably headed back to the Far East to deal with the
+[05:24 --> 05:27] Sassanids.
+[05:27 --> 05:33] Recall that before he had to return to Constantinople to deal with Procopius, that Valens had been
+[05:33 --> 05:36] on his way to Syria.
+[05:36 --> 05:41] Shapur was still riding high from his victory over Julian, and as you'll remember, the
+[05:41 --> 05:47] Persian king had taken Jovian surrender to mean that he now had carte blanche to do whatever
+[05:47 --> 05:49] he wanted.
+[05:49 --> 05:54] Territories had been invaded, the pro-Roman king of Armenia had been captured and then
+[05:54 --> 05:57] tortured and then executed.
+[05:57 --> 06:01] The border with Persia was where the real action really was.
+[06:01 --> 06:06] The campaign against the Goths was just a preliminary sideshow.
+[06:06 --> 06:16] Hopefully a personally satisfying sideshow, but a sideshow nonetheless.
+[06:16 --> 06:21] Driving the point home that the Far East was the critical theater of Valens' territory,
+[06:21 --> 06:27] at the same time that the emperor was crossing the Danube, Shapur was invading Iberia.
+[06:27 --> 06:32] Not the Iberian peninsula of course, but the for some reason identically named region in
+[06:32 --> 06:39] the Caucasus Mountains, roughly lining up with modern Georgia.
+[06:39 --> 06:44] In addition to Shapur's general goal of simply controlling more disputed territory, his invasion
+[06:44 --> 06:50] of Iberia was also undertaken with the specific goal of capturing the dead king of Armenia's
+[06:50 --> 06:52] region.
+[06:52 --> 06:56] The young prince was named, and I don't mean to sound rude, but frankly I find this name
+[06:56 --> 07:03] hilarious, Pap, and he had fled to Armenia following his father's death and was in hiding
+[07:03 --> 07:07] in one of the main cities of Iberia.
+[07:07 --> 07:13] Completely eliminating the pro-Roman royalty of Armenia was obviously in Shapur's interests,
+[07:13 --> 07:18] So the Persian king laid siege to the city that sheltered young prince Pap.
+[07:18 --> 07:25] Meanwhile, back in the central part of the empire, Valens was finding his campaign against
+[07:25 --> 07:31] the Goths to be much less satisfying than he had hoped.
+[07:31 --> 07:35] As soon as the legions crossed over, the majority of the Goths, or at least those Goths who
+[07:35 --> 07:44] had sided with Procopius, fled up into the Carpathian Mountains to avoid a confrontation.
+[07:44 --> 07:49] They were led up into the mountains by a charismatic leader named Othonaric, who will, just so
+[07:49 --> 07:55] you know, pop up repeatedly in our story as we move forward.
+[07:55 --> 08:00] At least partially aiding Valens in his hunt for Othonaric, though, was another Gothic
+[08:01 --> 08:08] who will also pop up again and again as our story unfolds, a fierce rival of Othonarics
+[08:08 --> 08:11] named Fritigern.
+[08:11 --> 08:16] Despite their mutual desire to see Othonaric in change, though, there was just no upside
+[08:16 --> 08:21] to marching into the mountains to track down some scattered Goths, and so the campaign
+[08:21 --> 08:30] of 367 turned out to be an empty affair for Valens and Fritigern.
+[08:30 --> 08:35] The next year was even more frustrating, as heavy rains flooded the Danube and made
+[08:35 --> 08:39] crossing over an impossibility.
+[08:39 --> 08:43] Still wanting to ensure that the Middle Empire would remain safe when he eventually headed
+[08:43 --> 08:49] east, though, Valens hung around and helped direct a complete reconstruction of the region's
+[08:49 --> 08:52] fortification network.
+[08:52 --> 08:55] It was while he was overseeing this project that a beleaguered refugee showed up at his
+[08:55 --> 08:58] doorstep begging for aid.
+[08:58 --> 09:02] The refugee was, of course, Pap.
+[09:02 --> 09:07] The prince had managed to slip through Shapur's siege line and was now requesting Valens do
+[09:07 --> 09:11] something about the illegal Persian aggression.
+[09:11 --> 09:16] Valens agreed that something needed to be done, and further agreed that with his father
+[09:16 --> 09:21] dead that Pap was the rightful king of Armenia.
+[09:21 --> 09:26] The emperor ordered a couple of legions to escort Pap back to Armenia and see him safely
+[09:26 --> 09:34] restored to the throne as soon as the next spring arrived.
+[09:34 --> 09:40] In the spring of 369, then, the focus of the emperor was clearly shifting toward a confrontation
+[09:40 --> 09:43] with the Persians.
+[09:43 --> 09:48] With the Danube's water receded, he once again crossed over the river with the overriding
+[09:48 --> 09:54] goal of quickly bringing Athanaric to some kind of battle, defeating him, and then working
+[09:54 --> 09:57] out a peace agreement.
+[09:57 --> 10:01] It didn't have to be the world's greatest peace agreement, but Valens did want it to
+[10:01 --> 10:08] come after some kind of Roman victory, for obvious political reasons.
+[10:08 --> 10:14] Obliging the emperor's strategy, this time Athanaric did not flee into the mountains,
+[10:14 --> 10:17] and Valens was able to track him down.
+[10:17 --> 10:23] An oversized skirmish broke out, the Romans drove off the Goths, and Valens declared victory.
+[10:24 --> 10:29] He then headed back across the Danube to Roman territory, and summoned Athanaric to come
+[10:29 --> 10:34] talk terms like a good little supplicant.
+[10:34 --> 10:40] But the Gothic leader, defeated but not cowed, refused to cross the river, stating that he
+[10:40 --> 10:45] had sworn an oath never to set foot in Roman territory.
+[10:45 --> 10:51] Obviously, it was out of the question for Valens to cross back over the river, as it
+[10:51 --> 10:57] simply wouldn't do for the emperor of the Romans to go call on some Gothic chieftain,
+[10:57 --> 11:03] so the two sides were at an impasse.
+[11:03 --> 11:07] But since Valens wanted to get a deal done as quickly as possible, he was amenable to
+[11:07 --> 11:13] a compromised solution, and so the two leaders met on an island in the middle of the Danube,
+[11:13 --> 11:17] which allowed both to save face.
+[11:17 --> 11:21] Once they were across the table from each other, the two leaders hammered out peace
+[11:21 --> 11:28] terms, which was good, but those terms in the end wound up hurting both sides, which
+[11:28 --> 11:31] was bad.
+[11:31 --> 11:37] Athanaric would no longer be required to provide troops for the Roman Empire, and in return,
+[11:37 --> 11:44] the Romans would no longer recognize the free trade rights of Athanaric's Goths.
+[11:44 --> 11:48] The short-term result of the deal was that the Goths seized hostilities, and Valens was
+[11:48 --> 11:54] able to turn his attention east with something resembling peace of mind.
+[11:54 --> 11:59] The long-term result of the deal was that Valens had cut himself off from a major source
+[11:59 --> 12:05] of new recruits for the army, and the Gothic economy was devastated by all the duties,
+[12:05 --> 12:11] restrictions, and taxes Roman merchants were now able to throw up in their faces.
+[12:11 --> 12:15] But that was for later.
+[12:15 --> 12:22] For now, Valens was finally able to turn his attention to the Persian question.
+[12:22 --> 12:27] When Pap arrived in Armenia backed by Roman muscle, the plan was for him to be simply
+[12:27 --> 12:29] placed back on the throne.
+[12:29 --> 12:34] But things turned out to be a wee bit harder than that.
+[12:34 --> 12:39] When Shapur heard what the Romans were up to, he gathered up a full army and invaded
+[12:39 --> 12:44] Armenia, easily putting the couple of thousand Roman soldiers who had served as Pap's escort
+[12:44 --> 12:49] to flight, and the would-be king fled after them.
+[12:49 --> 12:56] With the Romans gone, Shapur went a little berserk and laid waste to the Armenian countryside.
+[12:56 --> 13:01] Maybe in an effort to get the people of Armenia to blame Pap and the Romans for the devastation.
+[13:01 --> 13:06] You know, one of those, stop supporting the guerrillas and we'll stop bombing your cities
+[13:06 --> 13:08] kind of things.
+[13:08 --> 13:12] Or maybe it was just out and out terror tactics.
+[13:12 --> 13:18] Whichever, after Valens concluded his peace with the Goths, he was able to muster a larger
+[13:18 --> 13:24] force and in the spring of 370 he sent them to put Pap on the throne of Armenia.
+[13:24 --> 13:29] This far larger force was quite a bit more intimidating than the previous escort had
+[13:29 --> 13:34] been and the Romans succeeded this time in retaking the western half of the country and
+[13:34 --> 13:37] declaring Pap king.
+[13:37 --> 13:43] Over the course of the next year, the Roman army pushed steadily east until by mid 371
+[13:43 --> 13:47] they were knocking on the door of Iberia.
+[13:47 --> 13:51] Shapur made a stand near the border between Armenia and Iberia, but in the ensuing battle
+[13:51 --> 13:58] he was beaten, but not necessarily decisively, by the Roman army.
+[13:58 --> 14:02] At this point, Shapur found himself in much the same place that Valens had just found
+[14:02 --> 14:05] himself with regard to the Goths.
+[14:05 --> 14:11] That is, what he needed right now more than anything else was a quick peace treaty.
+[14:11 --> 14:17] In the far east of the Sassanid kingdom, the Kushans had revolted, sending the region into
+[14:17 --> 14:19] chaos.
+[14:19 --> 14:23] Shapur needed to break off hostilities in the west so he could go deal with the far
+[14:23 --> 14:26] less stable crisis in the east.
+[14:26 --> 14:30] The Persian king and the Roman high command at the scene came to terms establishing the
+[14:30 --> 14:37] pro-Roman neutrality of Armenia, the independence of Iberia, and, treaty in hand, Shapur raced
+[14:37 --> 14:42] toward India.
+[14:42 --> 14:46] This would have all been well and good for Valens, had not Pap turned out to be a bit
+[14:46 --> 14:49] of a despicable jackass.
+[14:49 --> 14:54] Upon assuming control of Armenia, Pap proceeded to alienate the ruling aristocracy, the common
+[14:54 --> 14:58] people, and the Roman ambassadors.
+[14:58 --> 15:03] At some point between 371 and 374, things with Pap came to a head.
+[15:03 --> 15:10] With the young king's execution of a bishop, possibly serving as a breaking point, Valens
+[15:10 --> 15:14] decided to take care of the problem once and for all.
+[15:14 --> 15:19] Sick of getting nothing but aggravating reports about what Pap had done now, Valens decided
+[15:19 --> 15:22] to just start over.
+[15:22 --> 15:27] He ordered his men in Armenia to arrest Pap and execute him.
+[15:27 --> 15:31] No one in the country was really a fan of Pap's, so I'm sure Valens was figuring an
+[15:31 --> 15:35] assassination wouldn't really be too much of an issue.
+[15:35 --> 15:40] Except that when Shapur found out about it, he decided to make it an issue.
+[15:40 --> 15:44] The treaty he had signed with Rome clearly stated that Pap was the rightful ruler of
+[15:44 --> 15:50] Armenia, and that the Romans would stay out of the country's internal affairs.
+[15:50 --> 15:55] There was a line between Armenia being pro-Roman but independent, and Armenia being merely
+[15:55 --> 16:01] an extension of the empire, and Valens had just crossed it.
+[16:01 --> 16:06] So with the cushions subdued, around 374, the Persian king marched back across his kingdom
+[16:06 --> 16:13] to once again square off with the Romans over the issue of Armenia.
+[16:13 --> 16:18] Which brings us to the fateful year of 375 AD.
+[16:18 --> 16:23] You'll recall from last week that an invasion of Illyria by the Quadi and Sarmatians had
+[16:23 --> 16:29] dragged Valentinian over to the Danube frontier from his base along the Rhine, and that shortly
+[16:29 --> 16:34] after his arrival, the barbarian raiders were begging for leniency.
+[16:34 --> 16:39] The emperor was in no mood to just let them off the hook though, and so over the course
+[16:39 --> 16:44] of 375, he prosecuted a little war north of the Danube to punish the tribes for their
+[16:44 --> 16:46] aggression.
+[16:46 --> 16:51] We left off, you'll remember, with the emperor finally accepting the Quadi's apologies after
+[16:51 --> 16:56] he had kicked them around some, and specifically, we left off with the emperor agreeing to a
+[16:56 --> 17:03] face to face meeting with the Quadi ambassadors before they went home.
+[17:03 --> 17:09] Now as we've seen over and over again, Valentinian was a man of pride, and a man who was very
+[17:09 --> 17:15] protective of the awesome stature of the Roman emperor, and he was highly sensitive to any
+[17:15 --> 17:19] perceived slights to his authority.
+[17:19 --> 17:24] Not to engage in armchair psychology, but given how often in the last ten years his
+[17:24 --> 17:30] will had been thwarted, his demands had been unmet, and his orders had gone unfulfilled,
+[17:30 --> 17:37] I think perhaps Valentinian had drifted into over sensitivity about perceived slights to
+[17:37 --> 17:38] his authority.
+[17:38 --> 17:45] Anyway, for whatever reason, Valentinian made an exception to his general rule of not meeting
+[17:45 --> 17:53] with foreign ambassadors, and what a fatal exception it turned out to be.
+[17:53 --> 17:57] The meeting began well enough, with the emperor berating the Quadi for their transgressions,
+[17:57 --> 18:02] and the Quadi taking it and saying, thank you sir, may I have another.
+[18:02 --> 18:07] But then, when it was the Quadi's turn to speak, they did not do what they were supposed
+[18:07 --> 18:12] to do, and beg humbly for the emperor's continued benevolence.
+[18:12 --> 18:17] Instead, they took the opportunity to reiterate their original argument, that they had been
+[18:17 --> 18:22] provoked to war first by the building of Roman forts in their territory, and then by the
+[18:22 --> 18:26] murder of their king.
+[18:26 --> 18:31] Upon hearing this, Valentinian's blood began to boil.
+[18:31 --> 18:36] As emperor, he had already determined the guilt and innocence of the parties involved,
+[18:36 --> 18:42] and he had determined the Quadi were guilty, and Marcellianus was innocent.
+[18:42 --> 18:49] To continue to argue otherwise was an insult to his majesty the emperor.
+[18:49 --> 18:52] But then the Quadi ambassadors went on.
+[18:52 --> 18:57] They reminded the emperor that the Quadi were not some monolithic thing, they were a loose
+[18:57 --> 19:01] confederation of independent tribes.
+[19:01 --> 19:05] That while the representatives present fully intended to hold up their end of the bargain
+[19:05 --> 19:11] on behalf of the specific tribes they represented, they couldn't necessarily guarantee that other
+[19:11 --> 19:15] tribes not represented would do the same.
+[19:15 --> 19:19] They mentioned this because they didn't want to get smacked around for something somebody
+[19:19 --> 19:24] else had done, which was an understandable point.
+[19:24 --> 19:30] But what Valentinian, already pretty ticked off, heard was, oh yeah, by the way, the treaty
+[19:30 --> 19:35] we just signed isn't actually worth a damn, and we're just going to keep doing whatever
+[19:35 --> 19:38] we want to do.
+[19:38 --> 19:41] This was too much for the emperor.
+[19:41 --> 19:46] He got up and began angrily berating the Quadi ambassadors for their insolence, picking up
+[19:46 --> 19:52] steam as he went along until he was in the middle of a full blown screaming rant.
+[19:52 --> 20:00] At the peak of this tirade, the emperor suddenly paused, and then he fell over.
+[20:00 --> 20:06] Court officials rushed to his side and attempted to revive him, but to no avail.
+[20:06 --> 20:11] Valentinian had worked himself up into such a towering rage that he had suffered a fatal
+[20:11 --> 20:13] stroke.
+[20:13 --> 20:19] He was 54 years old and had ruled the empire for almost 12 years.
+[20:19 --> 20:26] His death is by far my most favorite of all imperial deaths.
+[20:26 --> 20:32] As I mentioned when Valentinian first became emperor, his legacy is difficult to assess,
+[20:32 --> 20:38] in no small part because Ammianus Marcellinus, one of our prime sources for this period,
+[20:38 --> 20:42] clearly doesn't like Valentinian one bit.
+[20:42 --> 20:48] Marcellinus constantly paints Valentinian as an arrogant, uneducated boar, which he
+[20:48 --> 20:53] may well have been, but is it safe to assign all the bad things that happened during his
+[20:53 --> 20:57] reign to the emperor's lack of character?
+[20:57 --> 21:04] Maybe yes and maybe no, but we just really don't have that much to go on.
+[21:04 --> 21:09] What I think is clear though is that Valentinian's reign was a transitional period for the west,
+[21:09 --> 21:14] not at all in a good way, and that the emperor did very little to help turn the situation
+[21:14 --> 21:16] around.
+[21:16 --> 21:22] He seems to have spent a lot of time acting like he was living in the age of the Antonines,
+[21:22 --> 21:25] when the empire was well-run and all-powerful.
+[21:25 --> 21:27] But he wasn't.
+[21:27 --> 21:32] He was living in a time when the empire's grip over the provinces was slipping and,
+[21:32 --> 21:38] while still powerful, could not simply do whatever it wanted to do.
+[21:38 --> 21:43] There were chinks in the armor all over the place, and instead of recognizing that obvious
+[21:43 --> 21:52] fact, Valentinian appears to have walked around like the Roman Empire was still invincible.
+[21:52 --> 21:57] That said, he was effective, eventually, in dealing with the crises that erupted during
+[21:57 --> 21:59] his reign.
+[21:59 --> 22:03] The Alamani were pushed back, the loss of Britain was staved off, the problems in North
+[22:03 --> 22:09] Africa, first a corrupt administration and then a local revolt, were both resolved, and
+[22:09 --> 22:15] just now the Quadian Sarmatians were back on the north side of the Danube, even if their
+[22:15 --> 22:19] attitude had just accidentally killed him.
+[22:19 --> 22:24] In none of these instances did Valentinian get it right the first time, but in all of
+[22:24 --> 22:32] these instances he got it right eventually, and he does deserve credit for that.
+[22:32 --> 22:38] As I just said, Valentinian's reign was a period of transition for the west, as intensified
+[22:38 --> 22:44] attacks from the outside exposed the weaknesses of the empire's defenses, and poor administration
+[22:44 --> 22:50] on the inside exposed the weaknesses of the empire's government.
+[22:50 --> 22:55] Then to top it all off, Valentinian's death would mark one of the greatest transitions
+[22:55 --> 23:02] of all, the transition away from strong imperial leadership.
+[23:02 --> 23:09] Never again would the people of the west enjoy a powerful emperor ruling in their midst.
+[23:09 --> 23:14] What they got after Valentinian was a series of weak puppets, hiding out behind a ring
+[23:14 --> 23:19] of swamps that surrounded Ravenna, afraid to leave their palaces, and afraid to face
+[23:19 --> 23:23] the destruction of their empire.
+[23:23 --> 23:29] We will have a great deal more to say about how and why the western empire fell apart,
+[23:29 --> 23:34] but one of the things definitely kicking around in there was the total failure of the imperial
+[23:34 --> 23:40] system to produce emperors worth a damn in the west.
+[23:40 --> 23:44] I don't think this was the biggest reason for the fall, but I do think it was one of
+[23:44 --> 23:50] the secondary issues that compounded the empire's larger problems.
+[23:50 --> 23:55] Meanwhile, Valentinian's death could not have come at a worse time for his brother
+[23:55 --> 23:58] Valens.
+[23:58 --> 24:03] If there was ever a moment when two strong emperors were needed, then right now was that
+[24:03 --> 24:05] moment.
+[24:05 --> 24:09] In addition to the fact that war with the Sassanids was looming once again, a revolt
+[24:09 --> 24:12] had broken out in Cilicia.
+[24:12 --> 24:17] Preparing for war in the east meant reassigning troops away from the Danube.
+[24:17 --> 24:23] The revolt in Cilicia meant reassigning more troops away from the Danube.
+[24:23 --> 24:28] Pretty soon the northern frontier was dangerously under-garacened.
+[24:28 --> 24:31] Then the craziest thing happened.
+[24:31 --> 24:36] An army of Goths began to mass on the north bank of the Great River.
+[24:36 --> 24:39] But they weren't looking for a fight.
+[24:39 --> 24:42] They were asking for asylum.
+[24:42 --> 24:45] The fearsome Goths asking for asylum?
+[24:45 --> 24:51] Who or what could they possibly be asking for asylum from?
+[24:51 --> 24:56] Next week we will answer those questions by introducing the unstoppable juggernaut known
+[24:56 --> 25:04] as the Huns, whose irresistible western migration was about to completely rearrange the face
+[25:04 --> 25:05] of the Roman Empire.

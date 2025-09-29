@@ -1,0 +1,449 @@
+# 20100225 - 005- Trials and Tribunlations
+# Detected language: en
+# Duration: 950.10 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:06] Hello, and welcome to the History of Rome.
+[00:08 --> 00:13] Last week, we discussed the transitional year of 509 BC, when Rome went from being a typical
+[00:13 --> 00:16] Italian kingdom to an atypical Italian republic.
+[00:17 --> 00:20] Though the actual workings of the republic were not as democratic as they appeared
+[00:20 --> 00:24] on the surface, the fact remained that the monarchy had been abolished and annual
+[00:24 --> 00:26] elections now determined leadership.
+[00:27 --> 00:31] The first years after the change would prove difficult for the new government, for it faced
+[00:31 --> 00:33] both internal dissension and external invasion.
+[00:34 --> 00:38] Those years would see the final defeat of the Tarquans, the re-subduing of Latium,
+[00:39 --> 00:43] and finally the extension of political rights to the Plebes with the creation of the
+[00:43 --> 00:46] Office of Tribune, the plebeian answer to the patrician consulship.
+[00:48 --> 00:55] After his Viet army was defeated, the ex-king Tarquan next took refuge in the
+[00:57 --> 01:00] Tarquan begged Porsenna to attack the Romans, repeating his line about the threat
+[01:00 --> 01:05] democracy posed to royalty everywhere and the necessity of returning a king to the
+[01:05 --> 01:05] throne.
+[01:06 --> 01:10] Porsenna, like the Viet, no doubt took this argument under advisement, but when
+[01:10 --> 01:14] he agreed to make war with the Romans, he did so ultimately for his own reasons.
+[01:15 --> 01:17] There are two accounts of what happened next.
+[01:17 --> 01:22] Either Porsenna invaded and was successfully repulsed, or he invaded and captured the
+[01:22 --> 01:22] city.
+[01:23 --> 01:28] The former is alleged by Roman folktales, the latter is supported by modern historical
+[01:28 --> 01:28] analysis.
+[01:30 --> 01:34] According to the legendary tradition, Porsenna, in defense of his fellow Etruscan king
+[01:34 --> 01:38] Tarquan, marched south and was met by the Roman forces at the Tiber.
+[01:39 --> 01:44] The Romans, seeing the size of the Etruscan army, fled back across the river, leaving
+[01:44 --> 01:47] the bridge, and therefore the city, unguarded.
+[01:47 --> 01:52] A single Roman soldier named Horatius, realizing he could not prevent the army's
+[01:52 --> 01:56] fight, ordered men to set fire to the bridge in order to prevent the Etruscans from
+[01:56 --> 01:58] crossing and sacking the city.
+[01:58 --> 02:02] To buy time, he stood alone on the far side of the bridge and challenged the
+[02:02 --> 02:04] whole of Porsenna's army to combat.
+[02:05 --> 02:08] While the dumb-struck Etruscans tried to figure out what they should do with
+[02:08 --> 02:13] this crazy, brave, but clearly suicidal soldier, the other Romans set fire to
+[02:13 --> 02:14] the wooden bridge.
+[02:14 --> 02:18] The Etruscans were finally snapped out of their stupor when the burning bridge
+[02:18 --> 02:22] collapsed into the river and attacked, but Horatius jumped in the river and swam
+[02:22 --> 02:27] unscathed to the other side, saving the city and enrolling himself in the
+[02:27 --> 02:29] pantheon of great Roman heroes.
+[02:30 --> 02:34] Porsenna was forced to initiate a siege, which proved no more effective than his
+[02:34 --> 02:38] initial assault, again due to the bravery of a single Roman citizen.
+[02:38 --> 02:43] This time it was Mucius Scavola, who proved his valor and secured ultimate
+[02:43 --> 02:44] victory for Rome.
+[02:44 --> 02:47] The city was suffering under Porsenna's siege and showed no sign to
+[02:47 --> 02:49] being able to fight it off.
+[02:49 --> 02:53] Mucius, taking matters into his own hand, crossed over to the Etruscan camp.
+[02:53 --> 02:57] He made his way to Porsenna's headquarters and waited for an opportunity
+[02:57 --> 02:57] to strike.
+[02:58 --> 03:02] When Porsenna's entourage emerged, Mucius attempted to assassinate the king,
+[03:02 --> 03:06] but, unsure of who his target was, mistakenly attacked one of the
+[03:06 --> 03:07] king's secretaries.
+[03:08 --> 03:11] Mucius was seized and dragged before the shaken king.
+[03:11 --> 03:15] What happened next would be the stuff of Roman legend and a moral story
+[03:15 --> 03:18] to inspire generation upon generation of future citizens.
+[03:19 --> 03:23] Mucius told the king that the Romans had declared war not on the men of
+[03:23 --> 03:26] Colusium, but upon Porsenna personally, and that he was merely the
+[03:26 --> 03:29] first in a long line of assassins who would not stop until the king
+[03:29 --> 03:30] was dead.
+[03:31 --> 03:36] The king, unnerved by this idea, ordered Mucius burned alive and found
+[03:36 --> 03:39] himself only further unnerved by what Mucius did next.
+[03:39 --> 03:43] The Romans stuck his right hand into the fire and, without flinching,
+[03:43 --> 03:44] allowed it to burn.
+[03:45 --> 03:48] He declared that such was the regard Roman men held for their bodies and
+[03:48 --> 03:51] that the king should remember what lay in store for him.
+[03:52 --> 03:55] Porsenna was, to say the least, impressed and very freaked out.
+[03:56 --> 03:59] He allowed Mucius to go free, commending the man for his bravery.
+[03:59 --> 04:02] And not wishing to live his life under a death sentence from a
+[04:02 --> 04:05] bunch of psychotic patriot assassins, he made peace with
+[04:05 --> 04:08] Rome and lifted the siege, never having taken the city.
+[04:08 --> 04:10] This was the official legend.
+[04:11 --> 04:15] Other, non-Roman sources tell a different, more plausible story.
+[04:15 --> 04:18] In this version, Porsenna did indeed take Rome in the turbulent
+[04:18 --> 04:21] years after the founding of the republic and set up a puppet
+[04:21 --> 04:22] government.
+[04:22 --> 04:25] The outcome seems reasonable in that the Etruscans of Colusium
+[04:25 --> 04:28] would have been much stronger and far better equipped than the
+[04:28 --> 04:31] Romans were at this point, and resistance would have been futile
+[04:31 --> 04:31] at best.
+[04:32 --> 04:35] The reason Porsenna, who is a confirmed historical figure,
+[04:35 --> 04:38] invaded Rome is a further divide between fact and legend.
+[04:39 --> 04:42] The melodrama of Tarquin's plea for Etruscan solidarity is
+[04:42 --> 04:46] pure fiction, as is the decisiveness of individual Roman
+[04:46 --> 04:46] bravery.
+[04:47 --> 04:51] Population upheaval in Italy around 500 BC had resulted in an
+[04:51 --> 04:54] estrangement between Etruria and their Greek trading
+[04:54 --> 04:55] partners in the south.
+[04:56 --> 04:58] Specifically, Etruscan trade routes were disrupted by the
+[04:58 --> 05:01] Volscians, a central Italian hill tribe who settled the
+[05:01 --> 05:04] plains between Etruria and Magna Graecia south of Rome.
+[05:05 --> 05:08] Porsenna's conquest of the Romans was just a step in the
+[05:08 --> 05:11] greater project of maintaining the safety of the southern
+[05:11 --> 05:12] trade roads from attack.
+[05:13 --> 05:15] Disabusing the notion that the war had been waged on
+[05:15 --> 05:18] Tarquin's behalf, Porsenna left his son in charge of
+[05:18 --> 05:20] matters in Latium after defeating Rome.
+[05:21 --> 05:23] His son, though, was defeated by an army of allied
+[05:23 --> 05:26] Latins and driven back north, re-securing independence
+[05:26 --> 05:28] for Rome as an unintended byproduct.
+[05:29 --> 05:31] The Latin communities emerged strong from the encounter,
+[05:31 --> 05:35] and Rome humbled, setting up a major confrontation for
+[05:35 --> 05:38] control of central Italy that would ultimately see Rome
+[05:38 --> 05:40] re-emerge as the dominant force in Latium for another
+[05:40 --> 05:42] 150 years.
+[05:43 --> 05:46] The Latins had chafed under Roman rule during the reign
+[05:46 --> 05:49] of the Tarquins and took the opportunity presented by
+[05:49 --> 05:51] Rome's weakened position to attempt a redrawing of the
+[05:51 --> 05:52] political landscape.
+[05:53 --> 05:56] Disorganized by Porsenna's invasion and a lack of
+[05:56 --> 05:59] internal political unity, Rome seemed easy pickings for
+[05:59 --> 06:00] the emboldened Latins.
+[06:00 --> 06:04] But they underestimated Rome's will, a common mistake
+[06:04 --> 06:06] made by enemies of the empire for years to come.
+[06:07 --> 06:09] An alliance of Latin communities broke from the
+[06:09 --> 06:12] Romans and forced the issue into an armed conflict,
+[06:12 --> 06:15] which they thought would see them master Rome, but
+[06:15 --> 06:18] instead it led them right back under the yoke.
+[06:18 --> 06:21] A decisive battle was fought near Lake Regilis,
+[06:21 --> 06:22] southeast of Rome.
+[06:22 --> 06:24] And though the details of the fight are unimportant,
+[06:25 --> 06:27] the Battle of Lake Regilis is important for two
+[06:27 --> 06:27] reasons.
+[06:27 --> 06:31] First, as I mentioned, it ended Latin resistance to
+[06:31 --> 06:34] Rome for another 150 years, until, embroiled in a long
+[06:34 --> 06:37] war with the Samnites, Rome was again seen as
+[06:37 --> 06:38] vulnerable enough to resist.
+[06:39 --> 06:42] Second, it marked the first time that a dictator led a
+[06:42 --> 06:43] Roman army in battle.
+[06:45 --> 06:47] The office of dictator was a curious instrument to find
+[06:47 --> 06:50] within the constitution of a republic, but the
+[06:50 --> 06:52] Romans felt that extraordinary emergencies
+[06:52 --> 06:55] called for extraordinary solutions, and dictators
+[06:55 --> 06:57] who were appointed periodically over the years
+[06:57 --> 06:58] when such emergencies arose.
+[06:59 --> 07:02] Basically, a dictator was appointed when all the
+[07:02 --> 07:05] red tape needed to be cut through, and one single
+[07:05 --> 07:07] man needed to take decisive action now,
+[07:08 --> 07:10] without complaint or appeal or challenge.
+[07:11 --> 07:13] According to law, a dictator could be appointed
+[07:13 --> 07:15] for one six-month term, at the end of which he
+[07:15 --> 07:18] would resign and power revert back to the
+[07:18 --> 07:18] consuls.
+[07:19 --> 07:21] At the beginning of his term, the dictator
+[07:21 --> 07:23] appointed a vice-dictator, called his
+[07:23 --> 07:26] master of horse, who was accountable to no one but
+[07:26 --> 07:27] the dictator himself.
+[07:28 --> 07:30] The Romans were sufficiently distressed by the
+[07:30 --> 07:32] hostility of the Latins that they used their
+[07:32 --> 07:34] extraordinary solution for the first time to lead
+[07:34 --> 07:37] an army against a foreign threat, and
+[07:37 --> 07:39] technically the first dictator ever appointed had
+[07:39 --> 07:42] been a man named Titus Lardius, who had served
+[07:42 --> 07:44] briefly in that position two years before to
+[07:44 --> 07:47] quote internal riots, but beyond trivia, the
+[07:47 --> 07:48] event is hardly worth mentioning.
+[07:49 --> 07:51] The appointment of a Louis Postjumish, however,
+[07:51 --> 07:53] was a watershed moment.
+[07:54 --> 07:56] Lardius' appointment had been a ploy used by the
+[07:56 --> 07:58] patricians to put the fear of God back into the
+[07:58 --> 08:01] plebes, which of course it did, but there was
+[08:01 --> 08:03] never any question of actually instilling him
+[08:03 --> 08:05] with dictatorial powers for any period of time.
+[08:06 --> 08:08] Postjumius, however, was given the keys to the
+[08:08 --> 08:11] city and told to do whatever was necessary to
+[08:11 --> 08:13] defeat the Latins, essentially that he was
+[08:13 --> 08:14] now a law unto himself.
+[08:16 --> 08:18] Postjumius did indeed lead the army to
+[08:18 --> 08:20] victory over the Latins, and then, in a
+[08:20 --> 08:23] remarkable display of constitutional loyalty,
+[08:23 --> 08:25] stepped down from the heady heights of absolute
+[08:25 --> 08:28] dictatorship and restored the consuls to their
+[08:28 --> 08:29] rightful positions.
+[08:30 --> 08:32] The remarkable giving up of power demonstrates
+[08:32 --> 08:35] both Postjumius' personal honor and the
+[08:35 --> 08:37] extent to which Rome as a whole probably would
+[08:37 --> 08:39] have cried out for his murder if he had
+[08:39 --> 08:40] considered remaining in power.
+[08:41 --> 08:43] The monarchy really was dead, and though
+[08:43 --> 08:45] dictators would be appointed off and on for
+[08:45 --> 08:48] the next 450 years, it was not until Julius
+[08:48 --> 08:50] Caesar that a dictator did not ultimately
+[08:50 --> 08:52] resign of his own free will.
+[08:54 --> 08:55] The Latins reconquered and the dictatorship
+[08:55 --> 08:56] passed.
+[08:57 --> 08:59] Rome found itself at peace, and as a
+[08:59 --> 09:01] general rule, whenever Rome found itself at
+[09:01 --> 09:04] peace abroad, it immediately found itself
+[09:04 --> 09:04] divided at home.
+[09:05 --> 09:08] The question of plebeian rights, never
+[09:08 --> 09:10] satisfactorily settled, now reared its
+[09:10 --> 09:11] head once again.
+[09:12 --> 09:14] The plebes were not to be put off this time.
+[09:14 --> 09:16] No amount of patrician chicanery and backroom
+[09:16 --> 09:18] dealing would break their solidarity.
+[09:19 --> 09:21] Only rights guaranteed by law would
+[09:21 --> 09:22] satisfy them now.
+[09:22 --> 09:24] The plebes would ultimately win political
+[09:24 --> 09:26] concessions from the patricians, though
+[09:26 --> 09:28] it took the first recorded strike in
+[09:28 --> 09:29] history to do so.
+[09:30 --> 09:32] Trouble arose over the matter of debt
+[09:32 --> 09:32] bonding.
+[09:33 --> 09:35] In Roman law at the time, if a debtor
+[09:35 --> 09:36] could not pay his creditor, then he
+[09:36 --> 09:38] became a bonded servant to the creditor
+[09:38 --> 09:39] until the debt was repaid.
+[09:40 --> 09:42] The system of indentured servitude
+[09:42 --> 09:44] essentially made permanent slaves of the
+[09:44 --> 09:46] debtors because, while servants to the
+[09:46 --> 09:48] creditors, they were unable to earn
+[09:48 --> 09:50] any money to pay off their debts.
+[09:51 --> 09:52] Many of the soldiers who fought in the
+[09:52 --> 09:54] recent war against the Latins found
+[09:54 --> 09:55] themselves bonded in this way.
+[09:56 --> 09:58] The practice in this case was especially
+[09:58 --> 10:00] egregious because the debts were incurred
+[10:00 --> 10:01] while the men were off fighting in
+[10:01 --> 10:03] patriotic defense of the city.
+[10:04 --> 10:06] The plebes agitated for debt relief
+[10:06 --> 10:08] but were rebuffed by the patricians,
+[10:08 --> 10:10] whose attitude was basically, you take
+[10:10 --> 10:12] on the debt, you pay the price.
+[10:13 --> 10:14] Offended by this high-handed
+[10:14 --> 10:16] treatment, the plebes were on the
+[10:16 --> 10:18] verge of full-blown revolt when the
+[10:18 --> 10:19] city suddenly found itself under
+[10:19 --> 10:20] attack from all sides.
+[10:21 --> 10:24] The Sabines, Volshans, and Aquians all
+[10:24 --> 10:26] began making forays into Roman
+[10:26 --> 10:28] territory and the Senate called for
+[10:28 --> 10:29] armies to be raised.
+[10:30 --> 10:32] The plebes sensed an opportunity and
+[10:32 --> 10:33] when the consuls began calling names
+[10:33 --> 10:35] for enlistment, not one of them made
+[10:35 --> 10:35] a move.
+[10:36 --> 10:38] The Senate was basically beside itself
+[10:38 --> 10:40] at this mass act of treason and
+[10:40 --> 10:42] immediately appointed a dictator to
+[10:42 --> 10:43] smash the resistance.
+[10:43 --> 10:45] But at an amazing display of
+[10:45 --> 10:47] moderation and wisdom, they appointed
+[10:47 --> 10:49] the brother of Publius Publicoa,
+[10:49 --> 10:51] Manlius Valerius, whom the plebes
+[10:51 --> 10:52] loved, to the office.
+[10:53 --> 10:54] Valerius begged the plebes to do
+[10:54 --> 10:56] their duty and enlist, promising
+[10:56 --> 10:58] that once hostilities were concluded,
+[10:58 --> 11:00] the issue of debt relief would be
+[11:00 --> 11:01] addressed straight away.
+[11:02 --> 11:03] Swayed by Valerius, they
+[11:03 --> 11:04] relented and legions were formed.
+[11:05 --> 11:06] In due course, all three foreign
+[11:06 --> 11:08] threats were put down and the
+[11:08 --> 11:09] legions returned to Rome.
+[11:10 --> 11:11] Back in the city, however,
+[11:12 --> 11:13] Valerius was unable to fulfill
+[11:13 --> 11:14] his promise.
+[11:14 --> 11:16] The patrician senators blocked
+[11:16 --> 11:17] his attempts at debt relief and
+[11:17 --> 11:19] Valerius resigned his office,
+[11:19 --> 11:20] laying at the Senate's feet all
+[11:20 --> 11:22] domestic turmoil that would ensue
+[11:22 --> 11:24] as a result of their decision.
+[11:25 --> 11:26] The disbanded legionnaires were
+[11:26 --> 11:28] outraged at the betrayal and took
+[11:28 --> 11:30] an extraordinary step that would
+[11:30 --> 11:31] become known to history as the
+[11:31 --> 11:33] secession of the plebes.
+[11:34 --> 11:35] The soldiers marched en masse to
+[11:35 --> 11:37] the sacred mount, a hill three
+[11:37 --> 11:39] miles from Rome, and set up a
+[11:39 --> 11:41] fortified camp, refusing to return
+[11:41 --> 11:42] to the city until their demands
+[11:42 --> 11:43] were met.
+[11:44 --> 11:45] The population of the city flew
+[11:45 --> 11:46] into a panic.
+[11:46 --> 11:48] The remaining plebes feared
+[11:48 --> 11:49] retaliatory violence from the
+[11:49 --> 11:51] patricians, and conversely, the
+[11:51 --> 11:52] patricians feared runaway mob
+[11:52 --> 11:54] violence without the army around
+[11:54 --> 11:55] to maintain order.
+[11:56 --> 11:57] And what they both feared the
+[11:57 --> 11:59] most was external invasion.
+[11:59 --> 12:00] If word got out that Rome's
+[12:00 --> 12:02] army had abandoned her, every
+[12:02 --> 12:03] two-bit tribe in the
+[12:03 --> 12:04] neighborhood would come knocking
+[12:04 --> 12:06] on the city gates and Rome would
+[12:06 --> 12:07] be at their mercy.
+[12:08 --> 12:10] So the Senate relented and
+[12:10 --> 12:11] sent an envoy to the plebe
+[12:11 --> 12:12] camp to broker a deal.
+[12:13 --> 12:14] The settlement did not address
+[12:14 --> 12:15] the debt question directly.
+[12:16 --> 12:18] Rather, a new office was
+[12:18 --> 12:19] created to shield the plebes
+[12:19 --> 12:20] from future patrician tyranny,
+[12:21 --> 12:22] the tribunate.
+[12:23 --> 12:24] The dangerous precedent set by
+[12:24 --> 12:26] the strike was pointed out to
+[12:26 --> 12:27] the plebes by the patrician
+[12:27 --> 12:28] envoy who compared the
+[12:28 --> 12:29] republic to a body.
+[12:30 --> 12:31] It is true, he told them,
+[12:31 --> 12:33] the hands and feet and mouth
+[12:33 --> 12:35] could join forces and stop
+[12:35 --> 12:36] working for the lazy stomach
+[12:36 --> 12:38] who sat there greedily
+[12:38 --> 12:39] receiving all the food the
+[12:39 --> 12:40] other parts worked for.
+[12:41 --> 12:42] But if they were to do so,
+[12:42 --> 12:43] the entire body would soon
+[12:43 --> 12:44] die of starvation,
+[12:45 --> 12:46] for the stomach pumped energy
+[12:46 --> 12:47] back out into the limbs.
+[12:48 --> 12:49] The plebes would be granted
+[12:49 --> 12:50] more rights to end the
+[12:50 --> 12:52] secession, the envoy said,
+[12:52 --> 12:54] but they must not think in
+[12:54 --> 12:55] the future that starving the
+[12:55 --> 12:56] stomach was in their
+[12:56 --> 12:57] enlightened best interest.
+[12:58 --> 12:59] The plebes took some note of
+[12:59 --> 13:01] this, but were so absorbed
+[13:01 --> 13:02] with their success that it is
+[13:02 --> 13:03] doubtful the lesson
+[13:03 --> 13:04] fully sank in.
+[13:05 --> 13:06] The role of tribune was
+[13:06 --> 13:07] defensive in nature.
+[13:08 --> 13:09] Two plebian men would be
+[13:09 --> 13:10] elected each year to act
+[13:10 --> 13:12] as a counterweight to the
+[13:12 --> 13:12] consuls.
+[13:13 --> 13:14] Initially the power of
+[13:14 --> 13:15] the tribunes was modestly
+[13:15 --> 13:17] held to the right to free
+[13:17 --> 13:17] any man from
+[13:17 --> 13:19] patrician imprisonment,
+[13:19 --> 13:20] though in the future they
+[13:20 --> 13:21] would gain the right to
+[13:21 --> 13:23] veto, literally I forbid,
+[13:24 --> 13:25] any law passed by the
+[13:25 --> 13:26] consuls or the Senate
+[13:26 --> 13:27] at a word.
+[13:28 --> 13:29] The tribunes were also
+[13:29 --> 13:31] granted sacrosanctity,
+[13:31 --> 13:32] or the right to be free
+[13:32 --> 13:33] from harm.
+[13:33 --> 13:35] The plebes took a solemn
+[13:35 --> 13:36] oath to kill any man who
+[13:36 --> 13:37] attempted to assault a
+[13:37 --> 13:39] tribune, and more than
+[13:39 --> 13:40] once that oath was
+[13:40 --> 13:40] fulfilled.
+[13:41 --> 13:42] The tribune would become
+[13:42 --> 13:43] a flashpoint for Roman
+[13:43 --> 13:45] politics for the remainder
+[13:45 --> 13:45] of the republic.
+[13:46 --> 13:47] The eventual power to
+[13:47 --> 13:49] veto led to a number of
+[13:49 --> 13:50] showdowns with the
+[13:50 --> 13:51] patricians, both sides
+[13:51 --> 13:52] bloodying themselves in
+[13:52 --> 13:53] their attempts to control
+[13:53 --> 13:54] state policy.
+[13:55 --> 13:56] The power of the office
+[13:56 --> 13:57] would peak with the
+[13:57 --> 13:58] Gracchi brothers around
+[13:58 --> 14:00] 125 BC and fall into
+[14:00 --> 14:01] obsolescence with the
+[14:01 --> 14:02] ascension of the
+[14:02 --> 14:03] caesars.
+[14:03 --> 14:04] But for the bulk of
+[14:04 --> 14:05] the republican period it
+[14:05 --> 14:06] was an important and
+[14:06 --> 14:07] powerful office.
+[14:07 --> 14:08] The tribunes would be
+[14:08 --> 14:09] elected by a new
+[14:09 --> 14:11] assembly called the
+[14:11 --> 14:12] Commida Tributa, which
+[14:12 --> 14:13] would be made up of the
+[14:13 --> 14:15] now 35 tribes of Rome.
+[14:16 --> 14:17] Suffrage in the
+[14:17 --> 14:18] assembly was not based
+[14:18 --> 14:20] on property assessment as
+[14:20 --> 14:21] it was with the
+[14:21 --> 14:23] Centuriata, and so the
+[14:23 --> 14:24] Commida Tributa was
+[14:24 --> 14:26] as democratic a form as
+[14:26 --> 14:27] Rome would ever see.
+[14:28 --> 14:29] The secession of the
+[14:29 --> 14:30] plebes occurred in
+[14:30 --> 14:32] 494 BC, about fifteen
+[14:32 --> 14:34] years after the birth
+[14:34 --> 14:34] of the republic.
+[14:35 --> 14:36] Though domestic
+[14:36 --> 14:37] combustion and foreign
+[14:37 --> 14:38] invasion were constant
+[14:38 --> 14:39] threats, the republican
+[14:39 --> 14:40] passed through its
+[14:40 --> 14:42] infancy and emerged as
+[14:42 --> 14:43] an adolescent power
+[14:43 --> 14:44] ready for fresh
+[14:44 --> 14:45] challenges.
+[14:46 --> 14:47] Any threat posed by
+[14:47 --> 14:48] the ex-king Tarquin
+[14:48 --> 14:49] was gone, and
+[14:49 --> 14:50] monarchy was now
+[14:50 --> 14:51] firmly in the rearview
+[14:51 --> 14:51] mirror.
+[14:52 --> 14:52] The attempted
+[14:52 --> 14:53] revolt by the
+[14:53 --> 14:54] Latin communities had
+[14:54 --> 14:55] been suppressed by a
+[14:55 --> 14:57] republican army, and
+[14:57 --> 14:57] Rome managed to
+[14:57 --> 14:58] maintain control of
+[14:58 --> 15:00] Latium just as it
+[15:00 --> 15:00] had while a
+[15:00 --> 15:01] monarchy.
+[15:02 --> 15:02] The patricians and
+[15:02 --> 15:03] plebes were settled
+[15:03 --> 15:04] in an alliance,
+[15:05 --> 15:05] uneasy though it may
+[15:05 --> 15:06] have been, and the
+[15:06 --> 15:07] population was more or
+[15:07 --> 15:08] less at peace with
+[15:08 --> 15:09] itself.
+[15:10 --> 15:11] Next week we will cover
+[15:11 --> 15:12] the creation of the
+[15:12 --> 15:12] final piece of the
+[15:12 --> 15:14] republican puzzle, the
+[15:14 --> 15:15] Law of the Twelve
+[15:15 --> 15:16] Tables, as well as
+[15:16 --> 15:17] discuss the rising
+[15:17 --> 15:18] threat posed by
+[15:18 --> 15:19] the Volscians, which
+[15:19 --> 15:20] caused the Romans to
+[15:20 --> 15:21] make their first
+[15:21 --> 15:22] concerted forays into
+[15:22 --> 15:24] the eastern hills where
+[15:24 --> 15:25] they would fight the
+[15:25 --> 15:25] wars that would
+[15:25 --> 15:26] ultimately win them
+[15:26 --> 15:28] control of all Italy.

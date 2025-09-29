@@ -1,0 +1,384 @@
+# 20100225 - 014b- A Phalanx With Joints
+# Detected language: en
+# Duration: 1018.10 seconds
+# Model: medium, Device: cpu
+
+[00:03 --> 00:06] Hello, and welcome to the History of Rome.
+[00:08 --> 00:13] Last time, we focused on the Greek phalanx, the formation of battle used by the Roman
+[00:13 --> 00:15] army until the time of the Samnite Wars.
+[00:16 --> 00:20] This week I want to talk about the new system the Romans developed during and after their
+[00:20 --> 00:21] war with the Samnites.
+[00:22 --> 00:27] The new organizational structure would remain the standard for the next 250 odd years
+[00:27 --> 00:33] until the Marian reform of 107 BC and become known to history as the Manapal system.
+[00:34 --> 00:38] It was called the Manapal system because it was based around a tactile unit of 120
+[00:38 --> 00:42] men called the Manapal, which roughly translates as a handful.
+[00:43 --> 00:48] This unit was capable of acting independently of the rest of the army or, in concert
+[00:48 --> 00:52] with the whole, giving Roman commanders an advantage over their predecessors who
+[00:52 --> 00:56] had to deal with the bulky single line of a phalanx designed only for closely
+[00:56 --> 00:58] coordinated forward movement.
+[00:58 --> 01:03] In a pinch, a general could now order off a single Manapal to secure a ridge or
+[01:03 --> 01:07] plug a hole or turn to face an enemy from behind without jeopardizing the
+[01:07 --> 01:09] cohesion of the rest of the army.
+[01:09 --> 01:13] And the new Roman general had another advantage over his predecessor.
+[01:13 --> 01:17] The Romans abandoned the single line in favor of a staggered three line
+[01:17 --> 01:18] deployment.
+[01:19 --> 01:23] At the outset of battle, the lines formed with 10 Manapals in the front, 10 in
+[01:23 --> 01:28] middle, and 10 half Manapals in the back, arrayed in a checkered board fashion.
+[01:29 --> 01:32] Some sources say there were 15 Manapals in the front line and some say
+[01:32 --> 01:34] there were 15 in the front too.
+[01:35 --> 01:39] The specifics are hard to weed out due to the lack of source material and
+[01:39 --> 01:40] the competing claims held therein.
+[01:41 --> 01:46] So I'm saying 10, 10, and 10 because that seems to be the general consensus,
+[01:46 --> 01:48] but just know that I could be wrong.
+[01:48 --> 01:51] And without a time machine, we'll never know for sure.
+[01:51 --> 01:56] Somewhere between 10 and 15 in the front two lines anyway, and definitely 10 in
+[01:56 --> 01:57] the back.
+[01:58 --> 02:01] The front line Manapals were made up of the youngest and most inexperienced
+[02:01 --> 02:05] soldiers, generally age 16 to 20, out on their first campaigns.
+[02:06 --> 02:09] The second line was made up of soldiers in the prime of their lives,
+[02:09 --> 02:11] between the ages of 20 and 40.
+[02:12 --> 02:15] The back line was made up of the oldest troops, veterans of countless
+[02:15 --> 02:19] campaigns with all the wisdom and skill that follows from age and
+[02:19 --> 02:19] experience.
+[02:21 --> 02:26] Organizationally, each single Manapal had four officers, two front,
+[02:26 --> 02:29] senior Centurions, and two back, junior Centurions.
+[02:30 --> 02:33] They were called Centurions because they commanded a single century,
+[02:34 --> 02:37] the most basic organizational unit of the army, and a Manapal was
+[02:37 --> 02:40] composed of two centuries, hence two officers.
+[02:41 --> 02:45] A Roman army's century was not composed of 100 men, as is commonly
+[02:45 --> 02:48] mistakenly believed, but rather 60 to 80 men.
+[02:49 --> 02:53] The senior of the two senior Centurions was the commander of the
+[02:53 --> 02:56] Manapal and placed in the front right when in battle.
+[02:56 --> 03:00] They were expected to lead by example and be the first ones in and
+[03:00 --> 03:01] the last ones out of any fight.
+[03:02 --> 03:06] The mortality rate among Centurions was thus the highest in the army,
+[03:06 --> 03:10] but again, as with the front ranks of the phalanx, men clamored for the
+[03:10 --> 03:13] position because of the honor it brought them and their families.
+[03:15 --> 03:19] The basic theory was to attack first with the front line only, who,
+[03:19 --> 03:22] being young, were strong and full of stamina.
+[03:23 --> 03:26] Ideally, the rest of the army would never have to attack and the
+[03:26 --> 03:29] front line would take care of the enemy, but this rarely happened.
+[03:29 --> 03:33] Inevitably, the second line would be ordered in to support the first.
+[03:33 --> 03:37] These troops, hardened, strong, and experienced, were usually
+[03:37 --> 03:38] enough to secure victory.
+[03:39 --> 03:43] The enemy, worn down from fighting the Roman youth, would be no match
+[03:43 --> 03:45] for those youth plus an equal number of veterans.
+[03:46 --> 03:50] If this was not enough, however, the last line was ordered in to support.
+[03:51 --> 03:54] If this back line got involved, it meant that things were not going
+[03:54 --> 03:57] well for the Romans, but the old men were usually enough to break
+[03:57 --> 03:59] the back of a particularly stubborn enemy.
+[04:00 --> 04:03] The Manapal system was based around the principle of time or
+[04:03 --> 04:04] lease freshness.
+[04:05 --> 04:09] Opponents of Rome would attack all at once and with great fervor,
+[04:09 --> 04:12] often over-exerting themselves by the belief that they could
+[04:12 --> 04:15] overwhelm the front Roman line easily and move on to the rest
+[04:15 --> 04:15] of the army.
+[04:16 --> 04:19] But things were rarely that easy for them, and bogged down by
+[04:19 --> 04:22] the front line of Roman youth, the opposing armies became
+[04:22 --> 04:25] fatigued and were then routed when the rest of the Roman army
+[04:25 --> 04:26] got involved.
+[04:28 --> 04:31] Beyond these three basic lines of heavy infantry, there were
+[04:31 --> 04:34] three other important elements needed to complete the legion as
+[04:34 --> 04:35] they lined up for battle.
+[04:36 --> 04:39] First, there was the light infantry, made up of men rich
+[04:39 --> 04:43] enough to qualify for service, but too poor to afford all the
+[04:43 --> 04:45] gear needed to survive in heavy infantry fighting.
+[04:46 --> 04:49] In any given legion, there were between 1,000 and 1,200 of
+[04:49 --> 04:52] these fighters who, at the beginning of battle, stood in
+[04:52 --> 04:55] front of the three lines to mask the size and formation
+[04:55 --> 04:56] of the Roman army.
+[04:57 --> 04:59] When the signal for battle was given, the light infantry
+[04:59 --> 05:02] would rush the enemy and hurl spears and javelins,
+[05:02 --> 05:05] attempting to disrupt the cohesion and inflict some minor
+[05:05 --> 05:08] damage, before retreating quickly through the three lines
+[05:08 --> 05:10] to the back of the legion.
+[05:11 --> 05:13] Light infantry never made much of a difference in the
+[05:13 --> 05:16] actual fighting, having served their purpose if the
+[05:16 --> 05:18] enemy remained in the dark about Roman formations.
+[05:19 --> 05:21] And eventually, when the state began to take
+[05:21 --> 05:23] responsibility for the arming of soldiers, the light
+[05:23 --> 05:25] troops were phased out and folded into
+[05:25 --> 05:26] the rest of the lines.
+[05:28 --> 05:31] On the wings, as was typical of the day, the
+[05:31 --> 05:32] Romans placed the cavalry.
+[05:33 --> 05:36] Their job was to engage the opposing cavalry and take
+[05:36 --> 05:39] them out of the fight, so the two infantry lines had to
+[05:39 --> 05:41] fight head to head without help, a fight the Romans
+[05:41 --> 05:43] always felt they could win.
+[05:44 --> 05:47] Once the opposing cavalry was out of the way, the
+[05:47 --> 05:50] Roman horsemen would plunge into the enemy lines and
+[05:50 --> 05:52] attempt to do as much damage as they possibly could.
+[05:54 --> 05:56] In addition to these two basic tasks, the cavalry
+[05:56 --> 05:59] was always watchful of potential flanking maneuvers
+[05:59 --> 06:01] or surprise attacks from the rear.
+[06:03 --> 06:06] Constitutionally, the cavalry was initially made
+[06:06 --> 06:09] up of the richest Romans, the equites, but as the
+[06:09 --> 06:11] years passed, the Romans farmed out cavalry work
+[06:11 --> 06:14] to their allies, never being great horsemen
+[06:14 --> 06:15] themselves.
+[06:16 --> 06:18] And these allies were the third element needed to
+[06:18 --> 06:20] complete standard legion.
+[06:20 --> 06:23] Also stationed on the wings between the Roman
+[06:23 --> 06:25] lines and the cavalry, the allies were somewhere
+[06:25 --> 06:27] in between heavy and light infantry.
+[06:28 --> 06:30] Through the Republican period, they were led by
+[06:30 --> 06:33] Roman officers, but as time went on, they began to be
+[06:33 --> 06:35] led by their own chiefs or generals.
+[06:36 --> 06:38] The allies were required to contribute an equal
+[06:38 --> 06:41] number of infantry and twice the cavalry that the
+[06:41 --> 06:42] Romans themselves provided.
+[06:43 --> 06:45] These draft requirements would cause constant
+[06:45 --> 06:48] tension between Rome and her subjects and was the
+[06:48 --> 06:49] main precipitous for the Latin War.
+[06:50 --> 06:52] The Latins becoming fed up was sharing equally in
+[06:52 --> 06:55] the burdens, but getting shafted in the spoils.
+[06:56 --> 06:58] In total, the Roman fighting strength was
+[06:58 --> 07:02] optimally between 8,000 and 10,000 men, with 4,200
+[07:02 --> 07:05] Roman legionnaires, an equal number of allies,
+[07:05 --> 07:06] and just shy of 1,000 cavalry.
+[07:07 --> 07:10] The numbers varied based on time, place, and
+[07:10 --> 07:13] mitigating factors, and these numbers are round,
+[07:13 --> 07:15] but they will give you some ideas to the size
+[07:15 --> 07:17] of the legion as it marched into battle.
+[07:18 --> 07:20] When it marched from place to place, however,
+[07:20 --> 07:22] it was attended by a baggage train of
+[07:22 --> 07:25] non-combatants numbering themselves in the
+[07:25 --> 07:27] 15,000s, so it would not be surprising to see a
+[07:27 --> 07:30] legion of 4,200 men marching through the
+[07:30 --> 07:33] countryside 15,000 strong.
+[07:34 --> 07:36] When actually engaging the enemy, the Roman
+[07:36 --> 07:38] tactics were straightforward.
+[07:39 --> 07:41] Each soldier was equipped with two spears and a sword.
+[07:42 --> 07:44] As they approached the enemy, they hurled the
+[07:44 --> 07:46] spears and inflicted as much damage as they
+[07:46 --> 07:49] could before meeting them hand to hand.
+[07:50 --> 07:52] This tactic differs little in theory from
+[07:52 --> 07:54] today's artillery, which is supposed to soften
+[07:54 --> 07:56] up the enemy for an infantry attack.
+[07:57 --> 08:00] The Romans experimented with the composition and
+[08:00 --> 08:02] design of their spears, settling generally on an
+[08:02 --> 08:05] instrument that had a thin metal connector between
+[08:05 --> 08:07] the blade and shaft, so when the spear struck its
+[08:07 --> 08:10] target, the thin metal connector would bend under
+[08:10 --> 08:12] the weight of the heavy shaft behind it.
+[08:13 --> 08:14] This served two purposes.
+[08:15 --> 08:17] It weighed down soldiers and shields that were
+[08:17 --> 08:20] struck, but it also made the Roman spears unusable
+[08:20 --> 08:23] to the enemy, for it was common practice in the
+[08:23 --> 08:25] ancient world to throw back spears hurled in by
+[08:25 --> 08:26] the enemy.
+[08:27 --> 08:30] When the gap between the armies was closed, the
+[08:30 --> 08:32] legionnaires pulled out their short swords,
+[08:32 --> 08:34] double edged and sharp at the tip.
+[08:35 --> 08:37] This could be used either for stabbing or slashing
+[08:37 --> 08:40] and were incredibly destructive in close quarters.
+[08:41 --> 08:43] The famous gladius has not appeared yet in our
+[08:43 --> 08:45] narrative, which emerged after the Romans
+[08:45 --> 08:48] encountered Spanish sword craft in the next
+[08:48 --> 08:50] century, but the principles behind that
+[08:50 --> 08:52] famous sword were already present.
+[08:52 --> 08:55] Once engaged in hand-to-hand combat, it was
+[08:55 --> 08:57] simply a matter of killing or wounding everything
+[08:57 --> 09:00] that moved until the enemy broke and fled.
+[09:02 --> 09:04] In addition to these forward offensive-minded
+[09:04 --> 09:07] tactics, the new maniple system also had a
+[09:07 --> 09:08] built-in defensive strategy.
+[09:09 --> 09:11] If the front lines were overwhelmed, they could
+[09:11 --> 09:14] quickly retreat between the gaps in the middle
+[09:14 --> 09:16] line and regroup behind the more capable
+[09:16 --> 09:19] middle-aged fighters, and if they faltered,
+[09:19 --> 09:21] then they could all hide behind the third line,
+[09:21 --> 09:23] and by this time the first line would be ready
+[09:23 --> 09:25] to fight again, which allowed the Romans to
+[09:25 --> 09:28] retreat without having it devolve into a
+[09:28 --> 09:30] frightened, unorganized free-for-all.
+[09:31 --> 09:33] The phalanx lacked this element, and once
+[09:33 --> 09:35] it broke, it was every man for himself.
+[09:36 --> 09:38] The maniple system also had the advantage of
+[09:38 --> 09:40] being far harder to flank than a phalanx.
+[09:41 --> 09:43] Any attempt to do so would either be met
+[09:43 --> 09:45] by the cavalry, back-line maniples ordered
+[09:45 --> 09:49] forward, or by front-line maniples themselves
+[09:49 --> 09:51] peeled off from the main fight and sent
+[09:51 --> 09:52] in a different direction.
+[09:53 --> 09:55] All in all, it was a significant advancement
+[09:55 --> 09:57] from the phalanx, and as we will later see,
+[09:58 --> 09:59] when the Romans clashed with the Macedonians
+[09:59 --> 10:02] around 200 BC, the result would be a clear
+[10:02 --> 10:06] and decisive victory of maniple over phalanx.
+[10:07 --> 10:09] But it was not just the system that made
+[10:09 --> 10:10] the legion so dominant.
+[10:11 --> 10:12] It's not that anyone could be inserted
+[10:12 --> 10:14] and the result would have been the same.
+[10:15 --> 10:16] Nor was it the case that the Romans
+[10:16 --> 10:18] were bigger or stronger than their opponents.
+[10:19 --> 10:21] In fact, in many cases, facing huge
+[10:21 --> 10:23] lumbering Germanic tribes, the Romans
+[10:23 --> 10:24] looked puny by comparison.
+[10:26 --> 10:28] Rather, the legions prevailed because
+[10:28 --> 10:29] of group discipline that became
+[10:29 --> 10:31] the nightmare of opposing armies.
+[10:32 --> 10:34] In general, ancient warfare was a passionate
+[10:34 --> 10:36] affair, with lots of yelling,
+[10:36 --> 10:38] chest beating, and frenzy.
+[10:38 --> 10:42] But the Roman legion was a cold, inhuman machine.
+[10:42 --> 10:45] They were never intimidated and rarely broke ranks.
+[10:46 --> 10:48] Their comrades could be dying to the right
+[10:48 --> 10:51] and left, but the legionnaire himself
+[10:51 --> 10:53] seemed unaffected and kept moving forward.
+[10:54 --> 10:56] This was unsettling, to say the least,
+[10:56 --> 10:58] and sat the morale of Rome's enemies.
+[10:59 --> 11:00] The Roman soldier did this not because
+[11:00 --> 11:03] he was unfeeling, quite the contrary,
+[11:03 --> 11:05] the Romans were a passionate people.
+[11:05 --> 11:08] But in war, there was only one thing
+[11:08 --> 11:09] a legionnaire feared more than the enemy,
+[11:10 --> 11:11] his commanding officer.
+[11:13 --> 11:15] Roman discipline was notoriously harsh,
+[11:15 --> 11:17] though it was not without its positive aspects.
+[11:18 --> 11:20] It was based on a system of rewards
+[11:20 --> 11:22] and punishment that were designed
+[11:22 --> 11:25] to promote bravery and eliminate cowardness.
+[11:25 --> 11:27] Punishment ranged anywhere
+[11:27 --> 11:29] from psychological humiliation,
+[11:29 --> 11:31] for example, a disgraced sentry
+[11:31 --> 11:33] might be forced to eat standing up,
+[11:33 --> 11:35] so their comrades would always know
+[11:35 --> 11:36] who had lost their standard,
+[11:37 --> 11:39] to scourging, for say, disobeying orders,
+[11:40 --> 11:41] and up to death, a punishment
+[11:41 --> 11:43] that was handed down routinely
+[11:43 --> 11:44] when the actions of an individual
+[11:44 --> 11:46] put the entire army at risk,
+[11:46 --> 11:48] like, for example, falling asleep
+[11:48 --> 11:49] while on sentry duty,
+[11:50 --> 11:52] woe to the sentry who fell asleep,
+[11:52 --> 11:54] he was stoned and beaten to death
+[11:54 --> 11:55] by his comrades.
+[11:56 --> 11:58] Not a pretty sight, but keeping watch
+[11:58 --> 12:00] was a sacred trust that could not be breached
+[12:00 --> 12:02] under any circumstances,
+[12:02 --> 12:03] it was simply too important.
+[12:05 --> 12:07] On the flip side, the Romans invented
+[12:07 --> 12:09] a plethora of fancy medals and awards
+[12:09 --> 12:11] given out to soldiers who distinguished themselves
+[12:11 --> 12:12] in battle.
+[12:13 --> 12:15] I've already talked about the grass crown
+[12:15 --> 12:17] given to a soldier who saves an entire legion,
+[12:17 --> 12:20] but there were literally hundreds of other honors.
+[12:20 --> 12:22] For example, an award was given
+[12:22 --> 12:23] to the first man over a wall
+[12:23 --> 12:26] when the army was assaulting an enemy camp or city.
+[12:27 --> 12:29] And this was not taken lightly.
+[12:29 --> 12:31] For whole centuries, lines and legions
+[12:31 --> 12:33] took it as a matter of great pride
+[12:33 --> 12:35] when one of their own took the prize.
+[12:36 --> 12:38] So when competing claims were brought
+[12:38 --> 12:39] to the attention of a commander,
+[12:39 --> 12:41] great care had to be taken
+[12:41 --> 12:42] in adjudicating the decision
+[12:42 --> 12:45] because tempers were always running hot
+[12:45 --> 12:46] when awards were on the line.
+[12:47 --> 12:50] The most common rewards range from duller rations,
+[12:50 --> 12:51] a huge motivator,
+[12:52 --> 12:53] to promises of more land
+[12:53 --> 12:55] when released from service,
+[12:55 --> 12:56] to heads of cattle.
+[12:57 --> 12:58] Anything a soldier valued
+[12:58 --> 12:59] would be metered out
+[12:59 --> 13:01] for instances of selfless bravery,
+[13:01 --> 13:03] which the Roman commanders were always promoting.
+[13:04 --> 13:06] There was a darkly humorous case
+[13:06 --> 13:07] during the Second Punic War
+[13:07 --> 13:09] of a commander promising extra rations
+[13:09 --> 13:12] for every enemy head brought back to camp.
+[13:12 --> 13:14] But the soldiers became so burdened
+[13:14 --> 13:16] by the work of beheading and carrying heads
+[13:16 --> 13:18] that they began to actually lose the fight.
+[13:19 --> 13:20] And in the heat of battle,
+[13:20 --> 13:22] the commander had to issue a proclamation
+[13:22 --> 13:25] that everyone would receive extra rations
+[13:25 --> 13:26] regardless of the heads,
+[13:26 --> 13:28] but they did have to actually win the fight,
+[13:29 --> 13:29] which the soldiers,
+[13:30 --> 13:32] now free of their grisly baggage, promptly did.
+[13:33 --> 13:35] This discipline allowed the Romans
+[13:35 --> 13:37] to keep their cool in battle
+[13:37 --> 13:39] and keep plugging away rather than running.
+[13:40 --> 13:41] They knew what would happen
+[13:41 --> 13:43] if their corpse was found on the field
+[13:43 --> 13:44] with a wound in the back.
+[13:44 --> 13:46] They would be buried without honor
+[13:46 --> 13:48] and their family would be ostracized.
+[13:48 --> 13:50] Those who fled from Cannae,
+[13:50 --> 13:52] one of the greatest defeats in Roman history,
+[13:53 --> 13:54] were never allowed to return home,
+[13:55 --> 13:56] remaining in exile,
+[13:56 --> 13:58] fighting in Sicily until finally
+[13:58 --> 14:00] they were allowed to serve as bait for Hannibal
+[14:00 --> 14:02] and die with dignity in a suicide mission,
+[14:02 --> 14:04] something they had pleaded for for years
+[14:04 --> 14:06] and were finally granted.
+[14:08 --> 14:09] The last thing I want to impress upon you
+[14:09 --> 14:12] about the superiority of the Roman legion
+[14:12 --> 14:15] over enemy forces was their meticulous attention to detail.
+[14:16 --> 14:19] It is often said that amateurs study tactics,
+[14:19 --> 14:21] but professionals study logistics,
+[14:21 --> 14:23] and the Romans embodied this belief.
+[14:24 --> 14:27] They took great care to always preserve supply lines,
+[14:27 --> 14:28] communication lines,
+[14:28 --> 14:29] and set up their camps
+[14:29 --> 14:32] in the most defensible possible position.
+[14:32 --> 14:35] This last was critical because the Greeks, for example,
+[14:36 --> 14:38] set up their camps to simply be close
+[14:38 --> 14:39] to the site of battle
+[14:39 --> 14:41] without thought to any other practical considerations.
+[14:42 --> 14:44] The Romans, however, took great care
+[14:44 --> 14:46] in ensuring they held the high ground
+[14:46 --> 14:48] and were in a well-defensible spot.
+[14:49 --> 14:52] A routed Roman army often staved off final defeat
+[14:52 --> 14:54] behind the walls of their camps
+[14:54 --> 14:56] and many Roman victories were secured
+[14:56 --> 14:59] by overrunning the poorly constructed camps
+[14:59 --> 14:59] of their enemies.
+[15:01 --> 15:03] The Romans always scouted and protected sources
+[15:03 --> 15:05] of food and fresh water
+[15:05 --> 15:07] and knowing that this often meant the difference
+[15:07 --> 15:10] between a strong army in the field and a weak one,
+[15:10 --> 15:12] always sought to cut off the food and water supplies
+[15:12 --> 15:15] of their enemies before engaging in battle.
+[15:16 --> 15:17] Battles were often won or lost
+[15:17 --> 15:19] based on nothing more than the existence
+[15:19 --> 15:21] of a good breakfast on the day of the battle.
+[15:22 --> 15:24] So as much time as they spent trying to figure out
+[15:24 --> 15:26] how to neutralize opposing cavalry,
+[15:26 --> 15:29] they spent 10 times as much time thinking about
+[15:29 --> 15:31] how to secure pasture land for their horses.
+[15:32 --> 15:34] It was the boring details of making sure
+[15:34 --> 15:36] everyone had proper footwear
+[15:36 --> 15:38] and that the trenches were dug to a proper depth
+[15:38 --> 15:41] that really set the Romans apart from their enemies,
+[15:41 --> 15:43] who often had every intention
+[15:43 --> 15:44] of just showing up for a fight.
+[15:45 --> 15:48] The Romans never just showed up for a fight.
+[15:48 --> 15:50] They planned everything down to the smallest detail.
+[15:51 --> 15:53] The fight itself became almost an afterthought.
+[15:55 --> 15:57] So there you have it.
+[15:57 --> 16:00] That, in a nutshell, is the Roman legion of the Republic.
+[16:00 --> 16:03] Three lines made up of units of 120 men
+[16:03 --> 16:06] with cavalry and allies protecting the wings.
+[16:06 --> 16:08] More versatile than the phalanx,
+[16:08 --> 16:10] the maniple system would remain largely unchanged
+[16:10 --> 16:12] for the next 250 years
+[16:12 --> 16:15] and it would be this incarnation of the legion
+[16:15 --> 16:17] that did most of the heavy lifting
+[16:17 --> 16:19] of the territorial expansion throughout the Mediterranean.
+[16:20 --> 16:23] When we get to Marius, I will discuss at length
+[16:23 --> 16:24] the changes he introduced
+[16:24 --> 16:26] and how they changed the face of Rome forever.
+[16:27 --> 16:28] But that is for another time.
+[16:28 --> 16:30] Next week, we will get back into the action
+[16:30 --> 16:32] as Rome prepares for her longest
+[16:32 --> 16:34] and most grueling challenge to date,
+[16:34 --> 16:37] the Second or Great Samnite War.
+[16:56 --> 16:58] The Second or Great Samnite War

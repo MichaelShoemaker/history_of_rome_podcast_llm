@@ -1,0 +1,242 @@
+# 20070728 - 001- In the Beginning
+# Detected language: en
+# Duration: 708.10 seconds
+# Model: medium, Device: cpu
+
+[00:02 --> 00:05] Hello, and welcome to the History of Rome.
+[00:06 --> 00:09] The founding of Rome is an event wrapped in myth.
+[00:10 --> 00:14] Lacking a credible historical record, it is impossible to know exactly what led to
+[00:14 --> 00:19] the establishment of the Eternal City, but we do know the legend the Romans told themselves,
+[00:19 --> 00:23] and have some idea of the population migrations that took place in central Italy at the
+[00:23 --> 00:27] time, so we can piece together a general timeline of events.
+[00:28 --> 00:32] There may be truth wrapped up in the official legend, and there may not, but it is a good
+[00:32 --> 00:35] story and an important one to know for students of ancient history.
+[00:36 --> 00:43] It is the story of a refugee Trojan prince, and how his great-great, great-great, great-great,
+[00:43 --> 00:50] great-great, great-great, great-great grandsons would be wet nursed by a she-wolf
+[00:50 --> 00:52] and later found at the greatest city of the ancient world.
+[00:53 --> 00:57] The story of Rome begins with the end of the Trojan War.
+[00:57 --> 01:02] After Troy was finally sacked by the Greeks, Aeneas, chief lieutenant of Hector, managed
+[01:02 --> 01:04] to escape with a few followers.
+[01:05 --> 01:08] They boarded ships and set out into the Mediterranean to find a new home.
+[01:10 --> 01:14] Their odyssey took them from Asia Minor to the north coast of Africa, where Aeneas
+[01:14 --> 01:18] managed to sow the seeds of the three Punic Wars by seducing the Carthaginian
+[01:18 --> 01:21] queen Dido and then abandoning her.
+[01:21 --> 01:26] Virgil writes that in the final moments before she committed suicide, Dido cursed the descendants
+[01:26 --> 01:29] of both to eternal enmity.
+[01:29 --> 01:34] O, my Tyrians, besiege with hate his progeny and all his race to come.
+[01:34 --> 01:36] Make this your offering to my dust.
+[01:37 --> 01:40] No love, no pact must be between our peoples.
+[01:41 --> 01:43] No, but rise up from my bones, avenging spirit.
+[01:45 --> 01:47] Hell hath no fury like a woman scorned.
+[01:48 --> 01:53] After securing an arch enemy for Rome, Aeneas sailed to the west coast of Italy, where he
+[01:53 --> 01:55] and his followers hoped to make a settlement.
+[01:56 --> 02:01] Arriving in the territory of Laurentum, the Trojans were immediately met by armed
+[02:01 --> 02:03] locals who tried to drive them off.
+[02:04 --> 02:08] But their king, Latinus, decided to make peace rather than war with the foreigners
+[02:08 --> 02:12] and offered his daughter Lavinia to Aeneas, solidifying an alliance.
+[02:13 --> 02:18] This marriage came as quite a shock to Ternus, prince of the Rituli, a nearby tribe, because
+[02:18 --> 02:20] Lavinia had already been pledged to him.
+[02:21 --> 02:25] Angered by this slap in the face, he led an attack on the combined Trojan and Latin
+[02:25 --> 02:26] forces.
+[02:26 --> 02:31] The Rituli were defeated, but King Latinus was killed in the fighting, leaving Aeneas
+[02:31 --> 02:35] in control of both the Trojans and the Latins, who were rapidly intermarrying into
+[02:35 --> 02:36] a single people.
+[02:37 --> 02:41] Vanquished, Ternus and the Rituli turned north to the rich and powerful Etruscans
+[02:41 --> 02:42] for help.
+[02:43 --> 02:46] The Etruscans were more than willing to lend a hand against the growing menace of
+[02:46 --> 02:48] the Trojan-infused Latins and attacked.
+[02:49 --> 02:54] But Aeneas, in his final act, led the Latins to victory, establishing the Tiber
+[02:54 --> 02:57] River as the boundary between the Latins and the Etruscans.
+[02:58 --> 03:01] We should pause the legend here before we get too far and give an account of
+[03:01 --> 03:06] the political landscape of pre-Roman Italy, as historians and archaeologists
+[03:06 --> 03:07] understand it today.
+[03:07 --> 03:09] Who were the Latins?
+[03:09 --> 03:10] Who were the Etruscans?
+[03:10 --> 03:13] Where did they come from and what sort of lives did they lead?
+[03:14 --> 03:17] The origin of the Etruscans is debatable.
+[03:17 --> 03:22] However, DNA evidence points to a migration from Asia Minor, which, if true,
+[03:22 --> 03:25] offers a context for the legend of Aeneas' arrival from Troy.
+[03:27 --> 03:30] The Etruscans were the dominant force, culturally and politically, in the
+[03:30 --> 03:35] Italian peninsula, and, as we will see, came to dominate Latin territory in
+[03:35 --> 03:37] the waning years of the Roman Kingdom.
+[03:38 --> 03:41] They had developed cities and a confederal state system long before the
+[03:41 --> 03:45] Latins, who remained in traditional tribal affiliations until the
+[03:45 --> 03:48] foundation of Rome, which was the first major settlement in Latin
+[03:48 --> 03:50] territory that could be called a city.
+[03:51 --> 03:54] The Etruscans were artists and craftsmen who had set up extensive
+[03:54 --> 03:57] trading networks that reached all the way to Greece.
+[03:57 --> 04:01] The trading roads between Etruria and the Greek cities of Magna
+[04:01 --> 04:05] Graecia in the south ran right through Rome, offering a clue as to
+[04:05 --> 04:06] reason for its location.
+[04:08 --> 04:12] The Latins, in contrast, were simple pastoral herdsmen.
+[04:13 --> 04:15] Evidence from ancient burial mounds suggests the Latins were
+[04:15 --> 04:19] descended from Balkan migrants who crossed the Adriatic in prehistory.
+[04:20 --> 04:23] Mostly shepherds and farmers, they did not have any sort of
+[04:23 --> 04:24] advanced arts or crafts.
+[04:25 --> 04:28] What culture they display seems to be little more than a blend of
+[04:28 --> 04:29] Etruscan and Greek elements.
+[04:30 --> 04:33] Indeed, nothing about later Roman history suggests the Latins were
+[04:33 --> 04:36] innovative at all in art, religion, or letters.
+[04:37 --> 04:41] They excelled at warfare and engineering and administrating, but
+[04:41 --> 04:44] were merely students of philosophy, never instructors.
+[04:45 --> 04:48] Their gods, to take one obvious example, are little more than
+[04:48 --> 04:51] an adaption of the Greek pantheon, Zeus becoming Jupiter,
+[04:52 --> 04:54] Hera becoming Juno, and so forth.
+[04:55 --> 04:58] What bound the Latins together was a common language, distinct
+[04:58 --> 05:01] from the Etruscan language to the north and the imported Greek
+[05:01 --> 05:02] in the south.
+[05:03 --> 05:06] Latin, of course, forms the basis for half the languages in Europe,
+[05:07 --> 05:09] and its vocabulary still dominates the legal profession.
+[05:11 --> 05:12] But enough humorless anthropology.
+[05:13 --> 05:17] After Aeneas died, his young son Ascanius grew to be king.
+[05:17 --> 05:20] The town built by the Trojan settlers had become too small
+[05:20 --> 05:24] for the exploding population, and Ascanius led a group east to
+[05:24 --> 05:27] found a new settlement called Alba Longa, which would become
+[05:27 --> 05:28] the seat of the growing Latin kingdom.
+[05:29 --> 05:32] Generation upon generation followed, and the Latins became
+[05:32 --> 05:33] powerful and secure.
+[05:34 --> 05:38] The kingship was passed from father to son until finally it
+[05:38 --> 05:40] rested upon the head of a man named Numitor.
+[05:41 --> 05:43] Numitor had a brother named Ammuleus who coveted the throne
+[05:43 --> 05:46] and decided to seize power for himself.
+[05:47 --> 05:49] Numitor was driven from Alba Longa, all his sons were
+[05:49 --> 05:53] killed, and his daughter, Rae Sylvia, was forced to become
+[05:53 --> 05:56] a Vestal Virgin to ensure she would bear no children who
+[05:56 --> 05:57] could threaten Ammuleus.
+[05:57 --> 06:00] However, after taking the vows, Rae was the victim of rape
+[06:00 --> 06:03] and consequently gave birth to twin boys.
+[06:04 --> 06:06] Rae declared that the god Mars was the father, but to no
+[06:06 --> 06:10] avail, and for the crime of allowing herself to be raped,
+[06:10 --> 06:11] she was thrown in prison.
+[06:13 --> 06:15] The twins were sent to be drowned in the Tiber.
+[06:15 --> 06:17] However, the men entrusted with the task found the
+[06:17 --> 06:20] river flooded and left the boys in the sluggish water
+[06:20 --> 06:23] rather than slogging their way to the river itself.
+[06:23 --> 06:26] And when the waters receded, the babies were left alive
+[06:26 --> 06:27] and well in the reeds.
+[06:28 --> 06:31] Here, legend states that a she-wolf coming to the river
+[06:31 --> 06:34] to quench her thirst found the babies and offered her
+[06:34 --> 06:35] teats for them to suckle on.
+[06:36 --> 06:38] A herdsman came upon the scene and gathered the
+[06:38 --> 06:40] children up from the wolf who had been gently licking
+[06:40 --> 06:42] them and took them home with him.
+[06:43 --> 06:45] Even Livy acknowledges that the story of the wolf is a
+[06:45 --> 06:49] fable and postulates that it may have arisen because
+[06:49 --> 06:51] the herdsman's wife was a whore named Wolf.
+[06:52 --> 06:55] The herdsman and his wife raised the boys named
+[06:55 --> 06:58] Romulus and Ramus as their own and soon they grew to
+[06:58 --> 06:59] be men.
+[06:59 --> 07:02] Apparently the boys took a liking to fighting the
+[07:02 --> 07:04] local brigands who raided the countryside and began
+[07:04 --> 07:07] taking the fight to the robbers, raiding their camps
+[07:07 --> 07:08] and stealing from them.
+[07:08 --> 07:11] The criminals, angered by the theft of their booty,
+[07:11 --> 07:12] set a trap for the twins.
+[07:13 --> 07:15] Romulus managed to escape, but
+[07:15 --> 07:16] Remus was captured.
+[07:16 --> 07:19] The brigands took Remus to the local landowner who
+[07:19 --> 07:21] turned out to be none other than the exiled
+[07:21 --> 07:24] Numitor and claimed Ramus and his brother had been
+[07:24 --> 07:26] caught stealing Numitor's cattle and that he
+[07:26 --> 07:27] should be punished.
+[07:28 --> 07:30] Numitor was immediately reminded of his twin
+[07:30 --> 07:32] grandsons and, realizing that they would be the same
+[07:32 --> 07:35] age as Remus was now, began to suspect that the
+[07:35 --> 07:36] boys were his blood.
+[07:37 --> 07:40] Numitor began making inquiries and soon learned
+[07:40 --> 07:42] the particulars of their upbringing and became
+[07:42 --> 07:44] convinced that they were his daughter's children.
+[07:45 --> 07:47] The herdsman, knowing Remus was in Numitor's
+[07:47 --> 07:50] custody and having himself long suspected that his
+[07:50 --> 07:53] two boys were of royal blood, decided to tell
+[07:53 --> 07:55] Romulus the whole story of their discovery by the
+[07:55 --> 07:55] river.
+[07:56 --> 07:58] From this, a plan was hatched to return Numitor
+[07:58 --> 07:59] to the throne.
+[08:00 --> 08:02] With Romulus leading one group of men and Ramus
+[08:02 --> 08:05] another, they surprised and killed Amuleus and
+[08:05 --> 08:07] brought Numitor back to Abalanga.
+[08:08 --> 08:10] Numitor told the story of his brother's treachery
+[08:10 --> 08:13] and the circumstances of his grandson's birth and
+[08:13 --> 08:15] the people shouted unanimous consent that
+[08:15 --> 08:17] Numitor be king once again.
+[08:18 --> 08:21] After Numitor became king, Romulus and Remus
+[08:21 --> 08:23] decided to found a new settlement at the spot
+[08:23 --> 08:24] where they had been left to drown.
+[08:25 --> 08:27] There are two accounts of what happened next.
+[08:28 --> 08:30] One states that trouble arose when the question
+[08:30 --> 08:32] of who would be senior in the new city was raised.
+[08:33 --> 08:35] They decided to allow the gods to decide and
+[08:35 --> 08:38] each retired to the top of a hill, Romulus
+[08:38 --> 08:40] the Palatine and Remus the Aventine, to
+[08:40 --> 08:41] await a sign.
+[08:42 --> 08:44] Soon enough, six vultures landed at the
+[08:44 --> 08:46] feet of Remus and when his followers made this
+[08:46 --> 08:49] known to Romulus, 12 vultures immediately landed
+[08:49 --> 08:50] at Romulus' feet.
+[08:51 --> 08:54] A fight broke out with one side claiming primacy
+[08:54 --> 08:56] of arrival and the other claiming primacy of number.
+[08:57 --> 08:59] In this fight, Remus was killed.
+[09:00 --> 09:02] The other more famous story is that Remus,
+[09:02 --> 09:04] mocking his brother, jumped over the partially
+[09:04 --> 09:07] completed walls and Romulus in a fit of anger
+[09:07 --> 09:10] killed him, swearing, so perish whoever shall
+[09:10 --> 09:11] overleap my battlements.
+[09:12 --> 09:14] Either way, Romulus obtained soul power,
+[09:14 --> 09:16] the city was named for him and he became
+[09:16 --> 09:17] its first king.
+[09:17 --> 09:22] The legendary date of foundation is April the 21st, 753 BC.
+[09:23 --> 09:24] Did it happen like this?
+[09:25 --> 09:26] Almost certainly not.
+[09:26 --> 09:29] After the sack of Rome in 386 BC,
+[09:29 --> 09:31] most of the early historical record was lost
+[09:31 --> 09:33] and with it the specifics we need for
+[09:33 --> 09:35] an accurate telling of the story.
+[09:35 --> 09:37] But archeological evidence seems to support
+[09:37 --> 09:39] the broader strokes of the legend.
+[09:40 --> 09:41] Settlements have been found on the Palatine
+[09:41 --> 09:43] hill that date from the 800s BC,
+[09:44 --> 09:46] suggesting that the legendary chronology is
+[09:46 --> 09:47] at least in the ballpark.
+[09:47 --> 09:49] The general story of a struggle between
+[09:49 --> 09:51] the Latin and Etruscan people,
+[09:51 --> 09:54] ending with ostensible Latin autonomy south of the Tiber,
+[09:55 --> 09:56] also fits our understanding of the ethnic
+[09:56 --> 09:58] and cultural landscape of the era.
+[09:59 --> 10:02] It is doubtful that the site of Rome was chosen
+[10:02 --> 10:04] because it marked where the twins had been sent to die.
+[10:05 --> 10:06] More likely an easy river crossing,
+[10:07 --> 10:09] coupled with the natural defenses offered
+[10:09 --> 10:11] by the nearby hills drew settlers to the area.
+[10:11 --> 10:13] And of course, as already noted,
+[10:13 --> 10:15] the site lay on the trade road
+[10:15 --> 10:17] between Atruria and Magna Graecia.
+[10:18 --> 10:20] Without any real data to draw from,
+[10:21 --> 10:23] later Roman historians used common mythological elements
+[10:23 --> 10:26] to construct a conventional founding legend.
+[10:26 --> 10:29] Indo-European culture produced numerous examples
+[10:29 --> 10:30] of the divine twin mytheme,
+[10:30 --> 10:32] including Castor and Pollux,
+[10:32 --> 10:34] and Ides and Lincius of Thebes.
+[10:34 --> 10:36] The motif of infant exposure gone wrong
+[10:36 --> 10:39] crops up in the biographies of both Perseus and Moses.
+[10:40 --> 10:42] And of course, most will recognize
+[10:42 --> 10:44] the virgin birth element from Christianity,
+[10:44 --> 10:47] but tales of miraculous or virgin births
+[10:47 --> 10:48] have surrounded important legendary
+[10:48 --> 10:50] and historical figures for millennium.
+[10:52 --> 10:54] The addition of Aeneas gives Rome a lofty ancestor
+[10:54 --> 10:57] and connects their city to the Greek civilizations
+[10:57 --> 10:58] the Romans so admired.
+[11:00 --> 11:00] However it happened,
+[11:01 --> 11:03] a settlement was established at the bend in the Tiber.
+[11:04 --> 11:05] This settlement grew and came
+[11:05 --> 11:07] to dominate its neighboring communities,
+[11:07 --> 11:09] then the entire Italian peninsula,
+[11:10 --> 11:11] then the entire Mediterranean.
+[11:12 --> 11:15] Next, we will cover Rome's unsavory beginnings.
+[11:15 --> 11:17] Who the first Romans were,
+[11:17 --> 11:19] whose women they stole to ensure
+[11:19 --> 11:20] that there would be a second generation of Romans,
+[11:21 --> 11:23] and whether Romulus, great soldier that he was,
+[11:24 --> 11:26] died or simply faded away.

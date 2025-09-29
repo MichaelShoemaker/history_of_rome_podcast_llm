@@ -1,0 +1,343 @@
+# 20100228 - 021- Interbellum
+# Detected language: en
+# Duration: 922.57 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to The History of Rome, Episode 21, Interbellum.
+[00:12 --> 00:16] For both the Romans and the Carthaginians, the First Punic War had been an exhausting
+[00:16 --> 00:17] experience.
+[00:18 --> 00:23] Rome emerged in a better position geopolitically speaking, but both sides had been drained
+[00:23 --> 00:28] of money and manpower, and were significantly weaker for the great effort they had expended
+[00:28 --> 00:29] over Sicily.
+[00:30 --> 00:34] As a consequence, both sides were vulnerable to attack from opportunistic enemies.
+[00:36 --> 00:40] I will only briefly review the challenges faced by the North Africans during the interwar
+[00:40 --> 00:45] period, before moving on to a detailed look at the Roman confrontations with Gallic
+[00:45 --> 00:48] armies to the north and Illyrian pirates across the Adriatic.
+[00:49 --> 00:52] This is, after all, the history of Rome, not the history of Carthage.
+[00:53 --> 00:58] So to quickly sum up Carthage's major postwar problem, let me just say that the Carthaginian
+[00:58 --> 01:02] Indians ignored one of life's basic rules, do not stiff mercenaries.
+[01:03 --> 01:07] Essentially, the new party that had taken control of Carthage in the last years of
+[01:07 --> 01:12] the war saw the conflict with Rome as a diversion from their main objective, making
+[01:12 --> 01:12] money.
+[01:13 --> 01:18] When the war ended, the mercenaries arrived in North Africa from Sicily and patiently
+[01:18 --> 01:19] waited for their due payment.
+[01:19 --> 01:24] But the new Carthaginian government was strapped for cash and decided a good way
+[01:24 --> 01:30] and reduce the final bill for the war would be to drastically cut payments to their soon-to-be
+[01:30 --> 01:31] ex-employees.
+[01:31 --> 01:35] How they thought this would not blow up in their face is still a mystery.
+[01:35 --> 01:40] When the Carthaginian paymasters arrived at the mercenary camp, the troops, who
+[01:40 --> 01:44] were beginning to lose their cool because they had not yet been paid, began to settle
+[01:44 --> 01:44] down.
+[01:44 --> 01:48] Yeah, there had been a delay, but the Carthaginians were good for their word
+[01:48 --> 01:52] and here at last was the riches they had just spent years earning with their
+[01:52 --> 01:53] blood and sweat.
+[01:54 --> 01:59] The Carthaginian envoys, however, launched into a speech that I can only imagine sounds
+[01:59 --> 02:02] eerily familiar to employees who have listened to a layoff announcement.
+[02:03 --> 02:05] We want to thank everybody for their hard work.
+[02:05 --> 02:07] The future looks bright for Carthage.
+[02:07 --> 02:11] We just need to streamline our liquidity outflow to maximize our revenue streams
+[02:11 --> 02:12] going forward.
+[02:13 --> 02:17] So anyway, you're all fired and oh, by the way, your severance packages have
+[02:17 --> 02:18] been cancelled.
+[02:18 --> 02:22] To say the least, the mercenaries did not take this lying down.
+[02:22 --> 02:26] They did not write letters to the editor railing against the injustice of the new
+[02:26 --> 02:28] global economy as they touched up their resumes.
+[02:29 --> 02:32] They grabbed their swords and said, trying to screw us, eh?
+[02:32 --> 02:33] We'll see about that.
+[02:34 --> 02:38] For the next three years, Carthage was locked in a war with its ex-army, a very
+[02:38 --> 02:42] dicey proposition when the whole reason you hired the mercenaries in the first
+[02:42 --> 02:45] place was that you didn't have a homegrown army of your own to speak of.
+[02:46 --> 02:49] But Carthage found some change in the couch cushions and hired different
+[02:49 --> 02:52] mercenaries to fight the aggrieved mercenaries.
+[02:52 --> 02:56] Carthage eventually won the fight, but the whole thing wound up costing more
+[02:56 --> 02:59] than if the Carthaginians had just paid up in the first place.
+[02:59 --> 03:03] There's a lesson in there somewhere, something about how easy life is when
+[03:03 --> 03:07] you simply live up to your obligations and how difficult it becomes when you
+[03:07 --> 03:08] renege on promises.
+[03:08 --> 03:14] That and always pay your mercenaries in full, plus 10%.
+[03:14 --> 03:18] The Romans, on the other hand, were not dealing with internal divisions,
+[03:18 --> 03:19] but rather external pressures.
+[03:21 --> 03:24] To put it broadly, there were two competing visions for the way the Roman
+[03:24 --> 03:28] empire ought to grow and two families who embodied those competing visions.
+[03:29 --> 03:33] On the one hand were the Claudii, who, as we have already seen, pushed
+[03:33 --> 03:36] for southern expansion and pressed for the invasion of Sicily.
+[03:36 --> 03:40] On the other hand were the Fabii, who looked north and pressed for
+[03:40 --> 03:41] Roman settlement of the Po Valley.
+[03:42 --> 03:47] At one point the Etruscans had held this land, but by the time V.A. was
+[03:47 --> 03:51] captured by Rome, the Po Valley had been lost to migrating Gallic tribes.
+[03:52 --> 03:55] So, for Rome, expansion north meant poking with a stick one of their
+[03:55 --> 03:57] most feared enemies, the Gauls.
+[03:58 --> 04:02] It had been 150 years since the sack of Rome, but the memory of
+[04:02 --> 04:05] barbarian hordes pouring through the gates was still fresh, and
+[04:05 --> 04:09] indeed fear of the Gauls was a psychological demon the Romans would
+[04:09 --> 04:10] never fully overcome.
+[04:11 --> 04:14] But for the Fabii, this was immaterial.
+[04:14 --> 04:18] Rome's destiny was the conquest of the entire world, and they weren't
+[04:18 --> 04:22] going to let childish fears halt the inexorable advance of the empire.
+[04:24 --> 04:27] Rome did not explicitly pick a fight with the Gauls, but the
+[04:27 --> 04:30] permanent settlements they were building in Gallic territory were
+[04:30 --> 04:32] obviously going to spark some sort of response.
+[04:33 --> 04:37] In 241 B.C., a single Gallic tribe rose up against the Romans,
+[04:37 --> 04:38] but were put down with ease.
+[04:39 --> 04:44] A few years later, in 236 B.C., a piecemeal coalition of tribes and
+[04:44 --> 04:47] factions began to march south, but when they actually stood on the
+[04:47 --> 04:51] brink of engaging the legions, internal squabbles broke up the
+[04:51 --> 04:54] coalition and the threat dematerialized before the Romans'
+[04:54 --> 04:55] grateful eyes.
+[04:56 --> 04:59] These minor uprisings were warning shots and the Romans did not
+[04:59 --> 05:00] dismiss them.
+[05:01 --> 05:03] Rome was in the process of annexing the Gallic tribes right
+[05:03 --> 05:04] out of existence.
+[05:04 --> 05:08] Eventually, the barbarians would have to fight or die.
+[05:09 --> 05:12] The Romans knew this and so made their preparations accordingly.
+[05:13 --> 05:16] But before the final showdown came, Roman attention was
+[05:16 --> 05:19] diverted from the Gallic threat in a direction it had never
+[05:19 --> 05:21] looked before, east.
+[05:22 --> 05:26] The Adriatic had stood as the unofficial dividing line between
+[05:26 --> 05:28] the eastern and western Mediterranean for hundreds, if
+[05:28 --> 05:32] not thousands, of years, but the division was about to break
+[05:32 --> 05:33] down completely.
+[05:34 --> 05:37] The process of integration begun by Pyrrhus, as he tried to
+[05:37 --> 05:40] impose the east on the west, would be completed by Rome when
+[05:40 --> 05:43] they ultimately imposed the west on the east.
+[05:44 --> 05:47] Rome's first official contact with the Greek world as an
+[05:47 --> 05:51] equal power came around 230 B.C., after Illyrian piracy
+[05:51 --> 05:54] finally grew to be intolerable.
+[05:55 --> 05:58] Ancient Illyria, what we know of today as the Balkans,
+[05:59 --> 06:01] represented the far west reaches of the Greek world.
+[06:02 --> 06:05] Greeks in Athens or Corinth viewed the Illyrians as
+[06:05 --> 06:08] barbarians living on the fringe of the civilized world
+[06:08 --> 06:10] and hardly worthy even of contempt.
+[06:11 --> 06:13] But then again, the Greeks of Athens and Corinth viewed
+[06:13 --> 06:16] the Macedonians the same way, so we can fairly take
+[06:16 --> 06:18] their snobbery with a grain of salt.
+[06:19 --> 06:22] The new kingdom of Illyria had formed around 240 B.C.
+[06:23 --> 06:25] and at its height controlled the entire eastern seaboard
+[06:25 --> 06:28] of the Adriatic, including the once independent kingdom of
+[06:28 --> 06:29] Epirus.
+[06:29 --> 06:33] The kingdom did not extend far inland, however, and as a
+[06:33 --> 06:36] result, the Illyrians looked to the sea as their major
+[06:36 --> 06:37] source of wealth and power.
+[06:38 --> 06:41] But the economy of this new power was not run by an
+[06:41 --> 06:44] association of scrupulous merchants and traders, but
+[06:44 --> 06:46] rather by a gang of pirates and privateers.
+[06:47 --> 06:50] Much like the Barbary states of the 18th century,
+[06:50 --> 06:53] Illyria was a recognized sovereign funded entirely by
+[06:53 --> 06:54] criminal activity.
+[06:55 --> 06:58] They were tolerated by the Greeks because the targets
+[06:58 --> 07:01] of the piracy were non-Greeks, and the goods from
+[07:01 --> 07:03] the west still made their way to eastern markets,
+[07:04 --> 07:06] often at a reduced price, what with a low overhead
+[07:06 --> 07:07] outright theft provides.
+[07:09 --> 07:11] The Romans, however, who were the targets of the
+[07:11 --> 07:13] piracy, took a very different view.
+[07:14 --> 07:16] It was a menace that had to be dealt with.
+[07:17 --> 07:19] Little was done at first, but when the Illyrians
+[07:19 --> 07:22] began to boldly attack Roman port cities, the
+[07:22 --> 07:25] dam of restraint was broken, and in 228 B.C.,
+[07:25 --> 07:28] Rome launched itself against the Illyrians with
+[07:28 --> 07:28] brutal precision.
+[07:30 --> 07:32] At the same time as the military campaign was
+[07:32 --> 07:35] launched against the Illyrian cities along the
+[07:35 --> 07:37] Adriatic, Rome also launched a diplomatic
+[07:37 --> 07:40] mission to Greece to explain what they were
+[07:40 --> 07:40] about to do.
+[07:42 --> 07:43] The Romans wanted to make sure the Greeks
+[07:43 --> 07:46] understood that the war with Illyria was limited
+[07:46 --> 07:48] in scope and would be over when the pirate
+[07:48 --> 07:49] menace was crushed.
+[07:50 --> 07:52] Yes, Roman troops were about to set foot in
+[07:52 --> 07:55] Greek territory, but there were no plans for them
+[07:55 --> 07:57] to remain longer than necessary, and no further
+[07:57 --> 07:59] invasions east were planned.
+[08:00 --> 08:02] The Greeks took this to heart, and the Romans
+[08:02 --> 08:04] were well-received, marking the official
+[08:04 --> 08:07] beginning of diplomatic relations between Rome and
+[08:07 --> 08:08] the great cities of Greece.
+[08:10 --> 08:11] The Greeks still viewed the Romans as
+[08:11 --> 08:14] backward barbarians, but the power of Rome was
+[08:14 --> 08:16] at least acknowledged, the Corinthians even
+[08:16 --> 08:19] going so far as to invite Rome to take part in
+[08:19 --> 08:21] the Isthmian Games, which finalized the
+[08:21 --> 08:24] acceptance of Rome into the Greek political world
+[08:24 --> 08:25] as a full equal.
+[08:27 --> 08:28] There was also another element to the
+[08:28 --> 08:31] diplomatic mission, which was secondary to the
+[08:31 --> 08:33] mission at hand, but would far outstrip the
+[08:33 --> 08:36] Illyrian pirate question in ultimate importance.
+[08:37 --> 08:39] The Macedonians had been consolidating their
+[08:39 --> 08:42] empire again, much to the dismay of Greece proper.
+[08:43 --> 08:45] The Romans, too, looked at the successors of
+[08:45 --> 08:46] Alexander with concern.
+[08:47 --> 08:49] They had their hands full with Carthage in the
+[08:49 --> 08:51] west, and had no desire to have their back
+[08:51 --> 08:53] door kicked down by a newly resurgent
+[08:53 --> 08:54] Macedonian empire.
+[08:56 --> 08:57] The Romans needed allies in Greece who could
+[08:57 --> 09:00] tie the hands of Macedon and protect the
+[09:00 --> 09:02] Roman eastern flank, and the Greeks needed money
+[09:02 --> 09:05] and equipment to pull off any sustained engagement.
+[09:06 --> 09:08] These mutual overtures would come to fruition
+[09:08 --> 09:11] during the Second Punic War, when Philip V
+[09:11 --> 09:13] of Macedon signed a treaty with Hannibal to
+[09:13 --> 09:14] join in the war against Rome.
+[09:15 --> 09:17] Philip may have been able to tilt the
+[09:17 --> 09:20] scales decisively against Rome, but he never
+[09:20 --> 09:22] made it out of Greece, as Roman allies there
+[09:22 --> 09:25] opened up front after front, and kept Philip
+[09:25 --> 09:27] plugging leaks in his empire, rather than
+[09:27 --> 09:29] marching his armies across the Italian
+[09:29 --> 09:31] peninsula and joining with Hannibal to form an
+[09:31 --> 09:33] invincible anti-Roman army.
+[09:35 --> 09:36] Rome was saved then by the diplomatic
+[09:36 --> 09:38] groundwork laid at the beginning of the
+[09:38 --> 09:39] Illyrian expedition.
+[09:41 --> 09:43] Free to take out the pirates with Greek
+[09:43 --> 09:45] blessing, the Romans then proceeded with
+[09:45 --> 09:48] deliberate strategic and tactical skill that
+[09:48 --> 09:50] completely outclassed the Illyrians.
+[09:50 --> 09:52] In less than a year, the major cities of
+[09:52 --> 09:55] Illyria were under Roman control, and the
+[09:55 --> 09:57] Illyrian queen was sending envoys to Rome,
+[09:57 --> 09:58] asking for peace.
+[09:59 --> 10:00] The terms were harsh.
+[10:00 --> 10:03] Illyrian ships were banished from the Adriatic,
+[10:03 --> 10:05] and southern Illyria, opposite the heel of
+[10:05 --> 10:08] Italy, was annexed and established as a
+[10:08 --> 10:09] Roman protectorate.
+[10:10 --> 10:11] The Romans had achieved a dual victory.
+[10:12 --> 10:14] Not only had they eradicated the threat of
+[10:14 --> 10:17] piracy, but they also had set up now a
+[10:17 --> 10:19] permanent base on the far side of the Adriatic,
+[10:19 --> 10:21] where they could keep an eye on the growing
+[10:21 --> 10:22] Macedonian threat.
+[10:24 --> 10:26] The quick end to the Illyrian campaign turned
+[10:26 --> 10:29] out to be a major blessing, not just for its
+[10:29 --> 10:31] own sake, but because the Gallic storm was
+[10:31 --> 10:33] brewing again, and this time it would not
+[10:33 --> 10:35] simply break up and leave a pleasant
+[10:35 --> 10:36] afternoon in its wake.
+[10:37 --> 10:40] This time, the Gauls were united and driven.
+[10:41 --> 10:44] In 226 BC, the Gauls began to pour through
+[10:44 --> 10:46] the Alps, intent on sacking Rome a second
+[10:46 --> 10:47] time.
+[10:48 --> 10:50] To face the invasion, Rome mustered an
+[10:50 --> 10:52] unprecedented number of men.
+[10:52 --> 10:54] They turned out the full fighting capacity
+[10:54 --> 10:56] of the Italian peninsula, with every
+[10:56 --> 10:58] Italian community committing themselves fully
+[10:58 --> 11:01] to what could only be considered a fight for
+[11:01 --> 11:02] civilization itself.
+[11:03 --> 11:06] Accounts have as many as 700,000 infantry
+[11:06 --> 11:08] and 70,000 cavalry being raised.
+[11:09 --> 11:11] Not all of these were first-rate legionnaires,
+[11:11 --> 11:13] and many were employed merely for local
+[11:13 --> 11:16] defense, but still, it gives you an idea of
+[11:16 --> 11:19] how seriously the Romans took the threat.
+[11:20 --> 11:22] Armies were divided up and sent to cover
+[11:22 --> 11:25] key strategic points, but the Gauls were
+[11:25 --> 11:26] able to more or less march all the way to
+[11:26 --> 11:29] Clusium and southern Etruria before they
+[11:29 --> 11:30] met any resistance.
+[11:31 --> 11:33] The first battle went poorly for the
+[11:33 --> 11:35] Romans, and their armies were trapped by
+[11:35 --> 11:37] the Gauls, but the invaders took the
+[11:37 --> 11:39] opportunity to pillage the countryside rather
+[11:39 --> 11:41] than maintain their vigil over the Romans,
+[11:41 --> 11:43] and the trapped legions were able to escape.
+[11:44 --> 11:47] This greed wound up being the undoing of
+[11:47 --> 11:47] the Gallic army.
+[11:48 --> 11:50] When the Gauls settled into camp that night,
+[11:51 --> 11:53] the decision was made by the chieftains to
+[11:53 --> 11:55] put the sack of Rome on hold for the moment.
+[11:56 --> 11:57] The chiefs recognized that their men were
+[11:57 --> 11:59] too laden with booty to fight effectively,
+[12:00 --> 12:02] and unwilling to give up their spoils,
+[12:02 --> 12:04] decided to march back north and deposit
+[12:04 --> 12:07] their gains before returning to finish the job.
+[12:08 --> 12:11] They chose a route up the Etruscan coastline
+[12:11 --> 12:13] that offered the easiest passage for their
+[12:13 --> 12:15] overloaded pack animals, but this proved
+[12:15 --> 12:17] to be a horrendous mistake.
+[12:18 --> 12:20] The passage lay between the sea to the west
+[12:20 --> 12:23] and steep hills to the east, and only
+[12:23 --> 12:25] permitted movement north or south.
+[12:26 --> 12:28] A Roman army picked up the Gallic movement
+[12:28 --> 12:30] and came down from the north, plugging up
+[12:30 --> 12:31] the passage.
+[12:32 --> 12:33] The Gauls decided to turn around and try
+[12:33 --> 12:35] a different route, but it was too late.
+[12:36 --> 12:38] The Roman army they had led escape came up
+[12:38 --> 12:40] from the south, trapping the Gauls in the pass.
+[12:41 --> 12:43] The Romans were delighted at their strategic
+[12:43 --> 12:46] coup, but immediately were filled with
+[12:46 --> 12:48] unease as they watched 50,000 trapped and
+[12:48 --> 12:50] desperate Gauls ready themselves for a
+[12:50 --> 12:51] fight to the death.
+[12:52 --> 12:54] It was a hard and bloody battle, but
+[12:54 --> 12:56] the Gauls eventually could not maintain
+[12:56 --> 12:58] both fronts and were crushed between
+[12:58 --> 12:59] the two Roman lines.
+[13:00 --> 13:02] With the main force of the Gauls now
+[13:02 --> 13:04] destroyed, the Romans turned to the
+[13:04 --> 13:06] other, subsidiary Gallic army still
+[13:06 --> 13:08] roaming the countryside, defeating them
+[13:08 --> 13:09] one by one.
+[13:09 --> 13:12] The threat posed by the invasion thus
+[13:12 --> 13:13] ended, the Romans pressed their
+[13:13 --> 13:15] advantage and cleared the Gauls out of
+[13:15 --> 13:16] Italy altogether.
+[13:17 --> 13:19] The Italian land just south of the
+[13:19 --> 13:21] Alps, which had long been considered a
+[13:21 --> 13:22] part of Gaul,
+[13:22 --> 13:24] was now firmly Roman territory and
+[13:24 --> 13:27] would remain so for the 750 years
+[13:27 --> 13:28] left to the empire.
+[13:31 --> 13:32] The years between the two Punic Wars
+[13:32 --> 13:35] were eventful and successful for Rome.
+[13:35 --> 13:37] They had opened up relations with
+[13:37 --> 13:39] Greece and established a cadre of
+[13:39 --> 13:41] allies who would play an important role
+[13:41 --> 13:42] in the Great War against Hannibal.
+[13:43 --> 13:45] They had secured the safety of their
+[13:45 --> 13:46] trade and communication routes to the
+[13:46 --> 13:48] east, which would be more important
+[13:48 --> 13:50] than ever as the west erupted into
+[13:50 --> 13:51] all-out war.
+[13:53 --> 13:54] After the fight with the Gauls,
+[13:54 --> 13:56] Italy had never been more united and
+[13:56 --> 13:57] it was this unity,
+[13:58 --> 13:59] more than anything else, that would
+[13:59 --> 14:01] wind up stymieing Hannibal
+[14:01 --> 14:03] in his attempt to break Rome. His
+[14:03 --> 14:05] plan was to beat the Romans on the
+[14:05 --> 14:05] battlefield
+[14:05 --> 14:07] and then convince Rome's Italian
+[14:07 --> 14:09] allies to turn on the great city.
+[14:09 --> 14:11] But to his chagrin, they refused to
+[14:11 --> 14:12] abandon Rome,
+[14:12 --> 14:14] even after Hannibal demonstrated how
+[14:14 --> 14:16] much better he was than the Romans
+[14:16 --> 14:19] time and time again. The frightening
+[14:19 --> 14:20] invasion of the Gauls
+[14:20 --> 14:22] and the Romans' ability to beat it
+[14:22 --> 14:24] back endeared them to their Italian
+[14:24 --> 14:26] allies, who were in no mood to turn on
+[14:26 --> 14:27] the great protector of Italian
+[14:27 --> 14:29] civilization when Hannibal came
+[14:29 --> 14:29] knocking.
+[14:31 --> 14:33] Next week, we will cover the events
+[14:33 --> 14:35] leading up to the Second Punic War.
+[14:35 --> 14:38] The Carthaginian conquest of Spain and
+[14:38 --> 14:39] the Roman response.
+[14:40 --> 14:42] It is impossible to argue that the
+[14:42 --> 14:44] Romans were not knowingly breaking
+[14:44 --> 14:45] the treaty with Carthage
+[14:45 --> 14:47] when they agreed to come to the aid
+[14:47 --> 14:49] of Saguntum. But as in the case of
+[14:49 --> 14:50] Massana in Sicily,
+[14:51 --> 14:52] they saw an opportunity to establish
+[14:52 --> 14:53] a foothold in Spain
+[14:53 --> 14:56] and took it. Damn the consequences.
+[14:56 --> 14:57] And the consequences,
+[14:57 --> 14:59] needless to say, were vast.

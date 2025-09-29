@@ -1,0 +1,412 @@
+# 20100228 - 057- Germanicus
+# Detected language: en
+# Duration: 1511.05 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, episode 57, Germanicus.
+[00:12 --> 00:13] Surprise bonus Friday edition.
+[00:14 --> 00:18] I'm hopping on a plane tomorrow to visit the History of Roman Laws, and since I just
+[00:18 --> 00:21] took a week off, I figured it would be pretty poor for him to ditch out again,
+[00:21 --> 00:22] so here we are.
+[00:24 --> 00:28] The transition from Augustus to Tiberias went smoothly in Rome itself.
+[00:28 --> 00:32] The now utterly sycophantic Senate was quick to embrace their new emperor.
+[00:33 --> 00:38] But beyond the capital, out on the frontiers, the death of Augustus led to immediate unrest
+[00:38 --> 00:42] in a far more important body than the increasingly irrelevant Senate, the legions.
+[00:43 --> 00:47] It was not so much that the death of the princeps incited revolutionary spirits,
+[00:48 --> 00:52] so much as a few rabble-rousing common soldiers saw an opportunity to agitate for
+[00:52 --> 00:56] better conditions and make sure that certain promises made to them by Augustus were
+[00:56 --> 00:58] not ignored by Tiberias.
+[00:59 --> 01:03] The new emperor needed to secure the goodwill of the armies if he wanted to rule, right?
+[01:03 --> 01:07] So why not push him a little early in the game and threaten to crash his new
+[01:07 --> 01:09] regime into the ground if he didn't give them what they wanted?
+[01:10 --> 01:14] The mutinies of 14 AD would be a key early test of Tiberias' rule.
+[01:15 --> 01:19] Would he reveal himself to be nothing more than a cheap imitation of Augustus,
+[01:19 --> 01:21] or would he be able to rule in his own right?
+[01:22 --> 01:27] There were more than a few who did not believe that the imperial regime would be able to
+[01:27 --> 01:31] survive beyond Augustus, that the dead princeps possessed a singular quality that
+[01:31 --> 01:33] allowed him to rule unopposed.
+[01:34 --> 01:37] Once he was gone, the regime would collapse and the republic would be restored.
+[01:39 --> 01:42] But Tiberias proved to be stronger and much more capable than anyone had given
+[01:42 --> 01:47] him credit for, and the opposition to the regime proved thinner and weaker than
+[01:47 --> 01:48] most people had hoped.
+[01:49 --> 01:53] Tacitus notes that the transition was eased by the sheer length of Augustan rule.
+[01:54 --> 01:58] After 44 years in power, only the very old had a clear memory of what it was
+[01:58 --> 02:00] like to live before the Caesars took over.
+[02:01 --> 02:05] For the middle-aged and the young, it was perfectly natural to be ruled by a
+[02:05 --> 02:07] single man, whoever he turned out to be.
+[02:07 --> 02:11] Life was pretty good, the empire was prosperous, the civil wars were over,
+[02:11 --> 02:12] what was the big deal?
+[02:13 --> 02:16] There was still a senate, it still had responsibilities, there were still
+[02:16 --> 02:19] consuls and proconsuls and aediles and tribunes.
+[02:20 --> 02:23] Everything was basically the same, except that in the end, the buck sawped
+[02:23 --> 02:24] somewhere in the imperial palace.
+[02:25 --> 02:27] And who wants that responsibility anyway?
+[02:28 --> 02:31] It would be years into the Tiberian regime before the Romans really got a
+[02:31 --> 02:33] taste of the dark side of absolute power.
+[02:34 --> 02:36] But by then, it was way too late.
+[02:37 --> 02:40] For his part, Tiberias tried to follow in the savvy footsteps of
+[02:40 --> 02:44] Augustus and make sure at first not to rub his power in anyone's face.
+[02:44 --> 02:47] He was deferential to the senate almost to a fault.
+[02:48 --> 02:51] And when they tried to immediately heap upon him all the honors they had
+[02:51 --> 02:54] thrust upon Augustus, Tiberias demurred.
+[02:54 --> 02:57] Some he would accept, but some, like the civic crown
+[02:57 --> 03:00] or the title father of the country, he refused.
+[03:01 --> 03:04] He was interested in power, yes, but was perfectly willing
+[03:04 --> 03:06] to give the senate a greater share in the governance of the country,
+[03:07 --> 03:09] if only to take some of the responsibility off of his plate.
+[03:10 --> 03:13] When they kept refusing to show some initiative and instead kept waiting
+[03:13 --> 03:17] for him to tell them what to do, Tiberias complained that the senate was
+[03:17 --> 03:22] full of men fit to be slaves. The once great body had descended
+[03:22 --> 03:24] into an impotent social club for rich old men.
+[03:25 --> 03:28] If Cato hadn't have been cremated, he would be spinning in his grave.
+[03:30 --> 03:32] But the legions, the legions were a different story.
+[03:33 --> 03:36] They were not so quick to roll over for their new master.
+[03:38 --> 03:41] The first mutiny of 14 AD took place in Pannonia,
+[03:41 --> 03:44] where a few legions rose up against their officers and took control of the
+[03:44 --> 03:47] camps. The men then began looting the countryside
+[03:47 --> 03:51] for anything of value while they waited for some kind of reaction from Rome.
+[03:52 --> 03:55] When word came of the mutiny, Tiberias acted quickly and ordered his son
+[03:55 --> 03:58] Drusus to go take control of the situation.
+[03:59 --> 04:02] He didn't want to go himself, as it would set a bad precedent
+[04:02 --> 04:05] that all it took to get the new emperor to come around was a little
+[04:05 --> 04:07] insubordination. Tiberias wanted the men to
+[04:08 --> 04:11] understand that it was beneath his dignity to personally address such
+[04:11 --> 04:14] trivial issues like insubordinate foot soldiers.
+[04:15 --> 04:17] But he also wanted to signal that he took the mutiny seriously
+[04:17 --> 04:20] and that he was not simply going to blow off the demands from his army,
+[04:21 --> 04:24] which was, after all, critical to his remaining in power.
+[04:24 --> 04:29] So he split the difference and sent Drusus. Accompanying the emperor's
+[04:29 --> 04:31] son were two cohorts of the Praetorian
+[04:31 --> 04:34] Guard, led by a man who was to act as Drusus's advisor on the trip
+[04:34 --> 04:38] and who will play a major role in our next episode, Lucius
+[04:38 --> 04:42] Sejanus. When Drusus arrived, the men were in a
+[04:42 --> 04:45] sorry state of disrepair, and while they accepted Drusus into
+[04:45 --> 04:48] camp, they were not thrilled to see him rather than his father.
+[04:49 --> 04:52] Drusus promised to do his best to meet the soldiers' demands,
+[04:52 --> 04:56] mostly centered around reducing the service time from 20 years down to 16,
+[04:57 --> 05:00] but that he would also have to consult with Tiberias before any final
+[05:00 --> 05:04] decisions could be made. The leaders of the mutiny accused
+[05:04 --> 05:07] Drusus of playing the same good cop bad cop routine with them
+[05:07 --> 05:11] that Tiberius and Augustus used to play, with Tiberius now playing the bad
+[05:11 --> 05:15] rather than the good cop. Drusus swore this wasn't the case,
+[05:16 --> 05:18] but the incense troops drove him from the dais anyway.
+[05:19 --> 05:23] That night, though, Drusus sent allies into the camps to speak one-on-one
+[05:23 --> 05:25] with the soldiers. What did they think the final outcome
+[05:25 --> 05:29] of all this was going to be? That somehow the leaders of the
+[05:29 --> 05:31] mutiny were going to be made generals and put in line for the
+[05:32 --> 05:35] That attacking the son of the emperor was going to make Tiberius more likely
+[05:35 --> 05:40] to give in to their demands? By morning, Tiberius had sowed enough
+[05:40 --> 05:42] doubt with the men that they were ready to let go of their treason.
+[05:43 --> 05:46] He promised the soldiers unconditional pardons and the right to present their
+[05:46 --> 05:49] case to Tiberius if they returned control of the camps to their
+[05:49 --> 05:52] officers and produced the leaders of the mutiny for trial.
+[05:53 --> 05:57] The soldiers, having thought through the likely penalty for keeping up the
+[05:57 --> 06:00] revolt, immediately complied. The first test of
+[06:00 --> 06:04] Tiberius's reign ended in success for the new emperor, thanks to the savvy
+[06:04 --> 06:09] diplomacy of his son. But immediately after the situation in
+[06:09 --> 06:12] Pannonia was settled, a similar mutiny broke out on the banks of the lower
+[06:12 --> 06:15] Rhine. A few of the legions stationed there
+[06:15 --> 06:18] revolted against their officers and drove them out of the camp,
+[06:18 --> 06:20] following the lead of their brothers down in Pannonia.
+[06:21 --> 06:24] This time, it was Germanicus who hastened to the crisis.
+[06:25 --> 06:28] Germanicus was the biological grand-nephew of Augustus
+[06:28 --> 06:32] and the biological nephew of Tiberius and by legal adoption
+[06:32 --> 06:35] was now the grandson of the old emperor and the son of the new one.
+[06:36 --> 06:39] He had just arrived in Gaul to take on the command assigned to him by the
+[06:39 --> 06:43] senate after the passing of Augustus when news of the revolt came and he
+[06:43 --> 06:45] quickly made his way to the mutinous camps.
+[06:46 --> 06:50] Germanicus took after his father, Tiberius's brother, Deruces.
+[06:50 --> 06:55] He was popular, easy-going, a natural leader and an accomplished soldier
+[06:55 --> 06:59] and all-around Roman dreamboat. If you ladies out there want to get a look at
+[06:59 --> 07:02] the young hunk, there's a picture of a sculpture of Germanicus posted along
+[07:02 --> 07:05] with this week's episode, taken by the history of Rome's
+[07:05 --> 07:08] Belgian correspondent Justin, who recently took a visit to the British
+[07:08 --> 07:11] Museum and was kind enough to send along an album's worth of pictures,
+[07:11 --> 07:14] which I'm sure you'll see pop up now and again as we move forward.
+[07:15 --> 07:18] I also want to mention that back on the Tudiburg Forest episode,
+[07:19 --> 07:22] there are now some pictures posted of a reenactment of the battle taken a
+[07:22 --> 07:25] few years ago by chief reenactment correspondent Carolyn, who was good
+[07:25 --> 07:29] enough to send them along. Awesome stuff, so go check it out.
+[07:30 --> 07:34] Being as popular as he was with the men, at first the troops tried to
+[07:34 --> 07:37] convince Germanicus to join them, that if he wanted to seize the
+[07:37 --> 07:40] throne from Tiberius, they would be more than happy to help him.
+[07:41 --> 07:44] But Germanicus was indignant at the very suggestion and promised to kill
+[07:44 --> 07:47] himself before joining in their treason.
+[07:47 --> 07:50] Chasen, the men simply ticked off their grievances, which again
+[07:50 --> 07:54] centered around earlier retirement and more pay for the soldiers who still
+[07:54 --> 07:58] owed service time. Germanicus, unlike Drusus, went ahead and
+[07:58 --> 08:02] granted their request unilaterally, rather than waiting for final word
+[08:02 --> 08:06] from Tiberius. He left the camps pacified and thought
+[08:06 --> 08:09] that that was the end of it, but the troops soon learned that a
+[08:09 --> 08:11] delegation from the senate was on the way.
+[08:12 --> 08:14] Fearing that the delegation would cancel the promises of Germanicus,
+[08:15 --> 08:18] the troops again mutinied, and when the senatorial party arrived,
+[08:18 --> 08:22] the delegates were attacked. Germanicus hurried back to the scene
+[08:22 --> 08:25] and shamed the men for shooting first and asking questions later.
+[08:26 --> 08:29] How did they know what the plans of the delegation were? The men from Rome
+[08:29 --> 08:31] hadn't even been given a chance to speak.
+[08:32 --> 08:35] Having talked them down from the ledge once again, Germanicus decided it
+[08:35 --> 08:38] was best to immediately follow through on the promise of dismissal
+[08:38 --> 08:40] for those who had served more than 16 years.
+[08:41 --> 08:44] He paid them what discharge bonuses he could out of his own pocket,
+[08:44 --> 08:48] and sent them to Raetia for settlement. Usually,
+[08:49 --> 08:51] discharged soldiers settle in the provinces where they served,
+[08:52 --> 08:55] but Germanicus wanted to make sure that these particular disgruntled
+[08:55 --> 08:58] troops were put out of everyone's sight and out of everyone's mind.
+[08:59 --> 09:02] He also went through the ranks of the men one by one with their officers
+[09:02 --> 09:05] and expelled identified troublemakers from the army.
+[09:06 --> 09:10] With the men once again pacified, Germanicus began to make plans for a
+[09:10 --> 09:14] long-term solution to the unrest. The problem, he decided, was
+[09:14 --> 09:18] inactivity. When soldiers aren't fighting, the officers have to come up
+[09:18 --> 09:21] with some way to keep them occupied, and that usually amounted to day
+[09:21 --> 09:26] after day of dull manual labor. Bored and disgruntled soldiers become
+[09:26 --> 09:30] mutinous soldiers very quickly. Germanicus resolved to give the
+[09:30 --> 09:33] legions on the Rhine something to do.
+[09:34 --> 09:37] Back in Rome, Tiberius did not like the reports he was getting from the
+[09:37 --> 09:40] region. The men were trying to declare
+[09:40 --> 09:43] Germanicus Imperator, and he was doling out concessions that had not
+[09:43 --> 09:47] been approved by Rome. Even with the blatantly obvious
+[09:47 --> 09:51] demonstration of Germanicus's loyalty to Tiberius, a matter of public record,
+[09:51 --> 09:55] Tiberius went to bed at night with visions of a Germanicus-led coup
+[09:55 --> 09:59] dancing in his head. I guess it was simply the fact that so many would be
+[09:59 --> 10:02] willing to follow the young general if he decided to do something that
+[10:02 --> 10:06] kept him up at night. But despite his misgivings, Tiberius
+[10:06 --> 10:09] decided to allow Germanicus to remain on the Rhine.
+[10:09 --> 10:12] Who knows, maybe he would fall off his horse and die like his father
+[10:12 --> 10:17] Drusus before him. That would be nice. He wouldn't, though. Instead, Germanicus
+[10:17 --> 10:21] would just raise his profile even more. Much should Tiberius's chagrin.
+[10:23 --> 10:28] In 15 AD, a year which saw Tiberius's son Drusus taking over the consulship
+[10:28 --> 10:31] and, fatefully, Lucius Sejanus taking over his Praetorian prefect,
+[10:32 --> 10:35] Germanicus decided to do something about the inactivity of the legions
+[10:35 --> 10:38] on the Rhine. Their boredom had led to mutiny, so
+[10:38 --> 10:43] Germanicus decided to stimulate them. When the spring came, he ordered his men
+[10:43 --> 10:45] across the river on a raiding expedition.
+[10:46 --> 10:48] One of the things that had triggered the previous year's mutiny
+[10:48 --> 10:52] was the perception that they would be denied bonuses promised to them by
+[10:52 --> 10:54] Augustus now that the old princeps was dead.
+[10:55 --> 10:59] So Germanicus told them that any plunder taken during that season's
+[10:59 --> 11:02] campaign would be their bonuses. There wasn't much in the way of
+[11:02 --> 11:06] long-term strategic aims when it came to Germanicus's expeditions across
+[11:06 --> 11:11] the Rhine. The point was for the Romans to continue revenging themselves on the
+[11:11 --> 11:13] Germans for the massacre in the Tudiburg forest,
+[11:13 --> 11:16] while seizing as much treasure and as many slaves as they could.
+[11:17 --> 11:20] Not exactly the most high-minded of aims, but Germanicus would still
+[11:20 --> 11:24] emerge from the invasion, more famous and more loved in Rome than ever.
+[11:25 --> 11:29] One of the keys to his lasting fame was the fact that the young general
+[11:29 --> 11:31] seemed to put the horror of the Tudiburg behind Rome forever,
+[11:32 --> 11:35] just as Scipio had once put candy behind them by finally defeating
+[11:35 --> 11:38] Hannibal. In fact, when it came to Germanicus,
+[11:39 --> 11:42] comparisons to Scipio and even Alexander the Great
+[11:42 --> 11:47] came early and often. Germanicus did not conclusively defeat the Germans,
+[11:48 --> 11:52] but he did demonstrate that the disaster in the Tudiburg forest was an
+[11:52 --> 11:54] aberration. Whenever you get beaten like that,
+[11:55 --> 11:58] you can't help but wonder if it's the beginning of the end, if all the
+[11:58 --> 12:01] good times are in the past, and that now maybe you can't keep up
+[12:01 --> 12:04] anymore. The Romans had to wonder if they
+[12:04 --> 12:07] were still the invincible force they told themselves they were,
+[12:07 --> 12:09] or whether those days were now in the rear-view mirror.
+[12:10 --> 12:13] They had, after all, spent the last few years only fighting each other,
+[12:14 --> 12:16] not really thinking about what was going on in the greater world.
+[12:18 --> 12:21] But Germanicus's incursions into Germany, while not universally successful,
+[12:22 --> 12:25] nonetheless showed that Rome could still hold its own on the battlefield
+[12:25 --> 12:28] against foreign enemies. And as much as that one battle came
+[12:28 --> 12:30] to define the Roman abandonment of Germania,
+[12:30 --> 12:35] more precisely, it was Tiberius deciding to shutter Germanicus's campaigns
+[12:35 --> 12:38] that really sealed the deal. And even that was much more
+[12:38 --> 12:41] about personal rivalry than it was about policy.
+[12:43 --> 12:47] At the time, Germania was politically divided into coastal tribes who were
+[12:47 --> 12:51] friendly to Rome, the powerful tribes in Bohemia who
+[12:51 --> 12:53] remained neutral, and the fiercely anti-Roman
+[12:53 --> 12:57] confederation forged by Arminius in the central part of the country.
+[12:58 --> 13:03] Germanicus crossed into Germania in the spring of 15 with upwards of 100,000 men
+[13:03 --> 13:07] and made straight for Arminius. Revenge was on everyone's mind.
+[13:08 --> 13:11] Germanicus was able to easily cut through the defense forces sent to stop
+[13:11 --> 13:14] him, and at one point even captured Arminius's wife.
+[13:15 --> 13:19] But the chief himself and the bulk of the German army remained elusive.
+[13:20 --> 13:22] Germanicus followed this with a key victory on the Ems River,
+[13:23 --> 13:25] but no matter how hard he tried, he couldn't bend Arminius and the
+[13:25 --> 13:28] Germans down. When battles started to go against them,
+[13:28 --> 13:32] they simply disappeared into the forest, living to fight another day.
+[13:33 --> 13:37] By avoiding defeat, Arminius was able to rally more tribes to drive off the
+[13:37 --> 13:39] invaders, and the campaign began to look more
+[13:39 --> 13:42] evenly matched, with the Germans now offering much stiffer
+[13:42 --> 13:45] resistance. Before the year was out though,
+[13:46 --> 13:49] Germanicus was able to accomplish at least one of the goals he had set
+[13:49 --> 13:52] for himself. Following the lead of survivors from
+[13:52 --> 13:55] the battle, Germanicus's army made their way to
+[13:55 --> 13:58] sight of the Tudiburg Massacre. What they found was the chilling
+[13:58 --> 14:03] leftover of a slaughter. Bones and debris still lay strewn and
+[14:03 --> 14:06] unburied. Heads had been chopped off and nailed
+[14:06 --> 14:09] to trees. The evidence of the religious sacrifices
+[14:09 --> 14:11] the Germans had turned captured officers into
+[14:11 --> 14:15] also remained, and the survivors who were present attested to the roasting
+[14:15 --> 14:20] alive of prisoners. Germanicus ordered the remains buried
+[14:20 --> 14:22] and a funeral mound built to honor the dead.
+[14:23 --> 14:27] This solemn duty performed. Germanicus pointed his army once again toward
+[14:27 --> 14:31] Arminius and attacked. But the German leader was able to lure
+[14:31 --> 14:35] his Roman foes into a trap. He led them into a swampy area and left
+[14:35 --> 14:38] the Romans with nothing but a thin strip of dry land to work with.
+[14:39 --> 14:42] But despite the terrible terrain, the legions were able to fortify a
+[14:42 --> 14:46] defensive position. Against his better judgment, Arminius
+[14:46 --> 14:49] decided to follow the advice of his more aggressive uncle
+[14:49 --> 14:52] and ordered an assault on the Roman position.
+[14:53 --> 14:56] Though the Romans would always struggle against the elements in Germania,
+[14:56 --> 14:59] when they were behind a wall and dealing with a frontal assault, well,
+[14:59 --> 15:04] they had been there before. So instead of annihilating a second Roman army
+[15:04 --> 15:07] and probably making himself as famous as Hannibal to boot,
+[15:08 --> 15:11] Arminius was forced to retreat after suffering massive casualties.
+[15:12 --> 15:15] Germanicus led his men out of the swamp and back across the Rhine for
+[15:15 --> 15:18] the winter. The next year saw Germanicus only
+[15:18 --> 15:20] more determined than ever to crush Arminius.
+[15:21 --> 15:24] The Romans tracked the German leader to the Vesa River.
+[15:24 --> 15:27] An initial battle erupted when the Romans attempted to cross.
+[15:28 --> 15:31] Arminius swooped in and tried to prevent the crossing, but his men were
+[15:31 --> 15:35] unable to hold the Roman tied back, though heavy casualties did force
+[15:35 --> 15:39] Germanicus to withdraw further up the river once he was on the far side.
+[15:40 --> 15:42] The Germans pursued and a second battle broke out.
+[15:43 --> 15:46] In this encounter, Arminius was injured, but he managed to escape
+[15:47 --> 15:50] uncaptured. The final confrontation took place
+[15:50 --> 15:52] further downstream past the site of the original crossing.
+[15:53 --> 15:57] Just as has occurred at the end of the last year, the Romans were able to
+[15:57 --> 15:59] inflict serious damage on the German army,
+[15:59 --> 16:02] but when things got bad enough, Arminius simply ordered his men to
+[16:02 --> 16:06] melt back into the forest. Germanicus had to leave it there for
+[16:06 --> 16:09] the year. The weather was turning and he had to get his men back to the
+[16:09 --> 16:13] safety of Gaul. The return trip though proved to be
+[16:13 --> 16:15] almost as dangerous as facing the Germans.
+[16:16 --> 16:20] Germanicus decided that the quickest route would be to ferry his men down
+[16:20 --> 16:23] river and sail around to Gaul by way of the North Sea,
+[16:23 --> 16:26] preferring it to slogging through the marshland back to Gaul.
+[16:27 --> 16:30] But a storm kicked up as the fleet hit the open water and drove them
+[16:30 --> 16:34] against the rocks. But rather than this debacle
+[16:34 --> 16:36] tarnishing his image, the incident actually served to boost
+[16:36 --> 16:40] Germanicus's popularity even more, as stories of the young general
+[16:40 --> 16:43] risking his life to drag survivors of the shipwrecks ashore
+[16:43 --> 16:48] filtered down to Rome. Tiberius, settling into his first years as emperor,
+[16:49 --> 16:52] watched all of this with a combination of anger and fear.
+[16:53 --> 16:56] He had had every intention of keeping Rome permanently on the west bank of
+[16:56 --> 16:59] the Rhine, and here was Germanicus flagrantly
+[16:59 --> 17:03] invading Germania season after season. But not only did the young man's
+[17:03 --> 17:06] incursions rub Tiberius the wrong way policy-wise,
+[17:06 --> 17:08] it also rubbed him the wrong way personally.
+[17:09 --> 17:13] Never socially at ease or a particularly popular man,
+[17:14 --> 17:16] Tiberius chafed as the people cheered for Germanicus.
+[17:17 --> 17:20] It wouldn't do to simply cancel the invasions, because after all
+[17:20 --> 17:24] Germanicus's victories ultimately reflected well on the imperial regime.
+[17:24 --> 17:28] But if this went on much longer, would the people call for the dour
+[17:28 --> 17:30] Tiberius to be replaced by the bright and
+[17:30 --> 17:34] chipper Germanicus? The troops along the Rhine had already
+[17:34 --> 17:38] tried it once after all. Always slightly paranoid and carrying a
+[17:38 --> 17:42] mighty chip on his shoulder, Tiberius didn't like where any of this was headed.
+[17:43 --> 17:47] So he decided to use the occasion of Germanicus's success on the far side
+[17:47 --> 17:49] of the Rhine to promote his adopted son.
+[17:50 --> 17:53] Hopefully promote him high enough that he could be kept out of trouble,
+[17:53 --> 17:59] be watched, and perhaps disposed of. So Germanicus was recalled to Rome.
+[18:00 --> 18:03] When he entered the city, Tiberius awarded him the first triumph the
+[18:03 --> 18:07] city had seen in almost 40 years. Augustus had basically done away
+[18:07 --> 18:10] with the practice. Displayed along with his other spoils
+[18:10 --> 18:14] were two prizes that caused the people to shower even more love on Germanicus.
+[18:15 --> 18:19] Two of the three legionary standards lost by Varus had been founded and
+[18:19 --> 18:20] retaken during the previous year's campaigns.
+[18:22 --> 18:25] But once his day in the sun came to an end, Germanicus was dismayed to
+[18:25 --> 18:27] learn that he would not be headed back to
+[18:27 --> 18:31] the Rhine. Instead, Tiberius told him he would be given at-large
+[18:31 --> 18:33] proconsular authority over the eastern provinces.
+[18:34 --> 18:37] After all, Germanicus was destined to succeed him.
+[18:37 --> 18:40] It wouldn't do to have him risking his life fighting savages.
+[18:41 --> 18:44] Now, it was time to grow more acquainted with the routine of empire.
+[18:45 --> 18:48] It wasn't as glamorous, but it was more important.
+[18:49 --> 18:53] Reluctantly, Germanicus accepted the promotion and packed his wife Agrippina
+[18:53 --> 18:57] and their children, including young Gaius, the future infamous Emperor
+[18:57 --> 19:00] Caligula, and their daughter Agrippina the
+[19:00 --> 19:02] younger, who would one day be the wife of
+[19:02 --> 19:04] Claudius and the mother of Nero.
+[19:05 --> 19:08] But Tiberius had no intention of letting Germanicus have his way with
+[19:08 --> 19:12] things in the east. The point of the promotion was to
+[19:12 --> 19:15] marginalize Germanicus, not, you know, actually promote him.
+[19:16 --> 19:20] So Tiberius appointed a close confidant named Gnaeus Calpurnius Piso
+[19:20 --> 19:24] to the governorship of Syria. While all we have to go on is supposition
+[19:24 --> 19:28] and accusations, the word on the street is that Piso,
+[19:28 --> 19:32] at a minimum, was appointed specifically to stymie any initiatives embarked
+[19:32 --> 19:36] upon by Germanicus. And at a maximum, Piso was said to have
+[19:36 --> 19:40] engineered, at Tiberius's order, the young heir apparent's death.
+[19:41 --> 19:45] From 17 to 19 AD, Germanicus lived and worked in the east,
+[19:46 --> 19:49] settling local disputes, doling out justice, and doing some good old
+[19:49 --> 19:53] fashion sightseeing, including taking in the ruins of Troy.
+[19:54 --> 19:58] Along the way, he clashed time and again with Piso, who seemed determined
+[19:58 --> 20:02] to undermine him at every turn, almost as if that was the whole reason
+[20:02 --> 20:06] he had been appointed governor. Germanicus would order Piso to send
+[20:06 --> 20:09] troops to Armenia, and Piso would refuse. He would make
+[20:09 --> 20:12] staff appointments in the army and find them cancelled by Piso.
+[20:13 --> 20:16] After his fateful trip to Egypt, which I'll get to in a second,
+[20:16 --> 20:20] Germanicus returned to Antioch and discovered that Piso had been busy
+[20:20 --> 20:23] undoing every decision he had ever made about provincial administration.
+[20:25 --> 20:28] There was no love lost between the two, and any time they were in the
+[20:28 --> 20:32] same room, the air was chilly and the threats were veiled.
+[20:33 --> 20:37] Until the trip to Egypt, though, there was no indication that Piso,
+[20:37 --> 20:40] or Tiberius, had anything more sinister in mind than making
+[20:40 --> 20:44] Germanicus's life miserable. But when word got back to Tiberius
+[20:44 --> 20:48] that Germanicus was in Egypt, the emperor's attitude seems to have
+[20:48 --> 20:52] taken a murderous turn. The thing about Egypt was that it
+[20:52 --> 20:55] was probably the most important province in the whole empire.
+[20:56 --> 21:00] Its wealth bankrolled the imperial regime, and its ample grain supplies
+[21:00 --> 21:05] fed the people of Rome. From the moment he seized the country from Antony and
+[21:05 --> 21:09] Cleopatra, Augustus knew that Egypt was the key to the whole game.
+[21:10 --> 21:13] As long as the province was administered personally by the emperor,
+[21:13 --> 21:15] no ambitious rival could touch the regime.
+[21:17 --> 21:20] So Augustus had declared Egypt to be the personal property of the emperor.
+[21:21 --> 21:24] Any Roman of rank who wished to enter the territory had to receive
+[21:24 --> 21:26] the express written consent of the emperor
+[21:26 --> 21:30] before doing so. But Germanicus had ignored this protocol
+[21:30 --> 21:35] and simply headed on down. Offended and threatened by his nephew
+[21:35 --> 21:39] slash son's action, Tiberius likely got word to Piso that
+[21:39 --> 21:44] enough was enough. In 19 AD, shortly after returning to
+[21:44 --> 21:48] Antioch, Germanicus fell ill. Because of the previous run-ins
+[21:48 --> 21:53] with Piso, poison was immediately suspected. There was certainly no doubt
+[21:53 --> 21:56] in the mind of Germanicus and Agrippina that he was being poisoned anyway.
+[21:57 --> 22:00] Reports also come down to us of strange objects being discovered in the
+[22:00 --> 22:04] family's house. Human remains, tablets with Germanicus's
+[22:04 --> 22:08] name crossed out, piles of ash. All of it led the
+[22:08 --> 22:11] family to believe that some sort of black magic was at play as well.
+[22:12 --> 22:16] Despite his lifetime record of good health, Germanicus just kept getting
+[22:16 --> 22:19] worse. Finally, after telling Agrippina for
+[22:19 --> 22:24] sake and the children's not to risk pursuing justice and to
+[22:24 --> 22:29] beware of Tiberius, Germanicus died. He was only 34 years old.
+[22:30 --> 22:34] His body was cremated in Antioch and Agrippina bore his ashes back to Rome
+[22:34 --> 22:36] where the entire country went into mourning.
+[22:37 --> 22:41] Never heeding her dead husband's advice, Agrippina made no secret
+[22:41 --> 22:45] that she thought Piso was behind her husband's death or that she thought
+[22:45 --> 22:48] Tiberius was behind Piso. Whether or not
+[22:48 --> 22:52] Tiberius really ordered Piso to assassinate Germanicus, the charges were
+[22:52 --> 22:54] now out there in the open and the emperor had to do something
+[22:54 --> 22:58] about it. Tiberius, of course, denied all
+[22:58 --> 23:01] involvement and when Agrippina and Germanicus's old friends
+[23:01 --> 23:04] formally requested that charges be brought against Piso,
+[23:04 --> 23:07] the emperor had no choice but to grant the request.
+[23:07 --> 23:11] If he wasn't involved, he had no reason to stand in the way of justice
+[23:11 --> 23:16] even if he himself argued that the charges against Piso were preposterous.
+[23:17 --> 23:20] Returning to Rome, the ex-governor of Syria faced the Senate,
+[23:21 --> 23:24] defiant and refusing to accept blame for what he termed nothing more
+[23:24 --> 23:29] than a sad twist of fate. The Senate, though, was ill-disposed
+[23:29 --> 23:32] toward Piso and heard more than enough testimony to convince him
+[23:32 --> 23:37] that something fishy had gone on. When Tiberius refused to use his
+[23:37 --> 23:39] imperial prerogative to get Piso off the hook,
+[23:39 --> 23:44] the accused committed suicide. Either that or he was killed by Tiberius
+[23:44 --> 23:48] because the emperor was afraid that a cornered Piso might just spill his guts.
+[23:50 --> 23:53] Whatever Tiberius's actual role in the death of Germanicus,
+[23:53 --> 23:56] Agrippina's version of event was widely believed thereafter.
+[23:57 --> 24:00] The emperor had murdered his adopted son because he was jealous of the
+[24:00 --> 24:02] young man and was afraid of his growing power.
+[24:03 --> 24:06] This would be the beginning of a chasm that would open up between the
+[24:06 --> 24:10] people of Rome and their emperor. They came to hate him and in time
+[24:10 --> 24:15] he came to hate them, too. For a while, Tiberius remained fully
+[24:15 --> 24:19] engaged in imperial administration and was a mostly effective ruler,
+[24:19 --> 24:21] despite his poor standing with the people.
+[24:22 --> 24:25] Next week, though, Tiberius will go off the deep end and wind up
+[24:25 --> 24:30] abandoning Rome completely, literally leaving Rome forever, never to return.
+[24:31 --> 24:34] Hated by the people, smothered by his mother, and grieving the sudden
+[24:34 --> 24:38] death of his son, Drusus, Tiberius will withdraw from public life
+[24:38 --> 24:41] and leave the day-to-day operation of Rome to his trusty lieutenant,
+[24:41 --> 24:46] Sejanus. An ironic choice, as it was Sejanus who had murdered Drusus
+[24:46 --> 24:47] in the first place.
+[25:08 --> 25:10] you

@@ -1,0 +1,612 @@
+# 20100228 - 049- Apollo and Dionysus
+# Detected language: en
+# Duration: 1600.05 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, Episode 49, Apollo and Dionysus.
+[00:13 --> 00:18] Last time, Antony and Octavian, but really Antony, defeated the combined armies of Brutus
+[00:18 --> 00:21] and Cassius at the Battle of Philippi in late 42 BC.
+[00:22 --> 00:26] Just two years removed from the assassination of Julius Caesar, an assassination that
+[00:26 --> 00:28] was supposed to herald the return of the Republic.
+[00:28 --> 00:33] The Romans were as far removed from democracy as they had been under the Tarquans.
+[00:33 --> 00:39] Power now resided fully in the hands of just three men, Octavian, Antony, and Lepidus.
+[00:39 --> 00:42] Their word was law, no debate, and no appeal.
+[00:43 --> 00:47] But of course, it was not the final ambition of any one of the three to rule with colleagues.
+[00:48 --> 00:50] They all aimed to hold the prize for themselves.
+[00:51 --> 00:55] For now, the Triple Alliance held because their triumph was too fresh not to be threatened
+[00:55 --> 01:00] on all sides by men who, having submitted, now waited for any opportunity to throw off
+[01:00 --> 01:01] the Triumvirate yoke.
+[01:02 --> 01:06] But even understanding their precarious position, the dynamic within the Triumvirate
+[01:06 --> 01:07] began to change.
+[01:08 --> 01:11] Lepidus, who had been left in charge of Italy while the other two Triumvirs
+[01:11 --> 01:15] went east, was about to find himself the odd man out in what had always been
+[01:15 --> 01:18] a struggle between Octavian and Antony.
+[01:19 --> 01:23] After Philippi, the balance of power that would define the next few years of
+[01:23 --> 01:27] alliance and rivalry between the two lead Triumvirs began to shake out.
+[01:28 --> 01:31] Mark Antony stayed in the east with eight legions, while Octavian took the remaining
+[01:31 --> 01:36] troops, old Caesarian veterans, and surrendered liberator soldiers alike back to Italy.
+[01:37 --> 01:41] The two Triumvirs had signed an agreement granting Antony power over the empire east
+[01:41 --> 01:46] of the Adriatic and Octavian the west, excepting Greater Gaul, which remained in
+[01:46 --> 01:46] Antony's hands.
+[01:47 --> 01:51] Each would focus on their sphere of influence to solidify power for the Triumvirate.
+[01:52 --> 01:54] Antony obviously had the more glamorous position.
+[01:55 --> 01:59] It had long been a Roman ambition to invade Parthia and move the empire into the
+[01:59 --> 02:00] eastern interior.
+[02:00 --> 02:04] It was now up to Antony to pick up the baton dropped first by Crassus and then
+[02:04 --> 02:07] by Julius Caesar and carry it across the finish line.
+[02:08 --> 02:12] Octavian, meanwhile, was left with the unenviable task of demobilizing tens of
+[02:12 --> 02:17] thousands of veterans, finding them lands to settle on in an overcrowded continent
+[02:17 --> 02:20] without any money left in the treasury to purchase the necessary land.
+[02:21 --> 02:25] While Antony went off to play conquering hero, Octavian was left to play
+[02:25 --> 02:29] bureaucratic dunce, caught between angry veterans and angry citizens.
+[02:30 --> 02:33] Plus, the one real internal threat to the Triumvirate remaining after
+[02:33 --> 02:36] Philippi was left Octavian to deal with.
+[02:37 --> 02:41] Sextus Pompey, the now 25 year old son of Pompey the Great, had gathered
+[02:41 --> 02:43] a pirate fleet and taken control of Sicily.
+[02:44 --> 02:48] For Antony, it was all eastern queens never ending banquets and planning for
+[02:48 --> 02:48] greatness.
+[02:48 --> 02:54] For Octavian, it was grain shortages, general strikes, and angry mobs.
+[02:55 --> 02:59] The main problem facing the Triumvirate, which was fast becoming a
+[02:59 --> 03:02] biumvirate, especially now that the rich province of Spain had been taken
+[03:02 --> 03:06] away from Lepidus and given to Octavian, was that the state coffers
+[03:06 --> 03:06] were empty.
+[03:07 --> 03:10] No thought had been spared for the future when the Triumvirate built
+[03:10 --> 03:14] their war machine to face Brutus and Cassius, but having won now, they
+[03:14 --> 03:16] were faced with the consequences of victory.
+[03:16 --> 03:20] In particular, promises of land had been made to the soldiers to entice
+[03:20 --> 03:23] them into the army in the first place and then keep them there through
+[03:23 --> 03:24] the hard times.
+[03:25 --> 03:27] Now the bill was coming due.
+[03:27 --> 03:31] In the past, as with Pompey's veterans or Julius Caesar's
+[03:31 --> 03:34] veterans, the riches won in battle were used to purchase property
+[03:34 --> 03:35] for the retiring soldiers.
+[03:36 --> 03:39] Though there was no enshrined eminent domain protection that
+[03:39 --> 03:42] required the state to pay a fair price for seized land, it was
+[03:42 --> 03:43] simply practical to do so.
+[03:44 --> 03:47] It kept hurt feelings to a minimum and left everyone, soldier and
+[03:47 --> 03:49] citizen alike, relatively happy.
+[03:50 --> 03:53] But Octavian and Antony had not conquered foreign lands and
+[03:53 --> 03:56] returned home seated atop a massive pile of cash.
+[03:57 --> 04:00] They had barely emerged from a bitter civil war that had left
+[04:00 --> 04:03] them very, very poor rather than very, very rich.
+[04:05 --> 04:07] Back in Rome, Octavian faced a choice.
+[04:07 --> 04:11] Reneg on the promise to the some 40,000 soldiers scheduled for
+[04:12 --> 04:14] simply take by force the land needed to keep his word.
+[04:15 --> 04:18] It should come as no surprise to anyone that in this new world
+[04:18 --> 04:21] order where soldiers were the principal currency of politics,
+[04:21 --> 04:23] that Octavian chose the latter.
+[04:24 --> 04:27] He marked down sites across Italy to settle the veterans and
+[04:27 --> 04:29] arbitrarily confiscated the necessary land.
+[04:30 --> 04:33] Some of the seizures came from large senatorial estates that
+[04:33 --> 04:34] could absorb the loss.
+[04:34 --> 04:37] But just as often, the settlement swallowed entire
+[04:37 --> 04:38] free holdings.
+[04:38 --> 04:41] Families whose only crime was living where Octavian's finger
+[04:41 --> 04:43] landed on a map were thrown off their land.
+[04:44 --> 04:47] The public was outraged and as the dispossessed streamed
+[04:47 --> 04:49] into Rome, where else could they go?
+[04:49 --> 04:52] Riots broke out between ex-soldiers and
+[04:52 --> 04:53] evicted citizens.
+[04:54 --> 04:56] Octavian realized he could only push the civilian
+[04:56 --> 04:59] population so far before they would come after him with
+[04:59 --> 05:00] pitchforks.
+[05:00 --> 05:02] And so he called a halt to the confiscations.
+[05:03 --> 05:06] But unfortunately, what had been seized already was not
+[05:06 --> 05:08] enough to satisfy all the veteran claims.
+[05:08 --> 05:11] So now, rather than facing angry mobs of citizens,
+[05:12 --> 05:14] Octavian faced angry mobs of ex-soldiers.
+[05:15 --> 05:18] On top of everything else, Sextus Pompey, having taken
+[05:18 --> 05:20] control of Sicily with a fleet that far outgunned
+[05:20 --> 05:23] anything the Triumvirs could muster at this point, began
+[05:23 --> 05:26] a blockade of Italy that left the all-important grain
+[05:26 --> 05:27] supply lines broken.
+[05:28 --> 05:31] Octavian, in a word, was miserable.
+[05:32 --> 05:35] By contrast, out in the eastern provinces, Mark
+[05:35 --> 05:38] Antony had styled himself as the new incarnation of
+[05:38 --> 05:41] Dionysus and was doing his best to live up to the
+[05:41 --> 05:44] ecstatic lifestyle that defined the Greek god of wine
+[05:44 --> 05:44] and abundance.
+[05:45 --> 05:48] He indulged endlessly in everything the provinces had
+[05:48 --> 05:48] to offer.
+[05:49 --> 05:51] And going far beyond what would be considered good
+[05:51 --> 05:54] taste back in Rome, the new Dionysus actively joined
+[05:54 --> 05:57] in the rituals of the Eastern mystery cults.
+[05:57 --> 06:00] Antony traveled slowly from Greece into Asia Minor
+[06:00 --> 06:02] and settled in Cilicia on the southern coast.
+[06:03 --> 06:05] From this base of operations, he planned to raise money
+[06:05 --> 06:08] and men for his invasion of Parthia.
+[06:08 --> 06:10] But having already bled the provinces dry during the
+[06:10 --> 06:13] years of civil war, there was little left that Rome
+[06:13 --> 06:14] could squeeze out of the natives.
+[06:15 --> 06:17] Realizing increased taxes weren't getting him
+[06:17 --> 06:20] anywhere fast, Antony's gaze naturally turned south
+[06:20 --> 06:22] across the sea to the rich lands of Egypt.
+[06:24 --> 06:26] Conveniently, now fully in control of her country,
+[06:27 --> 06:29] Cleopatra had styled herself as the new Isis.
+[06:30 --> 06:33] In Egyptian mythology, Isis was the sister and wife
+[06:33 --> 06:36] of Osiris, who had long been seen as an Eastern analog
+[06:36 --> 06:39] for, wait for it, Dionysus.
+[06:39 --> 06:42] The match was too perfect not to embrace completely.
+[06:43 --> 06:46] Antony invited Cleopatra to meet with him in Cilicia
+[06:46 --> 06:47] and the queen agreed.
+[06:47 --> 06:50] The alliance they forged was mutually beneficial.
+[06:50 --> 06:52] Antony got the revenue stream he needed for his
+[06:52 --> 06:55] further adventures and Cleopatra got a new Roman
+[06:55 --> 06:58] patron to protect her position in Egypt.
+[06:59 --> 07:02] Julius Caesar had been the personal guarantor of her
+[07:02 --> 07:04] rule and with him dead, she needed a powerful ally
+[07:04 --> 07:06] in Rome to maintain the throne.
+[07:07 --> 07:09] It was a match made in heaven, literally according
+[07:09 --> 07:11] to their mutual propaganda campaign.
+[07:12 --> 07:14] Antony decided to follow Cleopatra to Alexandria
+[07:14 --> 07:15] for the winner.
+[07:15 --> 07:17] Beyond the political alliance they cemented,
+[07:18 --> 07:19] the withers spent in each other's company
+[07:19 --> 07:20] produced twins.
+[07:22 --> 07:25] 41 BC arrived chock full of bad news for both
+[07:25 --> 07:26] triumphers.
+[07:26 --> 07:29] In Italy, Antony's brother Lucius, who was consul
+[07:29 --> 07:32] for the year, conspired with Antony's wife Fulvia
+[07:32 --> 07:34] to foment a rebellion against Octavian.
+[07:35 --> 07:37] Just how in the loop Mark Antony was remains unclear.
+[07:38 --> 07:40] Of course he claimed he knew nothing about it,
+[07:40 --> 07:42] but that was after the fact, after the rebellion
+[07:42 --> 07:43] failed spectacularly.
+[07:43 --> 07:45] Certainly he took no active part in the
+[07:45 --> 07:48] machinations, he had other things to worry about.
+[07:48 --> 07:50] While aware that the Romans were planning an invasion,
+[07:51 --> 07:53] the Parthians had launched a preemptive strike
+[07:53 --> 07:53] into Syria.
+[07:54 --> 07:56] Antony quickly abandoned his love nest in Alexandria
+[07:56 --> 07:59] and returned to military life.
+[08:01 --> 08:03] The protracted, if ultimately minor uprising
+[08:03 --> 08:06] in Italy against Octavian was hatched by Fulvia
+[08:06 --> 08:09] and Lucius Antony once the breadth of Octavian's
+[08:09 --> 08:10] political troubles became apparent.
+[08:11 --> 08:13] The young man was struggling mightily with
+[08:13 --> 08:15] the thorny issues that come when there was
+[08:15 --> 08:17] too little land and too little grain,
+[08:17 --> 08:19] and he was traveling fast down a road of
+[08:19 --> 08:21] pleasing none of the people, none of the time.
+[08:22 --> 08:25] To top things off, his aristocratic pampered
+[08:25 --> 08:27] upbringing had left him with something
+[08:27 --> 08:28] of a tin ear politically.
+[08:29 --> 08:31] In the midst of a grain shortage caused by
+[08:31 --> 08:33] Sextus Pompey's blockade for example,
+[08:34 --> 08:36] Octavian attended a lavish banquet where each
+[08:36 --> 08:38] guest came dressed as a different Greek god.
+[08:39 --> 08:41] In contrast to Antony's embrace of the
+[08:41 --> 08:43] indulgent and emotional Dionysus,
+[08:43 --> 08:45] Octavian came dressed as Apollo,
+[08:45 --> 08:47] god of light and rationality.
+[08:48 --> 08:50] Octavian meant only to have a bit of fun
+[08:50 --> 08:53] and begin the process of associating himself
+[08:53 --> 08:54] publicly with the divine Apollo,
+[08:55 --> 08:58] but instead the public was outraged that while
+[08:58 --> 09:01] they starved, self-styled gods were eating all the food.
+[09:01 --> 09:03] If public opinion polls had existed,
+[09:04 --> 09:05] Octavian's numbers would have been in the toilet.
+[09:07 --> 09:09] So Fulvia and Lucius Antony stirred up
+[09:09 --> 09:10] resentment amongst the struggling veterans
+[09:10 --> 09:12] while simultaneously picking up the cause
+[09:12 --> 09:15] of the dispossessed and now starving ex-freeholders.
+[09:16 --> 09:17] They managed to raise some legions
+[09:17 --> 09:20] of disgruntled citizens and sent word around
+[09:20 --> 09:22] to the standing armies loyal to Antony
+[09:22 --> 09:24] that this was all being done with his approval.
+[09:25 --> 09:27] But the Antonian generals were skeptical
+[09:27 --> 09:29] and held back from what was clearly
+[09:29 --> 09:31] a half-baked scheme to oust Octavian.
+[09:32 --> 09:33] They were talking about directly
+[09:33 --> 09:35] assaulting the heir of Julius Caesar.
+[09:35 --> 09:37] He may be unpopular, but still,
+[09:38 --> 09:39] that was not a thing done lightly.
+[09:40 --> 09:42] If it was what Antony wanted, so be it,
+[09:42 --> 09:44] but let the orders come from him.
+[09:44 --> 09:46] Until then, they were staying put.
+[09:47 --> 09:49] Octavian sent his friend a grip at a deal
+[09:49 --> 09:51] with the floundering rebel army,
+[09:51 --> 09:52] which holed up in the fortress town
+[09:52 --> 09:54] of Perusia in central Italy.
+[09:55 --> 09:57] After a long siege, the town finally fell
+[09:57 --> 09:58] to Octavian's forces.
+[09:59 --> 10:01] It was a minor victory against a weak opponent,
+[10:01 --> 10:03] but it had the effect of giving Octavian
+[10:03 --> 10:05] a military victory in his own right
+[10:05 --> 10:06] without anyone being able to point
+[10:06 --> 10:09] to a more senior officer who really won the battle,
+[10:09 --> 10:12] even though Agrippa really won the battle.
+[10:13 --> 10:15] It was an important legitimizing moment
+[10:15 --> 10:17] for the young statesman who badly needed
+[10:17 --> 10:18] a legitimizing moment.
+[10:18 --> 10:21] Lucius Antony committed suicide just as Perusia fell,
+[10:22 --> 10:23] and Fulvia went into exile.
+[10:24 --> 10:26] She died of an illness the next year in Greece
+[10:26 --> 10:28] after an emotional confrontation with Antony,
+[10:28 --> 10:31] who blamed her for the whole unnecessary fiasco.
+[10:31 --> 10:34] In her attempt to exploit Octavian's weakness,
+[10:34 --> 10:36] she had left him stronger than ever.
+[10:38 --> 10:40] Perhaps smarting from the unexpected betrayal
+[10:40 --> 10:42] by the Antony's and also glowing
+[10:42 --> 10:45] with renewed confidence, in early 40 BC,
+[10:45 --> 10:47] Octavian broke a clear provision
+[10:47 --> 10:49] in his agreement with Antony to leave Gaul alone.
+[10:50 --> 10:52] The governor of the province,
+[10:52 --> 10:54] a staunch Antonian general named Colenus,
+[10:54 --> 10:56] suddenly died, and without consulting
+[10:56 --> 10:59] his triumvirate partner, Octavian went north
+[10:59 --> 11:01] and took command of the 11 legions stationed there.
+[11:02 --> 11:04] The move was nothing less than an act of war
+[11:04 --> 11:06] so far as Antony was concerned.
+[11:07 --> 11:09] Leaving the east in the hands of his capable lieutenants,
+[11:09 --> 11:11] Antony immediately headed back to Italy
+[11:11 --> 11:12] to confront his young colleague.
+[11:13 --> 11:15] With Octavian seemingly intent on breaking
+[11:15 --> 11:19] the triumvirate, Antony simultaneously sent out feelers
+[11:19 --> 11:21] to Sextus Pompey and Sicily, looking for an alliance.
+[11:22 --> 11:24] He found the young Republican amenable
+[11:24 --> 11:27] to a joint operation, and Antony signaled
+[11:27 --> 11:29] that Sextus should harass the coast of Italy at will
+[11:29 --> 11:31] to put pressure on Octavian.
+[11:32 --> 11:33] Antony also picked up the support
+[11:33 --> 11:36] of the Republican fleet that had once upon a time
+[11:36 --> 11:39] blockaded the Adriatic prior to the Battle of Philippi.
+[11:39 --> 11:41] In what was shaping up to be the final showdown
+[11:41 --> 11:43] between Antony and Octavian,
+[11:43 --> 11:46] the old Republicans were clearly casting their lot
+[11:46 --> 11:47] with Antony.
+[11:49 --> 11:52] In an attempt to blunt the efforts of Antony's diplomacy,
+[11:52 --> 11:55] Octavian decided that it was high time he took a wife
+[11:55 --> 11:57] and arranged a marriage with the widowed Scribonneum.
+[11:58 --> 12:01] She was a much older woman and seemed a poor match
+[12:01 --> 12:03] until you consider that she was also
+[12:03 --> 12:05] Sextus Pompey's aunt-in-law.
+[12:05 --> 12:08] In the highly familial world of Roman politics,
+[12:08 --> 12:10] Octavian was signaling his own willingness
+[12:10 --> 12:11] to ally with Sextus.
+[12:12 --> 12:14] At the very least, he hoped to make the young admiral
+[12:14 --> 12:17] think twice before taking sides against his new uncle.
+[12:19 --> 12:21] Antony and his fleet arrived in Vrindisium
+[12:21 --> 12:23] and found the city locked up tight
+[12:23 --> 12:24] by Octavian's garrison.
+[12:25 --> 12:28] A siege began and Octavian hurried down
+[12:28 --> 12:30] with his armies to assess the situation.
+[12:30 --> 12:33] Was this the beginning of the end of the Triumvirate?
+[12:34 --> 12:35] In an interesting turn of events,
+[12:36 --> 12:38] the answer turned out to be an emphatic no.
+[12:40 --> 12:42] Centurions in both camps had had enough of civil war.
+[12:43 --> 12:45] They had had enough of killing each other.
+[12:45 --> 12:48] They were friends, neighbors, comrades,
+[12:48 --> 12:49] in some cases family.
+[12:50 --> 12:50] Enough was enough.
+[12:51 --> 12:53] You know the old saying, what if they threw a war
+[12:53 --> 12:55] and no one showed up?
+[12:55 --> 12:57] At Vrindisium, that's exactly what happened.
+[12:58 --> 13:00] The Centurions went to their respective commanders
+[13:00 --> 13:02] and said, look, you do what you want,
+[13:02 --> 13:04] but we're not going to battle.
+[13:05 --> 13:07] We would suggest coming to some kind of an agreement
+[13:07 --> 13:09] because the only way this is going to end now
+[13:09 --> 13:11] if you both refuse to compromise
+[13:11 --> 13:14] is some kind of single combat collateral death match
+[13:14 --> 13:15] for control of the empire,
+[13:16 --> 13:17] which is fine, we'll cheer you on,
+[13:18 --> 13:20] but we're not doing your fighting for you anymore.
+[13:21 --> 13:22] Left mutually defenseless,
+[13:23 --> 13:24] Antony and Octavian decided to deal.
+[13:26 --> 13:28] The Triumvirate alliance was reconfirmed
+[13:28 --> 13:30] and the east-west power sharing was formalized
+[13:30 --> 13:33] with Antony crucially conceding Gaul to Octavian.
+[13:34 --> 13:37] Lepidus still hung in there in his official triumvir
+[13:37 --> 13:39] and was granted the province of Africa,
+[13:39 --> 13:41] but by now he was irrelevant.
+[13:41 --> 13:44] The third wheeled triumvir will make one last big play
+[13:44 --> 13:46] to get back in the game after the campaign
+[13:46 --> 13:48] against Sextus Pompey in Sicily,
+[13:48 --> 13:51] but it will only net him a forced retirement.
+[13:53 --> 13:55] The treaty was met with relief by the people of Rome
+[13:55 --> 13:58] and further celebrated when news came
+[13:58 --> 13:59] of the final deal sealer.
+[14:00 --> 14:03] Newly widowed Antony would wed Octavian's sister,
+[14:03 --> 14:04] Octavia.
+[14:04 --> 14:07] The triumvirate was one big happy family again.
+[14:07 --> 14:08] They all returned to Rome together
+[14:08 --> 14:10] to celebrate the coming nuptials.
+[14:12 --> 14:14] Meanwhile, Sextus Pompey,
+[14:14 --> 14:16] who had so recently been courted by both triumvirs,
+[14:17 --> 14:18] was now out in the political cold again
+[14:18 --> 14:20] and returned to his blockade.
+[14:21 --> 14:23] But though he was not going to play the part of kingmaker,
+[14:24 --> 14:26] his strangulation of the grain supply routes
+[14:26 --> 14:27] was taking its toll on Rome
+[14:27 --> 14:29] and the triumvirs came under immense pressure
+[14:29 --> 14:31] to come to terms with him.
+[14:31 --> 14:34] After initially refusing any compromise,
+[14:34 --> 14:35] the triumvirate finally bowed
+[14:35 --> 14:37] to the ever rising grain prices
+[14:37 --> 14:39] and in the summer of 39 BC,
+[14:39 --> 14:41] invited Pompey to the bargaining table.
+[14:42 --> 14:44] In exchange for lifting the blockade,
+[14:44 --> 14:46] the triumvirs offered to legalize his hold
+[14:46 --> 14:48] over Sicily, Sardinia, and Corsica,
+[14:49 --> 14:51] making the young man governor of all three islands.
+[14:51 --> 14:53] In addition, they would slate him
+[14:53 --> 14:54] for a consulship the next year.
+[14:55 --> 14:57] After mowing it over, Sextus agreed.
+[14:59 --> 15:00] By legalizing Sextus,
+[15:00 --> 15:03] the triumvirs also invited back into the fold
+[15:03 --> 15:06] all the Republican exiles who had fled to his banner.
+[15:07 --> 15:09] Prescribed families, lucky to get out of Rome alive,
+[15:10 --> 15:11] were now allowed to return to their homes.
+[15:12 --> 15:14] One young family who took the triumvirate
+[15:14 --> 15:16] up on their offer of clemency
+[15:16 --> 15:17] was Tiberius Claudius Nero,
+[15:18 --> 15:20] his 19-year-old wife Livia Drusilla,
+[15:20 --> 15:23] and their infant son, also named Tiberius.
+[15:23 --> 15:26] They had been on the run since Tiberius the Elder
+[15:26 --> 15:28] had joined and then fled from
+[15:28 --> 15:31] Folvia's ill-advised revolt two years before.
+[15:32 --> 15:33] Tiberius was something of a doofus
+[15:33 --> 15:35] who always managed to find himself
+[15:35 --> 15:37] on the wrong side of any given fight,
+[15:37 --> 15:38] going back to his stance against
+[15:38 --> 15:41] the first triumvirate 15 years earlier.
+[15:42 --> 15:44] His only lasting contribution to Roman history
+[15:44 --> 15:46] was the fact that he agreed to a divorce
+[15:46 --> 15:48] when Octavian announced that he intended to marry Livia,
+[15:49 --> 15:51] having fallen madly in love with her at first sight.
+[15:52 --> 15:54] The only complication was that both Livia
+[15:54 --> 15:56] and Scribonia were pregnant.
+[15:57 --> 16:00] Devoid of sentimentality, Octavian divorced Scribonia
+[16:00 --> 16:03] on the day she gave birth to his only biological child,
+[16:03 --> 16:06] a daughter named Julia, in October 39 BC.
+[16:07 --> 16:09] He and Livia were wed three days after
+[16:09 --> 16:11] she gave birth to her second son, Drusus.
+[16:12 --> 16:14] With these marital ties lined up,
+[16:14 --> 16:16] the Julio-Claudian dynasty
+[16:16 --> 16:18] that we have all come to know and love
+[16:18 --> 16:19] finally fell into place.
+[16:20 --> 16:22] The infant Tiberius would, in time,
+[16:22 --> 16:25] be adopted by Augustus and then inherit the throne,
+[16:25 --> 16:27] becoming Rome's second emperor.
+[16:27 --> 16:30] His brother, Drusus, was the father of Claudius,
+[16:30 --> 16:33] grandfather of Caligula, and great-grandfather of Nero.
+[16:34 --> 16:35] Germanicus is in there, too,
+[16:35 --> 16:37] but we'll get to all of that.
+[16:38 --> 16:40] Almost immediately after securing the treaty
+[16:40 --> 16:41] with the triumvirate,
+[16:42 --> 16:44] Sexis realized that he had made a terrible deal.
+[16:44 --> 16:46] He was already in control of Sicily,
+[16:46 --> 16:48] Corsica, and Sardinia.
+[16:48 --> 16:49] There was nothing the triumvirate
+[16:49 --> 16:50] could have done about that,
+[16:50 --> 16:52] so he had bargained for control
+[16:52 --> 16:54] over things he already controlled.
+[16:54 --> 16:56] In return, he had given up the mantle
+[16:56 --> 16:58] of last defender of the Republic.
+[17:00 --> 17:02] The money and support that flooded his way
+[17:02 --> 17:04] for playing this part suddenly dried up.
+[17:05 --> 17:07] All his allies had returned home or given up on him.
+[17:08 --> 17:10] Octavian was no fan of the agreement either,
+[17:11 --> 17:13] but with the situation in the West finally settled,
+[17:14 --> 17:15] Antony clapped down on any talk
+[17:15 --> 17:17] of further aggression against Sexis.
+[17:18 --> 17:19] He needed things quiet in Rome
+[17:19 --> 17:21] if he was ever going to get
+[17:21 --> 17:24] the eternally delayed Parthian campaign off the ground.
+[17:24 --> 17:27] But by 38 BC, with Antony back in the East
+[17:27 --> 17:30] planning his war and Sexis disrupting
+[17:30 --> 17:32] the grain supply again in an attempt to stay relevant,
+[17:33 --> 17:35] Octavian decided to ignore his colleagues' wishes
+[17:35 --> 17:38] and deal with the meddlesome Pompey once and for all.
+[17:39 --> 17:42] With the defection of one of Sexis's top captains,
+[17:42 --> 17:44] Octavian decided to strike while the iron was hot.
+[17:45 --> 17:47] He now knew where young Pompey was
+[17:47 --> 17:49] and exactly what his defenses were.
+[17:50 --> 17:52] If he could clear Sexis off the table quickly,
+[17:53 --> 17:54] Antony would return from the East
+[17:54 --> 17:57] with Octavian the undisputed ruler of the Western Empire.
+[17:57 --> 17:59] It was a seductive thought
+[17:59 --> 18:02] and so he voided the treaty with Sexis and attacked.
+[18:04 --> 18:06] Octavian planned a two-pronged assault of Sicily.
+[18:07 --> 18:09] He ordered a fleet led by Sexis's ex-captain
+[18:09 --> 18:12] to sail south and attack the north coast of the island.
+[18:13 --> 18:15] Meanwhile, the driver himself
+[18:15 --> 18:17] would lead another force in from the East.
+[18:17 --> 18:20] He hoped to quickly pin Sexis down in Massona
+[18:20 --> 18:22] just across the straits from mainland Italy.
+[18:23 --> 18:26] But this initial thrust turned into a complete debacle.
+[18:27 --> 18:29] The fleet coming south was challenged,
+[18:29 --> 18:30] defeated, and forced to retreat.
+[18:32 --> 18:33] Octavian quickly shifted his plans
+[18:33 --> 18:35] and decided to try to rush through the straits
+[18:35 --> 18:38] of Massona and link up with the retreating fleet.
+[18:38 --> 18:39] Two prongs were nice,
+[18:40 --> 18:42] but if this wasn't going to be as easy as he thought,
+[18:42 --> 18:45] one great big prong was better than two little prongs.
+[18:46 --> 18:48] But Octavian was an inexperienced naval commander
+[18:48 --> 18:50] and as soon as he set sail,
+[18:50 --> 18:53] Sexis pounced and drove Octavian's fleet into the rocks.
+[18:54 --> 18:56] Octavian barely escaped with his life.
+[18:56 --> 18:58] Most of his fleet was either on fire
+[18:58 --> 19:00] or dashed on the rocks.
+[19:01 --> 19:02] In a cruel twist of fate,
+[19:02 --> 19:04] the next morning Octavian and the survivors
+[19:04 --> 19:06] awoke to a sudden storm
+[19:06 --> 19:09] and what few ships they had left sunk.
+[19:10 --> 19:12] Octavian struck while the iron was hot all right
+[19:12 --> 19:13] and it burned him badly.
+[19:15 --> 19:17] Humiliated but undeterred,
+[19:18 --> 19:20] Octavian called for Agrippa to help plan a new invasion.
+[19:21 --> 19:23] To give his friend all the resources he needed,
+[19:24 --> 19:26] Octavian had the 26-year-old appointed consul
+[19:26 --> 19:27] for the year 37 BC.
+[19:29 --> 19:31] That whole year was spent building a new fleet.
+[19:32 --> 19:34] But because Octavian wanted to lull Sexis
+[19:34 --> 19:36] into a false sense of security
+[19:36 --> 19:38] and because any attempt to construct anything
+[19:38 --> 19:40] in a regular port would likely be harassed
+[19:40 --> 19:41] by constant attack,
+[19:42 --> 19:44] Agrippa designed and built canals
+[19:44 --> 19:46] linking an inland lake to the sea.
+[19:46 --> 19:49] Then, under the cover of a dense forest, out of sight,
+[19:50 --> 19:53] he built and trained a massive new navy on the lake.
+[19:54 --> 19:56] Of more immediate importance to Octavian,
+[19:57 --> 19:59] on January the 1st, 37 BC,
+[19:59 --> 20:01] the same day that Agrippa assumed the consulship,
+[20:02 --> 20:05] the term of the second triumvirate officially expired.
+[20:06 --> 20:08] He and Antony were still in power, obviously,
+[20:08 --> 20:10] but technically they had no standing
+[20:10 --> 20:11] within the political system.
+[20:12 --> 20:14] So a summit was scheduled to work out the details
+[20:14 --> 20:15] of renewing the pact.
+[20:16 --> 20:18] Antony returned from the east
+[20:18 --> 20:20] and his opening skirmishes with the Parthians
+[20:20 --> 20:22] in the spring, and at Tarentum,
+[20:22 --> 20:24] he and Octavian met and hashed out the terms.
+[20:25 --> 20:27] It was roughly the same deal as before.
+[20:27 --> 20:30] Octavian would control the west and Antony the east.
+[20:31 --> 20:33] This time, rather than sealing the deal with a marriage,
+[20:34 --> 20:35] a troop exchange was arranged.
+[20:36 --> 20:39] Octavian needed ships for his war with Sextus,
+[20:39 --> 20:41] and Antony needed ground legions
+[20:41 --> 20:42] for his invasion of Parthia.
+[20:43 --> 20:46] So Antony traded 120 ships for four of Octavian's legions.
+[20:47 --> 20:49] But in a move that would sow the seeds
+[20:49 --> 20:51] for the demise of the triumvirate,
+[20:51 --> 20:53] while Antony duly sent the ships,
+[20:53 --> 20:56] Octavian refused to live up to his end of the bargain
+[20:56 --> 20:58] and never sent the promised legions.
+[20:59 --> 21:00] Antony was furious at the betrayal
+[21:00 --> 21:03] and it destroyed whatever trust he had left
+[21:03 --> 21:04] in his partner for good.
+[21:04 --> 21:06] War between them was now inevitable.
+[21:06 --> 21:08] It was just a matter of time.
+[21:10 --> 21:13] Agrippa shepherded the renewal of the triumvirate
+[21:13 --> 21:14] through the Senate and the assemblies,
+[21:15 --> 21:16] and having placed his friend back in official power,
+[21:17 --> 21:19] returned to the fleet that he would lead against Sextus.
+[21:20 --> 21:23] In the spring of 36 BC, the 300 ships,
+[21:24 --> 21:26] each bigger than anything Sextus commanded
+[21:26 --> 21:27] and equipped with the latest
+[21:27 --> 21:29] in grappling hook technology,
+[21:29 --> 21:30] sailed out into the Mediterranean.
+[21:31 --> 21:33] For this latest attempt to conquer Sicily,
+[21:34 --> 21:36] Octavian now envisioned a three-prong assault.
+[21:37 --> 21:39] With Agrippa attacking the north coast,
+[21:39 --> 21:42] he ordered Lepidus to land 10 legions on the southern coast
+[21:42 --> 21:45] and begin capturing as much territory as possible.
+[21:46 --> 21:48] With Sextus busy fighting on two fronts,
+[21:48 --> 21:50] Octavian himself would ferry more ground legions
+[21:50 --> 21:52] across the straits.
+[21:52 --> 21:53] Sextus would be overwhelmed.
+[21:55 --> 21:56] At first things went great.
+[21:57 --> 21:59] Lepidus landed and began capturing city after city,
+[22:00 --> 22:02] but when Agrippa attacked from the north,
+[22:02 --> 22:04] Sextus suspected that it was just a feint
+[22:04 --> 22:07] meant to distract from whatever Octavian was up to.
+[22:08 --> 22:09] So he left just enough ships
+[22:09 --> 22:11] to make a nice show of fighting Agrippa
+[22:11 --> 22:13] and led the rest around the horn
+[22:13 --> 22:15] into the straits of Massana.
+[22:15 --> 22:18] Octavian, thinking he had outsmarted Sextus,
+[22:18 --> 22:20] had landed with a force to establish a beachhead
+[22:20 --> 22:22] and then found himself trapped
+[22:22 --> 22:24] by the sudden appearance of Sextus' fleet.
+[22:25 --> 22:27] Braving possible capture,
+[22:27 --> 22:28] Octavian slipped through the blockade
+[22:28 --> 22:30] and a small ship to link back up
+[22:30 --> 22:31] with the rest of his army.
+[22:32 --> 22:33] It was do or die time now.
+[22:33 --> 22:36] He had to get the rest of his army into Sicily,
+[22:36 --> 22:37] or all would be lost.
+[22:38 --> 22:39] Rumors were already filtering in
+[22:39 --> 22:42] that Lepidus was talking alliance with Sextus.
+[22:42 --> 22:45] Octavian needed to fill the island with his own men
+[22:45 --> 22:46] before any deal was struck.
+[22:48 --> 22:50] Luckily though, Sextus was spread thin
+[22:50 --> 22:53] and only had 300 ships left at his disposal.
+[22:54 --> 22:56] With so many blockading the straits,
+[22:56 --> 22:57] he was forced to leave
+[22:57 --> 22:59] some of the northern ports defenseless.
+[23:00 --> 23:02] Agrippa was able to easily capture and hold them.
+[23:03 --> 23:05] Octavian hooked back up with his legions on the mainland
+[23:05 --> 23:07] and sailed them north to land
+[23:07 --> 23:09] under the protection of Agrippa's fleet.
+[23:10 --> 23:12] Pretty soon, the transfer was complete.
+[23:12 --> 23:14] Totally outnumbered on land,
+[23:14 --> 23:16] Sextus gathered all of his ships
+[23:16 --> 23:17] at his stronghold in Massana.
+[23:18 --> 23:20] The only hope he had left now
+[23:20 --> 23:21] was to provoke a sea battle.
+[23:22 --> 23:25] In early September, he led his ships out of the harbor
+[23:25 --> 23:26] and went looking for Agrippa.
+[23:27 --> 23:30] The two fleets met off the northeast coast
+[23:30 --> 23:32] of the island near the city of Neloches.
+[23:32 --> 23:35] On paper, it was an even engagement,
+[23:35 --> 23:37] east side controlling 300 ships.
+[23:37 --> 23:40] But Agrippa's fleet was larger and more powerful.
+[23:40 --> 23:42] It was by no means a one sided affair,
+[23:43 --> 23:44] but throughout the whole day's fighting,
+[23:45 --> 23:47] Sextus lost ships at a slightly faster rate.
+[23:48 --> 23:49] By the end of the day,
+[23:49 --> 23:52] the Pompeian captains determined that the cause was lost
+[23:52 --> 23:53] and began to surrender to Agrippa
+[23:53 --> 23:55] rather than keep fighting.
+[23:56 --> 23:57] With his navy captured,
+[23:57 --> 23:58] it was all over for Sextus.
+[23:59 --> 24:02] He took the 17 ships that remained uncaptured
+[24:02 --> 24:03] and sailed east.
+[24:04 --> 24:05] Over the course of the next year,
+[24:05 --> 24:07] he tried to find asylum and allies,
+[24:08 --> 24:09] but was rebuked at every turn.
+[24:10 --> 24:11] Unwilling to surrender,
+[24:11 --> 24:13] he was eventually captured in Anatolia
+[24:13 --> 24:15] and executed by a provincial governor
+[24:15 --> 24:17] loyal to the triumvirate.
+[24:19 --> 24:21] After Agrippa's victory at Neloches,
+[24:21 --> 24:23] Octavian now stood alone in the west.
+[24:24 --> 24:26] There was no one left to challenge his rule.
+[24:27 --> 24:28] Well, almost no one.
+[24:29 --> 24:31] Lepidus, who had conquered most of Sicily
+[24:31 --> 24:32] during the invasion,
+[24:32 --> 24:35] suddenly decided to reassert himself in the triumvirate.
+[24:36 --> 24:38] He claimed by right of conquest Sicily,
+[24:38 --> 24:39] Sardinia, and Corsica,
+[24:39 --> 24:42] and demanded that Octavian recognize his claim.
+[24:43 --> 24:45] Octavian scoffed at this notion.
+[24:45 --> 24:47] He had not gone through all this trouble to take Sicily
+[24:47 --> 24:49] just to give it away to a rival.
+[24:50 --> 24:52] He sent men into the ranks of Lepidus' legions
+[24:52 --> 24:53] to sow dissent.
+[24:54 --> 24:56] Lepidus, who was never very popular
+[24:56 --> 24:57] with the average grunt,
+[24:57 --> 25:00] watched in horror as his legions began to desert
+[25:00 --> 25:01] from his banner and mask.
+[25:02 --> 25:04] Without any leverage left,
+[25:04 --> 25:07] Lepidus met with Octavian and rescinded his claim.
+[25:08 --> 25:11] Octavian, seizing an opportunity to eliminate Lepidus
+[25:11 --> 25:12] from the balance of power,
+[25:12 --> 25:14] decided to unilaterally expel him
+[25:14 --> 25:15] from the triumvirate as punishment.
+[25:17 --> 25:19] From now on, though the name never caught on,
+[25:19 --> 25:21] it truly was a biumvirate.
+[25:22 --> 25:24] Lepidus retired to a plush estate
+[25:24 --> 25:25] on the Italian coast
+[25:25 --> 25:28] and lived in another 20 years in comfortable obscurity.
+[25:30 --> 25:34] Next week, we'll head east to trace the ups and downs
+[25:34 --> 25:36] of Antony's campaigns against the Parthians.
+[25:36 --> 25:39] But as I said before, it was more downs than ups.
+[25:40 --> 25:43] The apex of Antony's career was the Battle of Philippi.
+[25:43 --> 25:46] Everything after that was just a slow descent into ruin.
+[25:48 --> 25:49] Completely in control of the West now,
+[25:50 --> 25:52] Octavian would use every tool at his disposal
+[25:52 --> 25:54] to turn public opinion against his colleague,
+[25:55 --> 25:56] particularly harping on the fact
+[25:56 --> 25:58] that Antony seemed to be going native,
+[25:59 --> 26:00] dressing in Eastern fashion
+[26:00 --> 26:04] and living a life of scandalous adultery with Cleopatra.
+[26:04 --> 26:06] Octavian told anyone who would listen
+[26:06 --> 26:09] that the new Dionysus had lost touch with Roman values.
+[26:10 --> 26:12] Roman values that were of course
+[26:12 --> 26:15] exemplified by Octavian, the new Apollo.

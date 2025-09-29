@@ -1,0 +1,177 @@
+# 20110822 - 148- The Cousin's Cousin
+# Detected language: en
+# Duration: 1613.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:12] As you know, Audible is the internet's leading provider of audio entertainment with over 80,000 titles to choose from.
+[00:12 --> 00:18] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:18 --> 00:23] That again, audiblepodcast.com forward slash Rome.
+[00:23 --> 00:29] By going to that address, you qualify for a free book download when you sign up for a 14-day trial membership.
+[00:29 --> 00:35] There is no obligation to continue the service, and you can cancel anytime and keep the free book.
+[00:35 --> 00:43] You can also keep going with one of the monthly subscription options and get great deals on all future audiobook purchases.
+[00:43 --> 00:51] This week, I'm going to do what I should have done last time and recommend The History of the World in 100 Objects,
+[00:51 --> 00:58] the book based on Neil McGregor's BBC podcast series that apparently comes complete with PDF visual aids.
+[00:58 --> 01:02] Good, clean, historical fun for everyone.
+[01:02 --> 01:09] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:14 --> 01:23] Hello, and welcome to The History of Rome, episode 148, The Cousin's Cousin.
+[01:24 --> 01:34] In March of 364 A.D., the recently elected Emperor Valentinian promoted his brother Valens to the rank of co-Augustus.
+[01:34 --> 01:39] Though this was not the first time blood brothers would share control of the empire,
+[01:39 --> 01:47] it was the first time that blood brothers would share control of the empire without also wanting to tear each other's throats out.
+[01:47 --> 01:55] Caracalla and Geta, the sons of Constantine, these men were bitter, murderous rivals.
+[01:55 --> 02:00] Valentinian and Valens, on the other hand, would prove to be partners.
+[02:00 --> 02:09] The new emperors were, of course, not without their faults, but constantly trying to take each other out at the knees wasn't one of them.
+[02:09 --> 02:16] Their example not only built the foundations of the fairly stable Valentinian Theodosian dynasty,
+[02:16 --> 02:24] but it also firmly entrenched an east-west division of the empire as the permanent form of imperial administration.
+[02:24 --> 02:32] Aside from the few years that Theodosius will stand as the sole ruler of the empire at the end of the century, this was it.
+[02:32 --> 02:39] This was when east really started to become east and west really started to become west.
+[02:39 --> 02:48] It didn't have to happen like it did, and at any number of points the growing gulf between the two halves of the empire could have been narrowed rather than widened.
+[02:48 --> 02:56] But it didn't happen like that, and so the reign of Valentinian and Valens retroactively becomes something of a milestone.
+[02:56 --> 03:01] At the time, of course, it was just another day in the life of the Roman Empire.
+[03:01 --> 03:15] Imperial power sharing was a well-established practice, and so the fact that Valentinian and Valens were about to divide up the empire did not look to contemporaries like much of a milestone at all.
+[03:15 --> 03:22] After the promotion of Valens, the two new co-Augusti traveled west together on a brief tour of the Danube provinces.
+[03:22 --> 03:33] When they arrived at Sirmium, just 50 miles from where they had been born, they called a conference of all the senior court officials to hash out who was going to get what.
+[03:33 --> 03:47] As the senior Augustus, Valentinian had first dibs on territory, and he elected to take the western provinces and govern from Milan, leaving Valens to take the eastern provinces and govern from Constantinople.
+[03:47 --> 04:05] This seems like an odd choice for Valentinian to make, not just because Constantinople was the central capital of the empire, but because at the moment, the biggest issue facing Rome by far was how to properly manage the eastern border following Jovian's peace treaty with Shapur.
+[04:05 --> 04:12] You would think that as senior emperor, he would want to personally be there to oversee the situation.
+[04:12 --> 04:19] But I think the fact that Valentinian spent almost his entire career in the west makes this choice obvious.
+[04:19 --> 04:32] He knew the western provinces, and he knew the people of the western provinces, and he had strong ties to the army of the western provinces, so it makes sense that he would want to rule the western provinces.
+[04:32 --> 04:37] Valens, on the other hand, had no strong ties one way or the other.
+[04:37 --> 04:53] Unlike his elder brother, he had not initially followed their father into the service, and after Valens was born in 328 AD, he apparently spent the majority of his first 30 years just kind of kicking around the family estates in Illyria.
+[04:53 --> 05:05] It was not until the early 360s that Valens finally joined the army, most likely on the recommendation of Valentinian, as Julian was preparing for his invasion of Persia.
+[05:05 --> 05:16] This meant that the only military experience Valens had prior to becoming emperor was a couple of months wandering around the desert and one good humiliating surrender.
+[05:16 --> 05:28] Given this inexperience, I think Valens winds up acquitting himself fairly well over the course of his imperial career, Adrian Opel notwithstanding.
+[05:28 --> 05:44] For the rest of 364 and into the summer of 365, the brothers enjoyed a much needed period of calm as they found their footing, established their own men in key posts, and generally got acquainted with the realities of running the Roman Empire.
+[05:44 --> 05:48] But the calm spell was to be short lived.
+[05:48 --> 05:58] In late 365, the you-know-what hit the you-know-what, and both emperors found themselves waist deep in the really real realities of running the Roman Empire.
+[05:58 --> 06:02] Internal revolts and external invasions.
+[06:02 --> 06:08] Pretty much par for the course.
+[06:08 --> 06:17] We'll deal more extensively with Valentinian's problems in the west next week, because this week I want to focus on Procopius' revolt and Valens' response.
+[06:17 --> 06:27] But just to set the western stage a little, Valentinian's ascension to the throne wound up triggering a whole new round of Alamani aggression.
+[06:27 --> 06:49] According to Ammianus Marcellinus, the basic story is that in 365, a collection of German chiefs came around for the annual giving of gifts that cemented the friendship and partnership and blah blah blah between the Alamani and the Romans, and became mighty incensed when they saw what the new emperor Valentinian was offering.
+[06:50 --> 07:00] I think the modern analogy would be that the German kings were used to a nice cash bonus, and Valentinian was giving them an envelope full of Olive Garden coupons.
+[07:00 --> 07:07] They protested, but were dismissed without even being granted an imperial audience.
+[07:07 --> 07:15] On their way back home, they talked themselves into a frenzy over the insult, and resolved to teach this arrogant new emperor a lesson.
+[07:15 --> 07:20] As in, let's see how arrogant he is after we completely overrun Gaul.
+[07:23 --> 07:32] Now I should note that this might not be the whole story, or even the real story, of how the Alamani came to want to invade the Roman provinces again.
+[07:32 --> 07:47] It is hard to tell sometimes how much of Marcellinus' depiction of Valentinian is really accurate, and how much of it is just negatively biased slander to make Marcellinus' hero, Julian, look even better.
+[07:47 --> 07:56] Apparently, though, this sort of high-handed treatment of foreign embassies was a noticeable pattern throughout Valentinian's reign.
+[07:56 --> 08:01] Or, at least, Marcellinus wants us to think it was a very noticeable pattern.
+[08:01 --> 08:04] Like I say, sometimes it's hard to tell.
+[08:06 --> 08:14] According to the legend, Valentinian learned that an army of Alamani were invading on November 1, 365 AD.
+[08:15 --> 08:25] But by the end of that day, he was not preparing to march to the Rhine and push the Germans back, but was preparing instead to march for Constantinople.
+[08:26 --> 08:35] Every one of his friends and advisors begged him to stay, to not abandon Gaul right now at this critical hour, and to stay until the Alamani were driven off.
+[08:36 --> 08:40] After all, it was his duty as emperor to be here for his people.
+[08:41 --> 08:48] But Valentinian was far more concerned about the other piece of news he received, supposedly, on that same day.
+[08:49 --> 08:58] One of Julian's maternal cousins, a man named Procopius, had seized control of Constantinople and had had himself declared Augustus.
+[08:59 --> 09:02] No one knew if Valens was alive or dead.
+[09:03 --> 09:10] No one really knew what the situation was, so Valentinian was determined to head east and deal with the usurper head-on.
+[09:11 --> 09:22] But hot on the heels of the initial reports were further reports that Valens was alive and had been marching towards Syria at the head of an army when Procopius seized Constantinople.
+[09:23 --> 09:35] So after another round of badgering from his friends and advisors, Valentinian reluctantly decided to remain in the west and deal with the Alamani threat and leave Procopius to his brother.
+[09:36 --> 09:48] The emperor would later say that because the Germans were a threat to the empire, while Procopius was merely a threat to his own family, that he had no choice but to stay and see to the safety of Gaul.
+[09:49 --> 09:55] Which meant that Procopius was now Valens' problem, and Valens' problem alone.
+[09:56 --> 10:07] It would be his first test not just as an emperor, but as a military commander, and though things started out a bit rough, I think in the end he acquitted himself nicely.
+[10:11 --> 10:18] After parting with his brother, Valens had returned to Constantinople, where he spent the next year or so getting to know his half of the empire.
+[10:19 --> 10:29] Though things on the eastern border with Persia were relatively quiet for the moment, it was obvious to everyone that it wasn't going to stay like that forever.
+[10:30 --> 10:39] As 364 gave way to 365, more and more reports began to filter in about the movements and machinations of Shapur.
+[10:40 --> 10:51] The Sassanid king had apparently decided that driving the Romans out of Persia with their tails tucked between their legs meant that he now pretty much had a free hand to do whatever he wanted.
+[10:52 --> 10:54] So he started doing whatever he wanted.
+[10:55 --> 11:05] First he moved his forces into Mesopotamia, a territory which, so far as anyone can tell, was well outside the purview of any agreement he had signed with Jovian.
+[11:06 --> 11:12] Then he went further and moved into Armenia and deposed its pro-Roman king.
+[11:13 --> 11:16] This was practically a declaration of war.
+[11:17 --> 11:23] The deal had been for Armenian neutrality, not for Armenia to be occupied by the Sassanids.
+[11:25 --> 11:29] Shapur II is kind of a hard guy to figure.
+[11:30 --> 11:40] One minute he's readily agreeing to treaty so he doesn't have to fight a pitched battle with the Romans, and the next he's running around more or less forcing them to come back to fight him.
+[11:41 --> 11:45] It's like he was never quite sure exactly how strong he really was.
+[11:46 --> 11:54] Sometimes he was like, yeah, bring it on, and other times he was like, whoa, let's not do something we're going to regret here.
+[11:55 --> 12:06] These alternating postures were generally linked to the proximity of a hostile Roman army, so maybe Shapur isn't that hard of a guy to figure out after all.
+[12:10 --> 12:17] With the Sassanids busy snatching up a mile for the inch that they had been given, Valens had no choice but to head to Syria and respond.
+[12:18 --> 12:29] He gathered back up all the forces that had accompanied first Jovian and then Valentinian to Constantinople and led them back east toward Antioch in the autumn of 365.
+[12:30 --> 12:33] He had made it as far as Cilicia when he got the news.
+[12:34 --> 12:41] A relative of Julian's named Procopius had induced two legions to declare him Augustus and had seized Constantinople.
+[12:42 --> 12:46] Okay, so I guess I'm dealing with that then.
+[12:49 --> 12:54] The natural question to ask at this point is, who the hell is Procopius?
+[12:55 --> 13:07] Well, Procopius was one of the maternal cousins of Julian the Apostate, and thus one of the last men left with any kind of connection to the now otherwise extinct Constantinian dynasty.
+[13:08 --> 13:19] He had been a trusted advisor during Julian's brief reign and had actually been the man who led the Decoy army that had distracted Shapur during Julian's invasion of Persia.
+[13:20 --> 13:24] This meant that he had not been there when his cousin died.
+[13:25 --> 13:35] Had Procopius been there, his familial connection might have led the officers to select him instead of Jovian, but that is merely a possibility.
+[13:35 --> 13:40] Because Procopius was not exactly a beloved man in the ranks.
+[13:41 --> 14:02] For example, the fact that he was not with the main army when Julian died was a cause of much irritation within the senior staff, who wound up feeling like the whole debacle could have been avoided had Procopius pushed harder to link up with the rest of the army instead of taking his sweet time marching south and leaving Julian unreinforced.
+[14:02 --> 14:11] But whether Procopius would have been chosen is neither here nor there, because he wasn't.
+[14:12 --> 14:19] And when the Decoy army finally did link up with the main army, Jovian was emperor and the Romans were in retreat.
+[14:20 --> 14:24] We have conflicting accounts of what happened next.
+[14:25 --> 14:34] According to Zosimus, Procopius met with Jovian and asked permission to retire to public life, a request that Jovian granted.
+[14:35 --> 14:46] According to Marcellinus, though, the minute Procopius heard Jovian was in charge, he went into hiding, fearing that his connection to Julian would lead Jovian to see him as a threat.
+[14:47 --> 14:56] Either way, when Jovian died eight months later, Procopius was out of the public eye and likely living somewhere near Cappadocia.
+[14:57 --> 15:09] Though there is some ambiguity about the attitude of Jovian towards Procopius, there is no ambiguity about the attitude of Valentinian and Valens towards Procopius.
+[15:10 --> 15:15] They didn't like him or his connection to the Constantinian dynasty one bit.
+[15:16 --> 15:24] So, shortly after becoming co-emperor, Valens ordered some agents to go track down Julian's cousin and arrest him.
+[15:25 --> 15:33] Procopius managed to give his would-be captors the slip and for the next year or so he fell completely off the radar.
+[15:34 --> 15:41] Then he showed up in Constantinople in September of 365 and suddenly was on everyone's radar.
+[15:41 --> 15:47] Procopius had apparently decided while he was in hiding that his best chance of survival was to go big.
+[15:48 --> 15:56] Eventually, he was going to be betrayed into Valens' hands, so why not take a shot at cutting off those hands before they could get to him?
+[15:58 --> 16:06] Opportunity knocked when Procopius learned how dissatisfied the people of Constantinople were with Patronius, the emperor's father-in-law.
+[16:06 --> 16:11] And the man Valens had left in charge of the city when he had gone east.
+[16:12 --> 16:18] Apparently, Patronius was one of those his cruelty is matched only by his greed types.
+[16:19 --> 16:26] So, with the emperor's representative thoroughly unpopular and the emperor himself moving further away by the day,
+[16:27 --> 16:31] Procopius figured that now was his best chance at pulling off a coup.
+[16:31 --> 16:36] So, he snuck into Constantinople and began feeling out possible conspirators.
+[16:37 --> 16:47] He had the good fortune to stumble upon two legions passing through the capital who just so happened to have been loyal to the Constantinians in general and Julian in particular.
+[16:48 --> 16:54] With the usual promises of great reward, the men of these legions pledged themselves to Julian's cousin.
+[16:54 --> 16:58] Hailed him as Augustus and helped him seize control of the imperial palace.
+[17:00 --> 17:08] I haven't been able to nail down Patronius' fate, but I would guess that if he didn't escape, then he was put to death.
+[17:12 --> 17:18] At first, the citizens of Constantinople seemed more bemused by Procopius' coup than anything else.
+[17:18 --> 17:26] But the would-be emperor was a savvy operator and launched a concerted propaganda campaign to win their support.
+[17:27 --> 17:34] First, he paid a few incoming travelers from the west to tell anyone who would listen that Valentinian had actually died.
+[17:35 --> 17:38] So, it's not like I'm usurping anyone here.
+[17:39 --> 17:45] Then he issued coins highlighting his ties to the house of Constantine and made a deal with the emperor.
+[17:45 --> 17:56] By highlighting his ties to the house of Constantine and made sure that he was accompanied in public by Constantius II's widow Faustina and the dead emperor's young daughter, Constatina.
+[17:57 --> 17:59] Then came the coup d'egre.
+[18:00 --> 18:11] Procopius began telling people that on the eve of the eastern invasion that Julian had told him that should anything happen that he wanted Procopius to rise in his place.
+[18:11 --> 18:16] Luckily, there were no witnesses to this momentous pronouncement.
+[18:17 --> 18:34] The people of Constantinople were thus ensnared by a web of disinformation and sentimentality and came to support Procopius because it seemed like, well, if Valentinian's dead, someone has to rule and we may as well go back to someone from Constantine's royal family.
+[18:35 --> 18:41] Except, yeah, Valentinian wasn't dead and neither was Valens.
+[18:42 --> 18:49] The western Augustus, as I already mentioned, was all set to march east until he was talked out of it by his advisors.
+[18:50 --> 18:54] Meanwhile, Valens was at first unsure of what to do.
+[18:55 --> 19:07] He had only been in office for a year, had no real legitimacy of his own besides the fact that he was Valentinian's brother, and here a member of the old imperial family had seized control of the capital.
+[19:08 --> 19:13] His thoughts turned first to the merits of abdication and suicide.
+[19:14 --> 19:22] But after passing through this dark night of the soul, Valens, prompted by supportive officers, resolved to fight for his throne.
+[19:23 --> 19:29] But he had a problem. He didn't really have much of anyone available to fight with.
+[19:30 --> 19:38] When he got the news of Procopius' revolt, he was at a port in Cilicia, having just watched most of his army set sail for Syria.
+[19:39 --> 19:46] He was supposed to follow himself with the last few ships, but now, well, now what should he do?
+[19:47 --> 19:58] Time was of the essence, so Valens turned around and headed back to Constantinople, sending two crack units ahead to try to take back the city.
+[19:59 --> 20:08] But this force was not nearly strong enough to get the job done, and when they arrived, Procopius simply talked them into coming over to his side.
+[20:09 --> 20:23] When Valens himself arrived on the east side of the Bosphorus with his small army and began operations to re-secure the strait, he was driven off and nearly captured by the surprisingly stiff resistance of Procopius' men.
+[20:24 --> 20:38] With a light and quick retaking of Constantinople now out of the question, Valens withdrew back to Ancyra to wait for reinforcements so he could play the old massively superior forces card.
+[20:39 --> 20:57] The fortunes of Procopius peaked around New Year's, when, through hook, crook, and a few well-placed bribes, he found himself controlling the neighboring provinces of Thrace and Bithynium, in addition to the territory immediately surrounding Constantinople.
+[20:58 --> 21:17] But that was the high water mark. He made a play at seizing control of Illyria, which would have been a huge boon to his cause, but Procopius' agents were stopped dead in their tracks by Aquitius, the general who had been a candidate himself through the imperial throne, before the court officials had settled on Valentinian.
+[21:18 --> 21:28] Stalled out, Procopius now found himself with a lot of outstanding promises to cover, without really having any means to pay for it all.
+[21:29 --> 21:42] So he began focusing all his attention on rounding up wealthy men to help finance his little revolution, rather than focusing on the small matter of the now large army Valens had gathered up in Ancyra.
+[21:42 --> 22:02] When the spring came, Valens descended into Phrygia, with the intention of approaching Constantinople from the south. Procopius ordered his best general to meet them, but at the ensuing battle of Theotira, Procopius' general was soundly defeated.
+[22:03 --> 22:09] The army of Valens then moved north, where they tracked down and confronted Julian's cousin directly.
+[22:09 --> 22:21] I imagine at this point that Procopius was getting ready to make a last stand, go down fighting in a blaze of glory and all that, but his men didn't give him a chance.
+[22:22 --> 22:33] When Valens' army arrived, a few of the officers under Procopius' command did some quick math, realized they were probably doomed, and put Procopius in chains.
+[22:34 --> 22:45] After he was handed over to Valens, the would-be emperor was immediately beheaded on May 27, 366 AD, about eight months after the initial coup.
+[22:46 --> 23:03] Though Procopius himself was now dead, his family's fortunes were not doomed forever, and one of his descendants, another Procopius, would become a prominent enough general that in the mid-400s, his son Anthemius will be placed on the western throne.
+[23:04 --> 23:10] But I'm sure that was of small comfort to our, now headless, Procopius.
+[23:10 --> 23:19] So Valens survived his first real test in power, only moderately worse for the wear.
+[23:20 --> 23:27] He had lost a year in his dealings with Shapur, but in the process, he had firmly cemented his own legitimacy.
+[23:28 --> 23:35] His victory over Procopius meant that the Constantinians were out and the Valentinians were in.
+[23:36 --> 23:46] Back in the west, I'm sure that Valentinian, who was probably nervous about his brother's chances, received this news with a great deal of satisfaction.
+[23:47 --> 23:59] On top of the fact that his brother was still alive, and his brother's grip on power was now stronger than ever, it was probably nice for Valentinian just to receive any good news at all.
+[24:00 --> 24:07] Because since that fateful November the first, things had not gone well for the western emperor at all.
+[24:08 --> 24:22] At first, Valentinian had tried to deal with the Alamanni invasion by sending a couple of armies out under subordinate commanders, but both had not only failed to contain the Germans, but they had gotten themselves killed in the process.
+[24:23 --> 24:33] So in the spring of 365, as Valens was marching on Procopius, Valentinian sent out another army, this one headed by his master of the horse.
+[24:34 --> 24:45] But while this army had not gotten beat, and the master of the horse had not gotten dead, they had proved themselves to be incapable of putting the Germans away.
+[24:46 --> 25:02] By the time Valentinian received Procopius' head in a box, with Valens compliments of course, he was getting ready to sack his master of the horse and replace him with yet another commander, this time a man named Jovinus, no relation to the dead emperor.
+[25:03 --> 25:09] With Jovinus in charge, things finally started to go right.
+[25:10 --> 25:17] The field commander was able to report back that with the winter approaching, the Alamanni were fleeing back across the Rhine.
+[25:18 --> 25:26] Valentinian's fury over this whole situation had been frustrated by the fact that he had been unable to make any headway against the Germans.
+[25:27 --> 25:32] Now that they were back across the Rhine, his anger could really be unleashed.
+[25:33 --> 25:45] He spent the winter of 367-368 gathering a massive army that he planned to send across the Rhine the following spring to pay the Alamanni back tenfold for what they had done.
+[25:46 --> 25:57] But just as he was gearing up for what was sure to be a cathartic burn-pillagen murder campaign through Germany, word came down from the North that something big had just happened.
+[25:58 --> 26:01] Something coordinated. Something overwhelming.
+[26:02 --> 26:10] What was that something? What could be so important as to draw Valentinian away from his beloved punitive expedition?
+[26:10 --> 26:15] Could it have anything to do with the slipping imperial grip on the island of Britain?
+[26:16 --> 26:30] Find out next week on another exciting episode of the History of Rome when we get our first look at one of the most famous of all the late antiquity German confederations, those damned marauding pirates, the Saxons.
+[26:40 --> 26:45] .

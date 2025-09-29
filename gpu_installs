@@ -1,0 +1,10 @@
+sudo apt-get update
+sudo apt-get install python3.12-dev build-essential
+
+sudo mkdir -p /etc/apt/keyrings
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cuda-keyring_1.1-1_all.deb
+sudo dpkg -i cuda-keyring_1.1-1_all.deb
+sudo apt-get update
+
+
+sudo apt-get install libcudnn9-cuda-12 libcudnn9-dev-cuda-12

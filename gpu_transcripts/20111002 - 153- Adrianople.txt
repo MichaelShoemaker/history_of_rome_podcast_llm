@@ -1,0 +1,316 @@
+# 20111002 - 153- Adrianople
+# Detected language: en
+# Duration: 1435.85 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:15] Hello, and welcome to The History of Rome, episode 153, Adrian Opel.
+[00:15 --> 00:23] In early 377 AD, after months of deprivation, frustration, and humiliation, the Goths finally
+[00:23 --> 00:25] snapped.
+[00:25 --> 00:29] They had begged for entry into the Roman Empire because they thought they might find refuge
+[00:29 --> 00:30] there.
+[00:30 --> 00:36] Instead, they had been unforgivably mistreated by the local authorities.
+[00:36 --> 00:41] What was the point of fleeing from the Huns, who, and I can't believe I messed this up,
+[00:41 --> 00:47] used composite bows, not compound bows, because compound bows weren't invented until like
+[00:47 --> 00:53] the 1960s, and God help us all if the Huns had ever gotten hold of compound bows.
+[00:53 --> 00:58] Anyway, what was the point of fleeing from the Huns if the Romans were going to prove
+[00:59 --> 01:01] just as menacing a threat?
+[01:01 --> 01:06] Was this a case of out of the frying pan and into the fire?
+[01:06 --> 01:07] Not exactly.
+[01:07 --> 01:13] More a case of out of the frying pan and onto the ground next to the fire.
+[01:13 --> 01:19] Still in danger, but not quite so immediately, especially given the military situation on
+[01:19 --> 01:21] the Danube frontier.
+[01:21 --> 01:26] The Goths may have been weak from a year of flight and harassment, but as we saw last
+[01:26 --> 01:31] time, the Romans were not exactly in tip-top shape themselves.
+[01:31 --> 01:36] They were outnumbered locally and run by a commander whose judgment has to be seriously
+[01:36 --> 01:39] questioned.
+[01:39 --> 01:43] You'll recall from last week that following Lupikinus' botched attempt to blackmail the
+[01:43 --> 01:49] Goths into submission by taking their leaders hostage, the Turvingi leader Fritigern promised
+[01:49 --> 01:51] to go to his people and calm them down.
+[01:52 --> 01:58] Instead, as much snapped as his fellow Goths, Fritigern stirred them to war.
+[01:58 --> 02:03] The morning after the fatal banquet, Lupikinus led a Roman army out of Marcionopolis toward
+[02:03 --> 02:09] the Gothic camp, where he hoped to put down their rabble-rousing once and for all.
+[02:09 --> 02:13] But Fritigern and the Goths were now eager for a fight, and when Lupikinus arrived he
+[02:13 --> 02:19] was hit full in the face by a bunch of really ticked-off Gothic warriors.
+[02:19 --> 02:23] Like most of the engagements we'll run through over the next couple of years, the battle
+[02:23 --> 02:30] that ensued is not well described, but it appears that Lupikinus' army was overwhelmed,
+[02:30 --> 02:33] broken, and put to flight.
+[02:33 --> 02:38] Once the Goths were ready to move on, there was literally no one around to stop them.
+[02:38 --> 02:44] The immediate vicinity had been defended only by the Roman forces the Goths had just broken.
+[02:44 --> 02:50] What garrisons remained on the frontier line were spread out and isolated.
+[02:50 --> 02:54] Attempting to do something about the Goths without reinforcements would have been suicide,
+[02:54 --> 03:00] so these garrisons simply sat tight behind their walls and waited.
+[03:00 --> 03:04] The word immediately went out to east and west that the Goths were loose in the central
+[03:04 --> 03:07] part of the empire.
+[03:07 --> 03:13] In the east, Valens had to have greeted this news with a profanity-laced tirade.
+[03:13 --> 03:16] I know that I would have, anyway.
+[03:16 --> 03:20] The emperor was gearing up for a major war against the Sassanids, and the last time he
+[03:20 --> 03:26] had checked, the Goths were supposed to be supplying troops for that major war.
+[03:26 --> 03:31] Now they've gone berserk, smashed the local Roman army, and are running amok in Thrace.
+[03:31 --> 03:35] What the hell happened?
+[03:35 --> 03:40] As had been the case with Constantine II twice during his reign, Valens was left with a problem
+[03:40 --> 03:45] that could only be solved by moving in a major force to contain the damage, right at
+[03:45 --> 03:50] the moment when he absolutely could not pull troops off the Syrian frontier.
+[03:50 --> 03:54] Hell and damnation.
+[03:54 --> 03:58] In the west, the young emperor Gratian received word of the Gothic revolt and immediately
+[03:58 --> 04:01] wanted to do something to help.
+[04:01 --> 04:05] But in his rush to be helpful, he got a bit carried away.
+[04:05 --> 04:09] Pretty soon orders were flying around to the effect that the whole of the Rhine legions
+[04:09 --> 04:13] were to pack up at once and march east.
+[04:13 --> 04:18] But proving that General Maributus, the one who had elevated Valentinian II, still had
+[04:18 --> 04:23] absolutely no confidence in Gratian's military judgment, and that Gratian's power at this
+[04:23 --> 04:29] point was not at all absolute, the Roman high command rewrote the orders in transit.
+[04:29 --> 04:35] A major force from the Rhine could and should be detached to go fight the Goths, but to
+[04:35 --> 04:39] leave the Rhine unprotected, no matter how calm it had been the last few years, would
+[04:39 --> 04:42] have been dereliction of duty.
+[04:42 --> 04:46] As we will soon see, the decision to leave the Rhine well defended would come back to
+[04:46 --> 04:51] do whatever the opposite of haunt the Romans is.
+[04:51 --> 04:55] The western expeditionary force that was sent was led by a general named Ricomere, who,
+[04:55 --> 05:00] so far as I can tell, is in no way related to the more famous Ricomere we'll deal with
+[05:00 --> 05:03] a bit down the road.
+[05:03 --> 05:09] The movement of the Goths is no certain thing during 377, so we don't know exactly how
+[05:09 --> 05:11] the year went blow by blow.
+[05:11 --> 05:17] But after running off Loupokinis, the Goths appear to have barreled south toward Adrianople,
+[05:17 --> 05:20] pillaging away to their heart's contempt.
+[05:20 --> 05:25] After the humiliations of the previous year, first being chased off their land by the Huns,
+[05:25 --> 05:30] then being exploited by the Romans, you can bet that they had some rage to burn off, and
+[05:30 --> 05:35] mercy was not presently in their vocabulary.
+[05:35 --> 05:39] Ricomere and his troops appear to have met up with an expeditionary force peeled off
+[05:39 --> 05:42] by valence and sent in from the west.
+[05:42 --> 05:47] Wary of an open confrontation, a Fritigern responded to the news of the arrival of the
+[05:47 --> 05:52] new Roman forces by leading his people back north.
+[05:52 --> 05:57] Ricomere followed until the Goths were once again contained to the lands near the border,
+[05:57 --> 06:01] whereupon the Roman commanders decided to make a play at ending the conflict right
+[06:01 --> 06:03] then and there.
+[06:03 --> 06:08] They attacked the Gothic position, but were unable to break the barbarians, and the Battle
+[06:08 --> 06:13] of Ad Solisus turned out to be nothing but a bloody draw.
+[06:13 --> 06:17] It looked like a permanent solution to the Gothic problem was only going to come with
+[06:17 --> 06:23] the arrival of valence, a fact that the eastern Augustus was well aware of.
+[06:23 --> 06:29] In the wake of the news that the Goths were loose, valence, again like Constantine II,
+[06:29 --> 06:33] rushed an embassy off to Shapur to work out a peace treaty with the Persians that would
+[06:33 --> 06:37] free up his men to march west.
+[06:37 --> 06:41] It took some time to get the terms worked out, and valence had to agree to a treaty
+[06:41 --> 06:46] that was not at all favorable to Rome, but in the winter of 378, the two empires were
+[06:46 --> 06:50] once again technically at peace.
+[06:50 --> 06:54] Valence then assigned a skeleton crew to man the eastern frontier and turned the rest of
+[06:54 --> 06:57] his army west.
+[06:57 --> 07:02] But valence knew instinctively that his own army might not be enough to overwhelm the
+[07:02 --> 07:08] Goths, and so he kept in communication with Gratian, constantly demanding more firepower
+[07:08 --> 07:12] from his younger colleague to help guarantee victory on the Danube.
+[07:12 --> 07:17] Gratian, as we've already seen, did not need much convincing, and when valence announced
+[07:18 --> 07:22] that he was finally heading west, Gratian gathered up a mobile field army of his own
+[07:22 --> 07:26] and marched them into Illyria.
+[07:26 --> 07:30] By all accounts then, it looked like the Goths were about to be hit hard from both sides,
+[07:30 --> 07:35] and that the Gothic War would go down in history as just another temporary barbarian raid rather
+[07:35 --> 07:38] than a full-scale war.
+[07:38 --> 07:43] But all the troop movement along the Rhine had caught the attention of the Alamani, and
+[07:43 --> 07:48] they decided to take the opportunity to launch a raid of their own.
+[07:48 --> 07:53] The troops Maributas had refused to redeploy did an excellent job slowing the progress
+[07:53 --> 07:57] of the Alamani, but getting them back on the other side of the Rhine was going to take
+[07:57 --> 08:00] a more concerted effort.
+[08:00 --> 08:05] Gratian was forced to march his men back out of Illyria to deal with the crisis, writing
+[08:05 --> 08:10] to Valence that as soon as the Rhine was re-secured he would be back, and that it shouldn't take
+[08:10 --> 08:14] than a couple of months.
+[08:14 --> 08:19] This is normally where you'd expect to hear that of course it didn't take months for Gratian
+[08:19 --> 08:26] to push back the Alamani, it took years, which left Valence to face the Goths alone.
+[08:26 --> 08:30] But the thing is, it did only take a few months.
+[08:30 --> 08:35] By the middle of summer 378, Gratian was back in Sirmium with his army, ready, willing and
+[08:35 --> 08:38] able to help crush the Goths.
+[08:38 --> 08:43] So the question is, why did Valence go off and face them alone?
+[08:43 --> 08:45] Which is what he's about to do?
+[08:45 --> 08:47] It's a good question.
+[08:47 --> 08:51] A very good question.
+[08:51 --> 08:55] The frosty reception the emperor received from the people of Constantinople when he
+[08:55 --> 09:02] arrived there in May of 378 probably forms the beginning of the answer to that question.
+[09:02 --> 09:07] Valence had never been popular in the capital, as evidenced by the ease with which Procopius
+[09:07 --> 09:10] had been able to take control of the city ten years before.
+[09:10 --> 09:15] And Valence was now entering the capital a year and a half after the Goths had broken
+[09:15 --> 09:18] free of all restraints.
+[09:18 --> 09:24] Where, the people of Constantinople wondered, have you been?
+[09:24 --> 09:28] Valence was made acutely aware of the fact that the citizens of the city were not at
+[09:28 --> 09:32] all impressed by his handling of the situation thus far.
+[09:32 --> 09:35] They wanted no more delays.
+[09:35 --> 09:36] They wanted action.
+[09:36 --> 09:40] They wanted Valence to go out and do something about the Goths.
+[09:40 --> 09:45] And more than that, they wanted victory.
+[09:45 --> 09:50] Serious leaders like to pretend that public opinion plays no role when serious men are
+[09:50 --> 09:54] making these serious decisions of state.
+[09:54 --> 09:56] But the fact is that it does.
+[09:56 --> 10:00] Always has and always will.
+[10:00 --> 10:05] Compounding Valence's public relations problem was the news from the Western Front that Gratian
+[10:06 --> 10:10] had just won a decisive victory against the Alamani.
+[10:10 --> 10:14] So now people were not just asking why Valence hadn't acted yet.
+[10:14 --> 10:18] They were asking why they were stuck with Valence at all.
+[10:18 --> 10:23] If only Gratian were here, this whole mess would be cleaned up by now.
+[10:23 --> 10:27] By the time Valence left Constantinople a few weeks later, this was all rattling around
+[10:27 --> 10:30] inside of his head.
+[10:30 --> 10:35] And at this point, the emperor looks an awful lot like a man with something to prove.
+[10:35 --> 10:40] And as we all know, men with something to prove often blunder off recklessly and wind
+[10:40 --> 10:45] up making a huge mess of things.
+[10:45 --> 10:51] The other dynamic at work is that Valence was lulled into a false sense of security.
+[10:51 --> 10:57] In June or July, an advance guard of 2,000 Romans moving west encountered a unit of Goths
+[10:57 --> 11:01] and defeated them easily in a quick skirmish.
+[11:01 --> 11:05] News of the victory spurred the notion that the Goths were eminently beatable.
+[11:05 --> 11:07] They just needed to be hit the right way.
+[11:07 --> 11:13] Plus, as this was yet another victory that Valence himself was not present for, the skirmish
+[11:13 --> 11:18] likely also snowballed the emperor's own sense that he needed to get in on the action
+[11:18 --> 11:24] to prove that he too was a great military leader.
+[11:24 --> 11:29] In late July or early August, Roman scouts reported that a force of around 10,000 Goths
+[11:29 --> 11:34] was moving south toward Adrianople.
+[11:34 --> 11:38] Though we sadly don't have reliable troop numbers for the Roman army, the assumption
+[11:38 --> 11:45] is that Valence's force was somewhere between 20,000 and 30,000 strong, giving the emperor
+[11:45 --> 11:48] a 2 or 3 to 1 advantage.
+[11:48 --> 11:51] Why hesitate with an advantage like that?
+[11:51 --> 11:57] Valence advanced to Adrianople and occupied the city.
+[11:57 --> 12:02] At this point, it appears that Ricomere joined the emperor at Adrianople to advise Valence
+[12:02 --> 12:05] on his next move.
+[12:05 --> 12:11] The western general was emphatic that Valence ought to wait for Gratian's reinforcement.
+[12:11 --> 12:12] They were already in Illyria.
+[12:12 --> 12:17] The only question was how quickly could they link up with Valence to help deliver the final
+[12:17 --> 12:19] blow.
+[12:19 --> 12:22] Half of Valence's staff concurred with this opinion.
+[12:22 --> 12:27] With the combined power of east and west, victory was practically guaranteed, so why
+[12:27 --> 12:30] risk defeat?
+[12:30 --> 12:35] But Valence was more inclined to listen to the hawks on his staff.
+[12:35 --> 12:39] They reminded the emperor that he already had a massive numerical advantage, that he
+[12:39 --> 12:44] was operating out of a heavily fortified position, and that further delay just left time for
+[12:44 --> 12:47] the Goths to gather more men.
+[12:47 --> 12:52] Hit them now before they are reinforced and it'll be a walk in the park.
+[12:52 --> 12:57] Plus, do we really need to remind you that if you wait for Gratian, that you'll be living
+[12:57 --> 13:01] with the fact that you had to be bailed out by your teenage nephew for the rest of your
+[13:01 --> 13:02] life?
+[13:02 --> 13:07] Good luck with your reputation.
+[13:07 --> 13:11] Valence's decision became apparent after Fritigern sent envoys about a peace deal.
+[13:11 --> 13:17] The emperor dismissed them without even offering terms.
+[13:17 --> 13:19] So there it was.
+[13:19 --> 13:23] Valence was suffering from a PR problem, did not want to share the glory of victory with
+[13:23 --> 13:31] Gratian, and believed that he had a sizable numerical advantage over the approaching Goths.
+[13:31 --> 13:38] Except there was a huge, large, gigantic flaw in his rationale for forcing battle.
+[13:38 --> 13:44] It was not 10,000 Goths approaching, it was more like 15,000 or 20,000.
+[13:44 --> 13:49] The scouts had reported only on Fritigern's Tervingai infantry, which was indeed 10,000
+[13:49 --> 13:51] strong.
+[13:51 --> 13:55] What they had missed was the Gruthungi cavalry, who were scattered across the countryside
+[13:55 --> 13:58] foraging for supplies.
+[13:58 --> 14:02] Add them together, and Valence was planning on marching off to face an enemy that could
+[14:02 --> 14:06] possibly match him man for man.
+[14:06 --> 14:11] And even if he did enjoy a slight numerical advantage, that was not going to make up for
+[14:11 --> 14:16] the totally surprising come-out-of-nowhere appearance of the Gruthungi cavalry in the
+[14:16 --> 14:18] middle of the battle.
+[14:18 --> 14:22] Nothing drops your heart faster than the sudden appearance of unaccounted-for enemy
+[14:22 --> 14:23] troops.
+[14:23 --> 14:28] Am I right, fellas?
+[14:28 --> 14:33] On the morning of August 9, Valence led his army out of Adrianople, leaving behind only
+[14:33 --> 14:38] the imperial treasury and a small company of soldiers to guard the city walls.
+[14:38 --> 14:42] The rest he marched northwest toward the Goths.
+[14:42 --> 14:46] And what a march it turned out to be.
+[14:46 --> 14:50] Though we call what is about to ensue the Battle of Adrianople, the Romans marched for
+[14:50 --> 14:56] a good seven or eight hours before they finally made contact with the enemy, which did not
+[14:56 --> 15:00] exactly get the Romans off on the right foot.
+[15:00 --> 15:05] Instead of meeting the Goths rested and ready, the Romans met them tired and panting in the
+[15:05 --> 15:08] afternoon heat.
+[15:08 --> 15:10] But whatever.
+[15:10 --> 15:13] These were highly trained soldiers used to that kind of physical exertion.
+[15:13 --> 15:19] He shouldn't be too big of a deal that our guys are exhausted, and their guys are fresh.
+[15:19 --> 15:22] Right?
+[15:22 --> 15:27] Fritigern had deployed his men in a compact mass protecting their wagon train, which was
+[15:27 --> 15:30] drawn up on a low hill.
+[15:30 --> 15:34] At this point, the Romans really did have a numerical advantage.
+[15:34 --> 15:39] So Fritigern's main objective was to stall for as long as possible until the Gruthungi
+[15:39 --> 15:42] cavalry could be rounded up.
+[15:42 --> 15:48] He and his men lit fires to create a huge smoke screen to confuse the situation, and
+[15:48 --> 15:52] then repeatedly asked to negotiate a peace.
+[15:52 --> 15:57] But Valens refused all entreaties, convinced that Fritigern was stalling to allow time
+[15:57 --> 16:02] for potential reinforcements to arrive, which is, of course, exactly what the Gothic king
+[16:02 --> 16:04] was doing.
+[16:04 --> 16:10] But though he was eager for battle, that did not mean that Valens ever actually gave the
+[16:10 --> 16:12] order to charge.
+[16:12 --> 16:17] In one of those funny little twists of fate, the Battle of Adrianople got going not because
+[16:17 --> 16:23] the opposing generals were ready for it, too, but rather because an overzealous allied king
+[16:23 --> 16:27] on the Roman right flank advanced without orders.
+[16:27 --> 16:35] Before anyone could pull him back, the Battle of Adrianople was on.
+[16:35 --> 16:40] At first, the surprising commencement of hostilities worked out just fine for the Romans.
+[16:40 --> 16:45] The eager beaver allied king on the right was pushed back, but the Roman left surged
+[16:45 --> 16:52] forward and before too long had pressed the Goths all the way back to their wagons.
+[16:52 --> 16:56] Capturing the baggage train meant taking the women and the children and all of the Gothic
+[16:56 --> 16:58] possessions.
+[16:58 --> 17:03] Another half an hour, maybe, and the Romans would have won Adrianople outright.
+[17:03 --> 17:07] No accidental start or no accidental start.
+[17:07 --> 17:10] But then the cavalry arrived.
+[17:10 --> 17:14] Literally, the cavalry arrived.
+[17:14 --> 17:18] The Gertungi horsemen, who had not at all been taken into account when the Romans were
+[17:18 --> 17:24] making their war plans, suddenly exploded onto the scene and broadsided the Roman left,
+[17:24 --> 17:29] blowing right through the Roman cavalry, which was supposed to be guarding the wing.
+[17:29 --> 17:34] Now the Roman left, which had been so close to winning the battle the minute before,
+[17:34 --> 17:40] was now pushed back and became trapped between the Tervingi infantry, the Gertungi cavalry,
+[17:40 --> 17:44] and the hill that the Goths had positioned their wagons on.
+[17:44 --> 17:50] Crammed together, the Roman soldiers were too close to one another to maneuver, retreat,
+[17:50 --> 17:52] or even fight for their lives.
+[17:52 --> 17:57] And so they started to be slaughtered.
+[17:57 --> 18:02] From the moment the Gothic cavalry arrived, the battle of Adrianople was over.
+[18:02 --> 18:07] The Romans wound up leaving fully two-thirds of their army dead in the field, with only
+[18:07 --> 18:11] isolated pockets of soldiers escaping the carnage.
+[18:11 --> 18:16] Valens himself was lost in the fighting.
+[18:16 --> 18:20] No one knows exactly what happened to the emperor, but a later story has him being taken
+[18:20 --> 18:25] to a nearby farmhouse after being wounded and then dying when the Goths set fire to
+[18:25 --> 18:26] the building.
+[18:26 --> 18:30] But no contemporary account mentions this incident.
+[18:30 --> 18:35] In all likelihood, he simply fell anonymously in the thick of the fray and was never heard
+[18:35 --> 18:40] from again, becoming the second emperor in Roman history to die in battle following the
+[18:40 --> 18:47] ignoble example set by Decius at Abrittus 125 years before.
+[18:47 --> 18:55] Valens was 50 years old and had ruled the eastern half of the empire for 14 years.
+[18:55 --> 19:01] It is difficult to overstate the significance of the battle of Adrianople.
+[19:01 --> 19:06] Though you cannot trace the fall of the western empire back to any single event, more people
+[19:06 --> 19:11] have tried to trace it back to Adrianople than just about anywhere else.
+[19:11 --> 19:17] I should mention though that there is one area that the significance of Adrianople is
+[19:17 --> 19:20] often overstated.
+[19:20 --> 19:25] For years, military historians repeated a line about how the decisive role played by
+[19:25 --> 19:32] the Gothic cavalry in the battle changed the nature of armed conflict in the west.
+[19:32 --> 19:37] In this telling, Adrianople serves as the dividing line between the infantry battles
+[19:37 --> 19:42] of antiquity and the heavy cavalry battles of the medieval period.
+[19:42 --> 19:47] That is, that once everyone saw how effective the horsemen could be, they dropped their
+[19:47 --> 19:53] old infantry model and picked up a shiny new cavalry model.
+[19:53 --> 19:58] Except as we all know, the Romans and everyone else were already well aware of how effective
+[19:58 --> 20:04] cavalry was by the time of Adrianople and had long ago adopted a more horse-reliant
+[20:04 --> 20:07] model for their armed forces.
+[20:07 --> 20:11] How long ago did I introduce Gallienus' mobile cavalry force?
+[20:11 --> 20:15] Something like 40 episodes back, right?
+[20:15 --> 20:20] To say that the world woke up on the morning after Adrianople and said, my god, cavalry
+[20:20 --> 20:27] is now the thing, is to just ignore a whole century's worth of history.
+[20:27 --> 20:31] It's a minor point, but since it's a point often wrapped up in accounts of the battle,
+[20:31 --> 20:36] I figured I'd just go ahead and join in the debunking of it.
+[20:36 --> 20:43] Now, as to the bits about the battle that can't be overstated, the sheer obliteration
+[20:43 --> 20:48] of Valens' army definitely rocked the balance of power in the Mediterranean and led to
+[20:48 --> 20:53] a total recalibration of Roman priorities.
+[20:53 --> 20:57] Though the Roman Empire was still the biggest kid on the block, they were fast becoming
+[20:57 --> 21:03] just another kid on the block, if that makes any sense.
+[21:03 --> 21:08] The Goths and the Huns and pretty soon the Vandals and the Franks were all about to prove
+[21:08 --> 21:13] that they were more than a match for the Roman armies they faced.
+[21:13 --> 21:18] This had happened once before, in the middle of the third century, and the Empire had almost
+[21:18 --> 21:21] cracked up as a result.
+[21:21 --> 21:27] Only after a huge effort, a complete military and political reorganization, and a healthy
+[21:27 --> 21:35] dose of luck, did an intact Roman Empire manage to limp into the fourth century.
+[21:35 --> 21:41] This time, however, they would not be so lucky, as this time only half the Empire would live
+[21:41 --> 21:45] to fight another day.
+[21:45 --> 21:49] And that was just the long-term impact of the battle.
+[21:49 --> 21:55] The short-term impact of the battle was almost too nightmarish to contemplate.
+[21:55 --> 21:59] The Emperor was dead, his army destroyed.
+[21:59 --> 22:03] The Eastern frontier was now manned by just a skeleton crew.
+[22:03 --> 22:07] The Middle Frontier was manned by no one at all.
+[22:07 --> 22:14] A Gothic army was loose inside the Empire that was now not just unchecked, but unbeatable.
+[22:14 --> 22:18] North of the Danube, the Huns were only picking up steam, and who knew when they were going
+[22:18 --> 22:21] to attack the Empire directly.
+[22:21 --> 22:26] And to top it all off, at this darkest of dark hours, Rome was ruled by a 19-year-old
+[22:26 --> 22:32] boy who had no inclination toward soldiering, and a 7-year-old boy who was, well, a 7-year-old
+[22:32 --> 22:35] boy.
+[22:35 --> 22:40] Many historians find only the days after Cannae to be remotely comparable in terms
+[22:40 --> 22:45] of the sheer mind-blowing disasterness of it all.
+[22:45 --> 22:50] What were the Romans going to do now?
+[22:50 --> 22:55] Next week, we will find out what the Romans are going to do now.
+[22:55 --> 23:00] Without a capable heir ready to step in and rule the East, Gratian will be forced to look
+[23:00 --> 23:05] outside of the family, and turn to the son of the man that his father Valentinian had
+[23:05 --> 23:11] turned to time and time again to mop up the worst messes in the Empire.
+[23:11 --> 23:18] Stuck in a forced retirement in Spain, Theodosius the Younger will answer Gratian's call, somehow
+[23:18 --> 23:25] manage to steer the East away from utter destruction, and in the end, become the last man to serve
+[23:25 --> 23:28] as the sole and undisputed master of the Roman Empire.
+[23:55 --> 23:56] Thanks for watching.
+[23:56 --> 23:57] See you next week.
+[23:57 --> 23:57] Bye.

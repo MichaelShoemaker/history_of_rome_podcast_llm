@@ -1,0 +1,364 @@
+# 20110725 - 144- The Road to Constantinople 
+# Detected language: en
+# Duration: 1594.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:03] This week's episode is brought to you by Audible.
+[00:03 --> 00:08] As you know, Audible is the internet's leading provider of audio entertainment with over
+[00:08 --> 00:10] 80,000 titles to choose from.
+[00:10 --> 00:15] When you're done with this episode, go to audiblepodcast.com forward slash rome.
+[00:15 --> 00:20] That again audiblepodcast.com forward slash rome.
+[00:20 --> 00:23] By going to that address, you qualify for a free book download when you sign up for
+[00:23 --> 00:25] a 14 day trial membership.
+[00:25 --> 00:29] There is no obligation to continue the service and you can cancel anytime and keep the free
+[00:29 --> 00:31] book download.
+[00:31 --> 00:34] You can also keep going with one of the monthly subscription options and get great deals on
+[00:34 --> 00:38] all your future audiobook purchases.
+[00:38 --> 00:43] This week I am going to go with a recommendation from listener Karina Burns, the epic epic that
+[00:43 --> 00:46] is Ben Her by Lou Wallace.
+[00:46 --> 00:51] It's almost one full day of listening pleasure and so it would be a bargain at twice the
+[00:51 --> 00:53] price.
+[00:53 --> 00:58] Just remember to go to audiblepodcast.com forward slash rome so that they know who sent
+[00:58 --> 01:03] you.
+[01:03 --> 01:08] Hello and welcome to the history of Rome.
+[01:08 --> 01:15] Episode 144, the road to Constantinople.
+[01:15 --> 01:18] Julian's first taste of what the future had in store for him.
+[01:18 --> 01:24] It came immediately after the Battle of Strausburg in 357 AD.
+[01:24 --> 01:29] Having just routed a German army that outnumbered them three to one and suffering only minimal
+[01:29 --> 01:33] losses while doing it, the Roman soldiers under Julian's command were understandably
+[01:33 --> 01:35] exuberant.
+[01:35 --> 01:41] So exuberant that when Julian emerged to address them following the battle, the troops spontaneously
+[01:41 --> 01:44] hailed him as Augustus.
+[01:44 --> 01:49] This seditious offer hung in the air for a heartbeat before the 25 year old Julian swatted
+[01:49 --> 01:51] it down harshly.
+[01:51 --> 01:56] My cousin Constantius is Augustus, he told him, and I will not under any circumstances
+[01:56 --> 02:00] allow you to elevate me in opposition to him.
+[02:00 --> 02:04] This closed the matter for the moment, but after another two and a half years of rising
+[02:04 --> 02:09] tensions between Julian and Constantius, the young Caesar would eventually change his mind
+[02:09 --> 02:15] and allow his army to give him what they wanted to give him.
+[02:15 --> 02:20] That said, Julian's actions following the victory at Strausburg went a long way towards
+[02:20 --> 02:24] convincing the troops that maybe attempting to elevate their Caesar had actually been
+[02:24 --> 02:26] a bad idea.
+[02:26 --> 02:32] Sitting right on the line between fall and winter 357, the Roman soldiers assumed that,
+[02:32 --> 02:37] feather in cap, Julian would order them to a well-deserved winter's rest.
+[02:37 --> 02:42] But the young general decided instead that now was the best time to drive the Germans
+[02:42 --> 02:46] into the ground, so he ordered his army across the Rhine.
+[02:46 --> 02:48] The troops were incredulous.
+[02:48 --> 02:49] Are you kidding?
+[02:49 --> 02:54] We just beat a horde of barbarians in a battle that by all accounts we should have lost,
+[02:54 --> 02:57] and now you want us to invade Germany in the middle of winter.
+[02:57 --> 02:58] You must be kidding.
+[02:58 --> 03:00] He's kidding, right?
+[03:00 --> 03:06] But Julian was not kidding, and so over the Rhine the legions went.
+[03:06 --> 03:10] Julian spent the next few months attacking Alamanni settlements and generally running
+[03:10 --> 03:12] amok.
+[03:12 --> 03:16] The Germans were just as surprised to see the Roman soldiers coming as the Roman soldiers
+[03:16 --> 03:22] were to be coming, and they scattered hastily in the face of these unexpected assaults.
+[03:22 --> 03:28] Though the winter campaign made Julian supremely unpopular, strategically it was a complete
+[03:28 --> 03:29] success.
+[03:29 --> 03:33] Three of the six German chiefs who had fought against him at Strausburg were hunted down
+[03:33 --> 03:37] and forced to submit to Roman authority.
+[03:37 --> 03:41] In the middle of January, satisfied that he had made substantial gains in the never-ending
+[03:41 --> 03:47] war for control of the Rhine River, Julian finally ordered his army back to Gaul.
+[03:47 --> 03:52] Dispersing his men around the province, Julian himself settled into the city of Lutetia,
+[03:52 --> 04:01] which by that point may already have been known by the name that we know it today, Paris.
+[04:01 --> 04:06] While wintering in Paris, Julian turned his attention to civil affairs, even though, strictly
+[04:06 --> 04:10] speaking, they were outside of his jurisdiction.
+[04:10 --> 04:15] Despite the fact that he held imperial office, as Caesar, Julian was technically only authorized
+[04:15 --> 04:19] to address the military defense of his provinces.
+[04:19 --> 04:23] This followed from the precedent established by Diocletian separating military from civilian
+[04:23 --> 04:29] power, and it meant that while Julian was in Gaul, there was another center of political
+[04:30 --> 04:34] The Praetorian Prefect, Florentius.
+[04:34 --> 04:39] Florentius was not a bad administrator, but like the other senior officials in Gaul, he
+[04:39 --> 04:45] resented the arrival of the thoroughly self-confident Julian, especially when Julian began sticking
+[04:45 --> 04:49] his nose in where it did not belong.
+[04:49 --> 04:54] After two years of uneasy power sharing, the two men finally came to blows over the issue
+[04:54 --> 04:57] of provincial taxation.
+[04:57 --> 05:01] Both agreed that it was in everyone's best interest to initiate a rebuilding effort across
+[05:01 --> 05:05] Gaul for the benefit of the civilian population.
+[05:05 --> 05:09] Both also agreed that, unfortunately, the current tax receipts were not going to cover
+[05:09 --> 05:11] the effort.
+[05:11 --> 05:14] So more revenue was needed.
+[05:14 --> 05:19] Florentius wanted to simply throw out a supplemental tax to raise the necessary funds, but Julian
+[05:19 --> 05:24] dug a little deeper into the issue and came away convinced that what they really needed
+[05:24 --> 05:28] to do was cut taxes.
+[05:28 --> 05:32] This counterintuitive idea sprang from two basic facts.
+[05:32 --> 05:37] First, the people who would be hardest hit by the supplemental tax had already paid everything
+[05:37 --> 05:39] that they could afford that year.
+[05:39 --> 05:42] There was no wool left to be sheared.
+[05:42 --> 05:47] Second, the real problem was not that the tax rate wasn't high enough, it was that
+[05:47 --> 05:51] the taxes weren't being collected properly.
+[05:51 --> 05:57] For years, the wealthy landowners of Gaul had been hiding inside of a loophole.
+[05:57 --> 06:02] Every so often, as a sign of goodwill or to celebrate something or another, the government
+[06:02 --> 06:07] would issue a proclamation canceling out unpaid debts to the state.
+[06:07 --> 06:12] So the rich men of Gaul simply stopped paying their taxes altogether.
+[06:12 --> 06:17] If government officials got pushy, a helpful bribe would help turn their heads until, inevitably,
+[06:17 --> 06:22] a proclamation canceling all old debts would be announced and everyone was dropped back
+[06:22 --> 06:24] down to zero.
+[06:24 --> 06:28] The poor and middle classes couldn't afford to pay off the officials, so they were left
+[06:28 --> 06:33] to cover the expenses of the whole provincial administration.
+[06:33 --> 06:37] Florentius' supplemental tax would simply hit these classes up for more cash, and it
+[06:37 --> 06:41] was obvious to anyone who cared to pay attention that they really didn't have any more cash
+[06:41 --> 06:43] to give.
+[06:43 --> 06:49] So Julian proposed simply cutting taxes across the board and then, actually, you know, collecting
+[06:49 --> 06:51] what everyone owed.
+[06:51 --> 06:55] This would lead to greater prosperity and more tax revenue for the government.
+[06:55 --> 06:59] Q.E.D.
+[06:59 --> 07:03] Florentius was annoyed that Julian was even involved with the issue and really annoyed
+[07:03 --> 07:07] that Julian was trying to contradict him until he immediately wrote to Constantius complaining
+[07:07 --> 07:09] about the Caesar's conduct.
+[07:09 --> 07:14] But though Florentius was the emperor's picked man, Constantius decided in this case
+[07:14 --> 07:16] to side with Julian.
+[07:16 --> 07:21] Taxes were reduced in Gaul by something like two-thirds, and officials stopped allowing
+[07:21 --> 07:24] the wealthy to defer their payments.
+[07:24 --> 07:26] The result was a double boon.
+[07:26 --> 07:30] The lower classes thrived because they had less taxes to pay, and tax revenues increased
+[07:30 --> 07:33] because the rich were paying their fair share.
+[07:33 --> 07:37] Not a bad day's policy making.
+[07:37 --> 07:41] The success of Julian's proposal was not enough to endear him to Florentius, though, especially
+[07:41 --> 07:47] because as the summer of 358 arrived, Julian ran another of the prefect's policies off
+[07:47 --> 07:50] the rails.
+[07:50 --> 07:55] Since the revolt of Magnentius, the Franks had incrementally increased their power along
+[07:55 --> 08:00] the northern coast of Gaul, until, by this point, they basically controlled the English
+[08:00 --> 08:02] Channel.
+[08:02 --> 08:06] This was, of course, a serious strategic issue for the Romans, as it meant that supply lines
+[08:06 --> 08:12] from Britannia were not at all secure, which is why Julian had to rely on shipments from
+[08:12 --> 08:15] the south to feed his army in the north.
+[08:15 --> 08:20] Florentius's proposal was to just pay the Franks not to attack Roman ships.
+[08:20 --> 08:25] This straightforward business proposition won Constantius his blessing, but not without
+[08:25 --> 08:26] a caveat.
+[08:26 --> 08:30] The emperor wrote to Julian, and told the young Caesar to go along with the plan unless
+[08:30 --> 08:35] he found it, quote, absolutely disgraceful.
+[08:35 --> 08:39] And to Julian, that's exactly what it was.
+[08:39 --> 08:43] Without waiting or consulting with anyone, he lined up his troops and marched them north,
+[08:43 --> 08:48] intent on smashing the Franks and freeing up the grain supply from Britain.
+[08:48 --> 08:53] It was a risky strategy, especially since feeding his army depended entirely on freeing
+[08:53 --> 08:55] up those supply lines.
+[08:55 --> 09:00] But fortune favored his boldness, and after a few weeks on campaign, the Franks were brought
+[09:00 --> 09:07] to heel, much to Julian's delight and Florentius's chagrin.
+[09:07 --> 09:11] At the end of this successful operation, though, Julian standing with his men once again took
+[09:11 --> 09:17] a nosedive when they noticed that in his hurry to get the campaign going, all the supplies
+[09:17 --> 09:20] they had were the supplies they had on their back.
+[09:20 --> 09:24] When Julian began to order these supplies dispersed to the string of forts he was building
+[09:24 --> 09:31] to help keep the area secure, his men started to get very angry very quickly.
+[09:31 --> 09:37] At first, Julian thought the grumbling was just more grumbling, but a hungry army is
+[09:37 --> 09:42] a dangerous army, and the Caesar was forced to offer a naked bribe to get the men back
+[09:42 --> 09:46] in line as they waited for a relief shipment of grain.
+[09:46 --> 09:51] His troops mollified, Julian ordered the army across the Rhine for a second time, and over
+[09:51 --> 09:55] the course of the rest of the year, he tracked down two more of the chiefs who had fought
+[09:55 --> 10:01] him at Strausborg, and forced them too to sign a non-aggression treaty.
+[10:01 --> 10:08] As the winter of 358 approached, Julian was able to survey his province with satisfaction.
+[10:08 --> 10:12] Despite the fact that he had been either subtly undermined or outright opposed by most of
+[10:12 --> 10:18] the senior officials in Gaul, the young Caesar had succeeded in stabilizing the Rhine frontier,
+[10:18 --> 10:22] clearing control of the English Channel, and generally seeing to it that the citizens
+[10:22 --> 10:27] of Gaul could prosper once again.
+[10:27 --> 10:31] It was right around this point, of course, that his relations with Constantius began
+[10:31 --> 10:33] to fray.
+[10:33 --> 10:38] Nothing spells imperial paranoia like the popular success of an underling, and as Julian's
+[10:38 --> 10:45] reputation grew, so too did the scheming of Constantius' court.
+[10:45 --> 10:49] Just to set the stage for what's coming next, though, we should note that the rising
+[10:49 --> 10:54] imperial tensions did not occur in a vacuum.
+[10:54 --> 10:58] While Julian was off subduing Gaul, Constantius stayed mostly in Milan, popping over to the
+[10:58 --> 11:04] Danube frontier as need be, and once, get this, even paying a visit to Rome, the first
+[11:04 --> 11:07] such visit of his life.
+[11:07 --> 11:12] In 357, though, a troubling embassy arrived from the east.
+[11:12 --> 11:17] Prince of the Sassanid King Shapur had come to demand that Constantius return all territory
+[11:17 --> 11:23] ceded to the Romans by the Treaty of Nisbis some sixty years earlier.
+[11:23 --> 11:28] The emperor had no intention of coming anywhere close to agreeing to the ambassador's demands,
+[11:28 --> 11:33] and he sent them packing with a firm no.
+[11:33 --> 11:37] That being said, the fact that Shapur had even asked meant that the Persian king had
+[11:38 --> 11:44] secured his northern border and was now turning his attention back to his western border.
+[11:44 --> 11:48] So Constantius sent an embassy of his own back to Shapur, trying to arrange a peace
+[11:48 --> 11:52] that did not require Rome to just utterly capitulate.
+[11:52 --> 11:58] This time, it was Shapur's turn to send the embassy packing with a firm no.
+[11:58 --> 12:03] War was looming once again.
+[12:03 --> 12:07] As the spring of 359 arrived then, there were two ways that Constantius could look at the
+[12:07 --> 12:10] success of his younger cousin in Gaul.
+[12:10 --> 12:13] He could either be happy that the west seemed locked down right at the moment when the east
+[12:13 --> 12:19] was about to blow up, or he could be unnerved by the fact that just as he was about to be
+[12:19 --> 12:24] dragged off to fight a war in the east, his younger cousin was becoming immensely popular
+[12:24 --> 12:26] in the west.
+[12:26 --> 12:33] With Constantius off fighting, how long would it be until Julian made a grab for power?
+[12:33 --> 12:38] Unfortunately for everyone, the one person who would act as a check on Constantius's
+[12:38 --> 12:43] paranoia was his wife Eusebia, and she was now dead.
+[12:43 --> 12:48] The Augusta had always liked Julian and defended the young Caesar whenever the emperor's advisers
+[12:48 --> 12:50] ran the boy down.
+[12:50 --> 12:55] Now that she was dead, everywhere Constantius turned, men were telling him that Julian was
+[12:55 --> 13:03] a threat, and so the emperor naturally came to believe that Julian was indeed now a threat.
+[13:03 --> 13:07] While he was growing more and more paranoid about his Caesar, Constantius was knocked
+[13:07 --> 13:13] sideways by word that in the east, Shapur had begun a siege of the key fortress city of
+[13:13 --> 13:15] Amida.
+[13:15 --> 13:21] The emperor dashed east, but along the way learned that after 73 days, Amida had fallen,
+[13:21 --> 13:26] and with it had gone six legions.
+[13:26 --> 13:30] Upon reaching the east, Constantius discovered the extent of the damage done by Shapur and
+[13:30 --> 13:36] realized quickly that he did not have enough local manpower to properly defend the border.
+[13:36 --> 13:42] So in January of 360, he sent a fateful letter to Julian, a letter that would initiate the
+[13:42 --> 13:46] final break between the two men.
+[13:46 --> 13:51] Since Gaul was now relatively peaceful and things were falling apart in Syria, Constantius
+[13:51 --> 13:56] ordered almost half of Julian's Gallic army to march it once to Syria to help shore up
+[13:56 --> 13:59] the eastern front.
+[13:59 --> 14:05] Given the circumstances, the order is understandable, but to Julian and his officers, the true reason
+[14:05 --> 14:09] for the troop redeployment was as plain as day.
+[14:09 --> 14:14] Julian had gotten too powerful, and Constantius was attempting to neuter him.
+[14:14 --> 14:20] Neither Julian nor his men knew the full extent of the disaster unfolding in the Far East,
+[14:20 --> 14:24] and after a year in which relations between emperor and Caesar had become more and more
+[14:24 --> 14:28] strained, it was easy for them to jump to the conclusion that something sinister was
+[14:28 --> 14:31] afoot.
+[14:31 --> 14:35] Now I'm not willing to give Constantius a complete pass on all this.
+[14:35 --> 14:40] Of all the provinces in the empire, he just so happened to demand reinforcements from
+[14:40 --> 14:44] the one province where the troops were uniformly loyal to Julian.
+[14:44 --> 14:47] That really does smell like something.
+[14:47 --> 14:52] But I think that at the end of the day, Julian wound up revolting over a fairly rational
+[14:52 --> 14:54] military decision.
+[14:54 --> 15:01] It was probably a non-issue blown way out of proportion.
+[15:01 --> 15:07] That said, it certainly was not a non-issue to the men of the Gallic legions, especially
+[15:07 --> 15:11] since Julian had specifically promised them that they would never have to serve beyond
+[15:11 --> 15:14] the Alps.
+[15:14 --> 15:19] The army of the late empire was a far more settled force than in previous ages, and all
+[15:19 --> 15:24] of these men had wives and children and land and interests in Gaul, and they were happy
+[15:24 --> 15:29] to fight to protect all of that, but they had no interest in being uprooted to go fight
+[15:29 --> 15:32] in some far-off desert.
+[15:32 --> 15:36] When news of the order leaked, the soldiers stationed in Paris for the winter immediately
+[15:36 --> 15:42] demanded to know what Julian was going to do about it, because we are not going to go
+[15:42 --> 15:45] and fight Persians.
+[15:45 --> 15:50] The situation began to quickly spiral out of control, as other garrisons heard the news
+[15:50 --> 15:53] and began to agitate.
+[15:53 --> 15:57] Julian finally decided that he needed to meet this head-on, so he circulated an order for
+[15:57 --> 16:01] all the troops to leave their quarters and come to Paris so he could address the issue
+[16:01 --> 16:03] directly.
+[16:03 --> 16:07] As each garrison arrived, Julian went out to greet them, and attempted to win them over
+[16:07 --> 16:15] with promises of glory and appeals to their patriotic spirit, but yeah, not so much.
+[16:15 --> 16:19] He then attempted a compromise, announcing that the soldiers would be allowed to bring
+[16:19 --> 16:22] their families along if they so desired.
+[16:22 --> 16:26] This kind of addressed their concerns, but not really.
+[16:26 --> 16:30] Really, they just really didn't want to go.
+[16:30 --> 16:36] So then, pamphlets began circulating, and rabble-rousers became more brazen, things
+[16:36 --> 16:42] were getting ugly, and a full-blown mutiny looked like it was right around the corner.
+[16:42 --> 16:47] The other senior officials in Gaul recognized the powder keg Julian was sitting on, and
+[16:47 --> 16:51] most, for either personal or professional reasons, decided that the very best thing
+[16:51 --> 16:56] they could do was stay the hell out of Paris for a while.
+[16:56 --> 17:01] So for example, when Julian wrote to Florentius and requested the prefect come to Paris to
+[17:01 --> 17:08] help him broker a solution, Florentius alternatively ignored the letters or invented paper-thin
+[17:08 --> 17:11] excuses to remain where he was.
+[17:11 --> 17:15] There was no love lost between the two men, and it looked like Julian was about to be
+[17:15 --> 17:18] consumed by a furious army.
+[17:18 --> 17:23] Why in the world would Florentius want to get in the way of such a delicious ending
+[17:23 --> 17:26] to this annoying story?
+[17:26 --> 17:29] But Julian was not going to go down that easy.
+[17:29 --> 17:34] As I just mentioned, the assumption within his inner circle was that the redeployment
+[17:34 --> 17:38] order was all about Constantius taking Julian out at the knees, because the emperor was
+[17:38 --> 17:42] paranoid and jealous of his younger cousin.
+[17:42 --> 17:47] So Julian was reminded that there was one solution to this problem that he really ought
+[17:47 --> 17:49] to consider.
+[17:49 --> 17:54] And in fact, the way things were going, it was really the only solution on the table
+[17:54 --> 17:57] if he wanted to keep his head.
+[17:57 --> 18:02] It was time to play the trump card.
+[18:02 --> 18:07] So one night in February, Julian and his inner circle got together for dinner and discussed
+[18:07 --> 18:10] how best to play this trump card.
+[18:10 --> 18:15] Of course, in Julian's later telling, everything that's about to happen was totally spontaneous
+[18:15 --> 18:19] and he was taken completely by surprise.
+[18:19 --> 18:24] But really, as you know by now, that's not really the way these things work.
+[18:24 --> 18:29] A few hours after the dinner broke up then, Julian was taken completely by surprise as
+[18:29 --> 18:36] the soldiers spontaneously surrounded his quarters and hailed him as Augustus.
+[18:36 --> 18:41] But Julian did not immediately appear and instead let the word go round of what was
+[18:41 --> 18:44] happening at the imperial residence.
+[18:44 --> 18:49] The next morning though, with the troops assembled and expectant, Julian stepped up onto the
+[18:49 --> 18:53] platform and announced that he could not in good conscience abide by Constantius's
+[18:53 --> 18:55] order.
+[18:55 --> 19:00] He would accept their acclamation, become Augustus, and fight for them if they would
+[19:00 --> 19:02] fight for him.
+[19:02 --> 19:06] The cheers were immediate and prolonged.
+[19:06 --> 19:10] Julian was hoisted up on a shield and carried about triumphantly.
+[19:10 --> 19:15] The revolt had begun.
+[19:15 --> 19:18] But Julian planned to play this thing carefully.
+[19:18 --> 19:22] He wrote a letter to Constantius explaining what had happened, that it was all outside
+[19:22 --> 19:27] of his control, and he even offered a compromise whereby Julian would reinforce the east with
+[19:27 --> 19:29] troops from Hispania.
+[19:29 --> 19:35] He even signed the letter Caesar so as to avoid offending the emperor unnecessarily.
+[19:35 --> 19:40] But when Constantius received the message, this small gesture was lost amidst the furious
+[19:40 --> 19:42] raging.
+[19:42 --> 19:48] As with the revolt of Magnentius though, Constantius was locked down against the Sassonids and
+[19:48 --> 19:52] he refused to abandon the east just to go deal with his treasonous Caesar.
+[19:52 --> 19:59] Again, as with the revolt of Magnentius, this is, I think, to Constantius's credit.
+[19:59 --> 20:04] All he could do then was send a sharp reply denouncing the actions of Julian and the Gallic
+[20:04 --> 20:05] army.
+[20:05 --> 20:10] But when Julian read that letter publicly, the imperial minister who had delivered it
+[20:10 --> 20:17] was forced to hightail it out of Paris at top speed, fearing for his life.
+[20:17 --> 20:21] The rest of 360 then passed with letters flying back and forth between the two now
+[20:21 --> 20:24] rival Augusti.
+[20:24 --> 20:29] Neither was looking for war, Julian because he was actually in a pretty weak position,
+[20:29 --> 20:34] and Constantius because of Shapur's continued belligerency.
+[20:34 --> 20:37] But neither would either back down.
+[20:37 --> 20:41] Julian asserted his independence and Constantius denied it.
+[20:41 --> 20:50] So whether they wanted it or not, eventually war was going to come.
+[20:50 --> 20:53] So while the letters flew, both prepared.
+[20:53 --> 20:57] Julian secured the support of the British legions and then spent the year campaigning
+[20:57 --> 21:01] against the Germans to ensure that they would remain passive should he wind up marching
+[21:01 --> 21:04] east.
+[21:04 --> 21:08] Constantius meanwhile intensified his recruitment efforts while simultaneously looking to cut
+[21:08 --> 21:13] a deal with the Persians to temporarily suspend hostilities.
+[21:13 --> 21:19] It was not until early 361 though, a full year after Julian's elevation, that war truly
+[21:19 --> 21:22] became inevitable.
+[21:22 --> 21:28] As Julian fought a suddenly emboldened army of Alamani, he captured communications that
+[21:28 --> 21:34] made it very clear that the Germans were being prompted to action by Constantius.
+[21:34 --> 21:38] This revelation coupled with news that the war machine the emperor was assembling in
+[21:38 --> 21:44] the east was not necessarily being assembled to fight the Persians, led Julian to the conclusion
+[21:44 --> 21:50] that he had better act now or risk annihilation.
+[21:50 --> 21:53] By June of 361, Julian's mind was made up.
+[21:53 --> 21:58] He was going to go on the offensive.
+[21:58 --> 22:03] He gathered up 23,000 men, the most he felt he could spare, and then divided them into
+[22:03 --> 22:05] three columns.
+[22:05 --> 22:10] Two of 10,000 men to be led by subordinates, and the last column of 3,000 to be led by
+[22:10 --> 22:13] Julian personally.
+[22:13 --> 22:19] These three columns then sped east along different routes, hoping to fly further under the radar
+[22:19 --> 22:26] and travel at a faster pace than one giant army would be able to do.
+[22:26 --> 22:30] Mostly the strategy worked, except for the fact that when Julian arrived at Sirmium,
+[22:30 --> 22:36] where everyone was supposed to link up, he was the only one there.
+[22:36 --> 22:41] With the Sirmium garrison alerted to Julian's offensive and his backup still en route, the
+[22:41 --> 22:44] rebel Augustus had to think fast.
+[22:44 --> 22:46] His solution was brilliant.
+[22:46 --> 22:51] A small detachment of soldiers snuck into the city and made their way to the commander's
+[22:51 --> 22:52] bedroom.
+[22:52 --> 22:56] Before anyone knew what had happened, the leader of the city was captured and snuck
+[22:56 --> 22:59] back into Julian's tent.
+[22:59 --> 23:04] Once there, the captured commander was told that Julian meant him no harm, but it was
+[23:04 --> 23:10] probably in his best interest to stand down Sirmium and allow Julian to take the city.
+[23:10 --> 23:15] The commander, with his back now personally against the wall, reluctantly agreed, and
+[23:15 --> 23:19] Julian entered Sirmium unopposed.
+[23:19 --> 23:24] Once the rest of his army showed up, Julian ordered the Sirmium legions redeployed to
+[23:25 --> 23:30] they were to keep an eye on the now weakly defended Rhine frontier.
+[23:30 --> 23:35] It seemed like a good idea in theory, neutralize a force whose loyalty could not be counted
+[23:35 --> 23:41] on while simultaneously shoring up the rear, but the Sirmium troops were not the least
+[23:41 --> 23:46] bit happy about being sent to Gaul, and so while passing through northern Italy, they
+[23:46 --> 23:48] revolted and captured Aquileia.
+[23:48 --> 23:53] Okay, well that's not good.
+[23:53 --> 23:58] With his military offensive going well, but not perfectly, Julian then went on the offensive
+[23:58 --> 24:04] politically, writing to the leadership of Rome and the various cities of Greece, defending
+[24:04 --> 24:08] his actions and denouncing Constantius.
+[24:08 --> 24:13] The only problem was that Constantius was actually wildly popular in Rome and the various
+[24:13 --> 24:15] Greek cities.
+[24:15 --> 24:20] Julian's overblown rhetoric rang false, and rather than ginning up support for his cause,
+[24:20 --> 24:25] the letters left him further isolated.
+[24:25 --> 24:30] As well as this adventure had begun, it was now starting to unravel.
+[24:30 --> 24:36] His aim had probably been to capture Constantinople before Constantius left the east, but then
+[24:36 --> 24:38] the real heavy news dropped.
+[24:38 --> 24:44] Constantius had made a deal with the Sassanids and was already marching west.
+[24:44 --> 24:48] Bottled up in the middle of the empire with his supply lines to Gaul cut off and political
+[24:48 --> 24:53] support nonexistent, Julian was looking doomed.
+[24:53 --> 24:58] What he needed was a miracle.
+[24:58 --> 25:03] Then in November of 361, a miracle.
+[25:03 --> 25:07] Constantius and his army had made it as far as the Cilician gates when the emperor came
+[25:07 --> 25:09] down sick.
+[25:09 --> 25:14] Unwilling to stop, he ordered the army to press on, but by the end of the next day,
+[25:14 --> 25:18] the shocking news began to spread.
+[25:18 --> 25:20] Constantius II was dead.
+[25:20 --> 25:27] He was 44 years old, and had been in Augustus for 24 years.
+[25:27 --> 25:32] Following right on the heels of this shocking news was the even more shocking news that
+[25:32 --> 25:36] despite the fact that they were about to fight each other to the death, Julian was still
+[25:36 --> 25:42] listed in Constantius' will as the sole and rightful heir to the empire.
+[25:42 --> 25:47] So now, far from having to fight his way to Constantinople, the road to the capital was
+[25:48 --> 25:49] wide open.
+[25:49 --> 25:56] Julian, who had been raised a forgotten exile, was now the sole ruler of the Roman Empire.
+[25:58 --> 26:04] Next week, we will see what he does now that he wields so much power.
+[26:04 --> 26:05] And I'll give you a hint.
+[26:05 --> 26:10] It has something to do with why we call him Julian the Apostate.

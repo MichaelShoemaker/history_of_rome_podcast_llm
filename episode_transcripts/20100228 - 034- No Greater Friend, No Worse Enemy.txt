@@ -1,0 +1,316 @@
+# 20100228 - 034- No Greater Friend, No Worse Enemy
+# Detected language: en
+# Duration: 1208.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:07] Hello, and welcome back to the history of Rome.
+[00:09 --> 00:11] It's been a while, I know.
+[00:11 --> 00:13] So let's quickly recap where we're at.
+[00:15 --> 00:20] In 85 BC, Sulla won his war in the east against Mithridates and came to terms with
+[00:20 --> 00:21] the rebellious king.
+[00:22 --> 00:26] While the war in Asia unfolded, Sulla had been too busy to worry about the fact
+[00:26 --> 00:30] that technically he was in official exile from Rome, a consequence of his political
+[00:30 --> 00:34] struggle with the now-dead Marius and the soon-to-be-dead Senna.
+[00:35 --> 00:39] But having emerged victorious abroad, it was time to turn back to his domestic
+[00:39 --> 00:40] political problems.
+[00:41 --> 00:45] Senna, who had been in sole control of Rome since Marius's death three years
+[00:45 --> 00:49] earlier, knew that Sulla's imminent return did not bode well for him, his
+[00:49 --> 00:51] career, or his life.
+[00:51 --> 00:54] So he organized an army to stand between Sulla and Rome.
+[00:55 --> 01:00] But in his haste to block Sulla, Senna pushed his own troops too hard and was
+[01:00 --> 01:02] murdered in a mutiny in 84 BC.
+[01:03 --> 01:05] So that's where we left off.
+[01:05 --> 01:07] Was Sulla preparing to march back to Rome?
+[01:07 --> 01:10] And, well, let's pick it up there.
+[01:11 --> 01:15] Inside Rome, news of Sulla's imminent return was met with panic.
+[01:16 --> 01:20] Please recall that during Marius and Senna's reign, most of the Sulla
+[01:20 --> 01:24] supporters had been purged, so the state was staffed with fierce Marian
+[01:24 --> 01:27] partisans who dreaded the return of their mortal enemy.
+[01:28 --> 01:33] In anticipation of a coming battle, the consuls chosen for the year 83 BC were
+[01:33 --> 01:34] both fierce opponents of Sulla.
+[01:35 --> 01:38] They were also, as it would turn out, no match for him either.
+[01:40 --> 01:43] Sulla was able to cross the Adriatic unopposed and landed in the
+[01:43 --> 01:45] heel of Italy at the head of five legions.
+[01:46 --> 01:50] Both consuls raised armies to prevent Sulla from moving north.
+[01:51 --> 01:55] Gaius Norbonis finished his preparations first and marched quickly, intent on
+[01:55 --> 01:57] bottling up Sulla where he had landed.
+[01:58 --> 02:02] But his army was made up of fresh recruits and he himself was not a
+[02:02 --> 02:04] general anywhere near his rival's class.
+[02:05 --> 02:07] Sulla blew through Norbonis without breaking a sweat.
+[02:08 --> 02:11] The defeated consul was forced to flee with the remainder of his army to Capua.
+[02:12 --> 02:17] Next, the other consul, Cornelius Asiagonus, marched south as the head of
+[02:17 --> 02:19] his army to see if he could do any better.
+[02:19 --> 02:21] But he didn't even get as far as Norbonis did.
+[02:22 --> 02:27] Upon intercepting Sulla, Asiagonus's army began defecting in droves to Sulla
+[02:27 --> 02:30] and the consul was forced to surrender without ever drawing his
+[02:30 --> 02:30] sword.
+[02:32 --> 02:35] To the Roman aristocracy, it was not hard to tell which way the wind was
+[02:35 --> 02:39] blowing and many nobles who had done their best to ride out the
+[02:40 --> 02:43] inconspicuous neutrality now began to openly break for Sulla.
+[02:44 --> 02:48] The governor of Africa, for example, Metellus Pius, a highly respected
+[02:48 --> 02:51] general in his own right, took it upon himself to throw Marian
+[02:51 --> 02:55] partisans out of his province and thus deny Sulla's enemies a source of
+[02:55 --> 02:57] recruits and supplies.
+[02:58 --> 03:02] Within the city limits, however, it was still dangerous to support Sulla
+[03:02 --> 03:05] and one last round of violence against his allies swept through the
+[03:05 --> 03:06] city.
+[03:06 --> 03:10] But this would prove to be the final death throes of the Marian power
+[03:10 --> 03:14] structure and soon enough they would find themselves reaping what they had
+[03:14 --> 03:15] sown.
+[03:16 --> 03:20] In addition to Metellus's support in Africa, Sulla also found support in
+[03:20 --> 03:25] Spain from Marcus Licinius Crassus who, in due course, would become the
+[03:25 --> 03:28] richest man of his time and one of the three triumvirs.
+[03:29 --> 03:33] Crassus marched an army east to Italy where he planned to aid Sulla
+[03:33 --> 03:34] in control of Rome.
+[03:35 --> 03:39] The second of the three triumvirs, Pompey Magnus, also decided his
+[03:39 --> 03:43] ambition was best served by throwing his lot in with Sulla and
+[03:43 --> 03:47] raising an army of his own, announced his intentions to fight for the
+[03:47 --> 03:48] exiled general.
+[03:49 --> 03:52] We will get to the third triumvir, young Julius Caesar,
+[03:52 --> 03:53] in a moment.
+[03:55 --> 03:59] Near the end of his term in office, the consul Ossie Agenus, who had been
+[03:59 --> 04:03] set free by Sulla, led a new army against the 23-year-old
+[04:03 --> 04:06] Pompey who had positioned himself in north Italy.
+[04:07 --> 04:10] The consul clearly had no wish to relive the embarrassment of losing
+[04:10 --> 04:13] his army without a fight to the charismatic Sulla.
+[04:14 --> 04:17] Ossie Agenus, however, having the misfortune to be merely a leader
+[04:17 --> 04:21] in a time of extremely charismatic leaders, wound up in exactly the same
+[04:21 --> 04:24] boat he had found himself in before when he reached Pompey.
+[04:25 --> 04:28] His army defected en masse and the consul was once again forced to
+[04:28 --> 04:30] flee without an army left to lead.
+[04:32 --> 04:37] As 83 drew to a close, the senate leadership knew the noose was drawing
+[04:37 --> 04:38] close around their necks.
+[04:39 --> 04:41] So, along with one of Suna's old co-consuls,
+[04:42 --> 04:46] Papyrus Carbo, they elected 26-year-old Gaius Marius the younger
+[04:46 --> 04:49] in an attempt to boost the morale of his father's old supporters.
+[04:50 --> 04:53] But the younger Marius was not his father and besides,
+[04:54 --> 04:57] it is doubtful even the old man in his prime could stop Sulla now.
+[04:58 --> 05:04] The campaign season of 82 opened with Metellus Pius arriving with his army in
+[05:04 --> 05:07] north Italy where he rendezvoused with Pompey.
+[05:07 --> 05:12] The newly elected consul Papyrus Carbo led an army north to face them
+[05:12 --> 05:15] while Marius the younger built an army to face Sulla who
+[05:15 --> 05:18] it was clear would soon be marching on Rome itself.
+[05:20 --> 05:23] Marius found willing recruits among the Samnites who feared the return to
+[05:23 --> 05:26] power of the reactionary conservative wing
+[05:26 --> 05:27] of the Roman aristocracy.
+[05:28 --> 05:32] They had only recently been granted full rights in the aftermath of the social
+[05:32 --> 05:34] war and had no intention of seeing their
+[05:34 --> 05:39] natural allies in Rome, the marian populares, ousted from power.
+[05:40 --> 05:43] Would the conservative Sulla rescind the suffrage they had so recently won
+[05:43 --> 05:46] in his inevitable post-victory reorganizations?
+[05:46 --> 05:50] They had no desire to find out. With the Samnites on board,
+[05:51 --> 05:54] Marius would now at least be able to make a go of it against Sulla
+[05:54 --> 05:56] who thus far looked indestructible.
+[05:58 --> 06:02] But Carbo and Marius were simply not up to the task of warding off Sulla's
+[06:02 --> 06:05] onslaught. This was not to say they were not capable
+[06:05 --> 06:08] just they were facing some of the most accomplished generals in Roman
+[06:08 --> 06:12] history. In the north, Carbo was defeated by
+[06:12 --> 06:14] the combined army of Pompey and Metellus
+[06:14 --> 06:18] and withdrew to Utruria where he at least hoped to prevent them from
+[06:18 --> 06:22] marching on Rome. In the south, Sulla and Marius the
+[06:22 --> 06:26] met and fought a prolonged battle but as was the case throughout this civil
+[06:26 --> 06:29] war, defections cost Marius too many men
+[06:29 --> 06:33] and he was forced to withdraw behind the walls of a local allied city.
+[06:34 --> 06:37] Leaving a siege force in place, Sulla marched north to Utruria
+[06:37 --> 06:40] where he planned to crush Carbo and then sweep into Rome.
+[06:41 --> 06:45] Sulla however was unable to dislodge Carbo from his position
+[06:45 --> 06:49] but it was clear to the beleaguered consul that he would not be able to
+[06:49 --> 06:51] hold out forever and for all intents and purposes
+[06:51 --> 06:56] Italy was in the hands of Sulla already. Rather than make a last stand,
+[06:56 --> 06:59] Carbo slipped out the back and fled spending the next year
+[06:59 --> 07:02] hiding out in the small islands off the Sicilian coast.
+[07:04 --> 07:08] In November of 82 BC an army of Samnites emerged
+[07:08 --> 07:11] to relieve Marius and his trapped army but they were unable to break
+[07:11 --> 07:14] the siege so the Samnite general tried a
+[07:14 --> 07:18] different tack and ordered his army to march straight for Rome.
+[07:18 --> 07:22] Dismayed that this enemy army was in a position to actually capture the
+[07:22 --> 07:25] capital city, Sulla swept in from Utruria to stop
+[07:25 --> 07:29] their advance. The two armies faced each other just
+[07:29 --> 07:33] beyond the Coline gate in Rome's northwest quadrant. The
+[07:33 --> 07:36] ensuing battle was a massive and desperate struggle
+[07:36 --> 07:39] between two forces who felt their very existence at stake.
+[07:40 --> 07:44] No victor emerging from a civil war can afford to keep their rivals
+[07:44 --> 07:49] alive for long. Post-war purges are usually swift and brutal.
+[07:50 --> 07:54] In the battle of the Coline gate, Crassus famously secured victory for
+[07:54 --> 07:57] Sulla by routing the left wing of the Samnite line.
+[07:58 --> 08:01] Sulla's army was able to engulf the enemy and destroy them.
+[08:02 --> 08:05] In all it is estimated that 50,000 died in the fighting.
+[08:06 --> 08:10] Marius the younger upon hearing the news committed suicide
+[08:10 --> 08:14] while still under siege. Sulla now stood alone
+[08:14 --> 08:16] the undisputed master of Rome.
+[08:18 --> 08:22] The victorious general and the cowed senate that welcomed him into the city
+[08:22 --> 08:25] though were not content to simply let his
+[08:25 --> 08:28] newly won power go as a tacit understanding between
+[08:28 --> 08:31] the people and their new master. The nudge-wing
+[08:31 --> 08:35] dictatorships of Marius and Senna would not do for Sulla and the
+[08:35 --> 08:39] senate proclaimed him dictator. But this would be no standard issue
+[08:39 --> 08:43] six-month constitutional dictatorship. No,
+[08:43 --> 08:46] Sulla's dictatorship in an unprecedented development
+[08:46 --> 08:51] would have no term limit. Thus Sulla became Rome's first dictator for
+[08:51 --> 08:54] life and the doomsday clock of the republic
+[08:54 --> 08:55] moved closer to midnight.
+[08:58 --> 09:01] Though there were some high-minded reforms Sulla had every intention of
+[09:01 --> 09:04] carrying out with his newfound unlimited power,
+[09:04 --> 09:07] he began his reign in true Machiavellian fashion.
+[09:08 --> 09:12] Machiavelli of course advises that a prince who has entered office
+[09:12 --> 09:17] through revolution, conquest, or coup ought to first eliminate
+[09:17 --> 09:22] all rival claimants to the throne. If one succumbs to compassion too soon
+[09:22 --> 09:25] those rival claimants will become centers around which opposition can
+[09:25 --> 09:28] rally, forcing the prince to initiate ever
+[09:28 --> 09:33] escalating cycles of civil repressions that will make him unpopular with the
+[09:33 --> 09:37] people and lead to his downfall. Better to get all the bloodshed and
+[09:37 --> 09:40] terror out of the way early. That way there will be no opposition
+[09:40 --> 09:44] to worry about. The people will soon forget the initial horror
+[09:44 --> 09:48] and regard the later mild disposition of the prince
+[09:48 --> 09:52] to be a true reflection of his character and he'll remain popular
+[09:52 --> 09:57] and most importantly in power. Machiavelli pointed to the example of
+[09:57 --> 10:00] Sulla as the living embodiment of this theory.
+[10:01 --> 10:06] Dictator for life Sulla posted in the forum a list of marian partisans.
+[10:06 --> 10:10] 1,500 men of the aristocracy he considered to be enemies
+[10:10 --> 10:15] and therefore now enemies of the state. He announced rewards for killing or
+[10:15 --> 10:18] capturing the prescribed among whom were 40 senators.
+[10:19 --> 10:22] In the reign of terror that followed the murderous frenzy
+[10:22 --> 10:27] ultimately engulfed some 9,000 men women and children.
+[10:27 --> 10:31] Most of whom had nothing to do with the rivalry between Marius and Sulla at
+[10:31 --> 10:33] all. Have you had your eye on your
+[10:33 --> 10:36] neighbor's house for a while? Want to get out from under a
+[10:36 --> 10:39] crushing debt? Want to bury a business rival? Well
+[10:39 --> 10:44] here's your chance. Just accuse your chosen victim of marian sympathies
+[10:44 --> 10:47] and voila your personal beef now becomes state policy.
+[10:48 --> 10:52] The killing went on for months and all of Rome lived in fear of waking up
+[10:52 --> 10:56] and finding their names on the prescribed list either for real
+[10:56 --> 11:00] or imagined reasons. In a fun twist there was also nowhere for the
+[11:00 --> 11:04] condemned to turn as harboring the prescribed was itself a capital crime.
+[11:05 --> 11:09] One young man in particular found himself in this unenviable position
+[11:09 --> 11:12] by virtue of having married the daughter of Sina.
+[11:13 --> 11:17] Young Julius Caesar hid out for months hopping from house to house
+[11:17 --> 11:20] sheltered by pro-Sulla relatives who begged the new dictator
+[11:20 --> 11:25] to allow the young man to live. Sulla eventually relented to their
+[11:25 --> 11:28] entreaties but with famous reluctance. Sulla
+[11:28 --> 11:30] could see that the ambitious young noble was dangerous.
+[11:30 --> 11:35] In Caesar Sulla said he saw many a Marius.
+[11:36 --> 11:41] But with his stranglehold on power now secure Sulla set out on the reforms he
+[11:41 --> 11:45] had been planning all along. A true conservative Sulla had watched
+[11:45 --> 11:48] the transfer of power from the senate to the tribunate
+[11:48 --> 11:52] with disgust. Marius the greatest of the new men
+[11:52 --> 11:54] had been a patron saint of the unwashed masses.
+[11:55 --> 11:58] Sulla aimed to restore the natural order of things and put the senate
+[11:58 --> 12:04] back in the driver's seat. Among the myriad statutory revisions he was able to
+[12:04 --> 12:08] enact by fiat Sulla stripped the tribunate of all
+[12:08 --> 12:11] the power it had acquired since the first secession of the plebs.
+[12:12 --> 12:16] He abolished their right to veto legislation. He abolished their right to
+[12:16 --> 12:19] introduce legislation without senate approval and then
+[12:19 --> 12:23] he doubled the ranks of the senate packing it with supporters to ensure
+[12:23 --> 12:26] that no legislation was approved that did not have Sulla's personal
+[12:26 --> 12:30] favor. As a final blow to the once prestigious
+[12:30 --> 12:33] office he declared that a man elected tribune
+[12:33 --> 12:37] was barred from running for any other public office for the rest of his life.
+[12:38 --> 12:41] Ambitious men were immediately diverted away from the tribunate
+[12:41 --> 12:44] as a stepping stone of power leaving the office deprived
+[12:44 --> 12:49] of both talent and power exactly how Sulla wanted it.
+[12:50 --> 12:53] But where would all those ambitious men go? Well
+[12:53 --> 12:57] according to Sulla's new order of things they would enter into the recently
+[12:57 --> 13:01] codified cursus honorum literally translating into
+[13:01 --> 13:05] the course of honor. Prior to Sulla the path to the consulship
+[13:05 --> 13:09] had had its traditional steps but nothing was written in stone.
+[13:09 --> 13:13] Sulla decided now was the time to literally write the steps in stone.
+[13:14 --> 13:18] In part to ensure that the eventual leaders of Rome had the requisite
+[13:18 --> 13:21] experience necessary to handle the responsibilities
+[13:21 --> 13:24] of state. But also in part because he wanted to
+[13:24 --> 13:27] draw out the process. A certain ambitious 24 year old
+[13:27 --> 13:30] general named Pompey was already beginning to fancy himself
+[13:30 --> 13:34] one of Rome's leading men so Sulla moved the consulship
+[13:34 --> 13:37] by law at least 15 years in Pompey's future.
+[13:40 --> 13:43] The new path to power would start with at least 10 years of military
+[13:43 --> 13:46] experience beginning when a man was 20 years old
+[13:46 --> 13:49] and eligible to hold the office of military tribune.
+[13:49 --> 13:53] A quasi-political leadership position within the legions.
+[13:53 --> 13:56] At 30 a man could stand for election as a questor
+[13:56 --> 14:00] where they would serve either in Rome's financial institutions or as high
+[14:00 --> 14:03] ranking aides out in one of the provinces.
+[14:03 --> 14:07] Questors were the keepers of the money overseeing both military pay
+[14:07 --> 14:11] and the state treasuries and as such found themselves at the center
+[14:11 --> 14:14] of every important political battle as all political battles
+[14:14 --> 14:19] are ultimately about money. If they survived the cutthroat world of
+[14:19 --> 14:23] high finance a man could stand for a dial at the age of
+[14:23 --> 14:26] 36. The a dials were in charge of Rome's
+[14:26 --> 14:30] public infrastructure the food and water the public temples
+[14:30 --> 14:35] the sewers and the roads of critical importance for securing
+[14:35 --> 14:38] long-term public support the a dials were also in charge of
+[14:38 --> 14:41] the public games. A man could make a good name for
+[14:41 --> 14:44] himself throwing lavish games though in the process
+[14:44 --> 14:48] it was easy to go broke and one might find it necessary
+[14:48 --> 14:50] to forge an alliance with a wealthy benefactor.
+[14:52 --> 14:56] The a dial ship was not a required step but it afforded the first opportunity
+[14:56 --> 14:59] for a man to become well known to the general public.
+[15:00 --> 15:03] At 39 if he had not gone broke entertaining the masses
+[15:03 --> 15:08] one could become a praetor of whom six were to be elected each year.
+[15:09 --> 15:13] The praetors functioned primarily as judges overseeing Rome's complicated
+[15:13 --> 15:17] judiciary but they could be assigned to lead armies or provinces
+[15:17 --> 15:20] and would in the absence of a consul hold imperium
+[15:20 --> 15:24] granting them the final word in law and order life and death.
+[15:26 --> 15:28] The final step was of course the consulship
+[15:28 --> 15:32] the minimum age to hold this highest office was 42.
+[15:33 --> 15:36] You'll notice that the higher you ascend up the ladder the fewer slots
+[15:36 --> 15:40] there are available at the next rung. If six patricians are all
+[15:40 --> 15:44] elected praetor at the age of 39 only two of those will be able to win
+[15:44 --> 15:50] the consulship at the age of 42. Thus it became highly prestigious to
+[15:50 --> 15:54] attain the next office quote in your year. Cicero would often
+[15:54 --> 15:58] point to having achieved every office of the cursus honorum
+[15:58 --> 16:01] in his year as one of his proudest accomplishments.
+[16:03 --> 16:07] Now obviously not every man could pass through the entirety of this course
+[16:07 --> 16:11] and one might be tempted to say hang out in the quester ships for a while
+[16:11 --> 16:14] and build a base of power by controlling the purse strings.
+[16:15 --> 16:19] To prevent this though Sulla again brought to bear the often enacted
+[16:19 --> 16:22] but often ignored statute that a man must wait 10 years
+[16:22 --> 16:26] before holding the same office again. He also threw in the caveat
+[16:26 --> 16:30] that the year after holding a particular office the official in
+[16:30 --> 16:33] question must spend a year in the provinces as a pro praetor
+[16:33 --> 16:38] or a pro consul or what have you. The intent here is
+[16:38 --> 16:41] obvious to physically remove the previous year's office holder from
+[16:41 --> 16:43] the city of Rome to prevent them from further
+[16:43 --> 16:47] cultivating any relationships they had acquired while in office.
+[16:48 --> 16:52] Sulla hoped that his reforms would put a stop to ambitious men
+[16:52 --> 16:55] skipping ahead in line or building independent bases of support
+[16:55 --> 16:58] from which they could launch attacks on the senate and the
+[16:58 --> 17:02] republican general. Sulla honestly believed that he had
+[17:02 --> 17:07] made his own career an institutional impossibility and hoped to be
+[17:07 --> 17:09] the only dictator for life Rome ever saw.
+[17:11 --> 17:16] And speaking of dictator for life in 80 BC believing that he had set the
+[17:16 --> 17:20] ship of Rome on a safer course by re-empowering the senate, Sulla
+[17:20 --> 17:23] announced that he would be stepping down from his office at the end of
+[17:23 --> 17:25] the year and normal consular elections would resume.
+[17:26 --> 17:32] It was a decision that came as a shock to the entire empire and a
+[17:32 --> 17:36] be able to fully wrap his head around often mocking Sulla in later years for
+[17:36 --> 17:40] not realizing what he had had and for his naivety in
+[17:40 --> 17:43] believing that Rome had seen the last of its absolute dictators.
+[17:45 --> 17:49] Sulla was not quite ready for retirement though and decided to stand
+[17:49 --> 17:54] for election as consul the next year and was of course elected. But
+[17:54 --> 17:56] after this year in legitimate office was complete
+[17:56 --> 18:00] he really did retire to his country villa where he worked on his
+[18:00 --> 18:05] autobiography intended to his garden leaving public life behind for good.
+[18:07 --> 18:11] Sulla was a complicated man and his peaceful stepping away from power
+[18:11 --> 18:15] tells us as much about his character as his violent seizure of power a few
+[18:15 --> 18:19] years previously does. The bloodthirsty tyrant who had
+[18:19 --> 18:21] overseen the mass murderer of over 9 000 people
+[18:21 --> 18:26] was also the humble old man who had given up power to retire in peace.
+[18:27 --> 18:31] Clearly there is no putting a box around Sulla he remains a singular figure
+[18:31 --> 18:37] in world history. He died in 78 BC and his gravestone was marked by an
+[18:37 --> 18:40] epitaph he wrote himself summing up his life as well as
+[18:40 --> 18:43] anything anybody else could possibly say would.
+[18:44 --> 18:49] No greater friend no worse enemy seems to say at all.
+[18:50 --> 18:54] Sulla saw himself as a champion of the old order and believed that he
+[18:54 --> 18:58] left Rome with the institutional tools it needed to prolong the republic
+[18:58 --> 19:01] indefinitely. The senate was back in charge the
+[19:01 --> 19:06] populist demagogues were silenced and ambitious men were no longer able to
+[19:06 --> 19:10] circumvent the traditional path to power nor remain in power past their
+[19:10 --> 19:14] single year in office. But of course all the revised
+[19:14 --> 19:17] statutes in the world could not distract from the very
+[19:17 --> 19:20] fact of his life and career. The last vestiges of the old
+[19:20 --> 19:23] public in virtue had been stripped away by his dictatorship
+[19:23 --> 19:27] and all that remained was naked power to be acquired
+[19:27 --> 19:32] by any means necessary. Most of Sulla's constitutional reforms
+[19:32 --> 19:36] would be repealed within a decade of his death and within three decades
+[19:36 --> 19:40] Rome would be engulfed in a war between the men who looked at Sulla's
+[19:40 --> 19:42] career and asked themselves as Pompey did
+[19:42 --> 19:45] If Sulla could, why not me?

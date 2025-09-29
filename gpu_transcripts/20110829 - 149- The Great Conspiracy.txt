@@ -1,0 +1,320 @@
+# 20110829 - 149- The Great Conspiracy
+# Detected language: en
+# Duration: 1581.56 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:16] Hello, and welcome to the History of Rome, Episode 149, The Great Conspiracy.
+[00:16 --> 00:21] Last time, we focused mostly on the brief revolt of Procopius, the last man to wave
+[00:21 --> 00:23] Constantine's banner.
+[00:23 --> 00:29] After his defeat in May of 365, the torrent of history would blindly rush on, and the
+[00:29 --> 00:35] combined Valentinian-Theodosian dynasty would supplant the Constantinian dynasty as the
+[00:35 --> 00:38] ruling family of the Roman Empire.
+[00:38 --> 00:43] With Valens now secure on the throne in the east, this week I want to focus on Valentinian's
+[00:43 --> 00:49] problems in the west, of which there were two main centers of action.
+[00:49 --> 00:54] The first was the ongoing and frustrating campaign against the Alamani on the upper
+[00:55 --> 01:00] And the second was the short-lived but very nearly catastrophic war on the island of
+[01:00 --> 01:03] Britain.
+[01:03 --> 01:06] Valentinian thought that he was only going to have to deal with the former, but in the
+[01:06 --> 01:12] winter of 367, completely out of nowhere, the northernmost reaches of the empire were
+[01:12 --> 01:18] overwhelmed all at once by old adversaries like the Picts and the Franks, and new adversaries
+[01:18 --> 01:21] like the Saxons.
+[01:21 --> 01:27] The simultaneous assault was clearly a coordinated effort between these otherwise disparate tribes,
+[01:27 --> 01:33] and it took the northern Roman command completely by surprise.
+[01:33 --> 01:36] Though for a time the barbarians held the initiative and control of Britain was suddenly
+[01:36 --> 01:42] in doubt, the main upshot of the war was that it brought the Theodosians to the forefront
+[01:42 --> 01:50] of imperial politics and paved the way for their entry into the ruling dynasty.
+[01:50 --> 01:55] The trouble in Britain likely began as a result of simple neglect.
+[01:55 --> 02:01] The last time the island was really a top-level priority was way back when, prior to the creation
+[02:01 --> 02:06] of the Tetrarchy, when Cerocious revolted.
+[02:06 --> 02:09] Constantine later paid a decent amount of attention to the island because of his own
+[02:09 --> 02:15] personal ties to the province, but once he was gone, his sons essentially left the Britons
+[02:15 --> 02:17] to their own devices.
+[02:17 --> 02:22] So for a generation at least, a sort of decaying inertia took over.
+[02:22 --> 02:26] The Roman administration had become one part lazy and one part corrupt.
+[02:26 --> 02:31] The Roman soldiers were far removed from the main action of the fourth century, and so
+[02:31 --> 02:36] had no access to the kind of bonuses and donatives enjoyed by other legions.
+[02:36 --> 02:41] The local citizens were just sort of going through the motions, too Romanized to be considered
+[02:41 --> 02:46] wild natives, but not Romanized enough to really love the imperial bureaucrats who ruled
+[02:47 --> 02:54] And finally, trade across the English Channel, the lifeblood of the Romano-British economy,
+[02:54 --> 02:59] was frequently disrupted by opportunistic Franks or Saxons, a new confederation that
+[02:59 --> 03:01] we'll get to in a second.
+[03:01 --> 03:09] The whole thing had just become stagnant, unhappy, and unprofitable.
+[03:09 --> 03:15] Unfortunately for us, really good details about who started talking to who, when, and
+[03:15 --> 03:18] why, are lacking in the historical record.
+[03:18 --> 03:22] But it appears that a few of the leaders from a few of the different tribes surrounding
+[03:22 --> 03:27] Britannia looked at the state of the province and saw a golden opportunity.
+[03:27 --> 03:32] The barbarian leaders calculated that with the imperial apparatus as atrophied as it
+[03:32 --> 03:38] was, if it was hit from multiple sides all at once, the chances of it cracking completely
+[03:38 --> 03:41] were likely pretty high.
+[03:41 --> 03:45] Then it would just be a matter of marching around and picking up whatever you wanted
+[03:45 --> 03:48] and carting at home.
+[03:48 --> 03:53] This sounded like a pretty good idea to a lot of different people, and so using whatever
+[03:53 --> 03:58] channels they used to communicate, the Picts up in Caledonia, some tribes from over on
+[03:58 --> 04:04] Hibernia, Ireland to you and me, the Franks down on the northern continental coast, and
+[04:04 --> 04:10] the Saxons from over near the Jutland, agreed to simultaneously invade Britannia.
+[04:10 --> 04:14] The assumption was that the Romans would not at all be prepared for that kind of coordinated
+[04:14 --> 04:21] offensive, and even though assumptions usually make an ass out of you and me, this time the
+[04:21 --> 04:24] assumption was spot on.
+[04:24 --> 04:31] The Romans were not at all prepared for that kind of coordinated assault.
+[04:31 --> 04:37] But before we get into the guts of this thing, I do want to formally introduce the Saxons.
+[04:37 --> 04:42] Though in the end they are a comparatively minor player in the history of Rome, in the
+[04:42 --> 04:47] history of the world they are a pretty big deal, as they formed a key part of the German
+[04:47 --> 04:53] migration that swept into Britain following the collapse of the Empire, helping to establish
+[04:53 --> 04:58] the foundations of modern Anglo-Saxon Britain in the process.
+[04:58 --> 05:03] In the 300s AD though, they were little more than a loose collection of German tribesmen
+[05:03 --> 05:07] who lived at the base of the Jutland, the Danish peninsula that sticks out of the top
+[05:07 --> 05:11] of mainland Europe like a little periscope.
+[05:11 --> 05:16] Much less organized than the Franks or the Alamani, scholars are none too confident about
+[05:16 --> 05:21] what exactly makes a Saxon a Saxon at this point in history.
+[05:21 --> 05:26] But references to pirate bands bearing that name begin to pop up during Julian Scalic
+[05:26 --> 05:32] campaign and it is clear that some group identified as Saxon played a major role in the barbarian
+[05:32 --> 05:37] conspiracy that we are about to dive into.
+[05:37 --> 05:43] On a side note, it is possible that it was primarily Saxon piracy that led the Romans
+[05:43 --> 05:48] to develop the so-called Saxon shore military district, which was a string of military forts
+[05:48 --> 05:53] on the southern coast of Britain unified under a single command.
+[05:53 --> 05:58] That said, some have argued that the network was actually set up by Corocius during his
+[05:58 --> 06:04] revolt to defend the island against Maximian and Constantius, and others have argued that
+[06:04 --> 06:09] the term Saxon shore actually refers to the fact that the area was heavily settled by
+[06:09 --> 06:15] the Saxons, not because these forts were designed to repel them.
+[06:15 --> 06:20] Either way, the fortification network was likely up and running as a single command
+[06:20 --> 06:29] at this point in our story, and they were absolutely, completely, and totally ineffective.
+[06:29 --> 06:33] I have seen it reported in a number of different places that the coordinated invasion of Britannia
+[06:33 --> 06:39] began when the Picts bribed the garrison guarding Hadrian's Wall to let them pass, but I can't
+[06:39 --> 06:45] figure out exactly where this detail is coming from since neither Zosimus nor Marcellinus
+[06:45 --> 06:47] mentions it.
+[06:47 --> 06:52] It is certainly a plausible detail since both historians explicitly state that deserting
+[06:52 --> 06:57] soldiers were as big a problem as foreign barbarians during the next year, and I can
+[06:57 --> 07:03] definitely see members of the Hadrian's Wall garrison having now committed some light treason
+[07:03 --> 07:08] simply abandoning their posts after letting the Picts through.
+[07:08 --> 07:12] But I can't nail down a source for this fun little nugget, and so I don't want to say
+[07:12 --> 07:14] that this is how it happened.
+[07:14 --> 07:19] If anyone knows where this is coming from, though, by all means, drop me a line.
+[07:19 --> 07:25] Because all I have in the way of detail right now is that in early 367, Britannia was overwhelmed
+[07:25 --> 07:28] from all sides by barbarian raiders.
+[07:28 --> 07:35] And so, that's as far as I'm willing to go right now.
+[07:35 --> 07:39] Once the barbarians were inside the province, though, there is no confusion about how things
+[07:39 --> 07:42] went from there.
+[07:42 --> 07:46] Hit by surprise from all sides, the Roman defenses crumbled.
+[07:46 --> 07:50] The commander of the Saxon shore military district was killed when the first wave of
+[07:50 --> 07:53] Franks and Saxons hit the southeast coastline.
+[07:53 --> 07:58] The Picts who poured down from Caledonia and the tribesmen who crossed over from Hibernia
+[07:58 --> 08:05] met no real resistance, and everywhere Roman garrisons were put to flight.
+[08:05 --> 08:10] Most of the cities of the province were unable to fend off the invaders and were easily sacked,
+[08:10 --> 08:16] including a wave of refugees, runaway slaves, and deserted soldiers, all roaming the countryside
+[08:16 --> 08:21] seeking safety, freedom, or plunder.
+[08:21 --> 08:25] Leading imperial officials left on the island gathered what forces they could in the southeast
+[08:25 --> 08:30] corner of the island, where they holed up in a few of the larger cities.
+[08:30 --> 08:36] Outside of these few urban holdouts, though, anarchy reigned across the island, as roving
+[08:36 --> 08:42] bands of varying size and purpose wandered around plundering, raping, and killing whatever
+[08:42 --> 08:47] struck their fancy.
+[08:47 --> 08:51] Had there been any sort of larger purpose to the invasion, or any sort of coordinated
+[08:51 --> 08:57] political agenda to go along with the initial coordinated attack, this might have spelled
+[08:57 --> 09:00] the end for the Romans in Britain.
+[09:00 --> 09:05] After all, trade lines to the island had become harder and harder to protect over the years,
+[09:05 --> 09:09] and with the empire facing huge problems elsewhere, the province of Britannia, like
+[09:09 --> 09:16] Dacia before it, might have become a casualty of prioritization.
+[09:16 --> 09:20] But it appears that there was no larger purpose to the invasion.
+[09:20 --> 09:24] Not only were the various tribes not at all united politically, none of them appeared
+[09:24 --> 09:28] to even have a political agenda of their own.
+[09:28 --> 09:34] This was not a war of liberation for the Picts, or a war of conquest for the Franks.
+[09:34 --> 09:38] This was plundering for plunderings' sake.
+[09:38 --> 09:42] And so, the Romans were eventually able to reassert control over the island and hold
+[09:42 --> 09:45] on to it for at least a little while longer.
+[09:45 --> 09:51] However, in less than fifty years, the Romans will indeed withdraw from Britain for good,
+[09:51 --> 09:58] leaving the island to King Arthur and his Knights of the Round Table.
+[09:58 --> 10:03] Events up in the north unfolded so rapidly that Valentinian was essentially presented
+[10:03 --> 10:07] with a large-scale fate accompli.
+[10:07 --> 10:12] Not the barbarians are attacking our forts in Britannia, not we are losing ground, not
+[10:12 --> 10:19] oh, we've lost control of some territory, but rather Britannia is completely overrun.
+[10:19 --> 10:24] We are trapped behind the walls of like three cities and probably aren't going to be able
+[10:24 --> 10:27] to hold out much longer.
+[10:27 --> 10:31] You'll recall from last week that Valentinian was in the middle of organizing an invasion
+[10:31 --> 10:33] of his own.
+[10:33 --> 10:37] But when the first reports started filtering down from the north, he was forced to break
+[10:37 --> 10:41] off what he was doing and turn his attention to the problem of Britannia.
+[10:41 --> 10:46] Well, at least break off some of the forces he was gathering and turn their attention
+[10:46 --> 10:51] to the problem of Britannia.
+[10:51 --> 10:56] As he had shown in his dealings with the Alamani, Valentinian's MO early in his reign appears
+[10:56 --> 11:01] to have been to send subordinate commanders to actually lead the Roman field armies into
+[11:01 --> 11:04] dicey situations.
+[11:04 --> 11:09] In preparation for future episodes, I've been reading up on Theodosius lately, and I think
+[11:09 --> 11:14] something that someone mentioned about Theodosius' military political strategy during the Gothic
+[11:14 --> 11:17] War applies to Valentinian as well.
+[11:17 --> 11:23] Namely, that since military defeat would have been a crushing blow to the emperor's legitimacy
+[11:23 --> 11:28] if he was actually there in person, there emerged a tendency to let subordinates actually
+[11:28 --> 11:31] fight the battles.
+[11:31 --> 11:36] Defeateries could be easily claimed by the emperors, as was the accepted custom, but
+[11:36 --> 11:41] defeat could be fobbed off on the losing general.
+[11:41 --> 11:46] In a chaotic and dangerous time, this strategy was not merely in the best interest of the
+[11:46 --> 11:52] emperor personally, but it was in the best interest of the empire as a whole.
+[11:52 --> 11:56] Stability at the top of the political pyramid has real value.
+[11:56 --> 12:01] By not risking defeat, the emperors ensured that there would be no crisis of political
+[12:01 --> 12:07] legitimacy to go along with some crisis of military defeat.
+[12:07 --> 12:12] As we will soon see, this strategy was not as completely entrenched as it would become
+[12:12 --> 12:22] during the Byzantine era, but it was working its way into the imperial fabric.
+[12:22 --> 12:27] As when the Alamani crossed the Rhine in 365, it took a little while for Valentinian
+[12:27 --> 12:32] to find a commander whose victory he could take credit for in Britain, rather than a
+[12:32 --> 12:38] commander whose defeat he needed to distance himself from.
+[12:38 --> 12:43] Responding immediately to the calls for help, Valentinian dispatched an officer named Severus,
+[12:43 --> 12:48] who had distinguished himself already as one of the generals who couldn't push back the
+[12:49 --> 12:53] in the winter of 365-366.
+[12:53 --> 12:58] The hope, I suppose, is that this would be an easier job and not require the same degree
+[12:58 --> 13:04] of no, no, it was a hard job, and Severus once again failed to get any kind of coherent
+[13:04 --> 13:07] relief effort going.
+[13:07 --> 13:15] So, likely in the spring of 367, Valentinian upped the ante and dispatched Jovinus, the
+[13:15 --> 13:21] who had eventually gotten the better of the Alamani the year before, but he too floundered
+[13:21 --> 13:25] in his attempt to get a foothold on the anarchic island.
+[13:25 --> 13:31] We don't have many details, but all of 367 AD appears to have been dogged by repeated
+[13:31 --> 13:36] failures and embarrassments for the Romans.
+[13:36 --> 13:41] Hoping that the third time would be the charm, in the spring of 368 Valentinian sent off
+[13:41 --> 13:46] a much larger relief army under the command of a highly regarded veteran officer named
+[13:46 --> 13:47] Theodosius.
+[13:47 --> 13:56] No, not that Theodosius, that Theodosius' father.
+[13:56 --> 14:00] Not much is known about the elder Theodosius, but we do know that he and his family hailed
+[14:00 --> 14:06] from Spain, and that like most of the Christians in Hispania, he was a staunch supporter of
+[14:06 --> 14:08] the Nicene Creed.
+[14:08 --> 14:15] He was married around 340, and in either 346 or 347, his wife gave birth to the future
+[14:15 --> 14:16] emperor Theodosius.
+[14:16 --> 14:22] Though, of course, it would be over 30 years before anyone realized that the younger Theodosius
+[14:22 --> 14:28] had in fact been future emperor Theodosius the whole time.
+[14:28 --> 14:34] The elder Theodosius probably joined the army at some point in his late teens or early twenties,
+[14:34 --> 14:39] and displayed enough talent to earn promotion after promotion.
+[14:39 --> 14:43] By the time the Roman response to the barbarian invasion of Britain was proving to be completely
+[14:43 --> 14:52] ineffective, Theodosius was in his mid-forties and ready to make the leap into the big time.
+[14:52 --> 14:59] So as I just said, in the spring of 368, Valentinian tapped Theodosius to lead another larger relief
+[14:59 --> 15:04] army north to secure the troubled province of Britannia.
+[15:04 --> 15:08] It was the kind of assignment that could make or break a career, and Theodosius took
+[15:08 --> 15:11] his job seriously.
+[15:11 --> 15:14] He was not heading north just to knock a few heads around.
+[15:14 --> 15:21] He was also interested in making sure this sort of thing didn't happen again.
+[15:21 --> 15:26] The relief army sailed from Boulogne and landed without incident on the southeast tip of Britain,
+[15:26 --> 15:30] and then marched up the Thames to Londinium.
+[15:30 --> 15:39] Establishing a secure base in that city, Theodosius then set about methodically retaking the island.
+[15:39 --> 15:44] Working in his favor was the fact that after a year of successful plundering, the various
+[15:44 --> 15:48] raiding parties had become lax with their guard, and were weighed down by all their
+[15:48 --> 15:51] captured treasure.
+[15:51 --> 15:55] So when Theodosius split his army up into small groups, and ordered them to scour the
+[15:55 --> 16:02] countryside looking for enemy raiders, these raiders were now easily captured.
+[16:02 --> 16:07] Once the immediate area around Londinium was cleared, Theodosius used intelligence gleaned
+[16:07 --> 16:13] from his prisoners to extend these operations to the whole island.
+[16:13 --> 16:18] Relying on small mobile detachments rather than a large field army, the Romans were able
+[16:18 --> 16:24] to travel light, travel fast, and surprise enemy bands anytime their whereabouts became
+[16:24 --> 16:29] known.
+[16:29 --> 16:35] Pretty soon the tide had turned in Rome's favor, allowing Theodosius to pull a completely
+[16:35 --> 16:39] different rabbit out of his hat.
+[16:39 --> 16:44] While lawlessness reigned, Roman soldiers who had deserted their posts had no incentive
+[16:44 --> 16:48] to abandon their own plundering and return to the army.
+[16:48 --> 16:51] All that would be waiting for them was execution.
+[16:52 --> 16:56] Desertion, after all, was a capital crime.
+[16:56 --> 17:01] But now that Theodosius was making headway, these soldiers began to worry about what might
+[17:01 --> 17:04] happen to them if they were captured.
+[17:04 --> 17:11] So when things started going well, Theodosius alleviated these fears, and announced a general
+[17:11 --> 17:14] amnesty for AWOL soldiers.
+[17:14 --> 17:19] With the party pretty clearly winding down anyway, the AWOL soldiers flocked back to
+[17:19 --> 17:25] their bases, which had the dual effect of reducing the number of pillagers in the field
+[17:25 --> 17:29] and increasing the number of troops in the Roman army.
+[17:29 --> 17:36] With that stroke of lenient genius, the ballgame was pretty much over.
+[17:36 --> 17:42] Over the course of 368 and into 369, Theodosius was able to regarrison all the cities of Britain
+[17:42 --> 17:47] and drive off whatever barbarians remained on the island.
+[17:47 --> 17:52] Most of the wealth that had been seized was recovered, and though Theodosius was careful
+[17:52 --> 17:57] to make sure the majority of it went back to the original owners, he was also careful
+[17:57 --> 18:01] to make sure that some of it was directed to his soldiers, who had done the dangerous
+[18:01 --> 18:05] work of actually getting it back.
+[18:05 --> 18:12] By the end of 369, Britannia was at peace, Theodosius was a bona fide hero, and Valentinian
+[18:12 --> 18:16] had a victory that he could finally take credit for.
+[18:16 --> 18:23] Happy days for everyone.
+[18:23 --> 18:28] Though the war in Britain had stalled Valentinian's plans for a punitive expedition into Alamanni
+[18:28 --> 18:34] territory in 367, that by no means meant that the expedition was going to be put off for
+[18:34 --> 18:36] good.
+[18:36 --> 18:42] But that said, the emperor did come perilously close to never being able to actually lead
+[18:42 --> 18:49] this campaign, because in the summer of 367 he got sick, really, really sick, so sick
+[18:50 --> 18:55] that there was genuine fear that he was going to die.
+[18:55 --> 19:00] With these fears haunting the imperial court, factions began to form around the top military
+[19:00 --> 19:06] and civilian officials, who naturally began to jockey for position.
+[19:06 --> 19:11] Should Valentinian die, everyone wanted to make sure that their man was the man picked
+[19:11 --> 19:15] to succeed him.
+[19:15 --> 19:20] When the emperor recovered, though, he found out about all of this morbid maneuvering,
+[19:20 --> 19:25] and decided to put a stop to all questions of succession once and for all.
+[19:25 --> 19:31] In August of 367 AD, he elevated his eight-year-old son not to the rank of Caesar, but to the
+[19:31 --> 19:37] full rank of Augustus, and began to make a concerted effort to give the boy the skills
+[19:37 --> 19:42] he would need to survive in the dangerous world of imperial politics.
+[19:42 --> 19:49] Meanwhile, the Alamani were getting restless.
+[19:49 --> 19:53] Since they had been driven back home, they had been waiting nervously for the counter-invasion
+[19:53 --> 20:00] everyone knew was coming, but then the counter-invasion just sort of didn't happen.
+[20:01 --> 20:05] Between the war in Britain and the emperor's illness, the Romans had stayed put on their
+[20:05 --> 20:10] side of the Rhine, and so the Alamani poked their heads up and decided to see what the
+[20:10 --> 20:12] deal was.
+[20:12 --> 20:18] By the end of 367, the Germans decided that the coast might actually be clear, and so
+[20:18 --> 20:23] they up-and-sacked the fortified city of Mainz.
+[20:23 --> 20:27] Valentinian's blood had to be boiling at this point, but there was little he could
+[20:27 --> 20:30] do about it just yet.
+[20:30 --> 20:35] He did, however, manage to exact a small measure of vengeance by arranging for the assassination
+[20:35 --> 20:39] of one of the leading anti-Roman Alamani kings.
+[20:39 --> 20:43] That was at least something.
+[20:43 --> 20:50] In the spring of 368, Valentinian was finally ready to do a whole lot more.
+[20:50 --> 20:55] Probably right around the time Theodosius was setting off for Britain, the emperor personally
+[20:55 --> 21:00] led the Rhine legions across the river to pay the Alamani back for all the trouble they
+[21:00 --> 21:03] had caused him.
+[21:03 --> 21:07] This time, he would not be delegating the job to subordinates.
+[21:07 --> 21:13] Like I said, the policy of utilizing subordinate generals to do the actual fighting was not
+[21:13 --> 21:15] completely entrenched yet.
+[21:15 --> 21:21] And besides, this was supposed to be a stomp-and-mash campaign against a weakened opponent, not
+[21:21 --> 21:27] a by-the-skin-of-the-teeth attempt to turn back an enemy who had momentum.
+[21:27 --> 21:32] But though it started out as the bloody walk in the park it was supposed to be, it quickly
+[21:32 --> 21:38] turned into one of those by-the-skin-of-their-teeth campaigns that very nearly cost Valentinian
+[21:38 --> 21:44] not just his throne, but his life.
+[21:44 --> 21:49] With his son Gratian along for the ride, things started out well for the Romans.
+[21:49 --> 21:54] The Alamani were quick to run and hide whenever the legions came near and Valentinian seized
+[21:54 --> 21:57] or burned whatever the Germans left behind.
+[21:57 --> 21:59] So far, so good.
+[21:59 --> 22:03] This will teach him to mess with us, etc., etc.
+[22:03 --> 22:08] But then suddenly, a little bit south of the modern city of Heidelberg, the Alamani grouped
+[22:08 --> 22:12] for a massive counterattack.
+[22:12 --> 22:17] We know almost nothing about the ensuing battle except that it was a huge affair, closely
+[22:17 --> 22:22] contested until the very end, and that in the midst of the chaos, Valentinian was very
+[22:22 --> 22:26] nearly killed in the fighting.
+[22:26 --> 22:30] The Romans emerged from the battle victorious, but the Emperor determined that they were
+[22:30 --> 22:33] too weak to continue the campaign.
+[22:33 --> 22:38] With both sides exhausted, a temporary truce was agreed to, and Valentinian withdrew to
+[22:38 --> 22:44] Trier to recuperate and plan his next move.
+[22:44 --> 22:50] Far from pursuing a policy of peaceful coexistence though, Valentinian's next move would all
+[22:50 --> 22:54] but guarantee that as soon as everyone's wounds were healed up, that the fighting would
+[22:54 --> 23:01] begin all over again.
+[23:01 --> 23:06] Before we go this week, I'd like to take a second to revise and extend my remarks about
+[23:06 --> 23:09] Valentinian's early career.
+[23:09 --> 23:15] The whole period is a mess of confused chronology and conflicting details, and I inadvertently
+[23:15 --> 23:21] missed a whole alternate version of Valentinian's pre-imperial service.
+[23:21 --> 23:27] This version is based primarily on Ammianus Marcellinus' account, which states that Valentinian
+[23:27 --> 23:33] was not promoted into Constantius' army around 360 AD, but rather that he was discharged
+[23:33 --> 23:38] from the service in 357 AD after being falsely accused of cowardice.
+[23:38 --> 23:39] Cowardice?
+[23:39 --> 23:40] Really?
+[23:40 --> 23:43] Yes, really.
+[23:43 --> 23:47] Remember that band of Germans that Barbatio had failed to stop while Julian was campaigning
+[23:47 --> 23:48] in Gaul?
+[23:49 --> 23:57] Well, he pinned all of that on two of his tribunes, one of whom turned out to be Valentinian.
+[23:57 --> 24:01] This version of history thus implies that the future emperor did not in fact fight at
+[24:01 --> 24:07] the Battle of Strausburg, like I said he likely did.
+[24:07 --> 24:12] Beyond this, Walter Roberts of Emory University argues that Valentinian was not recalled to
+[24:12 --> 24:18] the army by his old general Julian at all, and that the future emperor was only reinstated
+[24:18 --> 24:22] to service after Jovian was in power.
+[24:22 --> 24:27] According to this version, Valentinian was then assigned to the somewhat dangerous mission
+[24:27 --> 24:33] of telling the troops of the Western Empire that their beloved Julian was dead.
+[24:33 --> 24:38] It was in gratitude for this service that Jovian promoted Valentinian to his fateful
+[24:38 --> 24:42] post in Enchira.
+[24:42 --> 24:46] From there, I think we got back on firmer footing.
+[24:46 --> 24:51] These are minor details in the big picture, but if it's true, then this version does
+[24:51 --> 24:56] undercut some of what I said about Julian not caring that his officers were Christian
+[24:56 --> 24:58] so long as they were good at their jobs.
+[24:58 --> 25:05] I think the point still stands, but Valentinian may not have been the best example to use.
+[25:05 --> 25:12] Okay, next week we'll dive more into the now perpetually chaotic western half of the
+[25:12 --> 25:14] empire.
+[25:14 --> 25:18] The war with the Germans would continue as a result of Valentinian's provocations,
+[25:18 --> 25:25] and one Alamani king in particular will wind up driving the emperor absolutely crazy.
+[25:25 --> 25:31] Meanwhile, Africa will go to hell in a handbasket after years of misrule, and poor Theodosius
+[25:31 --> 25:36] the Elder, after proving himself to be one of the most capable officers in the army,
+[25:36 --> 25:43] will be executed following the sneaky dealings of sneaky courtiers.
+[25:43 --> 25:48] Like everything else during these years, events are badly dated, and who was doing what when
+[25:48 --> 25:51] is a difficult thing to nail down.
+[25:51 --> 25:55] I'm going to do my best to wade through the mess, but I reserve the right to revise and
+[25:55 --> 25:58] extend my remarks as circumstances dictate.

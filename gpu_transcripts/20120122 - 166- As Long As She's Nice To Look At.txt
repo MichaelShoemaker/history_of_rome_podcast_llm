@@ -1,0 +1,236 @@
+# 20120122 - 166- As Long As She's Nice To Look At
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:11] This week's episode is brought to you by Audible. As you know, Audible is the internet's leading provider of audio entertainment, with over 100,000 titles to choose from.
+[00:11 --> 00:20] When you're done with this episode, go to audiblepodcast.com forward slash Rome. That again, audiblepodcast.com forward slash Rome.
+[00:21 --> 00:27] By going to that address, you qualify for free book download when you sign up for a 14-day trial membership.
+[00:27 --> 00:33] There is no obligation to continue the service, and you can cancel anytime and keep the free book download.
+[00:34 --> 00:39] You can also keep going with one of the monthly subscription options, and get great deals on all future audiobook purchases.
+[00:41 --> 00:49] This week, I am going to go with a recommendation from listener Richard Eppert, At Home, A Short History of Private Life by Bill Bryson.
+[00:49 --> 00:57] A book that weaves together a history of the world through the eyes of what we do and see and experience in the places that we dwell.
+[00:59 --> 01:05] I read his Short History of Nearly Everything and enjoyed it very much because Bill Bryson is a great, engaging writer.
+[01:06 --> 01:12] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent you.
+[01:17 --> 01:26] Hello, and welcome to The History of Rome, episode 166, As Long as She's Nice to Look At.
+[01:30 --> 01:36] Last time, we left off with the starving and desperate Goths agreeing to become vassals of the Roman Empire.
+[01:36 --> 01:49] In exchange for 600,000 bushels of wheat and the release of the emperor's sister Gala Placidia, and that's Gala, not Gallia, thanks to listener Crispin for catching my random vowel insertion,
+[01:50 --> 01:56] the Goths agreed to settle where the emperor told them to settle, and fight who the emperor told them to fight.
+[01:57 --> 02:05] And by the emperor, I of course mean the de facto emperor, Constantius III, who was essentially running the Western Empire at this point in history.
+[02:07 --> 02:14] Indeed, Constantius's power and prestige will eventually reach such great heights that we will be able to drop the de facto from his title,
+[02:14 --> 02:22] as Honorius will invite the general to join him in the Imperial College as co-emperor of the Western Empire, but we'll get to that in a second.
+[02:23 --> 02:31] The land the Romans had dangled out in front of the Goths was the Gallic region of Aquitaine, just north of the Pyrenees along the Atlantic coast.
+[02:33 --> 02:39] The price for this new homeland would be the destruction of the Vandals and Alans, who still roamed free in Hispania.
+[02:41 --> 02:48] This price is instructive about the political, military, and demographic realities of the Western Empire in the 5th century.
+[02:49 --> 02:57] You'll note that the major problem in Hispania is not that barbarian elements had settled down and were drawing taxes and supplies from the local communities.
+[02:58 --> 03:04] No, the real problem was that they were doing it without having signed some kind of treaty with Ravenna.
+[03:06 --> 03:13] Over in Gaul, for example, a peace had set in not because the barbarian invaders had been sent running back across the Rhine.
+[03:13 --> 03:19] Peace had set in because those barbarian invaders had made deals with the emperor that allowed them to stay.
+[03:20 --> 03:26] Usually those deals were of the land-for-soldiers variety, but the details varied from tribe to tribe.
+[03:29 --> 03:33] So the Franks, as you know, already control most of northeast Gaul.
+[03:33 --> 03:43] The Goths are about to control a major chunk of southwest Gaul, and in between, barbarian groups large and small were settling into their new homes west of the Rhine.
+[03:44 --> 03:49] So demographically, the provinces of the Western Empire were undergoing a fairly major transformation.
+[03:51 --> 03:56] The key was that this transformation was taking place under the official auspices of the imperial government,
+[03:56 --> 04:04] which is to say that that quid pro quo was in place, land for the barbarians, soldiers for the empire.
+[04:05 --> 04:08] In Hispania, no such quid pro quo existed.
+[04:10 --> 04:12] Well, that's not entirely accurate.
+[04:13 --> 04:20] Such a quid pro quo had existed, but the deal had been struck with Maximus and Gerontius rather than Honorius and Constantius.
+[04:22 --> 04:26] So Ravenna considered the Alans and Vandals to be illegal squatters.
+[04:26 --> 04:32] And of course, it's not like the Alans and Vandals were helping their cause by diligently passing along taxes.
+[04:35 --> 04:43] The chronology is a bit muddled here, but it appears that beginning in 416, the year after he capitulated to Constantius,
+[04:43 --> 04:51] Wallia led the Goths on a campaign that saw them immediately get the better of the Alans and at least one major faction of the Vandals.
+[04:52 --> 05:02] Sometime between 416 and 417, the Alans, who had been the most powerful of the tribes in Hispania, were crushed in battle and their king was killed.
+[05:03 --> 05:13] Following up on this victory, Wallia moved against a branch of the Vandals who had settled into northern Hispania, crushing them in battle just as they had crushed the Alans.
+[05:14 --> 05:22] Reports of these victories were music to Constantius' ears, and he rewarded the Goths by granting them the lands he had promised.
+[05:23 --> 05:31] And so beginning in 417, the Goths started to migrate over to Aquitaine, the region they would call home for the rest of the century.
+[05:33 --> 05:43] It is unclear exactly how the settlement and integration of the Goths into the region played out, especially since, you know, there were people already living there.
+[05:44 --> 05:54] But most likely, the higher status Goths simply took on the role of landlord, accepting the produce of the local communities without actually displacing them from their lands.
+[05:55 --> 06:11] Meanwhile, the lower status Goths probably would have been moved onto land held by the imperial government, or onto lands that had been forfeited by nobles who, either by death or treason, had lost their deeds during the chaotic last few years.
+[06:12 --> 06:27] The arrangement wound up working to everyone's benefit, as the Goths now had a stable source of food, and because the Goths now had a stable source of food, the Romans didn't have to worry about them going off pillaging every time they got hungry.
+[06:30 --> 06:47] While Constantius waited for the Goths to settle in and catch their breath before they headed back into Hispania to finish the job, he attended to some personal business that might potentially have far-reaching consequences for the future of the imperial family and the Western Empire as a whole.
+[06:48 --> 06:59] In early 417, the Emperor Honorius announced that his finest general would be marrying his only sister, who was now free of the treacherous clutches of the Goths.
+[07:01 --> 07:12] I can only imagine that Constantius was delighted by this pairing, which made him the brother-in-law of the emperor, and, if all went right, the father of any and all heirs to the Western throne.
+[07:14 --> 07:20] Gala Placidia, on the other hand, is reported to have been none too thrilled about the prospect of marrying Constantius.
+[07:21 --> 07:27] And while the specific reasons for her resistance are all speculative, maybe she was still in love with a Tolf.
+[07:28 --> 07:33] Wherever you see the marriage mentioned, it is always noted that Placidia wed against her will.
+[07:34 --> 07:42] Which was the nice thing about being a woman in those days. You could be held captive by a horde of barbarians and forced to marry their king.
+[07:43 --> 07:51] When you are finally given your quote-unquote freedom, you are immediately forced to marry some general you don't know and probably don't like.
+[07:52 --> 07:55] The Roman world rejoiced when Gala Placidia was set free.
+[07:55 --> 08:05] How much of a difference in her condition Placidia herself saw between living with the Goths and living at the imperial court would be an interesting question to have an answer to.
+[08:06 --> 08:11] I would guess, though, that she would say that the baths were better in Ravenna.
+[08:12 --> 08:17] Nine months after the wedding, Placidia gave birth to a healthy baby girl named Honoria.
+[08:18 --> 08:25] Unlike Placidia's first child, Honoria would live through her infancy and eventually become an influential imperial princess.
+[08:27 --> 08:34] Although the Ravenna court probably could have done without her most famous intrusion into the treacherous world of international statecraft.
+[08:35 --> 08:39] Which we'll get to when we get to talking about everyone's favorite Hun.
+[08:42 --> 08:52] In the spring of 418, Constantius was ready to press on with his program of repacifying Hispania and he called upon the Goths to head back out into battle.
+[08:53 --> 08:59] However, at some point in here, it ceases to be King Wallia leading the Goths.
+[09:00 --> 09:09] It is unclear to me whether Wallia fell in battle or simply died of natural causes, but in 418 he goes away and is replaced by Theodoric.
+[09:09 --> 09:12] One of the illegitimate sons of Alaric.
+[09:13 --> 09:20] Now Theodoric, as some of you may already be aware, is not going to go the way of Atalth and Wallia.
+[09:21 --> 09:28] Leading the Goths just long enough to get his footnote in history before dying and passing the footnote on to some obscure successor.
+[09:29 --> 09:41] No, Theodoric is here to stay and will not fall for another 30 years when in 451 he will die successfully defending the Western Empire from everyone's favorite Hun.
+[09:42 --> 09:45] Thus earning himself a slightly larger footnote in history.
+[09:47 --> 09:59] Theodoric spent 418 campaigning against the remnants of the Alans and Vandals, driving the survivors south where they joined the ranks of the only major un-pacified tribe of Vandals left on the peninsula.
+[10:01 --> 10:09] These survivors pledged their loyalty to the Vandal King Gundaric, who rechristened himself Gundaric, King of the Vandals and Alans.
+[10:09 --> 10:17] This reinforced Vandal army was now the last major un-pacified barbarian tribe left in the Western Empire.
+[10:20 --> 10:24] But for whatever reason at this point, major operations in Spain appear to cease.
+[10:26 --> 10:34] Minor operations will continue for the next few years, but either because the new combined Vandal-Alan army was deemed too powerful to risk battle against,
+[10:34 --> 10:45] or because the Romans were temporarily satisfied with the territory they had already won back, for the next few years there was no major push to defeat Gundaric's Vandals.
+[10:46 --> 10:53] And by that point, the Roman high command ordering said operations looked very different from the one that had kicked off the campaign.
+[10:55 --> 11:04] Instead of pressing the offensive, the Ravenna court appears to have shifted its focus to reorganizing the provinces that had been lost but were now found.
+[11:07 --> 11:14] Specifically, Constantius convened a council that would represent the seven Gallic provinces and would meet each year in Arles.
+[11:16 --> 11:26] The point of the council was two-fold, and though these two-folds were paradoxical, they were not illogically paradoxical, if that makes any sense at all.
+[11:27 --> 11:33] On the one hand, the council was meant to give the provinces a huge amount of latitude when it came to governing themselves.
+[11:34 --> 11:43] The ability of the central authority in Ravenna to micromanage its provinces was long dead, and given the upheavals of the last decade,
+[11:43 --> 11:48] the imperial court wouldn't even know what was best for the region, let alone how to implement policy.
+[11:50 --> 11:54] Better to just bring the nobility of Gaul together and let them haggle it out for themselves.
+[11:56 --> 12:02] The bonus was the increased autonomy also lessened the risk of usurpers popping up.
+[12:02 --> 12:11] Since the wealthy landowners already had a major say in the governance of the region, there would be no reason for them to back some general who promised to protect their interests.
+[12:12 --> 12:14] Their interests were already protected.
+[12:17 --> 12:25] The paradoxical part of the fold, though, was that the council was also designed to give Ravenna an increased measure of influence over policy in Gaul.
+[12:26 --> 12:30] Because it's not like the emperor wasn't going to send his own representatives to the council.
+[12:31 --> 12:41] With every major player in Gaul in one place at one time, it would be far easier to dictate policy than it would be if everyone had to be contacted individually.
+[12:43 --> 12:51] So hopefully the imperial agents of the council would be able to direct the conversation, make the position of the emperor clear,
+[12:51 --> 13:01] and get everyone on board without having to resort to top-down commands that would alienate the nobility and lead Gaul right back into civil war.
+[13:02 --> 13:09] Gaining more control by acting less controlling. It's a pretty neat trick if you can get away with it.
+[13:12 --> 13:21] With the Western Empire slowly coalescing its way back into an orderly state, the promise of more stability to come came in 419,
+[13:22 --> 13:29] when Galla Placidia gave birth to a healthy baby boy named Flavius Placidius Valentinianus.
+[13:30 --> 13:35] The boy immediately became the heir presumptive to the throne of the Western Empire,
+[13:35 --> 13:40] and would remain as such unless Honorius planned to find himself a wife and make a baby,
+[13:41 --> 13:51] which he had shown no interest in doing since he had divorced his last wife, the daughter of Stilicho, back in 408 in the immediate aftermath of the vandal general's fall.
+[13:52 --> 13:58] For the record, I don't really know what the story is with Honorius' love life and marital arrangements,
+[13:59 --> 14:02] but it is entirely possible that the emperor was impotent.
+[14:02 --> 14:08] That is, after all, how his character and reign are usually figuratively described,
+[14:08 --> 14:13] so is it really so out there to speculate that he was literally so as well.
+[14:14 --> 14:20] Anyway, with the birth of the baby history will come to know as Valentinian III,
+[14:20 --> 14:23] Constantius' position at court was strengthened still further,
+[14:24 --> 14:30] and in February of 421, Honorius invited his favorite general to take the final step.
+[14:31 --> 14:36] In a ceremony at Ravenna, Constantius was elevated to the rank of Augustus.
+[14:37 --> 14:41] This elevation triggered a huge sigh of relief from across the Western Empire.
+[14:42 --> 14:46] It is always unnerving to have to rely on de facto power arrangements,
+[14:47 --> 14:52] and once already, an eminently capable de facto ruler, namely Stilicho,
+[14:52 --> 14:55] had been toppled by backstabbers at court,
+[14:55 --> 15:01] a toppling which had turned out to have had pretty disastrous consequences for the empire.
+[15:02 --> 15:07] Better to just have your strongest, most capable leader be emperor.
+[15:08 --> 15:10] And now, Constantius was just that.
+[15:11 --> 15:15] Just as the Valentinian dynasty had been strengthened by the admittance of Theodosius,
+[15:16 --> 15:21] so too would the Theodosian dynasty be strengthened by the admittance of Constantius III.
+[15:21 --> 15:24] This was a win-win for everyone.
+[15:25 --> 15:28] So who could possibly be opposed to this awesome plan?
+[15:30 --> 15:34] Well, how about the Eastern Emperor, Theodosius II?
+[15:38 --> 15:44] Now it's been a couple of episodes since our increasingly Western-focused history of Rome has headed east,
+[15:44 --> 15:46] so let's go back and bring them up to speed
+[15:46 --> 15:52] so we can try to make sense of their refusal to accept the elevation of Constantius III to the purple.
+[15:55 --> 15:56] When last we left them, it was around 408.
+[15:58 --> 16:03] Arcadius had just died, his seven-year-old son Theodosius II had succeeded him,
+[16:03 --> 16:08] but power really rested in the hands of the capable Praetorian prefect Anthemius.
+[16:10 --> 16:15] With a boy emperor in charge of Constantinople, the Hunnic King Olden,
+[16:15 --> 16:23] you remember him, the guy who had caused Radagisus' Goths to attempt an invasion of Italy in 405 rather than submit to his rule?
+[16:24 --> 16:25] Yeah, him.
+[16:26 --> 16:35] Olden took the arrival of a boy emperor as a sign that it was high time for him to make a play for control over Roman lands south of the Danube.
+[16:36 --> 16:40] So in 408 or 409, he invaded Moesia.
+[16:40 --> 16:45] Except, yeah, just because young Theodosius was technically emperor,
+[16:45 --> 16:48] that did not mean that the kid was actually calling the shots.
+[16:49 --> 16:55] Anthemius was, and Anthemius quickly and efficiently directed a counterattack,
+[16:55 --> 16:59] pushing Olden back across the river before the year was out.
+[17:01 --> 17:08] Coming off this victory, Anthemius received news that was perhaps even better than the news that the Huns were fleeing Moesia.
+[17:08 --> 17:17] The ongoing negotiations between the Romans and Sassanids had concluded successfully and a treaty had been signed.
+[17:18 --> 17:20] The far eastern front was now secure.
+[17:22 --> 17:27] If Olden thought he detected weakness in the Romans, boy, did he ever read that wrong.
+[17:28 --> 17:36] Constantinople was now stronger than ever and free to transfer resources from Syria to the Danube to reinforce the northern line.
+[17:38 --> 17:48] Olden was kept bottled up on his side of the river until his death in 413, his dreams of controlling all the land under the sun unfulfilled.
+[17:49 --> 17:52] His death was greeted in Constantinople with delight,
+[17:53 --> 18:01] doubly so because the Huns Olden had united were not so united without him, and they splintered into three factions.
+[18:01 --> 18:07] And I don't need to tell you that man, the less unified the Huns, the better.
+[18:11 --> 18:13] After the Huns were repelled and the treaty was signed,
+[18:14 --> 18:23] Anthemius turned his attention to domestic matters and focused on reorganizing the supply chain that kept Constantinople fed with grain from Egypt.
+[18:24 --> 18:29] 409 had seen yet another shortfall of grain and a brief famine resulted.
+[18:30 --> 18:38] But this famine was not caused by a grain shortage so much as by an available transport vessel shortage.
+[18:39 --> 18:44] So Anthemius expanded the fleet and offered tax breaks to merchants who brought grain to the city.
+[18:45 --> 18:47] As soon as the bread was flowing again,
+[18:48 --> 18:58] the prefect started directing portions of the incoming grain to be set aside in an emergency supply to help bridge the gap in case there was a true grain shortage in the future.
+[19:00 --> 19:05] Anthemius managed to survive long enough to see the completion of the Theodosian Walls in 413,
+[19:06 --> 19:14] but by 414 he suddenly disappears from the historical record without any note of how or when he might have died.
+[19:16 --> 19:20] Which is too bad because men like Anthemius deserve better from history.
+[19:22 --> 19:27] And maybe history felt bad for just erasing him like that because, as we will see,
+[19:28 --> 19:36] perhaps in compensation, Anthemius' grandson, also named Anthemius, will rise to become emperor of the Western Empire,
+[19:36 --> 19:45] serving from 467 to 472 and earning a reputation as the last competent emperor of the Western Empire.
+[19:47 --> 19:51] Upon Anthemius' death, or at least presumed death,
+[19:51 --> 19:58] Elia Pulcheria, the elder sister of 13-year-old Theodosius II, who I briefly mentioned last week,
+[19:59 --> 20:02] stepped in and assumed the regency of the Eastern Empire,
+[20:03 --> 20:09] which is kind of a crazy development since Pulcheria was only 15 years old herself.
+[20:11 --> 20:15] But apparently this teenage girl was so remarkably self-assured
+[20:15 --> 20:20] that she was able to bend the imperial court of Constantinople to her will,
+[20:20 --> 20:29] despite the handicap of being, well, a 15-year-old girl at a time when I can't imagine the will of a 15-year-old girl counted for much.
+[20:30 --> 20:34] She had herself declared Augusta and then took a famous vow of virginity,
+[20:36 --> 20:38] ordering her two younger sisters to follow suit.
+[20:40 --> 20:44] There are two intertwined explanations for the vow of virginity,
+[20:45 --> 20:49] the first being that all three sisters were deeply religious
+[20:49 --> 20:54] and embraced a monastic lifestyle that was not just limited to sex and marriage.
+[20:56 --> 20:59] Unlike their mother, who was extravagant to the point of scandal,
+[21:00 --> 21:03] Pulcheria and her sisters were the exact opposite,
+[21:03 --> 21:07] removing all the finery Elia Eudoxia had collected
+[21:07 --> 21:10] and adopting plain clothes and simple food.
+[21:12 --> 21:17] But the other reason for the vow was more practical from the standpoint of an ambitious young woman.
+[21:18 --> 21:21] Marriage meant that she would be subordinated to a husband
+[21:21 --> 21:25] and possibly lose all her power and influence.
+[21:26 --> 21:31] By remaining single, she ensured her independence would not be curtailed.
+[21:31 --> 21:33] And it never was.
+[21:33 --> 21:39] She would remain a powerful center of political gravity until her death in 453.
+[21:42 --> 21:45] Which more or less brings us up to February 421,
+[21:45 --> 21:49] when word came over from the West that Uncle Honorius had gone ahead
+[21:49 --> 21:52] and elevated the General Constantius to imperial rank.
+[21:54 --> 22:00] Now there is very little explanation for why the court of Constantinople refused to recognize his elevation,
+[22:00 --> 22:07] but I would speculate that the little clique of imperial siblings were protective of the rights of the blood family.
+[22:08 --> 22:10] Pulcheria especially might have felt protective,
+[22:11 --> 22:15] as it is likely she had been propositioned by Anthemius to marry one of his sons
+[22:15 --> 22:19] as a way to insert Anthemius into the royal family.
+[22:20 --> 22:22] Pulcheria had rebuffed these advances,
+[22:23 --> 22:27] and likely saw them as the first step in a possible plan for Anthemius
+[22:27 --> 22:31] to receive just the kind of imperial promotion Constantius was now receiving,
+[22:32 --> 22:33] and she didn't like it one bit.
+[22:35 --> 22:39] The infant Valentinian III had a valid claim to the throne,
+[22:39 --> 22:44] but Constantius, a common soldier from Illyria, not so much.
+[22:45 --> 22:49] So the eastern court refused to accept him into their version of the imperial college.
+[22:53 --> 22:57] While they waited to see how Constantius and Honorius would react to this rebuffing,
+[22:57 --> 23:03] Pulcheria and Theodosius arranged to expand their purer version of the Theodosian household
+[23:03 --> 23:07] by locating a proper wife for the now 20-year-old eastern emperor.
+[23:09 --> 23:16] But according to legend, Theodosius was not interested in a well-thought-out political marriage to some wealthy senator's daughter.
+[23:17 --> 23:18] He wanted, quote,
+[23:18 --> 23:25] A young girl, very comely, the most beautiful ever seen in Constantinople, of royal or patrician family.
+[23:26 --> 23:33] And if she isn't marvelously good-looking, I have no use for her, however worthy or royal or rich she may be.
+[23:34 --> 23:40] But whoever was her father, if she is a virgin, and very so good to look at, I will take her.
+[23:42 --> 23:45] Twenty-year-old boys, what are you going to do?
+[23:46 --> 23:53] So when a young Greek girl named Athenaeus arrived in Constantinople to beg justice from the emperor
+[23:53 --> 23:58] after getting more or less left out of her father's will despite being unmarried,
+[23:58 --> 24:01] Elia Pulcheria took one look at her and knew that she had her girl.
+[24:03 --> 24:06] Theodosius and Athenaeus were wed in June of 421.
+[24:07 --> 24:13] No great alliances performed, no peace was settled, but hey, at least she was hot.
+[24:16 --> 24:21] Back in Ravenna, Constantius' reaction to the rebuffing was exactly what you might expect.
+[24:22 --> 24:27] He was furious. Who did these punk kids over in Constantinople think they were?
+[24:28 --> 24:31] Were there seriously no adults in charge over there?
+[24:32 --> 24:37] Did they not realize that Honorius was lazy, indifferent, and probably kind of a moron?
+[24:38 --> 24:45] Constantius becoming emperor was a really good thing, not just for him, but for everyone.
+[24:46 --> 24:53] In the ten years or so since Stilicho had died, relations between East and West had improved quite a bit.
+[24:53 --> 24:58] Anthemius even sent troops to reinforce Honorius during Ravenna's darkest hour
+[24:58 --> 25:02] when they were menaced by both Alaric and Constantine III.
+[25:03 --> 25:07] But the refusal to recognize Constantius blew everything up again,
+[25:08 --> 25:14] and ever the military man, in the autumn of 421, Constantius began to prepare for war.
+[25:15 --> 25:22] Or at least make it look like he was preparing for war in order to shake some sense into those no-good kids running Constantinople.
+[25:24 --> 25:29] We'll never quite be sure if he was really planning to march over to Constantinople
+[25:29 --> 25:32] and win recognition with the business end of his spear,
+[25:33 --> 25:38] because in 421 the newly minted co-emperor of the West fell over dead.
+[25:39 --> 25:41] He had reigned for just seven months.
+[25:42 --> 25:47] The empire lost an eminently capable leader, which was bad,
+[25:47 --> 25:53] but also possibly just missed a civil war between East and West, which was good.
+[25:57 --> 26:04] Next week, with Honorius continuing to just sort of lounge around in Ravenna like the world's best dressed couch potato,
+[26:05 --> 26:08] and the kids in Constantinople playing in the deep end without supervision,
+[26:09 --> 26:12] things will get a little dicey for the Roman Empire.
+[26:13 --> 26:19] Theodosius II, for example, is about to chuck the recently signed treaty with Persia that kept the Far East at peace
+[26:19 --> 26:22] and attempt to start a war with the Sassanids.
+[26:22 --> 26:28] This war will only be called off on account of a renewed Hunnic threat to Constantinople,
+[26:29 --> 26:34] which is, duh, exactly why you don't piss off the Sassanids at this point in history.
+[26:35 --> 26:40] In 423, Honorius will finally do something worthwhile and die,
+[26:41 --> 26:45] but with Constantius dead and Valentinian III just two years old,
+[26:46 --> 26:49] um, who's going to lead the Western Empire?
+[26:49 --> 26:55] Does anyone know? Anyone? Hello? Is this thing on?

@@ -1,0 +1,236 @@
+# 20120205 - 168- The Rise of Aetius
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:06 --> 00:09] internet's leading provider of audio entertainment with over a hundred
+[00:09 --> 00:13] thousand titles to choose from. When you're done with this episode go to
+[00:13 --> 00:20] audiblepodcast.com forward slash Rome. That again audiblepodcast.com forward
+[00:20 --> 00:25] slash Rome. By going to that address you qualify for a free book download when
+[00:25 --> 00:29] you sign up for a 14-day trial membership. There is no obligation to
+[00:29 --> 00:33] continue the service and you can cancel any time and keep the free book
+[00:33 --> 00:37] download. You can also keep going with one of the monthly subscription options
+[00:37 --> 00:44] and get great deals on all future audiobook purchases. This week I'm going
+[00:44 --> 00:48] to go with a recommendation of my own that I just discovered is available in
+[00:48 --> 00:54] the Audible library, a recording of Monopoly, the absolutely genius monologue
+[00:54 --> 01:00] by Mike Daisy. Really I could recommend anything in there by him but I'll go
+[01:00 --> 01:04] with Monopoly because it's one of the three Daisy monologues that I've had the
+[01:04 --> 01:10] good fortune to see him perform live. If you like our little podcast chances are
+[01:10 --> 01:15] you will love Mike Daisy. He is just about everything we here at the History
+[01:15 --> 01:21] of Rome aspire to be. Just remember to go to audiblepodcast.com forward slash Rome
+[01:21 --> 01:23] so that they know who sent you.
+[01:28 --> 01:37] Hello and welcome to the History of Rome, Episode 168, The Rise of Aetius.
+[01:40 --> 01:46] In 425 AD, a six-year-old Valentinian III became emperor of the Western Empire.
+[01:47 --> 01:52] He shared power with his cousin, the Eastern Emperor Theodosius II, and
+[01:52 --> 01:57] together they ruled a united Roman Empire that was, territorially speaking,
+[01:58 --> 02:03] essentially the same empire that had been ruled by Augustus. At least that's
+[02:03 --> 02:10] how it looked on paper. In reality this united empire was anything but as rival
+[02:10 --> 02:15] power centers with conflicting interests fought to control their little pieces of
+[02:15 --> 02:19] pie and maybe grab some of their neighbor's pie if the opportunity arose.
+[02:21 --> 02:25] For the time being, the East was doing a better job holding on to their political
+[02:25 --> 02:30] integrity than the West, but the ministers of Constantinople knew that any major
+[02:30 --> 02:35] thrust by the Sassanids in the East or the Huns in the North would bring it all
+[02:35 --> 02:41] crashing down. The West, meanwhile, was a mess. The Franks controlled the
+[02:42 --> 02:46] southeast of Gaul. The Goths controlled the southwest of Gaul. The Vandals
+[02:46 --> 02:52] controlled whole swaths of Hispania. Bonifacius ruled North Africa as a quasi
+[02:52 --> 02:57] independent warlord, while the new commander-in-chief of Gaul, Flavius Aetius,
+[02:58 --> 03:02] now controlled tens of thousands of troops and his loyalty to Ravenna was
+[03:02 --> 03:08] dubious at best. A map of the Empire in the fifth century may have looked like a
+[03:08 --> 03:14] map of the Empire during the age of Augustus, but the first emperor, excuse me,
+[03:14 --> 03:20] first citizen, would not have recognized the land he once ruled. Even in the halls
+[03:20 --> 03:25] of the Imperial palaces, the authority of the emperors was only paper thin, as
+[03:25 --> 03:30] everyone knew that real power lay in the hands of two women, Valentinian's mother,
+[03:31 --> 03:36] Gallop placidia in the West, and Theodosius's sister, Elia Pulcheria in
+[03:36 --> 03:42] the East. This was an empire whose reality was clearly divorced from the
+[03:42 --> 03:48] happy propaganda offered daily to the public, and that, at least, Augustus would
+[03:48 --> 03:55] have recognized. Of all these competing power centers, the first of butt heads
+[03:55 --> 04:02] following the ascension of Valentinian III was Aetius and the Goths. In 427,
+[04:02 --> 04:07] Aetius entered Gaul with a force of about 40,000 soldiers and discovered that
+[04:07 --> 04:11] Theodoric had decided to take advantage of the recent chaos in the West and
+[04:11 --> 04:17] expand his territory beyond the confines of Aquitaine. Specifically, the Goths were
+[04:17 --> 04:23] in the middle of laying siege to the key Gallic city of Arles. Despite their
+[04:23 --> 04:27] prolonged intermingling with the Romans, however, the Goths had apparently gotten
+[04:27 --> 04:31] no better at siege craft, and by the time Aetius arrived, they had not yet managed
+[04:31 --> 04:38] to take the city. Aetius's veteran forces were fresh and easily drove the Goths
+[04:38 --> 04:44] back into Aquitaine. Aetius made no move to pursue them or even punish them for
+[04:44 --> 04:49] their siege. Just a few years removed from the settlement with Constantius, and
+[04:49 --> 04:54] already the question of the Gothic right to Aquitaine was not an issue. Their only
+[04:54 --> 05:01] crime was straying beyond the border of their territory. After putting the Goths
+[05:01 --> 05:07] back to bed, Aetius turned his attention north. Since the barbarian invasion of
+[05:07 --> 05:13] 406, the power of the Franks had waned a bit after they had been first overrun by
+[05:13 --> 05:17] their eastern neighbors, and then sided with successive losers in the Gallic
+[05:17 --> 05:22] usurpation wars, fought between Constantine III, Gerontius, Jovinus,
+[05:23 --> 05:31] Aetolf, and Constantius III. But now that things had settled down, the
+[05:33 --> 05:37] which Aetius and the Romans were fine with. Apart from its failure to stop the
+[05:37 --> 05:42] combined barbarian invasion of 406, the Frankish bulwark along the Rhine had
+[05:42 --> 05:47] served the Empire's interests well. But as we've noted previously, it was
+[05:47 --> 05:52] imperative that this reassertion of preeminence come under the auspices of
+[05:52 --> 05:57] the Imperial government. It may have been just a veneer of authority, but the
+[05:57 --> 06:01] veneer was all the Romans had left, and they were willing to fight to protect
+[06:01 --> 06:08] it. So Aetius marched his forces north, and conducted a campaign in 428, during
+[06:08 --> 06:13] which he defeated a combined Frankish army in battle, and secured from them the
+[06:13 --> 06:17] acknowledgement that yes, Rome is still number one, and we just live here.
+[06:18 --> 06:23] Aetius also coaxed an agreement from the Goths to provide troops to the Romans if
+[06:23 --> 06:29] necessary. And of course, by Romans, Aetius meant me. Aetius, you will provide me with
+[06:29 --> 06:35] troops, should I find it necessary. And he would very shortly find it necessary.
+[06:35 --> 06:41] After all, Brutus says that Aetius was ambitious, and Brutus is an honorable man.
+[06:43 --> 06:48] In recognition for his achievements in Gaul over the past two years, and to placate a
+[06:48 --> 06:54] general whose loyalties, as I just mentioned, were a bit suspect, Aetius was elevated to
+[06:54 --> 06:59] the rank of Magister Militum, making him one of the most senior officers in the
+[06:59 --> 07:06] Western Empire. I say one of, rather than the most senior officer, because he was still
+[07:06 --> 07:12] outranked by the senior Magister Militum, Flavius Felix, who had earned his position
+[07:12 --> 07:19] by way of his friendship with Gallop La Cidia. But Aetius was a savvy operator, and so rather
+[07:19 --> 07:25] than attack a rival who was close at hand and able to defend himself, Aetius attacked
+[07:25 --> 07:32] a rival who was far away and unable to defend himself. Leveraging his newfound influence,
+[07:32 --> 07:38] he managed to convince Gallop La Cidia that Bonifacius was guilty of conspiring against
+[07:38 --> 07:45] the imperial family. Then, according to Procopius, the Byzantine historian who wrote with Belisarius,
+[07:46 --> 07:52] the sneaky snake Aetius wrote letters to Bonifacius warning him that Ravenna, for some reason,
+[07:52 --> 07:58] had decided he was guilty of treason. I don't know where they got that idea from, Aetius wrote,
+[07:59 --> 08:05] but if Placidius summons you back to court, don't come, because it's a trap. So, of course,
+[08:06 --> 08:11] when Placidius wrote to Bonifacius asking him to please come to Ravenna and explain himself,
+[08:11 --> 08:18] Bonifacius froze. It was all unfolding exactly as Aetius had told him it would. And of course it
+[08:18 --> 08:24] was, because Aetius was working both sides as deviously as a malicious 15-year-old girl with
+[08:24 --> 08:33] unlimited text messaging. Now, I am not aware of any smoking gun piece of evidence that supports
+[08:33 --> 08:38] the theory that is usually floated around about what happens next. But the coincidence of events
+[08:38 --> 08:44] is so strong that it is often simply taken for granted that Bonifacius is the one who invited
+[08:44 --> 08:52] the Vandals into North Africa. Because in 428, right at the moment when Bonifacius is
+[08:52 --> 08:58] falling from favor and finding himself isolated politically and militarily, the Vandals suddenly
+[08:58 --> 09:05] decided to pick up and migrate en masse from Spain to North Africa, and Bonifacius did not
+[09:05 --> 09:11] lift a finger to stop them. Hence, the assumed theory that the general, desperate for allies and
+[09:11 --> 09:17] arms, made contact with the new vandal King Gensurik, who had just months before succeeded
+[09:17 --> 09:23] his late brother Gundrik and offered him land and title in North Africa in exchange for vandal
+[09:23 --> 09:31] support in a possible civil war. Now, in the midst of his dark night of the soul, Bonifacius
+[09:31 --> 09:36] might have thought that inviting the Vandals in was a necessary, even reasonable step to take.
+[09:37 --> 09:42] But when the dawn came, pick your metaphor, you can't put the genie back in the bottle,
+[09:43 --> 09:46] or the toothpaste back in the tube, or the Vandals back in Spain.
+[09:49 --> 09:56] But this theory has been challenged recently for not really making much sense. Bonifacius
+[09:56 --> 10:00] had been nothing but loyal to the imperial family, and they had in turn been nothing
+[10:00 --> 10:07] to him. Why would a couple of letters from Aetius, who, you'll recall, had been on the
+[10:07 --> 10:13] opposite side from Placidia and Bonifacius in the last civil war, suddenly induce him to panic,
+[10:14 --> 10:20] and invite a horde of un-pacified Vandals into his territory? The answer is that, well,
+[10:20 --> 10:26] it probably wouldn't have. And the coincidence of the Vandal migration really was just that,
+[10:26 --> 10:32] a coincidence. With a new king having just ascended to power, it's not like it would have
+[10:32 --> 10:38] been far-fetched for the Vandals to choose this particular moment to move on. So, in this less
+[10:38 --> 10:45] dramatic version, Gunduric dies, and upon taking control of the tribe, Gensaric decides to lead
+[10:45 --> 10:50] them out of Hispania down into North Africa, where the pastures might be greener and easier
+[10:50 --> 10:57] to harvest. And, given that the Romans were about to recognize a Vandal kingdom in North Africa,
+[10:57 --> 11:00] it's not like Gensaric was wrong to try his luck there.
+[11:02 --> 11:10] This far less fun theory is backed up by what happened next. As I just noted, Bonifacius was
+[11:10 --> 11:16] a favorite of Gallop Placidius. He had refused to recognize Ioannis and done everything in his power
+[11:16 --> 11:23] to help get Valentinian III onto the throne. So, after Aetius made his accusations,
+[11:23 --> 11:29] the Augusta was left to wonder why Bonifacius would suddenly go rogue now after showing so
+[11:29 --> 11:35] much loyalty in the past. And the answer she soon arrived at was that Bonifacius had never gone
+[11:35 --> 11:43] rogue. The charges had rung hollow because they were hollow. So, almost as quickly as Bonifacius
+[11:43 --> 11:51] had fallen from favor, he flew right back up into it. Not only does the rapidity of this turnaround
+[11:51 --> 11:57] point to an underlying trust between Placidius and Bonifacius that could not be so easily shaken,
+[11:58 --> 12:03] but it also leaves very little time for Bonifacius to make his alleged invitation to the Vandals.
+[12:05 --> 12:09] Whether he did or did not invite them to come down to North Africa, however,
+[12:09 --> 12:16] one thing is very clear. In the late 420s, the Vandals came down to North Africa.
+[12:17 --> 12:22] When Bonifacius heard they were making the crossing from Hispania, he ordered them to
+[12:22 --> 12:28] turn around at once, but Gonsaric simply ignored him. The Vandals were in the process of migrating
+[12:28 --> 12:35] en masse, giving up their land and strategic positions in Spain in the process. They had no
+[12:35 --> 12:43] intention of going back. So, now Bonifacius had himself a little problem. What do you do
+[12:43 --> 12:48] when 80,000 Vandals say that we're here to stay, and what are you going to do about it?
+[12:50 --> 12:55] While Bonifacius was figuring out what to do about it, Aetius returned to Gaul,
+[12:55 --> 13:00] where he was once again forced to confront an expansionist-minded Theodoric.
+[13:01 --> 13:07] Around 430, a second battle was fought near the city of Arles, whose outcome was the same as the
+[13:07 --> 13:15] first time around. The Goths were driven back into Aquitaine. This time, however, Aetius forced
+[13:15 --> 13:20] Theodoric to sign a formal peace deal, reinforcing the terms the Goths and Romans had previously
+[13:20 --> 13:27] agreed on. The original deal had been struck by Atolf and Constantius, neither of whom were still
+[13:27 --> 13:34] alive, so now the deal was restruck between Theodoric and Aetius, and maybe that would keep
+[13:34 --> 13:41] the Goths where the Goths belonged. And maybe, since he was being so lenient, Aetius would be
+[13:41 --> 13:46] able to count on the loyalty of Theodoric and the might of Gothic arms should the need arise.
+[13:49 --> 13:54] Having come to terms once again with the Goths, Aetius turned his attention to a more pressing
+[13:54 --> 14:01] matter. It appeared that Gallop Placidia had gotten wise to his double dealings over Bonifacius.
+[14:03 --> 14:08] The details of all this are muddled, but it appears likely that Placidia,
+[14:08 --> 14:13] hip to Aetius' shenanigans, ordered the senior magister militum Flavius Felix
+[14:13 --> 14:20] to take care of his two-faced colleague. Aetius was then probably warned that he was under some
+[14:20 --> 14:27] secret death sentence, because guys like Aetius always have spies everywhere, and so he decided
+[14:27 --> 14:35] to strike first. When Felix traveled to Gaul in May of 430, Aetius sprung trumped up treason charges
+[14:35 --> 14:42] on his senior colleague. Refusing to let the no-good traitor Felix time to wriggle away from the
+[14:42 --> 14:48] righteous hand of justice, and by that I mean contact Placidia and calmly explain the situation,
+[14:48 --> 14:52] Aetius had the senior general executed immediately.
+[14:55 --> 15:01] Gallop Placidia was now in a bind. It was clear that Aetius was conniving and backstabbing his
+[15:01 --> 15:05] way up the chain of command, but there was very little that she could do about it.
+[15:06 --> 15:13] As charismatic as he was methodical, Aetius had secured the loyalty of practically every soldier
+[15:13 --> 15:19] under arms from Spain to Gaul. Barbarian auxiliary, regular legionary, whichever.
+[15:21 --> 15:26] So the Augusta couldn't just move against him without risking him taking that final step
+[15:26 --> 15:34] and invading Italy. Her only hope lay in Bonifacius, but unfortunately he was busy
+[15:34 --> 15:42] grappling with the vandals. Having crossed over the Strait of Gibraltar, again Ceric had led his
+[15:42 --> 15:49] people on a steady march east until by early 430 they were on the border of Numidia, knocking on
+[15:49 --> 15:55] the door of the heart of Roman North Africa. Bonifacius led an army out to meet them,
+[15:56 --> 16:02] but the Roman forces proved insufficient. Even though the vandals only had something
+[16:02 --> 16:08] like 15-20,000 fighting men, that was still more than anything Bonifacius could muster.
+[16:08 --> 16:15] After the Roman army was scattered, the vandals kept moving and by the spring of 430 they were
+[16:15 --> 16:23] besieging the city of Hippo, trapping the elderly bishop Augustine inside. Facing the destruction of
+[16:23 --> 16:29] his city by barbarian vandals, who to add insult to injury had all converted to the heretical sect
+[16:29 --> 16:36] of Arianism, Augustine entered into terminal decline and in August of 430 died before the
+[16:36 --> 16:43] siege could be lifted. But the siege would eventually be lifted, though it was only a
+[16:43 --> 16:49] temporary reprieve. Hippo eventually did fall to the vandals, but in the subsequent sacking
+[16:49 --> 16:56] the heretic and Ceric was careful to protect Augustine's library and his church. Such was
+[16:56 --> 17:06] the reputation of the great doctor, even after his death. With his rival general under siege
+[17:06 --> 17:12] in North Africa, Aetius was in no rush to force a confrontation with Placidia for control of the
+[17:12 --> 17:19] west. Instead, he spent almost all of 431 traveling first to the Rhine frontier and then up through
+[17:19 --> 17:26] Noricum to the Danube frontier. At every stop along the way, he secured agreements from local
+[17:26 --> 17:32] Roman officers and local barbarian chieftains to support him personally in case of emergency.
+[17:33 --> 17:39] By 432, he was back along the lower Rhine, conducting a second campaign against the Franks,
+[17:40 --> 17:46] again not to defeat them in any meaningful way, but just to kick them around enough to make them
+[17:46 --> 17:55] pledge to supply troops should Aetius call for them. By 432, the situation in North Africa was
+[17:55 --> 18:03] still grim, but it appears that grim had become the new normal. Most of the key Roman cities were
+[18:03 --> 18:10] able, for now, to resist vandal siege, and the vandals were not so numerous that they could just
+[18:10 --> 18:17] flood the countryside and envelop the whole continent all at once. In any case, nothing
+[18:17 --> 18:23] was happening in North Africa in 432 that was so pressing that it stopped Gallop Placidia from
+[18:23 --> 18:30] recalling Bonifacius to Ravenna. Apparently realizing that time was playing into Aetius's
+[18:30 --> 18:37] hands far more than hers, Placidia decided that she needed to act now or risk losing her status
+[18:37 --> 18:45] without Aetius ever needing to pull his sword. When Bonifacius arrived in Ravenna, the imperial
+[18:45 --> 18:51] court made a great show of welcoming him, and it was shortly announced that he had been elevated
+[18:51 --> 18:59] to the rank of Senior Magister Militum. So, question for the Augusta. What does that mean
+[18:59 --> 19:09] for Aetius, the current Senior Magister Militum? Oh, he's been fired. Oh, I see. Well, good luck
+[19:09 --> 19:17] with that. I think I'm going to go take cover now. Aetius, as you can well imagine, did not take his
+[19:17 --> 19:25] lying down. Indeed, as soon as he got the news, he mobilized his forces and marched them into Italy.
+[19:26 --> 19:32] But a funny thing happened on Aetius's irresistible march to the pinnacle of power and prestige.
+[19:33 --> 19:39] Confronted along the road between Ravenna and Rimini by hastily mustered Italian forces under
+[19:39 --> 19:46] command of Bonifacius, Aetius lost the battle. Stone cold lost the battle.
+[19:48 --> 19:54] Stripped of his command, Aetius was now little more than a fugitive, and so he did what fugitives
+[19:54 --> 20:01] so often do. He ran for it, and he didn't stop running until he knew he was someplace where the
+[20:01 --> 20:08] long arm of the imperial court could not reach him. In this case, that someplace was the territory
+[20:08 --> 20:15] of the Huns north of the Danube. Having lived with them for years and fought alongside them ever
+[20:15 --> 20:21] since, Aetius was free to walk among the Huns as almost no other high-ranking Roman was able to do.
+[20:22 --> 20:27] Among them, he was safe, and among them, he could plot his revenge.
+[20:30 --> 20:35] In this plotting, Aetius had an ally in the Hunnic king Rua,
+[20:35 --> 20:38] or Rugila, depending on which book you're reading.
+[20:39 --> 20:45] Since about 420, Rua had co-ruled a major faction of the Huns with his brother Oktar,
+[20:46 --> 20:52] but since his brother's death, Rua had been the sole king of what was fast becoming a united Hun
+[20:52 --> 21:00] confederacy. The friendly ties between Aetius and Rua were long-standing, as it appears that
+[21:00 --> 21:06] Aetius' years as a hostage had been spent in the same Hun group that Rua had been a rising noble in.
+[21:07 --> 21:13] Once before, Aetius had shown up on his doorstep asking for a Hun army to back him in a Roman
+[21:13 --> 21:20] civil war. That time around, no blood had been shed, and the Huns had been paid well for doing
+[21:20 --> 21:26] nothing more than walking to Italy and then walking back. This time around, the situation
+[21:26 --> 21:34] was clearly more dire for Aetius personally, and real fighting might be required. But Rua was still
+[21:34 --> 21:40] happy to provide his old friend with the troops he needed. The possible upside was too tantalizing
+[21:40 --> 21:47] to pass up. If Aetius won, he would be the master of the Western Empire, and who doesn't like being
+[21:47 --> 21:56] close personal friends with the master of the Western Empire? Meanwhile, back in Italy,
+[21:56 --> 22:03] it became clear that Bonifacius' victory had not come without a price. The general himself had been
+[22:03 --> 22:08] wounded in the fighting, and after lingering for a few months, Bonifacius succumbed to his injuries
+[22:08 --> 22:16] in the autumn of 432. He was succeeded by his son Sebastianus, whose first assignment was to
+[22:16 --> 22:23] ensure that Aetius stayed exiled. In this, he was entirely unsuccessful.
+[22:24 --> 22:33] It is unclear to me whether Aetius returned to Italy in late 432 or early 433, but whichever it was,
+[22:33 --> 22:40] when he did come back, he came at the head of a powerful Hun army. This new army easily swept
+[22:40 --> 22:47] aside the Italian forces, and Aetius forced his way into Ravenna, where he humbly asked to be
+[22:47 --> 22:53] instated to his old position. And how could Placidius say no? What with how nicely Aetius
+[22:53 --> 23:01] was asking and all. Aetius completed his takeover of the West by taking title of all the lands that
+[23:01 --> 23:07] had been owned by Bonifacius, and then, kind of creepily, marrying his late rival's widow,
+[23:08 --> 23:12] which I can't imagine was any fun for her at all.
+[23:14 --> 23:21] So, now Aetius was the most powerful soldier and statesman in the West. He was, just as Rua had
+[23:21 --> 23:29] hoped, the master of the Western Empire. And Flavius Aetius would not relinquish this title
+[23:29 --> 23:35] for a good twenty years, making him easily one of the most important men of the fifth century,
+[23:35 --> 23:41] and, when you get right down to it, one of the most important men in the whole of Roman history.
+[23:43 --> 23:48] He would manage the West through its final phase of semi-stability, and then successfully see it
+[23:48 --> 23:57] through one last great crisis before he died. That crisis, of course, has a name and a face,
+[23:57 --> 24:04] and they will be shown to us for the first time next week. Because as happy as Rua must have been
+[24:04 --> 24:10] to see his old friend Aetius attain such great heights, he did not live to enjoy the fruits of
+[24:10 --> 24:19] his friendship. Dying in 434, Rua would be succeeded by his two nephews, an elder brother,
+[24:19 --> 24:25] known as Bleda, or Buddha, whose name incidentally is where scholars think the Buddha in Budapest
+[24:25 --> 24:31] is derived from, and a younger brother, whose name is synonymous with all that is great and terrible,
+[24:31 --> 24:33] Atilla the Hun.

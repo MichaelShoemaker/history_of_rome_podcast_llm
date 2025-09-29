@@ -1,0 +1,259 @@
+# 20120409 - 175- Trying to Take It All Back
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:06 --> 00:09] internet's leading provider of audio entertainment with over a hundred
+[00:09 --> 00:14] thousand titles to choose from. When you're done with this episode go to
+[00:14 --> 00:21] audiblepodcast.com forward slash Rome. That again audiblepodcast.com forward
+[00:21 --> 00:25] slash Rome. By going to that address you qualify for a free book download when
+[00:25 --> 00:30] you sign up for a 30-day trial membership. There's no obligation to
+[00:30 --> 00:34] continue the service and you can cancel anytime and keep the free book download.
+[00:35 --> 00:39] You can also keep going with one of the monthly subscription options and get
+[00:39 --> 00:45] great deals on all future audiobook purchases. This week I am going to stick
+[00:45 --> 00:54] with the basics and re-recommend another classic, Plutarch's Lives. This is the
+[00:54 --> 00:59] good stuff, the foundational stuff, the stuff you absolutely need to read,
+[01:00 --> 01:06] listen to, whatever. Just remember to go to audiblepodcast.com forward slash Rome
+[01:06 --> 01:19] so that they know who sent you. Hello and welcome to The History of Rome, episode
+[01:19 --> 01:28] 175, Trying to Take it All Back. Following the defeat, deposition, and
+[01:28 --> 01:33] execution of Avetis, the Western Empire was once again left without an
+[01:33 --> 01:38] officially recognized ruler. At least that's how the leaders of the West
+[01:38 --> 01:42] looked at it. According to Constantinople, the Western half of the
+[01:42 --> 01:45] empire had been without a ruler since the assassination of Valentinian the
+[01:46 --> 01:52] two years before. The Eastern Augustus Martian had never recognized Petronius
+[01:52 --> 01:58] Maximus or Aparchius Avetis, and it didn't look like he had any interest in
+[01:58 --> 02:04] recognizing the new would-be Emperor Majorian either. The General Riccimer
+[02:04 --> 02:09] tried to exploit this unwillingness on the part of the East to legitimize the
+[02:09 --> 02:13] emperors of the West by attempting to secure a sort of viceroy commission for
+[02:13 --> 02:18] himself to personally rule the Western provinces, but in the name of
+[02:18 --> 02:25] Constantinople. But then Martian died, and Leo the Thracian became Emperor of
+[02:25 --> 02:30] the East, and he didn't appear keen to recognize Majorian as Emperor or let
+[02:30 --> 02:35] Riccimer rule as a viceroy, which was no doubt a little frustrating for them,
+[02:35 --> 02:43] especially since Leo had no more claim to power than they did. Martian, at
+[02:43 --> 02:45] the time, was a general, and he was a member of the Imperial Theodosian family.
+[02:46 --> 02:54] Leo was just some general, so whatever. By the spring of 457, Riccimer finally gave up on
+[02:54 --> 02:59] the idea of becoming viceroy, and knowing that the Italian nobility would
+[02:59 --> 03:03] never accept him as Emperor because of his German heritage, he backed his
+[03:03 --> 03:10] protege Majorian for the job. In a ceremony in Ravenna on April the 1st,
+[03:10 --> 03:14] Majorian was crowned with the diadem and took over official control of the West.
+[03:15 --> 03:20] But though the diadem set on Majorian's head, it was clear that he was really
+[03:20 --> 03:25] co-ruling with Riccimer. Leo and the court of Constantinople did not
+[03:25 --> 03:29] immediately recognize Majorian, but really at this point, who cared what they
+[03:29 --> 03:33] said? It's not like Majorian was so offensive to the East that they were
+[03:33 --> 03:38] going to raise an army to throw him out of power, so you guys do what you want.
+[03:38 --> 03:46] We'll be over here running the West. But the West was now a pale shadow of its
+[03:46 --> 03:52] former self. Britain was gone. North Africa was gone. Most of Gaul was split
+[03:52 --> 03:57] between barbarian factions, and Spain was now slowly but surely being conquered by
+[03:57 --> 04:01] the Goths. And you can be sure that the Goths had no interest in letting
+[04:01 --> 04:08] Majorian tell them what to do. So when the two generals seized power, they were
+[04:08 --> 04:14] basically seizing control of Italy. And only Italy. Everything else was out of
+[04:14 --> 04:20] their control. The Romans had not been so geographically circumscribed since the
+[04:20 --> 04:26] days just before the Punic Wars, some 700 years earlier. But Majorian and Riccimer
+[04:26 --> 04:32] were ambitious men and vigorous soldiers. They were not going to be content with
+[04:32 --> 04:36] sitting around Ravenna running out the clock governing the Italian peninsula.
+[04:37 --> 04:42] No, they were going to push back against the tide of history. They wanted it all
+[04:42 --> 04:50] back. Gaul, Spain, North Africa, hell, even Britain if they could swing it. In the
+[04:50 --> 04:54] minds of Riccimer and Majorian, their rise to power was going to be a turning
+[04:54 --> 04:59] point in history, the moment when the Western Empire returned to glory. But
+[04:59 --> 05:04] though, as we're about to see, they made a pretty good run at it, in the end the
+[05:04 --> 05:09] tide of history was too great to overcome. That and the petty jealousies
+[05:09 --> 05:13] that so often ruin good work, just as it's getting started.
+[05:16 --> 05:21] Majorian and Riccimer spent the rest of 457 consolidating their hold over Italy.
+[05:22 --> 05:26] There appears to have been some sort of attempt by the Alamani to take advantage
+[05:26 --> 05:30] of the chaos by possibly raiding over the Alps, or at least getting ready to raid
+[05:30 --> 05:35] over the Alps, because right off the bat Majorian is credited with winning some
+[05:35 --> 05:41] sort of victory against the Germans. For the next year and a half, the new regime
+[05:41 --> 05:45] focused its attention primarily on questions of Italian security, but they
+[05:45 --> 05:52] also began to make legislative claims on Gaul. When it came to Italy, the biggest
+[05:52 --> 05:57] threat was obviously posed by the Vandals. Though Riccimer had beaten them back
+[05:57 --> 06:02] in 456, the Vandals had regrouped and started raiding the Italian coastline
+[06:02 --> 06:09] again. At some point in 458, Majorian himself led a counter-attack against a
+[06:09 --> 06:13] force of Vandals invading Italy, and against Serac's brother-in-law was killed
+[06:13 --> 06:19] in the fighting. To help secure the peninsula in the long term, Majorian
+[06:19 --> 06:24] initiated the reconstruction of the Roman navy, a branch of the armed forces that
+[06:24 --> 06:29] had been completely neglected in recent years. With one fleet based on the
+[06:29 --> 06:34] Torranian coast and another based in Ravenna, Majorian hoped to bring an end to
+[06:34 --> 06:43] 25 years of the Vandals controlling the seas. In the midst of these operations,
+[06:43 --> 06:48] Majorian received a critical boost to his legitimacy in December 457, when
+[06:48 --> 06:52] envoys from Constantinople arrived with the news that Leo had decided to
+[06:52 --> 06:58] officially recognize Majorian as his co-ruler. For the first time in almost
+[06:58 --> 07:04] three years, East and West were on the same page. Constantinople's stamp of
+[07:04 --> 07:08] approval was going to make it hard for the citizens of the West to argue that
+[07:08 --> 07:15] Majorian was somehow illegitimate. But even still, the political, military, and
+[07:15 --> 07:21] religious leadership in Gaul were thoroughly disdainful of Majorian. They
+[07:21 --> 07:26] were not ready to forgive or forget the overthrow of their man Avetis. Throughout
+[07:26 --> 07:32] 458, there is evidence that on questions of taxation, the Gallic nobility appealed
+[07:32 --> 07:37] directly to Constantinople for rulings, and that inscriptions from Lyon were
+[07:37 --> 07:43] dated only with reference to Leo. No mention is made of Majorian. There is also
+[07:43 --> 07:48] a passing reference made to a Marcellinian revolt, whatever that was, and
+[07:48 --> 07:56] whichever Marcellinus happened to be leading it. Majorian and Richemer wanted
+[07:56 --> 08:00] Gaul to recognize their authority, but they were not so blind as to think that
+[08:00 --> 08:05] they were just going to get it for nothing. So while they built a force of
+[08:05 --> 08:10] barbarian mercenaries that they planned to use to enforce their will in Gaul, they
+[08:10 --> 08:15] also laid the groundwork for a friendlier reception than the Gauls were probably
+[08:15 --> 08:20] planning on giving them right at that moment. And when you are a new ruler
+[08:20 --> 08:24] looking to make nice with a bunch of people who are not at all predisposed to
+[08:24 --> 08:29] liking you, what is the number one surefire way to bring them around? Did
+[08:29 --> 08:34] someone say tax relief? I thought I heard somebody say tax relief, which would be
+[08:34 --> 08:41] good because the answer is tax relief. As was so often the case, the collection of
+[08:41 --> 08:46] taxes was these days an intermittent and corrupt sort of thing. The richest
+[08:46 --> 08:50] landowners did their best to avoid giving anything to the central government,
+[08:50 --> 08:56] another one of the 257 different reasons why the Western Empire fell, which meant
+[08:56 --> 09:02] that the civil authorities were forever coming up short on the total due. Now the
+[09:02 --> 09:07] rules of the game specified that if they failed to collect the proper taxes, that
+[09:07 --> 09:12] the civil authorities themselves would be on the hook for the shortfall. But
+[09:12 --> 09:16] these civil authorities, called the Curians, were themselves basically
+[09:16 --> 09:21] middle-class bureaucrats who had no great fortunes to draw upon and who
+[09:21 --> 09:24] wielded no significant power over the people who did have great fortunes to
+[09:24 --> 09:30] draw upon. And so they usually wound up turning viciously on the lower classes
+[09:30 --> 09:36] to extort every last dollar they could find. Even then they all wound up
+[09:36 --> 09:42] woefully short. So the bottom line was that everyone owed the central government
+[09:42 --> 09:46] obscene amounts of back taxes and the middle and lower classes were being
+[09:46 --> 09:51] squeezed to death. So Majorian passed laws specifically pertaining to Gaul that
+[09:51 --> 09:56] tried to rein in the rampant corruption and then announced that the back tax
+[09:56 --> 10:05] debt was hereby canceled. So I can't be all bad. In the autumn of 458, Majorian
+[10:05 --> 10:09] marched over the Alps at the head of a pretty good-sized army composed mostly
+[10:09 --> 10:13] of barbarian mercenaries to help bring Gaul under imperial control.
+[10:14 --> 10:19] Richemer stayed behind in Italy, setting up the ruling dynamic that would hold
+[10:19 --> 10:23] for the remainder of the partnership between the two men. Majorian
+[10:23 --> 10:27] traversing the provinces trying to rebuild the Empire and Richemer staying
+[10:27 --> 10:33] behind in Italy to mind the shop. Traveling with the Emperor was a top
+[10:33 --> 10:37] lieutenant who had just been promoted to the rank of Magister Militum for
+[10:37 --> 10:42] Gaul. With the imperial authorities not really in charge of Gaul right at the
+[10:42 --> 10:47] moment, the promotion was more aspirational than factual. But in very
+[10:47 --> 10:52] short order, shorter order than one might reasonably expect, it would be quite
+[10:52 --> 10:59] factual. And then it would become something more. So take note of the name
+[10:59 --> 11:05] the promoted officer in question, because we are not done with him by a long shot.
+[11:08 --> 11:12] The quarter for Venna had managed to hang on to the Gallic territory immediately
+[11:12 --> 11:17] abutting the Alps. But beyond that, Majorian had his work cut out for him.
+[11:18 --> 11:24] He wasted no time though, and before winter set in, he marched due west. The
+[11:24 --> 11:29] most powerful force in Gaul was the Goths, and so it was the Goths whom
+[11:29 --> 11:35] Majorian would deal with first. No slow turning of the screw, no gradual
+[11:35 --> 11:42] tightening of the noose, a stab right at the heart. Theodoric II mustered an
+[11:42 --> 11:46] army when it became clear that the Emperor was on his way, because there was
+[11:46 --> 11:52] no way he was just going to roll over. Avetis had finally given the Goths
+[11:52 --> 11:57] license to territorially expand to their hearts content. Theodoric planned to
+[11:57 --> 12:03] defend that right to the hilt. In late 458, the two armies faced off at Arles,
+[12:04 --> 12:09] sight of so many Roman-Goth confrontations. But a willingness to defend
+[12:09 --> 12:14] something to the hilt is no guarantee of success. Majorian's army smashed the
+[12:14 --> 12:20] Goths up and won a decisive victory. Theodoric was forced to concede the rights
+[12:20 --> 12:25] Avetis had given him, and it was back to being a federated ally of Rome, to be
+[12:25 --> 12:33] used and not used at Ravenna's discretion. With the Goths cowed, the
+[12:33 --> 12:37] Gallo-Roman nobility had to take a good hard look at the situation and decide
+[12:37 --> 12:43] how much they were going to continue to resist the new regime. They may not like
+[12:43 --> 12:49] Majorian or what he had done to Avetis, but man, look at what he just did to the
+[12:49 --> 12:54] Goths. For his part, the Emperor was not looking to punish their initial
+[12:54 --> 13:00] reluctance to back him. He adopted a conciliatory posture and offered top
+[13:00 --> 13:05] positions in his government to members of the Gallic aristocracy. Coupled with
+[13:05 --> 13:09] the cancellation of the tax debts, this left most of the major landowners in
+[13:09 --> 13:15] Gaul quietly accepting Majorian's authority. Which was good for the Emperor,
+[13:15 --> 13:20] because he was really not trying to get bogged down in Gaul. He wanted to move
+[13:20 --> 13:26] on to Hispania and reassert Imperial authority there. But Majorian was also
+[13:26 --> 13:30] hoping to not get bogged down in Hispania because his ultimate goal was
+[13:30 --> 13:34] to use the ports of Spain as a springboard for an invasion of North
+[13:34 --> 13:40] Africa. And this was his real dream, to expel the vandals from Carthage once and
+[13:40 --> 13:45] for all. Pull that off and he becomes one of the greatest emperors in Roman
+[13:45 --> 13:55] history, a sort of mini-Aurelian who reunites a broken empire. But first he
+[13:55 --> 13:59] had to make sure that he was launching from a secure base. The lands taken by
+[13:59 --> 14:04] the Goths were easily redrawn onto the Roman side of the map, but actually
+[14:04 --> 14:10] securing them, in fact, was a different story. The locals were starting to get
+[14:10 --> 14:15] ideas that maybe they didn't need to listen to anyone anymore. And so Majorian
+[14:15 --> 14:19] had to march around showing the colors to remind them all that, yes, there is
+[14:19 --> 14:25] still an empire, and yes, you still need to pay your taxes. Majorian also hoped
+[14:25 --> 14:30] to finally lance a boil that had been festering up in northern Spain since way
+[14:30 --> 14:36] back right after the great New Year's Eve barbarian invasion of 405. A Germanic
+[14:36 --> 14:42] tribe called the Swibi had followed the vandals and Alans into Spain, but they
+[14:42 --> 14:47] had stayed behind when Gonserac led his people across the Strait of Gibraltar.
+[14:48 --> 14:52] Ever since, they had lived as a small de facto independent kingdom in
+[14:52 --> 14:58] northwest Spain. Majorian planned to crush them and return the whole of the
+[14:58 --> 15:04] peninsula to direct imperial control. Couple this with his plan to retake North
+[15:04 --> 15:09] Africa, and it is clear that Majorian wanted to write the final chapter of the
+[15:09 --> 15:18] New Year's invasion by destroying the last remnants of the invaders. While his
+[15:18 --> 15:23] army was off campaigning against Spanish holdouts, Majorian went down to the coast
+[15:23 --> 15:29] to initiate the construction of an invasion fleet. When Gonserac found out
+[15:29 --> 15:35] the Romans were up to, he started to worry a little bit. This new emperor was
+[15:35 --> 15:40] not like previous emperors, who had been docile toward and even a little
+[15:40 --> 15:48] neglectful of the vandals. This Majorian, on the other hand, seemed obsessed. The
+[15:48 --> 15:52] new Roman fleet under construction in Italy was starting to hit the water. The
+[15:52 --> 15:56] emperor had himself beaten the vandals in battle and killed Gonserac's
+[15:56 --> 16:01] brother-in-law. And now an invasion fleet was under construction in Spain? I
+[16:01 --> 16:09] imagine that Gonserac was missing old Aetius just about now. So the Vandal
+[16:09 --> 16:13] King did what any good statesman would do if he started to believe that the
+[16:13 --> 16:17] military balance of power was starting to shift against him. He offered to
+[16:17 --> 16:24] negotiate a settlement. But Gonserac's newfound desire to talk was likely met
+[16:24 --> 16:30] with a few incredulous guffaws throughout the halls of Roman power. The courts of
+[16:30 --> 16:35] both East and West had been regularly sending diplomatic missions to North
+[16:35 --> 16:39] Africa since the sack of Rome, trying to get the vandals to back off. And they had
+[16:39 --> 16:46] just as regularly been greeted by a dismissive wave of the hand. Now that the
+[16:46 --> 16:51] West was rebuilding its strength, now Gonserac wants to talk, he was not going
+[16:51 --> 16:57] to get off that easily. This time it was the vandal emissaries who were dismissed.
+[16:59 --> 17:04] Rebuffed, Gonserac took the rather extreme step of launching a scorched
+[17:04 --> 17:09] earth campaign against the North African province of Mauritania. But, you ask,
+[17:10 --> 17:14] isn't that territory held by the vandals? Why would they want to scorch their own
+[17:14 --> 17:20] land? Well, to make life extremely difficult for the invading Romans, of
+[17:20 --> 17:25] course, scorched earth meant no living off the land. It meant the Romans would be
+[17:25 --> 17:32] slowed down because they would be tied down to supply ships from Spain. But the
+[17:32 --> 17:37] vandal king also launched a second initiative, one that would prove to be
+[17:37 --> 17:43] more directly successful, in which, I'm sure the people of Mauritania loved this,
+[17:43 --> 17:50] made the scorching of their earth totally unnecessary. The timeline gets a
+[17:50 --> 17:54] little muddled here, and it's difficult to tell whether this all happened in
+[17:54 --> 18:01] 460 or 461. But vandal saboteurs were able to bribe or trick their way into
+[18:01 --> 18:04] the shipyards where the Roman invasion fleet was under construction in Spain.
+[18:05 --> 18:11] And once inside, these saboteurs went to work with the torches. Before anyone knew
+[18:11 --> 18:16] what happened, the entire fleet was in flames, and then it sunk to the bottom of
+[18:16 --> 18:22] the ocean. When Majorian learned what had happened, he surveyed the damage report
+[18:22 --> 18:27] with a resigned sigh. That fleet had been pushing the imperial budget to the limit.
+[18:28 --> 18:33] There was no way they could just start again from scratch. Bitterly disappointed,
+[18:34 --> 18:38] Majorian canceled the planned invasion. It was time to head back to Italy and
+[18:39 --> 18:46] regroup. So it's tough to tell when this actually happened, because all our fine
+[18:46 --> 18:51] sources say is that after Gonseric torched the fleet, Majorian left Spain
+[18:51 --> 18:57] and headed back to Italy. Some imply that this was a bang-bang thing, and further
+[18:57 --> 19:02] imply that it was the loss of the fleet that caused the fatal rift between
+[19:02 --> 19:07] Majorian and Richemer. Others imply that the fleet was destroyed sometime in
+[19:07 --> 19:15] 460. So it's possible that Majorian lingered in country for a while before leaving, or that he
+[19:15 --> 19:20] immediately left Spain, but lingered in Gaul for a while before deciding to return to Italy.
+[19:22 --> 19:27] Whatever the exact order of events, in the spring of 461, Majorian was back in Arles and
+[19:27 --> 19:34] preparing to return to Italy. By the time he left Arles, it is almost certain that Richemer had
+[19:34 --> 19:44] decided to move against him. Which brings us to the question of why Richemer decided to take out
+[19:44 --> 19:52] his long-time partner, slash accomplice, slash protege, Majorian. They had been serving together
+[19:52 --> 19:59] for at least 20 years, going back to the campaigns of Aetius in Gaul. Richemer had been the voice
+[19:59 --> 20:03] calling for Majorian's rehabilitation following the death of Aetius. The two had
+[20:04 --> 20:10] teamed up to form a powerful political faction following the death of Valentinian III, which
+[20:10 --> 20:18] culminated with their overthrow of Avetis in 456. So why was Richemer about to throw all that
+[20:18 --> 20:25] history away? In the Gallic Chronicle, it is simply reported that Richemer was envious of Majorian,
+[20:26 --> 20:33] which may well have been the case. After all, Majorian was 15 years his junior. Subservience,
+[20:33 --> 20:40] even if it was merely technical, can't have sat well with Richemer. If I were speculating,
+[20:40 --> 20:46] man, I would also guess that it had something to do with Majorian's success in retaking Gaul.
+[20:47 --> 20:54] This success rested a great deal on bringing the Gallic nobility over to his side, which meant
+[20:54 --> 21:00] that Majorian now had the building blocks for a power base independent of Richemer. It also
+[21:00 --> 21:05] meant that Gallic nobles were going to get jobs that might have gone to Italian nobles.
+[21:07 --> 21:12] Whatever the wider merits of the strategy, this meant that there are now plenty of irked Italians
+[21:12 --> 21:18] complaining to Richemer that Majorian was forgetting who his friends were. And of course,
+[21:18 --> 21:24] we should not forget that Richemer always wanted to rule in his own right. Majorian was just
+[21:24 --> 21:30] supposed to be a convenient puppet. It may well have been that Majorian was not dancing the way
+[21:30 --> 21:40] Richemer wanted him to dance. As he traveled from Gaul to Italy, Majorian appears to have
+[21:40 --> 21:47] made exactly the same mistake Avetis had made back in 456. He dismissed most of his retainers
+[21:47 --> 21:54] and chose instead to travel with a small company of bodyguards and advisors. After all, he was
+[21:54 --> 21:58] just heading back to Italy, where his regime was strongest and where his old friend Richemer
+[21:58 --> 22:05] was waiting for him. But as he crossed the Alps, his old friend Richemer was waiting for him.
+[22:07 --> 22:12] On August the 3rd, 461, Majorian's entourage was surrounded by Richemer's forces and the
+[22:12 --> 22:19] Emperor was taken into custody. Whatever had been Majorian's crime and whatever exactly were
+[22:19 --> 22:25] Richemer's reasons, the Emperor was held for five days and after enduring prolonged torture,
+[22:25 --> 22:32] he was finally beheaded on August the 7th. He was about 40 years old and had ruled the West
+[22:32 --> 22:43] for four years. In many ways, Majorian's downfall closed the door on any real resurgence for the
+[22:43 --> 22:49] Western Empire. Though I do think that Amphemius did enough to earn the title
+[22:49 --> 22:54] last halfway decent Emperor of the West, it all depends on how you grade them.
+[22:55 --> 23:02] Lots of people say that no, it was actually Majorian who deserves the title. He vigorously
+[23:02 --> 23:07] attempted to reclaim what had once been Rome's, defeated numerous foreign enemies in battle,
+[23:08 --> 23:13] strengthened the navy, and was in the process of reforging the political bonds between Italy
+[23:13 --> 23:19] and the provinces. Had Ganseric's saboteurs failed, we might be talking about Majorian as
+[23:19 --> 23:27] the man who won back North Africa. He was only 40 years old when he died. He was a smart guy
+[23:27 --> 23:34] and a good general. He might have been able to pull something off, but then he got killed,
+[23:34 --> 23:41] almost certainly because he was a smart guy and a good general. He almost certainly was not turning
+[23:41 --> 23:53] out to be the kind of puppet Richemer wanted him to be. Next week, we will get into the disastrous
+[23:53 --> 23:59] consequences of Richemer's decision to overthrow Majorian. Just at the moment when it looked like
+[23:59 --> 24:05] the West was working its way back into fighting shape, Richemer would throw it all away, appearing
+[24:05 --> 24:14] to choose undisputed master of Italy over de facto co-ruler of a reunited West. Because when the dust
+[24:14 --> 24:23] settled, four years of Majorian marching around had been for naught. The Western empire was right
+[24:23 --> 24:26] anywhere, anytime soon.

@@ -1,0 +1,400 @@
+# 20100228 - 046- Sic Semper Tyrannis
+# Detected language: en
+# Duration: 1298.08 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to the History of Rome, episode 46, Six Semper Tyrannis.
+[00:13 --> 00:18] In 46 BC, Julius Caesar stayed in Rome for an extended period, for the first time since
+[00:18 --> 00:20] heading to Gaul some 12 years earlier.
+[00:21 --> 00:25] During the summer, he was joined by Queen Cleopatra, who visited the city as an
+[00:25 --> 00:25] honored guest.
+[00:26 --> 00:30] Somewhat awkwardly for Caesar, she brought with her the product of their affair, a small
+[00:30 --> 00:35] boy nicknamed Caesarian, or Little Caesar, who would prove to be the great general's
+[00:35 --> 00:35] only son.
+[00:36 --> 00:40] Though Cicero found her infuriating, and Calpurnia could not have been happy to
+[00:40 --> 00:44] see her husband's lover parading around their illegitimate child, Cleopatra charmed
+[00:44 --> 00:47] the city, and was formally made a friend of Rome by the Senate.
+[00:48 --> 00:53] The Roman involvement of Egypt, long sought and long staved off by bribery, was now
+[00:53 --> 00:53] official.
+[00:54 --> 00:59] Through the spring and summer, Caesar worked furiously on his reform projects, trying
+[00:59 --> 01:03] to salvage the Roman economy, and restore stability to the empire.
+[01:03 --> 01:07] I would like to thank alert listener Dave for pointing out an error I made last
+[01:07 --> 01:09] week in recounting the changes to the calendar.
+[01:09 --> 01:13] It turns out that Caesar actually got his math wrong and inserted a leap day
+[01:13 --> 01:16] every three years, rather than every four years.
+[01:16 --> 01:20] The mistake would stand for another 30 years, until the reforms of Augustus.
+[01:21 --> 01:24] And speaking of corrections, I would also like to thank alert and long time
+[01:24 --> 01:28] listener Detlef for pointing out that I got crossed up on my Roman numerals a
+[01:28 --> 01:32] few episodes back, and referred to Mithridates the Great as Mithridates
+[01:32 --> 01:34] the Sixth, rather than Mithridates the Fourth.
+[01:35 --> 01:37] Thanks, guys, for helping me keep everything straight.
+[01:39 --> 01:43] At this point, Caesar still officially served his co-consul with Lepidus
+[01:43 --> 01:46] as his colleague, and had not yet embraced the full-time role of dictator
+[01:46 --> 01:48] that he would be remembered for.
+[01:49 --> 01:52] But while technically he was just another average Republican executive,
+[01:53 --> 01:56] in reality, the word of mere consul, Julius Caesar,
+[01:56 --> 01:58] was the undisputed law of the land.
+[01:59 --> 02:02] It felt good to finally wield the power he had sought for so long,
+[02:02 --> 02:05] and it felt doubly good that for the first time in years,
+[02:05 --> 02:08] there were no enemies on the horizon threatening to take it all away.
+[02:09 --> 02:13] As he remade the city, though, he received new reports of trouble in Spain.
+[02:13 --> 02:15] At first, he hoped to simply brush them aside.
+[02:15 --> 02:18] He had won the war. He was in power.
+[02:18 --> 02:22] He did not want to hear that the sons of Pompey were raising more legions
+[02:22 --> 02:24] in Hispania to challenge his rule.
+[02:25 --> 02:28] Finally, though, he was forced to acknowledge the problem when word came
+[02:28 --> 02:31] that the ragtag remnants of the Senate's North African Army
+[02:31 --> 02:33] was now 13 legions strong.
+[02:34 --> 02:35] Sigh.
+[02:36 --> 02:40] So in the autumn of 46 BC, Caesar sent out from the city once again
+[02:40 --> 02:44] with two of his veteran legions, marching to Spain in less than a month,
+[02:44 --> 02:47] gathering recruits along the way, and joining with a force
+[02:47 --> 02:49] that had been raised in anticipation of his arrival.
+[02:50 --> 02:54] In the end, he marshaled some 40,000 to face off against the 70,000
+[02:54 --> 02:57] raised by the Pompeys. Outnumbered again.
+[02:58 --> 02:58] Sigh.
+[03:00 --> 03:03] But the speed of his advance had taken his enemies by surprise,
+[03:03 --> 03:07] and Caesar was able to reclaim much of the territory taken by the Pompey brothers.
+[03:07 --> 03:11] With Caesar in country, and clearly every bit the general he had always been,
+[03:11 --> 03:15] soldiers on the other side began to get nervous and defect in droves.
+[03:16 --> 03:19] The Pompeys found themselves forced to challenge Caesar to battle immediately.
+[03:19 --> 03:23] If they waited any longer, they risked losing their whole army to defection.
+[03:24 --> 03:28] So in March of 45 BC, on a slope outside the fortified city of Munda,
+[03:28 --> 03:29] the two sides met.
+[03:31 --> 03:35] Caesar was in the weaker position, but like always he acted boldly
+[03:35 --> 03:37] and ordered his legions to charge up the hill.
+[03:37 --> 03:40] The battle was an extremely hard fought, bloody affair.
+[03:40 --> 03:43] Caesar himself was recorded to have said afterwards,
+[03:44 --> 03:48] that while he usually fought for victory, at Munda he fought for his life.
+[03:48 --> 03:51] Indeed, the battle was going against him for quite a while,
+[03:51 --> 03:55] until he personally took charge of the right wing and rallied his beleaguered troops.
+[03:56 --> 04:00] The Pompeians reinforced the line in the face of Caesar's counterattack,
+[04:00 --> 04:02] but wound up losing the left as a result,
+[04:02 --> 04:06] allowing Caesar's cavalry to break through and surround them.
+[04:06 --> 04:08] Engulfed, the Pompeian army broke.
+[04:08 --> 04:13] The final numbers of 30,000 dead Pompeians to a mere thousand for Caesar
+[04:13 --> 04:16] hide how close Caesar came to losing everything.
+[04:16 --> 04:20] But what hid nothing was the 13 legionary standards Caesar captured.
+[04:21 --> 04:25] Military resistance in Spain was shattered and the sons of Pompey fled.
+[04:26 --> 04:28] One would be captured a few months later and executed,
+[04:29 --> 04:31] while the other would remain on the run for another decade
+[04:31 --> 04:33] before being caught and executed by Octavian.
+[04:35 --> 04:39] Caesar remained in Spain for a few months, consolidating his rule
+[04:39 --> 04:42] and repairing the damage done by the corrupt and ruthless governor
+[04:42 --> 04:45] he had left in charge after winning the province in 49 BC.
+[04:46 --> 04:50] Then, with autumn approaching and the situation in Spain dealt with,
+[04:50 --> 04:52] Caesar and his entourage headed back to Rome.
+[04:53 --> 04:56] Unlike his return to the city after the Alexandrian campaign,
+[04:56 --> 05:00] or after his victory at Thapsus, when he headed back to the capital this time,
+[05:00 --> 05:05] nowhere in the whole of the empire did there lurk an enemy army to challenge him.
+[05:05 --> 05:08] This time, he really was the undisputed master of Rome.
+[05:09 --> 05:13] But of course, it does not take an army to bring down a single man.
+[05:14 --> 05:17] With every opposition army destroyed, Caesar's enemies turned to conspiracy.
+[05:18 --> 05:22] The object now was not to defeat Caesar, but to kill him.
+[05:23 --> 05:28] At first, it was only a hardcore contingent of enemies who thirsted for Caesar's blood,
+[05:28 --> 05:31] but his attitude after becoming sole master of the empire
+[05:31 --> 05:33] alienated many who were ambivalent to his rule
+[05:33 --> 05:36] and embittered many who had been his greatest friends.
+[05:37 --> 05:40] Mark Antony, though, despite the recent falling out with his old friend
+[05:40 --> 05:43] and numerous overtures from the conspirators,
+[05:43 --> 05:46] refused to join the ranks of the disaffected plotters.
+[05:46 --> 05:50] His continued loyalty was well received, and on his way back to Rome from Spain
+[05:50 --> 05:53] with his young great nephew Octavian by his side,
+[05:53 --> 05:56] Caesar picked up Antony from his political doghouse in Gaul,
+[05:56 --> 05:58] and the two old friends patched things up.
+[05:59 --> 06:01] But while Antony's support never wavered,
+[06:01 --> 06:05] a man in whom Caesar's support for never wavered, Marcus Brutus,
+[06:05 --> 06:09] would soon find himself at the forefront of the plot to kill his would-be father figure.
+[06:12 --> 06:16] The main controversy surrounding Caesar after his return to Rome in September of 45 BC,
+[06:16 --> 06:19] and the one that was the primary catalyst for his assassination,
+[06:20 --> 06:23] was the question of whether or not he was planning to have himself crowned king.
+[06:24 --> 06:27] Not being a dummy, Caesar always went to great lengths
+[06:27 --> 06:30] to prove that he had no desire to establish a monarchy,
+[06:30 --> 06:34] but the rumor persisted, and overt attempts to so crown him
+[06:34 --> 06:36] kept popping up quote-unquote spontaneously.
+[06:38 --> 06:42] Throughout the year 45, while he continued to serve officially as consul,
+[06:42 --> 06:45] this time he had not bothered with the formality of naming a colleague,
+[06:46 --> 06:49] and he seemed to be drifting more and more towards overt autocracy.
+[06:49 --> 06:54] And unfortunately for Caesar, just as his attitude was becoming more haughty,
+[06:54 --> 06:58] his grasp of public relations, once his greatest asset, began to slip.
+[07:00 --> 07:04] First, Caesar proved that he had learned nothing from the outrage over his last triumph,
+[07:04 --> 07:08] and staged an official event to celebrate his victory in Spain.
+[07:09 --> 07:11] Again, the people of Rome were dismayed by a parade
+[07:11 --> 07:14] glorifying the defeat of their countrymen.
+[07:14 --> 07:17] The sons of Pompey may have been personal enemies of Caesar,
+[07:17 --> 07:19] but were they really public enemies of Rome?
+[07:20 --> 07:25] Second, Caesar managed to get himself embroiled in a pointless public spat with Cicero
+[07:25 --> 07:27] over the legacy of Cato.
+[07:27 --> 07:30] The great orator had published a eulogy of his dead colleague,
+[07:31 --> 07:34] lavishly praising the old defender of the republican faith.
+[07:35 --> 07:38] Caesar flew into a rage, and against all good sense,
+[07:38 --> 07:40] wrote a scathing reply called the Anti-Cato,
+[07:41 --> 07:44] in which he lobbed every smear he could think of against his old rival.
+[07:45 --> 07:48] Cicero was taken aback by the fury of Caesar's reaction,
+[07:48 --> 07:51] but delighted in how unhinged the attack seemed.
+[07:51 --> 07:53] Cato may have been a lot of things,
+[07:53 --> 07:56] but a drunken miser who pimped his wife was not among them,
+[07:57 --> 07:59] though the latter charge, through some tortured logic,
+[07:59 --> 08:01] had some basis in truth.
+[08:01 --> 08:05] Cato had divorced his wife so she could marry another, richer man,
+[08:05 --> 08:07] and then, when the new husband died,
+[08:07 --> 08:10] remarried her and reap the rewards of her inheritance.
+[08:11 --> 08:15] The people of Rome, though, did not see what Caesar wanted them to see about Cato.
+[08:15 --> 08:18] They focused instead on his petulant hysterics,
+[08:18 --> 08:21] a side of Caesar they had never seen before and did not like.
+[08:22 --> 08:25] His enemies could not print copies of the Anti-Cato fast enough.
+[08:28 --> 08:29] In the midst of these public offenses,
+[08:30 --> 08:34] little things kept popping up that renewed fears of Caesar's monarchical ambitions,
+[08:34 --> 08:38] and despite his protests, he certainly began to act the part of king.
+[08:39 --> 08:42] He secured the right to wear his triumphal regalia at public games,
+[08:43 --> 08:44] which may have seemed like no big deal,
+[08:45 --> 08:49] but the triumphal regalia was purple, just like the royal robes of old.
+[08:50 --> 08:53] Add to this the golden throne he had installed in the senate house to sit in,
+[08:53 --> 08:55] and a pattern started to emerge.
+[08:55 --> 08:58] To top things off, he ordered that a statue of himself
+[08:58 --> 09:00] be carried along with the procession of gods
+[09:00 --> 09:03] that would make its way through the city on holy days.
+[09:04 --> 09:06] So not only was he planning to make himself king,
+[09:06 --> 09:08] but he was already claiming to be a god.
+[09:10 --> 09:13] One morning, the citizens of Roma woke to find that someone
+[09:13 --> 09:16] had placed a crown on a public statue of Caesar during the night.
+[09:17 --> 09:19] Two tribunes, vocal opponents of Caesar,
+[09:20 --> 09:23] ordered that the crown be removed and made a great fuss about the outrage.
+[09:24 --> 09:27] And not long after this incident, while he made his way through town,
+[09:27 --> 09:30] Caesar was hailed as king by a man in the crowd.
+[09:30 --> 09:33] The same two tribunes had the man hauled off to stand trial,
+[09:33 --> 09:36] but Caesar ordered the man freed and instead turned his wrath
+[09:36 --> 09:38] against the two agitating tribunes,
+[09:38 --> 09:42] stripping them of their property and forcing them to resign from office.
+[09:43 --> 09:47] What remains a mystery is whether Caesar himself planted first the crown
+[09:47 --> 09:49] and then the man in the crowd as trial balloons,
+[09:50 --> 09:52] or whether the two tribunes hoping to score political points
+[09:52 --> 09:54] engineered both events,
+[09:55 --> 09:58] or whether one was engineered by one side and the other by the other,
+[09:58 --> 10:01] or whether they were both just signs of organic public support
+[10:01 --> 10:02] for a king, Caesar.
+[10:03 --> 10:07] Whoever had done what, though, talk of monarchy was in the air.
+[10:08 --> 10:11] For many who would take part in the assassination plot, though,
+[10:11 --> 10:14] the last straw was when a group of senators came to bestow upon Caesar
+[10:14 --> 10:16] a long list of new honors,
+[10:16 --> 10:19] Father of the Fatherland, Imperator, that sort of thing,
+[10:20 --> 10:22] and Caesar had failed to rise to greet them.
+[10:22 --> 10:26] There are conflicting reports about whether Caesar was sick at the time
+[10:26 --> 10:28] and the whole incident was blown out of proportion by his enemies,
+[10:28 --> 10:33] or whether he simply miscalculated the depths of the Senate's new subservience.
+[10:33 --> 10:37] But regardless, the story got out and the rumor mill was fed.
+[10:38 --> 10:40] Caesar downplayed all this kingly talk,
+[10:40 --> 10:42] but continued to consolidate power at the same time.
+[10:43 --> 10:45] He stepped down from the consulship in October
+[10:45 --> 10:48] and placed two loyal politicians in the office,
+[10:48 --> 10:51] bypassing both the Senate and public elections.
+[10:52 --> 10:53] But his successors were just placeholders.
+[10:54 --> 10:57] Next, he had the Senate formally appoint him dictator,
+[10:57 --> 11:00] but unlike his previous flirtations with the office,
+[11:00 --> 11:03] this time he would not be stepping down anytime soon.
+[11:04 --> 11:07] He was granted a sequence of ten consecutive one-year terms as dictator,
+[11:08 --> 11:10] but even this proved not to be enough,
+[11:10 --> 11:14] and in early 44 BC he cast aside the expiration date
+[11:14 --> 11:16] and had himself named dictator in perpetuity,
+[11:17 --> 11:18] dictator for life.
+[11:19 --> 11:22] He may not be a king, but it was in name only,
+[11:22 --> 11:26] and even the in name only part seemed destined to be cast aside
+[11:26 --> 11:30] as Caesar had a priest announce a contrived prophecy
+[11:30 --> 11:32] that only a king could conquer the Parthian Empire.
+[11:33 --> 11:35] And everyone knew that Caesar was planning,
+[11:35 --> 11:37] with the full support of the Roman people,
+[11:37 --> 11:40] to launch a war with Parthia to revenge the losses of Crassus.
+[11:41 --> 11:42] So if they wanted the mission to succeed,
+[11:43 --> 11:44] well, you heard the prophecy.
+[11:46 --> 11:48] But the movement to make Caesar a king
+[11:48 --> 11:51] seems to have died in February of 44 BC,
+[11:51 --> 11:52] during a rather strange,
+[11:53 --> 11:55] it was even considered strange by Roman standards,
+[11:55 --> 11:59] religious festival that involved men running through the streets naked.
+[12:00 --> 12:01] Mark Antony produced a laurel crown,
+[12:02 --> 12:04] announcing that the people had asked him to offer it to Caesar.
+[12:05 --> 12:08] But the reception from those same people seemed to indicate
+[12:08 --> 12:09] that they felt exactly the opposite.
+[12:10 --> 12:12] Roman crowds cheered when they approved of something
+[12:12 --> 12:14] and were silent when they did not.
+[12:15 --> 12:17] When Antony offered the crown, you could have heard a pin drop.
+[12:18 --> 12:20] Caesar immediately read the crowd's reaction
+[12:20 --> 12:24] and used the opportunity not to crown himself monarch as he may have planned,
+[12:24 --> 12:28] but to declare forcefully that Jupiter alone was the king of Rome.
+[12:29 --> 12:31] At this, the crowd exploded in cheers.
+[12:32 --> 12:35] They may accept autocracy, but they would never accept monarchy.
+[12:36 --> 12:38] Whether or not it was Caesar's plan all along
+[12:38 --> 12:41] to win support of the masses by engineering a very public rebuke of monarchy,
+[12:42 --> 12:46] it was clear that a king would not be conquering Parthia anytime soon.
+[12:47 --> 12:51] It was a good thing for Caesar that the prophecy was a complete fabrication.
+[12:52 --> 12:57] The last months of Caesar's life were consumed with this planned invasion of Parthia.
+[12:57 --> 13:01] He had already moved 16 legions and 10,000 cavalry across the Adriatic
+[13:01 --> 13:04] and was preparing to launch his campaign in April of 44 BC.
+[13:06 --> 13:09] What Caesar had in mind seemed crazy for a man nearing the age of retirement,
+[13:09 --> 13:12] but his self-confidence was unwavering,
+[13:12 --> 13:16] and he dreamed of nothing less than the greatest series of conquests in Roman history,
+[13:17 --> 13:19] conquests to rival Alexander himself.
+[13:20 --> 13:23] Caesar planned to invade Parthia via Armenia,
+[13:23 --> 13:24] and after defeating the Parthians,
+[13:25 --> 13:28] which he took to be a foregone conclusion based off of what he had seen
+[13:28 --> 13:29] of their armies while passing through the east,
+[13:30 --> 13:32] he would march north through the Caucasus,
+[13:32 --> 13:35] pacifying the fierce nomadic tribes of the steppes,
+[13:35 --> 13:38] and then follow the Danube River back into Europe,
+[13:38 --> 13:40] capping off his run by conquering Germania.
+[13:41 --> 13:45] His plan, in short, was to return to Italy the greatest Roman who had ever lived.
+[13:46 --> 13:48] If only he had lived.
+[13:50 --> 13:53] Caesar's enemies realized that time was running out for them to do something.
+[13:54 --> 13:56] It could be years before he was back in Rome,
+[13:56 --> 13:59] and if he managed to accomplish half of what he was setting out to do,
+[13:59 --> 14:01] there would be no stopping him upon his return.
+[14:02 --> 14:04] The people would beg Caesar to be their king.
+[14:04 --> 14:06] The Republic would be destroyed forever.
+[14:06 --> 14:08] The time to act was now.
+[14:10 --> 14:12] In the months since Caesar's victory in Spain,
+[14:13 --> 14:15] the list of conspirators had grown to some 60 names.
+[14:16 --> 14:21] Some, like Cassius, were on board because they had been Caesar's enemies from the start.
+[14:21 --> 14:26] Others, like Gaius Trebianus, had been with Caesar from the time of the Gallic Wars,
+[14:26 --> 14:28] but felt sidelined in his new regime.
+[14:29 --> 14:30] In his zeal to embrace his enemies,
+[14:31 --> 14:34] Caesar had pushed aside the friends who had got him to where he was.
+[14:34 --> 14:36] To men like Trebianus,
+[14:36 --> 14:39] Caesar was no longer a vehicle for their own personal ambition,
+[14:39 --> 14:41] but rather an obstacle in its path.
+[14:42 --> 14:44] Finally, there were men like Marcus Brutus,
+[14:44 --> 14:46] the tortured Judas of the Ides of March,
+[14:47 --> 14:49] who seems to have simply been a Republican idealist,
+[14:49 --> 14:51] pushed into the plot by domineering friends.
+[14:52 --> 14:55] They reminded him constantly of his ancestor, Marcus Junius Brutus,
+[14:56 --> 14:57] who had led the revolution against the Tarquans
+[14:57 --> 15:01] and sworn the Romans to their sacred oath of opposing monarchy forever.
+[15:02 --> 15:04] Every night, on a statue of that Brutus,
+[15:05 --> 15:08] graffiti would appear, asking if the Brutus name was dead.
+[15:09 --> 15:10] Though he loved Caesar personally,
+[15:11 --> 15:14] Brutus finally caved to the pressure and agreed to join the plot,
+[15:14 --> 15:19] and exploit the fact that he was the last person Caesar would suspect of treachery.
+[15:19 --> 15:23] For the most part, the collection of plotters were personal rivals
+[15:23 --> 15:26] who, on any normal day, would have had nothing to do with each other.
+[15:26 --> 15:28] But this was no ordinary day.
+[15:28 --> 15:32] Today, they all agreed that Caesar must be killed.
+[15:34 --> 15:37] Numerous assassination scenarios were hashed out,
+[15:37 --> 15:39] but the conspirators finally settled on a meeting of the Senate
+[15:39 --> 15:41] as the right time and place.
+[15:42 --> 15:44] Only senators would be allowed into Pompey's theater,
+[15:45 --> 15:47] which is where the body had temporarily moved to,
+[15:47 --> 15:50] leaving Caesar without the protection of his bodyguards.
+[15:50 --> 15:53] Formal senatorial togas would also allow the assassins
+[15:53 --> 15:57] to easily conceal their daggers, the agreed-upon murder weapon.
+[15:58 --> 15:59] The plan was simple.
+[15:59 --> 16:03] Lure Caesar into the Senate, surround him, and then stab him to death.
+[16:04 --> 16:06] With Caesar planning to leave Rome in just a few days,
+[16:07 --> 16:10] the conspirators also set a date, the 15th of March.
+[16:10 --> 16:12] Being the midpoint of the month,
+[16:12 --> 16:15] the 15th was also known by the name we are all familiar with today,
+[16:15 --> 16:17] the Ides of March.
+[16:19 --> 16:21] Caesar awoke on the morning of the 15th
+[16:21 --> 16:23] and tried to go about his business as usual.
+[16:24 --> 16:27] There were final preparations to sort out before he left for the east,
+[16:27 --> 16:29] and the Senate had been called into the session that day
+[16:29 --> 16:31] so that he could review some new petition.
+[16:32 --> 16:34] Caesar had been warned previously by a soothsayer
+[16:34 --> 16:36] to be on guard on the Ides of March,
+[16:36 --> 16:39] and he was further troubled by the fevered nightmares
+[16:39 --> 16:42] of his wife, Calpurnia, who had dreamed just that night of his death.
+[16:43 --> 16:46] His wife and friends begged him to listen to the ill omens
+[16:46 --> 16:48] that surrounded the day and stay home.
+[16:48 --> 16:50] And while Caesar considered the option,
+[16:50 --> 16:52] he was convinced by his old surrogate son, Brutus,
+[16:52 --> 16:55] that to ignore the Senate's request for his presence
+[16:55 --> 16:56] would be seen as a great insult.
+[16:57 --> 16:59] They were already assembled and awaiting his appearance.
+[16:59 --> 17:02] To simply blow them off would be the height of bad manners
+[17:03 --> 17:04] and feed royal rumors.
+[17:05 --> 17:06] Caesar was convinced.
+[17:06 --> 17:09] He would go and humor the old man one last time
+[17:09 --> 17:12] before leaving for the simple comforts of his military tent.
+[17:12 --> 17:14] The worst he was likely to suffer listening
+[17:14 --> 17:18] to whatever overwrought petition the Senate had deemed worthy of his attention
+[17:18 --> 17:20] was acute boredom.
+[17:20 --> 17:23] The petition, of course, was a fake,
+[17:23 --> 17:25] entered for public consideration by the plotting senators
+[17:25 --> 17:28] to lure their prey into a trap.
+[17:29 --> 17:32] Caesar made his way through the streets, carefully led by Brutus.
+[17:33 --> 17:36] Mark Antony had learned the night before that some plot was afoot,
+[17:36 --> 17:37] though he did not know the details of the plan,
+[17:38 --> 17:39] and hurried to try and warn Caesar.
+[17:40 --> 17:43] But Brutus carefully steered the dictator in through a back door.
+[17:44 --> 17:46] Antony was unable to reach him through the crowd.
+[17:47 --> 17:49] Caesar took his place at the front of the chamber
+[17:49 --> 17:51] and requested the petition.
+[17:52 --> 17:54] The senator who brought the scroll forward handed it over,
+[17:54 --> 17:57] but as he did so, he grabbed at Caesar's toga.
+[17:57 --> 17:59] Caesar was shocked by the move and exclaimed,
+[18:00 --> 18:01] why, this is violence.
+[18:02 --> 18:05] With Caesar held in place, another senator named Servilius Casca,
+[18:05 --> 18:08] approached from behind and pulling a dagger from his robes,
+[18:08 --> 18:10] stabbed at Caesar's throat.
+[18:11 --> 18:14] Military instinct taking over, Caesar dodged the attack
+[18:14 --> 18:15] and seized Casca's arm, crying,
+[18:16 --> 18:17] Casca, you villain, what are you doing?
+[18:18 --> 18:20] Casca, having lost the element of surprise,
+[18:21 --> 18:22] called out for his brothers to help him.
+[18:23 --> 18:25] At this word, the sixty members of the conspiracy
+[18:25 --> 18:28] rushed in and surrounded Caesar, stabbing at him recklessly.
+[18:30 --> 18:32] Caesar tried to run, but blinded by blood and confusion,
+[18:33 --> 18:33] tripped and fell.
+[18:33 --> 18:36] As he lay on the ground, the stabbing continued.
+[18:37 --> 18:40] In the end, all Caesar could do was cover his face with his toga
+[18:40 --> 18:42] and die in a pool of his own blood.
+[18:44 --> 18:46] The legend surrounding the assassination
+[18:46 --> 18:48] has Caesar in anguish seeing Brutus among his attackers
+[18:48 --> 18:51] and crying either, you too, child,
+[18:51 --> 18:54] or in Shakespeare's poetic turn, et tu, Brute?
+[18:55 --> 18:58] But these last words did not begin to appear
+[18:58 --> 18:59] in the historical record until much later,
+[19:00 --> 19:02] and even then, as in the case of Suetonius,
+[19:02 --> 19:05] the quotes are simply noted, but dismissed as inaccurate.
+[19:06 --> 19:08] A similar embellishment has Brutus crying,
+[19:08 --> 19:11] sick semper tyrannus, thus always to tyrants,
+[19:11 --> 19:13] over Caesar's dead body.
+[19:14 --> 19:16] Dramatic and memorable, yes, but a complete fiction.
+[19:18 --> 19:20] Instead, the assassins are reported to have simply
+[19:20 --> 19:23] marched out of the chamber, leaving Caesar's body behind.
+[19:24 --> 19:25] They are said to have then paraded through the streets,
+[19:26 --> 19:28] announcing that they had killed Caesar and set Rome free.
+[19:29 --> 19:31] But to their surprise, they were not met
+[19:31 --> 19:33] as the liberators they imagined themselves to be.
+[19:34 --> 19:37] The people of Rome greeted them instead with stunned silence.
+[19:38 --> 19:40] Then they went home, then they locked their doors.
+[19:41 --> 19:43] They knew that whatever stability Caesar had brought
+[19:43 --> 19:45] was about to be blown apart.
+[19:47 --> 19:50] Julius Caesar died on the 15th of March 44 BC.
+[19:51 --> 19:53] He had been stabbed 23 times,
+[19:53 --> 19:54] though doctors determined that in the end
+[19:54 --> 19:57] only a single thrust to his heart had been fatal.
+[19:57 --> 20:00] He was the last and greatest of the old triumvirs,
+[20:01 --> 20:03] but in the end, just like Crassus and Pompey before him,
+[20:04 --> 20:05] he died a violent death,
+[20:05 --> 20:08] a victim of his own outsized ambition.
+[20:10 --> 20:13] For a brief moment, the fate of Rome hung in the balance.
+[20:14 --> 20:16] Would the liberators, as they were now calling themselves,
+[20:17 --> 20:19] see their dream of a restored republic come true,
+[20:19 --> 20:22] or would Julius Caesar be revealed as merely a symptom
+[20:22 --> 20:25] of the disease that plagued Rome rather than the cause?
+[20:26 --> 20:29] Next week, the full extent of the rod
+[20:29 --> 20:31] at the core of the republican system will be revealed.
+[20:32 --> 20:34] Mark Antony will turn the people against the supposed liberators,
+[20:35 --> 20:37] reminding the masses that all Caesar had ever done
+[20:37 --> 20:41] was removed of the unjust chains placed upon them by greedy oligarchs.
+[20:42 --> 20:44] Brutus and Cassius, who fancied themselves heroes,
+[20:45 --> 20:47] will be driven from the city they thought they had saved.
+[20:47 --> 20:50] And Caesar's revealed heir, Gaius Octavius,
+[20:50 --> 20:52] the bright young great nephew of the dead dictator,
+[20:52 --> 20:55] will make his first appearance on the public stage.
+[20:56 --> 20:59] The Romans will be forced to endure another 13 years
+[20:59 --> 21:02] of chaos and civil war before they are once again granted peace.
+[21:03 --> 21:05] After all the violence, it will not matter to anyone
+[21:05 --> 21:08] that the peace will be guaranteed by the rule of the single man,
+[21:09 --> 21:11] Gaius Octavius, Caesar Augustus,
+[21:11 --> 21:13] the first emperor of Rome.
+[21:36 --> 21:37] Thank you for watching!

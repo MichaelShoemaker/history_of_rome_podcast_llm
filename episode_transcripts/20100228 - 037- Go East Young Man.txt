@@ -1,0 +1,490 @@
+# 20100228 - 037- Go East Young Man
+# Detected language: en
+# Duration: 1169.06 seconds
+# Model: medium, Device: cpu
+
+[00:04 --> 00:11] Hello, and welcome to The History of Rome, episode 37, Go East, Young Man.
+[00:13 --> 00:17] At the end of the last episode, I said that this week we would be covering the ill-conceived
+[00:17 --> 00:21] conspiracy of Catiline, however, it has come to my attention that The History of
+[00:21 --> 00:26] Rome's research assistant mixed up the pages of my outline and the conspiracy of
+[00:26 --> 00:28] Catiline isn't actually scheduled until next week.
+[00:29 --> 00:32] There is a picture of my helpful assistant being helpful up on the website.
+[00:33 --> 00:34] She is so helpful.
+[00:35 --> 00:40] Anyway, this week we will be covering the events that led Pompey to really earn that
+[00:40 --> 00:43] magnus honorific he had been saddled with as a joke by Sulla.
+[00:44 --> 00:48] True detractors can still find reason to be unimpressed with Pompey's exploits
+[00:48 --> 00:53] in the Eastern Mediterranean, but the fact is he took over a bogged-down campaign
+[00:53 --> 00:57] in Turkey, and by the time he was done marching, he had set up a string of pro-Roman
+[00:57 --> 01:01] protectorates across the East and expanded the frontier of the empire.
+[01:01 --> 01:06] More impressively, he nearly doubled the tax receipts coming into the Roman
+[01:06 --> 01:06] treasury.
+[01:07 --> 01:12] I think it's safe to say that upon his return to Rome, Pompey the Great had truly
+[01:12 --> 01:13] become Pompey the Great.
+[01:15 --> 01:20] In 74 BC, while Pompey was still in Spain and Spartacus was a year away from his
+[01:20 --> 01:25] breakout, King Nicomedes of Bithynia died and willed his kingdom to Rome.
+[01:26 --> 01:30] Bithynia was in the northwest corner of modern-day Turkey, and Rome had helped
+[01:30 --> 01:35] Nicomedes retain control of his kingdom in the face of Mithridates' ambition
+[01:35 --> 01:36] to control all of Anatolia.
+[01:37 --> 01:41] In gratitude, he promised that Bithynia would become a province of Rome upon his
+[01:41 --> 01:46] death, but Mithridates, who had been stalled but not defeated by Sulla years
+[01:46 --> 01:50] earlier, decided that now was the perfect opportunity to step into the power vacuum
+[01:50 --> 01:54] and capture Bithynia for himself before Rome could consolidate its own
+[01:54 --> 01:55] administration.
+[01:56 --> 02:00] The small kingdom had strategic value that far outweighed its territorial
+[02:00 --> 02:04] size as it straddled the Bosporus, the narrow strait that connected the
+[02:04 --> 02:09] Black Sea to the Sea of Marmara, which in turn connected to the Aegean
+[02:09 --> 02:10] through the Hellespont.
+[02:11 --> 02:15] Bithynia, in later years, would be the home of the new capital built by
+[02:15 --> 02:19] Constantine on the western side of the Bosporus and thereafter find itself
+[02:19 --> 02:22] at the very heart of European and Near Eastern history.
+[02:23 --> 02:26] So obviously, the real estate was highly coveted.
+[02:27 --> 02:30] Rome wanted it, Mithridates wanted it, therefore war.
+[02:32 --> 02:36] Rome sent Marcus Aurelius Cotta to Bithynia to establish a working
+[02:36 --> 02:38] provincial administration in the former kingdom.
+[02:39 --> 02:43] At the same time, Lucius Licinius Lacullus, a consul from the previous
+[02:43 --> 02:48] year, was sent to Cilicia, a territory in southern Turkey, as a preemptive
+[02:48 --> 02:50] maneuver against Mithridates.
+[02:51 --> 02:54] Licullus had been a close ally of Sulla, close enough that the old
+[02:54 --> 02:57] dictator had dedicated his memoirs to him.
+[02:57 --> 03:01] At the time, he was considered one of Rome's greatest generals, along
+[03:01 --> 03:04] with Pompey, Metellus, and though he was on the losing end of the
+[03:04 --> 03:06] civil war, Quintus Sertorius.
+[03:07 --> 03:11] Licullus' appointment to the east was definitely a blow to Pompey's
+[03:11 --> 03:14] ambition, as the east was where the empire was headed and where
+[03:14 --> 03:16] riches and glory could be won in spades.
+[03:17 --> 03:21] It was a plum gig that Licullus had landed, and meanwhile, Pompey
+[03:21 --> 03:24] remained in Spain fighting the last round of the civil war that
+[03:24 --> 03:26] was so five minutes ago.
+[03:26 --> 03:29] Pompey tried mightily to get himself reassigned, but to no
+[03:29 --> 03:30] avail.
+[03:30 --> 03:34] The coming war with Mithridates would be Licullus' to win or lose.
+[03:34 --> 03:37] Pompey stewed as Licullus set sail.
+[03:39 --> 03:41] It did not take long for Mithridates to make his move.
+[03:42 --> 03:46] With the huge distraction of Spain keeping the majority of the
+[03:46 --> 03:50] The Pontic King felt he could win control of Anatolia before Rome
+[03:50 --> 03:52] realized what was happening.
+[03:52 --> 03:57] He moved on Bithynia in 73 BC and besieged Cotus' legions, but
+[03:57 --> 04:00] this was exactly the scenario Licullus had been appointed
+[04:00 --> 04:03] proconsul to Cilicia to deal with, and the general marched
+[04:03 --> 04:05] north upon receiving news of the invasion.
+[04:06 --> 04:10] He drove off Mithridates without too much struggle, and
+[04:10 --> 04:13] what would become known as the Third Mithridatic War had
+[04:13 --> 04:13] begun.
+[04:14 --> 04:18] Now I know what you're saying, third Mithridatic War, what
+[04:18 --> 04:18] about the first two?
+[04:19 --> 04:20] So let's back up a bit.
+[04:21 --> 04:24] The first Mithridatic War was Sulla's War, which we covered
+[04:24 --> 04:27] in detail during the episode Marius and Sulla.
+[04:28 --> 04:31] The second Mithridatic War was a brief campaign during
+[04:31 --> 04:34] Sulla's dictatorship that saw Mithridates make some gains,
+[04:34 --> 04:37] but the Roman effort shut down by Sulla before it really
+[04:37 --> 04:40] got going because he had to make sure resources were going
+[04:40 --> 04:43] to where they were really needed, and they were really
+[04:43 --> 04:45] needed in Rome, shoring up his dictatorship.
+[04:46 --> 04:49] So historians call the events that are about to unfold
+[04:49 --> 04:52] the Third Mithridatic War, though the second hardly
+[04:52 --> 04:55] counts at all, and I'll stick with convention and not
+[04:55 --> 04:56] try and reinvent the wheel.
+[04:58 --> 05:01] Licullus was not content to simply sit back and defend
+[05:01 --> 05:04] what Rome had already acquired, and immediately took the
+[05:04 --> 05:07] opportunity of Mithridates' invasion to invade Pontus
+[05:07 --> 05:07] itself.
+[05:08 --> 05:11] Mithridates fled from his home country east to Armenia,
+[05:12 --> 05:14] where his son-in-law Tigranus sat on the throne.
+[05:15 --> 05:18] The two formalized a military alliance to expand on the
+[05:18 --> 05:21] familial alliance that had been sealed when Tigranus
+[05:21 --> 05:22] married Mithridates' daughter.
+[05:23 --> 05:26] Licullus did not immediately pursue Mithridates and
+[05:26 --> 05:29] instead spent the next few years consolidating Roman
+[05:29 --> 05:32] control in Anatolia, control which now covered the
+[05:32 --> 05:34] entirety of the peninsula.
+[05:35 --> 05:38] Content that his rear was well guarded, Licullus next
+[05:38 --> 05:42] sent an ambassador to Armenia in 70 BC, demanding
+[05:42 --> 05:44] that Tigranus surrender Mithridates to the Romans
+[05:44 --> 05:45] or risk war.
+[05:46 --> 05:49] Armenia was then at the height of its power, and
+[05:49 --> 05:51] Tigranus was reasonably sure he could fend off
+[05:51 --> 05:52] any Roman invasion.
+[05:53 --> 05:55] He could draw from a huge population to fill his
+[05:55 --> 05:59] army, and, unlike the Romans, was not far from
+[05:59 --> 06:01] home or at the mercy of a logistically daunting
+[06:01 --> 06:02] supply train.
+[06:03 --> 06:05] He refused to give up his father-in-law.
+[06:06 --> 06:08] Surely the Romans could see what a poor position
+[06:08 --> 06:09] they bargained from.
+[06:09 --> 06:12] However, much to his surprise, in the summer of
+[06:12 --> 06:15] 69 BC, Licullus invaded.
+[06:16 --> 06:19] The two armies met outside Armenia's new, still
+[06:19 --> 06:20] under construction capital.
+[06:21 --> 06:23] The historical accounting of the armies ranges
+[06:23 --> 06:26] anywhere from Licullus leading a mere two legions
+[06:26 --> 06:29] of around 12,000 against Tigranus' massive army
+[06:29 --> 06:33] of 250,000 to a more reasonable 40,000 versus
+[06:33 --> 06:34] 100,000.
+[06:35 --> 06:37] But everyone agrees the Romans were vastly
+[06:37 --> 06:39] outnumbered, and that when Licullus won the
+[06:39 --> 06:41] battle, it was called one of the greatest in
+[06:41 --> 06:42] Roman history.
+[06:43 --> 06:45] As was so often the case in the ancient world,
+[06:45 --> 06:48] one trained Roman legionary was worth 10
+[06:48 --> 06:49] constricted peasants.
+[06:50 --> 06:52] So Licullus is the man, right?
+[06:52 --> 06:54] He went down as one of the all-time greats,
+[06:54 --> 06:54] right?
+[06:54 --> 06:56] He had conquered Pontus.
+[06:56 --> 06:58] He had just won one of the most impressive
+[06:58 --> 06:59] victories in Roman history.
+[06:59 --> 07:01] He was winning battles as far from home as anyone
+[07:01 --> 07:02] had ever won.
+[07:03 --> 07:05] Surely he wouldn't be recalled by the Senate
+[07:05 --> 07:07] in disgrace and replaced by Pompey, right?
+[07:10 --> 07:12] Unfortunately, Licullus' victory over Tigranus
+[07:12 --> 07:14] was not the end of the war.
+[07:14 --> 07:17] Tigranus fled north and reestablished himself
+[07:17 --> 07:19] in Armenia's traditional capital.
+[07:20 --> 07:21] Licullus, meanwhile, remained in the south.
+[07:22 --> 07:24] He had bumped into the frontier of Parthia
+[07:24 --> 07:26] and decided to feel out the heirs of the
+[07:26 --> 07:29] great Persian Empire, possibly Cementan Alliance,
+[07:29 --> 07:31] before they decided to aid the Armenians
+[07:31 --> 07:32] against Rome.
+[07:33 --> 07:35] Tigranus was able to use the time to fortify
+[07:35 --> 07:37] his position and raise another army.
+[07:38 --> 07:40] From this point on, though, things started
+[07:40 --> 07:42] to go very poorly for Licullus.
+[07:43 --> 07:46] In 68, he moved north and was able to defeat
+[07:46 --> 07:48] the Armenians again.
+[07:48 --> 07:50] However, he had begun his campaign for the
+[07:50 --> 07:52] year too late, and when he ordered his
+[07:52 --> 07:54] troops north into the unforgiving Central
+[07:54 --> 07:56] Asian mountains in pursuit of Tigranus,
+[07:57 --> 07:58] winter was well on its way.
+[07:59 --> 08:01] The army refused to budge, and Licullus
+[08:01 --> 08:03] was forced to withdraw south rather than
+[08:03 --> 08:05] force the issue this far from home.
+[08:06 --> 08:08] The next year, Mithridates moved back
+[08:08 --> 08:10] into Pontus and swept through the
+[08:10 --> 08:12] residual Roman garrisons left there,
+[08:12 --> 08:14] taking back the majority of his old kingdom.
+[08:15 --> 08:17] The near mutiny was the beginning of
+[08:17 --> 08:18] the end for Licullus' command.
+[08:19 --> 08:21] In a vacuum, he probably would have
+[08:21 --> 08:23] reasserted control of the army and
+[08:23 --> 08:24] moved along no worse for the wear.
+[08:25 --> 08:27] But by this time, Pompey had risen
+[08:27 --> 08:28] nearly to the top of the Roman
+[08:28 --> 08:30] political mountain and had allies
+[08:30 --> 08:32] throughout the empire who were more
+[08:32 --> 08:34] than willing to stab a few backs to
+[08:34 --> 08:35] help young Pompey reach the summit.
+[08:37 --> 08:38] Grumbling and complaining by Licullus'
+[08:39 --> 08:41] enlisted men, rather than being met
+[08:41 --> 08:42] with universal pushback by the
+[08:42 --> 08:45] officers, was instead stoked by a
+[08:45 --> 08:47] pro-Pompeian contingent who wanted
+[08:47 --> 08:49] Licullus recalled and Pompey put in charge.
+[08:50 --> 08:54] So 67 BC was marked by an unusual standoff.
+[08:55 --> 08:57] Mithridates was too aware of his own
+[08:57 --> 08:59] vulnerabilities to attack Licullus,
+[08:59 --> 09:01] but Licullus was unable to make his
+[09:01 --> 09:02] own men march out and fight.
+[09:03 --> 09:05] The Pompey faction in Rome was thus
+[09:05 --> 09:06] able to argue that Licullus had
+[09:06 --> 09:08] completely lost control of his army
+[09:08 --> 09:09] and ought to be recalled.
+[09:10 --> 09:11] They didn't mention, of course,
+[09:12 --> 09:13] that they themselves were responsible
+[09:13 --> 09:15] for the mutiny, and without their
+[09:15 --> 09:17] machinations, Licullus probably
+[09:17 --> 09:19] would have beaten Mithridates by now.
+[09:20 --> 09:21] The Senate had seen enough, though,
+[09:21 --> 09:23] and in 66 BC,
+[09:23 --> 09:25] Licullus was ordered to come home.
+[09:25 --> 09:27] But don't feel too badly
+[09:27 --> 09:29] for him. He returned to Rome
+[09:29 --> 09:31] laden with treasures from the East
+[09:31 --> 09:32] and spent the rest of his days in
+[09:32 --> 09:34] semi-retirement, living a life of
+[09:34 --> 09:37] excessive luxury. So renowned
+[09:37 --> 09:39] were his feasts that the word
+[09:39 --> 09:41] Licullan is still used as
+[09:41 --> 09:42] a synonym for lavish.
+[09:44 --> 09:45] Plus, his recall to Rome
+[09:45 --> 09:47] did not damage his reputation as much
+[09:47 --> 09:49] as you might think, and though today
+[09:49 --> 09:51] he is an obscure figure, he was a
+[09:51 --> 09:53] big enough deal in his time that he
+[09:53 --> 09:55] merited inclusion in Plutarch's famous
+[09:55 --> 09:57] lives of noble Greeks and Romans,
+[09:57 --> 09:59] which is basically the hall of fame of the
+[09:59 --> 10:00] classical world.
+[10:01 --> 10:03] With Licullus out of the way,
+[10:03 --> 10:05] Pompey was granted imperium over the
+[10:05 --> 10:07] eastern provinces in 66 BC
+[10:07 --> 10:09] and told to do whatever he thought
+[10:09 --> 10:11] was in the best interests of Rome.
+[10:12 --> 10:13] Now, in the four years
+[10:13 --> 10:16] since his consulship with Crassus in 70
+[10:16 --> 10:18] BC, Pompey had not just
+[10:18 --> 10:20] been laying about. Indeed,
+[10:20 --> 10:21] Pompey had just come off
+[10:21 --> 10:23] one of his more impressive undertakings,
+[10:24 --> 10:25] and if not for what he was about to do in the
+[10:25 --> 10:27] East, this undertaking may
+[10:27 --> 10:29] have gone down as his single greatest
+[10:29 --> 10:30] accomplishment.
+[10:31 --> 10:33] In 67 BC, Pompey cleared
+[10:33 --> 10:35] the Mediterranean of pirates.
+[10:36 --> 10:38] All of them, in three months.
+[10:39 --> 10:39] Pompey the Great,
+[10:40 --> 10:40] indeed.
+[10:41 --> 10:43] Now, this probably
+[10:43 --> 10:44] wasn't as hard as it sounds.
+[10:45 --> 10:46] It was simply a matter of somebody
+[10:46 --> 10:48] actually putting their shoulder into the project.
+[10:49 --> 10:51] But still, at the time,
+[10:51 --> 10:52] piracy was a problem that
+[10:52 --> 10:54] successive generations of Romans
+[10:54 --> 10:56] had been unable to solve, and
+[10:56 --> 10:58] Pompey figured it all out in three months.
+[10:59 --> 11:00] Taking his cue from Alexander,
+[11:01 --> 11:02] Pompey did not attempt to solve
+[11:02 --> 11:03] the riddle of the Gordian Knot.
+[11:04 --> 11:06] He simply cleaved it in twain and
+[11:06 --> 11:08] asked what was next on the agenda.
+[11:09 --> 11:11] The big hang-up for the Romans
+[11:11 --> 11:13] was that they were never great sailors
+[11:13 --> 11:15] and never had much interest in becoming
+[11:15 --> 11:15] great sailors.
+[11:17 --> 11:18] They had become reasonably proficient
+[11:18 --> 11:20] during the Punic Wars out of necessity,
+[11:21 --> 11:22] but once the Carthaginian navy had been
+[11:22 --> 11:25] abolished, the Romans returned to the land
+[11:25 --> 11:26] where they were most comfortable
+[11:26 --> 11:28] and left the sea to traitors.
+[11:29 --> 11:31] But now the traitors were constantly
+[11:31 --> 11:33] under assault, and Rome's economy
+[11:33 --> 11:34] was starting to noticeably suffer.
+[11:35 --> 11:36] So Pompey, looking
+[11:36 --> 11:38] for other avenues to future glory
+[11:38 --> 11:41] in case he never did get that command in the East,
+[11:42 --> 11:43] asked the Senate to put him in
+[11:43 --> 11:45] charge of the anti-piracy task force.
+[11:46 --> 11:46] Despite
+[11:46 --> 11:49] vehement opposition by conservative senators
+[11:49 --> 11:51] who feared Pompey's growing power,
+[11:51 --> 11:53] he was granted an extraordinary
+[11:53 --> 11:55] command, full imperium
+[11:55 --> 11:57] over the entire Mediterranean Sea,
+[11:57 --> 11:58] including all coastlines
+[11:58 --> 12:00] up to 50 miles inland.
+[12:01 --> 12:03] This unprecedented transfer of
+[12:03 --> 12:05] authority was backed, it should be noted,
+[12:05 --> 12:07] by a relatively unknown young senator
+[12:07 --> 12:09] by the name of Julius Caesar,
+[12:09 --> 12:11] who broke with the majority in the Senate
+[12:11 --> 12:12] to support Pompey's command.
+[12:14 --> 12:15] But the conservative Senate
+[12:15 --> 12:16] need not have worried.
+[12:17 --> 12:18] Though Pompey clearly wanted to become known
+[12:18 --> 12:20] as the greatest general in Roman history,
+[12:21 --> 12:23] he seemed to have little interest in making himself
+[12:23 --> 12:25] a dictator. That was a dream
+[12:25 --> 12:26] for other men, namely
+[12:26 --> 12:29] unknown young senators named Julius
+[12:29 --> 12:29] Caesar.
+[12:31 --> 12:33] Over the winter, Pompey
+[12:33 --> 12:34] built ships, trained his troops,
+[12:35 --> 12:36] and devised a strategy.
+[12:36 --> 12:38] In the spring, he deployed his navy
+[12:38 --> 12:40] into 13 separate designated zones,
+[12:41 --> 12:43] each commanded by a separate legate.
+[12:44 --> 12:45] Pompey himself sailed
+[12:45 --> 12:47] with 60 ships, criss-crossing the sea
+[12:47 --> 12:48] at the head of this mobile command.
+[12:49 --> 12:50] Everyone's mission was simple.
+[12:51 --> 12:53] Find the pirates and destroy them.
+[12:54 --> 12:55] Inside of 40 days,
+[12:55 --> 12:57] the western Mediterranean was clear
+[12:57 --> 12:59] and the pirates had retreated back to their
+[12:59 --> 13:01] bases of operation in Cilicia,
+[13:01 --> 13:03] Likolis' old province in southern
+[13:03 --> 13:04] Turkey.
+[13:04 --> 13:06] Pompey then collapsed on the bases
+[13:06 --> 13:08] and destroyed the pirate ships with overwhelming
+[13:08 --> 13:10] force. Left without ships,
+[13:11 --> 13:13] pirates are just dudes who haven't taken a bath
+[13:13 --> 13:15] in a while, and Pompey induced most
+[13:15 --> 13:16] of them to simply surrender,
+[13:16 --> 13:19] promising to resettle them somewhere where they could
+[13:19 --> 13:20] take up the noble farming arts,
+[13:21 --> 13:22] make an honest living for themselves, and of
+[13:22 --> 13:24] course, pay taxes.
+[13:25 --> 13:26] Three months since setting sail,
+[13:27 --> 13:28] the pirate menace was eliminated.
+[13:29 --> 13:31] True, the pirates had been living
+[13:31 --> 13:32] basically unchallenged by the Romans,
+[13:33 --> 13:34] and their power had been grossly overstated,
+[13:35 --> 13:37] but still, a pretty nice piece
+[13:37 --> 13:38] of work on Pompey's part.
+[13:39 --> 13:40] So, Pompey remained in
+[13:40 --> 13:42] Cilicia and the surrounding provinces
+[13:42 --> 13:44] after he completed his mission,
+[13:44 --> 13:46] helping the surrendered pirates get settled
+[13:46 --> 13:48] and overseeing various administrative
+[13:48 --> 13:50] projects. Mostly, though,
+[13:50 --> 13:52] he was just kind of hanging around in the area,
+[13:53 --> 13:54] waiting for his allies in the Senate
+[13:54 --> 13:56] and in Likolis' army to have
+[13:56 --> 13:57] his rival recalled.
+[13:58 --> 14:00] When Likolis was removed, Pompey was
+[14:00 --> 14:03] right there to take over. How convenient.
+[14:04 --> 14:06] At the head of eight legions, and without
+[14:06 --> 14:08] the backstabbing Likolis had to endure,
+[14:09 --> 14:10] Pompey didn't waste any time marching
+[14:10 --> 14:12] into Pontus and confronting Mithridates.
+[14:13 --> 14:14] The king's army was
+[14:14 --> 14:16] no match, and Pompey defeated him easily.
+[14:17 --> 14:18] Mithridates, as he
+[14:18 --> 14:20] had before, fled to Armenia
+[14:20 --> 14:22] to take refuge with his son-in-law,
+[14:22 --> 14:24] but this time, Tigranus denied the
+[14:24 --> 14:25] asylum request.
+[14:26 --> 14:28] Whether Pompey's reputation was earned or not
+[14:28 --> 14:31] is one thing. Whether or not this reputation
+[14:31 --> 14:32] carried with it real world effects
+[14:32 --> 14:33] is not.
+[14:34 --> 14:36] With the great Roman general in the neighborhood,
+[14:37 --> 14:38] Tigranus felt that the balance of power
+[14:38 --> 14:40] had shifted. Now was not
+[14:40 --> 14:42] the time to oppose Rome. Now was the
+[14:42 --> 14:44] time to make sure that Rome understood
+[14:44 --> 14:46] that you were its friend and that you wished it
+[14:46 --> 14:47] no harm.
+[14:48 --> 14:50] Mithridates kept on the run, his influence
+[14:50 --> 14:51] all but gone.
+[14:51 --> 14:53] Once he had been regarded
+[14:53 --> 14:55] as Rome's most implacable foe
+[14:55 --> 14:57] and hailed as a great hero from
+[14:57 --> 14:59] Greece to Syria. But now
+[14:59 --> 15:01] he was little more than a vagrant.
+[15:02 --> 15:03] The world had moved on and
+[15:03 --> 15:05] Rome had moved in.
+[15:05 --> 15:08] Mithridates committed suicide in 62 BC
+[15:08 --> 15:09] in relative anonymity.
+[15:12 --> 15:13] Pompey reestablished Roman
+[15:13 --> 15:15] control of Pontus before moving on
+[15:15 --> 15:17] to Armenia, where Tigranus welcomed
+[15:17 --> 15:21] him with open arms and a
+[15:21 --> 15:23] last hope of the rulers of independent
+[15:23 --> 15:25] kingdoms when Rome came knocking
+[15:25 --> 15:27] was to be left in power as a client state.
+[15:28 --> 15:29] Tigranus hoped
+[15:29 --> 15:31] that if he could ingratiate himself with
+[15:31 --> 15:33] Pompey, Armenia would not be turned into
+[15:33 --> 15:35] a full province. His efforts were
+[15:35 --> 15:37] successful and Armenia was never fully
+[15:37 --> 15:39] incorporated into the empire.
+[15:39 --> 15:41] Rather, it was left as a buffer
+[15:41 --> 15:43] zone between Rome and the Parthians.
+[15:45 --> 15:47] Leaving Armenia behind,
+[15:47 --> 15:49] Pompey continued to march east, chasing
+[15:49 --> 15:51] after Mithridates and establishing
+[15:51 --> 15:53] contact with the locals of the trans
+[15:53 --> 15:55] Caucasus. Eventually
+[15:55 --> 15:57] he found himself at the banks of the Caspian
+[15:57 --> 15:59] Sea, as far from home as
+[15:59 --> 16:00] any Roman army had traveled.
+[16:01 --> 16:03] But the land was rough and
+[16:03 --> 16:05] the locals not particularly rich,
+[16:05 --> 16:07] so Pompey turned around and decided
+[16:07 --> 16:09] rather to turn south, hugging the east
+[16:09 --> 16:11] coast of the Mediterranean, which was
+[16:11 --> 16:13] the true center of the Roman world anyway.
+[16:14 --> 16:15] He led his army into
+[16:15 --> 16:17] Syria, where the descendants of
+[16:17 --> 16:19] Antiochus fought over the throne of what
+[16:19 --> 16:21] remained of the Seleucid Empire.
+[16:22 --> 16:23] Pompey solved the issue
+[16:23 --> 16:25] by deposing the sitting king and
+[16:25 --> 16:27] establishing Syria as an official
+[16:27 --> 16:29] Roman province. He then
+[16:29 --> 16:31] continued south, intent on establishing
+[16:31 --> 16:33] Roman hegemony over a stretch
+[16:33 --> 16:35] of ten Hellenized cities in Galilee
+[16:35 --> 16:37] and Judea, known as the Decapolis.
+[16:38 --> 16:39] He then moved inland
+[16:39 --> 16:41] and entered the wealthy city of
+[16:41 --> 16:43] Jerusalem. At the
+[16:43 --> 16:45] time, the city was in turmoil
+[16:45 --> 16:47] and in the throes of a civil and religious
+[16:47 --> 16:49] war between two Jewish brothers.
+[16:49 --> 16:51] Not only was Pompey worried
+[16:51 --> 16:53] that coastal stability would be threatened
+[16:53 --> 16:54] by inland instability,
+[16:55 --> 16:57] but he saw an opportunity to exploit
+[16:57 --> 16:58] that factionalism in the city.
+[16:59 --> 17:01] Both sides sought the Roman
+[17:01 --> 17:03] army's support, and eventually
+[17:03 --> 17:05] Pompey did pick a side, clearing out
+[17:05 --> 17:07] the rival faction and putting his favored
+[17:07 --> 17:08] leader on the throne.
+[17:10 --> 17:11] By 62
+[17:11 --> 17:13] BC, Pompey decided that
+[17:13 --> 17:14] it was time to return home.
+[17:15 --> 17:17] By extending the Roman hegemony
+[17:17 --> 17:19] all the way to Judea, Pompey
+[17:19 --> 17:21] completed the Roman version of Manifest
+[17:21 --> 17:23] Destiny, and the empire now reached
+[17:23 --> 17:25] across the whole of the Mediterranean,
+[17:25 --> 17:27] from Gibraltar all the way to Jerusalem.
+[17:29 --> 17:29] He wound
+[17:29 --> 17:31] his way back home at the head of
+[17:31 --> 17:33] 45,000 men, and when he entered
+[17:33 --> 17:35] Rome, he celebrated the most splendid
+[17:35 --> 17:37] triumph of his career. No waiting
+[17:37 --> 17:39] in line, no sarcastic remarks.
+[17:41 --> 17:41] As
+[17:41 --> 17:43] I mentioned earlier, the kingdom's
+[17:43 --> 17:45] conquered, annexed, or allied with
+[17:45 --> 17:47] during Pompey's campaign in the east
+[17:47 --> 17:49] literally doubled the amount of money
+[17:49 --> 17:51] coming into the Roman treasury. A
+[17:51 --> 17:53] staggering accomplishment when you think about it.
+[17:54 --> 17:55] Pompey himself was rich
+[17:55 --> 17:57] beyond his own dreams, and at the head of
+[17:57 --> 17:59] 45,000 men, and easily
+[17:59 --> 18:00] the most popular man in Rome.
+[18:02 --> 18:03] The conservative Senate
+[18:03 --> 18:05] watched all this with understandable apprehension,
+[18:05 --> 18:07] but Pompey seemed content
+[18:07 --> 18:09] to simply bask in the glow of his
+[18:09 --> 18:11] own fame. In a few short
+[18:11 --> 18:13] years, though, those same senators
+[18:13 --> 18:15] who were forever trying to sabotage
+[18:15 --> 18:17] the young general's meteoric rise
+[18:17 --> 18:19] would be begging him to save the republic.
+[18:20 --> 18:21] Sure, he had completely circumvented
+[18:21 --> 18:23] the curses honorum, and barely
+[18:23 --> 18:25] held an elective office, and was hardly
+[18:25 --> 18:27] old enough to qualify for the rank
+[18:27 --> 18:29] and status he constantly demanded.
+[18:29 --> 18:31] But he did not dream of being
+[18:31 --> 18:33] sola and taking over the empire,
+[18:33 --> 18:35] which made him a staunch defender
+[18:35 --> 18:37] of the republic as any existed in those days.
+[18:39 --> 18:40] Next week,
+[18:40 --> 18:42] really this time, we will
+[18:42 --> 18:43] cover a scheming bumbler named
+[18:43 --> 18:45] Catiline, who would never be confused
+[18:45 --> 18:47] with a defender of the republic, or
+[18:47 --> 18:49] a great general, or, frankly,
+[18:50 --> 18:52] even a particularly adequate schemer.
+[18:53 --> 18:54] That a man like him
+[18:54 --> 18:55] could dream big, violent,
+[18:55 --> 18:57] egotistical dreams was a sign
+[18:57 --> 18:59] of the times. Rome was on the brink
+[18:59 --> 19:01] of disaster, the republic was on
+[19:01 --> 19:03] the brink of death. Catiline
+[19:03 --> 19:04] was just the beginning.
+[19:27 --> 19:29] Thank you for watching!

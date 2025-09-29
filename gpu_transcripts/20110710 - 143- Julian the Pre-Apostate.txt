@@ -1,0 +1,97 @@
+# 20110710 - 143- Julian the Pre-Apostate
+# Detected language: en
+# Duration: 1559.07 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:04] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you know, Audible is the Internet's leading provider of audio entertainment with over
+[00:08 --> 00:10] 80,000 titles to choose from.
+[00:10 --> 00:15] When you're done with this episode, go to audiblepodcast.com forward slash Rome.
+[00:15 --> 00:19] That again audiblepodcast.com forward slash Rome.
+[00:19 --> 00:22] By going to that address, you qualify for a free book download when you sign up for
+[00:22 --> 00:24] a 14-day trial membership.
+[00:24 --> 00:28] There is no obligation to continue the service and you can cancel anytime and keep the free
+[00:28 --> 00:30] book download.
+[00:30 --> 00:34] You can also keep going with one of the monthly subscription options and get great deals on
+[00:34 --> 00:37] all future audiobook purchases.
+[00:37 --> 00:42] This week, I'm going to go with a recommendation from listener Richard Eppert in honor of the
+[00:42 --> 00:48] fact that it was just Independence Day here in the States, 1776 by David McCullough, an
+[00:48 --> 00:53] eminently accessible account of the most famous year in American history.
+[00:53 --> 00:58] Just remember to go to audiblepodcast.com forward slash Rome so that they know who sent
+[00:58 --> 01:03] you.
+[01:03 --> 01:15] Hello and welcome to The History of Rome, episode 143, Julian the Pre-Apostate.
+[01:15 --> 01:20] After defeating Magnentius, dispensing with Gallus, and putting down the recent revolt
+[01:20 --> 01:25] of Sylvanus, for the first time in a long time, Constantius II was completely secure
+[01:25 --> 01:26] on the throne.
+[01:27 --> 01:31] But with everything that had gone on the last few years, it must have felt like the most
+[01:31 --> 01:34] insecure security in the world.
+[01:34 --> 01:38] Like that at any moment some chunk of the empire could slip away and bring Constantius
+[01:38 --> 01:42] crashing down with it.
+[01:42 --> 01:46] Opportunistic German tribes had taken advantage of the shaky Rhine defenses, leaving the West
+[01:46 --> 01:48] awash in barbarian invaders.
+[01:48 --> 01:53] The Sarmatians were a persistent source of trouble along the Danube and it seemed like
+[01:53 --> 01:58] the Sassanids would come crashing back into Mesopotamia at any moment.
+[01:58 --> 02:02] So while Constantius had to have been happy that he now was the sole and unchallenged
+[02:02 --> 02:08] ruler of the empire, he also had to have been more than a little wary about what the future
+[02:08 --> 02:10] had in store for him.
+[02:10 --> 02:15] With all of this weighing on his mind, the emperor finally decided in November of 355
+[02:15 --> 02:19] to elevate the last male member of his family to the purple and hope the young man would
+[02:19 --> 02:26] be able to help shore up that insecure security Constantius was wrestling with.
+[02:26 --> 02:31] It was obvious that at this stage in history, the empire absolutely needed multiple emperors
+[02:31 --> 02:35] fighting on multiple fronts to keep the whole project from falling apart.
+[02:35 --> 02:40] And so, enter Julian the Apostate.
+[02:40 --> 02:47] Julian had been born in 331 or 332 AD in Constantinople and as we've already seen, he managed to
+[02:47 --> 02:52] survive the massacre of the princes by virtue of the fact that he was too young to pose
+[02:52 --> 02:54] any immediate threat.
+[02:54 --> 02:59] After the massacre, Julian was shipped off with his brother to Bithynium to live with
+[02:59 --> 03:04] their maternal grandmother and he appears to have had a happy few years living in comfortable
+[03:04 --> 03:06] pseudo-exile.
+[03:06 --> 03:11] His education was overseen by the bishop Eusebius, the same bishop Constantius had pushed to
+[03:11 --> 03:18] take over Constantinople in 338, and a Gothic eunuch named Mardonius.
+[03:18 --> 03:24] After Eusebius died in 341, Julian and Gallus were packed off to an imperial estate in Cappadocia
+[03:24 --> 03:29] and there was nothing pseudo about this exile.
+[03:29 --> 03:33] Far from the cosmopolitan centers of the empire, the villa in Cappadocia became a prison that
+[03:33 --> 03:38] young Julian only managed to escape by means of the collection of books he was allowed
+[03:38 --> 03:41] to accumulate.
+[03:41 --> 03:45] Finding anything that seemed even mildly interesting, Julian became enamored with Greek
+[03:45 --> 03:51] philosophy and the pagan cults of old, though he was always careful to focus first and foremost
+[03:51 --> 03:59] on Christian texts to avoid any unpleasant questions about where his heart might be drifting.
+[03:59 --> 04:04] In 348, probably because he already had his eye on them as potential heirs, the sonless
+[04:04 --> 04:09] Constantius recalled his cousins from their Cappadocian exile.
+[04:09 --> 04:13] Eusebius likely spent some time in Ephesus before settling in at Constantinople while
+[04:13 --> 04:18] Julian spent the next two years bouncing between the capital and Nicomedia, furthering both
+[04:18 --> 04:25] his classical and Christian education by studying with the greatest teachers of his age.
+[04:25 --> 04:30] Following the revolt of Magnentius, the universe fired a warning shot across Julian's contemplative
+[04:30 --> 04:35] bow when he found himself present in Sirmium to witness his brother's elevation to the
+[04:35 --> 04:38] rank of Caesar.
+[04:38 --> 04:42] It is one thing to be the kept relative of a distant Augustus.
+[04:42 --> 04:45] It is quite another to be the brother of a Caesar.
+[04:45 --> 04:50] The political waters were lapping at Julian's heels.
+[04:50 --> 04:54] But they would not drown him just yet, and for the next few years he was allowed some
+[04:54 --> 04:59] freedom of movement to continue his studies, so he traveled up and down the Anatolian coast
+[04:59 --> 05:06] where he sought out the great masters of philosophy and rhetoric and even magic.
+[05:06 --> 05:12] It was at this point, around about 351 or 352 AD, that Julian turned decisively away
+[05:12 --> 05:14] from Christianity.
+[05:14 --> 05:20] Now, there was no real dramatic moment of conversion where Julian lights a bundle of
+[05:20 --> 05:25] scripture on fire and declares himself the enemy of Christianity for all time.
+[05:25 --> 05:30] It was just that during this period, the scales of belief tipped away from Christianity and
+[05:30 --> 05:33] towards paganism.
+[05:33 --> 05:37] Julian knew Christian scripture backward and forward, and had always been troubled by its
+[05:37 --> 05:42] many contradictions, and so now he embraced an alternative theology.
+[05:42 --> 05:47] The classical philosophy he read and the pagan cults he encountered were exciting, and most
+[05:47 --> 05:53] likely they simply offered Julian a more satisfying explanation of the cosmos than he found in
+[05:53 --> 05:55] Christian teachings.
+[05:55 --> 06:00] I should note, though, that a few armchair psychologists have argued that Julian's rejection
+[06:00 --> 06:05] of Christianity may have stemmed from the fact that his devoutly Christian cousin,
+[06:05 --> 06:09] Constantius, had, you know, murdered his entire family.
+[06:09 --> 06:11] But I think that's unnecessary.
+[06:11 --> 06:16] I just think Julian was a whip-smart 20-year-old who turned his back on the traditional religion
+[06:16 --> 06:21] of his family in order to pursue more exotic belief systems.
+[06:21 --> 06:25] Things like this happen literally every single day, so I don't think we need to bring the
+[06:25 --> 06:30] trauma of his childhood in to explain why Julian ultimately turned his back on Christianity
+[06:30 --> 06:33] forever.
+[06:33 --> 06:38] I have to imagine that the years in between Gallus' rise and Gallus' fall had to have
+[06:38 --> 06:40] been the happiest of Julian's life.
+[06:40 --> 06:45] He was young, mostly free to come and go as he pleased, and he was surrounded by exciting
+[06:45 --> 06:47] new ideas.
+[06:47 --> 06:52] For a reserved intellectual like Julian, this had to have been something close to heaven,

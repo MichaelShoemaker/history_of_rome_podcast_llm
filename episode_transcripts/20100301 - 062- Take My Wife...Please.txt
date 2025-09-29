@@ -1,0 +1,704 @@
+# 20100301 - 062- Take My Wife...Please
+# Detected language: en
+# Duration: 1535.06 seconds
+# Model: medium, Device: cpu
+
+[00:00 --> 00:03] This week's episode is brought to you by Audible.
+[00:04 --> 00:08] As you are now aware, Audible is the internet's leading provider of audio entertainment, with
+[00:08 --> 00:10] over 60,000 titles to choose from.
+[00:11 --> 00:15] When you finish this episode, go to audiblepodcast.com forward slash rome.
+[00:16 --> 00:19] That again is audiblepodcast.com forward slash rome.
+[00:20 --> 00:24] By going to that address, you qualify for a free book download, just for signing
+[00:24 --> 00:26] up for the 14 day trial membership.
+[00:26 --> 00:30] There is no obligation to keep continuing with the service, and you can cancel at any
+[00:30 --> 00:32] time and keep the book that you downloaded.
+[00:33 --> 00:36] You can also keep going with one of their monthly subscription options, and always
+[00:36 --> 00:39] get great deals on future audiobook purchases.
+[00:39 --> 00:44] This week, I'm going to recommend picking up Roman Lives by Plutarch, which goes
+[00:44 --> 00:48] back a bit in time from where we are, but definitely was a source for information
+[00:48 --> 00:53] on Cicero, Julius Caesar, Marc Antony, and many other of our old friends.
+[00:53 --> 00:58] Just remember to go to audiblepodcast.com forward slash rome so that they know who sent you.
+[01:04 --> 01:11] Hello, and welcome to the History of Rome, episode 62, Take My Wife, Please.
+[01:14 --> 01:18] In the uncertain days after the assassination of Caligula, the people of Rome must have
+[01:18 --> 01:22] wondered whether or not they had now actually seen the worst the imperial
+[01:22 --> 01:23] dynasty could throw at them.
+[01:23 --> 01:27] They had, after all, thought the worst was behind them once before, after
+[01:27 --> 01:31] Tiberius, who had spent the last half of his reign as a paranoid recluse.
+[01:32 --> 01:36] But everyone soon realized that Caligula was a debauched madman who just took
+[01:36 --> 01:40] everything that made Tiberius' final years unbearable and times them by 10.
+[01:41 --> 01:44] So when Caligula was murdered, it is understandable that the Romans were a
+[01:44 --> 01:46] bit gun shy about their next emperor.
+[01:47 --> 01:53] As the saying goes, fool me once, shame on you, fool me, we can't get
+[01:53 --> 01:54] fooled again.
+[01:55 --> 01:58] So they held their collective breath as they waited for word from the Senate to
+[01:58 --> 02:01] come about who would be the empire's next princeps.
+[02:01 --> 02:04] It can't possibly be worse than Caligula, can it?
+[02:05 --> 02:10] When word came that it would be Claudius, yes, Uncle Claudius, they must have
+[02:10 --> 02:12] let go their breath with a deflated sigh.
+[02:13 --> 02:16] How interesting, it actually can get worse.
+[02:17 --> 02:21] We went from a cruel old pervert to a raving madman, and now we are left
+[02:21 --> 02:24] with nothing more than a blubbering idiot.
+[02:24 --> 02:28] Truly we have combed the far reaches of our mighty empire and drawn from the
+[02:28 --> 02:32] ranks of our citizen body, the finest and most able men to rule over us.
+[02:33 --> 02:36] Uncle Claudius, sweet Jupiter, let's go get a drink.
+[02:38 --> 02:41] But once they had turned their backs in disgust, a funny thing happened.
+[02:42 --> 02:45] Claudius turned out to be not so bad, pretty good even.
+[02:45 --> 02:48] Did you hear that the campaigns in Britain are going well?
+[02:48 --> 02:51] That Claudius has successfully established a whole new province.
+[02:51 --> 02:53] Have you seen the new roads?
+[02:53 --> 02:54] They're not half bad.
+[02:54 --> 02:59] I was in court the other day and Claudius not only presided over cases, but his
+[02:59 --> 03:01] judgments were measured and reasonable.
+[03:01 --> 03:05] I even saw him ignore the prescribed penalties after a man had been found
+[03:05 --> 03:09] guilty because, no, no, hear me out, because justice demanded it.
+[03:09 --> 03:12] I know, justice, damnedest thing I've ever seen.
+[03:13 --> 03:16] They always said Claudius was a stuttering fool and that may well be,
+[03:16 --> 03:19] but Emperor Claudius seems like a pretty good egg.
+[03:20 --> 03:23] I should pause here for a second and address something that popped up
+[03:23 --> 03:25] in the comment thread last week.
+[03:26 --> 03:28] Veronica was wondering if she had missed the part where suddenly the
+[03:28 --> 03:32] Romans switched and began referring to their rulers as emperors rather
+[03:32 --> 03:34] than princeps as Augustus had preferred.
+[03:35 --> 03:39] The answer is that, well, no, technically you didn't miss that part.
+[03:39 --> 03:43] The title emperor is used commonly by historians to label the rulers of
+[03:43 --> 03:47] the Roman empire after the ascent of Augustus, but the Romans themselves
+[03:47 --> 03:51] used a number of different titles for the man at the top, including
+[03:51 --> 03:53] princeps, Augustus, and simply Caesar.
+[03:54 --> 03:58] The technical meeting of Imperator still carried with it a martial
+[03:58 --> 04:02] connotation, and in fact, when Claudius ascended to the throne, he
+[04:02 --> 04:06] refused the Imperator honorific because he had done nothing to earn it.
+[04:07 --> 04:10] Not that he didn't want it, just that he felt a little awkward being
+[04:10 --> 04:13] hailed as a great commander when the closest he had ever gotten to a
+[04:13 --> 04:15] battle was reading about it in a book.
+[04:15 --> 04:19] Part of the rationale behind the invasion of Britain was to earn the
+[04:19 --> 04:21] street cred he would need to actually accept the title.
+[04:22 --> 04:26] After Claudius, the honorific Imperator was accepted and not
+[04:26 --> 04:31] accepted or more accurately granted and not granted depending on the
+[04:31 --> 04:35] man in question, but eventually the title did simply become hereditary
+[04:35 --> 04:38] and thus we have come to refer to the whole lot of them as
+[04:38 --> 04:41] emperor, regardless of whether or not they had technically been awarded
+[04:41 --> 04:43] the title Imperator or not.
+[04:43 --> 04:47] The reality of how power was consolidated and legitimized during
+[04:47 --> 04:50] this period is far more complicated than a man simply becoming
+[04:50 --> 04:54] emperor the way a man becomes a king, but the effect wound up
+[04:54 --> 04:55] being basically the same.
+[04:56 --> 04:59] So historians shorthand the whole convoluted mess into a single
+[04:59 --> 05:01] title and that title is emperor.
+[05:02 --> 05:05] So following convention, I have found myself calling these men
+[05:05 --> 05:08] emperors, even though the Romans themselves did not use the
+[05:08 --> 05:10] word the same way we do.
+[05:10 --> 05:13] I would say that it falls under the category of generally
+[05:13 --> 05:16] accepted principles and practices, not technically accurate,
+[05:17 --> 05:20] but acceptably descriptive enough for auditing purposes.
+[05:22 --> 05:25] So we left off last week with Claudius overseeing the
+[05:25 --> 05:28] successful conclusion of what would prove to be merely the
+[05:28 --> 05:30] first phase of the Roman invasion of Britain.
+[05:31 --> 05:34] General Plotius had become governor Plotius and he
+[05:34 --> 05:36] set about quickly and efficiently absorbing the
+[05:36 --> 05:39] conquered portions of Southeast Britannia into the empire.
+[05:40 --> 05:43] Usually there was a waiting period after territory is targeted
+[05:43 --> 05:47] for integration by the Romans, during which a local client
+[05:47 --> 05:49] monarch rules as an ally of Rome.
+[05:49 --> 05:51] But there was no beating around the bush in Britain.
+[05:52 --> 05:55] As soon as the Romans had a foothold, they began direct administration.
+[05:57 --> 06:00] Not that that foothold was at times anything more than a foothold, mind you.
+[06:01 --> 06:03] It would take until the end of the century before the
+[06:03 --> 06:06] rest of the island was pacified in any meaningful way.
+[06:06 --> 06:09] And even then, their dominance only extended so far north.
+[06:10 --> 06:14] The emperor Hadrian finally decided to simply build a wall rather than make a
+[06:14 --> 06:18] play at conquering the truly crazy barbarians up in the highlands of the far north.
+[06:19 --> 06:22] There's a funny line I heard about that once that I've always remembered,
+[06:22 --> 06:26] even though I have no idea who said it, that went something like,
+[06:26 --> 06:29] Hadrian decided to build his wall so the Scots would be left undisturbed
+[06:29 --> 06:33] in their never ending war against their mortal enemies, the Scots.
+[06:34 --> 06:38] Which I think sums up the whole situation nicely, but I'm getting ahead of myself.
+[06:39 --> 06:43] Claudius remained as governor until 47 and spent the majority of his time and
+[06:43 --> 06:47] energy consolidating the Roman position, building veteran settlements and
+[06:47 --> 06:50] getting the locals to fall in line with his new tax policies.
+[06:51 --> 06:55] When Claudius was replaced by Osterius Scappola, though, the new governor
+[06:55 --> 06:57] decided to push west into Wales.
+[06:59 --> 07:02] The fugitive British leader, Coraticus, had fallen back to the
+[07:02 --> 07:06] defensible western quarter of the island and was using it as a base to
+[07:06 --> 07:08] run a guerrilla insurrection against the Roman occupation.
+[07:09 --> 07:14] He spent years harassing and confounding the Romans until he was finally drawn
+[07:14 --> 07:16] into a set battle in 50 AD.
+[07:18 --> 07:21] Though the king set himself up as best he could, taking the high ground and
+[07:21 --> 07:25] building a decent string of fortifications, the Romans were able to
+[07:25 --> 07:29] penetrate the defenses and once inside the British line, cut through the
+[07:29 --> 07:30] locals with ruthless efficiency.
+[07:32 --> 07:35] The Romans captured Coraticus's wife and brothers, but the chief
+[07:35 --> 07:37] himself managed to slip away.
+[07:37 --> 07:41] He fled north and tried to take refuge with a neighboring tribe, but the
+[07:41 --> 07:45] Roman allied queen of the territory immediately handed Coraticus over to
+[07:45 --> 07:48] the Romans as a show of loyalty to the new foreign overlords.
+[07:49 --> 07:52] With that, the most prominent and able leader of the British
+[07:52 --> 07:56] resistance was whisked off the island and taken back to Rome, where
+[07:56 --> 07:58] he was paraded around as a prized treasure.
+[07:59 --> 08:03] But unlike, say, Vercingetorix, who rotted away in a cell for years
+[08:03 --> 08:07] until Caesar found the time to have him strangled, Coraticus was dealt
+[08:07 --> 08:11] with immediately, and surprisingly, after impressing the Romans with
+[08:11 --> 08:15] the utterly unrepentant way that he carried himself, they let him live.
+[08:16 --> 08:19] He had requested and received an audience with the Senate, and when
+[08:19 --> 08:23] he stood before them, he gave a memorable speech that wound up
+[08:23 --> 08:24] saving his life.
+[08:24 --> 08:28] He said, I had horses, men, arms, and wealth.
+[08:28 --> 08:31] What wonder if I was unwilling to lose them?
+[08:32 --> 08:35] If you wish to command everyone, does it really follow that everyone
+[08:35 --> 08:36] should accept your slavery?
+[08:37 --> 08:40] If I were now being handed over as one who had surrendered
+[08:40 --> 08:44] immediately, neither my fortune nor your glory would have achieved
+[08:44 --> 08:45] brilliance.
+[08:46 --> 08:49] Then he asked them point blank to spare his life so that he
+[08:49 --> 08:52] could remain an eternal symbol of Rome's clemency.
+[08:53 --> 08:56] Really, it was a savvy bit of work for a man facing almost
+[08:56 --> 08:59] certain execution, and the audacity of the whole spectacle impressed
+[08:59 --> 09:03] Claudius, and the emperor spared the British king's life, allowing
+[09:03 --> 09:05] him to set up a nice little farm in Italy to live out the rest
+[09:05 --> 09:06] of his days.
+[09:08 --> 09:10] Before he passes from our narrative, I will let Coraticus
+[09:10 --> 09:11] have one final word.
+[09:12 --> 09:15] Touring Rome, he was impressed with the splendor of the great
+[09:15 --> 09:19] capital and remarked, and can you then, who have such possessions
+[09:19 --> 09:22] and so many of them, covet our poor tents?
+[09:23 --> 09:26] Which I think is a question worth asking.
+[09:28 --> 09:32] With his success in policy and in war, Claudius was cementing
+[09:32 --> 09:36] a reputation for overseeing a pretty competent administration.
+[09:37 --> 09:40] Like I said last week, though, more than a few Romans were
+[09:40 --> 09:42] unwilling to believe that Claudius was really calling the
+[09:42 --> 09:46] shots, so running parallel and in opposition to this
+[09:46 --> 09:49] reputation for running a pretty good ship was a reputation
+[09:49 --> 09:52] for having a pretty good ship run him.
+[09:53 --> 09:55] And it wasn't just his freedmen who were said to pilot
+[09:55 --> 09:56] Claudius around.
+[09:57 --> 09:59] It was also his various wives.
+[10:01 --> 10:03] Claudius never had the best luck with women.
+[10:04 --> 10:07] His obvious physical defects made marrying him quite a bit
+[10:07 --> 10:09] more difficult than finding a suitable mate for his brother
+[10:09 --> 10:10] or sister.
+[10:11 --> 10:13] The first time the imperial family found somebody to say
+[10:13 --> 10:16] yes to an engagement, the match was soon after broken
+[10:16 --> 10:18] off for political reasons.
+[10:19 --> 10:22] His next fiance lasted all the way to the altar, but
+[10:22 --> 10:23] then died on their wedding day.
+[10:23 --> 10:27] So for Claudius, that would be 0 for 2.
+[10:27 --> 10:30] His third marriage attempt finally took and he was paired
+[10:30 --> 10:33] with a woman named Pladia Ergo Lanilla, the daughter
+[10:33 --> 10:34] of a friend of Livius.
+[10:35 --> 10:38] Basically, the Augusta was owed a favor and she cashed
+[10:38 --> 10:39] it in.
+[10:40 --> 10:42] The union produced Claudius's first child, a son named
+[10:42 --> 10:46] Claudius Drusus, who tragically died of asphyxiation
+[10:46 --> 10:47] when he was just entering his teens.
+[10:48 --> 10:52] The marriage was destined for a similar fate and in 24 AD
+[10:52 --> 10:55] Ergo Lanilla was not only accused of adultery, but
+[10:55 --> 10:58] also that she had conspired to murder her sister-in-law.
+[10:59 --> 11:01] After their divorce was finalized, Ergo Lanilla
+[11:01 --> 11:04] gave birth to a second child, a daughter named
+[11:04 --> 11:06] Claudia, who Claudius repudiated, as it was
+[11:06 --> 11:08] widely known that he was not even the father.
+[11:09 --> 11:11] So far, not so good.
+[11:13 --> 11:16] A bachelor once more, Claudius was targeted by
+[11:16 --> 11:18] Sejanus as the perfect match for the prefect's
+[11:18 --> 11:20] adopted sister, Pitina.
+[11:21 --> 11:23] Floating like a leaf down the tumultuous river of
+[11:23 --> 11:26] Roman politics, Claudius no doubt saw the value
+[11:26 --> 11:28] in being related to the ruthlessly ambitious
+[11:28 --> 11:30] Sejanus as the prefect's star was rising.
+[11:31 --> 11:33] So Claudius allowed himself to be used as a
+[11:33 --> 11:36] conduit for Sejanus's entry into the Julio
+[11:36 --> 11:39] Claudian family, and he married Pitina in 28 AD.
+[11:41 --> 11:43] Once Sejanus fell though, Claudius couldn't
+[11:43 --> 11:45] afford any connections to the disgraced prefect
+[11:45 --> 11:47] and he divorced his wife.
+[11:47 --> 11:50] While those around him drowned, Claudius
+[11:50 --> 11:52] continued to float down river.
+[11:54 --> 11:55] His next marriage came after Caligula
+[11:55 --> 11:57] ascended to the throne.
+[11:58 --> 12:00] Whether by luck or design, Claudius paired
+[12:00 --> 12:02] up with a regular and influential member of
+[12:02 --> 12:05] the young emperor's court, a woman named
+[12:05 --> 12:06] Valeria Messalina.
+[12:08 --> 12:10] Messalina was an ambitious woman, and while
+[12:10 --> 12:12] it sure seems to be the case that nobody
+[12:12 --> 12:15] really wanted to marry Claudius, Messalina
+[12:15 --> 12:17] was pretty excited to at least be marrying
+[12:17 --> 12:18] the uncle of the emperor.
+[12:19 --> 12:22] That that uncle was, well, Claudius was no
+[12:22 --> 12:23] great problem.
+[12:24 --> 12:25] Messalina wasn't planning on being tied
+[12:25 --> 12:27] down, if you know what I mean.
+[12:28 --> 12:30] The match worked out well for both of them
+[12:30 --> 12:31] for a time.
+[12:31 --> 12:33] Messalina was married into the imperial
+[12:33 --> 12:35] family and Claudius now had an additional
+[12:35 --> 12:37] layer of protection to get him through the
+[12:37 --> 12:39] crazy years of Caligula's reign.
+[12:40 --> 12:42] Messalina fit right in with Caligula's
+[12:42 --> 12:44] court and had some influence over the
+[12:44 --> 12:47] emperor, so because Messalina needed
+[12:47 --> 12:48] Claudius to cement her ties with the
+[12:48 --> 12:50] family, she would always be a fierce
+[12:50 --> 12:53] advocate within Caligula's inner circle
+[12:53 --> 12:55] to not execute Claudius should the whim
+[12:55 --> 12:57] to do so crop up, which reportedly it
+[12:57 --> 12:59] did on more than one occasion.
+[13:01 --> 13:03] Together, if usually apart, Claudius and
+[13:03 --> 13:05] Messalina survived the random madness
+[13:05 --> 13:07] of Caligula, and after Claudius ascended
+[13:07 --> 13:10] to the throne, Messalina suddenly and
+[13:10 --> 13:12] surprisingly found herself empress,
+[13:12 --> 13:14] which was, I think, an ambition beyond
+[13:14 --> 13:15] her wildest dreams.
+[13:17 --> 13:19] She bore Claudius two children, a
+[13:19 --> 13:21] daughter named Claudia Octavia, who will
+[13:21 --> 13:23] eventually marry Nero, and a son called
+[13:23 --> 13:25] Britannicus, named in honor of his
+[13:25 --> 13:27] father's recent triumph in Britain.
+[13:28 --> 13:30] Now, she was not only the wife of the
+[13:30 --> 13:32] emperor, but also the mother of the
+[13:32 --> 13:33] heir apparent Britannicus.
+[13:34 --> 13:36] Not since Livia had Rome seen a woman
+[13:36 --> 13:38] in such a powerful position, and
+[13:38 --> 13:41] Messalina, like Livia before her, did
+[13:41 --> 13:43] not hesitate to use her newfound powers.
+[13:45 --> 13:47] No shrinking violet, Messalina jumped
+[13:47 --> 13:49] right into politics, and using
+[13:49 --> 13:51] Claudius as her instrument, the
+[13:51 --> 13:52] empress usually had her way.
+[13:54 --> 13:55] Unfortunately, she did not whisper in
+[13:55 --> 13:57] the emperor's ear to turn his attention
+[13:57 --> 14:00] towards this neglected policy, or make
+[14:00 --> 14:02] him an advocate for that necessary
+[14:02 --> 14:05] reform. No, not anything so useful as that.
+[14:06 --> 14:08] The empress was an insecure woman,
+[14:09 --> 14:10] and well aware that Claudius was
+[14:10 --> 14:12] old and had a history of physical
+[14:12 --> 14:14] problems, if he were to die, she knew
+[14:14 --> 14:16] that she would lose everything just as
+[14:16 --> 14:17] quickly as she had gained it.
+[14:18 --> 14:19] So the first and last order of
+[14:19 --> 14:21] business was securing her own
+[14:21 --> 14:23] position, and it was toward that end
+[14:23 --> 14:25] alone that she whispered in the
+[14:25 --> 14:26] emperor's ear.
+[14:28 --> 14:30] Luckily, in the political climate of
+[14:30 --> 14:32] the times allowed Messalina to
+[14:32 --> 14:33] operate, probably with the aid of
+[14:33 --> 14:36] Narcissus, a sort of shadow purge
+[14:36 --> 14:38] mechanism to deal with men and women
+[14:38 --> 14:40] and children she considered a threat
+[14:40 --> 14:41] to her personally.
+[14:42 --> 14:43] There were so many real plots against
+[14:43 --> 14:45] Claudius's life to be dealt with, that
+[14:45 --> 14:47] when the emperor's wife and most
+[14:47 --> 14:49] trusted advisor brought some new list
+[14:49 --> 14:51] of names and assured him that they
+[14:51 --> 14:52] had discovered some new conspiracy,
+[14:53 --> 14:54] it did not really set off any
+[14:54 --> 14:55] warning bells.
+[14:56 --> 14:58] Consuls, ex-consuls, influential
+[14:58 --> 15:00] women, up and coming senators,
+[15:00 --> 15:02] academics, if Messalina thought they
+[15:02 --> 15:04] might cause her problems, it was
+[15:04 --> 15:06] exile or execution.
+[15:06 --> 15:08] Claudius did not ask too many
+[15:08 --> 15:09] questions.
+[15:11 --> 15:13] But it was not just Messalina's
+[15:13 --> 15:15] concern about Claudius's health that
+[15:15 --> 15:17] drove her, it was also the fact that
+[15:17 --> 15:19] she daily flirted with disaster by
+[15:19 --> 15:21] making a persistent cuckold of her
+[15:21 --> 15:21] husband.
+[15:23 --> 15:25] The ancient historians are unanimous
+[15:25 --> 15:27] in their judgment of the empress.
+[15:28 --> 15:29] She was a vain, cruel
+[15:29 --> 15:31] nymphomaniac who disgraced Rome and
+[15:31 --> 15:33] brought nothing but shame upon herself
+[15:33 --> 15:34] and her husband.
+[15:36 --> 15:38] Messalina cheated early and often on
+[15:38 --> 15:39] Claudius, with men and women
+[15:39 --> 15:40] born both high and low.
+[15:41 --> 15:42] Her activities were widely
+[15:42 --> 15:44] documented and well known, but it
+[15:44 --> 15:46] seems that no one had the heart or
+[15:46 --> 15:47] the courage to tell Claudius what
+[15:47 --> 15:49] was going on, so he remained the
+[15:49 --> 15:51] one man in the empire who didn't
+[15:51 --> 15:52] know what his wife was up to.
+[15:54 --> 15:56] In addition to her regular liaisons
+[15:56 --> 15:58] with senators and actors, poets,
+[15:58 --> 16:00] slaves and soldiers, there is a
+[16:00 --> 16:02] famous story of her competition with
+[16:02 --> 16:04] a well-known prostitute to see
+[16:04 --> 16:05] which of them could sleep with the
+[16:05 --> 16:07] most men in a single day.
+[16:08 --> 16:09] Messalina won.
+[16:11 --> 16:12] So the empress needed to make sure
+[16:12 --> 16:14] her power had a base independent
+[16:14 --> 16:16] of Claudius, because who knows
+[16:16 --> 16:17] when her dalliances are going to
+[16:17 --> 16:19] finally catch up with her and
+[16:19 --> 16:20] trigger a divorce.
+[16:21 --> 16:23] Eventually, Messalina got
+[16:23 --> 16:25] careless or grew emboldened, if
+[16:25 --> 16:26] there is a difference between the
+[16:26 --> 16:29] two, and began to move away from
+[16:29 --> 16:30] simply running around behind
+[16:30 --> 16:31] Claudius' back.
+[16:32 --> 16:33] Her marriage was obviously a
+[16:33 --> 16:35] sham, and she knew that
+[16:35 --> 16:36] eventually Claudius would find
+[16:36 --> 16:38] out, and that would be the end of her.
+[16:39 --> 16:40] Plus, Germanicus' daughter
+[16:40 --> 16:42] Agrippina the Younger had been
+[16:42 --> 16:43] recalled from exile with her son
+[16:43 --> 16:45] Lucius Domitius Ahenabarbis,
+[16:46 --> 16:47] the future emperor Nero.
+[16:48 --> 16:50] The people had always had a soft
+[16:50 --> 16:51] spot in their hearts for
+[16:51 --> 16:53] Germanicus' family, and when she
+[16:53 --> 16:54] arrived, Agrippina was greeted
+[16:54 --> 16:55] warmly by the people.
+[16:56 --> 16:59] At the secular games held in 47 AD
+[16:59 --> 17:01] to celebrate the 800th anniversary
+[17:01 --> 17:02] of the founding of Rome,
+[17:03 --> 17:05] Agrippina and her son received
+[17:05 --> 17:07] much more applause than Messalina
+[17:07 --> 17:07] and her son.
+[17:09 --> 17:10] The implication was clear.
+[17:11 --> 17:12] Agrippina and Lucius were full
+[17:12 --> 17:14] Julians, descended directly from
+[17:14 --> 17:15] the divine Augustus.
+[17:16 --> 17:18] Messalina, meanwhile, had no
+[17:18 --> 17:19] blood ties to the clan, and
+[17:19 --> 17:21] her son was merely a Claudian.
+[17:22 --> 17:24] Agrippina, as ambitious a woman
+[17:24 --> 17:26] as Rome had ever known, was
+[17:26 --> 17:27] clearly laying the groundwork
+[17:27 --> 17:28] for her son, the grandson of
+[17:28 --> 17:30] Germanicus, to ascend to the
+[17:30 --> 17:32] throne when Claudius was gone.
+[17:33 --> 17:35] With a ready alternative
+[17:35 --> 17:37] heir, perhaps even a more
+[17:37 --> 17:38] desirable heir standing by,
+[17:39 --> 17:40] Messalina could feel her
+[17:40 --> 17:41] leverage slipping.
+[17:42 --> 17:43] She was no longer as
+[17:43 --> 17:44] indispensable as she had once
+[17:44 --> 17:45] thought herself.
+[17:46 --> 17:47] Her solution to this problem
+[17:47 --> 17:49] was not to reform her ways and
+[17:49 --> 17:50] devote herself to Claudius and
+[17:50 --> 17:52] make sure that Britannicus was
+[17:52 --> 17:53] always the first and last
+[17:53 --> 17:54] name on the list of heirs.
+[17:55 --> 17:57] But instead, she schemed to
+[17:57 --> 17:58] get rid of Claudius altogether
+[17:58 --> 18:00] before he had a chance to
+[18:00 --> 18:01] turn on her.
+[18:02 --> 18:04] She had powerful friends, and
+[18:04 --> 18:04] more than enough of them
+[18:04 --> 18:06] wanted the Julio Claudians
+[18:06 --> 18:07] expelled from power, but she
+[18:07 --> 18:09] decided to ditch the stuttering
+[18:09 --> 18:10] emperor and, with senatorial
+[18:10 --> 18:12] support, find a new husband
+[18:12 --> 18:13] and elevate him to the
+[18:13 --> 18:14] throne.
+[18:15 --> 18:16] The Julio Claudians would be
+[18:16 --> 18:16] out.
+[18:18 --> 18:19] How exactly she thought this
+[18:19 --> 18:20] was going to work is sort of
+[18:20 --> 18:22] an open question, as in
+[18:22 --> 18:24] hindsight, the whole plot
+[18:24 --> 18:25] looks not even half-baked,
+[18:26 --> 18:27] but more like the mix is
+[18:27 --> 18:28] still sitting in a bowl on
+[18:28 --> 18:29] the counter.
+[18:31 --> 18:32] Messalina had hooked up with
+[18:32 --> 18:34] a consul designate named
+[18:34 --> 18:36] Gaius Silius, an attractive,
+[18:36 --> 18:38] intelligent, and well-bred man
+[18:38 --> 18:39] who Messalina hoped would
+[18:39 --> 18:40] make a fine emperor.
+[18:41 --> 18:43] They carried on an affair
+[18:43 --> 18:44] behind the backs of both of
+[18:44 --> 18:45] their spouses until Messalina
+[18:45 --> 18:47] demanded, in some sort of
+[18:47 --> 18:48] test of love and loyalty,
+[18:49 --> 18:50] that Silius divorce his wife.
+[18:51 --> 18:53] The senator complied and then
+[18:53 --> 18:54] began to exert pressure on
+[18:54 --> 18:56] Messalina to do the same.
+[18:57 --> 18:58] They were both way beyond
+[18:58 --> 18:59] the point of no return.
+[18:59 --> 19:00] Everyone knew that they were
+[19:00 --> 19:02] lovers and why Silius had
+[19:02 --> 19:03] divorced his wife, so they
+[19:03 --> 19:05] may as well go all in.
+[19:06 --> 19:07] Finally, Messalina agreed
+[19:07 --> 19:08] that it was time for them
+[19:08 --> 19:09] to make their move.
+[19:10 --> 19:11] They would wed first and
+[19:11 --> 19:13] then kill Claudius.
+[19:13 --> 19:14] Silius, the husband of
+[19:14 --> 19:15] the empress, would step
+[19:15 --> 19:17] into power and everything
+[19:17 --> 19:18] would be super-duper.
+[19:19 --> 19:20] Except, what?
+[19:21 --> 19:22] Did they really think that
+[19:22 --> 19:23] they would be able to get
+[19:23 --> 19:24] married without the emperor
+[19:24 --> 19:26] finding out about it, and
+[19:26 --> 19:27] that once he found out
+[19:27 --> 19:28] that his wife had, you
+[19:28 --> 19:30] know, openly left him for
+[19:30 --> 19:31] another man, that her
+[19:31 --> 19:32] position of empress would
+[19:32 --> 19:33] not be compromised?
+[19:34 --> 19:35] The whole episode is
+[19:35 --> 19:37] just weirdly unthought out.
+[19:39 --> 19:40] Regardless, in 48, when
+[19:40 --> 19:42] Claudius was in Ostia
+[19:42 --> 19:43] overseeing a construction
+[19:43 --> 19:44] project, Messalina and
+[19:44 --> 19:45] Silius got married.
+[19:46 --> 19:47] And not some secret
+[19:47 --> 19:48] wedding where the
+[19:48 --> 19:49] witnesses are sworn not
+[19:49 --> 19:50] to reveal what they have
+[19:50 --> 19:51] seen and the priest is
+[19:51 --> 19:52] killed afterwards.
+[19:53 --> 19:54] No, a big, lavish
+[19:54 --> 19:55] ceremony.
+[19:55 --> 19:57] Drinks, dancing, the
+[19:57 --> 19:59] works, all right out in
+[19:59 --> 19:59] the open.
+[20:00 --> 20:02] Narcissus finally decided
+[20:02 --> 20:03] at this point that things
+[20:03 --> 20:04] had gone far enough.
+[20:04 --> 20:06] Well, way too far, actually,
+[20:06 --> 20:08] and resolved now to tell
+[20:08 --> 20:09] the truth to Claudius about
+[20:09 --> 20:10] his wife.
+[20:11 --> 20:12] Though Narcissus had
+[20:12 --> 20:13] formed a convenient
+[20:13 --> 20:14] alliance with Messalina,
+[20:14 --> 20:16] his first loyalty was to
+[20:16 --> 20:17] Claudius, and it was
+[20:17 --> 20:18] pretty clear that a major
+[20:18 --> 20:19] coup was in the works.
+[20:20 --> 20:21] It was time to throw
+[20:21 --> 20:22] Messalina under the bus.
+[20:24 --> 20:25] Narcissus induced two of
+[20:25 --> 20:26] Claudius' mistresses,
+[20:26 --> 20:27] yes, Claudius had
+[20:27 --> 20:29] mistresses, which was
+[20:29 --> 20:31] different, to reveal the
+[20:31 --> 20:33] truth about Messalina's
+[20:33 --> 20:33] infidelity.
+[20:34 --> 20:35] Once the code of silence
+[20:35 --> 20:37] was broken, everyone that
+[20:37 --> 20:38] Claudius turned to for
+[20:38 --> 20:39] confirmation confirmed
+[20:39 --> 20:40] the stories.
+[20:41 --> 20:42] The emperor headed back
+[20:42 --> 20:44] to Rome, but before he
+[20:44 --> 20:45] arrived, Messalina got
+[20:45 --> 20:46] word that the jig was
+[20:46 --> 20:47] up and that her husband
+[20:47 --> 20:48] now knew everything.
+[20:49 --> 20:50] She packed up the
+[20:50 --> 20:51] children and headed out
+[20:51 --> 20:52] on the road to Ostia to
+[20:52 --> 20:54] intercept Claudius and
+[20:54 --> 20:55] hopefully talk to him
+[20:55 --> 20:56] alone before he turned on
+[20:56 --> 20:57] her completely.
+[20:57 --> 20:59] But as she approached the
+[20:59 --> 21:00] imperial procession,
+[21:00 --> 21:01] Narcissus, riding with
+[21:01 --> 21:03] Claudius, openly denounced
+[21:03 --> 21:04] her and forbade her from
+[21:04 --> 21:05] speaking with Claudius
+[21:05 --> 21:06] privately.
+[21:07 --> 21:08] Messalina tagged along as
+[21:08 --> 21:09] the entourage made its
+[21:09 --> 21:11] way back to Rome, but
+[21:11 --> 21:12] was never able to crack
+[21:12 --> 21:13] the perimeter Narcissus
+[21:13 --> 21:14] had set up around the
+[21:14 --> 21:15] emperor's carriage.
+[21:16 --> 21:17] Back in the city,
+[21:17 --> 21:18] Claudius was taken
+[21:18 --> 21:19] straight away to the
+[21:19 --> 21:20] home of Silius, which
+[21:20 --> 21:22] Narcissus told him he
+[21:22 --> 21:23] would practically be able
+[21:23 --> 21:24] to recognize as his own.
+[21:25 --> 21:26] Messalina had been
+[21:26 --> 21:27] transferring imperial
+[21:27 --> 21:28] furniture and art into the
+[21:28 --> 21:29] home of her lover for
+[21:29 --> 21:31] some time, and as soon as
+[21:31 --> 21:32] he walked in, Claudius
+[21:32 --> 21:33] knew that all the
+[21:33 --> 21:34] accusations were true.
+[21:36 --> 21:37] Messalina tried to deny
+[21:37 --> 21:38] everything, especially
+[21:38 --> 21:39] the crazy notion that
+[21:39 --> 21:40] she had openly married
+[21:40 --> 21:41] Silius.
+[21:41 --> 21:42] I mean, how stupid
+[21:42 --> 21:43] would that be?
+[21:43 --> 21:44] But the literally
+[21:44 --> 21:45] hundreds of witnesses
+[21:45 --> 21:47] to the ceremony were
+[21:47 --> 21:48] hard to argue with.
+[21:49 --> 21:50] Even still, Claudius,
+[21:50 --> 21:51] who was naturally
+[21:51 --> 21:52] inclined towards
+[21:52 --> 21:53] forgiveness, wavered
+[21:53 --> 21:54] over the fate of his wife.
+[21:55 --> 21:56] Narcissus, Pallas,
+[21:57 --> 21:57] and the other
+[21:57 --> 21:58] influential freedmen,
+[21:59 --> 21:59] were adamant that she
+[21:59 --> 22:00] must be executed,
+[22:01 --> 22:01] and that what she had
+[22:01 --> 22:03] done was nothing less
+[22:03 --> 22:04] than treason.
+[22:04 --> 22:05] But Claudius hesitated.
+[22:06 --> 22:07] The story then goes
+[22:07 --> 22:08] that Narcissus used
+[22:08 --> 22:09] the emperor's seal
+[22:09 --> 22:10] to send the execution
+[22:10 --> 22:11] order himself.
+[22:12 --> 22:13] A soldier knocked down
+[22:13 --> 22:14] Messalina's door
+[22:14 --> 22:15] and presented her
+[22:15 --> 22:15] with the warrant,
+[22:16 --> 22:17] giving her the option
+[22:17 --> 22:18] of committing suicide
+[22:18 --> 22:18] if she chose.
+[22:19 --> 22:20] But when she could not
+[22:20 --> 22:22] bring herself to do it,
+[22:22 --> 22:23] the guard stabbed her
+[22:23 --> 22:24] to death.
+[22:25 --> 22:26] Claudius was informed
+[22:26 --> 22:27] after the fact
+[22:27 --> 22:28] and is reported to
+[22:28 --> 22:28] have taken the news
+[22:28 --> 22:29] without showing much
+[22:29 --> 22:30] sign one way or the
+[22:30 --> 22:31] other that he cared,
+[22:31 --> 22:32] which seems a bit
+[22:32 --> 22:33] out of character,
+[22:33 --> 22:34] as he seemed
+[22:34 --> 22:35] genuinely devoted to her,
+[22:35 --> 22:37] but that's what they say.
+[22:38 --> 22:40] Tacitus closes his chapter
+[22:40 --> 22:41] on the fall of Messalina
+[22:41 --> 22:41] with a line,
+[22:42 --> 22:43] the vengeance on Messalina
+[22:43 --> 22:44] was just,
+[22:44 --> 22:45] but it had terrible
+[22:45 --> 22:46] consequences.
+[22:48 --> 22:49] There will be no episode
+[22:49 --> 22:49] next week,
+[22:50 --> 22:50] but when we return
+[22:50 --> 22:51] in two weeks,
+[22:51 --> 22:52] we will get into
+[22:52 --> 22:53] those terrible consequences.
+[22:54 --> 22:55] The emperor couldn't
+[22:55 --> 22:56] remain a bachelor for long,
+[22:57 --> 22:57] and in the search
+[22:57 --> 22:58] for a new empress,
+[22:58 --> 23:00] each of his freedmen
+[23:00 --> 23:01] backed a different candidate.
+[23:03 --> 23:04] Narcissus advised
+[23:04 --> 23:05] remarrying Pitina.
+[23:05 --> 23:06] Her daughter with
+[23:06 --> 23:06] Claudius,
+[23:07 --> 23:08] Claudia Antonia,
+[23:08 --> 23:09] had married a fine young man
+[23:09 --> 23:11] named Faustus Cornelius
+[23:11 --> 23:11] Sulla Felix,
+[23:12 --> 23:13] a descendant of
+[23:13 --> 23:13] the original Sulla,
+[23:14 --> 23:15] who was also a cousin
+[23:15 --> 23:16] of the central
+[23:16 --> 23:17] Julio-Claudian dynasty.
+[23:18 --> 23:19] Narcissus had begun
+[23:19 --> 23:20] to have his doubts
+[23:20 --> 23:20] about the worth
+[23:20 --> 23:22] of Britannicus as an heir
+[23:22 --> 23:23] and hoped that the older
+[23:23 --> 23:25] and more experienced Faustus
+[23:25 --> 23:27] would win the emperor's favor.
+[23:28 --> 23:29] Callistus, on the other hand,
+[23:29 --> 23:30] advised marrying
+[23:30 --> 23:31] Lolia Paulina,
+[23:31 --> 23:33] an ex-wife of Caligula,
+[23:33 --> 23:34] who he knew from the time
+[23:34 --> 23:35] they had spent together
+[23:35 --> 23:36] in the previous emperor's court.
+[23:38 --> 23:38] You can see that
+[23:38 --> 23:39] each of the freedmen
+[23:39 --> 23:41] was backing a different horse,
+[23:41 --> 23:42] not just because they thought
+[23:42 --> 23:44] that their preferred candidate
+[23:44 --> 23:45] would be better for Claudius,
+[23:45 --> 23:47] but also because they thought
+[23:47 --> 23:47] that she would be better
+[23:47 --> 23:49] for them personally.
+[23:50 --> 23:51] The secretary of the
+[23:51 --> 23:52] treasury palace, though,
+[23:52 --> 23:54] would eventually win the argument.
+[23:54 --> 23:56] He pushed for a union
+[23:56 --> 23:57] with Agrippina.
+[23:58 --> 23:59] The Julians and Claudians
+[23:59 --> 24:00] had been split from the time
+[24:00 --> 24:01] of the rivalry between
+[24:01 --> 24:03] Tiberius and Germanicus,
+[24:03 --> 24:05] and it was time to heal the rift.
+[24:06 --> 24:07] Plus Agrippina and her son
+[24:07 --> 24:09] would always be a
+[24:09 --> 24:10] rallying point for dissidents
+[24:10 --> 24:11] as long as they remained
+[24:11 --> 24:12] outside the dynasty.
+[24:13 --> 24:15] Co-op them and a major threat
+[24:15 --> 24:16] to Claudius would be
+[24:16 --> 24:17] instantly eliminated.
+[24:18 --> 24:19] Claudius was moved
+[24:19 --> 24:20] by these last points
+[24:20 --> 24:22] and decided to marry Agrippina
+[24:22 --> 24:24] on New Year's Day of 48 A.D.
+[24:25 --> 24:26] Now, this decision
+[24:26 --> 24:27] was not without controversy.
+[24:28 --> 24:29] We have covered a few marriages
+[24:29 --> 24:31] so far that would be considered
+[24:31 --> 24:33] incestual by our standards,
+[24:33 --> 24:34] but did not raise an eyebrow
+[24:34 --> 24:35] in ancient Rome.
+[24:36 --> 24:38] But a man marrying the daughter
+[24:38 --> 24:39] of his brother?
+[24:39 --> 24:41] That, my friends, is incest.
+[24:42 --> 24:43] The people were shocked,
+[24:44 --> 24:45] scandalized by the news,
+[24:45 --> 24:46] and they hated it,
+[24:46 --> 24:47] hated it, hated it.
+[24:48 --> 24:50] But it was not the scandalous
+[24:50 --> 24:51] nature of the marriage
+[24:51 --> 24:53] that was the terrible consequence
+[24:53 --> 24:54] that Tacitus referred to.
+[24:55 --> 24:56] Rather, it was what happened
+[24:56 --> 24:58] once Agrippina got into power.
+[24:59 --> 25:01] Like Livia before her,
+[25:01 --> 25:02] she strove with a single-minded
+[25:02 --> 25:04] purpose to place her own son
+[25:04 --> 25:05] on the throne.
+[25:05 --> 25:07] And there is no arguing
+[25:07 --> 25:09] that Nero becoming emperor
+[25:09 --> 25:10] was a terrible consequence,
+[25:10 --> 25:11] indeed.

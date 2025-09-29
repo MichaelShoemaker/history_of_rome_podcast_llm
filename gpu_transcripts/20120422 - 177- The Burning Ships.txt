@@ -1,0 +1,279 @@
+# 20120422 - 177- The Burning Ships
+# Detected language: en
+# Duration: 0.00 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:06] This week's episode is brought to you by Audible. As you know, Audible is the
+[00:06 --> 00:10] internet's leading provider of audio entertainment with over a hundred thousand
+[00:10 --> 00:15] titles to choose from. When you're done with this episode, go to audiblepodcast.com
+[00:15 --> 00:22] forward slash rome. That again audiblepodcast.com forward slash rome. By
+[00:22 --> 00:26] going to that address, you qualify for a free book download when you sign up for
+[00:26 --> 00:30] the 30-day trial membership. There is no obligation to continue the service and
+[00:30 --> 00:35] you can cancel anytime and keep the free book download. You can also keep going
+[00:35 --> 00:38] with one of the monthly subscription options and get great deals on all
+[00:38 --> 00:44] future audiobook purchases. This week I am going to stick with the basics and
+[00:44 --> 00:51] re-recommend another classic, The Histories of Rome by Livy. This is the
+[00:51 --> 00:55] stuff that really fired me up to start producing a podcast in the first place
+[00:56 --> 01:01] Cincinnati's, The Twelve Tables, The Secession of the Plebs, Marcus Furious
+[01:01 --> 01:07] Camillus, the good old days. Just remember to go to audiblepodcast.com forward slash
+[01:07 --> 01:09] rome so that they know who sent you.
+[01:15 --> 01:23] Hello and welcome to The History of Rome, episode 177, The Burning Ships.
+[01:27 --> 01:33] In the summer of 465, the quote unquote emperor, Libius Severus died. No one
+[01:33 --> 01:38] paid him much mind while he was alive and so no one paid him much mind when he
+[01:38 --> 01:44] died. But though the emperors of the West had been rendered so ineffectual that it
+[01:44 --> 01:48] literally didn't matter whether they lived or died, no one thought that a
+[01:48 --> 01:53] successor wouldn't soon be appointed. The new appointee would be another puppet
+[01:53 --> 02:00] of course, but the show must go on, you know? But while the Mediterranean world
+[02:00 --> 02:06] wondered who would be the next emperor, a funny thing happened. No next emperor
+[02:06 --> 02:14] appeared. The virtual king of Italy, Riccimer, was done with all that rot. He
+[02:14 --> 02:18] was in charge of Italy. He had been in charge of Italy, so why should he have to
+[02:18 --> 02:27] So from the summer of 465 until April of 467, he didn't share power with anyone.
+[02:27 --> 02:35] There just wasn't an emperor of the Western Empire. Over in Constantinople,
+[02:35 --> 02:40] the Eastern Emperor Leo was not thrilled about this development, but he was in no
+[02:40 --> 02:45] immediate position to do anything about it. Through all of 466, the Eastern
+[02:45 --> 02:51] Empire was dealing with fairly serious raids by the Huns and the Goths. Leo had
+[02:51 --> 02:58] his hands full, and so Riccimer got away with his de facto kingship. But as 466
+[02:58 --> 03:03] gave way to 467, the Western Empire's problems started becoming the Eastern
+[03:03 --> 03:08] Empire's problems, and so Leo felt obliged to finally do something about the
+[03:08 --> 03:14] vacant imperial throne in Italy. And which problem was it that specifically was
+[03:14 --> 03:21] becoming the Eastern Empire's problem? The Vandals, of course. Gonseric was still
+[03:21 --> 03:25] hankering to get Olibrius in power, and with Riccimer refusing to listen, the
+[03:25 --> 03:31] Vandal king decided to turn up the heat on Constantinople. So Gonseric extended
+[03:31 --> 03:37] Vandal piracy into eastern waters and started raiding Greece. His strategy, I
+[03:37 --> 03:42] think, was to trade stopping the piracy in Greece for the elevation of Olibrius.
+[03:43 --> 03:49] But if this was the point, then it backfired spectacularly, because mostly
+[03:49 --> 03:54] these new raids just made Leo really, really mad, and convinced him that it was
+[03:54 --> 03:57] finally time to do something about the illegal Vandal kingdom that had been
+[03:57 --> 04:05] squatting in Roman North Africa for the last 30 years. But before he could do
+[04:05 --> 04:09] something about the squatters in North Africa, Leo wanted to make sure that the
+[04:09 --> 04:14] sources of the West would be properly mustered to help out the cause. And with
+[04:14 --> 04:18] King Riccimer not exactly the most dependable bloke on the block, Leo
+[04:18 --> 04:23] decided that it was high time he filled the almost two-year-old imperial vacancy.
+[04:24 --> 04:29] But who to elevate, who to elevate? He wasn't going to give Gonseric the
+[04:29 --> 04:34] satisfaction of elevating Olibrius, because Olibrius might wind up being even
+[04:34 --> 04:40] less dependable than Riccimer. Because at some point in here, Gonseric had made the
+[04:40 --> 04:44] grand gesture of releasing the old Empress Liciniudoxia and her daughter
+[04:44 --> 04:50] Placidia, and putting them on a boat to Constantinople. Reunited with his wife, or
+[04:50 --> 04:55] should I say probably united for the first time with his wife, Olibrius might
+[04:55 --> 05:00] be thinking that Gonseric wasn't such a bad guy after all, and maybe worth
+[05:00 --> 05:06] lying with if he ever got the chance to be Western Emperor. So for Leo, Olibrius
+[05:06 --> 05:13] was ruled out. So who did that leave? Interestingly, it left the man who very
+[05:13 --> 05:17] nearly became Emperor of the East just before Leo wound up getting the job back
+[05:17 --> 05:25] in 457, Procopius Anthemius. Anthemius, as you'll recall, was the grandson of the
+[05:25 --> 05:30] old Praetorian prefect Anthemius, and he was married to the late Emperor Marcian's
+[05:30 --> 05:36] daughter. Near the end of Marcian's life, the Emperor had heaped honor upon honor
+[05:36 --> 05:41] upon his son-in-law, and it looked a lot like Marcian himself expected Anthemius
+[05:41 --> 05:49] to succeed him. But then Leo was crowned instead. This meant that for the last few
+[05:49 --> 05:54] years, Anthemius had just been kind of lurking around Constantinople, offering a
+[05:54 --> 05:58] totally plausible alternative should a bunch of conspirators get together and
+[05:58 --> 06:04] decide to do away with Leo. So Leo decided to kill two birds with one stone.
+[06:06 --> 06:10] By appointing Anthemius Emperor of the West, he was not only getting a rock-solid
+[06:10 --> 06:14] military commander, eminently capable of doing his part in the coming war with the
+[06:14 --> 06:21] Vandals, but he was also getting rid of a dangerous rival. So in the spring of 467,
+[06:21 --> 06:24] Anthemius headed off to Italy to assume his new position.
+[06:27 --> 06:32] But what about Riccimer, you ask? Was he just going to accept Anthemius's elevation?
+[06:33 --> 06:38] Well, maybe he would, and maybe he wouldn't. But Anthemius didn't just throw on a
+[06:38 --> 06:43] backpack and wander into Italy like some random tourist. As he approached the Alps,
+[06:43 --> 06:49] he swung through Dalmatia and picked up Marcellinus and Marcellinus's army. Then
+[06:49 --> 06:55] he crossed over into Italy. Riccimer could either get with the program or fight
+[06:55 --> 07:00] to the death. But just remember that even if you beat me, Leo is probably going to
+[07:00 --> 07:04] take it personally and turn that armada he's building to fight the Vandals against
+[07:04 --> 07:07] you. So why don't you just get with the program?
+[07:09 --> 07:14] But that said, it's not like Anthemius wasn't aware that he was a Greek-speaking
+[07:14 --> 07:19] outsider in Italy. Riccimer and the Italian nobility formed a pretty tight
+[07:19 --> 07:24] clique these days. So for Anthemius, leveraging his way into power was one
+[07:24 --> 07:29] thing. Staying in power and being able to do anything with that power, that was a
+[07:29 --> 07:35] whole different ball of wax. So straight away, he arranged a good old-fashioned
+[07:35 --> 07:40] political marriage between his only daughter and Riccimer. Look, now we're all
+[07:40 --> 07:46] one big happy family, right? Cool. Good. Because we're about to launch like a
+[07:46 --> 07:50] six-pronged assault of the Vandals, and it's important that we're all on the same
+[07:50 --> 07:56] page. At almost exactly the same time, Leo was having these same sorts of thoughts,
+[07:57 --> 08:02] and so he married his daughter to Anthemius's son. So now we're all one big
+[08:02 --> 08:07] happy family, right? Cool. Because seriously, this is going to be a very
+[08:07 --> 08:14] complicated operation, and we all need to be together on this thing. But there was
+[08:14 --> 08:19] one member of this big happy family who wasn't cool, Leo's brother-in-law,
+[08:19 --> 08:24] Basiliscus. And unfortunately for everyone, Basiliscus was about to be
+[08:24 --> 08:31] named the point man for this very complicated operation. Depending on who
+[08:31 --> 08:36] you believe, Basiliscus was either too dumb or too clever by half to be leading
+[08:36 --> 08:42] the invasion. But under pressure from his wife, Leo agreed to put her brother
+[08:42 --> 08:47] in charge of the war. And it's not like this war was going to be some little PR
+[08:47 --> 08:52] stunt. The East had sent armies west to keep a lid on the Vandals at least twice
+[08:52 --> 08:58] before, but both of those were more shows of force or negotiating tactics than
+[08:58 --> 09:04] anything else. But Leo was going big. This was not about negotiation. This was
+[09:04 --> 09:11] about conquest. Our forever exaggerated sources are probably just a little
+[09:11 --> 09:16] exaggerated. But still, just to give you an idea of the scope of this thing, they
+[09:16 --> 09:21] say that Leo spent tens of thousands of pounds of gold building a fleet, that he
+[09:21 --> 09:27] spent hundreds of thousands of pounds of silver. They say that 1,100 ships bearing
+[09:27 --> 09:34] 100,000 men set sail from Constantinople in the spring of 468. Like I say,
+[09:34 --> 09:42] this was not about negotiation. This was about conquest. While this fleet sailed,
+[09:43 --> 09:48] the Western forces prepared to do their part. The General Marcellinus and his
+[09:48 --> 09:52] army were tasked with the mission of dislodging the Vandals from their bases
+[09:52 --> 09:56] in Sardinia and Sicily, and then providing logistical support to the main
+[09:56 --> 10:01] Eastern invasion army. There is also some scanty evidence that Anthemius tried to
+[10:01 --> 10:06] send Roman forces up around through Spain, or that he tried to induce local
+[10:06 --> 10:11] forces there to join in the campaign, opening up what would have been a
+[10:11 --> 10:19] fourth front of the war. But it doesn't appear to have come to anything. At first,
+[10:19 --> 10:24] the invasion went as well as the Romans might expect, given their firepower. The
+[10:24 --> 10:28] massive Eastern fleet was met by a force of Vandal ships, but the Vandals were
+[10:28 --> 10:32] completely overmatched, and it is reported that hundreds of their ships were
+[10:32 --> 10:38] sunk. Following this initial victory, the two main fronts of the war were
+[10:38 --> 10:43] officially opened. A land army was deposited near Tripoli under the
+[10:43 --> 10:47] direction of a general named Heraclius. This army would approach the Vandal
+[10:47 --> 10:52] capital of Carthage, while Basiliscus led the rest of the fleet around to
+[10:52 --> 10:57] blockade the city. Heraclius had no trouble with the locals, and as he
+[10:57 --> 11:03] approached Carthage, he captured every city he passed. Meanwhile, up north,
+[11:03 --> 11:07] Marcellinus had opened up the third front of the war off the Italian coast,
+[11:08 --> 11:12] and after driving the Vandals off Sardinia with relative ease, he turned and
+[11:12 --> 11:18] began the slightly more difficult task of winning back control of Sicily. At
+[11:18 --> 11:23] this point, all was going well. All was going according to plan, and it looked
+[11:23 --> 11:28] like North Africa would be retaken in a matter of months, if not weeks.
+[11:31 --> 11:37] But then things started to unravel. I'm not sure exactly when this happened,
+[11:37 --> 11:42] but it had to have been shortly after winning back Sicily. But Marcellinus was
+[11:42 --> 11:47] on the island preparing ships to continue on to North Africa, either as
+[11:47 --> 11:51] logistical support for the land army, or to simply sail down with an army of his
+[11:51 --> 11:58] own and join the fight. Whatever he was up to, he never got off the island. He
+[11:58 --> 12:03] was betrayed by some of his officers and murdered, almost certainly at the
+[12:03 --> 12:07] instigation of Richemer, who feared that his rival was gaining too much power.
+[12:09 --> 12:21] Richemer then refused to let any of the western ships leave for North Africa. No
+[12:21 --> 12:25] eastern army is like a hundred thousand strong, right? More than enough to
+[12:25 --> 12:33] finish the job on their own. As I just mentioned, there are two possible
+[12:33 --> 12:39] explanations for why this invasion is about to turn into such a disaster. The
+[12:39 --> 12:44] first is that Basiliscus was incompetent, just straight up didn't have what it took
+[12:44 --> 12:50] to walk a ball over to a can and drop it in, which was just about all that was
+[12:50 --> 12:57] left for him to do. The other explanation was that he was a sneaky snake, and he
+[12:57 --> 13:04] botched the thing on purpose. In this telling, Basiliscus had imperial ambitions
+[13:04 --> 13:09] of his own, and he was in league with the eastern general Aspar to undermine Leo by
+[13:09 --> 13:15] wrecking the emperor's signature initiative. As Richemer had discovered, finding a
+[13:16 --> 13:22] puppet was not as easy as you might think. And following Marcion's death, Aspar had
+[13:22 --> 13:28] pushed for Leo over Anthemius because he thought Leo would be easy to control. But
+[13:28 --> 13:33] Leo had not been so easy to control. And indeed, Aspar suspected that the emperor
+[13:33 --> 13:38] was in the middle of a little side project to completely shut Aspar and Aspar's
+[13:38 --> 13:45] Germanic allies out of power. So the thinking goes, Aspar had gotten together
+[13:45 --> 13:49] with Basiliscus, and the two had hatched a plan to intentionally screw up the
+[13:49 --> 13:56] invasion to humiliate Leo. This had been a massively expensive campaign. If it
+[13:56 --> 14:00] ended badly, people would start asking why the emperor had nearly bankrupted
+[14:00 --> 14:06] the east on some boondoggle in the west. Maybe those questions would get hostile
+[14:06 --> 14:14] enough that Leo could be overthrown and Basiliscus installed in his place. This
+[14:14 --> 14:22] was a clever plan, but as we will see, probably too clever by half. Because, duh,
+[14:22 --> 14:28] Basiliscus is about to come off looking like quite a fool. And really, who wants
+[14:28 --> 14:34] a fool or an emperor? With the noose quickly tightening around his neck,
+[14:35 --> 14:39] Gansaric scrambled to figure a way out of what appeared to be his certain doom.
+[14:40 --> 14:45] Romans were coming by land, Romans were coming by sea. In a few days, Carthage
+[14:45 --> 14:49] would be blockaded, and that would probably be all she wrote for the Vandal
+[14:49 --> 14:56] kingdom of North Africa. But Gansaric was a survivor, so as Basiliscus
+[14:56 --> 15:00] approached, Gansaric sent out envoys to meet with the Romans and work something
+[15:00 --> 15:07] out. These envoys came bearing, let's call them gifts, and they begged Basiliscus
+[15:07 --> 15:11] to give Gansaric a few days to work out the logistics of his surrender.
+[15:13 --> 15:17] Basiliscus accepted these gifts and decided that giving the Vandal some
+[15:17 --> 15:23] breathing space at this critical juncture seemed like a fine idea. But
+[15:23 --> 15:28] Gansaric isn't planning to surrender, you dummy. He's preparing to fight it out to
+[15:28 --> 15:33] the death. He just wants to make sure the final battle is fought on his terms,
+[15:33 --> 15:40] because he's, you know, smart. As the Roman fleet sat at anchor, twiddling its
+[15:40 --> 15:45] thumbs and refusing to bring the hammer down on Carthage, Gansaric laid his
+[15:45 --> 15:50] plans carefully. Some of his ships he loaded with every man he could find who
+[15:50 --> 15:56] could carry a sword. Soldier, civilian, didn't really matter. Here's a spear, you
+[15:56 --> 16:01] get on this ship. Here's an axe, you get on that ship. But a few of these ships he
+[16:01 --> 16:08] left empty. These he loaded with flammable material, and, ah yes, I can see
+[16:08 --> 16:14] where this is going. Then Gansaric waited until the winds were right. And on the
+[16:14 --> 16:20] fifth day after buying off Basiliscus, the winds were right. The Vandal fleet
+[16:20 --> 16:25] set sail. Maybe Basiliscus thought they were just abandoning the city, or maybe
+[16:25 --> 16:30] he realized that he had been duped. Who knows? But as the Vandals approached,
+[16:30 --> 16:34] some of the ships started coming ahead of the rest, and oh my goodness, those
+[16:34 --> 16:40] ships are on fire. We should probably do something, and oh, it's too late, isn't it?
+[16:41 --> 16:45] The fire ships smashed into the totally surprised and tightly bunched Roman
+[16:45 --> 16:51] fleet, and the fires quickly spread. As soon as the fiery chaos had the Romans
+[16:51 --> 16:57] thoroughly distracted, the rest of the Vandal fleet descended. Though I'm sure
+[16:57 --> 17:02] Gansaric lost a few ships of his own to the fires, it was nothing compared to the
+[17:02 --> 17:08] Romans, who lost something like 600 ships, just about half their fleet. And who
+[17:08 --> 17:18] knows how many men went down with those ships. With the invasion in utter bloody
+[17:18 --> 17:24] fiery chaos, Basiliscus, who did not go down with any of his ships, decided to
+[17:24 --> 17:31] throw in the towel and withdraw. If his plan all along had been to botch the
+[17:31 --> 17:37] invasion to make Leo look bad, then Basiliscus, A, totally succeeded, but B,
+[17:38 --> 17:43] was about to discover something he had obviously overlooked. A debacle of this
+[17:43 --> 17:48] magnitude might reflect badly on an emperor, but it's also going to reflect
+[17:48 --> 17:55] really badly on the guy who actually led the debacle. Disgraced, Basiliscus
+[17:55 --> 18:01] basically had to go into hiding upon his return to Constantinople, which is why
+[18:01 --> 18:07] the whole make Leo look bad explanation, while juicy, is not really a complete
+[18:07 --> 18:14] meal. Basiliscus had to have known that it would be bad for him too, right? I mean,
+[18:14 --> 18:19] obviously it wasn't supposed to go down as horribly as it did, but still, what
+[18:19 --> 18:26] could he have been thinking? Either way, Basiliscus is a dingbat. Seriously, go
+[18:26 --> 18:33] look this guy up. He is a jackass. The failed attempt to retake North Africa
+[18:33 --> 18:39] nearly bankrupted the treasuries of both East and West, and produced no tangible
+[18:39 --> 18:45] benefits. It would be 65 years before Constantinople made another stab at retaking
+[18:45 --> 18:55] North Africa. After the failures of 468, however, Anthemius refused to simply give
+[18:55 --> 19:00] up the ghost and accept that being emperor of the West basically meant being
+[19:00 --> 19:07] the kind of ruler of the Italian peninsula. So, like Majorion, Anthemius
+[19:07 --> 19:12] attempted to keep pressing back against the tide of history, and in 469 he
+[19:12 --> 19:18] instigated a campaign to retake Gaul. During the uncertain years of the
+[19:18 --> 19:23] Interregnum, when Riccimer ruled alone, the Goths up in Aquitaine became filled
+[19:23 --> 19:31] with a new expansionist spirit. In 466, Theodoric II had been killed by his far
+[19:31 --> 19:36] more ambitious younger brother, Euric, and under Euric's leadership, the Goths
+[19:36 --> 19:42] began to spread deeper into both Spain and Gaul, slowly annexing more and more
+[19:42 --> 19:49] territory. With his treasury drained, Anthemius was unable to halt this spread
+[19:49 --> 19:55] himself, but he did induce Rheothamus, the king of the Bretons, to fight on Rome's
+[19:55 --> 20:01] behalf. Possibly coming down from the island of Britain, but more likely coming
+[20:01 --> 20:05] in from the Brittany peninsula, Rheothamus did indeed march on Rome's
+[20:05 --> 20:12] behalf, but he was beaten and driven back by the newly empowered Goths. This
+[20:12 --> 20:17] brief little war is hardly worth mentioning in itself, but it is interesting
+[20:17 --> 20:21] in that Rheothamus is one of the possible candidates for the title of
+[20:21 --> 20:30] historical King Arthur. The next year saw no time for any kind of positive
+[20:30 --> 20:34] steps forward for the West, because the brief honeymoon period between
+[20:34 --> 20:39] Richemer and Anthemius was about to come to an abrupt end, as we all knew that it
+[20:39 --> 20:45] would. At some point in 470, a plot to assassinate Anthemius was uncovered in
+[20:45 --> 20:51] the upper reaches of the Imperial court. This plot centered around the master of
+[20:51 --> 20:56] offices, a man named Romanus, and after the plot was discovered, Anthemius
+[20:56 --> 21:03] understandably responded by executing Romanus for his treachery. The only hitch
+[21:03 --> 21:09] was that Romanus was a Richemer man through and through, and the virtual king
+[21:09 --> 21:13] of Italy did not appreciate it when one of his close associates was killed by
+[21:13 --> 21:19] some foreign aristocrat who thought himself emperor. Immediately after the
+[21:19 --> 21:24] execution, Richemer gathered up 6,000 men and marched them into Milan, shutting
+[21:24 --> 21:30] the gates behind them. Anthemius was down in Rome when Richemer decided to
+[21:30 --> 21:35] occupy Milan, and it was very clear to everyone that some kind of civil war was
+[21:35 --> 21:43] about to break out. But just as things were about to get out of hand, both sides
+[21:43 --> 21:50] decided to pull back. The Bishop of Pavia, a man named Epiphanius, acted as a go
+[21:50 --> 21:57] between, and the two rival leaders agreed to a one-year truce. Epiphanius, incidentally,
+[21:58 --> 22:03] was just getting started on a long and distinguished diplomatic career, and was
+[22:03 --> 22:09] eventually made Saint Epiphanius. And incidentally, a biography written in the
+[22:09 --> 22:14] early 500s detailing the Bishop's adventures through the crazy post-Roman
+[22:14 --> 22:19] Western world forms a key primary source for a lot of what we're talking about
+[22:19 --> 22:26] here today. Anyway, with a civil war averted, Anthemius took his one-year
+[22:26 --> 22:31] truce with Richemer and used it to once again attempt to reassert some control
+[22:31 --> 22:38] in Gaul and push back the encroaching Goths. An army led by Anthemius' own son
+[22:38 --> 22:43] crossed the Alps in 471, but history had turned decisively against the imperial
+[22:43 --> 22:48] authorities in Italy. The Romans were beaten back, and the Goths wound up
+[22:48 --> 22:52] stronger than ever, controlling virtually all of southern Gaul and
+[22:52 --> 22:57] severing the last link between Rome and the domain of the Suisson, the last
+[22:57 --> 23:05] remnant of Roman authority left in the north. With Anthemius failing to make
+[23:05 --> 23:12] headway in Gaul, his popularity in Italy faltered badly. His standing with the
+[23:12 --> 23:16] Italians had never been that great since they all saw him as some foreigner
+[23:16 --> 23:20] butting his head into their affairs, but they were willing to go along with him
+[23:20 --> 23:24] since he had the backing of the East, and who knows, maybe he can pull a rabbit
+[23:24 --> 23:30] out of his hat. But when he failed to pull out the rabbit, they turned on him.
+[23:31 --> 23:35] When the one-year truce with Richemer expired, the virtual king was crouched
+[23:35 --> 23:41] and ready to pounce. Anthemius' position was so weak that he didn't even bother
+[23:41 --> 23:46] trying to meet strength with strength. Instead, he feigned an illness and asked
+[23:46 --> 23:53] for asylum within St. Peter's. This move bought him time to send word to Leo that
+[23:53 --> 23:57] the natives had gotten restless and that maybe some muscle from the East was in
+[23:57 --> 24:03] order. But Leo was still reeling from the disastrous misadventure in North Africa,
+[24:04 --> 24:10] and plus he really didn't have any muscle to send. So instead, he sent one man who
+[24:10 --> 24:19] had some standing in the West to broker another truce, Olibrius. Now, sending Olibrius
+[24:19 --> 24:24] was perhaps a curious choice. Sure, the nobility of the West was bound to at least
+[24:24 --> 24:30] hear him out. He was, after all, one of them. But at the same time, this is a guy
+[24:30 --> 24:36] who has a reasonably valid claim to the throne himself. Certainly, Gansaric would
+[24:36 --> 24:41] back him at the first chance he got. So how did Leo not think that Olibrius wouldn't
+[24:41 --> 24:46] just show up, cut a deal with Richemer, oust Anthemius, and then make common cause
+[24:46 --> 24:52] with the Vandals? Well, for starters, Olibrius had to leave his wife and daughter
+[24:52 --> 24:58] behind in Constantinople, which is enough to keep most men honest. But beyond that,
+[24:59 --> 25:05] there is one other small point of importance. Leo did not really want Olibrius
+[25:05 --> 25:11] to broker a truce between Richemer and Anthemius. What Leo really wanted was for
+[25:11 --> 25:17] Anthemius' rule to be made perfectly secure. Richemer threatened that security.
+[25:17 --> 25:23] Olibrius, with his own claims to power, also threatened that security. So right
+[25:23 --> 25:28] before the diplomatic mission sailed, Leo went to one of the sub-secretaries and
+[25:28 --> 25:34] entrusted him with the real plan. The sub-secretary was given a note for
+[25:34 --> 25:41] Anthemius' eyes only. I want you to kill Richemer and Olibrius as soon as you get this.
+[25:45 --> 25:50] Next week, though, we will see how maybe Leo should not have put this in writing.
+[25:51 --> 25:55] Richemer had men stationed all over Italy, and when the diplomatic mission from
+[25:55 --> 26:01] Constantinople arrived at the port of Ostia, Richemer had men there too. Men with
+[26:01 --> 26:06] orders to search everyone and everything aboard to determine whether this thing
+[26:06 --> 26:12] was on the level. When Richemer discovered Leo's note, that's going to be the end
+[26:12 --> 26:17] of Anthemius, even though technically he had nothing to do with anything.

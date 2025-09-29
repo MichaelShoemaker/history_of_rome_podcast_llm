@@ -1,0 +1,334 @@
+# 20111016 - 155- The New Bishop of Milan
+# Detected language: en
+# Duration: 1624.06 seconds
+# Model: medium, Device: cuda
+
+[00:00 --> 00:16] Hello, and welcome to the History of Rome, Episode 155, The New Bishop of Milan.
+[00:16 --> 00:21] Last time, we left off with the Empire ever so temporarily at peace.
+[00:21 --> 00:27] The Sassanids had made no sudden moves while Theodosius had been occupied with the Goths,
+[00:27 --> 00:31] and the Germans of the Rhine frontier had been laying low since Gratian had swooped
+[00:31 --> 00:36] in and bopped the Alemanni in the head right before the Battle of Adrianople.
+[00:36 --> 00:42] For the briefest of moments, the Roman Empire was free from the burden of armed conflict.
+[00:42 --> 00:48] But sadly, it was inevitable that somebody, somewhere, was going to be unable to handle
+[00:48 --> 00:51] the sheer tranquility of it all and snap.
+[00:51 --> 00:57] And indeed, it took all of about ten minutes before somebody, somewhere, snapped.
+[00:57 --> 00:58] That somebody?
+[00:58 --> 01:04] A senior general named Magnus Maximus, who was the highest ranking officer on the island
+[01:04 --> 01:05] of Britain.
+[01:05 --> 01:10] Seizing the opportunity that quiet frontiers and dissatisfaction with the western Augustus
+[01:10 --> 01:17] Gratian provided, Maximus stormed down off Britannia in 383 and lit a big new fire where
+[01:17 --> 01:22] just moments before it looked like the Coles were about to finally burn themselves out.
+[01:22 --> 01:27] Such is life.
+[01:27 --> 01:32] There is not much to go on about why Maximus decided to suddenly revolt in 383.
+[01:32 --> 01:37] All we have to go on is vague hints that Gratian was not popular with the soldiers and that
+[01:37 --> 01:42] the Roman occupation of Britain was in bad shape morale-wise.
+[01:42 --> 01:47] To take the last part first, it had been a good fifteen years since the great barbarian
+[01:47 --> 01:51] invasion had nearly knocked the Romans off the island for good.
+[01:51 --> 01:56] If you'll recall, far from busting their humps fighting the barbarians off, disgruntled
+[01:56 --> 02:00] legionaries had actually joined in the plundering.
+[02:00 --> 02:05] You'll recall that when he arrived to take hold of the situation, Theodosius the Elder
+[02:05 --> 02:10] had been forced to rely on some pretty serious clemency to get the wayward troops back in
+[02:10 --> 02:13] their barracks.
+[02:13 --> 02:18] In the decade that followed, Britain was calm, but it does not appear that any of the underlying
+[02:18 --> 02:23] issues that had led all those soldiers to so readily switch their allegiance had been
+[02:23 --> 02:25] addressed.
+[02:25 --> 02:30] The bottom line was that serving on the island was an unglamorous gig with almost no opportunities
+[02:30 --> 02:33] for glory or enrichment.
+[02:33 --> 02:39] Though, yes, one does wonder if the British soldiers would have preferred getting annihilated
+[02:39 --> 02:44] at Adrianople.
+[02:44 --> 02:48] The more immediate motivation for the revolt, though, was a specific dissatisfaction with
+[02:48 --> 02:50] Gratian.
+[02:50 --> 02:54] We've already touched on the fact that the now twenty-four year old emperor had never
+[02:54 --> 02:59] been a soldier's soldier, and that his father had intentionally kept him out of the camps
+[02:59 --> 03:05] as a young man so that the soldiers wouldn't notice just how not a soldier's soldier the
+[03:05 --> 03:08] future emperor was.
+[03:08 --> 03:12] But now that Gratian was emperor, it was hard not to notice that he really wasn't
+[03:12 --> 03:15] one of them.
+[03:15 --> 03:20] I would like to point out, though, that it's not like he was a disaster or anything.
+[03:20 --> 03:26] He had, after all, delivered an impressive victory over the Alamani in early 378.
+[03:26 --> 03:31] So this was not so much a matter of failure undermining his authority, as it was temperament
+[03:31 --> 03:33] undermining his authority.
+[03:33 --> 03:39] Gratian, and can you blame him, preferred the luxuries and comforts of civilian life
+[03:39 --> 03:43] to the rough hardships of military life.
+[03:43 --> 03:49] From grunt to general then, the soldiers never really formed a bond with Gratian, and so
+[03:49 --> 03:59] when it came time to defend him or overthrow him, well, as we will see, Gratian died alone.
+[03:59 --> 04:04] The last specific detail we have about why the troops disliked the emperor was the fact
+[04:04 --> 04:11] that Gratian seemed to favor his elite Alon bodyguard at the expense of everyone else.
+[04:11 --> 04:16] In a story reminiscent of Constance and his archers, so reminiscent, in fact, that I wonder
+[04:16 --> 04:22] which, if either, story is actually true, Gratian appears to have grown so enamored
+[04:22 --> 04:28] with his Alon guards that on top of lavishing them with wealth and honors, he took to acting
+[04:28 --> 04:32] like them, and dressing like them.
+[04:32 --> 04:36] Now the troops up in Britain never would have witnessed this first hand, but disgruntled
+[04:36 --> 04:41] stories would have been passed around and done their dirty work to undermine Gratian's
+[04:41 --> 04:44] reputation anyway.
+[04:44 --> 04:49] I think the real impact of this favoritism though was most likely felt as Maximus's
+[04:49 --> 04:51] army was approaching Paris.
+[04:51 --> 04:55] The troops nearest Gratian would have seen it all for themselves, and so when it came
+[04:55 --> 05:00] time to fight or desert, they decided to desert.
+[05:00 --> 05:08] After all, if the Alon bodyguard is so awesome, well, let them protect the emperor.
+[05:08 --> 05:13] The other small bit of information we have about Maximus's motivation comes from the
+[05:13 --> 05:15] general's resume.
+[05:15 --> 05:20] See in particular that under previous work experience, we have him down as serving in
+[05:20 --> 05:26] North Africa under Theodosius the Elder during the revolt of Firmus, and before that, we
+[05:26 --> 05:31] have him down as very likely serving on the campaign to re-secure Britain after the barbarian
+[05:31 --> 05:37] invasions of 367-368, also under Theodosius the Elder.
+[05:37 --> 05:46] In other words, Maximus was a long time friend, ally, and compatriot of the Theodosian family.
+[05:46 --> 05:51] His relationship with the younger Theodosius, fifteen years his junior, would have gone
+[05:51 --> 05:57] back to the earliest stages of the now emperor's career, and given the tone of his correspondence
+[05:57 --> 06:02] with the Eastern Augustus immediately following the demise of Gratian, it is clear that not
+[06:02 --> 06:08] only did Maximus expect Theodosius to recognize him as the new Augustus of the West, but he
+[06:08 --> 06:12] expected Theodosius to be happy about it.
+[06:12 --> 06:17] When weighing the pros and cons of revolt, the fact that an old friend was now emperor
+[06:17 --> 06:28] of the East had to have been seen by Maximus as a huge, possibly decisive, pro.
+[06:28 --> 06:33] But before we get into the revolt of Maximus, I want to back up a little bit and introduce
+[06:33 --> 06:38] a man who was going to be right smack dab in the middle of it all.
+[06:38 --> 06:42] And not just right smack dab in the middle of the revolt, mind you, though he was right
+[06:42 --> 06:47] smack dab in the middle of the revolt, but right smack dab in the middle of everything
+[06:47 --> 06:51] that happens in the last quarter of the fourth century.
+[06:51 --> 06:59] State, church, diplomacy, war, peace, you name it, there he is.
+[06:59 --> 07:06] I speak of course of the man you just knew was going to pop up eventually, Aurelius Ambrosius,
+[07:06 --> 07:13] better known to us as St. Ambrose, the Bishop of Milan.
+[07:13 --> 07:19] Not to get off on too meta of a tangent, but I tend to see history as an interplay between
+[07:19 --> 07:26] broad socioeconomic factors and the specific actions of key individuals.
+[07:26 --> 07:31] Sometimes socioeconomic factors take the lead, like say the way the potato famine drove Irish
+[07:31 --> 07:35] migration to North America in the 1840s.
+[07:35 --> 07:41] Sometimes the two walk in lockstep, like say the way the conditions of post-World War I
+[07:41 --> 07:46] Germany made the rise of fascism possible, but that the specific and malevolent idiosyncrasies
+[07:46 --> 07:49] of Hitler defined the form that it took.
+[07:49 --> 07:55] And sometimes it is the key individual who takes the lead and drives the ox cart of history
+[07:55 --> 07:57] for a while.
+[07:57 --> 08:01] Ambrose of Milan was a driver.
+[08:01 --> 08:07] He was a staunch anti-pagan, he was a staunch anti-Aryan, and he believed that all men,
+[08:07 --> 08:11] emperors included, must kneel before God.
+[08:11 --> 08:18] When he died in 397, his specific beliefs had more or less become the entrenched imperial
+[08:18 --> 08:20] worldview.
+[08:20 --> 08:26] Even more importantly than that, had it not been for Ambrose, it is possible that a thousand
+[08:26 --> 08:31] years of argument over whether state was superior to church or church was superior to state
+[08:31 --> 08:38] might never have occurred, because the church's case never would have gotten off the ground.
+[08:38 --> 08:43] Any other man serving as Bishop of Milan in the late fourth century, and the whole world
+[08:43 --> 08:45] turns out differently, I think.
+[08:45 --> 08:48] He was that big of a deal.
+[08:48 --> 08:53] And even if you don't believe any of that, at a minimum, you can blame him for the fact
+[08:53 --> 08:57] that we all have to read selected portions of the City of God for the umpteenth time
+[08:58 --> 09:00] for the test on Friday.
+[09:00 --> 09:06] And I can't tell you how much I'd like to shake his hand for that.
+[09:06 --> 09:11] Ambrose was born in the late 330s AD in the imperial capital of Trier, and was the son
+[09:11 --> 09:14] of a Praetorian prefect.
+[09:14 --> 09:19] So the future bishop's life is not a rags to riches story, so much as it is a riches
+[09:19 --> 09:22] to more riches story.
+[09:22 --> 09:25] Given the hereditary laws in place at the time, the fact that his father was such a
+[09:25 --> 09:30] high ranking civil servant meant that Ambrose was destined for a career in the imperial
+[09:30 --> 09:32] bureaucracy.
+[09:32 --> 09:36] Which leads us to one of the more interesting facts about Ambrose for someone who knows
+[09:36 --> 09:38] nothing about him.
+[09:38 --> 09:40] He never was a priest.
+[09:40 --> 09:46] He had no intention of ever becoming a priest, and when he was elected Bishop of Milan, he
+[09:46 --> 09:50] had never served in the church in any official capacity.
+[09:50 --> 09:55] He hadn't even been baptized yet.
+[09:55 --> 09:59] Young Ambrose was sent to Rome to get the full classical education, and he excelled
+[09:59 --> 10:02] in every subject he touched.
+[10:02 --> 10:07] Grammar, rhetoric, law, philosophy, whatever.
+[10:07 --> 10:11] We don't have good records for what he did after he came of age, beyond the fact that
+[10:11 --> 10:16] he established a reputation for himself of being a brilliant orator and an excellent
+[10:16 --> 10:18] lawyer.
+[10:18 --> 10:23] We next find him in the early 370s, being appointed consular prefect of the northern
+[10:23 --> 10:29] Italian administrative districts of Emilia and Liguria.
+[10:29 --> 10:35] This prefecture just so happened to be headquartered in Milan, which meant that Ambrose, now in
+[10:35 --> 10:40] his mid to late 30s, became well known to the court of Valentinian, and his political
+[10:40 --> 10:43] future looked bright.
+[10:43 --> 10:47] He was popular with the people, respected by his peers, and marked for promotion by
+[10:47 --> 10:51] his superiors.
+[10:51 --> 10:58] But then his life and career, and world history, took an unexpected turn.
+[10:58 --> 11:02] In 374, the sitting bishop of Milan died.
+[11:02 --> 11:08] Now the sitting bishop just so happened to have been of Arian persuasion, which had rankled
+[11:08 --> 11:12] the majority Nicene population of the city.
+[11:12 --> 11:17] Now that the bishop was dead, this majority naturally wanted the next bishop to be chaste,
+[11:17 --> 11:22] moral, and above all, a staunch Nicene.
+[11:22 --> 11:27] But the Arian minority population, who just so happened to be supported by Valentinian's
+[11:27 --> 11:34] wife Justina, wanted the next bishop to be an Arian, just like the old bishop had been.
+[11:34 --> 11:39] And so the Christian population of Milan started to fight with itself, and of course, no one
+[11:39 --> 11:43] was willing to give an inch.
+[11:43 --> 11:47] In his capacity as consular prefect, Ambrose showed up on the day that the new bishop was
+[11:47 --> 11:53] to be elected, with the sole objective of keeping the peace.
+[11:53 --> 11:57] He had reason to believe he might be able to keep a lid on things, since he was respected
+[11:57 --> 11:59] by both sides.
+[11:59 --> 12:04] Though a Nicene by disposition, Ambrose had always been tolerant of Arianism in his role
+[12:04 --> 12:10] as prefect, and so everyone saw him as an honest broker.
+[12:10 --> 12:15] When the election started to get out of hand, Ambrose stepped in to see if he couldn't
+[12:15 --> 12:17] settle everyone down.
+[12:17 --> 12:25] And then someone in the crowd had a bright idea, and they shouted, Ambrose for bishop.
+[12:25 --> 12:28] This cry was then taken up by the whole assembly.
+[12:28 --> 12:34] Everyone suddenly agreed that Ambrose was the perfect compromise candidate.
+[12:34 --> 12:39] Everyone that is, except Ambrose himself, who begged and pleaded with the crowd to please
+[12:39 --> 12:41] think up a different solution.
+[12:41 --> 12:48] He knew no theology, he was no priest, he hadn't even been baptized yet.
+[12:48 --> 12:50] But the calls for his elevation persisted.
+[12:50 --> 12:57] So Ambrose did the prudent thing, he hightailed it out of there and went into hiding.
+[12:57 --> 13:01] A week later, he was still in hiding when a message signed by the young emperor Gratian
+[13:01 --> 13:03] began making the rounds.
+[13:03 --> 13:08] Apparently, the emperor fully supported the wise decision to make the eminently capable
+[13:08 --> 13:12] consular prefect, bishop.
+[13:12 --> 13:15] Ambrose was stuck, and he knew it.
+[13:15 --> 13:22] So he came out of hiding, went and got baptized, and became the new bishop of Milan.
+[13:22 --> 13:28] An unconventional path to the cloth for sure, but once he got there, boy howdy did he ever
+[13:28 --> 13:33] make the most of it.
+[13:33 --> 13:38] Now on a normal day, being the bishop of Milan meant having a healthy degree of influence.
+[13:39 --> 13:43] After all, you were the most powerful Christian official in the most important imperial capital
+[13:43 --> 13:45] in the western empire.
+[13:45 --> 13:51] But after just a year in office, it stopped being a normal day for Ambrose.
+[13:51 --> 13:58] Because in 375, Valentinian I suddenly died, and his youngest son Valentinian II was elevated
+[13:58 --> 14:01] to the rank of Augustus.
+[14:01 --> 14:07] When the imperial court had left Milan in 374 heading east, it had been led by a domineering
+[14:07 --> 14:11] general who had been in office for more than a decade.
+[14:11 --> 14:16] When it returned, it was led by a four-year-old.
+[14:16 --> 14:22] For a variety of reasons, the Roman imperial system rarely strayed into child emperors,
+[14:22 --> 14:27] which meant that when it did, there was no agreed-to precedent for how to handle the
+[14:27 --> 14:28] situation.
+[14:28 --> 14:33] Basically, that meant that a variety of powerful ministers would jockey with each other for
+[14:34 --> 14:40] until a few emerged triumphant from the back rooms as the de facto heads of state.
+[14:40 --> 14:46] In the case of young Valentinian II, the emergent leaders of the Milan court turned out to be
+[14:46 --> 14:52] the Empress Justina and the hugely popular and supremely capable new bishop of Milan,
+[14:52 --> 14:58] who managed to talk his way right into the heart of the imperial government.
+[14:58 --> 15:03] This is interesting for its own sake, but it's also interesting because Justina was
+[15:03 --> 15:09] a staunch Arian, while Ambrose was an orthodox Nicene.
+[15:09 --> 15:13] If you don't think the fact that the two most powerful figures in Milan are on opposite
+[15:13 --> 15:18] sides of a hugely contentious religious feud is going to cause problems, well, you just
+[15:18 --> 15:22] don't know highly contentious religious feuds.
+[15:22 --> 15:26] But wait you say, I thought Ambrose was sympathetic to the Arians.
+[15:26 --> 15:28] I thought he was an honest broker.
+[15:28 --> 15:33] Well, yes he was, when he was consular prefect.
+[15:33 --> 15:37] But now that he was bishop, he felt he had an obligation to defend the one true faith
+[15:37 --> 15:41] with every means at his disposal.
+[15:41 --> 15:49] Almost overnight, Ambrose became a Nicene extremist.
+[15:49 --> 15:53] But Ambrose's influence did not stop at the city limits of Milan.
+[15:53 --> 15:58] The bishop's silver tongue began to influence the religious policies of the not much more
+[15:58 --> 16:02] than a boy himself, Emperor Gratian.
+[16:02 --> 16:08] This meant, first of all, that the previously ambivalent Gratian adopted Nicene Christianity,
+[16:08 --> 16:14] but it also meant, second of all, that Ambrose's strong anti-pagan views began to show up in
+[16:14 --> 16:20] imperial edicts being issued from Gratian's court in Trier.
+[16:20 --> 16:24] Though most of the high officials, leading ministers, top generals, and even rank and
+[16:24 --> 16:30] file troops had come over to Christianity in the last 50 years, the rural areas of the
+[16:30 --> 16:37] empire were still mostly untouched by the urban Christian revolution, and down in Rome,
+[16:37 --> 16:44] the old Italian senatorial class was still fiercely committed to their traditional religions.
+[16:44 --> 16:48] Since the days of Constantine, the emperors had adopted a policy of indifference toward
+[16:48 --> 16:54] the paganism of the rural poor, and a policy of toleration toward the paganism of the Italian
+[16:54 --> 16:56] aristocracy.
+[16:56 --> 17:02] The former posed no political threat, and so could be safely ignored, while the latter
+[17:02 --> 17:08] posed such a political threat that it was better to let sleeping dogs lie.
+[17:08 --> 17:13] But the bold and ambitious Ambrose decided that that wasn't good enough.
+[17:13 --> 17:16] Either Christianity was the truth, or it was not.
+[17:16 --> 17:23] If it was, then why do we tolerate demonic paganism in any form, and if it was not, then
+[17:23 --> 17:26] what are we doing here?
+[17:26 --> 17:33] So at Ambrose's prodding, Gratian started to come down hard on Roman paganism, targeting
+[17:33 --> 17:40] previously untouchable institutions like the priesthood of Jupiter and the Vestal Virgins.
+[17:40 --> 17:47] These were the zero-hour foundational cults of Rome that were the bedrock of Roman civilization.
+[17:47 --> 17:52] They predated the Republic, for crying out loud.
+[17:52 --> 17:56] Gratian ignored the pleas of the Italians, and ordered all public financing for the cults
+[17:56 --> 17:58] cut off.
+[17:58 --> 18:03] Starved of funding, these ancient priesthoods would limp on for a few more years, until
+[18:03 --> 18:10] Theodosius would finally put them out of their misery once and for all.
+[18:10 --> 18:15] But the most controversial anti-pagan edict that Gratian issued came in 382, when the
+[18:15 --> 18:21] emperor ordered the Altar of Victory removed from the Senate House.
+[18:21 --> 18:27] The famous gold statue of the winged Nike had been captured by the Romans way back during
+[18:27 --> 18:32] their war with Pyrrhus, and installed in the Senate House by Octavian to celebrate his
+[18:32 --> 18:35] victory at Actium.
+[18:35 --> 18:40] The statue was widely seen as the personification of Rome's imperial power.
+[18:40 --> 18:47] To remove it was not just a question of sacrilege, it was a question of national security.
+[18:47 --> 18:52] A passionate debate erupted between Ambrose and Samachus, the most powerful individual
+[18:52 --> 18:58] senator of the day, which ended of course with victory for Ambrose.
+[18:58 --> 19:00] The Altar was removed.
+[19:00 --> 19:07] Now, the Altar of Victory would be restored during the short unrecognized reign of Eugenius,
+[19:07 --> 19:12] but it would be removed again by Theodosius when he captured control of the whole empire,
+[19:12 --> 19:16] this time for good.
+[19:16 --> 19:22] There are a good half dozen places in history we can point to and say this is when the Western
+[19:22 --> 19:24] Roman Empire ended.
+[19:24 --> 19:31] The ascension of Diocletian in 284, the triumph of Constantine in 324, the sack of Roman 410,
+[19:31 --> 19:37] the sack of Roman 455, the expulsion of Romulus Augustilis in 476.
+[19:37 --> 19:41] Everyone seems to have their own pet moment that they would like to point to.
+[19:41 --> 19:47] For those inclined toward superstition, a favorite pet moment to point to is right here
+[19:47 --> 19:52] when the Altar of Victory was removed from the Senate House in 382.
+[19:52 --> 19:57] After all, given what happened next, it is hard not to draw some pretty heavy conclusions
+[19:57 --> 20:02] about the magical powers of the Altar of Victory.
+[20:02 --> 20:06] While it stood, Rome was strong and unconquered.
+[20:06 --> 20:12] When it was removed, Rome was sacked for the first time in 800 years, and then it was sacked
+[20:12 --> 20:14] again.
+[20:14 --> 20:18] Less than a hundred years later, the Rome that had been the mistress of the world for
+[20:18 --> 20:21] a thousand years was gone.
+[20:21 --> 20:23] Coincidence?
+[20:23 --> 20:26] You tell me.
+[20:26 --> 20:32] Just as an aside, I always thought the Altar of Victory, whose fate is officially unknown,
+[20:32 --> 20:38] would have made a great centerpiece for that long-awaited fourth Indiana Jones movie.
+[20:38 --> 20:42] But in the end, I guess they decided that it was better to leave the series as a trilogy
+[20:42 --> 20:48] rather than ruin it with an incoherent crapfest that was as dumb as it was stupid.
+[20:48 --> 20:54] For that, I salute Mr. Spielberg and Mr. Lucas for putting their commitment to quality filmmaking
+[20:54 --> 20:59] ahead of their desire to make a boatload of cash.
+[20:59 --> 21:04] Anyway, in the midst of the fight over the Altar of Victory, there was one other little
+[21:04 --> 21:08] development that deserves to be mentioned.
+[21:08 --> 21:12] In his defense of the Altar, Simachus argues that despite the religious transformations
+[21:12 --> 21:19] of the last fifty years, the emperor was still Pontifex Maximus, and as such he had a duty
+[21:19 --> 21:23] to protect these ancient pagan symbols of Rome.
+[21:23 --> 21:28] It was a fine argument, but one countered easily by Ambrose.
+[21:28 --> 21:34] The bishop advised Gratian to simply renounce the title Pontifex Maximus, bringing an end
+[21:34 --> 21:39] to yet another bedrock institution of imperial power, and one that had been around almost
+[21:39 --> 21:44] as long as the Altar had stood in the Senate House.
+[21:44 --> 21:50] This renunciation also had the sly effect of ending the official unification of religion
+[21:50 --> 21:56] and government in the person of the emperor, leading to a whole new era in the West where
+[21:56 --> 22:01] the head of the church and the head of the state were no longer the same man, which,
+[22:01 --> 22:08] as you can imagine, had some pretty far-reaching consequences.
+[22:08 --> 22:13] So this is where things stood as Theodosius wound down the Gothic War.
+[22:13 --> 22:19] Ambrose was ascendant, the last vestiges of paganism were under attack, Gratian was unpopular
+[22:19 --> 22:24] with the troops, the Arian Empress Justina held sway over the now twelve-year-old Valentinian
+[22:24 --> 22:30] II, the Nicene Theodosius was establishing himself as a peacetime ruler of the East,
+[22:30 --> 22:36] and up in Britain, Maximus, longtime ally of the Theodosian family, was considering
+[22:36 --> 22:38] revolt.
+[22:38 --> 22:43] Everyone had an agenda, everyone had an angle, and everyone was about to get thrown into
+[22:43 --> 22:49] the hopper to see who came out the other side.
+[22:49 --> 22:55] In 383, the hopper was turned on when Maximus' troops spontaneously hailed their general
+[22:55 --> 22:58] as Augustus.
+[22:58 --> 23:03] Unlike previous revolts that we've seen in the West, those of say, Posthumus or Corocius,
+[23:03 --> 23:07] Maximus was not acting out of local interest.
+[23:07 --> 23:11] He had no intention of setting up some splinter kingdom in the hopes of better addressing
+[23:11 --> 23:17] some crisis, he was making a good old-fashioned play at ruling the whole empire.
+[23:17 --> 23:21] Well, the western half of it anyway.
+[23:21 --> 23:25] So of course, that meant immediately pulling up almost all the British troops and sailing
+[23:25 --> 23:30] off with them for Gaul, to track down the emperor and overthrow him.
+[23:30 --> 23:35] You think this might have a negative effect on the Roman ability to hold on to the island?
+[23:35 --> 23:39] Yeah, me too.
+[23:39 --> 23:44] Gratian was down in northern Italy when he learned that Maximus was in revolt.
+[23:45 --> 23:49] Reinforcing the image that he was not a real soldier, the emperor was in the middle of
+[23:49 --> 23:55] preparing for a military campaign into Raetia when he got the news.
+[23:55 --> 23:58] Wait, what?
+[23:58 --> 24:02] I thought Gratian wasn't into soldiering, and now he's...
+[24:02 --> 24:07] So wait a minute, how much of his reputation is based on truth, and how much is based on
+[24:07 --> 24:08] slander?
+[24:08 --> 24:13] Well, that's a really good question.
+[24:13 --> 24:18] He was abandoned pretty quickly by his men though, so maybe it wasn't all slander.
+[24:18 --> 24:24] But honestly, I don't think anyone knows what the hell is really going on here.
+[24:24 --> 24:30] Why people hated Gratian, and why they turned on him so quickly.
+[24:30 --> 24:35] Gratian took the army he had gathered to fight the Germans, and instead marched them north
+[24:35 --> 24:38] into Gaul to face Maximus.
+[24:38 --> 24:44] The two armies met near Paris in mid-August 383, where they spent five days maneuvering
+[24:44 --> 24:46] around each other.
+[24:46 --> 24:52] None of the soldiers had any interest in actually fighting a battle, and it quickly became apparent
+[24:52 --> 24:57] that this was going to be solved in the tents rather than in the field.
+[24:57 --> 25:03] After the fifth day, a squadron of elite cavalry defected to Maximus.
+[25:03 --> 25:08] Shortly thereafter, the great General Maributis, the man who had raised up Valentini in the
+[25:08 --> 25:15] second, was convinced, or bribed, or whatever, to cross the line as well.
+[25:15 --> 25:18] Then the floodgates opened.
+[25:18 --> 25:21] Pretty soon, Gratian was standing alone.
+[25:21 --> 25:26] He fled with his entourage south to Lyon, where the plan was probably for him to sail
+[25:26 --> 25:31] to Italy, but for some reason he lingered in the city, which allowed Maximus's men
+[25:31 --> 25:33] to catch up to him.
+[25:33 --> 25:38] Gratian was betrayed into their hands and unceremoniously executed.
+[25:38 --> 25:44] He was 24 years old, and though he had technically been in Augustus for 16 years, only for the
+[25:44 --> 25:49] last eight of those years had he truly been a ruler.
+[25:49 --> 25:55] At the end of the day, no one knows why he was abandoned so easily by his men, or why
+[25:55 --> 26:02] loyalty to the House of Valentinian was so quickly cast aside.
+[26:02 --> 26:07] Next week, though, we will find at least one man in the Empire who was not so ready to
+[26:07 --> 26:10] discard his loyalty to the ruling dynasty.
+[26:10 --> 26:14] The Emperor Theodosius.
+[26:14 --> 26:18] It would have been easy for him to accept Maximus, but he simply couldn't bring himself
+[26:18 --> 26:25] to endorse the patently illegal revolt and the shocking regicide that went with it.
+[26:25 --> 26:30] He had neither the men nor the resources to do anything about it just then, but from the
+[26:30 --> 26:35] get-go, it appears that Theodosius's mind was made up.
+[26:35 --> 26:41] Maximus would have to answer for his crimes, and if that meant civil war, then so be it.
