@@ -8,6 +8,7 @@ flask-cors>=4.0.0
 # Vector database and embeddings
 qdrant-client>=1.7.0
 sentence-transformers>=2.2.0
+torch>=2.0.0,<2.6.0
 
 # Ollama integration
 ollama>=0.3.0

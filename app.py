@@ -207,15 +207,19 @@ def internal_error(error):
 if __name__ == '__main__':
     logger.info("🏛️ Starting History of Rome RAG Flask App")
     
-    # Initialize RAG service
-    if not initialize_rag_service():
-        logger.error("Failed to initialize RAG service. Exiting.")
-        exit(1)
+    # Start RAG service initialization in background
+    import threading
+    def init_rag_background():
+        initialize_rag_service()
     
-    # Start Flask app
+    rag_thread = threading.Thread(target=init_rag_background, daemon=True)
+    rag_thread.start()
+    
+    # Start Flask app immediately
     port = int(os.getenv('FLASK_RUN_PORT', 5000))
     host = os.getenv('FLASK_RUN_HOST', '0.0.0.0')
     debug = os.getenv('FLASK_ENV') == 'development'
     
     logger.info(f"Starting Flask app on {host}:{port}")
+    logger.info("RAG service is initializing in the background...")
     app.run(host=host, port=port, debug=debug)

@@ -1,0 +1,21 @@
+# Qdrant Docker Service Requirements
+# Clean, flexible versions for better compatibility
+
+# Core dependencies for transcript processing
+requests>=2.31.0
+tqdm>=4.65.0
+
+# AI/ML dependencies for embeddings
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+torch>=2.0.0,<2.6.0
+
+# Vector database client
+qdrant-client>=1.7.0
+
+# Text processing
+nltk>=3.8.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0

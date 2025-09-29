@@ -22,10 +22,7 @@ services:
   ollama:
     image: ollama/ollama:latest
     container_name: history_rome_ollama
-    ports:
-      - "11434:11434"  # Ollama API
-    volumes:
-      - ollama_data:/root/.ollama
+    # No host port published to avoid conflicts; reachable via service name inside network
     environment:
       - NVIDIA_VISIBLE_DEVICES=all
       - NVIDIA_DRIVER_CAPABILITIES=compute,utility
@@ -42,11 +39,7 @@ services:
       timeout: 10s
       retries: 5
       start_period: 60s
-    command: >
-      sh -c "ollama serve & 
-             sleep 10 && 
-             ollama pull llama3.1:8b &&
-             wait"
+    # Use default entrypoint and command
 
   transcript_loader:
     build: 
@@ -54,8 +47,7 @@ services:
       dockerfile: Dockerfile.loader
     container_name: history_rome_loader
     depends_on:
-      qdrant:
-        condition: service_healthy
+      - qdrant
     volumes:
       - ./all_transcripts:/app/all_transcripts:ro
     environment:
@@ -76,10 +68,8 @@ services:
     ports:
       - "5000:5000"  # Flask web interface
     depends_on:
-      qdrant:
-        condition: service_healthy
-      ollama:
-        condition: service_healthy
+      - qdrant
+      - ollama
     environment:
       - QDRANT_HOST=qdrant
       - QDRANT_PORT=6333
@@ -87,13 +77,11 @@ services:
       - OLLAMA_PORT=11434
       - COLLECTION_NAME=history_of_rome
       - EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
-      - OLLAMA_MODEL=llama3.1:8b
+      - OLLAMA_MODEL=llama3:latest
       - FLASK_ENV=production
     command: python app.py
     restart: unless-stopped
 
 volumes:
   qdrant_data:
-    driver: local
-  ollama_data:
     driver: local
