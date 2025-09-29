@@ -2,7 +2,7 @@
 
 A comprehensive toolkit for downloading, transcribing, and processing Mike Duncan's acclaimed "The History of Rome" podcast series for use with Large Language Models and vector databases.
 
-![Data Flow](images/DataFlow.gif)
+![Data Flow](images/DataFlowDiagram.gif)
 
 ## Overview
 
